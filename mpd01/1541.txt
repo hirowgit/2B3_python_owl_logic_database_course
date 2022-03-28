@@ -1,0 +1,75 @@
+
+
+1541. J Neurosci. 2013 Jun 19;33(25):10312-23. doi: 10.1523/JNEUROSCI.0020-13.2013.
+
+Neural representation of harmonic complex tones in primary auditory cortex of the
+awake monkey.
+
+Fishman YI(1), Micheyl C, Steinschneider M.
+
+Author information: 
+(1)Department of Neurology, Albert Einstein College of Medicine, Kennedy Center, 
+Bronx, New York 10461, USA. yonatan.fishman@einstein.yu.edu
+
+Many natural sounds are periodic and consist of frequencies (harmonics) that are 
+integer multiples of a common fundamental frequency (F0). Such harmonic complex
+tones (HCTs) evoke a pitch corresponding to their F0, which plays a key role in
+the perception of speech and music. "Pitch-selective" neurons have been
+identified in non-primary auditory cortex of marmoset monkeys. Noninvasive
+studies point to a putative "pitch center" located in a homologous cortical
+region in humans. It remains unclear whether there is sufficient spectral and
+temporal information available at the level of primary auditory cortex (A1) to
+enable reliable pitch extraction in non-primary auditory cortex. Here we
+evaluated multiunit responses to HCTs in A1 of awake macaques using a stimulus
+design employed in auditory nerve studies of pitch encoding. The F0 of the HCTs
+was varied in small increments, such that harmonics of the HCTs fell either on
+the peak or on the sides of the neuronal pure tone tuning functions. Resultant
+response-amplitude-versus-harmonic-number functions ("rate-place profiles")
+displayed a periodic pattern reflecting the neuronal representation of individual
+HCT harmonics. Consistent with psychoacoustic findings in humans, lower harmonics
+were better resolved in rate-place profiles than higher harmonics. Lower F0s were
+also temporally represented by neuronal phase-locking to the periodic waveform of
+the HCTs. Findings indicate that population responses in A1 contain sufficient
+spectral and temporal information for extracting the pitch of HCTs by neurons in 
+downstream cortical areas that receive their input from A1.
+
+DOI: 10.1523/JNEUROSCI.0020-13.2013 
+PMCID: PMC3685833
+PMID: 23785145  [Indexed for MEDLINE]
+
+
+1542. J Comp Neurol. 2013 Dec 1;521(17):4027-60. doi: 10.1002/cne.23389.
+
+Differential cadherin expression in the developing postnatal telencephalon of a
+New World monkey.
+
+Matsunaga E(1), Nambu S, Oka M, Iriki A.
+
+Author information: 
+(1)Laboratory for Symbolic Cognitive Development, RIKEN Brain Science Institute, 
+Wako, 351-0198, Japan.
+
+Cadherins are cell adhesion molecules widely expressed in the nervous system,
+where they play various roles in neural patterning, nuclei formation, axon
+guidance, and synapse formation and function. Although many published articles
+have reported on cadherin expression in rodents and ferrets, there are limited
+data on their expression in primate brains. In this study, in situ hybridization 
+analysis was performed for 10 cadherins [nine classic cadherins (Cdh4, -6, -7,
+-8, -9, -10, -11, -12, and -20) and T-cadherin (Cdh13)] in the developing
+postnatal telencephalon of the common marmoset (Callithrix jacchus). Each
+cadherin showed broad expression in the cerebral cortex, basal ganglia, amygdala,
+and hippocampus, as previously shown in the rodent brain. However, detailed
+expression patterns differed between rodents and marmosets. In contrast to
+rodents, cadherin expression was reduced overall and localized to restricted
+areas of the brain during the developmental process, suggesting that cadherins
+are more crucially involved in developmental or maturation processes rather than 
+in neural functioning. These results also highlight the possibility that
+restricted/less redundant cadherin expression allows primate brains to generate
+functional diversity among neurons, allowing morphological and functional
+differences between rodents and primates.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/cne.23389 
+PMID: 23784870  [Indexed for MEDLINE]
+

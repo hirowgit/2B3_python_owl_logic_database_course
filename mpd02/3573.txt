@@ -1,0 +1,37 @@
+
+
+3573. J Mol Evol. 1998 Jun;46(6):697-702.
+
+Molecular genetics of spectral tuning in New World monkey color vision.
+
+Shyue SK(1), Boissinot S, Schneider H, Sampaio I, Schneider MP, Abee CR, Williams
+L, Hewett-Emmett D, Sperling HG, Cowing JA, Dulai KS, Hunt DM, Li WH.
+
+Author information: 
+(1)Human Genetics Center, School of Public Health, University of Texas, P.O. Box 
+20334, Houston, TX 77225, USA.
+
+Although most New World monkeys have only one X-linked photopigment locus, many
+species have three polymorphic alleles at the locus. The three alleles in the
+squirrel monkey and capuchin have spectral peaks near 562, 550, and 535 nm,
+respectively, and the three alleles in the marmoset and tamarin have spectral
+peaks near 562, 556, and 543 nm, respectively. To determine the amino acids
+responsible for the spectral sensitivity differences among these pigment
+variants, we sequenced all exons of the three alleles in each of these four
+species. From the deduced amino acid sequences and the spectral peak information 
+and from previous studies of the spectral tuning of X-linked pigments in humans
+and New World monkeys, we estimated that the Ala --> Ser, Ile --> Phe, Gly -->
+Ser, Phe --> Tyr, and Ala --> Tyr substitutions at residue positions 180, 229,
+233, 277, and 285, respectively, cause spectral shifts of about 5, -2, -1, 8, and
+15 nm. On the other hand, the substitutions His --> Tyr, Met --> Val or Leu, and 
+Ala --> Tyr at positions 116, 275, and 276, respectively, have no discernible
+spectral tuning effect, though residues 275 and 276 are inside the transmembrane 
+domains. Many substitutions between Val and Ile or between Val and Ala have
+occurred in the transmembrane domains among the New World monkey pigment variants
+but apparently have no effect on spectral tuning. Our study suggests that, in
+addition to amino acid changes involving a hydroxyl group, large changes in
+residue size can also cause a spectral shift in a visual pigment.
+
+DOI: 10.1007/pl00006350 
+PMID: 9608052  [Indexed for MEDLINE]
+

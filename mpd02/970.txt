@@ -1,0 +1,28 @@
+
+
+970. Sci Rep. 2016 Oct 27;6:35722. doi: 10.1038/srep35722.
+
+Chronic multiscale imaging of neuronal activity in the awake common marmoset.
+
+Yamada Y(1)(2)(3), Matsumoto Y(1)(2), Okahara N(2), Mikoshiba K(1)(2)(3).
+
+Author information: 
+(1)Laboratory for Developmental Neurobiology, Brain Science Institute (BSI),
+RIKEN, Wako, Saitama, Japan.
+(2)Central Institute for Experimental Animals, Kawasaki, Kanagawa, Japan.
+(3)Japan Science and Technology Agency, International Cooperative Research
+Project and Solution-Oriented Research for Science and Technology, Calcium
+Oscillation Project, Wako, Saitama, Japan.
+
+We report a methodology to chronically record in vivo brain activity in the awake
+common marmoset. Over a month, stable imaging revealed macroscopic sensory maps
+in the somatosensory cortex and their underlying cellular activity with a high
+signal-to-noise ratio in the awake but not anesthetized state. This methodology
+is applicable to other brain regions, and will be useful for studying cortical
+activity and plasticity in marmosets during learning, development, and in
+neurological disorders.
+
+DOI: 10.1038/srep35722 
+PMCID: PMC5082371
+PMID: 27786241  [Indexed for MEDLINE]
+

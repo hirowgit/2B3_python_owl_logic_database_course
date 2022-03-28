@@ -1,0 +1,36 @@
+
+
+2353. Eur J Immunol. 2007 Nov;37(11):3229-39.
+
+Relevant antibody subsets against MOG recognize conformational epitopes
+exclusively exposed in solid-phase ELISA.
+
+Menge T(1), von Büdingen HC, Lalive PH, Genain CP.
+
+Author information: 
+(1)University of California San Francisco, Department of Neurology, San Francisco
+CA, USA.
+
+A pathogenic role for circulating anti-myelin antibodies is difficult to
+establish in multiple sclerosis (MS). Here, we unravel a broad heterogeneity
+within the anti-myelin oligodendrocyte glycoprotein (MOG) antibodies in humans
+and non-human primates, and demonstrate that detection of important epitopes of
+MOG within the pathogenic repertoire is exclusively dependent on presentation on 
+a solid-phase MOG conformer. Results of ELISA and those of a liquid-phase assay
+were compared using a MOG protein with identical sequence but different
+conformations. We tested sera from 50 human subjects, plasma of Callithrix
+jacchus marmosets known to contain antibodies reactive to either conformational
+or linearized MOG, and monoclonal, conformation-dependent anti-MOG antibodies. We
+have found no antibody reactivity against the soluble MOG conformer in human
+serum, and show that this lack of detection is not due to technical artifacts.
+Rather, dominant epitopes of MOG are not displayed in soluble phase, as shown by 
+a complete lack of binding of conformation-dependent mAb. In MP4-immune marmosets
+that exhibit demyelinating pathology due to spreading of antibody determinants to
+myelin-embedded MOG, only ELISA can detect pathogenic circulating anti-MOG
+antibodies. Thus, the accurate detection of important subsets of pathogenic
+anti-MOG antibodies requires methods in which MOG is displayed similarly to its
+natural conformation in myelin.
+
+DOI: 10.1002/eji.200737249 
+PMID: 17918203  [Indexed for MEDLINE]
+

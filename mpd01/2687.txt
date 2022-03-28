@@ -1,0 +1,88 @@
+
+
+2687. FASEB J. 2005 Jul;19(9):1140-2. Epub 2005 May 13.
+
+A role for endocannabinoids in the generation of parkinsonism and
+levodopa-induced dyskinesia in MPTP-lesioned non-human primate models of
+Parkinson's disease.
+
+van der Stelt M(1), Fox SH, Hill M, Crossman AR, Petrosino S, Di Marzo V,
+Brotchie JM.
+
+Author information: 
+(1)Endocannabinoid Research Group, Istituto di Chimica Biomolecolare, Consiglio
+Nazionale delle Ricerche, Pozzuoli, NA, Italy.
+
+Endocannabinoids and cannabinoid CB1 receptors play a role in the control of
+movement by modulating GABA, glutamate, and other neurotransmitters throughout
+the basal ganglia. Roles for abnormalities in endocannabinoid signaling in
+Parkinson's disease (PD) and the major side effect of current treatments,
+levodopa-induced dyskinesia (LID), have been suggested by rodent studies. Here we
+show that signaling by endocannabinoids contributes to the pathophysiology of
+parkinsonism and LID in MPTP-lesioned, non-human primate models of Parkinson's
+disease. In MPTP-lesioned marmosets previously treated with levodopa to establish
+LID, attenuation of CB1 signaling by systemic administration of rimonabant (1 and
+3 mg/kg) had anti-parkinsonian actions, equivalent to a 71% increase in motor
+activity at 3 mg/kg. Rimonabant did not elicit dyskinesia. Co-administration of
+levodopa (8 mg/kg) and rimonabant (1 and 3 mg/kg) resulted in significantly less 
+dyskinesia than levodopa alone, without significantly affecting the
+anti-parkinsonian action of levodopa. These data suggest that enhanced
+endocannabinoid signaling may be involved in the pathophysiology of both
+parkinsonism and LID. To define potential mechanisms by which such a role might
+be mediated, we determined the levels of the endocannabinoids anandamide and
+2-arachidonyl glycerol (2-AG) throughout the basal ganglia in normal and three
+groups of MPTP-lesioned cynomolgus monkeys (untreated; acutely treated with
+L-DOPA, non-dyskinetic; long-term treated, with levodopa-induced dyskinesia). In 
+the untreated, MPTP-lesioned primate, parkinsonism was associated with increases 
+in both 2-AG (+88%) and anandamide (+49%) in the striatum, and of 2-AG (+97%) in 
+the substantia nigra, changes that are consistent with the previously suggested
+role for endocannabinoids in mechanisms attempting to compensate for loss of
+dopamine in untreated parkinsonism. Increased levels of anandamide (+34%) in the 
+external globus pallidus of MPTP-lesioned animals were normalized by levodopa
+treatment and may contribute to the generation of parkinsonian symptoms. However,
+no clear alteration in endocannabinoid levels could be correlated with the
+expression of LID. These data highlight the potential roles played by
+endocannabinoids and CB1 in PD and LID and suggest the need for further research 
+to pursue the multiple therapeutic opportunities for manipulating this system in 
+movement disorders.
+
+DOI: 10.1096/fj.04-3010fje 
+PMID: 15894565  [Indexed for MEDLINE]
+
+
+2688. J Neurophysiol. 2005 Sep;94(3):1789-97. Epub 2005 May 11.
+
+Spatial distribution of suppressive signals outside the classical receptive field
+in lateral geniculate nucleus.
+
+Webb BS(1), Tinsley CJ, Vincent CJ, Derrington AM.
+
+Author information: 
+(1)School of Psychology, University of Nottingham, University Park, Nottingham
+NG7 2RD, UK. bsw@psychology.nottingham.ac.uk
+
+A suppressive surround modulates the responsiveness of cells in the lateral
+geniculate nucleus (LGN), but we know nothing of its spatial structure or the way
+in which it combines signals arising from different locations. It is generally
+assumed that suppressive signals are either uniformly distributed or balanced in 
+opposing regions outside the receptive field. Here, we examine the spatial
+distribution and summation of suppressive signals outside the receptive field in 
+extracellular recordings from 46 LGN cells in anesthetized marmosets. The
+receptive field of each cell was stimulated with a drifting sinusoidal grating of
+the preferred size and spatial and temporal frequency; we probed different
+positions in the suppressive surround with either a large half-annular grating or
+a small circular grating patch of the preferred spatial and temporal frequency.
+In many of the cells with a strong suppressive surround (29/46), the spatial
+distribution of suppression showed clear deviation from circular symmetry. In the
+majority of these of cells, suppressive signals were spatially asymmetrical or
+balanced in opposing areas outside the receptive field. A suppressive area was
+larger than the classical receptive field itself and spatial summation within and
+between these areas was nonlinear. There was no bias for suppression to arise
+from foveal or nasal retina where cone density is higher and no other sign of a
+systematic spatial organization to the suppressive surround. We conclude that
+nonclassical suppressive signals in LGN deviate from circular symmetry and are
+nonlinearly combined.
+
+DOI: 10.1152/jn.00826.2004 
+PMID: 15888523  [Indexed for MEDLINE]
+

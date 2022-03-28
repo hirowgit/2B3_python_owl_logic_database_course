@@ -1,0 +1,32 @@
+
+
+1930. Biochem Genet. 2011 Jun;49(5-6):283-91. doi: 10.1007/s10528-010-9406-4. Epub 2010
+Dec 29.
+
+Alternative splicing of human height-related zinc finger and BTB
+domain-containing 38 gene through Alu exonization.
+
+Hong KW(1), Shin YB, Jin HS, Lim JE, Choi JY, Chang KT, Kim HS, Oh B.
+
+Author information: 
+(1)Department of Biomedical Engineering, School of Medicine, Kyung Hee
+University, Dongdaemun-gu, Seoul, Korea.
+
+Recently, genome-wide association studies have identified a strong association
+between the ZBTB38 locus and human height. In a functional study, we detected two
+RT-PCR products of ZBTB38, amplified with primers in exons 7 and 8 from a
+chondrocyte cell line, C-28/I2. Sequencing revealed that the longer product
+contained an Alu segment in intron 7 of ZBTB38, which contained a potential
+splicing acceptor site that likely was used to generate the alternative
+transcript. Insertion of the Alu segment changed the consensus Kozak sequence of 
+the ZBTB38 transcript, potentially altering translational efficiency. We
+performed RT-PCR using 16 tissue samples from humans and 8 tissue samples from
+primates to determine any tissue specificity or evolutionary conservation of the 
+alternative splicing. Although we failed to identify any difference among the
+tissues, all primate samples expressed only the shorter Alu segment (lacking the 
+transcript), suggesting that the alternative splicing event is hominid
+primate-specific.
+
+DOI: 10.1007/s10528-010-9406-4 
+PMID: 21188497  [Indexed for MEDLINE]
+

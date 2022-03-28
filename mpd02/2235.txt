@@ -1,0 +1,40 @@
+
+
+2235. Mol Cell Biochem. 2008 Dec;319(1-2):181-7. doi: 10.1007/s11010-008-9891-5. Epub
+2008 Aug 15.
+
+Construction of a high-performance human fetal liver-derived lentiviral cDNA
+library.
+
+Kurita R(1), Oikawa T, Okada M, Yokoo T, Kurihara Y, Honda Y, Kageyama R, Suehiro
+Y, Okazaki T, Iga M, Miyoshi H, Tani K.
+
+Author information: 
+(1)Department of Molecular Genetics, Medical Institute of Bioregulation, Kyushu
+University, Maidashi, Higashi-ku, Fukuoka, Japan.
+
+The gene transduction method is a very powerful tool, not only in basic science
+but also in clinical medicine. Regenerative medicine is one field that has close 
+connection with both basic and clinical. Recently, it has been reported that
+induced pluripotent stem (iPS) cells can be produced from somatic cells by a
+three or four gene transduction. We have also recently reported that lentiviral
+gene transfer of the tal1/scl gene can efficiently differentiate non-human
+primate common marmoset ES cells into hematopoietic cells without the support of 
+stromal cells. In this study, we constructed a high-performance human fetal
+liver-derived lentiviral expression library, which contains a high number of
+individual clones, in order to develop a very helpful tool for understanding
+early hematopoiesis and/or hepatocytosis for future regenerative medicine. Our
+lentiviral cDNA library consisted of more than 8 x 10(7) individual clones, and
+their average insert size was >2 kb. DNA sequence analysis for each individual
+inserted cDNAs revealed that >60% contained the full-length protein-coding
+regions for many genes including cytokine receptors, cytoplasmic proteins,
+protein inhibitors, and nuclear factors. The transduction efficiency on 293T
+cells was 100% and the average size of an integrated cDNA was ~1.1 kb. These
+results suggest that our lentiviral human fetal liver cDNA expression library
+could be a very helpful tool for accelerating the discovery of novel genes that
+are involved in early hematopoiesis and hepatopoiesis and to make the use of iPS 
+cells more efficient in the field of regenerative medicine.
+
+DOI: 10.1007/s11010-008-9891-5 
+PMID: 18709335  [Indexed for MEDLINE]
+

@@ -1,0 +1,81 @@
+
+
+815. PLoS One. 2017 Aug 30;12(8):e0182887. doi: 10.1371/journal.pone.0182887.
+eCollection 2017.
+
+Antiparkinsonian effects of the "Radiprodil and Tozadenant" combination in
+MPTP-treated marmosets.
+
+Michel A(1), Nicolas JM(1), Rose S(2), Jackson M(2), Colman P(3), Briône W(1),
+Sciberras D(1), Muglia P(1), Scheller DK(1), Citron M(1), Downey P(1).
+
+Author information: 
+(1)UCB BioPharma, Braine L'Alleud, Belgium.
+(2)King's College, Institute of Pharmaceutical Science, London, United Kingdom.
+(3)UCB BioPharma, Slough, United Kingdom.
+
+OBJECTIVE: Investigate a combination of two clinically tested drugs, the NR2B
+antagonist Radiprodil and the A2A antagonist Tozadenant in the MPTP-treated
+marmoset model of Parkinson's Disease (PD).
+BACKGROUND: In PD, there remains a need for the development of non-dopaminergic
+drugs to effectively treat the motor symptoms without the induction of
+L-Dopa-induced motor complications.
+METHODS: Clinically relevant doses of Radiprodil and Tozadenant were given both
+alone and in combination without the addition of L-Dopa, and the antiparkinsonian
+efficacy of the treatments was assessed in a primate model of PD.
+RESULTS: When compared to the drugs tested alone, the drug combination led to a
+significant increase of motor activity and an improvement of motor disability in 
+MPTP-treated marmosets. In addition, the motor restoration brought about by the
+combination was almost completely devoid of dyskinesia. Interestingly, treated
+primates were not overstimulated, but were able to move normally when motivated
+by the exploration of novel objects.
+CONCLUSION: We have demonstrated in a primate model that, the
+"Radiprodil/Tozadenant" combination significantly improves motor activity,
+extending previous results obtained in unilaterally lesioned 6-OHDA-rats. The
+strength of the preclinical data accumulated so far suggests that the use of such
+an A2A and NR2B antagonist combination could bring significant motor improvement 
+to PD patients, without inducing the motor complications induced by L-Dopa
+therapy. Although encouraging, these preclinical data need to be confirmed in the
+clinic.
+
+DOI: 10.1371/journal.pone.0182887 
+PMCID: PMC5576667
+PMID: 28854243  [Indexed for MEDLINE]
+
+
+816. Hum Brain Mapp. 2017 Nov;38(11):5756-5777. doi: 10.1002/hbm.23766. Epub 2017 Aug 
+28.
+
+Analysis of vascular homogeneity and anisotropy on high-resolution primate brain 
+imaging.
+
+Kennel P(1), Fonta C(2), Guibert R(1), Plouraboué F(1).
+
+Author information: 
+(1)Institut de Mécanique des Fluides de Toulouse (IMFT), Université de Toulouse, 
+CNRS, INPT, UPS, Toulouse, France.
+(2)Brain and Cognition Research Center (CerCo), CNRS-University of Toulouse UPS, 
+F-31052 Toulouse Cedex, France.
+
+Using a systematic investigation of brain blood volume, in high-resolution
+synchrotron 3D images of microvascular structures within cortical regions of a
+primate brain, we challenge several basic questions regarding possible vascular
+bias in high-resolution functional neuroimaging. We present a bilateral
+comparison of cortical regions, where we analyze relative vascular volume in
+voxels from 150 to 1000 μm side lengths in the white and grey matter. We show
+that, if voxel size reaches a scale smaller than 300 µm, the vascular volume can 
+no longer be considered homogeneous, either within one hemisphere or in bilateral
+comparison between samples. We demonstrate that voxel size influences the
+comparison between vessel-relative volume distributions depending on the scale
+considered (i.e., hemisphere, lobe, or sample). Furthermore, we also investigate 
+how voxel anisotropy and orientation can affect the apparent vascular volume, in 
+accordance with actual fMRI voxel sizes. These findings are discussed from the
+various perspectives of high-resolution brain functional imaging. Hum Brain Mapp 
+38:5756-5777, 2017. © 2017 Wiley Periodicals, Inc.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hbm.23766 
+PMCID: PMC6866716
+PMID: 28845885  [Indexed for MEDLINE]
+

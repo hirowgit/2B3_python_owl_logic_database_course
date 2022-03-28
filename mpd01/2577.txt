@@ -1,0 +1,63 @@
+
+
+2577. J Vis. 2006 Feb 2;6(2):97-105.
+
+Contribution of chromatic aberrations to color signals in the primate visual
+system.
+
+Forte JD(1), Blessing EM, Buzás P, Martin PR.
+
+Author information: 
+(1)National Vision Research Institute of Australia, Department of Optometry and
+Vision Sciences, The University of Melbourne, Australia.
+jforte@optometry.unimelb.edu.au
+
+We measured responses to red-green color variation in parvocellular (PC) neurons 
+in the lateral geniculate nucleus of dichromatic ("red-green color blind")
+marmoset monkeys. Although these animals lack distinct visual pigments to
+distinguish between wavelengths in this range, many of the colored stimuli
+nevertheless produced robust responses in PC cells. We show that these responses,
+which are restricted to high stimulus spatial frequencies (fine image details),
+arise from chromatic aberrations in the eye. The neural signals produced by
+chromatic aberrations are of comparable magnitude to signals produced by
+high-frequency luminance (LUM) modulation and thus could influence cortical
+pathways for processing of color and object recognition. The fact that
+genetically "color-blind" primates are not necessarily blind to
+wavelength-dependent contours in the visual world may have enabled red-green
+color vision to become linked with high-acuity spatial vision during primate
+evolution.
+
+DOI: 10.1167/6.2.1 
+PMID: 16522137  [Indexed for MEDLINE]
+
+
+2578. Genes Genet Syst. 2005 Dec;80(6):415-22.
+
+Analysis of newly identified low copy AluYj subfamily.
+
+Park ES(1), Huh JW, Kim TH, Kwak KD, Kim W, Kim HS.
+
+Author information: 
+(1)Division of Biological Sciences, College of Natural Sciences, Pusan National
+University, Buscan, Korea.
+
+Human specific AluY elements were investigated by comparative analysis between
+human chromosome 21 and chimpanzee chromosome 22. Human specific AluY element was
+identified on human chromosome 21q22 (accession no. AL163282), and then that was 
+a new member of AluYj subfamily. From the bioinformatic analysis, AluYj subfamily
+was investigated in human whole genome using AluYj4 consensus sequence (accession
+no. AL163282). Thirteen members of the AluYj4 elements (4 diagnostic mutations)
+and eight members of the AluYj3 elements (3 diagnostic mutations) were identified
+with distinct diagnostic mutation from AluY consensus sequence. The results of
+the molecular clock calculation of non-CpG region substitution indicated that,
+AluYj4 elements (2.1 million years old) may be proliferated more recent time than
+AluYj3 elements (14.1 million years old). For the verification of recent
+insertion time, four of AluYj4 elements (ch2-AC017101, ch10-AC044786,
+ch12-AC007656 and ch21-AL163282) from human chromosomes 2, 10, 12, 21 were
+analyzed by PCR amplification using various human and primate DNA samples.
+Though, no polymorphism was detected in human population, we identified the new
+AluYj4 subfamily as the human specific elements.
+
+DOI: 10.1266/ggs.80.415 
+PMID: 16501310  [Indexed for MEDLINE]
+

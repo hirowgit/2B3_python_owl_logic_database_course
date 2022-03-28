@@ -1,0 +1,32 @@
+
+
+2536. J Cereb Blood Flow Metab. 2007 Feb;27(2):293-303. Epub 2006 May 24.
+
+From homogeneous to fractal normal and tumorous microvascular networks in the
+brain.
+
+Risser L(1), Plouraboué F, Steyer A, Cloetens P, Le Duc G, Fonta C.
+
+Author information: 
+(1)IMFT UMR5502 CNRS-INPT/UPS, Toulouse, France.
+
+We studied normal and tumorous three-dimensional (3D) microvascular networks in
+primate and rat brain. Tissues were prepared following a new preparation
+technique intended for high-resolution synchrotron tomography of microvascular
+networks. The resulting 3D images with a spatial resolution of less than the
+minimum capillary diameter permit a complete description of the entire vascular
+network for volumes as large as tens of cubic millimeters. The structural
+properties of the vascular networks were investigated by several multiscale
+methods such as fractal and power-spectrum analysis. These investigations gave a 
+new coherent picture of normal and pathological complex vascular structures. They
+showed that normal cortical vascular networks have scale-invariant fractal
+properties on a small scale from 1.4 mum up to 40 to 65 mum. Above this
+threshold, vascular networks can be considered as homogeneous. Tumor vascular
+networks show similar characteristics, but the validity range of the fractal
+regime extend to much larger spatial dimensions. These 3D results shed new light 
+on previous two dimensional analyses giving for the first time a direct
+measurement of vascular modules associated with vessel-tissue surface exchange.
+
+DOI: 10.1038/sj.jcbfm.9600332 
+PMID: 16736048  [Indexed for MEDLINE]
+

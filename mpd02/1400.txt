@@ -1,0 +1,46 @@
+
+
+1400. Cereb Cortex. 2015 Sep;25(9):3182-96. doi: 10.1093/cercor/bhu111. Epub 2014 Jun
+5.
+
+Local and Global Correlations between Neurons in the Middle Temporal Area of
+Primate Visual Cortex.
+
+Solomon SS(1), Chen SC(1), Morley JW(2), Solomon SG(3).
+
+Author information: 
+(1)ARC Centre of Excellence in Vision Science, Sydney, NSW, Australia Discipline 
+of Physiology, School of Medical Sciences and Bosch Institute, The University of 
+Sydney, Sydney, NSW 2006, Australia.
+(2)School of Medicine, University of Western Sydney, Campbelltown, NSW 2560,
+Australia.
+(3)ARC Centre of Excellence in Vision Science, Sydney, NSW, Australia Discipline 
+of Physiology, School of Medical Sciences and Bosch Institute, The University of 
+Sydney, Sydney, NSW 2006, Australia Department of Experimental Psychology,
+University College London, WC1P 0AH, UK.
+
+In humans and other primates, the analysis of visual motion includes populations 
+of neurons in the middle-temporal (MT) area of visual cortex. Motion analysis
+will be constrained by the structure of neural correlations in these populations.
+Here, we use multi-electrode arrays to measure correlations in anesthetized
+marmoset, a New World monkey where area MT lies exposed on the cortical surface. 
+We measured correlations in the spike count between pairs of neurons and within
+populations of neurons, for moving dot fields and moving gratings. Correlations
+were weaker in area MT than in area V1. The magnitude of correlations in area MT 
+diminished with distance between receptive fields, and difference in preferred
+direction. Correlations during presentation of moving gratings were stronger than
+those during presentation of moving dot fields, extended further across cortex,
+and were less dependent on the functional properties of neurons. Analysis of the 
+timescales of correlation suggests presence of 2 mechanisms. A local mechanism,
+associated with near-synchronous spiking activity, is strongest in nearby neurons
+with similar direction preference and is independent of visual stimulus. A global
+mechanism, operating over larger spatial scales and longer timescales, is
+independent of direction preference and is modulated by the type of visual
+stimulus presented.
+
+© The Author 2014. Published by Oxford University Press. All rights reserved. For
+Permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhu111 
+PMID: 24904074  [Indexed for MEDLINE]
+

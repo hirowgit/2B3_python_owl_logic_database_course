@@ -1,0 +1,43 @@
+
+
+1394. J Gen Virol. 2014 Sep;95(Pt 9):1892-1899. doi: 10.1099/vir.0.066746-0. Epub 2014 
+Jun 9.
+
+Evolutionary genetics of genotype H1 measles viruses in China from 1993 to 2012.
+
+Xu S(1), Zhang Y(1), Rivailler P(2), Wang H(1), Ji Y(1), Zhen Z(1), Mao N(1), Li 
+C(3), Bellini WJ(2), Xu W(1), Rota PA(2).
+
+Author information: 
+(1)WHO Regional Reference Laboratory for Measles for the Western Pacific Region, 
+National Institute for Viral Disease Control and Prevention, China Center for
+Disease Control and Prevention, Beijing 102206, PR China.
+(2)Division of Viral Diseases, Centers for Disease Control and Prevention,
+Atlanta, GA, USA.
+(3)Shanghai Center for Disease Control and Prevention, Shanghai City, PR China.
+
+Virologic surveillance is a critical component of measles management. One of the 
+criteria for verification of elimination of endemic measles is genetic analysis
+of wild-type viruses to demonstrate lack of an indigenous genotype. Measles is
+yet to be eliminated in China, and genotype H1 has been detected continuously
+since virologic surveillance was initiated in 1993. Virologic surveillance has
+been very active in China, providing a unique opportunity to conduct a detailed
+study of the evolution of a single, endemic genotype over a timespan of nearly
+two decades. Phylogenetic analysis performed on the 450 nt coding sequence for
+the C-terminal 150 amino acids of the nucleoprotein (N-450), fusion (F) gene and 
+haemagglutinin (H) gene confirmed the continued circulation of genotype H1
+viruses for 19 years. No evidence of selective pressure for the H protein was
+found. The substitution rates ranged from 0.75×10(-3) substitutions site(-1)
+year(-1) for H to 1.65×10(-3) substitutions site(-1) year(-1) for N-450. The time
+of most recent common ancestor (TMRCA) for genotype H1 was estimated as
+approximately 1985 (95 % highest probability density, 1979-1989). Finally, the
+overall diversity of measles sequences from China decreased from 2005 to 2012,
+coincident with a substantial decrease in measles cases. The results suggest that
+detailed evolutionary analyses should facilitate the documentation of eventual
+measles elimination in China. Moreover, the molecular approaches used in this
+study can be applied in other countries approaching measles elimination.
+
+DOI: 10.1099/vir.0.066746-0 
+PMCID: PMC4135087
+PMID: 24914068  [Indexed for MEDLINE]
+

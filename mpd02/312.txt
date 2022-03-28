@@ -1,0 +1,40 @@
+
+
+312. Behav Processes. 2020 Jul;176:104136. doi: 10.1016/j.beproc.2020.104136. Epub
+2020 May 11.
+
+Common marmosets (Callithrix jacchus) cannot recognize global configurations of
+sound patterns but can recognize adjacent relations of sounds.
+
+Wakita M(1).
+
+Author information: 
+(1)Cognitive Neuroscience Section, Primate Research Institute, Kyoto University, 
+Kanrin 41-2, Inuyama, Aichi 484-8506, Japan. Electronic address:
+wakita.masumi.2e@kyoto-u.ac.jp.
+
+Processing the temporal configuration of discrete sounds to extract a regular
+pattern is fundamental to humans' faculties of perceiving words and musical
+phrases. To investigate such auditory pattern perception in monkeys, I trained
+two common marmosets to discriminate between AB-AB and AA-BB patterns under two
+training paradigms. One was an absolute discrimination task, in which the
+discrimination between these stimuli without reference cues was required. The
+other was a relative discrimination task, in which the detection of a change from
+one stimulus to the other was required. The marmosets failed in the absolute
+discrimination task but achieved the relative discrimination task. Failure in the
+absolute task indicated that the marmosets were unable to form a representation
+of the global sound patterns in their long-term memory stores. In contrast,
+success in the relative task indicated that the marmosets had short-term memory
+of ongoing sounds that enabled an online monitoring to detect deviations between 
+incoming sounds and the anticipated upcoming sounds. Thus, the current findings
+imply that marmosets can at least perceive adjacent tone relations in an auditory
+stream regardless of the temporal configuration of the global sound patterns.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.beproc.2020.104136 
+PMID: 32404248  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The author
+declares no conflict of interest related to this manuscript.
+

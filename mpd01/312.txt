@@ -1,0 +1,99 @@
+
+
+312. Behav Processes. 2020 Jul;176:104136. doi: 10.1016/j.beproc.2020.104136. Epub
+2020 May 11.
+
+Common marmosets (Callithrix jacchus) cannot recognize global configurations of
+sound patterns but can recognize adjacent relations of sounds.
+
+Wakita M(1).
+
+Author information: 
+(1)Cognitive Neuroscience Section, Primate Research Institute, Kyoto University, 
+Kanrin 41-2, Inuyama, Aichi 484-8506, Japan. Electronic address:
+wakita.masumi.2e@kyoto-u.ac.jp.
+
+Processing the temporal configuration of discrete sounds to extract a regular
+pattern is fundamental to humans' faculties of perceiving words and musical
+phrases. To investigate such auditory pattern perception in monkeys, I trained
+two common marmosets to discriminate between AB-AB and AA-BB patterns under two
+training paradigms. One was an absolute discrimination task, in which the
+discrimination between these stimuli without reference cues was required. The
+other was a relative discrimination task, in which the detection of a change from
+one stimulus to the other was required. The marmosets failed in the absolute
+discrimination task but achieved the relative discrimination task. Failure in the
+absolute task indicated that the marmosets were unable to form a representation
+of the global sound patterns in their long-term memory stores. In contrast,
+success in the relative task indicated that the marmosets had short-term memory
+of ongoing sounds that enabled an online monitoring to detect deviations between 
+incoming sounds and the anticipated upcoming sounds. Thus, the current findings
+imply that marmosets can at least perceive adjacent tone relations in an auditory
+stream regardless of the temporal configuration of the global sound patterns.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.beproc.2020.104136 
+PMID: 32404248  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The author
+declares no conflict of interest related to this manuscript.
+
+
+313. J Neurosci. 2020 Jun 10;40(24):4739-4749. doi: 10.1523/JNEUROSCI.2930-19.2020.
+Epub 2020 May 11.
+
+Trait Anxiety Mediated by Amygdala Serotonin Transporter in the Common Marmoset.
+
+Quah SKL(1)(2), McIver L(3)(2), Roberts AC(3)(2), Santangelo AM(1)(2).
+
+Author information: 
+(1)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Cambridge CB2 3DY, United Kingdom sklq2@cam.ac.uk as966@cam.ac.uk.
+(2)Behavioral and Clinical Neuroscience Institute, University of Cambridge,
+Cambridge CB2 3EB, United Kingdom.
+(3)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Cambridge CB2 3DY, United Kingdom.
+
+High trait anxiety is associated with altered activity across emotion regulation 
+circuitry and a higher risk of developing anxiety disorders and depression. This 
+circuitry is extensively modulated by serotonin. Here, to understand why some
+people may be more vulnerable to developing affective disorders, we investigated 
+whether serotonin-related gene expression across the brain's emotion regulation
+circuitry may underlie individual differences in trait anxiety using the common
+marmoset (Callithrix jacchus, mixed sexes) as a model. First, we assessed the
+association of region-specific expression of the serotonin transporter (SLC6A4)
+and serotonin receptor (HTR1A, HTR2A, HTR2C) genes with anxiety-like behavior;
+and second, we investigated their causal role in two key features of the high
+trait anxious phenotype: high responsivity to anxiety-provoking stimuli and an
+exaggerated conditioned threat response. While the expression of the serotonin
+receptors did not show a significant relationship with anxiety-like behavior in
+any of the targeted brain regions, serotonin transporter expression, specifically
+within the right ventrolateral prefrontal cortex (vlPFC) and most strongly in the
+right amygdala, was associated positively with anxiety-like behavior. The causal 
+relationship between amygdala serotonin levels and an animal's sensitivity to
+threat was confirmed via direct amygdala infusions of a selective serotonin
+reuptake inhibitor (SSRI), citalopram. Both anxiety-like behaviors, and
+conditioned threat-induced responses were reduced by the blockade of serotonin
+reuptake in the amygdala. Together, these findings provide evidence that high
+amygdala serotonin transporter expression contributes to the high trait anxious
+phenotype and suggest that reduction of threat reactivity by SSRIs may be
+mediated by their actions in the amygdala.SIGNIFICANCE STATEMENT Findings here
+contribute to our understanding of how the serotonin system underlies an
+individual's expression of threat-elicited negative emotions such as anxiety and 
+fear within nonhuman primates. Exploration of serotonergic gene expression across
+brain regions implicated in emotion regulation revealed that serotonin
+transporter gene expression in the ventrolateral prefrontal cortex (vlPFC) and
+most strongly in the amygdala, but none of the serotonin receptor genes, were
+predictive of interindividual differences in anxiety-like behavior. Targeting of 
+amygdala serotonin reuptake with selective serotonin reuptake inhibitors (SSRIs) 
+confirmed the causal relationship between amygdala serotonin transporter and an
+animal's sensitivity to threat by reversing expression of two key features of the
+high trait-like anxiety phenotype: high responsivity to anxiety-provoking
+uncertain threat and responsivity to certain conditioned threat.
+
+Copyright © 2020 the authors.
+
+DOI: 10.1523/JNEUROSCI.2930-19.2020 
+PMCID: PMC7294798
+PMID: 32393533  [Indexed for MEDLINE]
+

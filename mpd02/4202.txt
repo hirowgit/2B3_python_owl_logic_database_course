@@ -1,0 +1,32 @@
+
+
+4202. J Med Chem. 1992 Jul 10;35(14):2643-51.
+
+Pharmacokinetics of catechol cephalosporins. The effect of incorporating
+substituents into the catechol moiety on pharmacokinetics in a marmoset model.
+
+Bird TG(1), Arnould JC, Bertrandie A, Jung FH.
+
+Author information: 
+(1)ICI Pharma, Centre de Recherches, Z.I. La Pompelle-B.P. Reims, France.
+
+Two series of cephalosporins A and B have been synthesized, bearing at C-3'
+catechols substituted with various electron withdrawing groups (Y) and differing 
+links (X), and were evaluated for their in vitro antibacterial activity and their
+pharmacokinetics in marmosets. Compounds in series A, bearing an isobutyric oxime
+substituent, proved to be highly active against Gram-negative organisms and were 
+especially noteworthy for showing long elimination phase (beta) half-lives in
+marmosets. It was established that introduction of electron withdrawing
+substituents greatly increased the beta half-lives of compounds (5, X = NHCO, Y =
+H, t1/2 = 1.25 h, AUC = 27 mg/h per L; 11, X = NHCO, Y = 5-Cl, t1/2 = 4.5 h, AUC 
+= 638 mg/h per L) and that the nature of the link also influenced t1/2, the
+highest values being obtained when X = NHCO and OCO. Acidities (pKa values) of
+the substituted catechols were measured, and relationships between the acidities 
+and half-lives were evaluated. Thus it was established that the more acidic
+catechols gave the longest half-lives (12, X = NHCO, Y = 2,5-Cl2, t1/2 = 8.2 h,
+AUC = 461 mg/h per L). Further elaboration of the catechol to bicyclic systems
+maintained good pharmacokinetics when the pKa was sufficiently acidic.
+
+DOI: 10.1021/jm00092a015 
+PMID: 1635063  [Indexed for MEDLINE]
+

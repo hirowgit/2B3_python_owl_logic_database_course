@@ -1,0 +1,74 @@
+
+
+1900. J Appl Toxicol. 2012 Sep;32(9):673-86. doi: 10.1002/jat.1671. Epub 2011 Mar 24.
+
+Calibration and validation of a physiologically based model for soman
+intoxication in the rat, marmoset, guinea pig and pig.
+
+Chen K(1), Seng KY.
+
+Author information: 
+(1)Bioengineering Laboratory, Defence Medical and Environmental Research
+Institute, DSO National Laboratories, 27 Medical Drive, Singapore, 117510,
+Republic of Singapore.
+
+A physiologically based pharmacokinetic and pharmacodynamic (PBPK/PD) model has
+been developed for low, medium and high levels of soman intoxication in the rat, 
+marmoset, guinea pig and pig. The primary objective of this model was to describe
+the pharmacokinetics of soman after intravenous, intramuscular and subcutaneous
+administration in the rat, marmoset, guinea pig, and pig as well as its
+subsequent pharmacodynamic effects on blood acetylcholinesterase (AChE) levels,
+relating dosimetry to physiological response. The reactions modelled in each
+physiologically realistic compartment are: (1) partitioning of C(±)P(±) soman
+from the blood into the tissue; (2) inhibition of AChE and carboxylesterase (CaE)
+by soman; (3) elimination of soman by enzymatic hydrolysis; (4) de novo synthesis
+and degradation of AChE and CaE; and (5) aging of AChE-soman and CaE-soman
+complexes. The model was first calibrated for the rat, then extrapolated for
+validation in the marmoset, guinea pig and pig. Adequate fits to experimental
+data on the time course of soman pharmacokinetics and AChE inhibition were
+achieved in the mammalian models. In conclusion, the present model adequately
+predicts the dose-response relationship resulting from soman intoxication and can
+potentially be applied to predict soman pharmacokinetics and pharmacodynamics in 
+other species, including human.
+
+Copyright © 2011 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/jat.1671 
+PMID: 21433037  [Indexed for MEDLINE]
+
+
+1901. J Neurosci. 2011 Feb 23;31(8):2965-73. doi: 10.1523/JNEUROSCI.4920-10.2011.
+
+Altered neural responses to sounds in primate primary auditory cortex during
+slow-wave sleep.
+
+Issa EB(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland 21025, USA.
+
+How sounds are processed by the brain during sleep is an important question for
+understanding how we perceive the sensory environment in this unique behavioral
+state. While human behavioral data have indicated selective impairments of sound 
+processing during sleep, brain imaging and neurophysiology studies have reported 
+that overall neural activity in auditory cortex during sleep is surprisingly
+similar to that during wakefulness. This responsiveness to external stimuli
+leaves open the question of how neural responses during sleep differ, if at all, 
+from wakefulness. Using extracellular neural recordings in the primary auditory
+cortex of naturally sleeping common marmosets, we show that slow-wave sleep (SWS)
+alters neural responses in the primate auditory cortex in two specific ways. SWS 
+reduced the sensitivity of auditory cortex such that quiet sounds elicited weak
+responses in SWS compared with wakefulness, while loud sounds evoked similar
+responses in SWS and wakefulness. Furthermore, SWS reduced the extent of
+sound-evoked response suppression. This pattern of alterations was not observed
+during rapid eye movement sleep and could not be easily explained by the presence
+of slow rhythms in SWS. The alteration of excitatory and inhibitory responses
+during SWS suggests limitations in auditory processing and provides novel
+insights for understanding why certain sounds are processed while others are
+missed during deep sleep.
+
+DOI: 10.1523/JNEUROSCI.4920-10.2011 
+PMCID: PMC3758555
+PMID: 21414918  [Indexed for MEDLINE]
+

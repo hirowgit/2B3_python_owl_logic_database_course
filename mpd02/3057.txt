@@ -1,0 +1,42 @@
+
+
+3057. J Neurosci. 2002 Jul 1;22(13):5705-12.
+
+Functional domains in dorsal striatum of the nonhuman primate are defined by the 
+dynamic behavior of dopamine.
+
+Cragg SJ(1), Hille CJ, Greenfield SA.
+
+Author information: 
+(1)University Department of Pharmacology, Oxford OX1 3QT, United Kingdom.
+stephanie.cragg@pharm.ox.ac.uk
+
+The dorsal striatum comprises a continuum of distinct functional domains, limbic,
+associative, and sensorimotor. In the primate it exclusively subdivides further
+into two nuclei, the putamen and caudate. Dopamine (DA) transmission is
+differentially affected between these nuclei in neurodegenerative diseases such
+as Parkinson's and by psychostimulants such as cocaine. Because rodent systems
+can offer only limited insight into DA systems of the human brain, a fuller
+appreciation of DA transmission and its role in dysfunction requires direct study
+in primates. DA behavior was explored in the major functional domains of the
+caudate nucleus and compared with the putamen, using fast-scan cyclic voltammetry
+in striatal sections from the marmoset (Callithrix jacchus). There was
+domain-specific variation in extracellular DA transients [i.e., concentration
+([DA](o)) released by a single stimulus and the rate maximum of DA uptake,
+V(max)]. Across nuclei, functional rather than anatomical regions were
+differentiated by these dynamics. The largest, fastest DA transients were at
+motor-associated loci. Evoked [DA](o) at physiological frequencies was
+differently frequency-sensitive between functional domains but not between
+anatomical nuclei. In contrast, presynaptic depression was not an index of
+regional differentiation, recovering with similar kinetics at all loci. Within a 
+given functional domain of dorsal striatum, the dynamics of DA release and uptake
+are similar for the putamen and the caudate nucleus. Conversely, distinct
+functional domains are defined by these DA dynamics, in a manner more marked in
+primates than in rodents. These data from the primate brain highlight differences
+in DA availability that may be central to DA function and dysfunction in the
+human.
+
+DOI: 20026534 
+PMCID: PMC6758186
+PMID: 12097522  [Indexed for MEDLINE]
+

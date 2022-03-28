@@ -1,0 +1,83 @@
+
+
+1730. Am J Primatol. 2012 Sep;74(9):819-27. doi: 10.1002/ajp.22032. Epub 2012 May 1.
+
+The influence of sex and relatedness on stress response in common marmosets
+(Callithrix jacchus).
+
+Galvão-Coelho NL(1), Silva HP, De Sousa MB.
+
+Author information: 
+(1)Department of Physiology, Universidade Federal do Rio Grande do Norte, Natal, 
+Rio Grande do Norte, Brazil. galvaonic@hotmail.com
+
+Research in stress physiology has demonstrated the benefits of receiving social
+support during stressful conditions. However, recent data have shown that the
+efficacy of social support in buffering physiological and behavioral responses to
+stressor agents depends on species, sex, and relatedness among animals. This
+study investigated whether different kinds of social support (presence of same
+sex related or nonrelated conspecifics) have the same effect on hormonal (fecal
+cortisol levels) and behavioral responses (agonistic: scent-marking and
+individual piloerection; anxiety: locomotion; tension-reducing: autogrooming,
+allogrooming, and body contact). We used adult male and female isosexual dyads of
+Callithrix jacchus, a small Neotropical primate from the Callitrichidae family,
+widely used in the study of stress and related diseases. Following a 28-day
+baseline phase, dyads faced three challenging situations (phase 1: dyads were
+moved together from the baseline cage to a similar new cage; phase 2: each dyad
+member was moved alone to a new cage; and phase 3: dyad members were reunited in 
+the same baseline cage). Type of social support was found to influence the
+response to stressors differently for each sex. Related male dyads did not change
+their hormonal or behavioral profile over the three experimental phases, when
+compared to the baseline phase. For nonrelated male dyads, social support
+buffered hormonal but not behavioral response. For females, the social support
+offered by a related and nonrelated animal, does not seem to buffer the stress
+response, as shown by correlations between agonistic behaviors versus cortisol
+and locomotion during all three experimental phases and a significant increase in
+fecal cortisol levels during phases 2 and 3, when compared with baseline levels. 
+The results only partially support the buffering model theory and corroborate
+other studies reporting that the benefits of social support during a period of
+crisis arise only when it is adaptive for that species.
+
+© 2012 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajp.22032 
+PMID: 22549557  [Indexed for MEDLINE]
+
+
+1731. Neuroimage. 2012 Aug 1;62(1):408-17. doi: 10.1016/j.neuroimage.2012.04.030. Epub 
+2012 Apr 24.
+
+Coupling and robustness of intra-cortical vascular territories.
+
+Guibert R(1), Fonta C, Risser L, Plouraboué F.
+
+Author information: 
+(1)Institut de Mécanique des Fluides, UMR 5502, INPT-CNRS-UPS, 1 Allée du
+Professeur Camille Soula, 31400 Toulouse, France. romainguibert@gmail.com
+
+Vascular domains have been described as being coupled to neuronal functional
+units enabling dynamic blood supply to the cerebral cyto-architecture. Recent
+experiments have shown that penetrating arterioles of the grey matter are the
+building blocks for such units. Nevertheless, vascular territories are still
+poorly known, as the collection and analysis of large three-dimensional
+micro-vascular networks are difficult. By using an exhaustive reconstruction of
+the micro-vascular network in an 18 mm(3) volume of marmoset cerebral cortex, we 
+numerically computed the blood flow in each blood vessel. We thus defined
+arterial and venular territories and examined their overlap. A large part of the 
+intracortical vascular network was found to be supplied by several arteries and
+drained by several venules. We quantified this multiple potential to compensate
+for deficiencies by introducing a new robustness parameter. Robustness proved to 
+be positively correlated with cortical depth and a systematic investigation of
+coupling maps indicated local patterns of overlap between neighbouring arteries
+and neighbouring venules. However, arterio-venular coupling did not have a
+spatial pattern of overlap but showed locally preferential functional coupling,
+especially of one artery with two venules, supporting the notion of vascular
+units. We concluded that intra-cortical perfusion in the primate was
+characterised by both very narrow functional beds and a large capacity for
+compensatory redistribution, far beyond the nearest neighbour collaterals.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2012.04.030 
+PMID: 22548806  [Indexed for MEDLINE]
+

@@ -1,0 +1,91 @@
+
+
+993. Int J Neuropsychopharmacol. 2016 Dec 30;19(12). pii: pyw079. doi:
+10.1093/ijnp/pyw079. Print 2016 Dec.
+
+Marmoset Serotonin 5-HT1A Receptor Mapping with a Biased Agonist PET Probe
+18F-F13714: Comparison with an Antagonist Tracer 18F-MPPF in Awake and
+Anesthetized States.
+
+Yokoyama C(1), Mawatari A(1), Kawasaki A(1), Takeda C(1), Onoe K(1), Doi H(1),
+Newman-Tancredi A(1), Zimmer L(1), Onoe H(2).
+
+Author information: 
+(1)RIKEN Center for Life Science Technologies, Kobe, Hyogo, Japan (Dr Yokoyama,
+Ms Mawatari, Mr Kawasaki, Ms Takeda, Ms K. Onoe, Dr Doi, Dr H. Onoe); Neurolixis 
+Inc, Dana Point, CA (Dr Newman-Tancredi); Université Claude Bernard Lyon 1,
+Hospices Civils de Lyon, INSERM, CNRS, Lyon Neuroscience Research Center, Lyon,
+France (Dr Zimmer).
+(2)RIKEN Center for Life Science Technologies, Kobe, Hyogo, Japan (Dr Yokoyama,
+Ms Mawatari, Mr Kawasaki, Ms Takeda, Ms K. Onoe, Dr Doi, Dr H. Onoe); Neurolixis 
+Inc, Dana Point, CA (Dr Newman-Tancredi); Université Claude Bernard Lyon 1,
+Hospices Civils de Lyon, INSERM, CNRS, Lyon Neuroscience Research Center, Lyon,
+France (Dr Zimmer). hiro.onoe@riken.jp.
+
+BACKGROUND: In vivo mapping by positron emission tomography of the serotonin 1A
+receptors has been hindered by the lack of suitable agonist positron emission
+tomography probes. 18F-labeled F13714 is a recently developed biased agonist
+positron emission tomography probe that preferentially targets subpopulations of 
+serotonin 1A receptors in their "active state," but its brain labeling pattern in
+nonhuman primate has not been described. In addition, a potential confound in the
+translatability of PET data between nonhuman animal and human arise from the use 
+of anesthetics that may modify the binding profiles of target receptors.
+METHODS: Positron emission tomography scans were conducted in a cohort of common 
+marmosets (n=4) using the serotonin 1A receptor biased agonist radiotracer,
+18F-F13714, compared with a well-characterized 18F-labeled antagonist
+radiotracer, 18F-MPPF. Experiments on each animal were performed under both
+consciousness and isoflurane-anesthesia conditions.
+RESULTS: 18F-F13714 binding distribution in marmosets by positron emission
+tomography differs markedly from that of the 18F-MPPF. Whereas 18F-MPPF showed
+highest binding in hippocampus and amygdala, 18F-F13714 showed highest labeling
+in other regions, including insular and cingulate cortex, thalamus, raphe,
+caudate nucleus, and putamen. The binding potential values of 18F-F13714 were
+about one-third of those observed with 18F-MPPF, with marked individual- and
+region-specific differences under isoflurane-anesthetized vs conscious
+conditions.
+CONCLUSIONS: These findings highlight the importance of investigating the brain
+imaging of serotonin 1A receptors using agonist probes such as 18F-F13714, which 
+may preferentially target subpopulations of serotonin 1A receptors in specific
+brain regions of nonhuman primate as a biased agonist.
+
+© The Author 2016. Published by Oxford University Press on behalf of CINP.
+
+DOI: 10.1093/ijnp/pyw079 
+PMCID: PMC5203761
+PMID: 27608810  [Indexed for MEDLINE]
+
+
+994. Biopreserv Biobank. 2016 Dec;14(6):530-538. Epub 2016 Sep 7.
+
+Xeno-Free Cryopreservation of Bone Marrow-Derived Multipotent Stromal Cells from 
+Callithrix jacchus.
+
+Lauterboeck L(1), Saha D(1), Chatterjee A(1), Hofmann N(1), Glasmacher B(1).
+
+Author information: 
+(1)Institute for Multiphase Processes, Leibniz Universität Hannover , Hannover,
+Germany .
+
+In the previous decade, numerous biobanks were established and have created large
+markets for the storage of bioactive compounds, cells, and tissues for medical
+and diagnostic applications. For in vivo clinical and therapeutic purposes, it is
+critical to use well-defined and xeno-free components during cultivation,
+preservation, and transplantation of biological material. Safe and efficacious
+storage of bioactive molecules, cells, and tissues, without the addition of
+undefined medium components, minimizes risks of zoonotic disease transmission and
+is thus an essential and desirable prerequisite for biobanks. This gives rise to 
+a need for well-characterized and serum-free freezing media for application in
+cryopreservation. For this purpose, cryobiological additives such as
+methylcellulose, poloxamer-188, and α-tocopherol, which have previously been
+shown to exhibit a cytoprotective activity, have been investigated for
+cryoprotection on stem cells. With this strategy, the application of fetal bovine
+serum (FBS) could be avoided and the concentration of toxic cryoprotective agents
+such as dimethyl sulfoxide (DMSO) could be reduced. Our results suggest that the 
+viability, as well as the adipogenic and osteogenic differentiation capacity of
+the thawed bone marrow-derived multipotent stromal stem cells, could be
+maintained using a freezing medium without FBS consisting of methylcellulose,
+poloxamer, and α-tocopherol with only 2.5% DMSO (% v/v).
+
+DOI: 10.1089/bio.2016.0038 
+PMID: 27603179  [Indexed for MEDLINE]
+

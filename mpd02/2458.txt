@@ -1,0 +1,41 @@
+
+
+2458. J Physiol. 2007 Feb 15;579(Pt 1):29-51. Epub 2006 Nov 23.
+
+Response variability of marmoset parvocellular neurons.
+
+Victor JD(1), Blessing EM, Forte JD, Buzás P, Martin PR.
+
+Author information: 
+(1)Department of Neurology and Neuroscience, Weill Medical College of Cornell
+University, New York, NY 10021, USA.
+
+This study concerns the properties of neurons carrying signals for colour vision 
+in primates. We investigated the variability of responses of individual
+parvocellular lateral geniculate neurons of dichromatic and trichromatic
+marmosets to drifting sinusoidal luminance and chromatic gratings. Response
+variability was quantified by the cycle-to-cycle variation in Fourier components 
+of the response. Averaged across the population, the variability at low contrasts
+was greater than predicted by a Poisson process, and at high contrasts the
+responses were approximately 40% more variable than responses at low contrasts.
+The contrast-dependent increase in variability was nevertheless below that
+expected from the increase in firing rate. Variability falls below the Poisson
+prediction at high contrast, and intrinsic variability of the spike train
+decreases as contrast increases. Thus, while deeply modulated responses in
+parvocellular cells have a larger absolute variability than weakly modulated
+ones, they have a more favourable signal: noise ratio than predicted by a Poisson
+process. Similar results were obtained from a small sample of magnocellular and
+koniocellular ('blue-on') neurons. For parvocellular neurons with pronounced
+colour opponency, chromatic responses were, on average, less variable (10-15%,
+p<0.01) than luminance responses of equal magnitude. Conversely, non-opponent
+parvocellular neurons showed the opposite tendency. This is consistent with a
+supra-additive noise source prior to combination of cone signals. In summary,
+though variability of parvocellular neurons is largely independent of the way in 
+which they combine cone signals, the noise characteristics of retinal circuitry
+may augment specialization of parvocellular neurons to signal luminance or
+chromatic contrast.
+
+DOI: 10.1113/jphysiol.2006.122283 
+PMCID: PMC2075379
+PMID: 17124265  [Indexed for MEDLINE]
+

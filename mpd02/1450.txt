@@ -1,0 +1,40 @@
+
+
+1450. Cancer Sci. 2014 Apr;105(4):402-8. doi: 10.1111/cas.12367. Epub 2014 Apr 5.
+
+Characterization of common marmoset dysgerminoma-like tumor induced by the
+lentiviral expression of reprogramming factors.
+
+Yamaguchi S(1), Marumoto T, Nii T, Kawano H, Liao J, Nagai Y, Okada M, Takahashi 
+A, Inoue H, Sasaki E, Fujii H, Okano S, Ebise H, Sato T, Suyama M, Okano H, Miura
+Y, Tani K.
+
+Author information: 
+(1)Division of Molecular and Clinical Genetics, Molecular and Clinical Genetics, 
+Medical Institute of Bioregulation, Kyushu University, Fukuoka, Japan.
+
+Recent generation of induced pluripotent stem (iPSCs) has made a significant
+impact on the field of human regenerative medicine. Prior to the clinical
+application of iPSCs, testing of their safety and usefulness must be carried out 
+using reliable animal models of various diseases. In order to generate iPSCs from
+common marmoset (CM; Callithrix jacchus), one of the most useful experimental
+animals, we have lentivirally transduced reprogramming factors, including POU5F1 
+(also known as OCT3/4), SOX2, KLF4, and c-MYC into CM fibroblasts. The cells
+formed round colonies expressing embryonic stem cell markers, however, they
+showed an abnormal karyotype denoted as 46, X, del(4q), +mar, and formed human
+dysgerminoma-like tumors in SCID mice, indicating that the transduction of
+reprogramming factors caused unexpected tumorigenesis of CM cells. Moreover, CM
+dysgerminoma-like tumors were highly sensitive to DNA-damaging agents,
+irradiation, and fibroblast growth factor receptor inhibitor, and their growth
+was dependent on c-MYC expression. These results indicate that DNA-damaging
+agents, irradiation, fibroblast growth factor receptor inhibitor, and
+c-MYC-targeted therapies might represent effective treatment strategies for
+unexpected tumors in patients receiving iPSC-based therapy.
+
+© 2014 The Authors. Cancer Science published by Wiley Publishing Asia Pty Ltd on 
+behalf of Japanese Cancer Association.
+
+DOI: 10.1111/cas.12367 
+PMCID: PMC4317795
+PMID: 24521492  [Indexed for MEDLINE]
+

@@ -1,0 +1,88 @@
+
+
+567. J Comp Neurol. 2019 May 15;527(9):1495-1507. doi: 10.1002/cne.24639. Epub 2019
+Feb 11.
+
+Prehensile kinematics of the marmoset monkey: Implications for the evolution of
+visually-guided behaviors.
+
+Fox DM(1), Mundinano IC(1), Bourne JA(1).
+
+Author information: 
+(1)Australian Regenerative Medicine Institute, Monash University, Clayton,
+Victoria, Australia.
+
+Throughout the primate lineage, there is a wide diversity of prehensile capacity 
+that is thought to stem from individual species foraging patterns. While many
+studies have explored primates with precise hand grips, such as higher apes, few 
+have considered primates that lack opposition movements. The New World marmoset
+monkey occupies an intriguing niche, displaying adept control of their hand
+movements yet their absence of opposable digits results in relatively imprecise
+grasping actions when compared with those observed in Old World monkeys, apes,
+and humans. The marmoset monkey offers a unique composition of ancestral primate 
+corticospinal organization combined with skilled hand use to explore the
+evolution and development of visually-guided actions. In this study, four adult
+marmosets were trained to perform a series of visually-guided tasks, designed to 
+assess their control over locating and retrieving objects of differing
+dimensions. Two of these animals received a neonatal lesion of the inferior
+pulvinar (unilateral), a thalamic nucleus previously demonstrated to be involved 
+in visuomotor development. The kinematics of their reaching and grasping patterns
+were recorded for offline analysis. Predictive modeling revealed that maximum
+grip aperture, time to reach peak velocity and hand use were reliable predictors 
+of distinguishing between cohorts. A consistent feature observed across all tasks
+was that they do not precisely scale their grip according to the dimensions of
+the target object which may be attributed to their lack of independent digit
+control. Therefore, the marmoset monkey represents a previously understudied
+position in the evolution of primate reach and grasp behavior.
+
+© 2019 Wiley Periodicals, Inc.
+
+DOI: 10.1002/cne.24639 
+PMID: 30680739  [Indexed for MEDLINE]
+
+
+568. Brain Sci. 2019 Jan 23;9(2). pii: E19. doi: 10.3390/brainsci9020019.
+
+Astrocytic Response to Acutely- and Chronically-Implanted Microelectrode Arrays
+in the Marmoset (Callithrix jacchus) Brain.
+
+Budoff SA(1), Yano KM(2)(3), de Mesquita FC(4), Doerl JG(5)(6), de Santana MB(7),
+Nascimento MSL(8), Kunicki ACB(9), de Araújo MFP(10).
+
+Author information: 
+(1)Edmond and Lily Safra International Institute of Neuroscience, Santos Dumont
+Institute, Macaíba, RN 59280-000, Brazil. samuel@edu.isd.org.br.
+(2)Edmond and Lily Safra International Institute of Neuroscience, Santos Dumont
+Institute, Macaíba, RN 59280-000, Brazil. kim@edu.isd.org.br.
+(3)Department of Physical Therapy, Federal University of Rio Grande do Norte,
+Natal, RN 59078-970, Brazil. kim@edu.isd.org.br.
+(4)Edmond and Lily Safra International Institute of Neuroscience, Santos Dumont
+Institute, Macaíba, RN 59280-000, Brazil. fecmesquita@edu.isd.org.br.
+(5)Edmond and Lily Safra International Institute of Neuroscience, Santos Dumont
+Institute, Macaíba, RN 59280-000, Brazil. jgdoerl@gmail.com.
+(6)Brain Institute, Federal University of Rio Grande do Norte, Natal, RN
+59056-450, Brazil. jgdoerl@gmail.com.
+(7)Institute for Science and Technology of Water (ICTA), Federal University of
+Western Pará, Santarém, Pará 68040-255, Brazil. barbosadesantana@gmail.com.
+(8)Edmond and Lily Safra International Institute of Neuroscience, Santos Dumont
+Institute, Macaíba, RN 59280-000, Brazil. manuela.mascimento@isd.org.br.
+(9)Edmond and Lily Safra International Institute of Neuroscience, Santos Dumont
+Institute, Macaíba, RN 59280-000, Brazil. carol.bione@isd.org.br.
+(10)Edmond and Lily Safra International Institute of Neuroscience, Santos Dumont 
+Institute, Macaíba, RN 59280-000, Brazil. mfparaujo@gmail.com.
+
+Microelectrode implants are an important tool in neuroscience research and in
+developing brain⁻machine interfaces. Data from rodents have consistently shown
+that astrocytes are recruited to the area surrounding implants, forming a glial
+scar that increases electrode impedance and reduces chronic utility. However,
+studies in non-human primates are scarce, with none to date in marmosets. We used
+glial fibrillary acidic protein (GFAP) immunostaining to characterize the acute
+and chronic response of the marmoset brain to microelectrodes. By using
+densitometry, we showed that marmoset astrocytes surround brain implants and that
+a glial scar is formed over time, with significant increase in the chronic
+condition relative to the acute condition animal.
+
+DOI: 10.3390/brainsci9020019 
+PMCID: PMC6406890
+PMID: 30678038 
+

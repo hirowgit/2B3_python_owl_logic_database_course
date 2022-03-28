@@ -1,0 +1,40 @@
+
+
+2822. J Biol Chem. 2004 Jul 16;279(29):29944-51. Epub 2004 Apr 29.
+
+An Hsp27-related, dominant-negative-acting intracellular estradiol-binding
+protein.
+
+Chen H(1), Hewison M, Hu B, Sharma M, Sun Z, Adams JS.
+
+Author information: 
+(1)Division of Endocrinology, Diabetes, and Metabolism, Cedars-Sinai Medical
+Center, UCLA School of Medicine, Los Angeles, California 90048, USA.
+
+New World primates (NWPs) exhibit a compensated form of resistance to gonadal
+steroid hormones. We demonstrated recently that estrogen resistance in NWP cells 
+was associated with the overexpression of two proteins, a nonreceptor-related,
+dominant-negative-acting estrogen response element (ERE)-binding protein (ERE-BP)
+and an intracellular estradiol-binding protein (IEBP). Based on the N-terminal
+sequences of tryptic fragments of IEBP isolated from a 17beta-estradiol (E2)
+affinity column we cloned a full-length cDNA for IEBP from the estrogen-resistant
+NWP cell line, B95-8. Subsequent sequence analysis revealed 87% sequence identity
+between the deduced peptide for IEBP and human Hsp27. When hormone-responsive,
+wild-type Old World primate (OWP) cells were transiently transfected with IEBP
+cDNA, E2-directed ERE reporter luciferase activity was reduced by 50% compared
+with vector only-transfected OWP cells (p < 0.0018). When IEBP and ERE-BP were
+cotransfected, ERE promoter-reporter activity was reduced by a further 60% (p <
+0.0001). Electrophoresis mobility shift analyses showed that IEBP neither bound
+to ERE nor competed with the estrogen receptor (ER) for binding to ERE. However, 
+there was evidence of protein-protein interaction of IEBP and ERalpha; IEBP was
+coimmunoprecipitated with anti-ERalpha antibody in wild-type cells stably
+transfected with IEBP. A specific interaction between ERalpha and IEBP was
+confirmed in glutathione S-transferase pull-down and yeast two-hybrid assays.
+Data indicate that the Hsp27-related IEBP interacts with the ligand binding
+domain of the ERalpha. In summary, by inhibiting the ERalpha-E2 interaction, IEBP
+acts to squelch ERalpha-directed ERE-regulated transactivation and promote
+estrogen resistance in NWP cells.
+
+DOI: 10.1074/jbc.M401317200 
+PMID: 15123601  [Indexed for MEDLINE]
+

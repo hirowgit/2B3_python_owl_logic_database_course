@@ -1,0 +1,91 @@
+
+
+678. PLoS Negl Trop Dis. 2018 Jun 21;12(6):e0006581. doi:
+10.1371/journal.pntd.0006581. eCollection 2018 Jun.
+
+Intranasal monkeypox marmoset model: Prophylactic antibody treatment provides
+benefit against severe monkeypox virus disease.
+
+Mucker EM(1), Wollen-Roberts SE(1), Kimmel A(1), Shamblin J(1), Sampey D(2),
+Hooper JW(1).
+
+Author information: 
+(1)United States Army Medical Research Institute of Infectious Diseases, Virology
+Division, Fort Detrick Maryland, United States of America.
+(2)BioFactura, Inc, Frederick, Maryland, United States of America.
+
+Concerns regarding outbreaks of human monkeypox or the potential reintroduction
+of smallpox into an immunological naïve population have prompted the development 
+of animal models and countermeasures. Here we present a marmoset model of
+monkeypox and smallpox disease utilizing a relevant poxvirus via a natural
+exposure route. We found that 1000 plaque forming units (PFU) of Monkeypox virus 
+was sufficient to recapitulate smallpox disease, to include an incubation period 
+of approximately 13 days, followed by the onset of rash, and death between 15 and
+17 days. Temporally accurate manifestation of viremia and oral shedding were also
+features. The number of lesions ranged from no lesions to 299, the most reported 
+in a marmoset exposed to a poxvirus. To both evaluate the efficacy of our
+antibodies and the applicability of the model system, marmosets were
+prophylactically treated with two monoclonal antibodies, c7D11 and c8A. Of three 
+marmosets, two were completely free of disease and a single marmoset died 8 days 
+after the mock (n = 1) or PBS control(s) (n = 2). Evaluation of the serum levels 
+of the three animals provided a possible explanation to the animal succumbing to 
+disease. Interestingly, more females had lesions (and a greater number of
+lesions) and lower viral burden (viremia and oral shedding) than males in our
+studies, suggesting a possible gender effect.
+
+DOI: 10.1371/journal.pntd.0006581 
+PMCID: PMC6029809
+PMID: 29927927  [Indexed for MEDLINE]
+
+Conflict of interest statement: JWH is an inventor on a patent related to
+monoclonal antibody c7d11. DS is employed by Biofactura Inc., a company that has 
+licensing rights related to the monoclonal antibodies used in this study. No
+other competing interests exist.
+
+
+679. PLoS One. 2018 Jun 18;13(6):e0199200. doi: 10.1371/journal.pone.0199200.
+eCollection 2018.
+
+Characterisation of the hepatitis B virus cross-species transmission pattern via 
+Na+/taurocholate co-transporting polypeptides from 11 New World and Old World
+primate species.
+
+Müller SF(1), König A(2), Döring B(1), Glebe D(2), Geyer J(1).
+
+Author information: 
+(1)Institute of Pharmacology and Toxicology, Biomedical Research Center
+Seltersberg, Justus Liebig University Giessen, Giessen, Germany.
+(2)Institute of Medical Virology, Biomedical Research Center Seltersberg, Justus 
+Liebig University Giessen, Giessen, Germany.
+
+The hepatic Na+/taurocholate co-transporting polypeptide (NTCP in man, Ntcp in
+animals) is the high-affinity receptor for the hepatitis B (HBV) and hepatitis D 
+(HDV) viruses. Species barriers for human HBV/HDV within the order Primates were 
+previously attributed to Ntcp sequence variations that disable virus-receptor
+interaction. However, only a limited number of primate Ntcps have been analysed
+so far. In the present study, a total of 11 Ntcps from apes, Old and New World
+monkeys were cloned and expressed in vitro to characterise their interaction with
+HBV and HDV. All Ntcps showed intact bile salt transport. Human NTCP as well as
+the Ntcps from the great apes chimpanzee and orangutan showed transport-competing
+binding of HBV derived myr-preS1-peptides. In contrast, all six Ntcps from the
+group of Old World monkeys were insensitive to HBV myr-preS1-peptide binding and 
+HBV/HDV infection. This is basically predetermined by the amino acid arginine at 
+position 158 of all studied Old World monkey Ntcps. An exchange from arginine to 
+glycine (as present in humans and great apes) at this position (R158G) alone was 
+sufficient to achieve full transport-competing HBV myr-preS1-peptide binding and 
+susceptibility for HBV/HDV infection. New World monkey Ntcps showed higher
+sequence heterogeneity, but in two cases with 158G showed transport-competing HBV
+myr-preS1-peptide binding, and in one case (Saimiri sciureus) even susceptibility
+for HBV/HDV infection. In conclusion, amino acid position 158 of NTCP/Ntcp is
+sufficient to discriminate between the HBV/HDV susceptible group of humans and
+great apes (158G) and the non-susceptible group of Old World monkeys (158R). In
+the case of the phylogenetically more distant New World monkey Ntcps amino acid
+158 plays a significant, but not exclusive role.
+
+DOI: 10.1371/journal.pone.0199200 
+PMCID: PMC6005513
+PMID: 29912972  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

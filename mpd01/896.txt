@@ -1,0 +1,78 @@
+
+
+896. Endocrinology. 2017 Apr 1;158(4):804-814. doi: 10.1210/en.2016-1920.
+
+Variation in the Insulin-Like Growth Factor 1 Gene in Primates.
+
+Rotwein P(1).
+
+Author information: 
+(1)Department of Biomedical Sciences, Paul L. Foster School of Medicine, Texas
+Tech Health University Health Sciences Center, El Paso, Texas 79905.
+
+Insulin-like growth factor 1 (IGF1) is a multifunctional peptide that is involved
+in a wide range of physiological and pathophysiological processes in many animal 
+species, ranging from somatic growth in children to metabolism and tissue
+regeneration and repair in adults. The IGF1 gene is under multifactorial
+regulation in the few species in which it has been studied, with major control
+being exerted by growth hormone through a gene expression pathway involving
+inducible binding of the STAT5b transcription factor to dispersed enhancer
+elements. In this study, using resources available in public genomic databases,
+genes encoding IGF1 have been analyzed in a cohort of six nonhuman primate
+species representing >60 million years of evolutionary diversification from a
+common ancestor: chimpanzee, gorilla, macaque, olive baboon, marmoset, and mouse 
+lemur. The IGF1 gene has been well conserved among these primates. Similar to
+human IGF1, each gene appears to be composed of six exons and five introns, and
+contains recognizable tandem promoters, each with a unique leader exon. Exon and 
+intron lengths are very similar, and DNA sequence conservation is high, not only 
+in orthologous exons and promoter regions, but also in putative growth
+hormone-activated STAT5b-binding enhancers that are found in analogous locations 
+in IGF1 intron 3 and in 5' distal intergenic DNA. Taken together, the high level 
+of organizational and nucleotide sequence similarity in the IGF1 gene and locus
+among these seven species supports the contention that common regulatory
+paradigms had existed prior to the onset of primate speciation >85 million years 
+ago.
+
+Copyright © 2017 Endocrine Society.
+
+DOI: 10.1210/en.2016-1920 
+PMCID: PMC5460808
+PMID: 28324014  [Indexed for MEDLINE]
+
+
+897. IEEE Trans Ultrason Ferroelectr Freq Control. 2017 May;64(5):798-810. doi:
+10.1109/TUFFC.2017.2681695. Epub 2017 Mar 13.
+
+Targeting Effects on the Volume of the Focused Ultrasound-Induced Blood-Brain
+Barrier Opening in Nonhuman Primates In Vivo.
+
+Karakatsani MEM, Samiotaki GM, Downs ME, Ferrera VP, Konofagou EE.
+
+Drug delivery to subcortical regions is susceptible to the blood-brain barrier
+(BBB) impeding the molecular exchange between the blood stream and the brain
+parenchyma. Focused ultrasound (FUS) coupled with the administration of
+microbubbles has been proved to open the BBB locally, transiently, and
+noninvasively both in rodents and in nonhuman-primates (NHPs). The development of
+this disruption technique independent of MRI monitoring is of primordial
+importance yet restrained to the targeting optimization. This paper establishes
+the linear relationship of the incidence angle with the volume of BBB opening (
+VBBB ) and the peak negative pressure when sonicating the caudate nucleus and the
+putamen region of five NHPs. In addition, the effect of central nervous system
+structures on the opening morphology is evaluated by identification of the
+gray-to-white-matter ratio at the opening site. Finally, the targeting accuracy
+is assessed through the estimation of the geometric and angle shift of the
+opening from the targeted region. Interestingly, results prove a monotonic
+increase of the opening volume with close to normal incidence angles. Moreover,
+80.35% of the opening lies on gray-matter regions compared with only 19.41%
+attributed to the white matter. The opening was found to be shifted axially,
+toward the transducer, and laterally with an average angle shift of 4.5°.
+Finally, we were capable of showing reproducibility of targeting accuracy with
+the same stereotactic and ultrasonic parameters. This paper documents the a
+priori prediction of the opening volume through manipulation of the angle and
+pressure as well as establishing the predictability, accuracy, and safety of
+FUS-induced BBB opening in NHPs.
+
+DOI: 10.1109/TUFFC.2017.2681695 
+PMCID: PMC5542068
+PMID: 28320656  [Indexed for MEDLINE]
+

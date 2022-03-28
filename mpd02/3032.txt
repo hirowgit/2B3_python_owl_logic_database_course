@@ -1,0 +1,36 @@
+
+
+3032. J Gene Med. 2002 Sep-Oct;4(5):560-6.
+
+Transfer of maternally administered fusogenic liposome-DNA complexes into monkey 
+fetuses in a pregnancy model.
+
+Hirano M(1), Nakamura S, Mitsunaga F, Okada M, Shimuzu K, Imamura T.
+
+Author information: 
+(1)Department of Cellular and Molecular Biology, Primate Research Institute,
+Kyoto University, Inuyama, Aichi 484-8506, Japan.
+
+BACKGROUND: Materno-fetal transfer of intravenously administered liposome-plasmid
+DNA complexes has been demonstrated only in mice. Studies on its materno-fetal
+transfer in the pregnant monkey model is needed because of critical differences
+in placental structure between primates including humans and rodents.
+METHODS: The reporter plasmid pEGFP-C1 was formulated in cationic lipid
+containing polybrene and vesicular stomatitis virus G protein. The fusogenic
+liposome-plasmid DNA complexes were intradermally injected into pregnant common
+marmosets (N=2), a New World monkey, near term. DNA extracted from fetal tissues 
+was subjected to PCR for detection of the egfp gene. Confocal microscopy and
+immunostaining were performed to determine the sites of transgene expression in
+the fetal organs.
+RESULTS: The egfp gene was detected in fetal blood and major organs (heart,
+liver, lung). The encoded protein was mainly produced in the endothelial cells of
+blood vessels in the fetal lungs.
+CONCLUSIONS: This is the first report on materno-fetal transfer of intradermally 
+administered fusogenic liposome-plasmid DNA complexes and fetal expression of a
+transgene in primates.
+
+Copyright 2002 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/jgm.289 
+PMID: 12221649  [Indexed for MEDLINE]
+

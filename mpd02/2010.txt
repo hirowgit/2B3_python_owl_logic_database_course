@@ -1,0 +1,42 @@
+
+
+2010. J Neurochem. 2010 Jul;114(2):499-511. doi: 10.1111/j.1471-4159.2010.06776.x. Epub
+2010 Apr 28.
+
+Calcium-permeable AMPA receptors are involved in the induction and expression of 
+l-DOPA-induced dyskinesia in Parkinson's disease.
+
+Kobylecki C(1), Cenci MA, Crossman AR, Ravenscroft P.
+
+Author information: 
+(1)Faculty of Life Sciences, University of Manchester, Manchester, UK.
+christopher.kobylecki@manchester.ac.uk
+
+Overactivity of striatal alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid
+(AMPA) glutamate receptors is implicated in the pathophysiology of L-DOPA-induced
+dyskinesia (LID) in Parkinson's disease (PD). In this study, we evaluated the
+behavioural and molecular effects of acute and chronic blockade of
+Ca(2+)-permeable AMPA receptors in animal models of PD and LID. The acute effects
+of the Ca(2+)-permeable AMPA receptor antagonist
+1-trimethylammonio-5-(1-adamantane-methylammoniopentane) dibromide hydrobromide
+(IEM 1460) on abnormal involuntary movements (AIMs) in the 6-hydroxydopamine
+(6-OHDA)-lesioned rat and LID in the MPTP-lesioned non-human primate were
+assessed. Subsequently, the effects of chronic treatment of 6-OHDA-lesioned rats 
+with vehicle, L-DOPA/benserazide (6/15 mg/kg, i.p.) + vehicle or L-DOPA + IEM
+1460 (3 mg/kg, i.p.) on behavioural and molecular correlates of priming for LID
+were evaluated. In the 6-OHDA-lesioned rat and MPTP-lesioned non-human primate,
+acute treatment with IEM 1460 (1-3 mg/kg) dose-dependently reduced LID without
+adverse effects on motor performance. Chronic co-treatment for 21 days with IEM
+1460 reduced the induction of AIMs by L-DOPA in the 6-OHDA-lesioned rat without
+affecting peak rotarod performance, and attenuated AIMs score by 75% following
+l-DOPA challenge (p < 0.05). Chronic IEM 1460 treatment reversed L-DOPA-induced
+up-regulation of pre-proenkephalin-A, and normalised pre-proenkephalin-B mRNA
+expression in the lateral striatum, indicating an inhibition of both behavioural 
+and molecular correlates of priming. These data suggest that Ca(2+)-permeable
+AMPA receptors are critically involved in both the induction and subsequent
+expression of LID, and represent a potential target for anti-dyskinetic
+therapies.
+
+DOI: 10.1111/j.1471-4159.2010.06776.x 
+PMID: 20456008  [Indexed for MEDLINE]
+

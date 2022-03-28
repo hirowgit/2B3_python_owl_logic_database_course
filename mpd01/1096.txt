@@ -1,0 +1,81 @@
+
+
+1096. Anim Cogn. 2016 May;19(3):619-30. doi: 10.1007/s10071-016-0966-5. Epub 2016 Feb
+24.
+
+Reversal learning in gonadectomized marmosets with and without hormone
+replacement: are males more sensitive to punishment?
+
+LaClair M(1), Lacreuse A(2).
+
+Author information: 
+(1)Neuroscience and Behavior Program, University of Massachusetts, Amherst, MA,
+01003, USA.
+(2)Department of Psychological and Brain Sciences, University of Massachusetts,
+Tobin Hall, 135 Hicks Way, Amherst, MA, 01003, USA. alacreuse@psych.umass.edu.
+
+This study examined sex differences in executive function in middle-aged
+gonadectomized marmosets (Callithrix jacchus) with or without hormonal
+replacement. We tested ten castrated male (mean age 5.5 years) marmosets treated 
+with testosterone cypionate (T, n = 5) or vehicle (n = 5) on Reversal Learning,
+which contributes to cognitive flexibility, and the Delayed Response task,
+measuring working memory. Their performance was compared to that of 11
+ovariectomized females (mean age = 3.7 years) treated with Silastic capsules
+filled with 17-β estradiol (E2, n = 6) or empty capsules (n = 5), previously
+tested on the same tasks (Lacreuse et al. in J Neuroendocrinol 26:296-309, 2014. 
+doi: 10.1111/jne.12147). Behavioral observations were conducted daily. Females
+exhibited more locomotor behaviors than males. Males and females did not differ
+in the number of trials taken to reach criterion on the reversals, but males had 
+significantly longer response latencies, regardless of hormone replacement. They 
+also had a greater number of refusals than females. Additionally, both control
+and T-treated males, but not females, had slower responses on incorrect trials,
+suggesting that males were making errors due to distraction, lack of motivation
+or uncertainty. Furthermore, although both males and females had slower
+responding following an incorrect compared to a correct trial, the sex difference
+in response latencies was disproportionally large following an incorrect trial.
+No sex difference was found in the Delayed Response task. Overall, slower
+response latencies in males than females during Reversal Learning, especially
+during and following an incorrect trial, may reflect greater sensitivity to
+punishment (omission of reward) and greater performance monitoring in males,
+compared to females. Because these differences occurred in gonadectomized animals
+and regardless of hormone replacement, they may be organized early in life.
+
+DOI: 10.1007/s10071-016-0966-5 
+PMCID: PMC4852393
+PMID: 26909674  [Indexed for MEDLINE]
+
+
+1097. Sci Rep. 2016 Feb 24;6:21966. doi: 10.1038/srep21966.
+
+The impact of inhibitory mechanisms in the inner retina on spatial tuning of
+RGCs.
+
+Huang JY(1)(2), Protti DA(3)(2).
+
+Author information: 
+(1)Discipline of Biomedical Science, The University of Sydney, NSW 1825
+Australia.
+(2)The Bosch Institute, The University of Sydney, NSW 2006 Australia.
+(3)Discipline of Physiology, The University of Sydney, NSW 2006 Australia.
+
+Spatial tuning properties of retinal ganglion cells (RGCs) are sharpened by
+lateral inhibition originating at both the outer and inner plexiform layers.
+Lateral inhibition in the retina contributes to local contrast enhancement and
+sharpens edges. In this study, we used dynamic clamp recordings to examine the
+contribution of inner plexiform inhibition, originating from spiking amacrine
+cells, to the spatial tuning of RGCs. This was achieved by injecting currents
+generated from physiologically recorded excitatory and inhibitory stimulus-evoked
+conductances, into different types of primate and mouse RGCs. We determined the
+effects of injections of size-dependent conductances in which presynaptic
+inhibition and/or direct inhibition onto RGCs were partly removed by blocking the
+activity of spiking amacrine cells. We found that inhibition originating from
+spiking amacrine cells onto bipolar cell terminals and onto RGCs, work together
+to sharpen the spatial tuning of RGCs. Furthermore, direct inhibition is crucial 
+for preventing spike generation at stimulus offset. These results reveal how
+inhibitory mechanisms in the inner plexiform layer contribute to determining size
+tuning and provide specificity to stimulus polarity.
+
+DOI: 10.1038/srep21966 
+PMCID: PMC4764933
+PMID: 26905860  [Indexed for MEDLINE]
+

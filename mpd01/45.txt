@@ -1,0 +1,96 @@
+
+
+45. Exp Neurol. 2022 Jan;347:113920. doi: 10.1016/j.expneurol.2021.113920. Epub 2021 
+Nov 8.
+
+Dopamine D3 receptor ligand suppresses the expression of levodopa-induced
+dyskinesia in nonhuman primate model of parkinson's disease.
+
+Oh T(1), Daadi ES(1), Kim J(2), Daadi EW(1), Chen PJ(3), Roy-Choudhury G(1),
+Bohmann J(4), Blass BE(3), Daadi MM(5).
+
+Author information: 
+(1)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX, USA.
+(2)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX, USA; Cell Systems & Anatomy, University of Texas
+Health at San Antonio, San Antonio, TX, USA.
+(3)Department of Pharmaceutical Sciences, Moulder Center for Drug Discovery
+Research, Temple University School of Pharmacy, Philadelphia, PA, USA.
+(4)Southwest Research Institute, San Antonio, TX, USA.
+(5)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX, USA; Cell Systems & Anatomy, University of Texas
+Health at San Antonio, San Antonio, TX, USA; Radiology, Long School of Medicine, 
+University of Texas Health at San Antonio, San Antonio, TX, USA. Electronic
+address: mdaadi@txbiomed.org.
+
+Parkinson's disease (PD) is a complex multisystem, chronic and so far incurable
+disease with significant unmet medical needs. The incidence of PD increases with 
+aging and the expected burden will continue to escalate with our aging
+population. Since its discovery in the 1961 levodopa has remained the gold
+standard pharmacotherapy for PD. However, the progressive nature of the
+neurodegenerative process in and beyond the nigrostriatal system causes a
+multitude of side effects, including levodopa-induced dyskinesia within 5 years
+of therapy. Attenuating dyskinesia has been a significant challenge in the
+clinical management of PD. We report on a small molecule that eliminates the
+expression of levodopa-induced dyskinesia and significantly improves PD-like
+symptoms. The lead compound PD13R we discovered is a dopamine D3 receptor partial
+agonist with high affinity and selectivity, orally active and with desirable
+drug-like properties. Future studies are aimed at developing this lead compound
+for treating PD patients with dyskinesia.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.expneurol.2021.113920 
+PMID: 34762921  [Indexed for MEDLINE]
+
+
+46. Retrovirology. 2021 Nov 10;18(1):36. doi: 10.1186/s12977-021-00580-2.
+
+An ancient retroviral RNA element hidden in mammalian genomes and its involvement
+in co-opted retroviral gene regulation.
+
+Kitao K(1), Nakagawa S(2), Miyazawa T(3).
+
+Author information: 
+(1)Laboratory of Virus-Host Coevolution, Institute for Frontier Life and Medical 
+Sciences, Kyoto University, 53 Shogoin-Kawaharacho, Sakyo-ku, Kyoto, 606-8507,
+Japan.
+(2)Department of Molecular Life Science, Tokai University School of Medicine,
+Isehara, Kanagawa, 259-1193, Japan.
+(3)Laboratory of Virus-Host Coevolution, Institute for Frontier Life and Medical 
+Sciences, Kyoto University, 53 Shogoin-Kawaharacho, Sakyo-ku, Kyoto, 606-8507,
+Japan. takavet@infront.kyoto-u.ac.jp.
+
+BACKGROUND: Retroviruses utilize multiple unique RNA elements to control RNA
+processing and translation. However, it is unclear what functional RNA elements
+are present in endogenous retroviruses (ERVs). Gene co-option from ERVs sometimes
+entails the conservation of viral cis-elements required for gene expression,
+which might reveal the RNA regulation in ERVs.
+RESULTS: Here, we characterized an RNA element found in ERVs consisting of three 
+specific sequence motifs, called SPRE. The SPRE-like elements were found in
+different ERV families but not in any exogenous viral sequences examined. We
+observed more than a thousand of copies of the SPRE-like elements in several
+mammalian genomes; in human and marmoset genomes, they overlapped with
+lineage-specific ERVs. SPRE was originally found in human syncytin-1 and
+syncytin-2. Indeed, several mammalian syncytin genes: mac-syncytin-3 of macaque, 
+syncytin-Ten1 of tenrec, and syncytin-Car1 of Carnivora, contained the SPRE-like 
+elements. A reporter assay revealed that the enhancement of gene expression by
+SPRE depended on the reporter genes. Mutation of SPRE impaired the wild-type
+syncytin-2 expression while the same mutation did not affect codon-optimized
+syncytin-2, suggesting that SPRE activity depends on the coding sequence.
+CONCLUSIONS: These results indicate multiple independent invasions of various
+mammalian genomes by retroviruses harboring SPRE-like elements. Functional
+SPRE-like elements are found in several syncytin genes derived from these
+retroviruses. This element may facilitate the expression of viral genes, which
+were suppressed due to inefficient codon frequency or repressive elements within 
+the coding sequences. These findings provide new insights into the long-term
+evolution of RNA elements and molecular mechanisms of gene expression in
+retroviruses.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12977-021-00580-2 
+PMCID: PMC8579622
+PMID: 34753509  [Indexed for MEDLINE]
+

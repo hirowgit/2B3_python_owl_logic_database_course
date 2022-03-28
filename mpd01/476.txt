@@ -1,0 +1,89 @@
+
+
+476. Biosci Rep. 2019 Jul 8;39(7). pii: BSR20190562. doi: 10.1042/BSR20190562. Print
+2019 Jul 31.
+
+Measurement of the α1-proteinase inhibitor (α1-antitrypsin) of common marmoset
+and intestinal protein loss in wasting syndrome.
+
+Niimi K(1), Morishita H(2), Usui M(2), Ito R(2), Kurata S(2), Mataga N(2),
+Takahashi E(1).
+
+Author information: 
+(1)Support Unit for Animal Resources Development, Research Resources Division,
+RIKEN Center for Brain Science, 2-1 Hirosawa, Wako-shi, Saitama 351-0198, Japan
+eiki.takahashi@riken.jp kimie.niimi@riken.jp.
+(2)Support Unit for Bio-Material Analysis, Research Resources Division, RIKEN
+Center for Brain Science, 2-1 Hirosawa, Wako-shi, Saitama 351-0198, Japan.
+
+Although wasting marmoset syndrome (WMS) is one of the biggest problems facing
+captive marmoset colonies, the mechanisms underlying its pathogenesis remain
+unclear. In our clinical experience, it is difficult to cure WMS-affected
+marmosets with severe hypoalbuminemia. Thus, the mechanisms underlying
+hypoalbuminemia in WMS must be understood. In the present study, we investigated 
+whether intestinal protein loss, a known reason for hypoalbuminemia, occurs in
+this disease. Fecal α1-proteinase inhibitor (α1-PI, also known as α1-antitrypsin)
+has been used to diagnose intestinal protein loss in other species. To develop an
+assay system for this protein, marmoset α1-PI was purified from plasma and
+antibodies against it were developed using the purified protein. Using the
+antibodies, a sandwich enzyme-linked immunosorbent assay (ELISA) to measure
+marmoset α1-PI was developed, and its detection sensitivity for fecal samples was
+∼20-fold higher than that of a commercial kit for human α1-PI. From this ELISA,
+the reference intervals for serum and feces of healthy marmosets were 0.87-1.85
+mg/ml and 0.53-395.58 μg/g, respectively. The average concentrations of α1-PI in 
+serum and feces of seven WMS-affected marmosets were 1.17 mg/ml and 1357.58 μg/g,
+respectively. Although there were no significant differences in the serum
+concentrations between healthy and WMS-affected marmosets, the fecal
+concentrations were significantly higher in WMS-affected marmosets than in
+healthy individuals, suggesting that intestinal protein loss occurs in WMS.
+Intestinal protein loss of WMS-affected marmosets was significantly attenuated
+with treatment, suggesting that it is one of the mechanisms involved in the
+hypoalbuminemia observed in WMS.
+
+© 2019 The Author(s).
+
+DOI: 10.1042/BSR20190562 
+PMCID: PMC6614574
+PMID: 31243120  [Indexed for MEDLINE]
+
+
+477. Proc Biol Sci. 2019 Jun 26;286(1905):20190817. doi: 10.1098/rspb.2019.0817. Epub 
+2019 Jun 26.
+
+Long-lasting vocal plasticity in adult marmoset monkeys.
+
+Zhao L(1), Rad BB(2), Wang X(1).
+
+Author information: 
+(1)1 Laboratory of Auditory Neurophysiology, Department of Biomedical
+Engineering, The Johns Hopkins University School of Medicine , Baltimore, MD
+21205 , USA.
+(2)2 Department of Biological Sciences, Towson University , Towson, MD 21252 ,
+USA.
+
+Humans exhibit a high level of vocal plasticity in speech production, which
+allows us to acquire both native and foreign languages and dialects, and adapt to
+local accents in social communication. In comparison, non-human primates exhibit 
+limited vocal plasticity, especially in adulthood, which would limit their
+ability to adapt to different social and environmental contexts in vocal
+communication. Here, we quantitatively examined the ability of adult common
+marmosets ( Callithrix jacchus), a highly vocal New World primate species, to
+modulate their vocal production in social contexts. While recent studies have
+demonstrated vocal learning in developing marmosets, we know much less about the 
+extent of vocal learning and plasticity in adult marmosets. We found, in the
+present study, that marmosets were able to adaptively modify the spectrotemporal 
+structure of their vocalizations when they encountered interfering sounds. Our
+experiments showed that marmosets shifted the spectrum of their vocalizations
+away from the spectrum of the interfering sounds in order to avoid the overlap.
+More interestingly, we found that marmosets made predictive and long-lasting
+spectral shifts in their vocalizations after they had experienced a particular
+type of interfering sound. These observations provided evidence for directional
+control of the vocalization spectrum and long-term vocal plasticity by adult
+marmosets. The findings reported here have important implications for the ability
+of this New World primate species in voluntarily and adaptively controlling their
+vocal production in social communication.
+
+DOI: 10.1098/rspb.2019.0817 
+PMCID: PMC6599999
+PMID: 31238841  [Indexed for MEDLINE]
+

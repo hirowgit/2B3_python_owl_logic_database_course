@@ -1,0 +1,42 @@
+
+
+2955. Brain Res. 2003 Apr 11;968(2):206-18.
+
+Alterations in m-RNA expression for Cu,Zn-superoxide dismutase and glutathione
+peroxidase in the basal ganglia of MPTP-treated marmosets and patients with
+Parkinson's disease.
+
+Kunikowska G(1), Jenner P.
+
+Author information: 
+(1)Neurodegenerative Diseases Research Centre, Guy's, King's and St Thomas'
+School of Biomedical Sciences, King's College, London, UK.
+
+Alterations occurring in the antioxidant enzymes, copper, zinc-dependent
+superoxide dismutase (Cu,Zn-SOD) and glutathione peroxidase (GPX) following
+nigral dopaminergic denervation are unclear. We now report on the distribution
+and levels of m-RNA for Cu,Zn-SOD and GPX in basal ganglia of normal and
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-treated common marmosets, and
+in normal individuals and patients with Parkinson's disease (PD) using in situ
+hybridization histochemistry and oligodeoxynucleotide (single-stranded DNA)
+probes. Cu,Zn-SOD and GPX m-RNA was present throughout basal ganglia (nucleus
+accumbens, caudate-putamen, globus pallidus, substantia nigra) in the common
+marmoset, with the highest levels being in substantia nigra (SN). Following MPTP 
+induced nigral cell loss, Cu,Zn-SOD m-RNA levels were decreased in all areas but 
+the SNr, and particularly in SNc (71%, P<0.001). MPTP-treatment had no effect on 
+GPX m-RNA expression in any area of basal ganglia. Cu,Zn-SOD and GPX m-RNA was
+also present in the normal human SN. In PD, however, Cu,Zn-SOD m-RNA was
+significantly decreased (89%, P<0.005) in SNc, and there was a near-complete loss
+of GPX m-RNA in both SNc (100%, P<0.005) and SNr (88%, P<0.005). The loss of
+Cu,Zn-SOD m-RNA in SNc in MPTP-treated marmosets and patients with PD suggests
+that it is primarily located in dopaminergic neuronal cell bodies. The loss of
+GPX m-RNA in SNc in PD also suggests a localisation to dopaminergic cell bodies, 
+but the similar change in SNr may indicate its presence in dopaminergic neurites.
+In contrast, the absence of change in GPX m-RNA in MPTP-treated primates appears 
+to rule out its presence in dopaminergic cells in this species, but this may only
+be apparent and may reflect increased expression in glial cells following acute
+toxin treatment.
+
+DOI: 10.1016/s0006-8993(03)02240-6 
+PMID: 12663090  [Indexed for MEDLINE]
+

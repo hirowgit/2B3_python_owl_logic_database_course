@@ -1,0 +1,35 @@
+
+
+2783. Exp Hematol. 2004 Sep;32(9):843-51.
+
+Hematopoietic activity of common marmoset CD34 cells isolated by a novel
+monoclonal antibody MA24.
+
+Izawa K(1), Tani K, Nakazaki Y, Hibino H, Sugiyama H, Kawasaki A, Sasaki E,
+Nishioka C, Ishii H, Soda Y, Yagita H, Tanioka Y, Tojo A, Asano S.
+
+Author information: 
+(1)Institute of Medical Science, University of Tokyo, Tokyo, Japan.
+
+OBJECTIVE: We focused on a small New World monkey, the common marmoset
+(Callithrix jacchus), to establish a nonhuman primate model of the treatment of
+hematological disorders. In this study, we developed the first monoclonal
+antibodies (MAbs) against marmoset CD34 and tested the in vitro and in vivo
+hemopoietic activity of cell populations isolated using one of these MAbs.
+METHODS AND RESULTS: Marmoset cDNA encoding a human CD34 homologue was cloned
+from bone marrow (BM)-derived RNA using reverse transcription polymerase chain
+reaction and rapid amplification of cDNA ends. The amino acid sequence of the
+marmoset CD34 had 81% homology with the human sequence. Five mouse MAbs were
+raised against marmoset CD34 transfectant. One representative MAb, MA24 (IgM),
+reacted with approximately 0.5 to 1% of BM mononuclear cells (MNCs), where the
+colony-forming unit granulocyte/macrophage (CFU-GM) was enriched approximately
+11- to 75-fold as compared with the whole BM MNCs. Multilineage differentiation
+of marmoset CD34+ cells in NOD/SCID mice was confirmed by flow cytometry 1 month 
+after xenotransplantation.
+CONCLUSION: These results demonstrated that MA24 is useful for the analysis and
+enrichment of hematopoietic progenitor cells in the marmoset model for
+preclinical experiments.
+
+DOI: 10.1016/j.exphem.2004.06.007 
+PMID: 15345286  [Indexed for MEDLINE]
+

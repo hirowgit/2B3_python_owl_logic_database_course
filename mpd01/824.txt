@@ -1,0 +1,113 @@
+
+
+824. J Chromatogr B Analyt Technol Biomed Life Sci. 2017 Sep 1;1061-1062:392-398. doi:
+10.1016/j.jchromb.2017.07.007. Epub 2017 Jul 15.
+
+Development and validation of a high-performance liquid chromatography-tandem
+mass spectrometry method to quantify LY-354,740 in rat and marmoset plasma.
+
+Gaudette F(1), Hamadjida A(2), Bédard D(2), Nuara SG(3), Beaudry F(4), Huot P(5).
+
+Author information: 
+(1)CRCHUM, Centre de Recherche du Centre Hospitalier de l'Université de Montréal,
+Montreal, Quebec, Canada. Electronic address:
+fleur.gaudette.chum@ssss.gouv.qc.ca.
+(2)CRCHUM, Centre de Recherche du Centre Hospitalier de l'Université de Montréal,
+Montreal, Quebec, Canada.
+(3)Comparative Medicine and Animal Resources Centre, McGill University, Montreal,
+Quebec, Canada.
+(4)CRCHUM, Centre de Recherche du Centre Hospitalier de l'Université de Montréal,
+Montreal, Quebec, Canada; Groupe de Recherche en Pharmacologie Animal du Québec, 
+Département de Biomédecine Vétérinaire, Faculté de Médecine Vétérinaire
+Université de Montréal, Saint-Hyacinthe, Quebec, Canada.
+(5)CRCHUM, Centre de Recherche du Centre Hospitalier de l'Université de Montréal,
+Montreal, Quebec, Canada; Département de Pharmacologie, Faculté de Médicine,
+Université de Montréal, Montreal, Quebec, Canada; Unité des Troubles du Mouvement
+André Barbeau, Centre Hospitalier de l'Université de Montréal, Montreal, Quebec, 
+Canada; Division of Neurology, Centre Hospitalier de l'Université de Montréal,
+Montreal, Quebec, Canada.
+
+LY-354,740 (eglumegad) is a selective and potent agonist of the metabotropic
+glutamate group II receptors (mGluR2,3) that has already entered clinical trials 
+as a potential anti-psychotic agent and therefore has well-documented
+pharmacokinetic (PK), safety and tolerability profiles in human. Whereas its
+development as an anti-psychotic agent has not been pursued, LY-354,740 may have 
+potential in other neuroscience-related fields, notably anxiety and
+neuro-protection. The common marmoset is a small primate that has long been used 
+in neuroscience. However, given its small size and small circulating blood
+volume, conducting PK studies to determine the therapeutic effectiveness of
+LY-354,740 at clinically-relevant doses is challenging. Here, we have developed
+and validated a simple, sensitive and selective analytical method that enables
+quantification of LY-354,740 using a small volume of plasma. The analytical
+method consisted of protein precipitation followed by high-performance liquid
+chromatography with heat assisted electrospray ionisation mass spectrometry
+(UHPLC-HESI-MS/MS). The chromatographic separation was achieved using gradient
+elution with a mobile phase consisting of acetonitrile and 10mM ammonium formate 
+(pH 3) on a Thermo Scientific Acclaim Trinity P1 analytical column (100x3.0mm
+I.D., 3μm) operating at 45°C and at a flow rate of 900μl/min. The method displays
+a linear relationship ranging from 20.0 to 5000ng/ml. Intra- and inter-day
+relative standard deviations are less than 5.7% and 7.0%, respectively and the
+accuracy ranged from 91.0 to 106.0%. The UHPLC-HESI-MS/MS analytical method we
+describe here is simple, sensitive, specific and capable of quantifying
+LY-354,740 in both rat and marmoset plasma, and is suitable to conduct PK studies
+after a single sub-cutaneous dose of 1.0mg/kg or lower in both species.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jchromb.2017.07.007 
+PMID: 28802219  [Indexed for MEDLINE]
+
+
+825. Biochem Pharmacol. 2017 Nov 15;144:149-161. doi: 10.1016/j.bcp.2017.08.004. Epub 
+2017 Aug 9.
+
+Insight into the mode of action and selectivity of PBRM, a covalent steroidal
+inhibitor of 17β-hydroxysteroid dehydrogenase type 1.
+
+Trottier A(1), Maltais R(1), Ayan D(1), Barbeau X(2), Roy J(1), Perreault M(1),
+Poulin R(1), Lagüe P(3), Poirier D(4).
+
+Author information: 
+(1)Laboratory of Medicinal Chemistry, Endocrinology and Nephrology Unit, CHU de
+Québec - Research Center (CHUL, T4), Québec, QC, Canada.
+(2)Département de Chimie, Institut de Biologie Intégrative et Des Systèmes
+(IBIS), and Centre de Recherche sur la Fonction, la Structure et l'Ingénierie des
+Protéines (PROTEO), Université Laval, Québec, QC, Canada.
+(3)Département de Biochimie Microbiologie et Bio-informatique, Institut de
+Biologie Intégrative et des Systèmes (IBIS), and Centre de Recherche sur la
+Fonction, la Structure et l'Ingénierie des Protéines (PROTEO), Université Laval, 
+Québec, QC, Canada.
+(4)Laboratory of Medicinal Chemistry, Endocrinology and Nephrology Unit, CHU de
+Québec - Research Center (CHUL, T4), Québec, QC, Canada; Department of Molecular 
+Medicine, Faculty of Medicine, Université Laval, Québec, QC, Canada. Electronic
+address: donald.poirier@crchul.ulaval.ca.
+
+17β-Hydroxysteroid dehydrogenase type 1 (17β-HSD1) is involved in the
+biosynthesis of estradiol, the major bioactive endogenous estrogen in mammals,
+and constitutes an interesting therapeutic target for estrogen-dependent
+diseases. A steroidal derivative,
+3-{[(16β,17β)-3-(2-bromoethyl)-17-hydroxyestra-1,3,5(10)-trien-16-yl]methyl}
+benzamide (PBRM), has recently been described as a non-estrogenic, irreversible
+inhibitor of 17β-HSD1. However, the mode of action of this inhibitor and its
+selectivity profile have not yet been elucidated. We assessed PBRM potency via in
+vitro kinetic measurements. The mechanism of enzyme inactivation was also
+investigated using interspecies (human, mouse, pig and monkey) comparisons via
+both in vitro assays and in silico analysis. Mouse and human plasma protein
+binding of PBRM was determined, whereas its selectivity of action was studied
+using a wide range of potential off-targets (e.g. GPCR, hERG, CYPs, etc.). The
+affinity constant (Ki=368nM) and the enzyme inactivation rate (kinact=0.087min-1)
+values for PBRM were determined with purified 17β-HSD1. PBRM was found to be
+covalently linked to the enzyme. A long delay period (i.e. 3-5days) is required
+to recover 17β-HSD1 activity following a pretreatment of breast and placenta cell
+lines with PBRM. Mechanistic analyses showed important interspecies differences
+of 17β-HSD1 inhibition which support the importance of inactivation for PBRM
+effect. Evidences of the potency and selectivity of action presented herein for
+this first non-estrogenic and steroidal covalent irreversible inhibitor of
+17β-HSD1 warrant its further development as a potential drug candidate for
+estrogen-dependent disorders.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2017.08.004 
+PMID: 28800957  [Indexed for MEDLINE]
+

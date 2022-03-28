@@ -1,0 +1,42 @@
+
+
+2882. Exp Neurol. 2003 Nov;184(1):536-48.
+
+Recombinant adeno-associated viral vector (rAAV) delivery of GDNF provides
+protection against 6-OHDA lesion in the common marmoset monkey (Callithrix
+jacchus).
+
+Eslamboli A(1), Cummings RM, Ridley RM, Baker HF, Muzyczka N, Burger C, Mandel
+RJ, Kirik D, Annett LE.
+
+Author information: 
+(1)Department of Experimental Psychology, Downing Street, University of
+Cambridge, CB2 3EB, Cambridge, UK. ae228@hermes.cam.ac.uk
+
+Comment in
+    Exp Neurol. 2004 Jan;185(1):1-6.
+
+Glial cell line-derived neurotrophic factor (GDNF) has shown potential as a
+treatment for Parkinson's disease. Recombinant adeno-associated viral vectors
+expressing the GDNF protein (rAAV-GDNF) have been used in rodent models of
+Parkinson's disease to promote functional regeneration after 6-OHDA lesions of
+the nigrostriatal system. The goal of the present study was to assess the
+anatomical and functional efficacy of rAAV-GDNF in the common marmoset monkey
+(Callithrix jacchus). rAAV-GDNF was injected into the striatum and substantia
+nigra 4 weeks prior to a unilateral 6-OHDA lesion of the nigrostriatal bundle.
+Forty percent of the dopamine cells in the lesioned substantia nigra of the
+rAAV-GDNF-treated monkeys survived, compared with 21% in the untreated monkeys.
+Fine dopaminergic fibres were observed microscopically in the injected striatum
+of some rAAV-GDNF-treated monkeys, suggesting that rAAV-GDNF treatment may have
+prevented, at least in part, the loss of dopaminergic innervation of the
+striatum. Protection of dopamine cells and striatal fibre innervation was
+associated with amelioration of the lesion-induced behavioural deficits.
+rAAV-GDNF-treated monkeys showed partial or complete protection not only in the
+amphetamine and apomorphine rotation but also in head position and the
+parkinsonian disability rating scale. Therefore, our study provides evidence for 
+the behavioural and anatomical efficacy of GDNF delivered via an rAAV vector as a
+possible treatment for Parkinson's disease.
+
+DOI: 10.1016/j.expneurol.2003.08.007 
+PMID: 14637123  [Indexed for MEDLINE]
+

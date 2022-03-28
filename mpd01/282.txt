@@ -1,0 +1,119 @@
+
+
+282. PLoS Negl Trop Dis. 2020 Aug 11;14(8):e0008405. doi:
+10.1371/journal.pntd.0008405. eCollection 2020 Aug.
+
+Yellow fever transmission in non-human primates, Bahia, Northeastern Brazil.
+
+Goes de Jesus J(1)(2), Gräf T(1), Giovanetti M(3)(4), Mares-Guia MA(3), Xavier
+J(4), Lima Maia M(5)(6), Fonseca V(4)(7), Fabri A(3), Dos Santos RF(8), Mota
+Pereira F(8), Ferraz Oliveira Santos L(8), Reboredo de Oliveira da Silva L(8),
+Pereira Gusmão Maia Z(9), Gomes Cerqueira JX(10), Thèze J(11), Abade L(12),
+Cordeiro MCS(6), Torquato SSC(6), Santana EB(6), de Jesus Silva NS(6), Dourado
+RSO(6), Alves AB(10), do Socorro Guedes A(10), da Silva Filho PM(10), Rodrigues
+Faria N(11), de Albuquerque CFC(13), de Abreu AL(14), Martins Romano AP(15),
+Croda J(16), do Carmo Said RF(15), Cunha GM(10), da Fonseca Cerqueira JM(10),
+Mello ALES(8), de Filippis AMB(3), Alcantara LCJ(3)(4).
+
+Author information: 
+(1)Laboratório de Patologia Experimental, Instituto Gonçalo Moniz, Fundação
+Oswaldo Cruz, Salvador, Brazil.
+(2)Laboratório de Parasitologia Médica, Instituto de Medicina Tropical de São
+Paulo, Universidade de São Paulo, São Paulo, Brazil.
+(3)Laboratorio de Flavivirus, Fundacao Oswaldo Cruz, Rio de Janeiro, Brazil.
+(4)Laboratório de Genética Celular e Molecular, ICB, Universidade Federal de
+Minas Gerais, Belo Horizonte, Minas Gerais, Brazil.
+(5)Universidade Estadual de Feira de Santana, Feira de Santana, Brazil.
+(6)Secretaria de Saúde de Feira de Santana, Ministério da Saúde, Feira de
+Santana, Brazil.
+(7)KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), College of 
+Health Sciences, University of KwaZulu-Natal, Durban 4001, South Africa.
+(8)Laboratório Central de Saúde Pública da Bahia Professor Gonçalo Moniz
+(LACEN/BA), Salvador, Bahia, Brazil.
+(9)Faculdade Maria Milza-FAMAM, Bahia, Brazil.
+(10)Vigilância Epidemiológica do Estado da Bahia, Secretaria de Saúde do Estado
+da Bahia, Salvador, Brazil.
+(11)Department of Zoology, University of Oxford, Oxford, United Kingdom.
+(12)The Global Health Network, Nuffield Department of Medicine, University of
+Oxford, Oxford, United Kingdom.
+(13)Organização Pan-Americana da Saúde/Organização Mundial da Saúde, Brasília,
+Distrito Federal, Brazil.
+(14)Coordenação Geral dos Laboratórios de Saúde Pública/Secretaria de Vigilância 
+em Saúde, Ministério da Saúde, (CGLAB/SVS-MS) Brasília, Distrito Federal, Brazil.
+(15)Coordenação Geral de Vigilância de Arboviroses (CGARB).
+(16)Departamento de Vigilância de Doenças Transmissíveis/Secretaria de Vigilância
+em Saúde, Ministério da Saúde (DEVIT/SVS-MS).
+
+Yellow fever virus (YFV) causes a clinical syndrome of acute hemorrhagic
+hepatitis. YFV transmission involves non-human primates (NHP), mosquitoes and
+humans. By late 2016, Brazil experienced the largest YFV outbreak of the last 100
+years, with 2050 human confirmed cases, with 681 cases ending in death and 764
+confirmed epizootic cases in NHP. Among affected areas, Bahia state in
+Northeastern was the only region with no autochthonous human cases. By using next
+generation sequence approach, we investigated the molecular epidemiology of YFV
+in NHP in Bahia and discuss what factors might have prevented human cases. We
+investigated 47 YFV positive tissue samples from NHP cases to generate 8 novel
+YFV genomes. ML phylogenetic tree reconstructions and automated subtyping tools
+placed the newly generated genomes within the South American genotype I (SA I).
+Our analysis revealed that the YFV genomes from Bahia formed two distinct
+well-supported phylogenetic clusters that emerged most likely of an introduction 
+from Minas Gerais and Espírito Santo states. Vegetation coverage analysis
+performed shows predominantly low to medium vegetation coverage in Bahia state.
+Together, our findings support the hypothesis of two independent YFV SA-I
+introductions. We also highlighted the effectiveness of the actions taken by
+epidemiological surveillance team of the state to prevented human cases.
+
+DOI: 10.1371/journal.pntd.0008405 
+PMCID: PMC7418952
+PMID: 32780745  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+283. Biochem Pharmacol. 2020 Oct;180:114189. doi: 10.1016/j.bcp.2020.114189. Epub 2020
+Aug 5.
+
+Expression of functional sulfotransferases (SULT) 1A1, 1A3, 1B1, 1C2, 1E1, and
+2A1 in common marmosets.
+
+Uno Y(1), Uehara S(2), Murayama N(2), Shimizu M(2), Yamazaki H(3).
+
+Author information: 
+(1)Joint Faculty of Veterinary Medicine, Kagoshima University, Kagoshima City,
+Kagoshima 890 8580, Japan; Shin Nippon Biomedical Laboratories, Ltd, Kainan,
+Wakayama 642 0017, Japan. Electronic address: unoxx001@vet.kagoshima-u.ac.jp.
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo 194 8543, Japan.
+(3)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo 194 8543, Japan. Electronic address:
+hyamazak@ac.shoyaku.ac.jp.
+
+Cytosolic sulfotransferases (SULTs), which mediate the conjugation of drugs with 
+3'-phosphoadenosine-5'-phosphosulfate, have been characterized in humans and
+cynomolgus monkeys. However, SULTs remain to be evaluated in common marmosets, a 
+species of non-human primate often employed in drug metabolism and
+pharmacokinetic studies of endogenous and exogenous compounds. In this study,
+marmoset SULT1A1, 1A3, 1B1, 1C2, 1E1, and 2A1 cDNAs were isolated and
+characterized, based on genome data. The deduced amino acid sequences of these
+marmoset SULT cDNAs had high identities (90-95%) with their human orthologs,
+except for marmoset SULT2A1, which was only 81% identical to human SULT2A1. The
+amino acid sequences of the orthologs of these six SULTs in marmosets, monkeys,
+and humans were closely clustered in a phylogenetic tree. The structures and
+genomic organizations of marmoset SULT genes were similar to those of their human
+orthologs. Among the five marmoset tissues analyzed, SULT mRNAs showed typical
+expression patterns. The most abundant SULT mRNAs were SULT1B1 in liver, small
+intestine, and kidney; SULT1E1 in lung; and SULT1A3 in brain. Recombinant
+marmoset SULT1A1, 1A3, 1B1, 1C2, 1E1, and 2A1 proteins expressed in bacterial
+cytosolic fractions mediated sulfate conjugations with
+3'-phosphoadenosine-5'-phosphosulfate of the following typical human SULT
+substrates: dopamine, 1-naphthol, p-nitrophenol, estradiol, and
+dehydroepiandrosterone. Taken together, these wide-ranging results suggest
+functional and molecular similarities of SULTs among marmosets, monkeys, and
+humans.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2020.114189 
+PMID: 32768400  [Indexed for MEDLINE]
+

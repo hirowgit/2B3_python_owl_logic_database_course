@@ -1,0 +1,71 @@
+
+
+170. Methods Mol Biol. 2021 Mar 18. doi: 10.1007/7651_2021_381. [Epub ahead of print]
+
+Generation of Marmoset Monkey iPSCs with Self-Replicating VEE-mRNAs in
+Feeder-Free Conditions.
+
+Petkov SG(1)(2), Behr R(3)(4).
+
+Author information: 
+(1)Platform Degenerative Diseases, German Primate Center, GmbH, Leibniz Institute
+for Primate Research, Göttingen, Germany. SPetkov@dpz.eu.
+(2)German Center for Cardiovascular Research (DZHK), Partner Site Göttingen,
+Göttingen, Germany. SPetkov@dpz.eu.
+(3)Platform Degenerative Diseases, German Primate Center, GmbH, Leibniz Institute
+for Primate Research, Göttingen, Germany.
+(4)German Center for Cardiovascular Research (DZHK), Partner Site Göttingen,
+Göttingen, Germany.
+
+The generation and culture of transgene-free induced pluripotent stem cells
+(iPSCs) from the common marmoset (Callithrix jacchus) present unique challenges
+due to the fact that the protocols developed for culture of human or mouse
+pluripotent cells are not sufficiently optimized for this particular monkey
+species. Here, we describe the procedures for the reprogramming of marmoset fetal
+fibroblasts to pluripotency with self-replicating mRNAs using a two-step
+approach, where intermediate primary colonies generated in the first
+reprogramming step are converted in the second step to iPSCs with customized
+marmoset culture medium. The resulting iPSCs are free of transgenes and can be
+maintained in long-term culture in feeder-free conditions.
+
+DOI: 10.1007/7651_2021_381 
+PMID: 33733393 
+
+
+171. J Vet Med Sci. 2021 May 9;83(5):784-792. doi: 10.1292/jvms.20-0532. Epub 2021 Mar
+18.
+
+Reduced differentiation of intestinal epithelial cells in wasting marmoset
+syndrome.
+
+Niimi K(1), Takahashi E(2).
+
+Author information: 
+(1)Support Unit for Animal Resources Development, Research Resources Division,
+RIKEN Center for Brain Science, 2-1 Hirosawa, Wako-shi, Saitama 351-0198, Japan.
+(2)Research Resources Division, RIKEN Center for Brain Science, 2-1 Hirosawa,
+Wako-shi, Saitama 351-0198, Japan.
+
+Wasting marmoset syndrome (WMS) is a serious disease in captive common marmoset
+(Callithrix jacchus) colonies. Because of the high mortality rates, elucidation
+of the underlying mechanisms is essential. In this study, we compared the
+histopathology, the number of each epithelial cell in the jejunum and colon, and 
+the expression patterns of some molecular markers between healthy and
+WMS-affected marmosets. Atrophy of villi in the jejunum and mononuclear cell
+infiltration in the lamina propria were observed in the intestinal tract of
+WMS-affected marmosets. Although the numbers of transient amplifying cells and
+tuft cells were increased, the number of goblet cells was obviously decreased in 
+the jejunum and colon of WMS-affected marmosets compared to healthy marmosets. In
+addition, the number of enterocytes in the jejunum was decreased in WMS animals. 
+There was no apparent difference in the numbers of stem cells, enteroendocrine
+cells, or Paneth cells. The expression of β-catenin and Tcf7l2 was increased in
+WMS, and the co-existence of β-catenin and Tcf7l2/Cyclin D1 was observed around
+the crypts in WMS-affected marmosets. These findings suggest that cell
+proliferation continues, but cell differentiation is halted in the intestinal
+tract due to the enhanced β-catenin/Tcf7l2/Cyclin D1signaling pathway in WMS,
+which results in malfunction of the villus and mucosa.
+
+DOI: 10.1292/jvms.20-0532 
+PMCID: PMC8182325
+PMID: 33731497  [Indexed for MEDLINE]
+

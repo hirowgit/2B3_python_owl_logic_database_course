@@ -1,0 +1,39 @@
+
+
+1671. Am J Primatol. 2012 Dec;74(12):1088-96. doi: 10.1002/ajp.22063. Epub 2012 Aug 13.
+
+Contrast imaging ultrasound detects abnormalities in the marmoset ovary.
+
+Hastings JM(1), Morris KD, Allan D, Wilson H, Millar RP, Fraser HM, Moran CM.
+
+Author information: 
+(1)MRC Centre for Reproductive Health, Queen's Medical Research Institute,
+Edinburgh, United Kingdom. juliemhastings@gmail.com
+
+The development of a functional vascular tree within the primate ovary is
+critical for reproductive health. To determine the efficacy of contrast agents to
+image the microvascular environment within the primate ovary, contrast
+ultrasonography was performed in six reproductive-aged female common marmosets
+(Callithrix jacchus) during the late luteal phase of the cycle, following
+injection of Sonovue™. Regions of interest (ROIs), representing the corpus luteum
+(CL) and noncorpus luteum ovarian tissue (NCLOT), were selected during gray-scale
+B-mode ultrasound imaging. The magnitude of backscatter intensity of CL and NCLOT
+ROIs were calculated in XnView, post hoc: subsequent gamma-variate modeling was
+implemented in Matlab to determine perfusion parameters. Histological analysis of
+these ovaries revealed a total of 11 CL, nine of which were identified during
+contrast ultrasonography. The median enhancement ratio was significantly
+increased in the CL (5.54AU; 95% CI -2.21-68.71) compared to the NCLOT (2.82AU;
+95% CI 2.73-15.06; P < 0.05). There was no difference in time parameters between 
+the CL and NCLOT. An additional avascular ROI was identified in the ovary of
+Animal 5, both histologically and by ultrasonography. This cystic ROI displayed a
+markedly lower enhancement ratio (0.79AU) and higher time parameters than mean CL
+and NCLOT, including time to peak and time to wash out. These data demonstrate,
+for the first time, the ability of commercially available contrast agents, to
+differentiate structures within the nonhuman primate ovary. Contrast-enhanced
+ultrasonography has a promising future in reproductive medicine.
+
+© 2012 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajp.22063 
+PMID: 22890799  [Indexed for MEDLINE]
+

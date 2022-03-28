@@ -1,0 +1,2657 @@
+
+1. Naunyn Schmiedebergs Arch Pharmacol. 2021 Dec;394(12):2381-2388. doi:
+10.1007/s00210-021-02162-7. Epub 2021 Sep 22.
+
+Additive effects of mGluR2 positive allosteric modulation, mGluR2 orthosteric
+stimulation and 5-HT2AR antagonism on dyskinesia and psychosis-like behaviours in
+the MPTP-lesioned marmoset.
+
+Nuara SG(1), Gourdon JC(1), Maddaford S(2), Huot P(3)(4)(5).
+
+Author information: 
+(1)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(2)Talon Pharmaceuticals, Mississauga, ON, Canada.
+(3)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital (The
+Neuro), 3801 University St, Montreal, QC, H3A 2B4, Canada.
+philippe.huot@mcgill.ca.
+(4)Department of Neurology and Neurosurgery, McGill University, Montreal, QC,
+Canada. philippe.huot@mcgill.ca.
+(5)Department of Neuroscience, Division of Neurology, Movement Disorder Clinic,
+McGill University Health Centre, Montreal, QC, Canada. philippe.huot@mcgill.ca.
+
+PURPOSE: Antagonising serotonin (5-HT) type 2A receptors (5-HT2AR) is an
+effective strategy to alleviate both dyskinesia and psychosis in Parkinson's
+disease (PD). We have recently shown that activation of metabotropic glutamate 2 
+receptors (mGluR2), via either orthosteric stimulation or positive allosteric
+modulation, enhances the anti-dyskinetic and anti-psychotic effects of 5-HT2AR
+antagonism. Here, we investigated if greater therapeutic efficacy would be
+achieved by combining 5-HT2AR antagonism with concurrent mGluR2 orthosteric
+stimulation and mGluR2 positive allosteric modulation.
+METHODS: Five 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned
+marmosets exhibiting dyskinesia and psychosis-like behaviours (PLBs) were
+administered L-3,4-dihydroxyphenylalanine (L-DOPA) in combination with vehicle or
+the 5-HT2AR antagonist EMD-281,014. EMD-281,014 was itself administered alone or 
+with the mGluR2 orthosteric agonist (OA) LY-354,740, the mGluR2 positive
+allosteric modulator (PAM) LY-487,379 and combination thereof, after which the
+severity of dyskinesia, PLBs and parkinsonism was rated.
+RESULTS: EMD-281,014 reduced dyskinesia and PLBs by up to 47% and 40%,
+respectively (both P < 0.001). The addition of LY-354,740, LY-487,379 and
+LY-354,740/LY-487,379 decreased dyskinesia by 56%, 65% and 77%, while PLBs were
+diminished by 55%, 63% and 71% (all P < 0.001). All treatment combinations
+provided anti-dyskinetic and anti-psychotic benefits significantly greater than
+those conferred by EMD-281,014 alone (all P < 0.05). The combination of
+EMD-281,014/LY-354,740/LY-487,379 resulted in anti-dyskinetic and anti-psychotic 
+effects significantly greater than those conferred by EMD-281,014 with either
+LY-354,740 or LY-487,379 (both P < 0.05). No deleterious effects on L-DOPA
+anti-parkinsonian action were observed.
+CONCLUSION: Our results suggest that combining 5-HT2AR antagonism with mGluR2
+activation results in greater reduction of L-DOPA-induced dyskinesia and PD
+psychosis. They also indicate that further additive effect can be achieved when a
+mGluR2 OA and a mGluR2 PAM are combined with a 5-HT2AR antagonist than when a
+mGluR2 OA or a mGluR2 PAM are added to a 5-HT2AR antagonist.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany,
+part of Springer Nature.
+
+DOI: 10.1007/s00210-021-02162-7 
+PMID: 34550406  [Indexed for MEDLINE]
+
+
+2. Eur J Pharmacol. 2021 Nov 5;910:174452. doi: 10.1016/j.ejphar.2021.174452. Epub
+2021 Sep 1.
+
+Effect of the glycine transporter 1 inhibitor ALX-5407 on dyskinesia,
+psychosis-like behaviours and parkinsonism in the MPTP-lesioned marmoset.
+
+Frouni I(1), Belliveau S(2), Maddaford S(3), Nuara SG(4), Gourdon JC(4), Huot
+P(5).
+
+Author information: 
+(1)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital (The
+Neuro), Montreal, QC, Canada; Département de Pharmacologie et Physiologie,
+Université de Montréal, Montreal, QC, Canada.
+(2)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital (The
+Neuro), Montreal, QC, Canada.
+(3)Talon Pharmaceuticals, Mississauga, ON, Canada.
+(4)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(5)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital (The
+Neuro), Montreal, QC, Canada; Département de Pharmacologie et Physiologie,
+Université de Montréal, Montreal, QC, Canada; Department of Neurology and
+Neurosurgery, McGill University, Montreal, QC, Canada; Movement Disorder Clinic, 
+Division of Neurology, Department of Neuroscience, McGill University Health
+Centre, Montreal, QC, Canada. Electronic address: philippe.huot@mcgill.ca.
+
+Dyskinesia and psychosis are complications encountered in advanced Parkinson's
+disease (PD) following long-term therapy with L-3,4-dihydroxyphenylalanine
+(L-DOPA). Disturbances in the glutamatergic system have been associated with both
+dyskinesia and psychosis, making glutamatergic modulation a potential therapeutic
+approach for these. Treatments thus far have sought to dampen glutamatergic
+transmission, for example through blockade of N-methyl-D-aspartate (NMDA)
+receptors or modulation of metabotropic glutamate receptors 5. In contrast,
+activation of the glycine-binding site on NMDA receptors is required for their
+physiological response. Here, we investigated whether indirectly enhancing
+glutamatergic transmission through inhibition of glycine re-uptake would be
+efficacious in diminishing both dyskinesia and psychosis-like behaviours (PLBs)
+in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned common
+marmoset. Six marmosets were rendered parkinsonian by MPTP injection. Following
+repeated administration of L-DOPA to induce dyskinesia and PLBs, they underwent
+acute challenges of the glycine transporter 1 (GlyT1) inhibitor ALX-5407 (0.01,
+0.1 and 1 mg/kg) or vehicle, in combination with L-DOPA, after which the severity
+of dyskinesia, PLBs and parkinsonian disability was evaluated. In combination
+with L-DOPA, ALX-5407 0.1 and 1 mg/kg significantly reduced the severity of
+dyskinesia, by 51% and 41% (both P < 0.001), when compared to vehicle. ALX-5407
+0.01, 0.1 and 1 mg/kg also decreased the severity of global PLBs, by 25%, 51% and
+38% (all P < 0.001), when compared to vehicle. The benefits on dyskinesia and
+PLBs were achieved without compromising the therapeutic effect of L-DOPA on
+parkinsonism. Our results suggest that GlyT1 inhibition may be a novel strategy
+to attenuate dyskinesia and PLBs in PD, without interfering with L-DOPA
+anti-parkinsonian action.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ejphar.2021.174452 
+PMID: 34480885  [Indexed for MEDLINE]
+
+
+3. Naunyn Schmiedebergs Arch Pharmacol. 2021 Aug;394(8):1685-1692. doi:
+10.1007/s00210-021-02090-6. Epub 2021 May 8.
+
+Further characterisation of psychosis-like behaviours induced by L-DOPA in the
+MPTP-lesioned marmoset.
+
+Kwan C(1), Nuara SG(2), Gourdon JC(2), Huot P(3)(4)(5).
+
+Author information: 
+(1)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital (The
+Neuro), 3801 University St, Montreal, QC, H3A 2B4, Canada.
+(2)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(3)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital (The
+Neuro), 3801 University St, Montreal, QC, H3A 2B4, Canada.
+philippe.huot@mcgill.ca.
+(4)Department of Neurology and Neurosurgery, McGill University, Montreal, QC,
+Canada. philippe.huot@mcgill.ca.
+(5)Movement Disorder Clinic, Division of Neurology, Department of Neuroscience,
+McGill University Health Centre, Montreal, QC, Canada. philippe.huot@mcgill.ca.
+
+Parkinson's disease (PD) psychosis afflicts over half of patients and poses a
+significant burden on quality of life. The aetiology of PD psychosis is
+multifactorial and likely arises from the complex interaction between dopamine
+replacement therapy and disease state. The
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned common marmoset is a
+validated model to predict the efficacy of therapeutic compounds for
+treatment-related complications, including PD psychosis. In this model,
+psychosis-like behaviours (PLBs) encompass stereotypies that are idiosyncratic in
+nature and reproducible with each L-3,4-dihydroxyphenylanaline (L-DOPA)
+administration. In the present study, we sought to expand upon the existing
+repertoire of PLBs through the characterisation of novel stereotypical behaviours
+that appear dependent on the environment. We then discuss our findings in the
+context of clinical reports on stereotypical behaviours termed "punding" in
+subjects with PD, which consists of stereotypical repetitive and senseless
+behaviours. The poor understanding of the pathophysiology governing punding and
+consequent lack of effective therapies stand to benefit from enhanced
+characterisation of these stereotypical behaviours in a validated pre-clinical
+model. We hope that further characterisation of PLBs in the MPTP-lesioned
+marmoset will be helpful in the evaluation of interventions that seek to
+alleviate PD psychosis symptoms.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany,
+part of Springer Nature.
+
+DOI: 10.1007/s00210-021-02090-6 
+PMID: 33963876  [Indexed for MEDLINE]
+
+
+4. Neuropharmacology. 2021 Mar 15;186:108465. doi: 10.1016/j.neuropharm.2021.108465.
+Epub 2021 Jan 22.
+
+Combined 5-HT2A and mGlu2 modulation for the treatment of dyskinesia and
+psychosis in Parkinson's disease.
+
+Kwan C(1), Frouni I(2), Nuara SG(3), Belliveau S(1), Kang W(1), Hamadjida A(1),
+Bédard D(1), Beaudry F(4), Panisset M(5), Gourdon JC(3), Huot P(6).
+
+Author information: 
+(1)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada.
+(2)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada; Département de Pharmacologie et Physiologie, Université de Montréal, 
+Montreal, QC, Canada.
+(3)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(4)Groupe de Recherche en Pharmacologie Animale Du Québec, Département de
+Biomédecine Vétérinaire, Faculté de Médecine Vétérinaire, Université de Montréal,
+Saint-Hyacinthe, QC, Canada.
+(5)Unité des Troubles Du Mouvement André-Barbeau, Service de Neurologie,
+Département de Médecine, Centre Hospitalier de L'Université de Montréal,
+Montreal, QC, Canada; Département de Neurosciences, Université de Montréal,
+Montreal, QC, Canada.
+(6)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada; Département de Pharmacologie et Physiologie, Université de Montréal, 
+Montreal, QC, Canada; Department of Neurology and Neurosurgery, McGill
+University, Montreal, QC, Canada; Movement Disorder Clinic, Division of
+Neurology, Department of Neuroscience, McGill University Health Centre, Montreal,
+QC, Canada. Electronic address: philippe.huot@mcgill.ca.
+
+Antagonising the serotonin 2A (5-HT2A) receptor is an efficacious way to
+alleviate dyskinesia and psychosis in Parkinson's disease (PD). However, previous
+research indicates that there might be a limit to the effects conferred by this
+approach. 5-HT2A receptors were shown to form hetero-dimers with metabotropic
+glutamate 2 (mGlu2) receptors, in which 5-HT2A blockade and mGlu2 activation
+elicit equivalent effects at the downstream signalling level. We have previously 
+shown that mGlu2 activation reduces both dyskinesia and psychosis-like behaviours
+(PLBs) induced by L-3,4-dihydroxyphenylalanine (l-DOPA), in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned primate. Here, we
+hypothesised that concurrent 5-HT2A antagonism and mGlu2 activation would provide
+greater anti-dyskinetic and anti-psychotic benefits than either approach alone.
+We conducted 3 series of experiments in the MPTP-lesioned marmoset. In the first 
+series of experiments, the mGlu2 positive allosteric modulator LY-487,379 and the
+5-HT2A antagonist EMD-281,014, either alone or in combination, were added to
+l-DOPA. In the second series of experiments, the mGlu2/3 orthosteric agonist
+LY-354,740 and EMD-281,014, either alone or in combination, were added to l-DOPA.
+In the last series of experiments, we investigated whether mGlu2 blockade would
+diminish the effects of antagonising 5-HT2A receptors. To this end, the mGlu2/3
+orthosteric antagonist LY-341,495 and EMD-281,014, either alone or in
+combination, were added to l-DOPA. We found that the anti-dyskinetic effect of
+the combination LY-487,379/EMD-281,014 was greater than the ones conferred by
+LY-487,379 (by 35%, P < 0.05) and EMD-281,014 (by 38%, P < 0.01). The
+anti-dyskinetic and anti-psychotic effects of the combination
+LY-354,740/EMD-281,014 were also greater than the ones conferred by LY-354,740
+(by 57% for dyskinesia and 54% for PLBs, both P < 0.001) and EMD-281,014 (by 61% 
+for dyskinesia and 53% for PLBs, both P < 0.001). The anti-parkinsonian action of
+l-DOPA was maintained with all treatments. Lastly, the addition of LY-341,495
+abolished the therapeutic effects of EMD-281,014 on dyskinesia and PLBs. Our
+results suggest that mGlu2 activation may enhance the anti-dyskinetic and
+anti-psychotic effects of 5-HT2A blockade and could provide relief to PD patients
+with dyskinesia and psychotic symptoms beyond what can be achieved with current
+therapies.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuropharm.2021.108465 
+PMID: 33485945  [Indexed for MEDLINE]
+
+
+5. J Neural Transm (Vienna). 2021 Jan;128(1):73-81. doi: 10.1007/s00702-020-02287-8.
+Epub 2021 Jan 3.
+
+Effect of the mGlu2 positive allosteric modulator CBiPES on dyskinesia,
+psychosis-like behaviours and parkinsonism in the MPTP-lesioned marmoset.
+
+Frouni I(1)(2), Kwan C(1), Nuara SG(3), Belliveau S(1), Kang W(1), Hamadjida
+A(1), Bédard D(1), Gourdon JC(3), Huot P(4)(5)(6)(7).
+
+Author information: 
+(1)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada.
+(2)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada.
+(3)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(4)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada. philippe.huot@mcgill.ca.
+(5)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada. philippe.huot@mcgill.ca.
+(6)Department of Neurology and Neurosurgery, McGill University, Montreal, QC,
+Canada. philippe.huot@mcgill.ca.
+(7)Movement Disorder Clinic, Division of Neurology, Department of Neuroscience,
+McGill University Health Centre, Montreal, QC, Canada. philippe.huot@mcgill.ca.
+
+Advanced Parkinson's disease (PD) is often complicated by the occurrence of
+dyskinesia, motor fluctuations and psychosis. To this day, few treatment options 
+are available for each of these phenomena, and they are at times not effective or
+elicit adverse events, leaving some patients short of therapeutic options. We
+have recently shown that positive allosteric modulation of metabotropic 2 (mGlu2)
+receptors with the prototypical positive allosteric modulator (PAM) LY-487,379 is
+efficacious at alleviating both dyskinesia and psychosis-like behaviours (PLBs), 
+while simultaneously enhancing the anti-parkinsonian action of
+L-3,4-dihydroxyphenylalanine (L-DOPA), in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned marmoset. Here, we
+assessed the effects of CBiPES, a mGlu2 PAM derived from LY-487,379, but with
+improved pharmacokinetic properties. Six MPTP-lesioned marmosets with
+reproducible dyskinesia and PLBs were administered L-DOPA in combination with
+vehicle or CBiPES (0.1, 1 and 10 mg/kg), after which their behaviour was rated.
+CBiPES 10 mg/kg reduced global dyskinesia by 60% (P < 0.0001), while peak dose
+dyskinesia was reduced by 66% (P < 0.001), compared to L-DOPA/vehicle. CBiPES
+10 mg/kg also diminished global PLBs by 56% (P < 0.0001), while peak dose PLBs
+were reduced by 64% (P < 0.001), compared to L-DOPA/vehicle. Lastly, CBiPES
+enhanced the anti-parkinsonian action of L-DOPA, by reducing global parkinsonian 
+disability by 43% (P < 0.01), compared to L-DOPA/vehicle. Our results provide
+further evidence that mGlu2 positive allosteric modulation may be an approach
+that could be efficacious for the treatment of dyskinesia, psychosis and motor
+fluctuations in PD.
+
+DOI: 10.1007/s00702-020-02287-8 
+PMID: 33392826  [Indexed for MEDLINE]
+
+
+6. Neuropharmacology. 2021 Jan;182:108386. doi: 10.1016/j.neuropharm.2020.108386.
+Epub 2020 Nov 3.
+
+Selective blockade of the 5-HT3 receptor acutely alleviates dyskinesia and
+psychosis in the parkinsonian marmoset.
+
+Kwan C(1), Nuara SG(2), Bédard D(1), Gaudette F(3), Gourdon JC(2), Beaudry F(4), 
+Huot P(5).
+
+Author information: 
+(1)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada.
+(2)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(3)Plateforme de Pharmacocinétique, Centre de Recherche du Centre Hospitalier de 
+l'Université de Montréal (CRCHUM), Montreal, QC, Canada.
+(4)Groupe de Recherche en Pharmacologie Animale du Québec, Département de
+Biomédecine Vétérinaire, Faculté de Médecine Vétérinaire, Université de Montréal,
+Saint-Hyacinthe, QC, Canada.
+(5)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada; Department of Neurology and Neurosurgery, McGill University,
+Montreal, QC, Canada; Movement Disorder Clinic, Division of Neurology, Department
+of Neuroscience, McGill University Health Centre, Montreal, QC, Canada.
+Electronic address: philippe.huot@mcgill.ca.
+
+In Parkinson's disease (PD), management of L-3,4-dihydroxyphenylalanine
+(l-DOPA)-related complications, such as l-DOPA induced dyskinesia and psychosis, 
+remains inadequate, which poses a significant burden on the quality of life of
+patients. We have shown, in the hemi-parkinsonian rat model of PD, that the
+selective serotonin type 3 (5-HT3) receptor antagonists ondansetron and
+granisetron decreased the severity of established dyskinesia, and ondansetron
+even attenuated the development of dyskinesia. Here, we seek to confirm these
+favourable data on dyskinesia and to explore the effect of ondansetron on the
+severity of psychosis-like behaviours (PLBs) in the gold standard model of PD,
+the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned non-human
+primate. We first determined the pharmacokinetic profile of ondansetron in the
+marmoset. Subsequently, six MPTP-lesioned marmosets were administered l-DOPA
+chronically until they exhibited stable and reproducible dyskinesia and PLBs upon
+each administration of l-DOPA. On behavioural assessment days, ondansetron (0.01,
+0.1 and 1 mg/kg) or vehicle was administered in conjunction with l-DOPA, and the 
+severity of dyskinesia, PLBs and parkinsonism was evaluated. Ondansetron
+0.1 mg/kg alleviated global dyskinesia severity by 73% (P < 0.0001) and decreased
+duration of on-time with disabling dyskinesia by 88% (P = 0.0491). Ondansetron
+0.1 mg/kg reduced the severity of global PLBs by 80% (P < 0.0001) and suppressed 
+on-time with disabling PLBs (P = 0.0213). Ondansetron enhanced the
+anti-parkinsonian action of l-DOPA, reducing global parkinsonism by 53% compared 
+to l-DOPA (P = 0.0004). These results suggest that selective blockade of the
+5-HT3 receptor with ondansetron may be an effective approach to alleviate
+l-DOPA-related complications.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.neuropharm.2020.108386 
+PMID: 33152452  [Indexed for MEDLINE]
+
+
+7. J Neural Transm (Vienna). 2020 Oct;127(10):1343-1358. doi:
+10.1007/s00702-020-02247-2. Epub 2020 Aug 29.
+
+The MPTP-lesioned marmoset model of Parkinson's disease: proposed efficacy
+thresholds that may potentially predict successful clinical trial results.
+
+Beaudry F(1), Huot P(2)(3)(4).
+
+Author information: 
+(1)Groupe de Recherche en Pharmacologie Animal du Québec, Département de
+Biomédecine Vétérinaire, Faculté de Médecine Vétérinaire, Université de Montréal,
+Saint-Hyacinthe, QC, Canada.
+(2)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St, Montreal, QC, H3A 2B4, Canada. philippe.huot@mcgill.ca.
+(3)Department of Neurology and Neurosurgery, McGill University, Montreal, QC,
+Canada. philippe.huot@mcgill.ca.
+(4)Movement Disorder Clinic, Division of Neurology, Department of Neurosciences, 
+McGill University Health Centre, Montreal, QC, Canada. philippe.huot@mcgill.ca.
+
+The 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned common marmoset 
+has been used extensively to model Parkinson's disease,
+L-3,4-dihydroxyphenylalanine (L-DOPA)-induced dyskinesia and, more recently,
+dopaminergic psychosis. Whereas several experimental drugs have been tested in
+this primate, many of which subsequently underwent clinical trials, efficacy
+thresholds in the marmoset that would predict efficacy in the clinic are lacking.
+Here, we aimed to determine such efficacy end points that would be indicative of 
+likely efficacy in clinical studies. To do so, we used the evidence-based
+medicine reviews published by the International Parkinson and Movement Disorder
+Society (IPMDS) to select drugs that were rated as clinically efficacious, likely
+efficacious or not efficacious for the treatment of parkinsonism, dyskinesia and 
+psychosis. We then reviewed the literature in the MPTP-lesioned marmoset and
+identified articles reporting the effects of drugs that were included in the
+IPMDS recommendations, following which we estimated efficacy thresholds in the
+marmoset that would predict efficacy at the clinical level. We propose that, when
+drugs are administered as monotherapy, ≥ 50% reduction of global parkinsonism may
+be necessary to predict the possibility of clinical efficacy. As adjunct to a low
+dose of L-DOPA, we propose that an additional reduction of global
+parkinsonism ≥ 25% might predict clinical efficacy. As adjunct to an optimal dose
+of L-DOPA, we propose that additional anti-parkinsonian benefit ≥ 20%, with
+global parkinsonism as the end point, might predict clinical efficacy. For the
+treatment of dyskinesia, we suggest that the predictability threshold be set
+at ≥ 25% reduction of peak dose dyskinesia, while we believe that this threshold 
+should be > 50% reduction of peak dose psychosis-like behaviours for
+psychosis-related end points. This article represents the first step in
+determining what efficacy might be necessary to achieve in pre-clinical studies
+in the MPTP-lesioned marmoset prior to confidently advancing drugs to clinical
+trials. We hope that it will help in the drug discovery and development process, 
+notably by avoiding exposing patients to drugs that have little probability of
+clinical efficacy based upon pre-clinical experiments.
+
+DOI: 10.1007/s00702-020-02247-2 
+PMID: 32860561  [Indexed for MEDLINE]
+
+
+8. Naunyn Schmiedebergs Arch Pharmacol. 2020 Nov;393(11):2157-2164. doi:
+10.1007/s00210-020-01933-y. Epub 2020 Jul 3.
+
+Monoamine oxidase A inhibition with moclobemide enhances the anti-parkinsonian
+effect of L-DOPA in the MPTP-lesioned marmoset.
+
+Hamadjida A(1), Nuara SG(2), Kwan C(1), Frouni I(1)(3), Bédard D(1), Gourdon
+JC(2), Huot P(4)(5)(6)(7).
+
+Author information: 
+(1)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St, Montreal, QC, H3A 2B4, Canada.
+(2)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(3)Département de pharmacologie et physiologie, Université de Montréal, Montreal,
+QC, Canada.
+(4)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St, Montreal, QC, H3A 2B4, Canada. philippe.huot@mcgill.ca.
+(5)Département de pharmacologie et physiologie, Université de Montréal, Montreal,
+QC, Canada. philippe.huot@mcgill.ca.
+(6)Department of Neurology and Neurosurgery, McGill University, Montreal, QC,
+Canada. philippe.huot@mcgill.ca.
+(7)Movement Disorder Clinic, Division of Neurology, Department of Neuroscience,
+McGill University Health Centre, Montreal, QC, Canada. philippe.huot@mcgill.ca.
+
+Whereas monoamine oxidase (MAO) type B inhibitors are used as adjunct to
+L-3,4-dihydroxyphenylalanine (L-DOPA) in the treatment of Parkinson's disease
+(PD), the enzyme MAO type A (MAO-A) also participates in the metabolism of
+dopamine in the human and primate striatum. Here, we sought to assess the effect 
+of the selective reversible MAO-A inhibitor moclobemide on L-DOPA
+anti-parkinsonian in the gold standard animal model of PD, the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned primate. We also
+assessed the effect of moclobemide on L-DOPA-induced dyskinesia and
+psychosis-like behaviours (PLBs). Experiments were performed in six MPTP-lesioned
+marmosets chronically treated with L-DOPA and exhibiting stable dyskinesia and
+PLBs upon each administration. In a randomised within-subject design, animals
+were administered a therapeutic dose of L-DOPA in combination with moclobemide
+(0.1, 1 and 10 mg/kg) or its vehicle, after which the severity of parkinsonism,
+dyskinesia, and PLBs was rated by an experienced blinded rater. Moclobemide
+significantly reduced the global parkinsonian disability (- 36% with 0.1 mg/kg,
+P < 0.05; - 38% with 1 mg/kg, P < 0.01; - 47% with 10 mg/kg, P < 0.01), when
+compared with its vehicle. This reduction of parkinsonism was not accompanied by 
+an exacerbation of dyskinesia or PLBs. Reversible MAO-A inhibition with
+moclobemide appears as an effective way to increase the anti-parkinsonian action 
+of L-DOPA, without negatively affecting dyskinesia or dopaminergic psychosis.
+
+DOI: 10.1007/s00210-020-01933-y 
+PMID: 32621059  [Indexed for MEDLINE]
+
+
+9. Naunyn Schmiedebergs Arch Pharmacol. 2020 Nov;393(11):2139-2144. doi:
+10.1007/s00210-020-01927-w. Epub 2020 Jun 29.
+
+Monoamine oxidase A inhibition as monotherapy reverses parkinsonism in the
+MPTP-lesioned marmoset.
+
+Hamadjida A(1), Nuara SG(2), Frouni I(1)(3), Kwan C(1), Bédard D(1), Gourdon
+JC(2), Huot P(4)(5)(6)(7).
+
+Author information: 
+(1)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St, Montreal, Quebec, H3A 2B4, Canada.
+(2)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+Quebec, Canada.
+(3)Département de pharmacologie et physiologie, Université de Montréal, Montreal,
+Quebec, Canada.
+(4)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St, Montreal, Quebec, H3A 2B4, Canada. philippe.huot@mcgill.ca.
+(5)Département de pharmacologie et physiologie, Université de Montréal, Montreal,
+Quebec, Canada. philippe.huot@mcgill.ca.
+(6)Department of Neurology and Neurosurgery, McGill University, Montreal, Quebec,
+Canada. philippe.huot@mcgill.ca.
+(7)Movement Disorder Clinic, Division of Neurology, Department of Neuroscience,
+McGill University Health Centre, Montreal, Quebec, Canada.
+philippe.huot@mcgill.ca.
+
+Monoamine oxidase (MAO) type B (MAO-B) inhibition was shown to confer
+anti-parkinsonian benefit as monotherapy and adjunct to
+L-3,4-dihydroxyphenylalanine (L-DOPA) in clinical trials. Here, we explore the
+anti-parkinsonian effect of MAO type A (MAO-A) inhibition as monotherapy, as the 
+enzyme MAO-A is also encountered within the primate and human basal ganglia,
+where it metabolises dopamine, albeit to a lesser extent than MAO-B. In six
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned marmosets, we
+assessed the anti-parkinsonian effect of the reversible MAO-A inhibitor
+moclobemide (0.1 and 1 mg/kg) as monotherapy and compared it to that of L-DOPA
+and vehicle treatments. Moclobemide significantly reversed parkinsonism (by 39%, 
+P < 0.01), while eliciting only mild dyskinesia and psychosis-like behaviours
+(PLBs). In contrast, L-DOPA anti-parkinsonian effect was accompanied by marked
+dyskinesia and PLBs. MAO-A inhibition with moclobemide may provide
+anti-parkinsonian benefit when administered without L-DOPA and might perhaps be
+considered as monotherapy for the treatment of Parkinson's disease in the early
+stages of the condition.
+
+DOI: 10.1007/s00210-020-01927-w 
+PMID: 32601846  [Indexed for MEDLINE]
+
+
+10. J Neural Transm (Vienna). 2020 Jul;127(7):1013-1021. doi:
+10.1007/s00702-020-02196-w. Epub 2020 Apr 24.
+
+The mGlu2/3 antagonist LY-341,495 reverses the anti-dyskinetic and anti-psychotic
+effects of the mGlu2 activators LY-487,379 and LY-354,740 in the MPTP-lesioned
+marmoset.
+
+Nuara SG(1), Hamadjida A(2)(3), Gourdon JC(1), Huot P(4)(5)(6).
+
+Author information: 
+(1)Comparative Medicine and Animal Resource Centre, McGill University, Montreal, 
+QC, Canada.
+(2)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St, Montreal, QC, H3A 2B4, Canada.
+(3)École Normale supérieure de Bertoua, Université de Ngaoundéré, Ngaoundéré,
+Cameroon.
+(4)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St, Montreal, QC, H3A 2B4, Canada. philippe.huot@mcgill.ca.
+(5)Department of Neurology and Neurosurgery, McGill University, Montreal, QC,
+Canada. philippe.huot@mcgill.ca.
+(6)Movement Disorder Clinic, Division of Neurology, Department of Neurosciences, 
+McGill University Health Centre, Montreal, QC, Canada. philippe.huot@mcgill.ca.
+
+We have recently shown that activation of metabotropic glutamate 2 (mGlu2)
+receptors through positive allosteric modulation and orthosteric stimulation is a
+novel approach to reduce L-3,4-dihydroxyphenylalanine (L-DOPA)-induced dyskinesia
+and dopaminergic psychosis in Parkinson's disease (PD). We have obtained these
+benefits with the mGlu2-positive allosteric modulator (PAM) LY-487,379 and the
+mGlu2/3 orthosteric agonist (OA) LY-354,740 in experiments conducted in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned marmoset. Here, we
+sought to pharmacologically characterise the anti-dyskinetic and anti-psychotic
+effects of LY-487,379 and LY-354,740, by assessing whether their benefits would
+be reversed by the mGlu2/3 orthosteric antagonist LY-341,495. Six MPTP-lesioned
+marmosets exhibiting stable dyskinesia and psychosis-like behaviours (PLBs)
+entered the experiments. In the first series of experiments, animals were
+injected L-DOPA in combination with either vehicle, LY-487,379 (10 mg/kg),
+LY-341,495 (1 mg/kg) or LY-487,379/LY-341,495. In the second series of
+experiments, marmosets were injected L-DOPA in combination with either vehicle,
+LY-354,740 (1 mg/kg), LY-341,495 (1 mg/kg) or LY-354,740/LY-341495. As we
+previously demonstrated, both LY-487,379 and LY-354,740 alleviated dyskinesia (by
+44% and 47%, both P < 0.001) and PLBs (by 44% and 39%, P < 0.01 and P < 0.001)
+when compared to vehicle treatment. When LY-487,379 and LY-354,740 were
+administered concurrently with LY-341,495, the anti-dyskinetic and anti-psychotic
+benefits were abolished. When administered with L-DOPA in the absence of
+LY-487,379 and LY-354,740, LY-341,495 did not worsen dyskinesia or PLBs and did
+not hamper L-DOPA anti-parkinsonian action. Our results indicate that the
+anti-dyskinetic and anti-psychotic effects of mGlu2-positive allosteric
+modulation and mGlu2/3 orthosteric stimulation are reversed by mGlu2/3
+orthosteric blockade.
+
+DOI: 10.1007/s00702-020-02196-w 
+PMID: 32333122  [Indexed for MEDLINE]
+
+
+11. J Neural Transm (Vienna). 2020 Jul;127(7):1023-1029. doi:
+10.1007/s00702-020-02185-z. Epub 2020 Apr 3.
+
+Combined mGlu2 orthosteric stimulation and positive allosteric modulation
+alleviates L-DOPA-induced psychosis-like behaviours and dyskinesia in the
+parkinsonian marmoset.
+
+Nuara SG(1), Hamadjida A(2), Kwan C(2), Bédard D(2), Frouni I(3), Gourdon JC(1), 
+Huot P(4)(5)(6)(7).
+
+Author information: 
+(1)Comparative Medicine and Animal Resource Centre, McGill University, Montreal, 
+QC, Canada.
+(2)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St, Montreal, QC, H3A 2B4, Canada.
+(3)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada.
+(4)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St, Montreal, QC, H3A 2B4, Canada. philippe.huot@mcgill.ca.
+(5)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada. philippe.huot@mcgill.ca.
+(6)Department of Neurology and Neurosurgery, McGill University, Montreal, QC,
+Canada. philippe.huot@mcgill.ca.
+(7)Division of Neurology, Department of Neurosciences, Movement Disorder Clinic, 
+McGill University Health Centre, Montreal, QC, Canada. philippe.huot@mcgill.ca.
+
+In recent studies performed in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(MPTP)-lesioned marmoset model of Parkinson's disease (PD), we have demonstrated 
+that activation of the metabotropic glutamate 2 (mGlu2) receptor with the
+orthosteric agonist (OA) LY-354,740 and the positive allosteric modulator (PAM)
+LY-487,379 is effective at alleviating both dyskinesia and psychosis-like
+behaviours (PLBs) triggered by the administration of L-3,4-dihydroxyphenylalanine
+(L-DOPA). Because mGlu2 OAs and PAMs bind to different sites on the receptor, we 
+hypothesised that greater reductions of dyskinesia and PLBs would be obtained
+upon concurrent administration of LY-354,740 and LY-487,379. In experiments
+performed in six MPTP-lesioned marmosets, we administered LY-354,740 (0.1 mg/kg),
+LY-487,379 (1 mg/kg), LY-354,740 (0.1 mg/kg) + LY-487,379 (1 mg/kg), or vehicle, 
+in combination with L-DOPA and determined the effect of each treatment on
+dyskinesia, PLBs, and parkinsonism. When compared to vehicle, LY-354,740 and
+LY-487,379, administered alone or concurrently, significantly reduced dyskinesia.
+The combination LY-354,740 + LY-487,379 provided mild additional benefit when
+compared to LY-487,379 alone, but not compared to LY-354,740. For PLBs, when
+compared to vehicle treatment, LY-354,740, LY-487,379, and combination thereof
+all alleviated the abnormal behaviours, but the combination
+LY-354,740 + LY-487,379 did not provide greater relief than either drug alone.
+The anti-parkinsonian effect of L-DOPA was not altered by any of the treatments. 
+Our results provide further evidence that mGlu2 activation might be a novel
+approach to treat L-DOPA-induced dyskinesia and dopaminergic psychosis in PD.
+However, they do not suggest that greater therapeutic effect would be achieved
+upon combining an mGlu2 OA and an mGlu2 PAM.
+
+DOI: 10.1007/s00702-020-02185-z 
+PMID: 32246204  [Indexed for MEDLINE]
+
+
+12. Eur J Pharmacol. 2020 Apr 15;873:172957. doi: 10.1016/j.ejphar.2020.172957. Epub 
+2020 Jan 28.
+
+Selective metabotropic glutamate receptor 2 positive allosteric modulation
+alleviates L-DOPA-induced psychosis-like behaviours and dyskinesia in the
+MPTP-lesioned marmoset.
+
+Sid-Otmane L(1), Hamadjida A(2), Nuara SG(3), Bédard D(2), Gaudette F(4), Gourdon
+JC(3), Michaud V(5), Beaudry F(6), Panisset M(7), Huot P(8).
+
+Author information: 
+(1)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada.
+(2)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada.
+(3)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(4)Plateforme de Pharmacocinétique, Centre de Recherche du Centre Hospitalier de 
+l'Université de Montréal, Montreal, QC, Canada.
+(5)Pharmacotherapy and Translational Research, College of Pharmacy, University of
+Florida, Lake Nona Campus, Orlando, FL, USA.
+(6)Groupe de Recherche en Pharmacologie Animale du Québec, Département de
+Biomédecine Vétérinaire, Faculté de Médecine Vétérinaire, Université de Montréal,
+Saint-Hyacinthe, QC, Canada.
+(7)Unité des troubles du mouvement André-Barbeau, Service de Neurologie,
+Département de Médecine, Centre Hospitalier de l'Université de Montréal,
+Montreal, QC, Canada; Département de Neurosciences, Université de Montréal,
+Montreal, QC, Canada.
+(8)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada; Neurodegenerative Disease Group, Montreal Neurological Institute,
+Montreal, QC, Canada; Department of Neurology and Neurosurgery, McGill
+University, Montreal, QC, Canada; Movement Disorder Clinic, Division of
+Neurology, Department of Neurosciences, McGill University Health Centre,
+Montreal, QC, Canada. Electronic address: philippe.huot@mcgill.ca.
+
+Psychosis and dyskinesia significantly diminish the quality of life of patients
+with advanced Parkinson's disease (PD). Available treatment options are
+unfortunately few and their use is limited by adverse effects. We have recently
+shown that activation of metabotropic glutamate 2 and 3 (mGlu2/3) receptors
+produced significant relief of L-3,4-dihydroxyphenylalanine (L-DOPA)-induced
+psychosis-like behaviours (PLBs) and dyskinesia in experimental models of PD.
+Here, using the highly-selective mGlu2 positive allosteric modulator (PAM)
+LY-487,379, we seek to determine the contribution of selective mGlu2 activation
+on both L-DOPA-induced PLBs and dyskinesia, in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned primate. We first
+determined the pharmacokinetic (PK) profile of LY-487,379 in the common marmoset,
+following which we administered it (0.1, 1 and 10 mg/kg) or its vehicle to 6
+MPTP-lesioned marmosets previously exposed to L-DOPA to elicit stable PLBs and
+dyskinesia. We found that LY-487,379 provided a ≈45% reduction of the global PLBs
+observed and reduced global dyskinesia score by ≈ 55%. Moreover, LY-487,379
+enhanced the anti-parkinsonian effect of L-DOPA, by reducing global parkinsonian 
+score by ≈ 15%. Our data suggest that selective mGlu2 positive allosteric
+modulation with LY-487,379 may represent a potential therapeutic approach to
+alleviate both L-DOPA-induced PLBs and dyskinesia in PD.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ejphar.2020.172957 
+PMID: 32004527  [Indexed for MEDLINE]
+
+
+13. Eur J Neurosci. 2020 Jun;51(12):2412-2422. doi: 10.1111/ejn.14679. Epub 2020 Feb 
+12.
+
+The highly selective mGlu2 receptor positive allosteric modulator LY-487,379
+alleviates l-DOPA-induced dyskinesia in the 6-OHDA-lesioned rat model of
+Parkinson's disease.
+
+Hamadjida A(1), Sid-Otmane L(2), Kwan C(1), Frouni I(1)(2), Nafade V(1), Bédard
+D(1), Gagnon D(3), Wallman MJ(3), Rouillard C(4), Parent A(3), Parent M(3), Huot 
+P(1)(2)(5)(6).
+
+Author information: 
+(1)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada.
+(2)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada.
+(3)Centre de Recherche CERVO, Quebec City, QC, Canada.
+(4)Centre de Recherche du Centre Hospitalier Universitaire de Québec, Quebec
+City, QC, Canada.
+(5)Department of Neurology and Neurosurgery, McGill University, Montreal, QC,
+Canada.
+(6)Movement Disorder Clinic, Division of Neurology, Department of Neuroscience,
+McGill University Health Centre, Montreal, QC, Canada.
+
+l-3,4-Dihydroxyphenylalanine (l-DOPA) is the most effective treatment for
+Parkinson's disease (PD), but its use over a long period is marred by motors
+complications such as dyskinesia. We previously demonstrated that selective
+metabotropic glutamate 2/3 (mGlu2/3 ) receptor activation with LY-354,740
+alleviates dyskinesia in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(MPTP)-lesioned marmoset and the 6-hydroxydopamine (6-OHDA)-lesioned rat. Here,
+we sought to determine the role played by selective mGlu2 activation in the
+anti-dyskinetic effect of mGlu2/3 stimulation and have investigated the effect of
+the highly selective mGlu2 positive allosteric modulator LY-487,379 at
+alleviating established, and preventing the development of, l-DOPA-induced
+dyskinesia in the 6-OHDA-lesioned rat. First, dyskinetic 6-OHDA-lesioned rats
+were administered l-DOPA in combination with LY-487,379 (0.1, 1 and 10 mg/kg) or 
+vehicle, and the severity of dyskinesia was determined. Second, 6-OHDA-lesioned
+rats were administered LY-487,379 (0.1 or 1 mg/kg), started concurrently with
+l-DOPA, once daily for 22 days, and dyskinesia severity was evaluated weekly for 
+four consecutive weeks. We also assessed the effect of LY-487,379 on l-DOPA
+anti-parkinsonian effect. We found that acute challenges of LY-487,379 0.1 mg/kg 
+in combination with l-DOPA, significantly diminished dyskinesia severity, by ≈54%
+(p < .01), when compared to vehicle. Moreover, animals treated with
+l-DOPA/LY-487,379 0.1 and 1 mg/kg during the dyskinesia induction phase exhibited
+milder dyskinesia, by ≈74% and ≈61%, respectively (both p < .01), when compared
+to l-DOPA/vehicle. LY-487,379 did not impair l-DOPA anti-parkinsonian activity.
+These results suggest that mGlu2 activation may be an effective and promising
+therapeutic strategy to alleviate the severity and prevent the development of
+dyskinesia.
+
+© 2020 Federation of European Neuroscience Societies and John Wiley & Sons Ltd.
+
+DOI: 10.1111/ejn.14679 
+PMID: 31944461  [Indexed for MEDLINE]
+
+
+14. Neuropharmacology. 2019 Nov 1;158:107725. doi: 10.1016/j.neuropharm.2019.107725. 
+Epub 2019 Jul 25.
+
+Activation of mGlu2/3 receptors, a novel therapeutic approach to alleviate
+dyskinesia and psychosis in experimental parkinsonism.
+
+Frouni I(1), Hamadjida A(2), Kwan C(2), Bédard D(3), Nafade V(3), Gaudette F(4), 
+Nuara SG(5), Gourdon JC(5), Beaudry F(6), Huot P(7).
+
+Author information: 
+(1)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada; Neurodegenerative Disease Group, Montreal Neurological Institute,
+Montreal, QC, Canada.
+(2)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada; Integrated Program in Neuroscience, McGill University, Montreal, QC, 
+Canada.
+(3)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada.
+(4)Plateforme de Pharmacocinétique, Centre de Recherche du Centre Hospitalier de 
+l'Université de Montréal, Montreal, QC, Canada.
+(5)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(6)Groupe de Recherche en Pharmacologie Animale du Québec, Département de
+Biomédecine Vétérinaire, Faculté de Médecine Vétérinaire, Université de Montréal,
+Saint-Hyacinthe, QC, Canada.
+(7)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada; Neurodegenerative Disease Group, Montreal Neurological Institute,
+Montreal, QC, Canada; Integrated Program in Neuroscience, McGill University,
+Montreal, QC, Canada; Department of Neurology and Neurosurgery, McGill
+University, Montreal, QC, Canada; Movement Disorder Clinic, Division of
+Neurology, Department of Neurosciences, McGill University Health Centre,
+Montreal, QC, Canada. Electronic address: philippe.huot@mcgill.ca.
+
+Selective blockade of serotonin 2A (5-HT2A) receptors is a promising strategy to 
+reduce L-3,4-dihydroxyphenylalanine (l-DOPA)-induced dyskinesia and has shown
+efficacy in a Phase III clinical trial for dopaminergic psychosis in Parkinson's 
+disease (PD). However, pre-clinical and clinical evidence suggest that, while
+this approach may be effective and well tolerated, there might be a ceiling
+beyond which no further therapeutic benefit might be achieved. There is mounting 
+evidence that 5-HT2A receptors form a functional hetero-complex with metabotropic
+glutamate 2 (mGlu2) receptors, with antagonism of 5-HT2A receptors and activation
+of mGlu2 receptors producing similar effects on the Gi/Gq signalling ratio at the
+intra-cellular level. Based on this interaction between 5-HT2A and mGlu2
+receptors, we hypothesised that activation of mGlu2 receptors would alleviate
+dyskinesia and psychosis in PD. LY-354,740 is a selective mGlu2/3 orthosteric
+agonist that was previously tested in the clinic. In experiments conducted in the
+6-hydroxydopamine (6-OHDA)-lesioned rat and the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned marmoset, we found
+that mGlu2/3 activation with LY-354,740 significantly reduced the expression of
+dyskinesia and psychosis-like behaviours, while simultaneously enhancing l-DOPA
+therapeutic benefit. Moreover, mGlu2/3 activation with LY-354,740 attenuated the 
+development of dyskinesia. These data indicate that activation of mGlu2/3
+receptors is a therapeutic strategy that may provide relief for both motor
+and-non-motor treatment-related complications in PD.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuropharm.2019.107725 
+PMID: 31351976  [Indexed for MEDLINE]
+
+
+15. Exp Brain Res. 2019 Feb;237(2):435-442. doi: 10.1007/s00221-018-5434-9. Epub 2018
+Nov 15.
+
+5-HT2A blockade for dyskinesia and psychosis in Parkinson's disease: is there a
+limit to the efficacy of this approach? A study in the MPTP-lesioned marmoset and
+a literature mini-review.
+
+Kwan C(1)(2), Frouni I(1)(3), Bédard D(1), Nuara SG(4), Gourdon JC(4), Hamadjida 
+A(1)(2), Huot P(5)(6)(7)(8)(9).
+
+Author information: 
+(1)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St, BT 209, Montreal, QC, H3A 2B4, Canada.
+(2)Integrated Program in Neuroscience, McGill University, Montreal, QC, Canada.
+(3)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada.
+(4)Comparative Medicine and Animal Resource Centre, McGill University, Montreal, 
+QC, Canada.
+(5)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St, BT 209, Montreal, QC, H3A 2B4, Canada. philippe.huot@mcgill.ca.
+(6)Integrated Program in Neuroscience, McGill University, Montreal, QC, Canada.
+philippe.huot@mcgill.ca.
+(7)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada. philippe.huot@mcgill.ca.
+(8)Department of Neuroscience, McGill University, Montreal, QC, Canada.
+philippe.huot@mcgill.ca.
+(9)Division of Neurology, McGill University Health Centre, Montreal, QC, Canada. 
+philippe.huot@mcgill.ca.
+
+Virtually every patient affected by Parkinson's disease (PD) eventually requires 
+treatment with L-3,4-dihydroxyphenylalanine (L-DOPA), which leads to
+complications such as dyskinesia and psychosis. Whereas blockade of serotonin 2A 
+(5-HT2A) receptors appears to be an effective way to reduce both dyskinesia and
+psychosis, whether it has the potential to eliminate the two phenomena remains to
+be determined. In a previous study, we showed that highly selective 5-HT2A
+receptor blockade with EMD-281,014, at plasma levels comparable to those achieved
+in the clinic, reduced dyskinesia and psychosis-like behaviours (PLBs), in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned marmoset. Here, we
+sought to determine whether further increasing the dose would result in greater
+therapeutic benefit or if maximal effectiveness was achieved at lower doses. Six 
+MPTP-lesioned marmosets with stable dyskinesia and PLBs were administered
+EMD-281,014 (0.1, 1 and 10 mg/kg) or vehicle in combination with L-DOPA and the
+effect on dyskinesia, PLBs and parkinsonism was assessed. Administration of
+EMD-281,014 (0.1, 1 and 10 mg/kg) in combination with L-DOPA resulted in a
+significant reduction in the severity of dyskinesia, by up to 63%, 64% and 61%
+(each P < 0.001), when compared to L-DOPA/vehicle. Similarly, the addition of
+EMD-281,014 (0.1, 1 and 10 mg/kg) to L-DOPA also significantly decreased the
+severity of PLBs, by up to 54%, 55% and 53% (each P < 0.001), when compared to
+L-DOPA/vehicle. Our results suggest that there might be a ceiling to the
+reduction of dyskinesia and psychosis that can be achieved through antagonism of 
+5-HT2A receptors.
+
+DOI: 10.1007/s00221-018-5434-9 
+PMID: 30443669  [Indexed for MEDLINE]
+
+
+16. Naunyn Schmiedebergs Arch Pharmacol. 2018 Dec;391(12):1339-1345. doi:
+10.1007/s00210-018-1549-6. Epub 2018 Aug 7.
+
+Nefazodone reduces dyskinesia, but not psychosis-like behaviours, in the
+parkinsonian marmoset.
+
+Hamadjida A(1)(2), Nuara SG(3), Bédard D(1), Frouni I(1)(4), Kwan C(1)(2),
+Gourdon JC(3), Huot P(5)(6)(7)(8)(9).
+
+Author information: 
+(1)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St., BT 209, Montreal, QC, H3A 2B4, Canada.
+(2)Integrated Program in Neuroscience, McGill University, Montreal, QC, Canada.
+(3)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(4)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada.
+(5)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St., BT 209, Montreal, QC, H3A 2B4, Canada. philippe.huot@mcgill.ca.
+(6)Integrated Program in Neuroscience, McGill University, Montreal, QC, Canada.
+philippe.huot@mcgill.ca.
+(7)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada. philippe.huot@mcgill.ca.
+(8)Department of Neurology and Neurosurgery, McGill University, Montreal, QC,
+Canada. philippe.huot@mcgill.ca.
+(9)Division of Neurology, McGill University Health Centre, Montreal, QC, Canada. 
+philippe.huot@mcgill.ca.
+
+Nefazodone is an anti-depressant that interacts with a wealth of pharmacological 
+targets, including some that may exert anti-dyskinetic and anti-psychotic effects
+in Parkinson's disease (PD), notably serotonin 1A and 2A receptors. In this
+study, we sought to determine the effect of nefazodone on
+L-3,4-dihydroxyphenylalanine (L-DOPA)-induced dyskinesia and psychosis-like
+behaviours (PLBs) in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(MPTP)-lesioned primate. Six common marmosets developed parkinsonism following
+administration of MPTP, after which they were treated chronically with L-DOPA to 
+induce stable dyskinesia and PLBs. In behavioural experiments, nefazodone (0.01, 
+0.1 and 1 mg/kg) or vehicle was administered in combination with L-DOPA and its
+effects on dyskinesia, PLBs and parkinsonian disability were assessed. The
+addition of nefazodone 0.01, 0.1 and 1 mg/kg to L-DOPA reduced the severity of
+peak dose dyskinesia by ≈ 21%, ≈ 39% and ≈ 42% (all P < 0.05), while it did not
+have any significant effect on PLBs, when compared to L-DOPA/vehicle.
+Parkinsonian disability was not affected by any dose of nefazodone. Our results
+suggest that nefazodone may be effective to alleviate L-DOPA-induced dyskinesia
+in PD, while it may not exert any beneficial effect on dopaminergic psychosis.
+
+DOI: 10.1007/s00210-018-1549-6 
+PMID: 30088028  [Indexed for MEDLINE]
+
+
+17. Neuropharmacology. 2018 Sep 1;139:61-67. doi: 10.1016/j.neuropharm.2018.06.038.
+Epub 2018 Jun 30.
+
+The highly selective 5-HT2A antagonist EMD-281,014 reduces dyskinesia and
+psychosis in the l-DOPA-treated parkinsonian marmoset.
+
+Hamadjida A(1), Nuara SG(2), Bédard D(3), Gaudette F(4), Beaudry F(5), Gourdon
+JC(2), Huot P(6).
+
+Author information: 
+(1)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada; Integrated Program in Neuroscience, McGill University, Montreal, QC, 
+Canada.
+(2)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(3)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada.
+(4)Centre de Recherche du Centre Hospitalier de l'Université de Montréal,
+Montreal, QC, Canada.
+(5)Groupe de Recherche en Pharmacologie Animale du Québec, Département de
+Biomédecine Vétérinaire, Faculté de Médecine Vétérinaire Université de Montréal, 
+Saint-Hyacinthe, QC, Canada.
+(6)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada; Integrated Program in Neuroscience, McGill University, Montreal, QC, 
+Canada; Department of Neuroscience, McGill University, Montreal, QC, Canada;
+Division of Neurology, McGill University Health Centre, Montreal, QC, Canada.
+Electronic address: philippe.huot@mcgill.ca.
+
+Blockade of serotonin 2A (5-HT2A) receptors is regarded as an anti-dyskinetic and
+anti-psychotic strategy in Parkinson's disease (PD). However, the 5-HT2A
+antagonists tested so far exhibited affinity for other receptors, which might
+have played a role in their action. EMD-281,014 is the most selective 5-HT2A
+antagonist available, with approximately 2,000-fold selectivity over serotonin 2C
+(5-HT2C) receptors. EMD-281,014 was previously tested in the clinic and has high 
+translational potential. In the present study, we assessed the effect of
+EMD-281,014 on dyskinesia and psychosis in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned common marmoset. We 
+first determined the pharmacokinetic profile of EMD-281,014 in the marmoset,
+after which doses leading to clinically-relevant plasma levels (0.01, 0.03 and
+0.1 mg/kg) or vehicle were administered to MPTP-lesioned marmosets, in
+combination with L-3,4-dihydroxyphenylalanine (l-DOPA). The effects of
+EMD-281,014 on dyskinesia, psychosis-like behaviours (PLBs) and parkinsonism were
+then evaluated. When added to l-DOPA, EMD-281,014 (0.03 and 0.1 mg/kg) reduced
+peak dose dyskinesia, by 41.8% and 54.5% (P < 0.05 and P < 0.001), when compared 
+to l-DOPA/vehicle. EMD-281,014 (0.03 and 0.1 mg/kg) also significantly reduced
+the severity of peak dose PLBs, by 42.5% and 45.9% (P < 0.05 and P < 0.001), when
+compared to vehicle. The anti-dyskinetic and anti-psychotic effects of
+EMD-281,014 were achieved without interfering with l-DOPA anti-parkinsonian
+action. Our results suggest that highly-selective 5-HT2A receptor blockade with
+EMD-281,014 is an effective way to alleviate both dyskinesia and psychosis in PD,
+without adversely affecting parkinsonian disability.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuropharm.2018.06.038 
+PMID: 29969592  [Indexed for MEDLINE]
+
+
+18. J Pharmacol Exp Ther. 2018 May;365(2):379-397. doi: 10.1124/jpet.117.247171. Epub
+2018 Mar 9.
+
+Predictive Value of Parkinsonian Primates in Pharmacologic Studies: A Comparison 
+between the Macaque, Marmoset, and Squirrel Monkey.
+
+Veyres N(1), Hamadjida A(1), Huot P(2).
+
+Author information: 
+(1)Centre de Recherche du Centre Hospitalier de l'Université de Montréal
+(N.V.),Montreal Neurological Institute (A.H.,P.H.), and Department of Neurology
+and Neurosurgery, McGill University (P.H.), Montreal, Quebec, Canada.
+(2)Centre de Recherche du Centre Hospitalier de l'Université de Montréal
+(N.V.),Montreal Neurological Institute (A.H.,P.H.), and Department of Neurology
+and Neurosurgery, McGill University (P.H.), Montreal, Quebec, Canada
+philippe.huot@mcgill.ca.
+
+The 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned primate is the
+gold-standard animal model of Parkinson disease (PD) and has been used to assess 
+the effectiveness of experimental drugs on dyskinesia, parkinsonism, and
+psychosis. Three species have been used in most studies-the macaque, marmoset,
+and squirrel monkey-the last much less so than the first two species; however,
+the predictive value of each species at forecasting clinical efficacy, or lack
+thereof, is poorly documented. Here, we have reviewed all the published
+literature detailing pharmacologic studies that assessed the effects of
+experimental drugs on dyskinesia, parkinsonism, and psychosis in each of these
+species and have calculated their predictive value of success and failure at the 
+clinical level. We found that, for dyskinesia, the macaque has a positive
+predictive value of 87.5% and a false-positive rate of 38.1%, whereas the
+marmoset has a positive predictive value of 76.9% and a false-positive rate of
+15.6%. For parkinsonism, the macaque has a positive predictive value of 68.2% and
+a false-positive rate of 44.4%, whereas the marmoset has a positive predictive
+value of 86.9% and a false-positive rate of 41.7%. No drug that alleviates
+psychosis in the clinic has shown efficacy at doing so in the macaque, whereas
+the marmoset has 100% positive predictive value. The small number of studies
+conducted in the squirrel monkey precluded us from calculating its predictive
+efficacy. We hope our results will help in the design of pharmacologic
+experiments and will facilitate the drug discovery and development process in PD.
+
+Copyright © 2018 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/jpet.117.247171 
+PMID: 29523699  [Indexed for MEDLINE]
+
+
+19. Psychopharmacology (Berl). 2017 Mar;234(6):905-911. doi:
+10.1007/s00213-017-4530-z. Epub 2017 Jan 27.
+
+The effect of mirtazapine on dopaminergic psychosis and dyskinesia in the
+parkinsonian marmoset.
+
+Hamadjida A(1), Nuara SG(2), Veyres N(1), Frouni I(1)(3), Kwan C(1)(3),
+Sid-Otmane L(1)(3), Harraka MJ(3), Gourdon JC(2), Huot P(4)(5)(6)(7).
+
+Author information: 
+(1)Centre de Recherche du Centre Hospitalier de l'Université de Montréal,
+R09.436, 900 Rue St-Denis, Montreal, QC, H2X 0A9, Canada.
+(2)Comparative Medicine and Animal Resources Centre, McGill University, Montreal,
+QC, Canada.
+(3)Department of Pharmacology, Université de Montréal, Montreal, QC, Canada.
+(4)Centre de Recherche du Centre Hospitalier de l'Université de Montréal,
+R09.436, 900 Rue St-Denis, Montreal, QC, H2X 0A9, Canada. p.huot@umontreal.ca.
+(5)Department of Pharmacology, Université de Montréal, Montreal, QC, Canada.
+p.huot@umontreal.ca.
+(6)Unité des Troubles du Mouvement André Barbeau, Centre Hospitalier de
+l'Université de Montréal, Montreal, QC, Canada. p.huot@umontreal.ca.
+(7)Division of Neurology, Centre Hospitalier de l'Université de Montréal,
+Montreal, QC, Canada. p.huot@umontreal.ca.
+
+BACKGROUND: Parkinson's disease (PD) psychosis is encountered in as many as 50%
+of patients with advanced disease. Treatment options for PD psychosis are few. In
+fact, only clozapine and pimavanserin have shown efficacy in randomised
+controlled trials. Clinicians are often reluctant to prescribe the former, due to
+the risk of agranulocytosis, while the latter is not widely available yet.
+Because it is already clinically available and exhibits high affinity for
+serotonin 2A receptors, a target with which both clozapine and pimavanserin
+interact, we hypothesised that the anti-depressant mirtazapine might be effective
+to alleviate PD psychosis.
+METHODS: Here, we tested the anti-psychotic potential of mirtazapine in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned common marmoset.
+Five MPTP-lesioned marmosets exhibiting psychosis-like behaviours were
+administered L-3,4-dihydroxyphenylalanine (L-DOPA) in combination with
+mirtazapine (0.1, 1 and 10 mg/kg) or vehicle. We also tested the effect of
+mirtazapine on L-DOPA-induced dyskinesia.
+RESULTS: The addition of mirtazapine 10 mg/kg to L-DOPA reduced psychosis-like
+behaviours by 50% (P < 0.05) and dyskinesia by 29% (P < 0.01), when compared to
+L-DOPA/vehicle. Importantly, the antipsychotic and antidyskinetic effects of
+mirtazapine were achieved without hindering L-DOPA anti-parkinsonian action.
+CONCLUSIONS: Our results suggest that mirtazapine may be effective to alleviate
+PD psychosis and, because the drug is clinically available, clinical trials that 
+would assess its anti-psychotic efficacy in PD could be rapidly undertaken,
+hopefully leading to a new treatment option for this debilitating condition.
+
+DOI: 10.1007/s00213-017-4530-z 
+PMID: 28130646  [Indexed for MEDLINE]
+
+
+20. Eur J Pharmacol. 2014 Oct 15;741:304-10. doi: 10.1016/j.ejphar.2014.08.004. Epub 
+2014 Aug 23.
+
+The H3 receptor agonist immepip does not affect l-dopa-induced abnormal
+involuntary movements in 6-OHDA-lesioned rats.
+
+Papathanou M(1), Jenner P(1), Iravani M(1), Jackson M(1), Stockwell K(1), Strang 
+I(1), Zeng BY(1), McCreary AC(2), Rose S(3).
+
+Author information: 
+(1)Neurodegenerative Disease Research Group, School of Biomedical Sciences,
+King׳s College London, Hodgkin Building, London, SE1 1UL, UK.
+(2)Abbott Healthcare B.V., (formerly Solvay Pharmaceuticals Research
+Laboratories), Weesp, The Netherlands.
+(3)Neurodegenerative Disease Research Group, School of Biomedical Sciences,
+King׳s College London, Hodgkin Building, London, SE1 1UL, UK. Electronic address:
+sarah.rose@kcl.ac.uk.
+
+The treatment of dyskinesia in Parkinson׳s disease remains poor but H3 receptor
+agonists have been suggested as a novel pharmacological approach. We examined the
+effects of the H3 agonist, immepip, in 6-OHDA-lesioned rats exhibiting AIMs
+(abnormal involuntary movements), a rat analogue of dyskinesia, in response to
+l-dopa compared to the known anti-dyskinetic agents amantadine, MK-801 and
+8-OHDPAT. We then attempted to extend these studies in to dyskinetic
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) treated common marmosets.
+Amantadine, MK-801 and 8-OHDPAT all dose-dependently reduced l-dopa-induced
+axial, lingual and oral (ALO) AIMs in 6-OHDA-lesioned animals accompanied by a
+reduction in contralateral rotation with higher doses of amantadine and MK-801.
+By contrast, immepip had no effect on AIMs expression or contralateral rotation. 
+In the MPTP-treated common marmoset exhibiting dyskinesia to l-dopa, immepip
+alone induced retching and in combination with l-dopa administered subcutaneously
+or orally induced the rapid onset of retching and vomiting which was not
+controlled by pretreatment with domperidone. Administration of the unrelated H3
+agonist, imetit had the same effect. Despite causing negative side-effects, it
+appears that both agonists reduced the antiparkinsonian response to l-dopa
+resulting in reduced dyskinesia. H3 agonists appear unlikely candidates for the
+treatment of dyskinesia in PD based on lack of evidence of efficacy and potential
+adverse effects.
+
+Crown Copyright © 2014. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ejphar.2014.08.004 
+PMID: 25160743  [Indexed for MEDLINE]
+
+
+21. Neuropharmacology. 2014 Jul;82:76-87. doi: 10.1016/j.neuropharm.2014.01.012. Epub
+2014 Jan 18.
+
+UWA-121, a mixed dopamine and serotonin re-uptake inhibitor, enhances L-DOPA
+anti-parkinsonian action without worsening dyskinesia or psychosis-like
+behaviours in the MPTP-lesioned common marmoset.
+
+Huot P(1), Johnston TH(2), Lewis KD(3), Koprich JB(2), Reyes MG(2), Fox SH(4),
+Piggott MJ(5), Brotchie JM(6).
+
+Author information: 
+(1)Toronto Western Research Institute, Krembil Discovery Tower, 8KD-402, 60
+Leonard Street, Toronto, ON M5T 2S8, Canada; Division of Neurology, Movement
+Disorder Clinic, Toronto Western Hospital, University Health Network, 399
+Bathurst Street, Toronto, ON M5T 2S8, Canada. Electronic address:
+p.huot@umontreal.ca.
+(2)Toronto Western Research Institute, Krembil Discovery Tower, 8KD-402, 60
+Leonard Street, Toronto, ON M5T 2S8, Canada.
+(3)School of Biomedical, Biomolecular and Chemical Sciences, The University of
+Western Australia, 35 Stirling Highway, Perth 6009, Australia.
+(4)Toronto Western Research Institute, Krembil Discovery Tower, 8KD-402, 60
+Leonard Street, Toronto, ON M5T 2S8, Canada; Division of Neurology, Movement
+Disorder Clinic, Toronto Western Hospital, University Health Network, 399
+Bathurst Street, Toronto, ON M5T 2S8, Canada.
+(5)School of Biomedical, Biomolecular and Chemical Sciences, The University of
+Western Australia, 35 Stirling Highway, Perth 6009, Australia. Electronic
+address: matthew.piggott@uwa.edu.au.
+(6)Toronto Western Research Institute, Krembil Discovery Tower, 8KD-402, 60
+Leonard Street, Toronto, ON M5T 2S8, Canada. Electronic address:
+brotchie@uhnres.utoronto.ca.
+
+L-3,4-Dihydroxyphenylalanine (L-DOPA) is the most effective treatment for
+Parkinson's disease (PD), but its long-term administration is complicated by
+wearing-off and dyskinesia. UWA-101, a dual, equipotent inhibitor of dopamine
+(DAT) and serotonin (SERT) transporters, has previously been shown to
+successfully extend duration of anti-parkinsonian benefit of L-DOPA (ON-time),
+without exacerbating dyskinesia, in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned marmoset. However,
+UWA-101 is racemic and it is unclear whether one or both enantiomers contribute
+to its actions, and whether a better therapeutic effect might be attained by
+using a single antipode. In the current study, we synthesised the two enantiomers
+of UWA-101, R-101 (UWA-121) and S-101 (UWA-122), characterised their
+pharmacological profiles and administered them to MPTP-lesioned marmosets.
+Parkinsonism, dyskinesia, psychosis-like behaviours and duration of ON-time were 
+evaluated. UWA-121 is a dual DAT > SERT inhibitor, with an approximate 10:1
+DAT:SERT affinity ratio (inhibitory constants (Ki) of 307 and 3830 nM,
+respectively). In combination with L-DOPA, UWA-121 extended duration of ON-time
+when compared to L-DOPA/vehicle treatment (by 40%, P < 0.01). UWA-121 also
+extended duration of ON-time without dyskinesia (by 215%, P < 0.05) and ON-time
+without psychosis-like behaviours when compared to L-DOPA/vehicle treatment (by
+345%, P < 0.01). UWA-121 did not worsen the severity of dyskinesia or
+psychosis-like behaviours (P > 0.05). UWA-122 is a selective SERT inhibitor (Ki
+120 nM, Ki at DAT > 50 μM) and, in combination with L-DOPA, had no effect on
+ON-time, dyskinesia or psychosis-like behaviours (P > 0.05). These data indicate 
+that dual DAT and SERT inhibitors effectively enhance L-DOPA anti-parkinsonian
+action without worsening dyskinesia and that compounds with such a
+pharmacological profile represent promising agents against wearing-off in PD.
+
+Copyright © 2014. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.neuropharm.2014.01.012 
+PMID: 24447715  [Indexed for MEDLINE]
+
+
+22. PLoS One. 2012;7(9):e45587. doi: 10.1371/journal.pone.0045587. Epub 2012 Sep 20.
+
+The monoamine re-uptake inhibitor UWA-101 improves motor fluctuations in the
+MPTP-lesioned common marmoset.
+
+Huot P(1), Johnston TH, Gandy MN, Reyes MG, Fox SH, Piggott MJ, Brotchie JM.
+
+Author information: 
+(1)Toronto Western Research Institute, University Health Network, Toronto,
+Ontario, Canada.
+
+BACKGROUND: The wearing-OFF phenomenon is a common motor complication of chronic 
+L-3,4-dihydroxyphenylalanine (L-DOPA) therapy for Parkinson's disease. We
+recently described the discovery of UWA-101, a dual serotonin (SERT) and dopamine
+(DAT) transporter inhibitor, which increases the duration of "good quality"
+ON-time provided by L-DOPA in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(MPTP)-lesioned primate. Here, we further characterise the effects of UWA-101 on 
+this extension of ON-time in terms of L-DOPA-induced side-effects in the
+MPTP-lesioned common marmoset.
+METHODS: Marmosets were rendered parkinsonian by MPTP injection and "primed" by
+repeated L-DOPA administration, to exhibit dyskinesia and psychosis-like
+behaviours. Animals were then administered acute challenges of L-DOPA in
+combination with UWA-101 (1, 3, 6 and 10 mg/kg) or vehicle.
+RESULTS: In combination with L-DOPA, UWA-101 (3, 6 and 10 mg/kg) significantly
+increased duration of ON-time (by 28%, 28%, and 33%, respectively; all P<0.05).
+UWA-101 (10 mg/kg) significantly extended duration of ON-time without disabling
+dyskinesia (by 62%, P<0.01). UWA-101 did not exacerbate the severity of
+dyskinesia (P>0.05). However, at the highest doses (6 and 10 mg/kg), UWA-101
+increased the severity of psychosis-like behaviours (P<0.05).
+CONCLUSIONS: Our results demonstrate that dual SERT/ DAT inhibitors can
+effectively enhance L-DOPA anti-parkinsonian action, without exacerbating
+dyskinesia and, as such, represent a promising new therapeutic class for
+wearing-OFF. However, at higher doses, dual SERT/ DAT inhibitors may exacerbate
+dopaminergic psychosis.
+
+DOI: 10.1371/journal.pone.0045587 
+PMCID: PMC3447761
+PMID: 23029119  [Indexed for MEDLINE]
+
+
+23. Parkinsonism Relat Disord. 2013 Feb;19(2):260-4. doi:
+10.1016/j.parkreldis.2012.07.001. Epub 2012 Aug 14.
+
+RGFP109, a histone deacetylase inhibitor attenuates L-DOPA-induced dyskinesia in 
+the MPTP-lesioned marmoset: a proof-of-concept study.
+
+Johnston TH(1), Huot P, Damude S, Fox SH, Jones SW, Rusche JR, Brotchie JM.
+
+Author information: 
+(1)Division of Brain, Imaging & Behaviour, Systems Neuroscience, Toronto Western 
+Research Institute, 399 Bathurst Street, MP-12-303, Toronto, ON M5T2S8, Canada.
+tom.johnston@uhnresearch.ca
+
+BACKGROUND: l-3,4-dihydroxyphenylalanine (l-DOPA)-induced dyskinesia (LID) are a 
+complication of chronic dopamine replacement therapy in Parkinson's disease (PD).
+Recent studies have suggested that the mechanisms underlying development and
+expression of LID in PD may involve epigenetic changes that include deacetylation
+of striatal histone proteins. We hypothesised that inhibition of histone
+deacetylase, the enzyme responsible of histone deacetylation, would alleviate
+LID.
+METHODS: Four female common marmoset (Callithrix jacchus) were rendered
+parkinsonian by administration of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(MPTP). Following stabilisation of the parkinsonian phenotype, marmosets were
+primed to exhibit dyskinesia with chronic administration of L-DOPA. We then
+investigated the effects of the brain-penetrant histone deacetylase inhibitor,
+RGFP109 (30 mg/kg p.o. once daily for 6 days), on LID and L-DOPA
+anti-parkinsonian efficacy.
+RESULTS: RGFP109 had no acute effects on dyskinesia after single or 6 days
+once-daily treatment (both P > 0.05). However, one week following cessation of
+RGFP109, dyskinesia and duration of ON-time with disabling dyskinesia were
+reduced by 37% and 50%, respectively (both P < 0.05), compared to that seen
+previously with L-DOPA alone. There was no change in anti-parkinsonian actions
+of, or ON-time duration afforded by, L-DOPA (P > 0.05).
+CONCLUSIONS: Histone deacetylation inhibition may represent a novel approach to
+reverse established LID in PD and improve quality of the anti-parkinsonian
+benefit provided by L-DOPA.
+
+Copyright © 2012. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.parkreldis.2012.07.001 
+PMID: 22901956  [Indexed for MEDLINE]
+
+
+24. J Neurosci. 2011 May 11;31(19):7190-8. doi: 10.1523/JNEUROSCI.1171-11.2011.
+
+Characterization of 3,4-methylenedioxymethamphetamine (MDMA) enantiomers in vitro
+and in the MPTP-lesioned primate: R-MDMA reduces severity of dyskinesia, whereas 
+S-MDMA extends duration of ON-time.
+
+Huot P(1), Johnston TH, Lewis KD, Koprich JB, Reyes MG, Fox SH, Piggott MJ,
+Brotchie JM.
+
+Author information: 
+(1)Toronto Western Research Institute, Toronto Western Hospital, University
+Health Network, Toronto, Ontario M5T 2S8, Canada.
+
+l-3,4-dihydroxyphenylalanine (l-DOPA) is the most effective treatment for
+Parkinson's disease, but long-term l-DOPA administration is marred by the
+emergence of motor complications, namely, dyskinesia and a shortening of
+antiparkinsonian benefit (wearing-OFF). 3,4-methylenedioxymethamphetamine (MDMA) 
+is unique in that it exerts antidyskinetic effects and may enhance
+antiparkinsonian actions of l-DOPA. MDMA is composed of two enantiomers with
+different pharmacological profiles; here, we describe a novel enantiospecific
+synthesis of the two enantiomers and expand on the previous characterization of
+their pharmacology. R-MDMA (rectus-MDMA) is relatively selective for 5-HT(2A)
+receptors, whereas S-MDMA (sinister-MDMA) inhibits both serotonin (SERT) and
+dopamine transporters (DAT; SERT/DAT ratio of 10 to 1). R- or S-MDMA (1, 3, and
+10 mg/kg, s.c.) was administered in combination with l-DOPA (15 mg/kg, s.c.) to
+six female common marmosets (Callithrix jacchus) rendered parkinsonian by MPTP
+(1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine) administration. Motor disability, 
+including parkinsonism and dyskinesia, and duration of antiparkinsonian benefit
+(ON-time) were evaluated. After the administration of R-MDMA (3 and 10 mg/kg),
+the severity of peak-dose dyskinesia was decreased (by 33 and 46%, respectively; 
+p < 0.05); although total ON-time was unchanged (approximately 220 min), the
+duration of ON-time with disabling dyskinesia was decreased by 90 min when
+compared to l-DOPA alone (69% reduction; p < 0.05). S-MDMA (1 mg/kg) increased
+the total ON-time by 88 min compared to l-DOPA alone (34% increase; p < 0.05),
+though dyskinesia were exacerbated. These data suggest that racemic MDMA exerts
+simultaneous effects, reducing dyskinesia and extending ON-time, by 5-HT(2A)
+antagonism and SERT-selective mixed monoamine uptake inhibition, which arise from
+its R and S enantiomers, respectively.
+
+DOI: 10.1523/JNEUROSCI.1171-11.2011 
+PMCID: PMC6703214
+PMID: 21562283  [Indexed for MEDLINE]
+
+
+25. J Pharmacol Exp Ther. 2011 Feb;336(2):423-30. doi: 10.1124/jpet.110.169532. Epub 
+2010 Oct 21.
+
+Fatty acid amide hydrolase (FAAH) inhibition reduces
+L-3,4-dihydroxyphenylalanine-induced hyperactivity in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-lesioned non-human primate model of 
+Parkinson's disease.
+
+Johnston TH(1), Huot P, Fox SH, Wakefield JD, Sykes KA, Bartolini WP, Milne GT,
+Pearson JP, Brotchie JM.
+
+Author information: 
+(1)Toronto Western Research Institute, University Health Network, Toronto,
+Ontario, Canada.
+
+Dopaminergic therapies remain the most efficacious symptomatic treatments for
+Parkinson's disease (PD) but are associated with motor complications, including
+dyskinesia, and nonmotor complications, such as psychosis, impulse control
+disorders (ICD), and dopamine dysregulation syndrome (DDS). Nondopaminergic
+neurotransmitter systems, including the endocannabinoid system, are probably
+critical to the development of these complications. The role of fatty acid amide 
+hydrolase (FAAH) in mediating l-3,4-dihydroxyphenylalanine (L-DOPA)-induced
+behaviors was explored in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-lesioned marmoset model of PD.
+Pharmacodynamic and locomotor effects of the selective FAAH inhibitor
+[3-(3-carbamoylphenyl)phenyl] N-cyclohexylcarbamate (URB597) were assessed via
+bioanalytical (liquid chromatography-tandem mass spectrometry) and behavioral
+observation approaches. URB597 (3, 10, 30, or 60 mg/kg p.o.) increased plasma
+levels of the FAAH substrates N-arachidonoyl ethanolamide (anandamide), N-oleoyl 
+ethanolamide, and N-palmitoyl ethanolamide by 10.3 ± 0.3-, 7.8 ± 0.2-, and 1.8 ± 
+0.1-fold (mean of URB597 groups ± S.E.M.), respectively, compared with vehicle
+(all p < 0.001) 4 h after administration. Treatment with L-DOPA (20 mg/kg s.c.)
+alleviated parkinsonism but elicited dyskinesia, psychosis-like-behaviors and
+hyperactivity, a potential correlate of ICD and DDS. During the 2 to 4 h after
+L-DOPA, corresponding to 4 to 6 h after URB597 administration, URB597 reduced
+total L-DOPA-induced activity and the magnitude of hyperactivity by 32 and 52%,
+respectively, to levels equivalent to those seen in normal animals. Treatment
+with URB597 (10 mg/kg p.o.) did not modify the antiparkinsonian actions of L-DOPA
+or L-DOPA-induced dyskinesia and psychosis. URB597 did not alter plasma L-DOPA
+levels and was without behavioral effects when administered alone. Inhibition of 
+FAAH may represent a novel approach to reducing L-DOPA-induced side effects, such
+as ICD and DDS, while maintaining the antiparkinsonian benefits of L-DOPA
+treatment.
+
+DOI: 10.1124/jpet.110.169532 
+PMID: 20966038  [Indexed for MEDLINE]
+
+
+26. Neurobiol Dis. 2010 Dec;40(3):599-607. doi: 10.1016/j.nbd.2010.08.004. Epub 2010 
+Aug 14.
+
+Morphological changes in serotoninergic neurites in the striatum and globus
+pallidus in levodopa primed MPTP treated common marmosets with dyskinesia.
+
+Zeng BY(1), Iravani MM, Jackson MJ, Rose S, Parent A, Jenner P.
+
+Author information: 
+(1)NDRG, School of Biomedical and Health Sciences, King's College, London, UK.
+
+Hyperinnervation of the striatum by serotoninergic (5-HT) terminals occurs after 
+destruction of the dopaminergic nigro-striatal pathway. Recent studies have
+suggested that non-physiological release of dopamine (DA) formed from levodopa in
+these serotoninergic terminals underlies abnormal involuntary movement (AIMs)
+induction in 6-OHDA lesioned rats. In the present study, we used tryptophan
+hydroxylase (TPH) immunohistochemistry to determine whether
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine hydrochloride (MPTP) treatment and
+the induction of dyskinesia by levodopa alter the morphology of 5-HT fibres in
+the striatum of common marmosets. The caudate-putamen of normal monkeys contained
+numerous fine and smooth TPH positive fibres and numerous varicose fibres, but a 
+marked hyperinnervation of TPH positive fibres characterised by a significant
+increase in the number and diameter of TPH positive axon varicosities was noted
+in the dorsal caudate and putamen of MPTP-intoxicated monkeys but not the globus 
+pallidus. In MPTP-intoxicated marmosets that had received chronic levodopa
+treatment to induce dyskinesia, a further increase in the number and enlargement 
+of TPH positive axonal varicosities in both caudate nucleus and putamen was
+evident. Following LID induction, a similar pattern of increase was also observed
+in the external segment of the globus pallidus, but only a significant varicosity
+enlargement was seen in the internal pallidal segment. These results confirm that
+striatal 5-HT hyperinnervation follows nigro-striatal pathway loss and provide
+the first evidence in primates that chronic levodopa treatment and the onset of
+dyskinesia are associated with a marked hypertrophy of striatal 5-HT axonal
+varicosities. These findings support the concept that altered 5-HT function may
+contribute to the genesis or expression of LID.
+
+Copyright © 2010 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.nbd.2010.08.004 
+PMID: 20713157  [Indexed for MEDLINE]
+
+
+27. Can J Neurol Sci. 2010 Jan;37(1):86-95.
+
+Neuropsychiatric behaviors in the MPTP marmoset model of Parkinson's disease.
+
+Fox SH(1), Visanji N, Reyes G, Huot P, Gomez-Ramirez J, Johnston T, Brotchie JM.
+
+Author information: 
+(1)Division of Neurology, Toronto Western Research Institute, University of
+Toronto, Toronto Western Hospital, Toronto, Ontario, Canada.
+
+OBJECTIVES: Neuropsychiatric symptoms are increasingly recognised as a
+significant problem in patients with Parkinson's disease (PD). These symptoms may
+be due to 'sensitisation' following repeated levodopa treatment or a direct
+effect of dopamine on the disease state. The levodopa-treated MPTP-lesioned
+marmoset was used as a model of neuropsychiatric symptoms in PD patients. Here we
+compare the time course of levodopa-induced motor fluctuations and
+neuropsychiatric-like behaviors to determine the relationship between duration of
+treatment and onset of symptoms.
+METHODS: Marmosets were administered 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(2.0 mg/kg s.c.) for five days, resulting in stable parkinsonism. Levodopa (15
+mg/kg and benserazide, 3.75 mg/kg) p.o. b.i.d, was administered for 30 days.
+Animals were evaluated for parkinsonian disability, dyskinesia and on-time (motor
+fluctuations) and neuropsychiatric-like behaviors on Day 0 (prior to levodopa)
+and on Days 1, 7, 13, 27 and 30 of treatment using post hoc DVD analysis by a
+trained rater, blind to the treatment day.
+RESULTS: The neuropsychiatric-like behavior rating scale demonstrated high
+interrater reliability between three trained raters of differing professional
+backgrounds. As anticipated, animals exhibited a progressive increase in
+levodopa-induced motor fluctuations, dyskinesia and wearing-off, that correlated 
+with the duration of levodopa therapy. In contrast, levodopa-induced
+neuropsychiatric-like behaviors were present on Day 1 of levodopa treatment and
+their severity did not correlate with duration of treatment.
+CONCLUSIONS: The data suggest that neuropsychiatric disorders in PD are more
+likely an interaction between levodopa and the disease state than a consequence
+of sensitisation to repeated dopaminergic therapy.
+
+DOI: 10.1017/s0317167100009707 
+PMID: 20169779  [Indexed for MEDLINE]
+
+
+28. Neurobiol Dis. 2009 Aug;35(2):184-92. doi: 10.1016/j.nbd.2008.11.010. Epub 2008
+Dec 9.
+
+Dopamine D3 receptor stimulation underlies the development of L-DOPA-induced
+dyskinesia in animal models of Parkinson's disease.
+
+Visanji NP(1), Fox SH, Johnston T, Reyes G, Millan MJ, Brotchie JM.
+
+Author information: 
+(1)Toronto Western Research Institute, 399 Bathurst Street, MC11-419, Toronto,
+Ontario M5T 2S8, Canada.
+
+Development of L-DOPA-induced dyskinesia (LID) remains a major problem in the
+long-term treatment of Parkinson's disease (PD). Sensitization to L-DOPA
+correlates with ectopic expression of D3 dopamine receptors in the striatum,
+implicating D3 receptors in development of LID. We demonstrate that the selective
+D3 antagonist S33084 abolishes development of LID over 30 days in MPTP-lesioned
+marmosets without effecting the anti-parkinsonian actions of L-DOPA. Furthermore,
+following a 14 day washout, when challenged with L-DOPA in the absence of S33084,
+these animals continued to exhibit reduced LID. In the 6-OHDA-lesioned rat,
+S33084 similarly attenuated development of behavioural sensitization to L-DOPA.
+Additionally, L-DOPA-induced elevations in striatal pre-proenkephalin-A (PPE-A)
+(but not PPE-B, phospho[Thr(34)]DARPP-32, D1, and D2 receptor mRNA or D3 receptor
+levels) were reduced in S33084 treated animals. Our data suggest a role for D3
+receptors in the development of LID and suggest that initiating L-DOPA treatment 
+with a D3 antagonist may reduce the development of LID in PD.
+
+DOI: 10.1016/j.nbd.2008.11.010 
+PMID: 19118628  [Indexed for MEDLINE]
+
+
+29. Eur J Neurosci. 2007 Jul;26(1):171-7.
+
+Striatal leucine-rich repeat kinase 2 mRNA is increased in
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-lesioned common marmosets
+(Callithrix jacchus) with L-3, 4-dihydroxyphenylalanine methyl ester-induced
+dyskinesia.
+
+Hurley MJ(1), Patel PH, Jackson MJ, Smith LA, Rose S, Jenner P.
+
+Author information: 
+(1)Neurodegenerative Diseases Research Group, Pharmaceutical Sciences Research
+Division, School of Biomedical and Health Sciences, King's College, London SE1
+1UL, UK. michael.j.hurley@kcl.ac.uk
+
+The level of leucine-rich repeat kinase 2 (Lrrk2) mRNA expression was measured by
+reverse transcription-polymerase chain reaction in anterior striatum from normal 
+and 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-treated common marmosets 
+(Callithrix jacchus) that had L-3,4-dihydroxyphenylalanine methyl ester
+(L-DOPA)-induced dyskinesia. The level of striatal Lrrk2 mRNA was increased in
+MPTP-treated common marmosets that had L-DOPA-induced dyskinesia compared with
+normal animals that did not receive l-DOPA. Marmosets that exhibited higher
+levels of dyskinesia had the greatest increase in striatal Lrrk2 mRNA. Lrrk2 mRNA
+expression was also measured in human striatum and substantia nigra from control 
+subjects and patients dying with Parkinson's disease. In contrast to marmoset
+tissue, no alteration in Lrrk2 mRNA expression was found in parkinsonian human
+brain. However, the brain was from patients who had an overall low level of
+dyskinesia. The correlation between striatal Lrrk2 mRNA levels in MPTP-treated
+common marmoset striatum and L-DOPA-induced dyskinesia indicates that LRRK2 may
+have a role in the molecular alterations that cause L-DOPA-induced dyskinesia.
+
+DOI: 10.1111/j.1460-9568.2007.05638.x 
+PMID: 17614947  [Indexed for MEDLINE]
+
+
+30. Mov Disord. 2007 Apr 15;22(5):715-9.
+
+Antiparkinsonian activity of L-propyl-L-leucyl-glycinamide or
+melanocyte-inhibiting factor in MPTP-treated common marmosets.
+
+Katzenschlager R(1), Jackson MJ, Rose S, Stockwell K, Tayarani-Binazir KA, Zubair
+M, Smith LA, Jenner P, Lees AJ.
+
+Author information: 
+(1)Reta Lila Weston Institute of Neurological Studies, University College London,
+UK.
+
+The neuropeptide melanocyte-inhibiting factor (MIF) or
+L-propyl-L-leucyl-glycinamide (PLG) has been reported in some studies to improve 
+the motor signs of Parkinson's disease (PD) and in rodent models of PD. In this
+study of oral and intravenous MIF in N-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(MPTP)-lesioned marmosets, a wide range of doses of MIF administered alone (0.25,
+1, 2, 5, 10, 20 mg/kg orally) did not increase locomotor activity, relieve motor 
+disability, or induce dyskinesias. When MIF (1.0 and 5.0 mg/kg orally or 10 and
+20 mg/kg intravenously) was administered concomitantly with levodopa/benserazide,
+no significant differences in motor function or dyskinesias were observed
+compared with levodopa/benserazide alone. The results of this first study of MIF 
+in the marmoset MPTP model provide no encouragement for the reinvestigation of
+MIF in the clinical management of the motor signs of PD.
+
+DOI: 10.1002/mds.21256 
+PMID: 17373723  [Indexed for MEDLINE]
+
+
+31. Mov Disord. 2006 Dec;21(12):2090-5.
+
+Antiparkinsonian effects of the novel D3/D2 dopamine receptor agonist, S32504, in
+MPTP-lesioned marmosets: Mediation by D2, not D3, dopamine receptors.
+
+Hill MP(1), Ravenscroft P, McGuire SG, Brotchie JM, Crossman AR, Rochat C, Millan
+MJ.
+
+Author information: 
+(1)Motac Neuroscience, Ltd., Manchester, United Kingdom. m.hill@motac.com
+
+L-dopa remains the most common treatment for Parkinson's disease. However, there 
+is considerable interest in D3/D2 receptor agonists such as the novel agent
+S32504, since they exert antiparkinsonian properties in the absence of
+dyskinesia. An important question concerns the roles of D2 vs. D3 receptors, an
+issue we addressed with the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(MPTP)-lesioned nonhuman primate model of Parkinson's disease. In L-dopa-primed
+animals, S32504 (0.16-2.5 mg/kg p.o.) dose-dependently enhanced locomotor
+activity. This action was abolished by the D2 antagonist, L741,626 (2.5 mg/kg),
+but potentiated by the D3 antagonist, S33084 (0.63 mg/kg). Both antagonists were 
+inactive alone. In drug-naive animals, a maximally effective dose of S32504 (2.5 
+mg/kg p.o.) displayed pronounced antiparkinsonian properties from the third day
+of administration, and its actions were expressed rapidly and durably. Thus, on
+day 33, antiparkinsonian properties of S32504 were apparent within 5 minutes and 
+present for > 4 hours. Moreover, they were associated with neither wearing off
+nor significant dyskinesia. In conclusion, the novel D3/D2 agonist S32504 may
+offer advantages over L-dopa in the treatment of newly diagnosed parkinsonian
+patients. Its actions are expressed primarily by activation of D2, not D3,
+receptors.
+
+Copyright 2006 Movement Disorder Society.
+
+DOI: 10.1002/mds.21106 
+PMID: 16991143  [Indexed for MEDLINE]
+
+
+32. Mov Disord. 2006 Nov;21(11):1879-91.
+
+Pharmacological characterization of psychosis-like behavior in the MPTP-lesioned 
+nonhuman primate model of Parkinson's disease.
+
+Visanji NP(1), Gomez-Ramirez J, Johnston TH, Pires D, Voon V, Brotchie JM, Fox
+SH.
+
+Author information: 
+(1)Toronto Western Research Institute, Toronto Western Hospital, Toronto,
+Ontario, Canada.
+
+Investigation of the pathophysiology of psychosis in Parkinson's disease (PD), as
+well as the assessment of potential novel therapeutics, has been limited by the
+lack of a well-validated animal model. MPTP-lesioned primates exhibit abnormal
+behaviors that are distinct from dyskinesia and parkinsonism and may represent
+behavioral correlates of neural processes related to psychosis in PD. Here we
+assess four types of behavior--agitation, hallucinatory-like responses to
+nonapparent stimuli, obsessive grooming, and stereotypies that are termed
+"psychosis-like"--and define their pharmacology using a psychosis-like behavior
+rating scale. By assessing the actions of drugs known to enhance or attenuate
+psychosis in PD patients, we find that the pharmacology of these behaviors
+recapitulates, in several respects, the pharmacology of psychosis in PD. Thus,
+levodopa and apomorphine elicited psychosis-like behaviors. Amantadine
+significantly decreased levodopa-induced dyskinesia but exacerbated
+psychosis-like behaviors. Haloperidol reduced psychosis-like behaviors but at the
+expense of increased parkinsonian disability while the atypical neuroleptics
+clozapine and quetiapine reduced psychosis-like behaviors without significant
+effect on parkinsonian disability. The response of different components of the
+psychotomimetic behavior suggested the involvement of both dopaminergic and
+nondopaminergic mechanisms in their expression.
+
+DOI: 10.1002/mds.21073 
+PMID: 16960862  [Indexed for MEDLINE]
+
+
+33. Mov Disord. 2006 Jun;21(6):839-46.
+
+Histamine H3 receptor agonists reduce L-dopa-induced chorea, but not dystonia, in
+the MPTP-lesioned nonhuman primate model of Parkinson's disease.
+
+Gomez-Ramirez J(1), Johnston TH, Visanji NP, Fox SH, Brotchie JM.
+
+Author information: 
+(1)Toronto Western Research Institute, Toronto Western Hospital, University
+Health Network, Toronto, Ontario, Canada.
+
+L-dopa-induced dyskinesia (LID) remains a major complication of the treatment of 
+Parkinson's disease. The neural mechanisms underlying LID are thought to involve 
+overactivity of striatal glutamatergic neurotransmission, with resultant
+underactivation of the output regions of the basal ganglia. Histamine H3
+heteroreceptors can reduce glutamate and gamma-aminobutyric acid (GABA)
+transmission in the striatum and substantia nigra reticulata, respectively. Thus,
+we tested whether the histamine H3 receptor agonists immepip and imetit can
+alleviate LID in the MPTP-lesioned marmoset model of Parkinson's disease.
+Coadministration of immepip (1 mg/kg) with L-dopa (15 mg/kg) was associated with 
+significantly less total dyskinesia than L-dopa alone. When dyskinesia was
+separately rated as chorea and dystonia, coadministration of L-dopa with either
+immepip or imetit (both 10 mg/kg) significantly reduced chorea but had no effect 
+on dystonia. The antidyskinetic actions of the H3 agonists were not accompanied
+by alteration of the antiparkinsonian actions of L-dopa. However, immepip (10
+mg/kg), when administered as monotherapy, significantly increased parkinsonian
+disability compared to vehicle. Overall, the results obtained in this study
+suggest that histamine H3 receptors may be involved in the neural mechanisms
+underlying L-dopa-induced dyskinesia in Parkinson's disease.
+
+DOI: 10.1002/mds.20828 
+PMID: 16532454  [Indexed for MEDLINE]
+
+
+34. Eur J Neurosci. 2005 Jun;21(12):3240-50.
+
+Immunoautoradiographic analysis of NMDA receptor subunits and associated
+postsynaptic density proteins in the brain of dyskinetic MPTP-treated common
+marmosets.
+
+Hurley MJ(1), Jackson MJ, Smith LA, Rose S, Jenner P.
+
+Author information: 
+(1)Neurodegenerative Diseases Research Group, Pharmaceutical Sciences Division,
+School of Health and Life Sciences, King's College, London, SE1 1UL, UK.
+michael.j.hurley@kcl.ac.uk
+
+l-3,4-dihydroxyphenylalanine methyl ester (l-DOPA)-induced dyskinesia in
+Parkinson's disease may result from aberrant glutamatergic stimulation of the
+striatum due to synaptic plasticity in the motor cortex or striatum as a
+consequence of adaptation of striatal output pathways. This might result from
+changes in NMDA receptor subunit or NMDA receptor associated postsynaptic density
+(PSD) scaffold protein expression. Using immunoautoradiography the expression
+levels of NR1 and NR2B subunits of the NMDA receptor and the postsynaptic density
+scaffold proteins, PSD-95, PSD-93, and neurofilament light (NFL) were examined in
+normal common marmosets (Callithrix jacchus) and
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned animals that
+exhibited high or low levels of l-DOPA-induced dyskinesia. Brains from
+MPTP-lesioned animals that were not primed for l-DOPA-induced dyskinesia were not
+included in this study. No alterations in the NR1 NMDA receptor subunit were
+observed. The NR2B NMDA receptor subunit was increased in caudal caudate nucleus 
+and putamen, hippocampus, cingulate motor area (CMA), supplementary motor area
+(SMA) and dorsal primary motor cortex (dMI) of highly dyskinetic MPTP-lesioned
+marmosets, but not in animals with low levels of dyskinesia. PSD-93 was decreased
+in the globus pallidus of marmosets with high and low levels of dyskinesia and
+increased in the CMA, SMA and dMI of highly dyskinetic marmosets. PSD-95 was
+increased in the SMA of highly dyskinetic marmosets, but not in animals with low 
+dyskinesia. NFL expression was elevated in the SMA and dorsal and ventral MI of
+highly dyskinetic marmosets. These results suggest that l-DOPA treatment of
+MPTP-lesioned marmosets can affect glutamatergic systems and indicate that
+altered NMDA receptor function may relate to dyskinesia.
+
+DOI: 10.1111/j.1460-9568.2005.04169.x 
+PMID: 16026462  [Indexed for MEDLINE]
+
+
+35. Eur J Neurosci. 2005 Feb;21(4):841-54.
+
+A modified MPTP treatment regime produces reproducible partial nigrostriatal
+lesions in common marmosets.
+
+Iravani MM(1), Syed E, Jackson MJ, Johnston LC, Smith LA, Jenner P.
+
+Author information: 
+(1)Neurodegenerative Disease Research Centre, GKT School of Biomedical Sciences, 
+King's College, London SE1 1UL, UK.
+
+Standard MPTP treatment regimens in primates result in > 85% destruction of
+nigral dopaminergic neurons and the onset of marked motor deficits that respond
+to known symptomatic treatments for Parkinson's disease (PD). The extent of
+nigral degeneration reflects the late stages of PD rather than events occurring
+at its onset. We report on a modified MPTP treatment regimen that causes nigral
+dopaminergic degeneration in common marmosets equivalent to that occurring at the
+time of initiation of motor symptoms in man. Subcutaneous administration of MPTP 
+1 mg/kg for 3 consecutive days caused a reproducible 60% loss of nigral tyrosine 
+hydroxylase (TH)-positive cells, which occurred mainly in the
+calbindin-D(28k)-poor nigrosomes with a similar loss of TH-immunoreactivity
+(TH-ir) in the caudate nucleus and the putamen. The animals showed obvious motor 
+abnormalities with reduced bursts of activity and the onset of motor disability. 
+However, the loss of striatal terminals did not reflect early PD because a
+greater loss of TH-ir occurred in the caudate nucleus than in the putamen and a
+marked reduction in TH-ir occurred in striatal patches compared to the matrix.
+Examination of striatal fibres following a partial MPTP lesion showed a
+conspicuous increase in the number and the diameter of large branching fibres in 
+the putaminal and to some extent caudatal matrix, pointing to a possible
+compensatory sprouting of dopaminergic terminals. In addition, these partially
+lesioned animals did not respond to acute treatment with L-DOPA. This primate
+partial lesions model may be useful for examining potential neuroprotective or
+neurorestorative agents for PD.
+
+DOI: 10.1111/j.1460-9568.2005.03915.x 
+PMID: 15787691  [Indexed for MEDLINE]
+
+
+36. Clin Neuropharmacol. 2004 Jul-Aug;27(4):171-7.
+
+Levetiracetam Interferes With the L-dopa priming process in MPTP-lesioned
+drug-naive marmosets.
+
+Hill MP(1), Brotchie JM, Crossman AR, Bezard E, Michel A, Grimée R, Klitgaard H.
+
+Author information: 
+(1)Motac Neuroscience, Ltd., Manchester, UK.
+
+OBJECTIVE: Levetiracetam (LEV; Keppra, UCB Pharma) has been shown to reduce
+established l-3,4 dihydroxyphenylalanine (l-dopa)-induced dyskinesia. This study 
+investigated whether LEV can modify induction of dyskinesia by l-dopa or the
+process of priming.
+METHODS: Drug-naive MPTP (1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine) -lesioned
+marmosets were treated for 21 days with l-dopa/LEV or l-dopa alone. Subsequently,
+the animals were left untreated for 1 week and then both groups were challenged
+with a single dose of l-dopa alone on day 29. Behavior was assessed by automated 
+activity counts and by post hoc analysis of videotapes using validated rating
+scales.
+RESULTS: LEV had no significant effect on the appearance of dyskinesia when
+administered de novo in combination with l-dopa. However, after a week of drug
+holiday, the 2 groups exhibited a different response to an acute l-dopa
+challenge. Thus, animals previously treated with l-dopa alone exhibited a similar
+level of dyskinesia to that seen on day 21 of the repeated treatment phase of the
+study. However, animals previously treated with l-dopa/LEV demonstrated
+significantly reduced dyskinesia compared with day 21 of the repeated treatment
+phase of the study.
+CONCLUSIONS: LEV does not modify the onset of dyskinesia following de novo
+treatment with l-dopa. However, concomitant treatment with l-dopa/LEV reduces the
+level of dyskinesia induced by l-dopa following a drug holiday. Thus, prior
+treatment with LEV appears to modify the mechanisms responsible for the
+maintenance of l-dopa-induced dyskinesia.
+
+DOI: 10.1097/01.wnf.0000135478.70905.3d 
+PMID: 15319703  [Indexed for MEDLINE]
+
+
+37. Exp Neurol. 2004 Aug;188(2):471-9.
+
+The NR2B-selective NMDA receptor antagonist CP-101,606 exacerbates L-DOPA-induced
+dyskinesia and provides mild potentiation of anti-parkinsonian effects of L-DOPA 
+in the MPTP-lesioned marmoset model of Parkinson's disease.
+
+Nash JE(1), Ravenscroft P, McGuire S, Crossman AR, Menniti FS, Brotchie JM.
+
+Author information: 
+(1)Toronto Western Research Institute, ON, M5T 2S8 Canada.
+jnash@uhnres.utoronto.ca
+
+In Parkinson's disease (PD), degeneration of the dopaminergic nigrostriatal
+pathway leads to enhanced transmission at NMDA receptors containing NR2B
+subunits. Previous studies have shown that some, but not all, NR2B-containing
+NMDA receptor antagonists alleviate parkinsonian symptoms in animal models of PD.
+Furthermore, enhanced NMDA receptor-mediated transmission underlies the
+generation of L-DOPA-induced dyskinesia (LID). The subunit content of NMDA
+receptors responsible for LID is not clear. Here, we assess the actions of the
+NMDA antagonist CP-101,606 in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(MPTP)-lesioned marmoset model of Parkinson's disease. CP-101,606 is selective
+for NMDA receptors containing NR2B subunits, with higher affinity for NR1/NR2B
+complexes compared to ternary NR1/NR2A/NR2B complexes. CP-101,606 had no
+significant effect on parkinsonian symptoms when administered as monotherapy over
+a range of doses (0.1-10 mg/kg). CP-101,606 provided a modest potentiation of the
+anti-parkinsonian actions of L-DOPA (8 mg/kg), although, at doses of 1 and 3
+mg/kg, CP-101,606 exacerbated LID. Results of this study provide further evidence
+of differences in the anti-parkinsonian activity and effects on LID of the NR2B
+subunit selective NMDA receptor antagonists. These distinctions may reflect
+disparities in action on NR1/NR2B as opposed to NR1/NR2A/NR2B receptors.
+
+DOI: 10.1016/j.expneurol.2004.05.004 
+PMID: 15246846  [Indexed for MEDLINE]
+
+
+38. Exp Neurol. 2004 Jul;188(1):128-38.
+
+Selective blockade of D(3) dopamine receptors enhances the anti-parkinsonian
+properties of ropinirole and levodopa in the MPTP-lesioned primate.
+
+Silverdale MA(1), Nicholson SL, Ravenscroft P, Crossman AR, Millan MJ, Brotchie
+JM.
+
+Author information: 
+(1)Manchester Movement Disorder Laboratory, School of Biological Sciences,
+University of Manchester, Oxford Road, Manchester M13 9PT, UK.
+
+To date, the lack of highly selective antagonists at the dopamine D(3) receptor
+has hampered clarification of their involvement in the actions of currently used 
+therapies in Parkinson's disease. However, the novel benzopyranopyrrole, S33084, 
+displays greater than 100-fold selectivity as an antagonist for D(3) versus D(2) 
+receptors and all other sites tested. S33084 was administered to
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned marmosets previously
+primed with levodopa to elicit dyskinesia. Administered alone, S33084 exerted a
+modest, but significant, anti-parkinsonian effect without provoking dyskinesia.
+At low D(3)-selective doses (0.16 and 0.64 mg/kg), S33084 potentiated, though to 
+different extents and in qualitatively different ways, the anti-parkinsonian
+actions of both ropinirole and levodopa. At these doses, S33084 did not
+significantly modify levodopa-induced or ropinirole-induced dyskinesia. These
+data suggest that ropinirole and levodopa do not exert their anti-parkinsonian or
+pro-dyskinetic actions via D(3) receptor stimulation. Indeed, stimulation of D(3)
+receptors may be detrimental to the anti-parkinsonian properties of D(2)/D(3)
+agonists. Selectivity for stimulation of D(2), over D(3), receptors may therefore
+be a beneficial property of dopamine receptor agonists in management of motor
+symptoms of Parkinson's disease patients with established dyskinesia.
+
+DOI: 10.1016/j.expneurol.2004.03.022 
+PMID: 15191809  [Indexed for MEDLINE]
+
+
+39. J Pharmacol Exp Ther. 2004 Jul;310(1):386-94. Epub 2004 Mar 5.
+
+Levetiracetam potentiates the antidyskinetic action of amantadine in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned primate model of
+Parkinson's disease.
+
+Hill MP(1), Ravenscroft P, Bezard E, Crossman AR, Brotchie JM, Michel A, Grimée
+R, Klitgaard H.
+
+Author information: 
+(1)Motac Neuroscience Ltd, Manchester, United Kingdom.
+
+Levetiracetam (LEV) (Keppra; UCB Pharma, Brussels, Belgium) has recently been
+reported to have antidyskinetic activity against levodopa (L-DOPA)-induced
+dyskinesia in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned
+marmoset and macaque models of Parkinson's disease. Amantadine is frequently used
+as adjunctive therapy for L-DOPA-induced dyskinesia, but adverse effects limit
+its clinical utility. The current study was designed to investigate whether LEV
+can potentiate the antidyskinetic action of amantadine. The antiparkinsonian and 
+antidyskinetic effects of LEV (13 and 60 mg/kg) and amantadine (0.01, 0.03, 0.1, 
+and 0.3 mg/kg), administered alone and in combination, were assessed in the
+MPTP-lesioned marmoset model of L-DOPA-induced dyskinesia (n = 12). LEV (60
+mg/kg) and amantadine (0.3 mg/kg) administered alone significantly reduced
+l-DOPA-induced dyskinesia without compromising the antiparkinsonian action of
+l-DOPA. Lower doses were without any significant effects. The combination of LEV 
+(60 mg/kg) and amantadine (0.01, 0.03, 0.1, and 0.3 mg/kg) significantly
+decreased dyskinesia severity, without compromising the antiparkinsonian action
+of L-DOPA, more efficaciously than LEV or amantadine monotherapy. These results
+support the concept that normalization of different pathophysiological mechanisms
+(i.e., altered synchronization between neurons and enhanced N-methyl-D-aspartate 
+transmission) has a greater efficacy. Combined LEV/amantadine therapy might be
+useful as an adjunct to L-DOPA to treat dyskinetic side effects and to expand the
+population of Parkinson's disease patients who benefit from treatment with
+amantadine alone.
+
+DOI: 10.1124/jpet.104.066191 
+PMID: 15004218  [Indexed for MEDLINE]
+
+
+40. J Pharmacol Exp Ther. 2004 Jun;309(3):921-35. Epub 2004 Feb 20.
+
+S32504, a novel naphtoxazine agonist at dopamine D3/D2 receptors: II. Actions in 
+rodent, primate, and cellular models of antiparkinsonian activity in comparison
+to ropinirole.
+
+Millan MJ(1), Di Cara B, Hill M, Jackson M, Joyce JN, Brotchie J, McGuire S,
+Crossman A, Smith L, Jenner P, Gobert A, Peglion JL, Brocco M.
+
+Author information: 
+(1)Institut de Recherches Servier, Centre de Recherches de Croissy,
+Psychopharmacology Department, Paris, France. mark.millan@fr.netgrs.com
+
+These studies evaluated the potential antiparkinsonian properties of the novel
+dopamine D(3)/D(2) receptor agonist S32504 [(+)-trans-3,4,4a,5,6,
+10b-hexahydro-9-carbamoyl-4-propyl-2H-naphth[1,2-b]-1,4-oxazine] in comparison
+with those of the clinically employed agonist ropinirole. In rats with a
+unilateral, 6-hydroxydopamine lesion of the substantia nigra, S32504 (0.0025-0.04
+mg/kg, s.c.) more potently elicited contralateral rotation than S32601
+[(-)-trans-3,4,4a,5,6,
+10b-hexahydro-9-carbamoyl-4-propyl-2H-naphth-[1,2-b]-1,4-oxazine (its less active
+enantiomer)], ropinirole, and l-3,4-dihydroxyphenylalanine (l-DOPA). Rotation
+elicited by S32504 was blocked by the D(2)/D(3) receptor antagonists haloperidol 
+and raclopride and by the D(2) antagonist L741,626
+[4-(4-chlorophenyl)-1-(1H-indol-3-ylmethyl)piperidin-4-ol], but not by the D(3)
+antagonist S33084
+[(3aR,9bS)-N-[4-(8-cyano-1,3a,4,9b-tetrahydro-3H-benzopyrano[3,4-c]pyrrole-2-yl)-
+butyl]-(4-phenyl)benzamide]. As assessed by dialysis in both lesioned and
+nonlesioned animals, S32504 (0.04-2.5 mg/kg, s.c.) reduced striatal levels of
+acetylcholine. This effect was blocked by raclopride, haloperidol, and L741,626
+but not S33084. In rats treated with reserpine, hypolocomotion was reversed by
+S32504 and, less potently, by ropinirole. In "unprimed" marmosets treated with
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine, both s.c. (0.01-0.04 mg/kg) and
+p.o. (0.04-1.25 mg/kg) administration of S32504 dose-dependently and rapidly
+(within 10 min) increased locomotor activity and reduced disability. Furthermore,
+S32504 dose-dependently reversed bradykinesia and improved posture in
+"L-DOPA-primed" animals, whereas eliciting less pronounced dyskinesia than
+l-DOPA. Finally, in terminally differentiated SH-SY5Y cells presenting a
+dopaminergic phenotype, S32504, but not S32601, abrogated the neurotoxic effects 
+of 1-methyl-4-phenylpyridinium, an action inhibited by raclopride and S33084 but 
+not L741,626. Ropinirole was weakly neuroprotective in this model. In conclusion,
+S32504 displays potent and stereospecific activity in rodent, primate, and
+cellular models of antiparkinsonian properties. Although activation of D(2)
+receptors is crucial to the motor actions of S32504, engagement of D(3) receptors
+contributes to its neuroprotective properties.
+
+DOI: 10.1124/jpet.103.062414 
+PMID: 14978195  [Indexed for MEDLINE]
+
+
+41. Mov Disord. 2003 Nov;18(11):1301-5.
+
+Novel antiepileptic drug levetiracetam decreases dyskinesia elicited by L-dopa
+and ropinirole in the MPTP-lesioned marmoset.
+
+Hill MP(1), Bezard E, McGuire SG, Crossman AR, Brotchie JM, Michel A, Grimée R,
+Klitgaard H.
+
+Author information: 
+(1)Motac Neuroscience Ltd, Manchester, United Kingdom.
+
+Long-term dopamine replacement therapy of Parkinson's disease leads to the
+occurrence of dyskinesias. Altered firing patterns of neurons of the internal
+globus pallidus, involving a pathological synchronization/desynchronization
+process, may contribute significantly to the genesis of dyskinesia.
+Levetiracetam, an antiepileptic drug that counteracts neuronal
+(hyper)synchronization in animal models of epilepsy, was assessed in the
+MPTP-lesioned marmoset model of Parkinson's disease, after coadministration with 
+(1) levodopa (L-dopa) or (2) ropinirole/L-dopa combination. Oral administration
+of levetiracetam (13-60 mg/kg) in combination with either L-dopa (12 mg/kg) alone
+or L-dopa (8 mg/kg)/ropinirole (1.25 mg/kg) treatments was associated with
+significantly less dyskinesia, in comparison to L-dopa monotherapy during the
+first hour after administration. Thus, new nondopaminergic treatment strategies
+targeting normalization of abnormal firing patterns in basal ganglia structures
+may prove useful as an adjunct to reduce dyskinesia induced by dopamine
+replacement therapy without affecting its antiparkinsonian action.
+
+DOI: 10.1002/mds.10542 
+PMID: 14639671  [Indexed for MEDLINE]
+
+
+42. Exp Neurol. 2003 Jan;179(1):90-102.
+
+Both short- and long-acting D-1/D-2 dopamine agonists induce less dyskinesia than
+L-DOPA in the MPTP-lesioned common marmoset (Callithrix jacchus).
+
+Maratos EC(1), Jackson MJ, Pearce RK, Cannizzaro C, Jenner P.
+
+Author information: 
+(1)Neurodegenenerative Disease Research Centre, Guy's, King's and St. Thomas'
+School of Biomedical Sciences, King's College London, London SE1 1UL, United
+Kingdom.
+
+The current concept of dyskinesia is that pulsatile stimulation of D-1 or D-2
+receptors by L-DOPA or short-acting dopamine agonists is more likely to induce
+dyskinesia compared to long-acting drugs producing more continuous receptor
+stimulation. We now investigate the ability of two mixed D-1/D-2 agonists, namely
+pergolide (long-acting) and apomorphine (short-acting), to induce dyskinesia in
+drug-nai;ve MPTP-lesioned primates, compared to L-DOPA. Adult common marmosets
+(Callithrix jacchus) were lesioned with MPTP (2 mg/kg/day sc for 5 days) and
+subsequently treated with equieffective antiparkinsonian doses of L-DOPA,
+apomorphine, or pergolide for 28 days. L-DOPA, apomorphine, and pergolide
+reversed the MPTP-induced motor deficits to the same degree with no difference in
+peak response. L-DOPA and apomorphine had a rapid onset of action and short
+duration of effect producing a pulsatile motor response, while pergolide had a
+slow onset and long-lasting activity producing a continuous profile of motor
+stimulation. L-DOPA rapidly induced dyskinesia that increased markedly in
+severity and frequency over the course of the study, impairing normal motor
+activity by day 20. Dyskinesia in animals treated with pergolide or apomorphine
+increased steadily, reaching mild to moderate severity but remaining
+significantly less marked than that produced by L-DOPA. There was no difference
+in the intensity of dyskinesia produced by apomorphine and pergolide. These data 
+suggest that factors other than duration of drug action may be important in the
+induction of dyskinesia but support the use of dopamine agonists in early
+Parkinson's disease, as a means of delaying L-DOPA therapy and reducing the risk 
+of developing dyskinesia.
+
+DOI: 10.1006/exnr.2002.8055 
+PMID: 12504871  [Indexed for MEDLINE]
+
+
+43. Mov Disord. 2002 Nov;17(6):1180-7.
+
+Stimulation of cannabinoid receptors reduces levodopa-induced dyskinesia in the
+MPTP-lesioned nonhuman primate model of Parkinson's disease.
+
+Fox SH(1), Henry B, Hill M, Crossman A, Brotchie J.
+
+Author information: 
+(1)Manchester Movement Disorder Laboratory, Division of Neuroscience, School of
+Biological Sciences, University of Manchester, Oxford Road, Manchester, United
+Kingdom. shfox@hotmail.com
+
+Long-term treatment with levodopa in Parkinson's disease results in the
+development of motor fluctuations, including reduced duration of antiparkinsonian
+action and involuntary movements, i.e., levodopa-induced dyskinesia. Cannabinoid 
+receptors are concentrated in the basal ganglia, and stimulation of cannabinoid
+receptors can increase gamma-aminobutyric acid transmission in the lateral
+segment of globus pallidus and reduce glutamate release in the striatum. We thus 
+tested the hypothesis that the cannabinoid receptor agonist nabilone (0.01, 0.03,
+and 0.10 mg/kg) would alleviate levodopa-induced dyskinesia in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine hydrochloride (MPTP) -lesioned
+marmoset model of Parkinson's disease. Coadministration of nabilone (0.1 mg/kg)
+with levodopa was associated with significantly less total dyskinesia (dyskinesia
+score, 12; range, 6-17; primate dyskinesia rating scale) than levodopa alone (22;
+range, 14-23; P < 0.05). This effect was more marked during the onset period
+(0-20 minutes post levodopa). There was no reduction in the antiparkinsonian
+action of levodopa. Furthermore, the intermediate dose of nabilone used (0.03
+mg/kg) increased the duration of antiparkinsonian action of levodopa by 76%.
+Thus, cannabinoid receptor agonists may be useful in the treatment of motor
+complications in Parkinson's disease.
+
+Copyright 2002 Movement Disorder Society
+
+DOI: 10.1002/mds.10289 
+PMID: 12465055  [Indexed for MEDLINE]
+
+
+44. J Neural Transm (Vienna). 2002 Oct;109(10):1295-307.
+
+Naloxone reduces levodopa-induced dyskinesias and apomorphine-induced rotations
+in primate models of parkinsonism.
+
+Klintenberg R(1), Svenningsson P, Gunne L, Andrén PE.
+
+Author information: 
+(1)Department of Pharmaceutical Biosciences, Uppsala University, Biomedicum,
+Uppsala, Sweden.
+
+Using in situ hybridization, it was found that subchronic treatment with
+levodopa/benserazide increased preproenkephalin-A and preproenkephalin-B mRNAs in
+the dopamine-depleted striatum. In order to examine whether dysfunction of the
+endogenous opioid system may underlie the development of levodopa-induced
+dyskinesias, the effect of naloxone, an opioid antagonist, on dyskinesias was
+investigated in two models of parkinsonism in the common marmoset. MPTP-treated
+monkeys were administered a daily oral dose of levodopa/benserazide which
+relieved the parkinsonian symptoms but induced severe and reproducible dyskinetic
+movements. Naloxone (0.1, 0.2 or 0.5 mg/kg) was given subcutaneously (s.c.)
+during peak-dose dyskinesia, which reduced the dyskinesias significantly using
+the highest dose, normalized the motor activity, but did not modify the
+antiparkinson effect. Unilaterally 6-OHDA -lesioned marmosets received
+apomorphine s.c., which caused a contralateral turning behavior that could be
+reduced up to 35 percent by concomitant administration of naloxone. Taken
+together the present results suggest a possible role for the endogenous opioid
+system in the pathogenesis of levodopa-induced dyskinesia in primates.
+
+DOI: 10.1007/s00702-002-0715-6 
+PMID: 12373562  [Indexed for MEDLINE]
+
+
+45. Mov Disord. 2002 Sep;17(5):887-901.
+
+Repeated administration of piribedil induces less dyskinesia than L-dopa in
+MPTP-treated common marmosets: a behavioural and biochemical investigation.
+
+Smith LA(1), Tel BC, Jackson MJ, Hansard MJ, Braceras R, Bonhomme C,
+Chezaubernard C, Del Signore S, Rose S, Jenner P.
+
+Author information: 
+(1)Neurodegenerative Diseases Research Centre, Guy's, King's and St. Thomas'
+School of Biomedical Sciences, King's College, London, United Kingdom.
+
+Piribedil ([1-(3,4-methylenedioxybenzyl)-4-(2-pyrimidinyl)piperazine]; S 4200) is
+a dopamine agonist with equal affinity for D(2)/D(3) dopamine receptors effective
+in treating Parkinson's disease as monotherapy or as an adjunct to levodopa
+(L-dopa). However, its ability to prime basal ganglia for the appearance of
+dyskinesia is unknown. We now report on the ability of repeated administration of
+piribedil to induce dyskinesia in drug naïve
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) -lesioned common marmosets
+compared with L-dopa and its actions on the direct and indirect striatal outflow 
+pathways. Administration of piribedil (4.0-5.0 mg/kg orally) or L-dopa (12.5
+mg/kg orally plus carbidopa 12.5 mg/kg orally twice daily) produced equivalent
+increases in locomotor activity and reversal of motor deficits over a 28-day
+study period. Administration of L-dopa resulted in the progressive development of
+marked dyskinesia over the period of study. In contrast, administration of
+piribedil produced a significantly lower degree and intensity of dyskinesia.
+Surprisingly, piribedil caused an increase in vigilance and alertness compared to
+L-dopa, which may relate to the recently discovered alpha(2)-noradrenergic
+antagonist properties of piribedil. The behavioural differences between piribedil
+and L-dopa are reflected in the biochemical changes associated with the direct
+striatal output pathway. Administration of L-dopa or piribedil did not reverse
+the MPTP-induced up-regulation of preproenkephalin A mRNA in rostral or caudal
+areas of the putamen or caudate nucleus. In contrast, administration of either
+piribedil or L-dopa reversed the downregulation of preprotachykinin mRNA induced 
+by MPTP in rostral and caudal striatum. L-dopa, but not Piribedil, reversed the
+decrease in preproenkephalin B mRNA produced by MPTP treatment.
+
+Copyright 2002 Movement Disorder Society
+
+DOI: 10.1002/mds.10200 
+PMID: 12360537  [Indexed for MEDLINE]
+
+
+46. Eur J Neurosci. 2001 Dec;14(11):1827-32.
+
+Increased cannabinoid CB1 receptor binding and activation of GTP-binding proteins
+in the basal ganglia of patients with Parkinson's syndrome and of MPTP-treated
+marmosets.
+
+Lastres-Becker I(1), Cebeira M, de Ceballos ML, Zeng BY, Jenner P, Ramos JA,
+Fernández-Ruiz JJ.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Faculty of Medicine,
+Complutense University, 28040 Madrid, Spain.
+
+Recent evidence obtained in rat models of Parkinson's disease showed that the
+density of cannabinoid CB1 receptors and their endogenous ligands increase in
+basal ganglia. However, no data exists from post-mortem brain of humans affected 
+by Parkinson's disease or from primate models of the disorder. In the present
+study, we examined CB1 receptor binding and the magnitude of the stimulation by
+WIN55,212-2, a specific CB1 receptor agonist, of [35S]GTPgammaS binding to
+membrane fractions from the basal ganglia of patients affected by Parkinson's
+disease. In Parkinson's disease, WIN55,212-2-stimulated [35S]GTPgammaS binding in
+the caudate nucleus, putamen, lateral globus pallidus and substantia nigra was
+increased, thus indicating a more effective activation of GTP-binding
+protein-coupled signalling mechanisms via CB1 receptors. This was accompanied by 
+an increase in CB1 receptor binding in the caudate nucleus and the putamen,
+although no changes were observed in the lateral globus pallidus and the
+substantia nigra. Because Parkinson's disease patients had been chronically
+treated with l-DOPA, brains were studied from normal common marmosets and
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-treated animals with and
+without chronic L-DOPA treatment. MPTP-lesioned marmosets had increased CB1
+receptor binding in the caudate nucleus and the putamen compared to control
+marmosets, as well as increased stimulation of [35S]GTPgammaS binding by
+WIN55,212-2. However, following l-DOPA treatment these parameters returned
+towards control values. The results indicate that a nigro-striatal lesion is
+associated with an increase in CB1 receptors in the basal ganglia in humans and
+nonhuman primates and that this increase could be reversed by chronic l-DOPA
+therapy. The data suggest that CB1 receptor blockade might be useful as an
+adjuvant for the treatment of parkinsonian motor symptoms.
+
+DOI: 10.1046/j.0953-816x.2001.01812.x 
+PMID: 11860478  [Indexed for MEDLINE]
+
+
+47. Exp Neurol. 2001 Sep;171(1):139-46.
+
+Mu- and delta-opioid receptor antagonists reduce levodopa-induced dyskinesia in
+the MPTP-lesioned primate model of Parkinson's disease.
+
+Henry B(1), Fox SH, Crossman AR, Brotchie JM.
+
+Author information: 
+(1)Manchester Movement Disorder Laboratory, 1.124 Division of Neuroscience,
+School of Biological Sciences, University of Manchester, Stopford Building,
+Manchester, M13 9PT, United Kingdom.
+
+Long-term treatment of Parkinson's disease with levodopa is complicated by the
+emergence of involuntary movements, known as levodopa-induced dyskinesia. It has 
+been hypothesized that increased opioid transmission in striatal output pathways 
+may be responsible for the generation of dyskinesia. In this study, we have
+investigated the effect of blockade of opioid peptide transmission on
+levodopa-induced dyskinesia in a primate model of Parkinson's disease-the
+MPTP-lesioned marmoset. Coadministration of nonselective and mu- or
+delta-subtype-selective opioid receptor antagonists with levodopa resulted in a
+significant decrease in dyskinesia. There was no attenuation of the
+anti-parkinsonian actions of levodopa. These data suggest that specific mu- or
+delta-opioid receptor antagonists might be applicable clinically in the treatment
+of levodopa-induced dyskinesia in Parkinson's disease.
+
+Copyright 2001 Academic Press.
+
+DOI: 10.1006/exnr.2001.7727 
+PMID: 11520128  [Indexed for MEDLINE]
+
+
+48. Mov Disord. 2001 Jul;16(4):642-50.
+
+Neural mechanisms underlying peak-dose dyskinesia induced by levodopa and
+apomorphine are distinct: evidence from the effects of the alpha(2) adrenoceptor 
+antagonist idazoxan.
+
+Fox SH(1), Henry B, Hill MP, Peggs D, Crossman AR, Brotchie JM.
+
+Author information: 
+(1)Walton Centre for Neurology and Neurosurgery, Liverpool, United Kingdom.
+
+Dyskinesia, secondary to dopamine replacement therapy, is the major complication 
+of currently available therapies for Parkinson's disease. Alpha(2) adrenoceptor
+antagonists, such as idazoxan, can significantly reduce levodopa-induced
+dyskinesia in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned,
+nonhuman primate model of Parkinson's disease and in human. This action of
+adrenoceptor antagonists may involve blockade of the actions of noradrenaline
+synthesised from levodopa. We hypothesise that, because dopamine receptor
+agonists, such as apomorphine, cannot be metabolised to produce noradrenaline,
+activation of adrenoceptors may not be involved in dyskinesia produced by such
+agents. If this were the case, idazoxan would not be expected to reduce
+apomorphine-induced dyskinesia. MPTP-lesioned marmosets with stable dyskinesia
+induced by prolonged levodopa therapy were given an acute challenge with
+apomorphine (0.3 mg/kg subcutaneously) or levodopa (8.0 mg/kg orally), these
+doses produced equivalent peak-dose dyskinesia. Idazoxan (2.5 mg/kg p.o.), or
+vehicle, was then administered with either apomorphine or levodopa. Idazoxan
+abolished levodopa-induced dyskinesia but did not affect apomorphine-induced
+dyskinesia (P < 0.05 and P > 0.05, respectively, Wilcoxon matched pairs test).
+Idazoxan also extended the anti-parkinsonian actions of levodopa but did not
+affect those of apomorphine. The pharmacological characteristics of the neural
+mechanisms underlying levodopa-induced dyskinesia and apomorphine-induced
+dyskinesia in parkinsonism thus appear to be distinct, at least with respect to
+the involvement of alpha(2) adrenoceptors. Specifically, levodopa, but not
+apomorphine-induced dyskinesia, involves activation of adrenoceptors. This
+finding may have major implications for understanding dyskinesia and should be
+borne in mind when designing clinical studies in which levodopa or dopamine
+receptor agonist challenges are employed to assess potential anti-dyskinetic
+properties of drugs.
+
+Copyright 2001 Movement Disorder Society.
+
+DOI: 10.1002/mds.1148 
+PMID: 11481687  [Indexed for MEDLINE]
+
+
+49. Mov Disord. 2001 Jul;16(4):631-41.
+
+Antiparkinsonian activity and dyskinesia risk of ropinirole and L-DOPA
+combination therapy in drug naïve MPTP-lesioned common marmosets (Callithrix
+jacchus).
+
+Maratos EC(1), Jackson MJ, Pearce RK, Jenner P.
+
+Author information: 
+(1)Neurodegenenerative Disease Research Centre, Guy's, King's and St. Thomas'
+School of Biomedical Sciences, King's College, London, United Kingdom.
+
+De novo administration of long-acting dopamine agonists, such as ropinirole, to
+patients with Parkinson's disease or to
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-treated subhuman primates
+produces a lower incidence of dyskinesia than occurs with L-DOPA. This study
+compares the intensity of dyskinesia produced by combinations of L-DOPA and
+ropinirole and by these drugs alone, using the MPTP-treated common marmoset model
+of Parkinson's disease. The objective is to determine the optimum therapeutic
+strategy for the long-term control of Parkinson's disease with a minimal risk of 
+dyskinesia. MPTP-treated marmosets received either L-DOPA alone, ropinirole
+alone, or one of two combinations of these drugs (either L-DOPA dominant or
+ropinirole dominant) daily for 28 days in doses titrated to produce a similar
+improvement in disability and increase in locomotion. In the group receiving
+L-DOPA alone, there was a trend for peak dose locomotor activity to increase and 
+the duration of drug effect to decline over the period of the study. L-DOPA alone
+induced marked dyskinesia over the period of treatment, in contrast to ropinirole
+which produced a low intensity of involuntary movements. The L-DOPA dominant
+combination initially produced little dyskinesia, but this became increasingly
+intense as the study progressed. In contrast, the ropinirole dominant combination
+produced no greater intensity of dyskinesia than was produced by ropinirole
+alone. These data suggest that in early Parkinson's disease, the use of
+ropinirole alone or in combination with a low-dose L-DOPA might delay the
+induction of dyskinesias while improving motor performance.
+
+Copyright 2001 Movement Disorder Society.
+
+DOI: 10.1002/mds.1149 
+PMID: 11481686  [Indexed for MEDLINE]
+
+
+50. Exp Neurol. 2000 Sep;165(1):136-42.
+
+Antiparkinsonian actions of ifenprodil in the MPTP-lesioned marmoset model of
+Parkinson's disease.
+
+Nash JE(1), Fox SH, Henry B, Hill MP, Peggs D, McGuire S, Maneuf Y, Hille C,
+Brotchie JM, Crossman AR.
+
+Author information: 
+(1)Manchester Movement Disorder Laboratory, Room 1.124, Division of Neuroscience,
+School of Biological Sciences, University of Manchester, Oxford Road, Manchester,
+M13 9PT, United Kingdom.
+
+Dopamine-replacement strategies form the basis of most symptomatic treatments for
+Parkinson's disease. However, since long-term dopamine-replacement therapies are 
+characterized by many side effects, most notably dyskinesia, the concept of a
+nondopaminergic therapy for Parkinson's disease has attracted great interest. To 
+date, it has proved difficult to devise a nondopaminergic therapy with efficacy
+comparable to that of dopamine replacement. In animal models of Parkinson's
+disease, loss of striatal dopamine leads to enhanced excitation of striatal
+NR2B-containing NMDA receptors. This is responsible, in part at least, for
+generating parkinsonian symptoms. Here we demonstrate that, in the MPTP-lesioned 
+marmoset, monotherapy with the NR2B-selective NMDA receptor antagonist,
+ifenprodil, administered de novo, has antiparkinsonian effects equivalent to
+those of l-DOPA (administered as its methyl ester form). In MPTP-lesioned
+marmosets, median mobility scores, following vehicle-treatment were 12.5/h (range
+6-21), compared to 61/h (range 26-121) in normal, non-MPTP-lesioned animals.
+Following ifenprodil (10 mg/kg) treatment in MPTP-lesioned marmosets, the median 
+mobility score was 66/h (range 34-93), and following l-DOPA (10 mg/kg i.p.)
+treatment 89/h (range 82-92). The data support the proposal that NR2B-selective
+NMDA receptor antagonists have potential as a nondopaminergic monotherapy for the
+treatment of parkinsonian symptoms when given de novo.
+
+Copyright 2000 Academic Press.
+
+DOI: 10.1006/exnr.2000.7444 
+PMID: 10964492  [Indexed for MEDLINE]
+
+
+51. J Neural Transm (Vienna). 1999;106(7-8):663-83.
+
+Chronic supranigral infusion of BDNF in normal and MPTP-treated common marmosets.
+
+Pearce RK(1), Costa S, Jenner P, Marsden CD.
+
+Author information: 
+(1)Neurodegenerative Diseases Research Centre, Biomedical Sciences Division,
+King's College London, and The National Hospital for Neurology, United Kingdom.
+
+BDNF or vehicle were administered by unilateral supranigral infusion in normal
+and chronically lesioned MPTP-treated common marmosets (Callithrix jacchus) for
+four weeks and locomotor activity, disability and response to apomorphine were
+assessed with nigral TH, GFAP and GAD immunoreactivity and striatal [3H]mazindol 
+autoradiography. Selective contraversive orientation and ipsilateral neglect
+evolved in MPTP-treated marmosets receiving BDNF with no significant difference
+in disability or locomotor activity when compared to the vehicle-infused group.
+Apomorphine produced an ipsiversive rotational bias in BDNF-treated animals. In
+normal animals infused with BDNF contralateral neglect, ipsiversive turning,
+postural instability and ataxia rapidly evolved. In MPTP-treated marmosets BDNF
+caused increased ipsilateral striatal [3H]mazindol binding with increased somatic
+size and staining intensity in GAD-immunoreactive cells and a 10-20% loss of
+nigral TH-immunoreactive cells with increased GFAP staining. In normal common
+marmosets, both vehicle and BDNF infusion decreased nigral TH-immunoreactivity.
+Chronic supranigral infusion of BDNF alters motor behaviour and spatial attention
+in MPTP-treated marmosets which may reflect altered function in residual nigral
+dopaminergic neurons and brainstem GABAergic neurons and in normal animals
+produces behavioural and histological signs of nigrostriatal hypofunction.
+
+DOI: 10.1007/s007020050188 
+PMID: 10907726  [Indexed for MEDLINE]
+
+
+52. Mov Disord. 1999 Sep;14(5):744-53.
+
+The alpha2-adrenergic receptor antagonist idazoxan reduces dyskinesia and
+enhances anti-parkinsonian actions of L-dopa in the MPTP-lesioned primate model
+of Parkinson's disease.
+
+Henry B(1), Fox SH, Peggs D, Crossman AR, Brotchie JM.
+
+Author information: 
+(1)Organon Laboratories Limited, Department of Pharmacology, Lanarkshire,
+Scotland, UK.
+
+Dopamine replacement therapy in patients with Parkinson's disease is plagued by
+the emergence of abnormal involuntary movements known as L-dopa-induced
+dyskinesias. It has been demonstrated that yohimbine can reduce L-dopa-induced
+dyskinesia in the MPTP-lesioned primate model of Parkinson's disease. Yohimbine
+is, among other things, an alpha-adrenergic receptor antagonist. In this study,
+we demonstrate that the selective and potent alpha2-adrenergic receptor
+antagonist idazoxan reduces L-dopa-induced dyskinesia in the MPTP-lesioned
+marmoset model of Parkinson's disease. The alpha2-adrenergic receptor antagonists
+rauwolscine and yohimbine also reduce L-dopa-induced dyskinesia. Furthermore, we 
+demonstrate that coadministration of idazoxan with L-dopa can provide an
+anti-parkinsonian action more than twice the length of that seen with L-dopa
+alone. However, idazoxan as a monotherapy displayed no anti-parkinsonian actions.
+We propose that idazoxan in combination with L-dopa may provide a novel approach 
+to the treatment of Parkinson's disease that will not only reduce the dyskinetic 
+side effects, but extend the anti-parkinsonian actions of L-dopa. Idazoxan, as an
+adjunct to dopamine replacement, may prove useful in the treatment of
+parkinsonian patients at all stages of disease progression.
+
+DOI: 10.1002/1531-8257(199909)14:5<744::aid-mds1006>3.0.co;2-7 
+PMID: 10495035  [Indexed for MEDLINE]
+
+
+53. Psychopharmacology (Berl). 1999 Feb;142(1):51-60.
+
+Actions of the D1 agonists A-77636 and A-86929 on locomotion and dyskinesia in
+MPTP-treated L-dopa-primed common marmosets.
+
+Pearce RK(1), Jackson M, Britton DR, Shiosaki K, Jenner P, Marsden CD.
+
+Author information: 
+(1)University Department of Clinical Neurology, Institute of Neurology, The
+National Hospital for Neurology and Neurosurgery, London, UK.
+
+Common marmosets show parkinsonian motor deficits following
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) administration and develop
+dyskinesias during chronic L-dopa exposure. The D1 agonists A-77636 [(1R, 3S)
+3-(1'-adamantyl)-1-aminomethyl-3, 4-dihydro-5, 6-dihydroxy-1H-2-benzopyran HCl]
+and A-86929 [(-)-trans 9, 10-hydroxy-2-propyl-4, 5, 5a, 6, 7,
+11b-hexahydro-3-thia-5-azacyclopent-1-ena[c]phenanthrene hydrochloride] possess
+potent antiparkinsonian activity in the MPTP-treated marmoset and we now assess
+their influence on L-dopa-induced dyskinesias. MPTP-treated marmosets with stable
+motor deficits were treated with L-dopa plus carbidopa for 28 days to induce
+dyskinesias. Subsequently, they received A-86929 for 10 days, initially at 0.5
+micromol/kg and then at 1.0 micromol/kg for a further 5 days. Several months
+later, L-dopa 12.5 mg/kg plus carbidopa 12.5 mg/kg was given orally twice daily
+for 7 days, followed by A-77636 1 micromol/kg for 10 days, and then both A-77636 
+and L-dopa plus carbidopa were given concurrently for 3 further days. In these
+L-dopa-primed animals, A-86929 effectively reversed akinesia and produced
+dose-dependent dyskinesias which were significantly less intense than those
+produced by L-dopa administration. A degree of behavioral tolerance was
+encountered, but antiparkinsonian activity was preserved and elicited behaviour
+was free of hyperkinesis and stereotypy and more naturalistic than that seen with
+L-dopa. After a week of twice-daily L-dopa dosing, administration of the
+long-acting D1 agonist A-77636 initially dramatically enhanced locomotion and
+reproduced dyskinesia with prominent dystonia, but after repeated administration 
+of A-77636, dyskinesia and in particular chorea, gradually disappeared. Tolerance
+to locomotor stimulation greater than with A-86929 occurred, although activity
+remained significantly above baseline levels. There was a marked reduction in
+L-dopa-induced climbing, stereotypy and hyperkinesis and behaviour more closely
+resembled that of normal unlesioned marmosets. Upon reintroduction of L-dopa
+concurrently with continued A-77636 administration, dystonic, but virtually no
+choreic dyskinesias appeared and behaviour was once again free of stereotypy and 
+hyperkinesis, contrasting dramatically with the presence of these behaviours
+along with abundant chorea when L-dopa is given alone. These results show a
+lesser liability of A-86929 and A-77636 to reproduce dyskinesia in L-dopa-primed 
+MPTP-lesioned subjects while maintaining effective antiparkinsonian activity and 
+producing a more naturalistic motor response. The differential effects of A-77636
+on chorea and dystonia, with suppression of chorea and stereotypy on
+co-administration with L-dopa, may reflect an altered balance of activity in the 
+direct and indirect striatofugal pathways. These results suggest a possible role 
+for D1 agonists in the treatment of Parkinson's disease.
+
+DOI: 10.1007/s002130050861 
+PMID: 10102782  [Indexed for MEDLINE]
+
+
+54. Brain Res. 1997 Sep 5;767(2):235-8.
+
+Increased dopamine turnover in the putamen after MPTP treatment in common
+marmosets.
+
+Nomoto M(1), Iwata SI, Kaseda S, Fukuda T, Nakagawa S.
+
+Author information: 
+(1)Department of Pharmacology, Kagoshima University School of Medicine,
+Sakuragaoka, Japan.
+
+The differences in dopamine turnover rate between the putamen and the caudate
+nucleus in the striatum lesioned by a neurotoxin
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) were studied in the common
+marmoset, a small New World monkey. Systemic administration of MPTP damaged
+equally and dose-dependently nigrostriatal dopaminergic neurons projecting both
+to the caudate nucleus and the putamen. The compensatory increase of dopamine
+turnover, however, occurred more prominently in the putamen than in the caudate. 
+The neural connection and function of the caudate nucleus and the putamen have
+been differentiated anatomically or physiologically. The compensatory increase of
+dopamine turnover rate is another different aspect of functions between the
+caudate nucleus and the putamen. Dopaminergic neurons projecting to the putamen
+showed more prominent cell loss than those projecting to the caudate in
+Parkinson's disease or related disorders. The selective augmented turnover rate
+of lesioned dopaminergic neurons might be, at least partly, involved with
+selective degeneration of nigrostriatal neurons projecting to the putamen.
+
+DOI: 10.1016/s0006-8993(97)00584-2 
+PMID: 9367253  [Indexed for MEDLINE]
+
+
+55. Neuroreport. 1997 Jul 28;8(11):2567-70.
+
+(-)-OSU 6162 inhibits levodopa-induced dyskinesias in a monkey model of
+Parkinson's disease.
+
+Ekesbo A(1), Andrén PE, Gunne LM, Tedroff J.
+
+Author information: 
+(1)Department of Neurology, University Hospital, Uppsala, Sweden.
+
+We have studied the effects of two D2 dopamine receptor-selective compounds,
+(-)-OSU 6162 and raclopride, on levodopa-induced dyskinesias in
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned common marmosets
+(Callithrix jacchus). Three monkeys developed a severe parkinsonian syndrome
+following administration of MPTP. In response to daily levodopa treatment the
+animals developed reproducible and idiosyncratic peak-dose dyskinesias.
+Pretreatment with (-)-OSU 6162 and raclopride, in doses increased by multiples of
+three, both dose-dependently relieved the levodopa-induced dyskinesias. However, 
+in contrast to when raclopride pretreatment was given, (-)-OSU 6162 pretreatment 
+did not induce akinesia. Our investigation suggests that (-)-OSU 6162 may be
+useful an an adjuvant treatment to levodopa in advanced Parkinson's disease to
+selectively combat levodopa-induced dyskinesias without affecting the
+antiparkinsonian response.
+
+DOI: 10.1097/00001756-199707280-00029 
+PMID: 9261828  [Indexed for MEDLINE]
+
+
+56. J Pharmacol Exp Ther. 1996 Jan;276(1):150-60.
+
+ABT-431: the diacetyl prodrug of A-86929, a potent and selective dopamine D1
+receptor agonist: in vitro characterization and effects in animal models of
+Parkinson's disease.
+
+Shiosaki K(1), Jenner P, Asin KE, Britton DR, Lin CW, Michaelides M, Smith L,
+Bianchi B, Didomenico S, Hodges L, Hong Y, Mahan L, Mikusa J, Miller T, Nikkel A,
+Stashko M, Witte D, Williams M.
+
+Author information: 
+(1)Pharmaceutical Products Division, Abbott Laboratories, Abbott Park, Illinois, 
+USA.
+
+(-)-Trans 9,10-hydroxy-2-propyl-4,5,5a,6,7,11b-hexahydro-3-thia-5-
+azacyclopent-1-ena[c]phenanthrene hydrochloride (A-86929) is a potent and
+selective full agonist at the dopamine (DA) D1-like receptor. Judging by its
+binding affinities to the D1 and D2 classes of receptors, the compound is
+approximately 20-fold D1 receptor-selective, whereas relative potencies based on 
+functional in vitro assays indicate that A-86929 is greater than 400-fold
+D1-selective. A-86929 has moderate to weak (Ki > 1 microM) affinity at other
+monoaminergic and peptidergic receptors, at ion channels and at monoamine uptake 
+sites. The catechol of A-86929 was bis-acetylated to produce the prodrug,
+(-)-trans 9,10-acetoxy-2-propyl-4,5,5a,6,7,11-b-hexahydro-3-thia-
+5-azacyclopent-1-ena[c]phenanthrene hydrochloride (ABT-431), which is more
+chemically stable yet is rapidly converted to the parent compound with a
+half-life of less than 1 min in plasma. Both A-86929 and ABT-431 produced
+contralateral rotation in rats bearing unilateral 6-hydroxydopamine lesions, with
+ED50 values of 0.24 mumol/kg s.c. and 0.54 mumol/kg s.c., respectively. A-86929
+and ABT-431 improved behavioral disability scores and increased locomotor
+activity in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-lesioned marmoset
+model of Parkinson's disease in a dose-dependent manner (the minimum effective
+dose was 0.10 mumol/kg s.c.). When administered three times daily for 30
+consecutive days to 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-lesioned
+marmosets, A-86929 significantly improved disability scores throughout the
+duration of the study. Current Parkinson's disease therapy includes L-dopa, which
+stimulates both classes of DA receptors by virtue of its conversion to DA in
+vivo, and direct-acting D2-selective agonists. Stimulation of the D2 receptor,
+which is associated with all current DA agonist-based therapies, may contribute
+to their dose-limiting side effects. An agent such as A-86929 (or its prodrug
+ABT-431), which selectively stimulates the D1 receptor, may represent a novel
+mechanism for Parkinson's disease therapy with the potential for an improved
+side-effect profile and, consequently, improved patient compliance.
+
+
+PMID: 8558425  [Indexed for MEDLINE]
+
+
+57. Psychopharmacology (Berl). 1995 Feb;117(3):287-97.
+
+The differential behavioural effects of benzazepine D1 dopamine agonists with
+varying efficacies, co-administered with quinpirole in primate and rodent models 
+of Parkinson's disease.
+
+Gnanalingham KK(1), Hunter AJ, Jenner P, Marsden CD.
+
+Author information: 
+(1)Parkinson's Disease Society, Experimental Research Laboratories, King's
+College, London, U.K.
+
+The effects of co-administration of quinpirole with benzazepine D1 dopamine (DA) 
+agonists possessing full/supramaximal (SKF 80723 and SKF 82958), partial (SKF
+38393 and SKF 75670) and no efficacies (SKF 83959) in stimulating adenylate
+cyclase (AC) were investigated in rodent and primate models of Parkinson's
+disease (PD). In rats with a unilateral 6-hydroxydopamine (6-OHDA) lesion of the 
+medial forebrain bundle, co-administration of SKF 38393
+(7,8-dihydroxy-1-phenyl-2,3,4,5-tetrahydro-1H-3-benzazepine), SKF 75670 (3-CH3
+analogue), SKF 80723 (6-Br analogue), SKF 83959 (6-Cl, 3-CH3, 3'-CH3 analogue)
+and SKF 82958 (6-Cl, 3-C3H5 analogue) strongly potentiated the contralateral
+circling induced by quinpirole. In MPTP
+(1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine) treated common marmosets,
+administration of quinpirole alone increased locomotor activity and reversed
+motor deficits. Grooming and oral activity were unaltered. Co-administration of
+SKF 38393 and SKF 75670 inhibited the quinpirole-induced changes in locomotor
+activity and motor disability. The combined treatment of SKF 80723 or SKF 82958
+with quinpirole had no overall effect on locomotor activity or motor disability. 
+In contrast, SKF 83959 extended the duration of the quinpirole-induced increase
+in locomotor activity with corresponding decreases in motor disability.
+Co-administration of high doses of SKF 82958 and more especially SKF 83959 and
+SKF 80723, with quinpirole induced hyperexcitability and seizures. Oral activity 
+and grooming were unaltered following the co-administration of benzazepine
+derivatives with quinpirole. The ability of some benzazepine D1 DA agonists to
+prolong the antiparkinsonian effects of quinpirole in the MPTP-treated marmoset
+may indicate a role for certain D1 DA agonists in the clinical treatment of PD.
+In general, the behavioural responses to the combined administration of
+benzazepines with quinpirole in the 6-OHDA lesioned rat and more especially the
+MPTP-treated marmoset failed to correlate with their ability to stimulate AC.
+These observations further implicate a behavioural role for D1 DA receptors not
+linked to AC.
+
+DOI: 10.1007/BF02246103 
+PMID: 7770604  [Indexed for MEDLINE]
+
+
+58. Psychopharmacology (Berl). 1995 Feb;117(4):403-12.
+
+Selective dopamine antagonist pretreatment on the antiparkinsonian effects of
+benzazepine D1 dopamine agonists in rodent and primate models of Parkinson's
+disease--the differential effects of D1 dopamine antagonists in the primate.
+
+Gnanalingham KK(1), Hunter AJ, Jenner P, Marsden CD.
+
+Author information: 
+(1)Parkinson's Disease Society Experimental Research Laboratories, King's
+College, London, UK.
+
+In rats with unilateral 6-hydroxydopamine (6-OHDA) lesions of the medial
+forebrain bundle, pretreatment with the D1 DA antagonists, SCH 23390
+(7-chloro-8-hydroxy-2,3,4,5-tetrahydro-3-methyl-1-phenyl-1H-3-benzazepin e) and
+A66359 (1- 2-bromo-4,5-dimethoxybenzyl]-7-hydroxy-6-methoxy-2-methyl- 1,2,3,4
+tetrahydroisoquinoline), but not the D2 DA antagonist raclopride inhibited the
+contralateral circling induced by the benzazepine D1 DA agonists SKF 38393 (7-H, 
+3-H analogue of SCH 23390), SKF 80723 (7-H, 3-H, 6-Br analogue) and SKF 83959
+(7-H, 6-Cl, 3'-CH3 analogue). In MPTP
+(1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine) treated common marmosets,
+administration of SKF 80723 and SKF 83959 increased locomotor activity and
+reversed the motor disability. Grooming and oral activities were also increased. 
+Pretreatment with SCH 23390 and A66359 inhibited all the behavioural changes
+induced by both D1 DA agonists. In general, higher doses of A66359 and more
+especially SCH 23390 were needed to inhibit SKF 83959 and SKF 80723 induced
+increases in oral activity and grooming than locomotor activity. Raclopride
+pretreatment did not affect SKF 83959 and SKF 80723 induced oral activity and
+grooming, though it reduced the duration of the locomotor changes induced by the 
+D1 DA agonists. These findings demonstrate that the behavioural effects of
+benzazepine D1 DA agonists in the 6-OHDA lesioned rat and MPTP-treated marmoset
+are mediated by D1 DA receptor sites, although in the primate, stimulation of D2 
+DA receptors by endogenous DA may be necessary in facilitating the
+antiparkinsonian effects of D1 DA agonists. The differential sensitivities of
+locomotor/motor disability and oral/grooming behaviours to antagonism by D1 DA
+antagonists may indicate the involvement of multiple D1 DA receptor subtypes in
+mediating benzazepine D1 DA agonist induced behaviours in the MPTP-treated
+marmoset.
+
+DOI: 10.1007/BF02246211 
+PMID: 7604140  [Indexed for MEDLINE]
+
+
+59. Eur J Pharmacol. 1992 Dec 15;229(2-3):203-9.
+
+A-77636: a potent and selective dopamine D1 receptor agonist with
+antiparkinsonian activity in marmosets.
+
+Kebabian JW(1), Britton DR, DeNinno MP, Perner R, Smith L, Jenner P, Schoenleber 
+R, Williams M.
+
+Author information: 
+(1)Pharmaceutical Products Division, Abbott Laboratories, Abbott Park, IL 60064.
+
+A-77636, ((1R,3S)
+3-(1'-adamantyl)-1-aminomethyl-3,4-dihydro-5,6-dihydroxy-1H-2-benz opyran
+hydrochloride), is a selective dopamine D1 receptor agonist. In a battery of
+receptor binding assays, A-77636 shows the highest affinity (pKi = 7.40 +/- 0.09;
+Ki = 39.8 nM) for the dopamine D1 receptor. A-77636 is an agonist at the dopamine
+D1 receptors in the fish retina (pEC50 = 8.13; EC50 = 1.1 nM; intrinsic activity 
+= 102% of dopamine) and the rat caudate-putamen (pEC50 = 8.97; intrinsic activity
+= 134% of dopamine). The compound is functionally inactive at dopamine D2
+receptors (EC50 > 10 microM). In rats with unilateral 6-OHDA (6-hydroxydopamine) 
+lesions of the nigro-striatal dopaminergic pathway, A-77636 elicits prolonged (> 
+20 h) contralateral turning that is blocked by SCH 23390, a D1 receptor
+antagonist, but not by haloperidol at doses selective for the dopamine D2
+receptor. Higher doses of A-77636 produce forelimb clonus in rats and mice. When 
+tested in marmosets treated with MPTP to induce a parkinsonian-like state,
+A-77636 increases locomotor activity and decreases the severity of the
+parkinsonian-like symptoms: the compound is active after either subcutaneous or
+oral administration. A-77641, the optical antipode of A-77636, has a lower
+affinity towards the dopamine D1 receptor (pKi = 5.14, Ki = 7200 nM), is less
+potent as a dopamine D1 receptor agonist (pEC50 = 5.65; EC50 = 2200 nM), fails to
+elicit turning in the 6-OHDA-lesioned rat, and lacks antiparkinsonian efficacy in
+the MPTP-treated marmoset.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+DOI: 10.1016/0014-2999(92)90556-j 
+PMID: 1362704  [Indexed for MEDLINE]
+
+
+60. J Pharmacol Exp Ther. 1991 Oct;259(1):345-55.
+
+FCE 23884, substrate-dependent interaction with the dopaminergic system. I.
+Preclinical behavioral studies.
+
+Buonamici M(1), Mantegani S, Cervini MA, Maj R, Rossi AC, Caccia C, Carfagna N,
+Carminati P, Fariello RG.
+
+Author information: 
+(1)R&D Farmitalia Carlo Erba-Erbamont Group, Central Nervous System Department,
+Nerviano, MI, Italy.
+
+FCE 23884, a newly synthetized ergoline derivative, shows dopamine (DA) agonist
+or antagonist properties depending on the functional state of the biological
+substrate. The compound behaves as a full DA antagonist in normal animals, but
+shows full agonist properties in denervated models in the same dose range. In
+normal animals, FCE 23884 impairs Sidmans avoidance in rats, reduces spontaneous 
+locomotion in mice and monkeys and antagonizes apomorphine-induced climbing
+behavior in mice, yawning in rats, emesis in dogs and amphetamine-induced
+toxicity in grouped mice. After experimental procedures resulting in severe DA
+depletion, FCE 23884 behaves as a powerful DA-agonist mainly at D-1 receptors.
+FCE 23884 induces contralateral turning behavior in 6-hydroxydopamine-lesioned
+rats and reverses 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-induced akinesia
+in monkeys and reserpine-induced hypokinesia in mice. These results indicate that
+the antagonist or agonist activity of FCE 23884 is substrate-dependent and mostly
+related to the presence or absence of DA. This leads to the apparently
+paradoxical suggestion that the compound could be useful both in psychotic states
+and extrapyramidal diseases, i.e., in clinical conditions characterized by either
+excessive or impaired DAergic neurotransmission.
+
+
+PMID: 1681087  [Indexed for MEDLINE]
+

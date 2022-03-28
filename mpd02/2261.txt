@@ -1,0 +1,35 @@
+
+
+2261. Tohoku J Exp Med. 2008 Jun;215(2):167-80.
+
+Comparison of 30 immunity-related genes from the common marmoset with orthologues
+from human and mouse.
+
+Kohu K(1), Yamabe E, Matsuzawa A, Onda D, Suemizu H, Sasaki E, Tanioka Y, Yagita 
+H, Suzuki D, Kametani Y, Takai T, Toyoda A, Habu S, Satake M.
+
+Author information: 
+(1)Department of Molecular Immunology, Institute of Development, Aging and
+Cancer, Tohoku University, Sendai, Japan.
+
+In the evolution of primates, the common marmoset belongs to the new world monkey
+family and is distinct from the great ape family (which includes humans). In this
+study, we predicted the amino acid sequences of 30 immunity-related genes from
+the common marmoset and compared them with those from human and mouse. The domain
+composition of each orthologous protein was analyzed by the SMART tool and was
+found to be the same among the three species. A BLAST search revealed that the
+common marmoset and human proteins were 86% identical on average, whereas the
+conservation between the common marmoset and mouse or between the human and mouse
+was only 60%. This indicates that the common marmoset and human proteins are
+closely related and are similarly divergent from the mouse. We divided the 30
+proteins into two categories based on the degree of conservation between the
+common marmoset and mouse amino acid sequences. One group included 19 proteins
+and had a relatively high level of conservation (68% identical), whereas the
+other 11 proteins were less conserved (45% identical). This suggests that these
+immunity-related genes do not evolve at a uniform rate. Interestingly, however,
+ligand/receptor pairs such as interleukin-6 and interleukin-6 receptor appear to 
+have evolved simultaneously.
+
+DOI: 10.1620/tjem.215.167 
+PMID: 18577846  [Indexed for MEDLINE]
+

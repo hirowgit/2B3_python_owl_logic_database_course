@@ -1,0 +1,55 @@
+
+
+877. Drug Metab Dispos. 2017 Aug;45(8):883-886. doi: 10.1124/dmd.117.076042. Epub 2017
+May 9.
+
+Molecular Cloning and Characterization of Marmoset Aldehyde Oxidase.
+
+Uehara S(1), Uno Y(1), Okamoto E(1), Inoue T(1), Sasaki E(1), Yamazaki H(2).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., E.O., H.Y.); Pharmacokinetics and
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology (T.I.) and Center of
+Applied Developmental Biology (E.S.), Central Institute for Experimental Animals,
+Kawasaki, Japan; and Keio Advanced Research Center, Keio University, Tokyo, Japan
+(E.S.).
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., E.O., H.Y.); Pharmacokinetics and
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology (T.I.) and Center of
+Applied Developmental Biology (E.S.), Central Institute for Experimental Animals,
+Kawasaki, Japan; and Keio Advanced Research Center, Keio University, Tokyo, Japan
+(E.S.) hyamazak@ac.shoyaku.ac.jp.
+
+Common marmosets (Callithrix jacchus), New World monkeys, are a promising primate
+model for preclinical drug metabolism studies because of the similarities of
+cytochrome P450 (P450) enzyme function to those of humans. Despite an increasing 
+number of drug candidates catalyzed by non-P450 enzymes, drug metabolizing
+enzymes other than P450s have been hardly identified or characterized in
+marmosets. In this study, we identified aldehyde oxidase (AOX) 1 gene by marmoset
+genome analysis. AOX1 cDNA was cloned from marmoset livers by reverse
+transcription-polymerase chain reaction. Deduced amino acid sequences of AOX1
+cDNA showed high sequence identities (92-93%) with primate AOX1s. Phylogenetic
+analysis showed that marmoset AOX1 was closely clustered with primate AOX1s,
+unlike nonprimate animal model AOX1s of pig, rabbit, rat, and mouse used in drug 
+metabolism. The tissue expression analyses by real-time reverse-transcription
+polymerase chain reaction and immunoblotting showed that marmoset AOX1 mRNA and
+protein were abundantly expressed in livers, similar to cynomolgus monkeys and
+humans. Marmoset AOX1 heterologously expressed in Escherichia coli catalyzed the 
+oxidation of carbazeran and phthalazine, typical AOX1 substrates, similar to
+cynomolgus monkey and human AOX1s. Human and marmoset AOX1 effectively catalyzed 
+phthalazine oxidation when assessed with Michaelis-Menten kinetics, but
+cynomolgus monkey AOX1 catalyzed this reaction with cooperative kinetics with
+high capacity. These results indicated that tissue distribution and enzymatic
+function of AOX1 enzyme is similar between marmosets and humans, suggesting that 
+marmosets are a suitable primate model for AOX-dependent drug metabolism in
+preclinical studies.
+
+Copyright © 2017 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/dmd.117.076042 
+PMID: 28487309  [Indexed for MEDLINE]
+

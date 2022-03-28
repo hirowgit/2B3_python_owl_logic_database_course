@@ -1,0 +1,102 @@
+
+
+395. J Neurosci Methods. 2020 Jan 15;330:108517. doi: 10.1016/j.jneumeth.2019.108517. 
+Epub 2019 Nov 12.
+
+Spatiotemporal quantification of gait in common marmosets.
+
+Pickett KA(1), Schultz-Darken N(2), Bradfield AF(3), Malicki K(2), Pape B(2),
+Ausderau KK(4), Emborg ME(5).
+
+Author information: 
+(1)Department of Kinesiology, University of Wisconsin - Madison, Madison, WI,
+USA; Program in Occupational Therapy, University of Wisconsin - Madison, Madison,
+WI, USA; Department of Biomedical Engineering, University of Wisconsin - Madison,
+Madison, WI, USA.
+(2)Wisconsin National Primate Research Center, University of Wisconsin - Madison,
+Madison, WI, USA.
+(3)Department of Kinesiology, University of Wisconsin - Madison, Madison, WI,
+USA; Program in Occupational Therapy, University of Wisconsin - Madison, Madison,
+WI, USA.
+(4)Department of Kinesiology, University of Wisconsin - Madison, Madison, WI,
+USA; Program in Occupational Therapy, University of Wisconsin - Madison, Madison,
+WI, USA; Waisman Center, University of Wisconsin - Madison, Madison, WI, USA.
+(5)Wisconsin National Primate Research Center, University of Wisconsin - Madison,
+Madison, WI, USA; Department of Medical Physics, University of Wisconsin -
+Madison, Madison, WI, USA. Electronic address: emborg@primate.wisc.edu.
+
+BACKGROUND: Objective gait evaluation in humans is used as a predictive
+disability outcome measure as well as an indicator for intervention
+effectiveness. Parallel methods of gait analysis in nonhuman primate models are
+essential for clinical translation. The goal of this study was to first assess
+whether marmosets' gait data could be reliably collected in a Noldus CatWalk
+XT10.6 and second, establish a testing protocol to assess gait and the
+intraindividual variability during repeated testing.
+NEW METHOD: The CatWalk, originally developed for rodents, was modified and used 
+to assess gait in eight adult common marmoset monkeys across multiple days and
+trials. Data was first analyzed to identify valid runs. Repeated measures ANOVA
+was completed for the following gait measures: mean base of support, average
+stride length, average swing time, and average stance time.
+RESULTS: Raters had a high level of concurrence of usable data across all trials 
+with successful trials including four consecutive hindfoot footfalls, during a
+continuous, uninterrupted segment of walking. A significant main effect of time
+(p < 0.000) but not rater (p = 0.98) was present with significant interactions
+for time by subject (p < 0.000), but not rater per subject (p = 0.538), time
+(p = 0.186), or three-way interaction (p = 0.297).
+COMPARISON WITH EXISTING METHOD(S): Gait has been assessed using force-plate and 
+video data. The CatWalk allowed reproducible, automated and translational
+locomotor data to be collected at multiple time points with detailed analyses
+that identified a diagonal gait pattern.
+CONCLUSIONS: The CatWalk system, similar to those used in humans, can be
+effectively used to quantify spatiotemporal characteristics of gait in the common
+marmoset.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2019.108517 
+PMCID: PMC7012682
+PMID: 31730871  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare no conflict of interest.
+
+
+396. J Med Primatol. 2020 Apr;49(2):71-78. doi: 10.1111/jmp.12451. Epub 2019 Nov 15.
+
+Radiographic evaluation of the forelimbs and hind limbs of marmosets (Callithrix 
+spp.).
+
+de Souza Siragusi RH(1), Rahal SC(2), da Silva JP(1), Mamprim MJ(3), Rolim LS(2),
+Teixeira CR(2), de Camargo BWDF(2), Monteiro FOB(4).
+
+Author information: 
+(1)Graduate program in Wild Animals, School of Veterinary Medicine and Animal
+Science, São Paulo State University (UNESP), Botucatu, Brazil.
+(2)Department of Veterinary Surgery and Anesthesiology, School of Veterinary
+Medicine and Animal Science, São Paulo State University (UNESP), Botucatu,
+Brazil.
+(3)Department of Animal Reproduction and Veterinary Radiology, School of
+Veterinary Medicine and Animal Science, UNESP, Botucatu, Brazil.
+(4)Universidade Federal Rural da Amazônia (UFRA), Belém, Brazil.
+
+BACKGROUND: The maintenance of marmosets in captivity may trigger various
+disorders. The objective of this study was to provide a radiographic evaluation
+of the forelimbs and hind limbs of marmosets rescued from illegal wildlife trade 
+and maintained in captivity.
+METHODS: Fourteen marmosets were studied.
+RESULTS AND CONCLUSIONS: Three marmosets were apparently normal. Of the eleven
+marmosets with radiographic changes in the hind limbs, five had pelvic narrowing 
+and bilateral varus deviation of the femur, with one suggestive of rickets and
+another of osteomalacia. The other marmosets showed changes such as malunion of
+acetabular fracture, transtibial amputation, tibial antecurvatum, and knee
+osteoarthritis. Six marmosets showed alterations in the forelimbs such as radius 
+fracture, scapulohumeral subluxation, and elbow joint incongruence. In
+conclusion, 78.57% of the marmosets had bone and/or joint changes detected by
+plain radiography, which were found predominantly in the hind limbs and without
+impediment to locomotion in captivity.
+
+© 2019 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jmp.12451 
+PMID: 31729047  [Indexed for MEDLINE]
+

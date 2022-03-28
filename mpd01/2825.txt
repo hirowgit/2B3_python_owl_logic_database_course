@@ -1,0 +1,66 @@
+
+
+2825. Science. 2004 Apr 30;304(5671):734-6.
+
+Identification of virus-encoded microRNAs.
+
+Pfeffer S(1), Zavolan M, Grässer FA, Chien M, Russo JJ, Ju J, John B, Enright AJ,
+Marks D, Sander C, Tuschl T.
+
+Author information: 
+(1)Laboratory of RNA Molecular Biology, The Rockefeller University, 1230 York
+Avenue, Box 186, New York, NY 10021, USA.
+
+RNA silencing processes are guided by small RNAs that are derived from
+double-stranded RNA. To probe for function of RNA silencing during infection of
+human cells by a DNA virus, we recorded the small RNA profile of cells infected
+by Epstein-Barr virus (EBV). We show that EBV expresses several microRNA (miRNA) 
+genes. Given that miRNAs function in RNA silencing pathways either by targeting
+messenger RNAs for degradation or by repressing translation, we identified viral 
+regulators of host and/or viral gene expression.
+
+DOI: 10.1126/science.1096781 
+PMID: 15118162  [Indexed for MEDLINE]
+
+
+2826. J Bone Miner Metab. 2004;22(3):192-7.
+
+Biochemical bone turnover markers are useful tools to assess changes in bone
+metabolism in marmosets.
+
+Angeliewa A(1), Budde M, Schlachter M, Hoyle NR, Bauss F.
+
+Author information: 
+(1)Department of Pharma Research, Animal Husbandry, F. Hoffmann-La Roche Ltd.,
+Basel, Switzerland.
+
+This study was designed to investigate whether biochemical markers of bone
+resorption and formation could be determined in the serum and urine of marmosets 
+(Callithrix jacchus), using standard laboratory chemistry methods and
+commercially available human kits. Consequently, the findings from this study
+will indicate whether the techniques and kits could serve as appropriate tools
+for assessing changes in bone turnover in this species. Two groups of animals (n 
+= 12/group), consisting of a comparable number of young and old male and female
+marmosets, were given either isotonic saline or a single dose of the
+bisphosphonate ibandronate (0.1 mg/kg) s.c. in order to suppress bone turnover.
+Blood and urine were collected at baseline and 5 days after administration.
+Samples were analyzed for urinary (u) and serum (s) markers of bone formation
+(serum osteocalcin [sOC], serum N-terminal crosslinks of human pro-collagen type 
+I [sP1NP]) and bone resorption (urinary pyridinoline [uPYD], urinary
+deoxypyridinoline [uDPD], serum C-terminal crosslinks of human collagen type I
+(C-telopeptide) [sCTX]), intact serum parathyroid hormone (iPTH) and urinary
+calcium and creatinine. Levels of all the markers of bone resorption and
+formation decreased during the study period. As expected, the bone formation
+markers decreased slightly less relative to the resorption markers. The most
+sensitive markers were sCTX (-33%; P < or =0.001) for bone resorption, and sP1NP 
+(-3%; P < or =0.05) for bone formation. Serum PTH levels increased by 8% ( P < or
+=0.05), demonstrating a physiological reaction to prevent changes in serum
+calcium. Although not all variables reached statistical significance within the
+tested interval, the applied methods and kits were considered suitable for
+evaluating bone turnover changes in marmosets. Thus, these methods and kits can
+be utilized not only during the course of pharmacological investigations but also
+as additional tools to assess the overall bone health of this species.
+
+DOI: 10.1007/s00774-003-0469-8 
+PMID: 15108060  [Indexed for MEDLINE]
+

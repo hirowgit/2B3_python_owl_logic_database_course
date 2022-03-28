@@ -1,0 +1,36 @@
+
+
+2982. Endocrinology. 2003 Feb;144(2):423-36.
+
+A transcriptionally active human type II gonadotropin-releasing hormone receptor 
+gene homolog overlaps two genes in the antisense orientation on chromosome 1q.12.
+
+Morgan K(1), Conklin D, Pawson AJ, Sellar R, Ott TR, Millar RP.
+
+Author information: 
+(1)Medical Research Council Human Reproductive Sciences Unit, University of
+Edinburgh Academic Centre, Edinburgh EH16 4SB, United Kingdom.
+k.morgan@hrsu.mrc.ac.uk
+
+GnRH-II peptide hormone exhibits complete sequence conservation across vertebrate
+species, including man. Type-II GnRH receptor genes have been characterized
+recently in nonhuman primates, but the human receptor gene homolog contains a
+frameshift, a premature stop codon (UGA), and a 3' overlap of the RBM8A gene on
+chromosome 1q.12. A retrotransposed pseudogene, RBM8B, retains partial receptor
+sequence. In this study, bioinformatics show that the human receptor gene
+promoter overlaps the peroxisomal protein 11-beta gene promoter and the premature
+UGA is positionally conserved in chimpanzee. A CGA [arginine (Arg)] occurs in
+porcine DNA, but UGA is shifted one codon to the 5' direction in bovine DNA,
+suggesting independent evolution of premature stop codons. In contrast to
+marmoset tissue RNA, exon- and strand-specific probes are required to distinguish
+differently spliced human receptor gene transcripts in cell lines (HP75, IMR-32).
+RBM8B is not transcribed. Sequencing of cDNAs for spliced receptor mRNAs showed
+no evidence for alteration of the premature UGA by RNA editing, but alternative
+splicing circumvents the frameshift to encode a two-membrane-domain protein
+before this UGA. A stem-loop motif resembling a selenocysteine insertion sequence
+and a potential alternative translation initiation site might enable expression
+of further proteins involved in interactions within the GnRH system.
+
+DOI: 10.1210/en.2002-220622 
+PMID: 12538601  [Indexed for MEDLINE]
+

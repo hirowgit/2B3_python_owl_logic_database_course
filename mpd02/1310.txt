@@ -1,0 +1,47 @@
+
+
+1310. Gene. 2015 Feb 25;557(2):182-7. doi: 10.1016/j.gene.2014.12.033. Epub 2014 Dec
+16.
+
+Relationship between amino acid usage and amino acid evolution in primates.
+
+Liu H(1), Xie Z(1), Tan S(1), Zhang X(2), Yang S(3).
+
+Author information: 
+(1)State Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences,
+Nanjing University, Nanjing 210093, China.
+(2)State Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences,
+Nanjing University, Nanjing 210093, China. Electronic address:
+xiaohuizhang@nju.edu.cn.
+(3)State Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences,
+Nanjing University, Nanjing 210093, China. Electronic address:
+sihaiyang@nju.edu.cn.
+
+Amino acid usage varies from species to species. A previous study has found a
+universal trend in amino acid gain and loss in many taxa and a one-way model of
+amino acid evolution in which the number of new amino acids increases as the
+number of old amino acids decreases was proposed. Later studies showed that this 
+pattern of amino acid gain and loss is likely to be compatible with the neutral
+theory. The present work aimed to further study this problem by investigating the
+evolutionary patterns of amino acids in 8 primates (the nucleotide and protein
+alignments are available online http://gattaca.nju.edu.cn/pub_data.html). First, 
+the number of amino acids gained and lost was calculated and the evolution trend 
+of each amino acid was inferred. These values were found to be closely related to
+the usage of each amino acid. Then we analyzed the mutational trend of amino acid
+substitution in human using SNPs, this trend is highly correlated with fixation
+trend only with greater variance. Finally, the trends in the evolution of 20
+amino acids were evaluated in human on different time scales, and the increasing 
+rate of 5 significantly increasing amino acids was found to decrease as a
+function of time elapsed since divergence, and the dS/dN ratio also found to
+increase as a function of time elapsed since divergence. These results suggested 
+that the observed amino acid substitution pattern is influenced by mutation and
+purifying selection. In conclusion, the present study shows that usage of amino
+acids is an important factor capable of influencing the observed pattern of amino
+acid evolution, and also presented evidences suggesting that the observed
+universal trend of amino acid gain and loss is compatible with neutral evolution.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.gene.2014.12.033 
+PMID: 25527119  [Indexed for MEDLINE]
+

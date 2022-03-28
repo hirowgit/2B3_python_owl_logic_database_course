@@ -1,0 +1,71 @@
+
+
+2738. Theriogenology. 2005 Jan 1;63(1):246-59.
+
+Flow cytometric sorting of non-human primate sperm nuclei.
+
+O'Brien JK(1), Stojanov T, Heffernan SJ, Hollinshead FK, Vogelnest L, Maxwell WM,
+Evans G.
+
+Author information: 
+(1)Faculty of Veterinary Science, Centre for Advanced Technologies in Animal
+Genetics and Reproduction, University of Sydney, NSW 2006, Australia.
+justineo@vetsci.usyd.edu.au
+
+Pre-determination of the sex of offspring has implications for management and
+conservation of captive wildlife species, particularly those with single
+sex-dominated social structures. Our goal is to adapt flow cytometry technology
+to sort spermatozoa of non-human primate species for use with assisted
+reproductive technologies. The objectives of this study were to: (i) determine
+the difference in DNA content between X- and Y-bearing spermatozoa (ii) sort
+sperm nuclei into X- and Y-enriched samples; and (iii) assess the accuracy of
+sorting. Spermatozoa were collected from two common marmosets (Callithrix
+jacchus), seven hamadryas baboons (Papio hamadryas) and two common chimpanzees
+(Pan troglodytes). Human spermatozoa from one male were used as a control. Sperm 
+nuclei were stained (Hoechst 33342), incubated and analyzed using a high-speed
+cell sorter. Flow cytometric reanalysis of sorted samples (sort reanalysis,
+10,000 events/sample) and fluorescence in situ hybridization (FISH; 500 sperm
+nuclei/sample) were used to evaluate accuracy of sorting. Based on fluorescence
+intensity of X- and Y-bearing sperm nuclei, the difference in DNA content between
+X and Y populations was 4.09 +/- 0.03, 4.20 +/- 0.03, 3.30 +/- 0.01, and 2.97 +/-
+0.05%, for marmoset, baboon, chimpanzee and human, respectively. Sort reanalysis 
+and FISH results were similar; combined data revealed high levels of purity for
+X- and Y-enriched samples (94 +/- 0.9 and 93 +/- 0.8%, 94 +/- 0.7 and 94 +/-
+0.5%, 91 +/- 0.9 and 97 +/- 0.6%, 94 +/- 0.6 and 94 +/- 0.9%, for marmoset,
+baboon, chimpanzee and human, respectively). These data indicate the potential
+for high-purity sorting of spermatozoa from non-human primates.
+
+DOI: 10.1016/j.theriogenology.2004.04.013 
+PMID: 15589288  [Indexed for MEDLINE]
+
+
+2739. J Neurosci Methods. 2005 Jan 30;141(1):103-13.
+
+Neurosurgical access to cortical areas in the lateral fissure of primates.
+
+Hackett TA(1), Karmos G, Schroeder CE, Ulbert I, Sterbing-D'Angelo SJ, D'Angelo
+WR, Kajikawa Y, Blumell S, de la Mothe L.
+
+Author information: 
+(1)Department of Hearing and Speech Sciences, Vanderbilt University, 301 Wilson
+Hall, 111 21st Avenue South, Nashville, TN 37203, USA.
+troy.a.hackett@vanderbilt.edu
+
+In this report, a method is presented for gaining direct access to cortical areas
+within the lateral fissure of primates for neuroanatomical tracer injections and 
+electrode array implantation. Compared to areas on the surface of the brain, the 
+anatomical and physiological properties of areas within the fissure are poorly
+understood. Typically, access to these areas is indirectly achieved by ablating
+or passing through intervening areas. To enable direct experimental access, a
+neurosurgical technique was developed in primates whereby the banks of the
+lateral fissure were retracted with sparing of the vascular network and
+intervening areas. In some animals, anatomical tracers were directly injected
+into target fields without contamination of other areas. In others, multichannel 
+electrode arrays were implanted into target areas for chronic recording of neural
+activity. Since, these techniques could be adapted for exploration of areas
+within other sulci, the approach represents an important advance in efforts to
+elucidate the functional organization of the primate cerebral cortex.
+
+DOI: 10.1016/j.jneumeth.2004.06.001 
+PMID: 15585294  [Indexed for MEDLINE]
+

@@ -1,0 +1,83 @@
+
+
+1828. J Neurosci Methods. 2012 Jan 15;203(1):28-40. doi:
+10.1016/j.jneumeth.2011.09.004. Epub 2011 Sep 12.
+
+Wireless multi-channel single unit recording in freely moving and vocalizing
+primates.
+
+Roy S(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+
+The ability to record well-isolated action potentials from individual neurons in 
+naturally behaving animals is crucial for understanding neural mechanisms
+underlying natural behaviors. Traditional neurophysiology techniques, however,
+require the animal to be restrained which often restricts natural behavior. An
+example is the common marmoset (Callithrix jacchus), a highly vocal New World
+primate species, used in our laboratory to study the neural correlates of vocal
+production and sensory feedback. When restrained by traditional
+neurophysiological techniques marmoset vocal behavior is severely inhibited.
+Tethered recording systems, while proven effective in rodents pose limitations in
+arboreal animals such as the marmoset that typically roam in a three-dimensional 
+environment. To overcome these obstacles, we have developed a wireless neural
+recording technique that is capable of collecting single-unit data from
+chronically implanted multi-electrodes in freely moving marmosets. A lightweight,
+low power and low noise wireless transmitter (headstage) is attached to a
+multi-electrode array placed in the premotor cortex of the marmoset. The wireless
+headstage is capable of transmitting 15 channels of neural data with
+signal-to-noise ratio (SNR) comparable to a tethered system. To minimize
+radio-frequency (RF) and electro-magnetic interference (EMI), the experiments
+were conducted within a custom designed RF/EMI and acoustically shielded chamber.
+The individual electrodes of the multi-electrode array were periodically advanced
+to densely sample the cortical layers. We recorded single-unit data over a period
+of several months from the frontal cortex of two marmosets. These recordings
+demonstrate the feasibility of using our wireless recording method to study
+single neuron activity in freely roaming primates.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2011.09.004 
+PMCID: PMC3848526
+PMID: 21933683  [Indexed for MEDLINE]
+
+
+1829. Eur J Immunol. 2012 Jan;42(1):217-27. doi: 10.1002/eji.201141863. Epub 2011 Dec
+2.
+
+Unravelling the T-cell-mediated autoimmune attack on CNS myelin in a new primate 
+EAE model induced with MOG34-56 peptide in incomplete adjuvant.
+
+Jagessar SA(1), Heijmans N, Blezer EL, Bauer J, Blokhuis JH, Wubben JA, Drijfhout
+JW, van den Elsen PJ, Laman JD, Hart BA.
+
+Author information: 
+(1)Department of Immunology, Biomedical Primate Research Centre, Rijswijk, The
+Netherlands.
+
+Induction of experimental autoimmune encephalomyelitis (EAE) has been documented 
+in common marmosets using peptide 34-56 from human myelin/oligodendrocyte
+glycoprotein (MOG(34-56) ) in incomplete Freund's adjuvant (IFA). Here, we report
+that this EAE model is associated with widespread demyelination of grey and white
+matter. We performed an in-depth analysis of the specificity, MHC restriction and
+functions of the activated T cells in the model, which likely cause EAE in an
+autoantibody-independent manner. T-cell lines isolated from blood and lymphoid
+organs of animals immunized with MOG(34-56) displayed high production of IL-17A
+and specific lysis of MOG(34-56) -pulsed EBV B-lymphoblastoid cells as typical
+hallmarks. Cytotoxicity was directed at the epitope MOG(40-48) presented by the
+non-classical MHC class Ib allele Caja-E, which is orthologue to HLA-E and is
+expressed in non-inflamed brain. In vivo activated T cells identified by flow
+cytometry in cultures with MOG(34-56,) comprised CD4(+) CD56(+) and CD4(+) CD8(+)
+CD56(+) T cells. Furthermore, phenotypical analysis showed that CD4(+) CD8(+)
+CD56(+) T cells also expressed CD27, but CD16, CD45RO, CD28 and CCR7 were absent.
+These results show that, in the MOG34-56/IFA marmoset EAE model, a
+Caja-E-restricted population of autoreactive cytotoxic T cells plays a key role
+in the process of demyelination in the grey and white matter.
+
+Copyright © 2012 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/eji.201141863 
+PMID: 21928277  [Indexed for MEDLINE]
+

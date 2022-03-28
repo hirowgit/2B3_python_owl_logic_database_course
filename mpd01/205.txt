@@ -1,0 +1,92 @@
+
+
+205. J Pharmacokinet Pharmacodyn. 2021 Apr;48(2):295-303. doi:
+10.1007/s10928-020-09731-y. Epub 2021 Jan 3.
+
+Improving priors for human monoclonal antibody linear pharmacokinetic parameters 
+by using half-lives from non-human primates.
+
+Shivva V(#)(1), Fink M(#)(2), Lowe PJ(3).
+
+Author information: 
+(1)Preclinical and Translational Pharmacokinetics and Pharmacodynamics,
+Genentech, South San Francisco, CA, USA.
+(2)Novartis Pharma AG, Basel, Switzerland.
+(3)It's all in the dose Ltd, 10 Church Meadow, Ipstones, ST10 2LS, UK.
+phil.lowe@itsallinthedose.com.
+(#)Contributed equally
+
+Obtaining a good prior for the linear pharmacokinetics of new monoclonal
+antibodies (mAbs) would be an advantage not only for designing first-in-human
+(FIH) studies but also for stabilizing fitting of data with non-linear
+target-mediated disposition models. We estimated the pharmacokinetics from FIH
+studies for five mAbs using a two-compartment model, both separately and
+together, using a simple pool, a third hierarchical level of random effects for
+between mAb differences and non-human-primate half-lives as a predictor covariate
+for said differences. There was good agreement between compounds for the rapidly 
+accessible central volume of 2.9 L (70 kg human), but clearances and peripheral
+volumes differed with terminal half-lives ranging from 15 to 28 days. The simple 
+pool of human studies gave inter-individual variability estimates of 32%
+coefficient of variation (CV) for clearance and 33% CV for peripheral volume,
+larger than for separate fits (13-26% CV and 15-35% CV for clearance and volume
+respectively). Using third level hierarchical random effects gave
+inter-individual variability estimates close to those of separate fits (24% and
+16% CV respectively). The between-mAb differences became predictable if non-human
+primate body weight scaled terminal half-life estimates were included as
+covariates on clearance and peripheral volume. In conclusion, ignoring inter-mAb 
+variation leads to inflated estimates of inter-individual variability and
+unrealistic simulations for FIH studies. However, by using 70 kg body weight
+scaled terminal half-life estimates from non-human primates one can account for
+between-mAb differences and provide non-inflated priors for the linear
+pharmacokinetic parameters of new mAbs.
+
+DOI: 10.1007/s10928-020-09731-y 
+PMID: 33389522  [Indexed for MEDLINE]
+
+
+206. J Chem Neuroanat. 2021 Mar;112:101914. doi: 10.1016/j.jchemneu.2020.101914. Epub 
+2020 Dec 31.
+
+Distribution and morphology of calbindin neurons in the Amygdaloid Complex of the
+marmoset monkey (callithrix jacchus).
+
+de Góis Morais PLA(1), Paiva KM(2), Oliveira RF(2), Santana MAD(3), Guzen FP(2), 
+Engelberth RCGJ(4), de Souza Cavalcante J(4), Nascimento ES Junior(4), Cavalcanti
+JRLP(2).
+
+Author information: 
+(1)Universidade do Estado do Rio Grande do Norte, Brazil. Electronic address:
+Pauloleonardo87@hotmail.com.
+(2)Universidade do Estado do Rio Grande do Norte, Brazil.
+(3)Universidade Federal do Vale do São Francisco, Brazil.
+(4)Universidade Federal do Rio Grande do Norte, Brazil.
+
+The location and distribution of the calcium-binding protein calbindin-D28k (CB) 
+has been considered to be of great value as a neuronal marker for identifying
+distinct brain regions and discrete neuronal populations. In the amygdaloid
+complex (AC), the balance of excitatory and inhibitory inputs is controlled by CB
+immunoreactive interneurons. Alterations of inhibitory mechanisms in the AC may
+play a role in the emotional symptomatology of neurological diseases like
+Alzheimer's and psychiatric disorders like posttraumatic stress disorder. The
+present investigation examined the distribution and morphology of CB-containing
+neurons, neuropils and fibers in marmoset monkey ACs by using immunohistochemical
+and morphometrical methods. We recognized four types of CB cells in the AC: type 
+1 (multipolar), type 2 (spherical or bipolar), type 3 (pyramidal) and type 4
+(halo cells), a cell type specific to the marmoset located in the basal and
+central nuclei. We detected CB cells in all nuclei and areas of the AC, where
+most of the cells were present in the deep nuclei (lateral, basal, accessory
+basal and paralaminar). In the superficial nuclei (the nucleus of the lateral
+olfactory tract, medial nucleus, periamygdaloid cortex and cortical nuclei), the 
+CB cells were abundant in layers 2 and 3. The intercalated nuclei contained small
+densely packed cells. The CB neuropils were particularly dense in layer 1 of the 
+superficial nuclei, in the deep nuclei and in the amygdalohippocampal area. Large
+CB immunoreactive neurons in the white matter and fibers with varicosities were
+found in the myelin tracts that surrounded the AC. These findings are the first
+step in determining whether some of these cells are specifically disrupted in
+pathological states.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jchemneu.2020.101914 
+PMID: 33388377  [Indexed for MEDLINE]
+

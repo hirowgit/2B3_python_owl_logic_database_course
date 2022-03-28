@@ -1,0 +1,71 @@
+
+
+2294. Arch Toxicol. 2008 Oct;82(10):717-27. doi: 10.1007/s00204-008-0296-8. Epub 2008
+Apr 17.
+
+Human CYP2E1 mediates the formation of glycidamide from acrylamide.
+
+Settels E(1), Bernauer U, Palavinskas R, Klaffke HS, Gundert-Remy U, Appel KE.
+
+Author information: 
+(1)Center for Experimental Toxicology, Federal Institute for Risk Assessment,
+Thielallee 88-92, 14195 Berlin, Germany.
+
+Regarding the cancer risk assessment of acrylamide (AA) it is of basic interest
+to know, as to what amount of the absorbed AA is metabolized to glycidamide (GA) 
+in humans, compared to what has been observed in laboratory animals. GA is
+suspected of being the ultimate carcinogenic metabolite of AA. From experiments
+with CYP2E1-deficient mice it can be concluded that AA is metabolized to GA
+primarily by CYP2E1. We therefore examined whether CYP2E1 is involved in GA
+formation in non-rodent species with the focus on humans by using human CYP2E1
+supersomes, marmoset and human liver microsomes and in addition, genetically
+engineered V79 cells expressing human CYP2E1 (V79h2E1 cells). Special emphasis
+was placed on the analytical detection of GA, which was performed by gas
+chromatography/mass spectrometry. The results show that AA is metabolized to GA
+in human CYP2E1 supersomes, in marmoset and human liver microsomes as well as in 
+V79h2E1 cells. The activity of GA formation is highest in supersomes; in human
+liver it is somewhat higher than in marmoset liver. A monoclonal CYP2E1 human
+selective antibody (MAB-2E1) and diethyldithiocarbamate (DDC) were used as
+specific inhibitors of CYP2E1. The generation of GA could be inhibited by MAB-2E1
+to about 80% in V79h2E1 cells and to about 90% in human and marmoset liver
+microsomes. Also DDC led to an inhibition of about 95%. In conclusion, AA is
+metabolized to GA by human CYP2E1. Overall, the present work describes (1) the
+application and refinement of a sensitive methodology in order to determine low
+amounts of GA, (2) the applicability of genetically modified V79 cell lines in
+order to investigate specific questions concerning metabolism and (3) the
+involvement, for the first time, of human CYP2E1 in the formation of GA from AA. 
+Further studies will compare the activities of GA formation in genetically
+engineered V79 cells expressing CYP2E1 from different species.
+
+DOI: 10.1007/s00204-008-0296-8 
+PMID: 18418580  [Indexed for MEDLINE]
+
+
+2295. Vision Res. 2008 Nov;48(26):2604-14. doi: 10.1016/j.visres.2008.02.017. Epub 2008
+Apr 7.
+
+Segregation of short-wavelength sensitive ("blue") cone signals among neurons in 
+the lateral geniculate nucleus and striate cortex of marmosets.
+
+Hashemi-Nezhad M(1), Blessing EM, Dreher B, Martin PR.
+
+Author information: 
+(1)Discipline of Anatomy and Histology and Bosch Institute, School of Medical
+Sciences, University of Sydney, New South Wales 2006, Australia.
+
+We measured functional input from short-wavelength selective (S) cones to neurons
+in the dorsal lateral geniculate nucleus (LGN) and striate cortex (area V1) in
+anaesthetized marmosets. We found that most magnocellular (MC) and parvocellular 
+(PC) cells receive very little (<5%) functional input from S cones, whereas
+blue-on cells of the koniocellular (KC) pathway receive dominant input from S
+cones. Cells dominated by S cone input were not encountered in V1, but V1 cells
+received more S cone input than PC or MC cells. This suggests that S cone inputs 
+are distributed broadly among neurons in V1. No differences in strength of S cone
+inputs were seen on comparing dichromatic and trichromatic marmosets, suggesting 
+that the addition of a medium-long wavelength selective cone-opponent
+("red-green") channel to a dichromatic visual system does not detectably affect
+the chromatic properties of the S cone pathways.
+
+DOI: 10.1016/j.visres.2008.02.017 
+PMID: 18397798  [Indexed for MEDLINE]
+

@@ -1,0 +1,32 @@
+
+
+3132. Nat Neurosci. 2001 Nov;4(11):1131-8.
+
+Temporal and rate representations of time-varying signals in the auditory cortex 
+of awake primates.
+
+Lu T(1), Liang L, Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+The Johns Hopkins University School of Medicine, 720 Rutland Avenue, Ross 424,
+Baltimore, Maryland 21205, USA.
+
+Comment in
+    Nat Neurosci. 2001 Nov;4(11):1055-6.
+
+Because auditory cortical neurons have limited stimulus-synchronized responses,
+cortical representations of more rapidly occurring but still perceivable stimuli 
+remain unclear. Here we show that there are two largely distinct populations of
+neurons in the auditory cortex of awake primates: one with stimulus-synchronized 
+discharges that, with a temporal code, explicitly represented slowly occurring
+sound sequences and the other with non-stimulus-synchronized discharges that,
+with a rate code, implicitly represented rapidly occurring events. Furthermore,
+neurons of both populations displayed selectivity in their discharge rates to
+temporal features within a short time-window. Our results suggest that the
+combination of temporal and rate codes in the auditory cortex provides a possible
+neural basis for the wide perceptual range of temporal information.
+
+DOI: 10.1038/nn737 
+PMID: 11593234  [Indexed for MEDLINE]
+

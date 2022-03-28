@@ -1,0 +1,120 @@
+
+
+806. Neuroimage. 2017 Dec;163:55-67. doi: 10.1016/j.neuroimage.2017.09.028. Epub 2017 
+Sep 18.
+
+Mapping orbitofrontal-limbic maturation in non-human primates: A longitudinal
+magnetic resonance imaging study.
+
+Uematsu A(1), Hata J(1), Komaki Y(2), Seki F(1), Yamada C(3), Okahara N(3),
+Kurotaki Y(3), Sasaki E(1), Okano H(4).
+
+Author information: 
+(1)Department of Physiology, Keio University School of Medicine, 35 Shinanomachi,
+Shinjuku-ku, Tokyo, 160-8582, Japan; RIKEN BSI Laboratory for Marmoset Neural
+Architecture, 2-1 Hirosawa, Wako, Saitama, 351-0198, Japan; Central Institute for
+Experimental Animals, 3-25-12 Tonomachi, Kawasaki-ku, Kawasaki, 210-0821, Japan.
+(2)Department of Physiology, Keio University School of Medicine, 35 Shinanomachi,
+Shinjuku-ku, Tokyo, 160-8582, Japan; RIKEN BSI Laboratory for Marmoset Neural
+Architecture, 2-1 Hirosawa, Wako, Saitama, 351-0198, Japan.
+(3)Central Institute for Experimental Animals, 3-25-12 Tonomachi, Kawasaki-ku,
+Kawasaki, 210-0821, Japan.
+(4)Department of Physiology, Keio University School of Medicine, 35 Shinanomachi,
+Shinjuku-ku, Tokyo, 160-8582, Japan; RIKEN BSI Laboratory for Marmoset Neural
+Architecture, 2-1 Hirosawa, Wako, Saitama, 351-0198, Japan. Electronic address:
+hidokano@a2.keio.jp.
+
+Brain development involves spatiotemporally complex microstructural changes. A
+number of neuropsychiatric disorders are linked to the neural processes of
+development and aging. Thus, it is important to understanding the typical
+developmental patterns of various brain structures, which will help to define
+critical periods of vulnerability for neural maturation, as well as anatomical
+mechanisms of brain structure-related neuropathology. In this study, we used
+magnetic resonance imaging to assess development of the orbitofrontal cortex,
+cingulate cortex, amygdala, and hippocampus in a non-human primate species, the
+common marmoset (Callithrix jacchus). We collected a total of 114 T2-weighted and
+91 diffusion-weighted scans from 23 animals from infancy to early adulthood.
+Quantitative and qualitative evaluation of age-related brain growth patterns
+showed non-linear structural developmental changes in all measured brain regions,
+consistent with reported human data. Overall, robust volumetric growth was
+observed from 1 to 3 months of age (from infancy to the early juvenile period).
+This rapid brain growth was associated with the largest decrease in mean, axial, 
+and radial diffusivities of diffusion tensor imaging in all brain regions,
+suggesting an increase in the number and size of cells, dendrites, and spines
+during this period. After this developmental period, the volume of various brain 
+regions steadily increased until adolescence (7-13 months of age, depending on
+the region). Further, structural connectivity derived from tractography data in
+various brain regions continuously changed from infancy to adolescence,
+suggesting that the increase in brain volume was related to continued axonal
+myelination during adolescence. Thereafter, the volume of the cortical regions
+decreased considerably, while there was no change in subcortical regions.
+Familial factors, rather than sex, contributed the development of the
+front-limbic brain regions. Overall, this study provides further data on the
+factors and timing important for normal brain development, and suggest that the
+common marmoset is a useful animal model for human neural development.
+
+Copyright © 2017. Published by Elsevier Inc.
+
+DOI: 10.1016/j.neuroimage.2017.09.028 
+PMID: 28923274  [Indexed for MEDLINE]
+
+
+807. Infect Genet Evol. 2018 Sep;63:410-419. doi: 10.1016/j.meegid.2017.09.009. Epub
+2017 Sep 15.
+
+Accurate identification of Anopheles gambiae Giles trophic preferences by
+MALDI-TOF MS.
+
+Niare S(1), Tandina F(1), Davoust B(2), Doumbo O(3), Raoult D(2), Parola P(4),
+Almeras L(5).
+
+Author information: 
+(1)Aix Marseille Université, Unité de Recherche en Maladies Infectieuses et
+Tropicales Emergentes (URMITE), UM63, CNRS 7278, IRD 198 (Dakar, Sénégal), Inserm
+1095, Faculté de Médecine, 27 bd Jean Moulin, 13385 Marseille cedex 5, France;
+Malaria Research and Training Center, DEAP/FMOS, UMI 3189, University of Science,
+Techniques and Technology, Bamako, Mali.
+(2)Aix Marseille Université, Unité de Recherche en Maladies Infectieuses et
+Tropicales Emergentes (URMITE), UM63, CNRS 7278, IRD 198 (Dakar, Sénégal), Inserm
+1095, Faculté de Médecine, 27 bd Jean Moulin, 13385 Marseille cedex 5, France.
+(3)Malaria Research and Training Center, DEAP/FMOS, UMI 3189, University of
+Science, Techniques and Technology, Bamako, Mali.
+(4)Aix Marseille Université, Unité de Recherche en Maladies Infectieuses et
+Tropicales Emergentes (URMITE), UM63, CNRS 7278, IRD 198 (Dakar, Sénégal), Inserm
+1095, Faculté de Médecine, 27 bd Jean Moulin, 13385 Marseille cedex 5, France.
+Electronic address: philippe.parola@univ-amu.fr.
+(5)Aix Marseille Université, Unité de Recherche en Maladies Infectieuses et
+Tropicales Emergentes (URMITE), UM63, CNRS 7278, IRD 198 (Dakar, Sénégal), Inserm
+1095, Faculté de Médecine, 27 bd Jean Moulin, 13385 Marseille cedex 5, France;
+Unité de Parasitologie et Entomologie, Département des Maladies Infectieuses,
+Institut de Recherche Biomédicale des Armées, Marseille, France.
+
+The determination of the trophic preferences of the Anopheles gambiae Giles
+(Diptera: Culicidae) is a decisive parameter for the monitoring and the
+prevention of malaria risk transmission. Currently, arthropod blood feeding
+sources are identified using immunological or molecular biology traditional
+techniques. Despite the effectiveness of these methods, they present several
+limitations, and notably, they are time-consuming and costly techniques. A recent
+study demonstrated that MALDI-TOF MS could be a useful tool for the
+identification of blood meal origins in freshly engorged mosquitoes. However, the
+limited number of blood vertebrate species tested to date, did not allow an
+assessment of the efficiency of MALDI-TOF MS in distinguishing blood MS spectra
+among close host species, such as humans versus primates. Therefore, in the
+present study, blood from ten distinct vertebrate host species, including four
+domestic species, four wild species, and two primates, was selected to control
+the reliability of MALDI-TOF MS based identification. Host blood species-specific
+MS profiles, up to 24h post-feeding in engorged Anopheles abdomens, were
+confirmed. Blind tests underlined the high specificity of MS spectra for the
+recognition of each host species, preventing misidentification. Nevertheless, an 
+accurate analysis of the results from MS spectra queried against the MS database 
+revealed that the reliability of identification is directly linked to the
+comprehensiveness of the MS reference database. Finally, the rapidity, the
+low-cost reagents, the simplicity of data analysis, and the accuracy of the tool 
+for blood origin determination, make this proteomic strategy a promising
+complementary method for the elucidation of host/vector interactions.
+
+Copyright © 2017. Published by Elsevier B.V.
+
+DOI: 10.1016/j.meegid.2017.09.009 
+PMID: 28919552  [Indexed for MEDLINE]
+

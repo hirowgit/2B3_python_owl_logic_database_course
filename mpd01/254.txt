@@ -1,0 +1,80 @@
+
+
+254. Nat Commun. 2020 Sep 25;11(1):4856. doi: 10.1038/s41467-020-18692-2.
+
+Face selective patches in marmoset frontal cortex.
+
+Schaeffer DJ(1), Selvanayagam J(2), Johnston KD(2), Menon RS(3), Freiwald
+WA(4)(5), Everling S(3)(2).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, ON, N6A 5K8, Canada. dschaeff@uwo.ca.
+(2)Department of Physiology and Pharmacology, University of Western Ontario,
+London, ON, N6A 5K8, Canada.
+(3)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, ON, N6A 5K8, Canada.
+(4)Laboratory of Neural Systems, The Rockefeller University, New York, NY, 10065,
+USA.
+(5)The Center for Brains, Minds and Machines, MIT, Cambridge, MA, 02139, USA.
+
+In humans and macaque monkeys, socially relevant face processing is accomplished 
+via a distributed functional network that includes specialized patches in frontal
+cortex. It is unclear whether a similar network exists in New World primates, who
+diverged ~35 million years from Old World primates. The common marmoset is a New 
+World primate species ideally placed to address this question given their complex
+social repertoire. Here, we demonstrate the existence of a putative high-level
+face processing network in marmosets. Like Old World primates, marmosets show
+differential activation in anterior cingulate and lateral prefrontal cortices
+while they view socially relevant videos of marmoset faces. We corroborate the
+locations of these frontal regions by demonstrating functional and structural
+connectivity between these regions and temporal lobe face patches. Given the
+evolutionary separation between macaques and marmosets, our results suggest this 
+frontal network specialized for social face processing predates the separation
+between Platyrrhini and Catarrhini.
+
+DOI: 10.1038/s41467-020-18692-2 
+PMCID: PMC7519082
+PMID: 32978385  [Indexed for MEDLINE]
+
+
+255. J Comp Neurol. 2021 May 1;529(7):1628-1641. doi: 10.1002/cne.25044. Epub 2020 Oct
+7.
+
+Marmosets have a greater diversity of c-Fos response after hyperstimulation in
+distinct cortical regions as compared to rats.
+
+Magalhães SA(1), Foresti ML(1)(2), Barros VN(1), Mello LE(1)(2).
+
+Author information: 
+(1)Physiology Department, Universidade Federal de São Paulo, São Paulo, Brazil.
+(2)Instituto D'Or de Pesquisa e Ensino, Botafogo, Brazil.
+
+Previous evidence indicated a potential mechanism that might support the fact
+that primates exhibit greater neural integration capacity as a result of the
+activation of different structures of the central nervous system, as compared to 
+rodents. The current study aimed to provide further evidence to confirm previous 
+findings by analyzing the patterns of c-Fos expression in more neocortical
+structures of rats and marmosets using a more robust quantitative technique and
+evaluating a larger number of brain areas. Nineteen Wistar rats and 21 marmosets 
+(Callithrix jacchus) were distributed among control groups (animals without
+injections) and animals injected with pentylenetetrazol (PTZ) and euthanized at
+different time points after stimulus. Immunohistochemical detection of c-Fos was 
+quantified using unbiased and efficient stereological cell counting in eight
+neocortical regions. Marmosets had a c-Fos expression that was notably more
+widely expressed (5× more cells) and longer lasting (up to 3 hr) than rats. c-Fos
+expression in rats presented similar patterns of expression according to the
+function of the brain cortical structures (associative, sensorial, and motor
+functions), which was not observed for marmosets (in which no clear pattern could
+be drawn, and a more diverse profile emerged). Our results provide evidence that 
+the marmoset brain has a greater neuronal activation after intense stimulation by
+means of PTZ and a more complex pattern of brain activation. We speculate that
+these functional differences may contribute for the understanding of the
+different neuronal processing capacities of the neocortex in these mammals'
+orders.
+
+© 2020 Wiley Periodicals LLC.
+
+DOI: 10.1002/cne.25044 
+PMID: 32975324  [Indexed for MEDLINE]
+

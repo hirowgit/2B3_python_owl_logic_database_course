@@ -1,0 +1,38 @@
+
+
+2807. Cytogenet Genome Res. 2004;105(1):54-6.
+
+The evolutionary conservation of the human chitotriosidase gene in rodents and
+primates.
+
+Gianfrancesco F(1), Musumeci S.
+
+Author information: 
+(1)Institute of Population Genetics, CNR, Alghero, Italy.
+F.Gianfrancesco@igm.ss.cnr.it
+
+Chitinases have been identified in a variety of organisms ranging from
+prokaryotes to eukaryotes, known to specifically degrade chitin, an abundant
+polymer of N-acetylglucosamine. Recently a human chitinolytic enzyme called CHIT1
+was discovered. CHIT1 is expressed by activated macrophages and hydrolyzes
+artificial chitotrioside substrates, but its specific function in humans is
+unknown, since it is generally believed that man completely lacks endogenous
+chitin and endogenous substrates for chitinases. An intriguing question is
+whether the chitotriosidase activity is just an evolutionary remnant or it has a 
+physiological function in man. To test these hypotheses we utilized a
+"phylogenomic" approach performing accurate sequence analyses of this gene,
+coding for CHIT1, in rodents and primates. Inspecting the sequences available in 
+public databases, we determined that this gene is conserved in rodents (mouse and
+rat) and primates (chimpanzee, gorilla, orangutan, gibbon, baboon, a common
+marmoset and black macaque). Moreover we found that a 24-base pair duplication
+that determines an enzymatically inactive human protein is not present in
+primates, suggesting that this polymorphism was created during human evolution.
+These results indicate that chitotriosidase is conserved across the evolutionary 
+scale. Such conservation of the CHIT1 gene argues in favour of an important
+biological role.
+
+Copyright 2003 S. Karger AG, Basel
+
+DOI: 10.1159/000078009 
+PMID: 15218258  [Indexed for MEDLINE]
+

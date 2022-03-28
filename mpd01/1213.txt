@@ -1,0 +1,98 @@
+
+
+1213. Exp Hematol. 2015 Oct;43(10):901-911.e4. doi: 10.1016/j.exphem.2015.06.001. Epub 
+2015 Jun 12.
+
+Improved hematopoietic differentiation of primate embryonic stem cells by
+inhibition of the PI3K-AKT pathway under defined conditions.
+
+Nii T(1), Marumoto T(1), Kohara H(2), Yamaguchi S(1), Kawano H(1), Sasaki E(3),
+Kametani Y(4), Tani K(5).
+
+Author information: 
+(1)Division of Molecular and Clinical Genetics, Department of Molecular Genetics,
+Medical Institute of Bioregulation, Kyushu University, Fukuoka, Japan.
+(2)Division of Molecular and Clinical Genetics, Department of Molecular Genetics,
+Medical Institute of Bioregulation, Kyushu University, Fukuoka, Japan; Project
+Division of ALA Advanced Medical Research, The Institute of Medical Science, The 
+University of Tokyo, Tokyo, Japan.
+(3)Central Institute for Experimental Animals, Kawasaki, Kanagawa, Japan.
+(4)Department of Molecular Life Science, Tokai University School of Medicine,
+Isehara, Kanagawa, Japan.
+(5)Division of Molecular and Clinical Genetics, Department of Molecular Genetics,
+Medical Institute of Bioregulation, Kyushu University, Fukuoka, Japan; Project
+Division of ALA Advanced Medical Research, The Institute of Medical Science, The 
+University of Tokyo, Tokyo, Japan. Electronic address: k-tani@ims.u-tokyo.ac.jp.
+
+Hematopoietic stem/progenitor cells (HSPCs) derived from embryonic stem cells
+(ESCs) and induced pluripotent stem cells (iPSCs) have potential therapeutic
+applications in humans. To assess the safety and efficacy of ESC/iPSC-based
+therapies, reliable animal models are required prior to their clinical
+application. The common marmoset (CM) was recently found to be a useful nonhuman 
+primate animal model for drug development and safety assessment. However, a
+method for the efficient hematopoietic differentiation of CM ESCs has not been
+established. In this study, we developed a novel and efficient method for
+differentiating CM ESCs into hematopoietic cells by transiently inhibiting the
+phosphoinositide 3-kinase (PI3K)-Protein kinase B (AKT) pathway, a critical
+pathway that maintains the undifferentiated state of CM ESCs during embryoid body
+(EB) formation. Compared with controls, transient inhibition of the P13K-AKT
+pathway resulted in a threefold increase in the proportion of enriched CD34⁺
+cells (p < 0.001) and an increase in the number of hematopoietic colonies on day 
+8 of CM EB cultures. Moreover, number of blast colonies, number of hematopoietic 
+progenitor cell populations of CD34⁺CD117⁺, CD34⁺CD45⁺, and CD43⁺CD45⁺ cells, and
+expression of hematopoietic genes were increased by transient inhibition of the
+PI3K-AKT pathway. We also demonstrated that the hematopoietic progenitor cell
+population was increased by inhibition of PI3K in a human system. Our novel and
+efficient ESC differentiation method might be useful for preclinical research on 
+human hematopoietic disorders and may be efficiently translated to human
+ESC/iPSC-based regenerative medicine.
+
+Copyright © 2015 ISEH - International Society for Experimental Hematology.
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.exphem.2015.06.001 
+PMID: 26073521  [Indexed for MEDLINE]
+
+
+1214. Growth Horm IGF Res. 2015 Aug;25(4):158-67. doi: 10.1016/j.ghir.2015.06.004. Epub
+2015 Jun 6.
+
+Coevolution of insulin-like growth factors, insulin and their receptors and
+binding proteins in New World Monkeys.
+
+Wallis M(1).
+
+Author information: 
+(1)Biochemistry and Biomedicine Group, School of Life Sciences, University of
+Sussex, Falmer, Brighton BN1 9QG, UK. Electronic address: M.Wallis@sussex.ac.uk.
+
+Previous work has shown that the evolution of both insulin-like growth factor 1
+(IGF1) and insulin shows an episode of accelerated change on the branch leading
+to New World Monkeys (NWM). Here the possibility that this is accompanied by a
+corresponding episode of accelerated evolution of IGF1 receptor (IGF1R), insulin 
+receptor (IR) and/or IGF binding proteins (IGFBPs) was investigated. Analysis of 
+receptor sequences from a range of primates and some non-primate mammals showed
+that accelerated evolution did indeed occur on this branch in the case of IGF1R
+and IR, but not for the similar insulin receptor-related receptor (IRRR) which
+does not bind insulin or IGF1. Marked accelerated evolution on this branch was
+also seen for some IGFBPs, but not the mannose 6-phosphate/IGF2 receptor or
+epidermal growth factor receptor. The rate of evolution slowed before divergence 
+of the lineages leading to the NWM for which sequences are available (Callithrix 
+and Saimiri). For the IGF1R and IR, the accelerated evolution was most marked for
+the extracellular domains (ectodomains). Application of the branch-site method
+showed dN/dS ratios significantly greater than 1.0 for both receptor ectodomains 
+and for IGFBP1, and allowed identification of residues likely to have been
+subject to selection. These residues were concentrated in the N-terminal half of 
+the IGF1R ectodomain but the C-terminal half of the IR ectodomain, which could
+have implications for the formation of hybrid receptors. Overall the results
+suggest that adaptive coevolution of IGF1, insulin and their receptors and some
+IGFBPs occurred during the evolution of NWM. For the most part, the residues that
+change on this branch could not be associated with specific functional aspects
+(ligand binding, receptor dimerization, glycosylation) and the physiological
+significance of this coevolution remains to be established.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ghir.2015.06.004 
+PMID: 26072449  [Indexed for MEDLINE]
+

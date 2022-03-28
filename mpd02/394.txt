@@ -1,0 +1,42 @@
+
+
+394. Cell Immunol. 2020 Jan;347:103999. doi: 10.1016/j.cellimm.2019.103999. Epub 2019 
+Oct 31.
+
+NHP-immunome: A translational research-oriented database of non-human primate
+immune system proteins.
+
+Plaza DF(1), Gómez MF(2), Patarroyo MA(3).
+
+Author information: 
+(1)Molecular Biology and Immunology Department, Fundación Instituto de
+Inmunología de Colombia (FIDIC), Bogotá, Colombia; School of Medicine and Health 
+Sciences, Universidad del Rosario, Bogotá, Colombia.
+(2)Molecular Biology and Immunology Department, Fundación Instituto de
+Inmunología de Colombia (FIDIC), Bogotá, Colombia.
+(3)Molecular Biology and Immunology Department, Fundación Instituto de
+Inmunología de Colombia (FIDIC), Bogotá, Colombia; School of Medicine and Health 
+Sciences, Universidad del Rosario, Bogotá, Colombia. Electronic address:
+mapatarr.fidic@gmail.com.
+
+We are currently living the advent of a new age for medicine in which basic
+research is being quickly translated into marketable drugs, and the widespread
+access to genomics data is allowing the design and implementation of personalized
+solutions to medical conditions. Non-human primates (NHP) have gained an
+essential role in drug discovery and safety testing due to their close
+phylogenetic relationship to humans. In this study, a collection of well
+characterized genes of the human immune system was used to define the
+orthology-based immunome in four NHP species, with carefully curated annotations 
+available based on multi-tissue RNA-seq datasets. A broad variation in the
+frequency of expressed protein isoforms was observed between species. Finally,
+this analysis also revealed the lack of expression of at least four different
+chemokines in new-world primates. In addition, transcripts corresponding to four 
+genes including interleukin 12 subunit alpha were expressed in humans but no
+other primate species analyzed. Access to the non-human primate immunome is
+available in http://www.fidic.org.co:90/proyecto/.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cellimm.2019.103999 
+PMID: 31733823  [Indexed for MEDLINE]
+

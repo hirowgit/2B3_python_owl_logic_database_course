@@ -1,0 +1,82 @@
+
+
+1097. Sci Rep. 2016 Feb 24;6:21966. doi: 10.1038/srep21966.
+
+The impact of inhibitory mechanisms in the inner retina on spatial tuning of
+RGCs.
+
+Huang JY(1)(2), Protti DA(3)(2).
+
+Author information: 
+(1)Discipline of Biomedical Science, The University of Sydney, NSW 1825
+Australia.
+(2)The Bosch Institute, The University of Sydney, NSW 2006 Australia.
+(3)Discipline of Physiology, The University of Sydney, NSW 2006 Australia.
+
+Spatial tuning properties of retinal ganglion cells (RGCs) are sharpened by
+lateral inhibition originating at both the outer and inner plexiform layers.
+Lateral inhibition in the retina contributes to local contrast enhancement and
+sharpens edges. In this study, we used dynamic clamp recordings to examine the
+contribution of inner plexiform inhibition, originating from spiking amacrine
+cells, to the spatial tuning of RGCs. This was achieved by injecting currents
+generated from physiologically recorded excitatory and inhibitory stimulus-evoked
+conductances, into different types of primate and mouse RGCs. We determined the
+effects of injections of size-dependent conductances in which presynaptic
+inhibition and/or direct inhibition onto RGCs were partly removed by blocking the
+activity of spiking amacrine cells. We found that inhibition originating from
+spiking amacrine cells onto bipolar cell terminals and onto RGCs, work together
+to sharpen the spatial tuning of RGCs. Furthermore, direct inhibition is crucial 
+for preventing spike generation at stimulus offset. These results reveal how
+inhibitory mechanisms in the inner plexiform layer contribute to determining size
+tuning and provide specificity to stimulus polarity.
+
+DOI: 10.1038/srep21966 
+PMCID: PMC4764933
+PMID: 26905860  [Indexed for MEDLINE]
+
+
+1098. PLoS One. 2016 Feb 22;11(2):e0149776. doi: 10.1371/journal.pone.0149776.
+eCollection 2016.
+
+Comparative Analysis of the Effects of Neurotrophic Factors CDNF and GDNF in a
+Nonhuman Primate Model of Parkinson's Disease.
+
+Garea-Rodríguez E(1)(2)(3), Eesmaa A(4), Lindholm P(4), Schlumbohm C(1)(5), König
+J(1)(5), Meller B(6), Krieglstein K(7), Helms G(8), Saarma M(4), Fuchs E(1)(3).
+
+Author information: 
+(1)Clinical Neurobiology Laboratory, German Primate Center, Göttingen, Germany.
+(2)Department of Neuroanatomy Institute of Anatomy and Cell Biology,
+Albert-Ludwigs-University Freiburg, Freiburg, Germany.
+(3)Center for Molecular Physiology of the Brain (CMPB), University of Göttingen, 
+Göttingen, Germany.
+(4)Institute of Biotechnology, University of Helsinki, Helsinki, Finland.
+(5)Encepharm, Göttingen, Germany.
+(6)Department of Nuclear Medicine, University Medical Center,
+Georg-August-University Göttingen, Göttingen, Germany.
+(7)Department of Molecular Embryology, Institute for Anatomy and Cell Biology,
+Albert-Ludwigs-University Freiburg, Freiburg, Germany.
+(8)Department of Cognitive Neurology, University Medical Center,
+Georg-August-University Göttingen, Göttingen, Germany.
+
+Cerebral dopamine neurotrophic factor (CDNF) belongs to a newly discovered family
+of evolutionarily conserved neurotrophic factors. We demonstrate for the first
+time a therapeutic effect of CDNF in a unilateral 6-hydroxydopamine (6-OHDA)
+lesion model of Parkinson's disease in marmoset monkeys. Furthermore, we tested
+the impact of high chronic doses of human recombinant CDNF on unlesioned monkeys 
+and analyzed the amino acid sequence of marmoset CDNF. The severity of 6-OHDA
+lesions and treatment effects were monitored in vivo using 123I-FP-CIT (DaTSCAN) 
+SPECT. Quantitative analysis of 123I-FP-CIT SPECT showed a significant increase
+of dopamine transporter binding activity in lesioned animals treated with CDNF.
+Glial cell line-derived neurotrophic factor (GDNF), a well-characterized and
+potent neurotrophic factor for dopamine neurons, served as a control in a
+parallel comparison with CDNF. By contrast with CDNF, only single animals
+responded to the treatment with GDNF, but no statistical difference was observed 
+in the GDNF group. However, increased numbers of tyrosine hydroxylase
+immunoreactive neurons, observed within the lesioned caudate nucleus of
+GDNF-treated animals, indicate a strong bioactive potential of GDNF.
+
+DOI: 10.1371/journal.pone.0149776 
+PMCID: PMC4763937
+PMID: 26901822  [Indexed for MEDLINE]
+

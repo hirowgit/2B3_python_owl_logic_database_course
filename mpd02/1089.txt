@@ -1,0 +1,70 @@
+
+
+1089. J Neurosci. 2016 Mar 2;36(9):2796-808. doi: 10.1523/JNEUROSCI.1770-15.2016.
+
+Application of q-Space Diffusion MRI for the Visualization of White Matter.
+
+Fujiyoshi K(1), Hikishima K(2), Nakahara J(3), Tsuji O(4), Hata J(5), Konomi
+T(1), Nagai T(6), Shibata S(7), Kaneko S(8), Iwanami A(9), Momoshima S(10),
+Takahashi S(3), Jinzaki M(10), Suzuki N(3), Toyama Y(9), Nakamura M(11), Okano
+H(12).
+
+Author information: 
+(1)Departments of Orthopedic Surgery, Physiology, Department of Orthopedic
+Surgery, National Hospital Organization Murayama Medical Center, Tokyo 208-0011, 
+Japan.
+(2)Physiology, Central Institute for Experimental Animals, Kanagawa 210-0821,
+Japan, and.
+(3)Neurology, and.
+(4)Departments of Orthopedic Surgery, Physiology.
+(5)Physiology, Laboratory for Marmoset Neural Architecture, RIKEN Brain Science
+Institute, Saitama 351-0198, Japan.
+(6)Electron Microscopic Laboratory, Keio University School of Medicine, Tokyo
+160-8582, Japan.
+(7)Physiology.
+(8)Department of Orthopedic Surgery, National Hospital Organization Murayama
+Medical Center, Tokyo 208-0011, Japan.
+(9)Departments of Orthopedic Surgery.
+(10)Radiology, and.
+(11)Departments of Orthopedic Surgery, masa@a8.keio.jp hidokano@a2.keio.jp.
+(12)Physiology, Laboratory for Marmoset Neural Architecture, RIKEN Brain Science 
+Institute, Saitama 351-0198, Japan masa@a8.keio.jp hidokano@a2.keio.jp.
+
+White matter abnormalities in the CNS have been reported recently in various
+neurological and psychiatric disorders. Quantitation of non-Gaussianity for water
+diffusion by q-space diffusional MRI (QSI) renders biological diffusion barriers 
+such as myelin sheaths; however, the time-consuming nature of this method hinders
+its clinical application. In the current study, we aimed to refine QSI protocols 
+to enable their clinical application and to visualize myelin signals in a
+clinical setting. For this purpose, animal studies were first performed to
+optimize the acquisition protocol of a non-Gaussian QSI metric. The heat map of
+standardized kurtosis values derived from optimal QSI (myelin map) was then
+created. Histological validation of the myelin map was performed in
+myelin-deficient mice and in a nonhuman primate by monitoring its variation
+during demyelination and remyelination after chemical spinal cord injury. The
+results demonstrated that it was sensitive enough to depict dysmyelination,
+demyelination, and remyelination in animal models. Finally, its utility in
+clinical practice was assessed by a pilot clinical study in a selected group of
+patients with multiple sclerosis (MS). The human myelin map could be obtained
+within 10 min with a 3 T MR scanner. Use of the myelin map was practical for
+visualizing white matter and it sensitively detected reappearance of myelin
+signals after demyelination, possibly reflecting remyelination in MS patients.
+Our results together suggest that the myelin map, a kurtosis-related heat map
+obtainable with time-saving QSI, may be a novel and clinically useful means of
+visualizing myelin in the human CNS.SIGNIFICANCE STATEMENT: Myelin abnormalities 
+in the CNS have been gaining increasing attention in various neurological and
+psychiatric diseases. However, appropriate methods with which to monitor CNS
+myelin in daily clinical practice have been lacking. In the current study, we
+introduced a novel MRI modality that produces the "myelin map." The myelin map
+accurately depicted myelin status in mice and nonhuman primates and in a pilot
+clinical study of multiple sclerosis patients, suggesting that it is useful in
+detecting possibly remyelinated lesions. A myelin map of the human brain could be
+obtained in <10 min using a 3 T scanner and it therefore promises to be a
+powerful tool for researchers and clinicians examining myelin-related diseases.
+
+Copyright © 2016 the authors 0270-6474/16/362797-13$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.1770-15.2016 
+PMCID: PMC6604869
+PMID: 26937016  [Indexed for MEDLINE]
+

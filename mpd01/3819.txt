@@ -1,0 +1,68 @@
+
+
+3819. Br J Pharmacol. 1996 Feb;117(3):427-434.
+
+In vitro and in vivo profile of SB 206553, a potent 5-HT2C/5-HT2B receptor
+antagonist with anxiolytic-like properties.
+
+Kennett GA(1), Wood MD, Bright F, Cilia J, Piper DC, Gager T, Thomas D, Baxter
+GS, Forbes IT, Ham P, Blackburn TP.
+
+Author information: 
+(1)Department of Psychiatry, SmithKline Beecham Pharmaceuticals, Essex.
+
+1. SB 206553 (5-methyl-1-(3-pyridylcarbamoyl)-1,2,3,5-tetrahydropyrrolo[2
+,3-f]indole) displays a high affinity (pK1 7.9) for the cloned human 5-HT2C
+receptor expressed in HEK 293 cells and the 5-HT2B receptor (pA2 8.9) as measured
+in the rat stomach fundus preparation. SB 206553 has low affinity for cloned
+human 5-HT2A receptors expressed in HEK 293 cells (pK1 5.8) and (pK1 < 6) for a
+wide variety of other neurotransmitter receptors. 2. SB 206553 appears to be a
+surmountable antagonist of 5-HT-stimulated phosphoinositide hydrolysis in HEK 293
+cells expressing the human 5-HT2C receptor (pKB 9.0). 3. The compound potently
+(ID50 5.5 mg kg-1, p.o., 0.27 mg kg-1, i.v.) inhibited the hypolocomotor response
+to m-chlorophenylpiperazine (mCPP), a putative model of 5-HT2C/5-HT2B receptor
+function in vivo. 4. At similar doses (2-20 mg kg-1, p.o.) SB 206553 increased
+total interaction scores in a rat social interaction test and increased punished 
+responding in a rat Geller-Seifter conflict test. These effects are consistent
+with the possession of anxiolytic properties. 5. SB 206553 also increased
+suppressed responding in a marmoset conflict model of anxiety at somewhat higher 
+doses (15 and 20 mg kg-1, p.o.) but also reduced unsuppressed responding. 6.
+These results suggest that SB 206553 is a potent mixed 5-HT2C/5-HT2B receptor
+antagonist with selectivity over the 5-HT2A and all other sites studied and
+possesses anxiolytic-like properties.
+
+DOI: 10.1111/j.1476-5381.1996.tb15208.x 
+PMCID: PMC1909304
+PMID: 8821530  [Indexed for MEDLINE]
+
+
+3820. Behav Brain Res. 1996 Feb;75(1-2):13-25.
+
+Cognitive functions of the basal forebrain cholinergic system in monkeys: memory 
+or attention?
+
+Voytko ML(1).
+
+Author information: 
+(1)Department of Comparative Medicine, Bowman Gray School of Medicine,
+Winston-Salem, NC 27157-1040, USA. mlvoytko@cpm.bgsm.wfu.edu
+
+The cholinergic hypothesis of memory dysfunction originally proposed that
+dysfunction of cholinergic neurons in the basal forebrain cholinergic system
+(BFCS) may be responsible for the memory deficits associated with aging and
+Alzheimer's disease (AD). This hypothesis directed focus on the BFCS in
+experimental animal models of AD. In contrast to numerous studies in rodents,
+fewer investigations have been conducted in monkeys with BFCS lesions. The
+medical septal nucleus/nucleus of the diagonal band of Broca (MS/NDBB) and the
+nucleus basalis of Meynert (NBM) may be involved in different cognitive functions
+in monkeys. Although few investigations have specifically addressed the issue of 
+cognitive functions of the MS/NDBB in monkeys, there is some indication that
+these regions may be important for memory. In contrast, lesions of the NBM do not
+consistently disrupt mnemonic functions in monkeys. Recent electrophysiological
+and lesion studies of monkeys indicate that the NBM may play a more important
+role in attention functions, impairments of which are an early and significant
+feature of patients with AD.
+
+DOI: 10.1016/0166-4328(95)00143-3 
+PMID: 8800650  [Indexed for MEDLINE]
+

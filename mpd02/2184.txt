@@ -1,0 +1,40 @@
+
+
+2184. Mol Pharmacol. 2009 May;75(5):1005-13. doi: 10.1124/mol.108.053702. Epub 2009 Feb
+11.
+
+Di(2-ethylhexyl) phthalate is a highly potent agonist for the human constitutive 
+androstane receptor splice variant CAR2.
+
+DeKeyser JG(1), Stagliano MC, Auerbach SS, Prabhu KS, Jones AD, Omiecinski CJ.
+
+Author information: 
+(1)Center for Molecular Toxicology and Carcinogenesis, Department of Veterinary
+and Biomedical Sciences, The Pennsylvania State University, University Park, PA
+16802, USA.
+
+The human constitutive androstane receptor (CAR, CAR1) regulates the expression
+of genes involved in xenobiotic metabolism in the liver. The CAR gene uses
+multiple alternative splicing events during pre-mRNA processing, thereby
+enhancing the CAR transcriptome. Previous reports have identified two prominent
+human CAR variants, CAR2 and CAR3, that possess four- and five-amino acid
+insertions in their ligand binding domains, respectively. Unlike the
+constitutively active reference form of the receptor, we now demonstrate that
+CAR2 is a ligand-activated receptor and comprises approximately 30% of the
+reference transcript level in human liver tissues in human hepatocytes.
+Furthermore, we identify the common plasticizer, di(2-ethylhexyl) phthalate
+(DEHP), as a highly potent and uniquely selective agonist of CAR2. Results from
+reporter transactivation and mammalian two-hybrid assays reveal that DEHP
+activates CAR2 at low nanomolar concentrations, results further supported by
+analysis of CAR target gene expression in primary human hepatocytes. In addition,
+comparative genomic analyses show that the typical mouse, rat, and marmoset
+models of DEHP toxicity cannot accurately profile potential human toxicity
+because of these species' inability to generate a CAR2-like transcript. The
+discovery that CAR2 is an ultimate human DEHP receptor identifies a novel pathway
+modulating human DEHP toxicity with potential clinical implications for a subset 
+of patients undergoing critical care medical interventions.
+
+DOI: 10.1124/mol.108.053702 
+PMCID: PMC2672810
+PMID: 19211671  [Indexed for MEDLINE]
+

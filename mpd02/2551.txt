@@ -1,0 +1,48 @@
+
+
+2551. Invest Ophthalmol Vis Sci. 2006 May;47(5):1768-77.
+
+Change in the synthesis rates of ocular retinoic acid and scleral
+glycosaminoglycan during experimentally altered eye growth in marmosets.
+
+Troilo D(1), Nickla DL, Mertz JR, Summers Rada JA.
+
+Author information: 
+(1)Department of Biomedical Science and Disease, The New England College of
+Optometry, Boston, Massachusetts 02115, USA. troilod@neco.edu
+
+PURPOSE: The purpose of this study was to examine the possibility that
+all-trans-retinoic acid (RA) in the eye is a signal related to changes in scleral
+extracellular matrix in a primate model of postnatal eye growth.
+METHODS: Juvenile marmosets (Callithrix jacchus) were divided into two
+experimental groups based on their response to monocular deprivation with
+diffusers: group 1, treated eyes becoming longer than fellow control eyes (n =
+8), and group 2, treated eyes becoming shorter than control eyes (n = 7). Eyes
+were enucleated, dissected, and assayed for changes in the rates of scleral
+glycosaminoglycan (GAG) synthesis and ocular RA synthesis. The rate of
+incorporation of (35)SO4 into CPC-precipitable GAG in scleras was taken as a
+measure of the rate of synthesis of proteoglycans. In the same eyes the rate of
+RA synthesis in vivo was measured separately in the retina and the choroid/RPE
+(choroid with RPE attached) by HPLC. The effect of RA on the rate of scleral GAG 
+synthesis was also examined in tissue-cultured pieces of sclera from additional
+marmosets.
+RESULTS: Induced changes in vitreous chamber length in diffuser-treated eyes
+correlated inversely with the rate of scleral GAG synthesis (P < 0.05) and
+directly correlated with the rate of RA synthesis measured separately in the
+retina (P < 0.05) and the choroid/RPE (P < 0.05). In group 1, the rate of scleral
+GAG synthesis was significantly lower (P < 0.01) in the treated eyes relative to 
+control eyes, and the rate of RA synthesis in both the retina and the choroid/RPE
+was significantly higher (P < 0.01). In group 2, the rates of scleral GAG
+synthesis and RA synthesis in either the retina or choroid/RPE were not found to 
+change significantly in the treated eyes compared with the control eyes. RA
+partially reduces the rate of scleral GAG synthesis in tissue-cultured primate
+sclera in a dose-dependent manner after several days.
+CONCLUSIONS: RA may play a role in the visual control of postnatal eye growth in 
+primates, possibly by inducing changes in scleral extracellular matrix associated
+with increasing eye size. Decreasing growth rate below control levels may involve
+other mechanisms.
+
+DOI: 10.1167/iovs.05-0298 
+PMCID: PMC1892188
+PMID: 16638980  [Indexed for MEDLINE]
+

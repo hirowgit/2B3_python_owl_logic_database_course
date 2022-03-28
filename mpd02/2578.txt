@@ -1,0 +1,32 @@
+
+
+2578. Genes Genet Syst. 2005 Dec;80(6):415-22.
+
+Analysis of newly identified low copy AluYj subfamily.
+
+Park ES(1), Huh JW, Kim TH, Kwak KD, Kim W, Kim HS.
+
+Author information: 
+(1)Division of Biological Sciences, College of Natural Sciences, Pusan National
+University, Buscan, Korea.
+
+Human specific AluY elements were investigated by comparative analysis between
+human chromosome 21 and chimpanzee chromosome 22. Human specific AluY element was
+identified on human chromosome 21q22 (accession no. AL163282), and then that was 
+a new member of AluYj subfamily. From the bioinformatic analysis, AluYj subfamily
+was investigated in human whole genome using AluYj4 consensus sequence (accession
+no. AL163282). Thirteen members of the AluYj4 elements (4 diagnostic mutations)
+and eight members of the AluYj3 elements (3 diagnostic mutations) were identified
+with distinct diagnostic mutation from AluY consensus sequence. The results of
+the molecular clock calculation of non-CpG region substitution indicated that,
+AluYj4 elements (2.1 million years old) may be proliferated more recent time than
+AluYj3 elements (14.1 million years old). For the verification of recent
+insertion time, four of AluYj4 elements (ch2-AC017101, ch10-AC044786,
+ch12-AC007656 and ch21-AL163282) from human chromosomes 2, 10, 12, 21 were
+analyzed by PCR amplification using various human and primate DNA samples.
+Though, no polymorphism was detected in human population, we identified the new
+AluYj4 subfamily as the human specific elements.
+
+DOI: 10.1266/ggs.80.415 
+PMID: 16501310  [Indexed for MEDLINE]
+

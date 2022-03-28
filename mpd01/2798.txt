@@ -1,0 +1,69 @@
+
+
+2798. Virology. 2004 Aug 15;326(1):67-78.
+
+Characterization of the Herpesvirus saimiri Orf51 protein.
+
+Means RE(1).
+
+Author information: 
+(1)Department of Pathology, Yale University School of Medicine, 333 Cedar Street,
+New Haven, CT 06510, USA. robert_means@hms.harvard.edu
+
+Herpesvirus saimiri (HVS) is a gamma(2)-herpesvirus sharing genomic colinearity
+and a high degree of functional homology with HHV-8. To begin exploring the
+correlates of HVS infectivity and neutralization, we designed and implemented a
+new reporter assay. Using this assay, we could demonstrate that HVS neutralizing 
+antibodies are present at high levels in naturally infected squirrel monkeys and 
+are strongly induced after pathogenic, experimental infection of common
+marmosets. Further, we demonstrated that viral entry is influenced by cellular
+glycosaminoglycans and that, similar to HHV-8, soluble heparin is capable of
+blocking infectivity. We next cloned and characterized the positional homologue
+of HHV-8 K8.1, HVS Orf51. N-glycosidase F treatment indicates that like K8.1,
+Orf51 is a glycoprotein. Found in the viral particle, it localizes to the
+endoplasmic reticulum of expressing cells. Like K8.1, Orf51 could bind to
+agarose-conjugated heparin, implicating this molecule in viral attachment to
+cells. These studies provide the groundwork for additional experiments into the
+role that this protein may be playing in viral pathogenicity, persistence, and
+cell tropism.
+
+DOI: 10.1016/j.virol.2004.05.015 
+PMID: 15262496  [Indexed for MEDLINE]
+
+
+2799. Eur J Immunol. 2004 Aug;34(8):2072-83.
+
+Frontline: Epitope recognition on the myelin/oligodendrocyte glycoprotein
+differentially influences disease phenotype and antibody effector functions in
+autoimmune demyelination.
+
+von Büdingen HC(1), Hauser SL, Ouallet JC, Tanuma N, Menge T, Genain CP.
+
+Author information: 
+(1)Department of Neurology, School of Medicine, University of California-San
+Francisco, 505 Parnassus Avenue, San Francisco, CA 94143, USA.
+
+Comment in
+    Eur J Immunol. 2004 Aug;34(8):2065-71.
+
+Preliminary observations of humoral immunity against the myelin oligodendrocyte
+glycoprotein (MOG) in experimental allergic encephalomyelitis (EAE) and human
+multiple sclerosis (MS) suggest that a subset of anti-MOG autoantibodies directed
+against conformational epitopes is of pathogenic predominance. Here, we provide
+proof that in marmoset EAE, autoantibodies reactive against conformational
+epitopes of MOG are not only responsible for aggravating demyelination, but also 
+an essential factor for disease dissemination in space within the central nervous
+system, a hallmark for typical forms of human MS. In terms of effector
+mechanisms, IgG deposition and complement activation occur exclusively in
+association with presence of these conformational antibodies, while
+microglial/macrophage activation appears to be a common immunopathological
+finding regardless of the fine determinant specificity of anti-MOG antibodies.
+These findings highlight for the first time the complex heterogeneity of function
+and pathogenicity in the polyclonal anti-MOG antibody repertoire of outbred
+species. Because the linear and conformational antibody determinants of MOG are
+shared between marmosets and humans, these results are directly relevant to
+understanding effector mechanisms of organ damage in MS.
+
+DOI: 10.1002/eji.200425050 
+PMID: 15259004  [Indexed for MEDLINE]
+

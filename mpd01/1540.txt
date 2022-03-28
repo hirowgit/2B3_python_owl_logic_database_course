@@ -1,0 +1,78 @@
+
+
+1540. Exp Neurol. 2013 Oct;248:224-7. doi: 10.1016/j.expneurol.2013.06.016. Epub 2013
+Jun 26.
+
+Lack of secondary pathology in the thalamus after focal cerebral ischemia in
+nonhuman primates.
+
+Lipsanen A(1), Kalesnykas G, Pro-Sistiaga P, Hiltunen M, Vanninen R, Bernaudin M,
+Touzani O, Jolkkonen J.
+
+Author information: 
+(1)Institute of Clinical Medicine-Neurology, University of Eastern Finland,
+Kuopio, Finland.
+
+Remote regions such as the thalamus undergo secondary degeneration after cerebral
+ischemia. In rodents, the pathology in the thalamus is characterized by a robust 
+inflammatory reaction, β-amyloid (Aβ) accumulation and calcification. Here we
+studied whether nonhuman primates subjected to middle cerebral artery occlusion
+(MCAO) display a similar pathology. Common marmosets (n=4) were subjected to
+transient MCAO for 3 h. Two sham-operated animals served as controls. All animals
+underwent MRI examination (T2) on postoperative day 7 to assess the location of
+the infarct. After a 45-day follow-up period, the animals were perfused for
+histology to evaluate β-amyloid and calcium load in the peri-infarct regions and 
+the thalamus. There was no Aβ or calcium staining in the sham-operated marmosets.
+The contralateral hemisphere was devoid of Aβ and calcium staining in MCAO
+animals, except calcium staining in one animal. In the ipsilateral cortex, patchy
+groups of Aβ-positive cells were observed. Occasional calcium staining was
+observed in the peri-infarct regions, lesion core, and remote regions such as the
+substantia nigra. The most important, the thalamus was devoid of any sign of Aβ
+and calcium aggregation in MCAO animals. Staining for glial fibrillary acidic
+protein (GFAP) showed marked astrogliosis in the ipsilateral cortex and thalamus.
+In conclusion, our preliminary study in marmosets did not identify Aβ and calcium
+pathology in the thalamus following cerebral ischemia as shown in rodents.
+
+© 2013.
+
+DOI: 10.1016/j.expneurol.2013.06.016 
+PMID: 23810737  [Indexed for MEDLINE]
+
+
+1541. J Neurosci. 2013 Jun 19;33(25):10312-23. doi: 10.1523/JNEUROSCI.0020-13.2013.
+
+Neural representation of harmonic complex tones in primary auditory cortex of the
+awake monkey.
+
+Fishman YI(1), Micheyl C, Steinschneider M.
+
+Author information: 
+(1)Department of Neurology, Albert Einstein College of Medicine, Kennedy Center, 
+Bronx, New York 10461, USA. yonatan.fishman@einstein.yu.edu
+
+Many natural sounds are periodic and consist of frequencies (harmonics) that are 
+integer multiples of a common fundamental frequency (F0). Such harmonic complex
+tones (HCTs) evoke a pitch corresponding to their F0, which plays a key role in
+the perception of speech and music. "Pitch-selective" neurons have been
+identified in non-primary auditory cortex of marmoset monkeys. Noninvasive
+studies point to a putative "pitch center" located in a homologous cortical
+region in humans. It remains unclear whether there is sufficient spectral and
+temporal information available at the level of primary auditory cortex (A1) to
+enable reliable pitch extraction in non-primary auditory cortex. Here we
+evaluated multiunit responses to HCTs in A1 of awake macaques using a stimulus
+design employed in auditory nerve studies of pitch encoding. The F0 of the HCTs
+was varied in small increments, such that harmonics of the HCTs fell either on
+the peak or on the sides of the neuronal pure tone tuning functions. Resultant
+response-amplitude-versus-harmonic-number functions ("rate-place profiles")
+displayed a periodic pattern reflecting the neuronal representation of individual
+HCT harmonics. Consistent with psychoacoustic findings in humans, lower harmonics
+were better resolved in rate-place profiles than higher harmonics. Lower F0s were
+also temporally represented by neuronal phase-locking to the periodic waveform of
+the HCTs. Findings indicate that population responses in A1 contain sufficient
+spectral and temporal information for extracting the pitch of HCTs by neurons in 
+downstream cortical areas that receive their input from A1.
+
+DOI: 10.1523/JNEUROSCI.0020-13.2013 
+PMCID: PMC3685833
+PMID: 23785145  [Indexed for MEDLINE]
+

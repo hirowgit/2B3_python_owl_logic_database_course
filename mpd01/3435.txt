@@ -1,0 +1,69 @@
+
+
+3435. Vis Neurosci. 1999 Mar-Apr;16(2):333-43.
+
+Ganglion cells of a short-wavelength-sensitive cone pathway in New World monkeys:
+morphology and physiology.
+
+Silveira LC(1), Lee BB, Yamada ES, Kremers J, Hunt DM, Martin PR, Gomes FL.
+
+Author information: 
+(1)Departamento de Fisiologia, Universidade Federal do Pará, Belém, Brazil.
+
+We have studied the morphology and physiology of retinal ganglion cells of a
+short-wavelength-sensitive cone (SWS-cone) pathway in dichromatic and
+trichromatic New World anthropoids, the capuchin monkey (Cebus apella) and
+tufted-ear marmoset (Callithrix jacchus). In Old World anthropoids, in which
+males and females are both trichromats, blue-ON/yellow-OFF retinal ganglion cells
+have excitatory SWS-cone and inhibitory middle- and long-wavelength-sensitive
+(MWS- and LWS-) cone inputs, and have been anatomically identified as small-field
+bistratified ganglion cells (SB-cells) (Dacey & Lee, 1994). Among retinal
+ganglion cells of New World monkeys, we find SB-cells which have very similar
+morphology to such cells in macaque and human; for example, the inner dendritic
+tree is larger and denser than the outer dendritic tree. We also find blue-on
+retinal ganglion cells of the capuchin to have physiological responses strongly
+resembling such cells of the macaque monkey retina; for example, responses were
+more sustained, with a gentler low frequency roll-off than MC-cells, and no
+evidence of contrast gain control. There was no difference between dichromatic
+and trichromatic individuals. The results support the view that SWS-cone pathways
+are similarly organized in New and Old World primates, consistent with the
+hypothesis that these pathways form a phylogenetically ancient color system.
+
+DOI: 10.1017/s0952523899162138 
+PMID: 10367967  [Indexed for MEDLINE]
+
+
+3436. Virology. 1999 Jun 5;258(2):375-81.
+
+Nitric oxide down-regulates Epstein-Barr virus reactivation in epithelial cell
+lines.
+
+Gao X(1), Tajima M, Sairenji T.
+
+Author information: 
+(1)School of Life Science, Faculty of Medicine, Tottori University,
+Nishimachi-86, Yonago, 683-8505, Japan.
+
+Nitric oxide (NO), a mediator of biological functions, has an antimicrobial
+activity against a variety of pathogens including viruses. In this study, we
+found that a constitutive, low level of inducible NO synthase (iNOS) mRNA was
+expressed in the EBV-infected gastric tissue-derived GT38 and GT39 cell lines, by
+analysis with the reverse transcription-polymerase chain reaction (RT-PCR) and
+Southern blotting. Treatment of these cells with a specific NOS inhibitor,
+NG-monomethyl-L-arginine (L-NMMA), induced the immediate-early, EBV
+transactivator gene BZLF1 protein ZEBRA, suggesting a significant increase in EBV
+reactivation by L-NMMA. Northern blotting demonstrated that BZLF1 and BRLF1
+transcripts were also induced by 12-O-tetradecanoylphorbol-13 acetate (TPA).
+Meanwhile, constitutive expression of iNOS mRNA was inhibited by TPA. L-NMMA also
+enhanced TPA-induced expression of the BZLF1 gene. On the other hand, a NO donor,
+S-nitroso-N-acetylpenicillamine (SNAP), which releases NO in an aqueous solution,
+inhibited the TPA-induced BZLF1 gene expression in a dose-dependent manner at
+both mRNA and protein levels. These results demonstrated that NO is a regulatory 
+factor in maintaining virus latency via inhibiting EBV reactivation in the
+infected epithelial cells.
+
+Copyright 1999 Academic Press.
+
+DOI: 10.1006/viro.1999.9748 
+PMID: 10366574  [Indexed for MEDLINE]
+

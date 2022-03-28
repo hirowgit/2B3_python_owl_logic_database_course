@@ -1,0 +1,91 @@
+
+
+363. iScience. 2020 Feb 21;23(2):100837. doi: 10.1016/j.isci.2020.100837. Epub 2020
+Jan 14.
+
+Rapid Head Movements in Common Marmoset Monkeys.
+
+Pandey S(1), Simhadri S(1), Zhou Y(2).
+
+Author information: 
+(1)College of Health Solutions, Arizona State University, 975 S. Myrtle Avenue,
+Coor Hall 3470, Tempe, AZ 85287, USA.
+(2)College of Health Solutions, Arizona State University, 975 S. Myrtle Avenue,
+Coor Hall 3470, Tempe, AZ 85287, USA. Electronic address: yizhou@asu.edu.
+
+Gaze shifts, the directing of the eyes to an approaching predator, preferred food
+source, or potential mate, have universal biological significance for the
+survival of a species. Our knowledge of gaze behavior is based primarily on
+visually triggered responses, whereas head orientation triggered by auditory
+stimuli remains poorly characterized. Common marmoset (Callithrix jacchus) is a
+diurnal, small-bodied (∼350 g), New World monkey species, known for its rich
+behavioral repertoires during social interactions. We used a lightweight head
+tracking system to measure marmosets' reflexive head orientations toward a
+natural stimulus presented from behind. We found that marmoset could rotate its
+head at angular velocities above 1,000°/s and maintained target accuracy for a
+wide range of rotation amplitudes (up to 250°). This unusual, saccadic head
+orienting behavior offers opportunities for understanding the many biological
+factors that have shaped the evolution of sensorimotor controls of gaze
+orientation by the primate brain.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.isci.2020.100837 
+PMCID: PMC6997856
+PMID: 32058952 
+
+Conflict of interest statement: Declaration of Interests The authors declare no
+competing interests.
+
+
+364. Neuropharmacology. 2020 May 1;167:107997. doi: 10.1016/j.neuropharm.2020.107997. 
+Epub 2020 Feb 10.
+
+The selective 5-HT1A receptor agonist, NLX-112, exerts anti-dyskinetic and
+anti-parkinsonian-like effects in MPTP-treated marmosets.
+
+Fisher R(1), Hikima A(1), Morris R(1), Jackson MJ(1), Rose S(1), Varney MA(2),
+Depoortere R(2), Newman-Tancredi A(3).
+
+Author information: 
+(1)Faculty of Life Sciences and Medicine, Hodgkin Building, King's College
+London, Guy's Campus, London, SE1 1UL, UK.
+(2)Neurolixis SAS, 2 Rue Georges Charpak, 81100, Castres, France.
+(3)Neurolixis SAS, 2 Rue Georges Charpak, 81100, Castres, France. Electronic
+address: anewmantancredi@neurolixis.com.
+
+l-DOPA is the gold-standard pharmacotherapy for treatment of Parkinson's disease 
+(PD) but can lead to the appearance of troubling dyskinesia which are
+attributable to 'false neurotransmitter' release of dopamine by serotonergic
+neurons. Reducing the activity of these neurons diminishes l-DOPA-induced
+dyskinesia (LID), but there are currently no clinically approved selective, high 
+efficacy 5-HT1A receptor agonists. Here we describe the effects of NLX-112, a
+highly selective and efficacious 5-HT1A receptor agonist, on LID in
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-treated marmosets, a
+non-human primate model of PD. NLX-112 exhibited modest plasma half-life (~2h)
+and marked plasma protein binding (96%). When administered to parkinsonian
+marmosets with l-DOPA (7 mg/kg p.o.), NLX-112 (0.025, 0.1 and 0.4 mg/kg p.o.)
+reduced LID scores at early time-points after administration, whilst only
+minimally interfering with the l-DOPA-induced reversal of motor disability. In
+contrast, the prototypical 5-HT1A receptor agonist, (+)8-OH-DPAT (0.6 and 2 mg/kg
+p. o.), reduced LID but also abolished l-DOPA's anti-disability activity.
+Administered by itself, NLX-112 (0.1, 0.2 mg/kg p.o.) produced very little
+dyskinesia or locomotor activity, but reduced motor disability scores by about
+half the extent elicited by l-DOPA, suggesting that it may have motor
+facilitation effects of its own. Both NLX-112 and (+)8-OH-DPAT induced unusual
+and dose-limiting behaviors in marmoset that resembled 'serotonin behavioral
+syndrome' observed previously in rat. Overall, the present study showed that
+NLX-112 has anti-LID activity at the doses tested as well as reducing motor
+disability. The data suggest that additional investigation of NLX-112 is
+desirable to explore its potential as a treatment for PD and PD-LID.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.neuropharm.2020.107997 
+PMCID: PMC7103782
+PMID: 32057799  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest AN-T, MAV and
+RD are employees and/or stockholders of Neurolixis Inc. The other authors have no
+disclosures.
+

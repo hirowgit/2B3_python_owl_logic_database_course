@@ -1,0 +1,22 @@
+
+
+2224. Nat Neurosci. 2008 Nov;11(11):1259-61. doi: 10.1038/nn.2201. Epub 2008 Sep 28.
+
+Specialized neuronal adaptation for preserving input sensitivity.
+
+Watkins PV(1), Barbour DL.
+
+Author information: 
+(1)Department of Biomedical Engineering, Laboratory of Sensory Neuroscience and
+Neuroengineering, Washington University in St Louis, Missouri 63130, USA.
+
+Some neurons in auditory cortex respond to recent stimulus history by adapting
+their response functions to track stimulus statistics directly, as might be
+expected. In contrast, some neurons respond to loud sounds by adjusting their
+response functions away from high intensities and consequently remain sensitive
+to softer sounds. In marmoset monkey auditory cortex, the latter type of
+adaptation appears to exist only in neurons tuned to stimulus intensity.
+
+DOI: 10.1038/nn.2201 
+PMID: 18820690  [Indexed for MEDLINE]
+

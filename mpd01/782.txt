@@ -1,0 +1,115 @@
+
+
+782. Vision Res. 2018 Oct;151:41-52. doi: 10.1016/j.visres.2017.09.002. Epub 2017 Nov 
+22.
+
+Chromatic summation and receptive field properties of blue-on and blue-off cells 
+in marmoset lateral geniculate nucleus.
+
+Eiber CD(1), Pietersen ANJ(2), Zeater N(3), Solomon SG(4), Martin PR(5).
+
+Author information: 
+(1)Save Sight Institute, University of Sydney, Sydney, Australia; School of
+Medical Sciences, University of Sydney, Sydney, Australia; Australian Research
+Council Centre of Excellence for Integrative Brain Function, University of
+Sydney, Australia. Electronic address: calvin.eiber@sydney.edu.au.
+(2)Save Sight Institute, University of Sydney, Sydney, Australia; School of
+Medical Sciences, University of Sydney, Sydney, Australia; Australian Research
+Council Centre of Excellence for Integrative Brain Function, University of
+Sydney, Australia. Electronic address: alexander.pietersen@sydney.edu.au.
+(3)Save Sight Institute, University of Sydney, Sydney, Australia; School of
+Medical Sciences, University of Sydney, Sydney, Australia; Australian Research
+Council Centre of Excellence for Integrative Brain Function, University of
+Sydney, Australia. Electronic address: natalie.zeater@sydney.edu.au.
+(4)School of Medical Sciences, University of Sydney, Sydney, Australia;
+Department of Experimental Psychology, University College London, United Kingdom.
+Electronic address: samuels@physiol.usyd.edu.au.
+(5)Save Sight Institute, University of Sydney, Sydney, Australia; School of
+Medical Sciences, University of Sydney, Sydney, Australia; Australian Research
+Council Centre of Excellence for Integrative Brain Function, University of
+Sydney, Australia. Electronic address: prmartin@physiol.usyd.edu.au.
+
+The "blue-on" and "blue-off" receptive fields in retina and dorsal lateral
+geniculate nucleus (LGN) of diurnal primates combine signals from
+short-wavelength sensitive (S) cone photoreceptors with signals from medium/long 
+wavelength sensitive (ML) photoreceptors. Three questions about this combination 
+remain unresolved. Firstly, is the combination of S and ML signals in these cells
+linear or non-linear? Secondly, how does the timing of S and ML inputs to these
+cells influence their responses? Thirdly, is there spatial antagonism within S
+and ML subunits of the receptive field of these cells? We measured contrast
+sensitivity and spatial frequency tuning for four types of drifting sine
+gratings: S cone isolating, ML cone isolating, achromatic (S + ML), and
+counterphase chromatic (S - ML), in extracellular recordings from LGN of marmoset
+monkeys. We found that responses to stimuli which modulate both S and ML cones
+are well predicted by a linear sum of S and ML signals, followed by a saturating 
+contrast-response relation. Differences in sensitivity and timing (i.e. vector
+combination) between S and ML inputs are needed to explain the amplitude and
+phase of responses to achromatic (S + ML) and counterphase chromatic (S - ML)
+stimuli. Best-fit spatial receptive fields for S and/or ML subunits in most cells
+(>80%) required antagonistic surrounds, usually in the S subunit. The surrounds
+were however generally weak and had little influence on spatial tuning. The
+sensitivity and size of S and ML subunits were correlated on a cell-by-cell
+basis, adding to evidence that blue-on and blue-off receptive fields are
+specialised to signal chromatic but not spatial contrast.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.visres.2017.09.002 
+PMID: 29129732  [Indexed for MEDLINE]
+
+
+783. Neurosci Res. 2018 Mar;128:1-13. doi: 10.1016/j.neures.2017.10.009. Epub 2017 Oct
+27.
+
+Digital gene atlas of neonate common marmoset brain.
+
+Shimogori T(1), Abe A(2), Go Y(3), Hashikawa T(2), Kishi N(4), Kikuchi SS(2),
+Kita Y(2), Niimi K(5), Nishibe H(2), Okuno M(4), Saga K(2), Sakurai M(2), Sato
+M(2), Serizawa T(6), Suzuki S(2), Takahashi E(5), Tanaka M(2), Tatsumoto S(7),
+Toki M(6), U M(2), Wang Y(2), Windak KJ(2), Yamagishi H(6), Yamashita K(2), Yoda 
+T(2), Yoshida AC(2), Yoshida C(2), Yoshimoto T(5), Okano H(8).
+
+Author information: 
+(1)RIKEN Brain Science Institute, Laboratory for Molecular Mechanisms of Thalamus
+Development, 2-1 Hirosawa, Wako, Saitama, 351-0198, Japan. Electronic address:
+tshimogori@brain.riken.jp.
+(2)RIKEN Brain Science Institute, Laboratory for Molecular Mechanisms of Thalamus
+Development, 2-1 Hirosawa, Wako, Saitama, 351-0198, Japan.
+(3)Department of Brain Sciences, Center for Novel Science Initiatives, National
+Institutes of Natural Sciences, Okazaki, Aichi, 444-8585, Japan; Department of
+Physiological Sciences, National Institute for Physiological Sciences, Okazaki,
+Aichi 444-8585, Japan.
+(4)RIKEN Brain Science Institute, Laboratory for Marmoset Neural Architecture,
+2-1 Hirosawa, Wako, Saitama, 351-0198, Japan; Department of Physiology, Keio
+University School of Medicine, 35 Shinanomachi, Shinjuku, Tokyo, 160-0016, Japan.
+(5)RIKEN Brain Science Institute, Support Unit for Animal Resources Development, 
+2-1 Hirosawa, Wako, Saitama, 351-0198, Japan.
+(6)Progress wave, 3-14-11 Takamatsu-cho, Tachikawashi, Tokyo 190-0011, Japan.
+(7)Department of Brain Sciences, Center for Novel Science Initiatives, National
+Institutes of Natural Sciences, Okazaki, Aichi, 444-8585, Japan.
+(8)RIKEN Brain Science Institute, Laboratory for Marmoset Neural Architecture,
+2-1 Hirosawa, Wako, Saitama, 351-0198, Japan; Department of Physiology, Keio
+University School of Medicine, 35 Shinanomachi, Shinjuku, Tokyo, 160-0016, Japan.
+Electronic address: hidokano@keio.jp.
+
+Interest in the common marmoset (Callithrix jacchus) as a primate model animal
+has grown recently, in part due to the successful demonstration of transgenic
+marmosets. However, there is some debate as to the suitability of marmosets,
+compared to more widely used animal models, such as the macaque monkey and mouse.
+Especially, the usage of marmoset for animal models of human cognition and mental
+disorders, is still yet to be fully explored. To examine the prospects of the
+marmoset model for neuroscience research, the Marmoset Gene Atlas
+(https://gene-atlas.bminds.brain.riken.jp/) provides a whole brain gene
+expression atlas in the common marmoset. We employ in situ hybridization (ISH) to
+systematically analyze gene expression in neonate marmoset brains, which allows
+us to compare expression with other model animals such as mouse. We anticipate
+that these data will provide sufficient information to develop tools that enable 
+us to reveal marmoset brain structure, function, cellular and molecular
+organization for primate brain research.
+
+Copyright © 2017 Elsevier Ireland Ltd and Japan Neuroscience Society. All rights 
+reserved.
+
+DOI: 10.1016/j.neures.2017.10.009 
+PMID: 29111135  [Indexed for MEDLINE]
+

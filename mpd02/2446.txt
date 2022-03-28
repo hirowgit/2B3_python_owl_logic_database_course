@@ -1,0 +1,36 @@
+
+
+2446. J Hered. 2007 Mar-Apr;98(2):165-8. Epub 2006 Dec 22.
+
+Evolution and differentiation of MSHR gene in different species.
+
+Li XL(1), Zheng GR, Zhou RY, Li LH.
+
+Author information: 
+(1)Department of Animal Science, College of Animal Science and Technology,
+Agricultural University of Hebei, Baoding, China. lizianglongcn@yahoo.com
+
+Coat color offers some prospects for evolutionary studies due to its large amount
+of presumably adaptive coat color variation and conserved genetic mechanisms of
+generating different coat colors in different species. Melanocyte-stimulating
+hormone receptor (MSHR) gene is responsible for intraspecific and interspecific
+color variation in mammals and birds. A total number of 206 MSHR gene sequences
+belonging to 84 species, 58 genera, and 20 families were analyzed to investigate 
+its evolution and differentiation in different species. Most of the species have 
+954 bp and stop codon TGA. Species in Callithrix and Callimico have a stop codon 
+mutation from TGA to TGG and elongate 81 bp with TAG as stop codon. Species in
+Phasianidae, Fringillidae, and Lemuridae also use TAG as stop codon. The Sus
+scrofa had an insertion of AACCAGACC encoding Asn-Gln-Thr from 85 to 93 bp. In
+Bovidae, a brown strain of cow with 966 bp due to the 12-bp duplication of
+GGCATTGCCCGG from 670 to 681 bp encoding for Gly-Ile-Ala-Arg was found. Teiidae
+has the smallest number of total mutations (6), silent mutations (3),
+nonsynonymous mutations (3), average number of nucleotide differences (1.519),
+synonymous nucleotide diversity (pi(s) = 0.0030), and nonsynonymous nucleotide
+diversity (pi(a) = 0.0029), and Hominidae, Lemuridae, Canidae, and Teiidae have
+higher ratio of pi(a)/pi(s) (0.537-0.973). The reconstructed phylogenetic tree of
+MSHR gene of families is basically consistent with the taxonomy of National
+Center for Biotechnology Information.
+
+DOI: 10.1093/jhered/esl059 
+PMID: 17189597  [Indexed for MEDLINE]
+

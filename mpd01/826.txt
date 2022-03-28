@@ -1,0 +1,106 @@
+
+
+826. Front Cell Neurosci. 2017 Jul 26;11:212. doi: 10.3389/fncel.2017.00212.
+eCollection 2017.
+
+The FOXP2-Driven Network in Developmental Disorders and Neurodegeneration.
+
+Oswald F(1), Klöble P(1), Ruland A(1), Rosenkranz D(2), Hinz B(2)(3), Butter
+F(4), Ramljak S(5), Zechner U(3)(6), Herlyn H(2).
+
+Author information: 
+(1)Center for Internal Medicine, Department of Internal Medicine I, University
+Medical Center UlmUlm, Germany.
+(2)Institut für Organismische und Molekulare Evolutionsbiologie, Johannes
+Gutenberg-University MainzMainz, Germany.
+(3)Institute of Human Genetics, University Medical Center MainzMainz, Germany.
+(4)Institute of Molecular BiologyMainz, Germany.
+(5)Sciema UGMainz, Germany.
+(6)Dr. Senckenbergisches Zentrum für HumangenetikFrankfurt, Germany.
+
+The transcription repressor FOXP2 is a crucial player in nervous system evolution
+and development of humans and songbirds. In order to provide an additional
+insight into its functional role we compared target gene expression levels
+between human neuroblastoma cells (SH-SY5Y) stably overexpressing FOXP2 cDNA of
+either humans or the common chimpanzee, Rhesus monkey, and marmoset,
+respectively. RNA-seq led to identification of 27 genes with differential
+regulation under the control of human FOXP2, which were previously reported to
+have FOXP2-driven and/or songbird song-related expression regulation. RT-qPCR and
+Western blotting indicated differential regulation of additional 13 new target
+genes in response to overexpression of human FOXP2. These genes may be directly
+regulated by FOXP2 considering numerous matches of established FOXP2-binding
+motifs as well as publicly available FOXP2-ChIP-seq reads within their putative
+promoters. Ontology analysis of the new and reproduced targets, along with their 
+interactors in a network, revealed an enrichment of terms relating to cellular
+signaling and communication, metabolism and catabolism, cellular migration and
+differentiation, and expression regulation. Notably, terms including the words
+"neuron" or "axonogenesis" were also enriched. Complementary literature screening
+uncovered many connections to human developmental (autism spectrum disease,
+schizophrenia, Down syndrome, agenesis of corpus callosum,
+trismus-pseudocamptodactyly, ankyloglossia, facial dysmorphology) and
+neurodegenerative diseases and disorders (Alzheimer's, Parkinson's, and
+Huntington's diseases, Lewy body dementia, amyotrophic lateral sclerosis). Links 
+to deafness and dyslexia were detected, too. Such relations existed for single
+proteins (e.g., DCDC2, NURR1, PHOX2B, MYH8, and MYH13) and groups of proteins
+which conjointly function in mRNA processing, ribosomal recruitment, cell-cell
+adhesion (e.g., CDH4), cytoskeleton organization, neuro-inflammation, and
+processing of amyloid precursor protein. Conspicuously, many links pointed to an 
+involvement of the FOXP2-driven network in JAK/STAT signaling and the regulation 
+of the ezrin-radixin-moesin complex. Altogether, the applied phylogenetic
+perspective substantiated FOXP2's importance for nervous system development,
+maintenance, and functioning. However, the study also disclosed new regulatory
+pathways that might prove to be useful for understanding the molecular background
+of the aforementioned developmental disorders and neurodegenerative diseases.
+
+DOI: 10.3389/fncel.2017.00212 
+PMCID: PMC5526973
+PMID: 28798667 
+
+
+827. PLoS One. 2017 Aug 10;12(8):e0182905. doi: 10.1371/journal.pone.0182905.
+eCollection 2017.
+
+Identification of Plasmodium spp. in Neotropical primates of Maranhense Amazon in
+Northeast Brazil.
+
+Figueiredo MAP(1), Di Santi SM(2), Manrique WG(3), André MR(1), Machado RZ(1).
+
+Author information: 
+(1)Laboratory of Immunoparasitology, School of Agrarian and Veterinary Sciences
+(FCAV), UNESP, Jaboticabal Campus, Jaboticabal, São Paulo, Brazil.
+(2)Center for Malaria Studies, Superintendency for Endemic Disease Control
+(SUCEN), Department of Health of the State of São Paulo/ Institute of Tropical
+Medicine of Sao Paulo (IMTSP), USP, Sao Paulo, São Paulo, Brazil.
+(3)Laboratory of Veterinary Pathology, Brazil University, Descalvado Campus,
+Descalvado, São Paulo, Brazil.
+
+In the Brazilian Amazon region, malaria caused by Plasmodium malariae is
+considered to be a zoonosis because of cross-transfer of the parasite between
+humans and Neotropical primates. To contribute information on this issue, we
+investigated occurrences of natural infection with Plasmodium sp. among
+Neotropical primates in the Maranhense Amazon (Amazon region of the state of
+Maranhão), in the northeastern region of Brazil. Blood samples were collected
+from 161 Neotropical primates of six species that were caught in an environmental
+reserve (Sítio Aguahy) and from captive primates (CETAS-Wildlife Screening
+Center, municipality of São Luís), in Maranhão. Plasmodium sp. was diagnosed
+based on light microscopy, PCR, qPCR and LAMP for amplification of the 18S rRNA
+gene. Serum samples were also assayed by means of indirect immunofluorescence for
+IgG antibodies against P. malariae/P. brasilianum, P. falciparum and P. berghei. 
+Parasites were detected through light microscopy on five slides from captive
+primates (four Sapajus spp. and one Callithrix jacchus). In the molecular tests, 
+34.16% (55/161) and 29.81% (48/161) of the animals sampled were positive in the
+qPCR and PCR assays, respectively. In the PCR, 47/48 animals were positive for P.
+malariae/P. brasilianum; of these, eight were free-living primates and 39 from
+CETAS, São Luís. One sample showed a band in the genus-specific reaction, but not
+in the second PCR reaction. Anti-P. malariae/P. brasilianum IgG antibodies were
+detected in four serum samples from Sapajus spp. in captivity. In this study,
+circulation of P. malariae/P. brasilianum in Neotropical primates was confirmed, 
+with low levels of parasitemia and low levels of antibodies. The importance of
+these animals as reservoirs of human malaria in the region studied is still
+unknown. This scenario has an impact on control and elimination of malaria in
+this region.
+
+DOI: 10.1371/journal.pone.0182905 
+PMCID: PMC5552124
+PMID: 28796820  [Indexed for MEDLINE]
+

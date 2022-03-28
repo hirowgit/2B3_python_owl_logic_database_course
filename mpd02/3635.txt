@@ -1,0 +1,31 @@
+
+
+3635. Carcinogenesis. 1997 Oct;18(10):1985-91.
+
+Marmoset CYP1A2: primary structure and constitutive expression in livers.
+
+Sakuma T(1), Igarashi T, Hieda M, Ohgiya S, Isogai M, Ninomiya S, Nagata R,
+Nemoto N, Kamataki T.
+
+Author information: 
+(1)Division of Drug Metabolism, Faculty of Pharmaceutical Sciences, Hokkaido
+University, Japan.
+
+Complementary DNA of marmoset CYP1A2 was isolated by means of screening the cDNA 
+library and reverse-transcriptase polymerase chain reaction. The deduced amino
+acid sequence of marmoset CYP1A2 consisted of 516 residues and showed 88.2 and
+90.0% identities to corresponding forms in human and cynomolgus monkey,
+respectively. S1 nuclease protection assay demonstrated that CYP1A2 mRNA was
+expressed constitutively in the liver, but not in the lung, kidney and small
+intestine. The level of CYP1A2 mRNA in the liver was increased by treatment with 
+3-methylcholanthrene and polychlorinated biphenyls. Marmoset CYP1A2 expressed in 
+recombinant yeast activated 2-amino-3-methylimidazo [4,5-f]quinoline (IQ) and
+2-amino-3,8-dimethylimidazo [4,5-f]quinoxaline (MeIQx) efficiently, and also
+activated 2-amino-1-methyl-6-phenylimidazo [4,5-b]pyridine (PhIP), but at a
+relatively lower rate in the umu mutagenicity test. Marmoset CYP1A2 also showed
+ethoxyresorufin O-de-ethylase activity. Based on these results, we demonstrate
+that marmosets constitutively express CYP1A2 in the liver as in humans.
+
+DOI: 10.1093/carcin/18.10.1985 
+PMID: 9364010  [Indexed for MEDLINE]
+

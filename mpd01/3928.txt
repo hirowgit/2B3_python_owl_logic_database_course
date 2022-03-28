@@ -1,0 +1,61 @@
+
+
+3928. Biochem Biophys Res Commun. 1995 Feb 6;207(1):467-75.
+
+Polymorphic tandem repeats in dopamine D4 receptor are spread over primate
+species.
+
+Matsumoto M(1), Hidaka K, Tada S, Tasaki Y, Yamaguchi T.
+
+Author information: 
+(1)Neuroscience & Gastrointestinal Research Lab., Institute for Drug Discovery
+Research, Yamanouchi Pharmaceutical Co. Ltd., Ibaraki, Japan.
+
+The human dopamine D4 receptor has polymorphic tandem repeats in the third
+cytoplasmic loop. However, these repeats are not present in the rat counterpart. 
+To determine whether the tandem repeats are specific to humans or not, we
+analyzed genomic DNA sequences for the D4 receptor of six primate species (human,
+chimpanzee, gorilla, orangutan, macaque, marmoset). Sequencing data revealed that
+all primates have the 48-bp tandem repeats in the D4 receptor gene. This finding 
+suggests that these repeats originated before the separation of the New World
+monkey lineage from the Old World monkey and ape-human lineages.
+
+DOI: 10.1006/bbrc.1995.1211 
+PMID: 7857303  [Indexed for MEDLINE]
+
+
+3929. J Exp Med. 1995 Feb 1;181(2):503-13.
+
+In vivo expansion of HLA-B35 alloreactive T cells sharing homologous T cell
+receptors: evidence for maintenance of an oligoclonally dominated allospecificity
+by persistent stimulation with an autologous MHC/peptide complex.
+
+Steinle A(1), Reinhardt C, Jantzer P, Schendel DJ.
+
+Author information: 
+(1)Institute of Immunology, University of Munich, Germany.
+
+The nature of alloantigens seen by T lymphocytes, in particular the role of
+peptides in allorecognition, has been studied intensively whereas knowledge about
+the in vivo emergence, diversity, and the structural basis of specificity of
+alloreactive T cells is very limited. Here we describe human T cell clones that
+recognize HLA-B35 alloantigens in a peptide-dependent manner. TCR sequence
+analysis revealed that several of these allospecific clones utilize homologous
+TCR: they all express TCRAV2S3J36C1 and TCRBV4S1J2S7C2 chains with highly related
+CDR3 sequences. Thus peptide-specific alloreactivity is reflected in homologous
+CDR3 sequences in a manner similar to that described for T cells that recognize
+nominal peptide/self-MHC complexes. The in vivo frequency of this TCR specificity
+was studied in unstimulated PBL of the responding cell donor who was not
+sensitized against HLA-B35. The vast majority (approximately 75%) of the VA2S3J36
+junctional regions obtained from two samples of PBL, isolated at a 9-yr interval,
+encode CDR3 identical or homologous to those of the functionally characterized
+HLA-B35 allospecific T cells. These data are most easily explained by a model of 
+alloreactivity in which persistent or recurrent exposure to a foreign
+peptide/self-MHC complex led to the in vivo expansion and long-term maintenance
+of specific T cells that show fortuitous crossrecognition of an HLA-B35/peptide
+complex and dominate the alloresponse against HLA-B35.
+
+DOI: 10.1084/jem.181.2.503 
+PMCID: PMC2191865
+PMID: 7836907  [Indexed for MEDLINE]
+

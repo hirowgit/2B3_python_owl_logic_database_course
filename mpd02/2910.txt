@@ -1,0 +1,47 @@
+
+
+2910. Toxicol Appl Pharmacol. 2003 Aug 15;191(1):48-62.
+
+Toxicokinetics of the nerve agent (+/-)-VX in anesthetized and atropinized
+hairless guinea pigs and marmosets after intravenous and percutaneous
+administration.
+
+van der Schans MJ(1), Lander BJ, van der Wiel H, Langenberg JP, Benschop HP.
+
+Author information: 
+(1)Division Chemical and Biological Protection, TNO Prins Maurits Laboratory, PO 
+Box 45, 2280 AA, Rijswijk, The Netherlands. schansm@pml.tno.nl
+
+In continuation of our investigations on the toxicokinetics of the volatile nerve
+agents C(+/-)P(+/-)-soman and (+/-)-sarin, we now report on the toxicokinetics of
+the rather nonvolatile agent (+/-)-VX. A validated method was developed to
+determine blood levels of (+/-)-VX by means of achiral gas chromatography at
+blood levels > or =10 pg/ml. The ratio of the two enantiomers of VX in blood
+could be measured at levels > or =1 ng/ml by using chiral HPLC in combination
+with off-line gas chromatographic analysis. In order to obtain basic information 
+on the toxicokinetics of (+/-)-VX, i.e., under conditions of 100%
+bioavailability, the blood levels of this agent were measured in hairless guinea 
+pigs at iv doses corresponding with 1 and 2 LD50. The derived AUCs indicate a
+reasonable linearity of the toxicokinetics with dose. Also, the toxicokinetics in
+marmoset primates was studied at an absolute iv dose corresponding with 1 LD50 in
+the hairless guinea pig which led to approximately the same levels of (+/-)-VX in
+blood as observed at 2 LD50 in the hairless guinea pig. Finally, the
+toxicokinetics of (+/-)-VX were measured in hairless guinea pigs via the most
+relevant porte d' entrée for this agent, which is the percutaneous route at a
+dose corresponding with 1 LD50 (pc). Large variations were observed between
+individual animals in the rate of penetration of (+/-)-VX and in concomitant
+progression of AChE inhibition in blood of these animals. Blood levels of
+(+/-)-VX increased gradually over a 6-h period of time. After a 7-h penetration
+period, the total AUC corresponded with 2.5% bioavailability relative to iv
+administration. In contrast with the G-agents C(+/-)P(+/-)-soman and (+/-)-sarin,
+stereospecificity in the sequestration of the two enantiomers of (+/-)-VX is not 
+a prominent phenomenon. It appears that (+/-)-VX is substantially more persistent
+in vivo than the two G-agents. This persistence may undermine the efficacy of
+pretreatment with carbamates of percutaneous intoxication in particular due to
+gradual replacement of carbamate on AChE by (+/-)-VX, whereas classical treatment
+of intoxication with oximes is hampered by the short persistence of oximes
+relative to the agent.
+
+DOI: 10.1016/s0041-008x(03)00216-3 
+PMID: 12915103  [Indexed for MEDLINE]
+

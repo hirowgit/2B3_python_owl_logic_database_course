@@ -1,0 +1,43 @@
+
+
+70. Mol Ther Methods Clin Dev. 2021 Aug 8;23:11-22. doi: 10.1016/j.omtm.2021.07.009. 
+eCollection 2021 Dec 10.
+
+Specific gene expression in unmyelinated dorsal root ganglion neurons in nonhuman
+primates by intra-nerve injection of AAV 6 vector.
+
+Kudo M(1), Wupuer S(1), Fujiwara M(2), Saito Y(3), Kubota S(1), Inoue KI(2),
+Takada M(2), Seki K(1).
+
+Author information: 
+(1)Department of Neurophysiology, National Institute of Neuroscience, National
+Center of Neurology and Psychiatry, Kodaira, Tokyo, Japan.
+(2)Systems Neuroscience Section, Department of Neuroscience, Primate Research
+Institute, Kyoto University, Inuyama, Aichi, Japan.
+(3)Department of Neuropathology, Tokyo Metropolitan Institute of Gerontology,
+Itabashi, Tokyo, Japan.
+
+Adeno-associated virus 6 (AAV6) has been proposed as a potential vector candidate
+for specific gene expression in pain-related dorsal root ganglion (DRG) neurons, 
+but this has not been confirmed in nonhuman primates. The aim of our study was to
+analyze the transduction efficiency and target specificity of this viral vector
+in the common marmoset by comparing it with those in the rat. When green
+fluorescent protein-expressing serotype-6 vector was injected into the sciatic
+nerve, the efficiency of gene expression in DRG neurons was comparable in both
+species. We found that the serotype-6 vector was largely specific to the
+pain-related ganglion neurons in the marmoset, as well as in the rat, whereas the
+serotype-9 vector resulted in contrasting effects in the two species. Neither
+AAV6 nor AAV9 resulted in DRG toxicity when administered via the sciatic nerve,
+suggesting this as a safer route of sensory nerve transduction than the currently
+used intrathecal or intravenous administrative routes. Furthermore, the AAV6
+vector could be an optimal serotype for gene therapy for human chronic pain that 
+has a minimal effect on other somatosensory functions of DRG neurons.
+
+© 2021 The Author(s).
+
+DOI: 10.1016/j.omtm.2021.07.009 
+PMCID: PMC8426475
+PMID: 34552999 
+
+Conflict of interest statement: The authors declare no competing interests.
+

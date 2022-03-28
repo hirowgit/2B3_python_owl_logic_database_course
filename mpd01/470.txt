@@ -1,0 +1,86 @@
+
+
+470. J Toxicol Sci. 2019;44(7):441-457. doi: 10.2131/jts.44.441.
+
+Telemetered common marmosets is useful for the assessment of electrocardiogram
+parameters changes induced by multiple cardiac ion channel inhibitors.
+
+Watanabe K(1)(2), Tsubouchi T(1), Yamada T(1), Hinoi E(2), Miyawaki I(1).
+
+Author information: 
+(1)Preclinical Research Unit, Sumitomo Dainippon Pharma Co., Ltd.
+(2)Laboratory of Molecular Pharmacology, Division of Pharmaceutical Sciences,
+Kanazawa University Graduate School.
+
+The objective of this study is to assess the response of telemetered common
+marmosets to multiple cardiac ion channel inhibitors and to clarify the
+usefulness of this animal model in evaluating the effects of drug candidates on
+electrocardiogram (ECG). Six multiple cardiac ion channel inhibitors (sotalol,
+astemizole, flecainide, quinidine, verapamil and terfenadine) were orally
+administered to telemetered common marmosets and changes in QTc, PR interval and 
+QRS duration were evaluated. Drugs plasma levels were determined to compare the
+sensitivity in common marmosets to that in humans. QTc prolongation was observed 
+in the marmosets dosed with sotalol, astemizole, flecainide, quinidine, verapamil
+and terfenadine. PR prolongation was noted after flecainide and verapamil
+administration, and QRS widening occurred following treatment with flecainide and
+quinidine. Drugs plasma levels associated with ECG changes in marmosets were
+similar to those in humans, except for verapamil-induced QTc prolongation.
+Verapamil-induced change is suggested due to body temperature decrease. These
+results indicate that telemetered common marmoset is a useful animal for
+evaluation of the ECG effects of multiple cardiac ion channel inhibitors and the 
+influence of body temperature change should be considered in the assessment.
+
+DOI: 10.2131/jts.44.441 
+PMID: 31270301  [Indexed for MEDLINE]
+
+
+471. Proc Natl Acad Sci U S A. 2019 Jul 16;116(29):14761-14768. doi:
+10.1073/pnas.1902087116. Epub 2019 Jul 2.
+
+Insula serotonin 2A receptor binding and gene expression contribute to serotonin 
+transporter polymorphism anxious phenotype in primates.
+
+Santangelo AM(1)(2), Sawiak SJ(3)(2)(4), Fryer T(4), Hong Y(4), Shiba Y(3),
+Clarke HF(3)(2), Riss PJ(4), Ferrari V(4), Tait R(2), Suckling J(4), Aigbirhio
+FI(4), Roberts AC(3)(2).
+
+Author information: 
+(1)Department of Physiology, Development and Neuroscience, University of
+Cambridge, CB2 3DY Cambridge, United Kingdom; as966@cam.ac.uk.
+(2)Behavioural and Clinical Neuroscience Institute, University of Cambridge, CB2 
+3EB Cambridge, United Kingdom.
+(3)Department of Physiology, Development and Neuroscience, University of
+Cambridge, CB2 3DY Cambridge, United Kingdom.
+(4)Department of Clinical Neuroscience, Wolfson Brain Imaging Centre, University 
+of Cambridge, CB2 0QQ, United Kingdom.
+
+Genetic variation in the serotonin transporter gene (SLC6A4) is associated with
+vulnerability to affective disorders and pharmacotherapy efficacy. We recently
+identified sequence polymorphisms in the common marmoset SLC6A4 repeat region
+(AC/C/G and CT/T/C) associated with individual differences in anxiety-like trait,
+gene expression, and response to antidepressants. The mechanisms underlying the
+effects of these polymorphisms are unknown, but a key mediator of serotonin
+action is the serotonin 2A receptor (5HT2A). Thus, we correlated 5HT2A binding
+potential (BP) and RNA gene expression in 16 SLC6A4 genotyped marmosets with
+responsivity to 5HT2A antagonism during the human intruder test of anxiety.
+Voxel-based analysis and RNA measurements showed a reduction in 5HT2A BP and gene
+expression specifically in the right posterior insula of individuals homozygous
+for the anxiety-related variant AC/C/G. These same marmosets displayed an
+anxiogenic, dose-dependent response to the human intruder after 5HT2A
+pharmacological antagonism, while CT/T/C individuals showed no effect. A
+voxel-based correlation analysis, independent of SLC6A4 genotype, revealed that
+5HT2A BP in the adjacent right anterior insula and insula proisocortex was
+negatively correlated with trait anxiety scores. Moreover, 5HT2A BP in both
+regions was a good predictor of the size and direction of the acute emotional
+response to the human intruder threat after 5HT2A antagonism. Our findings
+suggest that genetic variation in the SLC6A4 repeat region may contribute to the 
+trait anxious phenotype via neurochemical changes in brain areas implicated in
+interoceptive and emotional processing, with a critical role for the right insula
+5HT2A in the regulation of affective responses to threat.
+
+DOI: 10.1073/pnas.1902087116 
+PMCID: PMC6642374
+PMID: 31266890  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

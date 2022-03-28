@@ -1,0 +1,86 @@
+
+
+727. J Med Primatol. 2018 Jun;47(3):172-177. doi: 10.1111/jmp.12334. Epub 2018 Feb 15.
+
+25-OH-vitamin D, parathyroid hormone, and calcium serum levels in captive common 
+marmosets (Callithrix jacchus): Reference values and effect of age, sex, season, 
+and closure of long bone epiphyses.
+
+Bosseler L(1), Bakker J(2), Duchateau L(3), Remarque E(4), Langermans JAM(2),
+Cornillie P(5), Chiers K(1).
+
+Author information: 
+(1)Department of Pathology, Bacteriology and Poultry Diseases, Faculty of
+Veterinary Medicine, Ghent University, Merelbeke, Belgium.
+(2)Animal Science Department, Biomedical Primate Research Centre, Rijswijk, The
+Netherlands.
+(3)Biometrics Research Group, Faculty of Veterinary Medicine, Ghent University,
+Merelbeke, Belgium.
+(4)Department of Virology, Biomedical Primate Research Centre, Rijswijk, The
+Netherlands.
+(5)Department of Morphology, Faculty of Veterinary Medicine, Ghent University,
+Merelbeke, Belgium.
+
+BACKGROUND: To date, reference values for 25-OH-vitamin D, parathyroid hormone
+(PTH), and calcium in serum of common marmosets (Callithrix jacchus) based on a
+large sample size are not available.
+METHODS: Serum reference values for these parameters were determined and
+correlated with sex, age, season of sampling, and time of long bone epiphyseal
+closure in captive-housed marmosets.
+RESULTS AND CONCLUSIONS: The 90% reference range for serum 25-OH-vitamin D is
+47.40-370.4 nmol/L, for PTH 2.10-30.51 pmol/L, and for calcium 2.08-2.63 mmol/L. 
+Lower levels of vitamin D were measured in fall compared with the other seasons. 
+Levels of PTH were higher in males than in females, and calcium levels were lower
+in younger animals compared with older marmosets. No other effects of age, sex,
+season, or timing of growth plate closure were found.
+
+© 2018 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jmp.12334 
+PMID: 29446837  [Indexed for MEDLINE]
+
+
+728. Restor Neurol Neurosci. 2018;36(1):31-43. doi: 10.3233/RNN-170780.
+
+snRPN controls the ability of neurons to regenerate axons.
+
+Mertsch S(1)(2), Schlicht K(1), Melkonyan H(1), Schlatt S(3), Thanos S(1).
+
+Author information: 
+(1)Institute of Experimental Ophthalmology and DFG-Excellence Center, Cells in
+Motion (CiM, area C.4), School of Medicine, University of Münster, Münster,
+Germany.
+(2)Department of Ophthalmology, Laboratory of Experimental Ophthalmology,
+University Clinic Duesseldorf, Duesseldorf, Germany.
+(3)Institute of Regenerative Medicine (CeRA) and DFG-Excellence Center, Cells in 
+Motion (CiM, area A.2), School of Medicine, University of Münster, Münster,
+Germany.
+
+BACKGROUND: Retinal ganglion cells (RGCs) of mammals lose the ability to
+regenerate injured axons during postnatal maturation, but little is known about
+the underlying molecular mechanisms.
+OBJECTIVE: It remains of particular importance to understand the mechanisms of
+axonal regeneration to develop new therapeutic approaches for nerve injuries.
+METHODS: Retinas from newborn to adult monkeys (Callithrix jacchus)1 were
+obtained immediately after death and cultured in vitro. Growths of axons were
+monitored using microscopy and time-lapse video cinematography.
+Immunohistochemistry, Western blotting, qRT-PCR, and genomics were performed to
+characterize molecules associated with axonal regeneration and growth. A genomic 
+screen was performed by using retinal explants versus native and non-regenerative
+explants obtained from eye cadavers on the day of birth, and hybridizing the mRNA
+with cross-reacting cDNA on conventional human microarrays. Followed the genomic 
+screen, siRNA experiments were conducted to identify the functional involvement
+of identified candidates.
+RESULTS: Neuron-specific human ribonucleoprotein N (snRPN) was found to be a
+potential regulator of impaired axonal regeneration during neuronal maturation in
+these animals. In particular, up-regulation of snRPN was observed during retinal 
+maturation, coinciding with a decline in regenerative ability. Axon regeneration 
+was reactivated in snRPN-knockout retinal ex vivo explants of adult monkey.
+CONCLUSION: These results suggest that coordinated snRPN-driven activities within
+the neuron-specific ribonucleoprotein complex regulate the regenerative ability
+of RGCs in primates, thereby highlighting a potential new role for snRPN within
+neurons and the possibility of novel postinjury therapies.
+
+DOI: 10.3233/RNN-170780 
+PMID: 29439367  [Indexed for MEDLINE]
+

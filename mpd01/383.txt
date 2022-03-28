@@ -1,0 +1,96 @@
+
+
+383. Sci Rep. 2019 Dec 17;9(1):19288. doi: 10.1038/s41598-019-55365-7.
+
+The DNA topoisomerase II inhibitor amsacrine as a novel candidate adjuvant in a
+model of glaucoma filtration surgery.
+
+Yamamoto K(1), Kokubun T(1), Sato K(1)(2), Akaishi T(3), Shimazaki A(3), Nakamura
+M(3), Shiga Y(1), Tsuda S(1), Omodaka K(1), Saya H(4), Nakazawa T(5)(6)(7)(8).
+
+Author information: 
+(1)Department of Ophthalmology, Tohoku University Graduate School of Medicine,
+Sendai, Miyagi, 980-8574, Japan.
+(2)Department of Collaborative Program for Ophthalmic Drug Discovery, Tohoku
+University Graduate School of Medicine, Sendai, Miyagi, 980-8574, Japan.
+(3)Research and Development Division, Santen Pharmaceutical Co. Ltd., Ikoma,
+Nara, 630-0101, Japan.
+(4)Division of Gene Regulation, Institute for Advanced Medical Research, School
+of Medicine, Keio University, 35 Shinanomachi, Shinjuku-ku, Tokyo, 160-8582,
+Japan.
+(5)Department of Ophthalmology, Tohoku University Graduate School of Medicine,
+Sendai, Miyagi, 980-8574, Japan. ntoru@oph.med.tohoku.ac.jp.
+(6)Department of Collaborative Program for Ophthalmic Drug Discovery, Tohoku
+University Graduate School of Medicine, Sendai, Miyagi, 980-8574, Japan.
+ntoru@oph.med.tohoku.ac.jp.
+(7)Department of Retinal Disease Control, Ophthalmology, Tohoku University
+Graduate School of Medicine, Sendai, Miyagi, 980-8574, Japan.
+ntoru@oph.med.tohoku.ac.jp.
+(8)Department of Advanced Ophthalmic Medicine, Tohoku University Graduate School 
+of Medicine, Sendai, Miyagi, 980-8574, Japan. ntoru@oph.med.tohoku.ac.jp.
+
+Treatments for refractory glaucoma include trabeculectomy, in which a filtering
+bleb is created to reduce aqueous pressure. Mitomycin C (MMC) is often used as an
+adjuvant to reduce post-trabeculectomy bleb scarring and consequent failure.
+However, scarring sometimes still occurs. Thus, we searched for more effective
+trabeculectomy adjuvants with high-throughput screening (HTS) of a library of
+1,165 off-patent drug compounds. This revealed that amsacrine (AMSA), a DNA
+topoisomerase II (TOP2) inhibitor, was the top candidate. Compared to MMC,
+rabbits that underwent trabeculectomy with 10% AMSA had lower IOP at 42, 56, and 
+70 days (P < 0.01 at all measurement points) and a higher bleb score at 28, 42,
+56, and 70 days (P =  < 0.01, 0.04, 0.04, and < 0.01, respectively). Compared to 
+saline, rabbits that received 1% AMSA also had lower IOP and better bleb score at
+all time points, without a sharp drop in IOP just after surgery (all P < 0.01).
+Both effects were milder than MMC at 7 days (P = 0.02 and <0.01, respectively).
+Thus, this study showed that HTS may help identify new, promising uses for
+off-patent drugs. Furthermore, trabeculectomy with AMSA at a suitable
+concentration may improve the prognosis after trabeculectomy compared to MMC.
+
+DOI: 10.1038/s41598-019-55365-7 
+PMCID: PMC6917768
+PMID: 31848363  [Indexed for MEDLINE]
+
+
+384. Neurosci Lett. 2020 Jan 19;717:134686. doi: 10.1016/j.neulet.2019.134686. Epub
+2019 Dec 12.
+
+Distribution of tight junctions in the primate cochlear lateral wall.
+
+Saeki T(1), Hosoya M(2), Shibata S(3), Okano H(4), Fujioka M(5), Ogawa K(2).
+
+Author information: 
+(1)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+(2)Department of Otorhinolaryngology, Head and Neck Surgery, Keio University
+School of Medicine, Tokyo, Japan.
+(3)Electron Microscope Laboratory, Keio University School of Medicine, Tokyo,
+Japan.
+(4)Department of Physiology, Keio University School of Medicine, Tokyo, Japan;
+Electron Microscope Laboratory, Keio University School of Medicine, Tokyo, Japan.
+(5)Department of Otorhinolaryngology, Head and Neck Surgery, Keio University
+School of Medicine, Tokyo, Japan. Electronic address:
+masato@2002.jukuin.keio.ac.jp.
+
+The blood-labyrinth barrier (BLB) is a major structure that separates the inner
+ear from the systemic blood circulation. Many drugs cannot access the inner ear
+because of their inability to cross the BLB. In the cochlea, the BLB is mainly
+distributed in the lateral wall. However, the ultrastructure of the cochlear
+lateral wall, including the distribution of tight junctions (TJs), which are its 
+main component, has not been thoroughly examined in primates. This study
+investigated the distribution of TJs in the cochlear lateral wall of the common
+marmoset by performing immunohistochemistry for TJ markers and transmission
+electron microscopy. As previously reported in rodents, TJs were distributed at
+the lumenal side of stria marginal cells and basal cells. In outer sulcus cells, 
+which are more developed in primates than in rodents, TJs were distributed at the
+side with the endolymph but not at the side with the spiral ligament, where many 
+capillaries were located. These findings indicate that drugs and small compounds 
+circulating systemically in the blood can easily access outer sulcus cells, but
+have a limited ability to enter endolymph. No structural differences were
+detected between species, indicating that the in vivo distribution of drugs in
+cochlear lateral wall cells, including outer sulcus cells, in primates can be
+predicted by performing rodent experiments.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.neulet.2019.134686 
+PMID: 31838016  [Indexed for MEDLINE]
+

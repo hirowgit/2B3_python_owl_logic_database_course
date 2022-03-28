@@ -1,0 +1,168 @@
+
+
+59. Am J Primatol. 2021 Oct 18:e23341. doi: 10.1002/ajp.23341. [Epub ahead of print]
+
+Temperature and exudativory as drivers of the marmoset (Callithrix spp.) daily
+activity period.
+
+Hilário RR(1), Silvestre SM(2), Abreu F(3), Beltrão-Mendes R(4), de Castro
+CSS(5), Chagas RRD(6), De la Fuente MF(3), Duarte MHL(7), Ferrari SF(8),
+Passamani M(9), Schiel N(10), Souto A(11), Young RJ(12), Souza-Alves JP(13).
+
+Author information: 
+(1)Departamento de Meio Ambiente e Desenvolvimento, Universidade Federal do
+Amapá, Macapá, Brazil.
+(2)Departamento de Ciências Biológicas e da Saúde, Programa de Pós-Graduação em
+Biodiversidade Tropical, Universidade Federal do Amapá, Macapá, Brazil.
+(3)Departamento de Biologia, Programa de Pós-Graduação em Etnobiologia e
+Conservação da Natureza, Universidade Federal Rural de Pernambuco, Recife,
+Brazil.
+(4)Programa de Pós-Graduação em Ecologia e Conservação, Universidade Federal de
+Sergipe, São Cristóvão, Brazil.
+(5)Departamento de Engenharia e Meio Ambiente, Programa de Pós-Graduação em
+Ecologia e Monitoramento Ambiental, Universidade Federal da Paraíba, Rio Tinto,
+Brazil.
+(6)Departamento de Sistemárica e Ecologia, Programa de Pós-Graduação em Ciências 
+Biológicas, Universidade Federal da Paraíba, João Pessoa, Brazil.
+(7)Departamento de Ciências Biológicas, Programa de Pós-graduação em Biologia de 
+Vertebrados e Museu de Ciências Naturais, Pontifícia Universidade Católica de
+Minas Gerais, Belo Horizonte, Brazil.
+(8)Departamento de Ecologia, Universidade Federal de Sergipe, São Cristóvão,
+Brazil.
+(9)Departamento de Ecologia e Conservação, Universidade Federal de Lavras,
+Lavras, Brazil.
+(10)Departamento de Biologia, Laboratório de Etologia Teórica e Aplicada,
+Universidade Federal Rural de Pernambuco, Recife, Brazil.
+(11)Departamento de Zoologia, Universidade Federal de Pernambuco, Recife, Brazil.
+(12)Department of Biology, University of Salford, Manchester, UK.
+(13)Departamento de Zoologia, Programa de Pós-Graduação em Biologia Animal and
+Laboratório de Ecologia, Comportamento e Conservação (LECC), Universidade Federal
+de Pernambuco, Recife, Brazil.
+
+Primates are affected by fluctuations in ambient temperatures, mostly through
+thermoregulatory costs and changes in the availability of food. In the present
+study, we investigate whether the ambient temperature and proxies of food
+availability affect the activity period of marmosets (Callithrix spp.). We
+predicted that: (i) at colder sites, marmosets would spend more time at sleeping 
+sites; (ii) midday resting bouts would be longer at hotter sites; (iii) the
+onset/cessation of activity and resting behavior at midday would be more closely 
+related to temperature than food availability, and (iv) highly exudativorous
+groups would have higher total levels of resting. We compiled data on the onset
+and cessation of activity and the time spent resting at midday from seven
+marmoset studies from sites with a wide range of temperatures. We used
+generalized linear mixed models to verify the relationship between the dependent 
+variables (lag between dawn and the onset of activities, lag between cessation of
+activities and dusk, and proportion of resting during midday) and the minimum and
+maximum temperatures at the respective study sites, together with proxies of food
+availability (exudativory rates, the amount of habitat available per individual, 
+and net primary productivity) using each sample month as a sampling unit and the 
+identity of the study as a categorical random factor. At colder sites and during 
+colder months, the marmosets left sleeping trees later in the morning and ceased 
+their activities earlier, while at hotter sites and during hotter months, they
+spent more time resting during midday. More exudativorous groups become active
+later in the morning, but also ceased their activities later. The abundance of
+food did not affect the timing of activities. We provide evidence that both low
+and high temperatures affect marmosets' activities, and that their activity
+period appears to be more influenced by the thermal environment than food
+availability.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1002/ajp.23341 
+PMID: 34662461 
+
+
+60. J Anim Ecol. 2022 Jan;91(1):138-153. doi: 10.1111/1365-2656.13609. Epub 2021 Oct 
+31.
+
+Foraging networks and social tolerance in a cooperatively breeding primate
+(Callithrix jacchus).
+
+De la Fuente MF(1), Sueur C(2), Garber PA(3), Bicca-Marques JC(4), Souto A(5),
+Schiel N(1).
+
+Author information: 
+(1)Departamento de Biologia, Universidade Federal Rural de Pernambuco, Recife,
+Brazil.
+(2)Institut Pluridisciplinaire Hubert Curien (IPHC), Université de Strasbourg,
+CNRS, Strasbourg, France.
+(3)Department of Anthropology, Program in Ecology, Evolution, and Conservation
+Biology, University of Illinois, Urbana, IL, USA.
+(4)Escola de Ciências da Saúde e da Vida, Pontifícia Universidade Católica do Rio
+Grande do Sul, Porto Alegre, Brazil.
+(5)Departamento de Zoologia, Universidade Federal de Pernambuco, Recife, Brazil.
+
+Within-group competition over food resources can be a major cost of social
+living. In the wild, foragers are confronted with social (e.g. hierarchical rank)
+and ecological (e.g. food availability and distribution) challenges that affect
+their foraging decisions and feeding success. Exhibiting prosocial behaviours,
+such as tolerance at feeding sites, can benefit group members by developing
+affiliative social relationships, enhancing access to resources and maximizing
+fitness. We examined social tolerance at feeding sites in Callithrix jacchus, a
+cooperatively breeding primate species. We investigated the set of social (rank, 
+age and sex) and ecological (food availability) factors that influence the
+structure and dynamics of within-group foraging association networks. We designed
+and conducted an experimental field study of four wild groups of common marmosets
+in which we controlled food distribution (concentrated or scattered) and
+productivity (high, medium or low food rewards). Then, we used social network
+analyses to assess the number and strength of foraging associations among group
+members, their effects on individual food consumption, and whether recent
+experiences with conspecifics during foraging affected subsequent associations.
+Overall, common marmoset foraging association networks were cohesive, as group
+members jointly occupied feeding sites. The number and strength of associations
+varied depending on the ecological context. Associations were stronger during
+conditions in which food was concentrated at a single site. Individuals obtained 
+greater access to food resources when sharing a feeding site with conspecifics,
+but once a food item was obtained, the forager moved to a nearby tree and
+consumed it away from others. Additionally, the strength of previous foraging
+associations and subsequent levels of social tolerance at feeding sites were
+positively related, a relationship compatible with the ability of memorizing
+associations over time and recalling the information in future decision-making.
+In sum, marmosets adjusted their partner choices and the strength of foraging
+associations in response to food availability. They exhibited increased social
+tolerance at feeding sites during conditions in which opportunities for contest
+competition were expected to be greatest. These cooperative breeding primates
+appear to mutually benefit by maintaining cohesive and strong affiliative
+relationships, and by increasing opportunities for coordinated behaviour and
+offspring survival.
+
+Publisher: A competição por recursos alimentares dentro do grupo pode ser um
+grande custo da vida social. Na natureza, os forrageadores são confrontados com
+desafios sociais (e.g. posição hierárquica) e ecológicos (e.g. disponibilidade e 
+distribuição de alimentos) que afetam suas decisões de forrageio e seu sucesso
+alimentar. Exibir comportamentos pró-sociais, como tolerância em sítios de
+alimentação, pode beneficiar os membros do grupo, desenvolvendo relações sociais 
+afiliativas, melhorando o acesso aos recursos e maximizando sua aptidão
+evolutiva. Examinamos a tolerância social de um primata com reprodução
+cooperativa (Callithrix jacchus) em sítios de alimentação. Investigamos a
+influência de um conjunto de fatores sociais (hierarquia, idade, sexo) e
+ecológicos (disponibilidade de alimento) na estrutura e dinâmica das redes de
+associação de forrageio dentro do grupo social. Planejamos e conduzimos um
+experimento de campo com quatro grupos de saguis-comuns de vida livre, no qual
+controlamos a distribuição (concentrada e dispersa) e a produtividade de alimento
+(altas, médias ou baixas recompensas). Usamos análise de redes sociais para
+avaliar o número e a força das associações de forrageio entre os membros do
+grupo, seu efeito no consumo individual de alimento, e se experiências recentes
+de forrageio entre coespecíficos afetam associações subsequentes. Em geral, as
+redes de associação de forrageio dos saguis foram coesas e os membros de cada
+grupo ocuparam sítios de alimentação em conjunto. O número e a força das
+associações variaram dependendo do contexto ecológico. As associações foram mais 
+fortes durante as condições em que o alimento se encontrava concentrado em um
+sítio. Os indivíduos obtiveram maior acesso aos recursos quando compartilharam o 
+sítio de alimentação com coespecíficos, e uma vez que o item alimentar era
+obtido, o forrageador o consumia em uma árvore próxima, longe dos outros. Além
+disso, a força das associações recentes e os níveis subsequentes de tolerância
+social em sítios de alimentação foram positivamente relacionados, compatível com 
+a capacidade de memorizar associações ao longo do tempo e relembrá-las em tomadas
+de decisão futuras. Em conclusão, os saguis ajustaram suas escolhas de parceiros 
+e a força das associações de forrageio em resposta à disponibilidade de alimento.
+Eles exibiram uma maior tolerância social em sítios de alimentação durante as
+condições em que se esperava que as oportunidades de competição direta fossem
+maiores. Estes primatas com reprodução cooperativa parecem se beneficiar
+mutuamente ao manterem relações afiliativas coesas e fortes, as quais aumentam as
+oportunidades para comportamentos coordenados e a sobrevivência da prole.
+© 2021 British Ecological Society.
+
+DOI: 10.1111/1365-2656.13609 
+PMID: 34655252  [Indexed for MEDLINE]
+

@@ -1,0 +1,52 @@
+
+
+890. J Neurophysiol. 2017 Jul 1;118(1):203-218. doi: 10.1152/jn.00954.2016. Epub 2017 
+Apr 5.
+
+Dynamic population codes of multiplexed stimulus features in primate area MT.
+
+Goddard E(1)(2), Solomon SG(3), Carlson TA(4)(2).
+
+Author information: 
+(1)School of Psychology, University of Sydney, Sydney, New South Wales,
+Australia; erin.goddard@mcgill.ca.
+(2)ARC Centre of Excellence in Cognition and its Disorders (CCD), Macquarie
+University, Sydney, New South Wales, Australia; and.
+(3)Department of Experimental Psychology, University College London, London,
+United Kingdom.
+(4)School of Psychology, University of Sydney, Sydney, New South Wales,
+Australia.
+
+The middle-temporal area (MT) of primate visual cortex is critical in the
+analysis of visual motion. Single-unit studies suggest that the response dynamics
+of neurons within area MT depend on stimulus features, but how these dynamics
+emerge at the population level, and how feature representations interact, is not 
+clear. Here, we used multivariate classification analysis to study how stimulus
+features are represented in the spiking activity of populations of neurons in
+area MT of marmoset monkey. Using representational similarity analysis we
+distinguished the emerging representations of moving grating and dot field
+stimuli. We show that representations of stimulus orientation, spatial frequency,
+and speed are evident near the onset of the population response, while the
+representation of stimulus direction is slower to emerge and sustained throughout
+the stimulus-evoked response. We further found a spatiotemporal asymmetry in the 
+emergence of direction representations. Representations for high spatial
+frequencies and low temporal frequencies are initially orientation dependent,
+while those for high temporal frequencies and low spatial frequencies are more
+sensitive to motion direction. Our analyses reveal a complex interplay of feature
+representations in area MT population response that may explain the
+stimulus-dependent dynamics of motion vision.NEW & NOTEWORTHY Simultaneous
+multielectrode recordings can measure population-level codes that previously were
+only inferred from single-electrode recordings. However, many multielectrode
+recordings are analyzed using univariate single-electrode analysis approaches,
+which fail to fully utilize the population-level information. Here, we overcome
+these limitations by applying multivariate pattern classification analysis and
+representational similarity analysis to large-scale recordings from
+middle-temporal area (MT) in marmoset monkeys. Our analyses reveal a dynamic
+interplay of feature representations in area MT population response.
+
+Copyright © 2017 the American Physiological Society.
+
+DOI: 10.1152/jn.00954.2016 
+PMCID: PMC5494367
+PMID: 28381492  [Indexed for MEDLINE]
+

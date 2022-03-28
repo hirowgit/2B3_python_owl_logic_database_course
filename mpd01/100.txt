@@ -1,0 +1,92 @@
+
+
+100. Brain Struct Funct. 2021 Sep;226(7):2417-2430. doi: 10.1007/s00429-021-02345-1.
+Epub 2021 Jul 29.
+
+Volume reduction without neuronal loss in the primate pulvinar complex following 
+striate cortex lesions.
+
+Chan JM(1)(2), Worthy KH(1), Rosa MGP(1)(2), Reser DH(2)(3), Atapour N(4)(5).
+
+Author information: 
+(1)Department of Physiology and Neuroscience Program, Biomedicine Discovery
+Institute, Monash University, Melbourne, VIC, 3800, Australia.
+(2)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Melbourne, VIC, 3800, Australia.
+(3)Graduate Entry Medicine Program, Monash Rural Health-Churchill, Churchill,
+VIC, 3842, Australia.
+(4)Department of Physiology and Neuroscience Program, Biomedicine Discovery
+Institute, Monash University, Melbourne, VIC, 3800, Australia.
+nafiseh.atapour@monash.edu.
+(5)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Melbourne, VIC, 3800, Australia.
+nafiseh.atapour@monash.edu.
+
+Lesions in the primary visual cortex (V1) cause extensive retrograde degeneration
+in the lateral geniculate nucleus, but it remains unclear whether they also
+trigger any neuronal loss in other subcortical visual centers. The inferior
+(IPul) and lateral (LPul) pulvinar nuclei have been regarded as part of the
+pathways that convey visual information to both V1 and extrastriate cortex. Here,
+we apply stereological analysis techniques to NeuN-stained sections of marmoset
+brain, in order to investigate whether the volume of these nuclei, and the number
+of neurons they comprise, change following unilateral long-term V1 lesions. For
+comparison, the medial pulvinar nucleus (MPul), which has no connections with V1,
+was also studied. Compared to control animals, animals with lesions incurred
+either 6 weeks after birth or in adulthood showed significant LPul volume loss
+following long (> 11 months) survival times. However, no obvious areas of
+neuronal degeneration were observed. In addition, estimates of neuronal density
+in lesioned hemispheres were similar to those in the non-lesioned hemispheres of 
+same animals. Our results support the view that, in marked contrast with the
+geniculocortical projection, the pulvinar pathway is largely spared from the most
+severe long-term effects of V1 lesions, whether incurred in early postnatal or
+adult life. This difference can be linked to the more divergent pattern of
+pulvinar connectivity to the visual cortex, including strong reciprocal
+connections with extrastriate areas. The results also caution against
+interpretation of volume loss in brain structures as a marker for neuronal
+degeneration.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany,
+part of Springer Nature.
+
+DOI: 10.1007/s00429-021-02345-1 
+PMID: 34324075  [Indexed for MEDLINE]
+
+
+101. J Med Primatol. 2021 Oct;50(5):249-258. doi: 10.1111/jmp.12534. Epub 2021 Jul 28.
+
+The use of midazolam as an appetite stimulant and anxiolytic in the common
+marmoset (Callithrix jacchus).
+
+Herrod JA(1), Avelino JA(1)(2), Schonvisky KM(1), Lynch JK(3), Hutchinson EK(1), 
+Izzi JM(1).
+
+Author information: 
+(1)Research Animal Resources, Department of Molecular and Comparative
+Pathobiology, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+(2)College of Veterinary Medicine, North Caroline State University, Raleigh, NC, 
+USA.
+(3)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+
+BACKGROUND: Food avoidance secondary to disease or stress can lead to weight loss
+and rapid deterioration of clinical condition in the common marmoset (Callithrix 
+jacchus). Currently, there are no data supporting the use of any pharmaceuticals 
+as an appetite stimulant in this species; however, benzodiazepines are frequently
+used for this purpose in other species.
+METHODS: Six marmosets were used in a crossover study design to evaluate the
+benzodiazepine midazolam as an appetite stimulant and anxiolytic. Total food
+intake (TFI) and latency to eat (LTE) were measured following administration of
+oral and injectable midazolam in non-anxious and anxious states.
+RESULTS: Injectable midazolam increased TFI and decreased LTE in anxious
+marmosets, but had no effect in non-anxious animals. Oral midazolam had no effect
+on appetite in either state.
+CONCLUSIONS: Injectable midazolam may be an effective treatment for
+anxiety-induced inappetence in marmosets. Individual response to both oral and
+injectable midazolam may vary.
+
+© 2021 The Authors. Journal of Medical Primatology published by John Wiley & Sons
+Ltd.
+
+DOI: 10.1111/jmp.12534 
+PMID: 34318933  [Indexed for MEDLINE]
+

@@ -1,0 +1,93 @@
+
+
+386. Biochem Pharmacol. 2020 Feb;172:113748. doi: 10.1016/j.bcp.2019.113748. Epub 2019
+Dec 10.
+
+Molecular characterization of functional UDP-glucuronosyltransferases 1A and 2B
+in common marmosets.
+
+Uno Y(1), Uehara S(2), Inoue T(3), Kawamura S(2), Murayama N(2), Nishikawa M(4), 
+Ikushiro S(4), Sasaki E(3), Yamazaki H(5).
+
+Author information: 
+(1)Joint Faculty of Veterinary Medicine, Kagoshima University, Kagoshima-city,
+Kagoshima 890-8580, Japan; Shin Nippon Biomedical Laboratories, Ltd, Kainan,
+Wakayama 642 0017, Japan. Electronic address: unoxx001@vet.kagoshima-u.ac.jp.
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo 194-8543, Japan.
+(3)Department of Applied Developmental Biology, Central Institute for
+Experimental Animals, Kawasaki, Kawasaki-ku, Japan.
+(4)Department of Biotechnology, Faculty of Engineering, Toyama Prefectural
+University, Imizu, Toyama 939 0398, Japan.
+(5)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo 194-8543, Japan. Electronic address:
+hyamazak@ac.shoyaku.ac.jp.
+
+UDP-glucuronosyltransferases (UGTs) are essential drug-conjugation enzymes that
+metabolize a variety of endobiotic and xenobiotic substrates. The molecular
+characteristics of UGTs have been extensively investigated in humans, but remain 
+to be investigated in common marmosets, a nonhuman primate species widely used in
+drug metabolism studies. In this study, 11 UGT cDNAs (UGT1A1, 1A3, 1A4, 1A6, 1A7,
+and 1A9; and UGT2B49, 2B50, 2B51, 2B52, and 2B53) were isolated and characterized
+in marmosets. Marmoset UGT1As had high sequence identities (89-93%) with human
+UGT1As, but the sequence identities of marmoset UGT2Bs were lower (82-86%).
+Marmoset UGTs were found to be phylogenetically close to human UGTs. Just as
+human UGT1As do, marmoset UGT1A genes shared exons 2-5 and contained a variable
+exon 1 unique to each gene; in contrast, marmoset UGT2B genes contained six
+unique exons. Moreover, marmoset and human UGT1A and UGT2B gene clusters were
+located in corresponding regions in their respective genomes. Among the five
+tissue types tested, marmoset UGT mRNAs were most abundantly expressed in liver, 
+jejunum, and/or kidney, i.e., in tissues important for drug metabolism, just as
+human UGTs are. Among the 11 marmoset UGT mRNAs investigated, marmoset UGT1A9,
+1A4, and 1A6 mRNAs were the most abundantly expressed in liver, small intestine, 
+and kidney, respectively. Marmoset liver microsomes and recombinant UGT1A
+proteins catalyzed the glucuronidation of the same substrates that human UGT1As
+catalyze, including estradiol, trifluoperazine, 4-methylumbelliferone, serotonin,
+4-nitrophenol, and propofol. Trifluoperazine was glucuronidated by marmoset liver
+microsomes, but not by any of the UGT1A isoforms examined under the present
+conditions. These results collectively suggest that functional marmoset UGTs have
+generally similar molecular characteristics to human UGTs.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2019.113748 
+PMID: 31830470  [Indexed for MEDLINE]
+
+
+387. Cereb Cortex. 2020 Apr 14;30(4):2658-2672. doi: 10.1093/cercor/bhz267.
+
+Motion Perception in the Common Marmoset.
+
+Cloherty SL(1)(2), Yates JL(1), Graf D(1), DeAngelis GC(1), Mitchell JF(1).
+
+Author information: 
+(1)Department of Brain and Cognitive Sciences, University of Rochester, New York,
+NY 14627, USA.
+(2)Department of Physiology, Monash University, Melbourne, VIC 3800, Australia.
+
+Visual motion processing is a well-established model system for studying neural
+population codes in primates. The common marmoset, a small new world primate,
+offers unparalleled opportunities to probe these population codes in key motion
+processing areas, such as cortical areas MT and MST, because these areas are
+accessible for imaging and recording at the cortical surface. However, little is 
+currently known about the perceptual abilities of the marmoset. Here, we
+introduce a paradigm for studying motion perception in the marmoset and compare
+their psychophysical performance with human observers. We trained two marmosets
+to perform a motion estimation task in which they provided an analog report of
+their perceived direction of motion with an eye movement to a ring that
+surrounded the motion stimulus. Marmosets and humans exhibited similar trade-offs
+in speed versus accuracy: errors were larger and reaction times were longer as
+the strength of the motion signal was reduced. Reverse correlation on the
+temporal fluctuations in motion direction revealed that both species exhibited
+short integration windows; however, marmosets had substantially less nondecision 
+time than humans. Our results provide the first quantification of motion
+perception in the marmoset and demonstrate several advantages to using analog
+estimation tasks.
+
+© The Author(s) 2019. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhz267 
+PMCID: PMC7174995
+PMID: 31828299  [Indexed for MEDLINE]
+

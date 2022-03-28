@@ -1,0 +1,90 @@
+
+
+1212. J Comp Psychol. 2015 Aug;129(3):205-17. doi: 10.1037/a0039318. Epub 2015 Jun 15.
+
+Behavioral and trait rating assessments of personality in common marmosets
+(Callithrix jacchus).
+
+Iwanicki S(1), Lehmann J(1).
+
+Author information: 
+(1)Department of Life Sciences, University of Roehampton.
+
+The study of personality in animals is a rapidly growing scientific field and
+numerous species have been reported to show consistent personality profiles. Much
+animal personality research has focused on nonhuman primates, with the main
+emphasis being placed on Old World primates, particularly rhesus macaques and
+chimpanzees. So far, little work has been done on cooperatively breeding nonhuman
+primates and New World species. Here, we study personality in the cooperatively
+breeding common marmosets (Callithrix jacchus) to broaden the taxonomic range of 
+such research and to widen the perspective of comparative personality research.
+We use behavioral data collection and observer trait ratings to assess marmoset
+personality dimensions. The resulting behavioral and rating-derived personality
+dimensions, when viewed in tandem, resemble the human five-factor model and
+include extraversion, agreeableness, neuroticism, openness, and
+conscientiousness. Correlations between the behavioral data and the observer
+trait-rated personality components suggest that the personality construct of
+common marmosets exhibits both convergent and discriminant validity. The finding 
+of a distinct Conscientiousness component in this species extends previous
+knowledge in comparative personality psychology and warrants reconsideration of
+proposed taxonomic trait distributions.
+
+(c) 2015 APA, all rights reserved).
+
+DOI: 10.1037/a0039318 
+PMID: 26075516  [Indexed for MEDLINE]
+
+
+1213. Exp Hematol. 2015 Oct;43(10):901-911.e4. doi: 10.1016/j.exphem.2015.06.001. Epub 
+2015 Jun 12.
+
+Improved hematopoietic differentiation of primate embryonic stem cells by
+inhibition of the PI3K-AKT pathway under defined conditions.
+
+Nii T(1), Marumoto T(1), Kohara H(2), Yamaguchi S(1), Kawano H(1), Sasaki E(3),
+Kametani Y(4), Tani K(5).
+
+Author information: 
+(1)Division of Molecular and Clinical Genetics, Department of Molecular Genetics,
+Medical Institute of Bioregulation, Kyushu University, Fukuoka, Japan.
+(2)Division of Molecular and Clinical Genetics, Department of Molecular Genetics,
+Medical Institute of Bioregulation, Kyushu University, Fukuoka, Japan; Project
+Division of ALA Advanced Medical Research, The Institute of Medical Science, The 
+University of Tokyo, Tokyo, Japan.
+(3)Central Institute for Experimental Animals, Kawasaki, Kanagawa, Japan.
+(4)Department of Molecular Life Science, Tokai University School of Medicine,
+Isehara, Kanagawa, Japan.
+(5)Division of Molecular and Clinical Genetics, Department of Molecular Genetics,
+Medical Institute of Bioregulation, Kyushu University, Fukuoka, Japan; Project
+Division of ALA Advanced Medical Research, The Institute of Medical Science, The 
+University of Tokyo, Tokyo, Japan. Electronic address: k-tani@ims.u-tokyo.ac.jp.
+
+Hematopoietic stem/progenitor cells (HSPCs) derived from embryonic stem cells
+(ESCs) and induced pluripotent stem cells (iPSCs) have potential therapeutic
+applications in humans. To assess the safety and efficacy of ESC/iPSC-based
+therapies, reliable animal models are required prior to their clinical
+application. The common marmoset (CM) was recently found to be a useful nonhuman 
+primate animal model for drug development and safety assessment. However, a
+method for the efficient hematopoietic differentiation of CM ESCs has not been
+established. In this study, we developed a novel and efficient method for
+differentiating CM ESCs into hematopoietic cells by transiently inhibiting the
+phosphoinositide 3-kinase (PI3K)-Protein kinase B (AKT) pathway, a critical
+pathway that maintains the undifferentiated state of CM ESCs during embryoid body
+(EB) formation. Compared with controls, transient inhibition of the P13K-AKT
+pathway resulted in a threefold increase in the proportion of enriched CD34⁺
+cells (p < 0.001) and an increase in the number of hematopoietic colonies on day 
+8 of CM EB cultures. Moreover, number of blast colonies, number of hematopoietic 
+progenitor cell populations of CD34⁺CD117⁺, CD34⁺CD45⁺, and CD43⁺CD45⁺ cells, and
+expression of hematopoietic genes were increased by transient inhibition of the
+PI3K-AKT pathway. We also demonstrated that the hematopoietic progenitor cell
+population was increased by inhibition of PI3K in a human system. Our novel and
+efficient ESC differentiation method might be useful for preclinical research on 
+human hematopoietic disorders and may be efficiently translated to human
+ESC/iPSC-based regenerative medicine.
+
+Copyright © 2015 ISEH - International Society for Experimental Hematology.
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.exphem.2015.06.001 
+PMID: 26073521  [Indexed for MEDLINE]
+

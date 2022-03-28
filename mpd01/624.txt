@@ -1,0 +1,105 @@
+
+
+624. Vector Borne Zoonotic Dis. 2019 Apr;19(4):249-254. doi: 10.1089/vbz.2018.2348.
+Epub 2018 Oct 18.
+
+Antibodies and Molecular Detection of Leishmania (Leishmania) infantum in Samples
+of Free-Ranging Marmosets (Primates: Callitrichidae: Callithrix spp.) in an Area 
+of Canine Visceral Leishmaniasis in Southeastern Brazil.
+
+Paiz LM(1), Motoie G(2), Richini-Pereira VB(3), Langoni H(4), Menozzi BD(4),
+Tolezano JE(2), Donalisio MR(1).
+
+Author information: 
+(1)1 Department of Public Health, Faculty of Medical Sciences, State University
+of Campinas, Campinas, Brazil.
+(2)2 Adolfo Lutz Institute, Center for Systemic Parasitic Diseases, São Paulo,
+Brazil.
+(3)3 Bauru II Center of Regional Laboratories, Adolfo Lutz Institute, Bauru,
+Brazil.
+(4)4 Department of Veterinary Hygiene and Public Health, School of Veterinary
+Medicine and Animal Science, São Paulo State University, Botucatu, Brazil.
+
+Leishmaniasis is a vector-borne parasitic protozoan infection that affects
+mammals and involves a complex epidemiology. Although dogs are considered the
+main reservoir in zoonotic visceral leishmaniasis (VL), the possible presence of 
+other mammalian species acting as reservoirs has been associated as a possible
+cause of lack of success in the control of human VL in many endemic areas. The
+knowledge about natural infections of some species is still scarce, such as
+nonhuman primates (NHP), especially from the genus Callithrix (marmosets). We
+investigated the infection by Leishmania (Leishmania) infantum, the agent of VL
+in the Americas, in 26 marmosets captured monthly, from April 2014 to March 2015,
+in an environmentally protected area (EPA) in Southeastern Brazil. The EPA has
+undergone significant environmental changes and has a transmission focus of
+canine VL since 2009. Serology was performed through the direct agglutination
+test, which detected low antibody titers in seven marmosets (7/26; 26.9%, 95%
+confidence interval 9.9-44.0), being five Callithrix penicillata
+(black-tufted-ear marmoset) and two Callithrix jacchus (white-tufted-ear
+marmoset). The presence of the DNA of Leishmania was investigated in blood and
+skin samples by PCR and genetic sequencing. This is the first report of the
+detection of L. (L.) infantum in the skin of a marmoset, which was verified in a 
+sample from one C. penicillata. The results demonstrate the natural infection of 
+marmosets by L. (L.) infantum and may suggest the participation of these animals 
+as hosts in the parasite's transmission cycle in the EPA. However, more
+comprehensive studies are needed to elucidate their role on the VL epidemiology
+in this area and also in different endemic areas, especially because these NHP
+are increasingly in contact with humans and domestic animals, particularly due to
+environmental changes.
+
+DOI: 10.1089/vbz.2018.2348 
+PMID: 30335584  [Indexed for MEDLINE]
+
+
+625. J Neurosci. 2018 Nov 28;38(48):10384-10398. doi: 10.1523/JNEUROSCI.1679-18.2018. 
+Epub 2018 Oct 16.
+
+Receptive Field Properties of Koniocellular On/Off Neurons in the Lateral
+Geniculate Nucleus of Marmoset Monkeys.
+
+Eiber CD(1)(2)(3), Rahman AS(2), Pietersen ANJ(1)(2)(3), Zeater N(1)(2)(3),
+Dreher B(2), Solomon SG(3)(4), Martin PR(5)(2)(3).
+
+Author information: 
+(1)Save Sight Institute.
+(2)School of Medical Sciences.
+(3)Australian Research Council Centre of Excellence for Integrative Brain
+Function, University of Sydney, Sydney, New South Wales 2000, Australia, and.
+(4)Department of Experimental Psychology, University College London, WC1P 0AH,
+London, England.
+(5)Save Sight Institute, prmartin@physiol.usyd.edu.au.
+
+The koniocellular (K) layers of the primate dorsal lateral geniculate nucleus
+house a variety of visual receptive field types, not all of which have been fully
+characterized. Here we made single-cell recordings targeted to the K layers of
+diurnal New World monkeys (marmosets). A subset of recorded cells was excited by 
+both increments and decrements of light intensity (on/off-cells). Histological
+reconstruction of the location of these cells confirmed that they are segregated 
+to K layers; we therefore refer to these cells as K-on/off cells. The K-on/off
+cells show high contrast sensitivity, strong bandpass spatial frequency tuning,
+and their response magnitude is strongly reduced by stimuli larger than the
+excitatory receptive field (silent suppressive surrounds). Stationary
+counterphase gratings evoke unmodulated spike rate increases or frequency-doubled
+responses in K-on/off cells; such responses are largely independent of grating
+spatial phase. The K-on/off cells are not orientation or direction selective.
+Some (but not all) properties of K-on/off cells are consistent with those of
+local-edge-detector/impressed-by-contrast cells reported in studies of cat retina
+and geniculate, and broad-thorny ganglion cells recorded in macaque monkey
+retina. The receptive field properties of K-on/off cells and their preferential
+location in the ventral K layers (K1 and K2) make them good candidates for the
+direct projection from geniculate to extrastriate cortical area MT/V5. If so,
+they could contribute to visual information processing in the dorsal ("where" or 
+"action") visual stream.SIGNIFICANCE STATEMENT We characterize cells in an
+evolutionary ancient part of the visual pathway in primates. The cells are
+located in the lateral geniculate nucleus (the main visual afferent relay
+nucleus), in regions called koniocellular layers that are known to project to
+extrastriate visual areas as well as primary visual cortex. The cells show high
+contrast sensitivity and rapid, transient responses to light onset and offset.
+Their properties suggest they could contribute to visual processing in the dorsal
+("where" or "action") visual stream.
+
+Copyright © 2018 the authors 0270-6474/18/3810384-15$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.1679-18.2018 
+PMCID: PMC6596204
+PMID: 30327419  [Indexed for MEDLINE]
+

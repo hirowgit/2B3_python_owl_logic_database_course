@@ -1,0 +1,74 @@
+
+
+2308. J Biol Chem. 2008 Apr 25;283(17):11763-71. doi: 10.1074/jbc.M800896200. Epub 2008
+Feb 21.
+
+Dynamic interaction of the measles virus hemagglutinin with its receptor
+signaling lymphocytic activation molecule (SLAM, CD150).
+
+Navaratnarajah CK(1), Vongpunsawad S, Oezguen N, Stehle T, Braun W, Hashiguchi T,
+Maenaka K, Yanagi Y, Cattaneo R.
+
+Author information: 
+(1)Department of Molecular Medicine and Virology and Gene Therapy Graduate Track,
+Mayo Clinic, Rochester, Minnesota 55905, USA.
+
+The interaction of measles virus with its receptor signaling lymphocytic
+activation molecule (SLAM) controls cell entry and governs tropism. We predicted 
+potential interface areas of the measles virus attachment protein hemagglutinin
+to begin the investigation. We then assessed the relevance of individual amino
+acids located in these areas for SLAM-binding and SLAM-dependent membrane fusion,
+as measured by surface plasmon resonance and receptor-specific fusion assays,
+respectively. These studies identified one hemagglutinin protein residue,
+isoleucine 194, which is essential for primary binding. The crystal structure of 
+the hemagglutinin-protein localizes Ile-194 at the interface of propeller blades 
+5 and 6, and our data indicate that a small aliphatic side chain of residue 194
+stabilizes a protein conformation conducive to binding. In contrast, a quartet of
+residues previously shown to sustain SLAM-dependent fusion is not involved in
+binding. Instead, our data prove that after binding, this quartet of residues on 
+propeller blade 5 conducts conformational changes that are receptor-specific. Our
+study sets a structure-based stage for understanding how the SLAM-elicited
+conformational changes travel through the H-protein ectodomain before triggering 
+fusion protein unfolding and membrane fusion.
+
+DOI: 10.1074/jbc.M800896200 
+PMCID: PMC2431048
+PMID: 18292085  [Indexed for MEDLINE]
+
+
+2309. Vis Neurosci. 2008 Jan-Feb;25(1):67-76. doi: 10.1017/S0952523808080073.
+
+Distribution of bipolar input to midget and parasol ganglion cells in marmoset
+retina.
+
+Eriköz B(1), Jusuf PR, Percival KA, Grünert U.
+
+Author information: 
+(1)National Vision Research Institute of Australia, Carlton, Australia.
+
+Different types of retinal ganglion cell show differences in their response
+properties. Here we investigated the question of whether these differences are
+related to the distribution of the synaptic input to the dendritic tree. We
+measured the distribution and density of synaptic input to the dendrites of
+midget and parasol ganglion cells in the retina of a New World monkey, the
+marmoset, Callithrix jacchus. Ganglion cells were retrogradely labeled by dye
+injection into parvocellular or magnocellular regions of the lateral geniculate
+nucleus and subsequently photo-filled. Presumed bipolar cell synapses were
+identified immunocytochemically using antibodies against the ribbon protein CtBP2
+or the GluR4 subunit of the AMPA receptor. For all cells, colocalized
+immunoreactive puncta were distributed across the entire dendritic tree. The
+density of the presumed bipolar input to midget ganglion cells was comparable for
+both synaptic markers, suggesting that the AMPA receptor GluR4 subunit is
+expressed at all synapses between midget bipolar and midget ganglion cells.
+Midget ganglion cells had an average of nine colocalized immunoreactive puncta
+per 100 microm2 dendritic surface, and parasol cells had an average of seven
+colocalized immunoreactive puncta per 100 microm2 dendritic surface. The
+densities were comparable in different regions of the dendritic tree and were not
+influenced by the location of the cells with respect to the fovea. Our findings
+suggest that the differences in the response characteristics of midget and
+parasol cells are not due to differences in the density of synaptic input to
+their dendritic tree.
+
+DOI: 10.1017/S0952523808080073 
+PMID: 18282311  [Indexed for MEDLINE]
+

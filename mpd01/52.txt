@@ -1,0 +1,117 @@
+
+
+52. Syst Appl Microbiol. 2021 Nov;44(6):126273. doi: 10.1016/j.syapm.2021.126273.
+Epub 2021 Oct 19.
+
+Phylogenetic classification of ten novel species belonging to the genus
+Bifidobacterium comprising B. phasiani sp. nov., B. pongonis sp. nov., B.
+saguinibicoloris sp. nov., B. colobi sp. nov., B. simiiventris sp. nov., B.
+santillanense sp. nov., B. miconis sp. nov., B. amazonense sp. nov., B.
+pluvialisilvae sp. nov., and B. miconisargentati sp. nov.
+
+Lugli GA(1), Calvete-Torre I(2), Alessandri G(1), Milani C(3), Turroni F(3),
+Laiolo P(4), Ossiprandi MC(5), Margolles A(2), Ruiz L(6), Ventura M(7).
+
+Author information: 
+(1)Laboratory of Probiogenomics, Department of Chemistry, Life Sciences, and
+Environmental Sustainability, University of Parma, 43124 Parma, Italy.
+(2)Department of Microbiology and Biochemistry of Dairy Products, Dairy Research 
+Institute of Asturias, Spanish National Research Council (IPLA-CSIC), Paseo Río
+Linares sn 33300 Villaviciosa, Asturias, Spain; Functionality and Ecology of
+Beneficial Microbes (MicroHealth) Group, Instituto de Investigación Sanitaria del
+Principado de Asturias (ISPA), Avda. Roma s/n, 33011 Oviedo, Asturias, Spain.
+(3)Laboratory of Probiogenomics, Department of Chemistry, Life Sciences, and
+Environmental Sustainability, University of Parma, 43124 Parma, Italy; Microbiome
+Research Hub, University of Parma, 43124 Parma, Italy.
+(4)Biodiversity Research Institute (CSIC, Oviedo University, Principality of
+Asturias), Mieres, Spain.
+(5)Microbiome Research Hub, University of Parma, 43124 Parma, Italy; Department
+of Veterinary Medical Science, University of Parma, Parma, Italy.
+(6)Department of Microbiology and Biochemistry of Dairy Products, Dairy Research 
+Institute of Asturias, Spanish National Research Council (IPLA-CSIC), Paseo Río
+Linares sn 33300 Villaviciosa, Asturias, Spain; Functionality and Ecology of
+Beneficial Microbes (MicroHealth) Group, Instituto de Investigación Sanitaria del
+Principado de Asturias (ISPA), Avda. Roma s/n, 33011 Oviedo, Asturias, Spain.
+Electronic address: lorena.ruiz@ipla.csic.es.
+(7)Laboratory of Probiogenomics, Department of Chemistry, Life Sciences, and
+Environmental Sustainability, University of Parma, 43124 Parma, Italy; Microbiome
+Research Hub, University of Parma, 43124 Parma, Italy. Electronic address:
+marco.ventura@unipr.it.
+
+Ten Bifidobacterium strains, i.e., 6T3, 64T4, 79T10, 80T4, 81T8, 82T1, 82T10,
+82T18, 82T24, and 82T25, were isolated from mantled guereza (Colobus guereza),
+Sumatran orangutan (Pongo abeli), silvery marmoset (Mico argentatus), golden lion
+tamarin (Leontopithecus rosalia), pied tamarin (Saguinus bicolor), and common
+pheasant (Phaisanus colchinus). Cells are Gram-positive, non-motile,
+non-sporulating, facultative anaerobic, and fructose 6-phosphate
+phosphoketolase-positive. Phylogenetic analyses based on the core genome
+sequences revealed that isolated strains exhibit close phylogenetic relatedness
+with Bifidobacterium genus members belonging to the Bifidobacterium bifidum,
+Bifidobacterium longum, Bifidobacterium pullorum, and Bifidobacterium tissieri
+phylogenetic groups. Phenotypic characterization and genotyping based on the
+genome sequences clearly show that these strains are distinct from each of the
+type strains of the so far recognized Bifidobacterium species. Thus, B. phasiani 
+sp. nov. (6T3 = LMG 32224T = DSM 112544T), B. pongonis sp. nov. (64T4 = LMG
+32281T = DSM 112547T), B. saguinibicoloris sp. nov. (79T10 = LMG 32232T = DSM
+112543T), B. colobi sp. nov. (80T4 = LMG 32225T = DSM 112552T), B. simiiventris
+sp. nov. (81T8 = LMG 32226T = DSM 112549T), B. santillanense sp. nov. (82T1 = LMG
+32284T = DSM 112550T), B. miconis sp. nov. (82T10 = LMG 32282T = DSM 112551T), B.
+amazonense sp. nov. (82T18 = LMG 32297T = DSM 112548T), pluvialisilvae sp. nov.
+(82T24 = LMG 32229T = DSM 112545T), and B. miconisargentati sp. nov. (82T25 = LMG
+32283T = DSM 112546T) are proposed as novel Bifidobacterium species.
+
+Copyright © 2021 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.syapm.2021.126273 
+PMID: 34715437  [Indexed for MEDLINE]
+
+
+53. Comp Med. 2021 Dec 1;71(6):460-465. doi: 10.30802/AALAS-CM-21-000038. Epub 2021
+Oct 28.
+
+Summary and Assessment of Studies on Cardiac Aging in Nonhuman Primates.
+
+Huber HF(1), Nathanielsz PW(2), Clarke GD(3).
+
+Author information: 
+(1)Department of Animal Science, University of Wyoming, Laramie, Wyoming;
+Southwest National Primate Research Center, Texas Biomedical Research Institute, 
+San Antonio, Texas;, Email: hhuber@txbiomed.org.
+(2)Department of Animal Science, University of Wyoming, Laramie, Wyoming;
+Southwest National Primate Research Center, Texas Biomedical Research Institute, 
+San Antonio, Texas.
+(3)Department of Radiology, University of Texas Health Science Center, San
+Antonio, Texas ‡Institution at which work was performed: Southwest National
+Primate Research Center, San Antonio, Texas.
+
+Nonhuman primates (NHP) are important translational models for cardiac aging. To 
+assess progress in this research area and to provide a reference for other
+investigators, we identified papers indexed in PubMed to determine what species, 
+ages, outcomes, treatments, and approaches have been studied. Since 1983, 33
+studies of cardiac aging in NHP have been published. Of these, 27 used species of
+macaque, 6 baboon, 1 vervet, 1 orangutan, and 1 marmoset (some studies were
+multispecies). Common research approaches were echocardiography, ECG, and
+histology of the left ventricle. Only 10 studies performed sex-based analyses.
+The average age of the oldest macaque studied was 26 y. The reported mean
+lifespan of macaques in captivity is around 30 y. The age of the oldest baboon
+studied was 24 y. Baboons in captivity are reported to live on average to 21 y.
+Twelve studies took a "life course" approach, studying animals of a wide range of
+ages from less than or equal to 10 y through the late teens to thirties, and
+employing analyses designed to show change over time. Keeping NHP into old age is
+a major challenge for biomedical research. The ideal design is to start
+monitoring in early life and to track how cardiac structure and function change
+with age. Important issues for future research are an increased focus on
+life-course approaches, investment in existing life-course NHP cohorts, better
+reporting of study sample characteristics, more molecular studies to identify
+genetic risk factors and mechanisms, attention to sex as a biological variable, a
+move away from descriptive reports to mechanistic studies, development of
+biomarkers to predict disease risk, and exploration of interventions that are
+implemented early in life to prevent or delay age-related disease later in life. 
+Reducing exposure to early life adversity, identifying early-life biomarkers of
+aging and age-related disease, and early treatment can contribute to longer
+health span.
+
+DOI: 10.30802/AALAS-CM-21-000038 
+PMCID: PMC8715764 [Available on 2022-06-01]
+PMID: 34711301  [Indexed for MEDLINE]
+

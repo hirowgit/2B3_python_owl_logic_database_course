@@ -1,0 +1,72 @@
+
+
+2514. Expert Opin Drug Metab Toxicol. 2006 Jun;2(3):345-9.
+
+Use of nontraditional animals for evaluation of pharmaceutical products.
+
+Jacobs A(1).
+
+Author information: 
+(1)Center for Drug Evaluation and Research, US Food and Drug Administration,
+Silver Spring, Maryland, USA. abigail.jacobs@fda.hhs.gov
+
+Although the International Conference on Harmonization Guideline ICH M3 indicates
+the use of nonrodents for some studies of pharmaceutical products, the specific
+nonrodent species is not specified. Dogs are used most frequently; however, there
+may be reasons why dogs are not the best model for a particular drug. Minipigs
+are being used increasingly for evaluation of toxicity, especially for dermally
+applied drugs, and for various efficacy models. Hamsters may be used for the
+evaluation of intraoral drugs and for carcinogenicity studies. Less commonly,
+pharmaceutical manufacturers may choose on their own to use marmosets, when a
+nonhuman primate is considered critical to evaluation, or to use ferrets for
+specific purposes. When nontraditional species are used, there may be less
+historical information available and unique issues of their care, and differences
+in physiology and anatomy and susceptibility to infection need to be understood. 
+Nonmammalian test species, such as zebrafish and Caenorhabditis elegans may be
+used by drug sponsors in screening assays, but are not yet ready for use in
+pivotal toxicology studies because of the difficulty in extrapolating to
+mammalian species. Use of nontraditional animal species may be proposed by a drug
+sponsor to a reviewing division with supporting data and reasons for using a
+particular species.
+
+DOI: 10.1517/17425255.2.3.345 
+PMID: 16863438  [Indexed for MEDLINE]
+
+
+2515. J Immunol Methods. 2006 Jul 31;314(1-2):153-63. Epub 2006 Jul 24.
+
+MHC Class II DRB genotyping is highly predictive of in-vitro alloreactivity in
+the common marmoset.
+
+Prasad S(1), Humphreys I, Kireta S, Gilchrist RB, Bardy P, Russ GR, Coates PT.
+
+Author information: 
+(1)Transplantation Immunology Laboratory and Department of Medicine, University
+of Adelaide, The Queen Elizabeth Hospital Campus, 28 Woodville Road, Woodville,
+SA 5011, Australia.
+
+The common marmoset (Callithrix jacchus) is emerging as a promising alternative
+pre-clinical model for transplantation and immunological research. It is
+therefore important to establish a rapid and reliable method of confirming
+alloreactivity between donor-recipient pairs. In this study of a large marmoset
+colony (n=49), we firstly characterised MHC Class II genes (Caja-DRB*W1201,
+Caja-DRB1*03, Caja-DRB*W16) using, for the first time in this species,
+sequence-based allelic typing techniques. Exon 2 was amplified using M13-tailed
+PCR primers specific for known marmoset alleles, and sequenced using universal
+M13 sequencing primers and dye terminator cycle sequencing. Twenty-six genotypes 
+involving monomorphic Caja-DRB*W1201, 8 Caja-DRB*W16 and 5 Caja-DRB1*03 alleles
+were observed. Two new DRB*W16 alleles were identified. Subsequently we
+investigated whether matching at MHC-DRB loci alone could accurately predict
+in-vitro alloreactivity as assessed by mixed lymphocyte reactions. Peripheral
+blood mononuclear cells (PBMC) isolated from fully and partially DRB-matched and 
+fully mismatched animal pairs were mixed and co-cultured for T-cell
+proliferation. PBMC co-cultured from fully or partially mismatched pairs
+exhibited significant T cell proliferation above single cell controls (p<0.01).
+Mixed PBMC from fully DRB-matched pairs exhibited no proliferation over controls 
+(p=0.3). Thus using Caja-DRB genotyping, suitably alloreactive donor-recipient
+pairs can be rapidly and accurately identified for use in further studies of
+cellular and solid organ transplantation.
+
+DOI: 10.1016/j.jim.2006.06.009 
+PMID: 16860822  [Indexed for MEDLINE]
+

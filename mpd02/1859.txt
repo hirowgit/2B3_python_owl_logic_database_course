@@ -1,0 +1,40 @@
+
+
+1859. Lipids Health Dis. 2011 Jul 1;10:111. doi: 10.1186/1476-511X-10-111.
+
+Induction of Epstein-Barr virus (EBV) lytic cycle in vitro causes lipid
+peroxidation, protein oxidation and DNA damage in lymphoblastoid B cell lines.
+
+Gargouri B(1), Nasr R, Mseddi M, Benmansour R, Lassoued S.
+
+Author information: 
+(1)Unité de Biotechnologie et Pathologies, Institut Supérieur de Biotechnologie
+de Sfax, Tunisia. bochra.gargouri@yahoo.fr.
+
+BACKGROUND: We investigated the oxidative modifications of lipids, proteins and
+DNA, potential molecular targets of oxidative stress, in two lymphoblastoid cell 
+lines: B95-8 and Raji, after EBV lytic cycle induction. Conjugated dienes level
+was measured as biomarker of lipid peroxidation. Malondialdehyde adduct and
+protein carbonyl levels, as well as protein thiol levels were measured as
+biomarkers of protein oxidation. DNA fragmentation was evaluated as biomarker of 
+DNA oxidation.
+RESULTS: After 48 h (peak of lytic cycle), a significant increase in conjugated
+dienes level was observed in B95-8 and Raji cell lines (p = 0.0001 and p = 0.019 
+respectively). Malondialdehyde adduct, protein carbonyl levels were increased in 
+B95-8 and Raji cell lines after EBV lytic cycle induction as compared to controls
+(MDA-adduct: p = 0.008 and p = 0.006 respectively; Carbonyl: p = 0.003 and p =
+0.0039 respectively). Proteins thiol levels were decreased by induction in B95-8 
+and Raji cell lines (p = 0.046; p = 0.002 respectively). DNA fragmentation was
+also detected in B95-8 and Raji cell lines after EBV lytic cycle induction as
+compared to controls.
+CONCLUSION: The results of this study demonstrate the presence of increased
+combined oxidative modifications in lipids, proteins in B95-8 and Raji cells
+lines after EBV lytic cycle induction. These results suggest that lipid
+peroxidation, protein oxidation and DNA fragmentation are generally induced
+during EBV lytic cycle induction and probably contribute to the cytopathic effect
+of EBV.
+
+DOI: 10.1186/1476-511X-10-111 
+PMCID: PMC3146848
+PMID: 21722381  [Indexed for MEDLINE]
+

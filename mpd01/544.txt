@@ -1,0 +1,78 @@
+
+
+544. Am J Vet Res. 2019 Mar;80(3):259-264. doi: 10.2460/ajvr.80.3.259.
+
+Development and analytic validation of a sandwich ELISA for the measurement of
+α1-proteinase inhibitor concentrations in serum and feces of common marmosets
+(Callithrix jacchus).
+
+Parambeth JC, Lidbury JA, Suchodolski JS, Steiner JM.
+
+OBJECTIVE To develop and validate a sandwich ELISA for the measurement of
+α1-proteinase inhibitor (α1-PI) concentrations in serum and fecal samples
+obtained from common marmosets (Callithrix jacchus). SAMPLE Leftover serum (n =
+42) and fecal (23) samples submitted for diagnostic testing; paired serum and
+fecal samples obtained from 30 common marmosets at 2 research colonies.
+PROCEDURES A sandwich ELISA was developed and analytically validated by
+determining the lower limit of detection, linearity, accuracy, precision, and
+reproducibility. Reference intervals for α1-PI concentrations in serum and feces 
+of common marmosets were calculated. RESULTS The standard curve was generated for
+concentrations between 1 and 100 ng/mL. Mean ± SD observed-to-expected ratio for 
+serial dilutions of serum and fecal samples was 117.1 ± 5.6% (range, 112.2% to
+123.0%) and 106.1 ± 19.7% (range, 82.6% to 130.2%), respectively. Mean
+observed-to-expected ratio for spiking recovery of serum and fecal samples was
+102.9 ± 12.1% (range, 86.8% to 115.8%) and 97.9 ± 19.0% (range, 83.0% to 125.1%),
+respectively. Reference interval for serum concentrations of α1-PI was 1,254 to
+1,813 μg/mL, for 3-day mean fecal concentrations was 11.5 to 42.2 μg/g of feces, 
+and for 3-day maximum fecal concentrations was 13.2 to 51.2 μg/g of feces.
+CONCLUSIONS AND CLINICAL RELEVANCE The ELISA was linear, accurate, precise, and
+reproducible for quantification of α1-PI concentrations in serum and feces of
+common marmosets. However, the ELISA had limited linearity and accuracy for
+spiking recovery of fecal samples.
+
+DOI: 10.2460/ajvr.80.3.259 
+PMID: 30801206  [Indexed for MEDLINE]
+
+
+545. Cereb Cortex. 2019 Dec 17;29(11):4818-4830. doi: 10.1093/cercor/bhz015.
+
+Hippocampal Interaction With Area 25, but not Area 32, Regulates Marmoset
+Approach-Avoidance Behavior.
+
+Wallis CU(1), Cockcroft GJ(1), Cardinal RN(2)(3), Roberts AC(1), Clarke HF(1).
+
+Author information: 
+(1)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Downing Street, Cambridge, CB2 3DY, UK.
+(2)Department of Psychiatry, Box 189, Level E4, Cambridge Biomedical Campus,
+Cambridge, CB2 OQQ, UK.
+(3)Liaison Psychiatry Service, Cambridge and Peterborough NHS Foundation Trust,
+Box 190, Cambridge Biomedical Campus, Cambridge, CB2 OQQ, UK.
+
+Affective disorders are associated with increased sensitivity to negative
+feedback that influences approach-avoidance decision making. Although
+neuroimaging studies of these disorders reveal dysregulation in primate cingulate
+areas 25 and 32 and the anterior hippocampus (aHipp), the causal involvement of
+these structures and their interaction in the primate brain is unknown. We
+therefore investigated the effects of localized pharmacological manipulations of 
+areas 25 and 32 and/or the aHipp of the marmoset monkey on performance of an
+anxiolytic-sensitive instrumental decision-making task in which an
+approach-avoidance conflict is created by pairing a response with reward and
+punishment. During control infusions animals avoided punishment, but this bias
+was reduced by increasing glutamate release within the aHipp or area 32, and
+inactivation or 5-HT1a antagonism within area 25. Conversely, increasing
+glutamate release in area 25 enhanced punishment avoidance but, in contrast to
+previous reports, area 32 and aHipp inactivations had no effect. Simultaneous
+inactivation or 5-HT1a antagonism within area 25, but not area 32, abolished the 
+reduced punishment avoidance seen after increasing aHipp glutamate. Besides
+providing causal evidence that these primate areas differentially regulate
+negative feedback sensitivity, this study links the decision-making deficits in
+affective disorders to aberrant aHipp-area 25 circuit activity.
+
+© The Author(s) 2019. Published by Oxford University Press. All rights reserved. 
+For Permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhz015 
+PMCID: PMC6917514
+PMID: 30796800  [Indexed for MEDLINE]
+

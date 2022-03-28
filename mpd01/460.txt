@@ -1,0 +1,127 @@
+
+
+460. Mult Scler Relat Disord. 2019 Oct;35:108-115. doi: 10.1016/j.msard.2019.07.020.
+Epub 2019 Jul 24.
+
+[11C]PIB PET imaging can detect white and grey matter demyelination in a
+non-human primate model of progressive multiple sclerosis.
+
+Carvalho RHF(1), Real CC(1), Cinini S(2), Garcez AT(1), Duran FLS(3), Marques
+FLN(1), Mello LE(2), Busatto Filho G(3), de Vries EFJ(4), de Britto LRG(5),
+Buchpiguel CA(1), de Paula Faria D(6).
+
+Author information: 
+(1)Laboratory of Nuclear Medicine (LIM-43), Departamento de Radiologia e
+Oncologia, Faculdade de Medicina, Universidade de Sao Paulo, Sao Paulo, SP,
+Brazil.
+(2)Department of Physiology, Escola Paulista de Medicina, Universidade Federal de
+Sao Paulo, Sao Paulo, SP, Brazil.
+(3)Laboratory of Psychiatric Neuroimaging (LIM-21), Departamento de Psiquiatria, 
+Faculdade de Medicina, Universidade de Sao Paulo, Sao Paulo, SP, Brazil.
+(4)Department of Nuclear Medicine and Molecular Imaging, University Medical
+Center Groningen, University of Groningen, Groningen, the Netherlands.
+(5)Laboratory of Cellular Neurobiology, Departamento de Fisiologia e Biofísica,
+Universidade de Sao Paulo, Sao Paulo, SP, Brazil.
+(6)Laboratory of Nuclear Medicine (LIM-43), Departamento de Radiologia e
+Oncologia, Faculdade de Medicina, Universidade de Sao Paulo, Sao Paulo, SP,
+Brazil. Electronic address: daniele.faria@hc.fm.usp.br.
+
+BACKGROUND: Multiple sclerosis (MS) is a demyelinating and inflammatory disease
+of the central nervous system. Its diagnosis is clinical, often confirmed by
+magnetic resonance imaging. This image modality, however, is not ideal for
+discrimination of demyelination in grey and white matter regions from
+inflammatory lesions. Positron Emission Tomography (PET), using specific
+radiopharmaceuticals, can be a tool to differentiate between these processes. The
+radiopharmaceutical [11C]PIB is widely used for detection of β-amyloid plaques,
+but has also been suggested for the analysis of myelin content due to its
+consistent uptake in white matter. The aim of this study was to evaluate [11C]PIB
+PET imaging as a tool for detecting demyelinated regions in white and grey matter
+of non-human primate model of progressive MS.
+METHODS: Experimental autoimmune encephalomyelitis (EAE) was induced in marmosets
+by injection of recombinant human myelin oligodendrocyte glycoprotein (rhMOG)
+emulsified in either Incomplete Freund's Adjuvant (IFA) or Complete Freund's
+Adjuvant (CFA). [11C]PIB PET images were acquired prior to immunization
+(baseline) and after symptoms were present (end of experiment). Brain tissue was 
+isolated for histochemical analysis.
+RESULTS: All rhMOG/IFA-treated and rhMOG/CFA-treated animals showed clinical
+signs of EAE. The rhMOG/CFA group presented a significant [11C]PIB uptake
+reduction only in the left motor cortex (9%, P = 0.011). For the rhMOG/IFA group,
+significant decrease in [11C]PIB uptake was observed in the whole brain (15%,
+P = 0.015), in the right hemisphere of body of corpus callosum (34%, P = 0.02),
+splenium of corpus callosum (38%, P = 0.004), hippocampus (19%, P = 0.036), optic
+tract (13%, P = 0.025), thalamus (14%, P = 0.041), Globus pallidus (23%,
+P = 0.017), head of caudate nucleus (25%, P = 0.045), tail of caudate nucleus
+(29%, P = 0.003), putamen (28%, P = 0.047) and left hemisphere of body of corpus 
+callosum (14%, P = 0.037) and head of caudate nucleus (23%, P = 0.023). [11C]PIB 
+uptake significantly correlated with luxol fast blue histology (myelin marker),
+both in the rhMOG/IFA (r2= 0.32, P < 0.0001) and the rhMOG/CFA group (r2= 0.46, P
+< 0.0001).
+CONCLUSION: [11C]PIB PET imaging is an efficient tool for detecting demyelination
+in grey and white matter, in a non-human primate model of progressive MS.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.msard.2019.07.020 
+PMID: 31362166  [Indexed for MEDLINE]
+
+
+461. Neuropharmacology. 2019 Nov 1;158:107725. doi: 10.1016/j.neuropharm.2019.107725. 
+Epub 2019 Jul 25.
+
+Activation of mGlu2/3 receptors, a novel therapeutic approach to alleviate
+dyskinesia and psychosis in experimental parkinsonism.
+
+Frouni I(1), Hamadjida A(2), Kwan C(2), Bédard D(3), Nafade V(3), Gaudette F(4), 
+Nuara SG(5), Gourdon JC(5), Beaudry F(6), Huot P(7).
+
+Author information: 
+(1)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada; Neurodegenerative Disease Group, Montreal Neurological Institute,
+Montreal, QC, Canada.
+(2)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada; Integrated Program in Neuroscience, McGill University, Montreal, QC, 
+Canada.
+(3)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada.
+(4)Plateforme de Pharmacocinétique, Centre de Recherche du Centre Hospitalier de 
+l'Université de Montréal, Montreal, QC, Canada.
+(5)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(6)Groupe de Recherche en Pharmacologie Animale du Québec, Département de
+Biomédecine Vétérinaire, Faculté de Médecine Vétérinaire, Université de Montréal,
+Saint-Hyacinthe, QC, Canada.
+(7)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada; Neurodegenerative Disease Group, Montreal Neurological Institute,
+Montreal, QC, Canada; Integrated Program in Neuroscience, McGill University,
+Montreal, QC, Canada; Department of Neurology and Neurosurgery, McGill
+University, Montreal, QC, Canada; Movement Disorder Clinic, Division of
+Neurology, Department of Neurosciences, McGill University Health Centre,
+Montreal, QC, Canada. Electronic address: philippe.huot@mcgill.ca.
+
+Selective blockade of serotonin 2A (5-HT2A) receptors is a promising strategy to 
+reduce L-3,4-dihydroxyphenylalanine (l-DOPA)-induced dyskinesia and has shown
+efficacy in a Phase III clinical trial for dopaminergic psychosis in Parkinson's 
+disease (PD). However, pre-clinical and clinical evidence suggest that, while
+this approach may be effective and well tolerated, there might be a ceiling
+beyond which no further therapeutic benefit might be achieved. There is mounting 
+evidence that 5-HT2A receptors form a functional hetero-complex with metabotropic
+glutamate 2 (mGlu2) receptors, with antagonism of 5-HT2A receptors and activation
+of mGlu2 receptors producing similar effects on the Gi/Gq signalling ratio at the
+intra-cellular level. Based on this interaction between 5-HT2A and mGlu2
+receptors, we hypothesised that activation of mGlu2 receptors would alleviate
+dyskinesia and psychosis in PD. LY-354,740 is a selective mGlu2/3 orthosteric
+agonist that was previously tested in the clinic. In experiments conducted in the
+6-hydroxydopamine (6-OHDA)-lesioned rat and the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned marmoset, we found
+that mGlu2/3 activation with LY-354,740 significantly reduced the expression of
+dyskinesia and psychosis-like behaviours, while simultaneously enhancing l-DOPA
+therapeutic benefit. Moreover, mGlu2/3 activation with LY-354,740 attenuated the 
+development of dyskinesia. These data indicate that activation of mGlu2/3
+receptors is a therapeutic strategy that may provide relief for both motor
+and-non-motor treatment-related complications in PD.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuropharm.2019.107725 
+PMID: 31351976  [Indexed for MEDLINE]
+

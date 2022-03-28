@@ -1,0 +1,103 @@
+
+
+32. Nat Neurosci. 2022 Jan;25(1):106-115. doi: 10.1038/s41593-021-00969-4. Epub 2021 
+Dec 9.
+
+AAV capsid variants with brain-wide transgene expression and decreased liver
+targeting after intravenous delivery in mouse and marmoset.
+
+Goertsen D(#)(1), Flytzanis NC(#)(1), Goeden N(#)(1), Chuapoco MR(1), Cummins
+A(2), Chen Y(3), Fan Y(3), Zhang Q(4)(5), Sharma J(4)(6)(7)(8), Duan Y(9), Wang
+L(3), Feng G(4)(5), Chen Y(3)(10), Ip NY(9)(11)(10), Pickel J(2), Gradinaru
+V(12).
+
+Author information: 
+(1)Division of Biology and Biological Engineering, California Institute of
+Technology, Pasadena, CA, USA.
+(2)National Institute of Mental Health, National Institutes of Health, Bethesda, 
+MD, USA.
+(3)Chinese Academy of Sciences Key Laboratory of Brain Connectome and
+Manipulation, Shenzhen Key Laboratory of Translational Research for Brain
+Diseases, The Brain Cognition and Brain Disease Institute, Shenzhen Institute of 
+Advanced Technology, Chinese Academy of Sciences; Shenzhen-Hong Kong Institute of
+Brain Science-Shenzhen Fundamental Research Institutions, Shenzhen, China.
+(4)McGovern Institute for Brain Research, Department of Brain and Cognitive
+Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA.
+(5)Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard,
+Cambridge, MA, USA.
+(6)Picower Institute of Learning and Memory, Massachusetts Institute of
+Technology, Cambridge, MA, USA.
+(7)Tan & Yang Center for Autism Research, McGovern Institute of Brain Research,
+Massachusetts Institute of Technology, Cambridge, MA, USA.
+(8)Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, 
+Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.
+(9)Division of Life Science, State Key Laboratory of Molecular Neuroscience and
+Molecular Neuroscience Center, Hong Kong University of Science and Technology,
+Clear Water Bay, Kowloon, Hong Kong, China.
+(10)Guangdong Provincial Key Laboratory of Brain Science, Disease and Drug
+Development, Shenzhen-Hong Kong Institute of Brain Science, HKUST Shenzhen
+Research Institute, Shenzhen, Guangdong, China.
+(11)Hong Kong Center for Neurodegenerative Diseases, Hong Kong Science Park, Hong
+Kong, China.
+(12)Division of Biology and Biological Engineering, California Institute of
+Technology, Pasadena, CA, USA. viviana@caltech.edu.
+(#)Contributed equally
+
+Genetic intervention is increasingly being explored as a therapeutic option for
+debilitating disorders of the central nervous system. The safety and efficacy of 
+gene therapies rely upon expressing a transgene in affected cells while
+minimizing off-target expression. Here we show organ-specific targeting of
+adeno-associated virus (AAV) capsids after intravenous delivery, which we
+achieved by employing a Cre-transgenic-based screening platform and sequential
+engineering of AAV-PHP.eB between the surface-exposed AA452 and AA460 of VP3.
+From this selection, we identified capsid variants that were enriched in the
+brain and targeted away from the liver in C57BL/6J mice. This tropism extends to 
+marmoset (Callithrix jacchus), enabling robust, non-invasive gene delivery to the
+marmoset brain after intravenous administration. Notably, the capsids identified 
+result in distinct transgene expression profiles within the brain, with one
+exhibiting high specificity to neurons. The ability to cross the blood-brain
+barrier with neuronal specificity in rodents and non-human primates enables new
+avenues for basic research and therapeutic possibilities unattainable with
+naturally occurring serotypes.
+
+© 2021. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s41593-021-00969-4 
+PMID: 34887588 
+
+
+33. J Comp Pathol. 2021 Nov;189:1-7. doi: 10.1016/j.jcpa.2021.09.002. Epub 2021 Oct
+19.
+
+Immunohistochemical Characterization of a Duodenal Adenocarcinoma with Pulmonary,
+Hepatic and Parapatellar Metastases in a Common Marmoset (Callithrixjacchus).
+
+Peterson C(1), Plunkard J(2), Johanson A(2), Izzi J(2), Gabrielson K(2).
+
+Author information: 
+(1)Department of Molecular and Comparative Pathobiology, Johns Hopkins
+University, Baltimore, Maryland, USA. Electronic address: cpeter52@jhmi.edu.
+(2)Department of Molecular and Comparative Pathobiology, Johns Hopkins
+University, Baltimore, Maryland, USA.
+
+An 11-year-old male common marmoset (Callithrix jacchus) presented with chronic, 
+progressive weight loss and diarrhoea. Response to treatment with nutritional
+supplementation, antibiotics and immunosuppressants was modest and transient, and
+the animal was humanely euthanized. At necropsy, the proximal 8 cm of small
+intestine was diffusely pale with transmural thickening. The lungs contained
+coalescing tan, firm nodules measuring up to 4 mm in diameter. Histological
+examination revealed infiltrative mucinous adenocarcinoma of the duodenum with
+extensive metastases to the lungs, liver and left parapatellar adipose tissue.
+The mucinous matrix secreted by the primary and metastatic lesions was strongly
+periodic acid-Schiff positive. Warthin Starry staining for spirochaetes was
+negative. Pancytokeratin expression was attenuated in the primary tumour as well 
+as in the metastases, which correlated to a poorly differentiated phenotype. To
+the authors' knowledge, this is the first report of a proximal duodenal
+adenocarcinoma with extensive metastatic disease in a common marmoset.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jcpa.2021.09.002 
+PMCID: PMC8669625 [Available on 2022-11-01]
+PMID: 34886977  [Indexed for MEDLINE]
+

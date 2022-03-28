@@ -1,0 +1,85 @@
+
+
+2817. J Mol Endocrinol. 2004 Jun;32(3):703-18.
+
+Cloning of oestrogen receptor beta from Old and New World primates:
+identification of splice variants and functional analysis.
+
+Sierens JE(1), Scobie GA, Wilson J, Saunders PT.
+
+Author information: 
+(1)MRC Human Reproductive Sciences Unit, Centre for Reproductive Biology, The
+Chancellor's Building, 49 Little France Crescent, Edinburgh EH16 4SB, UK.
+
+Oestrogens have a major impact on reproductive function in both males and
+females. Two oestrogen receptor genes known as ERalpha (ESR1NR3A1) and ERbeta
+(ESR2NR3A2) have been cloned. Splice variant isoforms of the ERbeta gene have
+been identified in human, bovine and rodents and it has been suggested that the
+existence of these forms can influence oestrogen responsiveness. In the human,
+splicing of an alternative eighth exon results in the formation of a C-terminal
+variant called hERbetacx, or hERbeta2, but this isoform has not been identified
+in other species. The aim of the present study was to clone ERbeta cDNAs from
+primates so as to determine how closely they resembled the ERbeta isoforms found 
+in the human. The two species studied were the stump-tailed macaque (Macaca
+arctoides), an Old World primate, and the common marmoset (Callithrix jacchus
+jacchus), a New World primate. Full length ERbeta (wild type, ERbeta1) cDNAs were
+cloned from macaque and marmoset; they encoded proteins of similar size to those 
+found in human (59 and 54 kDa, long and short forms respectively) and shared
+significant sequence homology (97.5% in macaque and 93.8% in marmoset) with the
+human peptide sequence. Full length cDNAs homologous to the hERbeta2 variant were
+identified in both primates. Marmoset ERbeta2 was slightly shorter than that of
+human ERbeta2 (54 kDa compared with 55 kDa) and did not contain the peptide
+sequence used to raise an anti-hERbeta2 antibody. All the macaque ERbeta2 cDNAs
+contained 56 bp of intronic sequence which included an in-frame stop codon
+resulting in translation of a truncated protein ( approximately 35 kDa). In all
+three species, truncated, alternatively spliced mRNAs lacking exon 5 were
+isolated on multiple occasions from all tissue extracts. In transient
+transfection assays, ERbeta2-containing constructs were unable to induce
+transcription of an oestrogen response element (ERE) reporter plasmid in the
+presence of oestradiol. ERbeta1 from human, macaque and marmoset exhibited minor 
+differences in their ability to induce transcription of the ERE reporter when
+incubated with different ligands (oestradiol, PPT, DPN,
+5-alpha-androstane-3-beta, 17beta-diol (3betaAdiol), genistein) and this may be
+due to amino acid substitutions within their ligand binding domains. In
+conclusion, we have identified and cloned wild type ERbeta (ERbeta1) from macaque
+and marmoset and demonstrated that splice variant mRNAs homologous to hERbeta2
+are formed in both species. The marmoset monkey, therefore, provides a suitable
+animal model in which to investigate the impact of ERbeta variant expression on
+tissue responsiveness to oestrogens.
+
+DOI: 10.1677/jme.0.0320703 
+PMID: 15171710  [Indexed for MEDLINE]
+
+
+2818. Mol Hum Reprod. 2004 Jul;10(7):481-8. Epub 2004 May 28.
+
+Localization and synthesis of zona pellucida proteins in the marmoset monkey
+(Callithrix jacchus) ovary.
+
+Bogner K(1), Hinsch KD, Nayudu P, Konrad L, Cassara C, Hinsch E.
+
+Author information: 
+(1)Center of Dermatology and Andrology, University of Giessen, Gaffkystr. 14,
+D-35392 Giessen, Germany.
+
+In most species, the zona pellucida (ZP), an extracellular matrix surrounding the
+mammalian oocyte, is composed of three glycoproteins: ZPA, ZPB and ZPC. Based
+mainly on results with mice, the site of zona pellucida biosynthesis has been
+suggested to be exclusively in the oocyte cytoplasm. However, evidence is
+accumulating that among various species cumulus/granulosa cells may be involved. 
+Because knowledge of ZP biosynthesis in primates is lacking, we used the common
+marmoset (Callithrix jacchus) to acquire information about the localization and
+the site of synthesis of ZP proteins in this species. Using antibodies against
+synthetic ZPA and ZPC peptides, immunoreactivity was found in the marmoset ZP and
+in surrounding cumulus cells. Interestingly, the amounts of ZPA and ZPC proteins 
+expressed appeared to differ depending on the stage of folliculogenesis. RT-PCR
+analysis of mRNA from marmoset oocytes and from oocyte-free follicle cells
+revealed expression of ZPA, ZPB and ZPC in oocytes and in follicle cells of
+different stages of marmoset monkey folliculogenesis. Our data suggest that the
+biosynthesis of marmoset ZPA, ZPB and ZPC proteins takes place both in oocytes
+and in follicle cells of different follicle stages, although the abundance of ZP 
+glycoproteins may differ depending on the individual ZP protein.
+
+DOI: 10.1093/molehr/gah074 
+PMID: 15169921  [Indexed for MEDLINE]
+

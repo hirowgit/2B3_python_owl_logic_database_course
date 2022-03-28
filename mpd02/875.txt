@@ -1,0 +1,51 @@
+
+
+875. PLoS One. 2017 May 11;12(5):e0176597. doi: 10.1371/journal.pone.0176597.
+eCollection 2017.
+
+Non-human primate orthologues of TMPRSS2 cleave and activate the influenza virus 
+hemagglutinin.
+
+Zmora P(1), Molau-Blazejewska P(1), Bertram S(1), Walendy-Gnirß K(1), Nehlmeier
+I(1), Hartleib A(1), Moldenhauer AS(1), Konzok S(2), Dehmel S(2), Sewald K(2),
+Brinkmann C(1), Curths C(2)(3), Knauf S(3)(4), Gruber J(5), Mätz-Rensing K(3),
+Dahlmann F(2)(3), Braun A(2), Pöhlmann S(1).
+
+Author information: 
+(1)Infection Biology Unit, German Primate Center, Leibniz-Institute Kellnerweg 4,
+Göttingen, Germany.
+(2)Division Preclinical Pharmacology and In Vitro Toxicology, Fraunhofer
+Institute for Toxicology and Experimental Medicine; Biomedical Research in
+Endstage and Obstructive Lung Disease Hannover (BREATH), Member of the German
+Center for Lung Research, Nikolai-Fuchs-Strasse 1, Hannover, Germany.
+(3)Pathology Unit, German Primate Center, Leibniz-Institute, Kellnerweg 4,
+Göttingen, Germany.
+(4)Workgroup Neglected Tropical Diseases, German Primate Center,
+Leibniz-Institute, Kellnerweg 4, Göttingen, Germany.
+(5)Primate Genetics Laboratory, Junior Research Group "Medical RNA Biology,"
+German Primate Center, Leibniz-Institute, Göttingen, Germany.
+
+The cellular serine protease TMPRSS2, a member of the type II transmembrane
+serine protease (TTSP) family, cleaves and activates the hemagglutinin of
+influenza A viruses (FLUAV) in cell culture and is essential for spread of
+diverse FLUAV in mice. Non-human primates (NHP), in particular rhesus and
+cynomolgus macaques, serve as animal models for influenza and experimental FLUAV 
+infection of common marmosets has recently also been reported. However, it is
+currently unknown whether the NHP orthologues of human TMPRSS2 cleave and
+activate FLUAV hemagglutinin and contribute to viral spread in respiratory
+tissue. Here, we cloned and functionally analyzed the macaque and marmoset
+orthologues of human TMPRSS2. In addition, we analyzed the macaque orthologues of
+human TMPRSS4 and HAT, which also belong to the TTSP family. We found that all
+NHP orthologues of human TMPRSS2, TMPRSS4 and HAT cleave and activate HA upon
+directed expression and provide evidence that endogenous TMPRSS2 is expressed in 
+the respiratory epithelium of rhesus macaques. Finally, we demonstrate that a
+serine protease inhibitor active against TMPRSS2 suppresses FLUAV spread in
+precision-cut lung slices of human, macaque and marmoset origin. These results
+indicate that FLUAV depends on serine protease activity for spread in diverse NHP
+and in humans. Moreover, our findings suggest that macaques and marmosets may
+serve as models to study FLUAV activation by TMPRSS2 in human patients.
+
+DOI: 10.1371/journal.pone.0176597 
+PMCID: PMC5426610
+PMID: 28493964  [Indexed for MEDLINE]
+

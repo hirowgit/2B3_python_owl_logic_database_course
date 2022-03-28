@@ -1,0 +1,67 @@
+
+
+2287. Int J Exp Pathol. 2008 Jun;89(3):171-9. doi: 10.1111/j.1365-2613.2008.00581.x.
+
+Experimental respiratory anthrax infection in the common marmoset (Callithrix
+jacchus).
+
+Lever MS(1), Stagg AJ, Nelson M, Pearce P, Stevens DJ, Scott EA, Simpson AJ,
+Fulop MJ.
+
+Author information: 
+(1)Biomedical Sciences, Defence Science and Technology Laboratory (Dstl), Porton 
+Down, Salisbury, Wiltshire, UK. mslever@dstl.gov.uk
+
+Inhalational anthrax is a rare but potentially fatal infection in man. The common
+marmoset (Callithrix jacchus) was evaluated as a small non-human primate (NHP)
+model of inhalational anthrax infection, as an alternative to larger NHP species.
+The marmoset was found to be susceptible to inhalational exposure to Bacillus
+anthracis Ames strain. The pathophysiology of infection following inhalational
+exposure was similar to that previously reported in the rhesus and cynomolgus
+macaque and humans. The calculated LD(50) for B. anthracis Ames strain in the
+marmoset was 1.47 x 10(3) colony-forming units, compared with a published LD(50) 
+of 5.5 x 10(4) spores in the rhesus macaque and 4.13 x 10(3) spores in the
+cynomolgus macaque. This suggests that the common marmoset is an appropriate
+alternative NHP and will be used for the evaluation of medical countermeasures
+against respiratory anthrax infection.
+
+DOI: 10.1111/j.1365-2613.2008.00581.x 
+PMCID: PMC2525775
+PMID: 18460069  [Indexed for MEDLINE]
+
+
+2288. Nature. 2008 Jun 19;453(7198):1102-6. doi: 10.1038/nature06910. Epub 2008 May 4.
+
+Neural substrates of vocalization feedback monitoring in primate auditory cortex.
+
+Eliades SJ(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA.
+seliades@jhu.edu
+
+Vocal communication involves both speaking and hearing, often taking place
+concurrently. Vocal production, including human speech and animal vocalization,
+poses a number of unique challenges for the auditory system. It is important for 
+the auditory system to monitor external sounds continuously from the acoustic
+environment during speaking despite the potential for sensory masking by
+self-generated sounds. It is also essential for the auditory system to monitor
+feedback of one's own voice. This self-monitoring may play a part in
+distinguishing between self-generated or externally generatedauditory inputs and 
+in detecting errors in our vocal production. Previous work in humans and other
+animals has demonstrated that the auditory cortex is largely suppressed during
+speaking or vocalizing. Despite the importance of self-monitoring, the underlying
+neural mechanisms in the mammalian brain, in particular the role of
+vocalization-induced suppression, remain virtually unknown. Here we show that
+neurons in the auditory cortex of marmoset monkeys (Callithrix jacchus) are
+sensitive to auditory feedback during vocal production, and that changes in the
+feedback alter the coding properties of these neurons. Furthermore, we found that
+the previously described cortical suppression during vocalization actually
+increased the sensitivity of these neurons to vocal feedback. This heightened
+sensitivity to vocal feedback suggests that these neurons may have an important
+role in auditory self-monitoring.
+
+DOI: 10.1038/nature06910 
+PMID: 18454135  [Indexed for MEDLINE]
+

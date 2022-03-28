@@ -1,0 +1,84 @@
+
+
+944. Behav Pharmacol. 2017 Jun;28(4):313-317. doi: 10.1097/FBP.0000000000000275.
+
+Effects of the 5-HT1A receptor agonists buspirone and 8-OH-DPAT on pupil size in 
+common marmosets.
+
+Kotani M(1), Urushino N, Natsutani I, Ogi Y, Ikeda K.
+
+Author information: 
+(1)aHigher Brain Function Research bBiomarker Group, Drug Development Research
+Laboratories cDMPK Group I, Preclinical Research Laboratories, Drug Research
+Division, Sumitomo Dainippon Pharma Co Ltd., Osaka, Japan.
+
+As pupil size is affected by psychotropic drugs in all mammals, it has been used 
+as a well-established clinical indicator for the preclinical and clinical
+development of novel drugs. It has been reported that activation of the serotonin
+(5-HT)1A receptor differently affects pupil response in rodents (mydriasis) and
+humans (miosis). Thus, it is important to establish a quantitative system for
+measuring pupil size using other species, such as nonhuman primates. Common
+marmosets have recently attracted a great deal of attention as suitable
+experimental animals in the psychoneurological field because of handling ease
+compared with other nonhuman primates and the requirement for small amounts of
+test drugs. In this study, we constructed a system for measuring changes in pupil
+size using an infrared eye-tracking camera and evaluated the effects on pupil
+size of the 5-HT1A receptor agonists buspirone, 8-OH-DPAT and buspirone active
+metabolite 1-(2-pyrimidinyl) piperazine. Our results show that both buspirone and
+8-OH-DPAT significantly decrease pupil size in a dose-dependent manner. The
+5-HT1A receptor antagonist WAY 100635 completely blocked both buspirone and
+8-OH-DPAT-induced miosis, whereas 1-(2-pyrimidinyl) piperazine had no effect on
+pupil size. These results suggest that measurement of pupil size may be a useful 
+biomarker for predicting the pharmacodynamics of new 5-HT1A receptor agonists.
+
+DOI: 10.1097/FBP.0000000000000275 
+PMID: 27922541  [Indexed for MEDLINE]
+
+
+945. Cryobiology. 2017 Feb;74:93-102. doi: 10.1016/j.cryobiol.2016.11.009. Epub 2016
+Dec 2.
+
+Cryobiological parameters of multipotent stromal cells obtained from different
+sources.
+
+Lauterboeck L(1), Wolkers WF(2), Glasmacher B(3).
+
+Author information: 
+(1)Institute for Multiphase Processes, Leibniz Universität Hannover, Hannover,
+Germany. Electronic address: lauterboeck@imp.uni-hannover.de.
+(2)Institute for Multiphase Processes, Leibniz Universität Hannover, Hannover,
+Germany. Electronic address: wolkers@imp.uni-hannover.de.
+(3)Institute for Multiphase Processes, Leibniz Universität Hannover, Hannover,
+Germany. Electronic address: glasmacher@imp.uni-hannover.de.
+
+Stem cells are important for regenerative medicine mainly due to their
+multilineage differentiation capacity. However, the cells rapidly loose this
+capability during culturing. Cryopreservation preserves the differentiation
+potential of the cells, until they are needed. In this study, specific cell
+properties of multipotent stromal cells (MSCs), from the common marmoset monkey
+Callithrix jacchus MSCs derived from amnion (Am) and bone marrow (Bm) were
+studied in order to predict optimal cooling rates for cryopreservation. Cell
+volume behaviour in anisotonic media, hydraulic membrane permeability at supra as
+well as subzero temperatures, and time point of intracellular ice formation (IIF)
+were investigated by Coulter Counter and cryomicroscopy. Cryopreservation outcome
+was studied using the predicted and experimentally determined cooling rate
+followed by 24 h re-cultivation. Little differences in osmotically inactive
+volume were found between amnion (0.27 × Vo) and bone marrow (0.28 × Vo) derived 
+MSCs. The activation energy for water transport at suprazero temperature was
+found to be similar for both cell types; 4.4 ± 0.2 and 5.0 ± 0.15 kcal mol-1 for 
+amnion and bone marrow derived MSCs, respectively. At subzero temperatures in the
+absence of dimethyl sulfoxide (Me2SO), the activation energy for water transport 
+increased to 24.8 ± 3 kcal mol-1 and 27.4 ± 0.9 kcal mol-1 for Am and BmMSCs
+respectively. In the presence of Me2SO, activation energies were found to be
+11.6 ± 0.3 kcal mol-1 and 19.5 ± 0.5 kcal mol-1 respectively. Furthermore, Me2SO 
+was found to decrease the incidence of intracellular ice formation. The predicted
+optimal cooling rates of 11.6 ± 0.9 °C/min (AmMSCs) and 16.3 ± 0.5 °C/min
+(BmMSCs) resulted in similar post-thaw viability values compared to the
+experimentally determined optimal cooling profiles of 7.5 °C/min to -30 °C,
+followed by 3 °C/min to -80 °C.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cryobiol.2016.11.009 
+PMID: 27916562  [Indexed for MEDLINE]
+

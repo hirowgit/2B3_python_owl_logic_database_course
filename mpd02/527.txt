@@ -1,0 +1,51 @@
+
+
+527. Genome Biol Evol. 2019 Apr 1;11(4):1105-1116. doi: 10.1093/gbe/evz062.
+
+Amplification Dynamics of Platy-1 Retrotransposons in the Cebidae Platyrrhine
+Lineage.
+
+Storer JM(1), Mierl JR(1), Brantley SA(1), Threeton B(1), Sukharutski Y(1),
+Rewerts LC(1), St Romain CP(1), Foreman MM(1), Baker JN(1), Walker JA(1), Orkin
+JD(2), Melin AD(2)(3), Phillips KA(4)(5), Konkel MK(1)(6), Batzer MA(1).
+
+Author information: 
+(1)Department of Biological Sciences, Louisiana State University.
+(2)Department of Anthropology and Archaeology & Department of Medical Genetics,
+University of Calgary, Alberta, Canada.
+(3)Alberta Children's Hospital Research Institute, N.W. Calgary, Alberta, Canada.
+(4)Department of Psychology, Trinity University.
+(5)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, Texas.
+(6)Department of Genetics & Biochemistry, Clemson University.
+
+Platy-1 elements are Platyrrhine-specific, short interspersed elements originally
+discovered in the Callithrix jacchus (common marmoset) genome. To date, only the 
+marmoset genome has been analyzed for Platy-1 repeat content. Here, we report
+full-length Platy-1 insertions in other New World monkey (NWM) genomes (Saimiri
+boliviensis, squirrel monkey; Cebus imitator, capuchin monkey; and Aotus
+nancymaae, owl monkey) and analyze the amplification dynamics of lineage-specific
+Platy-1 insertions. A relatively small number of full-length and lineage-specific
+Platy-1 elements were found in the squirrel, capuchin, and owl monkey genomes
+compared with the marmoset genome. In addition, only a few older Platy-1
+subfamilies were recovered in this study, with no Platy-1 subfamilies younger
+than Platy-1-6. By contrast, 62 Platy-1 subfamilies were discovered in the
+marmoset genome. All of the lineage-specific insertions found in the squirrel and
+capuchin monkeys were fixed present. However, ∼15% of the lineage-specific
+Platy-1 loci in Aotus were polymorphic for insertion presence/absence. In
+addition, two new Platy-1 subfamilies were identified in the owl monkey genome
+with low nucleotide divergences compared with their respective consensus
+sequences, suggesting minimal ongoing retrotransposition in the Aotus genus and
+no current activity in the Saimiri, Cebus, and Sapajus genera. These comparative 
+analyses highlight the finding that the high number of Platy-1 elements
+discovered in the marmoset genome is an exception among NWM analyzed thus far,
+rather than the rule. Future studies are needed to expand upon our knowledge of
+Platy-1 amplification in other NWM genomes.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the
+Society for Molecular Biology and Evolution.
+
+DOI: 10.1093/gbe/evz062 
+PMCID: PMC6464705
+PMID: 30888417  [Indexed for MEDLINE]
+

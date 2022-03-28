@@ -1,0 +1,70 @@
+
+
+2453. J Virol. 2007 Mar;81(5):2401-17. Epub 2006 Dec 6.
+
+Intracellular Tat of human immunodeficiency virus type 1 activates lytic cycle
+replication of Kaposi's sarcoma-associated herpesvirus: role of JAK/STAT
+signaling.
+
+Zeng Y(1), Zhang X, Huang Z, Cheng L, Yao S, Qin D, Chen X, Tang Q, Lv Z, Zhang
+L, Lu C.
+
+Author information: 
+(1)Department of Microbiology and Immunology, Nanjing Medical University, Nanjing
+210029, People's Republic of China.
+
+Human immunodeficiency virus type 1 (HIV-1) infection significantly increases the
+risk of Kaposi's sarcoma (KS) occurrence in individuals infected with Kaposi's
+sarcoma-associated herpesvirus (KSHV). KSHV infection appears to be necessary but
+not sufficient for KS development without other cofactors. However, factors that 
+facilitate KSHV to cause KS have not been well defined. Previously, we determined
+that human herpesvirus 6 was one of the cofactors that activated lytic cycle
+replication of KSHV. Here, we demonstrate that the Tat protein of HIV-1 is a
+potentially important factor in the pathogenesis of KS, as determined by
+production of lytic phase mRNA transcripts and viral proteins in BCBL-1 cells.
+Mechanistic studies showed ectopic expression of Tat induced the production of
+human interleukin-6 (huIL-6) and its receptor (huIL-6Ra) and activated STAT3
+signaling. Neutralization of huIL-6 or huIL-6R or inhibition of STAT3 signaling
+enhanced the replication. In addition, IL-4/STAT6 signaling also partially
+contributed to Tat-induced KSHV replication. These findings suggest that Tat may 
+participate in KS pathogenesis by inducing KSHV replication and increasing KSHV
+viral load. These data also suggest that JAK/STAT signaling may be of therapeutic
+value in AIDS-related KS patients.
+
+DOI: 10.1128/JVI.02024-06 
+PMCID: PMC1865948
+PMID: 17151125  [Indexed for MEDLINE]
+
+
+2454. Biol Lett. 2005 Jun 22;1(2):223-6.
+
+The ecology and evolution of patience in two New World monkeys.
+
+Stevens JR(1), Hallinan EV, Hauser MD.
+
+Author information: 
+(1)Department of Psychology and Primate Cognitive Neuroscience Laboratory,
+Harvard University, Cambridge, MA 02138, USA. jstevens@wjh.harvard.edu
+
+Decision making often involves choosing between small, short-term rewards and
+large, long-term rewards. All animals, humans included, discount future
+rewards--the present value of delayed rewards is viewed as less than the value of
+immediate rewards. Despite its ubiquity, there exists considerable but
+unexplained variation between species in their capacity to wait for rewards--that
+is, to exert patience or self-control. Using two closely related primates--common
+marmosets (Callithrix jacchus) and cotton-top tamarins (Saguinus oedipus)--we
+uncover a variable that may explain differences in how species discount future
+rewards. Both species faced a self-control paradigm in which individuals chose
+between taking an immediate small reward and waiting a variable amount of time
+for a large reward. Under these conditions, marmosets waited significantly longer
+for food than tamarins. This difference cannot be explained by life history,
+social behaviour or brain size. It can, however, be explained by feeding ecology:
+marmosets rely on gum, a food product acquired by waiting for exudate to flow
+from trees, whereas tamarins feed on insects, a food product requiring impulsive 
+action. Foraging ecology, therefore, may provide a selective pressure for the
+evolution of self-control.
+
+DOI: 10.1098/rsbl.2004.0285 
+PMCID: PMC1626214
+PMID: 17148172  [Indexed for MEDLINE]
+

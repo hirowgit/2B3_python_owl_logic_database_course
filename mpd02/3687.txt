@@ -1,0 +1,35 @@
+
+
+3687. Magn Reson Med. 1997 Apr;37(4):530-6.
+
+Hepatic hemosiderosis in non-human primates: quantification of liver iron using
+different field strengths.
+
+Bulte JW(1), Miller GF, Vymazal J, Brooks RA, Frank JA.
+
+Author information: 
+(1)Laboratory of Diagnostic Radiology Research, National Institutes of Health,
+Bethesda, MD 20892-1074, USA.
+
+Using a non-human primate model of idiopathic hemochromatosis,
+hemosiderin-induced T2 shortening of the liver was assessed at nine different
+field strengths over a range of 0.05 to 1.5 Tesla. The 1/T2 values increased
+linearly with field strength, with all specimens having approximately the same
+zero-field intercept. The slope of the field increase, termed "field-dependent T2
+proton relaxation enhancement (PRE)", appeared to be proportional to the
+chemically determined tissue iron content, viz. 10.8 s-1T-1(mg Fe/g wet
+tissue)-1. The correlation between iron content and field-dependent T2 PRE (r =
+0.94) was better than the correlation between iron content and 1/T2 values
+obtained at single field strengths. For livers containing > or = 2 mg Fe/g wet
+weight, biexponential T2 relaxation behavior emerged at higher field strengths,
+with the short T2 component (intracellular water) exhibiting a linear dependence 
+of 1/T2 on field, while T2 of the long component (extracellular/sinusoidal water)
+was nearly field-independent. After maceration of the specimens, all T2
+relaxation curves became monoexponential, including those for high iron content
+at high field strengths. The present data suggest that the use of double-field MR
+imaging to assess the field-dependent T2 PRE has potential for specific
+quantification of (liver) tissue iron stores.
+
+DOI: 10.1002/mrm.1910370409 
+PMID: 9094074  [Indexed for MEDLINE]
+

@@ -1,0 +1,78 @@
+
+
+2774. Epilepsia. 2004 Oct;45(10):1240-7.
+
+fMRI of generalized absence status epilepticus in conscious marmoset monkeys
+reveals corticothalamic activation.
+
+Tenney JR(1), Marshall PC, King JA, Ferris CF.
+
+Author information: 
+(1)Center for Comparative Neuroimaging, Department of Psychiatry, University of
+Massachusetts Medical School, Worcester, Massachusetts, USA.
+jeffrey.tenney@umassmed.edu
+
+PURPOSE: A nonhuman primate model of generalized absence status epilepticus was
+developed for use in functional magnetic resonance imaging (fMRI) experiments to 
+elucidate the brain mechanisms underlying this disorder.
+METHODS: Adult male marmoset monkeys (Callithrix jacchus) were treated with
+gamma-butyrolactone (GBL) to induce prolonged absence seizures, and the resulting
+spike-wave discharges (SWDs) were analyzed to determine the similarity to the
+3-Hz SWDs that characterize the disorder. In addition,
+blood-oxygenation-level-dependent (BOLD) fMRI was measured at 4.7 Tesla after
+absence seizure induction with GBL.
+RESULTS: Electroencephalographic recordings during imaging showed 3-Hz SWDs
+typical of human absence seizures. This synchronized EEG pattern started within
+15 to 20 min of drug administration and persisted for >60 min. In addition,
+pretreatment with the antiepileptic drug, ethosuximide (ESM), blocked the
+behavioral and EEG changes caused by GBL. Changes in BOLD signal intensity in the
+thalamus and sensorimotor cortex correlated with the onset of 3-Hz SWDs. The
+change in BOLD signal intensity was bilateral but heterogeneous, affecting some
+brain areas more than others. No significant negative BOLD changes were seen.
+CONCLUSIONS: The BOLD fMRI data obtained in this marmoset monkey model of absence
+status epilepticus shows activation within the thalamus and cortex.
+
+DOI: 10.1111/j.0013-9580.2004.21504.x 
+PMID: 15461678  [Indexed for MEDLINE]
+
+
+2775. Endocrinology. 2005 Jan;146(1):365-74. Epub 2004 Sep 30.
+
+Male marmoset monkeys express an adrenal fetal zone at birth, but not a zona
+reticularis in adulthood.
+
+Pattison JC(1), Abbott DH, Saltzman W, Nguyen AD, Henderson G, Jing H, Pryce CR, 
+Allen AJ, Conley AJ, Bird IM.
+
+Author information: 
+(1)Perinatal Research Laboratories, University of Wisconsin-Madison, Madison,
+Wisconsin 53715, USA.
+
+Neonatal human males produce high levels of dehydroepiandrosterone (DHEA) and its
+sulfo-conjugated form (DS) that decline within a few months of birth, due to
+regression of the adrenal fetal zone (FZ). Adult male humans and rhesus monkeys
+produce C19 steroids in abundance from the adrenal zona reticularis (ZR). Male
+marmoset monkeys produce DS at birth, but unlike humans and rhesus monkeys, do
+not produce comparable amounts of DHEA and DS in adulthood. To determine whether 
+male marmosets express a functional ZR in adulthood, we examined adult and
+neonatal male marmosets for the presence of a ZR and FZ, respectively. Exogenous 
+ACTH failed to stimulate DHEA or DS in adults, and dexamethasone treatment failed
+to suppress DHEA and DS, although cortisol levels changed as expected. In
+steroidogenic tissues, the key proteins necessary to synthesize C19 steroids from
+pregnenolone are P450c17, 3beta-hydroxysteroid dehydrogenase (3beta-HSD),
+nicotinamide adenine dinucleotide phosphate (reduced) oxido-reductase cytochrome 
+P450 (reductase), and cytochromeb5 (cytb5). Adult adrenal cross sections showed
+P450c17 and reductase protein expression throughout the cortex but showed no
+expected decrease in 3beta-HSD and increase in cytb5 in the innermost region.
+Western analysis confirmed these data, demonstrating comparable P450c17
+expression to rhesus monkeys, but not cytb5. HPLC analysis revealed similar
+17alpha-hydroxylase action on pregnenolone for adult marmoset and rhesus adrenal 
+microsomes but greatly diminished 17,20-lyase activity in marmosets. Neonatal
+marmoset adrenals exhibited staining indicative of a putative FZ (with P450c17,
+reduced 3beta-HSD and increased cytb5). We conclude that neonatal marmosets
+exhibit a C19 steroid-secreting FZ similar to humans, but adult males fail to
+acquire a functional ZR.
+
+DOI: 10.1210/en.2004-0689 
+PMID: 15459122  [Indexed for MEDLINE]
+

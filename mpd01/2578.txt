@@ -1,0 +1,70 @@
+
+
+2578. Genes Genet Syst. 2005 Dec;80(6):415-22.
+
+Analysis of newly identified low copy AluYj subfamily.
+
+Park ES(1), Huh JW, Kim TH, Kwak KD, Kim W, Kim HS.
+
+Author information: 
+(1)Division of Biological Sciences, College of Natural Sciences, Pusan National
+University, Buscan, Korea.
+
+Human specific AluY elements were investigated by comparative analysis between
+human chromosome 21 and chimpanzee chromosome 22. Human specific AluY element was
+identified on human chromosome 21q22 (accession no. AL163282), and then that was 
+a new member of AluYj subfamily. From the bioinformatic analysis, AluYj subfamily
+was investigated in human whole genome using AluYj4 consensus sequence (accession
+no. AL163282). Thirteen members of the AluYj4 elements (4 diagnostic mutations)
+and eight members of the AluYj3 elements (3 diagnostic mutations) were identified
+with distinct diagnostic mutation from AluY consensus sequence. The results of
+the molecular clock calculation of non-CpG region substitution indicated that,
+AluYj4 elements (2.1 million years old) may be proliferated more recent time than
+AluYj3 elements (14.1 million years old). For the verification of recent
+insertion time, four of AluYj4 elements (ch2-AC017101, ch10-AC044786,
+ch12-AC007656 and ch21-AL163282) from human chromosomes 2, 10, 12, 21 were
+analyzed by PCR amplification using various human and primate DNA samples.
+Though, no polymorphism was detected in human population, we identified the new
+AluYj4 subfamily as the human specific elements.
+
+DOI: 10.1266/ggs.80.415 
+PMID: 16501310  [Indexed for MEDLINE]
+
+
+2579. Biol Psychiatry. 2006 Oct 15;60(8):843-9. Epub 2006 Feb 24.
+
+Diminished cortisol levels in subordinate female marmosets are associated with
+altered central drive to the hypothalamic-pituitary-adrenal axis.
+
+Saltzman W(1), Hogan BK, Abbott DH.
+
+Author information: 
+(1)Department of Biology and Neuroscience Graduate Program, University of
+California, Riverside, California 92521, USA. saltzman@ucr.edu
+
+BACKGROUND: Female marmosets offer a promising primate model of stress-related
+hypocortisolism, as they undergo chronic reductions in circulating cortisol after
+becoming subordinate in a social group. In this study, we treated dominant and
+subordinate female marmosets with the cortisol synthesis inhibitor metyrapone and
+corticotropin-releasing factor (CRF) to characterize the effects of subordination
+on central regulation of the hypothalamic-pituitary-adrenal (HPA) axis.
+METHODS: Seven dominant and six subordinate female marmosets received CRF (6
+microg/kg, intravenous [IV]), following pretreatment with metyrapone (75 mg/kg,
+by mouth [PO]) or water. Plasma adrenocorticotropic hormone (ACTH) and cortisol
+concentrations were determined before metyrapone or water treatment and before, 1
+hour after, and 2 hours after CRF treatment.
+RESULTS: Following metyrapone treatment, subordinates had similar cortisol levels
+to dominants but significantly higher ACTH levels. During CRF challenges,
+cortisol concentrations were lower and ACTH concentrations higher in
+subordinates, although net integrated responses to CRF did not differ.
+Cortisol-to-ACTH ratios were consistently lower in subordinates.
+CONCLUSIONS: These results confirm previous findings of low cortisol
+concentrations and blunted adrenal responsiveness in subordinates and suggest
+that when differences in cortisol levels are eliminated, subordinates exhibit
+exaggerated hypothalamic drive to the pituitary. These neuroendocrine alterations
+in subordinate marmosets resemble those in posttraumatic stress disorder patients
+and adult survivors of child abuse.
+
+DOI: 10.1016/j.biopsych.2005.12.006 
+PMID: 16499881  [Indexed for MEDLINE]
+

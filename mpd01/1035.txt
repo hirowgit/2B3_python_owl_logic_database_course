@@ -1,0 +1,95 @@
+
+
+1035. Biochem Pharmacol. 2016 Dec 1;121:1-7. doi: 10.1016/j.bcp.2016.06.008. Epub 2016 
+Jun 16.
+
+Utility of non-human primates in drug development: Comparison of non-human
+primate and human drug-metabolizing cytochrome P450 enzymes.
+
+Uno Y(1), Uehara S(2), Yamazaki H(3).
+
+Author information: 
+(1)Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama 642-0017, Japan.
+(2)Showa Pharmaceutical University, Machida, Tokyo 194-8543, Japan.
+(3)Showa Pharmaceutical University, Machida, Tokyo 194-8543, Japan. Electronic
+address: hyamazak@ac.shoyaku.ac.jp.
+
+Cynomolgus monkeys (Macaca fascicularis, an Old World Monkey) have been widely
+used as a non-human primate model in preclinical studies because of their genetic
+and physiological similarity to humans. This trend has been followed by common
+marmoset (Callithrix jacchus, a New World Monkey). However, drug-metabolism
+properties in these non-human primates have not been fully understood due to
+limited information on cytochrome P450 (P450) enzymes, major drug-metabolizing
+enzymes in humans. Multiple forms of cynomolgus monkey P450 enzymes have been
+identified and characterized in comparison to those of humans, including a
+cynomolgus monkey specific form, P450 2C76. Similarly, marmoset P450 1A/B, 2A,
+2C, 2D, and 4F enzymes were recently identified and characterized to understand
+drug metabolism properties. In this research update, updates for marmoset,
+cynomolgus monkey, and human P450 cDNAs are provided. Marmoset and cynomolgus
+monkey P450 enzymes showed high sequence homology to their human counterparts and
+generally had similar substrate recognition functionality to human P450 enzymes; 
+however, they also possibly contribute to limited specific differences in drug
+oxidative metabolism partly due to small differences in amino acid residues.
+These findings provide a foundation for successful use of non-human primates as
+preclinical models and will help to further understand molecular mechanisms of
+human P450 function. In addition to the P450 enzymes, flavin-containing
+monooxygenases, another monooxygenase family, in these non-human primates have
+been found to be involved in the oxidation of a variety of compounds associated
+with pharmacological and/or toxicological effects in humans and are also
+described.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2016.06.008 
+PMID: 27318253  [Indexed for MEDLINE]
+
+
+1036. Bioinformatics. 2016 Jun 15;32(12):i369-i377. doi: 10.1093/bioinformatics/btw273.
+
+SHARAKU: an algorithm for aligning and clustering read mapping profiles of deep
+sequencing in non-coding RNA processing.
+
+Tsuchiya M(1), Amano K(1), Abe M(1), Seki M(1), Hase S(1), Sato K(1), Sakakibara 
+Y(1).
+
+Author information: 
+(1)Department of Biosciences and Informatics, Keio University, Yokohama 161-0031,
+Japan.
+
+MOTIVATION: Deep sequencing of the transcripts of regulatory non-coding RNA
+generates footprints of post-transcriptional processes. After obtaining sequence 
+reads, the short reads are mapped to a reference genome, and specific mapping
+patterns can be detected called read mapping profiles, which are distinct from
+random non-functional degradation patterns. These patterns reflect the maturation
+processes that lead to the production of shorter RNA sequences. Recent
+next-generation sequencing studies have revealed not only the typical maturation 
+process of miRNAs but also the various processing mechanisms of small RNAs
+derived from tRNAs and snoRNAs.
+RESULTS: We developed an algorithm termed SHARAKU to align two read mapping
+profiles of next-generation sequencing outputs for non-coding RNAs. In contrast
+with previous work, SHARAKU incorporates the primary and secondary sequence
+structures into an alignment of read mapping profiles to allow for the detection 
+of common processing patterns. Using a benchmark simulated dataset, SHARAKU
+exhibited superior performance to previous methods for correctly clustering the
+read mapping profiles with respect to 5'-end processing and 3'-end processing
+from degradation patterns and in detecting similar processing patterns in
+deriving the shorter RNAs. Further, using experimental data of small RNA
+sequencing for the common marmoset brain, SHARAKU succeeded in identifying the
+significant clusters of read mapping profiles for similar processing patterns of 
+small derived RNA families expressed in the brain.
+AVAILABILITY AND IMPLEMENTATION: The source code of our program SHARAKU is
+available at http://www.dna.bio.keio.ac.jp/sharaku/, and the simulated dataset
+used in this work is available at the same link. Accession code: The sequence
+data from the whole RNA transcripts in the hippocampus of the left brain used in 
+this work is available from the DNA DataBank of Japan (DDBJ) Sequence Read
+Archive (DRA) under the accession number DRA004502.
+CONTACT: yasu@bio.keio.ac.jp
+SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics
+online.
+
+© The Author 2016. Published by Oxford University Press.
+
+DOI: 10.1093/bioinformatics/btw273 
+PMCID: PMC4908357
+PMID: 27307639  [Indexed for MEDLINE]
+

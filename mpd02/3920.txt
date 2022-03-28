@@ -1,0 +1,27 @@
+
+
+3920. Mamm Genome. 1995 Apr;6(4):257-62.
+
+Identifying genes within microdissected genomic DNA: isolation of brain expressed
+genes from a translocation region associated with inherited mental illness.
+
+Brookes AJ(1), Slorach EM, Evans KL, Thomson ML, Gosden CM, Muir WJ, Porteous DJ.
+
+Author information: 
+(1)Molecular Genetics Section, MRC Human Genetics Unit, Western General Hospital,
+Edinburgh, UK.
+
+An improved protocol has been developed for physical enrichment of cDNA sequences
+by hybridization to genomic DNA. When applied to microdissection recombinants
+derived from a translocation breakpoint region associated with inherited mental
+illness, a single cycle of the procedure permitted enriched cDNAs to be
+visualized directly by agarose gel electrophoresis. Hybridization screening of a 
+library of clones derived from the enriched cDNAs, employing the genomic resource
+as a probe, led to the identification of six novel gene fragments. This general
+approach to the isolation of regionally encoded genes could be applied to any
+subchromosomal interval as a first step towards global transcription map
+construction.
+
+DOI: 10.1007/BF00352412 
+PMID: 7613030  [Indexed for MEDLINE]
+

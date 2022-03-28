@@ -1,0 +1,82 @@
+
+
+3056. Arch Toxicol. 2002 Jun;76(5-6):360-6. Epub 2002 Apr 11.
+
+Low doses of 2,3,7,8-tetrachlorodibenzo- p-dioxin increase transforming growth
+factor beta and cause myocardial fibrosis in marmosets ( Callithrix jacchus).
+
+Riecke K(1), Grimm D, Shakibaei M, Kossmehl P, Schulze-Tanzil G, Paul M,
+Stahlmann R.
+
+Author information: 
+(1)Institute of Clinical Pharmacology and Toxicology (Dept. of Toxicology),
+Benjamin Franklin Medical Center, Freie Universität Berlin, Garystrasse 5, 14195 
+Berlin, Germany.
+
+Epidemiological studies have suggested an association between exposure to dioxins
+and cardiovascular morbidity and mortality. However, cardiotoxic effects of low
+doses of 2,3,7,8-tetrachlorodibenzo- p-dioxin (TCDD) in animals have not been
+reported so far. We studied the hearts of male marmosets ( Callithrix
+jacchus)after treatment with single subcutaneous doses of 1, 10 or 100 ng TCDD/kg
+body weight or vehicle (toluene/DMSO 1+2 v/v, 100 microl/kg body weight). The
+animals were killed 2 or 4 weeks after treatment. Tissue samples of left
+ventricular myocardium were stained with picrosirius red and examined
+histologically along with quantitative image analysis. Extracellular matrix
+proteins were additionally analysed by western blotting. Monkeys showed no overt 
+signs of toxicity nor did their relative heart weights differ significantly
+depending on treatment. Histology revealed an increase of picrosirius
+red-positive area above control values in 2 of 4 (1 ng TCDD/kg body weight), 6 of
+12 (10 ng/kg) and 6 of 10 (100 ng/kg) marmosets. Western blotting confirmed these
+histological findings showing an increase of collagen, fibronectin and laminin in
+the hearts of TCDD-treated animals. Western blotting additionally showed an
+increased concentration of transforming growth factor beta1 (TGF-beta1) as well
+as TGF-beta receptor type I which could be a functional link to the effects on
+extracellular matrix. Our findings might explain the association of TCDD exposure
+with increased cardiovascular mortality observed in epidemiological studies and
+should stimulate further research on the role of changes in the extracellular
+matrix in the toxic effects of dioxins and related substances on other organs.
+
+DOI: 10.1007/s00204-002-0338-6 
+PMID: 12107654  [Indexed for MEDLINE]
+
+
+3057. J Neurosci. 2002 Jul 1;22(13):5705-12.
+
+Functional domains in dorsal striatum of the nonhuman primate are defined by the 
+dynamic behavior of dopamine.
+
+Cragg SJ(1), Hille CJ, Greenfield SA.
+
+Author information: 
+(1)University Department of Pharmacology, Oxford OX1 3QT, United Kingdom.
+stephanie.cragg@pharm.ox.ac.uk
+
+The dorsal striatum comprises a continuum of distinct functional domains, limbic,
+associative, and sensorimotor. In the primate it exclusively subdivides further
+into two nuclei, the putamen and caudate. Dopamine (DA) transmission is
+differentially affected between these nuclei in neurodegenerative diseases such
+as Parkinson's and by psychostimulants such as cocaine. Because rodent systems
+can offer only limited insight into DA systems of the human brain, a fuller
+appreciation of DA transmission and its role in dysfunction requires direct study
+in primates. DA behavior was explored in the major functional domains of the
+caudate nucleus and compared with the putamen, using fast-scan cyclic voltammetry
+in striatal sections from the marmoset (Callithrix jacchus). There was
+domain-specific variation in extracellular DA transients [i.e., concentration
+([DA](o)) released by a single stimulus and the rate maximum of DA uptake,
+V(max)]. Across nuclei, functional rather than anatomical regions were
+differentiated by these dynamics. The largest, fastest DA transients were at
+motor-associated loci. Evoked [DA](o) at physiological frequencies was
+differently frequency-sensitive between functional domains but not between
+anatomical nuclei. In contrast, presynaptic depression was not an index of
+regional differentiation, recovering with similar kinetics at all loci. Within a 
+given functional domain of dorsal striatum, the dynamics of DA release and uptake
+are similar for the putamen and the caudate nucleus. Conversely, distinct
+functional domains are defined by these DA dynamics, in a manner more marked in
+primates than in rodents. These data from the primate brain highlight differences
+in DA availability that may be central to DA function and dysfunction in the
+human.
+
+DOI: 20026534 
+PMCID: PMC6758186
+PMID: 12097522  [Indexed for MEDLINE]
+

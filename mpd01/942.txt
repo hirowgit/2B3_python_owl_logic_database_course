@@ -1,0 +1,86 @@
+
+
+942. Exp Gerontol. 2017 Aug;94:41-45. doi: 10.1016/j.exger.2016.12.005. Epub 2016 Dec 
+10.
+
+An overview of nonhuman primates in aging research.
+
+Mattison JA(1), Vaughan KL(2).
+
+Author information: 
+(1)Translational Gerontology Branch, National Institute on Aging, NIH Animal
+Center, 16701, Elmer School Road, Bldg 103, Dickerson, MD 20842, United States.
+Electronic address: Julie.Mattison@nih.gov.
+(2)Translational Gerontology Branch, National Institute on Aging, NIH Animal
+Center, 16701, Elmer School Road, Bldg 103, Dickerson, MD 20842, United States;
+SoBran, Inc., 4000, Blackburn Lane, Suite 100, Burtonsville, MD 20866, United
+States. Electronic address: Kelli.Vaughan@nih.gov.
+
+A graying human population and the rising costs of healthcare have fueled the
+growing need for a sophisticated translational model of aging. Nonhuman primates 
+(NHPs) experience aging processes similar to humans and, as a result, provide an 
+excellent opportunity to study a closely related species. Rhesus monkeys share
+>92% homology and are the most commonly studied NHP. However, their substantial
+size, long lifespan, and the associated expense are prohibitive factors.
+Marmosets are rapidly becoming the preferred NHP for biomedical testing due to
+their small size, low zoonotic risk, reproductive efficiency, and relatively
+low-cost. Both species experience age-related pathology similar to humans, such
+as cancer, diabetes, arthritis, cardiovascular disease, and neurological decline.
+As a result, their use in aging research is paving the way to improved human
+health through a better understanding of the mechanisms of aging.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.exger.2016.12.005 
+PMCID: PMC5466843
+PMID: 27956088  [Indexed for MEDLINE]
+
+
+943. J Neurosci. 2016 Dec 7;36(49):12468-12484.
+
+Selective Neuronal Activation by Cochlear Implant Stimulation in Auditory Cortex 
+of Awake Primate.
+
+Johnson LA(1), Della Santina CC(1)(2), Wang X(3).
+
+Author information: 
+(1)Departments of Biomedical Engineering and.
+(2)Otolaryngology-Head and Neck Surgery, Johns Hopkins University School of
+Medicine, Baltimore, Maryland 21025.
+(3)Departments of Biomedical Engineering and xiaoqin.wang@jhu.edu.
+
+Comment in
+    eNeuro. 2017 Jun 27;4(3):null.
+
+Despite the success of cochlear implants (CIs) in human populations, most users
+perform poorly in noisy environments and music and tonal language perception. How
+CI devices engage the brain at the single neuron level has remained largely
+unknown, in particular in the primate brain. By comparing neuronal responses with
+acoustic and CI stimulation in marmoset monkeys unilaterally implanted with a CI 
+electrode array, we discovered that CI stimulation was surprisingly ineffective
+at activating many neurons in auditory cortex, particularly in the hemisphere
+ipsilateral to the CI. Further analyses revealed that the CI-nonresponsive
+neurons were narrowly tuned to frequency and sound level when probed with
+acoustic stimuli; such neurons likely play a role in perceptual behaviors
+requiring fine frequency and level discrimination, tasks that CI users find
+especially challenging. These findings suggest potential deficits in central
+auditory processing of CI stimulation and provide important insights into factors
+responsible for poor CI user performance in a wide range of perceptual
+tasks.SIGNIFICANCE STATEMENT: The cochlear implant (CI) is the most successful
+neural prosthetic device to date and has restored hearing in hundreds of
+thousands of deaf individuals worldwide. However, despite its huge successes, CI 
+users still face many perceptual limitations, and the brain mechanisms involved
+in hearing through CI devices remain poorly understood. By directly comparing
+single-neuron responses to acoustic and CI stimulation in auditory cortex of
+awake marmoset monkeys, we discovered that neurons unresponsive to CI stimulation
+were sharply tuned to frequency and sound level. Our results point out a major
+deficit in central auditory processing of CI stimulation and provide important
+insights into mechanisms underlying the poor CI user performance in a wide range 
+of perceptual tasks.
+
+Copyright © 2016 the authors 0270-6474/16/3612468-17$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.1699-16.2016 
+PMCID: PMC5148231
+PMID: 27927962  [Indexed for MEDLINE]
+

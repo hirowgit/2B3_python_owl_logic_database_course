@@ -1,0 +1,39 @@
+
+
+363. iScience. 2020 Feb 21;23(2):100837. doi: 10.1016/j.isci.2020.100837. Epub 2020
+Jan 14.
+
+Rapid Head Movements in Common Marmoset Monkeys.
+
+Pandey S(1), Simhadri S(1), Zhou Y(2).
+
+Author information: 
+(1)College of Health Solutions, Arizona State University, 975 S. Myrtle Avenue,
+Coor Hall 3470, Tempe, AZ 85287, USA.
+(2)College of Health Solutions, Arizona State University, 975 S. Myrtle Avenue,
+Coor Hall 3470, Tempe, AZ 85287, USA. Electronic address: yizhou@asu.edu.
+
+Gaze shifts, the directing of the eyes to an approaching predator, preferred food
+source, or potential mate, have universal biological significance for the
+survival of a species. Our knowledge of gaze behavior is based primarily on
+visually triggered responses, whereas head orientation triggered by auditory
+stimuli remains poorly characterized. Common marmoset (Callithrix jacchus) is a
+diurnal, small-bodied (∼350 g), New World monkey species, known for its rich
+behavioral repertoires during social interactions. We used a lightweight head
+tracking system to measure marmosets' reflexive head orientations toward a
+natural stimulus presented from behind. We found that marmoset could rotate its
+head at angular velocities above 1,000°/s and maintained target accuracy for a
+wide range of rotation amplitudes (up to 250°). This unusual, saccadic head
+orienting behavior offers opportunities for understanding the many biological
+factors that have shaped the evolution of sensorimotor controls of gaze
+orientation by the primate brain.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.isci.2020.100837 
+PMCID: PMC6997856
+PMID: 32058952 
+
+Conflict of interest statement: Declaration of Interests The authors declare no
+competing interests.
+

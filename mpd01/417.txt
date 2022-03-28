@@ -1,0 +1,92 @@
+
+
+417. Sci Rep. 2019 Oct 10;9(1):14546. doi: 10.1038/s41598-019-51199-5.
+
+Establishment of a diabetes mellitus type 1 model in the common marmoset.
+
+Yuan W(1), Fukuda S(2), Inoue T(3), Okochi H(2), Sasaki E(3), Shimoda M(4).
+
+Author information: 
+(1)Department of Pancreatic Islet Cell Transplantation, National Center for
+Global Health and Medicine, 1-21-1 Toyama, Shinjuku-ku, Tokyo, 162-8655, Japan.
+(2)Department of Regenerative Medicine, National Center for Global Health and
+Medicine, 1-21-1 Toyama, Shinjuku-ku, Tokyo, 162-8655, Japan.
+(3)Department of Marmoset Biology and Medicine, Central Institute for
+Experimental Animals, 3 Chome-25-12 Tonomachi, Kawasaki-ku, Kawasaki-shi,
+Kanagawa-ken, 210-0821, Japan.
+(4)Department of Pancreatic Islet Cell Transplantation, National Center for
+Global Health and Medicine, 1-21-1 Toyama, Shinjuku-ku, Tokyo, 162-8655, Japan.
+mshimoda@hosp.ncgm.go.jp.
+
+Common marmosets have attracted considerable attention as a small standard
+primate model in biomedical research. However, no marmoset diabetes model is
+available. Here, we established a marmoset diabetes model via the combination of 
+partial pancreatectomy and intravenous streptozotocin (STZ). A partial
+pancreatectomy was performed in 11 common marmosets and multiple STZ doses were
+intravenously administered. Diabetes was diagnosed upon sustained hyperglycaemia 
+(nonfasting blood glucose level >200 mg/dl). Blood glucose and biochemistry were 
+periodically assessed, in addition to glucose tolerance testing, continual blood 
+glucose determination using a continuous glucose monitoring system, urine testing
+and histological evaluation. In 8 of the 11 animals (73%), diabetes mellitus was 
+induced. The diabetic marmosets also showed abnormal intravenous and oral glucose
+tolerance test results. Blood glucose levels decreased in response to human
+insulin administration. The hyperglycaemic state was irreversible and persisted
+for more than 3 months, and the animals' condition was manageable via daily
+insulin administration. Thus, diabetes can be successfully induced and maintained
+in the common marmoset via partial pancreatectomy and STZ administration. This
+protocol effectively generates a valuable animal model for studying disease
+pathogenesis, risk factors and therapeutic interventions, including islet
+transplantation.
+
+DOI: 10.1038/s41598-019-51199-5 
+PMCID: PMC6787219
+PMID: 31601983  [Indexed for MEDLINE]
+
+
+418. Sci Rep. 2019 Oct 10;9(1):14495. doi: 10.1038/s41598-019-50918-2.
+
+High susceptibility, viral dynamics and persistence of South American Zika virus 
+in New World monkey species.
+
+Berry N(1), Ferguson D(2), Ham C(2), Hall J(2), Jenkins A(2), Giles E(2), Devshi 
+D(2), Kempster S(2), Rose N(3), Dowall S(4), Fritzsche M(5), Bleazard T(5),
+Hewson R(4), Almond N(2).
+
+Author information: 
+(1)Division of Infectious Disease Diagnostics, National Institute for Biological 
+Standards and Control, Blanche Lane, South Mimms, Herts, EN6 3QG, UK.
+neil.berry@nibsc.org.
+(2)Division of Infectious Disease Diagnostics, National Institute for Biological 
+Standards and Control, Blanche Lane, South Mimms, Herts, EN6 3QG, UK.
+(3)Division of Virology, National Institute for Biological Standards and Control,
+Blanche Lane, South Mimms, Herts, EN6 3QG, UK.
+(4)Virology and Pathogenesis, National Infection Service, PHE-Porton, Manor Farm 
+Rd, Porton Down, Salisbury, SP4 0JG, UK.
+(5)Analytical Sciences Group, National Institute for Biological Standards and
+Control, Blanche Lane, South Mimms, Herts, EN6 3QG, UK.
+
+South American Zika virus (ZIKV) recently emerged as a novel human pathogen,
+linked with neurological disorders. However, comparative ZIKV infectivity studies
+in New World primates are lacking. Two members of the Callitrichidae family,
+common marmosets (Callithrix jacchus) and red-bellied tamarins (Saguinus
+labiatus), were highly susceptible to sub-cutaneous challenge with the Puerto
+Rico-origin ZIKVPRVABC59 strain. Both exhibited rapid, high, acute viraemia with 
+early neuroinvasion (3 days) in peripheral and central nervous tissue. ZIKV RNA
+levels in blood and tissues were significantly higher in New World hosts compared
+to Old World species (Macaca mulatta, Macaca fascicularis). Tamarins and rhesus
+macaques exhibited loss of zonal occludens-1 (ZO-1) staining, indicative of a
+compromised blood-brain barrier 3 days post-ZIKV exposure. Early, widespread
+dissemination across multiple anatomical sites distant to the inoculation site
+preceded extensive ZIKV persistence after 100 days in New and Old World lineages,
+especially lymphoid, neurological and reproductive sites. Prolonged persistence
+in brain tissue has implications for otherwise resolved human ZIKV infection.
+High susceptibility of distinct New World species underscores possible
+establishment of ZIKV sylvatic cycles in primates indigenous to ZIKV endemic
+regions. Tamarins and marmosets represent viable New World models for ZIKV
+pathogenesis and therapeutic intervention studies, including vaccines, with
+contemporary strains.
+
+DOI: 10.1038/s41598-019-50918-2 
+PMCID: PMC6787206
+PMID: 31601848  [Indexed for MEDLINE]
+

@@ -1,0 +1,87 @@
+
+
+1779. J Gerontol A Biol Sci Med Sci. 2012 Aug;67(8):841-52. doi: 10.1093/gerona/glr216.
+Epub 2012 Jan 4.
+
+Testing the oxidative stress hypothesis of aging in primate fibroblasts: is there
+a correlation between species longevity and cellular ROS production?
+
+Csiszar A(1), Podlutsky A, Podlutskaya N, Sonntag WE, Merlin SZ, Philipp EE,
+Doyle K, Davila A, Recchia FA, Ballabh P, Pinto JT, Ungvari Z.
+
+Author information: 
+(1)Reynolds Oklahoma Center on Aging, Department of Geriatric Medicine,
+University of Oklahoma Health Science Center, 975 NE 10th Street, BRC-1315A,
+Oklahoma City, OK 73104, USA. annacsiszar@ouhsc.edu
+
+Comment in
+    J Gerontol A Biol Sci Med Sci. 2014 Sep;69(9):1096-8.
+
+The present study was conducted to test predictions of the oxidative stress
+theory of aging assessing reactive oxygen species production and oxidative stress
+resistance in cultured fibroblasts from 13 primate species ranging in body size
+from 0.25 to 120 kg and in longevity from 20 to 90 years. We assessed both basal 
+and stress-induced reactive oxygen species production in fibroblasts from five
+great apes (human, chimpanzee, bonobo, gorilla, and orangutan), four Old World
+monkeys (baboon, rhesus and crested black macaques, and patas monkey), three New 
+World monkeys (common marmoset, red-bellied tamarin, and woolly monkey), and one 
+lemur (ring-tailed lemur). Measurements of cellular MitoSox fluorescence, an
+indicator of mitochondrial superoxide (O2(·-)) generation, showed an inverse
+correlation between longevity and steady state or metabolic stress-induced
+mitochondrial O2(·-) production, but this correlation was lost when the effects
+of body mass were removed, and the data were analyzed using phylogenetically
+independent contrasts. Fibroblasts from longer-lived primate species also
+exhibited superior resistance to H(2)O(2)-induced apoptotic cell death than cells
+from shorter-living primates. After correction for body mass and lack of
+phylogenetic independence, this correlation, although still discernible, fell
+short of significance by regression analysis. Thus, increased longevity in this
+sample of primates is not causally associated with low cellular reactive oxygen
+species generation, but further studies are warranted to test the association
+between increased cellular resistance to oxidative stressor and primate
+longevity.
+
+DOI: 10.1093/gerona/glr216 
+PMCID: PMC3403864
+PMID: 22219516  [Indexed for MEDLINE]
+
+
+1780. Gen Comp Endocrinol. 2012 Feb 1;175(3):519-26. doi: 10.1016/j.ygcen.2011.12.020. 
+Epub 2011 Dec 26.
+
+Natural variation in gestational cortisol is associated with patterns of growth
+in marmoset monkeys (Callithrix geoffroyi).
+
+Mustoe AC(1), Birnie AK, Korgan AC, Santo JB, French JA.
+
+Author information: 
+(1)Department of Psychology, University of Nebraska at Omaha, Omaha, NE, USA.
+amustoe@unomaha.edu
+
+High levels of prenatal cortisol have been previously reported to retard fetal
+growth. Although cortisol plays a pivotal role in prenatal maturation, heightened
+exposure to cortisol can result in lower body weights at birth, which have been
+shown to be associated with adult diseases like hypertension and cardiovascular
+disease. This study examines the relationship between natural variation in
+gestational cortisol and fetal and postnatal growth in marmoset monkeys. Urinary 
+samples obtained during the mother's gestation were analyzed for cortisol.
+Marmoset body mass index (BMI) was measured from birth through 540 days in 30- or
+60-day intervals. Multi-level modeling was used to test if marmoset growth over
+time was predicted by changes in gestational cortisol controlling for time, sex, 
+litter, and litter size. The results show that offspring exposed to intra-uterine
+environments with elevated levels of cortisol had lower linear BMI rates of
+change shortly after birth than did offspring exposed to lower levels of
+cortisol, but exhibited a higher curvilinear growth rate during adolescence.
+Average daily change in gestational cortisol during the first trimester had a
+stronger relationship with postnatal growth than change during the third
+trimester. Higher exposure to cortisol during gestation does alter developmental 
+trajectories, however there appears to be a catch-up period during later
+post-natal growth. These observations contribute to a larger discussion about the
+relationship of maternal glucocorticoids on offspring development and the
+possibility of an earlier vulnerable developmental window.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.ygcen.2011.12.020 
+PMCID: PMC3268124
+PMID: 22212825  [Indexed for MEDLINE]
+

@@ -1,0 +1,90 @@
+
+
+2930. ScientificWorldJournal. 2002 Jun 26;2:1762-73.
+
+Embryonic stem cell lines of nonhuman primates.
+
+Nakatsuji N(1), Suemori H.
+
+Author information: 
+(1)Department of Development and Differentiation, Institute for Frontier Medical 
+Sciences, Kyoto University, 53 Kawaharacho, Shogoin, Sakyo-ku, Kyoto 606-8507,
+Japan. nnakatsu@frontier.kyoto-u.ac.jp
+
+Human embryonic stem (ES) cell lines have opened great potential and expectation 
+for cell therapy and regenerative medicine. Monkey and human ES cell lines, which
+are very similar to each other, have been established from monkey blastocysts and
+surplus human blastocysts from fertility clinics. Nonhuman primate ES cell lines 
+provide important research tools for basic and applicative research. Firstly,
+they provide wider aspects of investigation of the regulative mechanisms of stem 
+cells and cell differentiation among primate species. Secondly, their usage does 
+not need clearance or permission from the regulative rules in many countries that
+are associated with the ethical aspects of human ES cells, although human and
+nonhuman embryos and fetuses are very similar to each other. Lastly and most
+importantly, they are indispensable for animal models of cell therapy to test
+effectiveness, safety, and immunological reaction of the allogenic
+transplantation in a setting similar to the treatment of human diseases. So far, 
+ES cell lines have been established from rhesus monkey (Macaca mulatta), common
+marmoset (Callithrix jacchus), and cynomolgus monkey (Macaca fascicularis), using
+blastocysts produced naturally or by in vitro fertilization (IVF) and
+intracytoplasmic sperm injection (ICSI). These cell lines seem to have very
+similar characteristics. They express alkaline phosphatase activity and
+stage-specific embryonic antigen (SSEA)-4 and, in most cases, SSEA-3. Their
+pluripotency was confirmed by the formation of embryoid bodies and
+differentiation into various cell types in culture and also by the formation of
+teratomas that contained many types of differentiated tissues including
+derivatives of three germ layers after transplantation into the severe combined
+immunodeficiency (SCID) mice. The noneffectiveness of the leukemia inhibitory
+factor (LIF) signal makes culture of primate and human ES cell lines prone to
+undergo spontaneous differentiation and thus it is difficult to maintain these
+stem cell colonies. Also, these ES cells are more susceptible to various
+stresses, causing difficulty with subculturing using enzymatic treatment and
+cloning from single cells. However, with various improvements in culture methods,
+it is now possible to maintain stable colonies of monkey ES cells using a
+serum-free medium and subculturing with trypsin treatment. Under such conditions,
+cynomolgus monkey ES cell lines can be maintained in an undifferentiated state
+with a normal karyotype and pluripotency even after prolonged periods of culture 
+over 1 year. Such progress should facilitate many aspects of stem cell research
+using both nonhuman primate and human ES cell lines.
+
+DOI: 10.1100/tsw.2002.829 
+PMCID: PMC6009524
+PMID: 12806169  [Indexed for MEDLINE]
+
+
+2931. Toxicol Appl Pharmacol. 2003 Jun 15;189(3):170-9.
+
+Long-term, low-level exposure of guinea pigs and marmosets to sarin vapor in air:
+lowest observable effect level.
+
+Van Helden HP(1), Trap HC, Oostdijk JP, Kuijpers WC, Langenberg JP, Benschop HP.
+
+Author information: 
+(1)Division of Chemical and Biological Protection, TNO Prins Maurits Laboratory, 
+P.O. Box 45, 2280 AA, Rijswijk, The Netherlands. helden@pml.tno.nl
+
+Realistic scenarios for low-level exposure to nerve agents will often involve
+exposures over several hours to extremely low doses of agent. In order to expose 
+animals to the lowest controllable concentrations of agent and to increase
+exposure times until a lowest observable effect level (LOEL) becomes measurable, 
+a validated system was developed for exposing conscious animals to 0.05-1.0
+microg/m(3) (8-160 ppt) of sarin and other nerve agents. Based on cold trapping
+of sarin from the exposure air, the concentration could be measured
+semicontinuously, at 4-min time intervals by means of gas chromatography. We
+found that the LOEL upon a 5-h whole body exposure of guinea pigs and marmosets
+to sarin vapor corresponds with the measurement of an internal dose by means of
+fluoride-induced regeneration of sarin from phosphylated binding sites in plasma,
+mostly BuChE. For guinea pigs the LOEL was observed at Ct = 0.010 +/- 0.002
+mg/min/m(3), whereas a Ct of 0.04 +/- 0.01 mg/min/m(3) was established for the
+LOEL in marmosets. These levels are several orders of magnitude lower than those 
+based on classical measurement of depressed cholinesterase activities. At low
+exposure levels of guinea pigs and marmosets (< or =1 microg/m(3)), a reasonable 
+linearity was observed between exposure dose and internal dose. The data were
+addressed in the light of the recently recommended occupational exposure limits
+to sarin for workers without respiratory protection, which suggests that the
+exposure limits should be reconsidered if the slightest inhibition of
+cholinesterases should be prevented.
+
+DOI: 10.1016/s0041-008x(03)00131-5 
+PMID: 12791302  [Indexed for MEDLINE]
+

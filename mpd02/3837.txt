@@ -1,0 +1,37 @@
+
+
+3837. Life Sci. 1996;59(9):719-30.
+
+Studies on the immunoglobulin-E system of the common marmoset in comparison with 
+human data.
+
+Schmidt S(1), Neubert R, Schmitt M, Neubert D.
+
+Author information: 
+(1)University Medical Center, Free University Berlin, Institute of Toxicology and
+Embryopharmacology, Germany.
+
+In the common marmoset (Callithrix jacchus jacchus) immunoglobulin E (IgE) serum 
+levels and IgE synthesis of peripheral blood mononuclear cells (PBMC) in vitro
+were investigated in order to look for homologies to the human system. While IgE 
+was not found in marmoset blood plasma with three commercial antihuman IgE-kits
+with monoclonal antibodies (mAbs), two other kits using polyclonal antibodies
+against human IgE revealed detectable IgE concentrations of up to 10 kU/liter in 
+plasma samples of 19 out of 21 marmosets. In accord with human data, rhIL-4
+showed biological functions under in vitro conditions in PBMC of the New World
+monkey. Proliferation, measured by 3H-thymidine incorporation, of isolated PBMC
+of marmosets could be induced by rhIL-4. FACScan analysis showed an enhanced
+expression of the low affinity IgE receptor CD23 (Fc epsilon RII) on CD20+ B
+lymphocytes after incubation with rhIL-4. Furthermore, PBMC from marmosets could 
+be stimulated by IL-4 alone or in combination with dexamethasone as well as with 
+lipopolysaccharide (E. coli) to produce IgE in culture. The results indicate that
+Callithrix jacchus is using an IgE system that is rather similar to that of
+humans, although not completely identical. Antihuman mAbs and rhIL-4 can be used 
+to investigate IgE regulation in vitro of marmoset PBMC. These data encourage the
+development of a primate animal model for studying possible modifications of the 
+IgE system under pathological conditions to find new therapeutic strategies in
+atopic diseases.
+
+DOI: 10.1016/0024-3205(96)00358-x 
+PMID: 8761025  [Indexed for MEDLINE]
+

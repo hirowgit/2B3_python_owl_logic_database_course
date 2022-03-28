@@ -1,0 +1,121 @@
+
+
+461. Neuropharmacology. 2019 Nov 1;158:107725. doi: 10.1016/j.neuropharm.2019.107725. 
+Epub 2019 Jul 25.
+
+Activation of mGlu2/3 receptors, a novel therapeutic approach to alleviate
+dyskinesia and psychosis in experimental parkinsonism.
+
+Frouni I(1), Hamadjida A(2), Kwan C(2), Bédard D(3), Nafade V(3), Gaudette F(4), 
+Nuara SG(5), Gourdon JC(5), Beaudry F(6), Huot P(7).
+
+Author information: 
+(1)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada; Neurodegenerative Disease Group, Montreal Neurological Institute,
+Montreal, QC, Canada.
+(2)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada; Integrated Program in Neuroscience, McGill University, Montreal, QC, 
+Canada.
+(3)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada.
+(4)Plateforme de Pharmacocinétique, Centre de Recherche du Centre Hospitalier de 
+l'Université de Montréal, Montreal, QC, Canada.
+(5)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(6)Groupe de Recherche en Pharmacologie Animale du Québec, Département de
+Biomédecine Vétérinaire, Faculté de Médecine Vétérinaire, Université de Montréal,
+Saint-Hyacinthe, QC, Canada.
+(7)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada; Neurodegenerative Disease Group, Montreal Neurological Institute,
+Montreal, QC, Canada; Integrated Program in Neuroscience, McGill University,
+Montreal, QC, Canada; Department of Neurology and Neurosurgery, McGill
+University, Montreal, QC, Canada; Movement Disorder Clinic, Division of
+Neurology, Department of Neurosciences, McGill University Health Centre,
+Montreal, QC, Canada. Electronic address: philippe.huot@mcgill.ca.
+
+Selective blockade of serotonin 2A (5-HT2A) receptors is a promising strategy to 
+reduce L-3,4-dihydroxyphenylalanine (l-DOPA)-induced dyskinesia and has shown
+efficacy in a Phase III clinical trial for dopaminergic psychosis in Parkinson's 
+disease (PD). However, pre-clinical and clinical evidence suggest that, while
+this approach may be effective and well tolerated, there might be a ceiling
+beyond which no further therapeutic benefit might be achieved. There is mounting 
+evidence that 5-HT2A receptors form a functional hetero-complex with metabotropic
+glutamate 2 (mGlu2) receptors, with antagonism of 5-HT2A receptors and activation
+of mGlu2 receptors producing similar effects on the Gi/Gq signalling ratio at the
+intra-cellular level. Based on this interaction between 5-HT2A and mGlu2
+receptors, we hypothesised that activation of mGlu2 receptors would alleviate
+dyskinesia and psychosis in PD. LY-354,740 is a selective mGlu2/3 orthosteric
+agonist that was previously tested in the clinic. In experiments conducted in the
+6-hydroxydopamine (6-OHDA)-lesioned rat and the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned marmoset, we found
+that mGlu2/3 activation with LY-354,740 significantly reduced the expression of
+dyskinesia and psychosis-like behaviours, while simultaneously enhancing l-DOPA
+therapeutic benefit. Moreover, mGlu2/3 activation with LY-354,740 attenuated the 
+development of dyskinesia. These data indicate that activation of mGlu2/3
+receptors is a therapeutic strategy that may provide relief for both motor
+and-non-motor treatment-related complications in PD.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuropharm.2019.107725 
+PMID: 31351976  [Indexed for MEDLINE]
+
+
+462. Eur J Neurosci. 2019 Dec;50(12):4004-4017. doi: 10.1111/ejn.14529. Epub 2019 Aug 
+16.
+
+Relation of koniocellular layers of dorsal lateral geniculate to inferior
+pulvinar nuclei in common marmosets.
+
+Huo BX(1)(2), Zeater N(3)(4)(5), Lin MK(1)(2), Takahashi YS(1)(6), Hanada
+M(1)(7), Nagashima J(1)(7), Lee BC(8), Hata J(1), Zaheer A(3)(5), Grünert
+U(3)(4)(5), Miller MI(8), Rosa MGP(9)(10), Okano H(1)(11), Martin PR(3)(4)(5),
+Mitra PP(1)(2).
+
+Author information: 
+(1)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako, Japan.
+(2)Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA.
+(3)Faculty of Medicine and Health, Save Sight Institute, The University of
+Sydney, Sydney, NSW, Australia.
+(4)Australian Research Council Centre of Excellence for Integrative Brain
+Function, Sydney University Node, Sydney, NSW, Australia.
+(5)Faculty of Medicine and Health, School of Medical Sciences, The University of 
+Sydney, Sydney, NSW, Australia.
+(6)Integra Life Science Japan, Minato-Ku, Akasaka, Japan.
+(7)Systems Neuroscience Institute and Center for the Neural Basis of Cognition,
+University of Pittsburgh, Pittsburgh, PA, USA.
+(8)Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD,
+USA.
+(9)Department of Physiology and Biomedicine Research Institute, Monash
+University, Clayton, Vic., Australia.
+(10)Australian Research Council Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, Vic., Australia.
+(11)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+
+Traditionally, the dorsal lateral geniculate nucleus (LGN) and the inferior
+pulvinar (IPul) nucleus are considered as anatomically and functionally distinct 
+thalamic nuclei. However, in several primate species it has also been established
+that the koniocellular (K) layers of LGN and parts of the IPul have a shared
+pattern of immunoreactivity for the calcium-binding protein calbindin. These
+calbindin-rich cells constitute a thalamic matrix system which is implicated in
+thalamocortical synchronisation. Further, the K layers and IPul are both involved
+in visual processing and have similar connections with retina and superior
+colliculus. Here, we confirmed the continuity between calbindin-rich cells in LGN
+K layers and the central lateral division of IPul (IPulCL) in marmoset monkeys.
+By employing a high-throughput neuronal tracing method, we found that both the K 
+layers and IPulCL form comparable patterns of connections with striate and
+extrastriate cortices; these connections are largely different to those of the
+parvocellular and magnocellular laminae of LGN. Retrograde tracer-labelled cells 
+and anterograde tracer-labelled axon terminals merged seamlessly from IPulCL into
+LGN K layers. These results support continuity between LGN K layers and IPulCL,
+providing an anatomical basis for functional congruity of this region of the
+dorsal thalamic matrix and calling into question the traditional segregation
+between LGN and the inferior pulvinar nucleus.
+
+© 2019 Federation of European Neuroscience Societies and John Wiley & Sons Ltd.
+
+DOI: 10.1111/ejn.14529 
+PMCID: PMC6928438
+PMID: 31344282  [Indexed for MEDLINE]
+

@@ -1,0 +1,68 @@
+
+
+2246. Prostate. 2008 Oct 1;68(14):1546-54. doi: 10.1002/pros.20814.
+
+Nonhuman primates as models for studies of prostate specific antigen and
+prostatic diseases.
+
+Mubiru JN(1), Hubbard GB, Dick EJ Jr, Furman J, Troyer DA, Rogers J.
+
+Author information: 
+(1)Southwest National Primate Research Center, Southwest Foundation for
+Biomedical Research, San Antonio, Texas 78245-0549, USA. jmubiru@sfbr.org
+
+BACKGROUND: Because prostate specific antigen (PSA) is released at increased
+levels into the blood early in the development of prostate cancer, benign
+prostatic hyperplasia (BPH) and prostatitis, it is widely used as a marker for
+these diseases. However, PSA has clinical limitations as a screen for prostatic
+diseases due to its low sensitivity and specificity. There is a strong need to
+better understand the biology of PSA and factors affecting its serum levels.
+METHODS: We evaluated cynomolgus macaques, rhesus macaques, baboons, and
+marmosets for their suitability as models for the study of PSA biology and
+prostatic diseases.
+RESULTS: Prostates of several nonhuman primates are anatomically similar to the
+human counterpart. Anti-human PSA antibody detected PSA antigens in all the Old
+World monkeys (cynomolgus macaques, rhesus macaques, and baboons) but not in
+marmosets. Of the Old World monkeys, cynomolgus macaques have the highest serum
+PSA levels; baboons have the lowest. Serum PSA levels from macaques includes a
+number of outlier samples with unusually high values. We also report two cases of
+abnormal pathologies in macaques accompanied by high serum PSA levels. One case
+consisted of prostatic hyperplasia involving both glandular and basal cells in a 
+cynomolgus macaque and another of glandular hyperplasia and atrophy in a rhesus
+macaque. The finding that pathological changes in the prostate of macaques may
+lead to increases in serum PSA is worthy of further exploration.
+CONCLUSION: Cynomolgus macaques and rhesus macaques are promising animal models
+for PSA biology studies.
+
+DOI: 10.1002/pros.20814 
+PMCID: PMC2559969
+PMID: 18668524  [Indexed for MEDLINE]
+
+
+2247. J Med Chem. 2008 Aug 28;51(16):4858-61. doi: 10.1021/jm800546t. Epub 2008 Jul 30.
+
+Discovery of
+(R)-4-(8-fluoro-2-oxo-1,2-dihydroquinazolin-3(4H)-yl)-N-(3-(7-methyl-1H-indazol-5
+-yl)-1-oxo-1-(4-(piperidin-1-yl)piperidin-1-yl)propan-2-yl)piperidine-1-carboxami
+de (BMS-694153): a potent antagonist of the human calcitonin gene-related peptide
+receptor for migraine with rapid and efficient intranasal exposure.
+
+Degnan AP(1), Chaturvedula PV, Conway CM, Cook DA, Davis CD, Denton R, Han X,
+Macci R, Mathias NR, Moench P, Pin SS, Ren SX, Schartman R, Signor LJ, Thalody G,
+Widmann KA, Xu C, Macor JE, Dubowchik GM.
+
+Author information: 
+(1)Department of Neuroscience Chemistry, Bristol-Myers Squibb Research &
+Development,Wallingford, Connecticut 06492, USA. andrew.degnan@bms.com
+
+Calcitonin gene-related peptide (CGRP) has been implicated in the pathogenesis of
+migraine. Early chemistry leads suffered from modest potency, significant CYP3A4 
+inhibition, and poor aqueous solubility. Herein, we describe the optimization of 
+these leads to give 4 (BMS-694153), a molecule with outstanding potency, a
+favorable predictive toxicology profile, and remarkable aqueous solubility.
+Compound 4 has good intranasal bioavailability in rabbits and shows
+dose-dependent activity in validated in vivo and ex vivo migraine models.
+
+DOI: 10.1021/jm800546t 
+PMID: 18665579  [Indexed for MEDLINE]
+

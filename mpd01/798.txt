@@ -1,0 +1,94 @@
+
+
+798. Genome Biol Evol. 2017 Oct 1;9(10):2615-2625. doi: 10.1093/gbe/evx194.
+
+Gene Regulatory Enhancers with Evolutionarily Conserved Activity Are More
+Pleiotropic than Those with Species-Specific Activity.
+
+Fish A(1)(2), Chen L(2), Capra JA(1)(2)(3).
+
+Author information: 
+(1)Vanderbilt Genetics Institute, Vanderbilt University.
+(2)Department of Biological Sciences, Vanderbilt Genetics Institute, Vanderbilt
+University.
+(3)Departments of Biomedical Informatics and Computer Science, Center for
+Structural Biology, Vanderbilt University.
+
+Studies of regulatory activity and gene expression have revealed an intriguing
+dichotomy: There is substantial turnover in the regulatory activity of
+orthologous sequences between species; however, the expression level of
+orthologous genes is largely conserved. Understanding how distal regulatory
+elements, for example, enhancers, evolve and function is critical, as alterations
+in gene expression levels can drive the development of both complex disease and
+functional divergence between species. In this study, we investigated
+determinants of the conservation of regulatory enhancer activity for orthologous 
+sequences across mammalian evolution. Using liver enhancers identified from
+genome-wide histone modification profiles in ten diverse mammalian species, we
+compared orthologous sequences that exhibited regulatory activity in all species 
+(conserved-activity enhancers) to shared sequences active only in a single
+species (species-specific-activity enhancers). Conserved-activity enhancers have 
+greater regulatory potential than species-specific-activity enhancers, as
+quantified by both the density and diversity of transcription factor binding
+motifs. Consistent with their greater regulatory potential, conserved-activity
+enhancers have greater regulatory activity in humans than
+species-specific-activity enhancers: They are active across more cellular
+contexts, and they regulate more genes than species-specific-activity enhancers. 
+Furthermore, the genes regulated by conserved-activity enhancers are expressed in
+more tissues and are less tolerant of loss-of-function mutations than those
+targeted by species-specific-activity enhancers. These consistent results across 
+various stages of gene regulation demonstrate that conserved-activity enhancers
+are more pleiotropic than their species-specific-activity counterparts. This
+suggests that pleiotropy is associated with the conservation of regulatory across
+mammalian evolution.
+
+© The Author 2017. Published by Oxford University Press on behalf of the Society 
+for Molecular Biology and Evolution.
+
+DOI: 10.1093/gbe/evx194 
+PMCID: PMC5737616
+PMID: 28985297  [Indexed for MEDLINE]
+
+
+799. Front Psychiatry. 2017 Sep 21;8:175. doi: 10.3389/fpsyt.2017.00175. eCollection
+2017.
+
+Common Marmosets: A Potential Translational Animal Model of Juvenile Depression.
+
+Galvão-Coelho NL(1)(2)(3), Galvão ACM(1)(2), da Silva FS(1)(2), de Sousa
+MBC(1)(2)(4).
+
+Author information: 
+(1)Laboratory of Hormone Measurement, Department of Physiology, Federal
+University of Rio Grande do Norte, Natal, Brazil.
+(2)Postgraduate Program in Psychobiology, Federal University of Rio Grande do
+Norte, Natal, Brazil.
+(3)National Institute of Science and Technology in Translational Medicine Natal, 
+Natal, Brazil.
+(4)Brain Institute, Federal University of Rio Grande do Norte, Natal, Brazil.
+
+Major depression is a psychiatric disorder with high prevalence in the general
+population, with increasing expression in adolescence, about 14% in young people.
+Frequently, it presents as a chronic condition, showing no remission even after
+several pharmacological treatments and persisting in adult life. Therefore,
+distinct protocols and animal models have been developed to increase the
+understanding of this disease or search for new therapies. To this end, this
+study investigated the effects of chronic social isolation and the potential
+antidepressant action of nortriptyline in juvenile Callithrix jacchus males and
+females by monitoring fecal cortisol, body weight, and behavioral parameters and 
+searching for biomarkers and a protocol for inducing depression. The purpose was 
+to validate this species and protocol as a translational model of juvenile
+depression, addressing all domain criteria of validation: etiologic, face,
+functional, predictive, inter-relational, evolutionary, and population. In both
+sexes and both protocols (IDS and DPT), we observed a significant reduction in
+cortisol levels in the last phase of social isolation, concomitant with increases
+in autogrooming, stereotyped and anxiety behaviors, and the presence of
+anhedonia. The alterations induced by chronic social isolation are characteristic
+of the depressive state in non-human primates and/or in humans, and were reversed
+in large part by treatment with an antidepressant drug (nortriptyline).
+Therefore, these results indicate C. jacchus as a potential translational model
+of juvenile depression by addressing all criteria of validation.
+
+DOI: 10.3389/fpsyt.2017.00175 
+PMCID: PMC5613153
+PMID: 28983260 
+

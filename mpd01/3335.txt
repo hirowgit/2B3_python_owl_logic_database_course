@@ -1,0 +1,80 @@
+
+
+3335. Toxicol Sci. 2000 Mar;54(1):30-41.
+
+Effects of dietary oltipraz and ethoxyquin on aflatoxin B1 biotransformation in
+non-human primates.
+
+Bammler TK(1), Slone DH, Eaton DL.
+
+Author information: 
+(1)Department of Environmental Health, University of Washington, Seattle 98195,
+USA.
+
+Following aflatoxin B1 (AFB) exposure, rats readily develop liver tumors.
+However, treatment of rats with a variety of compounds, including the synthetic
+dithiolthione oltipraz and the antioxidant ethoxyquin, protects these rodents
+from AFB-induced hepatocarcinogenesis. Several epidemiological studies strongly
+suggest that AFB is also a causative agent of liver cancer in humans. However,
+relatively little is known about the efficacy of cancer chemoprevention in human 
+and non-human primates. To this end, we examined the effects of chemopreventive
+agents on AFB metabolism in non-human primates. Hepatic aflatoxin B1 metabolism
+profiles of macaque (Macaca nemestrina) and marmoset (Callithrix jacchus) monkeys
+were determined and compared to humans. Quantitatively, the oxidative metabolism 
+of this mycotoxin was similar in the three primate species. In contrast to
+macaques, both humans and marmosets lacked AFB-glutathione conjugating activity. 
+It was concluded that marmosets resembled human AFB metabolism more closely than 
+the macaques, and therefore, marmoset monkeys were chosen for this study. Eleven 
+adult male marmosets were randomly assigned to three groups. Animals received the
+synthetic dithiolthione oltipraz, the antioxidant ethoxyquin, or vehicle only. In
+addition, two single doses of AFB were also administered orally before and after 
+animals were treated with aforementioned compounds. Both oltipraz and ethoxyquin 
+induced aflatoxin B1-glutathione conjugating activity in the livers of some but
+not all marmosets. In addition, 10 microM oltipraz inhibited cytochrome
+P450-mediated activation of AFB to the ultimate carcinogenic metabolite,
+aflatoxin B1-8,9-epoxide, in vitro, up to 51%. Furthermore, animals treated in
+vivo with oltipraz, but not ethoxyquin, exhibited a significant reduction (53%
+average) in AFB-DNA adduct formation relative to the control animals (p < 0.05). 
+Together, our data suggest that chemoprevention is also effective in primates;
+however, most likely to a lesser degree than in rodents.
+
+DOI: 10.1093/toxsci/54.1.30 
+PMID: 10746929  [Indexed for MEDLINE]
+
+
+3336. J Biol Chem. 2000 Apr 7;275(14):10648-54.
+
+Characterization of a human angiotensinogen cleaved in its reactive center loop
+by a proteolytic activity from Chinese hamster ovary cells.
+
+Célérier J(1), Schmid G, Le Caer JP, Gimenez-Roqueplo AP, Bur D, Friedlein A,
+Langen H, Corvol P, Jeunemaitre X.
+
+Author information: 
+(1)INSERM U36-Pathologie Vasculaire et Endocrinologie Rénale, Collège de
+France-Chaire de Médecine Expérimentale et d'Endocrinologie Rénale 3, rue d'Ulm
+75005 Paris, France. jerome.celerier@college-de-france.fr
+
+Angiotensinogen, the renin (E.C. 3.4.23.15) substrate, belongs to the serpins
+superfamily and has been classified as a noninhibitory serpin. Using mass
+spectroscopy, angiotensinogen purified from Chinese hamster ovary cell
+supernatant shows a broad spectrum. The absence of protease inhibitors throughout
+the purification leads to an angiotensinogen cleaved within the reactive center
+loop. This cleavage does not affect the Ang I generation because kinetic
+parameters are similar to the values of the full-length angiotensinogen. Although
+cleavage is complete, the cleaved angiotensinogen migrates after deglycosylation 
+on SDS-polyacrylamide gel electrophoresis as a doublet differing by 4 kDa. To
+test whether the circulating angiotensinogen is cleaved in the reactive center
+loop, it was purified from a pool of human plasma and was shown to be uncleaved. 
+Its migration was obviously slower than of cleaved angiotensinogen but also
+consisted of two bands pointing to a so far unexplained residual heterogeneity.
+We then compared the heat-induced polymerization of full-length- and reactive
+center loop-cleaved angiotensinogens. Both monomers were able to aggregate,
+revealing a particular behavior of angiotensinogen distinct from that of reactive
+center loop-cleaved serpins. Lacking the three-dimensional structure of
+angiotensinogen, we propose and discuss a structural model of the serpin fold
+within the renin substrate.
+
+DOI: 10.1074/jbc.275.14.10648 
+PMID: 10744761  [Indexed for MEDLINE]
+

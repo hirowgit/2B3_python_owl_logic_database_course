@@ -1,0 +1,41 @@
+
+
+1099. Xenobiotica. 2016 Nov;46(11):977-85. doi: 10.3109/00498254.2016.1146366. Epub
+2016 Feb 22.
+
+Marmoset cytochrome P450 2J2 mainly expressed in small intestines and livers
+effectively metabolizes human P450 2J2 probe substrates, astemizole and
+terfenadine.
+
+Uehara S(1), Uno Y(2), Inoue T(3), Okamoto E(1), Sasaki E(3)(4), Yamazaki H(1).
+
+Author information: 
+(1)a Laboratory of Drug Metabolism and Pharmacokinetics , Showa Pharmaceutical
+University , Machida , Tokyo , Japan .
+(2)b Pharmacokinetics and Bioanalysis Center, Shin Nippon Biomedical
+Laboratories, Ltd , Kainan , Wakayama , Japan .
+(3)c Department of Applied Developmental Biology , Central Institute for
+Experimental Animals , Kawasaki , Japan , and.
+(4)d Keio Advanced Research Center, Keio University , Minato-Ku, Tokyo , Japan.
+
+1. Common marmoset (Callithrix jacchus), a New World Monkey, has potential to be 
+a useful animal model in preclinical studies. However, drug metabolizing
+properties have not been fully understood due to insufficient information on
+cytochrome P450 (P450), major drug metabolizing enzymes. 2. Marmoset P450 2J2
+cDNA was isolated from marmoset livers. The deduced amino acid sequence showed a 
+high-sequence identity (91%) with cynomolgus monkey and human P450 2J2 enzymes. A
+phylogenetic tree revealed that marmoset P450 2J2 was evolutionarily closer to
+cynomolgus monkey and human P450 2J2 enzymes, than P450 2J forms in pigs,
+rabbits, rats or mice. 3. Marmoset P450 2J2 mRNA was abundantly expressed in the 
+small intestine and liver, and to a lesser extent in the brain, lung and kidney. 
+Immunoblot analysis also showed expression of marmoset P450 2J2 protein in the
+small intestine and liver. 4. Enzyme assays using marmoset P450 2J2 protein
+heterologously expressed in Escherichia coli indicated that marmoset P450 2J2
+effectively catalyzed astemizole O-demethylation and terfenadine t-butyl
+hydroxylation, similar to human and cynomolgus monkey P450 2J2 enzymes. 5. These 
+results suggest the functional characteristics of P450 2J2 enzymes are similar
+among marmosets, cynomolgus monkeys and humans.
+
+DOI: 10.3109/00498254.2016.1146366 
+PMID: 26899760  [Indexed for MEDLINE]
+

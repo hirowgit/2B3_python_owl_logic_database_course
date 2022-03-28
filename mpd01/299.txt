@@ -1,0 +1,93 @@
+
+
+299. Cell Rep. 2020 Jun 23;31(12):107799. doi: 10.1016/j.celrep.2020.107799.
+
+Recently Evolved Enhancers Emerge with High Interindividual Variability and Less 
+Frequently Associate with Disease.
+
+Castelijns B(1), Baak ML(1), Geeven G(1), Vermunt MW(1), Wiggers CRM(2),
+Timpanaro IS(1), Kondova I(3), de Laat W(1), Creyghton MP(4).
+
+Author information: 
+(1)Hubrecht Institute-KNAW & University Medical Center Utrecht, Utrecht, the
+Netherlands.
+(2)Hubrecht Institute-KNAW & University Medical Center Utrecht, Utrecht, the
+Netherlands; Department of Pediatric Hematology, University Medical Center
+Utrecht, Utrecht, the Netherlands.
+(3)Biomedical Primate Research Center, Lange Kleiweg 161, 2288GJ Rijswijk, the
+Netherlands.
+(4)Hubrecht Institute-KNAW & University Medical Center Utrecht, Utrecht, the
+Netherlands; Erasmus University Medical Center, Department of Developmental
+Biology, Wytemaweg 80, 3015 CN Rotterdam, the Netherlands. Electronic address:
+m.creyghton@erasmusmc.nl.
+
+Mutations in non-coding regulatory DNA such as enhancers underlie a wide variety 
+of diseases including developmental disorders and cancer. As enhancers rapidly
+evolve, understanding their function and configuration in non-human disease
+models can have important clinical applications. Here, we analyze enhancer
+configurations in tissues isolated from the common marmoset, a widely used
+primate model for human disease. Integrating these data with human and mouse
+data, we find that enhancers containing trait-associated variants are
+preferentially conserved. In contrast, most human-specific enhancers are highly
+variable between individuals, with a subset failing to contact promoters. These
+are located further away from genes and more often reside in inactive
+B-compartments. Our data show that enhancers typically emerge as instable
+elements with minimal biological impact prior to their integration in a
+transcriptional program. Furthermore, our data provide insight into which trait
+variations in enhancers can be faithfully modeled using the common marmoset.
+
+Copyright © 2020 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2020.107799 
+PMID: 32579926  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests The authors declare no
+competing interests.
+
+
+300. Sci Rep. 2020 Jun 23;10(1):10221. doi: 10.1038/s41598-020-67157-5.
+
+Cardiac MRI in common marmosets revealing age-dependency of cardiac function.
+
+Moussavi A(1)(2), Mietsch M(3)(4)(5), Drummer C(3)(6), Behr R(3)(6), Mylius J(7),
+Boretius S(7)(3).
+
+Author information: 
+(1)Functional Imaging Laboratory, German Primate Center, Leibniz Institute for
+Primate Research, Göttingen, Germany. amoussavi@dpz.eu.
+(2)DZHK (German Center for Cardiovascular Research), partner site Göttingen,
+Göttingen, Germany. amoussavi@dpz.eu.
+(3)DZHK (German Center for Cardiovascular Research), partner site Göttingen,
+Göttingen, Germany.
+(4)Unit of Infection Models, German Primate Center, Leibniz Institute for Primate
+Research, Göttingen, Germany.
+(5)Department of Laboratory Animal Science, German Primate Center, Leibniz
+Institute for Primate Research, Göttingen, Germany.
+(6)Platform Degenerative Diseases, German Primate Center, Leibniz Institute for
+Primate Research, Göttingen, Germany.
+(7)Functional Imaging Laboratory, German Primate Center, Leibniz Institute for
+Primate Research, Göttingen, Germany.
+
+The aim of this study was to establish a feasible and robust magnetic resonance
+imaging protocol for the quantitative assessment of cardiac function in marmosets
+and to present normal values of cardiac function across different ages from young
+adult, middle-aged, to very old clinically healthy animals. Cardiac MRI of 33
+anesthetized marmosets at the age of 2-15 years was performed at 9.4 T using
+IntraGate-FLASH that operates without any ECG-triggering and breath holding.
+Normalized to post-mortem heart weight, the left ventricular end-diastolic volume
+(LV-EDV) was significantly reduced in older marmosets. The LV end-systolic volume
+(LV-ESV) and the LV stroke volume (LV-SV) showed a similar trend while the LV
+ejection fraction (LV-EF) and wall thickening remained unchanged. Similar
+observations were made for the right ventricle. Moreover, the total ventricular
+myocardial volume was lower in older monkeys while no significant difference in
+heart weight was found. In conclusion, IntraGate-FLASH allowed for quantification
+of left ventricular cardiac function but seems to underestimate the volumes of
+the right ventricle. Although less strong and without significant sex
+differences, the observed age related changes were similar to previously reported
+findings in humans supporting marmosets as a model system for age related
+cardiovascular human diseases.
+
+DOI: 10.1038/s41598-020-67157-5 
+PMCID: PMC7311402
+PMID: 32576909  [Indexed for MEDLINE]
+

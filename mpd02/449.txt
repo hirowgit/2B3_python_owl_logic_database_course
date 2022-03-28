@@ -1,0 +1,42 @@
+
+
+449. Sci Rep. 2019 Aug 20;9(1):12134. doi: 10.1038/s41598-019-48643-x.
+
+Diet, digestion and energy intake in captive common marmosets (Callithrix
+jacchus): research and management implications.
+
+Power ML(1), Adams J(2), Solonika K(3), Colman RJ(3)(4), Ross C(2)(5), Tardif
+SD(2).
+
+Author information: 
+(1)Conservation Ecology Center, Smithsonian Conservation Biology Institute,
+Washington DC, USA. powerm@si.edu.
+(2)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX, USA.
+(3)Wisconsin National Primate Research Center, Madison, WI, USA.
+(4)Department of Cell & Regenerative Biology, School of Medicine and Public
+Health, University of Wisconsin, Madison, WI, USA.
+(5)Texas A&M University San Antonio, San Antonio, TX, USA.
+
+Common marmosets (Callithrix jacchus) are susceptible to intestinal inflammation 
+which leads to chronic diarrhea, weight loss, and vitamin D deficiency. We
+examined food intake and digestion in three mixed-sex groups of adult marmosets
+maintained on three commercial base diets. Animals underwent two consecutive
+4-day digestion trials. Body mass stayed constant. Feces and diet were assayed
+for Mn, fat, and gross energy (GE). Apparent digestibility of dry matter (ADDM)
+was calculated by the total collection method and from dietary and fecal Mn; the 
+methods produced correlated results (r = 0.658, p < 0.001). Apparent
+digestibility of energy (ADE) was calculated from ADDM and the GE of feces and
+diet; apparent digestibility of fat (ADfat) was calculated from ADDM and fecal
+fat. ADDM and ADE varied by diet (p < 0.001). We found poor digesters on all
+three diets. The concentration of fecal fat was inversely related to ADE
+(r = -0.729, p < 0.001). High fecal fat (>10%) was associated with ADfat of zero,
+consistent with lipid malabsorption. Mean digestible energy intake (DEI) was
+equal to 1.5 the estimated metabolic rate, but varied widely between individuals.
+The diet with the fewest animals with high fecal fat had the highest mean DEI and
+most animals above 450 g, suggesting it may be obesogenic.
+
+DOI: 10.1038/s41598-019-48643-x 
+PMCID: PMC6702194
+PMID: 31431664  [Indexed for MEDLINE]
+

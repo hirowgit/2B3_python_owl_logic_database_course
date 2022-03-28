@@ -1,0 +1,29 @@
+
+
+3628. Immunity. 1997 Nov;7(5):667-77.
+
+Reversal of EBV immortalization precedes apoptosis in IL-6-induced human B cell
+terminal differentiation.
+
+Altmeyer A(1), Simmons RC, Krajewski S, Reed JC, Bornkamm GW, Chen-Kiang S.
+
+Author information: 
+(1)Department of Pathology, Cornell University Medical College, New York, New
+York 10021, USA.
+
+Cell death in B cell terminal differentiation rapidly follows cell cycle arrest
+in IL-6 differentiation of EBV-immortalized, IgG-bearing human lymphoblastoid
+cells in vitro. G1 arrest is now found to coincide with repression of EBNA2 and
+LMP1, two EBV genes essential for B cell transformation, without activation of
+the viral lytic cycle. IL-6-differentiated B cells die by apoptosis, as evidenced
+by increases in Annexin V binding activity, PARP cleavage, and chromatin
+disorganization. Expression of Mcl-1, a Bcl-2 family member, was specifically
+induced during IL-6 differentiation and down-regulated during apoptosis. Thus,
+IL-6 reverses EBV immortalization and activates the terminal differentiation
+program in IgG-bearing human B lymphoblastoid cells, including regulation of an
+anti-apoptotic gene to coordinate differentiation, cell cycle arrest, and cell
+death.
+
+DOI: 10.1016/s1074-7613(00)80387-8 
+PMID: 9390690  [Indexed for MEDLINE]
+

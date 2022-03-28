@@ -1,0 +1,32 @@
+
+
+1566. Exp Biol Med (Maywood). 2013 Mar;238(3):276-84. doi: 10.1177/1535370213482442.
+
+Directed neural differentiation of induced pluripotent stem cells from non-human 
+primates.
+
+Farnsworth SL(1), Qiu Z, Mishra A, Hornsby PJ.
+
+Author information: 
+(1)Geriatric Research Education and Clinical Center, South Texas Veterans Health 
+Care System, San Antonio, TX 78229, USA.
+
+Induced pluripotent stem cells (iPS cells) are important for the future
+development of regenerative medicine involving autologous cell therapy. Before
+autologous cell therapy can be applied to human patients, suitable animal models 
+must be developed, and in this context non-human primate models are critical. We 
+previously characterized several lines of marmoset iPS cells derived from newborn
+skin fibroblasts. In the present studies, we explored methods for the directed
+differentiation of marmoset iPS cells in the neuroectodermal lineage. In this
+process we used an iterative process in which combinations of small molecules and
+protein factors were tested for their effects on mRNA levels of genes that are
+markers for the neuroectodermal lineage. This iterative process identified
+combinations of chemicals/factors that substantially improved the degree of
+marker gene expression over the initially tested combinations. This approach
+should be generally valuable in the directed differentiation of pluripotent cells
+for experimental cell therapy.
+
+DOI: 10.1177/1535370213482442 
+PMCID: PMC3737072
+PMID: 23598973  [Indexed for MEDLINE]
+

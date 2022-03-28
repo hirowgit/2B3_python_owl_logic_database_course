@@ -1,0 +1,57 @@
+
+
+1546. Chronobiol Int. 2013 Jul;30(6):818-27. doi: 10.3109/07420528.2013.767823. Epub
+2013 Jun 14.
+
+Socially adjusted synchrony in the activity profiles of common marmosets in
+light-dark conditions.
+
+Melo P(1), Gonçalves B, Menezes A, Azevedo C.
+
+Author information: 
+(1)Laboratório de Cronobiologia, Departamento de Fisiologia, Universidade Federal
+do Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil.
+
+Synchronized state of activity and rest might be attained by mechanisms of
+entrainment and masking. Most zeitgebers not only act to entrain but also to mask
+circadian rhythms. Although the light-dark (LD) cycle is the main zeitgeber of
+circadian rhythms in marmosets, social cues can act as weaker zeitgebers.
+Evidence on the effects of social entrainment in marmosets has been collected in 
+isolated animals or in pairs where activity is not individually recorded. To
+characterize the synchronization between the daily activity profiles of
+individuals in groups under LD conditions, the motor activity of animals from
+five groups was continuously monitored using actiwatches for 15 days during the
+5th, 8th, and 11th months of life of juveniles. Families consisting of twins (4
+♂♀/1 ♂♂) and their parents were maintained under controlled lighting (LD
+12:12 h), temperature, and humidity conditions. Synchronization was evaluated
+through the synchrony between the circadian activity profiles obtained from the
+Pearson correlation index between possible pairs of activity profiles in the
+light and dark phases. We also calculated the phase-angle differences between the
+activity onset of one animal in relation to the activity onset of each animal in 
+the group (ψ(on)). A similar procedure was performed for activity offset
+(ψ(off)). By visual analysis, the correlation between the activity profiles of
+individuals within each family was stronger than that of individuals from
+different families. A mixed-model analysis showed that within the group, the
+correlation was stronger between twins than between twins and their parents in
+all families, except for the family in which both juveniles were males. Because a
+twin is an important social partner for juveniles, a sibling is likely to have a 
+stronger influence on its twin's activity rhythm than other family members.
+Considering only the light phase, the second strongest correlation was observed
+between the activity profiles of the individuals in the reproductive pair.
+Regarding the parameters ψ(on) and ψ(off), the juvenile/juvenile dyad had lower
+values than the other dyads, but these differences did not reach statistical
+significance in relation to all dyads. Comparing the results of the ψ(on) and
+ψ(off), and correlation indices, we suggest that the latter could detect
+differences between the animals that were not observed in the results of the
+phase-angle differences. These differences could be related to changes that occur
+during the active phase but not only in a particular phase, such as the temporal 
+changes during the activity phase that characterize unimodal or bimodal patterns.
+Based on the differences in the correlations between individuals subjected to the
+same LD routine, we suggest that social cues modulate the circadian activity
+profiles of marmosets as a result of interactions between the animals within each
+group. Future studies are necessary to characterize the mechanisms of
+synchronization that are involved in this social modulation.
+
+DOI: 10.3109/07420528.2013.767823 
+PMID: 23767997  [Indexed for MEDLINE]
+

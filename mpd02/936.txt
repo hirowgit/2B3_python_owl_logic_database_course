@@ -1,0 +1,33 @@
+
+
+936. Sci China Life Sci. 2017 Jan;60(1):66-71. doi: 10.1007/s11427-016-0286-7. Epub
+2017 Jan 5.
+
+Chaetocin reactivates the lytic replication of Epstein-Barr virus from latency
+via reactive oxygen species.
+
+Zhang S(1), Yin J(1), Zhong J(2).
+
+Author information: 
+(1)Department of Microbiology and Microbial Engineering, School of Life Sciences,
+Fudan University, Shanghai, 200438, China.
+(2)Department of Microbiology and Microbial Engineering, School of Life Sciences,
+Fudan University, Shanghai, 200438, China. jzhong@fudan.edu.cn.
+
+Oxidative stress, regarded as a negative effect of free radicals in vivo, takes
+place when organisms suffer from harmful stimuli. Some viruses can induce the
+release of reactive oxygen species (ROS) in infected cells, which may be closely 
+related with their pathogenicity. In this report, chaetocin, a fungal metabolite 
+reported to have antimicrobial and cytostatic activity, was studied for its
+effect on the activation of latent Epstein-Barr virus (EBV) in B95-8 cells. We
+found that chaetocin remarkably up-regulated EBV lytic transcription and DNA
+replication at a low concentration (50 nmol L-1). The activation of latent EBV
+was accompanied by an increased cellular ROS level. N-acetyl-L-cysteine (NAC), an
+ROS inhibitor, suppressed chaetocin-induced EBV activation. Chaetocin had little 
+effect on histone H3K9 methylation, while NAC also significantly reduced H3K9
+methylation. These results suggested that chaetocin reactivates latent EBV
+primarily via ROS pathways.
+
+DOI: 10.1007/s11427-016-0286-7 
+PMID: 28063010  [Indexed for MEDLINE]
+

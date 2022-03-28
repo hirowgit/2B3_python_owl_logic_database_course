@@ -1,0 +1,88 @@
+
+
+1078. Toxicology. 2016 Mar 10;347-349:29-39. doi: 10.1016/j.tox.2016.03.001. Epub 2016 
+Mar 21.
+
+Proteome profiling reveals regional protein alteration in cerebrum of common
+marmoset (Callithrix jacchus) exposed to methylmercury.
+
+Shao Y(1), Yamamoto M(2), Figeys D(3), Ning Z(4), Chan HM(5).
+
+Author information: 
+(1)Natural Resources and Environmental Studies Program, University of Northern
+British Columbia, Prince George, British Columbia V2N 4Z9, Canada.
+(2)Department of Basic Medical Science, National Institute for Minamata Disease, 
+Minamata, Kumamoto 867-0008, Japan. Electronic address: yamamoto@nimd.go.jp.
+(3)Ottawa Institute of Systems Biology, University of Ottawa, Ottawa, Ontario K1H
+8M5, Canada. Electronic address: dfigeys@uottawa.ca.
+(4)Ottawa Institute of Systems Biology, University of Ottawa, Ottawa, Ontario K1H
+8M5, Canada. Electronic address: ningzhibin@gmail.com.
+(5)Center for Advanced Research in Environmental Genomics, University of Ottawa, 
+30 Marie Curie, Ottawa, ON, K1N 6N5, Canada. Electronic address:
+laurie.chan@uottawa.ca.
+
+Methylmercury (MeHg) is known to selectively damage the calcarine and precentral 
+cortices along deep sulci and fissures in adult cases, but the detailed mechanism
+is still unclear. This study aims to identify and analyze the differential
+proteome expression in two regions of the cerebrum (the frontal lobe and the
+occipital lobe including the calcarine sulcus) of the common marmoset exposed to 
+MeHg using a shot-gun proteomic approach. A total of 1045 and 1062 proteins were 
+identified in the frontal lobe (FL) and occipital lobe (OL), of which, 62 and 89 
+proteins were found significantly changed with MeHg exposure. Functional
+enrichment/depletion analysis showed that the lipid metabolic process and
+proteolysis were affected in both two lobes. Functional changes in FL were
+characterized in cell cycle and cell division, sulfur compound metabolic process,
+microtubule-based process and glycerolipid metabolic process. In comparison,
+proteins were enriched in the functions of transport, carbohydrate metabolic
+process, chemical caused homeostasis and regulation of body fluid levels in OL.
+Pathway analysis predicted that vasopressin-regulated water reabsorption was
+disturbed in MeHg-treated FL. Our results showed that MeHg induced regional
+specific protein changes in FL and OL but with similar endpoint effects such as
+energy diminish and disruption of water transport. APOE and GPX1 were shown to be
+possible key proteins targeted by MeHg leading to multiple functional changes in 
+OL. This is the first report of the whole proteome changes of primate cerebrum
+for MeHg neurotoxicity, and the results will contribute to the understanding of
+molecular basis of MeHg intoxication in humans.
+
+Copyright © 2016 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.tox.2016.03.001 
+PMID: 27012723  [Indexed for MEDLINE]
+
+
+1079. Neurodegener Dis. 2016;16(5-6):293-303. doi: 10.1159/000442574. Epub 2016 Mar 22.
+
+Individual and Familial Susceptibility to MPTP in a Common Marmoset Model for
+Parkinson's Disease.
+
+Franke SK(1), van Kesteren RE, Hofman S, Wubben JA, Smit AB, Philippens IH.
+
+Author information: 
+(1)Department of Molecular and Cellular Neurobiology, Center for Neurogenomics
+and Cognitive Research, Neuroscience Campus Amsterdam, VU University, Amsterdam, 
+The Netherlands.
+
+INTRODUCTION: Insight into susceptibility mechanisms underlying Parkinson's
+disease (PD) would aid the understanding of disease etiology, enable target
+finding and benefit the development of more refined disease-modifying strategies.
+METHODS: We used intermittent low-dose MPTP (0.5 mg/kg/week) injections in
+marmosets and measured multiple behavioral and neurochemical parameters.
+Genetically diverse monkeys from different breeding families were selected to
+investigate inter- and intrafamily differences in susceptibility to MPTP
+treatment.
+RESULTS: We show that such differences exist in clinical signs, in particular
+nonmotor PD-related behaviors, and that they are accompanied by differences in
+neurotransmitter levels. In line with the contribution of a genetic component,
+different susceptibility phenotypes could be traced back through genealogy to
+individuals of the different families.
+CONCLUSION: Our findings show that low-dose MPTP treatment in marmosets
+represents a clinically relevant PD model, with a window of opportunity to
+examine the onset of the disease, allowing the detection of individual
+variability in disease susceptibility, which may be of relevance for the
+diagnosis and treatment of PD in humans.
+
+© 2016 S. Karger AG, Basel.
+
+DOI: 10.1159/000442574 
+PMID: 26999593  [Indexed for MEDLINE]
+

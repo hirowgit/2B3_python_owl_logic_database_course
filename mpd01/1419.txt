@@ -1,0 +1,87 @@
+
+
+1419. Neurosci Res. 2014 Jun;83:33-42. doi: 10.1016/j.neures.2014.04.002. Epub 2014 Apr
+21.
+
+Motor learning in common marmosets: vestibulo-ocular reflex adaptation and its
+sensitivity to inhibitors of Purkinje cell long-term depression.
+
+Anzai M(1), Nagao S(2).
+
+Author information: 
+(1)Laboratory for Motor Learning Control, RIKEN Brain Science Institute, Hirosawa
+2-1, Wako, Saitama 351-0198, Japan.
+(2)Laboratory for Motor Learning Control, RIKEN Brain Science Institute, Hirosawa
+2-1, Wako, Saitama 351-0198, Japan. Electronic address: nagaos@brain.riken.jp.
+
+Adaptation of the horizontal vestibulo-ocular reflex (HVOR) provides an
+experimental model for cerebellum-dependent motor learning. We developed an eye
+movement measuring system and a paradigm for induction of HVOR adaptation for the
+common marmoset. The HVOR gain in dark measured by 10° (peak-to-peak amplitude)
+and 0.11-0.5Hz turntable oscillation was around unity. The gain-up and gain-down 
+HVOR adaptation was induced by 1h of sustained out-of-phase and in-phase
+10°-0.33Hz combined turntable-screen oscillation in the light, respectively. To
+examine the role of long-term depression (LTD) of parallel fiber-Purkinje cell
+synapses, we intraperitonially applied T-588 or nimesulide, which block the
+induction of LTD in vitro or in vivo preparations, 1h before the test of HVOR
+adaptation. T-588 (3 and 5mg/kg body weight) did not affect nonadapted HVOR
+gains, and impaired both gain-up and gain-down HVOR adaptation. Nimesulide (3 and
+6mg/kg) did not affect nonadapted HVOR gains, and impaired gain-up HVOR
+adaptation dose-dependently; however, it very little affected gain-down HVOR
+adaptation. These findings are consistent with the results of our study of
+nimesulide on the adaptation of horizontal optokinetic response in mice (Le et
+al., 2010), and support the view that LTD underlies HVOR adaptation.
+
+Copyright © 2014 Elsevier Ireland Ltd and the Japan Neuroscience Society. All
+rights reserved.
+
+DOI: 10.1016/j.neures.2014.04.002 
+PMID: 24768746  [Indexed for MEDLINE]
+
+
+1420. Proc Natl Acad Sci U S A. 2014 May 6;111(18):E1924-32. doi:
+10.1073/pnas.1320735111. Epub 2014 Apr 21.
+
+Fetal programming of adult Leydig cell function by androgenic effects on
+stem/progenitor cells.
+
+Kilcoyne KR(1), Smith LB, Atanassova N, Macpherson S, McKinnell C, van den
+Driesche S, Jobling MS, Chambers TJ, De Gendt K, Verhoeven G, O'Hara L, Platts S,
+Renato de Franca L, Lara NL, Anderson RA, Sharpe RM.
+
+Author information: 
+(1)Medical Research Council Centre for Reproductive Health, The Queen's Medical
+Research Institute, University of Edinburgh, Edinburgh EH16 4TJ, United Kingdom.
+
+Comment in
+    Asian J Androl. 2015 Mar-Apr;17(2):219-20.
+
+Fetal growth plays a role in programming of adult cardiometabolic disorders,
+which in men, are associated with lowered testosterone levels. Fetal growth and
+fetal androgen exposure can also predetermine testosterone levels in men,
+although how is unknown, because the adult Leydig cells (ALCs) that produce
+testosterone do not differentiate until puberty. To explain this conundrum, we
+hypothesized that stem cells for ALCs must be present in the fetal testis and
+might be susceptible to programming by fetal androgen exposure during
+masculinization. To address this hypothesis, we used ALC ablation/regeneration to
+identify that, in rats, ALCs derive from stem/progenitor cells that express
+chicken ovalbumin upstream promoter transcription factor II. These stem cells are
+abundant in the fetal testis of humans and rodents, and lineage tracing in mice
+shows that they develop into ALCs. The stem cells also express androgen receptors
+(ARs). Reduction in fetal androgen action through AR KO in mice or dibutyl
+phthalate (DBP) -induced reduction in intratesticular testosterone in rats
+reduced ALC stem cell number by ∼40% at birth to adulthood and induced
+compensated ALC failure (low/normal testosterone and elevated luteinizing
+hormone). In DBP-exposed males, this failure was probably explained by reduced
+testicular steroidogenic acute regulatory protein expression, which is associated
+with increased histone methylation (H3K27me3) in the proximal promoter.
+Accordingly, ALCs and ALC stem cells immunoexpressed increased H3K27me3, a change
+that was also evident in ALC stem cells in fetal testes. These studies highlight 
+how a key component of male reproductive development can fundamentally reprogram 
+adult hormone production (through an epigenetic change), which might affect
+lifetime disease risk.
+
+DOI: 10.1073/pnas.1320735111 
+PMCID: PMC4020050
+PMID: 24753613  [Indexed for MEDLINE]
+

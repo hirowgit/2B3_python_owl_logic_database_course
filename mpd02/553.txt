@@ -1,0 +1,51 @@
+
+
+553. Mult Scler. 2020 Mar;26(3):284-293. doi: 10.1177/1352458518822408. Epub 2019 Feb 
+7.
+
+The spectrum of spinal cord lesions in a primate model of multiple sclerosis.
+
+Lefeuvre JA(1), Guy JR(2), Luciano NJ(2), Ha SK(2), Leibovitch E(3), Santin
+MD(4), Silva AC(5), Jacobson S(3), Lehéricy S(4), Reich DS(2), Sati P(2).
+
+Author information: 
+(1)Translational Neuroradiology Section, National Institute of Neurological
+Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA/Institut
+du Cerveau et de la Moelle-ICM, Centre de NeuroImagerie de Recherche-CENIR,
+Sorbonne Universités, Paris, France.
+(2)Translational Neuroradiology Section, National Institute of Neurological
+Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA.
+(3)Viral Immunology Section, National Institute of Neurological Disorders and
+Stroke, National Institutes of Health, Bethesda, MD, USA.
+(4)Institut du Cerveau et de la Moelle-ICM, Centre de NeuroImagerie de
+Recherche-CENIR, Sorbonne Universités, Paris, France.
+(5)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD, USA.
+
+BACKGROUND: Experimental autoimmune encephalomyelitis (EAE) in the common
+marmoset is a nonhuman primate model of multiple sclerosis (MS) that shares
+numerous clinical, radiological, and pathological features with MS. Among the
+clinical features are motor and sensory deficits that are highly suggestive of
+spinal cord (SC) damage.
+OBJECTIVE: To characterize the extent and nature of SC damage in symptomatic
+marmosets with EAE using a combined magnetic resonance imaging (MRI) and
+histopathology approach.
+MATERIALS AND METHODS: SC tissues from five animals were scanned using 7 T MRI to
+collect high-resolution ex vivo images. Lesions were segmented and classified
+based on shape, size, and distribution along the SC. Tissues were processed for
+histopathological characterization (myelin and microglia/macrophages).
+Statistical analysis, using linear mixed-effects models, evaluated the
+association between MRI and histopathology.
+RESULTS: Marmosets with EAE displayed two types of SC lesions: focal and subpial 
+lesions. Both lesion types were heterogeneous in size and configuration and
+corresponded to areas of marked demyelination with high density of inflammatory
+cells. Inside the lesions, the MRI signal was significantly correlated with
+myelin content (p < 0.001).
+CONCLUSIONS: Our findings underscore the relevance of this nonhuman primate EAE
+model for better understanding mechanisms of MS lesion formation in the SC.
+
+DOI: 10.1177/1352458518822408 
+PMCID: PMC6685769
+PMID: 30730246  [Indexed for MEDLINE]
+

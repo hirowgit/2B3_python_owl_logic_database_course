@@ -1,0 +1,48 @@
+
+
+444. PLoS One. 2019 Aug 27;14(8):e0221164. doi: 10.1371/journal.pone.0221164.
+eCollection 2019.
+
+A versatile toolbox for knock-in gene targeting based on the Multisite Gateway
+technology.
+
+Yoshimatsu S(1)(2), Sone T(1), Nakajima M(1), Sato T(1), Okochi R(1), Ishikawa
+M(1), Nakamura M(1), Sasaki E(3)(4), Shiozawa S(1), Okano H(1)(4).
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, Shinjuku-ku,
+Tokyo, Japan.
+(2)Laboratory for Proteolytic Neuroscience, RIKEN Center for Brain Science, Wako 
+City, Saitama, Japan.
+(3)Central Institute for Experimental Animals, Kawasaki City, Kanagawa, Japan.
+(4)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako City, Saitama, Japan.
+
+Knock-in (KI) gene targeting can be employed for a wide range of applications in 
+stem cell research. However, vectors for KI require multiple complicated
+processes for construction, including multiple times of digestion/ligation steps 
+and extensive restriction mapping, which has imposed limitations for the robust
+applicability of KI gene targeting. To circumvent this issue, here we introduce
+versatile and systematic methods for generating KI vectors by molecular cloning. 
+In this approach, we employed the Multisite Gateway technology, an efficient in
+vitro DNA recombination system using proprietary sequences and enzymes. KI vector
+construction exploiting these methods requires only efficient steps, such as PCR 
+and recombination, enabling robust KI gene targeting. We show that combinatorial 
+usage of the KI vectors generated using this method and site-specific nucleases
+enabled the precise integration of fluorescent protein genes in multiple loci of 
+human and common marmoset (marmoset; Callithrix jacchus) pluripotent stem cells. 
+The methods described here will facilitate the usage of KI technology and
+ultimately help to accelerate stem cell research.
+
+DOI: 10.1371/journal.pone.0221164 
+PMCID: PMC6711506
+PMID: 31454364  [Indexed for MEDLINE]
+
+Conflict of interest statement: T.S. is currently a paid employee of Takara Bio
+Inc., but all the experiments in this study were performed while he was in Keio
+University, where he had no conflicts of interest with the company. H.O. serves
+as a paid scientific advisor at SanBio Co. Ltd. and K Pharma Inc. The other
+authors declare neither financial nor non-financial competing interests. This
+does not alter the authors' adherence to PLOS ONE policies on sharing data and
+materials.
+

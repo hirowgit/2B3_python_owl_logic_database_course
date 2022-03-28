@@ -1,0 +1,190 @@
+
+
+286. Sci Rep. 2020 Jul 28;10(1):12625. doi: 10.1038/s41598-020-69690-9.
+
+Induction of macrophage-like immunosuppressive cells from common marmoset ES
+cells by stepwise differentiation with DZNep.
+
+Tsuji H(#)(1), Otsuka R(#)(1), Wada H(1), Murata T(1), Sasaki A(1), Itoh M(1),
+Baghdadi M(1), Sasaki E(2), Seino KI(3).
+
+Author information: 
+(1)Division of Immunobiology, Institute for Genetic Medicine, Hokkaido
+University, Kita-15 Nishi-7, Sapporo, 060-0815, Japan.
+(2)Central Institute for Experimental Animals, 3-25-12 Tonomachi, Kawasaki,
+Kanagawa, 21-0821, Japan.
+(3)Division of Immunobiology, Institute for Genetic Medicine, Hokkaido
+University, Kita-15 Nishi-7, Sapporo, 060-0815, Japan. seino@igm.hokudai.ac.jp.
+(#)Contributed equally
+
+Recent progress in regenerative medicine has enabled the utilization of
+pluripotent stem cells (PSCs) as the resource of therapeutic cells/tissue.
+However, immune suppression is still needed when the donor-recipient combination 
+is allogeneic. We have reported previously that mouse PSCs-derived
+immunosuppressive cells contribute to prolonged survival of grafts derived from
+the same mouse PSCs in allogeneic recipients. For its clinical application, a
+preclinical study using non-human primates such as common marmoset must be
+performed. In this study, we established the induction protocol of
+immunosuppressive cells from common marmoset ES cells. Although similar
+immunosuppressive macrophages could not be induced by same protocol as that for
+mouse PSCs, we employed an inhibitor for histone methyltransferase, DZNep, and
+succeeded to induce them. The DZNep-treated macrophage-like cells expressed
+several immunosuppressive molecules and significantly inhibited allogeneic mixed 
+lymphocyte reaction. The immunosuppressive cells from non-human primate ESCs will
+help to establish an immunoregulating strategy in regenerative medicine using
+PSCs.
+
+DOI: 10.1038/s41598-020-69690-9 
+PMCID: PMC7387549
+PMID: 32724084  [Indexed for MEDLINE]
+
+
+287. Ecology. 2020 Nov;101(11):e03115. doi: 10.1002/ecy.3115.
+
+NEOTROPICAL ALIEN MAMMALS: a data set of occurrence and abundance of alien
+mammals in the Neotropics.
+
+Rosa CAD, Ribeiro BR, Bejarano V, Puertas FH, Bocchiglieri A, Barbosa ALDS,
+Chiarello AG, Paglia AP, Pereira AA, Moreira AFS, Souza AC, Pellegrin A, Gatica
+A, Medeiro AZ, Pereira AD, Braz AG, Yanosky A, Valenzuela AEJ, Bertassoni A,
+Prado ADSVD, Nava AFD, Rocha A, Bovo AAA, Bager A, Cravino A, Pires ADS,
+Martensen AC, Filippini A, Percequillo AR, Vogliotti A, Antunes AZ, Leite de
+Oliveira AC, da Silva de Oliveira AJ, Devlin A, de Paula A, Ferreira AS,
+García-Olaechea A, Subalusky A, Sánchez A, de Aquino ACMM, Srbek-Araujo AC,
+Paldês Gonçales A, Araújo ACL, Gozzi AC, Ochoa AC, Mendes de Oliveira AC, Lacerda
+ACR, Francisco AK, Paschoal AMO, Gomes APN, Potrich AP, Olímpio APM, Rojas A,
+Meiga AYY, Jácomo ATA, Calaça AM, Feijó A, Pagoto A, Borja Miranda A, Chein
+Alonso A, Barreto-Lima AF, Lanna A, Luza AL, Camilo AR, Tavares A, Nunes AV,
+Kindel A, de Miguel A, Gatti A, Nobre AB, Campêlo ADC, Albuquerque ACF, de la
+Torre A, Mangione A, Mendes Pontes AR, Fernandes AS, Felicio ALA, Ferreguetti AC,
+Marcili A, Piratelli AJ, Nascimento AGSD, Banhos Dos Santos Á, Rosa BF, Cezila
+BA, de Thoisy B, Ingberman B, Köhler B, Morais BC, Gómez-Valencia B, Bertagni de 
+Camargo B, Bezerra BM, Tamasauskas B, Parahyba Campos BAT, Kubiak BB, Saranholi
+BH, Nakagawa BK, Leles BP, Lim BK, Pereira Mendes C, Islas CA, Aoki C, Cantagallo
+Devids C, Figueiredo C, Abreu CMG, Silva Oliveira CR, Cassano CR, Lugarini C,
+Caputo C, Gestich CC, Tedesco CD, Vera Y Conde CF, Hegel CGZ, Kasper CB, De
+Angelo C, Grelle CEV, Fragoso CE, Esbérard CEL, Rocha CFD, Verona CE, Salvador
+CH, Vieira CL, Abrahão CR, Brocardo CR, Fieker CZ, Braga C, Sánchez Lalinde C,
+Bueno C, Ikuta CY, Luna CLB, Cestari C, Del Vechio Koike C, Knogge C, Anderson
+CB, Hurtado CM, Ferreira Antunes de Oliveira C, Tellaeche C, Cesário CS, Costa
+CG, Kanda CZ, Costa SA, Seixas CS, Trinca CT, López-Fuerte CF, da Cunha CJ,
+Doutel Ribas C, Santos CC, Buscariol D, Carreira D, Nascimento DCD, Carvalho DR, 
+Ferraz DDS, Galiano D, Homem DH, Jesús-Espinosa D, Bôlla DAS, Moreno DJ, Moreira 
+DO, Ramos DL, de Amorim DA, Barros-Battesti DM, Lopez DE, Tavares DC, Post DM,
+Couto DR, Patrocínio DN, Carvalho DLKP, Silva DA, Córdoba D, Queirolo D, Varela
+D, de Oliveira DAG, Casanova DC, Dias DM, Machado da Silva D, Barbier E,
+Rivadeneira EF, Alexandrino E, Carrano E, Santos EM, Venticinque EM,
+Hernández-Pérez E, Casazza EDF, Anderson EP, Fraga EDC, de Lima EF, D'Bastiani E,
+Vieira EM, Guijosa-Guadarrama E, González EM, Maggiorini EV, Aguiar EFS,
+Martínez-Nambo ED, Castro ÉP, de la Peña-Cuéllar E, Pedó E, Melo FCSA, Rocha FL, 
+Fonseca FL, Girardi F, Melo FR, Roque FO, Keesen Ferreira F, Peters FB, Moreli
+Fantacini F, Pedrosa F, Pessoa da Silva F, Vélez-García F, Abra FD, de Azevedo
+FC, Guedes da Silva F, Neri FM, Teixeira FZ, Fernandez FADS, Carvalho F, Passos
+FC, Jacinavicius FC, Ferreira F, Pinho FF, Gonçalves F, Ibanez Martins F, Lima F,
+Contreras-Moreno FM, Ribeiro FS, Tortato F, Patel FM, Caruso F, Tirelli FP,
+Rodrigues FHG, Ubaid FK, Palmeira FBL, Grotta Neto F, Gabriel FH, de Souza FL,
+Costa FEDVD, de Aguiar GL, Lemos FG, Magezi GS, Panigai GFVD, Hofmann GS,
+Heliodoro G, Rosa Graviola G, Beca G, Andrade GR, Jiménez Romero G, Duarte GT,
+Melo GL, Dierings GL, Sabino-Santos G Jr, de Oliveira GL, Santana GG, Ciocheti G,
+Zanirato GL, Alves GB, Batista GO, Behling GM, Ferreira GB, da Rocha GC, Lessa G,
+Mourão G, Maras GA, Toledo GADC, Gonsioroski G, Canale GR, Schuchmann KL,
+Sebastião H, Alves do Prado H, Bergallo HG, Secco HKC, Roig HL, Rajão H, Carlos
+HSA, Duarte HOB, Ermenegildo H, Pena HFJ, Entringer Júnior H, Paulino Neto HF,
+Lemos HM, Del Castillo H, Fernandes-Ferreira H, Coitiño Banquero HI, Roesler I,
+Ribeiro IK, Coelho IP, Lima IMS, Bechara IM, Lermen IS, Mella Méndez I, Schuck G,
+Esperandio IB, Silva IO, Mourthe I, Oliveira I, Bernardi IP, Miller JR,
+Marinho-Filho J, Zocche JJ, Russell JC, Seibert JB, Hinojosa J, Vitule JRS,
+Thompson JJ, Silva JCR, Gouvea JA, Santos JP, Falcão JCF, Castro-Prieto J,
+Ferreira JP, Pincheira-Ulbrich J, Nodari JZ, Zecchini Gebin JC, Giovanelli JGR,
+Miranda JMD, Souza-Alves JP, Marins JRGA, Costa JF, Sponchiado J, de Souza JL,
+Gallo JA, Cherem JJ, Cordeiro JLP, Duarte JMB, Dantas JO, de Matos JR, Pires JSR,
+Martínez Lanfranco JA, de la Cruz Godoy JC, Rudolf JC, Parrish JFR, Tellarini JF,
+Peña-Mondragón JL, Arrabal JP, Reppucci J, Ruiz-Esparza J, Beduschi J, Oshima
+JEF, Ribeiro JF, Almeida Rocha JM, Ferreira Neto JS, Silveira Dos Santos J,
+Pereira-Ribeiro J, Zanoni JB, Bogoni JA, Ferreira JR, Bicca-Marques JC, Chacón
+Pacheco JJ, Scarascia PO, Guidoni-Martins KG, Burs K, Ferraz KMPMB, Pisciotta KR,
+Silva KVKA, Juarez KM, de la Cruz-Félix K, de Morais KDR, Candelária LP,
+Fornitano L, Bailey LL, Gonçalves LO, Fasola L, Nova León LJ, de Andrade LR,
+Marques LO, Macedo L, Moreira LS, Silveira L, Oliveira LC, da Silva LH,
+Jerusalinsky L, La Serra L, Marques Costa L, Sartorello LR, Munhoes LP,
+Oliveira-Silva LRB, de Pina LF, Bonjorne L, Rampim LE, Sales LP, Gonçalves da
+Silva L, Quintilham LLT, Perillo LN, Rodríguez-Planes LI, Martín L, Araújo LS,
+Tiepolo LM, Zago Silva L, García Loaiza LM, Querido LCA, da Silva LF, La Sala LF,
+Bopp LT, Hufnagel L, Oliveira LFB, Oliveira-Santos LGR, Lyra LH, Guimarães LN,
+Jimenez Segura LF, de Sousa LC, Möcklinghoff L, Guichón ML, de la Maza J,
+Barrios-Garcia MN, Talamoni SA, Severo MM, Martins MZA, Oliveira MA, Figuerêdo
+Duarte Moraes M, Lima MGM, Soares Pinheiro M, Pônzio MDC, Guerreiro M, Cervini M,
+da Silva M, Oliveira MJR, Magioli M, Passamani M, Silva de Almeida M, Amaku M,
+Leite de Oliveira M, Tortato MA, Melo MA, Coutinho ME, Dantas Santos MP, Vieira
+MV, Andrade MA, Barros MC, Rosario MCFD, Domit MDADS, Fernandes MEA, Iezzi ME, do
+Nascimento MHS, Andrade-Núñez MJ, Lorini ML, Morini MSC, Nagy-Reis MB, Landis MB,
+Vale MM, Xavier MS, Kaizer MC, Baptiste MP, Bergel MM, Borgnia M, Barros MAS,
+Lima da Silva M, Favarini MO, Sales Munerato M, Zaluar MT, Winter M, Xavier da
+Silva M, Zanin M, Marques MI, Haberfeld MB, Di Bitetti MS, Galliez M, Alvarez MR,
+Malerba M, Rivero M, Melo Dias M, de Oliveira MY, Dos Reis MG, Corrêa MRJ,
+Graipel ME, Godoi MN, Núñez-Regueiro MM, Moura MO, Orsi ML, Galvão da Silva MA,
+Sanvicente Lopez M, Benedetti MA, Beltrão MG, Camino M, Faria MB, Miretzki M,
+Luiz MR, Perine M, Monteiro MCM, Alves-Eigenheer M, Perilli MLL, da Silva MA,
+Marini MÂ, Silva Pereira M, de Freitas Junior MC, Cossa N, Denkiewicz NM, Tôrres 
+NM, Olifiers N, de Albuquerque NM, Canassa NF, Detogne N, Gurgel Filho N, Seoane 
+NF, da Rosa Oliveira N, Megale N, Pasqualotto N, Cáceres NC, Peroni N, Zanella N,
+Pays O, Arimoro OAS, Acevedo-Charry O, de Almeida Curi NH, Pinha PRS, Perovic P, 
+Gonçalves PR, Santos PM, Brennand PGG, Kerches Rogeri P, Rosas Ribeiro P, da
+Rocha PA, de Lázari PR, Pedreira PA, Pinheiro PF, Lira PK, Ferreira PM, Martin
+PS, Antas PTZ, Marinho PH, Ruffino PHP, Camargo PHSA, Landgref Filho P, Mangini
+PR, Farias P, Cordeiro-Estrela P, de Faria Peres PH, Galetti PM Jr,
+Ramírez-Bautista P, Maués PCRA, Renaud PC, Sartorello R, Barros PA, Lombardi PM, 
+Bessa R, Arroyo-Gerala P, de Souza RCC, Zenni RD, Flores Peredo R, Hoogesteijn R,
+Loyola R, Alves RSC, Rodarte RRP, Silva RL, de Oliveira R, Beltrão-Mendes R,
+Alencar RM, da Silva RC, Pedroso R, Sampaio RF, Ribeiro RLA, Pardini R,
+Twardowsky Ramalho Bonikowski R, Pagotto RV, Dias RA, Bassini-Silva R, Corassa
+Arrais R, Sampaio R, de Cassia Bianchi R, Paolino RM, Fusco-Costa R, Trovati RG, 
+Espíndola Hack RO, Mauro RA, Nobre RA, Gessulli RD, León Pérez R, Massara RL,
+Fróes da Silva RM, de Paula RC, da Cunha RGT, Costa RT, Marques RV, Morato RG,
+Bovendorp RS, Dornas RADP, Andrade RS, Siciliano S, Guaragni SA, Rolim SG, Astete
+S, Cavalcanti S, Hartz SM, Carvalho S, Cortez S, Silvestre de Sousa SM, Ballari
+SA, Ramos Lima S, Cirignoli S, García-R S, Bazilio S, Solari Torres S, Back
+Franco S, Martins SR, de Bustos S, Age SG, Ferrari SF, Francisco TM, Micheletti
+T, Godim TMDS, Luiz TG, Ochotorena de Freitas TR, Rodrigues TF, Piovezan U,
+Barcos UC, Onofrio VC, Martin-Albarracin VL, Towns V, Araújo VC, Kanaan V, Daga
+VS, Boere V, de Araujo VPG, Benitez VV, Leandro-Silva V, Geraldi VC, Alberici V, 
+Bastazini VAG, Gasparotto VPO, Orsini VS, da Silva VS, Rojas Bonzi V, Pereira
+VJA, Layme VMG, Duarte da Silva VH, Tomas WM, Moreira TA, Martins WP, de Moraes
+Pires WM, Hannibal W, Dáttilo W, Mottin V, Endo W, Bercê W, Carvalho WD,
+Magnusson W, Akkawi P, Di Blanco Y, Amaral PR, Ramos YGC, Rodríguez-Calderón YG, 
+Mendes YR, Ribeiro YGG, Campos Z, Galetti M, Ribeiro MC.
+
+Biological invasion is one of the main threats to native biodiversity. For a
+species to become invasive, it must be voluntarily or involuntarily introduced by
+humans into a nonnative habitat. Mammals were among first taxa to be introduced
+worldwide for game, meat, and labor, yet the number of species introduced in the 
+Neotropics remains unknown. In this data set, we make available occurrence and
+abundance data on mammal species that (1) transposed a geographical barrier and
+(2) were voluntarily or involuntarily introduced by humans into the Neotropics.
+Our data set is composed of 73,738 historical and current georeferenced records
+on alien mammal species of which around 96% correspond to occurrence data on 77
+species belonging to eight orders and 26 families. Data cover 26 continental
+countries in the Neotropics, ranging from Mexico and its frontier regions
+(southern Florida and coastal-central Florida in the southeast United States) to 
+Argentina, Paraguay, Chile, and Uruguay, and the 13 countries of Caribbean
+islands. Our data set also includes neotropical species (e.g., Callithrix sp.,
+Myocastor coypus, Nasua nasua) considered alien in particular areas of
+Neotropics. The most numerous species in terms of records are from Bos sp. (n =
+37,782), Sus scrofa (n = 6,730), and Canis familiaris (n = 10,084); 17 species
+were represented by only one record (e.g., Syncerus caffer, Cervus timorensis,
+Cervus unicolor, Canis latrans). Primates have the highest number of species in
+the data set (n = 20 species), partly because of uncertainties regarding
+taxonomic identification of the genera Callithrix, which includes the species
+Callithrix aurita, Callithrix flaviceps, Callithrix geoffroyi, Callithrix
+jacchus, Callithrix kuhlii, Callithrix penicillata, and their hybrids. This
+unique data set will be a valuable source of information on invasion risk
+assessments, biodiversity redistribution and conservation-related research. There
+are no copyright restrictions. Please cite this data paper when using the data in
+publications. We also request that researchers and teachers inform us on how they
+are using the data.
+
+© 2020 The Authors. Ecology © 2020 The Ecological Society of America.
+
+DOI: 10.1002/ecy.3115 
+PMID: 32700802  [Indexed for MEDLINE]
+

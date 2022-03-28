@@ -1,0 +1,66 @@
+
+
+2728. Endocr Res. 2004 Nov;30(4):753-7.
+
+Expression of AT1-R in marmoset whole adrenal glands and adrenocortical cells in 
+culture.
+
+Bird IM(1), Pattison JC.
+
+Author information: 
+(1)Perinatal Research Labs, Department Ob/Gyn, University of Wisconsin, 7E
+Meriter Hospital/Park, 202 South Park St., Madison, WI 53715, USA.
+imbird@wisc.edu
+
+The marmoset adrenal is interesting as it is developmentally similar to humans
+and other primates, but in adulthood 17,20-lyase activity is very low. One
+possible explanation is an altered regulation of P450c17 expression by AT1-R. We 
+investigated the expression and zonal distribution of the AT1-R in marmoset
+adrenal glands and adrenocortical cells in culture since it is known that AT1-R
+is a regulator of P450c17 expression and activity. AT1-R was expressed strongly
+in the ZG and to diminishing degrees through the remainder of the cortex. There
+was negative expression in a putative ZI. Dispersed adrenocortical cells retained
+AT1-R protein as detected by ICC. Cells cultured for several days and treated in 
+serum-free media for 48 h maintained AT1-R expression, as measured by western.
+However, at that 48 h time point, treatment with Forsk, AII, TPA, or the
+combination of A+F or T+F did not appear to effect AT1-R expression. We conclude 
+that marmoset adrenals express AT1-R similarly to humans and other higher
+mammals, adrenocortical cells retain AT1-R expression in culture, and consistent 
+with other adrenal cell culture models, AT1-R expression is not lost in response 
+to agonists long term.
+
+DOI: 10.1081/erc-200044025 
+PMID: 15666821  [Indexed for MEDLINE]
+
+
+2729. Endocr Res. 2004 Nov;30(4):737-43.
+
+Isolation of marmoset P450c17 cDNA and gene regulation in vitro.
+
+Pattison JC(1), Conley AJ, Bird IM.
+
+Author information: 
+(1)Perinatal Research Laboratories, Department of Obstetrics and Gynaecology,
+University of Wisconsin, Madison, Wisconsin 53715, USA.
+
+Marmosets express a fetal zone during adrenal development but fail to produce
+significant amounts of C19 steroids in adulthood. It is not clear however if
+P450c17 regulation is different from that in humans/rhesus or the primary
+sequence is altered. To this end we isolated marmoset and rhesus adrenocortical
+cells, and treated the cells with known regulators of P450c17 expression for 48
+h. P450c17 protein increased with Forskolin (F) treatment, but was marginally
+inhibited by AII (A) and TPA (T) alone. Combined A + F and T + F dramatically
+ablated the F response. Cortisol levels (EIA) increased upon F treatment and were
+inhibited by A and T. Combination of treatments partially inhibited the F-induced
+response. The protein-coding region of marmoset and rhesus P450c17 cDNAs were
+then isolated from adrenals using RT-PCR/TA cloning. Marmoset P450c17 shows one
+amino acid deletion but otherwise shares 90.6% and 91.4% homologies with the
+human and rhesus cDNA sequences, and 82.4% and 85% homologies with the human and 
+rhesus predicted AA sequences, respectively. Since marmoset adrenocortical cells 
+exhibit similar endocrine function to rhesus, impaired 17,20-lyase activity in
+the adult marmoset adrenal may in part be due to differences in the primary
+sequence.
+
+DOI: 10.1081/erc-200044018 
+PMID: 15666819  [Indexed for MEDLINE]
+

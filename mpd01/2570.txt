@@ -1,0 +1,72 @@
+
+
+2570. Mov Disord. 2006 Jun;21(6):839-46.
+
+Histamine H3 receptor agonists reduce L-dopa-induced chorea, but not dystonia, in
+the MPTP-lesioned nonhuman primate model of Parkinson's disease.
+
+Gomez-Ramirez J(1), Johnston TH, Visanji NP, Fox SH, Brotchie JM.
+
+Author information: 
+(1)Toronto Western Research Institute, Toronto Western Hospital, University
+Health Network, Toronto, Ontario, Canada.
+
+L-dopa-induced dyskinesia (LID) remains a major complication of the treatment of 
+Parkinson's disease. The neural mechanisms underlying LID are thought to involve 
+overactivity of striatal glutamatergic neurotransmission, with resultant
+underactivation of the output regions of the basal ganglia. Histamine H3
+heteroreceptors can reduce glutamate and gamma-aminobutyric acid (GABA)
+transmission in the striatum and substantia nigra reticulata, respectively. Thus,
+we tested whether the histamine H3 receptor agonists immepip and imetit can
+alleviate LID in the MPTP-lesioned marmoset model of Parkinson's disease.
+Coadministration of immepip (1 mg/kg) with L-dopa (15 mg/kg) was associated with 
+significantly less total dyskinesia than L-dopa alone. When dyskinesia was
+separately rated as chorea and dystonia, coadministration of L-dopa with either
+immepip or imetit (both 10 mg/kg) significantly reduced chorea but had no effect 
+on dystonia. The antidyskinetic actions of the H3 agonists were not accompanied
+by alteration of the antiparkinsonian actions of L-dopa. However, immepip (10
+mg/kg), when administered as monotherapy, significantly increased parkinsonian
+disability compared to vehicle. Overall, the results obtained in this study
+suggest that histamine H3 receptors may be involved in the neural mechanisms
+underlying L-dopa-induced dyskinesia in Parkinson's disease.
+
+DOI: 10.1002/mds.20828 
+PMID: 16532454  [Indexed for MEDLINE]
+
+
+2571. Drug Metab Dispos. 2006 Jun;34(6):971-5. Epub 2006 Mar 10.
+
+In vitro blood distribution and plasma protein binding of the iron chelator
+deferasirox (ICL670) and its iron complex Fe-[ICL670]2 for rat, marmoset, rabbit,
+mouse, dog, and human.
+
+Weiss HM(1), Fresneau M, Camenisch GP, Kretz O, Gross G.
+
+Author information: 
+(1)Novartis Pharma AG, Basel, Switzerland. markus.weiss@novartis.com
+
+Deferasirox (Exjade, ICL670) is an orally active iron chelator. Two molecules of 
+deferasirox can form a complex with ferric iron (Fe-[ICL670]2) that can be
+excreted, reducing body iron overload. The blood binding parameters across
+species and the interaction with human serum albumin were analyzed for
+deferasirox and its iron complex. Both molecules were very highly bound to plasma
+proteins in all the tested species with unbound fractions in plasma in the range 
+of 0.4 to 1.8% and 0.2 to 1.2% for deferasirox and Fe-[ICL670]2, respectively;
+binding of the iron complex was either similar or higher in all the species. The 
+high plasma protein binding was in line with a distribution mainly into the
+plasma fraction of blood; the fraction in plasma was around 100% for Fe-[ICL670]2
+in all the species and 65 to 95% for deferasirox depending on the species.
+Investigations with isolated proteins pointed to serum albumin as the principal
+binding protein for deferasirox and its iron complex in human plasma. Competition
+binding experiments indicated that deferasirox at high concentrations displaced
+markers from the two main drug binding sites of human albumin, whereas
+Fe-[ICL670]2 displaced only warfarin. In the context of the pharmacokinetic
+properties of deferasirox and Fe-[ICL670]2, the data indicate the importance of
+plasma protein binding for their disposition and support a comparison of the
+pharmacokinetics of deferasirox and its iron complex across species. The low
+likelihood of clinically relevant drug displacement by deferasirox in plasma is
+discussed.
+
+DOI: 10.1124/dmd.105.006429 
+PMID: 16531476  [Indexed for MEDLINE]
+

@@ -1,0 +1,50 @@
+
+
+595. Neuropsychopharmacology. 2019 Feb;44(3):564-571. doi: 10.1038/s41386-018-0272-9. 
+Epub 2018 Nov 15.
+
+D2 receptors and cognitive flexibility in marmosets: tri-phasic dose-response
+effects of intra-striatal quinpirole on serial reversal performance.
+
+Horst NK(1)(2), Jupp B(3)(4), Roberts AC(4)(5), Robbins TW(3)(4).
+
+Author information: 
+(1)Department of Psychology, University of Cambridge, Downing Street, Cambridge, 
+CB2 3EB, UK. nh382@cam.ac.uk.
+(2)Behavioural and Clinical Neuroscience Institute, University of Cambridge,
+Downing Street, Cambridge, CB2 3EB, UK. nh382@cam.ac.uk.
+(3)Department of Psychology, University of Cambridge, Downing Street, Cambridge, 
+CB2 3EB, UK.
+(4)Behavioural and Clinical Neuroscience Institute, University of Cambridge,
+Downing Street, Cambridge, CB2 3EB, UK.
+(5)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Downing Street, Cambridge, CB2 3DY, UK.
+
+Behavioral flexibility, which allows organisms to adapt their actions in response
+to environmental changes, is impaired in a number of neuropsychiatric conditions,
+including obsessive-compulsive disorder and addiction. Studies in human subjects 
+and monkeys have reported correlations between individual differences in dopamine
+D2-type receptor (D2R) levels in the caudate nucleus and performance in a
+discrimination reversal task, in which established contingent relationships
+between abstract stimuli and rewards (or punishments) are reversed. Global
+genetic deletion of the D2R in mice disrupts reversal performance, indicating a
+likely causal role for this receptor in supporting flexible behaviors. To
+directly examine the specific role of caudate D2-type receptors in reversal
+performance, the D2/3/4R agonist quinpirole was infused via chronic indwelling
+cannulae into the medial caudate of male and female marmoset monkeys performing a
+touchscreen-based serial discrimination reversal task. Given prior evidence for
+dose-dependent effects of quinpirole and other dopaminergic drugs, a
+full dose-response curve was established. Individually, marmosets displayed
+marked differences in behavioral sensitivity to specific doses of intra-caudate
+quinpirole. Collectively, they exhibited a behaviorally specific bi-phasic
+deficit in reversal learning, being consistently impaired at both relatively low 
+and high doses of quinpirole. However, intermediate doses of intra-caudate
+quinpirole produced significant improvement in reversal performance. These data
+support previous human and monkey neuroimaging studies by providing causal
+evidence of a U-shaped function describing how dopamine modulates cognitive
+flexibility in the primate striatum.
+
+DOI: 10.1038/s41386-018-0272-9 
+PMCID: PMC6333796
+PMID: 30487652  [Indexed for MEDLINE]
+

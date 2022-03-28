@@ -1,0 +1,47 @@
+
+
+569. Cereb Cortex. 2019 Apr 1;29(4):1706-1718. doi: 10.1093/cercor/bhy327.
+
+Thalamocortical Afferents Innervate the Cortical Subplate much Earlier in
+Development in Primate than in Rodent.
+
+Alzu'bi A(1)(2)(3), Homman-Ludiye J(4), Bourne JA(4), Clowry GJ(1).
+
+Author information: 
+(1)Institute of Neuroscience, Newcastle University, Framlington Place, Newcastle 
+upon Tyne, UK.
+(2)Institute of Genetic Medicine, Newcastle University, Newcastle upon Tyne, UK.
+(3)Department of Basic Medical Sciences, Faculty of Medicine, Yarmouk University,
+Irbid, Jordan.
+(4)Australian Regenerative Medicine Institute, Monash University, Clayton,
+Victoria, Australia.
+
+Erratum in
+    Cereb Cortex. 2019 Dec 17;29(12):5316.
+
+The current model, based on rodent data, proposes that thalamocortical afferents 
+(TCA) innervate the subplate towards the end of cortical neurogenesis. This
+implies that the laminar identity of cortical neurons is specified by intrinsic
+instructions rather than information of thalamic origin. In order to determine
+whether this mechanism is conserved in the primates, we examined the growth of
+thalamocortical (TCA) and corticofugal afferents in early human and monkey fetal 
+development. In the human, TCA, identified by secretagogin, calbindin, and ROBO1 
+immunoreactivity, were observed in the internal capsule of the ventral
+telencephalon as early as 7-7.5 PCW, crossing the pallial/subpallial boundary
+(PSB) by 8 PCW before the calretinin immunoreactive corticofugal fibers do.
+Furthermore, TCA were observed to be passing through the intermediate zone and
+innervating the presubplate of the dorsolateral cortex, and already by 10-12 PCW 
+TCAs were occupying much of the cortex. Observations at equivalent stages in the 
+marmoset confirmed that this pattern is conserved across primates. Therefore, our
+results demonstrate that in primates, TCAs innervate the cortical presubplate at 
+earlier stages than previously demonstrated by acetylcholinesterase
+histochemistry, suggesting that pioneer thalamic afferents may contribute to
+early cortical circuitry that can participate in defining cortical neuron
+phenotypes.
+
+© The Author(s) 2019. Published by Oxford University Press.
+
+DOI: 10.1093/cercor/bhy327 
+PMCID: PMC6418397
+PMID: 30668846  [Indexed for MEDLINE]
+

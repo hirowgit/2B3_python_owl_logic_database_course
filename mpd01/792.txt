@@ -1,0 +1,68 @@
+
+
+792. Biol Reprod. 2017 Nov 1;97(5):772-780. doi: 10.1093/biolre/iox129.
+
+Generation of transgenic marmosets using a tetracyclin-inducible transgene
+expression system as a neurodegenerative disease model.
+
+Tomioka I(1)(2), Nogami N(1), Nakatani T(1), Owari K(1), Fujita N(1), Motohashi
+H(1), Takayama O(1), Takae K(2), Nagai Y(3)(4), Seki K(1).
+
+Author information: 
+(1)Department of Neurophysiology, National Institute of Neuroscience, National
+Center of Neurology and Psychiatry, Tokyo, Japan.
+(2)Institute for Biomedical Science, Shinshu University, Nagano, Japan.
+(3)Department of Degenerative Neurological Diseases, National Institute of
+Neuroscience, National Center of Neurology and Psychiatry, Tokyo, Japan.
+(4)Department of Neurotherapeutics, Osaka University Graduate School of Medicine,
+Osaka, Japan.
+
+Controllable transgene expression systems are indispensable tools for the
+production of animal models of disease to investigate protein functions at
+defined periods. However, in nonhuman primates that share genetic, physiological,
+and morphological similarities with humans, genetic modification techniques have 
+not been well established; therefore, the establishment of novel transgenic
+models with controllable transgene expression systems will be valuable tools to
+understand pathological mechanism of human disease. In the present study, we
+successfully generated transgenic marmosets using a tetracyclin-inducible
+transgene expression (tet-on) system as a neurodegenerative disease model. The
+mutant human ataxin 3 gene controlled by the tet-on system was introduced into
+marmoset embryos via lentiviral transduction, and 34 transgene-introduced embryos
+were transferred into the uteri of surrogate mothers. Seven live offspring
+(TET1-7) were obtained, of which four were transgenic. Fibroblasts from TET1 and 
+3 revealed that inducible transgene expression had occurred after treatment with 
+10 μg/mL of doxycycline, while treatment with doxycycline via drinking water
+resulted in 1.7- to 1.8-fold inducible transgene expression compared with before 
+treatment. One transgenic second-generation offspring (TET3-3) was obtained from 
+TET3, and doxycycline-inducible transgene expression in its fibroblasts showed
+that TET3-3 maintained a high transgene expression level that matched its parent.
+In conclusion, we established a novel transgenic marmoset line carrying the
+mutant human ataxin 3 gene controlled by the tet-on system. The development of
+nonhuman primate models with controllable transgene expression systems will be
+useful for the identification of disease biomarkers and evaluation of the
+efficacy and metabolic profiles of therapeutic candidates.
+
+© The Authors 2017. Published by Oxford University Press on behalf of Society for
+the Study of Reproduction. All rights reserved. For permissions, please e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/biolre/iox129 
+PMID: 29045563  [Indexed for MEDLINE]
+
+
+793. Xenobiotica. 2018 Oct;48(10):1072-1077. doi: 10.1080/00498254.2017.1393121. Epub 
+2017 Nov 10.
+
+Association with polymorphic marmoset cytochrome P450 2C19 of in vivo hepatic
+clearances of chirally separated R-omeprazole and S-warfarin using individual
+marmoset physiologically based pharmacokinetic models.
+
+Kusama T(1), Toda A(2), Shimizu M(1), Uehara S(1), Inoue T(3), Uno Y(2), Utoh
+M(1)(2), Sasaki E(3)(4), Yamazaki H(1).
+
+Author information: 
+(1)a Showa Pharmaceutical University , Machida , Tokyo , Japan.
+(2)b Shin Nippon Biomedical Laboratories Ltd , Kainan , Wakayama , Japan.
+(3)c Department of Marmoset Research , Central Institute for Experimental Animals
+, Kawasaki , Japan , and.
+(4)d Keio Advanced Research Center, Keio University , Minato-ku , Tokyo , Japan.

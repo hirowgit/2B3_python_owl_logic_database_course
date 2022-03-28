@@ -1,0 +1,107 @@
+
+
+774. Neurosci Lett. 2018 Feb 5;665:182-188. doi: 10.1016/j.neulet.2017.11.049. Epub
+2017 Nov 24.
+
+Intravenous administration of the adeno-associated virus-PHP.B capsid fails to
+upregulate transduction efficiency in the marmoset brain.
+
+Matsuzaki Y(1), Konno A(1), Mochizuki R(1), Shinohara Y(1), Nitta K(1), Okada
+Y(1), Hirai H(2).
+
+Author information: 
+(1)Department of Neurophysiology & Neural Repair, Gunma University Graduate
+School of Medicine, 3-39-22 Showa-machi, Maebashi, Gunma 371-8511, Japan.
+(2)Department of Neurophysiology & Neural Repair, Gunma University Graduate
+School of Medicine, 3-39-22 Showa-machi, Maebashi, Gunma 371-8511, Japan;
+Research Program for Neural Signalling, Division of Endocrinology, Metabolism and
+Signal Research, Gunma University Initiative for Advanced Research, 3-39-22
+Showa-machi, Maebashi, Gunma 371-8511, Japan. Electronic address:
+hirai@gunma-u.ac.jp.
+
+Intravenous administration of adeno-associated virus (AAV)-PHP.B, a capsid
+variant of AAV9 containing seven amino acid insertions, results in a greater
+permeability of the blood brain barrier (BBB) than standard AAV9 in mice, leading
+to highly efficient and global transduction of the central nervous system (CNS). 
+The present study aimed to examine whether the enhanced BBB penetrance of
+AAV-PHP.B observed in mice also occurs in non-human primates. Thus, a young adult
+(age, 1.6 years) and an old adult (age, 7.2 years) marmoset received an
+intravenous injection of AAV-PHP.B expressing enhanced green fluorescent protein 
+(EGFP) under the control of the constitutive CBh promoter (a hybrid of
+cytomegalovirus early enhancer and chicken β-actin promoter). Age-matched control
+marmosets were treated with standard AAV9-capsid vectors. The animals were
+sacrificed 6 weeks after the viral injection. Based on the results, only limited 
+transduction of neurons (0-2%) and astrocytes (0.1-2.5%) was observed in both
+AAV-PHP.B- and AAV9-treated marmosets. One noticeable difference between
+AAV-PHP.B and AAV9 was the marked transduction of the peripheral dorsal root
+ganglia neurons. Indeed, the soma and axons in the projection from the spinal
+cord to the nucleus cuneatus in the medulla oblongata were strongly labeled with 
+EGFP by AAV-PHP.B. Thus, except for the peripheral dorsal root ganglia neurons,
+the AAV-PHP.B transduction efficiency in the CNS of marmosets was comparable to
+that of AAV9 vectors.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.neulet.2017.11.049 
+PMID: 29175632  [Indexed for MEDLINE]
+
+
+775. Mol Phylogenet Evol. 2018 Mar;120:170-182. doi: 10.1016/j.ympev.2017.11.010. Epub
+2017 Nov 23.
+
+How many pygmy marmoset (Cebuella Gray, 1870) species are there? A taxonomic
+re-appraisal based on new molecular evidence.
+
+Boubli JP(1), da Silva MNF(2), Rylands AB(3), Nash SD(3), Bertuol F(4), Nunes
+M(4), Mittermeier RA(3), Byrne H(5), Silva FE(6), Röhe F(4), Sampaio I(7),
+Schneider H(7), Farias IP(4), Hrbek T(8).
+
+Author information: 
+(1)School of Environment and Life Sciences, University of Salford, Salford, UK;
+Instituto Nacional de Pesquisas da Amazônia, Manaus, Amazonas, Brazil. Electronic
+address: j.p.boubli@salford.ac.uk.
+(2)Instituto Nacional de Pesquisas da Amazônia, Manaus, Amazonas, Brazil.
+(3)Conservation International, Arlington, VA, USA.
+(4)Universidade Federal do Amazonas, Manaus, Amazonas, Brazil.
+(5)School of Environment and Life Sciences, University of Salford, Salford, UK.
+(6)School of Environment and Life Sciences, University of Salford, Salford, UK;
+Instituto de Desenvolvimento Sustentável Mamirauá, Tefé, Amazonas, Brazil.
+(7)Universidade Federal do Pará, Belém, Pará, Brazil.
+(8)Universidade Federal do Amazonas, Manaus, Amazonas, Brazil. Electronic
+address: hrbek@evoamazon.net.
+
+The pygmy marmoset, Cebuella pygmaea, the smallest of the New World monkeys, has 
+one of the largest geographical distributions of the Amazonian primates. Two
+forms have been recognized: Cebuella pygmaea pygmaea (Spix, 1823), and C. p.
+niveiventris Lönnberg, 1940. In this study, we investigated if the separation of 
+pygmy marmosets into these two clades can be corroborated by molecular data. We
+also examine and compare coloration of the pelage in light of the new molecular
+results. We analyzed the mtDNA cytochrome b gene and, for the first time for any 
+Neotropical primate, we used a reduced representation genome sequencing approach 
+(ddRADseq) to obtain data for recently collected, geographically representative
+samples from the Rio Japurá, a northern tributary of the Rio Solimões and from
+the Javarí, Jutaí, Juruá, Madeira and Purus river basins, all tributaries south
+of the Solimões. We estimated phylogenies and diversification times under both
+maximum likelihood and Bayesian inference criteria. Our analysis showed two
+highly supported clades, with intraclade divergences much smaller than interclade
+divergences, indicating two species of Cebuella: one from the Rio Japurá and one 
+to the south of Solimões. The interpretation of our results in light of the
+current taxonomy is not trivial however. Lönnberg stated that the type of Spix's 
+pygmy marmoset (type locality 'near Tabatinga') was obtained from the south of
+the Solimões, and his description of the distinct niveiventris from Lago Ipixuna,
+south of the Solimões and several hundred kilometres east of Tabatinga, was based
+on a comparison with specimens that he determined as typical pygmaea that were
+from the upper Rio Juruá (south of the Solimões). As such it remains uncertain
+whether the name pygmaea should be applicable to the pygmy marmosets north of the
+Rio Solimões (Tabatinga type locality) or south (near Tabatinga but across the
+Solimões). Finally, our analysis of pelage coloration revealed three phenotypic
+forms: (1) south of the Rio Solimoes, (2) Eirunepé-Acre, upper Juruá basin; and
+(3) Japurá. More samples from both sides of Solimões in the region of Tabatinga
+will be necessary to ascertain the exact type locality for Spix's pygmaea and to 
+resolve the current uncertainties surrounding pygmy marmoset taxonomy.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ympev.2017.11.010 
+PMID: 29175546  [Indexed for MEDLINE]
+

@@ -1,0 +1,72 @@
+
+
+2606. Eur J Neurosci. 2005 Dec;22(11):2886-902.
+
+Heteromodal connections supporting multisensory integration at low levels of
+cortical processing in the monkey.
+
+Cappe C(1), Barone P.
+
+Author information: 
+(1)Cerveau & Cognition, CNRS-UMR 5549 Université Paul Sabatier, Toulouse III,
+Toulouse, France.
+
+While multisensory integration is thought to occur in higher hierarchical
+cortical areas, recent studies in man and monkey have revealed plurisensory
+modulations of activity in areas previously thought to be unimodal. To determine 
+the cortical network involved in multisensory interactions, we performed multiple
+injections of different retrograde tracers in unimodal auditory (core),
+somatosensory (1/3b) and visual (V2 and MT) cortical areas of the marmoset. We
+found three types of heteromodal connections linking unimodal sensory areas.
+Visuo-somatosensory projections were observed originating from visual areas
+[probably the ventral and dorsal fundus of the superior temporal area (FSTv and
+FSTd), and middle temporal crescent (MTc)] toward areas 1/3b. Somatosensory
+projections to the auditory cortex were present from S2 and the anterior bank of 
+the lateral sulcus. Finally, a visuo-auditory projection arises from an area
+anterior to the superior temporal sulcus (STS) toward the auditory core.
+Injections in different sensory regions allow us to define the frontal convexity 
+and the temporal opercular caudal cortex as putative polysensory areas. A
+quantitative analysis of the laminar distribution of projecting neurons showed
+that heteromodal connections could be either feedback or feedforward. Taken
+together, our results provide the anatomical pathway for multisensory integration
+at low levels of information processing in the primate and argue against a strict
+hierarchical model.
+
+DOI: 10.1111/j.1460-9568.2005.04462.x 
+PMID: 16324124  [Indexed for MEDLINE]
+
+
+2607. J Comp Neurol. 2006 Jan 10;494(2):260-74.
+
+Synaptic connectivity in the midget-parvocellular pathway of primate central
+retina.
+
+Jusuf PR(1), Martin PR, Grünert U.
+
+Author information: 
+(1)The National Vision Research Institute of Australia, Carlton, Victoria 3053.
+
+The synaptic connectivity of OFF midget bipolar cells was investigated in the
+central retina of two primate species, the New World common marmoset monkey,
+Callithrix jacchus, and the Old World macaque monkey, Macaca fascicularis. In
+marmosets, dichromatic and trichromatic animals were compared. Bipolar output
+synapses were identified with antibodies against ribbon proteins (kinesin,
+C-terminal binding protein 2) or with an antiserum that recognizes postsynaptic
+glutamate receptor clusters (GluR4). The midget bipolar cells were identified
+immunocytochemically with antibodies to CD15 (marmoset) or an antiserum to
+recoverin (macaque). In marmosets, midget ganglion cells were retrogradely
+labeled from the parvocellular layers of the dorsal lateral geniculate nucleus.
+Consistent with previous studies of Old World primates, in marmoset, midget
+bipolar cells contacted midget ganglion cells at a ratio of 1:1. The number of
+output synapses made by OFF midget bipolar cells was quantified for 104 cells in 
+two dichromatic marmosets, 108 cells in one trichromatic marmoset, and 118 cells 
+in one macaque. The number of output synapses was comparable for all animals,
+ranging from 10-71 in the dichromatic marmoset (average 29.7 +/- 12.4 SD), 12-86 
+in the trichromatic marmoset (average 28.6 +/- 11.7 SD) and 9-48 in the macaque
+(average 26.5 +/- 9.3 SD) per axon terminal. In all animals the number of output 
+synapses per axon terminal showed a unimodal distribution. Our results suggest
+that the midget circuitry is comparable in dichromatic and trichromatic animals.
+
+DOI: 10.1002/cne.20804 
+PMID: 16320234  [Indexed for MEDLINE]
+

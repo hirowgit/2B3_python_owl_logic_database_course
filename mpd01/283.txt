@@ -1,0 +1,102 @@
+
+
+283. Biochem Pharmacol. 2020 Oct;180:114189. doi: 10.1016/j.bcp.2020.114189. Epub 2020
+Aug 5.
+
+Expression of functional sulfotransferases (SULT) 1A1, 1A3, 1B1, 1C2, 1E1, and
+2A1 in common marmosets.
+
+Uno Y(1), Uehara S(2), Murayama N(2), Shimizu M(2), Yamazaki H(3).
+
+Author information: 
+(1)Joint Faculty of Veterinary Medicine, Kagoshima University, Kagoshima City,
+Kagoshima 890 8580, Japan; Shin Nippon Biomedical Laboratories, Ltd, Kainan,
+Wakayama 642 0017, Japan. Electronic address: unoxx001@vet.kagoshima-u.ac.jp.
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo 194 8543, Japan.
+(3)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo 194 8543, Japan. Electronic address:
+hyamazak@ac.shoyaku.ac.jp.
+
+Cytosolic sulfotransferases (SULTs), which mediate the conjugation of drugs with 
+3'-phosphoadenosine-5'-phosphosulfate, have been characterized in humans and
+cynomolgus monkeys. However, SULTs remain to be evaluated in common marmosets, a 
+species of non-human primate often employed in drug metabolism and
+pharmacokinetic studies of endogenous and exogenous compounds. In this study,
+marmoset SULT1A1, 1A3, 1B1, 1C2, 1E1, and 2A1 cDNAs were isolated and
+characterized, based on genome data. The deduced amino acid sequences of these
+marmoset SULT cDNAs had high identities (90-95%) with their human orthologs,
+except for marmoset SULT2A1, which was only 81% identical to human SULT2A1. The
+amino acid sequences of the orthologs of these six SULTs in marmosets, monkeys,
+and humans were closely clustered in a phylogenetic tree. The structures and
+genomic organizations of marmoset SULT genes were similar to those of their human
+orthologs. Among the five marmoset tissues analyzed, SULT mRNAs showed typical
+expression patterns. The most abundant SULT mRNAs were SULT1B1 in liver, small
+intestine, and kidney; SULT1E1 in lung; and SULT1A3 in brain. Recombinant
+marmoset SULT1A1, 1A3, 1B1, 1C2, 1E1, and 2A1 proteins expressed in bacterial
+cytosolic fractions mediated sulfate conjugations with
+3'-phosphoadenosine-5'-phosphosulfate of the following typical human SULT
+substrates: dopamine, 1-naphthol, p-nitrophenol, estradiol, and
+dehydroepiandrosterone. Taken together, these wide-ranging results suggest
+functional and molecular similarities of SULTs among marmosets, monkeys, and
+humans.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2020.114189 
+PMID: 32768400  [Indexed for MEDLINE]
+
+
+284. Addict Biol. 2021 May;26(3):e12955. doi: 10.1111/adb.12955. Epub 2020 Aug 5.
+
+Cocaine attenuates acid sphingomyelinase activity during establishment of
+addiction-related behavior-A translational study in rats and monkeys.
+
+Frankowska M(1), Jesus FM(2), Mühle C(3), Pacheco JVN(2), Maior RS(4)(5),
+Sadakierska-Chudy A(1), Smaga I(1), Piechota M(6), Kalinichenko LS(3), Gulbins
+E(7)(8), Kornhuber J(3), Filip M(1), Müller CP(3), Barros M(2)(5).
+
+Author information: 
+(1)Department of Drug Addiction Pharmacology, Polish Academy of Sciences, Maj
+Institute of Pharmacology, Krakow, Poland.
+(2)Department of Pharmacy, School of Health Sciences, University of Brasilia,
+Brasilia, Brazil.
+(3)Department of Psychiatry and Psychotherapy, Friedrich-Alexander-University
+Erlangen-Nürnberg (FAU), Erlangen, Germany.
+(4)Department of Physiological Sciences, University of Brasília, Brasilia,
+Brazil.
+(5)Primate Center, Institute of Biology, University of Brasilia, Brasilia,
+Brazil.
+(6)Department of Molecular Neuropharmacology, Polish Academy of Sciences, Maj
+Institute of Pharmacology, Krakow, Poland.
+(7)Department of Molecular Biology, University of Duisburg-Essen, Essen, Germany.
+(8)Department of Surgery, University of Cincinnati, Cincinnati, Ohio, USA.
+
+Cocaine addiction is a severe psychiatric condition for which currently no
+effective pharmacotherapy is available. Brain mechanisms for the establishment of
+addiction-related behaviors are still not fully understood, and specific
+biomarkers for cocaine use are not available. Sphingolipids are major membrane
+lipids, which shape neuronal membrane composition and dynamics in the brain.
+Here, we investigated how chronic cocaine exposure during establishment of
+addiction-related behaviors affects the activity of the sphingolipid rheostat
+controlling enzymes in the brain of rats. As we detected specific effects on
+several enzymes in the brain, we tested whether the activity of selected enzymes 
+in the blood may serve as potential biomarker for cocaine exposure in non-human
+primates (Callithrix penicillata). We found that intravenous cocaine
+self-administration led to a reduced mRNA expression of Cers1, Degs1 and Degs2,
+and Smpd1 in the prefrontal cortex of rats, as well as a reduction of Cers4
+expression in the striatum. These effects reversed after 10 days of abstinence.
+Monkeys showed a robust cocaine-induced place preference (CPP). This coincided
+with a reduction in blood acid sphingomyelinase (ASM) activity after CPP
+establishment. This effect normalized after 15 days of abstinence. Altogether,
+these findings suggest that the establishment of cocaine addiction-related
+behaviors coincides with changes in the activity of sphingolipid controlling
+enzymes. In particular, blood ASM levels may serve as a translational biomarker
+for recent cocaine exposure.
+
+© 2020 The Authors. Addiction Biology published by John Wiley & Sons Ltd on
+behalf of Society for the Study of Addiction.
+
+DOI: 10.1111/adb.12955 
+PMID: 32761719  [Indexed for MEDLINE]
+

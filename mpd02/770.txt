@@ -1,0 +1,42 @@
+
+
+770. Brain Struct Funct. 2018 May;223(4):1599-1614. doi: 10.1007/s00429-017-1574-0.
+Epub 2017 Nov 28.
+
+Organization of auditory areas in the superior temporal gyrus of marmoset monkeys
+revealed by real-time optical imaging.
+
+Nishimura M(1), Takemoto M(1), Song WJ(2)(3).
+
+Author information: 
+(1)Department of Sensory and Cognitive Physiology, Graduate School of Medical
+Sciences, Kumamoto University, Kumamoto, 860-8556, Japan.
+(2)Department of Sensory and Cognitive Physiology, Graduate School of Medical
+Sciences, Kumamoto University, Kumamoto, 860-8556, Japan. song@kumamoto-u.ac.jp.
+(3)Program for Leading Graduate Schools HIGO Program, Kumamoto University,
+Kumamoto, 860-8556, Japan. song@kumamoto-u.ac.jp.
+
+The prevailing model of the primate auditory cortex proposes a core-belt-parabelt
+structure. The model proposes three auditory areas in the lateral belt region;
+however, it may contain more, as this region has been mapped only at a limited
+spatial resolution. To explore this possibility, we examined the auditory areas
+in the lateral belt region of the marmoset using a high-resolution optical
+imaging technique. Based on responses to pure tones, we identified multiple areas
+in the superior temporal gyrus. The three areas in the core region, the primary
+area (A1), the rostral area (R), and the rostrotemporal area, were readily
+identified from their frequency gradients and positions immediately ventral to
+the lateral sulcus. Three belt areas were identified with frequency gradients and
+relative positions to A1 and R that were in agreement with previous studies: the 
+caudolateral area, the middle lateral area, and the anterolateral area (AL).
+Situated between R and AL, however, we identified two additional areas. The first
+was located caudoventral to R with a frequency gradient in the ventrocaudal
+direction, which we named the medial anterolateral (MAL) area. The second was a
+small area with no obvious tonotopy (NT), positioned between the MAL and AL
+areas. Both the MAL and NT areas responded to a wide range of frequencies (at
+least 2-24 kHz). Our results suggest that the belt region caudoventral to R is
+more complex than previously proposed, and we thus call for a refinement of the
+current primate auditory cortex model.
+
+DOI: 10.1007/s00429-017-1574-0 
+PMID: 29185107  [Indexed for MEDLINE]
+

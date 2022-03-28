@@ -1,0 +1,67 @@
+
+
+1618. Hum Reprod. 2013 Apr;28(4):886-96. doi: 10.1093/humrep/des465. Epub 2013 Jan 15.
+
+Perinatal germ cell development and differentiation in the male marmoset
+(Callithrix jacchus): similarities with the human and differences from the rat.
+
+McKinnell C(1), Mitchell RT, Morris K, Anderson RA, Kelnar CJ, Wallace WH, Sharpe
+RM.
+
+Author information: 
+(1)MRC/University of Edinburgh Centre for Reproductive Health, The Queen's
+Medical Research Institute, Edinburgh, UK. c.mckinnell@ed.ac.uk
+
+STUDY QUESTION: Is perinatal germ cell (GC) differentiation in the marmoset
+similar to that in the human?
+SUMMARY ANSWER: In a process comparable with the human, marmoset GC differentiate
+rapidly after birth, losing OCT4 expression after 5-7 weeks of age during
+mini-puberty.
+WHAT IS KNOWN ALREADY: Most of our understanding about perinatal GC development
+derives from rodents, in which all gonocytes (undifferentiated GC) co-ordinately 
+lose expression of the pluripotency factor OCT4 and stop proliferating in late
+gestation. Then after birth these differentiated GC migrate to the basal lamina
+and resume proliferation prior to the onset of spermatogenesis. In humans, fetal 
+GC differentiation occurs gradually and asynchronously and OCT4(+) GC persist
+into perinatal life. Failure to switch off OCT4 in GC perinatally can lead to
+development of carcinoma in situ (CIS), the precursor of testicular germ cell
+cancer (TGCC), for which there is no animal model. Marmosets show similarities to
+the human, but systematic evaluation of perinatal GC development in this species 
+is lacking. Similarity, especially for loss of OCT4 expression, would support use
+of the marmoset as a model for the human and for studying CIS origins.
+STUDY DESIGN, SIZE AND DURATION: Testis tissues were obtained from marmosets (n =
+4-10 per age) at 12-17 weeks' gestation and post-natal weeks 0.5, 2.5, 5-7, 14
+and 22 weeks, humans at 15-18 weeks' gestation (n = 5) and 4-5 weeks of age (n = 
+4) and rats at embryonic day 21.5 (e21.5) (n = 3) and post-natal days 4, 6 and 8 
+(n = 4 each).
+PARTICIPANTS/MATERIALS, SETTING AND METHODS: Testis sections from fetal and
+post-natal marmosets, humans and rats were collected and immunostained for OCT4
+and VASA to identify undifferentiated and differentiated GC, respectively, and
+for Ki67, to identify proliferating GC. Stereological quantification of GC
+numbers, differentiation (% OCT4(+) GC) and proliferation were performed in
+perinatal marmosets and humans. Quantification of GC position within seminiferous
+cords was performed in marmosets, humans and rats.
+MAIN RESULTS AND ROLE OF CHANCE: The total GC number increased 17-fold from birth
+to 22 post-natal weeks in marmosets; OCT4(+) and VASA(+) GC proliferated equally 
+in late gestation and early post-natal life. The percentage of OCT4(+) GC fell
+from 54% in late fetal life to <0.5% at 2.5 weeks of age and none were detected
+after 5-7 weeks in marmosets. In humans, the percentage of OCT4(+) GC also
+declined markedly during the equivalent period. In marmosets, GC had begun
+migrating to the base of seminiferous cords at ∼22 weeks of age, after the loss
+of GC OCT4 expression.
+LIMITATIONS, REASONS FOR CAUTION: There is considerable individual variation
+between marmosets. Although GC development in marmosets and humans was similar,
+there are differences with respect to proliferation during fetal life. The number
+of human samples was limited.
+WIDER IMPLICATIONS OF THE FINDINGS: The similarities in testicular GC
+differentiation between marmosets and humans during the perinatal period, and
+their differences from rodents, suggest that the marmoset may be a useful model
+for studying the origins of CIS, with relevance for the study of TGCC.
+STUDY FUNDING/COMPETING INTERESTS: This work was supported by Grant G33253 from
+the Medical Research Council, UK. No external funding was sought and there are no
+competing interests.
+
+DOI: 10.1093/humrep/des465 
+PMCID: PMC3600838
+PMID: 23321215  [Indexed for MEDLINE]
+

@@ -1,0 +1,36 @@
+
+
+102. Biochem Biophys Rep. 2021 Jul 12;27:101078. doi: 10.1016/j.bbrep.2021.101078.
+eCollection 2021 Sep.
+
+Marmoset glutathione transferases with ketosteroid isomerase activity.
+
+Ismail A(1), Sawmi J(1), Mannervik B(1).
+
+Author information: 
+(1)Department of Biochemistry and Biophysics, Arrhenius Laboratories, Stockholm
+University, SE-10691, Stockholm. Sweden.
+
+The common marmoset Callithrix jacchus encodes two glutathione transferase (GST) 
+enzymes with ketosteroid double-bond isomerase activity. The most active enzyme
+is CjaGST A3-3 showing a specific activity with 5-androsten-3,17-dione (Δ5-AD) of
+62.1 ± 1.8 μmol min-1 mg-1, and a kcat value of 261 ± 49 s-1. The second
+ketosteroid isomerase CjaGST A1-1 has a 30-fold lower specific activity with
+Δ5-AD and a 37-fold lower kcat value. Thus, the marmoset CjaGST A3-3 would be the
+main contributor to the biosynthesis of the steroid hormones testosterone and
+progesterone, like the human ortholog HsaGST A3-3. Two residues differ in the
+H-site of the 91.4% sequence identical CjaGST A1-1 and CjaGST A3-3, and modeling 
+of the structures suggests that the bulky phenyl ring of Phe111 in CjaGST A1-1
+causes steric hindrance in the binding of the steroid substrate. Tributyltin
+acetate (IC50=0.16 ± 0.004 μM) and ethacrynic acid (IC50=3.3 ± 0.2 μM) were found
+to be potent inhibitors of CjaGST A3-3, as previously demonstrated with the human
+and equine orthologs.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.bbrep.2021.101078 
+PMCID: PMC8280513
+PMID: 34286113 
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+

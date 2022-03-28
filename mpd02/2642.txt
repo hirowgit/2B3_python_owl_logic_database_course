@@ -1,0 +1,44 @@
+
+
+2642. Int J Androl. 1997 Oct;20(5):287-96.
+
+CASA as an aid to selecting sperm suspensions for artificial insemination in
+Callithrix jacchus.
+
+Morrell JM(1).
+
+Author information: 
+(1)Department of Reproductive Biology, German Primate Centre Göttingen, Germany.
+
+The ability to use sperm motility parameters, obtained by computer-assisted sperm
+motility analysis (CASA), as an aid to selecting sperm samples for artificial
+insemination (AI) would have considerable benefits for commercial organizations
+and for the captive breeding of endangered species. In this study the Hobson
+sperm tracker (HST) was validated for use with spermatozoa from Callithrix
+jacchus, the common marmoset, by comparing values for straight line velocity by
+CASA with those obtained by direct measurement of sperm tracks. Using the
+settings established during validation, ejaculated and epididymal spermatozoa
+were analysed with the HST. The range of values for velocity parameters were used
+to establish expected motility profiles for the two types of spermatozoa as
+follows: for epididymal spermatozoa (concentration 2.2 - 85.8 x 10(6)
+spermatozoa/mL) VCL 109.8-155.9, VSL 75.2-141.5, VAP 85.8-142.1, MAD 13.7-40.7,
+ALH 3.8-7.8, BCF 1.4-4.2, LIN 40.5-91.1% and STR 70.1-97.1%; for ejaculated
+spermatozoa (concentration 3.2-82.0 x 10(6) spermatozoa/mL) VCL 89.6-136.7, VSL
+69.6-110.3, VAP 74.5-121.9, MAD 19.2-29.3, ALH 3.0-9.9, BCF 2.8-5.5., LIN
+65.4-85.3% and STR 93.8-97.7%. Epididymal spermatozoa from males which were not
+sexually active had significantly lower values for VCL, VSL and VAP, while values
+for MAD were significantly higher than for spermatozoa from sexually active males
+(p < 0.031). Sperm concentration affected motility parameters significantly.
+Although motility parameters differed according to the batch of medium used, the 
+differences were not statistically significant. Epididymal sperm samples had
+significantly higher VCL, VSL and VAP but lower BCF and LIN than ejaculated sperm
+samples of the same concentration diluted in the same batch of medium, while MAD,
+ALH and STR were not different. Urine contamination significantly reduced VCL,
+VSL and VAP (p < 0.008, < 0.016 and < 0.008, respectively, sample size = 7)
+whereas MAD, ALH, BCF, LIN and STR were not affected. Therefore CASA could be
+useful in screening ejaculates for use in Al to eliminate samples with unusual
+motility patterns.
+
+DOI: 10.1046/j.1365-2605.1997.00072.x 
+PMID: 16130273  [Indexed for MEDLINE]
+

@@ -1,0 +1,62 @@
+
+
+3180. Mol Cell Biochem. 2001 Feb;218(1-2):157-63.
+
+Identification of beta subunit of the rhesus monkey chorionic gonadotropin
+(rmCG).
+
+Chen Y(1), Liu Z, Wang B, Peng JP.
+
+Author information: 
+(1)State Key Laboratory of Reproductive Biology, Institute of Zoology, Chinese
+Academy of Sciences, Beijing.
+
+Chorionic gonadotropin (CG) is a placental derived hormone that plays a crucial
+role in successful implantation and establishment of early pregnancy in the
+primates. The rhesus monkey was chosen as a model to understand the feasibility
+of developing human DNA immuno-contraceptive. The coding region of rhesus monkey 
+CG beta-subunit (rmCGbeta) was isolated by the TDRT-PCR method. The nucleotide
+sequence including the leader peptide was 499 nucleotide long and encoded 166
+amino acids. In comparing with the previous known primates CG beta-subunits, the 
+rmCGbeta was the highest degree of homology with baboon CG beta-subunit at the
+deduced amino acid sequence (94%), 79.5% homology with human CG beta-subunit and 
+70.4% homology with marmoset monkey CG beta-subunit. The eukaryotic expression
+vector pCMV4-rmCGbeta inserted full-coding cDNA sequence of rmCGbeta was
+constructed, and the expression of rmCG beta-subunit in HeLa cells transient
+expressing system in vitro and BALB/c mice in vivo was determined. The results
+demonstrated that the recombinant PCMV4-rmCGbeta eukaryotic expression vector
+could express rmCG beta-subunit in vitro and in vivo.
+
+DOI: 10.1023/a:1007233329355 
+PMID: 11330831  [Indexed for MEDLINE]
+
+
+3181. Arch Virol. 2001;146(2):197-208.
+
+Adaptation of wild-type measles virus to CD46 receptor usage.
+
+Nielsen L(1), Blixenkrone-Møller M, Thylstrup M, Hansen NJ, Bolt G.
+
+Author information: 
+(1)Department of Medical Microbiology and Immunology, Panum Institute, University
+of Copenhagen, Copenhagen, Denmark.
+
+Vaccine strains of measles virus (MV) use CD46 as receptor and downregulate CD46 
+from the surface of infected cells. MVs isolated and passaged on B-lymphoid cells
+(wild-type MVs) seem to use another receptor and do not downregulate CD46. In the
+present study, we found that isolation of MV on human or marmoset B-lymphoid
+cells did not alter the MV haemagglutinin (H) protein relative to that in the
+patient. The wild-type isolates were adapted to the human epithelial HEp-2 cell
+line or the monkey fibroblast Vero cell line. All HEp-2 cell adapted viruses and 
+1 out of 4 Vero cell adapted viruses acquired the capacity to use CD46 as
+receptor, as measured by their ability to infect murine cells expressing human
+CD46. Adaptation to CD46 receptor usage was coupled to substitution of amino acid
+481 of the MV H protein from asparagine to tyrosine but not to CD46
+downregulation. The present study demonstrates that CD46 receptor usage can be
+induced by adaptation of wild-type MV to cells that do not express a wild-type
+receptor and suggests that a similar mechanism acted on the progenitor viruses of
+the present MV vaccine strains during their isolation and attenuation.
+
+DOI: 10.1007/s007050170169 
+PMID: 11315632  [Indexed for MEDLINE]
+

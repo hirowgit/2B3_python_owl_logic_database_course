@@ -1,0 +1,99 @@
+
+
+1049. Cereb Cortex. 2017 May 1;27(5):2793-2808. doi: 10.1093/cercor/bhw124.
+
+Spectral Signatures of Feedforward and Recurrent Circuitry in Monkey Area MT.
+
+Solomon SS(1)(2), Morley JW(3), Solomon SG(4).
+
+Author information: 
+(1)Discipline of Physiology, School of Medical Sciences and Bosch Institute, The 
+University of Sydney, Sydney, NSW 2006, Australia.
+(2)Dominick P. Purpura Department of Neuroscience, Albert Einstein College of
+Medicine, Bronx, NY 10461, USA.
+(3)School of Medicine, Western Sydney University, Campbelltown, NSW 2560,
+Australia.
+(4)Department of Experimental Psychology, University College London, London WC1P 
+0AH, UK.
+
+Recordings of local field potential (LFP) in the visual cortex can show rhythmic 
+activity at gamma frequencies (30-100 Hz). While the gamma rhythms in the primary
+visual cortex have been well studied, the structural and functional
+characteristics of gamma rhythms in extrastriate visual cortex are less clear.
+Here, we studied the spatial distribution and functional specificity of gamma
+rhythms in extrastriate middle temporal (MT) area of visual cortex in marmoset
+monkeys. We found that moving gratings induced narrowband gamma rhythms across
+cortical layers that were coherent across much of area MT. Moving dot fields
+instead induced a broadband increase in LFP in middle and upper layers, with
+weaker narrowband gamma rhythms in deeper layers. The stimulus dependence of LFP 
+response in middle and upper layers of area MT appears to reflect the presence
+(gratings) or absence (dot fields and other textures) of strongly oriented
+contours. Our results suggest that gamma rhythms in these layers are propagated
+from earlier visual cortex, while those in the deeper layers may emerge in area
+MT.
+
+© The Author 2016. Published by Oxford University Press. All rights reserved. For
+Permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhw124 
+PMID: 27170655  [Indexed for MEDLINE]
+
+
+1050. Exp Toxicol Pathol. 2016 Jun;68(6):335-43. doi: 10.1016/j.etp.2016.05.002. Epub
+2016 May 7.
+
+Morphology and staining behavior of neutrophilic and eosinophilic granulocytes of
+the common marmoset (Callithrix jacchus).
+
+Bleyer M(1), Curths C(2), Dahlmann F(2), Wichmann J(2), Bauer N(3), Moritz A(3), 
+Braun A(4), Knauf S(2), Kaup FJ(5), Gruber-Dujardin E(5).
+
+Author information: 
+(1)Pathology Unit, German Primate Center, Leibniz-Institute for Primate Research,
+Göttingen, Germany. Electronic address: mbleyer@dpz.eu.
+(2)Pathology Unit, German Primate Center, Leibniz-Institute for Primate Research,
+Göttingen, Germany; Fraunhofer Institute for Toxicology and Experimental
+Medicine, Member of the German Center for Lung Research (DZL), Biomedical
+Research in Endstage and Obstructive Lung Disease (BREATH) Research Network,
+Member of the Cluster of Excellence Regenerative Biology to Reconstructive
+Therapy (REBIRTH), Hannover, Germany.
+(3)Faculty of Veterinary Medicine, Clinical Pathophysiology and Clinical
+Pathology, Justus-Liebig-University Gießen, Germany.
+(4)Fraunhofer Institute for Toxicology and Experimental Medicine, Member of the
+German Center for Lung Research (DZL), Biomedical Research in Endstage and
+Obstructive Lung Disease (BREATH) Research Network, Member of the Cluster of
+Excellence Regenerative Biology to Reconstructive Therapy (REBIRTH), Hannover,
+Germany.
+(5)Pathology Unit, German Primate Center, Leibniz-Institute for Primate Research,
+Göttingen, Germany.
+
+Common marmosets (Callithrix jacchus) are frequently used as translational animal
+models for human diseases. However, a comparative study of cytological and
+histochemical detection methods as well as morphometric and ultrastructural
+characterization of neutrophils and eosinophils in this species is lacking. Blood
+samples of house dust mite sensitized and allergen challenged as well as
+lipopolysaccharide (LPS) challenged marmosets were analyzed with different
+cytological and histological staining methods. Furthermore, cell size and number 
+of nuclear segments were compared between neutrophils and eosinophils. Electron
+microscopy was performed to characterize the ultrastructure of granulocytes. Of
+all applied cytological stains, three allowed differentiation of eosinophils and 
+neutrophils and, thus, reliable quantification in blood smears:
+May-Grünwald-Giemsa stain, Congo Red and Naphthol AS-D Chloroacetate-Esterase.
+For histology, Hematoxylin-Eosin (H&E) could not demonstrate clear differences,
+whereas Sirius Red, Congo Red, and Naphthol AS-D Chloroacetate Esterase showed
+capable results for identification of eosinophils or neutrophils in lung tissue. 
+Morphometry revealed that marmoset neutrophils have more nuclear segments and are
+slightly larger than eosinophils. Ultrastructurally, eosinophils presented with
+large homogeneous electron-dense granules without crystalloid cores, while
+neutrophils were characterized by heterogeneous granules of different size and
+density. Additionally, sombrero-like vesicles were detected in tissue eosinophils
+of atopic marmosets, indicative for hypersensitivity-related piecemeal
+degranulation. In conclusion, we provide a detailed overview of marmoset
+eosinophils and neutrophils, important for phenotypic characterization of
+marmoset models for human airway diseases.
+
+Copyright © 2016 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.etp.2016.05.002 
+PMID: 27165445  [Indexed for MEDLINE]
+

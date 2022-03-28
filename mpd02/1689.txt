@@ -1,0 +1,39 @@
+
+
+1689. Int Immunol. 2012 Sep;24(9):593-603. doi: 10.1093/intimm/dxs070. Epub 2012 Jul
+25.
+
+Double expression of CD34 and CD117 on bone marrow progenitors is a hallmark of
+the development of functional mast cell of Callithrix jacchus (common marmoset).
+
+Nunomura S(1), Shimada S, Kametani Y, Yamada Y, Yoshioka M, Suemizu H, Ozawa M,
+Itoh T, Kono A, Suzuki R, Tani K, Ando K, Yagita H, Ra C, Habu S, Satake M,
+Sasaki E.
+
+Author information: 
+(1)Department of Molecular Cell Immunology and Allergology, Nihon University
+School of Medicine, Tokyo, Japan.
+
+Mast cells (MCs) are developed from hematopoietic progenitor cells and play an
+important role in inflammation. Study of the kinetics of development and
+accumulation of primate MC in vivo is crucial for the control of human
+inflammatory diseases, as evolution of the immune system is quite rapid and
+inflammation including MC response is considered to be different between mouse
+and human. In the present study, we examined the development of MC from
+hematopoietic progenitors of Callithrix jacchus (common marmoset), an
+experimental animal of nonhuman primates. Bone marrow cells were fractionated for
+the expression of CD34 and CD117 by cell sorting. MCs were developed in vitro or 
+by transplanting the cells to NOD/SCID/IL-2γc knockout (NOG) mice. In vitro
+culture of CD34(+)CD117(+) (double positive, DP) cells with stem cell factor
+could generate high-affinity Fc epsilon receptor (FcεR)-expressing CD117(+) cells
+with typical granules. The developed MC released β-hexosaminidase and produced
+leukotriene C(4) after the stimulation of FcεRI. Transplantation of DP cells gave
+rise to a marked expansion of CD34(-)CD45(+)CD117(+)FcεR(+) cells in NOG mice.
+They expressed transcripts encoding chymase 1 and tryptase β. Differentiation of 
+CD34(-)CD117(+) cells to MCs was relatively limited compared with the DP cells,
+similarly to human MCs. These results suggest that this marmoset system provides 
+a good model for human MC development.
+
+DOI: 10.1093/intimm/dxs070 
+PMID: 22836021  [Indexed for MEDLINE]
+

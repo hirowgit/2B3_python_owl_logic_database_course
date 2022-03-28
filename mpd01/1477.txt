@@ -1,0 +1,90 @@
+
+
+1477. Behav Brain Res. 2014 Mar 15;261:26-30. doi: 10.1016/j.bbr.2013.11.036. Epub 2013
+Dec 1.
+
+Lack of dopamine D4 receptor affinity contributes to the procognitive effect of
+lurasidone.
+
+Murai T(1), Nakako T(1), Ikeda K(2), Ikejiri M(1), Ishiyama T(3), Taiji M(4).
+
+Author information: 
+(1)Ikeda Lab., Drug Development Research Laboratories, Dainippon Sumitomo Pharma,
+Co., Ltd., Osaka, Japan.
+(2)Ikeda Lab., Drug Development Research Laboratories, Dainippon Sumitomo Pharma,
+Co., Ltd., Osaka, Japan. Electronic address: kazuhito-ikeda@ds-pharma.co.jp.
+(3)Innovative Drug Discovery Laboratories, Dainippon Sumitomo Pharma, Co., Ltd., 
+Osaka, Japan.
+(4)Drug Research Division, Dainippon Sumitomo Pharma, Co., Ltd., Osaka, Japan.
+
+We previously demonstrated among several antipsychotics exhibiting potent
+dopamine D2 receptor antagonism that only lurasidone,
+(1R,2S,3R,4S)-N-[(1R,2R)-2-[4-(1,2-benzisothiazol-3-yl)-1-piperazinylmethyl]-1-cy
+clohexylmethyl]-2,3-bicyclo[2.2.1] heptanedicarboximide hydrochloride, improved
+performance in the object retrieval detour (ORD) task by marmosets. The
+mechanisms by which only lurasidone causes enhancements in cognitive function
+have not yet been established; however, most antipsychotics, except for
+lurasidone, have been shown to exhibit potent antagonistic activity against the
+dopamine D4 receptor. The objectives of this study were to evaluate the role of
+the dopamine D4 receptor on executive function with the selective agonist,
+Ro10-5824 and antagonist, L-745,870, and elucidate a possible mechanism for the
+procognitive effect of lurasidone. The effects of these drugs were evaluated in
+naïve marmosets using the ORD task. Changes in the success rate during the
+difficult trial in the task were used to assess the cognitive effect of the
+drugs. Ro10-5824 (0.3-3 mg/kg) increased the success rate in the difficult trial,
+potentiated the effect of lurasidone, and reversed the cognitive impairment
+induced by clozapine. Interestingly, the co-administration of L-745,870 with
+lurasidone decreased the success rate in the difficult trial, whereas the single 
+administration of L-745,870 had no effect. These results suggest that activation 
+of the dopamine D4 receptor may improve executive function, whereas concomitant
+blockade of dopamine D4 and D2 receptors may have the opposite effect. In
+addition to the other unique binding profiles of other monoamine receptors, the
+lack of affinity for the dopamine D4 receptor by lurasidone could also
+contribute, at least partly, to its cognitive-enhancing effect.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbr.2013.11.036 
+PMID: 24304719  [Indexed for MEDLINE]
+
+
+1478. J Neurosci. 2013 Nov 27;33(48):18825-35. doi: 10.1523/JNEUROSCI.2414-13.2013.
+
+Auditory artificial grammar learning in macaque and marmoset monkeys.
+
+Wilson B(1), Slater H, Kikuchi Y, Milne AE, Marslen-Wilson WD, Smith K, Petkov
+CI.
+
+Author information: 
+(1)Institute of Neuroscience, and Centre for Behaviour and Evolution, Newcastle
+University, Newcastle upon Tyne, NE2 4HH, United Kingdom, Department of
+Psychology, University of Cambridge, Cambridge, CB2 3EB, United Kingdom, and
+School of Philosophy, Psychology and Language Sciences, University of Edinburgh, 
+Edinburgh, EH8 9AD, United Kingdom.
+
+Artificial grammars (AG) are designed to emulate aspects of the structure of
+language, and AG learning (AGL) paradigms can be used to study the extent of
+nonhuman animals' structure-learning capabilities. However, different AG
+structures have been used with nonhuman animals and are difficult to compare
+across studies and species. We developed a simple quantitative parameter space,
+which we used to summarize previous nonhuman animal AGL results. This was used to
+highlight an under-studied AG with a forward-branching structure, designed to
+model certain aspects of the nondeterministic nature of word transitions in
+natural language and animal song. We tested whether two monkey species could
+learn aspects of this auditory AG. After habituating the monkeys to the AG,
+analysis of video recordings showed that common marmosets (New World monkeys)
+differentiated between well formed, correct testing sequences and those violating
+the AG structure based primarily on simple learning strategies. By comparison,
+Rhesus macaques (Old World monkeys) showed evidence for deeper levels of AGL. A
+novel eye-tracking approach confirmed this result in the macaques and
+demonstrated evidence for more complex AGL. This study provides evidence for a
+previously unknown level of AGL complexity in Old World monkeys that seems less
+evident in New World monkeys, which are more distant evolutionary relatives to
+humans. The findings allow for the development of both marmosets and macaques as 
+neurobiological model systems to study different aspects of AGL at the neuronal
+level.
+
+DOI: 10.1523/JNEUROSCI.2414-13.2013 
+PMCID: PMC3841451
+PMID: 24285889  [Indexed for MEDLINE]
+

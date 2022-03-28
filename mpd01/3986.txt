@@ -1,0 +1,75 @@
+
+
+3986. J Mol Evol. 1994 Sep;39(3):255-67.
+
+Molecular evolution of interleukin-3.
+
+Burger H(1), Wagemaker G, Leunissen JA, Dorssers LC.
+
+Author information: 
+(1)Department of Medical Oncology, Dr. Daniel den Hoed Cancer Center/Dijkzigt,
+University Hospital Rotterdam, The Netherlands.
+
+Chimpanzee, tamarin, and marmoset interleukin-3 (IL-3) genes were cloned,
+sequenced, and expressed. Western blot analysis demonstrated that functional
+genes were isolated. IL-3 sequences were compared with those of mouse, rat,
+rhesus monkey, gibbon, and man. Multiple alignment of the IL-3 coding regions
+showed that only a few regions had been conserved during mammalian evolution,
+which are likely associated with functional domains of the IL-3 protein.
+Substitution rates for the various lineages were calculated and the numbers of
+synonymous and nonsynonymous substitutions were estimated separately. Distance
+matrices of the IL-3 coding regions were used to construct phylogenetic trees
+which revealed large differences in IL-3 evolution rate as well as a more rapid
+substitution rate for rodents and a rate slowdown during hominoid evolution.
+Extremes were rhesus monkey IL-3, which accumulated few synonymous substitutions,
+and gibbon IL-3, which had almost exclusively synonymous substitutions. In rhesus
+monkey IL-3, nonsynonymous substitutions outnumbered synonymous substitutions,
+which could not be readily explained by a random process of substitutions. We
+assume that during evolution of IL-3, the majority of the amino acid replacements
+and the impaired interspecies functional cross-reactivity originate from
+selection mechanisms with the most likely selective force being the structure of 
+the heterodimeric IL.3 cell-surface receptor. Insight into IL-3 architecture and 
+structural analysis of the IL-3 receptor are needed to analyze the unusually fast
+evolution of IL-3 in more detail.
+
+DOI: 10.1007/BF00160149 
+PMID: 7932787  [Indexed for MEDLINE]
+
+
+3987. Trop Med Parasitol. 1994 Sep;45(3):272-7.
+
+Animal pharmacokinetics and metabolism of the new antimalarial Ro 42-1611
+(arteflene).
+
+Girometta MA(1), Jauch R, Ponelle C, Guenzi A, Wiegand-Chou RC.
+
+Author information: 
+(1)Laboratorio di Farmacocinetica, Roche S.p.A., Milan, Italy.
+
+Ro 42-1611 (arteflene) is a new synthetic structural analogue of yingzhaosu, a
+Chinese traditional herbal drug, now under development for treatment of malaria. 
+The in vivo activity of arteflene in a mouse animal model was 4-5 fold higher
+after parenteral than after oral administration. Pharmacokinetics of the drug
+were investigated in mice, rats, dogs, marmosets and cynomolgus monkeys. Plasma
+concentrations of arteflene were determined using a specific HPLC-UV method; the 
+limit of quantification was 45 ng/ml using 0.5 ml plasma. The oral
+bioavailability was very low and variable (0.6% in mice, 4-5% in rats, 2.5 +/- 1%
+in dogs, < or = 0.5% in marmosets and < 0.5% in cynomolgus) as expected from the 
+high metabolic clearance and the relative short apparent half-life (1.4-4.7 h).
+However, a metabolite (MA) was observed in plasma of all species indicating that 
+drug was absorbed but underwent extensive first-pass metabolism. MA was also
+detected in samples of human plasma, collected during an oral tolerability study 
+in healthy volunteers. After incubation of 14C-arteflene with liver microsomes of
+mice, rats, dogs and humans, the same major metabolite was detected and both
+samples were identical to Ro 47-6936 which was chemically synthesized as a
+reference compound. The in vitro activity of Ro 47-6936 was tested against
+Plasmodium falciparum and found to be about 1/4 that of the parent drug.
+Therefore, this metabolite makes a significant contribution to the biological
+activity in vivo, partially explaining the high activity of arteflene after oral 
+administration in spite of its low bioavailability. Moreover, comparison of the
+metabolic patterns from human, rat and dog microsomes indicated that the dog is
+an appropriate species for toxicological evaluations.
+
+
+PMID: 7899803  [Indexed for MEDLINE]
+

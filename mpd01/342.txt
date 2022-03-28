@@ -1,0 +1,95 @@
+
+
+342. Sci Rep. 2020 Mar 20;10(1):5088. doi: 10.1038/s41598-020-61714-8.
+
+Human PZP and common marmoset A2ML1 as pregnancy related proteins.
+
+Kashiwagi H(1), Ishimoto H(1), Izumi SI(1), Seki T(2), Kinami R(3), Otomo A(3),
+Takahashi K(1), Kametani F(4), Hirayama N(5), Sasaki E(6)(7), Shiina T(3), Sakabe
+K(8), Mikami M(1), Kametani Y(9).
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Tokai University School of Medicine, 
+Isehara, Kanagawa, Japan.
+(2)Department of Internal Medicine, Division of Nephrology, Endocrinology and
+Metabolism, Tokai University School of Medicine, Isehara, Kanagawa, Japan.
+(3)Department of Molecular Life Science, Division of Basic Medical Science and
+Molecular Medicine, Tokai University School of Medicine, Isehara, Kanagawa,
+Japan.
+(4)Department of Dementia and Higher Brain Function, Tokyo Metropolitan Institute
+of Medical Science, Setagaya, Tokyo, Japan.
+(5)Division of Pharmaceutical Sciences, Institute of Advanced Biosciences, Tokai 
+University School of Medicine, Isehara, Kanagawa, Japan.
+(6)Central Institute for Experimental Animals, Kawasaki, Kanagawa, Japan.
+(7)RIKEN Cluster for Pioneering Research, Wako, Saitama, Japan.
+(8)Department of Anatomy, Division of Basic Medical Science, Tokai University
+School of Medicine, Isehara, Kanagawa, Japan.
+(9)Department of Molecular Life Science, Division of Basic Medical Science and
+Molecular Medicine, Tokai University School of Medicine, Isehara, Kanagawa,
+Japan. y-kametn@is.icc.u-tokai.ac.jp.
+
+While pregnancy-related proteins (PRP) are known to contribute to immunotolerance
+during pregnancy, their significance to development of invasive placenta is
+unclear. We compared PRP expression in humans and the common marmoset (Callithrix
+jacchus), a new-world monkey. Invasive placenta was observed at the
+maternal-foetal interface of marmoset placenta from green fluorescent protein
+(GFP)-expressing foetus and wild type mother. The pregnancy zone protein (PZP)
+and alpha-2 macroglobulin-like 1 (A2ML1) proteins exhibited the most prominent
+increase in expression during the second trimester in humans and marmoset,
+respectively. In humans, PZP accumulated at the maternal-foetal interface and
+A2ML1 accumulated in the amnion. Similarly, A2ML1 mRNA was detected in marmoset
+placenta. These proteins belong to the A2M family of protease inhibitors, and
+both PZP and A2ML1 share around 90% homology between human and marmoset and have 
+highly conserved structures. However, the protease-reacting bait regions of the
+proteins had lower homology (56.8-60.7% in proteins) relative to the rest of the 
+sequence. Notably, the cleavage site of a proinflammatory proline-endopeptidase
+was preserved in human PZP and marmoset A2ML1. These proteins contain multiple
+sites that are cleaved by proteases involving proline-endopeptidase. Systemic
+regulation of these A2M family proteins may be important in animals with invasive
+placenta.
+
+DOI: 10.1038/s41598-020-61714-8 
+PMCID: PMC7083932
+PMID: 32198464  [Indexed for MEDLINE]
+
+
+343. Stem Cells Dev. 2020 Jun 15;29(12):761-773. doi: 10.1089/scd.2019.0259. Epub 2020
+Apr 27.
+
+Primed to Naive-Like Conversion of the Common Marmoset Embryonic Stem Cells.
+
+Shiozawa S(1), Nakajima M(1), Okahara J(2)(3), Kuortaki Y(3), Kisa F(1)(4),
+Yoshimatsu S(1), Nakamura M(1), Koya I(1), Yoshimura M(5), Sasagawa Y(5), Nikaido
+I(5)(6), Sasaki E(3), Okano H(1)(2).
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan.
+(2)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako, Japan.
+(3)Department of Marmoset Biology and Medicine, Central Institute for
+Experimental Animals, Kawasaki, Japan.
+(4)Discovery Research Laboratories I, Minase Research Institute, Ono
+Pharmaceutical Co., Ltd., Mishima, Japan.
+(5)Laboratory for Bioinformatics Research, RIKEN Center for Biosystems Dynamics
+Research, Wako, Japan.
+(6)Bioinformatics Course, Master's/Doctoral Program in Life Science Innovation
+(T-LSI), School of Integrative and Global Majors (SIGMA), University of Tsukuba, 
+Wako, Japan.
+
+Mammalian pluripotent stem cells are thought to exist in two states: naive and
+primed. Generally, unlike those in rodents, pluripotent stem cells in primates,
+including humans, are regarded as being in the primed pluripotent state.
+Recently, several groups reported the existence of naive pluripotent stem cells
+in humans. In this study, we report the conversion of primed state embryonic stem
+cells from common marmoset, a New World monkey, to the naive state using
+transgenes. The cells showed typical naive state features, including dome-like
+colony morphology, growth factor requirement, gene expression profile, X
+chromosome activation state, and energy metabolic status. Moreover, interspecies 
+chimeric embryo formation ability with mouse embryos was increased in the naive
+state. This technique can be applied in basic medical research using nonhuman
+primates, such as preclinical use of naive pluripotent stem cells and generating 
+genetically modified primates.
+
+DOI: 10.1089/scd.2019.0259 
+PMID: 32188344  [Indexed for MEDLINE]
+

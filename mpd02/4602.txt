@@ -1,0 +1,43 @@
+
+
+4602. Carcinogenesis. 1985 Nov;6(11):1543-50.
+
+Metabolism and tissue distribution of tobacco-specific N-nitrosamines in the
+marmoset monkey (Callithrix jacchus).
+
+Castonguay A, Tjälve H, Trushin N, d'Argy R, Sperber G.
+
+Three male marmoset monkeys (Callithrix jacchus) were injected i.v. with the
+tobacco-specific carcinogen [2'-14C]N'-nitrosonornicotine (NNN) (20.3 mumol/kg
+body weight) or [carbonyl-14C]4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone
+(NNK) (18.8 or 420 mumol/kg body weight). They were sacrificed 4 h later. Tissue 
+distribution was studied in two monkeys by whole-body autoradiography and by
+computer-assisted densitometric analysis of the autoradiograms. The
+autoradiograms showed a high level of radioactivity in the liver, nasal mucosa,
+kidneys, melanin of the eyes, hair-follicles of the skin and in the ceruminous
+ear glands of the monkeys. Total level of radioactivity was 5.7 times higher in
+the liver of the [carbonyl-14C]NNK-injected monkey than in that of
+[2'-14C]-NNN-injected monkey. Washing the sections with trichloroacetic acid and 
+organic solvents selectively removed free metabolites leaving metabolites bound
+to cellular macromolecules. Level of bound metabolites was 1.5 times higher in
+the nasal mucosa than in the liver of the [2'-14C]NNN monkey. Levels of bound
+metabolites were similar in the liver of NNN- and NNK-treated monkeys. The
+results indicate that the liver and nasal mucosa of C. jacchus can activate NNN
+and NNK to alkylating species. Unbound metabolites present in the liver, lung,
+kidneys, eye, blood and urine were extracted and separated by h.p.l.c.
+Hydroxylation of the carbons alpha to the N-nitroso group of NNN were the major
+metabolic pathways. Unmetabolized NNN was the major radioactive component in the 
+liver, lung, eye and blood. Reduction of the carbonyl of NNK yields
+4-(methylnitrosamino)-1-(3-pyridyl)butan-1-ol (NNAl). NNAl was present in all
+tissues analyzed and was the major radioactive component in the eye and stomach
+lumen. It was also excreted in the urine. NNK and NNAl were metabolized by
+alpha-carbon hydroxylation. These results suggest that in C. jacchus, NNN, NNK
+and NNAl are activated to alkylating species by alpha-carbon hydroxylation. In
+the third monkey injected with NNK, DNA methylation was observed in the liver and
+nasal mucosa but not in the lung and kidneys. Pulmonary tissues of C. jacchus,
+unlike those of F344 rats, do not have the enzymic capacities to activate NNK to 
+methylating species.
+
+DOI: 10.1093/carcin/6.11.1543 
+PMID: 4053274  [Indexed for MEDLINE]
+

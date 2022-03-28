@@ -1,0 +1,34 @@
+
+
+1426. J Immunol. 2014 May 1;192(9):4242-53. doi: 10.4049/jimmunol.1303125. Epub 2014
+Apr 2.
+
+CD20+ B cell depletion alters T cell homing.
+
+Kap YS(1), van Driel N, Laman JD, Tak PP, 't Hart BA.
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Centre, 2280 GH
+Rijswijk, The Netherlands;
+
+Depleting mAbs against the pan B cell marker CD20 are remarkably effective in the
+treatment of autoimmune-mediated inflammatory disorders, but the underlying
+mechanisms are poorly defined. The primary objective of this study was to find a 
+mechanistic explanation for the remarkable clinical effect of the anti-CD20 mAbs 
+in a representative nonhuman primate autoimmune-mediated inflammatory disorder
+model, experimental autoimmune encephalomyelitis (EAE) in common marmosets,
+allowing detailed analysis of secondary lymphoid organs (SLO). We observed that
+the depletion of CD20(+) B cells creates a less immunostimulatory environment in 
+the SLO reflected by reduced expression of MHC class II, CD40, CD83, and
+CD80/CD86. APCs isolated from SLO of B cell-depleted EAE monkeys were also less
+responsive to mitogenic stimulation. The depleted B cell areas were replenished
+by T cells, of which the majority expressed CD127 (IL-7R) and CCR7. Such effects 
+were not detected in EAE marmosets treated with mAb against BLyS or APRIL, where 
+B cell depletion via withdrawal of essential survival cytokines was not
+associated with a marked clinical effect. We propose that at least part of the
+efficacy of anti-CD20 mAb therapy is attributable to the sustained CCR7
+expression on T cells within SLO, limiting their release into the circulation.
+
+DOI: 10.4049/jimmunol.1303125 
+PMID: 24696233  [Indexed for MEDLINE]
+

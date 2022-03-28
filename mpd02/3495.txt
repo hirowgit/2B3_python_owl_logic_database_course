@@ -1,0 +1,30 @@
+
+
+3495. Mamm Genome. 1998 Dec;9(12):1042-8.
+
+Structural and evolutionary characterization of the human sorbitol dehydrogenase 
+gene duplication.
+
+Carr IM(1), Whitehouse A, Coletta PL, Markham AF.
+
+Author information: 
+(1)Molecular Medicine Unit, University of Leeds, Clinical Sciences Building, St
+James's University Hospital, Leeds LS9 7TF, United Kingdom.
+
+We have established that two very closely homologous human sorbitol dehydrogenase
+sequences lie within 0.5 Mb on Chromosome 15. We have defined the relative
+orientation of SORD1 and SORD2 genes with respect to both the centromere and each
+other and established their exact chromosome location. In addition, we have
+identified polymorphic variants in the locus, which may be useful, in association
+studies to predict predisposition to clinical problems resulting from decreased
+conversion of cellular sorbitol to fructose. To define the evolutionary
+relationship of these human genes, SORD from the marmoset was also sequenced for 
+comparison. Marmoset SORD, which appears to be a single gene in this species,
+shows significantly less homology with either SORD1 or SORD2 than they do with
+each other, suggesting that the human homologs represent a recent gene
+duplication event. A hypothesis is presented to explain the retention of the
+redundant SORD2 sequence in the human genome.
+
+DOI: 10.1007/s003359900922 
+PMID: 9880675  [Indexed for MEDLINE]
+

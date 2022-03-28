@@ -1,0 +1,104 @@
+
+
+1359. Neurosci Res. 2015 Apr;93:144-57. doi: 10.1016/j.neures.2014.09.002. Epub 2014
+Sep 18.
+
+Comparative analyses of adeno-associated viral vector serotypes 1, 2, 5, 8 and 9 
+in marmoset, mouse and macaque cerebral cortex.
+
+Watakabe A(1), Ohtsuka M(2), Kinoshita M(3), Takaji M(2), Isa K(3), Mizukami
+H(4), Ozawa K(4), Isa T(5), Yamamori T(6).
+
+Author information: 
+(1)Division of Brain Biology, National Institute for Basic Biology, Okazaki,
+Japan; Graduate University for Advanced Studies (SOKENDAI), Okazaki, Japan.
+Electronic address: watakabe@nibb.ac.jp.
+(2)Division of Brain Biology, National Institute for Basic Biology, Okazaki,
+Japan.
+(3)Department of Developmental Physiology, National Institute for Physiological
+Sciences, Okazaki, Japan.
+(4)Division of Genetic Therapeutics, Center for Molecular Medicine, Jichi Medical
+University, Japan.
+(5)Graduate University for Advanced Studies (SOKENDAI), Okazaki, Japan;
+Department of Developmental Physiology, National Institute for Physiological
+Sciences, Okazaki, Japan.
+(6)Division of Brain Biology, National Institute for Basic Biology, Okazaki,
+Japan; Graduate University for Advanced Studies (SOKENDAI), Okazaki, Japan.
+
+Here we investigated the transduction characteristics of adeno-associated viral
+vector (AAV) serotypes 1, 2, 5, 8 and 9 in the marmoset cerebral cortex. Using
+three constructs that each has hrGFP under ubiquitous (CMV), or neuron-specific
+(CaMKII and Synapsin I (SynI)) promoters, we investigated (1) the extent of viral
+spread, (2) cell type tropism, and (3) neuronal transduction efficiency of each
+serotype. AAV2 was clearly distinct from other serotypes in small spreading and
+neuronal tropism. We did not observe significant differences in viral spread
+among other serotypes. Regarding the cell tropism, AAV1, 5, 8 and 9 exhibited
+mostly glial expression for CMV construct. However, when the CaMKII construct was
+tested, cortical neurons were efficiently transduced (>∼70% in layer 3) by all
+serotypes, suggesting that glial expression obscured neuronal expression for CMV 
+construct. For both SynI and CaMKII constructs, we observed generally high-level 
+expression in large pyramidal cells especially in layer 5, as well as in
+parvalbumin-positive interneurons. The expression from the CaMKII construct was
+more uniformly observed in excitatory cells compared with SynI construct.
+Injection of the same viral preparations in mouse and macaque cortex resulted in 
+essentially the same result with some species-specific differences.
+
+Copyright © 2014 The Authors. Published by Elsevier Ireland Ltd.. All rights
+reserved.
+
+DOI: 10.1016/j.neures.2014.09.002 
+PMID: 25240284  [Indexed for MEDLINE]
+
+
+1360. Mol Hum Reprod. 2015 Jan;21(1):66-80. doi: 10.1093/molehr/gau088. Epub 2014 Sep
+18.
+
+Primordial germ cell development in the marmoset monkey as revealed by
+pluripotency factor expression: suggestion of a novel model of embryonic germ
+cell translocation.
+
+Aeckerle N(1), Drummer C(1), Debowski K(1), Viebahn C(2), Behr R(3).
+
+Author information: 
+(1)Stem Cell Biology Unit, German Primate Center - Leibniz Institute for Primate 
+Research, Kellnerweg 4, 37077 Göttingen, Germany.
+(2)Department of Anatomy and Embryology, Center of Anatomy, University of
+Göttingen, Kreuzbergring 36, 37075 Göttingen, Germany.
+(3)Stem Cell Biology Unit, German Primate Center - Leibniz Institute for Primate 
+Research, Kellnerweg 4, 37077 Göttingen, Germany rbehr@dpz.eu.
+
+Erratum in
+    Mol Hum Reprod. 2015 Jun;21(6):552.
+
+Primordial germ cells (PGCs) are the embryonic progenitors of sperm and egg
+cells. Mammalian PGCs are thought to actively migrate from the yolk sac endoderm 
+over long distances across the embryo to reach the somatic genital ridges. The
+general principles of mammalian PGC development were discovered in mice. In
+contrast, little is known about PGC development in primates due to extremely
+limited access to primate embryos. Here, we analyzed 12 well preserved marmoset
+monkey (Callithrix jacchus) embryos covering the phase from PGC emergence in the 
+endoderm to the formation of the sexually differentiated gonad (embryonic day (E)
+50 to E95). We show using immunohistochemistry that the pluripotency factors
+OCT4A and NANOG specifically mark PGCs throughout the period studied. In
+contrast, SALL4 and LIN28 were first expressed ubiquitously and only later
+down-regulated in somatic tissues. We further show, for the first time, that PGCs
+are located in the endoderm in E50 embryos in close spatial proximity to the
+prospective genital ridge, making a long-range migration of PGCs dispensable. At 
+E65, PGCs are already present in the primitive gonad, while significantly later
+embryonic stages still exhibit PGCs at their original endodermal site, revealing 
+a wide spatio-temporal window of PGC distribution. Our findings challenge the
+'dogma' of active long-range PGC migration from the endoderm to the gonads. We
+therefore favor an alternative model based primarily on passive translocation of 
+PGCs from the mesenchyme that surrounds the gut to the prospective gonad through 
+the intercalar expansion of mesenchymal tissue which contains the PGCs. In
+summary, we (i) show differential pluripotency factor expression during primate
+embryo development and (ii) provide a schematic model for embryonic PGC
+translocation.
+
+© The Author 2014. Published by Oxford University Press on behalf of the European
+Society of Human Reproduction and Embryology.
+
+DOI: 10.1093/molehr/gau088 
+PMCID: PMC4275041
+PMID: 25237007  [Indexed for MEDLINE]
+

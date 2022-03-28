@@ -1,0 +1,66 @@
+
+
+2853. Eur J Neurosci. 2004 Jan;19(1):169-80.
+
+First- and second-order stimulus length selectivity in New World monkey striate
+cortex.
+
+Bourne JA(1), Lui L, Tweedale R, Rosa MG.
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, VIC 3800, Australia.
+
+Motion is a powerful cue for figure-ground segregation, allowing the recognition 
+of shapes even if the luminance and texture characteristics of the stimulus and
+background are matched. In order to investigate the neural processes underlying
+early stages of the cue-invariant processing of form, we compared the responses
+of neurons in the striate cortex (V1) of anaesthetized marmosets to two types of 
+moving stimuli: bars defined by differences in luminance, and bars defined solely
+by the coherent motion of random patterns that matched the texture and temporal
+modulation of the background. A population of form-cue-invariant (FCI) neurons
+was identified, which demonstrated similar tuning to the length of contours
+defined by first- and second-order cues. FCI neurons were relatively common in
+the supragranular layers (where they corresponded to 28% of the recorded units), 
+but were absent from layer 4. Most had complex receptive fields, which were
+significantly larger than those of other V1 neurons. The majority of FCI neurons 
+demonstrated end-inhibition in response to long first- and second-order bars, and
+were strongly direction selective. Thus, even at the level of V1 there are cells 
+whose variations in response level appear to be determined by the shape and
+motion of the entire second-order object, rather than by its parts (i.e. the
+individual textural components). These results are compatible with the existence 
+of an output channel from V1 to the ventral stream of extrastriate areas, which
+already encodes the basic building blocks of the image in an invariant manner.
+
+DOI: 10.1111/j.1460-9568.2004.03082.x 
+PMID: 14750975  [Indexed for MEDLINE]
+
+
+2854. Virus Res. 2004 Feb;99(2):187-92.
+
+Phylogenetic relationships in the Lymphocryptovirus genus of the
+Gammaherpesvirinae.
+
+Gerner CS(1), Dolan A, McGeoch DJ.
+
+Author information: 
+(1)Medical Research Council Virology Unit, Institute of Virology, Church Street, 
+G11 5JR, Glasgow, UK.
+
+Complete DNA sequences were determined for the glycoprotein B (gB) genes of four 
+viruses from the genus Lymphocryptovirus, whose hosts had been assigned as
+baboon, orangutan, chimpanzee and gorilla. Together with published sequences for 
+the gB genes of three lymphocryptoviruses, namely the human pathogen Epstein-Barr
+virus (EBV), a rhesus monkey virus and a marmoset virus, the sequences were used 
+to investigate evolutionary relationships in the genus. The chimpanzee and
+orangutan viruses' sequences were found to be so close that it is unlikely both
+represent natural infections in these hosts. Phylogenetic analyses showed that
+the New World marmoset virus lineage formed a sister clade to that of the Old
+World viruses, consistent with a cospeciational separation. Within the Old World 
+virus group, resolution of branching pattern was incomplete, and suggestive of a 
+complex history. In particular, it was inferred that separation of the EBV
+lineage from that of the gorilla virus plus the chimpanzee/orangutan virus may
+have predated separation of the present day host species.
+
+DOI: 10.1016/j.virusres.2003.10.011 
+PMID: 14749184  [Indexed for MEDLINE]
+

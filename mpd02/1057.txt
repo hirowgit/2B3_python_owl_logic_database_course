@@ -1,0 +1,41 @@
+
+
+1057. Nan Fang Yi Ke Da Xue Xue Bao. 2016 Apr;36(4):582-7.
+
+[Detection of neutralizing antibody to human adenovirus type 5 in marmosets].
+
+[Article in Chinese]
+
+Sun YC(1), Li TT, Wang YL, Zhang L, Zhu H, Li CY.
+
+Author information: 
+(1)Department of Transfusion Medicine, Southern Medical University, Guangzhou
+510515, China. E-mail: 759921681@qq.com.
+
+OBJECTIVE: To construct a recombinant human adenovirus type 5 (Ad5) expressing
+luciferase and GFP reporter gene and detect neutralizing antibodies against
+adenovirus type 5 in common marmosets (Callithrix jacchus) to provide basic
+laboratory data for evaluating adenovirus vaccines.
+METHODS: Luciferase and GFP reporter genes from plasmid pHAGE-CMV-GFP were
+inserted into pDC315 to construct the recombinant adenovirus shutter plasmid
+pDC315-Luc-GFP. The shutter plasmid was co-transduced with pBHGlox(delta)E1,3Cre 
+in 293A cell line to package the recombinant adenovirus rAd5/Luc/GFP. Three
+rounds of plaque formation experiment were performed to select the monoclonal
+adenovirus followed by purification with cesium chloride density gradient
+centrifugation and virus titration with TCID50 method. Chemiluminescence assay
+and flow cytometry were employed to detect the neutralizing antibody levels in 14
+common marmosets.
+RESULTS: The shuttle plasmid pDC315-Luc-GFP was successfully constructed and the 
+recombinant adenovirus rAd5/Luc/GFP was packaged with a the titer reaching
+6.9×10(11.5) PFU/mL. In the 14 marmosets, chemiluminescence assay identified 4
+(28.6%) marmosets that were positive for Ad5-neutralizing antibodies, including 2
+with a antibody titer of 1/16 and another 2 with a titer of 1/32; flow cytomery
+detected Ad5-neutralizing antibodies in 3 marmosets at the titer of 1/16.
+CONCLUSION: Chemiluminescence assay is a simple, sensitive, and accurate modality
+for detecting Ad5-neutralizing antibodies. Common marmosets have a very low
+positivity rate for Ad5-neutralizing antibodies and are therefore promising
+models for studying adenovirus-based vaccines and therapies.
+
+
+PMID: 27113192  [Indexed for MEDLINE]
+

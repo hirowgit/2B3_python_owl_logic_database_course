@@ -1,0 +1,83 @@
+
+
+1204. Am J Primatol. 2016 Mar;78(3):372-87. doi: 10.1002/ajp.22431. Epub 2015 Jun 25.
+
+Complex cooperative breeders: Using infant care costs to explain variability in
+callitrichine social and reproductive behavior.
+
+Díaz-Muñoz SL(1).
+
+Author information: 
+(1)Section of Ecology, Behavior and Evolution, University of California, San
+Diego, California.
+
+The influence of ecology on social behavior and mating strategies is one of the
+central questions in behavioral ecology and primatology. Callitrichines are New
+World primates that exhibit high behavioral variability, which is widely
+acknowledged, but not always systematically researched. Here, I examine the
+hypothesis that differences in the cost of infant care among genera help explain 
+variation in reproductive traits. I present an integrative approach to generate
+and evaluate predictions from this hypothesis. I first identify callitrichine
+traits that vary minimally and traits that are more flexible (e.g., have greater 
+variance or norm of reaction), including the number of males that mate with a
+breeding female, mechanisms of male reproductive competition, number of natal
+young retained, and the extent of female reproductive suppression. I outline how 
+these more labile traits should vary along a continuum of infant care costs
+according to individual reproductive strategies. At one end of the spectrum, I
+predict that groups with higher infant care costs will show multiple adult males 
+mating and providing infant care, high subordinate female reproductive
+suppression, few natal individuals delaying dispersal, and increased reproductive
+output by the dominant female -with opposite predictions under low infant costs. 
+I derive an estimate of the differences in ecological and physiological infant
+care costs that suggest an order of ascending costs in the wild: Cebuella,
+Callithrix, Mico, Callimico, Saguinus, and Leontopithecus. I examine the
+literature on each genus for the most variable traits and evaluate a) where they 
+fall along the continuum of infant care costs according to their reproductive
+strategies, and b) whether these costs correspond to the ecophysiological
+estimates of infant care costs. I conclude that infant care costs can provide a
+unifying explanation for the most variable reproductive traits among
+callitrichine genera. The approach presented can be used to generate predictions 
+and motivate researchers to unravel complexity in callitrichine social and
+reproductive behavior.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajp.22431 
+PMID: 26111848  [Indexed for MEDLINE]
+
+
+1205. J Acoust Soc Am. 2015 Jun;137(6):3068-76. doi: 10.1121/1.4921607.
+
+The source-filter theory of whistle-like calls in marmosets: Acoustic analysis
+and simulation of helium-modulated voices.
+
+Koda H(1), Tokuda IT(2), Wakita M(1), Ito T(3), Nishimura T(1).
+
+Author information: 
+(1)Primate Research Institute, Kyoto University, Inuyama, Aichi 484-8506, Japan.
+(2)Department of Mechanical Engineering, Ritsumeikan University, Kusatsu, Shiga
+525-8577, Japan.
+(3)Department of Human Biology and Anatomy, Graduate School of Medicine,
+University of the Ryukyus, Nishihara, Okinawa 903-0215, Japan.
+
+Whistle-like high-pitched "phee" calls are often used as long-distance vocal
+advertisements by small-bodied marmosets and tamarins in the dense forests of
+South America. While the source-filter theory proposes that vibration of the
+vocal fold is modified independently from the resonance of the supralaryngeal
+vocal tract (SVT) in human speech, a source-filter coupling that constrains the
+vibration frequency to SVT resonance effectively produces loud tonal sounds in
+some musical instruments. Here, a combined approach of acoustic analyses and
+simulation with helium-modulated voices was used to show that phee calls are
+produced principally with the same mechanism as in human speech. The animal keeps
+the fundamental frequency (f0) close to the first formant (F1) of the SVT, to
+amplify f0. Although f0 and F1 are primarily independent, the degree of their
+tuning can be strengthened further by a flexible source-filter interaction, the
+variable strength of which depends upon the cross-sectional area of the laryngeal
+cavity. The results highlight the evolutionary antiquity and universality of the 
+source-filter model in primates, but the study can also explore the
+diversification of vocal physiology, including source-filter interaction and its 
+anatomical basis in non-human primates.
+
+DOI: 10.1121/1.4921607 
+PMID: 26093398  [Indexed for MEDLINE]
+

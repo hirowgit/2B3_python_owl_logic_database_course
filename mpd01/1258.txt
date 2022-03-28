@@ -1,0 +1,76 @@
+
+
+1258. Toxicol Sci. 2015 Jul;146(1):43-51. doi: 10.1093/toxsci/kfv069. Epub 2015 Mar 25.
+
+Proteomic Analysis of Cerebellum in Common Marmoset Exposed to Methylmercury.
+
+Shao Y(1), Yamamoto M(2), Figeys D(3), Ning Z(3), Chan HM(4).
+
+Author information: 
+(1)*Natural Resources and Environmental Studies Program, University of Northern
+British Columbia, Prince George, British Columbia V2N 4Z9, Canada.
+(2)Department of Basic Medical Science, National Institute for Minamata Disease, 
+Minamata, Kumamoto 867-0008, Japan.
+(3)Ottawa Institute of Systems Biology, University of Ottawa, Ottawa, Ontario,
+Canada K1H 8M5 and.
+(4)Department of Biology, Centre for Advanced Research in Environmental Genomics,
+University of Ottawa, Ottawa, Ontario, Canada K1N 6N5 laurie.chan@uottawa.ca.
+
+The cerebellum is known as the major target regions of methylmercury (MeHg)
+toxicity, but the mechanisms are still not fully understood. We studied the
+effects of MeHg exposure in the cerebellum of common marmoset (Callithrix
+jacchus) using a shotgun proteomic approach with liquid chromatography coupled to
+mass spectrometry. A total of 1000 common proteins were identified in all
+samples, and 102 proteins were significantly differentially expressed in the
+cerebellum of common marmoset with orally dosed MeHg (1.5 mg MeHg/kg body weight 
+for 2 weeks) compared with those of the control group. Functional enrichment
+analysis and pathway predictions showed that the differentially expressed
+proteins were involved in carbohydrate derivative metabolic process, ion
+transport including synaptic transmission, cell development, and calcium
+signaling pathway. Cellular component enrichment analysis showed that they were
+mainly distributed in plasma membrane, excitatory synapse, and synaptic membrane.
+These results indicate that synaptic transmission and calcium signaling pathways 
+are the core functions affected by MeHg. We found a total of 21 novel proteins
+affected by MeHg in synaptic transmission and calcium signaling pathways. DLG4:
+(PSD95) and MIR-19A/MIR-19B were found to be potential key targets leading to the
+multiple effects of MeHg neurotoxicity. These results show the global effects of 
+MeHg on cellular functions and pathways leading to neurological deficits in
+common marmoset.
+
+© The Author 2015. Published by Oxford University Press on behalf of the Society 
+of Toxicology. All rights reserved. For Permissions, please e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/toxsci/kfv069 
+PMID: 25809596  [Indexed for MEDLINE]
+
+
+1259. Primates. 2015 Jul;56(3):235-40. doi: 10.1007/s10329-015-0466-2. Epub 2015 Mar
+25.
+
+Noninvasive genotyping of common marmoset (Callithrix jacchus) by fingernail PCR.
+
+Takabayashi S(1), Katoh H.
+
+Author information: 
+(1)Experimental Animals Institute, Hamamatsu University School of Medicine,
+1-20-1 Handayama, Higashi-ku, Hamamatsu, Shizuoka, 431-3192, Japan,
+shuji@hama-med.ac.jp.
+
+The common marmoset (Callithrix jacchus) is a New World primate that is a useful 
+model for medical studies. In this study, we report a convenient, reliable, and
+noninvasive procedure to genotype a living common marmoset by using fingernails. 
+This method was used to successfully genotype DNA by restriction fragment length 
+polymorphism (RFLP) PCR without prior purification, by using the KOD FX PCR
+enzyme kit. Additionally, there is no sample contamination from hematopoietic
+chimera derived from fused placenta in utero. We compared chimeric levels between
+various tissues in females with male littermates using quantitative fluorescent
+(QF)-PCR to prepare a reliable DNA source for genetic analyses, such as
+genotyping, gene mapping, or genomic sequencing. The chimerism detected appeared 
+to be restricted to lymphatic tissues, such as bone marrow, thymus, spleen, lymph
+nodes and blood cells. As a result, DNA from fingernails with the quick is the
+best DNA source for genetic research in living marmosets.
+
+DOI: 10.1007/s10329-015-0466-2 
+PMID: 25805040  [Indexed for MEDLINE]
+

@@ -1,0 +1,111 @@
+
+
+766. Chronobiol Int. 2018 Jan;35(1):35-48. doi: 10.1080/07420528.2017.1380658. Epub
+2017 Dec 6.
+
+Forced desynchronization model for a diurnal primate.
+
+Silva CA(1)(2), Melo LIM(1), Pires AR(1), Barbalho JC(1), Melo AV(1), Fernandes
+DAC(1), Oliveira EB(1), Azevedo CVM(1), Cambras T(3), Díez-Noguera A(3),
+Fontenele-Araujo J(1).
+
+Author information: 
+(1)a Laboratório de Neurobiologia e Ritmicidade Biológica, Departamento de
+Fisiologia , Universidade Federal do Rio Grande do Norte , Natal , Rio Grande do 
+Norte , Brazil.
+(2)b Departamento de Neuropsiquiatria , Universidade Federal de Pernambuco ,
+Recife , Pernambuco , Brazil.
+(3)c Departament de Fisiologia, Facultat de Farmàcia , Universitat de Barcelona ,
+Barcelona , Spain.
+
+The circadian system is organized in a hierarchy of multiple oscillators, with
+the suprachiasmatic nucleus (SCN) as the master oscillator in mammals. The SCN is
+formed by a group of coupled cell oscillators. Knowledge of this coupling
+mechanism is essential to understanding entrainment and the expression of
+circadian rhythms. Some authors suggest that light-dark (LD) cycles with periods 
+near the limit of entrainment may be good models for promoting internal
+desynchronization, providing knowledge about the coupling mechanism. As such, we 
+evaluated the circadian activity rhythm (CAR) pattern of marmosets in LD cycles
+at lower limits of entrainment in order to study induced internal dissociation.
+To that end, two experiments were conducted: (1) 6 adult females were under
+symmetrical LD cycles T21, T22 and T21.5 for 60, 35 and 48 days, respectively;
+and (2) 4 male and 4 female adults were under T21 for 24 days followed by 18 days
+of LL, back to T21 for 24 days, followed by 14 days of LL. The CAR of each animal
+was continuously recorded. In experiment 1, vocalizations were also recorded.
+Under Ts shorter than 24 days, a dissociation pattern was observed for CAR and
+vocalizations. Two simultaneous circadian components emerged, one with the same
+period as the LD cycle, called the light-entrained component, and the other in
+free-running, denominated the non-light-entrained component. Both components were
+displayed in the CAR for all the animals in T21, five animals (83.3%) in T21.5
+and two animals (33.3%) in T22. Our results are in accordance with the
+multioscillatory nature of the circadian system. Dissociation is partial
+synchronization to the LD cycle, with at least one group of oscillators
+synchronized by relative coordination and masking, while another group of
+oscillators free runs, but is also masked by the LD cycle. Since only T21
+promoted the emergence of both circadian components in the circadian rhythms of
+all marmosets, it was considered the promoter period of circadian rhythm
+dissociation in this species, and is proposed as a good animal model for forced
+desynchronization in non-human diurnal primates.
+
+DOI: 10.1080/07420528.2017.1380658 
+PMID: 29211510  [Indexed for MEDLINE]
+
+
+767. Neuroimage. 2018 Apr 1;169:106-116. doi: 10.1016/j.neuroimage.2017.12.004. Epub
+2017 Dec 5.
+
+A digital 3D atlas of the marmoset brain based on multi-modal MRI.
+
+Liu C(1), Ye FQ(2), Yen CC(1), Newman JD(3), Glen D(4), Leopold DA(5), Silva
+AC(6).
+
+Author information: 
+(1)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD 20892, USA.
+(2)Neurophysiology Imaging Facility, National Institute of Mental Health,
+National Institute of Neurological Disorders and Stroke, and National Eye
+Institute, National Institutes of Health, Bethesda, MD 20892, USA.
+(3)Laboratory of Comparative Ethology, Eunice Kennedy Shriver, National Institute
+of Child Health and Human Development, National Institutes of Health,
+Poolesville, MD 20837, USA.
+(4)Scientific and Statistical Computing Core, National Institute of Mental
+Health, National Institutes of Health (NIMH/NIH), Bethesda, MD 20892, USA.
+(5)Neurophysiology Imaging Facility, National Institute of Mental Health,
+National Institute of Neurological Disorders and Stroke, and National Eye
+Institute, National Institutes of Health, Bethesda, MD 20892, USA; Section on
+Cognitive Neurophysiology and Imaging, Laboratory of Neuropsychology, National
+Institute of Mental Health, Bethesda, MD 20892-4400, USA.
+(6)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD 20892, USA. Electronic address:
+SilvaA@ninds.nih.gov.
+
+The common marmoset (Callithrix jacchus) is a New-World monkey of growing
+interest in neuroscience. Magnetic resonance imaging (MRI) is an essential tool
+to unveil the anatomical and functional organization of the marmoset brain. To
+facilitate identification of regions of interest, it is desirable to register MR 
+images to an atlas of the brain. However, currently available atlases of the
+marmoset brain are mainly based on 2D histological data, which are difficult to
+apply to 3D imaging techniques. Here, we constructed a 3D digital atlas based on 
+high-resolution ex-vivo MRI images, including magnetization transfer ratio (a
+T1-like contrast), T2w images, and multi-shell diffusion MRI. Based on the
+multi-modal MRI images, we manually delineated 54 cortical areas and 16
+subcortical regions on one hemisphere of the brain (the core version). The 54
+cortical areas were merged into 13 larger cortical regions according to their
+locations to yield a coarse version of the atlas, and also parcellated into 106
+sub-regions using a connectivity-based parcellation method to produce a refined
+atlas. Finally, we compared the new atlas set with existing histology atlases and
+demonstrated its applications in connectome studies, and in resting state and
+stimulus-based fMRI. The atlas set has been integrated into the
+widely-distributed neuroimaging data analysis software AFNI and SUMA, providing a
+readily usable multi-modal template space with multi-level anatomical labels
+(including labels from the Paxinos atlas) that can facilitate various
+neuroimaging studies of marmosets.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.neuroimage.2017.12.004 
+PMCID: PMC5856608
+PMID: 29208569  [Indexed for MEDLINE]
+

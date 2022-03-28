@@ -1,0 +1,35 @@
+
+
+2678. Curr Biol. 2005 May 24;15(10):974-9.
+
+Small nuclear RNAs encoded by Herpesvirus saimiri upregulate the expression of
+genes linked to T cell activation in virally transformed T cells.
+
+Cook HL(1), Lytle JR, Mischo HE, Li MJ, Rossi JJ, Silva DP, Desrosiers RC, Steitz
+JA.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Molecular Biophysics and
+Biochemistry, Yale University, New Haven, Connecticut 06536, USA.
+
+Seven small nuclear RNAs of the Sm class are encoded by Herpesvirus saimiri
+(HVS), a gamma Herpesvirus that causes aggressive T cell leukemias and lymphomas 
+in New World primates and efficiently transforms T cells in vitro. The
+Herpesvirus saimiri U RNAs (HSURs) are the most abundant viral transcripts in
+HVS-transformed, latently infected T cells but are not required for viral
+replication or transformation in vitro. We have compared marmoset T cells
+transformed with wild-type or a mutant HVS lacking the most highly conserved
+HSURs, HSURs 1 and 2. Microarray and Northern analyses reveal that HSUR 1 and 2
+expression correlates with significant increases in a small number of host mRNAs,
+including the T cell-receptor beta and gamma chains, the T cell and natural
+killer (NK) cell-surface receptors CD52 and DAP10, and intracellular
+proteins--SKAP55, granulysin, and NKG7--linked to T cell and NK cell activation. 
+Upregulation of three of these transcripts was rescued after transduction of
+deletion-mutant-HVS-transformed cells with a lentiviral vector carrying HSURs 1
+and 2. These changes indicate an unexpected role for the HSURs in regulating a
+remarkably defined and physiologically relevant set of host targets involved in
+the activation of virally transformed T cells during latency.
+
+DOI: 10.1016/j.cub.2005.04.034 
+PMID: 15916956  [Indexed for MEDLINE]
+

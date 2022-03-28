@@ -1,0 +1,70 @@
+
+
+2452. Proc Natl Acad Sci U S A. 2006 Dec 19;103(51):19512-7. Epub 2006 Dec 7.
+
+Geniculocortical relay of blue-off signals in the primate visual system.
+
+Szmajda BA(1), Buzás P, Fitzgibbon T, Martin PR.
+
+Author information: 
+(1)National Vision Research Institute of Australia, University of Melbourne,
+Carlton VIC 3053, Australia.
+
+A fundamental dichotomy in the subcortical visual system exists between on- and
+off-type neurons, which respectively signal increases and decreases of light
+intensity in the visual environment. In primates, signals for red-green color
+vision are carried by both on- and off-type neurons in the parvocellular division
+of the subcortical pathway. It is thought that on-type signals for blue-yellow
+color vision are carried by cells in a distinct, diffusely projecting
+(koniocellular) pathway, but the pathway taken by blue-off signals is not known. 
+Here, we measured blue-off responses in the subcortical visual pathway of
+marmoset monkeys. We found that the cells exhibiting blue-off responses are
+largely segregated to the koniocellular pathway. The blue-off cells show
+relatively large receptive fields, sluggish responses to maintained contrast,
+little sign of an inhibitory receptive-field surround mechanism, and negligible
+functional input from an intrinsic (melanopsin-based) phototransductive
+mechanism. These properties are consistent with input from koniocellular or
+"W-like" ganglion cells in the retina and suggest that blue-off cells, as
+previously shown for blue-on cells, could contribute to cortical mechanisms for
+visual perception via the koniocellular pathway.
+
+DOI: 10.1073/pnas.0606970103 
+PMCID: PMC1748257
+PMID: 17158219  [Indexed for MEDLINE]
+
+
+2453. J Virol. 2007 Mar;81(5):2401-17. Epub 2006 Dec 6.
+
+Intracellular Tat of human immunodeficiency virus type 1 activates lytic cycle
+replication of Kaposi's sarcoma-associated herpesvirus: role of JAK/STAT
+signaling.
+
+Zeng Y(1), Zhang X, Huang Z, Cheng L, Yao S, Qin D, Chen X, Tang Q, Lv Z, Zhang
+L, Lu C.
+
+Author information: 
+(1)Department of Microbiology and Immunology, Nanjing Medical University, Nanjing
+210029, People's Republic of China.
+
+Human immunodeficiency virus type 1 (HIV-1) infection significantly increases the
+risk of Kaposi's sarcoma (KS) occurrence in individuals infected with Kaposi's
+sarcoma-associated herpesvirus (KSHV). KSHV infection appears to be necessary but
+not sufficient for KS development without other cofactors. However, factors that 
+facilitate KSHV to cause KS have not been well defined. Previously, we determined
+that human herpesvirus 6 was one of the cofactors that activated lytic cycle
+replication of KSHV. Here, we demonstrate that the Tat protein of HIV-1 is a
+potentially important factor in the pathogenesis of KS, as determined by
+production of lytic phase mRNA transcripts and viral proteins in BCBL-1 cells.
+Mechanistic studies showed ectopic expression of Tat induced the production of
+human interleukin-6 (huIL-6) and its receptor (huIL-6Ra) and activated STAT3
+signaling. Neutralization of huIL-6 or huIL-6R or inhibition of STAT3 signaling
+enhanced the replication. In addition, IL-4/STAT6 signaling also partially
+contributed to Tat-induced KSHV replication. These findings suggest that Tat may 
+participate in KS pathogenesis by inducing KSHV replication and increasing KSHV
+viral load. These data also suggest that JAK/STAT signaling may be of therapeutic
+value in AIDS-related KS patients.
+
+DOI: 10.1128/JVI.02024-06 
+PMCID: PMC1865948
+PMID: 17151125  [Indexed for MEDLINE]
+

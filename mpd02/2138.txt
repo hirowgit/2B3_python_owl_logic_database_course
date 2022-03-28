@@ -1,0 +1,35 @@
+
+
+2138. Nature. 2009 May 28;459(7246):523-7. doi: 10.1038/nature08090.
+
+Generation of transgenic non-human primates with germline transmission.
+
+Sasaki E(1), Suemizu H, Shimada A, Hanazawa K, Oiwa R, Kamioka M, Tomioka I,
+Sotomaru Y, Hirakawa R, Eto T, Shiozawa S, Maeda T, Ito M, Ito R, Kito C,
+Yagihashi C, Kawai K, Miyoshi H, Tanioka Y, Tamaoki N, Habu S, Okano H, Nomura T.
+
+Author information: 
+(1)Central Institute for Experimental Animals, 1430 Nogawa, Miyamae-ku, Kawasaki,
+Kanagawa 216-0001, Japan. esasaki@ciea.or.jp
+
+Comment in
+    Nature. 2009 May 28;459(7246):515-6.
+
+The common marmoset (Callithrix jacchus) is increasingly attractive for use as a 
+non-human primate animal model in biomedical research. It has a relatively high
+reproduction rate for a primate, making it potentially suitable for transgenic
+modification. Although several attempts have been made to produce non-human
+transgenic primates, transgene expression in the somatic tissues of live infants 
+has not been demonstrated by objective analyses such as polymerase chain reaction
+with reverse transcription or western blots. Here we show that the injection of a
+self-inactivating lentiviral vector in sucrose solution into marmoset embryos
+results in transgenic common marmosets that expressed the transgene in several
+organs. Notably, we achieved germline transmission of the transgene, and the
+transgenic offspring developed normally. The successful creation of transgenic
+marmosets provides a new animal model for human disease that has the great
+advantage of a close genetic relationship with humans. This model will be
+valuable to many fields of biomedical research.
+
+DOI: 10.1038/nature08090 
+PMID: 19478777  [Indexed for MEDLINE]
+

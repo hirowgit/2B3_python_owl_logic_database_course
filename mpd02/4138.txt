@@ -1,0 +1,45 @@
+
+
+4138. Mol Pharmacol. 1993 Feb;43(2):183-90.
+
+Purification from liver microsomes from untreated cynomolgus monkeys of
+cytochrome P450 closely related to human cytochrome P450 2B6.
+
+Ohmori S(1), Shirakawa C, Motohashi K, Yoshida H, Abe H, Nakamura T, Horie T,
+Kitagawa H, Asaoka K, Rikihisa T, et al.
+
+Author information: 
+(1)Faculty of Pharmaceutical Sciences, Chiba University, Japan.
+
+A cytochrome P450 (P450) (referred to as P450CMLa) was purified and characterized
+from hepatic microsomes from untreated cynomolgus monkeys (Macaca irus). The
+final preparation was electrophoretically homogeneous and its estimated minimum
+molecular mass was 49.5 kDa. The amino-terminal amino acid sequence of the
+protein (first 34 residues) closely resembled that of the protein encoded by the 
+2B6 cDNA from humans (94%). This protein was cross-reactive with antibodies
+raised against P450 2B1 (P450 b), P450 2B11 (P450 PBD-2), and P450GP-1, which
+were purified from hepatic microsomes from phenobarbital-pretreated rats, beagle 
+dogs, and guinea pigs, respectively. Also, the antibody raised against P450CMLa
+was able to cross-react with P450 2B1, P450 2B11, and P450GP-1. P450CMLa was
+capable of catalyzing benzphetamine N-demethylation and testosterone 16
+beta-hydroxylation in a reconstituted system. Anti-P450CMLa antibody inhibited
+the activity of testosterone 16 beta-hydroxylase but not the activities of
+testosterone 2 beta- and 6 beta-hydroxylases in liver microsomes from cynomolgus 
+monkeys. The content of P450CMLa, as estimated by immunoblot analysis, was 70
+pmol/mg (about 5% of total P450). The protein immunoreactive with the
+anti-P450CMLa antibody was also present in liver microsomes from Japanese
+monkeys, baboons, common marmosets, and common squirrel monkeys. In liver
+microsomes from common squirrel monkeys, the content of protein immunoreactive
+with the anti-P450CMLa antibody and the activity of testosterone 16
+beta-hydroxylase were effectively increased by pretreatment with phenobarbital.
+The antibody against P450CMLa strongly inhibited the activity of testosterone 16 
+beta-hydroxylase in liver microsomes not only from untreated cynomolgus monkeys
+but also from phenobarbital- and pregnenolone 16 alpha-carbonitrile-pretreated
+common squirrel monkeys. These results indicated that the P450CMLa purified here 
+is very similar to the forms of P450 classified into the 2B subfamily, in its
+amino-terminal amino acid sequence, catalytic activities, and immunochemical
+properties.
+
+
+PMID: 8429823  [Indexed for MEDLINE]
+

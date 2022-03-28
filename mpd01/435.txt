@@ -1,0 +1,97 @@
+
+
+435. Nat Rev Neurosci. 2019 Oct;20(10):593-608. doi: 10.1038/s41583-019-0212-7. Epub
+2019 Sep 6.
+
+The brain's default network: updated anatomy, physiology and evolving insights.
+
+Buckner RL(1)(2)(3)(4), DiNicola LM(5)(6).
+
+Author information: 
+(1)Department of Psychology, Harvard University, Cambridge, MA, USA.
+randy_buckner@harvard.edu.
+(2)Center for Brain Science, Harvard University, Cambridge, MA, USA.
+randy_buckner@harvard.edu.
+(3)Department of Psychiatry, Massachusetts General Hospital, Boston, MA, USA.
+randy_buckner@harvard.edu.
+(4)Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General
+Hospital, Boston, MA, USA. randy_buckner@harvard.edu.
+(5)Department of Psychology, Harvard University, Cambridge, MA, USA.
+(6)Center for Brain Science, Harvard University, Cambridge, MA, USA.
+
+Discoveries over the past two decades demonstrate that regions distributed
+throughout the association cortex, often called the default network, are
+suppressed during tasks that demand external attention and are active during
+remembering, envisioning the future and making social inferences. This Review
+describes progress in understanding the organization and function of networks
+embedded within these association regions. Detailed high-resolution analyses of
+single individuals suggest that the default network is not a single network, as
+historically described, but instead comprises multiple interwoven networks. The
+multiple networks share a common organizational motif (also evident in marmoset
+and macaque anatomical circuits) that might support a general class of processing
+function dependent on internally constructed rather than externally constrained
+representations, with each separate interwoven network specialized for a distinct
+processing domain. Direct neuronal recordings in humans and monkeys reveal
+evidence for competitive relationships between the internally and externally
+oriented networks. Findings from rodent studies suggest that the thalamus might
+be essential to controlling which networks are engaged through specialized
+thalamic reticular neurons, including antagonistic subpopulations. These
+association networks (and presumably thalamocortical circuits) are expanded in
+humans and might be particularly vulnerable to dysregulation implicated in
+mental illness.
+
+DOI: 10.1038/s41583-019-0212-7 
+PMID: 31492945  [Indexed for MEDLINE]
+
+
+436. Physiol Behav. 2019 Nov 1;211:112672. doi: 10.1016/j.physbeh.2019.112672. Epub
+2019 Sep 2.
+
+The use of infrared thermography to investigate emotions in common marmosets.
+
+Ermatinger FA(1), Brügger RK(2), Burkart JM(1).
+
+Author information: 
+(1)Department of Anthropology, University of Zurich, Winterthurerstrasse 190,
+8057 Zurich, Switzerland.
+(2)Department of Anthropology, University of Zurich, Winterthurerstrasse 190,
+8057 Zurich, Switzerland. Electronic address: rahelkatharina.bruegger@uzh.ch.
+
+Measuring body surface temperature changes with infrared thermography has
+recently been put forward as a non-invasive alternative measure of physiological 
+correlates of emotional reactions. In particular, the nasal region seems to be
+highly sensitive to emotional reactions. Several studies suggest that nasal
+temperature is negatively correlated with the level of arousal in humans and
+other primates, but some studies provide inconsistent results. Our goal was to
+establish the use of infrared thermography to quantify emotional reactions in
+common marmosets (Callithrix jacchus), with a focus on the nasal region. To do so
+we exposed 17 common marmosets to a set of positive, negative and control stimuli
+(positive: preferred food, playback of food calls; negative: playback of
+aggressive vocalizations, teasing; control: no stimulus). We compared nasal
+temperature before and after the stimuli and expected that highly aroused
+emotional states would lead to a drop in nasal temperature. To validate the
+thermography measure, we coded piloerection of the tail as an independent measure
+of arousal and expected a negative correlation between the two measures. Finally,
+we coded physical activity to exclude its potential confounding impact on nasal
+temperature. Our results show that all predictions were met: the animals showed a
+strong decrease in nasal temperature after the presentation of negative arousing 
+stimuli (teasing, playback of aggressive vocalizations). Furthermore, these
+changes in nasal temperature were correlated with piloerection of the tail and
+could not be explained by changes in physical activity. In the positive and the
+control conditions, we found systematic sex differences: in males, the preferred 
+food, the playbacks of food calls, as well as the control stimulus led to an
+increase in nasal temperature, whereas in females the temperature remained stable
+(preferred food, control) or decreased (playback of food calls). Based on
+naturalistic observations that document higher food motivation and competition
+among female marmosets, as well as stronger reactions to separation from group
+members in male marmosets, these sex differences corroborate a negative
+correlation between arousal and nasal temperature. Overall, our results support
+that measuring nasal temperature by infrared thermography is a promising method
+to quantify emotional arousal in common marmosets in a fully non-invasive and
+highly objective way.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.physbeh.2019.112672 
+PMID: 31487492  [Indexed for MEDLINE]
+

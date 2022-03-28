@@ -1,0 +1,96 @@
+
+
+248. Sci Rep. 2020 Oct 6;10(1):16647. doi: 10.1038/s41598-020-73811-9.
+
+Robustness of sex-differences in functional connectivity over time in middle-aged
+marmosets.
+
+Nephew BC(1)(2), Febo M(3), Cali R(4), Workman KP(5), Payne L(6), Moore CM(6)(4),
+King JA(7)(6)(4), Lacreuse A(5)(8)(9).
+
+Author information: 
+(1)Department of Biology and Biotechnology, Worcester Polytechnic Institute,
+Worcester, MA, 01609, USA. bcnephew@aol.com.
+(2)Center for Comparative Neuroimaging, University of Massachusetts Medical
+School, Worcester, MA, 01655, USA. bcnephew@aol.com.
+(3)Department of Psychiatry, University of Florida, Gainesville, FL, 32610, USA.
+(4)Department of Psychiatry, University of Massachusetts Medical School,
+Worcester, MA, 01655, USA.
+(5)Psychological and Brain Sciences, University of Massachusetts, Amherst, MA,
+01003, USA.
+(6)Center for Comparative Neuroimaging, University of Massachusetts Medical
+School, Worcester, MA, 01655, USA.
+(7)Department of Biology and Biotechnology, Worcester Polytechnic Institute,
+Worcester, MA, 01609, USA.
+(8)Neuroscience and Behavior Program, University of Massachusetts, Amherst, MA,
+01003, USA.
+(9)Center for Neuroendocrine Studies, University of Massachusetts, Amherst, MA,
+01003, USA.
+
+Nonhuman primates (NHPs) are an essential research model for gaining a
+comprehensive understanding of the neural mechanisms of neurocognitive aging in
+our own species. In the present study, we used resting state functional
+connectivity (rsFC) to investigate the relationship between prefrontal cortical
+and striatal neural interactions, and cognitive flexibility, in unanaesthetized
+common marmosets (Callithrix jacchus) at two time points during late middle age
+(8 months apart, similar to a span of 5-6 years in humans). Based on our previous
+findings, we also determine the reproducibility of connectivity measures over the
+course of 8 months, particularly previously observed sex differences in rsFC.
+Male marmosets exhibited remarkably similar patterns of stronger functional
+connectivity relative to females and greater cognitive flexibility between the
+two imaging time points. Network analysis revealed that the consistent sex
+differences in connectivity and related cognitive associations were characterized
+by greater node strength and/or degree values in several prefrontal, premotor and
+temporal regions, as well as stronger intra PFC connectivity, in males compared
+to females. The current study supports the existence of robust sex differences in
+prefrontal and striatal resting state networks that may contribute to differences
+in cognitive function and offers insight on the neural systems that may be
+compromised in cognitive aging and age-related conditions such as mild cognitive 
+impairment and Alzheimer's disease.
+
+DOI: 10.1038/s41598-020-73811-9 
+PMCID: PMC7538565
+PMID: 33024242  [Indexed for MEDLINE]
+
+
+249. Sci Rep. 2020 Oct 6;10(1):16628. doi: 10.1038/s41598-020-73985-2.
+
+A glance at the gut microbiota of five experimental animal species through fecal 
+samples.
+
+Xiang Z(#)(1), Zhu H(#)(2), Yang B(#)(2), Fan H(3), Guo J(2), Liu J(2), Kong
+Q(2), Teng Q(2), Shang H(2), Su L(2), Qin C(4).
+
+Author information: 
+(1)Institute of Laboratory Animal Science, Chinese Academy of Medical Sciences,
+Beijing, China. xiangzg@cnilas.org.
+(2)Institute of Laboratory Animal Science, Chinese Academy of Medical Sciences,
+Beijing, China.
+(3)Beijing Institute of Microbiology and Epidemiology, Beijing, China.
+(4)Institute of Laboratory Animal Science, Chinese Academy of Medical Sciences,
+Beijing, China. qinchuan@pumc.edu.cn.
+(#)Contributed equally
+
+Experimental animals including the ferret, marmoset, woodchuck, mini pig, and
+tree shrew have been used in biomedical research. However, their gut microbiota
+have not been fully investigated. In this study, the gut microbiota of these five
+experimental animals were analyzed with 16S rRNA sequencing. The phyla
+Firmicutes, Bacteroidetes, and Fusobacteria were present in the gut microbiota of
+all the species. Specific phyla were present in different animals: Proteobacteria
+in the ferret, Tenericutes in the marmoset, and Spirochaetes in the mini pig.
+Fusobacterium and unidentified Clostridiales were the dominant genera in the
+ferret, whereas Libanicoccus, Lactobacillus, Porphyromonas, and Peptoclostridium 
+were specific to marmoset, mini pig, woodchuck, and tree shrew, respectively. A
+clustering analysis showed that the overall distribution of microbial species in 
+the guts of these species mirrored their mammalian phylogeny, and the microbiota 
+of the marmoset and tree shrew showed the closest bray_curtis distances to that
+of humans. PICRUSt functional prediction separated the woodchuck from the other
+species, which may reflect its herbivorous diet. In conclusion, both the
+evolutionary phylogeny and daily diet affect the gut microbiota of these
+experimental animals, which should not be neglected for their usage in biomedical
+research.
+
+DOI: 10.1038/s41598-020-73985-2 
+PMCID: PMC7538948
+PMID: 33024229  [Indexed for MEDLINE]
+

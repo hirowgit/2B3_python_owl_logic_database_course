@@ -1,0 +1,102 @@
+
+
+1293. Radiology. 2015 May;275(2):430-7. doi: 10.1148/radiol.14140601. Epub 2015 Jan 15.
+
+Parkinson Disease: Diffusion MR Imaging to Detect Nigrostriatal Pathway Loss in a
+Marmoset Model Treated with 1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine.
+
+Hikishima K(1), Ando K, Yano R, Kawai K, Komaki Y, Inoue T, Itoh T, Yamada M,
+Momoshima S, Okano HJ, Okano H.
+
+Author information: 
+(1)From the Departments of Physiology (K.H., R.Y., Y.K., H.O.) and Diagnostic
+Radiology (S.M.), Keio University School of Medicine, 35 Shinanomachi,
+Shinjuku-ku, Tokyo 160-8582, Japan; Central Institute for Experimental Animals,
+Kawasaki, Japan (K.H., K.A., R.Y., K.K., Y.K., T. Inoue, T. Itoh); Faculty of
+Radiological Technology, Fujita Health University School of Health Sciences,
+Toyoake, Japan (M.Y.); Division of Regenerative Medicine, Jikei University School
+of Medicine, Tokyo, Japan (H.J.O.); and Laboratory for Marmoset Neural
+Architecture, RIKEN Brain Science Institute, Wako, Japan (H.O.).
+
+PURPOSE: To investigate the use of diffusion-tensor imaging (DTI) to detect
+denervation of the nigrostriatal pathway in a nonhuman primate model of Parkinson
+disease (PD) after treatment with 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(MPTP).
+MATERIALS AND METHODS: This study was approved by the institutional committee for
+animal experiments. DTI was performed in marmosets (n = 6) by using a 7-T
+magnetic resonance (MR) imager before and 10 weeks after administration of MPTP. 
+Fixed brains of a normal marmoset and a marmoset model of PD (n = 1) were
+analyzed by using microscopic tractography. Tyrosine-hydroxylase staining of
+dopaminergic neurons and three-dimensional histologic analysis also were
+performed in normal marmosets (n = 2) and a PD marmoset model (n = 2) to validate
+the course of the nigrostriatal pathway revealed at tractography. Statistical
+analysis of voxel-based and post hoc region-of-interest analyses of DTI maps was 
+performed by using a paired t test.
+RESULTS: At voxel-based analysis of DTI before and after treatment, MPTP-treated 
+marmoset brains showed significantly increased axial and radial diffusivity in
+the bilateral nigrostriatal pathway (P < .05, false discovery rate corrected).
+The largest area of significantly increased diffusivity was an area of axial
+diffusivity in the right hemispere (177 mm(3)) that corresponded to the location 
+of dopaminergic neurodegeneration at histologic evaluation. Region-of-interest
+analysis revealed a 27% increase in axial diffusivity in the right hemisphere
+(1.198 mm(2)/sec ± 0.111 to 1.522 mm(2)/sec ± 0.118; P = .002). Three-dimensional
+histologic analysis with tyrosine-hydroxylase staining showed the course of the
+nigrostriatal pathway and degeneration in the PD marmoset model as the absence of
+a tyrosine-hydroxylase stained region. Microscopic tractography showed that the
+connection of the substantia nigra to the striatum followed the same course as
+the nigrostriatal pathway and fewer fiber tracts in the PD marmoset model.
+CONCLUSION: DTI and microscopic tractography showed the loss of fiber structures 
+of the nigrostriatal pathway in the marmoset model of PD. The results of this
+study provide a potential basis for the use of DTI in the clinical diagnosis of
+PD.
+
+(©) RSNA, 2015
+
+DOI: 10.1148/radiol.14140601 
+PMID: 25602507  [Indexed for MEDLINE]
+
+
+1294. Curr Biol. 2015 Feb 16;25(4):424-34. doi: 10.1016/j.cub.2014.12.028. Epub 2015
+Jan 15.
+
+Preservation of vision by the pulvinar following early-life primary visual cortex
+lesions.
+
+Warner CE(1), Kwan WC(1), Wright D(2), Johnston LA(3), Egan GF(4), Bourne JA(5).
+
+Author information: 
+(1)Australian Regenerative Medicine Institute, Monash University, Clayton, VIC
+3800, Australia.
+(2)The Florey Institute of Neuroscience and Mental Health, Parkville, VIC 3010,
+Australia.
+(3)The Florey Institute of Neuroscience and Mental Health, Parkville, VIC 3010,
+Australia; School of Engineering, University of Melbourne, Parkville, VIC 3010,
+Australia.
+(4)Monash Biomedical Imaging, Monash University, Clayton, VIC 3800, Australia.
+(5)Australian Regenerative Medicine Institute, Monash University, Clayton, VIC
+3800, Australia. Electronic address: james.bourne@monash.edu.
+
+Comment in
+    Curr Biol. 2015 Feb 16;25(4):R155-7.
+
+BACKGROUND: Conscious vision is believed to depend upon an intact primary visual 
+cortex (V1), although injury in early life is often accompanied by the
+preservation of visual capacity, unlike in adulthood. The middle temporal area
+(MT) receives input from the retinorecipient koniocellular layers of the lateral 
+geniculate nucleus (LGN) and the more recently described medial subdivision of
+the inferior pulvinar (PIm) of the thalamus, pathways that potentially contribute
+to preservation of vision after early damage to V1.
+RESULTS: We examined the potential of these pathways to the long-term
+preservation of vision after permanent lesions of primate V1 in early and adult
+life by using a combination of neural tracing and diffusion MRI. We show that
+early-life V1 lesions lead to less pruning of the retina-pulvinar-MT pathway than
+is observed in control or adult lesion animals.
+CONCLUSIONS: These findings suggest that sustained visual input through the
+pulvinar to MT following a lesion of V1 in early life has the capacity to afford 
+improved visual outcomes.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cub.2014.12.028 
+PMID: 25601551  [Indexed for MEDLINE]
+

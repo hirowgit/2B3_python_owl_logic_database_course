@@ -1,0 +1,134 @@
+
+
+122. Aging Cell. 2021 Jul;20(7):e13407. doi: 10.1111/acel.13407. Epub 2021 Jun 12.
+
+Chloride channel accessory 1 integrates chloride channel activity and mTORC1 in
+aging-related kidney injury.
+
+Lee HJ(1), Donati A(1), Feliers D(1), Sun Y(2), Ding Y(3), Madesh M(1), Salmon
+AB(4)(5)(6)(7), Ikeno Y(3)(4)(6), Ross C(8)(9), O'Connor CL(10), Ju W(10), Bitzer
+M(10), Chen Y(11)(12), Choudhury GG(1)(6)(7), Singh BB(2), Sharma K(1)(6),
+Kasinath BS(1)(5)(6)(7).
+
+Author information: 
+(1)Department of Medicine, Center for Renal Precision Medicine, University of
+Texas Health, San Antonio, TX, USA.
+(2)Department of Periodontics, University of Texas Health, San Antonio, TX, USA.
+(3)Department of Pathology, University of Texas Health, San Antonio, TX, USA.
+(4)Department of Molecular Medicine, University of Texas Health, San Antonio, TX,
+USA.
+(5)Barshop Institute for Longevity and Aging Studies, University of Texas Health,
+San Antonio, TX, USA.
+(6)South Texas Veterans Health Care System, San Antonio, TX, USA.
+(7)Geriatric Research, Education & Clinical Center, South Texas Veterans Health
+Care System, San Antonio, TX, USA.
+(8)Texas Biomedical Research Institute, Southwest National Primate Research
+Center, San Antonio, TX, USA.
+(9)Department of Science and Mathematics, Texas A&M University San Antonio, San
+Antonio, TX, USA.
+(10)Department of Internal Medicine, University of Michigan, Ann Arbor, MI, USA.
+(11)Department of Population Health Sciences, University of Texas Health, San
+Antonio, TX, USA.
+(12)Greehey Children's Cancer Research Institute, University of Texas Health, San
+Antonio, TX, USA.
+
+The mechanism of kidney injury in aging are not well understood. In order to
+identify hitherto unknown pathways of aging-related kidney injury, we performed
+RNA-Seq on kidney extracts of young and aged mice. Expression of chloride (Cl)
+channel accessory 1 (CLCA1) mRNA and protein was increased in the kidneys of aged
+mice. Immunostaining showed a marked increase in CLCLA1 expression in the
+proximal tubules of the kidney from aged mice. Increased kidney CLCA1 gene
+expression also correlated with aging in marmosets and in a human cohort. In
+aging mice, increased renal cortical CLCA1 content was associated with hydrogen
+sulfide (H2 S) deficiency, which was ameliorated by administering sodium
+hydrosulfide (NaHS), a source of H2 S. In order to study whether increased CLCA1 
+expression leads to injury phenotype and the mechanisms involved, stable
+transfection of proximal tubule epithelial cells overexpressing human CLCA1
+(hCLCA1) was performed. Overexpression of hCLCA1 augmented Cl- current via the
+Ca++ -dependent Cl- channel TMEM16A (anoctamin-1) by patch-clamp studies. hCLCA1 
+overexpression also increased the expression of fibronectin, a matrix protein,
+and induced the senescence-associated secretory phenotype (SASP). Mechanistic
+studies underlying these changes showed that hCLCA1 overexpression leads to
+inhibition of AMPK activity and stimulation of mTORC1 as cellular signaling
+determinants of injury. Both TMEM16A inhibitor and NaHS reversed these signaling 
+events and prevented changes in fibronectin and SASP. We conclude that
+CLCA1-TMEM16A-Cl- current pathway is a novel mediator of kidney injury in aging
+that is regulated by endogenous H2 S.
+
+© 2021 The Authors. Aging Cell published by Anatomical Society and John Wiley &
+Sons Ltd. This article is a U.S. Government work and is in the public domain in
+the USA.
+
+DOI: 10.1111/acel.13407 
+PMCID: PMC8282273
+PMID: 34118180  [Indexed for MEDLINE]
+
+
+123. PLoS One. 2021 Jun 9;16(6):e0252093. doi: 10.1371/journal.pone.0252093.
+eCollection 2021.
+
+Womb to womb: Maternal litter size and birth weight but not adult characteristics
+predict early neonatal death of offspring in the common marmoset monkey.
+
+Rutherford JN(1), Ross CN(2), Ziegler T(3), Burke LA(4), Steffen AD(5), Sills
+A(6), Layne Colon D(2), deMartelly VA(7), Narapareddy LR(8), Tardif SD(2).
+
+Author information: 
+(1)Department of Human Development Nursing Science, College of Nursing,
+University of Illinois Chicago, Chicago, Illinois, United States of America.
+(2)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, Texas, United States of America.
+(3)Wisconsin National Primate Research Center, University of Wisconsin, Madison, 
+Wisconsin, United States of America.
+(4)Office for Research Facilitation, College of Nursing, University of Illinois
+Chicago, Chicago, Illinois, United States of America.
+(5)Department of Population Health Nursing Science, College of Nursing,
+University of Illinois Chicago, Chicago, Illinois, United States of America.
+(6)Barshop Institute for Longevity and Aging Studies, University of Texas Health 
+Science Center at San Antonio, San Antonio, Texas, United States of America.
+(7)Department of Biobehavioral Health Nursing Science, College of Nursing,
+University of Illinois Chicago, Chicago, Illinois, United States of America.
+(8)Nell Hodgson Woodruff School of Nursing, Emory University, Atlanta, Georgia,
+United States of America.
+
+A singular focus on maternal health at the time of a pregnancy leaves much about 
+perinatal mortality unexplained, especially when there is growing evidence for
+maternal early life effects. Further, lumping stillbirth and early neonatal death
+into a single category of perinatal mortality may obscure different causes and
+thus different avenues of screening and prevention. The common marmoset monkey
+(Callithrix jacchus), a litter-bearing nonhuman primate, is an ideal species in
+which to study the independent effects of a mother's early life and adult
+phenotypes on pregnancy outcomes. We tested two hypotheses in 59 marmoset
+pregnancies at the Southwest National Primate Research Center and the Barshop
+Institute for Longevity and Aging Studies. We explored 1) whether pregnancy
+outcomes were predicted independently by maternal adult weight versus maternal
+litter size and birth weight, and 2) whether stillbirth and early neonatal death 
+were differentially predicted by maternal variables. No maternal characteristics 
+predicted stillbirth and no maternal adult characteristics predicted early
+neonatal death. In univariate Poisson models, triplet-born females had a
+significantly increased rate of early neonatal death (IRR[se] = 3.00[1.29], p =
+0.011), while higher birth weight females had a decreased rate (IRR[se] =
+0.89[0.05], p = 0.039). In multivariate Poisson models, maternal litter size
+remained an independent predictor, explaining 13% of the variance in early
+neonatal death. We found that the later in the first week those neonates died,
+the more weight they lost. Together these findings suggest that triplet-born and 
+low birth weight females have distinct developmental trajectories underlying
+greater rates of infant loss, losses that we suggest may be attributable to
+developmental disruption of infant feeding and carrying. Our findings of early
+life contributions to adult pregnancy outcomes in the common marmoset disrupt
+mother-blaming narratives of pregnancy outcomes in humans. These narratives hold 
+that the pregnant person is solely responsible for pregnancy outcomes and the
+health of their children, independent of socioecological factors, a moralistic
+framing that has shaped clinical pregnancy management. It is necessary to
+differentiate temporal trajectories and causes of perinatal loss and view them as
+embedded in external processes to develop screening, diagnostic, and treatment
+tools that consider the full arc of a mother's lived experience, from womb to
+womb and beyond.
+
+DOI: 10.1371/journal.pone.0252093 
+PMCID: PMC8189522
+PMID: 34106943  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

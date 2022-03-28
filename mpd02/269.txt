@@ -1,0 +1,44 @@
+
+
+269. J Vet Pharmacol Ther. 2021 Jan;44(1):18-27. doi: 10.1111/jvp.12905. Epub 2020 Sep
+2.
+
+Pharmacokinetics and effects on clinical and physiological parameters following a
+single bolus dose of propofol in common marmosets (Callithrix jacchus).
+
+Muta K(1), Miyabe-Nishiwaki T(2), Masui K(3), Yajima I(4), Iizuka T(1), Kaneko
+A(2), Nishimura R(1).
+
+Author information: 
+(1)Laboratory of Veterinary Surgery, Graduate School of Agricultural and Life
+Sciences, the University of Tokyo, Tokyo, Japan.
+(2)Center for Human Evolution Modeling Research, Primate Research Institute,
+Kyoto University, Inuyama, Aichi, Japan.
+(3)Department of Anesthesiology, Showa University School of Medicine, Tokyo,
+Japan.
+(4)Department of Pharmacy, National Defense Medical College Hospital, Tokorozawa,
+Saitama, Japan.
+
+The objectives of this study were (a) to establish a population pharmacokinetic
+model and (b) to investigate the clinical and physiological effects of a single
+bolus dose of propofol in common marmosets. In Study 1, pharmacokinetic analysis 
+was performed in six marmosets under sevoflurane anaesthesia. 8 mg/kg of propofol
+was administrated at a rate of 4 mg kg-1  min-1 . Blood samples were collected 2,
+5, 15, 30, 60, 90, 120 or 180 min after starting propofol administration. Plasma 
+concentration was measured, and population pharmacokinetic modelling was
+performed. A two-compartment model was selected as the final model. The
+population pharmacokinetic parameters were as follows: V1  = 1.14 L, V2  = 77.6
+L, CL1  = 0.00182 L/min, CL2  = 0.0461 L/min. In Study 2, clinical and
+physiological parameters were assessed and recorded every 2 min after 12 mg/kg of
+propofol was administrated at a rate of 4 mg kg-1  min-1 . Immobilization was
+sustained for 5 min following propofol administration without apparent
+bradycardia. While combination of propofol and sevoflurane caused apnoea in Study
+1, apnoea was not observed following single administration of propofol in Study
+2. These data provide bases for further investigation on intravenous anaesthesia 
+using propofol in common marmosets.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/jvp.12905 
+PMID: 32880998  [Indexed for MEDLINE]
+

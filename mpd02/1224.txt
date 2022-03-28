@@ -1,0 +1,47 @@
+
+
+1224. Neuroscience. 2015 Aug 6;300:585-92. doi: 10.1016/j.neuroscience.2015.05.041.
+Epub 2015 May 23.
+
+Voxel-based morphometry of the marmoset brain: In vivo detection of volume loss
+in the substantia nigra of the MPTP-treated Parkinson's disease model.
+
+Hikishima K(1), Ando K(2), Komaki Y(1), Kawai K(2), Yano R(3), Inoue T(2), Itoh
+T(2), Yamada M(4), Momoshima S(5), Okano HJ(6), Okano H(7).
+
+Author information: 
+(1)Department of Physiology, Keio University School of Medicine, Tokyo, Japan;
+Central Institute for Experimental Animals, Kawasaki, Japan.
+(2)Central Institute for Experimental Animals, Kawasaki, Japan.
+(3)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+(4)Faculty of Radiological Technology, Fujita Health University School of Health 
+Sciences, Toyoake, Japan.
+(5)Department of Diagnostic Radiology, Keio University School of Medicine, Tokyo,
+Japan.
+(6)Division of Regenerative Medicine, Jikei University School of Medicine, Tokyo,
+Japan.
+(7)Department of Physiology, Keio University School of Medicine, Tokyo, Japan;
+Laboratory for Marmoset Neural Architecture, Brain Science Institute RIKEN, Wako,
+Japan. Electronic address: hidokano@a2.keio.jp.
+
+Movement dysfunction in Parkinson's disease (PD) is caused by the degeneration of
+dopaminergic (DA) neurons in the substantia nigra (SN). Here, we established a
+method for voxel-based morphometry (VBM) and automatic tissue segmentation of the
+marmoset monkey brain using a 7-T animal scanner and applied the method to assess
+DA degeneration in a PD model, 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(MPTP)-treated animals, with tyrosine-hydroxylase staining. The most significant 
+decreases of local tissue volume were detected in the bilateral SN of
+MPTP-treated marmoset brains (-53.0% in right and -46.5% in left) and
+corresponded with the location of DA neurodegeneration found in histology (-65.4%
+in right). In addition to the SN, the decreases were also confirmed in the locus 
+coeruleus, and lateral hypothalamus. VBM using 7-T MRI was effective in detecting
+volume loss in the SN of the PD-model marmoset. This study provides a potential
+basis for the application of VBM with ultra-high field MRI in the clinical
+diagnosis of PD. The developed method may also offer value in automatic
+whole-brain evaluation of structural changes for the marmoset monkey.
+
+Copyright © 2015 IBRO. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuroscience.2015.05.041 
+PMID: 26012491  [Indexed for MEDLINE]
+

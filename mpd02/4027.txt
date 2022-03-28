@@ -1,0 +1,38 @@
+
+
+4027. Glycobiology. 1994 Apr;4(2):193-201.
+
+Defining the minimal size of catalytically active primate alpha 1,3
+galactosyltransferase: structure-function studies on the recombinant truncated
+enzyme.
+
+Henion TR(1), Macher BA, Anaraki F, Galili U.
+
+Author information: 
+(1)Department of Microbiology and Immunology, Medical College of Pennsylvania,
+Philadelphia 19129.
+
+The glycosylation enzyme alpha 1,3 galactosyltransferase, which synthesizes the
+carbohydrate Gal alpha 1-3Gal beta 1-4GlcNAc-R, is active in non-primate mammals,
+prosimians and New World monkeys, but not in Old World monkeys, apes and humans. 
+In this study, we have cloned and sequenced the enzyme expressed in a New World
+monkey, determined the exact size of the stem region and assessed the minimal
+size of catalytically active alpha 1,3 galactosyltransferase (alpha 1,3GT).
+Various primer sets were used in the polymerase chain reaction to generate cDNAs 
+which coded for forms of alpha 1,3GT with deletions at the N- or C-terminal
+domains. The cDNA was inserted into the expression vector pPROTA which contains
+the coding sequence for protein A, and subsequently transfected into COS cells.
+The soluble chimeric products (truncated enzyme and protein A) were harvested
+from the cell culture medium using IgG-Sepharose beads and assayed for enzymatic 
+activity. As many as 67 amino acids could be truncated at the amino terminal
+region of the luminal portion of the enzyme without affecting its catalytic
+activity. Truncation of 68, 69 and 74 amino acids resulted in a 50, 75 and > 95% 
+loss in the in vitro catalytic actively, respectively. Introduction of a
+frameshift mutation which is characteristic of apes and human alpha 1,3GT gene
+resulted in the complete loss of enzyme activity. Moreover, truncation of as few 
+as three amino acids at the carboxyl end of alpha 1,3GT resulted in complete loss
+of the catalytic activity.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+DOI: 10.1093/glycob/4.2.193 
+PMID: 8054718  [Indexed for MEDLINE]
+

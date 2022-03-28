@@ -1,0 +1,52 @@
+
+
+383. Sci Rep. 2019 Dec 17;9(1):19288. doi: 10.1038/s41598-019-55365-7.
+
+The DNA topoisomerase II inhibitor amsacrine as a novel candidate adjuvant in a
+model of glaucoma filtration surgery.
+
+Yamamoto K(1), Kokubun T(1), Sato K(1)(2), Akaishi T(3), Shimazaki A(3), Nakamura
+M(3), Shiga Y(1), Tsuda S(1), Omodaka K(1), Saya H(4), Nakazawa T(5)(6)(7)(8).
+
+Author information: 
+(1)Department of Ophthalmology, Tohoku University Graduate School of Medicine,
+Sendai, Miyagi, 980-8574, Japan.
+(2)Department of Collaborative Program for Ophthalmic Drug Discovery, Tohoku
+University Graduate School of Medicine, Sendai, Miyagi, 980-8574, Japan.
+(3)Research and Development Division, Santen Pharmaceutical Co. Ltd., Ikoma,
+Nara, 630-0101, Japan.
+(4)Division of Gene Regulation, Institute for Advanced Medical Research, School
+of Medicine, Keio University, 35 Shinanomachi, Shinjuku-ku, Tokyo, 160-8582,
+Japan.
+(5)Department of Ophthalmology, Tohoku University Graduate School of Medicine,
+Sendai, Miyagi, 980-8574, Japan. ntoru@oph.med.tohoku.ac.jp.
+(6)Department of Collaborative Program for Ophthalmic Drug Discovery, Tohoku
+University Graduate School of Medicine, Sendai, Miyagi, 980-8574, Japan.
+ntoru@oph.med.tohoku.ac.jp.
+(7)Department of Retinal Disease Control, Ophthalmology, Tohoku University
+Graduate School of Medicine, Sendai, Miyagi, 980-8574, Japan.
+ntoru@oph.med.tohoku.ac.jp.
+(8)Department of Advanced Ophthalmic Medicine, Tohoku University Graduate School 
+of Medicine, Sendai, Miyagi, 980-8574, Japan. ntoru@oph.med.tohoku.ac.jp.
+
+Treatments for refractory glaucoma include trabeculectomy, in which a filtering
+bleb is created to reduce aqueous pressure. Mitomycin C (MMC) is often used as an
+adjuvant to reduce post-trabeculectomy bleb scarring and consequent failure.
+However, scarring sometimes still occurs. Thus, we searched for more effective
+trabeculectomy adjuvants with high-throughput screening (HTS) of a library of
+1,165 off-patent drug compounds. This revealed that amsacrine (AMSA), a DNA
+topoisomerase II (TOP2) inhibitor, was the top candidate. Compared to MMC,
+rabbits that underwent trabeculectomy with 10% AMSA had lower IOP at 42, 56, and 
+70 days (P < 0.01 at all measurement points) and a higher bleb score at 28, 42,
+56, and 70 days (P =  < 0.01, 0.04, 0.04, and < 0.01, respectively). Compared to 
+saline, rabbits that received 1% AMSA also had lower IOP and better bleb score at
+all time points, without a sharp drop in IOP just after surgery (all P < 0.01).
+Both effects were milder than MMC at 7 days (P = 0.02 and <0.01, respectively).
+Thus, this study showed that HTS may help identify new, promising uses for
+off-patent drugs. Furthermore, trabeculectomy with AMSA at a suitable
+concentration may improve the prognosis after trabeculectomy compared to MMC.
+
+DOI: 10.1038/s41598-019-55365-7 
+PMCID: PMC6917768
+PMID: 31848363  [Indexed for MEDLINE]
+

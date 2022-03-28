@@ -1,0 +1,78 @@
+
+
+2813. Biochem Pharmacol. 2004 Jul 1;68(1):165-75.
+
+Cloning and functional expression of a novel marmoset cytochrome P450 2D enzyme, 
+CYP2D30: comparison with the known marmoset CYP2D19.
+
+Hichiya H(1), Kuramoto S, Yamamoto S, Shinoda S, Hanioka N, Narimatsu S, Asaoka
+K, Miyata A, Iwata S, Nomoto M, Satoh T, Kiryu K, Ueda N, Naito S, Tucker GT,
+Ellis SW.
+
+Author information: 
+(1)Laboratory of Health Chemistry, Faculty of Pharmaceutical Sciences, Okayama
+University, 1-1-1 Tsushima-naka, Okayama 700-8530, Japan.
+
+Using a primer set designed on the cDNA encoding the known marmoset cytochrome
+P450 2D19 (CYP2D19), a cDNA encoding a novel CYP2D enzyme (CYP2D30) was cloned
+from the liver of a female marmoset bred at Kyoto University (KYU). In addition, 
+a cDNA encoding CYP2D19 was cloned from the liver of a female marmoset bred at
+Kagoshima University (KAU). CYP2D30 and CYP2D19 showed homologies of 93.6 and
+93.4% in their nucleotide and amino acid sequences, respectively. Reverse
+transcription polymerase chain reaction (RT-PCR) and digestion with NdeI
+demonstrated that the KYU-marmoset liver contained mainly mRNA for CYP2D30, while
+the KAU-marmoset liver contained mainly mRNA for CYP2D19. Marmoset CYP2D30, like 
+human CYP2D6, exhibited high debrisoquine (DB) 4-hydroxylase activity and
+relatively low DB 5-, 6-, 7- and 8-hydroxylase activities, whereas CYP2D19 lacked
+DB 4-hydroxylase but exhibited marked 5-, 6-, 7- and 8-hydroxylase activities.
+The two marmoset recombinant enzymes showed enantioselective bufuralol (BF)
+1"-hydroxylase activities, similar to CYP2D6. BF 1"-hydroxylation by CYP2D30
+exhibited product-enantioselectivity of (1"R-OH-BF << 1"S-OH-BF), similar to that
+observed with human CYP2D6, whereas CYP2D19 showed a reversed selectivity of
+(1"R-OH-BF > or = 1"S-OH-BF). BF 1"-hydroxylation in marmoset liver microsomes
+from both sources was inhibited by antibodies raised against rat CYP2D1 in a
+concentration-dependent manner. A known inhibitor of CYP2D6, quinidine,
+effectively inhibited the BF 1"-hydroxylation activities in liver microsomal
+fractions prepared from KYU- and KAU-marmosets. These results suggest that
+CYP2D19 and CYP2D30 proteins can be expressed as functional enzymes in marmoset
+livers, although it is unresolved whether both enzymes coexist in the same
+marmoset liver.
+
+DOI: 10.1016/j.bcp.2004.03.018 
+PMID: 15183128  [Indexed for MEDLINE]
+
+
+2814. Primates. 2004 Jul;45(3):187-96. Epub 2004 Jun 4.
+
+Behavioral and cardiophysiological responses of common marmosets (Callithrix
+jacchus) to confrontations with opposite-sexed strangers.
+
+Gerber P(1), Schnell CR.
+
+Author information: 
+(1)Anthropological Institute and Museum, University of Zürich, Winterthurertrasse
+190, 8057 Zurich, Switzerland. patricia.droz@bluewin.ch
+
+Common marmosets exhibit under captive conditions socially monogamous
+propensities. During confrontation with opposite-sexed stranger, in the presence 
+of the pairmate, common marmosets often respond aggressively. However, in the
+absence of their mates, males actively solicit contact and even sexual
+interactions with strange females whereas mated females are indifferent to
+strange males. In the present study behavioral and cardiophysiological responses 
+of pairmates of six established pairs of common marmosets were recorded during
+confrontation with an opposite-sexed stranger (1) in the presence or (2) in the
+absence of the familiar pairmate. Systolic and diastolic blood pressure, heart
+rate as well as locomotor activity were recorded telemetrically through
+peritoneally implanted transmitters. Behavioral responses were videotaped and in 
+addition, urine samples from the female individuals were analyzed for their
+estrogen concentrations to monitor their ovarian cycles. The cardiophysiological 
+values did not differ significantly between the two confrontation conditions.
+However, compared to baseline, heart rate values of both sexes and in males also 
+blood pressure values, were significantly higher during confrontations. Hence,
+confrontations with an opposite-sexed conspecific clearly affect
+cardiophysiological parameters. Between confrontees affiliative behaviors could
+not been recorded but aggressive and sexual behaviors occurred.
+
+DOI: 10.1007/s10329-004-0086-8 
+PMID: 15179557  [Indexed for MEDLINE]
+

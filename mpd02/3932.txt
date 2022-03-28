@@ -1,0 +1,39 @@
+
+
+3932. Mol Cell Probes. 1995 Feb;9(1):1-8.
+
+Molecular identification of two distinct hemagglutinin types of measles virus by 
+polymerase chain reaction and restriction fragment length polymorphism
+(PCR-RFLP).
+
+Saito H(1), Nakagomi O, Morita M.
+
+Author information: 
+(1)Department of Microbiology, Akita Prefectural Institute of Public Health,
+Japan.
+
+Contemporary isolates of measles virus, characterized by their inability to
+hemagglutinate, have been shown to possess a hemagglutinin type distinct from
+that of classical strains such as the Edmonston strain in that there is a new
+glycosylation site at amino acid residue 416. This change abolishes a Sau3Al site
+that is found in the corresponding position of the hemagglutination-positive
+classical strains. This molecular information prompted us to develop a
+restriction fragment length polymorphism (RFLP) assay that is capable of
+distinguishing these two distinct hemagglutinin types. The assay consists of the 
+amplification of a 349-bp segment of the hemagglutinin gene by reverse
+transcription followed by the polymerase chain reaction and Sau3Al digestion of
+this amplification product. The resulting two distinct RFLP patterns identified
+the hemagglutinin types with regard to the presence or absence of the potential
+new glycosylation site. This assay was applied to determine the relative
+frequencies over a 28-year period of these two hemagglutinin types present in the
+archival acute serum specimens taken from patients with measles. This study
+revealed that strains carrying the classical hemagglutinin type predominated
+until the early 1980s when it became completely replaced with strains possessing 
+the contemporary hemagglutinin type. Because of its direct applicability to the
+clinical specimens avoiding selection bias during cell-culture adaptation, this
+assay provides a valuable asset in both clinical laboratory and epidemiological
+settings.
+
+DOI: 10.1016/s0890-8508(95)90902-8 
+PMID: 7760855  [Indexed for MEDLINE]
+

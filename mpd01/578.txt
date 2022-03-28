@@ -1,0 +1,85 @@
+
+
+578. eNeuro. 2018 Jan 9;5(6). pii: ENEURO.0336-18.2018. doi:
+10.1523/ENEURO.0336-18.2018. eCollection 2018 Nov-Dec.
+
+Neuronal Correlations in MT and MST Impair Population Decoding of Opposite
+Directions of Random Dot Motion.
+
+Chaplin TA(1)(2)(3), Hagan MA(1)(2), Allitt BJ(1), Lui LL(1)(2).
+
+Author information: 
+(1)Neuroscience Program, Biomedicine Discovery Institute and Department of
+Physiology, Monash University, Clayton, Victoria 3800, Australia.
+(2)ARC Centre of Excellence for Integrative Brain Function, Monash University
+Node, Clayton, Victoria 3800, Australia.
+(3)Sainsbury Wellcome Centre for Neural Circuits and Behaviour, University
+College London, London W1T 4JG, United Kingdom.
+
+The study of neuronal responses to random-dot motion patterns has provided some
+of the most valuable insights into how the activity of neurons is related to
+perception. In the opposite directions of motion paradigm, the motion signal
+strength is decreased by manipulating the coherence of random dot patterns to
+examine how well the activity of single neurons represents the direction of
+motion. To extend this paradigm to populations of neurons, studies have used
+modelling based on data from pairs of neurons, but several important questions
+require further investigation with larger neuronal datasets. We recorded neuronal
+populations in the middle temporal (MT) and medial superior temporal (MST) areas 
+of anaesthetized marmosets with electrode arrays, while varying the coherence of 
+random dot patterns in two opposite directions of motion (left and right). Using 
+the spike rates of simultaneously recorded neurons, we decoded the direction of
+motion at each level of coherence with linear classifiers. We found that the
+presence of correlations had a detrimental effect to decoding performance, but
+that learning the correlation structure produced better decoding performance
+compared to decoders that ignored the correlation structure. We also found that
+reducing motion coherence increased neuronal correlations, but decoders did not
+need to be optimized for each coherence level. Finally, we showed that decoder
+weights depend of left-right selectivity at 100% coherence, rather than the
+preferred direction. These results have implications for understanding how the
+information encoded by populations of neurons is affected by correlations in
+spiking activity.
+
+DOI: 10.1523/ENEURO.0336-18.2018 
+PMCID: PMC6327941
+PMID: 30637327  [Indexed for MEDLINE]
+
+
+579. Primates. 2019 Mar;60(2):119-123. doi: 10.1007/s10329-018-00713-w. Epub 2019 Jan 
+12.
+
+Pulmonary actinomycosis in a free-living black-tufted marmoset (Callithrix
+penicillata).
+
+Sousa DER(1), Wilson TM(1), Machado M(1), Pereira AABG(1), Costa GRT(2), Dutra
+V(3), Castro MB(4).
+
+Author information: 
+(1)Veterinary Pathology Laboratory, University of Brasília, Via L4 Norte, Campus 
+Universitário Darcy Ribeiro, Asa Norte, Brasília, DF, 70910-900, Brazil.
+(2)Environmental Health Surveillance Directorate of the Federal District (DIVAL),
+SAAN-Estrada do Contorno do Bosque, lote 04, Brasília, DF, 70790-060, Brazil.
+(3)Laboratory of Veterinary Molecular Biology, Federal University of Mato Grosso,
+Veterinary Hospital, Av. Fernando Corrêa da Costa 2367, Boa Esperança, Cuiabá,
+MT, 78060-900, Brazil.
+(4)Veterinary Pathology Laboratory, University of Brasília, Via L4 Norte, Campus 
+Universitário Darcy Ribeiro, Asa Norte, Brasília, DF, 70910-900, Brazil.
+mbcastro@unb.br.
+
+Actinomycosis is a very rare infection in wild animals with a few reports in
+captive non-human primates. Herein we report a case of pulmonary actinomycosis in
+a free-living black-tufted marmoset in the urban area of the Federal District,
+Brazil. The animal presented severe dyspnea and died in the garden of a
+residence. At necropsy, the left-pulmonary lobes showed multiple nodules filled
+with purulent content. A myriad of beaded, branching, filamentous Gram-positive
+and modified Ziehl-Neelsen-negative bacilli arranged in aggregates or star-like
+colonies, surrounded by macrophages, neutrophils, and Splendori-Hoepli phenomenon
+were observed in histological sections of the lungs. According to the
+pathological findings and characteristic morphotintorial pattern of the
+infectious agent, pulmonary actinomycosis was diagnosed. Until now, fatal
+pulmonary actinomycosis had never been reported in free-living Simiiformes.
+Knowledge about the diseases that affect commensal free-range simians in urban
+areas forms the basis for actions aimed at conservation of the species.
+
+DOI: 10.1007/s10329-018-00713-w 
+PMID: 30635747  [Indexed for MEDLINE]
+

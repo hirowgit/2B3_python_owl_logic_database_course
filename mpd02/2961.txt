@@ -1,0 +1,36 @@
+
+
+2961. FASEB J. 2003 May;17(8):929-31. Epub 2003 Mar 5.
+
+Microarray analysis of nonhuman primates: validation of experimental models in
+neurological disorders.
+
+Marvanová M(1), Ménager J, Bezard E, Bontrop RE, Pradier L, Wong G.
+
+Author information: 
+(1)Functional Genomics and Bioinformatics Laboratory, Department of Neurobiology,
+A. I. Virtanen Institute, University of Kuopio, 70211 Kuopio, Finland.
+
+Nonhuman primates (NHPs) have provided robust experimental animal models for many
+human-related diseases due to their similar physiologies. Nonetheless, profound
+differences remain in the acquisition, progression, and outcome of important
+diseases such as AIDS and Alzheimer's, for which the underlying basis remains
+obscure. We explored the utility of human high-density oligonucleotide arrays to 
+survey the transcription profile of NHP genomes. Total RNA from prefrontal
+cortices of human (Homo sapiens), common chimpanzee (Pan troglodytes),
+cynomolgous macaque (Macaca fascicularis), and common marmoset (Callithrix
+jacchus) was labeled and hybridized to Affymetrix U95A GeneChip probe arrays.
+Corresponding data obtained previously from common chimpanzee and orangutan
+(Pongo pygmaeus) were added for comparison. Qualitative (present or not detected)
+and quantitative (expression level) analysis indicated that many genes known to
+be involved in human neurological disorders were present and regulated in NHPs. A
+gene involved in dopamine metabolism (catechol-O-methyltransferase) was absent in
+macaque and marmoset. Glutamate receptor 2 was up-regulated, and
+transcription-associated genes were down-regulated in NHPs compared with humans. 
+We demonstrate that transcript profiling of NHPs could provide comparative
+genomic data to validate and better focus experimental animal models of human
+neurological disorders.
+
+DOI: 10.1096/fj.02-0681fje 
+PMID: 12626435  [Indexed for MEDLINE]
+

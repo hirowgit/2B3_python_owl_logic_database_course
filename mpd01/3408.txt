@@ -1,0 +1,76 @@
+
+
+3408. Arch Toxicol. 1999 Jun-Jul;73(4-5):203-7.
+
+Increase in urinary excretion of 6beta-hydroxycortisol in common marmosets as a
+marker of hepatic CYP3A induction.
+
+Totsuka S(1), Watanabe T, Koyanagi F, Tanaka K, Yasuda M, Manabe S.
+
+Author information: 
+(1)Laboratory Animal Science and Toxicology Laboratories, Sankyo Co., Ltd.,
+Fukuroi, Shizuoka, Japan.
+
+The ratio of urinary 6beta-hydroxycortisol (6beta-OHF) to free cortisol (F),
+i.e., the 6beta-OHF/F ratio, has been reported to be a specific marker for human 
+CYP3A induction by in vivo studies of human subjects. In the development of
+drugs, it is quite beneficial to predict human CYP3A induction in preclinical
+safety studies using urine samples from experimental animals. We examined the
+6beta-OHF/F ratio in urine of common marmosets administered with rifampicin, a
+potent inducer of CYP3A, to evaluate the usefulness of common marmosets for the
+prediction of CYP3A induction. Rifampicin was orally administered to three groups
+of four male common marmosets at doses of 0, 10, and 20 mg/kg per day for 4 days.
+Amounts of 6beta-OHF and F in urine samples were determined by means of
+high-performance liquid chromatography (HPLC) during the experimental period. One
+day after the 4th dosing, animals were killed, and P450 contents and
+P450-catalyzed. 7-alkoxycoumarin O-dealkylase (ACD) activities in the liver were 
+measured. Western blot analysis of liver microsomes was also performed using
+anti-rat P450 (CYP1A1, 2B1/2, 3A, and 4A) antibodies. The results indicated
+elevations in the 6beta-OHF/F ratios that were dependent on both the dosing
+period and dose levels adopted. The ratios on day 4 reached 4.7- and 5.3-fold the
+pre-administration values in the 10 and 20 mg/kg per day groups, respectively.
+P450 contents and ACD activities were also elevated in all of the groups. Western
+blot analysis showed specific increases in the protein which cross-reacts with
+anti-rat CYP3A antibody in all of the groups. Furthermore, the 6beta-OHF/F ratio 
+was well correlated with the CYP3A contents in liver (r = 0.906). These results
+indicated that increase in urinary excretion of 6beta-OHF is a specific marker of
+the induction of hepatic CYP3A in common marmosets just as in humans.
+Consequently, the present study suggested that human CYP3A induction elicited by 
+chemical agents can be predicted in common marmosets by measuring the urinary
+excretion of 6beta-OHF.
+
+DOI: 10.1007/s002040050607 
+PMID: 10463384  [Indexed for MEDLINE]
+
+
+3409. Nephrol Dial Transplant. 1999 Aug;14(8):1875-80.
+
+IgA-gliadin antibodies, IgA-containing circulating immune complexes, and IgA
+glomerular deposits in wasting marmoset syndrome.
+
+Schroeder C(1), Osman AA, Roggenbuck D, Mothes T.
+
+Author information: 
+(1)German Primate Centre, Göttingen.
+
+BACKGROUND: Marmosets in captivity are highly susceptible to wasting marmoset
+syndrome (WMS), the aetiology of which is still not fully determined.
+METHODS: The level of IgA-gliadin antibodies (IgA-AGA), of IgA-containing
+circulating immune complexes (IgA-CIC), and the degree of glomerular IgA deposits
+were compared between marmosets suffering from WMS and animals not affected by
+the disorder.
+RESULTS: Both IgA-AGA and IgA-CIC were demonstrable in all groups of monkeys
+investigated. IgA-AGA and IgA-CIC were significantly higher in monkeys with WMS
+than in non-affected animals. There was a significant correlation between the
+glomerular IgA-deposition and titre of IgA-AGA. The group of marmosets strongly
+positive for glomerular IgA deposits comprised significantly more animals
+suffering from WMS than the group without deposits. In the diet of the animals a 
+considerable amount of gliadin-like cereal proteins was assayed.
+CONCLUSIONS: There are several parallels between the human disorders (coeliac
+disease and IgA-nephropathy/Berger's disease) and the changes observed in WMS. It
+should be further investigated if WMS in marmosets is a suitable animal model for
+both human diseases.
+
+DOI: 10.1093/ndt/14.8.1875 
+PMID: 10462265  [Indexed for MEDLINE]
+

@@ -1,0 +1,35 @@
+
+
+1563. Bioorg Med Chem Lett. 2013 Jun 1;23(11):3157-61. doi: 10.1016/j.bmcl.2013.04.012.
+Epub 2013 Apr 12.
+
+Discovery of
+(R)-N-(3-(7-methyl-1H-indazol-5-yl)-1-(4-(1-methylpiperidin-4-yl)-1-oxopropan-2-y
+l)-4-(2-oxo-1,2-dihydroquinolin-3-yl)piperidine-1-carboxamide (BMS-742413): a
+potent human CGRP antagonist with superior safety profile for the treatment of
+migraine through intranasal delivery.
+
+Chaturvedula PV(1), Mercer SE, Pin SS, Thalody G, Xu C, Conway CM, Keavy D,
+Signor L, Cantor GH, Mathias N, Moench P, Denton R, Macci R, Schartman R,
+Whiterock V, Davis C, Macor JE, Dubowchik GM.
+
+Author information: 
+(1)Department of Molecular Sciences and Candidate Optimization, Bristol-Myers
+Squibb R&D, 5 Research Parkway, Wallingford, CT 06492, USA.
+Prasad.Chaturvedula@bms.com
+
+Calcitonin gene-related peptide (CGRP) receptor antagonists have been shown to be
+efficacious as abortive migraine therapeutics with the absence of cardiovascular 
+liabilities that are associated with triptans. Herein, we report the discovery of
+a highly potent CGRP receptor antagonist, BMS-742413, with the potential to
+provide rapid onset of action through intranasal delivery. The compound displays 
+excellent aqueous solubility, oxidative stability, and toxicological profile.
+BMS-742413 has good intranasal bioavailability in the rabbit and shows a robust, 
+dose-dependent inhibition of CGRP-induced increases in marmoset facial blood
+flow.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.bmcl.2013.04.012 
+PMID: 23632269  [Indexed for MEDLINE]
+

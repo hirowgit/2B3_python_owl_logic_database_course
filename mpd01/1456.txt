@@ -1,0 +1,69 @@
+
+
+1456. J Neurosci. 2014 Jan 22;34(4):1183-94. doi: 10.1523/JNEUROSCI.3899-13.2014.
+
+Active vision in marmosets: a model system for visual neuroscience.
+
+Mitchell JF(1), Reynolds JH, Miller CT.
+
+Author information: 
+(1)Systems Neurobiology Laboratory, The Salk Institute for Biological Studies, La
+Jolla, California 92037-1099 and Department of Psychology and Neurosciences
+Graduate Program, The University of California at San Diego, La Jolla, California
+92093-0109.
+
+The common marmoset (Callithrix jacchus), a small-bodied New World primate,
+offers several advantages to complement vision research in larger primates.
+Studies in the anesthetized marmoset have detailed the anatomy and physiology of 
+their visual system (Rosa et al., 2009) while studies of auditory and vocal
+processing have established their utility for awake and behaving
+neurophysiological investigations (Lu et al., 2001a,b; Eliades and Wang, 2008a,b;
+Osmanski and Wang, 2011; Remington et al., 2012). However, a critical unknown is 
+whether marmosets can perform visual tasks under head restraint. This has been
+essential for studies in macaques, enabling both accurate eye tracking and head
+stabilization for neurophysiology. In one set of experiments we compared the free
+viewing behavior of head-fixed marmosets to that of macaques, and found that
+their saccadic behavior is comparable across a number of saccade metrics and that
+saccades target similar regions of interest including faces. In a second set of
+experiments we applied behavioral conditioning techniques to determine whether
+the marmoset could control fixation for liquid reward. Two marmosets could fixate
+a central point and ignore peripheral flashing stimuli, as needed for receptive
+field mapping. Both marmosets also performed an orientation discrimination task, 
+exhibiting a saturating psychometric function with reliable performance and
+shorter reaction times for easier discriminations. These data suggest that the
+marmoset is a viable model for studies of active vision and its underlying neural
+mechanisms.
+
+DOI: 10.1523/JNEUROSCI.3899-13.2014 
+PMCID: PMC3898283
+PMID: 24453311  [Indexed for MEDLINE]
+
+
+1457. Pathog Dis. 2014 Jul;71(2):219-26. doi: 10.1111/2049-632X.12140. Epub 2014 Feb
+24.
+
+Development of novel mechanisms for housing, handling, and remote monitoring of
+common marmosets at animal biosafety level 3.
+
+Powell DS(1), Walker RC, Heflin DT, Fisher D, Kosky JB, Homer LC, Reed DS,
+Stefano-Cole K, Trichel AM, Hartman AL.
+
+Author information: 
+(1)Regional Biocontainment Laboratory, Center for Vaccine Research, University of
+Pittsburgh, Pittsburgh, PA, USA.
+
+The use of common marmosets as an alternative non-human primate model for
+infectious disease research using BSL-3 viruses such as Rift Valley fever virus
+(RVFV) presents unique challenges with respect to housing, handling, and safety. 
+Subject matter experts from veterinary care, animal husbandry, biosafety,
+engineering, and research were consulted to design a pilot experiment using
+marmosets infected with RVFV. This paper reviews the caging, handling, and
+safety-related adaptations and modifications that were required to humanely
+utilize marmosets as a model for high-hazard BSL-3 viral diseases.
+
+© 2014 Federation of European Microbiological Societies. Published by John Wiley 
+& Sons Ltd. All rights reserved.
+
+DOI: 10.1111/2049-632X.12140 
+PMID: 24453160  [Indexed for MEDLINE]
+

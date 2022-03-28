@@ -1,0 +1,102 @@
+
+
+1467. Proc Natl Acad Sci U S A. 2014 Jan 28;111(4):1467-72. doi:
+10.1073/pnas.1316037111. Epub 2013 Dec 30.
+
+Evolutionary genetics and implications of small size and twinning in
+callitrichine primates.
+
+Harris RA(1), Tardif SD, Vinar T, Wildman DE, Rutherford JN, Rogers J, Worley KC,
+Aagaard KM.
+
+Author information: 
+(1)Departments of Obstetrics and Gynecology, Division of Maternal-Fetal Medicine 
+and Molecular and Human Genetics, Human Genome Sequencing Center, and Department 
+of Molecular and Cell Biology and the Reproductive Medicine Center, Baylor
+College of Medicine, Houston, TX 77030.
+
+New World monkeys (NWMs) are characterized by an extensive size range, with
+clawed NWMs (subfamily Callitrichinae, or callitrichines) such as the common
+marmoset manifesting diminutive size and unique reproductive adaptations. Perhaps
+the most notable of these adaptations is their propensity toward multiple
+gestations (i.e., dichorionic twins and trichorionic triplets). Indeed, with the 
+exception of Goeldi's monkey (Callimico), callitrichine singleton pregnancies
+rarely occur. Multiple gestations seem to have coevolved with a suite of
+reproductive adaptations, including hematopoetic chimerism of siblings,
+suppression of reproduction in nondominant females, and cooperative
+alloparenting. The sequencing of the common marmoset (Callithrix jacchus) genome 
+offers the opportunity to explore the genetic basis of these unusual traits
+within this primate lineage. In this study, we hypothesized that genetic changes 
+arising during callitrichine evolution resulted in multiple ovulated ova with
+each cycle, and that these changes triggered adaptations that minimized
+complications common to multiple gestations in other primates, including humans. 
+Callitrichine-specific nonsynonymous substitutions were identified in GDF9,
+BMP15, BMP4, and WFIKKN1. WFIKKN1, a multidomain protease inhibitor that binds
+growth factors and bone morphogenetic proteins, has nonsynonymous changes found
+exclusively in common marmosets and other tested callitrichine species that twin.
+In the one callitrichine species that does not produce twins (Callimico), this
+change has reverted back to the ancestral (nontwinning) primate sequence.
+Polymorphisms in GDF9 occur among human cohorts with a propensity for dizygotic
+twins, and polymorphisms in GDF9 and BMP15 are associated with twinning in sheep.
+We postulate that positive selection affected NWM growth patterns, with
+callitrichine miniaturization coevolving with a series of reproductive
+adaptations.
+
+DOI: 10.1073/pnas.1316037111 
+PMCID: PMC3910650
+PMID: 24379383  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+1468. Biomaterials. 2014 Mar;35(8):2462-70. doi: 10.1016/j.biomaterials.2013.12.004.
+Epub 2013 Dec 24.
+
+A hematoporphyrin-based delivery system for drug resistance reversal and tumor
+ablation.
+
+Ren Y(1), Wang R(1), Liu Y(1), Guo H(1), Zhou X(2), Yuan X(3), Liu C(3), Tian
+J(4), Yin H(1), Wang Y(5), Zhang N(6).
+
+Author information: 
+(1)Research Center of Basic Medical Sciences & Cancer Institute and Hospital,
+National Clinical Research Center of Cancer, Tianjin Medical University, Tianjin 
+300070, PR China.
+(2)Department of Head & Neck, Tianjin Cancer Institute and Hospital, Tianjin
+300060, PR China.
+(3)School of Materials Science and Engineering, Tianjin University, Tianjin
+300072, PR China.
+(4)School of Physics, Nankai University, Tianjin 300071, PR China.
+(5)Research Center of Basic Medical Sciences & Cancer Institute and Hospital,
+National Clinical Research Center of Cancer, Tianjin Medical University, Tianjin 
+300070, PR China; School of Pharmacy, Tianjin Key Laboratory on Technologies
+Enabling Development of Clinical Therapeutics and Diagnostics (Theranostics),
+Tianjin Medical University, Tianjin 300070, PR China. Electronic address:
+wangyinsong@tijmu.edu.cn.
+(6)Research Center of Basic Medical Sciences & Cancer Institute and Hospital,
+National Clinical Research Center of Cancer, Tianjin Medical University, Tianjin 
+300070, PR China. Electronic address: zhangning@tijmu.edu.cn.
+
+Nanotechnology-based drug delivery systems have been intensively investigated,
+while only a few of them can be used for clinic application. Hematoporphyrin
+(HP), a major molecule in erythrocyte, has been widely used in photodynamic
+therapy (PDT). In the present study, polyethylene glycol (PEG) modified
+hematoporphyrin (HPP)-based nanoparticle system was designed to load doxorubicin 
+(HPPD), in achieving a synergistic effect of chemotherapy and PDT. Herein we
+presented that HPPD formed narrowly dispersed nanoparticles at 35 ± 2 nm,
+yielding an enhanced drug release at pH5.8 along with laser radiation. This
+combined treatment with HPPD and radiation facilitated drug penetration to the
+nucleus thereby reducing 12-fold decrease in IC50 value and promoting apoptosis
+in drug-resistant breast cancer cells. Notably, little toxicity was detected with
+HPP at the cellular level and in animal models. Live animal imaging revealed that
+HPPD performed ultra high tumor uptake in both mice and marmoset models.
+Strikingly, intravenous administration of HPPD and radiation on the tumor
+achieved efficient tumor ablation, without inducing myocardial injury. We report 
+here the development of a biomolecule, HP-based nanoparticle system, which can
+synergistically yield chemotherapy and PDT.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biomaterials.2013.12.004 
+PMID: 24373420  [Indexed for MEDLINE]
+

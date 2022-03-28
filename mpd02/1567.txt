@@ -1,0 +1,34 @@
+
+
+1567. J Neurosci. 2013 Apr 17;33(16):6864-76. doi: 10.1523/JNEUROSCI.5208-12.2013.
+
+Cortical-like receptive fields in the lateral geniculate nucleus of marmoset
+monkeys.
+
+Cheong SK(1), Tailby C, Solomon SG, Martin PR.
+
+Author information: 
+(1)ARC Centre of Excellence in Vision Science, The University of Sydney Eye
+Hospital Campus, Sydney, New South Wales 2001, Australia.
+
+Most neurons in primary visual cortex (V1) exhibit high selectivity for the
+orientation of visual stimuli. In contrast, neurons in the main thalamic input to
+V1, the lateral geniculate nucleus (LGN), are considered to be only weakly
+orientation selective. Here we characterize a sparse population of cells in
+marmoset LGN that show orientation and spatial frequency selectivity as great as 
+that of cells in V1. The recording position in LGN and histological
+reconstruction of these cells shows that they are part of the koniocellular (K)
+pathways. Accordingly we have named them K-o ("koniocellular-orientation") cells.
+Most K-o cells prefer vertically oriented gratings; their contrast sensitivity
+and TF tuning are similar to those of parvocellular cells, and they receive
+negligible functional input from short wavelength-sensitive ("blue") cone
+photoreceptors. Four K-o cells tested displayed binocular responses. Our results 
+provide further evidence that in primates as in nonprimate mammals the cortical
+input streams include a diversity of visual representations. The presence of K-o 
+cells increases functional homologies between K pathways in primates and
+"sluggish/W" pathways in nonprimate visual systems.
+
+DOI: 10.1523/JNEUROSCI.5208-12.2013 
+PMCID: PMC6618877
+PMID: 23595745  [Indexed for MEDLINE]
+

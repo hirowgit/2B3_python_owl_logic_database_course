@@ -1,0 +1,38 @@
+
+
+3134. Cereb Cortex. 2001 Nov;11(11):1015-26.
+
+Differential effects of 6-OHDA lesions of the frontal cortex and caudate nucleus 
+on the ability to acquire an attentional set.
+
+Crofts HS(1), Dalley JW, Collins P, Van Denderen JC, Everitt BJ, Robbins TW,
+Roberts AC.
+
+Author information: 
+(1)Department of Experimental Psychology, University of Cambridge, Downing Site, 
+Cambridge CB2 3DY, UK. hc233@hermes.cam.ac.uk
+
+Evidence from both human and animal studies indicates that catecholamine
+(dopamine and noradrenaline) imbalances in the fronto-striatal circuitry are
+associated with deficits in higher- order cognitive functions. The present study 
+examined how catecholamines within this circuitry modulate attentional function, 
+specifically the ability to develop, maintain, and shift an attentional set.
+Catecholamine depletions within the frontal cortex of the common marmoset
+impaired the ability to acquire an attentional set, and increased susceptibility 
+to distraction from task-irrelevant stimuli. Analysis of set-shifting performance
+with stimulus dimensions of varying salience suggested that frontal catecholamine
+depletion selectively disrupts "top-down", but not "bottom-up" attentional
+processing. In contrast, the ability to acquire and shift an attentional set
+remained intact following dopaminergic depletion from the caudate nucleus.
+However, the reduced susceptibility to distraction from task-irrelevant stimuli
+displayed by monkeys with dopaminergic depletions of the caudate nucleus suggests
+that responding was under more rigid control by the currently rewarded stimulus. 
+The results demonstrate opposite behavioural effects of 6-hydroxydopamine
+(6-OHDA) lesions in the frontal cortex and caudate nucleus in tasks requiring
+selective attention. Frontal catecholamine depletion caused an increase in
+distractibility while caudate dopamine loss induced greater focusing of
+responding.
+
+DOI: 10.1093/cercor/11.11.1015 
+PMID: 11590111  [Indexed for MEDLINE]
+

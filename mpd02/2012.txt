@@ -1,0 +1,44 @@
+
+
+2012. PLoS One. 2010 Apr 29;5(4):e10412. doi: 10.1371/journal.pone.0010412.
+
+A novel highly reproducible and lethal nonhuman primate model for orthopox virus 
+infection.
+
+Kramski M(1), Mätz-Rensing K, Stahl-Hennig C, Kaup FJ, Nitsche A, Pauli G,
+Ellerbrok H.
+
+Author information: 
+(1)Robert Koch-Institut, Berlin, Germany.
+
+The intentional re-introduction of Variola virus (VARV), the agent of smallpox,
+into the human population is of great concern due its bio-terroristic potential. 
+Moreover, zoonotic infections with Cowpox (CPXV) and Monkeypox virus (MPXV) cause
+severe diseases in humans. Smallpox vaccines presently available can have severe 
+adverse effects that are no longer acceptable. The efficacy and safety of new
+vaccines and antiviral drugs for use in humans can only be demonstrated in animal
+models. The existing nonhuman primate models, using VARV and MPXV, need very high
+viral doses that have to be applied intravenously or intratracheally to induce a 
+lethal infection in macaques. To overcome these drawbacks, the infectivity and
+pathogenicity of a particular CPXV was evaluated in the common marmoset
+(Callithrix jacchus).A CPXV named calpox virus was isolated from a lethal
+orthopox virus (OPV) outbreak in New World monkeys. We demonstrated that
+marmosets infected with calpox virus, not only via the intravenous but also the
+intranasal route, reproducibly develop symptoms resembling smallpox in humans.
+Infected animals died within 1-3 days after onset of symptoms, even when very low
+infectious viral doses of 5x10(2) pfu were applied intranasally. Infectious virus
+was demonstrated in blood, saliva and all organs analyzed.We present the first
+characterization of a new OPV infection model inducing a disease in common
+marmosets comparable to smallpox in humans. Intranasal virus inoculation
+mimicking the natural route of smallpox infection led to reproducible infection. 
+In vivo titration resulted in an MID(50) (minimal monkey infectious dose 50%) of 
+8.3x10(2) pfu of calpox virus which is approximately 10,000-fold lower than MPXV 
+and VARV doses applied in the macaque models. Therefore, the calpox
+virus/marmoset model is a suitable nonhuman primate model for the validation of
+vaccines and antiviral drugs. Furthermore, this model can help study mechanisms
+of OPV pathogenesis.
+
+DOI: 10.1371/journal.pone.0010412 
+PMCID: PMC2861679
+PMID: 20454688  [Indexed for MEDLINE]
+

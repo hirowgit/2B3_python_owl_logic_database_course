@@ -1,0 +1,127 @@
+
+
+1188. Brain Pathol. 2016 Jul;26(4):452-64. doi: 10.1111/bpa.12292. Epub 2015 Sep 22.
+
+A New Targeted Model of Experimental Autoimmune Encephalomyelitis in the Common
+Marmoset.
+
+Stassart RM(1), Helms G(2), Garea-Rodríguez E(3)(4), Nessler S(1), Hayardeny
+L(5), Wegner C(1), Schlumbohm C(4)(6), Fuchs E(4)(6)(7), Brück W(1).
+
+Author information: 
+(1)Institute of Neuropathology, University Medical Center,
+Georg-August-University Göttingen, Göttingen, Germany.
+(2)Department of Cognitive Neurology, University Medical Center,
+Georg-August-University Göttingen, Göttingen, Germany.
+(3)Department of Neuroanatomy, Institute of Anatomy and Cell Biology,
+Albert-Ludwigs-University Freiburg, Freiburg, Germany.
+(4)Clinical Neurobiology Laboratory, German Primate Center, Göttingen, Germany.
+(5)Teva Pharmaceutical Industries, Netanya, Israel.
+(6)Encepharm GmbH, Göttingen, Germany.
+(7)Department of Neurology, University Medical Center, Georg-August-University
+Göttingen, Göttingen, Germany.
+
+Multiple sclerosis (MS) is the most common cause for sustained disability in
+young adults, yet treatment options remain very limited. Although numerous
+therapeutic approaches have been effective in rodent models of experimental
+autoimmune encephalomyelitis (EAE), only few proved to be beneficial in patients 
+with MS. Hence, there is a strong need for more predictive animal models. Within 
+the past decade, EAE in the common marmoset evolved as a potent, alternative
+model for MS, with immunological and pathological features resembling more
+closely the human disease. However, an often very rapid and severe disease course
+hampers its implementation for systematic testing of new treatment strategies. We
+here developed a new focal model of EAE in the common marmoset, induced by myelin
+oligodendrocyte glycoprotein (MOG) immunization and stereotactic injections of
+proinflammatory cytokines. At the injection site of cytokines, confluent
+inflammatory demyelinating lesions developed that strongly resembled human MS
+lesions. In a proof-of-principle treatment study with the immunomodulatory
+compound laquinimod, we demonstrate that targeted EAE in marmosets provides a
+promising and valid tool for preclinical experimental treatment trials in MS
+research.
+
+© 2015 International Society of Neuropathology.
+
+DOI: 10.1111/bpa.12292 
+PMCID: PMC8029260
+PMID: 26207848  [Indexed for MEDLINE]
+
+
+1189. Acta Neuropathol Commun. 2015 Jul 25;3:46. doi: 10.1186/s40478-015-0222-2.
+
+Lack of additive role of ageing in nigrostriatal neurodegeneration triggered by
+α-synuclein overexpression.
+
+Bourdenx M(1)(2), Dovero S(1)(2), Engeln M(1)(2), Bido S(1)(2), Bastide MF(1)(2),
+Dutheil N(1)(2), Vollenweider I(3), Baud L(3), Piron C(1)(2), Grouthier V(1)(2), 
+Boraud T(1)(2), Porras G(4), Li Q(4)(5), Baekelandt V(6), Scheller D(7), Michel
+A(7), Fernagut PO(1)(2), Georges F(8)(9), Courtine G(3), Bezard E(10)(11), Dehay 
+B(12)(13).
+
+Author information: 
+(1)University de Bordeaux, Institut des Maladies Neurodégénératives, UMR 5293,
+33000, Bordeaux, France.
+(2)CNRS, Institut des Maladies Neurodégénératives, UMR 5293, 33000, Bordeaux,
+France.
+(3)International Paraplegic Foundation chair in spinal cord Repair, Center for
+Neuroprosthetics and Brain Mind Institute, School of Life Sciences, Swiss Federal
+Institute of Technology (EPFL), Lausanne, Switzerland.
+(4)Motac Neuroscience, Manchester, UK.
+(5)Institute of Laboratory Animal Sciences, China Academy of Medical Sciences,
+Beijing, China.
+(6)Department of Neurosciences and Leuven Research Institute for Neuroscience and
+Disease (LIND), KU Leuven, Laboratory for Neurobiology and Gene Therapy,
+Kapucijnenvoer 33, box 7001, 3000, Leuven, Belgium.
+(7)Parkinson's Disease Pharmacology, UCB Pharma S.A., Braine L'Alleud, B-1420,
+Belgium.
+(8)University de Bordeaux, Interdisciplinary Institute for Neuroscience, UMR5297,
+Bordeaux, France.
+(9)CNRS, Institut Interdisciplinaire de Neurosciences, UMR 5297, F-33000,
+Bordeaux, France.
+(10)University de Bordeaux, Institut des Maladies Neurodégénératives, UMR 5293,
+33000, Bordeaux, France. erwan.bezard@u-bordeaux.fr.
+(11)CNRS, Institut des Maladies Neurodégénératives, UMR 5293, 33000, Bordeaux,
+France. erwan.bezard@u-bordeaux.fr.
+(12)University de Bordeaux, Institut des Maladies Neurodégénératives, UMR 5293,
+33000, Bordeaux, France. benjamin.dehay@u-bordeaux.fr.
+(13)CNRS, Institut des Maladies Neurodégénératives, UMR 5293, 33000, Bordeaux,
+France. benjamin.dehay@u-bordeaux.fr.
+
+INTRODUCTION: Parkinson's disease (PD) is a progressive neurodegenerative
+disorder characterized by the loss of dopaminergic neurons as well as the
+presence of proteinaceous inclusions named Lewy bodies. α-synuclein (α-syn) is a 
+major constituent of Lewy bodies, and the first disease-causing protein
+characterized in PD. Several α-syn-based animal models of PD have been developed 
+to investigate the pathophysiology of PD, but none of them recapitulate the full 
+picture of the disease. Ageing is the most compelling and major risk factor for
+developing PD but its impact on α-syn toxicity remains however unexplored. In
+this study, we developed and exploited a recombinant adeno-associated viral (AAV)
+vector of serotype 9 overexpressing mutated α-syn to elucidate the influence of
+ageing on the dynamics of PD-related neurodegeneration associated with α-syn
+pathology in different mammalian species.
+RESULTS: Identical AAV pseudotype 2/9 vectors carrying the DNA for human mutant
+p.A53T α-syn were injected into the substantia nigra to induce neurodegeneration 
+and synucleinopathy in mice, rats and monkeys. Rats were used first to validate
+the ability of this serotype to replicate α-syn pathology and second to
+investigate the relationship between the kinetics of α-syn-induced nigrostriatal 
+degeneration and the progressive onset of motor dysfunctions, strikingly
+reminiscent of the impairments observed in PD patients. In mice, AAV2/9-hα-syn
+injection into the substantia nigra was associated with accumulation of α-syn and
+phosphorylated hα-syn, regardless of mouse strain. However, phenotypic mutants
+with either accelerated senescence or resistance to senescence did not display
+differential susceptibility to hα-syn overexpression. Of note, p-α-syn levels
+correlated with nigrostriatal degeneration in mice. In monkeys, hα-syn-induced
+degeneration of the nigrostriatal pathway was not affected by the age of the
+animals. Unlike mice, monkeys did not exhibit correlations between levels of
+phosphorylated α-syn and neurodegeneration.
+CONCLUSIONS: In conclusion, AAV2/9-mediated hα-syn induces robust nigrostriatal
+neurodegeneration in mice, rats and monkeys, allowing translational comparisons
+among species. Ageing, however, neither exacerbated nigrostriatal
+neurodegeneration nor α-syn pathology per se. Our unprecedented multi-species
+investigation thus favours the multiple-hit hypothesis for PD wherein ageing
+would merely be an aggravating, additive, factor superimposed upon an independent
+disease process.
+
+DOI: 10.1186/s40478-015-0222-2 
+PMCID: PMC4513748
+PMID: 26205255  [Indexed for MEDLINE]
+

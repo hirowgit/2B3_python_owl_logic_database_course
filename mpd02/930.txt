@@ -1,0 +1,34 @@
+
+
+930. Elife. 2017 Jan 16;6. pii: e20782. doi: 10.7554/eLife.20782.
+
+Vocal development in a Waddington landscape.
+
+Teramoto Y(1), Takahashi DY(1)(2), Holmes P(1)(3), Ghazanfar AA(1)(2)(4).
+
+Author information: 
+(1)Princeton Neuroscience Institute, Princeton University, Princeton, United
+States.
+(2)Department of Psychology, Princeton University, Princeton, United States.
+(3)Department of Mechanical and Aerospace Engineering and Program in Applied and 
+Computational Mathematics, Princeton University, Princeton, United States.
+(4)Department of Ecology and Evolutionary Biology, Princeton University,
+Princeton, United States.
+
+Vocal development is the adaptive coordination of the vocal apparatus, muscles,
+the nervous system, and social interaction. Here, we use a quantitative framework
+based on optimal control theory and Waddington's landscape metaphor to provide an
+integrated view of this process. With a biomechanical model of the marmoset
+monkey vocal apparatus and behavioral developmental data, we show that only the
+combination of the developing vocal tract, vocal apparatus muscles and nervous
+system can fully account for the patterns of vocal development. Together, these
+elements influence the shape of the monkeys' vocal developmental landscape,
+tilting, rotating or shifting it in different ways. We can thus use this
+framework to make quantitative predictions regarding how interfering factors or
+experimental perturbations can change the landscape within a species, or to
+explain comparative differences in vocal development across species.
+
+DOI: 10.7554/eLife.20782 
+PMCID: PMC5310845
+PMID: 28092262  [Indexed for MEDLINE]
+

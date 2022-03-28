@@ -1,0 +1,96 @@
+
+
+3580. Br J Pharmacol. 1998 Apr;123(8):1579-86.
+
+Purinoceptor subtypes mediating contraction and relaxation of marmoset urinary
+bladder smooth muscle.
+
+McMurray G(1), Dass N, Brading AF.
+
+Author information: 
+(1)University Department of Pharmacology, Oxford.
+
+1. The effects of adenosine triphosphate (ATP), adenosine diphosphate (ADP),
+alpha,beta-methylene-ATP (alpha,beta-MeATP) and 2-methylthio-ATP (2-MeSATP) on
+longitudinally orientated smooth muscle strips from marmoset urinary bladder were
+investigated by use of standard organ bath techniques. 2. After being mounted in 
+superfusion organ baths, 66.7% (n=249) of marmoset detrusor smooth muscle strips 
+developed spontaneous tone, 48.2% of all strips examined developed tone
+equivalent to greater than 0.1 g mg(-1) of tissue and were subsequently utilized 
+in the present investigation. 3. On exposure to ATP, muscle strips exhibited a
+biphasic response, a rapid and transient contraction followed by a more prolonged
+relaxation. Both responses were found to be concentration-dependent. ADP and
+2-MeSATP elicited a similar response (contraction followed by relaxation),
+whereas application of alpha,beta-MeATP only produced a contraction. The potency 
+order for each effect was alpha,beta-MeATP> >2-MeSATP> ATP>ADP (contractile
+response) and ATP=2-MeSATP> or = ADP> > alpha,beta-MeATP (relaxational response).
+4. Desensitization with alpha,beta-MeATP (10 microM) abolished the contractile
+phase of the response to ATP, but had no effect on the level of relaxation evoked
+by this agonist. On the other hand, the G-protein inactivator, GDPbetaS (100
+microM) abolished only the relaxation response to ATP. Suramin (general P2
+antagonist, 100 microM) shifted both the contractile and relaxation ATP
+concentration-response curves to the right, whereas cibacron blue (P2Y
+antagonist, 10 microM) only antagonized the relaxation response to ATP. In
+contrast, the adenosine receptor antagonist, 8-phenyltheophylline (10 microM),
+had no effect on the relaxation response curve to ATP. 5. Incubation with
+tetrodotoxin (TTX, 3 microM) or depolarization of the muscle strip with 40 mM K+ 
+Krebs failed to abolish the relaxation to ATP. In addition, neither
+Nomega-nitro-L-arginine (L-NOARG, 10 microM) nor methylene blue (10 microM) had
+any effect on the relaxation response curve. However, tos-phe-chloromethylketone 
+(TPCK, 3 microM), an inhibitor of cyclicAMP-dependent protein kinase A (PKA),
+significantly (P<0.01) shifted the curve for the ATP-induced relaxation to the
+right. 6. It is proposed that marmoset detrusor smooth muscle contains two
+receptors for ATP, a classical P2X-type receptor mediating smooth muscle
+contraction, and a P2Y (G-protein linked) receptor mediating smooth muscle
+relaxation. The results also indicate that the ATP-evoked relaxation may occur
+through the activation of cyclicAMP-dependent PKA.
+
+DOI: 10.1038/sj.bjp.0701774 
+PMCID: PMC1565329
+PMID: 9605564  [Indexed for MEDLINE]
+
+
+3581. Toxicol Sci. 1998 Mar;42(1):49-56.
+
+Subchronic toxicity of Di(2-ethylhexyl)phthalate in common marmosets: lack of
+hepatic peroxisome proliferation, testicular atrophy, or pancreatic acinar cell
+hyperplasia.
+
+Kurata Y(1), Kidachi F, Yokoyama M, Toyota N, Tsuchitani M, Katoh M.
+
+Author information: 
+(1)Mitsubishi Chemical Safety Institute Ltd., 14 Sunayama, Hasaki-machi,
+Kashima-gun, Ibaraki-ken, 314-02, Japan.
+
+To evaluate the toxicological effect, di(2-ethylhexyl)phthalate (DEHP) was
+administered orally at 100, 500, and 2500 mg/kg to four male and four female
+marmosets in each group for 13 weeks. Its potentials of hepatic peroxisome
+proliferation, testicular atrophy, and pancreatic acinar cell hyperplasia were
+evaluated more closely. Clofibrate, which potently causes peroxisome
+proliferation in rodents, was administered in like manner at 250 mg/kg as a
+reference drug. DEHP induced significant suppression of weight gain in males at
+2500 mg/kg. However, the increase in liver mass and hypertrophy of hepatocytes
+were not detected in organ weight measurements or histopathological examination. 
+The number of peroxisomes, volume density, peroxisome morphology, and peroxisomal
+enzyme activities were not different from those in the control group, though the 
+males treated with 500 and 2500 mg/kg DEHP showed 1.3- and 1.4-fold increases in 
+mean peroxisome volume, respectively. In contrast, clofibrate induced 2.2 (in
+male)- and 1.9-fold (in female) increases in hepatic cyanide-insensitive acyl CoA
+oxidation system activity, 1. 2 (in male)- and 1.7-fold (in female) increases in 
+hepatic carnitine-dependent acetyltransferase activity, and 1.8 (in male)- and
+3.0-fold (in female) increases of carnitine-dependent palmitoyltransferase
+activity. Cytochrome P-450 contents tended to increase in all males and females
+administered 500 and 2500 mg/kg of DEHP and clofibrate associated with the
+increase in hepatic microsomal protein content, suggesting a relationship with
+the treatment. The atrophic change in the testis or proliferative change in the
+pancreatic acinar cells seen in rodents were not seen histopathologically; also, 
+no changes were observed in testes weight, testicular zinc level, blood levels of
+testosterone and estradiol, pancreas weight, and blood levels of cholecystokinin.
+Finally, no changes considered to be due to the administration of DEHP were noted
+in blood chemical examination or pathological examination of other organs.
+
+Copyright 1998 Academic Press.
+
+DOI: 10.1006/toxs.1997.2414 
+PMID: 9538047  [Indexed for MEDLINE]
+

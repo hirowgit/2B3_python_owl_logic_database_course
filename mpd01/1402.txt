@@ -1,0 +1,139 @@
+
+
+1402. Cereb Cortex. 2015 Sep;25(9):3064-76. doi: 10.1093/cercor/bhu102. Epub 2014 May
+30.
+
+Role of Central Serotonin in Anticipation of Rewarding and Punishing Outcomes:
+Effects of Selective Amygdala or Orbitofrontal 5-HT Depletion.
+
+Rygula R(1), Clarke HF(2), Cardinal RN(3), Cockcroft GJ(4), Xia J(4), Dalley
+JW(4), Robbins TW(4), Roberts AC(2).
+
+Author information: 
+(1)Department of Psychology, University of Cambridge, Cambridge CB2 3EB, UK
+Behavioural and Clinical Neuroscience Institute, University of Cambridge,
+Cambridge CB2 3EB, UK Current Address: Affective Cognitive Neuroscience
+Laboratory, Department of Behavioral Neurobiology and Drug Development, Institute
+of Pharmacology Polish Academy of Sciences, ul Smetna 12, 31-343 Krakow, Poland.
+(2)Behavioural and Clinical Neuroscience Institute, University of Cambridge,
+Cambridge CB2 3EB, UK Department of Physiology, Development and Neuroscience,
+University of Cambridge, Cambridge CB2 3DY, UK.
+(3)Behavioural and Clinical Neuroscience Institute, University of Cambridge,
+Cambridge CB2 3EB, UK Department of Psychiatry, University of Cambridge, School
+of Clinical Medicine, Cambridge CB2 0QQ, UK Liaison Psychiatry Service,
+Cambridgeshire and Peterborough NHS Foundation Trust, Box 190, Addenbrooke's
+Hospital, Cambridge CB2 0QQ, UK.
+(4)Department of Psychology, University of Cambridge, Cambridge CB2 3EB, UK
+Behavioural and Clinical Neuroscience Institute, University of Cambridge,
+Cambridge CB2 3EB, UK.
+
+Understanding the role of serotonin (or 5-hydroxytryptamine, 5-HT) in aversive
+processing has been hampered by the contradictory findings, across studies, of
+increased sensitivity to punishment in terms of subsequent response choice but
+decreased sensitivity to punishment-induced response suppression following gross 
+depletion of central 5-HT. To address this apparent discrepancy, the present
+study determined whether both effects could be found in the same animals by
+performing localized 5-HT depletions in the amygdala or orbitofrontal cortex
+(OFC) of a New World monkey, the common marmoset. 5-HT depletion in the amygdala 
+impaired response choice on a probabilistic visual discrimination task by
+increasing the effectiveness of misleading, or false, punishment and reward, and 
+decreased response suppression in a variable interval test of punishment
+sensitivity that employed the same reward and punisher. 5-HT depletion in the OFC
+also disrupted probabilistic discrimination learning and decreased response
+suppression. Computational modeling of behavior on the discrimination task showed
+that the lesions reduced reinforcement sensitivity. A novel, unitary account of
+the findings in terms of the causal role of 5-HT in the anticipation of both
+negative and positive motivational outcomes is proposed and discussed in relation
+to current theories of 5-HT function and our understanding of mood and anxiety
+disorders.
+
+© The Author 2014. Published by Oxford University Press.
+
+DOI: 10.1093/cercor/bhu102 
+PMCID: PMC4537445
+PMID: 24879752  [Indexed for MEDLINE]
+
+
+1403. Exp Neurol. 2014 Nov;261:171-9. doi: 10.1016/j.expneurol.2014.05.021. Epub 2014
+May 27.
+
+Global gene expression analysis following spinal cord injury in non-human
+primates.
+
+Nishimura S(1), Sasaki T(2), Shimizu A(3), Yoshida K(4), Iwai H(5), Koya I(6),
+Kobayashi Y(7), Itakura G(8), Shibata S(9), Ebise H(10), Horiuchi K(11), Kudoh
+J(12), Toyama Y(13), Anderson AJ(14), Okano H(15), Nakamura M(16).
+
+Author information: 
+(1)Department of Orthopedic Surgery, Keio University School of Medicine, 35
+Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan; Department of Physiology, Keio 
+University School of Medicine, 35 Shinanomachi, Shinjuku-ku, Tokyo 160-8582,
+Japan. Electronic address: soraya-n@z8.keio.jp.
+(2)Department of Dermatology, Keio University School of Medicine, 35
+Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan; Center for Integrated Medical
+Research, Keio University School of Medicine, 35 Shinanomachi, Shinjuku-ku, Tokyo
+160-8582, Japan. Electronic address: sasasa@z5.keio.jp.
+(3)Division of Biomedical Information Analysis, Iwate Tohoku Medical Megabank
+Organization, Iwate Medical University, 2-1-1, Nishitokuta, Yahaba-cho,
+Shiwa-gun, Iwate 028-3694, Japan. Electronic address: chromosome8q23@gmail.com.
+(4)Regenerative & Cellular Medicine Office, Dainippon Sumitomo Pharma Co., Ltd., 
+3-1-98 Kasugade-naka, Konohana-ku, Osaka 554-0022, Japan. Electronic address:
+kenji-yoshida@ds-pharma.co.jp.
+(5)Department of Orthopedic Surgery, Keio University School of Medicine, 35
+Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan; Department of Physiology, Keio 
+University School of Medicine, 35 Shinanomachi, Shinjuku-ku, Tokyo 160-8582,
+Japan. Electronic address: iwai@a7.keio.jp.
+(6)Department of Physiology, Keio University School of Medicine, 35 Shinanomachi,
+Shinjuku-ku, Tokyo 160-8582, Japan. Electronic address: koya-ikuko@a5.keio.jp.
+(7)Department of Orthopedic Surgery, Keio University School of Medicine, 35
+Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan. Electronic address:
+y.kobayashi@z7.keio.jp.
+(8)Department of Orthopedic Surgery, Keio University School of Medicine, 35
+Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan; Department of Physiology, Keio 
+University School of Medicine, 35 Shinanomachi, Shinjuku-ku, Tokyo 160-8582,
+Japan. Electronic address: itakura@a2.keio.jp.
+(9)Department of Physiology, Keio University School of Medicine, 35 Shinanomachi,
+Shinjuku-ku, Tokyo 160-8582, Japan. Electronic address:
+shibata@2001.jukuin.keio.ac.jp.
+(10)Genomic Science Laboratories, Dainippon Sumitomo Pharma Co., Ltd., 3-1-98
+Kasugade-naka, Konohana-ku, Osaka 554-0022, Japan. Electronic address:
+hayao-ebise@ds-pharma.co.jp.
+(11)Department of Orthopedic Surgery, Keio University School of Medicine, 35
+Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan. Electronic address:
+horiuchi@z3.keio.jp.
+(12)Laboratory of Gene Medicine, Keio University School of Medicine, 35
+Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan. Electronic address:
+jkudoh@dmb.med.keio.ac.jp.
+(13)Department of Orthopedic Surgery, Keio University School of Medicine, 35
+Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan. Electronic address:
+toyama@z6.keio.jp.
+(14)Sue and Bill Gross Stem Cell Research Center, University of California,
+Irvine, CA, 92697, USA. Electronic address: aja@uci.edu.
+(15)Department of Physiology, Keio University School of Medicine, 35
+Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan. Electronic address:
+hidokano@a2.keio.jp.
+(16)Department of Orthopedic Surgery, Keio University School of Medicine, 35
+Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan. Electronic address:
+masa@a8.keio.jp.
+
+Spinal cord injury (SCI) is a devastating condition with no established
+treatment. To better understand the pathology and develop a treatment modality
+for SCI, an understanding of the physiological changes following SCI at the
+molecular level is essential. However, studies on SCI have primarily used rodent 
+models, and few studies have examined SCI in non-human primates. In this study,
+we analyzed the temporal changes in gene expression patterns following SCI in
+common marmosets (Callithrix jacchus) using microarray analysis and mRNA deep
+sequencing. This analysis revealed that, although the sequence of events is
+comparable between primates and rodents, the inflammatory response following SCI 
+is significantly prolonged and the onset of glial scar formation is temporally
+delayed in primates compared with rodents. These observations indicate that the
+optimal time window to treat SCI significantly differs among different species.
+This study provides the first extensive analysis of gene expression following SCI
+in non-human primates and will serve as a valuable resource in understanding the 
+pathology of SCI.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.expneurol.2014.05.021 
+PMID: 24873731  [Indexed for MEDLINE]
+

@@ -1,0 +1,36 @@
+
+
+390. Genes Genet Syst. 2020 Jan 30;94(6):301-306. doi: 10.1266/ggs.19-00042. Epub 2019
+Dec 7.
+
+The CENP-B box, a nucleotide motif involved in centromere formation, has multiple
+origins in New World monkeys.
+
+Thongchum R(1)(2), Nishihara H(3), Srikulnath K(2)(4), Hirai H(1), Koga A(1).
+
+Author information: 
+(1)Primate Research Institute, Kyoto University.
+(2)Faculty of Science, Kasetsart University.
+(3)Department of Life Science and Technology, Tokyo Institute of Technology.
+(4)National Primate Research Center of Thailand, Chulalongkorn University.
+
+Centromere protein B (CENP-B), a protein participating in centromere formation,
+binds to centromere satellite DNA by recognizing a 17-bp motif called the CENP-B 
+box. This motif is found in hominids (humans and great apes) at an identical
+location in repeat units of their centromere satellite DNA. We have recently
+reported that the CENP-B box exists at diverse locations in three New World
+monkey species (marmoset, squirrel monkey and tamarin). However, the evolutionary
+origin of the CENP-B box in these species was not determined. It could have been 
+present in a common ancestor, or emerged multiple times in different lineages.
+Here we present results of a phylogenetic analysis of centromere satellite DNA
+that support the multiple emergence hypothesis. Repeat units almost invariably
+formed monophyletic groups in each species and the CENP-B box location was unique
+for each species. The CENP-B box is not essential for the immediate survival of
+its host organism. On the other hand, it is known to be required for de novo
+centromere assembly. Our results suggest that the CENP-B box confers a long-term 
+selective advantage. For example, it may play a pivotal role when a centromere is
+accidentally lost or impaired.
+
+DOI: 10.1266/ggs.19-00042 
+PMID: 31813924  [Indexed for MEDLINE]
+

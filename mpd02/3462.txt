@@ -1,0 +1,35 @@
+
+
+3462. J Virol. 1999 May;73(5):3913-9.
+
+Role of cellular tumor necrosis factor receptor-associated factors in NF-kappaB
+activation and lymphocyte transformation by herpesvirus Saimiri STP.
+
+Lee H(1), Choi JK, Li M, Kaye K, Kieff E, Jung JU.
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, New England Regional
+Primate Research Center, Harvard Medical School, Southborough, Massachusetts
+01772-9102, USA.
+
+The STP oncoproteins of the herpesvirus saimiri (HVS) subgroup A strain 11 and
+subgroup C strain 488 are now found to be stably associated with tumor necrosis
+factor receptor-associated factor (TRAF) 1, 2, or 3. Mutational analyses
+identified residues of PXQXT/S in STP-A11 as critical for TRAF association. In
+addition, a somewhat divergent region of STP-C488 is critical for TRAF
+association. Mutational analysis also revealed that STP-C488 induced NF-kappaB
+activation that was correlated with its ability to associate with TRAFs. The HVS 
+STP-C488 P10-->R mutant was deficient in human T-lymphocyte transformation to
+interleukin-2-independent growth but showed wild-type phenotype for marmoset
+T-lymphocyte transformation in vitro and in vivo. The STP-C488 P10-->R mutant was
+also defective in Rat-1 fibroblast transformation, and fibroblast cell
+transformation was blocked by a TRAF2 dominant-negative mutant. These data
+implicate TRAFs in STP-C488-mediated transformation of human lymphocytes and
+rodent fibroblasts. Other factors are implicated in immortalization of common
+marmoset T lymphocytes and may also be critical in the transformation of human
+lymphocytes and rodent fibroblasts.
+
+DOI: 10.1128/JVI.73.5.3913-3919.1999 
+PMCID: PMC104169
+PMID: 10196286  [Indexed for MEDLINE]
+

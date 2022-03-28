@@ -1,0 +1,65 @@
+
+
+3380. Vis Neurosci. 1999 Sep-Oct;16(5):957-66.
+
+Midget and parasol ganglion cells of the primate retina express the alpha1
+subunit of the glycine receptor.
+
+Grünert U(1), Ghosh KK.
+
+Author information: 
+(1)Department of Physiology and Institute for Biomedical Research, The University
+of Sydney, NSW, Australia. gruenert@physiol.usyd.edu.au
+
+Glycine is a major inhibitory neurotransmitter in the mammalian retina and has
+been shown to influence the responses of ganglion cells. Midget and parasol
+ganglion cells serve distinct physiological roles in the primate retina and show 
+differences in their response characteristics to light stimuli. In the present
+study, we addressed the question of whether the expression of glycine receptors
+differs in midget and parasol ganglion cells. Ganglion cells in the retinae of
+marmoset and macaque monkeys were injected with Neurobiotin in a live in vitro
+retinal whole-mount preparation. Retinal pieces were then processed with an
+antibody against the alpha1 subunit of the glycine receptor. Strong punctate
+immunoreactivity indicative of synaptic localization is present in the ON and OFF
+sublamina of the inner plexiform layer. Many of the immunoreactive puncta
+coincide with the dendrites of both midget and parasol ganglion cells.
+Immunoreactive puncta are present on distal and proximal dendrites of ON and OFF 
+cells. These results suggest that ON and OFF midget and parasol cells do not
+differ with respect to the distribution of the alpha1 subunit of the glycine
+receptor.
+
+DOI: 10.1017/s0952523899165155 
+PMID: 10580731  [Indexed for MEDLINE]
+
+
+3381. J Med Chem. 1999 Nov 18;42(23):4890-908.
+
+New alpha-substituted succinate-based hydroxamic acids as TNFalpha convertase
+inhibitors.
+
+Barlaam B(1), Bird TG, Lambert-Van Der Brempt C, Campbell D, Foster SJ, Maciewicz
+R.
+
+Author information: 
+(1)AstraZeneca, Zeneca Pharma, Centre de Recherches, Z.I. La Pompelle, BP1050,
+51689 Reims Cedex 2, France.
+
+Tumor necrosis factor alpha convertase (TACE), the enzyme responsible for the
+processing of pro-TNFalpha to TNFalpha, has been reported to be a
+metalloproteinase closely related to matrix metalloproteinases (MMPs). Current
+inhibitors of TACE such as succinate-based hydroxamic acids exemplified by
+Marimastat (TACE IC(50): 3.8 nM; blood IC(50): 7 microM) and BB1101 (TACE IC(50):
+0.2 nM; blood IC(50): 2.3 microM) suffer from modest potency in blood and poor in
+vivo properties. The introduction of new bulky alpha-substituents into these
+succinate-based hydroxamic acids was studied. Substituents such as thioethers,
+sulfonamides, and ethers showed improved potency against TACE when compared with 
+Marimastat. Although this improvement did not translate into better blood potency
+for thioether or ether substituents, the sulfonamide series exhibited improved
+potency both against TACE and in blood when compared with Marimastat.
+Optimization of this sulfonamide series has culminated in the identification of
+heterocyclic bicyclic sulfonamides such as 3t (TACE IC(50): 0.57 nM; blood
+IC(50): 0.28 microM).
+
+DOI: 10.1021/jm990377j 
+PMID: 10579851  [Indexed for MEDLINE]
+

@@ -1,0 +1,72 @@
+
+
+2467. FASEB J. 2006 Dec;20(14):2582-4. Epub 2006 Oct 26.
+
+An unusual mode of concerted evolution of the EGF-TM7 receptor chimera EMR2.
+
+Kwakkenbos MJ(1), Matmati M, Madsen O, Pouwels W, Wang Y, Bontrop RE, Heidt PJ,
+Hoek RM, Hamann J.
+
+Author information: 
+(1)Department of Experimental Immunology, Academic Medical Center, University of 
+Amsterdam, P.O. Box 22700, 1100 DE Amsterdam, The Netherlands.
+
+The epidermal growth factor (EGF)-TM7 receptors CD97, EMR1, EMR2, EMR3, and EMR4 
+form a group of adhesion class heptahelical molecules predominantly expressed by 
+cells of the immune system. These receptors bind cellular ligands through
+EGF-like domains, localized N-terminal to a large extracellular region.
+Remarkably, EMR2 possesses a chimeric structure with a seven-span transmembrane
+(TM7) region most related to EMR3 and an EGF domain region nearly identical to
+CD97. By comparing EGF-TM7 receptors in primates and dogs, we identified an
+intriguing pattern of concerted evolution, apparently mediated by gene
+conversion, among EMR2 and the oppositely orientated and physically adjacent
+genes CD97 and EMR3. This concerted evolution has continuously maintained the
+chimeric structure of EMR2 since early mammal radiation. Most highly conserved
+between EMR2 and CD97 is the fourth EGF domain, which mediates binding to
+chondroitin sulfate, a ligand specificity shared by both receptors. Another
+ligand, CD55, is bound effectively only by CD97. We show that different molecular
+mechanisms (mutations vs. alternative splicing) prevent CD55 binding by EMR2 in
+hominoids. Our findings illustrate how various and partially opposing
+evolutionary events have shaped the structure and ligand specificity of a modern 
+mammalian gene family.
+
+DOI: 10.1096/fj.06-6500fje 
+PMID: 17068111  [Indexed for MEDLINE]
+
+
+2468. J Neurosci. 2006 Oct 25;26(43):11148-61.
+
+Specificity of M and L cone inputs to receptive fields in the parvocellular
+pathway: random wiring with functional bias.
+
+Buzás P(1), Blessing EM, Szmajda BA, Martin PR.
+
+Author information: 
+(1)National Vision Research Institute of Australia, Carlton, Victoria 3053,
+Australia.
+
+Many of the parvocellular pathway (PC) cells in primates show red-green spectral 
+selectivity (cone opponency), but PC ganglion cells in the retina show no
+anatomical signs of cone selectivity. Here we asked whether responses of PC cells
+are compatible with "random wiring" of cone inputs. We measured
+long-wavelength-sensitive (L) and medium-wavelength-sensitive (M) cone inputs to 
+PC receptive fields in the dorsal lateral geniculate of marmosets, using discrete
+stimuli (apertures and annuli) to achieve functional segregation of center and
+surround. Receptive fields between the fovea and 30 degrees eccentricity were
+measured. We show that, in opponent PC cells, the center is dominated by one (L
+or M) cone type, with normally <20% contribution from the other cone type (high
+"cone purity"), whereas non-opponent cells have mixed L and M cone inputs to the 
+receptive field center. Furthermore, opponent response strength depends on the
+overall segregation of L and M cone inputs to center and surround rather than
+exclusive input from one cone type to either region. These data are consistent
+with random wiring. The majority of PC cells in both foveal (<8 degrees) and
+peripheral retina nevertheless show opponent responses. This arises because cone 
+purity in the receptive field surround is at least as high as in the center, and 
+the surround in nearly all opponent PC cells is dominated by the opposite cone
+type to that which dominates the center. These functional biases increase the
+proportion of opponent PC cells, but their anatomical basis is unclear.
+
+DOI: 10.1523/JNEUROSCI.3237-06.2006 
+PMCID: PMC6674646
+PMID: 17065455  [Indexed for MEDLINE]
+

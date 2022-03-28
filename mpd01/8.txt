@@ -1,0 +1,110 @@
+
+
+8. Lab Anim Res. 2022 Feb 28;38(1):6. doi: 10.1186/s42826-022-00115-6.
+
+Diagnosis and treatment of macrocytic anemia in a perinatal common marmoset: a
+case report.
+
+Kim JM(1)(2)(3)(4), Kwak J(4)(5), Lim HJ(4)(5), Kim JI(4)(5), Kang
+BC(6)(7)(8)(9).
+
+Author information: 
+(1)Xenotransplantation Research Center, Seoul National University College of
+Medicine, Seoul, Korea.
+(2)Institute of Endemic Diseases, Seoul National University College of Medicine, 
+Seoul, Korea.
+(3)Cancer Research Institute, Seoul National University College of Medicine,
+Seoul, Korea.
+(4)Department of Experimental Animal Research, Biomedical Research Institute,
+Seoul National University Hospital, Seoul, 110-799, Korea.
+(5)Graduate School of Translational Medicine, Seoul National University College
+of Medicine, 101 Daehakro, Jongno-gu, Seoul, 03080, Korea.
+(6)Department of Experimental Animal Research, Biomedical Research Institute,
+Seoul National University Hospital, Seoul, 110-799, Korea. bckang@snu.ac.kr.
+(7)Graduate School of Translational Medicine, Seoul National University College
+of Medicine, 101 Daehakro, Jongno-gu, Seoul, 03080, Korea. bckang@snu.ac.kr.
+(8)Biomedical Center for Animal Resource and Development, Seoul National
+University College of Medicine, Seoul, Korea. bckang@snu.ac.kr.
+(9)Designed Animal and Transplantation Research Institute, Institute of Green Bio
+Science Technology, Seoul National University, Pyeongchang-gun, Gangwon-do,
+Korea. bckang@snu.ac.kr.
+
+BACKGROUND: The common marmoset is widely used in current biomedical research for
+various research fields. We observed macrocytic anemia in a perinatal common
+marmoset with gradual weight loss and diarrhea. The objective of this case report
+is to describe the diagnosis and treatment of macrocytic anemia in a perinatal
+common marmoset.
+CASE PRESENTATION: A 7-year-old female common marmoset showed clinical signs of
+gradual weight loss and intermittent diarrhea beginning 3 months after giving
+birth. Macrocytic anemia was diagnosed due to a decreased red blood cell (RBC)
+count, low hemoglobin level, and increased mean corpuscular volume (MCV).
+Multivitamins containing cobalamin and folate were administered for 7 days, and
+the patient's RBC count recovered to near the normal range with this treatment.
+CONCLUSIONS: Macrocytic anemia can be diagnosed by evaluating the MCV on a
+complete blood count (CBC) and cobalamin or folate levels and be treated by
+supplementation with cobalamin and folate. Such supplements may be needed during 
+pregnancy and lactation in female common marmosets and/or in animals with chronic
+diarrhea.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s42826-022-00115-6 
+PMCID: PMC8883691
+PMID: 35227328 
+
+
+9. Neuroimage. 2022 Feb 22;252:119030. doi: 10.1016/j.neuroimage.2022.119030. [Epub 
+ahead of print]
+
+An open access resource for functional brain connectivity from fully awake
+marmosets.
+
+Schaeffer DJ(1), Klassen LM(2), Hori Y(2), Tian X(3), Szczupak D(3), Yen CC(4),
+Cléry JC(2), Gilbert KM(2), Gati JS(2), Menon RS(5), Liu C(6), Everling S(5),
+Silva AC(3).
+
+Author information: 
+(1)Department of Neurobiology, University of Pittsburgh, Pittsburgh, PA 15261,
+United States. Electronic address: dschaeff@pitt.edu.
+(2)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, ON, Canada.
+(3)Department of Neurobiology, University of Pittsburgh, Pittsburgh, PA 15261,
+United States.
+(4)National Institute of Neurological Disorders and Stroke, National Institutes
+of Health, Bethesda, MD, United States.
+(5)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, ON, Canada; Department of Physiology and
+Pharmacology, University of Western Ontario, London, Ontario, Canada.
+(6)Institute of Neuroscience, Center for Excellence in Brain Science and
+Intelligence Technology, Chinese Academy of Sciences, Shanghai 200031, China.
+
+The common marmoset (Callithrix jacchus) is quickly gaining traction as a premier
+neuroscientific model. However, considerable progress is still needed in
+understanding the functional and structural organization of the marmoset brain to
+rival that documented in longstanding preclinical model species, like mice, rats,
+and Old World primates. To accelerate such progress, we present the Marmoset
+Functional Brain Connectivity Resource (marmosetbrainconnectome.org), currently
+consisting of over 70 h of resting-state fMRI (RS-fMRI) data acquired at 500 µm
+isotropic resolution from 31 fully awake marmosets in a common stereotactic
+space. Three-dimensional functional connectivity (FC) maps for every cortical and
+subcortical gray matter voxel are stored online. Users can instantaneously view, 
+manipulate, and download any whole-brain functional connectivity (FC) topology
+(at the subject- or group-level) along with the raw datasets and preprocessing
+code. Importantly, researchers can use this resource to test hypotheses about FC 
+directly - with no additional analyses required - yielding whole-brain
+correlations for any gray matter voxel on demand. We demonstrate the resource's
+utility for presurgical planning and comparison with tracer-based neuronal
+connectivity as proof of concept. Complementing existing structural connectivity 
+resources for the marmoset brain, the Marmoset Functional Brain Connectivity
+Resource affords users the distinct advantage of exploring the connectivity of
+any voxel in the marmoset brain, not limited to injection sites nor constrained
+by regional atlases. With the entire raw database (RS-fMRI and structural images)
+and preprocessing code openly available for download and use, we expect this
+resource to be broadly valuable to test novel hypotheses about the functional
+organization of the marmoset brain.
+
+Copyright © 2022. Published by Elsevier Inc.
+
+DOI: 10.1016/j.neuroimage.2022.119030 
+PMID: 35217206 
+

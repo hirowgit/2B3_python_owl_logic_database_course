@@ -1,0 +1,36 @@
+
+
+3325. Biol Reprod. 2000 May;62(5):1344-51.
+
+Cloning and expression analysis of testis-specific cyclic 3', 5'-adenosine
+monophosphate-responsive element modulator activators in the nonhuman primate
+(Macaca fascicularis): comparison with other primate and rodent species.
+
+Behr R(1), Hunt N, Ivell R, Wessels J, Weinbauer GF.
+
+Author information: 
+(1)Institute of Reproductive Medicine of the University, D-48129 Münster,
+Germany.
+
+The cAMP-responsive element modulator (CREM) gene encodes a transcription factor 
+that is essential for spermatogenesis. In mouse testis, several CREM repressors
+and activators have been identified. In contrast to the situation for the mouse, 
+however, little is known about CREM isoforms in the primate testis. We analyzed
+CREM isoforms and mRNA expression in a clinically relevant primate model, the
+cynomolgus monkey (Macaca fascicularis). A cDNA library was generated from monkey
+testis; and two activator isoforms (tau2 with and without exon gamma) were
+identified, which displayed high sequence identity to mouse and human isoforms.
+The insertion of exon gamma was observed for the first time in the primate
+testis. CREM activator expression was confined to the testis, where it was seen
+in late pachytene spermatocytes and round spermatids in specific spermatogenic
+stages, as revealed by in situ hybridization. Comparison of the mRNA and the
+recently described protein expression indicated a lack of translational delay of 
+CREM expression. Comparative analysis of testicular CREM expression by reverse
+transcription-polymerase chain reaction yielded several transcripts in the rat,
+mouse, hamster, and marmoset; two transcripts in cynomolgus and rhesus monkeys;
+and one transcript in men. These findings suggest an evolutionary trend from
+multiple activator isoforms to a single activator transcript in men.
+
+DOI: 10.1095/biolreprod62.5.1344 
+PMID: 10775186  [Indexed for MEDLINE]
+

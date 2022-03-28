@@ -1,0 +1,74 @@
+
+
+1607. Cell Immunol. 2012 Dec;280(2):132-7. doi: 10.1016/j.cellimm.2012.12.002. Epub
+2012 Dec 19.
+
+An assessment of common marmoset (Callithrix jacchus) γ9(+) T cells and their
+response to phosphoantigen in vitro.
+
+Rowland CA(1), Laws TR, Oyston PC.
+
+Author information: 
+(1)Biomedical Sciences, Dstl Porton Down, Salisbury SP4 0JQ, UK.
+carowland@dstl.gov.uk
+
+γ9δ2 T cells are a primate-specific γδ T cell subtype that expand and become
+activated during infection, responding directly to phosphoantigens which are
+by-products of essential metabolic pathways in both bacteria and mammals.
+Analogues of natural phosphoantigens have been developed as potential
+immunotherapeutics for treatment of tumours and infectious diseases. Several
+non-human primate models have been used in preclinical studies, however, little
+is known about marmoset γ9δ2 T cell responses. We identified γ9(+) T cells in
+various tissues in the marmoset and determined that these cells respond to
+phosphoantigen in a similar manner to human γ9δ2 T cells in vitro. Both human
+γ9δ2 T cells and marmoset γ9(+) T cells were able to reduce growth of the
+intracellular bacterium Burkholderia pseudomallei in vitro following expansion
+with phosphoantigen. This suggests that the marmoset is an appropriate model for 
+examining the immunotherapeutic potential of compounds which target γ9δ2 T cells.
+
+Crown Copyright © 2013. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cellimm.2012.12.002 
+PMID: 23399838  [Indexed for MEDLINE]
+
+
+1608. Biochem Pharmacol. 2013 Apr 15;85(8):1182-94. doi: 10.1016/j.bcp.2013.01.024.
+Epub 2013 Feb 5.
+
+Characterization of marmoset CYP2B6: cDNA cloning, protein expression and
+enzymatic functions.
+
+Mayumi K(1), Hanioka N, Masuda K, Koeda A, Naito S, Miyata A, Narimatsu S.
+
+Author information: 
+(1)Laboratory of Health Chemistry, Graduate School of Medicine, Dentistry and
+Pharmaceutical Sciences, Okayama University, Okayama, Japan.
+
+The common marmoset is a promising species for evaluating the safety of drug
+candidates. To further understand the capacity for drug metabolism in marmosets, 
+a cDNA encoding a CYP2B enzyme was cloned from the total RNA fraction of marmoset
+liver by 3'- and 5'-RACE methods. Nucleotide and deduced amino acid sequences
+showed 90.8 and 86.2% identity, respectively, with human CYP2B6. The marmoset
+CYP2B6 (marCYP2B6) protein was expressed in insect cells, and its enzymatic
+properties were compared with those of human (humCYP2B6) and cynomolgus monkey
+(cynCYP2B6) orthologs in liver and insect cell microsomes. Enzymatic functions
+were examined for the oxidation of 7-ethoxy-4-(trifluoromethyl)coumarin (7-ETC), 
+bupropion (BUP) and efavirenz (EFV). The kinetic profiles for the oxidation of
+the three substrates by liver microsomal fractions were similar between humans
+and cynomolgus monkeys (biphasic for 7-ETC and monophasic for BUP and EFV), but
+that of marmosets was unique (monophasic for 7-ETC and biphasic for BUP and EFV).
+Recombinant enzymes, humCYP2B6 and cynCYP2B6, also yielded similar kinetic
+profiles for the oxidation of the three substrates, whereas marCYP2B6 showed
+activity only for 7-ETC hydroxylation. In silico docking simulations suggested
+that two amino acid residues, Val-114 and Leu-367, affect the activity of
+marCYP2B6. In fact, a marCYP2B6 mutant with substitutions V114I and L367V
+exhibited BUP hydroxylase activity that was 4-fold higher than that of humCYP2B6,
+while its EFV 8-hydroxylase activity was only 10% that of the human enzyme. These
+results indicate that the amino acids at positions 114 and 367 affect the
+enzymatic capacity of marmoset CYP2B6.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2013.01.024 
+PMID: 23395694  [Indexed for MEDLINE]
+

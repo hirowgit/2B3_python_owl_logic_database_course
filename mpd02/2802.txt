@@ -1,0 +1,36 @@
+
+
+2802. Exp Neurol. 2004 Aug;188(2):471-9.
+
+The NR2B-selective NMDA receptor antagonist CP-101,606 exacerbates L-DOPA-induced
+dyskinesia and provides mild potentiation of anti-parkinsonian effects of L-DOPA 
+in the MPTP-lesioned marmoset model of Parkinson's disease.
+
+Nash JE(1), Ravenscroft P, McGuire S, Crossman AR, Menniti FS, Brotchie JM.
+
+Author information: 
+(1)Toronto Western Research Institute, ON, M5T 2S8 Canada.
+jnash@uhnres.utoronto.ca
+
+In Parkinson's disease (PD), degeneration of the dopaminergic nigrostriatal
+pathway leads to enhanced transmission at NMDA receptors containing NR2B
+subunits. Previous studies have shown that some, but not all, NR2B-containing
+NMDA receptor antagonists alleviate parkinsonian symptoms in animal models of PD.
+Furthermore, enhanced NMDA receptor-mediated transmission underlies the
+generation of L-DOPA-induced dyskinesia (LID). The subunit content of NMDA
+receptors responsible for LID is not clear. Here, we assess the actions of the
+NMDA antagonist CP-101,606 in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(MPTP)-lesioned marmoset model of Parkinson's disease. CP-101,606 is selective
+for NMDA receptors containing NR2B subunits, with higher affinity for NR1/NR2B
+complexes compared to ternary NR1/NR2A/NR2B complexes. CP-101,606 had no
+significant effect on parkinsonian symptoms when administered as monotherapy over
+a range of doses (0.1-10 mg/kg). CP-101,606 provided a modest potentiation of the
+anti-parkinsonian actions of L-DOPA (8 mg/kg), although, at doses of 1 and 3
+mg/kg, CP-101,606 exacerbated LID. Results of this study provide further evidence
+of differences in the anti-parkinsonian activity and effects on LID of the NR2B
+subunit selective NMDA receptor antagonists. These distinctions may reflect
+disparities in action on NR1/NR2B as opposed to NR1/NR2A/NR2B receptors.
+
+DOI: 10.1016/j.expneurol.2004.05.004 
+PMID: 15246846  [Indexed for MEDLINE]
+

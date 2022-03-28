@@ -1,0 +1,91 @@
+
+
+1090. Primates. 2016 Apr;57(2):279-87. doi: 10.1007/s10329-016-0520-8. Epub 2016 Feb
+27.
+
+Clinical, hematological, biochemical, and ultrasonographic aspects of
+Platynosomum sp. (Trematoda: Dicrocoeliidae) infection of captive Callithrix
+penicillata.
+
+Mattioli MP(1), Batista Jdos S(1), Ferrari M(2), Paludo GR(3), Dias CA(4), Hoppe 
+EG(5), da Rocha GC(3), Monteiro RV(6)(7).
+
+Author information: 
+(1)Hospital Veterinário, Faculdade de Agronomia e Medicina Veterinária,
+Universidade de Brasília, Brasília, DF, Brazil.
+(2)Serviço de Ultrassonografia, Hospital Veterinário, Faculdade de Agronomia e
+Medicina Veterinária, Universidade de Brasília, Brasília, DF, Brazil.
+(3)Faculdade de Agronomia e Medicina Veterinária, Universidade de Brasília,
+Brasília, DF, Brazil.
+(4)Centro de Primatologia, Universidade de Brasília, Brasília, DF, Brazil.
+(5)Faculdade de Medicina Veterinária, UNESP Jaboticabal, Jaboticabal, SP, Brazil.
+(6)Faculdade de Agronomia e Medicina Veterinária, Universidade de Brasília,
+Brasília, DF, Brazil. rvmonteiro@unb.br.
+(7)Hospital Veterinário, Faculdade de Agronomia e Medicina Veterinária,
+Universidade de Brasília, Av. L4 Norte/Asa Norte, Brasília, DF, 70910-900,
+Brazil. rvmonteiro@unb.br.
+
+Trematodes from the genus Platynosomum have been found to infect Neotropical
+primates in captivity, but little is known about their pathogeny in such hosts.
+This study evaluated the physiological effects of natural infection by the
+liver-dwelling trematode Platynosomum sp. in ten males and ten females of
+Callithrix penicillata kept in captivity at the Primate Center of the University 
+of Brasília. The marmosets were examined twice, 6 months apart. The following
+parameters were analyzed: complete blood count, bleeding time, serum total
+protein, albumin, and the liver enzymes AST and ALT, and both a stool analysis
+and a liver ultrasonic evaluation were performed. We were able to characterize a 
+group of abnormalities associated with this trematode infection which were mainly
+derived from the hepatitis caused by it: coagulation disorders, abnormal red
+blood cells, hypoalbuminemia, and abnormal levels of liver-linked serum enzymes. 
+Eosinophilia and thrombocytopenia were also commonly seen. All of the
+aforementioned abnormalities were in good accord with typical effects of
+trematodes on liver parenchyma. We suggest that this set of abnormalities is
+characteristic of the infection of C. penicillata with Platynosomum sp., and
+should be among the most prominent aspects that the veterinary surgeon considers 
+when suspecting such an infection. We also suggest that these clinical signs and 
+abnormalities will be similar in other liver-dwelling trematode-infected primate 
+species.
+
+DOI: 10.1007/s10329-016-0520-8 
+PMID: 26922567  [Indexed for MEDLINE]
+
+
+1091. Genome Res. 2016 May;26(5):649-59. doi: 10.1101/gr.199075.115. Epub 2016 Feb 25.
+
+Discovery of a new repeat family in the Callithrix jacchus genome.
+
+Konkel MK(1), Ullmer B(2), Arceneaux EL(1), Sanampudi S(1), Brantley SA(1),
+Hubley R(3), Smit AF(3), Batzer MA(1).
+
+Author information: 
+(1)Department of Biological Sciences, Louisiana State University, Baton Rouge,
+Louisiana 70803, USA;
+(2)School of Electrical Engineering and Computer Science, Center for Computation 
+and Technology, Louisiana State University, Baton Rouge, Louisiana 70803, USA;
+(3)Institute for Systems Biology, Seattle, Washington 98109-5263, USA.
+
+We identified a novel repeat family, termed Platy-1, in the Callithrix jacchus
+(common marmoset) genome that arose around the time of the divergence of
+platyrrhines and catarrhines and established itself as a repeat family in New
+World monkeys (NWMs). A full-length Platy-1 element is ∼100 bp in length, making 
+it the shortest known short interspersed element (SINE) in primates, and harbors 
+features characteristic of non-LTR retrotransposons. We identified 2268
+full-length Platy-1 elements across 62 subfamilies in the common marmoset genome.
+Our subfamily reconstruction and phylogenetic analyses support Platy-1
+propagation throughout the evolution of NWMs in the lineage leading to C. jacchus
+Platy-1 appears to have reached its amplification peak in the common ancestor of 
+current day marmosets and has since moderately declined. However, identification 
+of more than 200 Platy-1 elements identical to their respective consensus
+sequence, and the presence of polymorphic elements within common marmoset
+populations, suggests ongoing retrotransposition activity. Platy-1, a SINE,
+appears to have originated from an Alu element, and hence is likely derived from 
+7SL RNA. Our analyses illustrate the birth of a new repeat family and its
+propagation dynamics in the lineage leading to the common marmoset over the last 
+40 million years.
+
+© 2016 Konkel et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/gr.199075.115 
+PMCID: PMC4864456
+PMID: 26916108  [Indexed for MEDLINE]
+

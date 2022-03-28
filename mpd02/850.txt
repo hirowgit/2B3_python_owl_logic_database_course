@@ -1,0 +1,57 @@
+
+
+850. Sci Transl Med. 2017 Jun 28;9(396). pii: eaal3653. doi:
+10.1126/scitranslmed.aal3653.
+
+Broad-spectrum antiviral GS-5734 inhibits both epidemic and zoonotic
+coronaviruses.
+
+Sheahan TP(1), Sims AC(1), Graham RL(1), Menachery VD(1), Gralinski LE(1), Case
+JB(2), Leist SR(1), Pyrc K(3), Feng JY(4), Trantcheva I(4), Bannister R(4), Park 
+Y(4), Babusis D(4), Clarke MO(4), Mackman RL(4), Spahn JE(4), Palmiotti CA(4),
+Siegel D(4), Ray AS(4), Cihlar T(4), Jordan R(4), Denison MR(5), Baric RS(6).
+
+Author information: 
+(1)Department of Epidemiology, University of North Carolina at Chapel Hill,
+Chapel Hill, NC 27599, USA.
+(2)Department of Pathology, Microbiology, and Immunology, Vanderbilt University
+Medical Center, Nashville, TN 37232, USA.
+(3)Department of Microbiology, Faculty of Biochemistry, Biophysics, and
+Biotechnology, Jagiellonian University, Krakow, Poland.
+(4)Gilead Sciences Inc., Foster City, CA 94404, USA.
+(5)Division of Infectious Diseases, Department of Pediatrics and Department of
+Pathology, Microbiology, and Immunology, Vanderbilt University Medical Center,
+Nashville, TN 37232, USA. mark.denison@vanderbilt.edu rbaric@email.unc.edu.
+(6)Department of Epidemiology, University of North Carolina at Chapel Hill,
+Chapel Hill, NC 27599, USA. mark.denison@vanderbilt.edu rbaric@email.unc.edu.
+
+Emerging viral infections are difficult to control because heterogeneous members 
+periodically cycle in and out of humans and zoonotic hosts, complicating the
+development of specific antiviral therapies and vaccines. Coronaviruses (CoVs)
+have a proclivity to spread rapidly into new host species causing severe disease.
+Severe acute respiratory syndrome CoV (SARS-CoV) and Middle East respiratory
+syndrome CoV (MERS-CoV) successively emerged, causing severe epidemic respiratory
+disease in immunologically naïve human populations throughout the globe.
+Broad-spectrum therapies capable of inhibiting CoV infections would address an
+immediate unmet medical need and could be invaluable in the treatment of emerging
+and endemic CoV infections. We show that a nucleotide prodrug, GS-5734, currently
+in clinical development for treatment of Ebola virus disease, can inhibit
+SARS-CoV and MERS-CoV replication in multiple in vitro systems, including primary
+human airway epithelial cell cultures with submicromolar IC50 values. GS-5734 was
+also effective against bat CoVs, prepandemic bat CoVs, and circulating
+contemporary human CoV in primary human lung cells, thus demonstrating
+broad-spectrum anti-CoV activity. In a mouse model of SARS-CoV pathogenesis,
+prophylactic and early therapeutic administration of GS-5734 significantly
+reduced lung viral load and improved clinical signs of disease as well as
+respiratory function. These data provide substantive evidence that GS-5734 may
+prove effective against endemic MERS-CoV in the Middle East, circulating human
+CoV, and, possibly most importantly, emerging CoV of the future.
+
+Copyright © 2017 The Authors, some rights reserved; exclusive licensee American
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.
+
+DOI: 10.1126/scitranslmed.aal3653 
+PMCID: PMC5567817
+PMID: 28659436  [Indexed for MEDLINE]
+

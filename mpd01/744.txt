@@ -1,0 +1,95 @@
+
+
+744. Phytother Res. 2018 Apr;32(4):678-687. doi: 10.1002/ptr.6017. Epub 2018 Jan 24.
+
+The effect of Banisteriopsis caapi (B. caapi) on the motor deficits in the
+MPTP-treated common marmoset model of Parkinson's disease.
+
+Fisher R(1), Lincoln L(1), Jackson MJ(1), Abbate V(1), Jenner P(1), Hider R(1),
+Lees A(2), Rose S(1).
+
+Author information: 
+(1)Neurodegenerative Diseases Research Group, School of Cancer and Pharmaceutical
+Sciences, Faculty of Life Science and Medicine, King's College London, London,
+SE1 1UL.
+(2)Reta Lila Weston Institute, University College London, London, WC1N 1PG, UK.
+
+Banisteriopsis caapi (B. caapi) contains harmine, harmaline, and
+tetrahydroharmine, has monoamine oxidase inhibitory activity, and has reported
+antiparkinsonian activity in humans when imbibed as a tea; however, its effects
+are poorly documented. For this reason, motor function was assessed in
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-treated common marmosets following
+administration of B. caapi extract (28.4-113.6 mg/kg; po), harmine (0.1 and
+0.3 mg/kg; sc), and selegiline (10 mg/kg; sc), alone or with a submaximal dose of
+L-3,4-dihydroxyphenylalanine (L-DOPA; 4-7 mg/kg). L-DOPA reversed motor
+disability, increased locomotor activity, and induced moderate dyskinesia.
+B. caapi did not increase locomotor activity or induce dyskinesia but at 56.8 and
+113.6 mg/kg improved motor disability. The L-DOPA response was unaltered by
+co-administration of B. caapi. Harmine (0.1 and 0.3 mg/kg) produced a mild
+improvement in motor disability without affecting locomotor activity or
+dyskinesia but had no effect on the L-DOPA-induced antiparkinsonian response.
+Selegiline (10 mg/kg) alone improved motor function to the same extent as L-DOPA,
+but with only mild dyskinesia, and did not alter the response to L-DOPA, although
+dyskinesia was reduced. The findings suggest that B. caapi alone has a mild
+antiparkinsonian effect but does not enhance the L-DOPA response or reduce
+dyskinesia.
+
+Copyright © 2018 The Authors Phytotherapy Research Published by John Wiley & Sons
+Ltd.
+
+DOI: 10.1002/ptr.6017 
+PMID: 29368409  [Indexed for MEDLINE]
+
+
+745. J Neurophysiol. 2018 May 1;119(5):1636-1646. doi: 10.1152/jn.00866.2017. Epub
+2018 Jan 24.
+
+Methods for chair restraint and training of the common marmoset on oculomotor
+tasks.
+
+Johnston KD(1)(2), Barker K(3), Schaeffer L(4), Schaeffer D(4), Everling
+S(1)(2)(4).
+
+Author information: 
+(1)Department of Physiology and Pharmacology, Schulich School of Medicine and
+Dentistry, University of Western Ontario , London, Ontario , Canada.
+(2)Brain and Mind Institute, University of Western Ontario , London, Ontario ,
+Canada.
+(3)Neuronitek, London, Ontario , Canada.
+(4)Robarts Research Institute , London, Ontario , Canada.
+
+The oculomotor system is the most thoroughly understood sensorimotor system in
+the brain, due in large part to electrophysiological studies carried out in
+macaque monkeys trained to perform oculomotor tasks. A disadvantage of the
+macaque model is that many cortical oculomotor areas of interest lie within
+sulci, making high-density array and laminar recordings impractical. Many
+techniques of molecular biology developed in rodents, such as optogenetic
+manipulation of neuronal subtypes, are also limited in this species. The common
+marmoset ( Callithrix jacchus) possesses a smooth cortex, allowing easy access to
+frontoparietal oculomotor areas, and may bridge the gap between systems
+neuroscience in macaques and molecular techniques. Techniques for restraint,
+training, and neural recording in these animals have been well developed in
+auditory neuroscience. Those for oculomotor neuroscience, however, remain at a
+relatively early stage. In this article we provide details of a custom-designed
+restraint chair for marmosets, a combination head restraint/recording chamber
+allowing access to cortical oculomotor areas and providing stability suitable for
+eye movement and neural recordings, as well as a training protocol for oculomotor
+tasks. We additionally report the results of a psychophysical study in marmosets 
+trained to perform a saccade task using these methods, showing that, as in rhesus
+and humans, marmosets exhibit a "gap effect," a decrease in reaction time when
+the fixation stimulus is removed before the onset of a visual saccade target.
+These results are the first evidence of this effect in marmosets and support the 
+common marmoset model for neurophysiological investigations of oculomotor
+control. NEW & NOTEWORTHY The ability to carry out neuronal recordings in
+behaving primates has provided a wealth of information regarding the neural
+circuits underlying the control of eye movements. Such studies require restraint 
+of the animal within a primate chair, head fixation, methods of acclimating the
+animals to this restraint, and the use of operant conditioning methods for
+training on oculomotor tasks. In contrast to the macaque model, relatively few
+studies have reported in detail methods for use in the common marmoset. In this
+report we detail custom-designed equipment and methods by which we have used to
+successfully train head-restrained marmosets to perform basic oculomotor tasks.
+
+DOI: 10.1152/jn.00866.2017 
+PMID: 29364068  [Indexed for MEDLINE]
+

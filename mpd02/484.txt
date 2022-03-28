@@ -1,0 +1,45 @@
+
+
+484. Cereb Cortex. 2020 Mar 21;30(2):451-464. doi: 10.1093/cercor/bhz096.
+
+Altered Sensitivity to Motion of Area MT Neurons Following Long-Term V1 Lesions.
+
+Hagan MA(1)(2)(3), Chaplin TA(1)(2)(3)(4), Huxlin KR(5), Rosa MGP(1)(2)(3), Lui
+LL(1)(2)(3).
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, VIC 3800, Australia.
+(2)Neuroscience Program, Biomedicine Discovery Institute, Monash University,
+Clayton, VIC 3800, Australia.
+(3)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, VIC 3800, Australia.
+(4)Sainsbury Wellcome Centre for Neural Circuits and Behaviour, University
+College London, 25 Howland Street, London W1T 4JG, United Kingdom.
+(5)Flaum Eye Institute, University of Rochester, Rochester, NY 14642, USA.
+
+Primates with primary visual cortex (V1) damage often retain residual motion
+sensitivity, which is hypothesized to be mediated by middle temporal area (MT).
+MT neurons continue to respond to stimuli shortly after V1 lesions; however,
+experimental and clinical studies of lesion-induced plasticity have shown that
+lesion effects can take several months to stabilize. It is unknown what
+physiological changes occur in MT and whether neural responses persist long after
+V1 damage. We recorded neuronal responses in MT to moving dot patterns in adult
+marmoset monkeys 6-12 months after unilateral V1 lesions. In contrast to results 
+obtained shortly after V1 lesions, we found that fewer MT neurons were direction 
+selective, including neurons expected to still receive projections from remaining
+parts of V1. The firing rates of most cells increased with increases in motion
+strength, regardless of stimulus direction. Furthermore, firing rates were higher
+and more variable than in control MT cells. To test whether these observations
+could be mechanistically explained by underlying changes in neural circuitry, we 
+created a network model of MT. We found that a local imbalance of inhibition and 
+excitation explained the observed firing rate changes. These results provide the 
+first insights into functional implications of long-term plasticity in MT
+following V1 lesions.
+
+© The Author(s) 2019. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhz096 
+PMCID: PMC7444738
+PMID: 31211357  [Indexed for MEDLINE]
+

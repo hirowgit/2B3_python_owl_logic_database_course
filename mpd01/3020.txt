@@ -1,0 +1,58 @@
+
+
+3020. Neuron. 2002 Sep 26;36(1):139-42.
+
+Predicting functional properties of visual cortex from an evolutionary scaling
+law.
+
+Stevens CF(1).
+
+Author information: 
+(1)Howard Hughes Medical Institute, Molecular Neurobiology Laboratory, The Salk
+Institute, La Jolla, CA 92037, USA. stevens@salk.edu
+
+The number of neurons in the primary visual cortex (V1) is, across primate
+species, related to the number of neurons in the visual thalamus (the lateral
+geniculate nucleus [LGN]) by a power law with an exponent of 3/2. This
+evolutionary scaling law is explained by a simple relation according to which the
+fineness of resolution in cortex is related to the number of neurons in the area 
+of cortex used to process the information from a single point of light (the
+point-spread area). The same theory provides a link between two functional
+properties of the visual cortex, the areal cortical magnification factor (ACMF)
+and the receptive field (RF) area.
+
+DOI: 10.1016/s0896-6273(02)00902-9 
+PMID: 12367512  [Indexed for MEDLINE]
+
+
+3021. Histochem J. 2002 Jan-Feb;34(1-2):79-84.
+
+Distribution of binding sites for the plant lectin Ulex europaeus agglutinin I on
+primary sensory neurones in seven different mammalian species.
+
+Gerke MB(1), Plenderleith MB.
+
+Author information: 
+(1)Neuroscience Laboratory, School of Life Sciences, Queensland University of
+Technology, Brisbane, Australia.
+
+There is an increasing body of evidence to suggest that different functional
+classes of neurones express characteristic cell-surface carbohydrates. Previous
+studies have shown that the plant lectin Ulex europaeus agglutinin-I (UEA) binds 
+to a population of small to medium diameter primary sensory neurones in rabbits
+and humans. This suggests that a fucose-containing glycoconjugate may be
+expressed by nociceptive primary sensory neurones. In order to determine the
+extent to which this glycoconjugate is expressed by other species, in the current
+study, we have examined the distribution of UEA-binding sites on primary sensory 
+neurones in seven different mammals. Binding sites for UEA were associated with
+the plasma membrane and cytoplasmic granules of small to medium dorsal root
+ganglion cells and their axon terminals in laminae I-III of the grey matter of
+the spinal cord, in the rabbit, cat and marmoset monkey. However, no binding was 
+observed in either the dorsal root ganglia or spinal cord in the mouse, rat,
+guinea pig or flying fox. These results indicate an inter-species variation in
+the expression of cell-surface glycoconjugates on mammalian primary sensory
+neurones.
+
+DOI: 10.1023/a:1021356211439 
+PMID: 12365803  [Indexed for MEDLINE]
+

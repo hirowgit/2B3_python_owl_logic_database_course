@@ -1,0 +1,55 @@
+
+
+329. Brain Struct Funct. 2020 May;225(4):1313-1326. doi: 10.1007/s00429-020-02060-3.
+Epub 2020 Apr 6.
+
+Spatial organization of occipital white matter tracts in the common marmoset.
+
+Kaneko T(1)(2), Takemura H(3)(4), Pestilli F(5), Silva AC(6), Ye FQ(7), Leopold
+DA(7)(8).
+
+Author information: 
+(1)RIKEN Center for Brain Science (CBS), 2-1 Hirosawa, Wako-shi, Saitama,
+351-0198, Japan. kaneko.takaaki.6w@kyoto-u.ac.jp.
+(2)Systems Neuroscience Section, Primate Research Institute, Kyoto University, 41
+Kanrin, Inuyamas-shi, Aichi, 484-8506, Japan. kaneko.takaaki.6w@kyoto-u.ac.jp.
+(3)Center for Information and Neural Networks (CiNet), National Institute of
+Information and Communications Technology, and Osaka University, 1-4 Yamadaoka,
+Suita-shi, Osaka, 565-0871, Japan. htakemur@nict.go.jp.
+(4)Graduate School of Frontier Biosciences, Osaka University, 1-4 Yamadaoka,
+Suita-shi, Osaka, 565-0871, Japan. htakemur@nict.go.jp.
+(5)Department of Psychological and Brain Sciences, Indiana University, 1101 E
+10th Street, Bloomington, IN, 47405, USA.
+(6)Department of Neurobiology, University of Pittsburgh Brain Institute,
+University of Pittsburgh, Pittsburgh, PA, 15261, USA.
+(7)Neurophysiology Imaging Facility, National Institute of Mental Health,
+National Institute of Neurological Disorders and Stroke, National Eye Institute, 
+National Institutes of Health, Bethesda, MD, USA.
+(8)Laboratory of Neuropsychology, National Institute of Mental Health, National
+Institutes of Health, Bethesda, MD, USA.
+
+The primate brain contains a large number of interconnected visual areas, whose
+spatial organization and intracortical projections show a high level of
+conservation across species. One fiber pathway of recent interest is the vertical
+occipital fasciculus (VOF), which is thought to support communication between
+dorsal and ventral visual areas in the occipital lobe. A recent comparative
+diffusion MRI (dMRI) study reported that the VOF in the macaque brain bears a
+similar topology to that of the human, running superficial and roughly
+perpendicular to the optic radiation. The present study reports a comparative
+investigation of the VOF in the common marmoset, a small New World monkey whose
+lissencephalic brain is approximately tenfold smaller than the macaque and
+150-fold smaller than the human. High-resolution ex vivo dMRI of two marmoset
+brains revealed an occipital white matter structure that closely resembles that
+of the larger primate species, with one notable difference. Namely, unlike in the
+macaque and the human, the VOF in the marmoset is spatially fused with other,
+more anterior vertical tracts, extending anteriorly between the parietal and
+temporal cortices. We compare several aspects of this continuous structure, which
+we term the VOF complex (VOF +), and neighboring fasciculi to those of macaques
+and humans. We hypothesize that the essential topology of the VOF+ is a conserved
+feature of the posterior cortex in anthropoid primates, with a clearer
+fragmentation into multiple named fasciculi in larger, more gyrified brains.
+
+DOI: 10.1007/s00429-020-02060-3 
+PMCID: PMC7577349
+PMID: 32253509  [Indexed for MEDLINE]
+

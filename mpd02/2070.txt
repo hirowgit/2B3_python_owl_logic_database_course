@@ -1,0 +1,36 @@
+
+
+2070. Methods Mol Biol. 2010;598:341-59. doi: 10.1007/978-1-60761-401-2_23.
+
+Immunotoxicity testing in nonhuman primates.
+
+Grote-Wessels S, Frings W, Smith CA, Weinbauer GF.
+
+Biological relevance is generally the major justification for using nonhuman
+primates (NHP) during preclinical safety assessment. This holds particularly true
+for the evaluation of biopharmaceuticals with NHP often being the species of
+choice. For safety assessment of small molecules, NHP are used in case of a
+higher degree of metabolic similarity, to detect the highly specific immunotoxic 
+side effects and to discriminate toxicity from efficacy of immunomodulatory
+drugs. Unlike for rodent immunotoxicity studies, standardized tests and protocols
+are generally less available for NHP. The immunotoxicity testing protocols
+described in the present chapter have been adapted for application to NHP
+samples. In principle, rodent protocols can be transferred to NHP. Fortunately,
+most of the immunotoxicity parameters delineated in the ICH S8 guideline can be
+applied to NHP specimens. Exceptions are the host resistance assay and the
+delayed type hypersensitivity test. Owing to the close structural and
+physiological similarity between NHP and human, human test kits or reagents are
+often well suited for application to NHP samples. For data evaluation it should
+be noted that no inbred strains of NHP are available, resulting in a large
+inter-animal variability for most immunotoxicity assay results. The experimental 
+protocols and reagents described in this chapter were developed specifically for 
+the cynomolgus monkey (Macaca fascicularis), currently the most commonly used NHP
+species in toxicology. In many instances, these protocols will also be applicable
+to rhesus monkeys (M. mulatta) and potentially to other Old World macaques. For
+the marmoset (Callithrix jacchus), a New World monkey also used in toxicology,
+the choice of available immunotoxicity testing protocols is much reduced when
+compared to macaques.
+
+DOI: 10.1007/978-1-60761-401-2_23 
+PMID: 19967524  [Indexed for MEDLINE]
+

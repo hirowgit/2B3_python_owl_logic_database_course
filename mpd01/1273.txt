@@ -1,0 +1,93 @@
+
+
+1273. Sci Rep. 2015 Mar 6;5:8878. doi: 10.1038/srep08878.
+
+Common marmosets show social plasticity and group-level similarity in
+personality.
+
+Koski SE(1), Burkart JM(1).
+
+Author information: 
+(1)Anthropological Institute and Museum, University of Zürich,
+Winterthurerstrasse 190, CH-8057 Zürich, Switzerland.
+
+The social environment influences animal personality on evolutionary and
+immediate time scales. However, studies of animal personality rarely assess the
+effects of the social environment, particularly in species that live in stable
+groups with individualized relationships. We assessed personality experimentally 
+in 17 individuals of the common marmoset, living in four groups. We found their
+personality to be considerably modified by the social environment. Marmosets
+exhibited relatively high plasticity in their behaviour, and showed
+'group-personality', i.e. group-level similarity in the personality traits. In
+exploratory behaviour this was maintained only in the social environment but not 
+when individuals were tested alone, suggesting that exploration tendency is
+subjected to social facilitation. Boldness, in contrast, showed higher
+consistency across the social and solitary conditions, and the group-level
+similarity in trait scores was sustained also outside of the immediate social
+environment. The 'group-personality' was not due to genetic relatedness,
+supporting that it was produced by social effects. We hypothesize that
+'group-personality' may be adaptive for highly cooperative animals through
+facilitating cooperation among individuals with similar behavioural tendency.
+
+DOI: 10.1038/srep08878 
+PMCID: PMC5155412
+PMID: 25743581  [Indexed for MEDLINE]
+
+
+1274. Drug Metab Dispos. 2015 May;43(5):735-42. doi: 10.1124/dmd.115.063594. Epub 2015 
+Mar 3.
+
+Activation and deactivation of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine by
+cytochrome P450 enzymes and flavin-containing monooxygenases in common marmosets 
+(Callithrix jacchus).
+
+Uehara S(1), Uno Y(1), Inoue T(1), Murayama N(1), Shimizu M(1), Sasaki E(1),
+Yamazaki H(2).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., N.M., M.S., H.Y.); Pharmacokinetics and 
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology, Central Institute for 
+Experimental Animals, Kawasaki, Kanagawa, Japan (T.I., E.S.); and Keio Advanced
+Research Center, Keio University, Minato-ku, Tokyo, Japan (E.S.).
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., N.M., M.S., H.Y.); Pharmacokinetics and 
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology, Central Institute for 
+Experimental Animals, Kawasaki, Kanagawa, Japan (T.I., E.S.); and Keio Advanced
+Research Center, Keio University, Minato-ku, Tokyo, Japan (E.S.)
+hyamazak@ac.shoyaku.ac.jp.
+
+The potential proneurotoxin 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)
+induces Parkinson-like syndromes in common marmosets, other primates, and humans.
+MPTP is metabolically activated to 1-methyl-4-phenyl-2,3-dihydropyridinium and
+1-methyl-4-phenylpyridinium ions (MPDP(+) and MPP(+), respectively) by
+desaturation reactions. MPTP is deactivated to
+4-phenyl-1,2,3,6-tetrahydropyridine (PTP) by N-demethylation and is also
+deactivated to MPTP N-oxide. The roles of cytochrome P450 (P450) enzymes and
+flavin-containing monooxygenases (FMOs) in the oxidative metabolism of
+MPTP-treated marmosets are not yet fully clarified. This study aimed to elucidate
+P450- and FMO-dependent MPTP metabolism in marmoset liver and brain. Rates of
+MPTP N-oxygenation in liver microsomes were similar to those in brain microsomes 
+from 11 individual marmosets (substrate concentration, 50 μM) and were correlated
+with rates of benzydamine N-oxygenation (r = 0.75, P < 0.05); the reactions were 
+inhibited by methimazole (10 μM). MPTP N-oxygenation was efficiently mediated by 
+recombinantly expressed marmoset FMO3. Rates of PTP formation by MPTP
+N-demethylation in marmoset liver microsomes were correlated with bufuralol
+1'-hydroxylation rates (r = 0.77, P < 0.01) and were suppressed by quinidine (1
+μM), thereby indicating the importance of marmoset CYP2D6 in PTP formation. MPTP 
+transformations to MPDP(+) and MPP(+) were efficiently catalyzed by recombinant
+marmoset CYP2D6 and human CYP1A2. These results indicated the contributions of
+multiple drug-metabolizing enzymes to MPTP oxidation, especially marmoset FMO3 in
+deactivation (N-oxygenation) and marmoset CYP2D6 for both MPTP deactivation and
+MPTP activation to MPDP(+) and MPP(+). These findings provide a foundation for
+understanding MPTP metabolism and for the successful production of preclinical
+marmoset models.
+
+Copyright © 2015 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/dmd.115.063594 
+PMID: 25735838  [Indexed for MEDLINE]
+

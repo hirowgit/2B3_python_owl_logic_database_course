@@ -1,0 +1,83 @@
+
+
+1985. J Neurophysiol. 2010 Oct;104(4):1884-98. doi: 10.1152/jn.01118.2009. Epub 2010
+Aug 4.
+
+Linear and nonlinear contributions to the visual sensitivity of neurons in
+primate lateral geniculate nucleus.
+
+Solomon SG(1), Tailby C, Cheong SK, Camp AJ.
+
+Author information: 
+(1)Discipline of Physiology, School of Medical Sciences and Bosch Institute,
+University of Sydney, Sydney, New South Wales, Australia.
+samuels@physiol.usyd.edu.au
+
+Several parallel pathways convey retinal signals to the visual cortex of
+primates. The signals of the parvocellular (P) and magnocellular (M) pathways are
+well characterized; the properties of other rarely encountered cell types are
+distinctive in many ways, but it is not clear that they can provide signals with 
+the same fidelity. Here we study this by characterizing the temporal receptive
+field of neurons in the lateral geniculate nucleus of anesthetized marmosets. For
+each neuron, we measured the response to a flickering uniform field, and, from
+this, estimated the linear and nonlinear receptive fields using spike-triggered
+average (STA) and spike-triggered covariance (STC) analyses. As expected the
+response of most P-cells was dominated by the STA, but the response of most
+M-cells required additional nonlinear components, and these usually acted to
+suppress cell responses. The STC analysis showed stronger suppressive axes in
+suppressed-by-contrast cells, and both suppressive and excitatory axes in on-off 
+cells. Together, the STA and the STC analyses form a model of the temporal
+response to a large uniform field: under this model, the information that was
+provided by suppressed-by-contrast cells or on-off cells approached that provided
+by the P- and M-cells. However, whereas P- and M-cells provided more information 
+about luminance, the nonlinear cells provided more information about the contrast
+energy. This suggests that the nonlinear cells provide complimentary signals to
+those of P- and M-cells, with reasonably high fidelity, and may play an important
+role in normal visual processing.
+
+DOI: 10.1152/jn.01118.2009 
+PMID: 20685925  [Indexed for MEDLINE]
+
+
+1986. Am J Primatol. 2010 Dec;72(12):1100-7. doi: 10.1002/ajp.20873.
+
+Line transect surveying of arboreal monkeys: problems of group size and spread in
+a highly fragmented landscape.
+
+Ferrari SF(1), Chagas RR, Souza-Alves JP.
+
+Author information: 
+(1)Department of Biology, Universidade Federal de Sergipe, Av. Marechal Rondon
+s/n–Rosa Elze 49, São Cristóvão-SE, Brazil. ferrari@pq.cnpq.br
+
+Erratum in
+    Am J Primatol. 2011 May;73(5):501.
+
+Line transect surveying is a relatively rapid and efficient procedure for the
+assessment of primate populations; although the reliability of the resulting
+density estimates is affected by a number of factors, including habitat
+configuration. In this study, primate populations were surveyed at a highly
+fragmented site in northeastern Brazil, where the resident species include the
+endangered Coimbra-Filho's titi, Callicebus coimbrai, and the critically
+endangered yellow-breasted capuchin, Cebus xanthosternos. In addition to standard
+line transect surveys, data were collected on the composition and distribution of
+resident groups during playback surveys and ecological monitoring. During
+surveys, a 5.3-km trail system was walked regularly over a 7-month period,
+accumulating a total transect length of 476 km and 104 sightings of Callicebus
+and 41 of Cebus (as well as 19 records of a third primate, Callithrix jacchus).
+Data were analyzed using the DISTANCE program and the Kelker method, using the
+perpendicular distances to first animal sighted. Estimates of group density were 
+highly discrepant from known values for both species; although in the case of
+Cebus, this seemed to reflect grouping patterns at the site. For Callicebus,
+population density was overestimated considerably when known group counts were
+used. Overall, there seems to be a need for a much more rigorous standardization 
+of procedures, and the analysis and presentation of results, in order to
+guarantee the most reliable interpretation possible of the data. These
+considerations are especially important in the case of endangered species, such
+as those studied here.
+
+© 2010 Wiley-Liss, Inc.
+
+DOI: 10.1002/ajp.20873 
+PMID: 20683881  [Indexed for MEDLINE]
+

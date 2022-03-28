@@ -1,0 +1,40 @@
+
+
+3456. Pharm Res. 1999 Mar;16(3):434-40.
+
+In vitro and in situ permeability of a 'second generation' hydroxypyridinone oral
+iron chelator: correlation with physico-chemical properties and oral activity.
+
+Lowther N(1), Fox R, Faller B, Nick H, Jin Y, Sergejew T, Hirschberg Y, Oberle R,
+Donnelly H.
+
+Author information: 
+(1)Pharmaceutical and Analytical Development, Novartis Horsham Research Centre,
+West Sussex, United Kingdom. nicholas.lowther@pharma.novartis.com
+
+PURPOSE: The in vitro and in situ transport of CGP 65015
+((+)-3-hydroxy-1-(2-hydroxyethyl)-2-hydroxyphenyl-methyl-1H-pyridin-4-on e), a
+novel oral iron chelator, is described. The predictive power of these data in
+assessing intestinal absorption in man is described.
+METHODS: Caco-2 epithelial monolayer and in situ rat jejunum perfusion intestinal
+permeability models were utilized. In vivo iron excretion and preliminary animal 
+pharmacokinetic experiments were described. Ionization constants and
+octanol/aqueous partition coefficients were measured potentiometrically.
+Solubilities and intrinsic dissolution rates were determined using standard
+procedures.
+RESULTS: Caco-2 cell (Papp approximately 0.25 x 10(-6) cm x s(-1)) and rat
+jejunum (Pw approximately 0.4) permeabilities of CGP 65015 were determined. The
+log D(pH 7.4) of CGP 65015 was 0.58 and its aqueous solubility was < 0.5 mg x
+ml(-1) (pH 3-9). The intrinsic dissolution rate of CGP 65015 in USP simulated
+intestinal fluid was 0.012 mg x min(-1) x cm(-2). CGP 65015 promotes iron
+excretion effectively and dose dependently in animals.
+CONCLUSIONS: Caco-2 and rat intestinal permeabilities predict incomplete oral
+absorption of CGP 65015 in man. Preliminary rat pharmacokinetics support this.
+Physico-chemical data are, also, in line and suggest that CGP 65015 may, in
+addition, be solubility/dissolution rate limited in vivo. Nevertheless, early
+animal pharmacological data demonstrate that CGP 65015 is a viable oral iron
+chelator candidate.
+
+DOI: 10.1023/a:1018886005136 
+PMID: 10213376  [Indexed for MEDLINE]
+

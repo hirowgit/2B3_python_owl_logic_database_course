@@ -1,0 +1,69 @@
+
+
+2460. Cell Prolif. 2006 Dec;39(6):457-69.
+
+High-potentiality preliminary selection criteria and transformation
+time-dependent factors analysis for establishing Epstein-Barr virus transformed
+human lymphoblastoid cell lines.
+
+Chang IC(1), Wu JY, Lu HI, Ko HW, Kuo JL, Wang CY, Shen PS, Hwang SM.
+
+Author information: 
+(1)Bioresources Collection and Research Center, Food Industry Research and
+Development Institute, Hsinchu 30062, Taiwan, ROC. icc19731004@hotmail.com
+
+Infection of freshly isolated and cryopreserved lymphocytes with Epstein-Barr
+virus (EBV) leads to the establishment of human B lymphoblastoid cell lines
+(LCLs). Techniques for optimal infection of the lymphocytes are vital for the
+establishment of a human biobank. The present study found that more than half
+(58-86%) of such established LCLs had transport times of less than 48 h, cell
+densities exceeding 10(6) cells/ml and cell viabilities greater than 90%. After
+EBV infection, 3306 freshly isolated lymphocytes required 30.0 +/- 0.1 days to
+become LCLs. Conversely, 1210 cryopreserved lymphocytes required 36.2 +/- 0.4
+days. Cell density and viability of the culture affected transformation time in
+freshly isolated lymphocytes. On the other hand, blood transport time,
+cryopreservation time and initial cell viability were major factors in
+cryopreserved specimens. These results contribute to general information
+concerning the establishment of a human biobank for EBV infected cells.
+
+DOI: 10.1111/j.1365-2184.2006.00404.x 
+PMCID: PMC6496667
+PMID: 17109631  [Indexed for MEDLINE]
+
+
+2461. J Neurophysiol. 2007 Feb;97(2):1135-48. Epub 2006 Nov 15.
+
+Spatial summation, end inhibition and side inhibition in the middle temporal
+visual area (MT).
+
+Lui LL(1), Bourne JA, Rosa MG.
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, Victoria 3800,
+Australia.
+
+We investigated the responses of single neurons in the middle temporal area (MT) 
+of anesthetized marmoset monkeys to sine-wave gratings of various lengths and
+widths. For the vast majority of MT cells maximal responses were obtained on
+presentation of gratings of specific dimensions, which were typically
+asymmetrical along the length and width axes. The strength of end inhibition was 
+dependent on the width of the stimulus, with many cells showing clear end
+inhibition only when wide gratings were used. Conversely, the strength of side
+inhibition was dependent on stimulus length. Furthermore, for over one third of
+MT cells length summation properties could not be defined without consideration
+of stimulus width and vice versa. These neurons, which we refer to as
+"length-width inseparable" (LWI) cells, were rare in layer 4. The majority of LWI
+neurons was strongly inhibited by wide-field stimuli and responded preferentially
+to gratings that were elongated, along either the length or width dimensions.
+However, rather than forming a homogeneous and entirely distinct group, LWI cells
+represented the upper end of a continuum of complexity in spatial summation
+response properties, which characterized the population of MT cells. Only a
+minority of MT neurons (22.3%) showed no evidence of inhibition by wide-field
+stimuli, with this type of response being common among layer 5 cells. These
+results demonstrate distinct patterns of spatial selectivity in MT, supporting
+the notion that neurons in this area can perform various roles in terms of
+grouping and segmentation of motion signals.
+
+DOI: 10.1152/jn.01018.2006 
+PMID: 17108088  [Indexed for MEDLINE]
+

@@ -1,0 +1,70 @@
+
+
+3114. J Appl Physiol (1985). 2002 Jan;92(1):202-10.
+
+Ventilatory and metabolic responses to hypoxia in the smallest simian primate,
+the pygmy marmoset.
+
+Tattersall GJ(1), Blank JL, Wood SC.
+
+Author information: 
+(1)Department of Biological Sciences, Kent State University, Kent, Ohio 44242,
+USA. gtatters@zoology.ubc.ca
+
+The pygmy marmoset (Cebuella pygmaea) is the smallest New World Monkey (average
+body mass of 120-130 g). As such, it faces possible challenges to
+thermoregulation. Small mammals (e.g., rats) are well known to lower body
+temperature and metabolism in response to hypoxia; however, small primates have
+not been studied in this respect nor have, in general, the interactions between
+metabolism and ventilation. Because little is known about these responses in
+small primates, it seemed of great interest to assess the hypoxia-induced
+metabolic depression and drop in body temperature and the associated ventilatory 
+requirements in this species under hypoxic conditions. Exposure to graded hypoxia
+(30 min at each of 18, 16, 14, 12, and 10% O(2)) caused body temperature to drop 
+from the normoxic value of 39 to 37 degrees C. This was accompanied by a marked
+metabolic depression (O(2) consumption was approximately 68% of the normoxic
+value, implying a suppression of metabolism greater than that predicted from a
+typical value of the effect of 10 degrees C change on metabolism of 2-3 times).
+Minute ventilation declined in parallel to metabolism, maintaining a constant
+air-convection requirement during hypoxia; thus this species did not show the
+typical mammalian hyperventilation. Acute exposure to 10% O(2) led to a similar
+overall decline in metabolism and body temperature and qualitative differences in
+the timing of these changes. The pygmy marmoset shares some similarities in its
+hypoxic metabolic response with other mammals of similar size yet appears to be
+unique in its much diminished ventilatory response to hypoxia.
+
+DOI: 10.1152/japplphysiol.00500.2001 
+PMID: 11744661  [Indexed for MEDLINE]
+
+
+3115. Bioorg Med Chem. 2002 Feb;10(2):401-14.
+
+Novel 4,1-benzoxazepine derivatives with potent squalene synthase inhibitory
+activities.
+
+Miki T(1), Kori M, Mabuchi H, Banno H, Tozawa Ri, Nakamura M, Itokawa S, Sugiyama
+Y, Yukimasa H.
+
+Author information: 
+(1)Takeda Chemical Industries, Ltd. Pharmaceutical Research Division, 2-17-85,
+Juso-Honmachi, Yodogawa-ku, 532-8686, Osaka, Japan. Miki_Takashi@takeda.co.jp
+
+A series of (3,5-trans)-2-oxo-5-phenyl-1,2,3,5-tetrahydro-4,1-benzoxazepine
+derivatives were synthesized and evaluated for squalene synthase inhibitory and
+cholesterol biosynthesis inhibitory activities. Through modification of
+substituents of the lead compounds 1a and 1b, it was found that
+4,1-benzoxazepine-3-acetic acid derivatives with isobutyl and neopentyl groups at
+the 1-position, the chloro atom at the 7-position, and the chloro and methoxy
+groups at the 2'-position on the 5-phenyl ring, had potent squalene synthase
+inhibitory activity. Among such compounds, the 5-(2,3-dimethoxyphenyl) derivative
+2t exhibited potent inhibition of cholesterol biosynthesis in HepG2 cells. As a
+result of optical resolution study of 2t, the absolute stereochemistry required
+for inhibitory activity was determined to be 3R,5S. In vivo study showed that the
+sodium salt of
+(3R,5S)-7-chloro-5-(2,3-dimethoxyphenyl)-1-neopentyl-2-oxo-1,2,3,5-tetrahydro-4,1
+-benzoxazepine-3-acetic acid 20 effectively reduced plasma cholesterol in
+marmosets.
+
+DOI: 10.1016/s0968-0896(01)00290-5 
+PMID: 11741788  [Indexed for MEDLINE]
+

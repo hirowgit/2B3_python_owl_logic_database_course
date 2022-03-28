@@ -1,0 +1,84 @@
+
+
+1593. PLoS One. 2013;8(2):e56296. doi: 10.1371/journal.pone.0056296. Epub 2013 Feb 25.
+
+Immune-related gene expression profile in laboratory common marmosets assessed by
+an accurate quantitative real-time PCR using selected reference genes.
+
+Fujii Y(1), Kitaura K, Matsutani T, Shirai K, Suzuki S, Takasaki T, Kumagai K,
+Kametani Y, Shiina T, Takabayashi S, Katoh H, Hamada Y, Kurane I, Suzuki R.
+
+Author information: 
+(1)Department of Rheumatology and Clinical Immunology, Clinical Research Center
+for Allergy and Rheumatology, Sagamihara National Hospital, National Hospital
+Organization, Kanagawa, Japan.
+
+The common marmoset (Callithrix jacchus) is considered a novel experimental
+animal model of non-human primates. However, due to antibody unavailability,
+immunological and pathological studies have not been adequately conducted in
+various disease models of common marmoset. Quantitative real-time PCR (qPCR) is a
+powerful tool to examine gene expression levels. Recent reports have shown that
+selection of internal reference housekeeping genes are required for accurate
+normalization of gene expression. To develop a reliable qPCR method in common
+marmoset, we used geNorm applets to evaluate the expression stability of eight
+candidate reference genes (GAPDH, ACTB, rRNA, B2M, UBC, HPRT, SDHA and TBP) in
+various tissues from laboratory common marmosets. geNorm analysis showed that
+GAPDH, ACTB, SDHA and TBP were generally ranked high in stability followed by
+UBC. In contrast, HPRT, rRNA and B2M exhibited lower expression stability than
+other genes in most tissues analyzed. Furthermore, by using the improved qPCR
+with selected reference genes, we analyzed the expression levels of CD antigens
+(CD3ε, CD4, CD8α and CD20) and cytokines (IL-1β, IL-2, IL-4, IL-5, IL-6, IL-10,
+IL-12β, IL-13, IFN-γ and TNF-α) in peripheral blood leukocytes and compared them 
+between common marmosets and humans. The expression levels of CD4 and IL-4 were
+lower in common marmosets than in humans whereas those of IL-10, IL-12β and IFN-γ
+were higher in the common marmoset. The ratio of Th1-related gene expression
+level to that of Th2-related genes was inverted in common marmosets. We confirmed
+the inverted ratio of CD4 to CD8 in common marmosets by flow cytometric analysis.
+Therefore, the difference in Th1/Th2 balance between common marmosets and humans 
+may affect host defense and/or disease susceptibility, which should be carefully 
+considered when using common marmoset as an experimental model for biomedical
+research.
+
+DOI: 10.1371/journal.pone.0056296 
+PMCID: PMC3581525
+PMID: 23451040  [Indexed for MEDLINE]
+
+
+1594. J Neurosci. 2013 Feb 27;33(9):3891-904. doi: 10.1523/JNEUROSCI.3437-12.2013.
+
+Linear processing of interaural level difference underlies spatial tuning in the 
+nucleus of the brachium of the inferior colliculus.
+
+Slee SJ(1), Young ED.
+
+Author information: 
+(1)Biomedical Engineering Department, Johns Hopkins University, Baltimore,
+Maryland 21205, USA. sslee1@jhmi.edu
+
+The spatial location of sounds is an important aspect of auditory perception, but
+the ways in which space is represented are not fully understood. No space map has
+been found within the primary auditory pathway. However, a space map has been
+found in the nucleus of the brachium of the inferior colliculus (BIN), which
+provides a major auditory projection to the superior colliculus. We measured the 
+spectral processing underlying auditory spatial tuning in the BIN of
+unanesthetized marmoset monkeys. Because neurons in the BIN respond poorly to
+tones and are broadly tuned, we used a broadband stimulus with random spectral
+shapes (RSSs) from which both spatial receptive fields and frequency sensitivity 
+can be derived. Responses to virtual space (VS) stimuli, based on the animal's
+own ear acoustics, were compared with the predictions of a weight-function model 
+of responses to the RSS stimuli. First-order (linear) weight functions had broad 
+spectral tuning (approximately three octaves) and were excitatory in the
+contralateral ear, inhibitory in the ipsilateral ear, and biased toward high
+frequencies. Responses to interaural time differences and spectral cues were
+relatively weak. In cross-validation tests, the first-order RSS model accurately 
+predicted the measured VS tuning curves in the majority of neurons, but was
+inaccurate in 25% of neurons. In some cases, second-order weighting functions led
+to significant improvements. Finally, we found a significant correlation between 
+the degree of binaural weight asymmetry and the best azimuth. Overall, the
+results suggest that linear processing of interaural level difference underlies
+spatial tuning in the BIN.
+
+DOI: 10.1523/JNEUROSCI.3437-12.2013 
+PMCID: PMC3613225
+PMID: 23447600  [Indexed for MEDLINE]
+

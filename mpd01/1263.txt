@@ -1,0 +1,99 @@
+
+
+1263. PLoS One. 2015 Mar 23;10(3):e0119651. doi: 10.1371/journal.pone.0119651.
+eCollection 2015.
+
+De novo origin of VCY2 from autosome to Y-transposed amplicon.
+
+Cao PR(1), Wang L(1), Jiang YC(2), Yi YS(1), Qu F(1), Liu TC(1), Lv Y(1).
+
+Author information: 
+(1)Department of Epidemiology, Medical College of Hunan Normal University,
+Changsha, China.
+(2)The State Key Laboratory of Genetic Engineering and MOE Key Laboratory of
+Contemporary Anthropology School of Life Sciences, Fudan University, Shanghai,
+China.
+
+The formation of new genes is a primary driving force of evolution in all
+organisms. The de novo evolution of new genes from non-protein-coding genomic
+regions is emerging as an important additional mechanism for novel gene creation.
+Y chromosomes underlie sex determination in mammals and contain genes that are
+required for male-specific functions. In this study, a search was undertaken for 
+Y chromosome de novo genes derived from non-protein-coding sequences. The Y
+chromosome orphan gene variable charge, Y-linked (VCY)2, is an autosome-derived
+gene that has sequence similarity to large autosomal fragments but lacks an
+autosomal protein-coding homolog. VCY2 locates in the amplicon containing long
+DNA fragments that were transposed from autosomes to the Y chromosome before the 
+ape-monkey split. We confirmed that VCY2 cannot be encoded by autosomes due to
+the presence of multiple disablers that disrupt the open reading frame, such as
+the absence of start or stop codons and the presence of premature stop codons.
+Similar observations have been made for homologs in the autosomes of the
+chimpanzee, gorilla, rhesus macaque, baboon and out-group marmoset, which
+suggests that there was a non-protein-coding ancestral VCY2 that was common to
+apes and monkeys that predated the transposition event. Furthermore, while
+protein-coding orthologs are absent, a putative non-protein-coding VCY2 with
+conserved disablers was identified in the rhesus macaque Y chromosome
+male-specific region. This finding implies that VCY2 might have not acquired its 
+protein-coding ability before the ape-monkey split. VCY2 encodes a
+testis-specific expressed protein and is involved in the pathologic process of
+male infertility, and the acquisition of this gene might improve male fertility. 
+This is the first evidence that de novo genes can be generated from transposed
+autosomal non-protein-coding segments, and this evidence provides novel insights 
+into the evolutionary history of the Y chromosome.
+
+DOI: 10.1371/journal.pone.0119651 
+PMCID: PMC4370482
+PMID: 25799347  [Indexed for MEDLINE]
+
+
+1264. J Neurosci. 2015 Mar 18;35(11):4657-62. doi: 10.1523/JNEUROSCI.4509-14.2015.
+
+Emergence of complex wave patterns in primate cerebral cortex.
+
+Townsend RG(1), Solomon SS(2), Chen SC(2), Pietersen AN(2), Martin PR(3), Solomon
+SG(4), Gong P(5).
+
+Author information: 
+(1)School of Physics, University of Sydney, New South Wales 2006, Australia, ARC 
+Centre of Excellence for Integrative Brain Function, University of Sydney, New
+South Wales 2001, Australia.
+(2)ARC Centre of Excellence for Integrative Brain Function, University of Sydney,
+New South Wales 2001, Australia, Discipline of Physiology, University of Sydney, 
+Sydney, New South Wales 2006, Australia.
+(3)ARC Centre of Excellence for Integrative Brain Function, University of Sydney,
+New South Wales 2001, Australia, Discipline of Physiology, University of Sydney, 
+Sydney, New South Wales 2006, Australia, Save Sight Institute, University of
+Sydney, Sydney, New South Wales 2001, Australia, and prmartin@sydney.edu.au
+p.gong@physics.usyd.edu.au.
+(4)Discipline of Physiology, University of Sydney, Sydney, New South Wales 2006, 
+Australia, Department of Experimental Psychology, University College London, WC1P
+0AH, London, United Kingdom.
+(5)School of Physics, University of Sydney, New South Wales 2006, Australia, ARC 
+Centre of Excellence for Integrative Brain Function, University of Sydney, New
+South Wales 2001, Australia, prmartin@sydney.edu.au p.gong@physics.usyd.edu.au.
+
+Slow brain rhythms are attributed to near-simultaneous (synchronous) changes in
+activity in neuron populations in the brain. Because they are slow and
+widespread, synchronous rhythms have not been considered crucial for information 
+processing in the waking state. Here we adapted methods from turbulence physics
+to analyze δ-band (1-4 Hz) rhythms in local field potential (LFP) activity, in
+multielectrode recordings from cerebral cortex in anesthetized marmoset monkeys. 
+We found that synchrony contributes only a small fraction (less than one-fourth) 
+to the local spatiotemporal structure of δ-band signals. Rather, δ-band activity 
+is dominated by propagating plane waves and spatiotemporal structures, which we
+call complex waves. Complex waves are manifest at submillimeter spatial scales,
+and millisecond-range temporal scales. We show that complex waves can be
+characterized by their relation to phase singularities within local nerve cell
+networks. We validate the biological relevance of complex waves by showing that
+nerve cell spike rates are higher in presence of complex waves than in the
+presence of synchrony and that there are nonrandom patterns of evolution from one
+type of complex wave to another. We conclude that slow brain rhythms
+predominantly indicate spatiotemporally organized activity in local nerve cell
+circuits, not synchronous activity within and across brain regions.
+
+Copyright © 2015 the authors 0270-6474/15/354657-06$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.4509-14.2015 
+PMCID: PMC4363391
+PMID: 25788682  [Indexed for MEDLINE]
+

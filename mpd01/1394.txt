@@ -1,0 +1,98 @@
+
+
+1394. J Gen Virol. 2014 Sep;95(Pt 9):1892-1899. doi: 10.1099/vir.0.066746-0. Epub 2014 
+Jun 9.
+
+Evolutionary genetics of genotype H1 measles viruses in China from 1993 to 2012.
+
+Xu S(1), Zhang Y(1), Rivailler P(2), Wang H(1), Ji Y(1), Zhen Z(1), Mao N(1), Li 
+C(3), Bellini WJ(2), Xu W(1), Rota PA(2).
+
+Author information: 
+(1)WHO Regional Reference Laboratory for Measles for the Western Pacific Region, 
+National Institute for Viral Disease Control and Prevention, China Center for
+Disease Control and Prevention, Beijing 102206, PR China.
+(2)Division of Viral Diseases, Centers for Disease Control and Prevention,
+Atlanta, GA, USA.
+(3)Shanghai Center for Disease Control and Prevention, Shanghai City, PR China.
+
+Virologic surveillance is a critical component of measles management. One of the 
+criteria for verification of elimination of endemic measles is genetic analysis
+of wild-type viruses to demonstrate lack of an indigenous genotype. Measles is
+yet to be eliminated in China, and genotype H1 has been detected continuously
+since virologic surveillance was initiated in 1993. Virologic surveillance has
+been very active in China, providing a unique opportunity to conduct a detailed
+study of the evolution of a single, endemic genotype over a timespan of nearly
+two decades. Phylogenetic analysis performed on the 450 nt coding sequence for
+the C-terminal 150 amino acids of the nucleoprotein (N-450), fusion (F) gene and 
+haemagglutinin (H) gene confirmed the continued circulation of genotype H1
+viruses for 19 years. No evidence of selective pressure for the H protein was
+found. The substitution rates ranged from 0.75×10(-3) substitutions site(-1)
+year(-1) for H to 1.65×10(-3) substitutions site(-1) year(-1) for N-450. The time
+of most recent common ancestor (TMRCA) for genotype H1 was estimated as
+approximately 1985 (95 % highest probability density, 1979-1989). Finally, the
+overall diversity of measles sequences from China decreased from 2005 to 2012,
+coincident with a substantial decrease in measles cases. The results suggest that
+detailed evolutionary analyses should facilitate the documentation of eventual
+measles elimination in China. Moreover, the molecular approaches used in this
+study can be applied in other countries approaching measles elimination.
+
+DOI: 10.1099/vir.0.066746-0 
+PMCID: PMC4135087
+PMID: 24914068  [Indexed for MEDLINE]
+
+
+1395. RNA. 2014 Aug;20(8):1223-37. doi: 10.1261/rna.045310.114. Epub 2014 Jun 9.
+
+Small RNA profiling and characterization of piRNA clusters in the adult testes of
+the common marmoset, a model primate.
+
+Hirano T(1), Iwasaki YW(1), Lin ZY(2), Imamura M(3), Seki NM(4), Sasaki E(5),
+Saito K(1), Okano H(2), Siomi MC(6), Siomi H(1).
+
+Author information: 
+(1)Department of Molecular Biology, Keio University School of Medicine,
+Shinjuku-ku, Tokyo 160-8582, Japan.
+(2)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan.
+(3)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan Molecular Biology Section, Department of Cellular and
+Molecular Biology, Primate Research Institute, Kyoto University, Inuyama, Aichi
+484-8506, Japan.
+(4)Department of Molecular Biology, Keio University School of Medicine,
+Shinjuku-ku, Tokyo 160-8582, Japan Graduate School of Science, The University of 
+Tokyo, Bunkyo-ku, Tokyo 113-0032, Japan.
+(5)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan Central Institute for Experimental Animals, Kawasaki,
+Kanagawa 210-0821, Japan.
+(6)Graduate School of Science, The University of Tokyo, Bunkyo-ku, Tokyo
+113-0032, Japan.
+
+Small RNAs mediate gene silencing by binding Argonaute/Piwi proteins to regulate 
+target RNAs. Here, we describe small RNA profiling of the adult testes of
+Callithrix jacchus, the common marmoset. The most abundant class of small RNAs in
+the adult testis was piRNAs, although 353 novel miRNAs but few endo-siRNAs were
+also identified. MARWI, a marmoset homolog of mouse MIWI and a very abundant PIWI
+in adult testes, associates with piRNAs that show characteristics of mouse
+pachytene piRNAs. As in other mammals, most marmoset piRNAs are derived from
+conserved clustered regions in the genome, which are annotated as intergenic
+regions. However, unlike in mice, marmoset piRNA clusters are also found on the X
+chromosome, suggesting escape from meiotic sex chromosome inactivation by the
+X-linked clusters. Some of the piRNA clusters identified contain
+antisense-orientated pseudogenes, suggesting the possibility that
+pseudogene-derived piRNAs may regulate parental functional protein-coding genes. 
+More piRNAs map to transposable element (TE) subfamilies when they have copies in
+piRNA clusters. In addition, the strand bias observed for piRNAs mapped to each
+TE subfamily correlates with the polarity of copies inserted in clusters. These
+findings suggest that pachytene piRNA clusters determine the abundance and
+strand-bias of TE-derived piRNAs, may regulate protein-coding genes via
+pseudogene-derived piRNAs, and may even play roles in meiosis in the adult
+marmoset testis.
+
+© 2014 Hirano et al.; Published by Cold Spring Harbor Laboratory Press for the
+RNA Society.
+
+DOI: 10.1261/rna.045310.114 
+PMCID: PMC4105748
+PMID: 24914035  [Indexed for MEDLINE]
+

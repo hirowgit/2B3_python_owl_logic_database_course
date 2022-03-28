@@ -1,0 +1,118 @@
+
+
+409. PLoS One. 2019 Oct 23;14(10):e0222486. doi: 10.1371/journal.pone.0222486.
+eCollection 2019.
+
+Are dialects socially learned in marmoset monkeys? Evidence from translocation
+experiments.
+
+Zürcher Y(1), Willems EP(1), Burkart JM(1).
+
+Author information: 
+(1)Department of Anthropology, University of Zurich, Winterthurerstrasse, Zürich,
+Switzerland.
+
+The acoustic properties of vocalizations in common marmosets differ between
+populations. These differences may be the result of social vocal learning, but
+they can also result from environmental or genetic differences between
+populations. We performed translocation experiments to separately quantify the
+influence of a change in the physical environment (experiment 1), and a change in
+the social environment (experiment 2) on the acoustic properties of calls from
+individual captive common marmosets. If population differences were due to
+genetic differences, we expected no change in the vocalizations of the
+translocated marmosets. If differences were due to environmental factors, we
+expected vocalizations to permanently change contingent with environmental
+changes. If social learning was involved, we expected that the vocalizations of
+animals translocated to a new population with a different dialect would become
+more similar to the new population. In experiment 1, we translocated marmosets to
+a different physical environment without changing the social composition of the
+groups or their neighbours. Immediately after the translocation to the new
+facility, one out of three call types showed a significant change in call
+structure, but 5-6 weeks later, the calls were no longer different from before
+the translocation. Thus, the novel physical environment did not induce long
+lasting changes in the vocalizations of the marmosets. In experiment 2, we
+translocated marmosets to a new population with a different dialect. Importantly,
+our previous work had shown that these two populations differed significantly in 
+vocalization structure. The translocated marmosets were still housed in their
+original social group, but after translocation they were surrounded by the
+vocalizations from neighbouring groups of the new population. The vocal distance 
+between the translocated individuals and the new population decreased for two out
+of three call types over 16 weeks. Thus, even without direct social contact or
+interaction, the vocalizations of the translocated animals converged towards the 
+new population, indicating that common marmosets can modify their calls due to
+acoustic input from conspecifics alone, via crowd vocal learning. To our
+knowledge, this is the first study able to distinguish between different
+explanations for vocal dialects as well as to show crowd vocal learning in a
+primate species.
+
+DOI: 10.1371/journal.pone.0222486 
+PMCID: PMC6808547
+PMID: 31644527  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+410. Proc Natl Acad Sci U S A. 2019 Nov 5;116(45):22844-22850. doi:
+10.1073/pnas.1903445116. Epub 2019 Oct 21.
+
+Arm movements induced by noninvasive optogenetic stimulation of the motor cortex 
+in the common marmoset.
+
+Ebina T(1), Obara K(1), Watakabe A(2), Masamizu Y(1)(3)(4), Terada SI(1), Matoba 
+R(1), Takaji M(2), Hatanaka N(5), Nambu A(5), Mizukami H(6), Yamamori T(2),
+Matsuzaki M(7)(3)(8).
+
+Author information: 
+(1)Department of Physiology, Graduate School of Medicine, University of Tokyo,
+113-0033 Tokyo, Japan.
+(2)Laboratory for Molecular Analysis of Higher Brain Function, RIKEN Center for
+Brain Science, 351-0198 Saitama, Japan.
+(3)Brain Functional Dynamics Collaboration Laboratory, RIKEN Center for Brain
+Science, 351-0198 Saitama, Japan.
+(4)Japan Science and Technology Agency, Precursory Research for Embryonic Science
+and Technology, 332-0012 Saitama, Japan.
+(5)Division of System Neurophysiology, National Institute for Physiological
+Sciences, School of Life Science, The Graduate University for Advanced Studies
+(SOKENDAI), 444-8585 Aichi, Japan.
+(6)Division of Genetic Therapeutics, Center for Molecular Medicine, Jichi Medical
+University, 329-0498 Tochigi, Japan.
+(7)Department of Physiology, Graduate School of Medicine, University of Tokyo,
+113-0033 Tokyo, Japan; mzakim@m.u-tokyo.ac.jp.
+(8)International Research Center for Neurointelligence, The University of Tokyo
+Institutes for Advanced Study, 113-0033 Tokyo, Japan.
+
+Comment in
+    Lab Anim (NY). 2020 Jan;49(1):18.
+
+Optogenetics is now a fundamental tool for investigating the relationship between
+neuronal activity and behavior. However, its application to the investigation of 
+motor control systems in nonhuman primates is rather limited, because optogenetic
+stimulation of cortical neurons in nonhuman primates has failed to induce or
+modulate any hand/arm movements. Here, we used a tetracycline-inducible gene
+expression system carrying CaMKII promoter and the gene encoding a
+Channelrhodopsin-2 variant with fast kinetics in the common marmoset, a small New
+World monkey. In an awake state, forelimb movements could be induced when
+Channelrhodopsin-2-expressing neurons in the motor cortex were illuminated by
+blue laser light with a spot diameter of 1 mm or 2 mm through a cranial window
+without cortical invasion. Forelimb muscles responded 10 ms to 50 ms after
+photostimulation onset. Long-duration (500 ms) photostimulation induced discrete 
+forelimb movements that could be markerlessly tracked with charge-coupled device 
+cameras and a deep learning algorithm. Long-duration photostimulation mapping
+revealed that the primary motor cortex is divided into multiple domains that can 
+induce hand and elbow movements in different directions. During performance of a 
+forelimb movement task, movement trajectories were modulated by weak
+photostimulation, which did not induce visible forelimb movements at rest, around
+the onset of task-relevant movement. The modulation was biased toward the
+movement direction induced by the strong photostimulation. Combined with calcium 
+imaging, all-optical interrogation of motor circuits should be possible in
+behaving marmosets.
+
+Copyright © 2019 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.1903445116 
+PMCID: PMC6842633
+PMID: 31636197  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.
+

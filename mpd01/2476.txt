@@ -1,0 +1,64 @@
+
+
+2476. Arch Virol. 2007 Feb;152(2):329-43. Epub 2006 Oct 6.
+
+Transient and stable expression of the HCV envelope glycoproteins in cell lines
+and primary hepatocytes transduced with a recombinant baculovirus.
+
+Martyn JC(1), Dong X, Holmes-Brown S, Pribul P, Li S, Drummer HE, Gowans EJ.
+
+Author information: 
+(1)Macfarlane Burnet Institute for Medical Research and Public Health, Melbourne,
+Australia. martyn@burnet.edu.au
+
+A recombinant baculovirus, RecBV-E, encoding the hepatitis C virus (HCV) envelope
+proteins, E1 and E2, controlled by the cytomegalovirus promoter was constructed. 
+RecBVs can infect mammalian cells, but fail to express proteins or replicate
+because the viral DNA promoters are not recognised. The RecBV-E transduced 86% of
+Huh7 cells and 22% of primary marmoset hepatocytes compared with 35% and 0.4%,
+respectively, after DNA transfection. Several stable cell lines were generated
+that constitutively expressed E1/E2 in every cell. No evidence of E1/E2-related
+apoptosis was noted, and the doubling times of cells were similar to that of the 
+parental cells. A proportion of the E1/E2 was expressed on the surface of the
+stable cells as determined by flow cytometry and was detected by a
+conformation-dependent monoclonal antibody. It is likely that the continued
+expression of E1/E2 in the stable cells resulted from integration of the RecBV
+DNA. Infection of Huh7 cells, in the absence of G418 selection, failed to result 
+in expression of the foreign gene (in this case, eGFP) beyond 14-18 days. RecBVs 
+that express HCV genes from a CMV promoter represent an effective means by which 
+to transduce primary hepatocytes for expression and replication studies.
+
+DOI: 10.1007/s00705-006-0845-5 
+PMID: 17019531  [Indexed for MEDLINE]
+
+
+2477. Dev Psychobiol. 2006 Nov;48(7):551-60.
+
+Head-cocking as a form of exploration in the common marmoset and its development.
+
+Kaplan G(1), Rogers LJ.
+
+Author information: 
+(1)Centre for Neuroscience and Animal Behaviour, University of New England,
+Armidale, NSW-2351, Australia. gkaplan@une.edu.au
+
+Head-cocking of 15 infant marmosets (Callithrix jacchus) was scored from Day 1 to
+60 of postnatal life, the growth period with overproduction of interneuronal
+synapses. Head-cocking was scored during four 30 min intervals daily, including
+angle of head-cocking and objects being fixated. Mean age of onset of
+head-cocking was Day 13 (+/-1.3) and frequency increased to a fixed rate by Day
+24-29, at the time of maturation of the foveal representation in layer 6 of the
+visual cortex, thus lending further support to the importance of head-cocking to 
+visual processing. The most common distance of objects fixated during
+head-cocking was up to .5 m. Angle of head-cocking increased with age, and some
+asymmetry of direction was noted. Fewer head-cocking events occurred in the
+morning than in the afternoon. We also scored anogenital licking of offspring.
+Head-cocking occurred at higher levels in marmosets receiving more anogenital
+licking. As this was associated positively with increased exploration,
+head-cocking may be regarded as an exploratory behavior.
+
+(c) 2006 Wiley Periodicals, Inc.
+
+DOI: 10.1002/dev.20155 
+PMID: 17016839  [Indexed for MEDLINE]
+

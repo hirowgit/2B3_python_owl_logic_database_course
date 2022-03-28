@@ -1,0 +1,95 @@
+
+
+245. Nat Protoc. 2020 Nov;15(11):3615-3631. doi: 10.1038/s41596-020-0388-3. Epub 2020 
+Oct 12.
+
+Intracellular neuronal recording in awake nonhuman primates.
+
+Gao L(1)(2), Wang X(3).
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+lxgao10@zju.edu.cn.
+(2)Department of Neurology of the Second Affiliated Hospital, Interdisciplinary
+Institute of Neuroscience and Technology, Zhejiang University School of Medicine,
+Key Laboratory for Biomedical Engineering of Ministry of Education, Zhejiang
+University, Hangzhou, China. lxgao10@zju.edu.cn.
+(3)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+xiaoqin.wang@jhu.edu.
+
+Intracellular neuronal recordings from the brain of awake nonhuman primates have 
+remained difficult to obtain because of several formidable technical challenges, 
+such as poor recording stability and difficulties in maintaining long-term
+recording conditions. We have developed a technique to record neuronal activity
+by using a coaxial guide tube and sharp electrode assembly, which allows
+researchers to repeatedly and reliably perform intracellular recordings in the
+cortex of awake marmosets. Recordings from individual neurons last from several
+minutes to more than an hour. A key advantage of this approach is that it does
+not require dura removal, permitting recordings over weeks and months in a single
+animal. This protocol describes the step-by-step procedures for construction of a
+custom-made marmoset chair, head-cap implantation, preparation of the sharp
+electrode and guide tube, neuronal recording and data analysis. As the technique 
+is practical and easy to adapt, we anticipate that it can also be applied to
+other mammalian models, including larger-size nonhuman primates.
+
+DOI: 10.1038/s41596-020-0388-3 
+PMID: 33046899  [Indexed for MEDLINE]
+
+
+246. Cereb Cortex. 2021 Jan 5;31(2):1316-1333. doi: 10.1093/cercor/bhaa298.
+
+Neutral Sphingomyelinase is an Affective Valence-Dependent Regulator of Learning 
+and Memory.
+
+Kalinichenko LS(1), Abdel-Hafiz L(2), Wang AL(2), Mühle C(1), Rösel N(1),
+Schumacher F(3)(4), Kleuser B(3), Smaga I(5), Frankowska M(5), Filip M(5),
+Schaller G(1), Richter-Schmidinger T(1), Lenz B(1)(6), Gulbins E(4)(7), Kornhuber
+J(1), Oliveira AWC(8), Barros M(8)(9), Huston JP(2), Müller CP(1).
+
+Author information: 
+(1)Department of Psychiatry and Psychotherapy, University Clinic,
+Friedrich-Alexander-University of Erlangen-Nuremberg, Erlangen 91054, Germany.
+(2)Center for Behavioral Neuroscience, Institute of Experimental Psychology,
+University of Düsseldorf, Düsseldorf 40225, Germany.
+(3)Department of Toxicology, Faculty of Mathematics and Natural Science,
+Institute of Nutritional Science, University of Potsdam, Potsdam 14558, Germany.
+(4)Department of Molecular Biology, University of Duisburg-Essen, Essen 45147,
+Germany.
+(5)Department of Drug Addiction Pharmacology, Polish Academy of Sciences, Maj
+Institute of Pharmacology, Kraków 31-343, Poland.
+(6)Department of Addictive Behavior and Addiction Medicine, Central Institute of 
+Mental Health (CIMH), Medical Faculty Mannheim, Heidelberg University, Mannheim
+68159, Germany.
+(7)Department of Surgery, College of Medicine, University of Cincinnati,
+Cincinnati, OH 45267-0558, USA.
+(8)Department of Pharmacy, School of Health Sciences, University of Brasilia,
+Brasilia, DF 70910-900, Brazil.
+(9)Primate Center, Institute of Biology, University of Brasilia, Brasilia
+70910-900, Brazil.
+
+Sphingolipids and enzymes of the sphingolipid rheostat determine synaptic
+appearance and signaling in the brain, but sphingolipid contribution to normal
+behavioral plasticity is little understood. Here we asked how the sphingolipid
+rheostat contributes to learning and memory of various dimensions. We
+investigated the role of these lipids in the mechanisms of two different types of
+memory, such as appetitively and aversively motivated memory, which are
+considered to be mediated by different neural mechanisms. We found an association
+between superior performance in short- and long-term appetitively motivated
+learning and regionally enhanced neutral sphingomyelinase (NSM) activity. An
+opposite interaction was observed in an aversively motivated task. A
+valence-dissociating role of NSM in learning was confirmed in mice with
+genetically reduced NSM activity. This role may be mediated by the NSM control of
+N-methyl-d-aspartate receptor subunit expression. In a translational approach, we
+confirmed a positive association of serum NSM activity with long-term
+appetitively motivated memory in nonhuman primates and in healthy humans.
+Altogether, these data suggest a new sphingolipid mechanism of de-novo learning
+and memory, which is based on NSM activity.
+
+© The Author(s) 2020. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permission@oup.com.
+
+DOI: 10.1093/cercor/bhaa298 
+PMID: 33043975  [Indexed for MEDLINE]
+

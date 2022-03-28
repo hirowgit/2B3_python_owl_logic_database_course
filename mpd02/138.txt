@@ -1,0 +1,34 @@
+
+
+138. STAR Protoc. 2021 Apr 17;2(2):100454. doi: 10.1016/j.xpro.2021.100454.
+eCollection 2021 Jun 18.
+
+Quantifying anhedonia-like symptoms in marmosets using appetitive Pavlovian
+conditioning.
+
+Alexander L(1)(2), Banai-Tizkar R(1)(2), Wood CM(1)(2), Roberts AC(1)(2).
+
+Author information: 
+(1)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Cambridge CB2 3DY, UK.
+(2)Behavioural and Clinical Neuroscience Institute, University of Cambridge,
+Cambridge CB2 3EB, UK.
+
+Blunted reward responsivity is associated with anhedonia in humans and is a core 
+feature of depression. This protocol describes how to train the common marmoset, 
+Callithrix jacchus, on an appetitive Pavlovian conditioning paradigm to measure
+behavioral and cardiovascular correlates of anticipatory and consummatory phases 
+of reward processing. We describe how to use intracerebral infusions to
+manipulate brain regions whose activity is relevant to impaired reward processing
+in depression and how the paradigm can be used to test antidepressant efficacy.
+For complete details on the use and execution of this protocol, please refer to
+Alexander et al. (2019).
+
+Crown Copyright © 2021.
+
+DOI: 10.1016/j.xpro.2021.100454 
+PMCID: PMC8082163
+PMID: 33982011  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+

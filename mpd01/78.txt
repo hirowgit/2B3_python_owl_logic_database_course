@@ -1,0 +1,108 @@
+
+
+78. Behav Processes. 2021 Nov;192:104495. doi: 10.1016/j.beproc.2021.104495. Epub
+2021 Sep 4.
+
+Detection of conspicuous and cryptic food by common marmosets (Callithrix
+jacchus): An evaluation of the importance of color and shape cues.
+
+Barros PKS(1), Castro FN(2), Pessoa DMA(3).
+
+Author information: 
+(1)Laboratory of Sensory Ecology, Department of Physiology and Behavior,
+Biosciences Center, Federal University of Rio Grande do Norte, Natal, RN,
+59072-970, Brazil; Primate Center, Department of Physiology and Behavior,
+Biosciences Center, Federal University of Rio Grande do Norte, Natal, RN,
+59072-970, Brazil.
+(2)Laboratory of Human Behavior Evolution, Department of Physiology and Behavior,
+Biosciences Center, Federal University of Rio Grande do Norte, Natal, RN,
+59072-970, Brazil.
+(3)Laboratory of Sensory Ecology, Department of Physiology and Behavior,
+Biosciences Center, Federal University of Rio Grande do Norte, Natal, RN,
+59072-970, Brazil; Primate Center, Department of Physiology and Behavior,
+Biosciences Center, Federal University of Rio Grande do Norte, Natal, RN,
+59072-970, Brazil. Electronic address: daniel.pessoa@ufrn.br.
+
+In primates, the advantage of trichromacy (i.e., color vision expressed by most
+humans) over dichromacy (i.e., color vision expressed by many colorblind humans) 
+has been linked to the detection of yellowish/reddish targets against a
+background of mature green leaves. Nevertheless, mostly because of studies
+conducted in humans, we know that achromatic cues might also play an important
+role in object identification, particularly when camouflage is involved. For
+instance, dichromacy favors the detection of camouflaged targets by exploitation 
+of shape cues. The present study sought to evaluate the relative importance of
+color and shape cues on the detection of food targets by female and male
+marmosets (Callithrix jacchus). Animals were observed with respect to their
+foraging behavior and the number of food targets captured. We confirmed that
+females are advantageous in detecting conspicuous food against a green background
+and revealed that females and males rely on shape cues to segregate cryptic food.
+Unexpectedly, males outperformed females in cryptic food foraging, while
+camouflage improved males' (but not females') performance. Here we show that
+dichromats could potentially benefit from a better segregation of green natural
+targets (e.g., immature fruits, green insects, and gum trees) when viewed against
+a green dappled background.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.beproc.2021.104495 
+PMID: 34487831  [Indexed for MEDLINE]
+
+
+79. Geroscience. 2021 Oct;43(5):2413-2425. doi: 10.1007/s11357-021-00438-7. Epub 2021
+Sep 5.
+
+DNA methylation age analysis of rapamycin in common marmosets.
+
+Horvath S(1)(2), Zoller JA(3), Haghani A(4), Lu AT(4), Raj K(5), Jasinska AJ(6), 
+Mattison JA(7), Salmon AB(8).
+
+Author information: 
+(1)Department of Human Genetics, David Geffen School of Medicine, University of
+California, Los Angeles, Gonda Building, 695 Charles Young Drive South, Los
+Angeles, CA, USA. shorvath@mednet.ucla.edu.
+(2)Department of Biostatistics, Fielding School of Public Health, University of
+California, Los Angeles, Los Angeles, CA, 90095, USA. shorvath@mednet.ucla.edu.
+(3)Department of Biostatistics, Fielding School of Public Health, University of
+California, Los Angeles, Los Angeles, CA, 90095, USA.
+(4)Department of Human Genetics, David Geffen School of Medicine, University of
+California, Los Angeles, Gonda Building, 695 Charles Young Drive South, Los
+Angeles, CA, USA.
+(5)Radiation Effects Department, Centre for Radiation, Chemical and Environmental
+Hazards, Public Health England, Chilton, Didcot, UK.
+(6)Center for Neurobehavioral Genetics, Semel Institute for Neuroscience and
+Human Behavior, Department of Psychiatry and Biobehavioral Sciences, David Geffen
+School of Medicine, University of California, Los Angeles, Los Angeles, CA, USA.
+(7)Translational Gerontology Branch, National Institute on Aging Intramural
+Research Program, National Institutes of Health, Dickerson, MD, USA.
+(8)The Sam and Ann Barshop Institute for Longevity and Aging Studies, and
+Department of Molecular Medicine, UT Health San Antonio, and the Geriatric
+Research Education and Clinical Center, South Texas Veterans Healthcare System,
+San Antonio, TX, USA.
+
+Human DNA methylation data have previously been used to develop highly accurate
+biomarkers of aging ("epigenetic clocks"). Subsequent studies demonstrate that
+similar epigenetic clocks can also be developed for mice and many other mammals. 
+Here, we describe epigenetic clocks for common marmosets (Callithrix jacchus)
+based on novel DNA methylation data generated from highly conserved mammalian
+CpGs that were profiled using a custom Infinium array
+(HorvathMammalMethylChip40). From these, we developed and present here two
+epigenetic clocks for marmosets that are applicable to whole blood samples. We
+find that the human-marmoset clock for relative age exhibits moderately high age 
+correlations in two other non-human primate species: vervet monkeys and rhesus
+macaques. In a separate cohort of marmosets, we tested whether intervention with 
+rapamycin, a drug shown to extend lifespan in mice, would alter the epigenetic
+age of marmosets, as measured by the marmoset epigenetic clocks. These clocks did
+not detect significant effects of rapamycin on the epigenetic age of marmoset
+blood. The common marmoset stands out from other mammals in that it is not
+possible to build accurate estimators of sex based on DNA methylation data: the
+accuracy of a random forest predictor of sex (66%) was substantially lower than
+that observed for other mammals (which is close to 100%). Overall, the epigenetic
+clocks developed here for the common marmoset are expected to be useful for age
+estimation of wild-born animals and for anti-aging studies in this species.
+
+© 2021. The Author(s).
+
+DOI: 10.1007/s11357-021-00438-7 
+PMCID: PMC8599537
+PMID: 34482522  [Indexed for MEDLINE]
+

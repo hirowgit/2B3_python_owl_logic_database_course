@@ -1,0 +1,35 @@
+
+
+3856. J Clin Invest. 1995 Dec;96(6):2966-74.
+
+Antibody facilitation of multiple sclerosis-like lesions in a nonhuman primate.
+
+Genain CP(1), Nguyen MH, Letvin NL, Pearl R, Davis RL, Adelman M, Lees MB,
+Linington C, Hauser SL.
+
+Author information: 
+(1)Department of Neurology, University of California, San Francisco 94143, USA.
+
+In the human disease multiple sclerosis (MS), the immune mechanisms responsible
+for selective destruction of central nervous system myelin are unknown. In the
+common marmoset Callithrix jacchus, a unique demyelinating form of experimental
+allergic encephalomyelitis resembling MS can be induced by immunization with
+whole myelin. Here we show that the MS-like lesion can be reproduced by
+immunization against the extracellular domain of a single myelin protein,
+myelin/oligodendrocyte glycoprotein (MOG). By contrast, immunization against the 
+quantitatively major myelin proteins myelin basic protein or proteolipid protein 
+results in inflammation but little or no demyelination. Furthermore, in the
+presence of encephalitogenic (e.g., disease-inducing) T cells, the fully
+demyelinated lesion is reconstructed by systemic administration of IgG purified
+from whole myelin-, or MOG-immunized animals, and equally by a monoclonal
+antibody against MOG, but not by control IgG. Encephalitogenic T cells may
+contribute to the MS-like lesion through disruption of the blood-brain barrier
+that permits access of demyelinating antibody into the nervous system. The
+identification of MOG as a major target antigen for autoimmune demyelination in a
+nonhuman primate should facilitate development of specific immunotherapies for
+human MS.
+
+DOI: 10.1172/JCI118368 
+PMCID: PMC186008
+PMID: 8675668  [Indexed for MEDLINE]
+

@@ -1,0 +1,59 @@
+
+
+1918. Prog Neuropsychopharmacol Biol Psychiatry. 2011 Aug 1;35(6):1499-504. doi:
+10.1016/j.pnpbp.2011.01.021. Epub 2011 Feb 26.
+
+Reading marmoset behavior 'semantics' under particular social context by
+multi-parameters correlation analysis.
+
+Koshiba M(1), Mimura K, Sugiura Y, Okuya T, Senoo A, Ishibashi H, Nakamura S.
+
+Author information: 
+(1)Tokyo University of Agriculture and Technology, Tokyo, Japan.
+
+Social interactions are a fundamental aspect of human and animal behavior.
+Although neuroimaging and other non-invasive methods have progressed recently,
+the neurobiology of social behavior requires the use of animal models. Here, we
+introduced a multi-behavior parameter integration method and applied it to
+female-male interaction of adult common marmosets (Callithrix jacchus). Based on 
+the correlated parameters and meeting context, we found that the behavioral
+endpoints clustered in four distinct categories, which could be interpreted as
+active, freeze, alert, and affinity emotional states. The relevance of this
+interpretation was supported as the female behavior category change positively
+correlated with serum cortisol and progesterone levels after social interaction. 
+Thus, our multi-behavior parameter integration method may be useful to evaluate
+social emotionality in animal models, as well as to quantify social behavior in
+human psychiatric disorders.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pnpbp.2011.01.021 
+PMID: 21300127  [Indexed for MEDLINE]
+
+
+1919. Neurosci Res. 2011 May;70(1):128-32. doi: 10.1016/j.neures.2011.01.016. Epub 2011
+Feb 1.
+
+Internet-based atlas of the primate spinal cord.
+
+Tokuno H(1), Tanaka I, Senoo A, Umitsu Y, Akazawa T, Nakamura Y, Watson C.
+
+Author information: 
+(1)Department of Brain Structure, Tokyo Metropolitan Institute for Neuroscience, 
+Fuchu, Tokyo 183-8526, Japan. tokuno-hr@igakuken.or.jp
+
+In 2009, we reported an online brain atlas of the common marmoset (Callithrix
+jacchus) at http://marmoset-brain.org:2008. Here we report new digital images of 
+the primate spinal cord sections added to the website. We prepared histological
+sections of every segment of the spinal cord of the common marmoset, rhesus
+monkey and Japanese monkey with various staining techniques. The sections were
+scanned with Carl Zeiss MIRAX SCAN at light microscopic resolution. Obtained
+digital data were processed and converted into multi-resolutionary images with
+Adobe Photoshop and Zoomify Design. These images of the primate spinal cords are 
+now available on the web via the Internet.
+
+Copyright © 2011. Published by Elsevier Ireland Ltd.
+
+DOI: 10.1016/j.neures.2011.01.016 
+PMID: 21291922  [Indexed for MEDLINE]
+

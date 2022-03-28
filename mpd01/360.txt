@@ -1,0 +1,87 @@
+
+
+360. Exp Anim. 2020 Aug 5;69(3):295-305. doi: 10.1538/expanim.19-0135. Epub 2020 Feb
+20.
+
+Presence of the annular ridge and location of the coronary sinus ostium as
+morphological features ofthe right atrium and interatrial septum in healthy
+common marmosets (Callithrix jacchus).
+
+Suzuki M(1)(2), Ogata M(3), Murata Y(2)(4), Suzuki S(5).
+
+Author information: 
+(1)Graduate School of Life and Environmental Sciences, University of Tsukuba,
+1-1-1 Tennodai, Tsukuba, Ibaraki 305-8577, Japan.
+(2)Department of Anatomy and Physiology, Faculty of Medicine, Saga University,
+5-1-1 Nabeshima, Saga 849-8501, Japan.
+(3)Department of Anatomy, Faculty of Medicine, Tohoku Medical and Pharmaceutical 
+University, 1-15-1 Fukumuro, Miyagino-ku, Sendai, Miyagi 983-8536, Japan.
+(4)Department of Medical Technology and Science, School of Health Sciences at
+Fukuoka, International University of Health and Welfare, 137-1 Enokizu, Okawa,
+Fukuoka 831-8501, Japan.
+(5)Research Center for Odontology, The Nippon Dental University School of Life
+Dentistry at Tokyo, 1-9-20 Fujimi, Chiyoda-ku, Tokyo 102-8159, Japan.
+
+To effectively use a common marmoset (Callithrix jacchus) as an experimental
+animal species, it is critical to establish a normal characteristics and
+morphology of the organs of the common marmoset. Although gross morphology of the
+common marmoset heart is reportedly the same as that of humans, little
+information is available regarding detailed morphology of the right atrium and
+the interatrial septum. Heart specimens were collected from three male and 10
+female marmosets aged 9 to 65 months to determine the morphological features of
+the right atrium and the interatrial septum. Ten specimens were evaluated
+morphologically with a stereoscopic microscope in accordance with preparation and
+investigation methods designed to facilitate evaluation. Three specimens were
+histologically evaluated after being stained with hematoxylin-eosin, Elastica van
+Gieson and periodic acid Schiff. An annular ridge that is not present in the
+human heart was present in the right atrium and the interatrial septum of the
+common marmoset hearts. Tissue structure of the annular ridge was similar to
+atrial myocardial fibers. Furthermore, location of the coronary sinus ostium was 
+different to that in humans. Present findings were used to create a schematic
+view of the annular ridge in the common marmoset heart. In the common marmoset
+heart, the annular ridge may function as a valve of the superior vena cava
+ostium, inferior vena cava ostium, and coronary sinus ostium. Present study
+provides morphological evidence that common marmosets have a valve-like structure
+in the right atrium.
+
+DOI: 10.1538/expanim.19-0135 
+PMCID: PMC7445055
+PMID: 32074546  [Indexed for MEDLINE]
+
+
+361. PLoS Comput Biol. 2020 Feb 18;16(2):e1007627. doi: 10.1371/journal.pcbi.1007627. 
+eCollection 2020 Feb.
+
+The role of adaptation in generating monotonic rate codes in auditory cortex.
+
+Lee JH(1)(2), Wang X(1), Bendor D(2).
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland, United States
+of America.
+(2)Institute of Behavioural Neuroscience, Department of Experimental Psychology, 
+University College London, London, United Kingdom.
+
+In primary auditory cortex, slowly repeated acoustic events are represented
+temporally by the stimulus-locked activity of single neurons. Single-unit studies
+in awake marmosets (Callithrix jacchus) have shown that a sub-population of these
+neurons also monotonically increase or decrease their average discharge rate
+during stimulus presentation for higher repetition rates. Building on a
+computational single-neuron model that generates stimulus-locked responses with
+stimulus evoked excitation followed by strong inhibition, we find that
+stimulus-evoked short-term depression is sufficient to produce synchronized
+monotonic positive and negative responses to slowly repeated stimuli. By
+exploring model robustness and comparing it to other models for adaptation to
+such stimuli, we conclude that short-term depression best explains our
+observations in single-unit recordings in awake marmosets. Together, our results 
+show how a simple biophysical mechanism in single neurons can generate
+complementary neural codes for acoustic stimuli.
+
+DOI: 10.1371/journal.pcbi.1007627 
+PMCID: PMC7048304
+PMID: 32069272  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

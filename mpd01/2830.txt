@@ -1,0 +1,74 @@
+
+
+2830. Exp Neurol. 2004 May;187(1):86-93.
+
+Antiparkinsonian activity of Ro 25-6981, a NR2B subunit specific NMDA receptor
+antagonist, in animal models of Parkinson's disease.
+
+Löschmann PA(1), De Groote C, Smith L, Wüllner U, Fischer G, Kemp JA, Jenner P,
+Klockgether T.
+
+Author information: 
+(1)Department of Neurology, University of Tübingen, Tuebingen, Germany.
+
+N-methyl-D-aspartate (NMDA) receptor antagonists have antiakinetic and
+antidyskinetic effects in animals models of Parkinson's disease (PD). However,
+non-selective inhibition of NMDA receptors throughout the central nervous system 
+may result in undesired effects such as ataxia and psychosis. We therefore
+studied Ro 25-6981, an activity-dependent antagonist of NMDA receptors containing
+the NR2B subunit which are predominantly expressed in the striatum. Ro 25-6981
+induced contraversive rotations in 6-hydroxydopamine (6-OHDA)-lesioned rats
+without stimulating locomotion in normal rats and reversed parkinsonian symptoms 
+in 1-methyl-4-phenyl-1,2,3,6,-tetrahydropyridine (MPTP)-treated common marmosets.
+Due to the small number of marmosets, there were no significant differences
+between Ro 25-6981 and vehicle though there was a significant trend toward
+differences, as shown by the Page test. Furthermore, Ro 25-6981 potentiated the
+action of levodopa in both species and attenuated the maximal levodopa response
+in 6-OHDA-lesioned rats chronically treated with levodopa without reducing the
+overall response. Ro 25-6981 also potentiated the action of the dopamine receptor
+agonists apomorphine, A68930 and quinpirole in 6-OHDA-lesioned rats. The present 
+observations suggest a therapeutic potential of NR2B-selective NMDA receptor
+antagonists in the management of PD.
+
+DOI: 10.1016/j.expneurol.2004.01.018 
+PMID: 15081591  [Indexed for MEDLINE]
+
+
+2831. J Neurophysiol. 2004 Aug;92(2):1067-76. Epub 2004 Apr 7.
+
+Sense of taste in a New World monkey, the common marmoset. II. Link between
+behavior and nerve activity.
+
+Danilova V(1), Hellekant G.
+
+Author information: 
+(1)Dept. of Animal Health and Biomedical Sciences, University of
+Wisconsin-Madison, 1655 Linden Drive, Madison, WI 53706, USA.
+
+In a previous study, we characterized the gustatory system of a New World monkey 
+the common marmoset, Callithrix jacchus jacchus, with electrophysiological
+techniques by recording from taste fibers of the chorda tympani proper (CT) and
+glossopharyngeal (NG) nerves. Hierarchical cluster analysis identified three
+clusters of taste fibers: S fibers, responding predominantly to sweeteners, Q
+fibers, responding predominantly to bitter stimuli, and H fibers, responding
+predominantly to acids. In this study, we employed two behavioral techniques, the
+two-bottle preference (TBP) and conditioned taste aversion (CTA), to study the
+taste of the compounds used in the previous electrophysiological study. The
+results showed that compounds that did not stimulate any taste fibers were
+neither preferred nor rejected. Compounds that activated only S fibers were
+always preferred over water. When aversion to sucrose was created by the CTA
+method, these compounds were rejected. Compounds that activated Q fibers were
+rejected and consumed less than water. We studied the relationship between intake
+and net response from S and Q fibers in the CT and NG nerves. Intake was measured
+as a preference ratio in TBP test. The net response was defined as: (S(CT) +
+S(NG)) - (Q(CT) + Q(NG)), where S(CT) + S(NG) denotes the sum of the responses in
+S fibers of the CT and NG nerves. Similarly, Q(CT) + Q(NG) represents the sum of 
+the responses in Q fibers of the CT and NG nerves. The relationship between
+intake and the Net response was linear with a Pearson correlation coefficient
+0.85. This study supports our hypothesis that intake is influenced by S and Q
+fibers, where S fibers serve as a hedonically positive input and Q fibers as a
+hedonically negative input.
+
+DOI: 10.1152/jn.01183.2003 
+PMID: 15071088  [Indexed for MEDLINE]
+

@@ -1,0 +1,125 @@
+
+
+1391. Hum Reprod. 2014 Sep;29(9):2018-31. doi: 10.1093/humrep/deu157. Epub 2014 Jun 24.
+
+Separation of somatic and germ cells is required to establish primate
+spermatogonial cultures.
+
+Langenstroth D(1), Kossack N(1), Westernströer B(1), Wistuba J(1), Behr R(2),
+Gromoll J(1), Schlatt S(3).
+
+Author information: 
+(1)Institute of Reproduction and Regenerative Biology, Centre of Reproductive
+Medicine and Andrology, Albert-Schweitzer-Campus 1, Building D11, 48149 Münster, 
+Germany.
+(2)Stem Cell Biology Unit, German Primate Center, Kellnerweg 4, 37077 Göttingen, 
+Germany.
+(3)Institute of Reproduction and Regenerative Biology, Centre of Reproductive
+Medicine and Andrology, Albert-Schweitzer-Campus 1, Building D11, 48149 Münster, 
+Germany stefan.schlatt@ukmuenster.de.
+
+STUDY QUESTION: Can primate spermatogonial cultures be optimized by application
+of separation steps and well defined culture conditions?
+SUMMARY ANSWER: We identified the cell fraction which provides the best source
+for primate spermatogonia when prolonged culture is desired.
+WHAT IS KNOWN ALREADY: Man and marmoset show similar characteristics in regard to
+germ cell development and function. Several protocols for isolation and culture
+of human testis-derived germline stem cells have been described. Subsequent
+analysis revealed doubts on the germline origin of these cells and characterized 
+them as mesenchymal stem cells or fibroblasts. Studies using marmosets as
+preclinical model confirmed that the published isolation protocols did not lead
+to propagation of germline cells.
+STUDY DESIGN, SIZE, DURATION: Testicular cells derived from nine adult marmoset
+monkeys (Callithrix jacchus) were cultured for 1, 3, 6 and 11 days and
+consecutively analyzed for the presence of spermatogonia, differentiating germ
+cells and testicular somatic cells.
+PARTICIPANTS/MATERIALS, SETTING, METHODS: Testicular tissue of nine adult
+marmoset monkeys was enzymatically dissociated and subjected to two different
+cell culture approaches. In the first approach all cells were kept in the same
+dish (non-separate culture, n = 5). In the second approach the supernatant cells 
+were transferred into a new dish 24 h after seeding and subsequently supernatant 
+and attached cells were cultured separately (separate culture, n = 4). Real-time 
+quantitative PCR and immunofluorescence were used to analyze the expression of
+reliable germ cell and somatic markers throughout the culture period. Germ cell
+transplantation assays and subsequent wholemount analyses were performed to
+functionally evaluate the colonization of spermatogonial cells.
+MAIN RESULTS AND THE ROLE OF CHANCE: This is the first report revealing an
+efficient isolation and culture of putative marmoset spermatogonial stem cells
+with colonization ability. Our results indicate that a separation of
+spermatogonia from testicular somatic cells is a crucial step during cell
+preparation. We identified the overgrowth of more rapidly expanding somatic cells
+to be a major problem when establishing spermatogonial cultures. Initiating germ 
+cell cultures from the supernatant and maintaining germ cells in suspension
+cultures minimized the somatic cell contamination and provided enriched germ cell
+fractions which displayed after 11 days of culture a significantly higher
+expression of germ cell markers genes (DDX-4, MAGE A-4; P < 0.05) compared with
+separately cultured attached cells. Additionally, germ cell transplantation
+experiments demonstrated a significantly higher absolute number of cells with
+colonization ability (P < 0.001) in supernatant cells after 11 days of separate
+culture.
+LIMITATIONS, REASONS FOR CAUTION: This study presents a relevant aspect for the
+successful setup of spermatogonial cultures but provides limited data regarding
+the question of whether the long-term maintenance of spermatogonia can be
+achieved. Transfer of these preclinical data to man may require modifications of 
+the protocol.
+WIDER IMPLICATIONS OF THE FINDINGS: Spermatogonial cultures from rodents have
+become important and innovative tools for basic and applied research in
+reproductive biology and veterinary medicine. It is expected that
+spermatogonia-based strategies will be transformed into clinical applications for
+the treatment of male infertility. Our data in the marmoset monkey may be highly 
+relevant to establish spermatogonial cultures of human testes.
+STUDY FUNDING/COMPETING INTERESTS: Funding was provided by the DFG-Research Unit 
+FOR 1041 Germ Cell Potential (SCHL394/11-2) and by the Graduate Program Cell
+Dynamics and Disease (CEDAD) together with the International Max Planck Research 
+School - Molecular Biomedicine (IMPRS-MBM). The authors declare that there is no 
+conflict of interest.
+TRIAL REGISTRATION NUMBER: Not applicable.
+
+© The Author 2014. Published by Oxford University Press on behalf of the European
+Society of Human Reproduction and Embryology. All rights reserved. For
+Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/humrep/deu157 
+PMID: 24963164  [Indexed for MEDLINE]
+
+
+1392. PLoS One. 2014 Jun 24;9(6):e100574. doi: 10.1371/journal.pone.0100574.
+eCollection 2014.
+
+Tissue transglutaminase in marmoset experimental multiple sclerosis: discrepancy 
+between white and grey matter.
+
+Espitia Pinzon N(1), Stroo E(1), 't Hart BA(2), Bol JG(1), Drukarch B(1), Bauer
+J(3), van Dam AM(1).
+
+Author information: 
+(1)VU University Medical Center, Neuroscience Campus Amsterdam, Department of
+Anatomy and Neurosciences, Amsterdam, The Netherlands.
+(2)Biomedical Primate Research Center, Department of Immunobiology, Rijswijk, The
+Netherlands; University Groningen, University Medical Center, Department of
+Neuroscience, Groningen, The Netherlands.
+(3)Center for Brain Research, Department of Neuroimmunology, Vienna, Austria.
+
+Infiltration of leukocytes is a major pathological event in white matter lesion
+formation in the brain of multiple sclerosis (MS) patients. In grey matter
+lesions, less infiltration of these cells occur, but microglial activation is
+present. Thus far, the interaction of β-integrins with extracellular matrix
+proteins, e.g. fibronectin, is considered to be of importance for the influx of
+immune cells. Recent in vitro studies indicate a possible role for the enzyme
+tissue Transglutaminase (TG2) in mediating cell adhesion and migration. In the
+present study we questioned whether TG2 is present in white and grey matter
+lesions observed in the marmoset model for MS. To this end, immunohistochemical
+studies were performed. We observed that TG2, expressed by infiltrating monocytes
+in white matter lesions co-expressed β1-integrin and is located in close
+apposition to deposited fibronectin. These data suggest an important role for TG2
+in the adhesion and migration of infiltrating monocytes during white matter
+lesion formation. Moreover, in grey matter lesions, TG2 is mainly present in
+microglial cells together with some β1-integrin, whereas fibronectin is absent in
+these lesions. These data imply an alternative role for microglial-derived TG2 in
+grey matter lesions, e.g. cell proliferation. Further research should clarify the
+functional role of TG2 in monocytes or microglial cells in MS lesion formation.
+
+DOI: 10.1371/journal.pone.0100574 
+PMCID: PMC4069090
+PMID: 24959868  [Indexed for MEDLINE]
+

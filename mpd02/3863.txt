@@ -1,0 +1,39 @@
+
+
+3863. Virology. 1995 Nov 10;213(2):395-404.
+
+HERV-H endogenous retroviruses: presence in the New World branch but
+amplification in the Old World primate lineage.
+
+Mager DL(1), Freeman JD.
+
+Author information: 
+(1)Terry Fox Laboratory, British Columbia Cancer Agency, Vancouver, Canada.
+
+The evolutionary origin and age of the HERV-H family of human endogenous
+retrovirus-like sequences was investigated in this study. HERV-H elements exist
+in approximately 900 partially deleted copies and 50-100 more intact forms in
+humans and Old World monkeys. However, their possible presence in more divergent 
+species is unknown. We have isolated a 1.6-kb genomic DNA segment from the New
+World monkey marmoset that had been PCR amplified using human HERV-H primers. DNA
+and protein comparisons and database searches indicate that this marmoset clone
+is more closely related to human HERV-H elements than to any other sequence,
+indicating that HERV-H-related sequences do exist in New World monkeys. In
+contrast to the high copy numbers of deleted elements in Old World primates.
+Southern blot analysis shows that such elements are present in less than 50
+copies in two different species of New World monkey. To estimate evolutionary
+ages of the common deleted form of the element, a selected DNA segment from the
+pol region was compared from multiple human HERV-H elements. This comparison
+suggests that many HERV-H elements of the abundant deleted subfamily integrated
+approximately 30-35 million years ago. Very similar percentage divergence values 
+between 5' and 3' long terminal repeats of individual elements of the deleted
+subfamily also suggest that these elements are close in age. These results
+indicate that HERV-H elements first appeared in the germline prior to the New
+World/Old World divergence over 40 million years ago. Interestingly, they
+remained in low numbers in the New World branch while a subfamily underwent a
+major amplification in Old World primates before the time of divergence of
+hominoids from Old World monkeys.
+
+DOI: 10.1006/viro.1995.0012 
+PMID: 7491764  [Indexed for MEDLINE]
+

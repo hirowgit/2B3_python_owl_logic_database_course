@@ -1,0 +1,49 @@
+
+
+939. PLoS Pathog. 2016 Dec 27;12(12):e1006066. doi: 10.1371/journal.ppat.1006066.
+eCollection 2016 Dec.
+
+Non-human Primate Schlafen11 Inhibits Production of Both Host and Viral Proteins.
+
+Stabell AC(1), Hawkins J(2), Li M(3), Gao X(3), David M(3), Press WH(2)(4),
+Sawyer SL(1).
+
+Author information: 
+(1)BioFrontiers Institute, University of Colorado Boulder, Boulder, CO, United
+States of America.
+(2)Institute for Computational Engineering and Sciences, University of Texas at
+Austin, TX, United States of America.
+(3)Division of Biological Sciences, UCSD Moores Cancer Center, University of
+California San Diego, La Jolla, CA, United States of America.
+(4)Department of Integrative Biology, University of Texas at Austin, Austin, TX, 
+United States of America.
+
+Schlafen11 (encoded by the SLFN11 gene) has been shown to inhibit the
+accumulation of HIV-1 proteins. We show that the SLFN11 gene is under positive
+selection in simian primates and is species-specific in its activity against
+HIV-1. The activity of human Schlafen11 is relatively weak compared to that of
+some other primate versions of this protein, with the versions encoded by
+chimpanzee, orangutan, gibbon, and marmoset being particularly potent inhibitors 
+of HIV-1 protein production. Interestingly, we find that Schlafen11 is functional
+in the absence of infection and reduces protein production from certain non-viral
+(GFP) and even host (Vinculin and GAPDH) transcripts. This suggests that
+Schlafen11 may just generally block protein production from non-codon optimized
+transcripts. Because Schlafen11 is an interferon-stimulated gene with a broad
+ability to inhibit protein production from many host and viral transcripts, its
+role may be to create a general antiviral state in the cell. Interestingly, the
+strong inhibitors such as marmoset Schlafen11 consistently block protein
+production better than weak primate Schlafen11 proteins, regardless of the virus 
+or host target being analyzed. Further, we show that the residues to which
+species-specific differences in Schlafen11 potency map are distinct from residues
+that have been targeted by positive selection. We speculate that the positive
+selection of SLFN11 could have been driven by a number of different factors,
+including interaction with one or more viral antagonists that have yet to be
+identified.
+
+DOI: 10.1371/journal.ppat.1006066 
+PMCID: PMC5189954
+PMID: 28027315  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

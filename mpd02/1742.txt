@@ -1,0 +1,34 @@
+
+
+1742. J Comp Psychol. 2012 Aug;126(3):279-87. doi: 10.1037/a0026613. Epub 2012 Apr 2.
+
+Characteristics of serial order learning in common marmosets (Callithrix
+jacchus).
+
+Koba R(1), Takemoto A, Miwa M, Nakamura K.
+
+Author information: 
+(1)Department of Behavioral and Brain Sciences, Primate Research Institute, Kyoto
+University, Inuyama, Aichi, Japan.
+
+We investigated the characteristics of serial order learning in common marmosets 
+(Callithrix jacchus). Five marmosets were trained in a sequential responding task
+in which they were required to touch four graphic patterns in a given order
+(A→B→C→D) to obtain a reward. All five marmosets learned the task with over 65%
+accuracy. Shuffling the positions of B, C, and D immediately after the marmoset
+had correctly identified and selected the first stimulus (A) either decreased
+accuracy or lengthened response latency for the second stimulus (B). These
+results suggest that the marmosets planned the response to the second stimulus
+before they touched the first stimulus. In addition, when we presented a pair of 
+stimuli (AB, AC, AD, BC, BD, and CD pairs), the marmosets responded to the
+stimuli in the pair in the appropriate order, according to the learned order
+(A→B→C→D). The analyses of first and second response latencies clearly
+demonstrated both the first-item and missing-item effects in task performance.
+Our data provide direct evidence that marmosets can learn the relative order of
+the four stimuli in a sequential responding task.
+
+2012 APA, all rights reserved
+
+DOI: 10.1037/a0026613 
+PMID: 22468938  [Indexed for MEDLINE]
+

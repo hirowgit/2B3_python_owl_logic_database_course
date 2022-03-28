@@ -1,0 +1,40 @@
+
+
+3760. Psychopharmacology (Berl). 1996 Sep;127(1):1-9.
+
+The antiepileptic agent gabapentin (Neurontin) possesses anxiolytic-like and
+antinociceptive actions that are reversed by D-serine.
+
+Singh L(1), Field MJ, Ferris P, Hunter JC, Oles RJ, Williams RG, Woodruff GN.
+
+Author information: 
+(1)Department of Biology, Parke-Davis Neuroscience Research Center, Cambridge,
+UK.
+
+This report describes the activity of the antiepileptic agent gabapentin
+(Neurontin) in animal models predictive of anxiolysis and analgesia. Gabapentin
+displayed anxiolytic-like action in the rat conflict test, the mouse light/dark
+box and the rat elevated X-maze with respective minimum effective doses (MEDs) of
+3, 10 and 30 mg/kg. Furthermore, gabapentin also induced behavioural changes
+suggestive of anxiolysis in the marmoset human threat test with a MED of 30
+mg/kg. In the rat formalin test of tonic nociception, gabapentin dose-dependently
+(30-300 mg/kg) and selectively blocked the late phase with a MED of 100 mg/kg.
+However, it failed to block carrageenan-induced paw oedema. The
+intracerebroventricular (ICV) administration of the glycine/NMDA receptor agonist
+D-Serine, dose-dependently (10-100 micrograms/animal) reversed the
+antinociceptive action of gabapentin (200 mg/kg, SC). D-Serine (30
+micrograms/animal, ICV) also reversed the anxiolytic-like effects (in the
+light/dark box and the rat elevated X-maze) of gabapentin (30 mg/kg). In
+contrast, L-Serine (100 micrograms, ICV) failed to block the antinociceptive
+action of gabapentin. The antinociceptive action of (+)-HA-966 (25 mg/kg, SC), a 
+partial agonist at the glycine/NMDA receptor, was reversed by D-Serine (100
+micrograms/animal, ICV). However, D-Serine (100 micrograms/animal, ICV) failed to
+affect the antinociceptive action of a competitive NMDA receptor antagonist CGS
+19755 (3 mg/kg, SC). Gabapentin has negligible affinity for the strychnine
+insensitive [3H]glycine binding site. This indicates that the interaction between
+gabapentin and D-Serine may not involve the NMDA receptor complex. Gabapentin may
+represent a novel type of anxiolytic and analgesic agent.
+
+DOI: 10.1007/BF02805968 
+PMID: 8880937  [Indexed for MEDLINE]
+

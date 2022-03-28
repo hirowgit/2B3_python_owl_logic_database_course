@@ -1,0 +1,40 @@
+
+
+2545. Neuropharmacology. 2006 Aug;51(2):238-50. Epub 2006 May 6.
+
+Enhancing effects of nicotine and impairing effects of scopolamine on distinct
+aspects of performance in computerized attention and working memory tasks in
+marmoset monkeys.
+
+Spinelli S(1), Ballard T, Feldon J, Higgins GA, Pryce CR.
+
+Author information: 
+(1)Behavioural Neurobiology Laboratory, Swiss Federal Institute of Technology
+Zurich, Schorenstrasse 16, CH-8603 Schwerzenbach, Switzerland.
+
+With the CAmbridge Neuropsychological Test Automated Battery (CANTAB),
+computerized neuropsychological tasks can be presented on a touch-sensitive
+computer screen, and this system has been used to assess cognitive processes in
+neuropsychiatric patients, healthy volunteers, and species of non-human primate, 
+primarily the rhesus macaque and common marmoset. Recently, we reported that the 
+common marmoset, a small-bodied primate, can be trained to a high and stable
+level of performance on the CANTAB five-choice serial reaction time (5-CSRT) task
+of attention, and a novel task of working memory, the concurrent delayed
+match-to-position (CDMP) task. Here, in order to increase understanding of the
+specific cognitive demands of these tasks and the importance of acetylcholine to 
+their performance, the effects of systemic delivery of the muscarinic receptor
+antagonist scopolamine and the nicotinic receptor agonist nicotine were studied. 
+In the 5-CSRT task, nicotine enhanced performance in terms of increased sustained
+attention, whilst scopolamine led to increased omissions despite a high level of 
+orientation to the correct stimulus location. In the CDMP task, scopolamine
+impaired performance at two stages of the task that differ moderately in terms of
+memory retention load but both of which are likely to require working memory,
+including interference-coping, abilities. Nicotine tended to enhance performance 
+at the long-delay stage specifically but only against a background of relatively 
+low baseline performance. These data are consistent with a dissociation of the
+roles of muscarinic and nicotinic cholinergic receptors in the regulation of both
+sustained attention and working memory in primates.
+
+DOI: 10.1016/j.neuropharm.2006.03.012 
+PMID: 16678864  [Indexed for MEDLINE]
+

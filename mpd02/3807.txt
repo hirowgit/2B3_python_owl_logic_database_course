@@ -1,0 +1,37 @@
+
+
+3807. Xenobiotica. 1996 Mar;26(3):333-45.
+
+Pharmacokinetics of remikiren, a potent orally active inhibitor of human renin,
+in rat, dog and primates.
+
+Coassolo P(1), Fischli W, Clozel JP, Chou RC.
+
+Author information: 
+(1)Pharma Division Preclinical Research, F. Hoffmann-La Roche AG, Basel,
+Switzerland.
+
+1. An hplc method with fluorescence derivatization was developed for the
+quantification of remikiren in plasma (limit of quantification 2 ng/ml). This was
+used to determine the pharmacokinetics in various species of primate, in which
+the compound is a potent inhibitor of renin, as well as in the rat and dog in
+which it is less active. 2. After intravenous administration the mean residence
+time was < or = 1.5 h in all species, and the plasma clearance approached the
+corresponding hepatic blood flows. 3. Studies in the bile-duct cannulated rat and
+dog demonstrated that the high clearance was due to a combination of rapid
+metabolism, plus biliary and renal excretion of intact drug. 4. Consistent with
+the high hepatic clearance, oral bioavailability was low ( < or = 6%) in each
+species. However, all of the species tested absorbed a small proportion of an
+oral dose extremely rapidly, to give peak concentrations generally within 5 min
+of administration. 5. 'Simultaneous' collection of blood samples from the hepatic
+portal vein and aorta of rat confirmed that shortly after oral dosing the intact 
+drug did cross the liver; however, the later collections contained predominantly 
+more polar metabolites. 6. The rapid absorption of intact remikiren is consistent
+with the transient blockade of plasma renin activity, previously observed in
+primates after oral administration. However, the high clearance appears
+inconsistent with the subsequent prolonged decrease in blood pressure, suggesting
+that the latter effect is mediated through a 'tissue' compartment.
+
+DOI: 10.3109/00498259609046712 
+PMID: 8730924  [Indexed for MEDLINE]
+

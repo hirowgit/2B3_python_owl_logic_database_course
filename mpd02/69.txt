@@ -1,0 +1,58 @@
+
+
+69. eNeuro. 2021 Oct 12;8(5). pii: ENEURO.0176-21.2021. doi:
+10.1523/ENEURO.0176-21.2021. Print 2021 Sep-Oct.
+
+Identification of Trigeminal Sensory Neuronal Types Innervating Masseter Muscle.
+
+Lindquist KA(1), Belugin S(2), Hovhannisyan AH(2), Corey TM(3), Salmon
+A(4)(5)(6), Akopian AN(7)(2)(8).
+
+Author information: 
+(1)Integrated Biomedical Sciences (IBMS) Program, The University of Texas Health 
+Science Center at San Antonio, San Antonio, TX 78229.
+(2)Endodontics, The University of Texas Health Science Center at San Antonio, San
+Antonio, TX 78229.
+(3)Laboratory Animal Resources Departments, The University of Texas Health
+Science Center at San Antonio, San Antonio, TX 78229.
+(4)Molecular Medicine, The University of Texas Health Science Center at San
+Antonio, San Antonio, TX 78229.
+(5)Sam and Ann Barshop Institute for Longevity and Aging Studies, The University 
+of Texas Health Science Center at San Antonio, San Antonio, TX 78229.
+(6)South Texas Veterans Health Care System, Geriatric Research Education and
+Clinical Center San Antonio, TX 78229.
+(7)Integrated Biomedical Sciences (IBMS) Program, The University of Texas Health 
+Science Center at San Antonio, San Antonio, TX 78229 akopian@uthscsa.edu.
+(8)Pharmacology, The University of Texas Health Science Center at San Antonio,
+San Antonio, TX 78229.
+
+Understanding masseter muscle (MM) innervation is critical for the study of
+cell-specific mechanisms of pain induced by temporomandibular disorder (TMDs) or 
+after facial surgery. Here, we identified trigeminal (TG) sensory neuronal
+subtypes (MM TG neurons) innervating MM fibers, masseteric fascia, tendons, and
+adjusted tissues. A combination of patch clamp electrophysiology and
+immunohistochemistry (IHC) on TG neurons back-traced from reporter mouse MM found
+nine distinct subtypes of MM TG neurons. Of these neurons, 24% belonged to
+non-peptidergic IB-4+/TRPA1- or IB-4+/TRPA1+ groups, while two TRPV1+ small-sized
+neuronal groups were classified as peptidergic/CGRP+ One small-sized CGRP+
+neuronal group had a unique electrophysiological profile and were recorded from
+Nav1.8- or trkC+ neurons. The remaining CGRP+ neurons were medium-sized, could be
+divided into Nav1.8-/trkC- and Nav1.8low/trkC+ clusters, and showed large
+5HT-induced current. The final two MM TG neuronal groups were trkC+ and had no
+Nav1.8 and CGRP. Among MM TG neurons, TRPV1+/CGRP- (somatostatin+), tyrosine
+hydroxylase (TH)+ (C-LTMR), TRPM8+, MrgprA3+, or trkB+ (Aδ-LTMR) subtypes have
+not been detected. Masseteric muscle fibers, tendons and masseteric fascia in
+mice and the common marmoset, a new world monkey, were exclusively innervated by 
+either CGRP+/NFH+ or CGRP-/NFH+ medium-to-large neurons, which we found using a
+Nav1.8-YFP reporter, and labeling with CGRP, TRPV1, neurofilament heavy chain
+(NFH) and pgp9.5 antibodies. These nerves were mainly distributed in tendon and
+at junctions of deep-middle-superficial parts of MM. Overall, the data presented 
+here demonstrates that MM is innervated by a distinct subset of TG neurons, which
+have unique characteristics and innervation patterns.
+
+Copyright © 2021 Lindquist et al.
+
+DOI: 10.1523/ENEURO.0176-21.2021 
+PMCID: PMC8513531
+PMID: 34580157  [Indexed for MEDLINE]
+

@@ -1,0 +1,65 @@
+
+
+2073. J Vet Med Sci. 2009 Nov;71(11):1493-7.
+
+Bone mineral analysis through dual energy X-ray absorptiometry in laboratory
+animals.
+
+TSUJIO M(1), MIZOROGI T, KITAMURA I, MAEDA Y, NISHIJIMA K, KUWAHARA S, OHNO T,
+NIIDA S, NAGAYA M, Saito R, Tanaka S.
+
+Author information: 
+(1)Animal Facility for Aging Research (AFAR), National Center for Geriatrics and 
+Gerontology (NCGG), Obu, Aichi, Japan.
+
+To determine how to eliminate species difference in animal bone experiment, bone 
+mineral content (BMC) was measured using dual energy X-ray absorptiometry (DXA)
+on the femurs of laboratory mice (Mus musculus) and rats (Rattus norvegicus), and
+common marmosets (Callithrix jacchus). Measures were taken on femurs in situ,
+detached from the body, skinned and defleshed, or dried completely. When the BMC 
+of the bone measured in the intact limb attached to the trunk was set at 100%,
+the actual BMC of the dry bone was 58.7 +/- 11.5% in mice and 103.2 +/- 3.2% in
+rats. Similarly, the bone area (Area) and bone mineral density (BMD) of the dried
+femur was significantly lower in the mouse femurs than intact limb. Thus, soft
+limb tissue such as skin and muscle modified the BMC, Area, and BMD only in mouse
+but not in those from rats or marmosets. The bone mineral ratio (BMR; BMC divided
+by dry bone weight) was nearest to the human bone value in the rat femurs,
+whereas the mouse femur BMR was the most different. The BMR was proved to be a
+practical index in evaluating bone characteristics in laboratory animals, but the
+mouse femur might not be suitable as an animal model for research into the aging 
+of human bone.
+
+DOI: 10.1292/jvms.001493 
+PMID: 19959901  [Indexed for MEDLINE]
+
+
+2074. Microbiol Immunol. 2009 Dec;53(12):667-74. doi: 10.1111/j.1348-0421.2009.00176.x.
+
+Epitope mapping of Canine distemper virus phosphoprotein by monoclonal
+antibodies.
+
+Sugai A(1), Kooriyama T, Sato H, Yoneda M, Kai C.
+
+Author information: 
+(1)Laboratory Animal Research Center, The Institute of Medical Science, The
+University of Tokyo, Minato-ku, Tokyo, Japan.
+
+The gene for phosphoprotein (P) of CDV encodes three different proteins, P, V,
+and C. The P protein is involved in viral gene transcription and replication. In 
+the present study, we produced MAbs against a unique domain of the CDV-P protein,
+from aa 232 to 507, and determined their antigenic sites. By immunizing BALB/c
+mice with the recombinant P protein-specific fragment, we obtained six MAbs.
+Competitive binding inhibition assays revealed that they recognized two distinct 
+regions of the P protein. Western blot analysis and immunofluorescence assays
+using deletion mutants of the unique C-terminus of the CDV-P protein revealed
+that all MAbs recognized a central short region (aa 233-303) of the CDV-P
+protein. In addition, linear and conformational epitopes have been determined,
+and at least four antigenic sites exist in the P protein central region.
+Furthermore, four of the MAbs were found to react with the P protein of recent
+Japanese field isolates but not with that of the older CDV strains, including a
+vaccine strain. Thus, these MAbs could be clinically useful for quick diagnosis
+during the CDV outbreaks.
+
+DOI: 10.1111/j.1348-0421.2009.00176.x 
+PMID: 19954454  [Indexed for MEDLINE]
+

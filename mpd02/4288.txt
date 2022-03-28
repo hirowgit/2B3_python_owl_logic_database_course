@@ -1,0 +1,36 @@
+
+
+4288. Mol Immunol. 1991 Nov;28(11):1171-81.
+
+A single amino acid substitution in a common African allele of the CD4 molecule
+ablates binding of the monoclonal antibody, OKT4.
+
+Lederman S(1), DeMartino JA, Daugherty BL, Foeldvari I, Yellin MJ, Cleary AM,
+Berkowitz N, Lowy I, Braunstein NS, Mark GE, et al.
+
+Author information: 
+(1)Department of Medicine, Columbia University, New York, NY 10032.
+
+The CD4 molecule is a relatively non-polymorphic 55 kDa glycoprotein expressed on
+a subset of T lymphocytes. A common African allele of CD4 has been identified by 
+non-reactivity with the monoclonal antibody, OKT4. The genetic basis for the
+OKT4- polymorphism of CD4 is unknown. In the present paper, the structure of the 
+CD4 molecule from an homozygous CD4OKT4- individual was characterized at the
+molecular level. The size of the CD4OKT4- protein and mRNA were indistinguishable
+from those of the OKT4+ allele. The polymerase chain reaction (PCR) was used to
+map the structure of CD4OKT4- cDNAs by amplifying overlapping DNA segments and to
+obtain partial nucleotide sequence after asymmetric amplification. PCR was then
+used to clone CD4OKT4- cDNAs spanning the coding region of the entire, mature CD4
+protein by amplification of two overlapping segments followed by PCR
+recombination. The nucleotide sequence of CD4OKT4- cDNA clones revealed a G----A 
+transition at bp 867 encoding an arginine----tryptophan substitution at amino
+acid 240 relative to CD4OKT4+. Expression of a CD4OKT4- cDNA containing only this
+transition, confirmed that the arginine----tryptophan substitution at amino acid 
+240 ablates the binding of the mAb OKT4. A positively charged amino acid residue 
+at this position is found in chimpanzee, rhesus macaque, mouse and rat CD4
+suggesting that this mutation may confer unique functional properties to the
+CD4OKT4- protein.
+
+DOI: 10.1016/0161-5890(91)90003-3 
+PMID: 1961196  [Indexed for MEDLINE]
+

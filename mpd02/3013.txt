@@ -1,0 +1,45 @@
+
+
+3013. J Virol. 2002 Dec;76(23):12055-68.
+
+Complete genomic sequence of an Epstein-Barr virus-related herpesvirus naturally 
+infecting a new world primate: a defining point in the evolution of oncogenic
+lymphocryptoviruses.
+
+Rivailler P(1), Cho YG, Wang F.
+
+Author information: 
+(1)Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, 
+Boston, Massachusetts 02115, USA. privailler@rics.bwh.harvard.edu
+
+Callitrichine herpesvirus 3 (CalHV-3) was isolated from a B-cell lymphoma arising
+spontaneously in the New World primate Callithrix jacchus, the common marmoset.
+Partial genomic sequence analysis definitively identified CalHV-3 as a member of 
+the Epstein-Barr virus (EBV)-related lymphocryptovirus (LCV) genus and extended
+the known host range of LCVs beyond humans and Old World nonhuman primates. We
+have now completed the first genomic sequence of an LCV infecting a New World
+primate by describing the unique short region, the major internal repeat, and a
+portion of the unique long region. This portion of the genome contains the
+putative latent origin of replication and 13 additional open reading frames
+(ORFs), 5 of which show no homology to any viral or cell genes. One of the novel 
+genes, C5, is a positional homologue for the transformation-essential EBV gene
+EBNA-2. The marmoset LCV genome is also notable for the absence of viral
+interleukin-10 and small nonpolyadenylated RNA homologues. Marmoset LCV
+transcripts encoding putative latent infection nuclear proteins have a common
+leader sequence that is spliced from the major internal repeat in a manner
+similar to that of the EBV EBNA-LP, suggesting strong conservation of a common
+promoter and splicing of these latent infection mRNAs. An EBV LMP2A-like spliced 
+transcript crossing the terminal repeats encodes a unique ORF, C7, with multiple 
+transmembrane domains and tyrosine kinase phosphorylation sites functionally
+reminiscent of EBV LMP2A. However, the carboxy-terminal location of the candidate
+phosphotyrosine residues is more reminiscent of the Kaposi's sarcoma-associated
+herpesvirus K15 gene and provides potential evidence of an evolutionary
+transition from rhadinoviruses to lymphocryptoviruses. The unusual gene
+repertoire of the marmoset LCV differentiates ancestral viral genes likely
+present in an LCV progenitor from viral genes acquired later as primates and LCV 
+coevolved, providing a defining point in the evolution of oncogenic LCVs.
+
+DOI: 10.1128/jvi.76.23.12055-12068.2002 
+PMCID: PMC136909
+PMID: 12414947  [Indexed for MEDLINE]
+

@@ -1,0 +1,47 @@
+
+
+3249. Neuroscience. 2000;99(3):457-68.
+
+L-DOPA produces strong induction of c-fos messenger RNA in dopamine-denervated
+cortical and striatal areas of the common marmoset.
+
+Svenningsson P(1), Gunne L, Andren PE.
+
+Author information: 
+(1)Department of Physiology and Pharmacology, Karolinska Institutet, SE-171 77,
+Stockholm, Sweden. svennip@rockvax.rockefeller.edu
+
+Common marmosets (Callithrix jacchus) with near-complete unilateral
+6-hydroxydopamine denervation of the dopaminergic input received a single
+injection of saline or L-DOPA (15mg/kg plus 6.25mg/kg benserazide). Using in situ
+hybridization, the effects of these treatments on c-fos messenger RNA expression 
+in the cerebral cortex, the striatal complex and the external layer of the
+pallidum were studied. Moreover, receptor autoradiography was used to determine
+the levels of dopamine D(1) and D(2) receptors in these areas. In the cerebral
+cortex, animals treated with L-DOPA displayed a high expression of c-fos
+messenger RNA restricted to the dopamine-denervated hemisphere. No changes in the
+levels of cortical D(1) and D(2) receptors were found in the dopamine-denervated 
+hemisphere. L-DOPA treatment also induced a strong expression of c-fos messenger 
+RNA in the striatal complex in the dopamine-denervated hemisphere. The levels of 
+striatal D(2), but not D(1), receptors were increased in the dopamine-denervated 
+hemisphere. In the external pallidum, the major terminal region for D(2) dopamine
+receptor-containing striatal projection neurons, L-DOPA treatment induced c-fos
+messenger RNA expression in both the intact and the dopamine-denervated
+hemispheres.Thus, using c-fos messenger RNA as a biochemical marker of
+postsynaptic neuronal activation, these results provide evidence that
+near-complete dopamine depletion causes a profound supersensitization to L-DOPA
+treatment in the cerebral cortex and in the striatal complex, but not in the
+external layer of the pallidum, of the primate brain. The cortical response may
+be unique to the primate brain, but c-fos messenger RNA activation within the
+striatum has also been reported in the rodent. The effects of L-DOPA probably
+depend both on a direct activation of supersensitized dopamine receptors by
+dopamine produced in the few remaining, but hyperactive, dopaminergic nerve
+terminals and in serotonergic nerve terminals, as well as on indirect actions of 
+L-DOPA related to activation of circuitries connecting cerebral cortex and basal 
+ganglia structures. These results provide novel information on the mechanisms
+underlying L-DOPA's action in the cerebral cortex, striatum and external pallidum
+in a primate model of Parkinson's disease.
+
+DOI: 10.1016/s0306-4522(00)00213-x 
+PMID: 11029538  [Indexed for MEDLINE]
+

@@ -1,0 +1,85 @@
+
+
+1666. Invest Ophthalmol Vis Sci. 2012 Sep 21;53(10):6479-87.
+
+The effect of simultaneous negative and positive defocus on eye growth and
+development of refractive state in marmosets.
+
+Benavente-Perez A(1), Nour A, Troilo D.
+
+Author information: 
+(1)SUNY College of Optometry, New York, New York 10036, USA.
+abenavente@sunyopt.edu
+
+PURPOSE: We evaluated the effect of imposing negative and positive defocus
+simultaneously on the eye growth and refractive state of the common marmoset, a
+New World primate that compensates for either negative and positive defocus when 
+they are imposed individually.
+METHODS: Ten marmosets were reared with multizone contact lenses of alternating
+powers (-5 diopters [D]/+5 D), 50:50 ratio for average pupil of 2.80 mm over the 
+right eye (experimental) and plano over the fellow eye (control) from 10 to 12
+weeks. The effects on refraction (mean spherical equivalent [MSE]) and vitreous
+chamber depth (VC) were measured and compared to untreated, and -5 D and +5 D
+single vision contact lens-reared marmosets.
+RESULTS: Over the course of the treatment, pupil diameters ranged from 2.26 to
+2.76 mm, leading to 1.5 times greater exposure to negative than positive power
+zones. Despite this, at different intervals during treatment, treated eyes were
+on average relatively more hyperopic and smaller than controls
+(experimental-control [exp-con] mean MSE ± SE +1.44 ± 0.45 D, mean VC ± SE -0.05 
+± 0.02 mm) and the effects were similar to those in marmosets raised on +5 D
+single vision contact lenses (exp-con mean MSE ± SE +1.62 ± 0.44 D. mean VC ± SE 
+-0.06 ± 0.03 mm). Six weeks into treatment, the interocular growth rates in
+multizone animals were already lower than in -5 D-treated animals (multizone -1.0
+± 0.1 μm/day, -5 D +2.1 ± 0.9 μm/day) and did not change significantly throughout
+treatment.
+CONCLUSIONS: Imposing hyperopic and myopic defocus simultaneously using
+concentric contact lenses resulted in relatively smaller and less myopic eyes,
+despite treated eyes being exposed to a greater percentage of negative defocus.
+Exposing the retina to combined dioptric powers with multifocal lenses that
+include positive defocus might be an effective treatment to control myopia
+development or progression.
+
+DOI: 10.1167/iovs.12-9822 
+PMCID: PMC3450918
+PMID: 22918633  [Indexed for MEDLINE]
+
+
+1667. J Comp Neurol. 2013 Apr 1;521(5):1001-19. doi: 10.1002/cne.23215.
+
+Representation of the visual field in the primary visual area of the marmoset
+monkey: magnification factors, point-image size, and proportionality to retinal
+ganglion cell density.
+
+Chaplin TA(1), Yu HH, Rosa MG.
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, VIC 3800, Australia.
+
+The primary visual area (V1) forms a systematic map of the visual field, in which
+adjacent cell clusters represent adjacent points of visual space. A precise
+quantification of this map is key to understanding the anatomical relationships
+between neurons located in different stations of the visual pathway, as well as
+the neural bases of visual performance in different regions of the visual field. 
+We used computational methods to quantify the visual topography of V1 in the
+marmoset (Callithrix jacchus), a small diurnal monkey. The receptive fields of
+neurons throughout V1 were mapped in two anesthetized animals using
+electrophysiological recordings. Following histological reconstruction, precise
+3D reconstructions of the V1 surface and recording sites were generated. We found
+that the areal magnification factor (M(A) ) decreases with eccentricity following
+a function that has the same slope as that observed in larger diurnal primates,
+including macaque, squirrel, and capuchin monkeys, and humans. However, there was
+no systematic relationship between M(A) and polar angle. Despite individual
+variation in the shape of V1, the relationship between M(A) and eccentricity was 
+preserved across cases. Comparison between V1 and the retinal ganglion cell
+density demonstrated preferential magnification of central space in the cortex.
+The size of the cortical compartment activated by a punctiform stimulus decreased
+from the foveal representation towards the peripheral representation.
+Nonetheless, the relationship between the receptive field sizes of V1 cells and
+the density of ganglion cells suggested that each V1 cell receives information
+from a similar number of retinal neurons, throughout the visual field.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+DOI: 10.1002/cne.23215 
+PMID: 22911425  [Indexed for MEDLINE]
+

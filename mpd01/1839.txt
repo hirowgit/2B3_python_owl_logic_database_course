@@ -1,0 +1,76 @@
+
+
+1839. J Neurosci Methods. 2011 Sep 30;201(1):159-72. doi:
+10.1016/j.jneumeth.2011.07.029. Epub 2011 Aug 6.
+
+Multimodal vessel mapping for precise large area alignment of functional optical 
+imaging data to neuroanatomical preparations in marmosets.
+
+Valverde Salzmann MF(1), Wallace DJ, Logothetis NK, Schüz A.
+
+Author information: 
+(1)Max Planck Institute for Biological Cybernetics, Spemannstrasse 38, 72076
+Tübingen, Germany. matthias.valverde@tuebingen.mpg.de
+
+Imaging technologies, such as intrinsic optical imaging (IOI), functional
+magnetic resonance imaging (fMRI) or multiphoton microscopy provide excellent
+opportunities to study the relationship between functional signals recorded from 
+a cortical area and the underlying anatomical structure. This, in turn, requires 
+accurate alignment of the recorded functional imaging data with histological
+datasets from the imaged tissue obtained after the functional experiment. This
+alignment is complicated by distortions of the tissue which naturally occur
+during histological treatment, and is particularly difficult to achieve over
+large cortical areas, such as primate visual areas. We present here a method that
+uses IOI vessel maps revealed in the time course of the intrinsic signal, in
+combination with vascular casts and vascular lumen labeling techniques together
+with a pseudo three dimensional (p3D) reconstruction of the tissue architecture
+in order to facilitate alignment of IOI data with posthoc histological datasets. 
+We demonstrate that by such a multimodal vessel mapping approach, we are able to 
+constitute a hook in anatomical-functional data alignment that enables the
+accurate assignment of functional signals over large cortical regions. As an
+example, we present precise alignments of IOI responses showing orientation
+selectivity of primate V1 with anatomical sections stained for
+cytochrome-oxidase-reactivity.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2011.07.029 
+PMID: 21843550  [Indexed for MEDLINE]
+
+
+1840. J Mol Endocrinol. 2011 Oct 24;47(3):285-98. doi: 10.1530/JME-11-0026. Print 2011 
+Dec.
+
+A novel two-promoter-one-gene system of the chorionic gonadotropin β gene enables
+tissue-specific expression.
+
+Adams C(1), Henke A, Gromoll J.
+
+Author information: 
+(1)Institute of Reproductive and Regenerative Biology, Centre of Reproduction and
+Andrology, University Hospital Münster, Domagkstrasse 11, 48129 Münster, Germany.
+
+The New World monkey (NWM), Callithrix jacchus, a preferred model in medical
+research, displays an interesting endocrine regulation of reproduction: LH, the
+heterodimeric glycoprotein hormone, is functionally replaced by the chorionic
+gonadotropin (CG), a hormone indispensable for establishment of pregnancy in
+humans and normally expressed in the placenta. In the marmoset pituitary, the
+expression of the β-subunit (CGB) gene is regulated similar to human LH
+β-subunit, but its placental regulation is unknown. This study intended to
+decipher the underlying mechanism of tissue-specific expression of CGB in the
+marmoset placenta. We identified a new placental transcriptional start site,
+described a new, previously undiscovered exon, and define a novel placental core 
+promoter in the marmoset CGB gene. This promoter contains a TATA box and binding 
+sites for activating protein 2 and selective promoter factor 1, the latter acting
+synergistically by forming a regulation cassette. Differential first exon usage
+directed the tissue-specific expression. Methylation analyses revealed a
+tissue-specific pattern in the placental promoter indicating additional
+epigenetic regulation of gene expression. Our findings point toward a hitherto
+unknown evolutionary plasticity in the LH/CG hormonal system in NWM, which could 
+be used as a model to study human CGB regulation in clinical pathologies.
+
+© 2011 Society for Endocrinology
+
+DOI: 10.1530/JME-11-0026 
+PMID: 21821715  [Indexed for MEDLINE]
+

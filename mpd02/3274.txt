@@ -1,0 +1,24 @@
+
+
+3274. J Biomed Opt. 2000 Jul;5(3):307-14.
+
+On the use of schematic eye models to estimate retinal image quality.
+
+Li G(1), Zwick H, Stuck B, Lund DJ.
+
+Author information: 
+(1)Walter Reed Army Institute of Research, US Army Medical Research Detachment,
+Brooks Air Force Base, Texas 78235-5138, USA. liguo@aol.com
+
+The optical performance of the eyes of nine vertebrate species was evaluated
+using optical system design techniques and schematic eye models. Essential
+features of eyes, including the modulation transfer function (MTF) and the MTF
+cutoff frequency are related to the numerical aperture of the eyes. Superior
+resolution for in vivo imaging of photoreceptors may be achieved by dilating the 
+iris pupil of an eye, minimizing coherence, and using short wavelength
+illumination. The difference of lateral and axial resolution between a small and 
+a large eye for imaging photoreceptors in vivo.
+
+DOI: 10.1117/1.430001 
+PMID: 10958617  [Indexed for MEDLINE]
+

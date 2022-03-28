@@ -1,0 +1,112 @@
+
+
+699. Vet Anaesth Analg. 2018 May;45(3):309-319. doi: 10.1016/j.vaa.2017.06.009. Epub
+2018 Feb 5.
+
+Effects of buprenorphine, butorphanol or tramadol premedication on anaesthetic
+induction with alfaxalone in common marmosets (Callithrix jacchus).
+
+Bakker J(1), Roubos S(2), Remarque EJ(3), Arndt SS(2), Kronen PW(4), Langermans
+JA(5).
+
+Author information: 
+(1)Animal Science Department, Biomedical Primate Research Centre, Rijswijk, The
+Netherlands. Electronic address: bakker@bprc.nl.
+(2)Department of Animals in Science & Society, Division of Animal Welfare &
+Laboratory Animal Science, Faculty of Veterinary Medicine Utrecht University,
+Utrecht, The Netherlands.
+(3)Department of Parasitology, Biomedical Primate Research Centre, Rijswijk, The 
+Netherlands.
+(4)Veterinary Anaesthesia Services - International, Winterthur, Switzerland.
+(5)Animal Science Department, Biomedical Primate Research Centre, Rijswijk, The
+Netherlands.
+
+OBJECTIVE: To investigate the clinical and physiological effects of intravenous
+(IV) alfaxalone alone or in combination with buprenorphine, butorphanol or
+tramadol premedication in marmosets.
+STUDY DESIGN: Prospective, randomized, blinded, crossover design.
+ANIMALS: Nine healthy marmosets (391 ± 48 g, 3.7 ± 2.2 years old).
+METHODS: Meloxicam 0.20 mg kg-1 subcutaneously, atropine 0.05 mg kg-1
+intramuscularly (IM) and either buprenorphine 20 μg kg-1 IM (BUP-A), butorphanol 
+0.2 mg kg-1 IM (BUT-A), tramadol 1.5 mg kg-1 IM (TRA-A) or no additional drug
+(control) were administered to all marmosets as premedication. After 1 hour,
+anaesthesia was induced with 16 mg kg-1 alfaxalone IV. All animals received all
+protocols. The order of protocol allocation was randomized with a minimum 28 day 
+wash-out period. During anaesthesia, respiratory and pulse rates, rectal
+temperature, haemoglobin oxygen saturation, arterial blood pressure, palpebral
+and pedal withdrawal reflexes and degree of muscle relaxation were assessed and
+recorded every 5 minutes. Quality of induction and recovery were assessed.
+Duration of induction, immobilization and recovery were recorded. Blood samples
+were analysed for aspartate aminotransferase, creatine kinase and lactate
+dehydrogenase concentrations. The protocols were compared using paired t tests,
+Wilcoxon's signed-rank test with Bonferroni's corrections and linear mixed effect
+models where appropriate.
+RESULTS: Out of nine animals, apnoea was noted in eight animals administered
+protocol BUP-A and two animals administered protocol BUT-A. With TRA-A and
+control protocols, apnoea was not observed. No other significant differences in
+any of the parameters were found; however, low arterial blood pressures and
+hypoxia occurred in TRA-A.
+CONCLUSIONS AND CLINICAL RELEVANCE: Our study employing different premedications 
+suggests that the previously published dose of 16 mg kg-1 alfaxalone is too high 
+when used with premedication because we found a high incidence of complications
+including apnoea (BUP-A), hypotension and hypoxaemia (TRA-A). Appropriate
+monitoring and countermeasures are recommended.
+
+Copyright © 2018 Association of Veterinary Anaesthetists and American College of 
+Veterinary Anesthesia and Analgesia. Published by Elsevier Ltd. All rights
+reserved.
+
+DOI: 10.1016/j.vaa.2017.06.009 
+PMID: 29628389  [Indexed for MEDLINE]
+
+
+700. Biochem Pharmacol. 2018 Jun;152:272-278. doi: 10.1016/j.bcp.2018.04.002. Epub
+2018 Apr 5.
+
+In vivo and in vitro diclofenac 5-hydroxylation mediated primarily by cytochrome 
+P450 3A enzymes in common marmoset livers genotyped for P450 2C19 variants.
+
+Nakanishi K(1), Uehara S(1), Kusama T(1), Inoue T(2), Shimura K(1), Kamiya Y(1), 
+Murayama N(1), Shimizu M(1), Uno Y(3), Sasaki E(4), Yamazaki H(5).
+
+Author information: 
+(1)Showa Pharmaceutical University, Machida, Tokyo 194-8543, Japan.
+(2)Department of Marmoset Research, Central Institute for Experimental Animals,
+Kawasaki, Japan.
+(3)Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, Japan.
+(4)Department of Marmoset Research, Central Institute for Experimental Animals,
+Kawasaki, Japan; Keio Advanced Research Center, Keio University, Minato-ku,
+Tokyo, Japan.
+(5)Showa Pharmaceutical University, Machida, Tokyo 194-8543, Japan. Electronic
+address: hyamazak@ac.shoyaku.ac.jp.
+
+Common marmosets (Callithrix jacchus) are potentially useful nonhuman primate
+models for preclinical studies. An anti-inflammatory drug, diclofenac is
+reportedly metabolized mainly by human cytochrome P450 (P450) 2C9 to
+4'-hydroxydiclofenac and minorly by P450 3A4 to 5-hydroxydiclofenac that leads to
+reactive intermediates. In this study, in vivo pharmacokinetics in six marmosets 
+and in vitro metabolism in nine marmoset liver microsomes were analyzed using
+diclofenac to evaluate marmosets as preclinical drug metabolism models. In
+wild-type marmosets genotyped for P450 2C19 p.[(Phe7Leu; Ser254Leu; Ile469Thr)], 
+plasma levels of 5-hydroxydiclofenac and 4'-hydroxydiclofenac were roughly
+similar, but the homozygotes showed approximately three-times higher plasma
+levels of 5-hydroxydiclofenac than those of 4'-hydroxydiclofenac after oral
+administrations of diclofenac (50 mg/kg). Nine marmoset liver microsomes
+catalyzed mainly diclofenac 5-hydroxylation with no significant effects of the
+the P450 2C19 genotype, and partly diclofenac 4'-hydroxylation that depended on
+the P450 2C19 genotype, at substrate concentrations of 10 µM and 100 µM. Both
+Michaels-Menten constant Km values for diclofenac 4'-hydroxylation in human and
+marmoset liver microsomes were ∼30 μM and those for diclofenac 5-hydroxylation
+were ∼120 μM. Ketoconazole significantly suppressed only diclofenac
+5-hydroxylation in marmoset or human liver microsomes at 0.030 μM, indicating
+main contribution of P450 3A enzymes, which were found to be P450 3A5/90 using
+recombinant marmoset P450 3A enzymes. These results suggest that marmosets would 
+be a functional animal model for in vivo and in vitro metabolites likely
+generated via arene oxide intermediates of diclofenac by P450 3A enzymes in
+humans, primarily because marmosets lack the ortholog of human P450 2C9.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2018.04.002 
+PMID: 29626440  [Indexed for MEDLINE]
+

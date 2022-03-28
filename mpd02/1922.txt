@@ -1,0 +1,43 @@
+
+
+1922. Nucleic Acids Res. 2011 May;39(9):3710-23. doi: 10.1093/nar/gkq1325. Epub 2011
+Jan 18.
+
+Species-specific microRNA roles elucidated following astrocyte activation.
+
+Mor E(1), Cabilly Y, Goldshmit Y, Zalts H, Modai S, Edry L, Elroy-Stein O,
+Shomron N.
+
+Author information: 
+(1)Department of Cell and Developmental Biology, Sackler Faculty of Medicine,
+George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 69978,
+Israel.
+
+MicroRNAs (miRNAs) are short non-coding RNAs that play a central role in
+regulation of gene expression by binding to target genes. Many miRNAs were
+associated with the function of the central nervous system (CNS) in health and
+disease. Astrocytes are the CNS most abundant glia cells, providing support by
+maintaining homeostasis and by regulating neuronal signaling, survival and
+synaptic plasticity. Astrocytes play a key role in repair of brain insults, as
+part of local immune reactivity triggered by inflammatory or pathological
+conditions. Thus, astrocyte activation, or astrogliosis, is an important outcome 
+of the innate immune response, which can be elicited by endotoxins such as
+lipopolysaccharide (LPS) and cytokines such as interferon-gamma (IFN-γ). The
+involvement of miRNAs in inflammation and stress led us to hypothesize that
+astrogliosis is mediated by miRNA function. In this study, we compared the miRNA 
+regulatory layer expressed in primary cultured astrocyte derived from rodents
+(mice) and primates (marmosets) brains upon exposure to LPS and IFN-γ. We
+identified subsets of differentially expressed miRNAs some of which are shared
+with other immunological related systems while others, surprisingly, are mouse
+and rat specific. Of interest, these specific miRNAs regulate genes involved in
+the tumor necrosis factor-alpha (TNF-α) signaling pathway, indicating a
+miRNA-based species-specific regulation. Our data suggests that miRNA function is
+more significant in the mechanisms governing astrocyte activation in rodents
+compared to primates.
+
+© The Author(s) 2011. Published by Oxford University Press.
+
+DOI: 10.1093/nar/gkq1325 
+PMCID: PMC3089466
+PMID: 21247879  [Indexed for MEDLINE]
+

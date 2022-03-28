@@ -1,0 +1,73 @@
+
+
+2611. J Med Chem. 2005 Dec 1;48(24):7808-20.
+
+Adenosine kinase inhibitors. 6. Synthesis, water solubility, and antinociceptive 
+activity of 5-phenyl-7-(5-deoxy-beta-D-ribofuranosyl)pyrrolo[2,3-d]pyrimidines
+substituted at C4 with glycinamides and related compounds.
+
+Bookser BC(1), Ugarkar BG, Matelich MC, Lemus RH, Allan M, Tsuchiya M, Nakane M, 
+Nagahisa A, Wiesner JB, Erion MD.
+
+Author information: 
+(1)Metabasis Therapeutics, Inc., 9390 Towne Centre Drive, San Diego, California
+92121, USA. bookser@mbasis.com
+
+4-(Phenylamino)-5-phenyl-7-(5-deoxy-beta-D-ribofuranosyl)pyrrolo[2,3-d]pyrimidine
+1 and related compounds known as "diaryltubercidin" analogues are potent
+inhibitors of adenosine kinase (AK) and are orally active in animal models of
+pain such as the rat formalin paw model (GP3269 ED50= 6.4 mg/kg). However, the
+utility of this compound class is limited by poor water solubility that can be
+attributed to the high energy of crystallization caused by stacking of the
+parallel C4 and C5 aryl rings in the solid state (compound 1 and GP3269 each with
+pH 7.4 solubility <0.05 microg/mL). To increase water solubility, the hydrophobic
+C4-phenylamino substituent was replaced with a more hydrophilic group,
+glycinamide. This modification resulted in improved water solubility while
+retaining AK inhibition potency. Analogues were studied where changes in the
+glycinamide moiety were combined with changes to the base and sugar. A lead
+compound,
+4-N-(N-cyclopropylcarbamoylmethyl)amino-5-phenyl-7-(5-deoxy-beta-D-ribofuranosyl)
+pyrrolo[2,3-d]pyrimidine (16c) (IC50= 3 nM and water solubility = 32 +/- 9
+microg/mL at pH 7.4), was further characterized in biological assays. Compound
+16c exhibited strong oral efficacy in the rat formalin paw model (ED50 of 2.5
+mg/kg). In the most advanced assay, 16c was found to inhibit bradykinin-induced
+licking in marmoset monkeys with an ED50 estimated at 0.9 mg/kg without producing
+evidence of side effects such as ataxia, sedation, and emesis at this dose.
+However, lethal toxicity in the rat formalin paw model occurred with high doses
+of 16c, and further work on this series was discontinued.
+
+DOI: 10.1021/jm050394a 
+PMID: 16302820  [Indexed for MEDLINE]
+
+
+2612. Proc Natl Acad Sci U S A. 2005 Nov 29;102(48):17478-82. Epub 2005 Nov 18.
+
+Experience induces structural and biochemical changes in the adult primate brain.
+
+Kozorovitskiy Y(1), Gross CG, Kopil C, Battaglia L, McBreen M, Stranahan AM,
+Gould E.
+
+Author information: 
+(1)Department of Psychology, Princeton University, Princeton, NJ 08544, USA.
+
+Primates exhibit complex social and cognitive behavior in the wild. In the
+laboratory, however, the expression of their behavior is usually limited. A large
+body of literature shows that living in an enriched environment alters dendrites 
+and synapses in the brains of adult rodents. To date, no studies have
+investigated the influence of living in a complex environment on brain structure 
+in adult primates. We assessed dendritic architecture, dendritic spines, and
+synaptic proteins in adult marmosets housed in either a standard laboratory cage 
+or in one of two differentially complex habitats. A month-long stay in either
+complex environment enhanced the length and complexity of the dendritic tree and 
+increased dendritic spine density and synaptic protein levels in the hippocampus 
+and prefrontal cortex. No differences were detected between the brains of
+marmosets living in the two differentially complex environments. Our results show
+that the structure of the adult primate brain remains highly sensitive even to
+modest levels of experiential complexity. For adult primates, living in standard 
+laboratory housing may induce reversible dendritic spine and synapse decreases in
+brain regions important for cognition.
+
+DOI: 10.1073/pnas.0508817102 
+PMCID: PMC1297690
+PMID: 16299105  [Indexed for MEDLINE]
+

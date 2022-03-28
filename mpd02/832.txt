@@ -1,0 +1,61 @@
+
+
+832. Biol Psychiatry. 2017 Dec 15;82(12):895-903. doi: 10.1016/j.biopsych.2017.06.016.
+Epub 2017 Jun 23.
+
+Converging Prefronto-Insula-Amygdala Pathways in Negative Emotion Regulation
+in Marmoset Monkeys.
+
+Shiba Y(1), Oikonomidis L(1), Sawiak S(2), Fryer TD(3), Hong YT(3), Cockcroft
+G(1), Santangelo AM(1), Roberts AC(4).
+
+Author information: 
+(1)Department of Physiology, Development and Neuroscience, Wolfson Brain Imaging 
+Centre, University of Cambridge, Cambridge, United Kingdom; Behavioural and
+Clinical Neuroscience Institute, Wolfson Brain Imaging Centre, University of
+Cambridge, Cambridge, United Kingdom.
+(2)Department of Psychology, Wolfson Brain Imaging Centre, University of
+Cambridge, Cambridge, United Kingdom; Behavioural and Clinical Neuroscience
+Institute, Wolfson Brain Imaging Centre, University of Cambridge, Cambridge,
+United Kingdom.
+(3)Department of Clinical Neurosciences, Wolfson Brain Imaging Centre, University
+of Cambridge, Cambridge, United Kingdom.
+(4)Department of Physiology, Development and Neuroscience, Wolfson Brain Imaging 
+Centre, University of Cambridge, Cambridge, United Kingdom; Behavioural and
+Clinical Neuroscience Institute, Wolfson Brain Imaging Centre, University of
+Cambridge, Cambridge, United Kingdom. Electronic address: acr4@cam.ac.uk.
+
+BACKGROUND: Impaired regulation of emotional responses to potential threat is a
+core feature of affective disorders. However, while the subcortical circuitry
+responsible for processing and expression of fear has been well characterized,
+the top-down control of this circuitry is less well understood. Our recent
+studies demonstrated that heightened emotionality, as measured both
+physiologically and behaviorally, during conditioned fear and innate/social
+threat was induced, independently, by excitotoxic lesions of either the anterior 
+orbitofrontal cortex (antOFC) or ventrolateral prefrontal cortex (vlPFC). An
+important outstanding question is whether the antOFC and vlPFC act on common or
+distinct downstream targets to regulate negative emotion.
+METHODS: The question was addressed by combining localized excitotoxic lesions in
+the PFC of a nonhuman primate and functional neuroimaging
+([18F]fluorodeoxyglucose positron emission tomography) with a fear-regulating
+extinction paradigm. Marmoset monkeys with unilateral lesions of either the
+antOFC or vlPFC were scanned immediately following exposure to a fearful or safe 
+context, and differences in [18F]fluorodeoxyglucose uptake were evaluated.
+RESULTS: [18F]fluorodeoxyglucose uptake in the insula and amygdala of the intact 
+hemisphere was significantly increased in response to the fearful context
+compared with the safe context. Such discrimination between the two contexts was 
+not reflected in the activity of the insula-amygdala of the antOFC or
+vlPFC-lesioned hemisphere. Instead, uptake was at an intermediate level in both
+contexts.
+CONCLUSIONS: These findings demonstrate that the distinct control functions of
+the antOFC and vlPFC converge on the same downstream targets to promote emotion
+regulation, taking us closer to a mechanistic understanding of different forms of
+anxiety.
+
+Copyright © 2017 Society of Biological Psychiatry. Published by Elsevier Inc. All
+rights reserved.
+
+DOI: 10.1016/j.biopsych.2017.06.016 
+PMCID: PMC5697497
+PMID: 28756869  [Indexed for MEDLINE]
+

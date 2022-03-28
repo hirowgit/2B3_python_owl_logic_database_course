@@ -1,0 +1,98 @@
+
+
+713. J Neurosci. 2018 Apr 18;38(16):3955-3970. doi: 10.1523/JNEUROSCI.0188-18.2018.
+Epub 2018 Mar 19.
+
+Robust Visual Responses and Normal Retinotopy in Primate Lateral Geniculate
+Nucleus following Long-term Lesions of Striate Cortex.
+
+Yu HH(1)(2), Atapour N(3)(2), Chaplin TA(3)(2), Worthy KH(3)(2), Rosa MGP(3)(2).
+
+Author information: 
+(1)Department of Physiology and Biomedicine Research Institute, Monash
+University, Clayton, 3800 Victoria, Australia and hsin-hao.yu@monash.edu.
+(2)Australian Research Council Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, 3800 Victoria, Australia.
+(3)Department of Physiology and Biomedicine Research Institute, Monash
+University, Clayton, 3800 Victoria, Australia and.
+
+Lesions of striate cortex (V1) trigger massive retrograde degeneration of neurons
+in the LGN. In primates, these lesions also lead to scotomas, within which
+conscious vision is abolished. Mediation of residual visual capacity within these
+regions (blindsight) has been traditionally attributed to an indirect visual
+pathway to the extrastriate cortex, which involves the superior colliculus and
+pulvinar complex. However, recent studies have suggested that preservation of the
+LGN is critical for behavioral evidence of blindsight, raising the question of
+what type of visual information is channeled by remaining neurons in this
+structure. A possible contribution of LGN neurons to blindsight is predicated on 
+two conditions: that the neurons that survive degeneration remain visually
+responsive, and that their receptive fields continue to represent the region of
+the visual field inside the scotoma. We tested these conditions in male and
+female marmoset monkeys (Callithrix jacchus) with partial V1 lesions at three
+developmental stages (early postnatal life, young adulthood, old age), followed
+by long recovery periods. In all cases, recordings from the degenerated LGN
+revealed neurons with well-formed receptive fields throughout the scotoma. The
+responses were consistent and robust, and followed the expected eye dominance and
+retinotopy observed in the normal LGN. The responses had short latencies and
+preceded those of neurons recorded in the extrastriate middle temporal area.
+These findings suggest that the pathway that links LGN neurons to the
+extrastriate cortex is physiologically viable and can support residual vision in 
+animals with V1 lesions incurred at various ages.SIGNIFICANCE STATEMENT Patients 
+with a lesion of the primary visual cortex (V1) can retain certain visually
+mediated behaviors, particularly if the lesion occurs early in life. This
+phenomenon ("blindsight") not only sheds light on the nature of consciousness,
+but also has implications for studies of brain circuitry, development, and
+plasticity. However, the pathways that mediate blindsight have been the subject
+of debate. Recent studies suggest that projections from the LGN might be
+critical, but this finding is puzzling given that the lesions causes severe cell 
+death in the LGN. Here we demonstrate in monkeys that the surviving LGN neurons
+retain a remarkable level of visual function and could therefore be the source of
+the visual information that supports blindsight.
+
+Copyright © 2018 the authors 0270-6474/18/383955-16$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.0188-18.2018 
+PMCID: PMC6705928
+PMID: 29555856  [Indexed for MEDLINE]
+
+
+714. J Vis Exp. 2018 Feb 27;(132). doi: 10.3791/56574.
+
+A Surgical Procedure for the Administration of Drugs to the Inner Ear in a
+Non-Human Primate Common Marmoset (Callithrix jacchus).
+
+Kurihara S(1), Fujioka M(2), Yoshida T(1), Koizumi M(3), Ogawa K(4), Kojima H(5),
+Okano HJ(6).
+
+Author information: 
+(1)Division of Regenerative Medicine, Jikei University School of Medicine;
+Department of Otorhinolaryngology, Jikei University School of Medicine.
+(2)Department of Otorhinolaryngology, Head and Neck Surgery, Keio University
+School of Medicine; masato@2002.jukuin.keio.ac.jp.
+(3)Laboratory Animal Facilities, Jikei University School of Medicine.
+(4)Department of Otorhinolaryngology, Head and Neck Surgery, Keio University
+School of Medicine.
+(5)Department of Otorhinolaryngology, Jikei University School of Medicine.
+(6)Division of Regenerative Medicine, Jikei University School of Medicine;
+hjokano@jikei.ac.jp.
+
+Hearing research has long been facilitated by rodent models, although in some
+diseases, human symptoms cannot be recapitulated. The common marmoset (Callithrix
+jacchus) is a small, easy-to-handle New World monkey which has a similar anatomy 
+of the temporal bone, including the middle ear ossicular chains and inner ear to 
+humans, than in comparison with that of rodents. Here, we report a reproducible, 
+safe, and rational surgical approach to the cochlear round window niche for the
+drug delivery to the inner ear of the common marmoset. We adopted posterior
+tympanotomy, a procedure used clinically in human surgery, to avoid manipulation 
+of the tympanic membrane that may cause conductive hearing loss. This surgical
+procedure did not lead to any significant hearing loss. This approach was
+possible due to the large bulla structure of the common marmoset, although the
+lateral semicircular canal and vertical portion of the facial nerve should be
+carefully considered. This surgical method allows us to perform the safe and
+accurate administration of drugs without hearing loss, which is of great
+importance in obtaining pre-clinical proof of concept for translational research.
+
+DOI: 10.3791/56574 
+PMCID: PMC5931374
+PMID: 29553522  [Indexed for MEDLINE]
+

@@ -1,0 +1,80 @@
+
+
+931. Biotechnol Bioeng. 2017 Jul;114(7):1539-1549. doi: 10.1002/bit.26249. Epub 2017
+Feb 2.
+
+Simultaneous detection of three sex steroid hormone classes using a novel
+yeast-based biosensor.
+
+Chamas A(1), Pham HTM(1)(2), Jähne M(3), Hettwer K(3), Uhlig S(3), Simon K(4),
+Einspanier A(5), Baronian K(6), Kunze G(1).
+
+Author information: 
+(1)Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Corrensstr.
+3, Gatersleben D-06466, Germany.
+(2)Institute of Biotechnology, Vietnam Academy of Science and Technology, Cau
+Giay, Ha Noi, Vietnam.
+(3)QuoData GmbH, Dresden, Germany.
+(4)New diagnostics GmbH, Freising, Germany.
+(5)Faculty of Veterinary Medicine, Institute of Physiological Chemistry, Leipzig,
+Germany.
+(6)School of Biological Sciences, University of Canterbury, Christchurch, New
+Zealand.
+
+A biosensor detecting estrogens, progestogens, and androgens in complex samples
+and in a single step is described. Three Arxula adeninivorans yeast strains were 
+created, each strain producing a different recombinant human hormone receptor and
+a different fluorescent reporter protein. These strains were then mixed to create
+G1212/YRC102-hHR-fluo, the biological component of the biosensor. During
+incubation with G1212/YRC102-hHR-fluo, hormones present in a sample bind to their
+target receptor, which leads to the production of a specific fluorescent protein.
+Three fluorescence scans of the yeast suspension determine which fluorescence
+protein has been produced, thus revealing which hormone receptor (estrogen,
+progesterone, and androgen) has been activated by the hormones or hormone mimics 
+present in the sample. The biosensor has similar sensitivities to the existing A.
+adeninivorans cell-based assays. The detection of the three hormone classes in
+one single experiment reduces the labor and time required to assay for the three 
+hormone classes. The biosensor was also trialed with animal serum samples for the
+detection of progestogens, androgens, and estrogens and gave results that
+correlated well with ELISA analysis in case of progestogens. These results
+highlight the potential usefulness of the biosensor for comprehensive
+determination of hormone status in samples from veterinary origin. Biotechnol.
+Bioeng. 2017;114: 1539-1549. © 2017 Wiley Periodicals, Inc.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/bit.26249 
+PMID: 28092110  [Indexed for MEDLINE]
+
+
+932. Nat Commun. 2017 Jan 16;8:14046. doi: 10.1038/ncomms14046.
+
+Limiting parental feedback disrupts vocal development in marmoset monkeys.
+
+Gultekin YB(1), Hage SR(1).
+
+Author information: 
+(1)Neurobiology of Vocal Communication, Werner Reichardt Centre for Integrative
+Neuroscience, University of Tübingen, Otfried-Müller-Str. 25, Tübingen 72076,
+Germany.
+
+Vocalizations of human infants undergo dramatic changes across the first year by 
+becoming increasingly mature and speech-like. Human vocal development is
+partially dependent on learning by imitation through social feedback between
+infants and caregivers. Recent studies revealed similar developmental processes
+being influenced by parental feedback in marmoset monkeys for apparently innate
+vocalizations. Marmosets produce infant-specific vocalizations that disappear
+after the first postnatal months. However, it is yet unclear whether parental
+feedback is an obligate requirement for proper vocal development. Using
+quantitative measures to compare call parameters and vocal sequence structure we 
+show that, in contrast to normally raised marmosets, marmosets that were
+separated from parents after the third postnatal month still produced
+infant-specific vocal behaviour at subadult stages. These findings suggest a
+significant role of social feedback on primate vocal development until the
+subadult stages and further show that marmoset monkeys are a compelling model
+system for early human vocal development.
+
+DOI: 10.1038/ncomms14046 
+PMCID: PMC5241798
+PMID: 28090084  [Indexed for MEDLINE]
+

@@ -1,0 +1,67 @@
+
+
+4088. Mol Phylogenet Evol. 1993 Sep;2(3):225-42.
+
+Molecular phylogeny of the New World monkeys (Platyrrhini, primates).
+
+Schneider H(1), Schneider MP, Sampaio I, Harada ML, Stanhope M, Czelusniak J,
+Goodman M.
+
+Author information: 
+(1)Universidade Federal do Pará, Departamento de Genética, Brazil.
+
+Phylogenetic relationships among the 16 extant genera of Ceboidea (the New World 
+monkeys) were examined using aligned epsilon-globin gene sequences from 19 New
+World monkeys (representing all 16 extant ceboid genera), and seven catarrhines
+(one Old World monkey and six hominoids) and tarsier as the outgroups. The
+consensus maximum parsimony tree found for these epsilon-globin sequences and the
+levels of support from parsimony and bootstrap analyses, for the clades in this
+tree, provided strong evidence for a cladistic classification with the following 
+clusters. Subtribes Callitrichina (Callithrix, Cebuella), Callimiconina
+(Callimico), Leontopithecina (Leontopithecus), and Saguina (Saguinus) constitute 
+subfamily Callitrichinae, and subfamilies Callitrichinae, Aotinae (Aotus),
+Saimiriinae (Saimiri), and Cebinae (Cebus) constitute family Cebidae. In turn,
+subtribes Chiropotina (Chiropotes, Cacajao) and Pitheciina (Pithecia) constitute 
+tribe Pithecini, tribes Pitheciini and Callicebini (Callicebus) constitute
+subfamily Pitheciinae, tribes Atelini (Brachyteles, Lagothrix, Ateles) and
+Alouattini (Alouatta) constitute subfamily Atelinae, and subfamilies Pitheciinae 
+and Atelinae constitute family Atelidae. The two families (Cebidae and Atelidae) 
+constitute the Ceboidea, the only extant superfamily of infraorder Platyrrhini.
+The sister-group relationships of Brachyteles and Lagothrix, Saguinus and
+Leontopithecus, and Callimico with a Cebuella/Callithrix clade is not as well
+supported by the parsimony and bootstrap analyses. Therefore, these relationships
+are not incorporated in the proposed cladistic classification. On determining
+branch lengths for the ceboid phylogenetic tree from only the more freely
+evolving noncoding sequences at the epsilon-globin locus and taking the reference
+age of 35 million years ago (MYA) for the New World monkey-catarrhine branch
+point, we estimated the age of the atelid-cebid branch point as about 20 MYA, and
+the ages of the next branch points, those between the subfamilies in each family,
+as 19-16 MYA.
+
+DOI: 10.1006/mpev.1993.1022 
+PMID: 8136923  [Indexed for MEDLINE]
+
+
+4089. Biochem Biophys Res Commun. 1993 Aug 31;195(1):158-65.
+
+Increased heterogeneity of tyrosine hydroxylase in humans.
+
+Ichinose H(1), Ohye T, Fujita K, Yoshida M, Ueda S, Nagatsu T.
+
+Author information: 
+(1)Institute for Comprehensive Medical Science, School of Medicine, Fujita Health
+University, Aichi, Japan.
+
+Humans produce four different forms of tyrosine hydroxylase (TH) mRNA via
+alternative splicing of the gene. Here we demonstrate that New- and Old-World
+monkeys and the gorilla produce only two of the TH isoforms. Comparison among the
+genomic DNA sequences of various primates revealed that mutations that had
+accumulated in the genomic DNA created a new exon, resulting in the appearance of
+two new TH isoforms in man. These findings offer new insight into the sequence of
+events leading to the evolution of the higher primates into separate species.
+They also represent what may be the first evidence of a genetic difference
+between man and primates with respect to a specific brain function.
+
+DOI: 10.1006/bbrc.1993.2024 
+PMID: 7689834  [Indexed for MEDLINE]
+

@@ -1,0 +1,36 @@
+
+
+3567. J Virol. 1998 Aug;72(8):6770-6.
+
+A role for herpesvirus saimiri orf14 in transformation and persistent infection.
+
+Duboise M(1), Guo J, Czajak S, Lee H, Veazey R, Desrosiers RC, Jung JU.
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, New England Regional
+Primate Research Center, Harvard Medical School, Southborough, Massachusetts
+01772-9102, USA.
+
+The product of open reading frame 14 (orf14) of herpesvirus saimiri (HVS)
+exhibits significant homology with mouse mammary tumor virus superantigen. orf14 
+encodes a 50-kDa secreted glycoprotein, as shown previously (Z. Yao, E.
+Maraskovsky, M. K. Spriggs, J. I. Cohen, R. J. Armitage, and M. R. Alderson, J.
+Immunol. 156:3260-3266, 1996). orf14 expressed from recombinant baculovirus
+powerfully induces proliferation of CD4-positive cells originating from several
+different species. To study the role of orf14 in transformation, a mutant form of
+HVS (HVS Deltaorf14) was constructed with a deletion in the orf14 gene. The
+transforming potential of HVS Deltaorf14 was tested in cell culture and in common
+marmosets. Parental HVS subgroup C strain 488 immortalized common marmoset T
+lymphocytes in vitro to interleukin-2-independent growth, while the HVS
+Deltaorf14 mutant did not produce such a growth transformation. In addition, HVS 
+Deltaorf14 was nononcogenic in common marmosets. In contrast to other
+nononcogenic HVS mutant viruses which were repeatedly isolated from peripheral
+blood mononuclear cells of infected marmosets for more than 5 months, HVS
+Deltaorf14 did not persist at a high level in vivo. These results demonstrate
+that orf14 of HVS is not required for replication but is required for
+transformation and for high-level persistence in vivo.
+
+DOI: 10.1128/JVI.72.8.6770-6776.1998 
+PMCID: PMC109885
+PMID: 9658125  [Indexed for MEDLINE]
+

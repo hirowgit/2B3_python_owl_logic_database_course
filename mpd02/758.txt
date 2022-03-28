@@ -1,0 +1,46 @@
+
+
+758. Biochem Pharmacol. 2018 Jul;153:184-195. doi: 10.1016/j.bcp.2017.12.015. Epub
+2017 Dec 23.
+
+Genetic polymorphisms of drug-metabolizing cytochrome P450 enzymes in cynomolgus 
+and rhesus monkeys and common marmosets in preclinical studies for humans.
+
+Uno Y(1), Uehara S(2), Yamazaki H(3).
+
+Author information: 
+(1)Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama 642-0017, Japan.
+(2)Showa Pharmaceutical University, Machida, Tokyo 194-8543, Japan.
+(3)Showa Pharmaceutical University, Machida, Tokyo 194-8543, Japan. Electronic
+address: hyamazak@ac.shoyaku.ac.jp.
+
+Cynomolgus monkeys (Macaca fascicularis, Old World Monkeys) and common marmosets 
+(Callithrix jacchus, New World Monkeys) have been widely, and expectedly, used as
+non-human primate models in drug development studies. Major drug-metabolizing
+cytochrome P450 (P450) enzymes information is now available that supports these
+primate species as animal models, and it is established that multiple forms of
+cynomolgus monkey and common marmoset P450 enzymes have generally similar
+substrate recognition functionality to human P450 enzymes. This research update
+provides information on genetic polymorphisms of P450 enzymes in cynomolgus
+monkey and common marmoset like human P450 enzymes. Information on rhesus monkeys
+(Macaca mulatta), another macaque species used in drug metabolism studies, is
+also included for comparison. Among a variety of cynomolgus monkey P450 variants 
+investigated, typical examples include individual pharmacokinetic data for
+efavirenz and R-warfarin associated with cynomolgus monkey P450 2C9 (formerly
+2C43) and 2C19 (2C75) variants, respectively, and for R-omeprazole and S-warfarin
+associated with marmoset P450 2C19 variants. These findings provide a foundation 
+for understanding the individual pharmacokinetic and toxicological results in
+non-human primates as preclinical models and will help to further support
+understanding of molecular mechanisms of human P450 function. In addition to
+these polymorphic P450 enzymes, effects of aging on some drug clearances mediated
+by cynomolgus monkey and common marmoset P450 enzymes were found in elder animals
+or animals pretreated with rifampicin. This review describes genetic and acquired
+individual differences in cynomolgus monkey and common marmoset P450 enzymes
+involved in drug oxidation associated with pharmacological and/or toxicological
+effects.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2017.12.015 
+PMID: 29277691  [Indexed for MEDLINE]
+

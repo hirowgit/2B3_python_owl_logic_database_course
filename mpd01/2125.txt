@@ -1,0 +1,61 @@
+
+
+2125. Bioorg Med Chem Lett. 2009 Aug 15;19(16):4863-7. doi: 10.1016/j.bmcl.2009.05.128.
+Epub 2009 Jun 26.
+
+The P1N-isopropyl motif bearing hydroxyethylene dipeptide isostere analogues of
+aliskiren are in vitro potent inhibitors of the human aspartyl protease renin.
+
+Yamaguchi Y(1), Menear K, Cohen NC, Mah R, Cumin F, Schnell C, Wood JM, Maibaum
+J.
+
+Author information: 
+(1)Faculty of Pharmaceutical Sciences, Nagasaki International University, Sasebo,
+Nagasaki 859-3298, Japan.
+
+Novel nonpeptide small molecule renin inhibitors bearing an N-isopropyl P(1)
+motif were designed based on initial lead structures 1 and aliskiren (2).
+(P(3)-P(1))-Benzamide derivatives such as 9a and 34, as well as the corresponding
+P(1) basic tertiary amine derivatives 10 and 35 were found to display low
+nanomolar inhibition against human renin in vitro.
+
+DOI: 10.1016/j.bmcl.2009.05.128 
+PMID: 19615901  [Indexed for MEDLINE]
+
+
+2126. J Comp Physiol A Neuroethol Sens Neural Behav Physiol. 2009 Aug;195(8):783-9.
+doi: 10.1007/s00359-009-0456-1. Epub 2009 Jul 12.
+
+Antiphonal call timing in marmosets is behaviorally significant: interactive
+playback experiments.
+
+Miller CT(1), Beck K, Meade B, Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+School of Medicine, Johns Hopkins University, Baltimore, MD 21205, USA.
+corymiller@ucsd.edu
+
+Studies of primate vocal communication systems have generally focused on
+vocalizations and the information they convey to conspecifics. But the
+vocalizations are not the only sources of information. Aspects of each species
+vocal behaviors are likely to be communicatively rich as well. During vocal
+interactions, for example, the latency delay between the calls could communicate 
+an important message to the signal receiver, such as an interest and willingness 
+to socialize. Here we employed novel, interactive playback software to address
+this issue in the antiphonal calling behavior of common marmosets. In these
+experiments, we parametrically varied the latency delay of antiphonal call
+stimuli and measured its effects on subjects' resultant vocal behavior. Results
+showed that marmosets produced successively fewer antiphonal call responses
+during test conditions with increasing latency delays. Moreover, although
+subjects produced significantly more antiphonal than spontaneous calls in
+conditions with antiphonal call timing delays up to 9 s, a longer delay resulted 
+in a significant decline in calling. These data suggest that antiphonal call
+timing is a salient cue for maintaining antiphonal calling interactions and may
+be used by marmosets to determine whether a subsequent call is produced in
+response to or independently of their own.
+
+DOI: 10.1007/s00359-009-0456-1 
+PMCID: PMC3787898
+PMID: 19597736  [Indexed for MEDLINE]
+

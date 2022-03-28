@@ -1,0 +1,43 @@
+
+
+3449. Virus Res. 1999 Mar;60(1):41-54.
+
+Functional analysis of different LMP1 proteins isolated from Epstein-Barr
+virus-positive carriers.
+
+Fischer N(1), Kopper B, Graf N, Schlehofer JR, Grässer FA, Mueller-Lantzsch N.
+
+Author information: 
+(1)Institut für Medizinische Mikrobiologie und Hygiene, Abteilung Virologie,
+Universitätskliniken, Homburg/Saar, Germany.
+
+The Epstein-Barr virus (EBV) is the causative agent of infectious mononucleosis
+and is implicated in the development of several human malignancies. Latent
+membrane protein 1 (LMP1), an EBV protein with known oncogenic properties, may be
+important in the pathogenesis of EBV-associated tumors, particularly
+nasopharyngeal carcinoma (NPC) and Hodgkin's disease (HD). Several reports
+suggested that sequence variations in the LMP1 gene may define a more aggressive,
+geographically restricted EBV-genotype. Most mutations in the LMP1 gene described
+are located within the C-terminus of the protein. However, the effect of these
+mutations on the biological function of the protein remains widely unknown.
+Therefore, this study aimed in investigating whether mutations detected in LMP1
+genes isolated from different EBV-positive carriers have an effect on the
+biological function of the protein. For this purpose the LMP1 genes were
+amplified by nested PCR from DNA out of bone marrow and peripheral blood
+lymphocytes and sequenced. Three functional assays were performed in order to
+evaluate the biological activity of the different isolates: activation of the
+transcription factors NF-kappaB and AP-1 as well as the anchorage independent
+growth of LMP1 transfected ratl cells in soft agar. The results suggested that
+whereas differences in the activation of NF-kappaB through the various LMP1
+isolates correlated tightly with their different expression levels, the outgrowth
+of transfected cells in soft agar did not and the transcription factor NF-kappaB 
+therefore appeared not to be the major effector for the transformation of the
+rodent cell line ratl by LMP1. The various LMP1-isolates also differed in their
+capacity in activating the transcription factor AP-1. We found no correlation
+between the transforming ability of the LMPI isolates and activation of AP-1
+suggesting that other so far uncharacterized domains also influence the
+transforming ability of the protein.
+
+DOI: 10.1016/s0168-1702(98)00147-6 
+PMID: 10225273  [Indexed for MEDLINE]
+

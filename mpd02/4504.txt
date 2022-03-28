@@ -1,0 +1,35 @@
+
+
+4504. J Virol. 1987 Nov;61(11):3485-90.
+
+In vitro immortalization of marmoset cells with three subgroups of herpesvirus
+saimiri.
+
+Szomolanyi E(1), Medveczky P, Mulder C.
+
+Author information: 
+(1)Department of Pharmacology, University of Massachusetts Medical School,
+Worcester 01605.
+
+Sequences within the rightmost 7 kilobases of the unique L DNA of herpesvirus
+saimiri are required for oncogenicity of the virus. The same DNA region has been 
+found to be highly variable among different strains of herpesvirus saimiri. On
+the basis of this variability, herpesvirus saimiri strains were classified into
+groups A, B, and non-A, non-B. Herpesvirus saimiri strains representing the three
+groups were used successfully for in vitro immortalization of
+phytohemagglutinin-activated, interleukin 2 (IL-2)-expanded peripheral blood
+lymphocytes of common marmosets (Callithrix jacchus). Peripheral blood leukocytes
+could be immortalized from only a subset of common marmosets (5 of 13). All of
+the immortalized cell lines contained covalently closed circular viral DNA
+molecules and initially showed a low level of virus production. Cells
+immortalized by group A and group non-A, non-B strains did not require IL-2 in
+the medium. However, the only group B immortalized cell line, 473-SMHI, did not
+grow well in the absence of IL-2. The different characteristics of cell lines
+immortalized by herpesvirus saimiri strains belonging to different groups may
+help to elucidate some functions coded by the highly variable DNA region which is
+involved in the oncogenic process.
+
+DOI: 10.1128/JVI.61.11.3485-3490.1987 
+PMCID: PMC255946
+PMID: 2822956  [Indexed for MEDLINE]
+

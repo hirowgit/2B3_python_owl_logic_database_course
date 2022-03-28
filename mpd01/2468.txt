@@ -1,0 +1,80 @@
+
+
+2468. J Neurosci. 2006 Oct 25;26(43):11148-61.
+
+Specificity of M and L cone inputs to receptive fields in the parvocellular
+pathway: random wiring with functional bias.
+
+Buzás P(1), Blessing EM, Szmajda BA, Martin PR.
+
+Author information: 
+(1)National Vision Research Institute of Australia, Carlton, Victoria 3053,
+Australia.
+
+Many of the parvocellular pathway (PC) cells in primates show red-green spectral 
+selectivity (cone opponency), but PC ganglion cells in the retina show no
+anatomical signs of cone selectivity. Here we asked whether responses of PC cells
+are compatible with "random wiring" of cone inputs. We measured
+long-wavelength-sensitive (L) and medium-wavelength-sensitive (M) cone inputs to 
+PC receptive fields in the dorsal lateral geniculate of marmosets, using discrete
+stimuli (apertures and annuli) to achieve functional segregation of center and
+surround. Receptive fields between the fovea and 30 degrees eccentricity were
+measured. We show that, in opponent PC cells, the center is dominated by one (L
+or M) cone type, with normally <20% contribution from the other cone type (high
+"cone purity"), whereas non-opponent cells have mixed L and M cone inputs to the 
+receptive field center. Furthermore, opponent response strength depends on the
+overall segregation of L and M cone inputs to center and surround rather than
+exclusive input from one cone type to either region. These data are consistent
+with random wiring. The majority of PC cells in both foveal (<8 degrees) and
+peripheral retina nevertheless show opponent responses. This arises because cone 
+purity in the receptive field surround is at least as high as in the center, and 
+the surround in nearly all opponent PC cells is dominated by the opposite cone
+type to that which dominates the center. These functional biases increase the
+proportion of opponent PC cells, but their anatomical basis is unclear.
+
+DOI: 10.1523/JNEUROSCI.3237-06.2006 
+PMCID: PMC6674646
+PMID: 17065455  [Indexed for MEDLINE]
+
+
+2469. Int Immunopharmacol. 2006 Dec 5;6(12):1765-79. Epub 2006 Aug 23.
+
+Multiple vaccine and pyridostigmine bromide interactions in the common marmoset
+Callithrix jacchus: immunological and endocrinological effects.
+
+Hornby RJ(1), Pearce PC, Bowditch AP, Scott L, Griffiths GD.
+
+Author information: 
+(1)Biomedical Sciences Department, Defence Science and Technology Laboratory,
+Porton Down, Salisbury, UK.
+
+Following active service during the 1990/1991 Gulf Conflict, a number of UK and
+US veterans presented with a diverse range of symptoms, collectively known as
+Gulf Veterans Illnesses (GVI). The administration of vaccines and/or the
+pretreatment against possible nerve agent poisoning, pyridostigmine bromide (PB),
+given to Armed Forces personnel during the Gulf Conflict has been implicated as a
+possible factor in the aetiology of these illnesses. The possibility that adverse
+health effects may result from the administration of these vaccines (anthrax,
+pertussis, plague, yellow fever, polio, typhoid, tetanus, hepatitis B,
+meningococcal meningitis and cholera) and/or PB, have been investigated over an
+eighteen month period, in a non-human primate model, the common marmoset. This
+study reports immunological indices, including leukocyte phenotypes,
+intracellular cytokines IFN-gamma and IL-4 and antibody responses against vaccine
+antigens. Using human isotyping reagents previously shown to cross react with
+marmoset immunoglobulins (ibid) it was shown that marmosets responded strongly
+against anthrax PA and pertussis and weakly against killed whole cell plague,
+cholera and typhoid. At the end of the study the immune response to a previously 
+unseen T-cell dependent antigen, keyhole limpet haemocyanin (KLH), was examined
+in order to determine whether immune function had been compromised by the
+compounds administered. Statistically equivalent, robust antibody responses were 
+measured against KLH in all treatment groups indicating that the immune system
+had not been compromised by any of the treatments. In addition, urinary cortisol 
+was measured at key points throughout the study as an index of physiological
+stress which may have been induced by the treatments. There were no effects of
+treatment on urinary cortisol secretion. With respect to the other immunological 
+indices measured, there were no statistical differences between the treatment
+groups during the period of the study.
+
+DOI: 10.1016/j.intimp.2006.07.016 
+PMID: 17052667  [Indexed for MEDLINE]
+

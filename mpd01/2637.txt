@@ -1,0 +1,68 @@
+
+
+2637. Cereb Cortex. 2006 Jul;16(7):929-40. Epub 2005 Sep 8.
+
+Activity-dependent expression of occ1 in excitatory neurons is a characteristic
+feature of the primate visual cortex.
+
+Takahata T(1), Komatsu Y, Watakabe A, Hashikawa T, Tochitani S, Yamamori T.
+
+Author information: 
+(1)Division of Brain Biology, National Institute for Basic Biology, Aichi
+444-8585, Japan.
+
+occ1 is a gene whose expression is particularly abundant in neurons in the
+macaque primary visual cortex (V1). In the present study, we report that the
+expression of occ1 mRNA in the macaque neocortex can be classified into two
+modes. The first mode is associated with excitatory neurons distributed in the
+major thalamocortical recipient layers that exhibit strong cytochrome oxidase
+activity. This is highly prominent in V1. The second mode is associated with
+parvalbumin-positive GABAergic interneurons and is distributed across the macaque
+neocortex. In V1, monocular deprivation showed that occ1 mRNA expression in
+excitatory neurons was markedly dependent on afferent activity, whereas that in
+GABAergic interneurons was not. Cross-species comparison showed specific
+differences in expression. In marmosets, a strong expression was observed in V1
+similarly to macaques. The occ1 mRNA expression, however, was generally weak in
+the mouse neocortex. In rabbit and ferret cortices, the strong expression was
+observed only in GABAergic interneurons. We conclude that activity-dependent occ1
+mRNA expression in the excitatory neurons of V1 was caused by a novel mechanism
+acquired by primates after their separation from other lineages.
+
+DOI: 10.1093/cercor/bhj034 
+PMID: 16151175  [Indexed for MEDLINE]
+
+
+2638. Brain. 2005 Nov;128(Pt 11):2713-21. Epub 2005 Sep 8.
+
+Demyelinated neocortical lesions in marmoset autoimmune encephalomyelitis mimic
+those in multiple sclerosis.
+
+Pomeroy IM(1), Matthews PM, Frank JA, Jordan EK, Esiri MM.
+
+Author information: 
+(1)Department of Neuropathology, Radcliffe Infirmary, Oxford, UK.
+ian.pomeroy@clneuro.ox.ac.uk
+
+The use of immunohistochemical methods has led to a new understanding of the
+prevalence and significance of cortical lesions in multiple sclerosis but these
+lesions have not yet been formally described in an animal model. In this study we
+have set out to use immunohistochemical techniques to identify and describe
+cortical lesions in marmosets with experimental autoimmune encephalomyelitis
+(EAE). Using antibodies to proteolipid protein (PLP), we found a total of 70
+cortical lesions in 11 tissue blocks from 6 animals. These lesions were
+subdivided into leucocortical (40), intracortical (12) and subpial lesions (18). 
+We quantified the density of inflammatory cells within lesions using a double
+labelling protocol which employed anti-PLP in addition to antibodies against
+markers of B-lymphocytes (CD20), T-lymphocytes (CD3), macrophages (MAC387) and
+MHC-II expressing cells (CR3/43). This analysis revealed that the large subpial
+lesions accounted for the majority of demyelinated cortex (88%) despite
+possessing the lowest density of inflammatory cells. This study has shown that
+lesions in this model share many of the major features of cortical lesions in
+multiple sclerosis both in terms of morphology and inflammatory cell content. We 
+believe that this tool can be exploited in future studies to investigate the
+aetiology, development and clinical significance of cortical lesions in
+demyelinating disease.
+
+DOI: 10.1093/brain/awh626 
+PMID: 16150849  [Indexed for MEDLINE]
+

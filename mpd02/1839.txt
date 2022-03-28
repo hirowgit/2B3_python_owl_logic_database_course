@@ -1,0 +1,39 @@
+
+
+1839. J Neurosci Methods. 2011 Sep 30;201(1):159-72. doi:
+10.1016/j.jneumeth.2011.07.029. Epub 2011 Aug 6.
+
+Multimodal vessel mapping for precise large area alignment of functional optical 
+imaging data to neuroanatomical preparations in marmosets.
+
+Valverde Salzmann MF(1), Wallace DJ, Logothetis NK, Schüz A.
+
+Author information: 
+(1)Max Planck Institute for Biological Cybernetics, Spemannstrasse 38, 72076
+Tübingen, Germany. matthias.valverde@tuebingen.mpg.de
+
+Imaging technologies, such as intrinsic optical imaging (IOI), functional
+magnetic resonance imaging (fMRI) or multiphoton microscopy provide excellent
+opportunities to study the relationship between functional signals recorded from 
+a cortical area and the underlying anatomical structure. This, in turn, requires 
+accurate alignment of the recorded functional imaging data with histological
+datasets from the imaged tissue obtained after the functional experiment. This
+alignment is complicated by distortions of the tissue which naturally occur
+during histological treatment, and is particularly difficult to achieve over
+large cortical areas, such as primate visual areas. We present here a method that
+uses IOI vessel maps revealed in the time course of the intrinsic signal, in
+combination with vascular casts and vascular lumen labeling techniques together
+with a pseudo three dimensional (p3D) reconstruction of the tissue architecture
+in order to facilitate alignment of IOI data with posthoc histological datasets. 
+We demonstrate that by such a multimodal vessel mapping approach, we are able to 
+constitute a hook in anatomical-functional data alignment that enables the
+accurate assignment of functional signals over large cortical regions. As an
+example, we present precise alignments of IOI responses showing orientation
+selectivity of primate V1 with anatomical sections stained for
+cytochrome-oxidase-reactivity.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2011.07.029 
+PMID: 21843550  [Indexed for MEDLINE]
+

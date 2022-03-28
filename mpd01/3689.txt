@@ -1,0 +1,87 @@
+
+
+3689. Virology. 1997 Mar 17;229(2):429-36.
+
+Five new or recently discovered (GBV-A) virus species are indigenous to New World
+monkeys and may constitute a separate genus of the Flaviviridae.
+
+Bukh J(1), Apgar CL.
+
+Author information: 
+(1)Hepatitis Viruses Section, National Institute of Allergy and infectious
+Diseases, National Institutes of Health, Bethesda, Maryland 20892-0740, USA.
+
+In previous studies, human hepatitis viruses have been experimentally transmitted
+to New World monkeys of the genus Saguinus (tamarins). Recently, two
+Flaviviridae-like agents (GBV-A and GBV-B) were identified in tamarins that
+developed hepatitis following inoculation with serum of the 11th tamarin passage 
+of a potentially new human hepatitis agent. However, it was not shown that these 
+viruses originated from the initial inoculum. We here report the discovery of
+indigenous species-specific viruses related to GBV-A in several species of New
+World monkeys and suggest that GBV-A virus was fortuitously acquired during
+passage in tamarins. Sera or plasma from 98 wild-caught New World monkeys
+representing 10 different species was tested by RT-PCR with conserved degenerate 
+primers to the 5' noncoding region of the genome. Viral sequences were identified
+in 33 animals and sequence analysis was performed on the amplicons. In addition, 
+the genomic region corresponding to the putative NS3 RNA helicase of GBV-A was
+amplified from most positive animals and sequenced. We detected GBV-A-like
+viruses in 13 (35%) of 37 S. mystax, 7 (78%) of 9 S. nigricollis, 3 (25%) of 12
+S. labiatus, 2 (50%) of 4 S. oedipus, 2 (100%) of 2 Callithrix jacchus, and 6
+(50%) of 12 Aotus trivirgatus monkeys. Each positive animal was infected with a
+unique strain of the GBV-A-like viruses. Analysis of the 5' NC and NS3 helicase
+sequences revealed that these viruses could be classified into 5 major genetic
+groups with genetic distances equivalent to or greater than those found among
+major genetic groups of hepatitis C virus. Species-specific GBV-A-like viruses
+were found in S. mystax, S. nigricollis, S. oedipus, C. jacchus, and A.
+trivirgatus species. The viruses specific for S. nigricollis were closely related
+to GBV-A, suggesting that GBV-A was acquired by passage through this species
+during the initial transmission studies. The natural history of the GBV-A-like
+viruses was studied in serial serum samples from 9 S. mystax and 2 A. trivirgatus
+monkeys. Each animal was chronically infected and the viral strain did not vary
+during 9-27 months of follow-up. Finally, we demonstrated that four S. mystax
+were positive upon arrival to the United States from the country of origin. No
+apparent disease was associated with chronic infection of the GBV-A-like viruses.
+In conclusion, many New World monkeys are persistently infected with indigenous
+species-specific viruses that may represent a new genus within the virus family
+Flaviviridae.
+
+DOI: 10.1006/viro.1997.8461 
+PMID: 9126255  [Indexed for MEDLINE]
+
+
+3690. J Comp Neurol. 1997 Mar 10;379(2):211-25.
+
+Morphological analysis of the blue cone pathway in the retina of a New World
+monkey, the marmoset Callithrix jacchus.
+
+Ghosh KK(1), Martin PR, Grünert U.
+
+Author information: 
+(1)Department of Physiology F13, The University of Sydney, New South Wales,
+Australia. krishna@physiol.usyd.edu.au
+
+We have studied the components of the short wavelength-sensitive (SWS or "blue") 
+cone pathway in the retina of a New World primate, the marmoset Callithrix
+jacchus. Of particular interest was the small bistratified ganglion cell, which
+has been identified in macaque monkey to be the morphological substrate of the
+blue-ON cell (Dacey and Lee [1994] Nature 367:731-735). Small bistratified cells 
+were intracellularly filled with Neurobiotin in an in vitro retinal wholemount
+preparation. Their morphology, size, and level of dendritic stratification were
+similar to their homologues in macaque and human retina. A number of different
+antibodies were applied to vertical cryostat sections, some of which were cut
+through the processes of injected small bistratified or parasol ganglion cells.
+We used antibodies against cholecystokinin (CCK) to label blue cone bipolar
+cells, and antibodies against the human SWS cone photopigment to label SWS cones.
+Double-labelled preparations showed that blue cone bipolar cell dendrites contact
+SWS cone pedicles, and the inner dendrites of the small bistratified cell are
+costratified with the axon terminals of blue cone bipolar cells. A monoclonal
+antibody against calbindin was used to label a subpopulation of bipolar cells
+that stratifies in the outer half of the inner plexiform layer. The axon
+terminals of these bipolar cells occasionally cross the outer dendrites of small 
+bistratified cells and show extensive costratification with the dendrites of OFF 
+parasol cells. We conclude that an SWS cone pathway with similar connectivity is 
+a preserved feature of the primate visual system.
+
+
+PMID: 9050786  [Indexed for MEDLINE]
+

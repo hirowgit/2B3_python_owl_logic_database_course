@@ -1,0 +1,46 @@
+
+
+3858. J Virol. 1995 Dec;69(12):8011-9.
+
+5' Coding and regulatory region sequence divergence with conserved function of
+the Epstein-Barr virus LMP2A homolog in herpesvirus papio.
+
+Franken M(1), Annis B, Ali AN, Wang F.
+
+Author information: 
+(1)Department of Medicine, Brigham & Women's Hospital, Boston, Massachusetts
+02115, USA.
+
+B-lymphotropic herpesviruses naturally infecting Old World primates share
+biologic, epidemiologic, pathogenic, and molecular features with the human
+pathogen Epstein-Barr virus (EBV). These related gammaherpesviruses have colinear
+genomes with considerable nucleotide homology. The replicative cycle genes share 
+a high degree of homology across species, whereas the transformation-associated
+EBV latent genes appear to be much more divergent. For example, the EBV BamHI
+Nhet fragment, which encodes all or part of the EBV latent infection membrane
+proteins, cross-hybridizes poorly to DNA from nonhuman primate B-lymphotropic
+herpesviruses. A viral DNA fragment corresponding to this region of the EBV
+genome was isolated from the baboon B-lymphotropic herpesvirus, herpesvirus
+papio, and used to clone a herpesvirus papio cDNA corresponding to EBV LMP2A. At 
+least three tyrosine kinase interaction motifs are conserved despite significant 
+amino acid divergence of the herpesvirus papio LMP2A first exon from the EBV
+homolog. Functionally, the herpesvirus papio LMP2A is tyrosine phosphorylated and
+induces tyrosine phosphorylation of cell proteins similar to EBV LMP2A. The 12
+hydrophobic LMP2 transmembrane domains are well conserved. Two CBP (Jk) binding
+sites important for EBNA-2-induced transactivation of the LMP2A promoter are also
+present in the herpesvirus papio LMP2A promoter, and the simian LMP2A promoter is
+also responsive to EBV EBNA-2-induced transactivation in human B cells. Thus,
+transcriptional regulation, splicing, kinase interaction sites, and tyrosine
+phosphorylation of the LMP2A homologs have been conserved despite significant
+sequences heterogeneity in the preterminal repeat regions of these human and
+nonhuman primate EBVs. The conservation of the LMP2 gene, despite its apparent
+nonessential role for in vitro EBV infection, suggests an important role for
+LMP2A in vivo. The similarities between these human and simian B-lymphotropic
+herpesviruses, and the LMP2 genes in particular, suggest that the function of
+LMP2 in vivo could be addressed by using recombinant LMP2A-mutant simian viruses 
+and experimental infection of Old World primates.
+
+DOI: 10.1128/JVI.69.12.8011-8019.1995 
+PMCID: PMC189746
+PMID: 7494314  [Indexed for MEDLINE]
+

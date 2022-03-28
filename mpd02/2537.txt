@@ -1,0 +1,35 @@
+
+
+2537. Stem Cells. 2006 Sep;24(9):2014-22. Epub 2006 May 25.
+
+Tal1/Scl gene transduction using a lentiviral vector stimulates highly efficient 
+hematopoietic cell differentiation from common marmoset (Callithrix jacchus)
+embryonic stem cells.
+
+Kurita R(1), Sasaki E, Yokoo T, Hiroyama T, Takasugi K, Imoto H, Izawa K, Dong Y,
+Hashiguchi T, Soda Y, Maeda T, Suehiro Y, Tanioka Y, Nakazaki Y, Tani K.
+
+Author information: 
+(1)Department of Molecular Genetics, Division of Molecular and Clinical Genetics,
+Medical Institute of Bioregulation, Kyushu University, 3-1-1, Maidashi, Fukuoka
+812-8582, Japan.
+
+The development of embryonic stem cell (ESC) therapies requires the establishment
+of efficient methods to differentiate ESCs into specific cell lineages. Here, we 
+report the in vitro differentiation of common marmoset (CM) (Callithrix jacchus) 
+ESCs into hematopoietic cells after exogenous gene transfer using vesicular
+stomatitis virus-glycoprotein-pseudotyped lentiviral vectors. We transduced
+hematopoietic genes, including tal1/scl, gata1, gata2, hoxB4, and lhx2, into CM
+ESCs. By immunochemical and morphological analyses, we demonstrated that
+overexpression of tal1/scl, but not the remaining genes, dramatically increased
+hematopoiesis of CM ESCs, resulting in multiple blood-cell lineages. Furthermore,
+flow cytometric analysis demonstrated that CD34, a hematopoietic stem/progenitor 
+cell marker, was highly expressed in tal1/scl-overexpressing embryoid body cells.
+Similar results were obtained from three independent CM ESC lines. These results 
+suggest that transduction of exogenous tal1/scl cDNA into ESCs is a promising
+method to induce the efficient differentiation of CM ESCs into hematopoietic
+stem/progenitor cells.
+
+DOI: 10.1634/stemcells.2005-0499 
+PMID: 16728561  [Indexed for MEDLINE]
+

@@ -1,0 +1,69 @@
+
+
+3874. Mol Phylogenet Evol. 1995 Sep;4(3):331-49.
+
+DNA evidence on the phylogenetic systematics of New World monkeys: support for
+the sister-grouping of Cebus and Saimiri from two unlinked nuclear genes.
+
+Harada ML(1), Schneider H, Schneider MP, Sampaio I, Czelusniak J, Goodman M.
+
+Author information: 
+(1)Universidade Federal do Para, Departamento de Genetica, Belem, Brazil.
+
+Previous inferences from epsilon-globin gene sequences on cladistic relationships
+among the 16 extant genera of Ceboidea (the New World monkeys) were tested by
+strength of grouping and bootstrap values for the clades in the most parsimonious
+trees found: for this epsilon data set enlarged with additional Cebus and Saimiri
+orthologues; for another nuclear DNA sequence data set consisting of IRBP
+(interstitial retinol-binding protein gene) intron 1 orthologues; and for
+tandemly combined epsilon and IRBP sequences. Different ceboid species of the
+same genus always grouped strongly together as demonstrated by results on Cebus
+(capuchin monkeys), Saimiri (squirrel monkeys), Callicebus (titi monkeys), Aotus 
+(night monkeys), Ateles (spider monkeys), and Alouatta (howler monkeys). Other
+strong groupings that could be represented as monophyletic taxa in a cladistic
+classification were: Cebuella (pygmy marmoset) and Callithrix (marmoset) into
+subtribe Callitrichina; Callitrichina, Callimico (Goeldi's monkey),
+Leontopithecus (lion tamarin), and Saguinus (tamarin) into subfamily
+Callitrichinae; Callitrichinae, Aotus, Cebus, and Saimiri into family Cebidae;
+Cacajao (uakari monkey) and Chiropotes (saki) into subtribe Chiropotina;
+Chiropotina and Pithecia (bearded saki) into tribe Pitheciini; Pitheciini and
+Callicebus into subfamily Pitheciinae; Brachyteles (woolly spider monkey),
+Lagothrix (woolly monkey), and Ateles into tribe Atelini; and Atelini and
+Alouatta into subfamily Atelinae. In addition the epsilon and IRBP results
+congruently grouped (but at lesser strengths) Brachyteles and Lagothrix into
+subtribe Brachytelina within Atelini, and also Cebus and Saimiri into subfamily
+Cebinae within Cebidae. Because the IRBP results weakly grouped Pitheciinae with 
+Cebidae, whereas the epsilon results weakly grouped Pitheciinae with Atelinae,
+the present evidence is best represented in an interim cladistic classification
+of ceboids by dividing the superfamily Ceboidea into three families: Atelidae,
+Pitheciidae, and Cebidae.
+
+DOI: 10.1006/mpev.1995.1029 
+PMID: 8845968  [Indexed for MEDLINE]
+
+
+3875. Bull Assoc Anat (Nancy). 1995 Sep;79(246):21-4.
+
+The weight of the heart in Callithrix Erxleben, 1777.
+
+de Freitas Burity CH(1), Mandarim-de-Lacerda CA.
+
+Author information: 
+(1)Department of Anatomy, State University of Rio de Janeiro (UERJ), Brazil.
+
+The allometric relationship between the weight of the heart and the body
+measurements was analyzed in 31 primates of genus Callithrix (C. jacchus and C.
+penicillata). The data were analyzed after logarithmic transformation using the
+model: Ln Y = Ln a + (b) Ln X. We compared with the t-test the slopes of the
+males and females and the slopes of the C. Jacchus and C. penicillata. Positive
+allometry was found to the weight of the heart in relation to the body weight
+(except to females of C. penicillata = isometry) and to sitting height in females
+of C. jacchus and males of C. penicillata. The relationship of the weight of the 
+heart with the sitting height was isometric in males of C. jacchus and negative
+in females of C. penicillata. We cannot reject the null hypothesis analyzing the 
+differences between the slopes of males and females. Therefore, in these two
+species of Callithrix we accept the concept of monomorphism.
+
+
+PMID: 8541606  [Indexed for MEDLINE]
+

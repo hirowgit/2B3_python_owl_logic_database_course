@@ -1,0 +1,92 @@
+
+
+704. PLoS One. 2018 Apr 3;13(4):e0195316. doi: 10.1371/journal.pone.0195316.
+eCollection 2018.
+
+A novel calcimimetic agent, evocalcet (MT-4580/KHK7580), suppresses the
+parathyroid cell function with little effect on the gastrointestinal tract or CYP
+isozymes in vivo and in vitro.
+
+Kawata T(1), Tokunaga S(1), Murai M(2), Masuda N(3), Haruyama W(1), Shoukei Y(2),
+Hisada Y(4), Yanagida T(4), Miyazaki H(4), Wada M(5), Akizawa T(6), Fukagawa
+M(7).
+
+Author information: 
+(1)Nephrology Research Laboratories, Nephrology R&D Unit, R&D Division, Kyowa
+Hakko Kirin Co., Ltd., Shizuoka, Japan.
+(2)Research Core Function Laboratories, Research Functions Unit, R&D Division,
+Kyowa Hakko Kirin Co., Ltd., Shizuoka, Japan.
+(3)Takasaki Plant, Production Division, Kyowa Hakko Kirin Co., Ltd., Gunma,
+Japan.
+(4)Research Unit, Innovative Research Division, Mitsubishi Tanabe Pharma
+Corporation., Kanagawa, Japan.
+(5)Medical Affairs Department, Kyowa Hakko Kirin Co., Ltd., Tokyo, Japan.
+(6)Division of Nephrology, Department of Medicine, Showa University School of
+Medicine, Tokyo, Japan.
+(7)Division of Nephrology, Endocrinology and Metabolism, Tokai University School 
+of Medicine, Kanagawa, Japan.
+
+Cinacalcet hydrochloride (cinacalcet), an oral calcimimetic agent has been widely
+used for the management of secondary hyperparathyroidism (SHPT) in chronic kidney
+disease (CKD). In sharp contrast to vitamin D receptor activators, cinacalcet
+suppresses SHPT without inducing hypercalcemia or hyperphosphatemia.
+Nevertheless, some patients remain refractory to SHPT with this agent, as the
+dose cannot be sufficiently increased due to gastrointestinal symptoms. In order 
+to resolve this issue, we have developed a newly synthesized calcimimetic agent, 
+evocalcet (MT-4580/KHK7580). In a rat model of CKD induced by 5/6 nephrectomy,
+oral administration of evocalcet efficiently suppressed the secretion of
+parathyroid hormone (PTH). With regard to the gastro-intestinal effects,
+cinacalcet induced a significant delay in gastric emptying in rats, while
+evocalcet did no marked effects on it. Evocalcet also demonstrated the less
+induction of emesis compared to cinacalcet in common marmosets. The
+pharmacological effects of evocalcet were observed at lower doses because of its 
+higher bioavailability than cinacalcet, which may have contributed to the reduced
+GI tract symptoms. In addition, evocalcet showed no substantial direct inhibition
+of any CYP isozymes in in vitro liver microsome assay, suggesting a better
+profile in drug interactions than cinacalcet that inhibits cytochrome P450 (CYP) 
+2D6. These findings suggest that evocalcet can be a better alternative to
+cinacalcet, an oral calcimimetic agent, with a wider safety margin.
+
+DOI: 10.1371/journal.pone.0195316 
+PMCID: PMC5882164
+PMID: 29614098  [Indexed for MEDLINE]
+
+
+705. Physiol Genomics. 2018 Jun 1;50(6):425-439. doi:
+10.1152/physiolgenomics.00030.2018. Epub 2018 Mar 30.
+
+Similarity and variation in the insulin-like growth factor 2 - H19 locus in
+primates.
+
+Rotwein P(1).
+
+Author information: 
+(1)Department of Biomedical Sciences, Paul L. Foster School of Medicine, Texas
+Tech Health University Health Sciences Center , El Paso, Texas.
+
+Insulin-like growth factor 2 (IGF2), a small, secreted protein, is critical for
+fetal and prenatal growth in humans and other mammals. The IGF2 gene and its
+mouse homolog comprise part of a conserved linkage group that is regulated by
+parental imprinting, with IGF2/ Igf2 being expressed from the paternal
+chromosome, and the adjacent H19 gene from the maternal chromosome. By using
+information extracted from public genomic and gene expression databases, I have
+now analyzed this locus in nine nonhuman primate species representing over 60
+million years of evolutionary divergence from a common progenitor. Both IGF2 and 
+H19 genes and the entire locus have been conserved among these primates. Each
+primate IGF2 gene except for gibbon and marmoset is composed of 10 exons and
+contains five potential promoters, each with distinctive 5'-untranslated exons.
+Similarly, except for marmoset and mouse lemur, H19 consists of six exons and has
+two promoters. DNA sequence conservation is high, not only in orthologous exons
+and promoters, but also in a putative imprinting control region located 5' to H19
+and in multiple potential distal enhancer elements found 3' to H19. Collectively,
+these results support the hypothesis that common regulatory processes shaped the 
+IGF2 - H19 locus before the onset of primate speciation more than 85 million
+years ago. This study also leads to the conclusion that inaccuracies in data
+presentation in genetic repositories could limit our ability to develop novel
+insights about roles of individual genes and multigene loci in mammalian
+physiology and disease.
+
+DOI: 10.1152/physiolgenomics.00030.2018 
+PMCID: PMC6032289
+PMID: 29602297  [Indexed for MEDLINE]
+

@@ -1,0 +1,37 @@
+
+
+1231. Sci Rep. 2015 May 14;5:10315. doi: 10.1038/srep10315.
+
+Higher-order repeat structure in alpha satellite DNA occurs in New World monkeys 
+and is not confined to hominoids.
+
+Sujiwattanarat P(1), Thapana W(1), Srikulnath K(2), Hirai Y(3), Hirai H(3), Koga 
+A(3).
+
+Author information: 
+(1)1] Primate Research Institute, Kyoto University, Inuyama City 484-8506, Japan 
+[2] Faculty of Science, Kasetsart University, Bangkok 10900, Thailand.
+(2)Faculty of Science, Kasetsart University, Bangkok 10900, Thailand.
+(3)Primate Research Institute, Kyoto University, Inuyama City 484-8506, Japan.
+
+Centromeres usually contain large amounts of tandem repeat DNA. Alpha satellite
+DNA (AS) is the most abundant tandem repeat DNA found in the centromeres of
+simian primates. The AS of humans contains sequences organized into higher-order 
+repeat (HOR) structures, which are tandem arrays of larger repeat units
+consisting of multiple basic repeat units. HOR-carrying AS also occurs in other
+hominoids, but results reported to date for phylogenetically more remote taxa
+have been negative. Here we show direct evidence for clear HOR structures in AS
+of the owl monkey and common marmoset. These monkeys are New World monkey species
+that are located phylogenetically outside of hominoids. It is currently
+postulated that the presence of HOR structures in AS is unique to hominoids. Our 
+results suggest that this view must be modified. A plausible explanation is that 
+generation of HOR structures is a general event that occurs occasionally or
+frequently in primate centromeres, and that, in humans, HOR-carrying AS became
+predominant in the central region of the centromere. It is often difficult to
+assemble sequence reads of tandem repeat DNAs into accurate contig sequences; our
+careful sequencing strategy allowed us to overcome this problem.
+
+DOI: 10.1038/srep10315 
+PMCID: PMC4431391
+PMID: 25974220  [Indexed for MEDLINE]
+

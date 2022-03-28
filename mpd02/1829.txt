@@ -1,0 +1,39 @@
+
+
+1829. Eur J Immunol. 2012 Jan;42(1):217-27. doi: 10.1002/eji.201141863. Epub 2011 Dec
+2.
+
+Unravelling the T-cell-mediated autoimmune attack on CNS myelin in a new primate 
+EAE model induced with MOG34-56 peptide in incomplete adjuvant.
+
+Jagessar SA(1), Heijmans N, Blezer EL, Bauer J, Blokhuis JH, Wubben JA, Drijfhout
+JW, van den Elsen PJ, Laman JD, Hart BA.
+
+Author information: 
+(1)Department of Immunology, Biomedical Primate Research Centre, Rijswijk, The
+Netherlands.
+
+Induction of experimental autoimmune encephalomyelitis (EAE) has been documented 
+in common marmosets using peptide 34-56 from human myelin/oligodendrocyte
+glycoprotein (MOG(34-56) ) in incomplete Freund's adjuvant (IFA). Here, we report
+that this EAE model is associated with widespread demyelination of grey and white
+matter. We performed an in-depth analysis of the specificity, MHC restriction and
+functions of the activated T cells in the model, which likely cause EAE in an
+autoantibody-independent manner. T-cell lines isolated from blood and lymphoid
+organs of animals immunized with MOG(34-56) displayed high production of IL-17A
+and specific lysis of MOG(34-56) -pulsed EBV B-lymphoblastoid cells as typical
+hallmarks. Cytotoxicity was directed at the epitope MOG(40-48) presented by the
+non-classical MHC class Ib allele Caja-E, which is orthologue to HLA-E and is
+expressed in non-inflamed brain. In vivo activated T cells identified by flow
+cytometry in cultures with MOG(34-56,) comprised CD4(+) CD56(+) and CD4(+) CD8(+)
+CD56(+) T cells. Furthermore, phenotypical analysis showed that CD4(+) CD8(+)
+CD56(+) T cells also expressed CD27, but CD16, CD45RO, CD28 and CCR7 were absent.
+These results show that, in the MOG34-56/IFA marmoset EAE model, a
+Caja-E-restricted population of autoreactive cytotoxic T cells plays a key role
+in the process of demyelination in the grey and white matter.
+
+Copyright © 2012 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/eji.201141863 
+PMID: 21928277  [Indexed for MEDLINE]
+

@@ -1,0 +1,46 @@
+
+
+38. Microorganisms. 2021 Oct 21;9(11). pii: 2196. doi: 10.3390/microorganisms9112196.
+
+Genotype-Dependent Immunogenicity of Dengue Virus Type 2 Asian I and
+Asian/American Genotypes in Common Marmoset (Callithrix jacchus): Discrepancy in 
+Neutralizing and Infection-Enhancing Antibody Levels between Genotypes.
+
+Azami NAM(1)(2), Moi ML(3), Ami Y(4), Suzaki Y(4), Taniguchi S(1), Tajima S(1),
+Saijo M(1), Takasaki T(5), Kurane I(6), Lim CK(1).
+
+Author information: 
+(1)Department of Virology 1, National Institute of Infectious Diseases, Tokyo
+162-8640, Japan.
+(2)UKM Medical Molecular Biology Institute, Universiti Kebangsaan Malaysia, Kuala
+Lumpur 56000, Malaysia.
+(3)School of International Health, The University of Tokyo, Tokyo 113-0033,
+Japan.
+(4)Division of Experimental Animal Research, National Institute of Infectious
+Diseases, Tokyo 208-0011, Japan.
+(5)Kanagawa Prefectural Institute of Public Health, Kanagawa 253-0087, Japan.
+(6)National Institute of Infectious Diseases, Tokyo 162-8640, Japan.
+
+Owing to genotype-specific neutralizing antibodies, analyzing differences in the 
+immunogenic variation among dengue virus (DENV) genotypes is central to effective
+vaccine development. Herein, we characterized the viral kinetics and antibody
+response induced by DENV type 2 Asian I (AI) and Asian/American (AA) genotypes
+using marmosets (Callithrix jacchus) as models. Two groups of marmosets were
+inoculated with AI and AA genotypes, and serial plasma samples were collected.
+Viremia levels were determined using quantitative reverse transcription-PCR,
+plaque assays, and antigen enzyme-linked immunosorbent assay (ELISA). Anti-DENV
+immunoglobulin M and G antibodies, neutralizing antibody titer, and
+antibody-dependent enhancement (ADE) activity were determined using ELISA, plaque
+reduction neutralization test, and ADE assay, respectively. The AI genotype
+induced viremia for a longer duration, but the AA genotype induced higher levels 
+of viremia. After four months, the neutralizing antibody titer induced by the AA 
+genotype remained high, but that induced by the AI genotype waned. ADE activity
+toward Cosmopolitan genotypes was detected in marmosets inoculated with the AI
+genotype. These findings indicate discrepancies between heterologous genotypes
+that influence neutralizing antibodies and viremia in marmosets, a critical issue
+in vaccine development.
+
+DOI: 10.3390/microorganisms9112196 
+PMCID: PMC8618970
+PMID: 34835327 
+

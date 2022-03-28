@@ -1,0 +1,79 @@
+
+
+2656. Eur J Neurosci. 2005 Jul;22(2):437-47.
+
+S-cones do not contribute to the OFF-midget pathway in the retina of the
+marmoset, Callithrix jacchus.
+
+Lee SC(1), Telkes I, Grünert U.
+
+Author information: 
+(1)The National Vision Research Institute of Australia, The University of
+Melbourne, Carlton VIC 3053, Australia.
+
+It is well established that in primate retina both medium- and
+long-wavelength-sensitive cone types provide input to the midget-parvocellular
+pathway. The question, however, whether short-wavelength-sensitive (S or 'blue') 
+cones provide input to the OFF-division of the midget-parvocellular pathway is
+still controversial. In the present study, we investigated the connections of
+nearly 400 S-cones with OFF-midget bipolar cells in central and peripheral retina
+of a New World monkey, the marmoset. Horizontal sections or pieces of whole
+retinae were double-labelled with an antiserum to S-cone opsin to identify
+S-cones and antibodies to the cell adhesion molecule CD15 to identify OFF-midget 
+bipolar cells. Peanut agglutinin coupled to a fluorescent tag was used to label
+the cone pedicles of all cone types. Peanut agglutinin was also used to
+distinguish S-cones from the other cone types. The sections were analysed with
+deconvolution microscopy. We found that nearly all pedicles of medium- and
+long-wavelength-sensitive cones are located opposite distinct dendritic clusters 
+formed by OFF-midget bipolar cells. By contrast, the S-cone pedicles are not
+located opposite dendritic clusters. Instead, S-cones make sparse contacts with
+CD15-labelled processes. Some of these processes protruded from OFF-midget
+bipolar clusters, whereas others could be traced to a diffuse bipolar cell type. 
+Thus, in the marmoset retina the midget-parvocellular system does not carry a
+blue-OFF signal.
+
+DOI: 10.1111/j.1460-9568.2005.04231.x 
+PMID: 16045497  [Indexed for MEDLINE]
+
+
+2657. Eur J Neurosci. 2005 Jun;21(12):3240-50.
+
+Immunoautoradiographic analysis of NMDA receptor subunits and associated
+postsynaptic density proteins in the brain of dyskinetic MPTP-treated common
+marmosets.
+
+Hurley MJ(1), Jackson MJ, Smith LA, Rose S, Jenner P.
+
+Author information: 
+(1)Neurodegenerative Diseases Research Group, Pharmaceutical Sciences Division,
+School of Health and Life Sciences, King's College, London, SE1 1UL, UK.
+michael.j.hurley@kcl.ac.uk
+
+l-3,4-dihydroxyphenylalanine methyl ester (l-DOPA)-induced dyskinesia in
+Parkinson's disease may result from aberrant glutamatergic stimulation of the
+striatum due to synaptic plasticity in the motor cortex or striatum as a
+consequence of adaptation of striatal output pathways. This might result from
+changes in NMDA receptor subunit or NMDA receptor associated postsynaptic density
+(PSD) scaffold protein expression. Using immunoautoradiography the expression
+levels of NR1 and NR2B subunits of the NMDA receptor and the postsynaptic density
+scaffold proteins, PSD-95, PSD-93, and neurofilament light (NFL) were examined in
+normal common marmosets (Callithrix jacchus) and
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned animals that
+exhibited high or low levels of l-DOPA-induced dyskinesia. Brains from
+MPTP-lesioned animals that were not primed for l-DOPA-induced dyskinesia were not
+included in this study. No alterations in the NR1 NMDA receptor subunit were
+observed. The NR2B NMDA receptor subunit was increased in caudal caudate nucleus 
+and putamen, hippocampus, cingulate motor area (CMA), supplementary motor area
+(SMA) and dorsal primary motor cortex (dMI) of highly dyskinetic MPTP-lesioned
+marmosets, but not in animals with low levels of dyskinesia. PSD-93 was decreased
+in the globus pallidus of marmosets with high and low levels of dyskinesia and
+increased in the CMA, SMA and dMI of highly dyskinetic marmosets. PSD-95 was
+increased in the SMA of highly dyskinetic marmosets, but not in animals with low 
+dyskinesia. NFL expression was elevated in the SMA and dorsal and ventral MI of
+highly dyskinetic marmosets. These results suggest that l-DOPA treatment of
+MPTP-lesioned marmosets can affect glutamatergic systems and indicate that
+altered NMDA receptor function may relate to dyskinesia.
+
+DOI: 10.1111/j.1460-9568.2005.04169.x 
+PMID: 16026462  [Indexed for MEDLINE]
+

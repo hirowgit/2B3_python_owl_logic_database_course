@@ -1,0 +1,95 @@
+
+
+1004. Primates. 2017 Jan;58(1):169-178. doi: 10.1007/s10329-016-0560-0. Epub 2016 Aug
+8.
+
+Polymorphism of the 3'-UTR of the dopamine transporter gene (DAT) in New World
+monkeys.
+
+Lucarelli M(1)(2), Visalberghi E(3), Adriani W(4), Addessi E(3), Pierandrei
+S(1)(2), Manciocco A(3), Zoratto F(4), Tamellini A(5), Vitale A(4), Laviola G(4),
+Alfaro JL(6), Pascale E(7).
+
+Author information: 
+(1)Department of Cellular Biotechnologies and Hematology, Sapienza University of 
+Rome, Rome, Italy.
+(2)Pasteur Institute, Cenci Bolognetti Foundation, Sapienza University of Rome,
+Rome, Italy.
+(3)Istituto di Scienze e Tecnologie della Cognizione, CNR, Rome, Italy.
+(4)Department of Cell Biology and Neurosciences, Istituto Superiore di Sanità,
+Rome, Italy.
+(5)Preclinical Technologies Department, Aptuit, Verona, Italy.
+(6)Institute for Society and Genetics and Department of Anthropology, University 
+of California, Los Angeles, CA, USA.
+(7)Department of Medical-Surgical Sciences and Biotechnologies, University of
+Rome "La Sapienza", Corso della Repubblica 79, 04100, Latina, Italy.
+esterina.pascale@uniroma1.it.
+
+Genetic polymorphism in the 3'-untranslated region (3'-UTR) of the dopamine
+transporter (DAT) gene has been reported in both human and nonhuman primates, and
+the variable number of tandem repeats (VNTR) polymorphism has been related to
+several neurological and psychiatric disorders. As New World primates have been
+employed as models in biomedical research in these fields, in the present study
+we assessed genetic variation in the DAT gene in 25 robust capuchin monkeys
+(Sapajus spp.) and 39 common marmosets (Callithrix jacchus). Using enzymatic
+amplification followed by sequencing of amplified fragments, a VNTR polymorphism 
+in the 3'-UTR region of the DAT gene was identified in both robust capuchins and 
+common marmosets. The polymorphic tandem repeat of 40-bp basic units is similar
+to the human VNTR consensus sequence, with size variants composed of 9, 10, and
+11 units in marmosets and 8, 9, 13, and 17 basic units in capuchins. We found
+behavioral evidence that carrying the 10-repeat DAT allele promotes flexible
+choice and maximization of foraging in marmosets tested in an operant choice
+paradigm. Moreover, in an intertemporal choice task, capuchins with longer repeat
+variants show less self-controlled choices than capuchins with at least one short
+repeat variant. Future research should focus on the relationship between these
+DAT polymorphisms, dopamine reuptake via the dopamine transporter, and behavioral
+and cognitive variation across New World monkey individuals.
+
+DOI: 10.1007/s10329-016-0560-0 
+PMID: 27503104  [Indexed for MEDLINE]
+
+
+1005. Magn Reson Med. 2017 Jul;78(1):387-398. doi: 10.1002/mrm.26339. Epub 2016 Aug 8.
+
+Design and implementation of embedded 8-channel receive-only arrays for
+whole-brain MRI and fMRI of conscious awake marmosets.
+
+Papoti D(1), Yen CC(1), Hung CC(1)(2), Ciuchta J(1), Leopold DA(2), Silva AC(1).
+
+Author information: 
+(1)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, Maryland, USA.
+(2)Section on Cognitive Neurophysiology and Imaging, Laboratory of
+Neuropsychology, National Institute of Mental Health, National Institutes of
+Health, Bethesda, Maryland, USA.
+
+PURPOSE: The common marmoset (Callithrix jacchus) is a New World primate of
+increasing interest to neuroscience and in translational brain research. The
+present work describes the design and implementation of individualized 8-channel 
+receive-only radiofrequency (RF) coil arrays that provide whole-brain coverage
+and allow anatomical and functional MRI experiments in conscious, awake
+marmosets.
+METHODS: The coil arrays were designed with their elements embedded inside
+individualized restraint helmets. The size, geometry, and arrangement of the coil
+elements were optimized to allow whole-brain coverage. Coil-to-coil decoupling
+was achieved by a combination of geometric decoupling and low input impedance
+preamplifiers. The performance of the embedded arrays was compared against that
+of one 8-channel receive-only array built to fit the external surface of the
+helmets.
+RESULTS: Three individualized helmets with embedded coil arrays were built for
+three marmosets. Whole-brain coverage was achieved with high sensitivity
+extending over the entire cortex. Visual stimulation of conscious awake marmosets
+elicited robust BOLD fMRI responses in both primary and higher order visual areas
+of the occipitotemporal cortex.
+CONCLUSION: The high sensitivity provided by embedded receive-only coil arrays
+allows both anatomical and functional MRI data to be obtained with high spatial
+resolution in conscious, awake marmosets. Magn Reson Med 78:387-398, 2017. © 2016
+International Society for Magnetic Resonance in Medicine.
+
+© 2016 International Society for Magnetic Resonance in Medicine.
+
+DOI: 10.1002/mrm.26339 
+PMCID: PMC5298952
+PMID: 27501382  [Indexed for MEDLINE]
+

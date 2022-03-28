@@ -1,0 +1,30 @@
+
+
+2378. J Infect Dis. 2007 Aug 15;196(4):541-9. Epub 2007 Jun 29.
+
+Measles virus vaccine attenuation: suboptimal infection of lymphatic tissue and
+tropism alteration.
+
+Condack C(1), Grivel JC, Devaux P, Margolis L, Cattaneo R.
+
+Author information: 
+(1)Laboratory of Molecular and Cellular Biophysics, National Institute of Child
+Health and Human Development, Bethesda, MD 20892, USA.
+
+The mechanisms of measles virus (MV) vaccine attenuation are insufficiently
+characterized. Because the Edmonston vaccine strain can enter cells through CD46 
+in addition to the primary MV receptor signaling lymphocyte activation molecule
+(SLAM or CD150), we asked whether and how its tropism is altered. In human
+tonsillar tissue, this vaccine strain infects naive (CD45RA(+)CD62L(+)) T
+lymphocytes, which express SLAM very infrequently, with much higher efficiency
+than do wild-type strains. By contrast, it infects B lymphocytes, macrophages,
+and NK cells with significantly lower efficiencies than those of wild-type
+strains. Infection levels by wild-type strains correlate with the frequency of
+SLAM expression and are highest in B cells, which are 40%-55% infected.
+SLAM-expressing T cells are more readily infected by all MV strains than are
+SLAM-expressing B cells. Thus, vaccine attenuation may be caused by tropism
+alteration in combination with suboptimal replication.
+
+DOI: 10.1086/519689 
+PMID: 17624839  [Indexed for MEDLINE]
+

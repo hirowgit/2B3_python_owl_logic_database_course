@@ -1,0 +1,97 @@
+
+
+588. J Am Assoc Lab Anim Sci. 2019 Jan 1;58(1):16-20. doi:
+10.30802/AALAS-JAALAS-18-000046. Epub 2018 Dec 11.
+
+Daily Water Intake by Common Marmosets (Callithrix jacchus) and Recommendations
+Regarding Fluid Regulation.
+
+Winn CB(1), Issa EB(2), Curcillo CP(3), Townes CA(4), Burns MA(5), Patterson
+MM(6).
+
+Author information: 
+(1)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Pfizer Worldwide Research and Development, Cambridge Massachusetts.
+(2)McGovern Institute for Brain Research, Department of Brain and Cognitive
+Sciences, Massachusetts Institute of Technology, Cambridge, Massachusetts.
+(3)University of Pennsylvania School of Veterinary Medicine, Philadelphia,
+Pennsylvania.
+(4)University of Illinois College of Veterinary Medicine, Urbana, Illinois.
+(5)Division of Comparative Medicine.
+(6)Division of Comparative Medicine;, Email: mmpatt@mit.edu.
+
+The typical daily water intake of common marmosets (Callithrix jacchus) in a
+research setting has not been well characterized. Because these New World
+primates are in demand as animal models for neurobehavioral experiments, which
+can include the potential use of fluid regulation for training, veterinary and
+research staff need to understand how marmosets keep hydrated under normal
+circumstances. In the current study, we measured the water consumption of older
+(age, 5 to 12 y; n = 11) and younger (age, 1 to 2 y; n = 11) marmosets every 3 h 
+during the 12-h light phase in 2 different months (January and July). The overall
+daily water intake (mean ± 1 SD) was 61.3 ± 20.4 mL/kg (range, 36.3 to 99.0
+mL/kg); water intake by an individual marmoset or cohoused pair was fairly
+consistent from day to day. Water intake did not change across the four 3-h
+periods measured during the day, and minimal water was consumed overnight when
+the room lights were off. In addition, daily water intake did not differ between 
+the 2 mo of measurements. Older animals drank significantly more than the younger
+group, and weight was directly correlated with water intake. Water intake was not
+affected by body condition score or housing status. The variation in water
+consumption among marmosets underscores the need for individualization of fluid
+regulation guidelines.
+
+DOI: 10.30802/AALAS-JAALAS-18-000046 
+PMCID: PMC6351047
+PMID: 30538006  [Indexed for MEDLINE]
+
+
+589. J Neurosci. 2019 Feb 6;39(6):1020-1029. doi: 10.1523/JNEUROSCI.2595-18.2018. Epub
+2018 Dec 10.
+
+Intrinsic Functional Boundaries of Lateral Frontal Cortex in the Common Marmoset 
+Monkey.
+
+Schaeffer DJ(1), Gilbert KM(1), Gati JS(1), Menon RS(1)(2), Everling S(3)(2).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute, and.
+(2)Department of Physiology and Pharmacology, University of Western Ontario,
+London, Ontario N6A 5B7, Canada.
+(3)Centre for Functional and Metabolic Mapping, Robarts Research Institute, and
+severlin@uwo.ca.
+
+The common marmoset (Callithrix jacchus) is a small New World primate species
+that has been recently targeted as a potentially powerful preclinical model of
+human prefrontal cortex dysfunction. Although the structural boundaries of
+frontal cortex were described in marmosets at the start of the 20th century
+(Brodmann, 1909) and refined more recently (Paxinos et al., 2012), the broad
+functional boundaries of marmoset frontal cortex have yet to be established. In
+this study, we sought to functionally derive boundaries of the marmoset lateral
+frontal cortex (LFC) using ultra-high field (9.4 T) resting-state functional
+magnetic resonance imaging (RS-fMRI). We collected RS-fMRI data in seven (four
+females, three males) lightly anesthetized marmosets and used a data-driven
+hierarchical clustering approach to derive subdivisions of the LFC based on
+intrinsic functional connectivity. We then conducted seed-based analyses to
+assess the functional connectivity between these clusters and the rest of the
+brain. The results demonstrated seven distinct functional clusters within the
+LFC. The functional connectivity patterns of these clusters with the rest of the 
+brain were also found to be distinct and organized along a rostrocaudal gradient,
+consonant with those found in humans and macaques. Overall, these results support
+the view that marmosets are a promising preclinical modeling species for studying
+LFC dysfunction related to neuropsychiatric or neurodegenerative human brain
+diseases.SIGNIFICANCE STATEMENT The common marmoset is a New World primate that
+has garnered recent attention as a powerful complement to canonical Old World
+primate (e.g., macaques) and rodent models (e.g., rats, mice) for preclinical
+modeling of the human brain in healthy and diseased states. A critical step in
+the development of marmosets for such models is to characterize functional
+network topologies of frontal cortex in healthy, normally functioning marmosets, 
+that is, how these circuitries are functionally divided and how those topologies 
+compare to human circuitry. To our knowledge, this is the first study to
+demonstrate functional boundaries of the lateral frontal cortex and the
+corresponding network topologies in marmoset monkeys.
+
+Copyright © 2019 the authors 0270-6474/19/391020-10$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.2595-18.2018 
+PMCID: PMC6363921
+PMID: 30530862  [Indexed for MEDLINE]
+

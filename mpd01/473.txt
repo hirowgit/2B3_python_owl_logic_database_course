@@ -1,0 +1,84 @@
+
+
+473. Yakugaku Zasshi. 2019;139(7):1007-1013. doi: 10.1248/yakushi.18-00165-4.
+
+[Prion-like Propagation of Pathological α-Synuclein in Vivo].
+
+[Article in Japanese]
+
+Masuda-Suzukake M(1), Hasegawa M(1).
+
+Author information: 
+(1)Dementia Research Project, Tokyo Metropolitan Institute of Medical Science.
+
+α-Synuclein (αS) is the major component of the filamentous inclusions that
+constitute the defining characteristic of neurodegenerative synucleinopathies,
+including Parkinson's disease, dementia with Lewy bodies, and multiple system
+atrophy. αS is deposited in a hyperphosphorylated and ubiquitinated form with a
+β-sheet-rich fibrillar structure in diseased brains. In 2008, some researchers
+reported that embryonic neurons transplanted into Parkinson's disease brains had 
+Lewy body-like pathologies, suggesting that pathological αS propagates from
+diseased neurons to young neurons. Subsequently, a growing body of evidence
+supported the cell-to-cell spread of αS pathologies. Recent studies have revealed
+that intracerebral injection of insoluble αS into wild-type mice can induce
+prion-like propagation of phosphorylated αS pathology even 1 month after
+injection, while injection into αS-knockout mice failed to induce any pathology. 
+We also showed that intracerebral injection of insoluble αS into adult common
+marmoset brains results in the spreading of abundant αS pathology. These in vivo 
+experiments clearly indicate that insoluble αS has prion-like properties and that
+it propagates through neural networks. The underlying mechanisms of αS
+propagation are still poorly understood, but αS propagation model animals could
+be helpful in elucidating the pathogenetic mechanisms and developing drugs for
+synucleinopathies.
+
+DOI: 10.1248/yakushi.18-00165-4 
+PMID: 31257247  [Indexed for MEDLINE]
+
+
+474. Anat Rec (Hoboken). 2019 Nov;302(11):1891-1900. doi: 10.1002/ar.24212. Epub 2019 
+Jul 12.
+
+Visualization and Quantification of Digitally Dissected Muscle Fascicles in the
+Masticatory Muscles of Callithrix jacchus Using Nondestructive DiceCT.
+
+Dickinson E(1), Basham C(2), Rana A(3), Hartstone-Rose A(1).
+
+Author information: 
+(1)Department of Biological Sciences, North Carolina State University, Raleigh,
+North Carolina.
+(2)Department of Mechanical, Aerospace, and Biomedical Engineering, University of
+Tennessee, Knoxville, Tennessee.
+(3)Stryker Orthopaedics, Kalamazoo, Michigan.
+
+The organization and length of a muscle's fascicles imparts its contractile
+properties. Longer fascicles permit increased muscle excursion, whereas changes
+in fascicle orientation relate to the overall vector of contractile force.
+Collecting data on fascicle architecture has traditionally involved destructive
+and irreversible gross dissection. In recent years, however, new imaging
+modalities have permitted muscles and their fascicles to be visualized
+nondestructively. Here, we present data from a primate (Callithrix jacchus), in
+which, for the first time, individual muscle fascicles are digitally "dissected" 
+(segmented and reconstructed) using nondestructive, high-resolution diffusible
+iodine-based contrast-enhanced computed tomography (DiceCT) techniques. We also
+present quantitative data on the length and orientation of these fascicles within
+10 muscle divisions of the jaw adductor and abductor musculature (superficial,
+deep, and zygomatic portions of temporalis and masseter; medial and lateral
+pterygoid; anterior and posterior digastric) and compare these digitally measured
+lengths to fascicular lengths measured using traditional gross and chemical
+dissection. Digitally derived fascicle lengths correspond well to their
+dissection-derived counterparts. Moreover, our analyses of changes in fascicle
+orientation across the adductor complex enable us to visualize previously
+uncharacterized levels of detail and highlight significant variation between
+adjacent muscle layers within muscle groups (e.g., between superficial, deep, and
+zygomatic portions of masseter and temporalis). We conclude that this technique
+offers great potential to future research, particularly for questions centered
+around the visualization and quantification of obscured and often-overlooked
+muscles such as the pterygoid and digastric muscles, and for deriving more
+accurate models of the masticatory system as a whole. Anat Rec, 302:1891-1900,
+2019. © 2019 American Association for Anatomy.
+
+© 2019 American Association for Anatomy.
+
+DOI: 10.1002/ar.24212 
+PMID: 31251450  [Indexed for MEDLINE]
+

@@ -1,0 +1,84 @@
+
+
+153. Anat Rec (Hoboken). 2021 Jun;304(6):1275-1279. doi: 10.1002/ar.24632. Epub 2021
+Apr 19.
+
+Collagen quantification in the ventricular walls of the heart of the common
+marmoset (Callithrix jacchus).
+
+Senos R(1)(2), Gomes Benedicto H(3), Macedo Del Rio do Valle C(2), Del Rio do
+Valle R(2), L Nayudu P(4), Roberto-Rodrigues M(3), Bombonato PP(2).
+
+Author information: 
+(1)Department of Biomedical Sciences, Cummings School of Veterinary Medicine,
+Tufts University (Tufts), North Grafton, Massachusetts, USA.
+(2)Anatomy of the Domestic and Wild Animals Sector of Universidade de São Paulo
+(USP), São Paulo, Brazil.
+(3)Department of Morphology, Universidade Federal Fluminense (UFF), Niteroi,
+Brazil.
+(4)Deutsches Primatenzentrum (DPZ), Göttingen, Germany.
+
+The excellent adaptability of Callithrix jacchus to life in captivity presents
+advantages in comparison to other nonhuman primates that are used in experimental
+models for biomedical research, which explains the increasing scientific interest
+in investigating the anatomical characteristics of this species. Owing to the
+relative scarcity of publications on the descriptive morphology of the heart of
+C. jacchus, the aim of this study was to quantify the presence of collagen in the
+left and right ventricular myocardium using modified picrosirius red and acid
+fuchsine colorimetric assays. The myocardium of the right ventricle presented a
+higher percentage of collagen than that of the left ventricle. No sex-related
+differences were observed between the groups. Interestingly, the absolute values 
+of collagen were different depending on the method used for quantification
+(modified picrosirius red vs. acid fuchsine). The level of collagen
+quantification observed in the ventricular myocardium of C. jacchus was similar
+to that seen in other nonhuman primates traditionally used in experimental models
+of cardiac diseases.
+
+© 2021 American Association for Anatomy.
+
+DOI: 10.1002/ar.24632 
+PMID: 33876561  [Indexed for MEDLINE]
+
+
+154. eNeuro. 2021 May 17;8(3). pii: ENEURO.0489-20.2021. doi:
+10.1523/ENEURO.0489-20.2021. Print 2021 May-Jun.
+
+Visual Neuroscience Methods for Marmosets: Efficient Receptive Field Mapping and 
+Head-Free Eye Tracking.
+
+Jendritza P(1)(2), Klein FJ(3), Rohenkohl G(3)(4), Fries P(3)(5).
+
+Author information: 
+(1)Ernst Strüngmann Institute (ESI) for Neuroscience in Cooperation with Max
+Planck Society, 60528 Frankfurt, Germany patrick.jendritza@esi-frankfurt.de.
+(2)International Max Planck Research School for Neural Circuits, 60438 Frankfurt,
+Germany.
+(3)Ernst Strüngmann Institute (ESI) for Neuroscience in Cooperation with Max
+Planck Society, 60528 Frankfurt, Germany.
+(4)Department of Physiology, Institute of Biosciences, University of São Paulo,
+05508-000 São Paulo, Brazil.
+(5)Donders Institute for Brain, Cognition and Behaviour, Radboud University
+Nijmegen, 6525 EN Nijmegen, The Netherlands.
+
+The marmoset has emerged as a promising primate model system, in particular for
+visual neuroscience. Many common experimental paradigms rely on head fixation and
+an extended period of eye fixation during the presentation of salient visual
+stimuli. Both of these behavioral requirements can be challenging for marmosets. 
+Here, we present two methodological developments, each addressing one of these
+difficulties. First, we show that it is possible to use a standard eye-tracking
+system without head fixation to assess visual behavior in the marmoset.
+Eye-tracking quality from head-free animals is sufficient to obtain precise
+psychometric functions from a visual acuity task. Second, we introduce a novel
+method for efficient receptive field (RF) mapping that does not rely on moving
+stimuli but uses fast flashing annuli and wedges. We present data recorded during
+head-fixation in areas V1 and V6 and show that RF locations are readily obtained 
+within a short period of recording time. Thus, the methodological advancements
+presented in this work will contribute to establish the marmoset as a valuable
+model in neuroscience.
+
+Copyright © 2021 Jendritza et al.
+
+DOI: 10.1523/ENEURO.0489-20.2021 
+PMCID: PMC8143020
+PMID: 33863782  [Indexed for MEDLINE]
+

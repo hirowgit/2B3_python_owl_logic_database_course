@@ -1,0 +1,86 @@
+
+
+334. Genes (Basel). 2020 Apr 1;11(4). pii: E383. doi: 10.3390/genes11040383.
+
+Evolution of the Human Chromosome 13 Synteny: Evolutionary Rearrangements,
+Plasticity, Human Disease Genes and Cancer Breakpoints.
+
+Scardino R(1), Milioto V(1), Proskuryakova AA(2), Serdyukova NA(2), Perelman
+PL(2), Dumas F(1).
+
+Author information: 
+(1)Department of Biological, Chemical and Pharmaceutical Sciences and
+Technologies (STEBICEF), University of Palermo, 90100 Palermo, Italy.
+(2)Institute of Molecular and Cellular Biology, SB RAS, 630090 Novosibirsk,
+Russia.
+
+The history of each human chromosome can be studied through comparative
+cytogenetic approaches in mammals which permit the identification of human
+chromosomal homologies and rearrangements between species. Comparative banding,
+chromosome painting, Bacterial Artificial Chromosome (BAC) mapping and genome
+data permit researchers to formulate hypotheses about ancestral chromosome forms.
+Human chromosome 13 has been previously shown to be conserved as a single
+syntenic element in the Ancestral Primate Karyotype; in this context, in order to
+study and verify the conservation of primate chromosomes homologous to human
+chromosome 13, we mapped a selected set of BAC probes in three platyrrhine
+species, characterised by a high level of rearrangements, using fluorescence in
+situ hybridisation (FISH). Our mapping data on Saguinus oedipus, Callithrix
+argentata and Alouatta belzebul provide insight into synteny of human chromosome 
+13 evolution in a comparative perspective among primate species, showing
+rearrangements across taxa. Furthermore, in a wider perspective, we have revised 
+previous cytogenomic literature data on chromosome 13 evolution in eutherian
+mammals, showing a complex origin of the eutherian mammal ancestral karyotype
+which has still not been completely clarified. Moreover, we analysed biomedical
+aspects (the OMIM and Mitelman databases) regarding human chromosome 13, showing 
+that this autosome is characterised by a certain level of plasticity that has
+been implicated in many human cancers and diseases.
+
+DOI: 10.3390/genes11040383 
+PMCID: PMC7230465
+PMID: 32244767  [Indexed for MEDLINE]
+
+
+335. BMC Genomics. 2020 Apr 2;21(Suppl 3):243. doi: 10.1186/s12864-020-6657-2.
+
+An improved de novo genome assembly of the common marmoset genome yields improved
+contiguity and increased mapping rates of sequence data.
+
+Jayakumar V(1), Ishii H(1), Seki M(1), Kumita W(2), Inoue T(2), Hase S(1), Sato
+K(1), Okano H(3)(4), Sasaki E(2), Sakakibara Y(5).
+
+Author information: 
+(1)Department of Biosciences and Informatics, Keio University, Yokohama,
+Kanagawa, 223-8522, Japan.
+(2)Department of Marmoset Biology and Medicine, Central Institute for
+Experimental Animals, Kawasaki, Kanagawa, 210-0821, Japan.
+(3)Department of Physiology, Keio University School of Medicine, Shinjuku, Tokyo,
+160-8582, Japan.
+(4)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako-shi, Saitama, 351-0198, Japan.
+(5)Department of Biosciences and Informatics, Keio University, Yokohama,
+Kanagawa, 223-8522, Japan. yasu@bio.keio.ac.jp.
+
+BACKGROUND: The common marmoset (Callithrix jacchus) is one of the most studied
+primate model organisms. However, the marmoset genomes available in the public
+databases are highly fragmented and filled with sequence gaps, hindering research
+advances related to marmoset genomics and transcriptomics.
+RESULTS: Here we utilize single-molecule, long-read sequence data to improve and 
+update the existing genome assembly and report a near-complete genome of the
+common marmoset. The assembly is of 2.79 Gb size, with a contig N50 length of
+6.37 Mb and a chromosomal scaffold N50 length of 143.91 Mb, representing the most
+contiguous and high-quality marmoset genome up to date. Approximately 90% of the 
+assembled genome was represented in contigs longer than 1 Mb, with approximately 
+104-fold improvement in contiguity over the previously published marmoset genome.
+More than 98% of the gaps from the previously published genomes were filled
+successfully, which improved the mapping rates of genomic and transcriptomic data
+on to the assembled genome.
+CONCLUSIONS: Altogether the updated, high-quality common marmoset genome assembly
+provide improvements at various levels over the previous versions of the marmoset
+genome assemblies. This will allow researchers working on primate genomics to
+apply the genome more efficiently for their genomic and transcriptomic sequence
+data.
+
+DOI: 10.1186/s12864-020-6657-2 
+PMCID: PMC7114785
+PMID: 32241258  [Indexed for MEDLINE]
+

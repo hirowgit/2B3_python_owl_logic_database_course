@@ -1,0 +1,93 @@
+
+
+472. eNeuro. 2019 Jul 25;6(4). pii: ENEURO.0154-19.2019. doi:
+10.1523/ENEURO.0154-19.2019. Print 2019 Jul/Aug.
+
+Sex Differences in Cognitive Flexibility and Resting Brain Networks in
+Middle-Aged Marmosets.
+
+LaClair M(1)(2), Febo M(3), Nephew B(4)(5), Gervais NJ(6)(7), Poirier G(5),
+Workman K(7), Chumachenko S(5), Payne L(5), Moore MC(5), King JA(4)(5), Lacreuse 
+A(1)(6)(7).
+
+Author information: 
+(1)Neuroscience and Behavior Program, University of Massachusetts, Amherst, MA
+01003 mlaclair@fairfield.edu alacreuse@psych.umass.edu.
+(2)Department of Psychology, Fairfield University, Fairfield, CT 06824.
+(3)Department of Psychiatry, University of Florida, Gainsville, FL 32610.
+(4)Worcester Polytechnic Institute, University of Massachusetts Medical School,
+Worcester, MA 01655.
+(5)Center for Comparative Neuroimaging, University of Massachusetts Medical
+School, Worcester, MA 01655.
+(6)Center for Neuroendocrine Studies, University of Massachusetts, Amherst, MA
+01003.
+(7)Psychological and Brain Sciences, University of Massachusetts, Amherst, MA
+01003.
+
+Sex differences in human cognitive performance are well characterized. However,
+the neural correlates of these differences remain elusive. This issue may be
+clarified using nonhuman primates, for which sociocultural influences are
+minimized. We used the marmoset (Callithrix jacchus) to investigate sex
+differences in two aspects of executive function: reversal learning and
+intradimensional/extradimensional (ID/ED) set shifting. Stress reactivity and
+motor function were also assessed. In agreement with human literature, females
+needed more trials than males to acquire the reversals. No sex differences in ED 
+set shifting or motivational measures were observed. The findings suggest
+enhanced habit formation in females, perhaps due to striatal estrogenic effects. 
+Both sexes showed increased urinary cortisol during social separation stressor,
+but females showed an earlier increase in cortisol and a greater increase in
+agitated locomotion, possibly indicating enhanced stress reactivity. Independent 
+of sex, basal cortisol predicted cognitive performance. No sex differences were
+found in motor performance. Associations between brain networks and reversal
+learning performance were investigated using resting state fMRI. Resting state
+functional connectivity (rsFC) analyses revealed sex differences in cognitive
+networks, with differences in overall neural network metrics and specific
+regions, including the prefrontal cortex, caudate, putamen, and nucleus
+accumbens. Correlations between cognitive flexibility and neural connectivity
+indicate that sex differences in cognitive flexibility are related to
+sex-dependent patterns of resting brain networks. Overall, our findings reveal
+sex differences in reversal learning, brain networks, and their relationship in
+the marmoset, positioning this species as an excellent model to investigate the
+biological basis of cognitive sex differences.
+
+Copyright © 2019 LaClair et al.
+
+DOI: 10.1523/ENEURO.0154-19.2019 
+PMCID: PMC6658914
+PMID: 31262949  [Indexed for MEDLINE]
+
+
+473. Yakugaku Zasshi. 2019;139(7):1007-1013. doi: 10.1248/yakushi.18-00165-4.
+
+[Prion-like Propagation of Pathological α-Synuclein in Vivo].
+
+[Article in Japanese]
+
+Masuda-Suzukake M(1), Hasegawa M(1).
+
+Author information: 
+(1)Dementia Research Project, Tokyo Metropolitan Institute of Medical Science.
+
+α-Synuclein (αS) is the major component of the filamentous inclusions that
+constitute the defining characteristic of neurodegenerative synucleinopathies,
+including Parkinson's disease, dementia with Lewy bodies, and multiple system
+atrophy. αS is deposited in a hyperphosphorylated and ubiquitinated form with a
+β-sheet-rich fibrillar structure in diseased brains. In 2008, some researchers
+reported that embryonic neurons transplanted into Parkinson's disease brains had 
+Lewy body-like pathologies, suggesting that pathological αS propagates from
+diseased neurons to young neurons. Subsequently, a growing body of evidence
+supported the cell-to-cell spread of αS pathologies. Recent studies have revealed
+that intracerebral injection of insoluble αS into wild-type mice can induce
+prion-like propagation of phosphorylated αS pathology even 1 month after
+injection, while injection into αS-knockout mice failed to induce any pathology. 
+We also showed that intracerebral injection of insoluble αS into adult common
+marmoset brains results in the spreading of abundant αS pathology. These in vivo 
+experiments clearly indicate that insoluble αS has prion-like properties and that
+it propagates through neural networks. The underlying mechanisms of αS
+propagation are still poorly understood, but αS propagation model animals could
+be helpful in elucidating the pathogenetic mechanisms and developing drugs for
+synucleinopathies.
+
+DOI: 10.1248/yakushi.18-00165-4 
+PMID: 31257247  [Indexed for MEDLINE]
+

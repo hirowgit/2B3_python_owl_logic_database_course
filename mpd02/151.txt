@@ -1,0 +1,45 @@
+
+
+151. Proc Natl Acad Sci U S A. 2021 May 4;118(18). pii: e2020125118. doi:
+10.1073/pnas.2020125118.
+
+Cellular-resolution gene expression profiling in the neonatal marmoset brain
+reveals dynamic species- and region-specific differences.
+
+Kita Y(1), Nishibe H(1), Wang Y(1), Hashikawa T(1), Kikuchi SS(1), U M(1),
+Yoshida AC(1), Yoshida C(1), Kawase T(2), Ishii S(2), Skibbe H(3), Shimogori
+T(4).
+
+Author information: 
+(1)Laboratory for Molecular Mechanisms of Brain Development, Center for Brain
+Science, RIKEN, Saitama 351-0198, Japan.
+(2)Integrated Systems Biology Laboratory, Department of Systems Science, Graduate
+School of Informatics, Kyoto University, Kyoto 606-8501, Japan.
+(3)Brain Image Analysis Unit, Center for Brain Science, RIKEN, Saitama 351-0198, 
+Japan.
+(4)Laboratory for Molecular Mechanisms of Brain Development, Center for Brain
+Science, RIKEN, Saitama 351-0198, Japan; tomomi.shimogori@riken.jp.
+
+Precise spatiotemporal control of gene expression in the developing brain is
+critical for neural circuit formation, and comprehensive expression mapping in
+the developing primate brain is crucial to understand brain function in health
+and disease. Here, we developed an unbiased, automated, large-scale,
+cellular-resolution in situ hybridization (ISH)-based gene expression profiling
+system (GePS) and companion analysis to reveal gene expression patterns in the
+neonatal New World marmoset cortex, thalamus, and striatum that are distinct from
+those in mice. Gene-ontology analysis of marmoset-specific genes revealed
+associations with catalytic activity in the visual cortex and neuropsychiatric
+disorders in the thalamus. Cortically expressed genes with clear area boundaries 
+were used in a three-dimensional cortical surface mapping algorithm to delineate 
+higher-order cortical areas not evident in two-dimensional ISH data. GePS
+provides a powerful platform to elucidate the molecular mechanisms underlying
+primate neurobiology and developmental psychiatric and neurological disorders.
+
+Copyright © 2021 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.2020125118 
+PMCID: PMC8106353
+PMID: 33903237  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.
+

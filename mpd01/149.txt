@@ -1,0 +1,89 @@
+
+
+149. PLoS One. 2021 Apr 28;16(4):e0250576. doi: 10.1371/journal.pone.0250576.
+eCollection 2021.
+
+Marmoset angiography just by percutaneous puncture of the caudal ventral artery.
+
+Ohta H(1)(2), Komatsu T(3), Muta K(1), Koizumi M(4), Iguchi Y(3), Okano HJ(1).
+
+Author information: 
+(1)Division of Regenerative Medicine, Research Center for Medical Sciences, The
+Jikei University School of Medicine, Tokyo, Japan.
+(2)Division of Vascular Surgery, Department of Surgery, The Jikei University
+School of Medicine, Tokyo, Japan.
+(3)Department of Neurology, The Jikei University School of Medicine, Tokyo,
+Japan.
+(4)Laboratory of Animal Facilities, Research Center for Medical Sciences, The
+Jikei University School of Medicine, Tokyo, Japan.
+
+Surgery in humans is continuously evolving and promoted minimally invasive
+treatment. On the other hand, despite the importance of the 3Rs principles for
+experimental animals is well documented, no reports describe specific
+methodologies for implementing "refinement" in practice. Here, we describe a new 
+technique, the "Ohta Method" for caudal arthrocentesis in the pursuit of the 3Rs 
+for animal experiments and the development of innovative methods for
+investigating systemic organ arteries through minimally invasive procedures. This
+procedure requires only a percutaneous puncture of the caudal artery without any 
+injury to the limb or body trunk. In addition, it does not cut down the artery,
+making hemostasis easier and recovering arterial damage easier. We will show
+multiple organ artery angiographies in marmoset for the first time in the world. 
+The principle described in this paper could also be applied to many other small
+animals, such as rats. Moreover, using this method, multiple doses of the drug or
+cells can be administered to the target organ at the time of therapeutic
+intervention, thereby enabling the establishment of more sophisticated and
+complex therapeutic intervention studies as translational research.
+
+DOI: 10.1371/journal.pone.0250576 
+PMCID: PMC8081223
+PMID: 33909672  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+150. Aging (Albany NY). 2021 Apr 27;13(9):12587-12606. doi: 10.18632/aging.202936.
+Epub 2021 Apr 27.
+
+Neural presbycusis at ultra-high frequency in aged common marmosets and rhesus
+monkeys.
+
+Sun Z(1)(2)(3), Cheng Z(1)(2)(3), Gong N(4)(5), Xu Z(4)(5), Jin C(1)(2)(3), Wu
+H(1)(2)(3), Tao Y(1)(2)(3).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Shanghai Ninth People's
+Hospital, Shanghai Jiaotong University School of Medicine, Shanghai 200011, P.R. 
+China.
+(2)Ear Institute, Shanghai Jiaotong University School of Medicine, Shanghai
+200011, P.R. China.
+(3)Shanghai Key Laboratory of Translation Medicine on Ear and Nose Disease,
+Shanghai 200011, P.R. China.
+(4)Institute of Neuroscience, Key Laboratory of Primate Neurobiology, CAS Center 
+for Excellence in Brain Science and Intelligence Technology, Chinese Academy of
+Sciences, Shanghai 200031, P.R. China.
+(5)University of Chinese Academy of Sciences, Beijing 100049, P.R. China.
+
+The aging of the population and environmental noise have contributed to high
+rates of presbycusis, also known as age-related hearing loss (ARHL). Because mice
+have a relatively short life span, murine models have not been suitable for
+determining the mechanism of presbycusis development and methods of diagnosis.
+Although the common marmoset, a non-human primate (NHP), is an ideal animal model
+for studying age-related diseases, its auditory spectrum has not been
+systematically studied. Auditory brainstem responses (ABRs) from 38 marmosets of 
+different ages demonstrated that auditory function correlated with age. Hearing
+loss in geriatric common marmosets started at ultra-high frequency (>16 kHz),
+then extended to lower frequencies. Despite age-related deterioration of ABR
+threshold and amplitude in marmosets, outer hair cell (OHC) function remained
+stable at all ages. Spiral ganglion neurons (SGNs), which are the first auditory 
+neurons in the auditory system, were found to degenerate distinctly in aged
+common marmosets, indicating that neural degeneration caused presbycusis in these
+animals. Similarly, age-associated ABR deterioration without loss of OHC function
+was observed in another NHP, rhesus monkeys. Audiometry results from these two
+species of NHP suggested that NHPs were ideal for studying ARHL and that neural
+presbycusis at high frequency may be prevalent in primates.
+
+DOI: 10.18632/aging.202936 
+PMCID: PMC8148503
+PMID: 33909598  [Indexed for MEDLINE]
+

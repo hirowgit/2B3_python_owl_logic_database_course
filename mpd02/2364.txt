@@ -1,0 +1,35 @@
+
+
+2364. J Med Chem. 2007 Oct 4;50(20):4832-44. Epub 2007 Sep 8.
+
+Structural modification of the P2' position of 2,7-dialkyl-substituted
+5(S)-amino-4(S)-hydroxy-8-phenyl-octanecarboxamides: the discovery of aliskiren, 
+a potent nonpeptide human renin inhibitor active after once daily dosing in
+marmosets.
+
+Maibaum J(1), Stutz S, Göschke R, Rigollier P, Yamaguchi Y, Cumin F, Rahuel J,
+Baum HP, Cohen NC, Schnell CR, Fuhrer W, Gruetter MG, Schilling W, Wood JM.
+
+Author information: 
+(1)Novartis Institutes for BioMedical Research, NOVARTIS Pharma AG, WKL-136.683, 
+CH-4002 Basel, Switzerland. juergen_klaus.maibaum@novartis.com
+
+Due to its function in the rate limiting initial step of the renin-angiotensin
+system, renin is a particularly promising target for drugs designed to control
+hypertension, a growing risk to health worldwide. Despite vast efforts over more 
+than two decades, no orally efficacious renin inhibitor had reached the market.
+As a result of a structure-based topological design approach, we have identified 
+a novel class of small-molecule inhibitors with good oral blood-pressure lowering
+effects in primates. Further lead optimization aimed for improvement of in vivo
+potency and duration of action, mainly by P2' modifications at the
+hydroxyethylene transition-state isostere. These efforts resulted in the
+discovery of aliskiren (46, CGP060536B, SPP100), a highly potent, selective
+inhibitor of renin, demonstrating excellent efficacy in sodium-depleted marmosets
+after oral administration, with sustained duration of action in reducing
+dose-dependently mean arterial blood pressure. Aliskiren has recently received
+regulatory approval by the U.S. Food and Drug Administration for the treatment of
+hypertension.
+
+DOI: 10.1021/jm070316i 
+PMID: 17824680  [Indexed for MEDLINE]
+

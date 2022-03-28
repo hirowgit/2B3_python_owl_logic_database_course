@@ -1,0 +1,103 @@
+
+
+4105. Ann N Y Acad Sci. 1993 Jun 23;685:662-86.
+
+Effects of small doses of dioxins on the immune system of marmosets and rats.
+
+Neubert R(1), Stahlmann R, Korte M, van Loveren H, Vos JG, Golor G, Webb JR,
+Helge H, Neubert D.
+
+Author information: 
+(1)Childrens' Hospital (Kaiserin Auguste Victoria Haus), Freie Universität
+Berlin, Germany.
+
+There is no doubt that TCDD is capable of inducing effects on a variety of
+components and functions of the immune system in a variety of species. In fact,
+such changes seem to belong to the most sensitive variables affected by TCDD.
+Some of the biological effects, induced at rather high doses of TCDD exhibiting
+general toxicity (> 3 micrograms TCDD/kg body wt), may be considered unspecific
+or the result of the pronounced thymus involution. However, other effects (such
+as that on lymphocyte subtype patterns in marmosets or a reduced resistance of
+mice to influenza viruses) have been reported to occur at dose levels far from
+those leading to thymic involution or general toxicity. It should be remembered
+that the pathognomonic relevance for man of subtle modifications in the pattern
+of lymphocyte surface receptors is largely unknown. Until now, such deviations
+are considered rather as biological phenomena than indications or causes of
+specific diseases. Nevertheless, such changes represent clear-cut biological
+effects induced by TCDD. Since effects of TCDD on components and defined
+functions of the immune system have been revealed in several species, it would be
+surprising if humans were largely resistant to such effects, but reliable data in
+humans with high exposures to defined dioxins verified by an appropriate
+quantification of the exposure are scarce as of now. Data published so far have
+not revealed pronounced alterations of such variables. However, no studies of
+well-defined human populations with quantified body burdens have been performed
+with modern methods (such as flow cytometry) analyzing a wide variety of surface 
+receptors. Performance of such studies is essential for a better and reliable
+risk assessment, and the technology is available. Some of the effects observed
+(such as the changes in the pattern of lymphocyte subpopulations) must certainly 
+be considered as biological effects induced by TCDD, and the situation is similar
+to the induction of hepatic monooxygenases, which are also observable in this
+dose range. However, the relevance of such changes with respect to adverse health
+effects in humans is presently difficult to judge in the absence of clear-cut
+functional deficits demonstrated so far either in vivo or in vitro.
+
+DOI: 10.1111/j.1749-6632.1993.tb35931.x 
+PMID: 8363273  [Indexed for MEDLINE]
+
+
+4106. Circulation. 1993 Jun;87(6):1979-89.
+
+Specific IK1 blockade: a new antiarrhythmic mechanism? Effect of RP58866 on
+ventricular arrhythmias in rat, rabbit, and primate.
+
+Rees SA(1), Curtis MJ.
+
+Author information: 
+(1)Department of Pharmacology, King's College, University of London, U.K.
+
+BACKGROUND: The effectiveness of blockade of the inwardly rectifying K+ current
+(IK1) in prevention of arrhythmias is unknown. We have examined the
+antiarrhythmic potential of a new selective IK1 blocker, RP58866, in rat, rabbit,
+and primate (marmoset) isolated hearts in the settings of acute ischemia and
+reperfusion.
+METHODS AND RESULTS: In concentration-response studies (n = 12 per group), the
+drug reduced ischemia-induced ventricular fibrillation (VF) in rat from control
+incidence of 100 to 50%, 17% (p < 0.05), and 0% (p < 0.05) at 1, 3, and 10
+mumol/L, respectively. RP58866 produced significant bradycardia at the 3- and
+10-mumol/L concentrations and significant QT interval widening at all three
+concentrations (p < 0.05). When rat hearts (n = 12 per group) were paced (5 Hz)
+via the left atrium to prevent bradycardia, the antiarrhythmic effects of
+10-mumol/L RP58866 were unmodified (ischemia-induced VF incidence was reduced by 
+drug from 83% in control hearts to 8%; p < 0.05). Similarly, pacing did not
+prevent the drug's QT-widening activity at 90% repolarization (QT90 was 64 +/- 3 
+msec in control hearts versus 128 +/- 17 msec in the presence of 10 mumol/L of
+drug after 10 minutes of ischemia; p < 0.05). These values are similar to
+equivalent values in unpaced hearts (65 +/- 3 msec in control hearts versus 159
++/- 15 msec with 10 mumol/L of drug; p < 0.05). In separate groups of rat hearts 
+(n = 10 per group) subjected to 10 minutes of ischemia, reperfusion-induced VF
+incidence was reduced from 90% in control hearts to 10% (p < 0.05), 0% (p <
+0.05), and 0% (p < 0.05) by 1-, 3-, and 10-mumol/L RP58866. To examine whether
+drug actions were species-specific, we performed further studies in rabbit and
+primate using the middle concentration of RP58866 (3 mumol/L). Ischemia-induced
+VF incidence was too low in these species to assess the effects of the drug.
+However, RP58866 widened QT interval (p < 0.05), slowed heart rate (p < 0.05),
+and reduced the incidence of reperfusion-induced VF from 67% to 8% (p < 0.05) in 
+rabbit. Furthermore, in the more clinically relevant primate species (marmoset; n
+= 9-12 per group), RP58866 (3 mumol/L) abolished ischemia-induced VT (36%
+incidence in control hearts; p < 0.05) and significantly reduced the incidence of
+ischemia-induced ventricular premature beats from 91% to 33% (p < 0.05). The drug
+was also effective against reperfusion VF in primates (incidence reduced from 64%
+in control hearts to 11%; p < 0.05). As in rat and rabbit, RP58866 significantly 
+widened QT interval in primate and caused bradycardia before and during ischemia.
+RP58866 had no significant influence on coronary flow in any species. Finally, in
+further studies on rat, QT widening by RP58866 was found to persist relatively
+unmodified in nonischemic hearts perfused with solution containing K+ elevated to
+8 mmol/L to mimic the early ischemic milieu.
+CONCLUSIONS: RP58866, a selective IK1 blocker, is a potent and efficacious new
+antiarrhythmic drug in ischemia and reperfusion in rat, rabbit, and primate. When
+tested in rat, pharmacological activity was undiminished by cardiac pacing or
+elevation of extracellular K+.
+
+DOI: 10.1161/01.cir.87.6.1979 
+PMID: 8504513  [Indexed for MEDLINE]
+

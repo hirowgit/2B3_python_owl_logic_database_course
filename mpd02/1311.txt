@@ -1,0 +1,39 @@
+
+
+1311. Amino Acids. 2015 Mar;47(3):589-601. doi: 10.1007/s00726-014-1893-x. Epub 2014
+Dec 21.
+
+Metabolome-wide association study of phenylalanine in plasma of common marmosets.
+
+Go YM(1), Walker DI, Soltow QA, Uppal K, Wachtman LM, Strobel FH, Pennell K,
+Promislow DE, Jones DP.
+
+Author information: 
+(1)Clinical Biomarkers Laboratory, Division of Pulmonary, Allergy and Critical
+Care Medicine, Department of Medicine, Emory University, 205 Whitehead Research
+Center, Atlanta, GA, 30322, USA.
+
+Little systematic knowledge exists concerning the impacts of cumulative lifelong 
+exposure, termed the exposome, on requirements for nutrients. Phenylalanine (Phe)
+is an essential dietary amino acid with an aromatic ring structure similar to
+endogenous metabolites, dietary compounds and environmental agents. Excess plasma
+Phe in genetic disease or nutritional deficiency of Phe has adverse health
+consequences. In principle, structurally similar chemicals interfering with Phe
+utilization could alter Phe requirement at an individual level. As a strategy to 
+identify components of the exposome that could interfere with Phe utilization, we
+tested for metabolites correlating with Phe concentration in plasma of a
+non-human primate species, common marmosets (Callithrix jacchus). The results of 
+tests for more than 5,000 chemical features detected by high-resolution
+metabolomics showed 17 positive correlations with Phe metabolites and other amino
+acids. Positive and negative correlations were also observed for 33 other
+chemicals, which included matches to endogenous metabolites and dietary,
+microbial and environmental chemicals in database searches. Chemical similarity
+analysis showed many of the matches had high structural similarity to Phe.
+Together, the results show that chemicals in marmoset plasma could impact Phe
+utilization. Such chemicals could contribute to early lifecycle developmental
+disorders when neurological development is vulnerable to Phe levels.
+
+DOI: 10.1007/s00726-014-1893-x 
+PMCID: PMC4329081
+PMID: 25526869  [Indexed for MEDLINE]
+

@@ -1,0 +1,91 @@
+
+
+424. Vis Neurosci. 2019 Jun 18;36:E009. doi: 10.1017/S0952523819000087.
+
+Melanopsin and calbindin immunoreactivity in the inner retina of humans and
+marmosets.
+
+Chandra AJ(1)(2), Lee SCS(1)(2), Grünert U(1)(2).
+
+Author information: 
+(1)Save Sight Institute, Discipline of Clinical Ophthalmology, Sydney Medical
+School, The University of Sydney, Sydney, NSW 2000, Australia.
+(2)Australian Research Council Centre of Excellence for Integrative Brain
+Function, Sydney Node, The University of Sydney, Sydney, NSW 2000, Australia.
+
+In primate retina, the calcium-binding protein calbindin is expressed by a
+variety of neurons including cones, bipolar cells, and amacrine cells but it is
+not known which type(s) of cell express calbindin in the ganglion cell layer. The
+present study aimed to identify calbindin-positive cell type(s) in the amacrine
+and ganglion cell layer of human and marmoset retina using immunohistochemical
+markers for ganglion cells (RBPMS and melanopsin) and cholinergic amacrine (ChAT)
+cells. Intracellular injections following immunolabeling was used to reveal the
+morphology of calbindin-positive cells. In human retina, calbindin-labeled cells 
+in the ganglion cell layer were identified as inner and outer stratifying
+melanopsin-expressing ganglion cells, and ON ChAT (starburst amacrine) cells. In 
+marmoset, calbindin immunoreactivity in the ganglion cell layer was absent from
+ganglion cells but present in ON ChAT cells. In the inner nuclear layer of human 
+retina, calbindin was found in melanopsin-expressing displaced ganglion cells and
+in at least two populations of amacrine cells including about a quarter of the
+OFF ChAT cells. In marmoset, a very low proportion of OFF ChAT cells was
+calbindin-positive. These results suggest that in both species there may be two
+types of OFF ChAT cells. Consistent with previous studies, the ratio of ON to OFF
+ChAT cells was about 70 to 30 in human and 30 to 70 in marmoset. Our results show
+that there are species-related differences between different primates with
+respect to the expression of calbindin.
+
+DOI: 10.1017/S0952523819000087 
+PMID: 31581958  [Indexed for MEDLINE]
+
+
+425. J Pharmacol Exp Ther. 2019 Dec;371(3):692-702. doi: 10.1124/jpet.119.260869. Epub
+2019 Oct 2.
+
+A Novel Phosphodiesterase 1 Inhibitor DSR-141562 Exhibits Efficacies in Animal
+Models for Positive, Negative, and Cognitive Symptoms Associated with
+Schizophrenia.
+
+Enomoto T(1), Tatara A(2), Goda M(2), Nishizato Y(2), Nishigori K(2), Kitamura
+A(2), Kamada M(2), Taga S(2), Hashimoto T(2), Ikeda K(2), Fujii Y(2).
+
+Author information: 
+(1)Drug Research Division, Sumitomo Dainippon Pharma, Co., Ltd., Osaka, Japan
+takeshi-enomoto@ds-pharma.co.jp.
+(2)Drug Research Division, Sumitomo Dainippon Pharma, Co., Ltd., Osaka, Japan.
+
+In our drug discovery program, we identified a novel orally available and
+brain-penetrant phosphodiesterase (PDE) 1 inhibitor,
+3-methyl-7-(tetrahydro-2H-pyran-4-yl)-2-{[trans-4-(trifluoromethyl)cyclohexyl]-me
+thoxy}imidazo[5,1-f][1,2,4]triazin-4(3H)-one (DSR-141562). In the present study, 
+we characterized the preclinical profile of DSR-141562. This compound has
+preferential selectivity for predominantly brain-expressed PDE1B over other PDE1 
+family members, and high selectivity for the PDE1 family over other PDE families 
+and 65 other tested biologic targets. Oral administration of DSR-141562 at 10
+mg/kg slightly elevated the cGMP concentration, and it potently enhanced the
+increase of cGMP induced by a dopamine D1 receptor agonist in mouse brains. The
+cGMP level in monkey cerebrospinal fluid was also elevated after treatment with
+DSR-141562 at 30 and 100 mg/kg and could be used as a translational biomarker.
+Since PDE1B is believed to regulate dopaminergic and glutamatergic signal
+transduction, we evaluated the effects of this compound using
+schizophrenia-related behavioral assays. DSR-141562 at 3-30 mg/kg potently
+inhibited methamphetamine-induced locomotor hyperactivity in rats, while it had
+only minimal effects on the spontaneous locomotor activity. Furthermore,
+DSR-141562 at 1-100 mg/kg did not induce any signs of catalepsy in rats.
+DSR-141562 at 0.3-3 mg/kg reversed social interaction and novel object
+recognition deficits induced by repeated treatment with an N-methyl-D-aspartate
+receptor antagonist, phencyclidine, in mice and rats, respectively. In common
+marmosets, DSR-141562 at 3 and 30 mg/kg improved the performance in object
+retrieval with detour tasks. These results suggest that DSR-141562 is a
+therapeutic candidate for positive, negative, and cognitive symptoms in
+schizophrenia. SIGNIFICANCE STATEMENT: This is the first paper showing that a
+phosphodiesterase 1 inhibitor is efficacious in animal models for positive and
+negative symptoms associated with schizophrenia. Furthermore, we demonstrated
+that this compound improved cognitive function in the common marmoset, a nonhuman
+primate.
+
+Copyright © 2019 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/jpet.119.260869 
+PMID: 31578257  [Indexed for MEDLINE]
+

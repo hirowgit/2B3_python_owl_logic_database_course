@@ -1,0 +1,51 @@
+
+
+229. Cereb Cortex. 2021 Feb 5;31(3):1660-1674. doi: 10.1093/cercor/bhaa317.
+
+Marmoset Brain ISH Data Revealed Molecular Difference Between Cortical Folding
+Patterns.
+
+Li X(1), Liu T(2)(3), Li Y(4), Li Q(5), Wang X(6), Hu X(1), Guo L(1), Zhang T(1),
+Liu T(4).
+
+Author information: 
+(1)Key Laboratory of Information Fusion Technology, School of Automation,
+Northwestern Polytechnical University, Xi'an 710072, China.
+(2)Center for Genomics and Computational Biology, College of Science, North China
+University of Science and Technology, 063210, China.
+(3)Center of Computational Biology, School of Life Science and Technology,
+University of Electronic Science and Technology of China, Chengdu 611731, China.
+(4)Cortical Architecture Imaging and Discovery Lab, Department of Computer
+Science and Bioimaging Research Center, The University of Georgia, Athens, GA
+30602, USA.
+(5)The Information Processing Laboratory, School of Artificial Intelligence,
+Beijing Normal University, Beijing 100875, China.
+(6)Computational Nano/Bio-Mechanics Lab, College of Engineering, The University
+of Georgia, Athens, GA 30602, USA.
+
+Literature studies have demonstrated the structural, connectional, and functional
+differences between cortical folding patterns in mammalian brains, such as convex
+and concave patterns. However, the molecular underpinning of such convex/concave 
+differences remains largely unknown. Thanks to public access to a recently
+released set of marmoset whole-brain in situ hybridization data by RIKEN, Japan; 
+this data's accessibility empowers us to improve our understanding of the
+organization, regulation, and function of genes and their relation to macroscale 
+metrics of brains. In this work, magnetic resonance imaging and diffusion tensor 
+imaging macroscale neuroimaging data in this dataset were used to delineate
+convex/concave patterns in marmoset and to examine their structural features.
+Machine learning and visualization tools were employed to investigate the
+possible transcriptome difference between cortical convex and concave patterns.
+Experimental results demonstrated that a collection of genes is differentially
+expressed in convex and concave patterns, and their expression profiles can
+robustly characterize and differentiate the two folding patterns. More
+importantly, neuroscientific interpretations of these differentially expressed
+genes, as well as axonal guidance pathway analysis and gene enrichment analysis, 
+offer novel understanding of structural and functional differences between
+cortical folding patterns in different regions from a molecular perspective.
+
+© The Author(s) 2020. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permission@oup.com.
+
+DOI: 10.1093/cercor/bhaa317 
+PMID: 33152757  [Indexed for MEDLINE]
+

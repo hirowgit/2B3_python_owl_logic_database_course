@@ -1,0 +1,75 @@
+
+
+2397. Eur J Neurosci. 2007 Mar;25(6):1780-92.
+
+Spatial and temporal frequency selectivity of neurons in the middle temporal
+visual area of new world monkeys (Callithrix jacchus).
+
+Lui LL(1), Bourne JA, Rosa MG.
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, VIC, Australia.
+
+Information about the responses of neurons to the spatial and temporal
+frequencies of visual stimuli is important for understanding the types of
+computations being performed in different visual areas. We characterized the
+spatiotemporal selectivity of neurons in the middle temporal area (MT), which is 
+deemed central for the processing of direction and speed of motion. Recordings
+obtained in marmoset monkeys using high-contrast sine-wave gratings as stimuli
+revealed that the majority of neurons had bandpass spatial and temporal frequency
+tuning, and that the selectivity for these parameters was largely separable. Only
+in about one-third of the cells was inseparable spatiotemporal tuning detected,
+this typically being in the form of an increase in the optimal temporal frequency
+as a function of increasing grating spatial frequency. However, most of these
+interactions were weak, and only 10% of neurons showed spatial
+frequency-invariant representation of speed. Cells with inseparable
+spatiotemporal tuning were most commonly found in the infragranular layers,
+raising the possibility that they form part of the feedback from MT to caudal
+visual areas. While spatial frequency tuning curves were approximately
+scale-invariant on a logarithmic scale, temporal frequency tuning curves covering
+different portions of the spectrum showed marked and systematic changes. Thus, MT
+neurons can be reasonably described as similarly built spatial frequency filters,
+each covering a different dynamic range. The small proportion of speed-tuned
+neurons, together with the laminar position of these units, are compatible with
+the idea that an explicit neural representation of speed emerges from
+computations performed in MT.
+
+DOI: 10.1111/j.1460-9568.2007.05453.x 
+PMID: 17432965  [Indexed for MEDLINE]
+
+
+2398. Eur J Neurosci. 2007 Mar;25(6):1767-79.
+
+Development of non-phosphorylated neurofilament protein expression in neurones of
+the New World monkey dorsolateral frontal cortex.
+
+Burman KJ(1), Lui LL, Rosa MG, Bourne JA.
+
+Author information: 
+(1)Department of Physiology and Monash University Centre for Brain and Behaviour,
+Monash University, Victoria, Australia.
+
+We studied developmental changes in the expression of non-phosphorylated
+neurofilament protein (NNF) (a marker of the structural maturation of pyramidal
+neurones) in the dorsolateral frontal cortex of marmoset monkeys, between
+embryonic day 130 and adulthood. Our focus was on cortical fields that send
+strong projections to extrastriate cortex, including the dorsal and ventral
+subdivisions of area 8A, area 46 and area 6d. For comparison, we also
+investigated the maturation of prefrontal area 9, which has few or no connections
+with visual areas. The timing of expression of NNF immunostaining in early life
+can be described as the result of the interaction of two developmental gradients.
+First, there is an anteroposterior gradient of maturation in the frontal lobe,
+whereby neurones in caudal areas express NNF earlier than those in rostral areas.
+Second, there is a laminar gradient, whereby the first NNF-immunoreactive
+neurones emerge in layer V, followed by those in progressively more superficial
+parts of layer III. Following a peak in density of NNF-immunopositive cell
+numbers in layer V at 2-3 months of age, there is a gradual decline towards
+adulthood. In contrast, the density of immunopositive cells in layer III
+continues to increase throughout the first postnatal year in area 6d and until
+late adolescence (> 1.5 years of age) in prefrontal areas. The present results
+support the view that the maturation of visual cognitive functions involves
+relatively late processes linked to structural changes in frontal cortical areas.
+
+DOI: 10.1111/j.1460-9568.2007.05442.x 
+PMID: 17432964  [Indexed for MEDLINE]
+

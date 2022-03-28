@@ -1,0 +1,41 @@
+
+
+161. Int J Mol Sci. 2021 Mar 22;22(6). pii: 3207. doi: 10.3390/ijms22063207.
+
+SIRT1 Expression and Regulation in the Primate Testis.
+
+Wahab F(1)(2), Rodriguez Polo I(2), Behr R(2).
+
+Author information: 
+(1)Department of Biomedical Sciences, Pak-Austria Fachhochschule: Institute of
+Applied Sciences and Technology, Mang, Haripur 22620, KP, Pakistan.
+(2)Platform Degenerative Diseases, German Primate Center, Leibniz Institute for
+Primate Research, Kellnerweg 4, D-37077 Göttingen, Germany.
+
+The epigenetic mechanisms controlling germ cell development and differentiation
+are still not well understood. Sirtuin-1 (SIRT1) is a nicotinamide adenosine
+dinucleotide (NAD)-dependent histone deacetylase and belongs to the sirtuin
+family of deacetylases. It catalyzes the removal of acetyl groups from a number
+of protein substrates. Some studies reported a role of SIRT1 in the central and
+peripheral regulation of reproduction in various non-primate species. However,
+testicular SIRT1 expression and its possible role in the testis have not been
+analyzed in primates. Here, we document expression of SIRT1 in testes of
+different primates and some non-primate species. SIRT1 is expressed mainly in the
+cells of seminiferous tubules, particularly in germ cells. The majority of
+SIRT1-positive germ cells were in the meiotic and postmeiotic phase of
+differentiation. However, SIRT1 expression was also observed in selected
+premeiotic germ cells, i.e., spermatogonia. SIRT1 co-localized in spermatogonia
+with irisin, an endocrine factor specifically expressed in primate spermatogonia.
+In marmoset testicular explant cultures, SIRT1 transcript levels are upregulated 
+by the addition of irisin as compared to untreated controls explants. Rhesus
+macaques are seasonal breeders with high testicular activity in winter and low
+testicular activity in summer. Of note, SIRT1 mRNA and SIRT1 protein expression
+are changed between nonbreeding (low spermatogenesis) and breeding (high
+spermatogenesis) season. Our data suggest that SIRT1 is a relevant factor for the
+regulation of spermatogenesis in primates. Further mechanistic studies are
+required to better understand the role of SIRT1 during spermatogenesis.
+
+DOI: 10.3390/ijms22063207 
+PMCID: PMC8004242
+PMID: 33809872  [Indexed for MEDLINE]
+

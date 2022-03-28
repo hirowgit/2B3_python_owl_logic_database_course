@@ -1,0 +1,39 @@
+
+
+197. Stem Cell Res. 2021 Mar;51:102164. doi: 10.1016/j.scr.2021.102164. Epub 2021 Jan 
+8.
+
+Generation and validation of a common marmoset embryonic stem cell line
+ActiCre-B1 that ubiquitously expresses a tamoxifen-inducible Cre-driver.
+
+Yoshimatsu S(1), Ohtsu K(2), Sato T(2), Yamamoto M(3), Sasaki E(4), Shiozawa
+S(2), Okano H(5).
+
+Author information: 
+(1)Department of Physiology, Keio University School of Medicine, Tokyo, Japan;
+Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan.
+(2)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+(3)ICLAS Monitoring Center, Central Institute for Experimental Animals, Kanagawa,
+Japan.
+(4)Department of Marmoset Biology and Medicine, Central Institute for
+Experimental Animals, Kanagawa, Japan.
+(5)Department of Physiology, Keio University School of Medicine, Tokyo, Japan;
+Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan. Electronic address: hidokano@keio.jp.
+
+We previously reported the efficient targeted introduction of transgenes into the
+genomic DNA of the common marmoset (Callithrix jacchus) using CRISPR-Cas9. In
+this study, we generated a marmoset embryonic stem cell (ESC) line that
+ubiquitously expresses the tamoxifen-inducible Cre-driver ERT2CreERT2. We
+validated the pluripotency of the ESC line and also successfully demonstrated the
+temporal control of the Cre-driver in a tamoxifen-dependent manner in the ESCs.
+This ESC line, named ActiCre-B1, will be a valuable resource for in vitro
+investigation of phenotypes related to embryonic lethality by targeted knockout
+of functionally important genes.
+
+Copyright © 2021 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scr.2021.102164 
+PMID: 33453576  [Indexed for MEDLINE]
+

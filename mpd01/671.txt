@@ -1,0 +1,92 @@
+
+
+671. J Virol. 2018 Sep 12;92(19). pii: e00359-18. doi: 10.1128/JVI.00359-18. Print
+2018 Oct 1.
+
+Cell-Derived Viral Genes Evolve under Stronger Purifying Selection in
+Rhadinoviruses.
+
+Aswad A(1), Katzourakis A(2).
+
+Author information: 
+(1)Zoology Department, University of Oxford, Oxford, Oxfordshire, United Kingdom.
+(2)Zoology Department, University of Oxford, Oxford, Oxfordshire, United Kingdom 
+aris.katzourakis@zoo.ox.ac.uk.
+
+Like many other large double-stranded DNA (dsDNA) viruses, herpesviruses are
+known to capture host genes to evade host defenses. Little is known about the
+detailed natural history of such genes, nor do we fully understand their
+evolutionary dynamics. A major obstacle is that they are often highly divergent, 
+maintaining very low sequence similarity to host homologs. Here we use the
+herpesvirus genus Rhadinovirus as a model system to develop an analytical
+approach that combines complementary evolutionary and bioinformatic techniques,
+offering results that are both detailed and robust for a range of genes. Using a 
+systematic phylogenetic strategy, we identify the original host lineage of viral 
+genes with high confidence. We show that although host immunomodulatory genes
+evolve rapidly compared to other host genes, they undergo a clear increase in
+purifying selection once captured by a virus. To characterize this shift in
+detail, we developed a novel technique to identify changes in selection pressure 
+that can be attributable to particular domains. These findings will inform us on 
+how viruses develop strategies to evade the immune system, and our synthesis of
+techniques can be reapplied to other viruses or biological systems with similar
+analytical challenges.IMPORTANCE Viruses and hosts have been shown to capture
+genes from one another as part of the evolutionary arms race. Such genes offer a 
+natural experiment on the effects of evolutionary pressure, since the same gene
+exists in vastly different selective environments. However, sequences of viral
+homologs often bear little similarity to the original sequence, complicating the 
+reconstruction of their shared evolutionary history with host counterparts. In
+this study, we use a genus of herpesviruses as a model system to comprehensively 
+investigate the evolution of host-derived viral genes, using a synthesis of
+genomics, phylogenetics, selection analysis, and nucleotide and amino acid
+modeling.
+
+Copyright © 2018 American Society for Microbiology.
+
+DOI: 10.1128/JVI.00359-18 
+PMCID: PMC6146799
+PMID: 29997213  [Indexed for MEDLINE]
+
+
+672. Sci Rep. 2018 Jul 6;8(1):10255. doi: 10.1038/s41598-018-28112-7.
+
+Common marmoset (Callithrix jacchus) personality, subjective well-being, hair
+cortisol level and AVPR1a, OPRM1, and DAT genotypes.
+
+Inoue-Murayama M(1)(2), Yokoyama C(3), Yamanashi Y(1)(4), Weiss A(5)(6).
+
+Author information: 
+(1)Wildlife Research Center of Kyoto University, Kyoto, Japan.
+(2)Wildlife Genome Collaborative Research Group, National Institute for
+Environmental Studies, Tsukuba, Japan.
+(3)Laboratory for Brain Connectomics Imaging, RIKEN Center for Biosystems
+Dynamics Research, Kobe, Japan.
+(4)Center for Research and Education of Wildlife, Kyoto City Zoo, Kyoto, Japan.
+(5)School of Philosophy, Psychology and Language Sciences, Department of
+Psychology, The University of Edinburgh, Edinburgh, United Kingdom.
+alex.weiss@ed.ac.uk.
+(6)Scottish Primate Research Group, Edinburgh, United Kingdom.
+alex.weiss@ed.ac.uk.
+
+We studied personality, subjective well-being, and hair cortisol level, in common
+marmosets Callithrix jacchus, a small, cooperatively breeding New World monkey,
+by examining their associations with one another and genotypes. Subjects were 68 
+males and 9 females that lived in the RIKEN Center for Life Science Technologies.
+Personality and subjective well-being were assessed by keeper ratings on two
+questionnaires, hair samples were obtained to assay cortisol level and buccal
+swabs were used to assess AVPR1a, OPRM1 and DAT genotypes. Three personality
+domains-Dominance, Sociability, and Neuroticism-were identified. Consistent with 
+findings in other species, Sociability and Neuroticism were related to higher and
+lower subjective well-being, respectively. Sociability was also associated with
+higher hair cortisol levels. The personality domains and hair cortisol levels
+were heritable and associated with genotypes: the short form of AVPR1a was
+associated with lower Neuroticism and the AA genotype of the A111T SNP of OPRM1
+was related to lower Dominance, lower Neuroticism, and higher hair cortisol
+level. Some genetic associations were not in directions that one would expect
+given findings in other species. These findings provide insights into the
+proximate and ultimate bases of personality in common marmosets, other primates
+and humans.
+
+DOI: 10.1038/s41598-018-28112-7 
+PMCID: PMC6035208
+PMID: 29980755  [Indexed for MEDLINE]
+

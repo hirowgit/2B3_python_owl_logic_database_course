@@ -1,0 +1,36 @@
+
+
+840. J Gen Virol. 2017 Jul;98(7):1620-1629. doi: 10.1099/jgv.0.000842. Epub 2017 Jul
+15.
+
+The P gene of rodent brain-adapted measles virus plays a critical role in
+neurovirulence.
+
+Arai T(1), Terao-Muto Y(1), Uchida S(1), Lin C(1), Honda T(1), Takenaka A(1),
+Ikeda F(1), Sato H(1), Yoneda M(1), Kai C(1).
+
+Author information: 
+(1)Laboratory Animal Research Center, Institute of Medical Science, The
+University of Tokyo, 4-6-1 Shirokanedai, Minato-ku, Tokyo 108-8639, Japan.
+
+In rare cases, measles virus (MV) in children leads to fatal neurological
+complications such as primary measles encephalitis, post-acute measles
+encephalitis, subacute sclerosing panencephalitis and measles inclusion-body
+encephalitis. To investigate the pathogenesis of MV-induced encephalitis, rodent 
+brain-adapted MV strains CAM/RB and CAMR40 were generated. These strains acquired
+mutations to adapt to the rodent brain during 40 passages in rat brain. However, 
+it is still unknown which genes confer the neurovirulence of MV. We previously
+established a rescue system for recombinant MVs possessing the backbone of
+wild-type strain HL, an avirulent strain in mice. In the present study, to
+identify the genes in CAMR40 that elicit neurovirulence, we generated chimeric
+recombinant MVs based on strain HL. As a result, recombinant wild-type MV in
+which the haemagglutinin (H) gene was substituted with that of CAMR40 caused a
+non-lethal mild disease in mice, while additional substitution of the HL
+phosphoprotein (P) gene with that of strain CAMR40 caused lethal severe
+neurological signs comparable to those of CAMR40. These results clearly indicated
+that, in addition to the H gene, the P gene is required for the neurovirulence of
+MV CAMR40.
+
+DOI: 10.1099/jgv.0.000842 
+PMID: 28708054  [Indexed for MEDLINE]
+

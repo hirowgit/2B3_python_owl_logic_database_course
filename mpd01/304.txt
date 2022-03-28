@@ -1,0 +1,120 @@
+
+
+304. Schizophr Bull. 2020 Dec 1;46(6):1577-1586. doi: 10.1093/schbul/sbaa075.
+
+Promoter Activity-Based Case-Control Association Study on SLC6A4 Highlighting
+Hypermethylation and Altered Amygdala Volume in Male Patients With Schizophrenia.
+
+Ikegame T(1), Bundo M(2)(3), Okada N(1)(4), Murata Y(2), Koike S(1)(5), Sugawara 
+H(6), Saito T(7), Ikeda M(7), Owada K(8), Fukunaga M(9), Yamashita F(10),
+Koshiyama D(1), Natsubori T(1), Iwashiro N(1), Asai T(1), Yoshikawa A(1)(11),
+Nishimura F(1), Kawamura Y(12), Ishigooka J(13), Kakiuchi C(1), Sasaki T(14), Abe
+O(15), Hashimoto R(16)(17), Iwata N(7), Yamasue H(1)(18), Kato T(19), Kasai K(1),
+Iwamoto K(2).
+
+Author information: 
+(1)Department of Neuropsychiatry, Graduate School of Medicine, The University of 
+Tokyo, Tokyo, Japan.
+(2)Department of Molecular Brain Science, Graduate School of Medical Sciences,
+Kumamoto University, Kumamoto, Japan.
+(3)PRESTO, Japan Science and Technology Agency, Tokyo, Japan.
+(4)International Research Center for Neurointelligence (WPI-IRCN), The University
+of Tokyo Institutes for Advanced Study (UTIAS), The University of Tokyo, Tokyo,
+Japan.
+(5)UTokyo Institute for Diversity and Adaptation of Human Mind (UTIDAHM), The
+University of Tokyo, Tokyo, Japan.
+(6)Department of Neuropsychiatry, Graduate School of Medical Sciences, Kumamoto
+University, Kumamoto, Japan.
+(7)Department of Psychiatry, Fujita Health University School of Medicine, Aichi, 
+Japan.
+(8)Department of Child Neuropsychiatry, Graduate School of Medicine, The
+University of Tokyo, Tokyo, Japan.
+(9)Division of Cerebral Integration, National Institute for Physiological
+Sciences, Aichi, Japan.
+(10)Division of Ultrahigh Field MRI, Institute for Biomedical Sciences, Iwate
+Medical University, Iwate, Japan.
+(11)Schizophrenia Research Project, Tokyo Metropolitan Institute of Medical
+Science, Tokyo, Japan.
+(12)Heartful Kawasaki Hospital, Kanagawa, Japan.
+(13)Institute of CNS Pharmacology, Tokyo, Japan.
+(14)Laboratory of Health Education, Graduate School of Education, The University 
+of Tokyo, Tokyo, Japan.
+(15)Department of Radiology, Graduate School of Medicine, The University of
+Tokyo, Tokyo, Japan.
+(16)Department of Pathology of Mental Diseases, National Institute of Mental
+Health, National Center of Neurology and Psychiatry, Tokyo, Japan.
+(17)Department of Psychiatry, Osaka University Graduate School of Medicine,
+Osaka, Japan.
+(18)Department of Psychiatry, Hamamatsu University School of Medicine, Shizuoka, 
+Japan.
+(19)Laboratory for Molecular Dynamics of Mental Disorders, RIKEN CBS, Saitama,
+Japan.
+
+Associations between altered DNA methylation of the serotonin transporter
+(5-HTT)-encoding gene SLC6A4 and early life adversity, mood and anxiety
+disorders, and amygdala reactivity have been reported. However, few studies have 
+examined epigenetic alterations of SLC6A4 in schizophrenia (SZ). We examined CpG 
+sites of SLC6A4, whose DNA methylation levels have been reported to be altered in
+bipolar disorder, using 3 independent cohorts of patients with SZ and age-matched
+controls. We found significant hypermethylation of a CpG site in SLC6A4 in male
+patients with SZ in all 3 cohorts. We showed that chronic administration of
+risperidone did not affect the DNA methylation status at this CpG site using
+common marmosets, and that in vitro DNA methylation at this CpG site diminished
+the promoter activity of SLC6A4. We then genotyped the 5-HTT-linked polymorphic
+region (5-HTTLPR) and investigated the relationship among 5-HTTLPR, DNA
+methylation, and amygdala volume using brain imaging data. We found that patients
+harboring low-activity 5-HTTLPR alleles showed hypermethylation and they showed a
+negative correlation between DNA methylation levels and left amygdala volumes.
+These results suggest that hypermethylation of the CpG site in SLC6A4 is involved
+in the pathophysiology of SZ, especially in male patients harboring low-activity 
+5-HTTLPR alleles.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the
+Maryland Psychiatric Research Center. All rights reserved. For permissions,
+please email: journals.permissions@oup.com.
+
+DOI: 10.1093/schbul/sbaa075 
+PMCID: PMC7846196
+PMID: 32556264  [Indexed for MEDLINE]
+
+
+305. Cereb Cortex. 2020 Oct 1;30(11):5943-5959. doi: 10.1093/cercor/bhaa168.
+
+Altered Resting-State Functional Connectivity Between Awake and Isoflurane
+Anesthetized Marmosets.
+
+Hori Y(1), Schaeffer DJ(1), Gilbert KM(1), Hayrynen LK(1), Cléry JC(1), Gati
+JS(1), Menon RS(1), Everling S(1)(2).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Ontario N6A 5B7, Canada.
+(2)Department of Physiology and Pharmacology, The University of Western Ontario, 
+London, Ontario N6A 5C1, Canada.
+
+The common marmoset (Callithrix jacchus) is a New World primate that is becoming 
+increasingly popular as a preclinical model. To assess functional connectivity
+(FC) across the marmoset brain, resting-state functional MRI (RS-fMRI) is often
+performed under isoflurane anesthesia to avoid the effects of motion,
+physiological stress, and training requirements. In marmosets, however, it
+remains unclear how isoflurane anesthesia affects patterns of FC. Here, we
+investigated the effects of isoflurane on FC when delivered with either medical
+air or 100% pure oxygen, two canonical methods of inhalant isoflurane anesthesia 
+delivery. The results demonstrated that when delivered with either medical air or
+100% oxygen, isoflurane globally decreased FC across resting-state networks that 
+were identified in awake marmosets. Generally, although isoflurane globally
+decreased FC in resting-state networks, the spatial structure of the networks was
+preserved. Outside of the context of RS networks, we indexed pair-wise functional
+connectivity between regions across the brain and found that isoflurane
+substantially altered interhemispheric and thalamic FC. Taken together, these
+findings indicate that RS-fMRI under isoflurane anesthesia is useful to evaluate 
+the global structure of functional networks, but may obfuscate important nodes of
+some network components when compared to data acquired in fully awake marmosets.
+
+© The Author(s) 2020. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permission@oup.com.
+
+DOI: 10.1093/cercor/bhaa168 
+PMCID: PMC7899065
+PMID: 32556184  [Indexed for MEDLINE]
+

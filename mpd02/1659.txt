@@ -1,0 +1,39 @@
+
+
+1659. Biochimie. 2012 Dec;94(12):2716-22. doi: 10.1016/j.biochi.2012.08.010. Epub 2012 
+Aug 21.
+
+In vitro cell subtype-specific transduction of adeno-associated virus in mouse
+and marmoset retinal explant culture.
+
+Baba Y(1), Satoh S, Otsu M, Sasaki E, Okada T, Watanabe S.
+
+Author information: 
+(1)Division of Molecular and Developmental Biology, Institute of Medical Science,
+University of Tokyo, 4-6-1 Shirokanedai, Minato-ku, Tokyo 108-8639, Japan.
+
+Adeno-associated virus (AAV) is a non-pathogenic human parvovirus that can infect
+both non-proliferating and proliferating cells. Owing to its favorable safety
+profile, AAV is regarded as suitable for clinical purposes such as gene therapy. 
+The target cell types of AAV depend largely on the serotype. In the retina, AAV
+has been used to introduce exogenous genes into photoreceptors, and
+photoreceptor-specific enhancers/promoters are used in most cases. Therefore,
+serotype specificity of AAV in retinal subtypes is unclear, particularly in
+vitro. We compared its infection profile in mouse and monkey retinas using EGFP
+under the control of the CAG promoter, which expressed the gene ubiquitously and 
+strongly regardless of cell type. AAV1, 8, and 9 infected the horizontal cells
+when an embryonic day-17 retina was used as a host. Amacrine cell was also a
+major target of AAVs, and a small number of rod photoreceptors were infected.
+When adult retinas were used as a host, the main target of AAV was Müller glia. A
+small number of rod photoreceptors were also infected. In the adult common
+marmoset retina, rod and cone photoreceptors were efficiently infected by AAV1,
+8, and 9. A portion of the Müller glia and amacrine cells were also infected. In 
+summary, the infection specificity of different AAV serotypes did not differ, but
+was dependent on the stage of the host retina. In addition, infection
+specificities differed between mature marmoset retinas and mature mouse retinas.
+
+Copyright © 2012 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.biochi.2012.08.010 
+PMID: 22971462  [Indexed for MEDLINE]
+

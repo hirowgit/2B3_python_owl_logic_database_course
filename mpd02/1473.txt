@@ -1,0 +1,40 @@
+
+
+1473. J Virol. 2014 Mar;88(6):3058-66. doi: 10.1128/JVI.03035-13. Epub 2013 Dec 11.
+
+Genetic variation in vitro and in vivo of an attenuated Lassa vaccine candidate.
+
+Zapata JC(1), Goicochea M, Nadai Y, Eyzaguirre LM, Carr JK, Tallon LJ, Sadzewicz 
+L, Myers G, Fraser CM, Su Q, Djavani M, Lukashevich IS, Salvato MS.
+
+Author information: 
+(1)Institute of Human Virology, University of Maryland School of Medicine,
+Baltimore, Maryland, USA.
+
+The attenuated Lassa vaccine candidate ML29 is a laboratory-produced reassortant 
+between Lassa and Mopeia viruses, two Old World arenaviruses that differ by 40%
+in nucleic acid sequence. In our previous studies, ML29 elicited sterilizing
+immunity against Lassa virus challenge in guinea pigs and marmosets and
+virus-specific cell-mediated immunity in both simian immunodeficiency virus
+(SIV)-infected and uninfected rhesus macaques. Here, we show that ML29 is stable 
+after 12 passages in vitro without losing its plaque morphology or its attenuated
+phenotype in suckling mice. Additionally, we used deep sequencing to characterize
+the viral population comprising the original stock of ML29, the stock of ML29
+after 12 passages in Vero cells, and the ML29 isolates obtained from vaccinated
+animals. Twenty-seven isolates bore approximately 77 mutations that exceeded 20% 
+of the single-nucleotide polymorphism (SNP) changes at any single locus. Of these
+77 mutations, 5 appeared to be host specific, for example, appearing in mice but 
+not in primates. None of these mutations were reversions of ML29 to the sequences
+of the parental Lassa and Mopeia viruses. The host-specific mutations indicate
+viral adaptations to virus-host interactions, and such interactions make
+reasonable targets for antiviral approaches. Variants capable of chronic
+infection did not emerge from any of the primate infections, even in
+immune-deficient animals, indicating that the ML29 reassortant is reasonably
+stable in vivo. In conclusion, the preclinical studies of ML29 as a Lassa virus
+vaccine candidate have been advanced, showing high levels of protection in
+nonhuman primates and acceptable stability both in vitro and in vivo.
+
+DOI: 10.1128/JVI.03035-13 
+PMCID: PMC3957910
+PMID: 24335292  [Indexed for MEDLINE]
+

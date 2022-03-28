@@ -1,0 +1,82 @@
+
+
+198. Hum Gene Ther. 2021 Aug;32(15-16):806-816. doi: 10.1089/hum.2020.267. Epub 2021
+May 11.
+
+Towards Human Translation of Lentiviral Airway Gene Delivery for Cystic Fibrosis:
+A One-Month CFTR and Reporter Gene Study in Marmosets.
+
+Farrow N(1)(2)(3), Cmielewski P(1)(2)(3), Delhove J(1)(2)(3), Rout-Pitt
+N(1)(2)(3), Vaughan L(4), Kuchel T(4), Christou C(4), Finnie J(2)(5), Smith M(6),
+Knight E(4)(7), Donnelley M(1)(2)(3), Parsons D(1)(2)(3).
+
+Author information: 
+(1)Robinson Research Institute.
+(2)Adelaide Medical School.
+(3)Respiratory and Sleep Medicine, Women's and Children's Hospital, North
+Adelaide, Australia.
+(4)South Australian Health and Medical Research Institute, North Adelaide,
+Australia.
+(5)SA Pathology, North Adelaide, Australia.
+(6)Surgical Specialties, University of Adelaide, North Adelaide, Australia.
+(7)School of Public Health, University of Adelaide, North Adelaide, Australia.
+
+Gene therapy continues to be a promising contender for the treatment of cystic
+fibrosis (CF) airway disease. We have previously demonstrated that airway
+conditioning with lysophosphatidylcholine (LPC) followed by delivery of a
+HIV-1-based lentiviral (LV) vector functionally corrects the CF transmembrane
+conductance regulator (CFTR) defect in the nasal airways of CF mice. In our
+earlier pilot study we showed that our technique can transduce marmoset lungs
+acutely; this study extends that work to examine gene expression in this nonhuman
+primate (NHP) 1 month after gene vector treatment. A mixture of three separate
+HIV-1 vesicular stomatitis virus G (VSV-G)-pseudotyped LV vectors containing the 
+luciferase (Luc), LacZ, and hCFTR transgenes was delivered into the trachea
+through a miniature bronchoscope. We examined whether a single-dose delivery of
+LV vector after LPC conditioning could increase levels of transgene expression in
+the trachea and lungs compared with control (phosphate-buffered saline [PBS])
+conditioning. At 1 month, bioluminescence was detected in vivo in the trachea of 
+three of the six animals within the PBS control group, compared with five of the 
+six LPC-treated animals. When examined ex vivo there was weak evidence that LPC
+improves tracheal Luc expression levels. In the lungs, bioluminescence was
+detected in vivo in four of the six PBS-treated animals, compared with five of
+the six LPC-treated animals; however, bioluminescence was present in all lungs
+when imaged ex vivo. LacZ expression was predominantly observed in the alveolar
+regions of the lung. hCFTR was detected by qPCR in the lungs of five animals.
+Basal cells were successfully isolated and expanded from marmoset tracheas, but
+no LacZ-positive colonies were detected. There was no evidence of an inflammatory
+response toward the LV vector at 1 month postdelivery, with cytokines remaining
+at baseline levels. In conclusion, we found weak evidence that LPC conditioning
+improved gene transduction in the trachea, but not in the marmoset lungs. We also
+highlight some of the challenges associated with translational lung gene therapy 
+studies in NHPs.
+
+DOI: 10.1089/hum.2020.267 
+PMID: 33446042  [Indexed for MEDLINE]
+
+
+199. Biomed Phys Eng Express. 2020 Jul 7;6(4):045022. doi: 10.1088/2057-1976/ab8d97.
+
+Design and construction of a gradient coil for high resolution marmoset imaging.
+
+Handler WB(1), Bindseil G, Chaddock R, Dalrymple B, Gati JS, Gilbert KM, Harris
+CT, Klassen ML, Peterson J, Van Sas F, Chronik BA.
+
+Author information: 
+(1)xMR lab, Physics and Astronomy Department, Western University, London,
+Ontario, Canada.
+
+A gradient coil with integrated second and third order shims has been designed
+and constructed for use inside an actively shielded 310 mm horizontal bore 9.4 T 
+small animal MRI. An extension of the boundary element method, to minimise the
+power deposited in conducting surfaces, was used to design the gradients, and a
+boundary element method with a constraint on mutual inductance was used to design
+the shims. The gradient coil allows for improved imaging performance and was
+optimized for an imaging region appropriate for marmoset imaging studies.
+Efficiencies of 1.5 mT m-1 A-1 were achieved in a 15 cm wide bore while
+maintaining gradient uniformity ≤5% over the 8 cm region of interest. Two new
+cooling methods were implemented which allowed the gradient coil to operate at
+100 A RMS, 25 % of max current with a temperature rise below 30 C.
+
+DOI: 10.1088/2057-1976/ab8d97 
+PMID: 33444282  [Indexed for MEDLINE]
+

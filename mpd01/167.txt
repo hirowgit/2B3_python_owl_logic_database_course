@@ -1,0 +1,67 @@
+
+
+167. Am Nat. 2021 Apr;197(4):502-508. doi: 10.1086/713110. Epub 2021 Feb 11.
+
+On Being a Monkey's Uncle: Germline Chimerism in the Callitrichinae and the
+Evolution of Sibling Rivalry.
+
+Patten MM.
+
+AbstractA typical monkey of the subfamily Callitrichinae has two or more cell
+lineages occupying its tissues: one from "itself," and one from its co-twin(s).
+Chimerism originates in utero when the twin placentae fuse, vascular anastomoses 
+form between them, and cells are exchanged between conceptuses through their
+shared circulation. Previously it was thought that chimerism was limited to
+tissues of the hematopoietic cell lineage and that the germline was clonal, but
+subsequent empirical work has shown that chimerism may extend to many tissues,
+including the germline. To explore how natural selection on chimeric organisms
+should shape their social behavior, I construct an inclusive fitness model of
+sibling interactions that permits differing degrees of chimerism in the soma and 
+germline. The model predicts that somatic chimerism should diminish sibling
+rivalry but that germline chimerism should typically intensify it. A further
+implication of the model is the possibility for intraorganismal conflict over
+developing phenotypes; as tissues may differ in their extent of chimerism-for
+example, placenta versus brain-their respective inclusive fitness may be
+maximized by different phenotypes. Communication between tissues in chimeric
+organisms might therefore be noisy, rapidly evolving, and fraught, as is common
+in systems with internal evolutionary conflicts of interest.
+
+DOI: 10.1086/713110 
+PMID: 33755537  [Indexed for MEDLINE]
+
+
+168. Comp Med. 2021 Apr 1;71(2):148-151. doi: 10.30802/AALAS-CM-20-000091. Epub 2021
+Mar 22.
+
+The Effect of Body Region on Hair Cortisol Concentration in Common Marmosets
+(Callithrix jacchus).
+
+Bartling-John EE(1), Phillips KA(2).
+
+Author information: 
+(1)Department of Psychology, Trinity University, San Antonio, Texas.
+(2)Department of Psychology, Trinity University, San Antonio, Texas; Southwest
+National Primate Research Center, Texas Biomedical Research Institute, San
+Antonio, Texas;, Email: kimberley.phillips@trinity.edu.
+
+Common marmosets (Callithrix jacchus) are a valuable research model for the study
+of neuroscience and the biologic impact of aging due to their adaptivity,
+physiologic characteristics, and ease of handling for experimental manipulations.
+Quantification of cortisol in hair provides a noninvasive, retrospective
+biomarker of hypothalamics-pituitary-adrenal (HPA) axis activity and information 
+on animal wellbeing, including responses to environmental and social stimuli. To 
+obtain valid and reliable measurements of long-term HPA activity, we investigated
+the variability of cortisol concentration in the hair depending on the body
+region of marmosets. Hair was collected from the back and tail of 9 adult common 
+marmosets during annual health screenings (male n = 3; female n = 6) and these
+samples were analyzed for cortisol via methanol extraction and enzyme
+immunoassay. We found that hair cortisol concentration differed between the tail 
+and back regions, with the tail samples having a significantly higher cortisol
+concentration. These results indicate intraindividual and interindividual
+comparisons of hair cortisol concentration should use hair obtained from the same
+body region in marmosets.
+
+DOI: 10.30802/AALAS-CM-20-000091 
+PMCID: PMC8063202
+PMID: 33752781  [Indexed for MEDLINE]
+

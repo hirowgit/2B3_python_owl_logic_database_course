@@ -1,0 +1,118 @@
+
+
+610. Primates. 2018 Nov;59(6):553-570. doi: 10.1007/s10329-018-0694-3. Epub 2018 Oct
+24.
+
+The Japan Monkey Centre Primates Brain Imaging Repository for comparative
+neuroscience: an archive of digital records including records for endangered
+species.
+
+Sakai T(1)(2)(3)(4), Hata J(5)(6)(7), Ohta H(6), Shintaku Y(8)(9), Kimura N(9),
+Ogawa Y(6), Sogabe K(10), Mori S(11)(12), Okano HJ(6), Hamada Y(13), Shibata
+S(5), Okano H(5)(7), Oishi K(11).
+
+Author information: 
+(1)The Russell H. Morgan Department of Radiology and Radiological Science, The
+Johns Hopkins University School of Medicine, Baltimore, USA.
+sakai.tomoko.5w@gmail.com.
+(2)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+sakai.tomoko.5w@gmail.com.
+(3)Division of Regenerative Medicine, The Jikei University School of Medicine,
+Tokyo, Japan. sakai.tomoko.5w@gmail.com.
+(4)Japan Society for the Promotion of Science, Tokyo, Japan.
+sakai.tomoko.5w@gmail.com.
+(5)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+(6)Division of Regenerative Medicine, The Jikei University School of Medicine,
+Tokyo, Japan.
+(7)Laboratory for Marmoset Neural Architecture, RIKEN Brain Science Institute,
+Wako, Saitama, Japan.
+(8)Wildlife Research Center, Kyoto University, Kyoto, Japan.
+(9)Japan Monkey Centre, Inuyama, Japan.
+(10)Faculty of Health Sciences, Graduate School of Human Health Sciences, Tokyo
+Metropolitan University, Tokyo, Japan.
+(11)The Russell H. Morgan Department of Radiology and Radiological Science, The
+Johns Hopkins University School of Medicine, Baltimore, USA.
+(12)F.M. Kirby Research Center for Functional Brain Imaging, Kenney Krieger
+Institute, Baltimore, USA.
+(13)Primate Research Institute, Kyoto University, Inuyama, Japan.
+
+Advances in magnetic resonance imaging (MRI) and computational analysis
+technology have enabled comparisons among various primate brains in a
+three-dimensional electronic format. Results from comparative studies provide
+information about common features across primates and species-specific features
+of neuroanatomy. Investigation of various species of non-human primates is
+important for understanding such features, but the majority of comparative MRI
+studies have been based on experimental primates, such as common marmoset,
+macaques, and chimpanzee. A major obstacle has been the lack of a database that
+includes non-experimental primates' brain MRIs. To facilitate scientific
+discoveries in the field of comparative neuroanatomy and brain evolution, we
+launched a collaborative project to develop an open-resource repository of
+non-human primate brain images obtained using ex vivo MRI. As an initial open
+resource, here we release a collection of structural MRI and diffusion tensor
+images obtained from 12 species: pygmy marmoset, owl monkey, white-fronted
+capuchin, crab-eating macaque, Japanese macaque, bonnet macaque, toque macaque,
+Sykes' monkey, red-tailed monkey, Schmidt's guenon, de Brazza's guenon, and lar
+gibbon. Sixteen postmortem brain samples from the 12 species, stored in the Japan
+Monkey Centre (JMC), were scanned using a 9.4-T MRI scanner and made available
+through the JMC collaborative research program (
+http://www.j-monkey.jp/BIR/index_e.html ). The expected significant contributions
+of the JMC Primates Brain Imaging Repository include (1) resources for
+comparative neuroscience research, (2) preservation of various primate brains,
+including those of endangered species, in a permanent digital form, (3) resources
+with higher resolution for identifying neuroanatomical features, compared to
+previous MRI atlases, (4) resources for optimizing methods of scanning large
+fixed brains, and (5) references for veterinary neuroradiology. User-initiated
+research projects beyond these contributions are also anticipated.
+
+DOI: 10.1007/s10329-018-0694-3 
+PMID: 30357587  [Indexed for MEDLINE]
+
+
+611. Cereb Cortex. 2019 Aug 14;29(9):3891-3901. doi: 10.1093/cercor/bhy268.
+
+High-Expanding Regions in Primate Cortical Brain Evolution Support Supramodal
+Cognitive Flexibility.
+
+Sneve MH(1), Grydeland H(1), Rosa MGP(2)(3)(4), Paus T(5)(6)(7)(8), Chaplin
+T(2)(3)(4), Walhovd K(1)(9), Fjell AM(1)(9).
+
+Author information: 
+(1)Center for Lifespan Changes in Brain and Cognition, Department of Psychology, 
+University of Oslo, Oslo, Norway.
+(2)Department of Physiology, Monash University, Clayton, VIC, Australia.
+(3)Biomedicine Discovery Institute, Monash University, Clayton, VIC, Australia.
+(4)Australian Research Council, Centre for Excellence for Integrative Brain
+Function, Monash University, Clayton, VIC, Australia.
+(5)Rotman Research Institute, University of Toronto, Toronto, Canada.
+(6)Department of Psychiatry, University of Toronto, Toronto, Canada.
+(7)Center for Developing Brain, Child Mind Institute, New York, NY, USA.
+(8)Department of Psychology, University of Toronto, Toronto, Canada.
+(9)Department of Radiology and Nuclear Medicine, Oslo University Hospital, Oslo, 
+Norway.
+
+Primate cortical evolution has been characterized by massive and disproportionate
+expansion of a set of specific regions in the neocortex. The associated increase 
+in neocortical neurons comes with a high metabolic cost, thus the functions
+served by these regions must have conferred significant evolutionary advantage.
+In the present series of analyses, we show that evolutionary high-expanding
+cortex - as estimated from patterns of surface growth from several primate
+species - shares functional connections with different brain networks in a
+context-dependent manner. Specifically, we demonstrate that high-expanding cortex
+is characterized by high internetwork functional connectivity; is recruited
+flexibly over many different cognitive tasks; and changes its functional coupling
+pattern between rest and a multimodal task-state. The capacity of high-expanding 
+cortex to connect flexibly with various specialized brain networks depending on
+particular cognitive requirements suggests that its selective growth and
+sustainment in evolution may have been linked to an involvement in supramodal
+cognition. In accordance with an evolutionary-developmental view, we find that
+this observed ability of high-expanding regions - to flexibly modulate functional
+connections as a function of cognitive state - emerges gradually through
+childhood, with a prolonged developmental trajectory plateauing in young
+adulthood.
+
+© The Author(s) 2018. Published by Oxford University Press. All rights reserved. 
+For Permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhy268 
+PMID: 30357354  [Indexed for MEDLINE]
+

@@ -1,0 +1,34 @@
+
+
+2410. Antiviral Res. 2007 May;74(2):102-10. Epub 2006 Sep 25.
+
+Inhibition of Epstein Barr Virus LMP1 gene expression in B lymphocytes by
+antisense oligonucleotides: uptake and efficacy of lipid-based and
+receptor-mediated delivery systems.
+
+Galletti R(1), Masciarelli S, Conti C, Matusali G, Di Renzo L, Meschini S,
+Arancia G, Mancini C, Mattia E.
+
+Author information: 
+(1)Department of Public Health Sciences, University "La Sapienza", P. le A. Moro 
+5, 00185 Rome, Italy.
+
+Epstein Barr Virus (EBV), is associated with an increasing number of lymphoid and
+epithelial malignancies. Among the genes expressed by EBV during latency, LMP1
+plays a key role for growth transformation and immortalization of B lymphocytes. 
+We have previously shown that antisense oligonucleotides (ONs) directed to LMP1
+mRNA, effectively suppressed LMP1 gene expression and substantially reduced
+proliferation of the infected cells. The use of antisense phosphodiester
+oligonucleotides as therapeutic agents is limited by inefficient cellular uptake 
+and intracellular transport to the target mRNA. We tested the ability of three
+cationic carriers internalized by different pathways, to increase the delivery of
+anti-LMP1-ON to their site of action in EBV-infected B lymphocytes. We report
+here that liposomes, dendrimers or transferrin-polylysine-conjugated ON were
+internalized by the cells at an extent several fold higher than that of the naked
+oligomers. However, only the delivery system exploiting the transferrin receptor 
+pathway of internalization, was able to vectorize biologically active antisense
+LMP1-ON.
+
+DOI: 10.1016/j.antiviral.2006.09.001 
+PMID: 17382835  [Indexed for MEDLINE]
+

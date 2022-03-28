@@ -1,0 +1,85 @@
+
+
+3450. Mol Phylogenet Evol. 1999 Jun;12(1):74-82.
+
+Molecular phylogeny of new world primates (Platyrrhini) based on
+beta2-microglobulin DNA sequences.
+
+Canavez FC(1), Moreira MA, Ladasky JJ, Pissinatti A, Parham P, Seuánez HN.
+
+Author information: 
+(1)Fairchild Building D-100, Stanford University School of Medicine, Stanford,
+California, 94305-5126, USA.
+
+Neotropical primates, traditionally grouped in the infraorder Platyrrhini,
+comprise 16 extant genera. Cladistic analyses based on morphological
+characteristics and molecular data resulted in topologic arrangements depicting
+disparate phylogenetic relationships, indicating that the evolution of gross
+morphological characteristics and molecular traits is not necessarily congruent. 
+Here we present a phylogenetic arrangement for all neotropical primate genera
+obtained from DNA sequence analyses of the beta2-microglobulin gene. Parsimony,
+distance, and maximum likelihood analyses favored two families, Atelidae and
+Cebidae, each containing 8 genera. Atelids were resolved into atelines and
+pitheciines. The well-supported ateline clade branched into alouattine (Alouatta)
+and ateline (Ateles, Lagothrix, Brachyteles) clades. In turn, within the Ateline 
+clade, Lagothrix and Brachyteles were well-supported sister groups. The
+pitheciines branched into well-supported callicebine (Callicebus) and pitheciine 
+(Pithecia, Cacajao, Chiropotes) clades. In turn, within the pitheciine clade,
+Cacajao and Chiropotes were well-supported sister groups. The cebids branched
+into callitrichine (Saguinus, Leontopithecus, Callimico, Callithrix-Cebuella),
+cebine (Cebus, Saimiri), and aotine (Aotus) clades. While the callitrichine clade
+and the groupings of species and genera within this clade were all well
+supported, the cebine clade received only modest support, and the position of
+Aotus could not be clearly established. Cladistic analyses favored the
+proposition of 15 rather than 16 extant genera by including Cebuella pygmaea in
+the genus Callithrix as the sister group of the Callithrix argentata species
+group. These analyses also favored the sister grouping of Callimico with
+Callithrix and then of Leontopithecus with the Callithrix-Callimico clade.
+
+Copyright 1999 Academic Press.
+
+DOI: 10.1006/mpev.1998.0589 
+PMID: 10222163  [Indexed for MEDLINE]
+
+
+3451. Chronobiol Int. 1999 Mar;16(2):149-61.
+
+Effect of ambient temperature on the circadian activity rhythm in common
+marmosets, Callithrix j. jacchus (primates).
+
+Pálková M(1), Sigmund L, Erkert HG.
+
+Author information: 
+(1)Department of Zoology, Faculty of Sciences, Charles University, Prague 2,
+Czech Republic.
+
+Whereas the (zeitgeber) effect of ambient temperature Ta and temperature cycles
+TaC's on circadian rhythmicity has been well documented for heterothermic
+mammals, inconsistent results have been obtained for strictly homeothermic
+species. Hence, it might be inferred that the susceptibility of the mammalian
+circadian timing system (CTS) to Ta and TaC's depends on the range of the
+animals' core and/or brain temperature rhythm. This hypothesis was tested in the 
+common marmoset (Callithrix j. jacchus, n = 12), a small diurnal primate with an 
+amplitude in body temperature rhythm that is larger than for other homeothermic
+primates studied so far. Within the range 20-30 degrees C, no systematic effects 
+of constant Ta on most parameters of the marmosets' light-dark (LD)-entrained and
+free-running circadian activity rhythm (CAR) were found. Significant differences 
+could be established in the average amount of activity per circadian cycle. It
+was highest at Ta 25 degrees C (LD) and 20 degrees C (light-light, LL) and most
+probably reflected a temperature-induced masking effect. A 24 h trapezoidal TaC
+of 20:30 degrees C entrained the free-running CAR in two of six marmosets and
+produced relative coordination in all others. Accordingly, in all animals tested,
+it had an effect on the CTS. In marmosets free running in LL at a Ta of 20
+degrees C or 30 degrees C, 3 h warm and cold pulses of 30 degrees C and 20
+degrees C, respectively, produced neither systematic phase responses nor period
+responses of the CAR. So, there is no evidence of a phase-response mechanism
+underlying circadian entrainment. The results show that large-amplitude TaC's
+function as a weak zeitgeber for the marmosets' CTS. Since this zeitgeber effect 
+is significantly larger than that found in owl monkeys, the results are
+consistent with the starting hypothesis that the zeitgeber effect of a given TaC 
+on the mammalian CTS may be related to the amplitude of the species' core and/or 
+brain temperature cycle.
+
+DOI: 10.3109/07420529909019082 
+PMID: 10219487  [Indexed for MEDLINE]
+

@@ -1,0 +1,86 @@
+
+
+3241. J Virol. 2000 Dec;74(23):11115-20.
+
+Determining the role of the Epstein-Barr virus Cp EBNA2-dependent enhancer during
+the establishment of latency by using mutant and wild-type viruses recovered from
+cottontop marmoset lymphoblastoid cell lines.
+
+Yoo L(1), Speck SH.
+
+Author information: 
+(1)Department of Pathology and Immunology, Washington University School of
+Medicine, St. Louis, Missouri 63110, USA.
+
+Epstein-Barr virus (EBV) nuclear antigen (EBNA) 2 (EBNA2) is involved in
+upregulating the expression of both EBNAs and latency-associated membrane
+proteins. Transcription of the six EBNA genes, which are expressed in
+EBV-immortalized primary B cells, arises from one of two promoters, Cp and Wp,
+located near the left end of the viral genome. Wp is exclusively used to drive
+EBNA gene transcription during the initial stages of infection in primary B
+cells; induction of transcription from Cp follows. We previously have mapped an
+EBNA2-dependent enhancer upstream of Cp (M. Woisetschlaeger et al., Proc. Natl.
+Acad. Sci. USA 88:3942-3946, 1991) and, more recently, have demonstrated that
+deletion of this enhancer results in EBV-immortalized lymphoblastoid cell lines
+(LCLs) that are heavily biased toward the use of Wp to drive transcription of the
+EBNA genes (L. Yoo et al., J. Virol. 71:9134-9142, 1997). To assess the
+immortalizing capacity of this mutant EBV and to monitor the early events after
+infection of primary B cells, B cells isolated from cottontop marmosets were used
+to generate LCLs immortalized with the Cp EBNA2 enhancer deletion mutant virus.
+As previously reported, all EBV-infected marmoset LCLs examined could be
+triggered to produce significant levels of virus. Infection of human B cells with
+wild-type or Cp EBNA2 enhancer mutant viruses recovered from marmoset B-cell
+lines demonstrated that (i) the Cp EBNA2 enhancer mutant virus immortalizes
+primary human B cells nearly as efficiently as wild-type virus and (ii) the Cp
+EBNA2-dependent enhancer plays an important role in the induction of Cp activity 
+during the early stages of infection. The latter is consistent with the phenotype
+of LCLs immortalized with the Cp EBNA2 enhancer mutant EBV. Finally, using an
+established LCL in which EBNA2 function is regulated by beta-estradiol, we showed
+that the loss of EBNA2 function results in an approximately 4-fold decrease in
+the steady-state levels of Cp-initiated transcripts and a concomitant increase in
+the steady-state levels of Wp-initiated transcripts. Taken together, these
+results provide strong evidence that EBNA2 plays an important role in regulating 
+Cp activity. These results also demonstrate that diminished induction of Cp
+activity does not appear to affect the ability of EBV to immortalize primary B
+cells in cultures. Finally, as shown here, infection of marmoset B cells with
+immortalization-competent mutants of EBV provides a convenient reservoir for the 
+production of mutant viruses.
+
+DOI: 10.1128/jvi.74.23.11115-11120.2000 
+PMCID: PMC113192
+PMID: 11070007  [Indexed for MEDLINE]
+
+
+3242. J Virol Methods. 2000 Nov;90(2):193-204.
+
+Production monitoring and purification of EBV encoded latent membrane protein 1
+expressed and secreted by recombinant baculovirus infected insect cells.
+
+Meij P(1), Vervoort MB, Meijer CJ, Bloemena E, Middeldorp JM.
+
+Author information: 
+(1)Department of Pathology, University Hospital Vrije Universiteit, Amsterdam,
+The Netherlands. p.meij@azvu.nl
+
+Epstein-Barr virus (EBV) encoded latent membrane protein 1 (LMP1) is expressed in
+malignancies with latency type II and III and is an important transforming
+protein. To further study this protein LMP1 was expressed by and purified from
+recombinant baculovirus infected Sf9 cells. Expression levels of LMP1 in EBV
+transformed B cell lines and Sf9 cells were analyzed using a newly developed
+quantitative LMP1-capture ELISA. Highest expression was found in the cell line
+X50/7 (6.2 ng/10(7) cells), whereas expression levels of recombinant LMP1 (bLMP1)
+in Sf9 cells reached 506 ng/10(7) cells. Surprisingly bLMP1 could also be
+detected in the culture medium as a stable full-length protein. Highest
+expression in Sf9 cells (506 ng/10(7) cells) was observed at 48 h post infection 
+and in the culture medium (1590 ng/ml) at 96 h post infection. Before
+purification bLMP1 was solubilised using 0.22 m octyl-beta-glucoside at pH 6.0.
+Purification of bLMP1 using Q-Sepharose FF yielded 10-80 times enriched bLMP1
+fractions, indicating that Q-Sepharose can be used for pre-purification. A
+one-step monoclonal antibody based immunoaffinity chromatography yielded highly
+purified bLMP1. Although the overall yields (20 microg purified LMP1 from 100 ml 
+culture supernatant) and protein concentrations were low, higher concentrations
+of >95% purified BLMP1 could be reached after freeze drying.
+
+DOI: 10.1016/s0166-0934(00)00233-0 
+PMID: 11064119  [Indexed for MEDLINE]
+

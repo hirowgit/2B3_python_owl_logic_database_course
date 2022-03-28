@@ -1,0 +1,40 @@
+
+
+2085. Chem Biol Interact. 2010 Jan 5;183(1):67-78. doi: 10.1016/j.cbi.2009.10.007.
+
+Comparative study of the oxidation of propranolol enantiomers in hepatic and
+small intestinal microsomes from cynomolgus and marmoset monkeys.
+
+Shimizudani T(1), Nagaoka K, Hanioka N, Yamano S, Narimatsu S.
+
+Author information: 
+(1)Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, Okayama
+University, 1-1-1 Tsushima-naka, Kita-ku, Okayama 700-8530, Japan.
+
+Oxidative metabolism of propranolol (PL) enantiomers (R-PL and S-PL) to
+4-hydroxypropranolol (4-OH-PL), 5-OH-PL and N-deisopropylpropranolol (NDP) was
+examined in hepatic microsomes from cynomolgus and marmoset monkeys and in small 
+intestinal microsomes from monkeys and humans. In hepatic microsomes, levels of
+oxidation activities were similar between the two monkey species, and substrate
+enantioselectivity (R-PL<S-PL) was observed in the formation of 5-OH-PL and/or
+NDP. Kinetic experiments revealed that the formation of all metabolites was
+biphasic in cynomolgus monkeys, whereas only the formation of NDP was biphasic in
+marmosets. Inhibition experiments employing human CYP antibodies and chemical
+inhibitors suggested that mainly CYP2D enzymes and partially CYP1A and 2C enzymes
+are involved in the oxidation of PL in both monkey liver microsomes. In small
+intestinal microsomes, activity levels were much higher in cynomolgus monkeys
+than in marmosets and humans and reversed substrate enantioselectivity
+(R-PL>S-PL) was seen in the formation of NDP in cynomolgus monkeys and humans and
+in the formation of 5-OH-PL in marmosets. The formation of the three metabolites 
+in cynomolgus monkeys and the formation of NDP in marmosets were biphasic, while 
+the formation of 4-OH-PL in humans was monophasic. From the inhibition
+experiments using CYP antibodies, CYP2C9 and 2C19 were thought to be involved as 
+N-deisopropylases and CYP2D6 and 3A4 as 4-hydroxylases in human small intestine. 
+Furthermore, CYP1A, 2C and 3A enzymes could be involved in cynomolgus monkeys and
+CYP2C and 3A enzymes in marmosets. These results indicate that the oxidative
+profile of PL in hepatic and small intestinal microsomes differ considerably
+among cynomolgus monkeys, marmosets and humans.
+
+DOI: 10.1016/j.cbi.2009.10.007 
+PMID: 19853591  [Indexed for MEDLINE]
+

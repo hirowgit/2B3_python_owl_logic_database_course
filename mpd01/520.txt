@@ -1,0 +1,62 @@
+
+
+520. Nat Methods. 2019 Apr;16(4):285. doi: 10.1038/s41592-019-0381-3.
+
+Mapping the marmoset brain.
+
+Vogt N(1).
+
+Author information: 
+(1)Nature Methods, . nina.vogt@us.nature.com.
+
+Comment on
+    Elife. 2019 Feb 05;8:null.
+
+DOI: 10.1038/s41592-019-0381-3 
+PMID: 30923386  [Indexed for MEDLINE]
+
+
+521. J Neurophysiol. 2019 May 1;121(5):1924-1937. doi: 10.1152/jn.00504.2018. Epub
+2019 Mar 27.
+
+Weighting neurons by selectivity produces near-optimal population codes.
+
+Zavitz E(1)(2)(3), Price NSC(1)(2)(3).
+
+Author information: 
+(1)Department of Physiology, Monash University , Clayton, Victoria , Australia.
+(2)Biomedicine Discovery Institute, Monash University , Clayton, Victoria ,
+Australia.
+(3)Australian Research Council Centre of Excellence for Integrative Brain
+Function, Monash University , Clayton, Victoria , Australia.
+
+Perception is produced by "reading out" the representation of a sensory stimulus 
+contained in the activity of a population of neurons. To examine experimentally
+how populations code information, a common approach is to decode a linearly
+weighted sum of the neurons' spike counts. This approach is popular because of
+the biological plausibility of weighted, nonlinear integration. For neurons
+recorded in vivo, weights are highly variable when derived through optimization
+methods, but it is unclear how the variability affects decoding performance in
+practice. To address this, we recorded from neurons in the middle temporal area
+(MT) of anesthetized marmosets (Callithrix jacchus) viewing stimuli comprising a 
+sheet of dots that moved coherently in 1 of 12 different directions. We found
+that high peak response and direction selectivity both predicted that a neuron
+would be weighted more highly in an optimized decoding model. Although learned
+weights differed markedly from weights chosen according to a priori rules based
+on a neuron's tuning profile, decoding performance was only marginally better for
+the learned weights. In the models with a priori rules, selectivity is the best
+predictor of weighting, and defining weights according to a neuron's preferred
+direction and selectivity improves decoding performance to very near the maximum 
+level possible, as defined by the learned weights. NEW & NOTEWORTHY We examined
+which aspects of a neuron's tuning account for its contribution to sensory
+coding. Strongly direction-selective neurons are weighted most highly by optimal 
+decoders trained to discriminate motion direction. Models with predefined
+decoding weights demonstrate that this weighting scheme causally improved
+direction representation by a neuronal population. Optimizing decoders (using a
+generalized linear model or Fisher's linear discriminant) led to only marginally 
+better performance than decoders based purely on a neuron's preferred direction
+and selectivity.
+
+DOI: 10.1152/jn.00504.2018 
+PMID: 30917063  [Indexed for MEDLINE]
+

@@ -1,0 +1,68 @@
+
+
+1585. Invest Ophthalmol Vis Sci. 2013 Apr 12;54(4):2634-44. doi: 10.1167/iovs.12-10514.
+
+Eyes in various species can shorten to compensate for myopic defocus.
+
+Zhu X(1), McBrien NA, Smith EL 3rd, Troilo D, Wallman J.
+
+Author information: 
+(1)Department of Biology, City College of New York, New York, New York.
+
+PURPOSE: We demonstrated that eyes of young animals of various species (chick,
+tree shrew, marmoset, and rhesus macaque) can shorten in the axial dimension in
+response to myopic defocus.
+METHODS: Chicks wore positive or negative lenses over one eye for 3 days. Tree
+shrews were measured during recovery from induced myopia after 5 days of
+monocular deprivation for 1 to 9 days. Marmosets were measured during recovery
+from induced myopia after monocular deprivation, or wearing negative lenses over 
+one or both eyes, or from wearing positive lenses over one or both eyes. Rhesus
+macaques were measured after recovery from induced myopia after monocular
+deprivation, or wearing negative lenses over one or both eyes. Axial length was
+measured with ultrasound biometry in all species.
+RESULTS: Tree shrew eyes showed a strong trend to shorten axially to compensate
+for myopic defocus. Of 34 eyes that recovered from deprivation-induced myopia for
+various durations, 30 eyes (88%) shortened, whereas only 7 fellow eyes shortened.
+In chicks, eyes wearing positive lenses reduced their rate of ocular elongation
+by two-thirds, including 38.5% of eyes in which the axial length became shorter
+than before. Evidence of axial shortening in rhesus macaque (40%) and marmoset
+(6%) eyes also occurred when exposed to myopic defocus, although much less
+frequently than that in eyes of tree shrews. The axial shortening was caused
+mostly by the reduction in vitreous chamber depth.
+CONCLUSIONS: Eyes of chick, tree shrew, marmoset, and rhesus macaque can shorten 
+axially when presented with myopic defocus, whether the myopic defocus is created
+by wearing positive lenses, or is the result of axial elongation of the eye
+produced by prior negative lens wear or deprivation. This eye shortening
+facilitates compensation for the imposed myopia. Implications for human myopia
+control are significant.
+
+DOI: 10.1167/iovs.12-10514 
+PMCID: PMC3630818
+PMID: 23493295  [Indexed for MEDLINE]
+
+
+1586. J Cereb Blood Flow Metab. 2013 May;33(5):669-72. doi: 10.1038/jcbfm.2013.39. Epub
+2013 Mar 13.
+
+On the normalization of cerebral blood flow.
+
+Guibert R(1), Fonta C, Estève F, Plouraboué F.
+
+Author information: 
+(1)Institut de Mécanique des Fluides de Toulouse, Université de Toulouse, INPT,
+UPS, IMFT, Toulouse, France.
+
+Cerebral blood flow (CBF) is the most common parameter for the quantification of 
+brain's function. Literature data indicate a widespread dispersion of values that
+might be related to some differences in the measurement conditions that are not
+properly taken into account in CBF evaluation. Using recent high-resolution
+imaging of the complete cortical microvasculature of primate brain, we perform
+extensive numerical evaluation of the cerebral perfusion. We show that blood
+perfusion associated with intravascular tracers should be normalized by the
+surface of the voxel rather than by its volume and we consistently test this
+result on the available literature data.
+
+DOI: 10.1038/jcbfm.2013.39 
+PMCID: PMC3652705
+PMID: 23486290  [Indexed for MEDLINE]
+

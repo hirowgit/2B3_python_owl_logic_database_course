@@ -1,0 +1,46 @@
+
+
+1192. Antiviral Res. 2015 Oct;122:28-38. doi: 10.1016/j.antiviral.2015.07.005. Epub
+2015 Jul 17.
+
+Animal models of Middle East respiratory syndrome coronavirus infection.
+
+van Doremalen N(1), Munster VJ(2).
+
+Author information: 
+(1)Laboratory of Virology, Division of Intramural Research, National Institute of
+Allergy and Infectious Diseases, National Institutes of Health, Hamilton, MT,
+USA.
+(2)Laboratory of Virology, Division of Intramural Research, National Institute of
+Allergy and Infectious Diseases, National Institutes of Health, Hamilton, MT,
+USA. Electronic address: Vincent.munster@nih.gov.
+
+The emergence of the Middle East respiratory syndrome coronavirus (MERS-CoV) in
+2012 marked the second time that a new, highly pathogenic coronavirus has emerged
+in the human population in the 21st century. In this review, we discuss the
+current state of knowledge of animal models of MERS-CoV infection. Commonly used 
+laboratory animal species such as Syrian hamsters, mice and ferrets are not
+susceptible to MERS-CoV, due to differences in the MERS-CoV receptor dipeptidyl
+peptidase 4 (DPP4). The initially developed animal models comprise two nonhuman
+primate species, the rhesus macaque and the common marmoset. Rhesus macaques
+develop a mild to moderate respiratory disease upon inoculation, reminiscent of
+milder MERS cases, whereas marmosets develop a moderate to severe respiratory
+disease, recapitulating the severe disease observed in some patients. Dromedary
+camels, considered to be the reservoir for MERS-CoV, develop a mild upper
+respiratory tract infection with abundant viral shedding. Although normal mice
+are not susceptible to MERS-CoV, expression of the human DPP4 (hDPP4) overcomes
+the lack of susceptibility. Transgenic hDPP4 mice develop severe and lethal
+respiratory disease upon inoculation with MERS-CoV. These hDPP4 transgenic mice
+are potentially the ideal first line animal model for efficacy testing of
+therapeutic and prophylactic countermeasures. Further characterization of
+identified countermeasures would ideally be performed in the common marmoset
+model, due to the more severe disease outcome. This article forms part of a
+symposium in Antiviral Research on "From SARS to MERS: research on highly
+pathogenic human coronaviruses."
+
+Published by Elsevier B.V.
+
+DOI: 10.1016/j.antiviral.2015.07.005 
+PMCID: PMC4561025
+PMID: 26192750  [Indexed for MEDLINE]
+

@@ -1,0 +1,78 @@
+
+
+1497. J Anat. 2014 Feb;224(2):95-107. doi: 10.1111/joa.12132. Epub 2013 Oct 21.
+
+The anatomy of the caudal zona incerta in rodents and primates.
+
+Watson C(1), Lind CR, Thomas MG.
+
+Author information: 
+(1)Curtin University, Perth, Australia; Neuroscience Research Australia, Sydney, 
+Australia.
+
+The caudal zona incerta is the target of a recent modification of established
+procedures for deep brain stimulation (DBS) for Parkinson's disease and tremor.
+The caudal zona incerta contains a number of neuronal populations that are
+distinct in terms of their cytoarchitecture, connections, and pattern of
+immunomarkers and is located at a position where a number of major tracts
+converge before turning toward their final destination in the forebrain. However,
+it is not clear which of the anatomical features of the region are related to its
+value as a target for DBS. This paper has tried to identify features that
+distinguish the caudal zona incerta of rodents (mouse and rat) and primates
+(marmoset, rhesus monkey, and human) from the remainder of the zona incerta. We
+studied cytoarchitecture, anatomical relationships, the pattern of immunomarkers,
+and gene expression in both of these areas. We found that the caudal zona incerta
+has a number of histological and gene expression characteristics that distinguish
+it from the other subdivisions of the zona incerta. Of particular note are the
+sparse population of GABA neurons and the small but distinctive population of
+calbindin neurons. We hope that a clearer appreciation of the anatomy of the
+region will in the end assist the interpretation of cases in which DBS is used in
+human patients.
+
+© 2013 Anatomical Society.
+
+DOI: 10.1111/joa.12132 
+PMCID: PMC3969054
+PMID: 24138151  [Indexed for MEDLINE]
+
+
+1498. J Neurosci. 2013 Oct 16;33(42):16796-804. doi: 10.1523/JNEUROSCI.3146-13.2013.
+
+Large-scale brain networks in the awake, truly resting marmoset monkey.
+
+Belcher AM(1), Yen CC, Stepp H, Gu H, Lu H, Yang Y, Silva AC, Stein EA.
+
+Author information: 
+(1)Neuroimaging Research Branch, National Institute on Drug Abuse, National
+Institutes of Health, Baltimore, Maryland 21224, and Cerebral Microcirculation
+Unit, Laboratory of Functional and Molecular Imaging, National Institute of
+Neurological Disorders and Stroke, National Institutes of Health, Bethesda,
+Maryland 20892.
+
+Resting-state functional MRI is a powerful tool that is increasingly used as a
+noninvasive method for investigating whole-brain circuitry and holds great
+potential as a possible diagnostic for disease. Despite this potential, few
+resting-state studies have used animal models (of which nonhuman primates
+represent our best opportunity of understanding complex human neuropsychiatric
+disease), and no work has characterized networks in awake, truly resting animals.
+Here we present results from a small New World monkey that allows for the
+characterization of resting-state networks in the awake state. Six adult common
+marmosets (Callithrix jacchus) were acclimated to light, comfortable restraint
+using individualized helmets. Following behavioral training, resting BOLD data
+were acquired during eight consecutive 10 min scans for each conscious subject.
+Group independent component analysis revealed 12 brain networks that overlap
+substantially with known anatomically constrained circuits seen in the awake
+human. Specifically, we found eight sensory and "lower-order" networks (four
+visual, two somatomotor, one cerebellar, and one caudate-putamen network), and
+four "higher-order" association networks (one default mode-like network, one
+orbitofrontal, one frontopolar, and one network resembling the human salience
+network). In addition to their functional relevance, these network patterns bear 
+great correspondence to those previously described in awake humans. This
+first-of-its-kind report in an awake New World nonhuman primate provides a
+platform for mechanistic neurobiological examination for existing disease models 
+established in the marmoset.
+
+DOI: 10.1523/JNEUROSCI.3146-13.2013 
+PMCID: PMC3797383
+PMID: 24133280  [Indexed for MEDLINE]
+

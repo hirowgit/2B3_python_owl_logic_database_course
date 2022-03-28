@@ -1,0 +1,68 @@
+
+
+2199. Am J Physiol Regul Integr Comp Physiol. 2009 Mar;296(3):R786-93. doi:
+10.1152/ajpregu.90694.2008. Epub 2008 Dec 10.
+
+Differential expression of GLUT2 in pancreatic islets and kidneys of New and Old 
+World nonhuman primates.
+
+Kramer J(1), Moeller EL, Hachey A, Mansfield KG, Wachtman LM.
+
+Author information: 
+(1)Harvard Medical School, New England Primate Research Center, Southborough, MA 
+01772-9102, USA.
+
+Diabetes is a growing public health concern, and animal models of this disease
+are necessary for a full understanding of disease pathogenesis, progression,
+clinical sequelae, and treatment options. In particular, nonhuman primate models 
+of diabetes are important because of their close genetic relationship to humans. 
+Although numerous Old World primate models have been described, few studies have 
+examined the possibility of using New World monkeys as an animal model for this
+disease. Streptozotocin (STZ) is a common diabetogenic drug that selectively
+destroys beta cells after uptake via the GLUT2 glucose transporter. Induction of 
+diabetes using STZ was attempted in common marmosets (Callithrix jacchus). These 
+animals showed increases in blood glucose consistent with diabetes only at STZ
+doses markedly greater than those used in other primate species. Additionally,
+all animals showed pathological evidence of acute renal and liver toxicity
+secondary to the treatment. In a subsequent comparative study of various nonhuman
+primates, GLUT2 immunostaining in pancreatic islets was used as a marker for
+sensitivity to STZ. Immunostaining of islets from a variety of nonhuman primate
+species indicated a reduced expression of pancreatic GLUT2 in New compared with
+Old World monkeys; this finding explains their resistance to diabetic induction
+with STZ. Furthermore, there were age-dependent differences in GLUT2 expression, 
+with aged and infant macaques showing reduced expression. We conclude that New
+World monkeys are an inappropriate model for diabetes induction with STZ and
+that, with all primate species, it is important to consider the animals' age
+before diabetic induction with STZ is attempted.
+
+DOI: 10.1152/ajpregu.90694.2008 
+PMCID: PMC2665847
+PMID: 19073904  [Indexed for MEDLINE]
+
+
+2200. Gene. 2009 Mar 1;432(1-2):60-6. doi: 10.1016/j.gene.2008.11.012. Epub 2008 Nov
+24.
+
+Molecular cloning and characterization of the common marmoset huntingtin gene.
+
+Hohjoh H(1), Akari H, Fujiwara Y, Tamura Y, Hirai H, Wada K.
+
+Author information: 
+(1)Department of Molecular Genetics, National Institute of Neuroscience, NCNP,
+4-1-1 Ogawahigashi, Kodaira, Tokyo 187-8502, Japan. hohjohh@ncnp.go.jp
+
+We report here for the first time the isolation and identification of the common 
+marmoset (Callithrix jacchus) huntingtin (Htt) gene, whose ortholog in humans is 
+known to be related to Huntington's disease (HD). A 9396 nucleotide complementary
+DNA (cDNA) carrying the putative full-length open reading frame of the marmoset
+Htt gene was identified, and highly conserved nucleotide and amino acid sequences
+among primates were observed. Based on this data and using tools evaluated for
+the detection of the marmoset Htt gene, we have demonstrated gene silencing
+against the expression of endogenous Htt gene in immortalized common marmoset
+mononuclear cells by means of RNA interference (RNAi). Taken together, the data
+presented here may assist us in realizing a non-human primate HD model with the
+common marmoset.
+
+DOI: 10.1016/j.gene.2008.11.012 
+PMID: 19073238  [Indexed for MEDLINE]
+

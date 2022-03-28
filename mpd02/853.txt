@@ -1,0 +1,55 @@
+
+
+853. J Neurophysiol. 2017 Sep 1;118(3):1567-1580. doi: 10.1152/jn.00065.2017. Epub
+2017 Jun 21.
+
+Sensitivity of neurons in the middle temporal area of marmoset monkeys to random 
+dot motion.
+
+Chaplin TA(1)(2), Allitt BJ(1), Hagan MA(1)(2), Price NSC(1)(2), Rajan R(1)(2),
+Rosa MGP(1)(2), Lui LL(3)(2).
+
+Author information: 
+(1)Neuroscience Program, Biomedicine Discovery Institute and Department of
+Physiology, Monash University, Clayton, Victoria, Australia; and.
+(2)ARC Centre of Excellence for Integrative Brain Function, Monash University
+Node, Victoria, Australia.
+(3)Neuroscience Program, Biomedicine Discovery Institute and Department of
+Physiology, Monash University, Clayton, Victoria, Australia; and
+leo.lui@monash.edu.
+
+Neurons in the middle temporal area (MT) of the primate cerebral cortex respond
+to moving visual stimuli. The sensitivity of MT neurons to motion signals can be 
+characterized by using random-dot stimuli, in which the strength of the motion
+signal is manipulated by adding different levels of noise (elements that move in 
+random directions). In macaques, this has allowed the calculation of
+"neurometric" thresholds. We characterized the responses of MT neurons in
+sufentanil/nitrous oxide-anesthetized marmoset monkeys, a species that has
+attracted considerable recent interest as an animal model for vision research. We
+found that MT neurons show a wide range of neurometric thresholds and that the
+responses of the most sensitive neurons could account for the behavioral
+performance of macaques and humans. We also investigated factors that contributed
+to the wide range of observed thresholds. The difference in firing rate between
+responses to motion in the preferred and null directions was the most effective
+predictor of neurometric threshold, whereas the direction tuning bandwidth had no
+correlation with the threshold. We also showed that it is possible to obtain
+reliable estimates of neurometric thresholds using stimuli that were not highly
+optimized for each neuron, as is often necessary when recording from large
+populations of neurons with different receptive field concurrently, as was the
+case in this study. These results demonstrate that marmoset MT shows an essential
+physiological similarity to macaque MT and suggest that its neurons are capable
+of representing motion signals that allow for comparable motion-in-noise
+judgments.NEW & NOTEWORTHY We report the activity of neurons in marmoset MT in
+response to random-dot motion stimuli of varying coherence. The information
+carried by individual MT neurons was comparable to that of the macaque, and the
+maximum firing rates were a strong predictor of sensitivity. Our study provides
+key information regarding the neural basis of motion perception in the marmoset, 
+a small primate species that is becoming increasingly popular as an experimental 
+model.
+
+Copyright © 2017 the American Physiological Society.
+
+DOI: 10.1152/jn.00065.2017 
+PMCID: PMC5596136
+PMID: 28637812  [Indexed for MEDLINE]
+

@@ -1,0 +1,77 @@
+
+
+263. Sci Adv. 2020 Jul 31;6(31). pii: eabc5801. doi: 10.1126/sciadv.abc5801. Epub 2020
+Jul 24.
+
+Non-neuronal expression of SARS-CoV-2 entry genes in the olfactory system
+suggests mechanisms underlying COVID-19-associated anosmia.
+
+Brann DH(#)(1), Tsukahara T(#)(1), Weinreb C(#)(1), Lipovsek M(2), Van den Berge 
+K(3)(4), Gong B(5), Chance R(6), Macaulay IC(7), Chou HJ(6), Fletcher RB(6)(8),
+Das D(6)(9)(10), Street K(11)(12), de Bezieux HR(5)(13), Choi YG(14), Risso
+D(15), Dudoit S(3)(5), Purdom E(3), Mill J(16), Hachem RA(17), Matsunami H(18),
+Logan DW(19), Goldstein BJ(17), Grubb MS(2), Ngai J(6)(14)(20)(21), Datta SR(22).
+
+Author information: 
+(1)Harvard Medical School Department of Neurobiology, Boston MA 02115 USA.
+(2)Centre for Developmental Neurobiology, Institute of Psychiatry, Psychology and
+Neuroscience (IoPPN), King's College London, London SE1 1UL, UK.
+(3)Department of Statistics, University of California, Berkeley, CA 94720.
+(4)Department of Applied Mathematics, Computer Science and Statistics, Ghent
+University, Ghent, Belgium.
+(5)Division of Biostatistics, School of Public Health, University of California, 
+Berkeley, CA 94720.
+(6)Department of Molecular and Cell Biology, University of California, Berkeley, 
+CA 94720.
+(7)Earlham Institute, Norwich Research Park, Norwich, NR4 7UZ, UK.
+(8)Present address: Surrozen, Inc., South San Francisco, CA 94080.
+(9)Berkeley Institute for Data Science, University of California, Berkeley.
+(10)Present address: Genentech, Inc., South San Francisco, CA 94080.
+(11)Department of Data Sciences, Dana-Farber Cancer Institute, Boston, MA.
+(12)Department of Biostatistics, Harvard T.H. Chan School of Public Health,
+Boston, MA.
+(13)Center for Computational Biology, University of California, Berkeley, CA
+94720.
+(14)QB3 Functional Genomics Laboratory, University of California, Berkeley, CA
+94720.
+(15)Department of Statistical Sciences, University of Padova, Padova, Italy.
+(16)University of Exeter Medical School, College of Medicine & Health, University
+of Exeter, Exeter EX2 5DW, UK.
+(17)Duke University School of Medicine Department of Head and Neck Surgery &
+Communication Sciences, Durham, NC 27717 USA.
+(18)Duke University School of Medicine Department of Molecular Genetics and
+Microbiology, Department of Neurobiology, Duke Institute for Brain Sciences,
+Durham, NC 27717 US.
+(19)Waltham Petcare Science Institute, Leicestershire LE14 4RT, UK.
+(20)Helen Wills Neuroscience Institute, University of California, Berkeley, CA
+94720.
+(21)Present address: National Institute of Neurological Disorders and Stroke,
+National Institutes of Health, Bethesda, MD.
+(22)Harvard Medical School Department of Neurobiology, Boston MA 02115 USA.
+srdatta@hms.harvard.edu.
+(#)Contributed equally
+
+Altered olfactory function is a common symptom of COVID-19, but its etiology is
+unknown. A key question is whether SARS-CoV-2 (CoV-2) - the causal agent in
+COVID-19 - affects olfaction directly, by infecting olfactory sensory neurons or 
+their targets in the olfactory bulb, or indirectly, through perturbation of
+supporting cells. Here we identify cell types in the olfactory epithelium and
+olfactory bulb that express SARS-CoV-2 cell entry molecules. Bulk sequencing
+demonstrated that mouse, non-human primate and human olfactory mucosa expresses
+two key genes involved in CoV-2 entry, ACE2 and TMPRSS2. However, single cell
+sequencing revealed that ACE2 is expressed in support cells, stem cells, and
+perivascular cells, rather than in neurons. Immunostaining confirmed these
+results and revealed pervasive expression of ACE2 protein in dorsally-located
+olfactory epithelial sustentacular cells and olfactory bulb pericytes in the
+mouse. These findings suggest that CoV-2 infection of non-neuronal cell types
+leads to anosmia and related disturbances in odor perception in COVID-19
+patients.
+
+Copyright © 2020 The Authors, some rights reserved; exclusive licensee American
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works. Distributed under a Creative Commons Attribution NonCommercial License 4.0
+(CC BY-NC).
+
+DOI: 10.1126/sciadv.abc5801 
+PMID: 32937591  [Indexed for MEDLINE]
+

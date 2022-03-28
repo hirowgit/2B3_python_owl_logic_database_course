@@ -1,0 +1,40 @@
+
+
+1831. Cancer Sci. 2011 Dec;102(12):2221-30. doi: 10.1111/j.1349-7006.2011.02098.x. Epub
+2011 Sep 30.
+
+DNA ligand designed to antagonize EBNA1 represses Epstein-Barr virus-induced
+immortalization.
+
+Yasuda A(1), Noguchi K, Minoshima M, Kashiwazaki G, Kanda T, Katayama K,
+Mitsuhashi J, Bando T, Sugiyama H, Sugimoto Y.
+
+Author information: 
+(1)Division of Chemotherapy, Keio University, Tokyo, Japan.
+
+Epstein-Barr virus (EBV) transforms human B lymphocytes into immortalized cells
+in vitro and is associated with various malignancies in vivo. EBNA1, which is
+expressed in the majority of EBV-infected cells, recognizes specific DNA
+sequences at the cis-acting latent origin of plasmid replication (oriP) element
+of the EBV genome. EBNA1 plays a critical role in the viral episome maintenance
+and transactivates viral transforming genes in latently infected cells.
+Therefore, DNA-targeting agents that can disrupt the EBNA1-oriP interaction will 
+offer novel functional inhibitors of EBNA1. Pyrrole-imidazole polyamides,
+sequence-specific DNA ligands, can be designed to interfere with the binding of
+various transcriptional factors. Here, we synthesized pyrrole-imidazole
+polyamides targeting EBNA1-bound DNA sequences and developed an inhibitor for the
+EBNA1-oriP interaction. A pyrrole-imidazole polyamide, designated as DSE-3, bound
+adjacent to the EBNA1 recognition sequences located in the dyad symmetry element 
+of oriP, and selectively inhibited EBNA1-oriP binding both in vitro and in vivo. 
+DSE-3 also inhibited the proliferation of established lymphoblastoid cell lines
+by eradicating EBV episomes from the cells. In addition, DSE-3 repressed the
+expression of viral transforming genes after infecting human peripheral blood
+mononuclear cells with EBV and, as a consequence, inhibited EBV-mediated B-cell
+immortalization. These results suggest that EBNA1 functions will be an attractive
+pharmacological target for EBV-associated diseases.
+
+© 2011 Japanese Cancer Association.
+
+DOI: 10.1111/j.1349-7006.2011.02098.x 
+PMID: 21910783  [Indexed for MEDLINE]
+

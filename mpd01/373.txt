@@ -1,0 +1,124 @@
+
+
+373. Cryobiology. 2020 Feb 1;92:215-230. doi: 10.1016/j.cryobiol.2020.01.015. Epub
+2020 Jan 20.
+
+Effect of 'in air' freezing on post-thaw recovery of Callithrix jacchus
+mesenchymal stromal cells and properties of 3D collagen-hydroxyapatite scaffolds.
+
+Mutsenko V(1), Knaack S(2), Lauterboeck L(3), Tarusin D(4), Sydykov B(5),
+Cabiscol R(6), Ivnev D(7), Belikan J(8), Beck A(9), Dipresa D(9), Lode A(2), El
+Khassawna T(10), Kampschulte M(8), Scharf R(7), Petrenko AY(4), Korossis S(11),
+Wolkers WF(5), Gelinsky M(2), Glasmacher B(5), Gryshkov O(5).
+
+Author information: 
+(1)Institute for Multiphase Processes, Leibniz University Hannover, Hannover,
+Germany. Electronic address: mutsenko@imp.uni-hannover.de.
+(2)Centre for Translational Bone, Joint and Soft Tissue Research, Faculty of
+Medicine of Technische Universität Dresden, Dresden, Germany.
+(3)Cardiovascular Center of Excellence, Louisiana State University Health
+Sciences Center New Orleans, USA.
+(4)Institute for Problems of Cryobiology and Cryomedicine, National Academy of
+Sciences of Ukraine, Kharkiv, Ukraine.
+(5)Institute for Multiphase Processes, Leibniz University Hannover, Hannover,
+Germany.
+(6)Institute for Particle Technology, Technische Universität Braunschweig,
+Braunschweig, Germany.
+(7)Institute of Power Plant Engineering and Heat Transfer, Leibniz University
+Hannover, Hannover, Germany.
+(8)Department of Radiology, University Hospital of Giessen Marburg, Giessen,
+Germany.
+(9)Department of Cardiothoracic, Transplantation and Vascular Surgery, Hannover
+Medical School, Hannover, Germany.
+(10)Experimental Trauma Surgery, Faculty of Medicine, Justus-Liebig-Universität
+Gießen, Gießen, Germany.
+(11)Department of Cardiothoracic, Transplantation and Vascular Surgery, Hannover 
+Medical School, Hannover, Germany; Centre for Biological Engineering, Wolfson
+School for Mechanical Electrical and Manufacturing Engineering, University of
+Loughborough, Loughborough, United Kingdom.
+
+Through enabling an efficient supply of cells and tissues in the health sector on
+demand, cryopreservation is increasingly becoming one of the mainstream
+technologies in rapid translation and commercialization of regenerative medicine 
+research. Cryopreservation of tissue-engineered constructs (TECs) is an emerging 
+trend that requires the development of practically competitive biobanking
+technologies. In our previous studies, we demonstrated that conventional
+slow-freezing using dimethyl sulfoxide (Me2SO) does not provide sufficient
+protection of mesenchymal stromal cells (MSCs) frozen in 3D
+collagen-hydroxyapatite scaffolds. After simple modifications to a
+cryopreservation protocol, we report on significantly improved cryopreservation
+of TECs. Porous 3D scaffolds were fabricated using freeze-drying of a mineralized
+collagen suspension and following chemical crosslinking. Amnion-derived MSCs from
+common marmoset monkey Callithrix jacchus were seeded onto scaffolds in static
+conditions. Cell-seeded scaffolds were subjected to 24 h pre-treatment with
+100 mM sucrose and slow freezing in 10% Me2SO/20% FBS alone or supplemented with 
+300 mM sucrose. Scaffolds were frozen 'in air' and thawed using a two-step
+procedure. Diverse analytical methods were used for the interpretation of
+cryopreservation outcome for both cell-seeded and cell-free scaffolds. In both
+groups, cells exhibited their typical shape and well-preserved cell-cell and
+cell-matrix contacts after thawing. Moreover, viability test 24 h post-thaw
+demonstrated that application of sucrose in the cryoprotective solution preserves
+a significantly greater portion of sucrose-pretreated cells (more than 80%) in
+comparison to Me2SO alone (60%). No differences in overall protein structure and 
+porosity of frozen scaffolds were revealed whereas their compressive stress was
+lower than in the control group. In conclusion, this approach holds promise for
+the cryopreservation of 'ready-to-use' TECs.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cryobiol.2020.01.015 
+PMID: 31972153  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no conflict of interests.
+
+
+374. J Neurophysiol. 2020 Mar 1;123(3):896-911. doi: 10.1152/jn.00614.2019. Epub 2020 
+Jan 22.
+
+Single-unit activity in marmoset posterior parietal cortex in a gap saccade task.
+
+Ma L(1), Selvanayagam J(2), Ghahremani M(2), Hayrynen LK(1), Johnston KD(3),
+Everling S(1)(2)(3)(4).
+
+Author information: 
+(1)Robarts Research Institute, University of Western Ontario, London, Ontario,
+Canada.
+(2)Graduate Program in Neuroscience, University of Western Ontario, London,
+Ontario, Canada.
+(3)Departments of Physiology and Pharmacology, University of Western Ontario,
+London, Ontario, Canada.
+(4)Brain and Mind Institute, University of Western Ontario, London, Ontario,
+Canada.
+
+Abnormal saccadic eye movements can serve as biomarkers for patients with several
+neuropsychiatric disorders. The common marmoset (Callithrix jacchus) is becoming 
+increasingly popular as a nonhuman primate model to investigate the cortical
+mechanisms of saccadic control. Recently, our group demonstrated that
+microstimulation in the posterior parietal cortex (PPC) of marmosets elicits
+contralateral saccades. Here we recorded single-unit activity in the PPC of the
+same two marmosets using chronic microelectrode arrays while the monkeys
+performed a saccadic task with gap trials (target onset lagged fixation point
+offset by 200 ms) interleaved with step trials (fixation point disappeared when
+the peripheral target appeared). Both marmosets showed a gap effect, shorter
+saccadic reaction times (SRTs) in gap vs. step trials. On average, stronger
+gap-period responses across the entire neuronal population preceded shorter SRTs 
+on trials with contralateral targets although this correlation was stronger among
+the 15% "gap neurons," which responded significantly during the gap. We also
+found 39% "target neurons" with significant saccadic target-related responses,
+which were stronger in gap trials and correlated with the SRTs better than the
+remaining neurons. Compared with saccades with relatively long SRTs, short-SRT
+saccades were preceded by both stronger gap-related and target-related responses 
+in all PPC neurons, regardless of whether such response reached significance. Our
+findings suggest that the PPC in the marmoset contains an area that is involved
+in the modulation of saccadic preparation.NEW & NOTEWORTHY As a primate model in 
+systems neuroscience, the marmoset is a great complement to the macaque monkey
+because of its unique advantages. To identify oculomotor networks in the
+marmoset, we recorded from the marmoset posterior parietal cortex during a
+saccadic task and found single-unit activities consistent with a role in saccadic
+modulation. This finding supports the marmoset as a valuable model for studying
+oculomotor control.
+
+DOI: 10.1152/jn.00614.2019 
+PMID: 31967927  [Indexed for MEDLINE]
+

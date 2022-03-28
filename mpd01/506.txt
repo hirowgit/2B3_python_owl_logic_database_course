@@ -1,0 +1,110 @@
+
+
+506. Neuroimage. 2019 Aug 15;197:512-526. doi: 10.1016/j.neuroimage.2019.04.045. Epub 
+2019 Apr 20.
+
+Decoding of muscle activity from the sensorimotor cortex in freely behaving
+monkeys.
+
+Umeda T(1), Koizumi M(2), Katakai Y(3), Saito R(4), Seki K(5).
+
+Author information: 
+(1)Department of Neurophysiology, National Institute of Neuroscience, National
+Center of Neurology and Psychiatry, Kodaira, Tokyo, 1878502, Japan. Electronic
+address: tumeda@ncnp.go.jp.
+(2)Department of Neurophysiology, National Institute of Neuroscience, National
+Center of Neurology and Psychiatry, Kodaira, Tokyo, 1878502, Japan.
+(3)Administrative Section of Primate Research Facility, National Institute of
+Neuroscience, National Center of Neurology and Psychiatry, Kodaira, Tokyo,
+1878502, Japan; The Corporation for Production and Research of Laboratory
+Primates, Tsukuba, Ibaraki, 3050003, Japan.
+(4)Administrative Section of Primate Research Facility, National Institute of
+Neuroscience, National Center of Neurology and Psychiatry, Kodaira, Tokyo,
+1878502, Japan.
+(5)Department of Neurophysiology, National Institute of Neuroscience, National
+Center of Neurology and Psychiatry, Kodaira, Tokyo, 1878502, Japan. Electronic
+address: seki@ncnp.go.jp.
+
+Remarkable advances have recently been made in the development of Brain-Machine
+Interface (BMI) technologies for restoring or enhancing motor function. However, 
+the application of these technologies may be limited to patients in static
+conditions, as these developments have been largely based on studies of animals
+(e.g., non-human primates) in constrained movement conditions. The ultimate goal 
+of BMI technology is to enable individuals to move their bodies naturally or
+control external devices without physical constraints. Here, we demonstrate
+accurate decoding of muscle activity from electrocorticogram (ECoG) signals in
+unrestrained, freely behaving monkeys. We recorded ECoG signals from the
+sensorimotor cortex as well as electromyogram signals from multiple muscles in
+the upper arm while monkeys performed two types of movements with no physical
+restraints, as follows: forced forelimb movement (lever-pull task) and natural
+whole-body movement (free movement within the cage). As in previous reports using
+restrained monkeys, we confirmed that muscle activity during forced forelimb
+movement was accurately predicted from simultaneously recorded ECoG data. More
+importantly, we demonstrated that accurate prediction of muscle activity from
+ECoG data was possible in monkeys performing natural whole-body movement. We
+found that high-gamma activity in the primary motor cortex primarily contributed 
+to the prediction of muscle activity during natural whole-body movement as well
+as forced forelimb movement. In contrast, the contribution of high-gamma activity
+in the premotor and primary somatosensory cortices was significantly larger
+during natural whole-body movement. Thus, activity in a larger area of the
+sensorimotor cortex was needed to predict muscle activity during natural
+whole-body movement. Furthermore, decoding models obtained from forced forelimb
+movement could not be generalized to natural whole-body movement, which suggests 
+that decoders should be built individually and according to different behavior
+types. These results contribute to the future application of BMI systems in
+unrestrained individuals.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2019.04.045 
+PMID: 31015029  [Indexed for MEDLINE]
+
+
+507. Biomed Phys Eng Express. 2018 Sep;4(5). pii: 055025. doi:
+10.1088/2057-1976/aada67. Epub 2018 Aug 31.
+
+Long-term stability of neural signals from microwire arrays implanted in common
+marmoset motor cortex and striatum.
+
+Debnath S(1), Prins NW(1), Pohlmeyer E(2), Mylavarapu R(1), Geng S(3), Sanchez
+JC(4), Prasad A(1).
+
+Author information: 
+(1)Department of Biomedical Engineering, University of Miami, Coral Gables, FL
+33146.
+(2)John Hopkins University Applied Physics Laboratory, Laurel, MD 20723.
+(3)The Center for Computational Science, University of Miami, Coral Gables, FL
+33146.
+(4)Defense Advanced Research Projects Agency, Arlington, VA 22203.
+
+Current neuroprosthetics rely on stable, high quality recordings from chronically
+implanted microelectrode arrays (MEAs) in neural tissue. While chronic
+electrophysiological recordings and electrode failure modes have been reported
+from rodent and larger non-human primate (NHP) models, chronic recordings from
+the marmoset model have not been previously described. The common marmoset is a
+New World primate that is easier to breed and handle compared to larger NHPs and 
+has a similarly organized brain, making it a potentially useful smaller NHP model
+for neuroscience studies. This study reports recording stability and signal
+quality of MEAs chronically implanted in behaving marmosets. Six adult male
+marmosets, trained for reaching tasks, were implanted with either a 16-channel
+tungsten microwire array (five animals) or a Pt-Ir floating MEA (one animal) in
+the hand-arm region of the primary motor cortex (M1) and another MEA in the
+striatum targeting the nucleus accumbens (NAcc). Signal stability and quality was
+quantified as a function of array yield (active electrodes that recorded action
+potentials), neuronal yield (isolated single units during a recording session),
+and signal-to-noise ratio (SNR). Out of 11 implanted MEAs, nine provided
+functional recordings for at least three months, with two arrays functional for
+10 months. In general, implants had high yield, which remained stable for up to
+several months. However, mechanical failure attributed to MEA connector was the
+most common failure mode. In the longest implants, signal degradation occurred,
+which was characterized by gradual decline in array yield, reduced number of
+isolated single units, and changes in waveform shape of action potentials. This
+work demonstrates the feasibility of longterm recordings from MEAs implanted in
+cortical and deep brain structures in the marmoset model. The ability to
+chronically record cortical signals for neural prosthetics applications in the
+common marmoset extends the potential of this model in neural interface research.
+
+DOI: 10.1088/2057-1976/aada67 
+PMCID: PMC6474681
+PMID: 31011432 
+

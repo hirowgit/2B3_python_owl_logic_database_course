@@ -1,0 +1,65 @@
+
+
+2631. Perception. 2005;34(8):967-74.
+
+A continuous smooth map of space in the primary visual cortex of the common
+marmoset.
+
+McLoughlin N(1), Cotton P, Schiessl I.
+
+Author information: 
+(1)Department of Optometry and Neuroscience, University of Manchester Institute
+of Science and Technology, PO Box 88, Manchester M60 1QD, UK.
+n.mcloughlin@umist.ac.uk
+
+We examined the fine-scale mapping of the visual world within the primary visual 
+cortex of the marmoset monkey (Callithrix jacchus) using differential optical
+imaging. We stimulated two sets of complementary stripe-like locations in turn,
+subtracting them to generate the cortical representations of continuous bands of 
+visual space. Rotating this stimulus configuration makes it possible to map
+different spatial axes within the primary visual cortex. In a similar manner,
+shifting the stimulated locations between trials makes it possible to map
+retinotopy at an even finer scale. Using these methods we found no evidence of
+any local anisotropies or distortions in the cortical representation of visual
+space. This is despite the fact that orientation preference is mapped in a
+discontinuous manner across the surface of marmoset V1. Overall, our results
+indicate that space is mapped in a continuous and smooth manner in the primary
+visual cortex of the common marmoset.
+
+DOI: 10.1068/p5198 
+PMID: 16178151  [Indexed for MEDLINE]
+
+
+2632. J Immunol. 2005 Oct 1;175(7):4761-8.
+
+Suppression of ongoing disease in a nonhuman primate model of multiple sclerosis 
+by a human-anti-human IL-12p40 antibody.
+
+'t Hart BA(1), Brok HP, Remarque E, Benson J, Treacy G, Amor S, Hintzen RQ, Laman
+JD, Bauer J, Blezer EL.
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Center, Rijswijk, The
+Netherlands. hart@bprc.nl
+
+IL-12p40 is a shared subunit of two cytokines with overlapping activities in the 
+induction of autoreactive Th1 cells and therefore a potential target of therapy
+in Th1-mediated diseases. We have examined whether ongoing disease in a nonhuman 
+primate model of multiple sclerosis (MS) can be suppressed with a new human
+IgG1kappa Ab against human IL-12p40. Lesions developing in the brain white matter
+were visualized and characterized with standard magnetic resonance imaging
+techniques. To reflect the treatment of MS patients, treatment with the Ab was
+initiated after active brain white matter lesions were detected in T2-weighted
+images. In placebo-treated control monkeys we observed the expected progressive
+increase in the total T2 lesion volume and markedly increased T2 relaxation
+times, a magnetic resonance imaging marker of inflammation. In contrast, in
+monkeys treated with anti-IL-12p40 Ab, changes in the total T2 lesion volume and 
+T2 relaxation times were significantly suppressed. Moreover, the time interval to
+serious neurological deficit was delayed from 31 +/- 10 to 64 +/- 20 days (odds
+ratio, 0.312). These results, in a disease model with high similarity to MS, are 
+important for ongoing and planned trials of therapies that target IL-12 and/or
+IL-23.
+
+DOI: 10.4049/jimmunol.175.7.4761 
+PMID: 16177124  [Indexed for MEDLINE]
+

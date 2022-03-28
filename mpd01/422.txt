@@ -1,0 +1,108 @@
+
+
+422. Neurosci Res. 2020 Jun;155:1-11. doi: 10.1016/j.neures.2019.09.005. Epub 2019 Oct
+3.
+
+Evaluating the efficacy of small molecules for neural differentiation of common
+marmoset ESCs and iPSCs.
+
+Yoshimatsu S(1), Nakamura M(2), Nakajima M(2), Nemoto A(2), Sato T(2), Sasaki
+E(3), Shiozawa S(2), Okano H(4).
+
+Author information: 
+(1)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan; Laboratory for Proteolytic Neuroscience, RIKEN Center for 
+Brain Science, Wako City, Saitama, 351-0198, Japan.
+(2)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan.
+(3)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako City, Saitama, 351-0198, Japan; Department of Marmoset Biology and Medicine,
+Central Institute for Experimental Animals, Kanagawa, 210-0821, Japan.
+(4)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan; Laboratory for Marmoset Neural Architecture, RIKEN Center 
+for Brain Science, Wako City, Saitama, 351-0198, Japan. Electronic address:
+hidokano@a2.keio.jp.
+
+The common marmoset (marmoset; Callithrix jacchus) harbors various desired
+features as a non-human primate (NHP) model for neuroscience research. Recently, 
+efforts have been made to induce neural cells in vitro from marmoset pluripotent 
+stem cells (PSCs), including embryonic stem cells (ESCs) and induced pluripotent 
+stem cells (iPSCs), which are characterized by their capacity to differentiate
+into all cell types from the three germ layers. Successful generation of marmoset
+neural cells is not only invaluable for understanding neural development and for 
+modeling neurodegenerative and psychiatric disorders, but is also necessary for
+the phenotypic screening of genetically-modified marmosets. However, differences 
+in the differentiation propensity among PSC lines hamper the applicability and
+the reproducibility of differentiation methods. To overcome this limitation, we
+evaluated the efficacy of small molecules for neural differentiation of marmoset 
+ESCs (cjESCs) and iPSCs using multiple differentiation methods. By immunochemical
+and transcriptomic analyses, we confirmed that our methods using the small
+molecules are efficient for various differentiation protocols by either enhancing
+the yield of a mixture of neural cells including both neurons and glial cells, or
+a pure population of neurons. Collectively, our findings optimized in vitro
+neural differentiation methods for marmoset PSCs, which would ultimately help
+enhance the utility of the animal model in neuroscience.
+
+Copyright © 2019 Elsevier B.V. and Japan Neuroscience Society. All rights
+reserved.
+
+DOI: 10.1016/j.neures.2019.09.005 
+PMID: 31586586  [Indexed for MEDLINE]
+
+
+423. J Neurosci. 2019 Nov 13;39(46):9197-9206. doi: 10.1523/JNEUROSCI.1786-19.2019.
+Epub 2019 Oct 3.
+
+Functional Localization of the Frontal Eye Fields in the Common Marmoset Using
+Microstimulation.
+
+Selvanayagam J(1)(2), Johnston KD(1)(3), Schaeffer DJ(2), Hayrynen LK(2),
+Everling S(4)(3)(2).
+
+Author information: 
+(1)Graduate Program in Neuroscience.
+(2)Center for Functional and Metabolic Mapping, Robarts Research Institute,
+Western University, London, Ontario, Canada.
+(3)Department of Physiology and Pharmacology, and.
+(4)Graduate Program in Neuroscience, severlin@uwo.ca.
+
+The frontal eye field (FEF) is a critical region for the deployment of overt and 
+covert spatial attention. Although investigations in the macaque continue to
+provide insight into the neural underpinnings of the FEF, due to its location
+within a sulcus, the macaque FEF is virtually inaccessible to
+electrophysiological techniques such as high-density and laminar recordings. With
+a largely lissencephalic cortex, the common marmoset (Callithrix jacchus) is a
+promising alternative primate model for studying FEF microcircuitry. Putative
+homologies have been established with the macaque FEF on the basis of
+cytoarchitecture and connectivity; however, physiological investigation in awake,
+behaving marmosets is necessary to physiologically locate this area. Here, we
+addressed this gap using intracortical microstimulation in a broad range of
+frontal cortical areas in three adult marmosets (two males, one female). We
+implanted marmosets with 96-channel Utah arrays and applied microstimulation
+trains while they freely viewed video clips. We evoked short-latency fixed vector
+saccades at low currents (<50 μA) in areas 45, 8aV, 8C, and 6DR. We observed a
+topography of saccade direction and amplitude consistent with findings in
+macaques and humans: small saccades in ventrolateral FEF and large saccades
+combined with contralateral neck and shoulder movements encoded in dorsomedial
+FEF. Our data provide compelling evidence supporting homology between marmoset
+and macaque FEF and suggest that the marmoset is a useful primate model for
+investigating FEF microcircuitry and its contributions to oculomotor and
+cognitive functions.SIGNIFICANCE STATEMENT The frontal eye field (FEF) is a
+critical cortical region for overt and covert spatial attention. The
+microcircuitry of this area remains poorly understood because in the macaque, the
+most commonly used model, it is embedded within a sulcus and is inaccessible to
+modern electrophysiological and imaging techniques. The common marmoset is a
+promising alternative primate model due to its lissencephalic cortex and
+potential for genetic manipulation. However, evidence for homologous cortical
+areas in this model remains limited and unclear. Here, we applied
+microstimulation in frontal cortical areas in marmosets to physiologically
+identify FEF. Our results provide compelling evidence for an FEF in the marmoset 
+and suggest that the marmoset is a useful model for investigating FEF
+microcircuitry.
+
+Copyright © 2019 the authors.
+
+DOI: 10.1523/JNEUROSCI.1786-19.2019 
+PMCID: PMC6855691
+PMID: 31582528  [Indexed for MEDLINE]
+

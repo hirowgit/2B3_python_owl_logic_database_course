@@ -1,0 +1,38 @@
+
+
+3336. J Biol Chem. 2000 Apr 7;275(14):10648-54.
+
+Characterization of a human angiotensinogen cleaved in its reactive center loop
+by a proteolytic activity from Chinese hamster ovary cells.
+
+Célérier J(1), Schmid G, Le Caer JP, Gimenez-Roqueplo AP, Bur D, Friedlein A,
+Langen H, Corvol P, Jeunemaitre X.
+
+Author information: 
+(1)INSERM U36-Pathologie Vasculaire et Endocrinologie Rénale, Collège de
+France-Chaire de Médecine Expérimentale et d'Endocrinologie Rénale 3, rue d'Ulm
+75005 Paris, France. jerome.celerier@college-de-france.fr
+
+Angiotensinogen, the renin (E.C. 3.4.23.15) substrate, belongs to the serpins
+superfamily and has been classified as a noninhibitory serpin. Using mass
+spectroscopy, angiotensinogen purified from Chinese hamster ovary cell
+supernatant shows a broad spectrum. The absence of protease inhibitors throughout
+the purification leads to an angiotensinogen cleaved within the reactive center
+loop. This cleavage does not affect the Ang I generation because kinetic
+parameters are similar to the values of the full-length angiotensinogen. Although
+cleavage is complete, the cleaved angiotensinogen migrates after deglycosylation 
+on SDS-polyacrylamide gel electrophoresis as a doublet differing by 4 kDa. To
+test whether the circulating angiotensinogen is cleaved in the reactive center
+loop, it was purified from a pool of human plasma and was shown to be uncleaved. 
+Its migration was obviously slower than of cleaved angiotensinogen but also
+consisted of two bands pointing to a so far unexplained residual heterogeneity.
+We then compared the heat-induced polymerization of full-length- and reactive
+center loop-cleaved angiotensinogens. Both monomers were able to aggregate,
+revealing a particular behavior of angiotensinogen distinct from that of reactive
+center loop-cleaved serpins. Lacking the three-dimensional structure of
+angiotensinogen, we propose and discuss a structural model of the serpin fold
+within the renin substrate.
+
+DOI: 10.1074/jbc.275.14.10648 
+PMID: 10744761  [Indexed for MEDLINE]
+

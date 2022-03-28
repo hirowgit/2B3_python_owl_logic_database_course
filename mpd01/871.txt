@@ -1,0 +1,100 @@
+
+
+871. Brain Struct Funct. 2017 Aug;222(6):2449-2472. doi: 10.1007/s00429-017-1436-9.
+Epub 2017 May 15.
+
+Lobular homology in cerebellar hemispheres of humans, non-human primates and
+rodents: a structural, axonal tracing and molecular expression analysis.
+
+Luo Y(1), Fujita H(1)(2), Nedelescu H(1), Biswas MS(1), Sato C(3), Ying S(1)(4), 
+Takahashi M(1), Akita K(5), Higashi T(3), Aoki I(3), Sugihara I(6)(7).
+
+Author information: 
+(1)Department of Systems Neurophysiology, Tokyo Medical and Dental University
+Graduate School, 1-5-45 Yushima, Bunkyo-ku, Tokyo, 113-8519, Japan.
+(2)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University
+School of Medicine, 720 Rutland Ave., Baltimore, MD, 21205, USA.
+(3)Department of Molecular Imaging and Theranostics, National Institute of
+Radiological Sciences (NIRS), QST, 4-9-1 Anagawa, Inage-ku, Chiba, 263-8555,
+Japan.
+(4)Departments of Radiology, Neurology, and Ophthalmology, Johns Hopkins
+University School of Medicine, 600 N. Wolfe St., Baltimore, MD, 21287, USA.
+(5)Department of Clinical Anatomy, Tokyo Medical and Dental University, 1-5-45
+Yushima, Bunkyo-ku, Tokyo, 113-8519, Japan.
+(6)Department of Systems Neurophysiology, Tokyo Medical and Dental University
+Graduate School, 1-5-45 Yushima, Bunkyo-ku, Tokyo, 113-8519, Japan.
+isugihara.phy1@tmd.ac.jp.
+(7)Center for Brain Integration Research, Tokyo Medical and Dental University,
+1-5-45 Yushima, Bunkyo-ku, Tokyo, 113-8519, Japan. isugihara.phy1@tmd.ac.jp.
+
+Comparative neuroanatomy provides insights into the evolutionary functional
+adaptation of specific mammalian cerebellar lobules, in which the lobulation
+pattern and functional localization are conserved. However, accurate
+identification of homologous lobules among mammalian species is challenging. In
+this review, we discuss the inter-species homology of crus I and II lobules which
+occupy a large volume in the posterior cerebellar hemisphere, particularly in
+humans. Both crus I/II in humans are homologous to crus I/II in non-human
+primates, according to Paxinos and colleagues; however, this area has been
+defined as crus I alone in non-human primates, according to Larsell and Brodal.
+Our neuroanatomical analyses in humans, macaques, marmosets, rats, and mice
+demonstrate that both crus I/II in humans are homologous to crus I/II or crus I
+alone in non-human primates, depending on previous definitions, and to crus I
+alone in rodents. Here, we refer to the region homologous to human crus I/II
+lobules as "ansiform area (AA)" across animals. Our results show that the AA's
+olivocerebellar climbing fiber and Purkinje cell projections as well as aldolase 
+C gene expression patterns are both distinct and conserved in marmosets and
+rodents. The relative size of the AA, as represented by the AA volume fraction in
+the whole cerebellum was 0.34 in human, 0.19 in macaque, and approximately 0.1 in
+marmoset and rodents. These results indicate that the AA reflects an
+evolutionarily conserved structure in the mammalian cerebellum, which is
+characterized by distinct connectivity from neighboring lobules and a massive
+expansion in skillful primates.
+
+DOI: 10.1007/s00429-017-1436-9 
+PMID: 28508291  [Indexed for MEDLINE]
+
+
+872. J Neuropathol Exp Neurol. 2017 Jun 1;76(6):467-478. doi: 10.1093/jnen/nlx034.
+
+Oxidative Injury and Iron Redistribution Are Pathological Hallmarks of Marmoset
+Experimental Autoimmune Encephalomyelitis.
+
+Dunham J(1), Bauer J(1), Campbell GR(1), Mahad DJ(1), van Driel N(1), van der Pol
+SMA(1), 't Hart BA(1), Lassmann H(1), Laman JD(1), van Horssen J(1), Kap YS(1).
+
+Author information: 
+(1)From the Department of Immunobiology, Biomedical Primate Research Centre,
+Rijswijk, The Netherlands (JD, NvD, BAH, YSK); Department of Neuroscience,
+University Medical Center, University of Groningen, Groningen, The Netherlands
+(JD, BAH, JDL); Medical University of Vienna, Center for Brain Research, Vienna, 
+Austria (JB, HL); Centre for Neuroregeneration, University of Edinburgh,
+Edinburgh, United Kingdom (GRC, DJM); and Department of Molecular Cell Biology
+and Immunology, VU University Medical Center, Amsterdam, The Netherlands (SMAvdP,
+JvH).
+
+Oxidative damage and iron redistribution are associated with the pathogenesis and
+progression of multiple sclerosis (MS), but these aspects are not entirely
+replicated in rodent experimental autoimmune encephalomyelitis (EAE) models.
+Here, we report that oxidative burst and injury as well as redistribution of iron
+are hallmarks of the MS-like pathology in the EAE model in the common marmoset.
+Active lesions in the marmoset EAE brain display increased expression of
+nicotinamide adenine dinucleotide phosphate (NADPH) oxidase (p22phox, p47phox,
+and gp91phox) and inducible nitric oxide synthase immunoreactivity within lesions
+with active inflammation and demyelination, coinciding with enhanced expression
+of mitochondrial heat-shock protein 70 and superoxide dismutase 1 and 2. The EAE 
+lesion-associated liberation of iron (due to loss of iron-containing myelin) was 
+associated with altered expression of the iron metabolic markers FtH1,
+lactoferrin, hephaestin, and ceruloplasmin. The enhanced expression of oxidative 
+damage markers in inflammatory lesions indicates that the enhanced antioxidant
+enzyme expression could not counteract reactive oxygen and nitrogen
+species-induced cellular damage, as is also observed in MS brains. This study
+demonstrates that oxidative injury and aberrant iron distribution are prominent
+pathological hallmarks of marmoset EAE thus making this model suitable for
+therapeutic intervention studies aimed at reducing oxidative stress and
+associated iron dysmetabolism.
+
+© 2017 American Association of Neuropathologists, Inc. All rights reserved.
+
+DOI: 10.1093/jnen/nlx034 
+PMID: 28505283  [Indexed for MEDLINE]
+

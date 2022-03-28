@@ -1,0 +1,108 @@
+
+
+259. Int J Environ Res Public Health. 2020 Sep 19;17(18). pii: E6844. doi:
+10.3390/ijerph17186844.
+
+Inexpensive Home Infrared Living/Environment Sensor with Regional Thermal
+Information for Infant Physical and Psychological Development.
+
+Karino G(1)(2)(3), Senoo A(1), Kunikata T(2), Kamei Y(4), Yamanouchi H(2),
+Nakamura S(1), Shukuya M(5), Colman RJ(6)(7), Koshiba M(1)(2)(8)(9).
+
+Author information: 
+(1)Graduate School of Engineering, Tokyo University of Agriculture and
+Technology, Tokyo 184-8588, Japan.
+(2)Department of Pediatrics, Saitama Medical University, Saitama 350-0495, Japan.
+(3)Research Fellow of the Japan Society for the Promotion of Science, Tokyo
+102-0083, Japan.
+(4)Department of Obstetrics and Gynecology, Saitama Medical University, Saitama
+350-0495, Japan.
+(5)Faculty of Environmental Studies Department of Restoration Ecology and Built
+Environment, Tokyo City University, Kanagawa 224-8551, Japan.
+(6)Wisconsin National Primate Research Center, University of Wisconsin, Madison, 
+WI 53715, USA.
+(7)Department of Cell & Regenerative Biology, School of Medicine and Public
+Health, University of Wisconsin, Madison, WI 53705, USA.
+(8)Graduate School of Science and Technology for Innovation, Yamaguchi
+University, Yamaguchi 755-8611, Japan.
+(9)Graduate School of Information Sciences, Tohoku University, Sendai 980-8579,
+Japan.
+
+The use of home-based image sensors for biological and environmental monitoring
+provides novel insight into health and development but it is difficult to
+evaluate people during their normal activities in their home. Therefore, we
+developed a low-cost infrared (IR) technology-based motion, location, temperature
+and thermal environment detection system that can be used non-invasively for
+long-term studies in the home environment. We tested this technology along with
+the associated analysis algorithm to visualize the effects of parental care and
+thermal environment on developmental state change in a non-human primate model,
+the common marmoset (Callithrix jacchus). To validate this system, we first
+compared it to a manual analysis technique and we then assessed the development
+of circadian rhythms in common marmosets from postnatal day 15-45. The
+semi-automatically tracked biological indices of locomotion velocity (BV) and
+body surface temperature (BT) and the potential psychological index of place
+preference toward the door (BD), showed age-dependent shifts in circadian phase
+patterns. Although environmental variables appeared to affect circadian rhythm
+development, principal component analysis and signal superimposing imaging
+methods revealed a novel phasic pattern of BD-BT correlation day/night switching 
+in animals older than postnatal day 38 (approximately equivalent to one year of
+age in humans). The origin of this switch was related to earlier development of
+body temperature (BT) rhythms and alteration of psychological behavior rhythms
+(BD) around earlier feeding times. We propose that this cost-effective, inclusive
+sensing and analytic technique has value for understanding developmental care
+conditions for which continual home non-invasive monitoring would be beneficial
+and further suggest the potential to adapt this technique for use in humans.
+
+DOI: 10.3390/ijerph17186844 
+PMCID: PMC7559736
+PMID: 32961676  [Indexed for MEDLINE]
+
+
+260. Proc Natl Acad Sci U S A. 2020 Oct 6;117(40):25116-25127. doi:
+10.1073/pnas.2009657117. Epub 2020 Sep 21.
+
+Ventromedial prefrontal area 14 provides opposing regulation of threat and
+reward-elicited responses in the common marmoset.
+
+Stawicka ZM(1)(2), Massoudi R(1)(2), Horst NK(2)(3), Koda K(1)(2), Gaskin
+PLR(1)(2), Alexander L(1)(2), Santangelo AM(1)(2), McIver L(1)(2), Cockcroft
+GJ(1)(2), Wood CM(4)(2), Roberts AC(4)(2).
+
+Author information: 
+(1)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Cambridge CB2 3DY, United Kingdom.
+(2)Behavioral and Clinical Neuroscience Institute, University of Cambridge,
+Cambridge CB2 3EB, United Kingdom.
+(3)Department of Psychology, University of Cambridge, Cambridge CB2 3EB, United
+Kingdom.
+(4)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Cambridge CB2 3DY, United Kingdom; cmw84@cam.ac.uk acr4@cam.ac.uk.
+
+The ventromedial prefrontal cortex (vmPFC) is a key brain structure implicated in
+mood and anxiety disorders, based primarily on evidence from correlational
+neuroimaging studies. Composed of a number of brain regions with distinct
+architecture and connectivity, dissecting its functional heterogeneity will
+provide key insights into the symptomatology of these disorders. Focusing on area
+14, lying on the medial and orbital surfaces of the gyrus rectus, this study
+addresses a key question of causality. Do changes in area 14 activity induce
+changes in threat- and reward-elicited responses within the nonhuman primate, the
+common marmoset, similar to that seen in mood and anxiety disorders? Area 14
+overactivation was found to induce heightened responsivity to uncertain,
+low-imminence threat while blunting cardiovascular and behavioral anticipatory
+arousal to high-value food reward. Conversely, inactivation enhanced the arousal 
+to high-value reward cues while dampening the acquisition of cardiovascular and
+behavioral responses to a Pavlovian threat cue. Basal cardiovascular activity,
+including heart rate variability and sympathovagal balance, which are
+dysfunctional in mood and anxiety disorders, are insensitive to alterations in
+area 14 activity as is the extinction of conditioned threat responses. The
+distinct pattern of dysregulation compared to neighboring region area 25
+highlights the heterogeneity of function within vmPFC and reveals how the effects
+of area 14 overactivation on positive and negative reactivity mirror symptoms of 
+anhedonia and anxiety that are so often comorbid in mood disorders.
+
+DOI: 10.1073/pnas.2009657117 
+PMCID: PMC7547281
+PMID: 32958652  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.
+

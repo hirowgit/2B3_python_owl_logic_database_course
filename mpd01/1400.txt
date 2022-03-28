@@ -1,0 +1,86 @@
+
+
+1400. Cereb Cortex. 2015 Sep;25(9):3182-96. doi: 10.1093/cercor/bhu111. Epub 2014 Jun
+5.
+
+Local and Global Correlations between Neurons in the Middle Temporal Area of
+Primate Visual Cortex.
+
+Solomon SS(1), Chen SC(1), Morley JW(2), Solomon SG(3).
+
+Author information: 
+(1)ARC Centre of Excellence in Vision Science, Sydney, NSW, Australia Discipline 
+of Physiology, School of Medical Sciences and Bosch Institute, The University of 
+Sydney, Sydney, NSW 2006, Australia.
+(2)School of Medicine, University of Western Sydney, Campbelltown, NSW 2560,
+Australia.
+(3)ARC Centre of Excellence in Vision Science, Sydney, NSW, Australia Discipline 
+of Physiology, School of Medical Sciences and Bosch Institute, The University of 
+Sydney, Sydney, NSW 2006, Australia Department of Experimental Psychology,
+University College London, WC1P 0AH, UK.
+
+In humans and other primates, the analysis of visual motion includes populations 
+of neurons in the middle-temporal (MT) area of visual cortex. Motion analysis
+will be constrained by the structure of neural correlations in these populations.
+Here, we use multi-electrode arrays to measure correlations in anesthetized
+marmoset, a New World monkey where area MT lies exposed on the cortical surface. 
+We measured correlations in the spike count between pairs of neurons and within
+populations of neurons, for moving dot fields and moving gratings. Correlations
+were weaker in area MT than in area V1. The magnitude of correlations in area MT 
+diminished with distance between receptive fields, and difference in preferred
+direction. Correlations during presentation of moving gratings were stronger than
+those during presentation of moving dot fields, extended further across cortex,
+and were less dependent on the functional properties of neurons. Analysis of the 
+timescales of correlation suggests presence of 2 mechanisms. A local mechanism,
+associated with near-synchronous spiking activity, is strongest in nearby neurons
+with similar direction preference and is independent of visual stimulus. A global
+mechanism, operating over larger spatial scales and longer timescales, is
+independent of direction preference and is modulated by the type of visual
+stimulus presented.
+
+© The Author 2014. Published by Oxford University Press. All rights reserved. For
+Permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhu111 
+PMID: 24904074  [Indexed for MEDLINE]
+
+
+1401. J Comp Neurol. 2014 Nov 1;522(16):3683-716. doi: 10.1002/cne.23633. Epub 2014 Jun
+16.
+
+Patterns of afferent input to the caudal and rostral areas of the dorsal premotor
+cortex (6DC and 6DR) in the marmoset monkey.
+
+Burman KJ(1), Bakola S, Richardson KE, Reser DH, Rosa MG.
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, VIC, 3800, Australia.
+
+Corticocortical projections to the caudal and rostral areas of dorsal premotor
+cortex (6DC and 6DR, also known as F2 and F7) were studied in the marmoset
+monkey. Both areas received their main thalamic inputs from the ventral anterior 
+and ventral lateral complexes, and received dense projections from the medial
+premotor cortex. However, there were marked differences in their connections with
+other cortical areas. While 6DR received consistent inputs from prefrontal
+cortex, area 6DC received few such connections. Conversely, 6DC, but not 6DR,
+received major projections from the primary motor and somatosensory areas.
+Projections from the anterior cingulate cortex preferentially targeted 6DC, while
+the posterior cingulate and adjacent medial wall areas preferentially targeted
+6DR. Projections from the medial parietal area PE to 6DC were particularly dense,
+while intraparietal areas (especially the putative homolog of LIP) were more
+strongly labeled after 6DR injections. Finally, 6DC and 6DR were distinct in
+terms of inputs from the ventral parietal cortex: projections to 6DR originated
+preferentially from caudal areas (PG and OPt), while 6DC received input primarily
+from rostral areas (PF and PFG). Differences in connections suggest that area 6DR
+includes rostral and caudal subdivisions, with the former also involved in
+oculomotor control. These results suggest that area 6DC is more directly involved
+in the preparation and execution of motor acts, while area 6DR integrates sensory
+and internally driven inputs for the planning of goal-directed actions. They also
+provide strong evidence of a homologous organization of the dorsal premotor
+cortex in New and Old World monkeys.
+
+© 2014 Wiley Periodicals, Inc.
+
+DOI: 10.1002/cne.23633 
+PMID: 24888737  [Indexed for MEDLINE]
+

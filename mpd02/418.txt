@@ -1,0 +1,49 @@
+
+
+418. Sci Rep. 2019 Oct 10;9(1):14495. doi: 10.1038/s41598-019-50918-2.
+
+High susceptibility, viral dynamics and persistence of South American Zika virus 
+in New World monkey species.
+
+Berry N(1), Ferguson D(2), Ham C(2), Hall J(2), Jenkins A(2), Giles E(2), Devshi 
+D(2), Kempster S(2), Rose N(3), Dowall S(4), Fritzsche M(5), Bleazard T(5),
+Hewson R(4), Almond N(2).
+
+Author information: 
+(1)Division of Infectious Disease Diagnostics, National Institute for Biological 
+Standards and Control, Blanche Lane, South Mimms, Herts, EN6 3QG, UK.
+neil.berry@nibsc.org.
+(2)Division of Infectious Disease Diagnostics, National Institute for Biological 
+Standards and Control, Blanche Lane, South Mimms, Herts, EN6 3QG, UK.
+(3)Division of Virology, National Institute for Biological Standards and Control,
+Blanche Lane, South Mimms, Herts, EN6 3QG, UK.
+(4)Virology and Pathogenesis, National Infection Service, PHE-Porton, Manor Farm 
+Rd, Porton Down, Salisbury, SP4 0JG, UK.
+(5)Analytical Sciences Group, National Institute for Biological Standards and
+Control, Blanche Lane, South Mimms, Herts, EN6 3QG, UK.
+
+South American Zika virus (ZIKV) recently emerged as a novel human pathogen,
+linked with neurological disorders. However, comparative ZIKV infectivity studies
+in New World primates are lacking. Two members of the Callitrichidae family,
+common marmosets (Callithrix jacchus) and red-bellied tamarins (Saguinus
+labiatus), were highly susceptible to sub-cutaneous challenge with the Puerto
+Rico-origin ZIKVPRVABC59 strain. Both exhibited rapid, high, acute viraemia with 
+early neuroinvasion (3 days) in peripheral and central nervous tissue. ZIKV RNA
+levels in blood and tissues were significantly higher in New World hosts compared
+to Old World species (Macaca mulatta, Macaca fascicularis). Tamarins and rhesus
+macaques exhibited loss of zonal occludens-1 (ZO-1) staining, indicative of a
+compromised blood-brain barrier 3 days post-ZIKV exposure. Early, widespread
+dissemination across multiple anatomical sites distant to the inoculation site
+preceded extensive ZIKV persistence after 100 days in New and Old World lineages,
+especially lymphoid, neurological and reproductive sites. Prolonged persistence
+in brain tissue has implications for otherwise resolved human ZIKV infection.
+High susceptibility of distinct New World species underscores possible
+establishment of ZIKV sylvatic cycles in primates indigenous to ZIKV endemic
+regions. Tamarins and marmosets represent viable New World models for ZIKV
+pathogenesis and therapeutic intervention studies, including vaccines, with
+contemporary strains.
+
+DOI: 10.1038/s41598-019-50918-2 
+PMCID: PMC6787206
+PMID: 31601848  [Indexed for MEDLINE]
+

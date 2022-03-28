@@ -1,0 +1,91 @@
+
+
+1754. BMC Genomics. 2012 Mar 19;13:98. doi: 10.1186/1471-2164-13-98.
+
+Quantitative molecular assessment of chimerism across tissues in marmosets and
+tamarins.
+
+Sweeney CG(1), Curran E, Westmoreland SV, Mansfield KG, Vallender EJ.
+
+Author information: 
+(1)New England Primate Research Center, Harvard Medical School, One Pine Hill
+Drive, Southborough, MA 01772, USA.
+
+BACKGROUND: Marmosets are playing an increasingly large and important role in
+biomedical research. They share genetic, anatomical, and physiological
+similarities with humans and other primate model species, but their smaller
+sizes, reproductive efficiency, and amenability to genetic manipulation offer an 
+added practicality. While their unique biology can be exploited to provide
+insights into disease and function, it is also important that researchers are
+aware of the differences that exist between marmosets and other species. The New 
+World monkey family Callitrichidae, containing both marmoset and tamarin species,
+typically produces dizygotic twins that show chimerism in the blood and other
+cells from the hematopoietic lineage. Recently, a study extended these findings
+to identify chimerism in many tissues, including somatic tissues from other
+lineages and germ cells. This has raised the intriguing possibility that
+chimerism may play an increasingly pervasive role in marmoset biology, ranging
+from natural behavioral implications to increased variability and complexity in
+biomedical studies.
+RESULTS: Using a quantitative PCR based methodology, Y-chromosomes can be
+reliably detected in the females with male fraternal twins allowing for a
+relative quantification of chimerism levels between individuals and tissues. With
+this approach in common marmosets (Callithrix jacchus) and cotton-top tamarins
+(Saguinus oedipus), chimerism was detected across a broad array of tissues.
+Chimerism levels were significantly higher in tissues primarily derived from the 
+hematopoietic lineage, while they were lower, though still detectable, in tissues
+with other origins. Interestingly, animals with a characteristic marmoset wasting
+disease show higher levels of chimerism in those tissues affected. Fibroblast
+cell lines from chimeric individuals, however, are not found to be chimeric
+themselves.
+CONCLUSION: Taken together, the levels of chimerism in tissues of different
+origins coupled with other lines of evidence suggest that indeed only
+hematopoietic cell lineages are chimeric in callitrichids. The chimerism detected
+in other tissues is likely the result of blood or lymphocytic infiltration. Using
+molecular methods to detect chimerism in a tissue sample seems to have allowed a 
+substantial increase in the ability to detect these minor cell populations.
+
+DOI: 10.1186/1471-2164-13-98 
+PMCID: PMC3337283
+PMID: 22429831  [Indexed for MEDLINE]
+
+
+1755. Brain Nerve. 2012 Mar;64(3):245-54.
+
+[Hepatocyte growth factor therapy for amyotrophic lateral sclerosis].
+
+[Article in Japanese]
+
+Aoki M(1).
+
+Author information: 
+(1)Department of Neurology, Tohoku University School of Medicine, Japan.
+
+Amyotrophic lateral sclerosis (ALS) is an adult-onset neurodegenerative disorder 
+characterized by the death of upper and lower motor neurons. Approximately 20% of
+familial ALS cases are caused by mutations in the superoxide dismutase 1 (SOD1)
+gene. We generated rats that express a human SOD1 transgene with two different
+ALS-associated mutations and found that these rats develop remarkable motor
+neuron degeneration and paralysis. This rat model, because of the larger size of 
+the animals as compared to ALS-affected mice, will facilitate studies involving
+manipulation of the cerebrospinal fluid (CSF) (e.g., implantation of intrathecal 
+catheters for chronic therapeutic studies; CSF sampling) or spinal cord (e.g.,
+direct administration of viral- and cell-mediated therapies). The hepatocyte
+growth factor (HGF) is one of the most potent survival-promoting factors for
+motor neurons. To examine its protective effect on motor neurons and its
+therapeutic potential, we administered human recombinant HGF (hrHGF) to the
+transgenic rats, by continuous intrathecal delivery, for 4 weeks from the onset
+of paralysis. Intrathecal administration of hrHGF attenuated motor neuron
+degeneration and prolonged the duration of the disease 62.7% compared with the
+contrast group. Our results indicated the therapeutic efficacy of continuous
+intrathecal administration of hrHGF in ALS rats. To explore the potential use of 
+this treatment strategy in humans, we induced a contusive cervical spinal cord
+injury in the common marmoset, a primate, and then administered hrHGF
+intrathecally. The intrathecal administration of hrHGF promoted functional
+recovery. These projects have been supported by the "Super Special Consortium for
+Supporting the Development of Cutting-edge Medical Care" (tokku), a special
+program organized by the Cabinet Office of the Japanese government (research
+representative: Hideyuki Okano, M.D., Ph.D., Professor at Keio University).
+
+
+PMID: 22402718  [Indexed for MEDLINE]
+

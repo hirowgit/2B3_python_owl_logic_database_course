@@ -1,0 +1,93 @@
+
+
+1382. Nat Genet. 2014 Aug;46(8):850-7. doi: 10.1038/ng.3042. Epub 2014 Jul 20.
+
+The common marmoset genome provides insight into primate biology and evolution.
+
+Marmoset Genome Sequencing and Analysis Consortium.
+
+Collaborators: Worley KC, Warren WC, Rogers J, Locke D, Muzny DM, Mardis ER,
+Weinstock GM, Tardif SD, Aagaard KM, Archidiacono N, Rayan NA, Batzer MA, Beal K,
+Brejova B, Capozzi O, Capuano SB, Casola C, Chandrabose MM, Cree A, Dao MD, de
+Jong PJ, Del Rosario RC, Delehaunty KD, Dinh HH, Eichler EE, Fitzgerald S, Flicek
+P, Fontenot CC, Fowler RG, Fronick C, Fulton LA, Fulton RS, Gabisi RA, Gerlach D,
+Graves TA, Gunaratne PH, Hahn MW, Haig D, Han Y, Harris RA, Herrero J, Hillier
+LW, Hubley R, Hughes JF, Hume J, Jhangiani SN, Jorde LB, Joshi V, Karakor E,
+Konkel MK, Kosiol C, Kovar CL, Kriventseva EV, Lee SL, Lewis LR, Liu YS, Lopez J,
+Lopez-Otin C, Lorente-Galdos B, Mansfield KG, Marques-Bonet T, Minx P, Misceo D, 
+Moncrieff JS, Morgan MB, Nazareth LV, Newsham I, Nguyen NB, Okwuonu GO, Prabhakar
+S, Perales L, Pu LL, Puente XS, Quesada V, Ranck MC, Raney BJ, Raveendran M,
+Deiros DR, Rocchi M, Rodriguez D, Ross C, Ruffier M, Ruiz SJ, Sajjadian S,
+Santibanez J, Schrider DR, Searle S, Skaletsky H, Soibam B, Smit AF, Tennakoon
+JB, Tomaska L, Ullmer B, Vejnar CE, Ventura M, Vilella AJ, Vinar T, Vogel JH,
+Walker JA, Wang Q, Warner CM, Wildman DE, Witherspoon DJ, Wright RA, Wu Y, Xiao
+W, Xing J, Zdobnov EM, Zhu B, Gibbs RA, Wilson RK.
+
+We report the whole-genome sequence of the common marmoset (Callithrix jacchus). 
+The 2.26-Gb genome of a female marmoset was assembled using Sanger read data (6×)
+and a whole-genome shotgun strategy. A first analysis has permitted comparison
+with the genomes of apes and Old World monkeys and the identification of specific
+features that might contribute to the unique biology of this diminutive primate, 
+including genetic changes that may influence body size, frequent twinning and
+chimerism. We observed positive selection in growth hormone/insulin-like growth
+factor genes (growth pathways), respiratory complex I genes (metabolic pathways),
+and genes encoding immunobiological factors and proteases (reproductive and
+immunity pathways). In addition, both protein-coding and microRNA genes related
+to reproduction exhibited evidence of rapid sequence evolution. This genome
+sequence for a New World monkey enables increased power for comparative analyses 
+among available primate genomes and facilitates biomedical research application.
+
+DOI: 10.1038/ng.3042 
+PMCID: PMC4138798
+PMID: 25038751  [Indexed for MEDLINE]
+
+
+1383. Psychoneuroendocrinology. 2014 Nov;49:1-10. doi: 10.1016/j.psyneuen.2014.06.020. 
+Epub 2014 Jul 3.
+
+Oxytocin facilitates fidelity in well-established marmoset pairs by reducing
+sociosexual behavior toward opposite-sex strangers.
+
+Cavanaugh J(1), Mustoe AC(2), Taylor JH(2), French JA(3).
+
+Author information: 
+(1)Callitrichid Research Center, Department of Psychology, University of Nebraska
+- Omaha, USA. Electronic address: jonryancavanaug@unomaha.edu.
+(2)Callitrichid Research Center, Department of Psychology, University of Nebraska
+- Omaha, USA.
+(3)Callitrichid Research Center, Department of Psychology, University of Nebraska
+- Omaha, USA; Department of Biology, University of Nebraska - Omaha, USA.
+
+Behavioral strategies that facilitate the maintenance of social bonds are
+critical for the preservation of high-quality social relationships. Central
+oxytocin (OT) activity modulates the behavioral features of socially monogamous
+relationships in a number of mammalian species (including marmoset monkeys), and 
+plays a vital role in the behavioral maintenance of long-term social
+relationships. Two distinct variants of OT have been identified in some New World
+primates (including marmosets; Lee et al., 2011). The marmoset variant of the
+oxytocin ligand (Pro(8)-OT) is structurally distinct from the consensus mammalian
+variant of the oxytocin ligand (Leu(8)-OT), due to a proline substitution at the 
+8th amino-acid position. The goal of the present study was to determine if
+treating marmosets with Pro(8)-OT, relative to treatments with Leu(8)-OT, control
+saline, or an OT antagonist, had modulatory effects on the behavioral maintenance
+of long-term social relationships in marmosets. Treatment with the Pro(8)
+variant, but not the Leu(8) variant, of OT facilitated fidelity with a long-term 
+partner by reducing time spent in close proximity with an opposite-sex stranger. 
+However, this facilitative effect of Pro(8)-OT on proximity behavior manifested
+itself differently in male and female marmosets, such that females preferred to
+interact socially with their partner rather than a stranger when treated with
+Pro(8)-OT, while males spent less time in close proximity with both their partner
+and a stranger when treated with Pro(8)-OT. Furthermore, treatment with
+Pro(8)-OT, but not Leu(8)-OT, significantly delayed the expression of sexual
+solicitation behavior toward an opposite-sex stranger in both male and female
+marmosets, but had no effect on sociosexual behavior directed toward a long-term 
+partner. These results suggest that the OT system is highly involved in reducing 
+fidelity-threatening behaviors in well-established marmoset pairs, and that the
+effects were only produced by species-specific OT ligands.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.psyneuen.2014.06.020 
+PMCID: PMC4165758
+PMID: 25038478  [Indexed for MEDLINE]
+

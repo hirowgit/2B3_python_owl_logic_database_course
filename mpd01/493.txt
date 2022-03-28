@@ -1,0 +1,89 @@
+
+
+493. PLoS Pathog. 2019 May 21;15(5):e1007803. doi: 10.1371/journal.ppat.1007803.
+eCollection 2019 May.
+
+Histamine release from intestinal mast cells induced by staphylococcal
+enterotoxin A (SEA) evokes vomiting reflex in common marmoset.
+
+Ono HK(1)(2), Hirose S(1)(3), Narita K(1)(4), Sugiyama M(5), Asano K(1)(3), Hu
+DL(2), Nakane A(1)(3).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Hirosaki University Graduate School
+of Medicine, Hirosaki, Japan.
+(2)Department of Zoonoses, Kitasato University School of Veterinary Medicine,
+Towada, Aomori, Japan.
+(3)Department of Biopolymer and Health Science, Hirosaki University Graduate
+School of Medicine, Hirosaki, Japan.
+(4)Institute for Animal Experimentation, Hirosaki University Graduate School of
+Medicine, Hirosaki, Japan.
+(5)Department of Veterinary Anatomy, Kitasato University School of Veterinary
+Medicine, Towada, Japan.
+
+Staphylococcal enterotoxins (SEs) produced by Staphylococcus aureus are known as 
+causative agents of emetic food poisoning. We previously demonstrated that SEA
+binds with submucosal mast cells and evokes mast cell degranulation in a small
+emetic house musk shrew model. Notably, primates have been recognized as the
+standard model for emetic assays and analysis of SE emetic activity. However, the
+mechanism involved in SEA-induced vomiting in primates has not yet been
+elucidated. In the present study, we established common marmosets as an emetic
+animal model. Common marmosets were administered classical SEs, including SEA,
+SEB and SEC, and exhibited multiple vomiting responses. However, a non-emetic
+staphylococcal superantigen, toxic shock syndrome toxin-1, did not induce emesis 
+in these monkeys. These results indicated that the common marmoset is a useful
+animal model for assessing the emesis-inducing activity of SEs. Furthermore,
+histological analysis uncovered that SEA bound with submucosal mast cells and
+induced mast cell degranulation. Additionally, ex vivo and in vivo
+pharmacological results showed that SEA-induced histamine release plays a
+critical role in the vomiting response in common marmosets. The present results
+suggested that 5-hydroxytryptamine also plays an important role in the
+transmission of emetic stimulation on the afferent vagus nerve or central nervous
+system. We conclude that SEA induces histamine release from submucosal mast cells
+in the gastrointestinal tract and that histamine contributes to the SEA-induced
+vomiting reflex via the serotonergic nerve and/or other vagus nerve.
+
+DOI: 10.1371/journal.ppat.1007803 
+PMCID: PMC6546250
+PMID: 31112582  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+494. Neuroimage. 2019 Sep;198:44-52. doi: 10.1016/j.neuroimage.2019.05.023. Epub 2019 
+May 17.
+
+Microelectrode array electrical impedance tomography for fast functional imaging 
+in the thalamus.
+
+Zhu D(1), McEwan A(1), Eiber C(2).
+
+Author information: 
+(1)School of Electrical and Information Engineering, The University of Sydney,
+Camperdown, NSW, Australia.
+(2)Save Sight Institute, The University of Sydney, 8 Macquarie St, Sydney, NSW,
+Australia; School of Medical Sciences, University of Sydney, Sydney, NSW,
+Australia; Australian Research Council Centre of Excellence for Integrative Brain
+Function, Australia. Electronic address: calvin.eiber@sydney.edu.au.
+
+Electrical Impedance Tomography (EIT) has the potential to be able to observe
+functional tomographic images of neural activity in the brain at millisecond
+time-scales. Prior modelling and experimental work has shown that EIT is capable 
+of imaging impedance changes from neural depolarisation in rat somatosensory
+cortex. Here, we investigate the feasibility of EIT for imaging impedance changes
+using a stereotaxically implanted microelectrode array in the thalamus.
+Microelectrode array EIT was simulated using an anatomically accurate marmoset
+brain model. Impedance imaging was validated and detectability estimated using
+physiological noise recorded from the marmoset visual thalamus. The results
+suggest that visual-input-driven impedance changes in visual subcortical bodies
+within 300 μm of the implanted array could be reliably reconstructed and
+localised, comparable to local field potential measurements. Furthermore, we
+demonstrated that microelectrode array EIT could reconstruct concurrent activity 
+in multiple subcortical bodies simultaneously.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2019.05.023 
+PMID: 31108212  [Indexed for MEDLINE]
+

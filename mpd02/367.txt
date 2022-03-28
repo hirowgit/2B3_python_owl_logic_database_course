@@ -1,0 +1,60 @@
+
+
+367. Mob DNA. 2020 Feb 1;11:6. doi: 10.1186/s13100-020-0203-2. eCollection 2020.
+
+Identification and characterization of ERV-W-like sequences in Platyrrhini
+species provides new insights into the evolutionary history of ERV-W in primates.
+
+Grandi N(1), Pisano MP(1), Demurtas M(1), Blomberg J(2), Magiorkinis G(3), Mayer 
+J(4), Tramontano E(1)(5).
+
+Author information: 
+(1)1Department of Life and Environmental Sciences, University of Cagliari,
+Cittadella Universitaria di Monserrato, SS554, Monserrato, Cagliari Italy.
+(2)2Department of Medical Sciences, Uppsala University, Uppsala, Sweden.
+(3)3Institute of Human Genetics, University of Saarland, Homburg, Germany.
+(4)4Department of Hygiene, Epidemiology, and Medical Statistics, Medical School, 
+National and Kapodistrian University of Athens, Athens, Greece.
+(5)5Istituto di Ricerca Genetica e Biomedica (IRGB), CNR, Monserrato, Cagliari
+Italy.
+
+Background: Endogenous Retroviruses (ERVs) constitute approximately 8% of every
+human genome and are relics of ancestral infections that affected the germ line
+cells. The ERV-W group contributed to primate physiology by providing an envelope
+protein (Syncytin-1) that has been adopted for placenta development in hominoids.
+Expression of Human ERV-W (HERV-W) sequences is investigated for a pathological
+role in various human diseases.
+Results: We previously characterized ERV-W group genomic sequences in human and
+non-human Catarrhini species. We now investigated ERV-W-like sequences in the
+parvorder Platyrrhini, especially regarding two species with complete genome
+assemblies, namely marmoset (Callithrix jacchus) and squirrel monkey (Saimiri
+boliviensis). We identified in both species proviral sequences, annotated as
+ERV1-1 in respective genome assemblies, sharing high sequence similarities with
+Catarrhini ERV-W. A total of 130 relatively intact proviruses from the genomes of
+marmoset and squirrel monkey were characterized regarding their structural and
+evolutionarily relationships with Catarrhini ERV-W elements. Platyrrhini ERV-W
+sequences share several structural features with Catarrhini ERV-W elements and
+are closely related phylogenetically with the latter as well as with other
+ERV-W-related gammaretrovirus-like ERVs. The ERV-W group colonized Platyrrhini
+primates of both Callitrichidae and Atelidae lineages, with provirus formations
+having occurred mostly between 25 and 15 mya. Two LTR subgroups were associated
+with monophyletic proviral bodies. A pre-gag region appears to be a sequence
+feature common to the ERV-W group: it harbors a putative intron sequence that is 
+missing in some ERV-W loci, holding a putative ORF as well. The presence of a
+long pre-gag portion was confirmed among all gammaretroviral ERV analyzed,
+suggesting a role in the latter biology. It is noteworthy that, contrary to
+Catarrhini ERV-W, there was no evidence of L1-mediated mobilization for
+Platyrrhini ERV-W sequences.
+Conclusions: Our data establish that ERV-W is not exclusive to Catarrhini
+primates but colonized both parvorders of Simiiformes, providing further insight 
+into the evolution of ERV-W and the colonization of primate genomes.
+
+© The Author(s). 2020.
+
+DOI: 10.1186/s13100-020-0203-2 
+PMCID: PMC6995185
+PMID: 32021657 
+
+Conflict of interest statement: Competing interestsThe authors declare that they 
+have no competing interests.
+

@@ -1,0 +1,74 @@
+
+
+2852. J Comp Neurol. 2004 Feb 16;469(4):494-506.
+
+Synaptic connectivity of the diffuse bipolar cell type DB6 in the inner plexiform
+layer of primate retina.
+
+Jusuf PR(1), Lee SC, Grünert U.
+
+Author information: 
+(1)Department of Physiology F13 and Institute for Biomedical Research, The
+University of Sydney, New South Wales 2006, Australia.
+
+Diffuse bipolar cells in primate retina receive synaptic input from multiple
+cones and provide output to ganglion cells. Diffuse bipolar cells can be
+subdivided into six types (DB1-DB6) according to the stratification of their axon
+terminals in the inner plexiform layer, but their synaptic connectivity in the
+inner plexiform layer is not well understood. Here the stratification and
+synaptic connectivity of DB6 axon terminals were studied in the retinae of New
+World (marmoset) and Old World (macaque) monkeys. Immunohistochemical markers
+were applied to retinal sections. The sections were analyzed by confocal and
+deconvolution light microscopy as well as electron microscopy. The DB6 cells were
+identified with antibodies against CD15; rod bipolar cells were identified with
+antibodies against protein kinase Calpha (PKCalpha); and AII amacrine cells were 
+identified with antibodies against calretinin. The axons of DB6 and rod bipolar
+cells occupy distinct regions in stratum 5 of the inner plexiform layer. The
+distal processes of calretinin-labeled AII cells are usually closely associated
+with rod bipolar axons but sometimes also with DB6 axons. Pre-embedding
+immunoelectron microscopy showed that the vast majority (over 86%) of the
+synaptic output of DB6 cells is onto amacrine cell processes, whereas less than
+14% goes to ganglion cell processes. In double-labeled preparations DB6 axons
+occasionally made output onto calretinin-labeled amacrine processes. Thus it is
+possible that AII cells receive some input from DB6 cells.
+
+Copyright 2004 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.11027 
+PMID: 14755531  [Indexed for MEDLINE]
+
+
+2853. Eur J Neurosci. 2004 Jan;19(1):169-80.
+
+First- and second-order stimulus length selectivity in New World monkey striate
+cortex.
+
+Bourne JA(1), Lui L, Tweedale R, Rosa MG.
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, VIC 3800, Australia.
+
+Motion is a powerful cue for figure-ground segregation, allowing the recognition 
+of shapes even if the luminance and texture characteristics of the stimulus and
+background are matched. In order to investigate the neural processes underlying
+early stages of the cue-invariant processing of form, we compared the responses
+of neurons in the striate cortex (V1) of anaesthetized marmosets to two types of 
+moving stimuli: bars defined by differences in luminance, and bars defined solely
+by the coherent motion of random patterns that matched the texture and temporal
+modulation of the background. A population of form-cue-invariant (FCI) neurons
+was identified, which demonstrated similar tuning to the length of contours
+defined by first- and second-order cues. FCI neurons were relatively common in
+the supragranular layers (where they corresponded to 28% of the recorded units), 
+but were absent from layer 4. Most had complex receptive fields, which were
+significantly larger than those of other V1 neurons. The majority of FCI neurons 
+demonstrated end-inhibition in response to long first- and second-order bars, and
+were strongly direction selective. Thus, even at the level of V1 there are cells 
+whose variations in response level appear to be determined by the shape and
+motion of the entire second-order object, rather than by its parts (i.e. the
+individual textural components). These results are compatible with the existence 
+of an output channel from V1 to the ventral stream of extrastriate areas, which
+already encodes the basic building blocks of the image in an invariant manner.
+
+DOI: 10.1111/j.1460-9568.2004.03082.x 
+PMID: 14750975  [Indexed for MEDLINE]
+

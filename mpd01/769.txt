@@ -1,0 +1,101 @@
+
+
+769. Arterioscler Thromb Vasc Biol. 2018 Jan;38(1):174-185. doi:
+10.1161/ATVBAHA.117.310337. Epub 2017 Nov 30.
+
+Both Autocrine Signaling and Paracrine Signaling of HB-EGF Enhance Ocular
+Neovascularization.
+
+Inoue Y(1), Shimazawa M(1), Nakamura S(1), Takata S(1), Hashimoto Y(1), Izawa
+H(1), Masuda T(1), Tsuruma K(1), Sakaue T(1), Nakayama H(1), Higashiyama S(1),
+Hara H(2).
+
+Author information: 
+(1)From the Molecular Pharmacology, Department of Biofunctional Evaluation, Gifu 
+Pharmaceutical University, Japan (Y.I., M.S., S.N., S.T., Y.H., H.I., T.M., K.T.,
+H.H.); Proteo-Science Center, Division of Cell Growth and Tumor Regulation, Ehime
+University Shitsukawa, Toon, Japan (T.S., H.N., S.H.); and Department of
+Biochemistry and Molecular Genetics, Ehime University Graduate School of
+Medicine, Shitsukawa, Toon, Japan (T.S., S.H.).
+(2)From the Molecular Pharmacology, Department of Biofunctional Evaluation, Gifu 
+Pharmaceutical University, Japan (Y.I., M.S., S.N., S.T., Y.H., H.I., T.M., K.T.,
+H.H.); Proteo-Science Center, Division of Cell Growth and Tumor Regulation, Ehime
+University Shitsukawa, Toon, Japan (T.S., H.N., S.H.); and Department of
+Biochemistry and Molecular Genetics, Ehime University Graduate School of
+Medicine, Shitsukawa, Toon, Japan (T.S., S.H.). hidehara@gifu-pu.ac.jp.
+
+OBJECTIVE: The incidence of blindness is increasing because of the increase in
+abnormal ocular neovascularization. Anti-VEGF (vascular endothelial growth
+factor) therapies have led to good results, although they are not a cure for the 
+blindness. The purpose of this study was to determine what role HB-EGF
+(heparin-binding epidermal growth factor-like growth factor) plays in ocular
+angiogenesis.
+APPROACH AND RESULTS: We examined the role played by HB-EGF in ocular
+neovascularization in 2 animal models of neovascularization: laser-induced
+choroidal neovascularization (CNV) and oxygen-induced retinopathy. We also
+studied human retinal microvascular endothelial cells in culture. Our results
+showed that the neovascularization was decreased in both the CNV and
+oxygen-induced retinopathy models in HB-EGF conditional knockout mice compared
+with that in wild-type mice. Moreover, the expressions of HB-EGF and VEGF were
+increased after laser-induced CNV and oxygen-induced retinopathy, and their
+expression sites were located around the neovascular areas. Exposure of human
+retinal microvascular endothelial cells to HB-EGF and VEGF increased their
+proliferation and migration, and CRM-197 (cross-reactive material-197), an HB-EGF
+inhibitor, decreased the HB-EGF-induced and VEGF-induced cell proliferation and
+migration. VEGF increased the expression of HB-EGF mRNA. VEGF-dependent
+activation of EGFR (epidermal growth factor receptor)/ERK1/2 (extracellular
+signal-regulated kinase 1/2) signaling and cell proliferation of endothelial
+cells required stimulation of the ADAM17 (a disintegrin and metalloprotease) and 
+ADAM12. CRM-197 decreased the grades of the fluorescein angiograms and size of
+the CNV areas in marmoset monkeys.
+CONCLUSIONS: These findings suggest that HB-EGF plays an important role in the
+development of CNV. Therefore, further investigations of HB-EGF are needed as a
+potential therapeutic target in the treatment of exudative age-related macular
+degeneration.
+
+© 2017 American Heart Association, Inc.
+
+DOI: 10.1161/ATVBAHA.117.310337 
+PMID: 29191924  [Indexed for MEDLINE]
+
+
+770. Brain Struct Funct. 2018 May;223(4):1599-1614. doi: 10.1007/s00429-017-1574-0.
+Epub 2017 Nov 28.
+
+Organization of auditory areas in the superior temporal gyrus of marmoset monkeys
+revealed by real-time optical imaging.
+
+Nishimura M(1), Takemoto M(1), Song WJ(2)(3).
+
+Author information: 
+(1)Department of Sensory and Cognitive Physiology, Graduate School of Medical
+Sciences, Kumamoto University, Kumamoto, 860-8556, Japan.
+(2)Department of Sensory and Cognitive Physiology, Graduate School of Medical
+Sciences, Kumamoto University, Kumamoto, 860-8556, Japan. song@kumamoto-u.ac.jp.
+(3)Program for Leading Graduate Schools HIGO Program, Kumamoto University,
+Kumamoto, 860-8556, Japan. song@kumamoto-u.ac.jp.
+
+The prevailing model of the primate auditory cortex proposes a core-belt-parabelt
+structure. The model proposes three auditory areas in the lateral belt region;
+however, it may contain more, as this region has been mapped only at a limited
+spatial resolution. To explore this possibility, we examined the auditory areas
+in the lateral belt region of the marmoset using a high-resolution optical
+imaging technique. Based on responses to pure tones, we identified multiple areas
+in the superior temporal gyrus. The three areas in the core region, the primary
+area (A1), the rostral area (R), and the rostrotemporal area, were readily
+identified from their frequency gradients and positions immediately ventral to
+the lateral sulcus. Three belt areas were identified with frequency gradients and
+relative positions to A1 and R that were in agreement with previous studies: the 
+caudolateral area, the middle lateral area, and the anterolateral area (AL).
+Situated between R and AL, however, we identified two additional areas. The first
+was located caudoventral to R with a frequency gradient in the ventrocaudal
+direction, which we named the medial anterolateral (MAL) area. The second was a
+small area with no obvious tonotopy (NT), positioned between the MAL and AL
+areas. Both the MAL and NT areas responded to a wide range of frequencies (at
+least 2-24 kHz). Our results suggest that the belt region caudoventral to R is
+more complex than previously proposed, and we thus call for a refinement of the
+current primate auditory cortex model.
+
+DOI: 10.1007/s00429-017-1574-0 
+PMID: 29185107  [Indexed for MEDLINE]
+

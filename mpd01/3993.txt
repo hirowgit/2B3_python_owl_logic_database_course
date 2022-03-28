@@ -1,0 +1,76 @@
+
+
+3993. Thromb Res. 1994 Aug 1;75(3):269-84.
+
+Inhibition of human platelet aggregation by GR91669, a prototype fibrinogen
+receptor antagonist.
+
+Foster MR(1), Hornby EJ, Brown S, Hann M, Kitchin J, Pike N, Ward P.
+
+Author information: 
+(1)Department of Cardiovascular, Glaxo Group Research Limited, Ware, Herts.
+
+In order to produce more potent and specific fibrinogen receptor (GpIIb/IIIa)
+antagonists, the Arg-Gly of a chemical series based upon Arg-Gly-Asp was replaced
+by alkyl chains of varying lengths. The most potent in this series, GR91669,
+inhibited aggregation of human gel-filtered platelets (GFP) in vitro induced by
+ADP or the thromboxane A2 mimetic, U46619, with IC50 values of 200nM and 500nM
+respectively and was selected for further studies. Its inhibitory effects on GFP 
+were reversed by addition of excess fibrinogen. The compound also inhibited ADP- 
+or U46619-induced platelet aggregation in human whole blood (IC50 values of 700nM
+in both cases). 125I-Fibrinogen binding to ADP-stimulated platelets was inhibited
+by GR91669 with an IC50 (65nM) similar to that against platelet aggregation.
+GR91669 (1mM) did not inhibit U46619-induced platelet shape change or 14C-5HT
+secretion from platelets stimulated by collagen, U46619 or thrombin. Therefore
+GR91669 inhibits aggregation but has no significant effect on stimulus-response
+events, a profile consistent with fibrinogen receptor blockade. In addition,
+GR91669 (1mM), unlike echistatin or Gly-Arg-Gly-Asp-Ser, did not disrupt
+vitronectin recptor-dependent attachment of cultured HUVECS in vitro and
+similarly did not inhibit Mac-1 dependent adhesion of human granulocytes. Thus,
+of the integrins tested, GR91669 appears to be specific for GpIIb/IIIa. Following
+intravenous administration to marmosets of 1 or 10 mg/kg GR91669, ADP (10
+microM)-induced platelet aggregation ex vivo was abolished for 15 and 60 minutes 
+respectively. Greater than 50% inhibition was maintained for 30 minutes and 2
+hours respectively. GR91669, therefore appears to be a potent, specific
+fibrinogen receptor antagonist in vitro and which is also active in vivo.
+
+DOI: 10.1016/0049-3848(94)90238-0 
+PMID: 7992238  [Indexed for MEDLINE]
+
+
+3994. Int Immunol. 1994 Aug;6(8):1133-42.
+
+3H11, a unique cell surface molecule involved in the function of the CD45RA+
+subset of CD4+ cells.
+
+Hirose T(1), Kobata T, Nojima Y, Schlossman SF, Morimoto C.
+
+Author information: 
+(1)Dana-Farber Cancer Institute, Department of Medicine, Harvard Medical School, 
+Boston, MA 02115.
+
+We have developed a mAb anti-3H11 by immunizing mice with a T cell line derived
+from the Callithrix jacchus (common marmoset). Anti-3H11 is reactive with
+approximately 48% of unfractionated T cells, 62% of CD4+ cells and 39% of CD8+
+cells. Among CD4 cells, anti-3H11 preferentially reacts with the CD45RA+ T cell
+subset. The majority of helper activity for pokeweed mitogen (PWM)-driven B cell 
+IgG synthesis and T cell response to recall antigen such as tetanus toxoid was
+found within the 3H11-CD4 cell population, whereas anti-3H11+CD4+ cells provided 
+poor helper function for PWM-driven B cell IgG synthesis and were more responsive
+to concanavalin A and autologous mixed lymphocyte reaction. Biochemical
+characterization showed that anti-3H11 precipitated a single protein band with a 
+relative molecular weight of 32,000 from 125I-surface labeled cell lysate.
+Biochemical, phenotypic and functional studies revealed that the 3H11 molecule
+appeared to be different from previously established molecules on the T cell
+surface. Interestingly, addition of anti-3H11 to the combination of CD4 and B
+cells in the presence of CD8 cells but not to the combination of CD4 and B cells 
+resulted in enhancement of the suppression of PWM-driven B cell IgG synthesis.
+Moreover, anti-3H11 had a co-mitogenic effect on T cells via the CD2 and CD3
+pathways, and this co-mitogenic activity is restricted to the CD45RA+ T cells.
+Taken together, our results show that the 3H11 molecule is a novel antigen which 
+may play an important role in the activation and function of the CD45RA+ subset
+of T cells.
+
+DOI: 10.1093/intimm/6.8.1133 
+PMID: 7981142  [Indexed for MEDLINE]
+

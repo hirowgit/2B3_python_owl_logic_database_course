@@ -1,0 +1,29 @@
+
+
+3611. J Gen Virol. 1998 Jan;79 ( Pt 1):41-5.
+
+Genomic analysis of two GB virus A variants isolated from captive monkeys.
+
+Erker JC(1), Desai SM, Leary TP, Chalmers ML, Montes CC, Mushahwar IK.
+
+Author information: 
+(1)Virus Discovery Group, Experimental Biology Research, Abbott Laboratories,
+North Chicago, IL 60064, USA. James.Erker@add.ssw.abbott.com
+
+The recent isolation of GB viruses A and B from GB agent infected tamarins and
+their lack of involvement in human hepatitis has sparked interest in the origin
+of these viruses. Several healthy non-human primate species have been shown to
+harbour sequences 52-79% identical to the GBV-A 5' nontranslated region. In this 
+paper we report the near genome length sequence of GBV-Amx 70047 and GBV-Atri
+1122. These sequences support previous observations about the genomic
+organization of GBV-A and provide insight into the genomic variability within
+this virus genus. Although the GBV-A variant polyproteins possess many motifs
+conserved between other members of the Flaviviridae, they do not encode a basic
+core-like protein. Amino acid sequence comparisons and phylogenetic analysis
+demonstrate variability within the GBV-A genus similar to that observed between
+hepatitis C virus (HCV) types. However, genomic organization and disease
+association demonstrate a closer evolutionary relationship to GBV-C than to HCV.
+
+DOI: 10.1099/0022-1317-79-1-41 
+PMID: 9460920  [Indexed for MEDLINE]
+

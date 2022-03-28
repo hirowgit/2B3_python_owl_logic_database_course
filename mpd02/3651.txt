@@ -1,0 +1,56 @@
+
+
+3651. J Cardiovasc Pharmacol. 1997 Aug;30(2):261-72.
+
+Antagonism of the GPIIb/IIIa receptor with the nonpeptidic molecule BIBU52:
+inhibition of platelet aggregation in vitro and antithrombotic efficacy in vivo.
+
+Guth BD(1), Seewaldt-Becker E, Himmelsbach F, Weisenberger H, Müller TH.
+
+Author information: 
+(1)Department of Biological Research, Dr. Karl Thomae GmbH, Biberach an der Riss,
+Germany.
+
+The glycoprotein (GP) IIb/IIIa (the alphallb beta3 integrin) found on platelets
+binds fibrinogen or von Willebrand factor when the platelet is activated, thereby
+mediating the aggregation of platelets. Blockade of the GPIIb/IIIa should prevent
+platelet aggregation independent of the substance or substances responsible for
+activating the platelets. This comprehensive inhibition of platelet aggregation
+is thought to be an effective therapeutic approach to various clinical
+thromboembolic syndromes. This study investigated the platelet inhibition
+provided by blocking GPIIb/IIIa by using a new nonpeptidic molecule, BIBU52, in
+both in vitro and in vivo models. BIBU52 competes with [125I]fibrinogen for
+binding sites on human platelets in a Ca2+ and pH-dependent manner with a 50%
+inhibitory concentration (IC50) of 35 +/- 12 nM. BIBU52 inhibited the aggregation
+of human platelets in platelet-rich plasma induced by collagen (1-2 microg/ml),
+adenosine diphosphate (ADP; 2.5 microM), and a thrombin receptor-activating
+peptide (TRAP; SFLLRNPNDKYEPF-NH2; 25 microM) with IC50 values of 82, 83, and 200
+nM, respectively. The inhibition of platelet aggregation by BIBU52 was found to
+be highly species dependent. BIBU52 inhibited aggregation in plasma from rhesus
+and marmoset monkeys with an IC50 of 150 nM but was totally ineffective in rat
+plasma. The selectivity of BIBU52 for inhibiting GPIIb/IIIa in comparison with
+other adhesion molecules was investigated in a human endothelial cell adhesion
+assay. The adhesion of human endothelial cells to matrices of vitronectin,
+fibronectin, collagen I, or laminin was not affected by concentrations as high as
+100 microM BIBU52; thus BIBU52 demonstrates a high selectivity for the human
+GPIIb/IIIa. The antithrombotic effect of BIBU52 in vivo was investigated in three
+animal models of recurrent arterial thrombus formation. In the guinea pig aorta, 
+BIBU52 inhibited thrombus formation dose dependently, with lack of thrombus
+formation for 1 h after a bolus dose of 1.0 mg/kg i.v.. Both acetylsalicylic acid
+and dazoxiben were less effective in this model. In pigs with recurrent thrombus 
+formation in the carotid artery, 1.0 mg/kg i.v. also inhibited thrombus
+formation. Heparin was not effective in the pig, and acetylsalicylic acid was
+only partially effective. In the pig, the dose of 1.0 mg/kg i.v. BIBU52 also was 
+associated with a 70% inhibition of collagen-induced platelet aggregation ex vivo
+but with only a transient prolongation of sublingual bleeding time to a maximum
+of 2.5-fold and without other hemodynamic effects. In the marmoset monkey, a dose
+of 10 microg/kg i.v. could abolish recurrent arterial thrombosis. Hemodynamic
+effects of BIBU52 in anesthetized pigs were not detected in doses < or = 10
+mg/kg. These data demonstrate that BIBU52 is a potent and selective antagonist of
+the human GPIIb/IIIa receptor and capable of substantial inhibition of platelet
+aggregation in vitro and ex vivo as well as inhibition of arterial thrombus
+formation in vivo in animal models of thrombosis.
+
+DOI: 10.1097/00005344-199708000-00017 
+PMID: 9269956  [Indexed for MEDLINE]
+

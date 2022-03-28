@@ -1,0 +1,45 @@
+
+
+2677. Haematologica. 2005 May;90(5):625-34.
+
+Anti-Gal-mediated targeting of human B lymphoma cells to antigen-presenting
+cells: a potential method for immunotherapy using autologous tumor cells.
+
+Manches O(1), Plumas J, Lui G, Chaperot L, Molens JP, Sotto JJ, Bensa JC, Galili 
+U.
+
+Author information: 
+(1)Research and Development Laboratory, EFS Rhône-Alpes, Grenoble, EA 2021,
+France.
+
+BACKGROUND AND OBJECTIVES: The residual tumor cells remaining after completion of
+standard chemotherapy and radiation treatment in B lymphoma patients, may be
+eradicated by active immunotherapy that stimulates tumor-specific T lymphocytes. 
+Irradiated autologous lymphoma cells expressing tumor-associated antigens (TAA)
+may serve as a potential tumor vaccine, provided that they are effectively
+targeted to the antigen-presenting cells (APC). We propose exploiting the natural
+anti-Gal antibody in order to target vaccinating tumor cells to APC. Anti-Gal
+constitutes 1% of IgG in human serum and interacts specifically with the
+alpha-gal epitope (Galalpha1-3Galphalbeta1-4GlcNAc-R).
+DESIGN AND METHODS: Alpha-gal epitopes were synthesized in vitro on the membrane 
+of primary lymphoma cells by using the recombinant glycosylation enzyme
+alpha1,3galactosyltransferase (alpha1,3GT). Processed tumor cells were opsonized 
+by purified anti-Gal antibodies and studied for uptake (phagocytosis) by APC
+including monocyte-derived macrophages and dendritic cells. Cross-presentation of
+tumor antigens after phagocytosis of processed MHC-I negative lymphoma cells was 
+measured by activation of a tumor-specific CD8+ T-cell line.
+RESULTS: We demonstrate synthesis of alpha-gal epitopes on freshly isolated B
+lymphoma cells of various types following the use of the recombinant enzyme
+alpha1,3GT. The subsequent binding of anti-Gal to the de novo synthesized
+alphagal epitopes opsonizes these tumor cells for effective uptake by macrophages
+and dendritic cells, through phagocytosis mediated by FcgammaR1 (CD64). Moreover,
+anti-Gal-mediated phagocytosis resulted in cross-presentation of TAA by dendritic
+cells.
+INTERPRETATION AND CONCLUSIONS: This study suggests that immunization with
+irradiated autologous lymphoma cells processed to express alpha-gal epitopes will
+result in anti-Gal-mediated, in vivo targeting of the autologous tumor vaccine to
+APC.
+
+
+PMID: 15921377  [Indexed for MEDLINE]
+

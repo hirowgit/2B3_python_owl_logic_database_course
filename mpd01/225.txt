@@ -1,0 +1,95 @@
+
+
+225. Immunogenetics. 2020 Dec;72(9-10):475-487. doi: 10.1007/s00251-020-01187-1. Epub 
+2020 Nov 12.
+
+Evolution of HLA-F and its orthologues in primate species: a complex tale of
+conservation, diversification and inactivation.
+
+Otting N(1)(2), de Groot NG(1)(2), Bontrop RE(3)(4)(5).
+
+Author information: 
+(1)Department of Comparative Genetics and Refinement, Biomedical Primate Research
+Centre, Rijswijk, The Netherlands.
+(2)IPD-MHC Database Nonhuman Primate Nomenclature Committee, Rijswijk, The
+Netherlands.
+(3)Department of Comparative Genetics and Refinement, Biomedical Primate Research
+Centre, Rijswijk, The Netherlands. bontrop@bprc.nl.
+(4)IPD-MHC Database Nonhuman Primate Nomenclature Committee, Rijswijk, The
+Netherlands. bontrop@bprc.nl.
+(5)Department of Biology, Theoretical Biology and Bioinformatics, Utrecht
+University, Utrecht, The Netherlands. bontrop@bprc.nl.
+
+HLA-F represents one of the nonclassical MHC class I molecules in humans. Its
+main characteristics involve low levels of polymorphism in combination with a
+restricted tissue distribution. This signals that the gene product executes a
+specialised function, which, however, is still poorly understood. Relatively
+little is known about the evolutionary equivalents of this gene in nonhuman
+primates, especially with regard to population data. Here we report a comparative
+genetic analysis of the orthologous genes of HLA-F in various great ape, Old
+World monkey (OWM), and New World monkey (NWM) species. HLA-F-related transcripts
+were found in all subjects studied. Low levels of polymorphism were encountered, 
+although the length of the predicted gene products may vary. In most species, one
+or two transcripts were discovered, indicating the presence of only one active
+F-like gene per chromosome. An exception was provided by a New World monkey
+species, namely, the common marmoset. In this species, the gene has been subject 
+to duplication, giving rise to up to six F-like transcripts per animal. In
+humans, great apes, and OWM, and probably the majority of the NWM species, the
+evolutionary equivalents of the HLA-F gene experienced purifying selection. In
+the marmoset, however, the gene was initially duplicated, but the expansion was
+subjected afterwards to various mechanisms of genetic inactivation, as evidenced 
+by the presence of pseudogenes and an array of genetic artefacts in a section of 
+the transcripts.
+
+DOI: 10.1007/s00251-020-01187-1 
+PMCID: PMC7725694
+PMID: 33184728  [Indexed for MEDLINE]
+
+
+226. Xenobiotica. 2021 Mar;51(3):316-323. doi: 10.1080/00498254.2020.1849872. Epub
+2020 Nov 19.
+
+Plasma and hepatic concentrations of acetaminophen and its primary conjugates
+after oral administrations determined in experimental animals and humans and
+extrapolated by pharmacokinetic modeling.
+
+Toda A(1), Shimizu M(2), Uehara S(2)(3), Sasaki T(2), Miura T(2), Mogi M(1)(4),
+Utoh M(1)(2)(5), Suemizu H(3), Yamazaki H(2).
+
+Author information: 
+(1)Pharmacokinetics and Bioanalysis Center, Shin Nippon Biomedical Laboratories, 
+Ltd., Wakayama , Japan.
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University , Tokyo , Japan.
+(3)Laboratory Animal Research Department, Central Institute for Experimental
+Animals , Kawasaki , Japan.
+(4)Drug Safety Research Laboratories, Shin Nippon Biomedical Laboratories, Ltd., 
+Kagoshima , Japan.
+(5)Scientific Affairs Division, Shin Nippon Biomedical Laboratories, Ltd., Tokyo 
+, Japan.
+
+Plasma concentrations of acetaminophen, its glucuronide and sulfate conjugates,
+and cysteinyl acetaminophen were experimentally determined after oral
+administrations of 10 mg/kg in humanised-liver mice, control mice, rats, common
+marmosets, cynomolgus monkeys, and minipigs; the results were compared with
+reported human pharmacokinetic data. Among the animals tested, only rats
+predominantly converted acetaminophen to sulfate conjugates, rather than
+glucuronide conjugates. In contrast, the values of area under the plasma
+concentration curves of acetaminophen, its glucuronide and sulfate conjugates,
+and cysteinyl acetaminophen after oral administration of acetaminophen in
+marmosets and minipigs were consistent with those reported in humans under the
+present conditions. Physiologically based pharmacokinetic (PBPK) models
+(consisting of the gut, liver, and central compartments) for acetaminophen and
+its primary metabolite could reproduce and estimate, respectively, the plasma and
+hepatic concentrations of acetaminophen in experimental animals and humans after 
+single virtual oral doses. The values of area under the curves of hepatic
+concentrations of acetaminophen estimated using PBPK models were correlated with 
+the measured levels of cysteinyl acetaminophen (a deactivated metabolite) in
+plasma fractions in these species. Consequently, using simple PBPK models and
+plasma data to predict hepatic chemical concentrations after oral doses could be 
+helpful as an indicator of in vivo possible hepatotoxicity of chemicals such as
+acetaminophen.
+
+DOI: 10.1080/00498254.2020.1849872 
+PMID: 33179995  [Indexed for MEDLINE]
+

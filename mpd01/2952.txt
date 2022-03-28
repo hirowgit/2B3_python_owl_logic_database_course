@@ -1,0 +1,86 @@
+
+
+2952. Curr Med Chem. 2003 Jun;10(12):1065-76.
+
+Development of tridentate iron chelators: from desferrithiocin to ICL670.
+
+Nick H(1), Acklin P, Lattmann R, Buehlmayer P, Hauffe S, Schupp J, Alberti D.
+
+Author information: 
+(1)Novartis Pharma Ltd., Basel, Switzerland. hanspeter.nick@pharma.novartis.com
+
+Successful treatment of beta-thalassemia requires two key elements: blood
+transfusion and iron chelation. Regular blood transfusions considerably expand
+the lifespan of patients, however, without the removal of the consequential
+accumulation of body iron, few patients live beyond their second decade. In 1963,
+the introduction of desferrioxamine (DFO), a hexadentate chelator, marked a
+breakthrough in the treatment of beta-thalassemia. DFO significantly reduces body
+iron burden and iron-related morbidity and mortality. DFO is still the only drug 
+for general use in the treatment of transfusion dependent iron overload. However,
+its very short plasma half-life and poor oral activity necessitate special modes 
+of application (subcutaneous or intravenous infusion) which are inconvenient, can
+cause local reactions and are difficult to be accepted by many patients. Over the
+past four decades, many different laboratories have invested major efforts in the
+identification of orally active iron chelators from several hundreds of molecules
+of synthetic, microbial or plant origin. The discovery of ferrithiocin in 1980,
+followed by the synthesis of the tridentate chelator desferrithiocin and proof of
+its oral activity raised a lot of hope. However, the compound proved to be toxic 
+in animals. Over a period of about fifteen years many desferrithiocin derivatives
+and molecules with broader alterations led to the discovery of numerous new
+compounds some of which were much better tolerated and were more efficacious than
+desferrithiocin in animals, however, none was safe enough to proceed to the
+clinical use. The discovery of a new chemical class of iron chelators: The
+bis-hydroxyphenyltriazoles re-energized the search for a safe tridentate
+chelator. The basic structure of this completely new chemical class of iron
+chelators was discovered by a combination of rational design, intuition and
+experience. More than forty derivatives of the triazole series were synthesized
+at Novartis. These compounds were evaluated, together with more than 700
+chelators from various chemical classes. Using vigorous selection criteria with a
+focus on tolerability, the tridentate chelator
+4-[(3,5-Bis-(2-hydroxyphenyl)-1,2,4)triazol-1-yl]-benzoic acid (ICL670) emerged
+as an entity which best combined high oral potency and tolerability in animals.
+ICL670 is presently being evaluated in the clinic.
+
+DOI: 10.2174/0929867033457610 
+PMID: 12678677  [Indexed for MEDLINE]
+
+
+2953. Behav Brain Res. 2003 Apr 17;141(1):51-62.
+
+Unilateral hippocampal and inferotemporal cortex lesions in opposite hemispheres 
+impair learning of single-pair visual discriminations as well as visuovisual
+conditional tasks in monkeys.
+
+Barefoot HC(1), Maclean CJ, Baker HF, Ridley RM.
+
+Author information: 
+(1)Department of Biosciences, University of Hertfordshire, College Lane, Hatfield
+AL10 9AB, UK.
+
+Monkeys with unilateral ablations of the inferotemporal (IT) cortex were not
+impaired on learning or retention of single-pair object discriminations or
+visuovisual conditional tasks. Addition of an excitotoxic hippocampal lesion to
+the hemisphere opposite to the IT ablation impaired retention and acquisition of 
+single-pair object discriminations and visuovisual conditional tasks. Histology
+revealed no areas of bilaterally symmetrical damage. Previous experiments have
+shown that bilateral excitotoxic hippocampal lesions do not impair single-pair
+object discriminations although they do produce a substantial impairment on
+visuovisual conditional tasks. Bilateral IT ablations produce impairment on
+single-pair object discrimination tasks. It is argued that the hippocampus in the
+hemisphere with the IT ablation is deprived of feed-forward visual input and that
+this, in addition to the contralateral hippocampal lesion, accounts for the
+impairment on the visuovisual conditional tasks. It is also argued that feed-back
+projections from the hippocampus to the IT cortex influence the learning of
+single-pair object discriminations. This influence may be difficult to
+demonstrate by the addition of hippocampal lesions to IT lesions because of the
+substantial effect of the IT lesion alone. It may be difficult to demonstrate by 
+bilateral hippocampal lesions alone since the effect may be below that which
+generates an observable impairment. Nonetheless, an effect may be seen when a
+hippocampal lesion is made in monkeys with some IT damage, as in this experiment,
+as well as by the general observation that large lesions of the temporal lobes
+produce larger perceptuo-mnemonic impairments than lesions confined to the
+hippocampus or temporal neocortex in monkeys and man.
+
+DOI: 10.1016/s0166-4328(02)00320-0 
+PMID: 12672559  [Indexed for MEDLINE]
+

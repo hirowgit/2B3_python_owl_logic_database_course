@@ -1,0 +1,92 @@
+
+
+703. Front Behav Neurosci. 2018 Mar 16;12:46. doi: 10.3389/fnbeh.2018.00046.
+eCollection 2018.
+
+A Method to Train Marmosets in Visual Working Memory Task and Their Performance.
+
+Nakamura K(1), Koba R(1), Miwa M(1), Yamaguchi C(1), Suzuki H(1), Takemoto A(1).
+
+Author information: 
+(1)Cognitive Neuroscience Section, Primate Research Institute, Kyoto University, 
+Inuyama, Japan.
+
+Learning and memory processes are similarly organized in humans and monkeys;
+therefore, monkeys can be ideal models for analyzing human aging processes and
+neurodegenerative diseases such as Alzheimer's disease. With the development of
+novel gene modification methods, common marmosets (Callithrix jacchus) have been 
+suggested as an animal model for neurodegenerative diseases. Furthermore, the
+common marmoset's lifespan is relatively short, which makes it a practical animal
+model for aging. Working memory deficits are a prominent symptom of both dementia
+and aging, but no data are currently available for visual working memory in
+common marmosets. The delayed matching-to-sample task is a powerful tool for
+evaluating visual working memory in humans and monkeys; therefore, we developed a
+novel procedure for training common marmosets in such a task. Using visual
+discrimination and reversal tasks to direct the marmosets' attention to the
+physical properties of visual stimuli, we successfully trained 11 out of 13
+marmosets in the initial stage of the delayed matching-to-sample task and
+provided the first available data on visual working memory in common marmosets.
+We found that the marmosets required many trials to initially learn the task
+(median: 1316 trials), but once the task was learned, the animals needed fewer
+trials to learn the task with novel stimuli (476 trials or fewer, with the
+exception of one marmoset). The marmosets could retain visual information for up 
+to 16 s. Our novel training procedure could enable us to use the common marmoset 
+as a useful non-human primate model for studying visual working memory deficits
+in neurodegenerative diseases and aging.
+
+DOI: 10.3389/fnbeh.2018.00046 
+PMCID: PMC5864906
+PMID: 29615876 
+
+
+704. PLoS One. 2018 Apr 3;13(4):e0195316. doi: 10.1371/journal.pone.0195316.
+eCollection 2018.
+
+A novel calcimimetic agent, evocalcet (MT-4580/KHK7580), suppresses the
+parathyroid cell function with little effect on the gastrointestinal tract or CYP
+isozymes in vivo and in vitro.
+
+Kawata T(1), Tokunaga S(1), Murai M(2), Masuda N(3), Haruyama W(1), Shoukei Y(2),
+Hisada Y(4), Yanagida T(4), Miyazaki H(4), Wada M(5), Akizawa T(6), Fukagawa
+M(7).
+
+Author information: 
+(1)Nephrology Research Laboratories, Nephrology R&D Unit, R&D Division, Kyowa
+Hakko Kirin Co., Ltd., Shizuoka, Japan.
+(2)Research Core Function Laboratories, Research Functions Unit, R&D Division,
+Kyowa Hakko Kirin Co., Ltd., Shizuoka, Japan.
+(3)Takasaki Plant, Production Division, Kyowa Hakko Kirin Co., Ltd., Gunma,
+Japan.
+(4)Research Unit, Innovative Research Division, Mitsubishi Tanabe Pharma
+Corporation., Kanagawa, Japan.
+(5)Medical Affairs Department, Kyowa Hakko Kirin Co., Ltd., Tokyo, Japan.
+(6)Division of Nephrology, Department of Medicine, Showa University School of
+Medicine, Tokyo, Japan.
+(7)Division of Nephrology, Endocrinology and Metabolism, Tokai University School 
+of Medicine, Kanagawa, Japan.
+
+Cinacalcet hydrochloride (cinacalcet), an oral calcimimetic agent has been widely
+used for the management of secondary hyperparathyroidism (SHPT) in chronic kidney
+disease (CKD). In sharp contrast to vitamin D receptor activators, cinacalcet
+suppresses SHPT without inducing hypercalcemia or hyperphosphatemia.
+Nevertheless, some patients remain refractory to SHPT with this agent, as the
+dose cannot be sufficiently increased due to gastrointestinal symptoms. In order 
+to resolve this issue, we have developed a newly synthesized calcimimetic agent, 
+evocalcet (MT-4580/KHK7580). In a rat model of CKD induced by 5/6 nephrectomy,
+oral administration of evocalcet efficiently suppressed the secretion of
+parathyroid hormone (PTH). With regard to the gastro-intestinal effects,
+cinacalcet induced a significant delay in gastric emptying in rats, while
+evocalcet did no marked effects on it. Evocalcet also demonstrated the less
+induction of emesis compared to cinacalcet in common marmosets. The
+pharmacological effects of evocalcet were observed at lower doses because of its 
+higher bioavailability than cinacalcet, which may have contributed to the reduced
+GI tract symptoms. In addition, evocalcet showed no substantial direct inhibition
+of any CYP isozymes in in vitro liver microsome assay, suggesting a better
+profile in drug interactions than cinacalcet that inhibits cytochrome P450 (CYP) 
+2D6. These findings suggest that evocalcet can be a better alternative to
+cinacalcet, an oral calcimimetic agent, with a wider safety margin.
+
+DOI: 10.1371/journal.pone.0195316 
+PMCID: PMC5882164
+PMID: 29614098  [Indexed for MEDLINE]
+

@@ -1,0 +1,34 @@
+
+
+2425. J Gen Virol. 2007 Mar;88(Pt 3):895-902. doi: 10.1099/vir.0.82467-0.
+
+A chimeric GB virus B encoding the hepatitis C virus hypervariable region 1 is
+infectious in vivo.
+
+Haqshenas G(1), Dong X(2)(1), Netter H(2), Torresi J(3), Gowans EJ(2)(1).
+
+Author information: 
+(1)The Macfarlane Burnet Institute, GPO Box 2284, Melbourne, VIC 3001, Australia.
+(2)Department of Microbiology, Monash University, Clayton, VIC 3800, Australia.
+(3)Department of Medicine (RMH/WH), University of Melbourne, Centre for Clinical 
+Research Excellence, Royal Melbourne Hospital, Parkville, VIC, Australia.
+
+Two GB virus B (GBV-B) chimeric genomes, GBV-HVR and GBV-HVRh (with a hinge),
+containing the coding region of the immunodominant hypervariable region 1 (HVR1) 
+of the E2 envelope protein of Hepatitis C virus (HCV) were constructed.
+Immunoblot analysis confirmed that HVR1 was anchored to the GBV-B E2 protein. To 
+investigate the replication competence and in vivo stability of in
+vitro-generated chimeric RNA transcripts, two naïve marmosets were inoculated
+intrahepatically with the transcripts. The GBV-HVR chimeric genome was detectable
+for 2 weeks post-inoculation (p.i.), whereas GBV-HVRh reverted to wild type 1
+week p.i. Sequencing analysis of the HVR1 and flanking regions from GBV-HVR RNA
+isolated from marmoset serum demonstrated that the HVR1 insert remained unaltered
+in the GBV-HVR chimera for 2 weeks. Inoculation of a naïve marmoset with serum
+collected at 1 week p.i. also resulted in viraemia and confirmed that the serum
+contained infectious particles. All animals cleared the infection by 3 weeks p.i.
+and remained negative for the remaining weeks. The chimera may prove useful for
+the in vivo examination of any HCV HVR1-based vaccine candidates.
+
+DOI: 10.1099/vir.0.82467-0 
+PMID: 17325362  [Indexed for MEDLINE]
+

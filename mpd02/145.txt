@@ -1,0 +1,42 @@
+
+
+145. Front Syst Neurosci. 2021 Apr 15;15:645308. doi: 10.3389/fnsys.2021.645308.
+eCollection 2021.
+
+Motility Profile of Captive-Bred Marmosets Revealed by a Long-Term In-Cage
+Monitoring System.
+
+Koizumi M(1), Nogami N(1), Owari K(1), Kawanobe A(1), Nakatani T(1), Seki K(1).
+
+Author information: 
+(1)Department of Neurophysiology, National Institute of Neuroscience, National
+Center of Neurology and Psychiatry, Tokyo, Japan.
+
+A quantitative evaluation of motility is crucial for studies employing
+experimental animals. Here, we describe the development of an in-cage motility
+monitoring method for new world monkeys using off-the-shelf components, and
+demonstrate its capability for long-term operation (e.g., a year). Based on this 
+novel system, we characterized the motility of the common marmoset over different
+time scales (seconds, hours, days, and weeks). Monitoring of seven young animals 
+belonging to two different age groups (sub-adult and young-adult) over a 231-day 
+period revealed: (1) strictly diurnal activity (97.3% of movement during
+daytime), (2) short-cycle (∼20 s) transition in activity, and (3) bimodal diurnal
+activity including a "siesta" break. Additionally, while the mean duration of
+short-cycle activity, net daily activity, and diurnal activity changed over the
+course of development, 24-h periodicity remained constant. Finally, the method
+allowed for detection of progressive motility deterioration in a transgenic
+marmoset. Motility measurement offers a convenient way to characterize
+developmental and pathological changes in animals, as well as an economical and
+labor-free means for long-term evaluation in a wide range of basic and
+translational studies.
+
+Copyright © 2021 Koizumi, Nogami, Owari, Kawanobe, Nakatani and Seki.
+
+DOI: 10.3389/fnsys.2021.645308 
+PMCID: PMC8081884
+PMID: 33935661 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

@@ -1,0 +1,107 @@
+
+
+88. J Neurosci. 2021 Sep 29;41(39):8197-8209. doi: 10.1523/JNEUROSCI.0824-21.2021.
+Epub 2021 Aug 20.
+
+Visual Cortical Area MT Is Required for Development of the Dorsal Stream and
+Associated Visuomotor Behaviors.
+
+Kwan WC(1), Chang CK(1), Yu HH(2), Mundinano IC(1), Fox DM(1), Homman-Ludiye
+J(1), Bourne JA(3).
+
+Author information: 
+(1)Australian Regenerative Medicine Institute, Monash University, Clayton,
+Victoria 3800, Australia.
+(2)Department of Physiology, Monash University, Clayton, Victoria 3800,
+Australia.
+(3)Australian Regenerative Medicine Institute, Monash University, Clayton,
+Victoria 3800, Australia James.Bourne@monash.edu.
+
+The middle temporal (MT) area of the extrastriate visual cortex has long been
+studied in adulthood for its distinctive physiological properties and function as
+a part of the dorsal stream, yet interestingly it possesses a similar maturation 
+profile as the primary visual cortex (V1). Here, we examined whether an
+early-life lesion in MT of marmoset monkeys (six female, two male) altered the
+dorsal stream development and the behavioral precision of reaching-to-grasp
+sequences. We observed permanent changes in the anatomy of cortices associated
+with both reaching (parietal and medial intraparietal areas) and grasping
+(anterior intraparietal area), as well as in reaching-and-grasping behaviors. In 
+addition, we observed a significant impact on the anatomy of V1 and the direction
+sensitivity of V1 neurons in the lesion projection zone. These findings indicate 
+that area MT is a crucial node in the development of primate vision, affecting
+both V1 and areas in the dorsal visual pathway known to mediate visually guided
+manual behaviors.SIGNIFICANCE STATEMENT Previous studies have identified a role
+for the MT area of the visual cortex in perceiving motion, yet none have examined
+its central role in the development of the visual cortex and in the establishment
+of visuomotor behaviors. To address this, we used a unilateral MT lesion model in
+neonatal marmosets before examining the anatomic, physiological, and behavioral
+consequences. In adulthood, we observed perturbations in goal-orientated
+reach-and-grasp behavior, altered direction selectivity of V1 neurons, and
+changes in the cytoarchitecture throughout dorsal stream areas. This study
+highlights the importance of MT as a central node in visual system development
+and consequential visuomotor activity.
+
+Copyright © 2021 the authors.
+
+DOI: 10.1523/JNEUROSCI.0824-21.2021 
+PMCID: PMC8482858 [Available on 2022-03-29]
+PMID: 34417331  [Indexed for MEDLINE]
+
+
+89. Neuropharmacology. 2021 Oct 15;198:108755. doi: 10.1016/j.neuropharm.2021.108755.
+Epub 2021 Aug 17.
+
+Neuron-specific responses to acetylcholine within the spinal dorsal horn circuits
+of rodent and primate.
+
+Sykes MJ(1), Kekesi OS(1), Wong YT(2), Zhao FY(3), Spanswick D(4), Imlach WL(5).
+
+Author information: 
+(1)Department of Physiology, Monash University, Melbourne, VIC, 3800, Australia; 
+Monash Biomedicine Discovery Institute, Melbourne, VIC, 3800, Australia.
+(2)Department of Physiology, Monash University, Melbourne, VIC, 3800, Australia; 
+Monash Biomedicine Discovery Institute, Melbourne, VIC, 3800, Australia;
+Department of Electrical and Computer Systems Engineering, Melbourne, VIC, 3800, 
+Australia.
+(3)NeuroSolutions Ltd, Coventry, CV4 7AL, United Kingdom.
+(4)Department of Physiology, Monash University, Melbourne, VIC, 3800, Australia; 
+Monash Biomedicine Discovery Institute, Melbourne, VIC, 3800, Australia;
+University of Warwick, Warwick Medical School, Coventry, CV4 7AL, United Kingdom.
+(5)Department of Physiology, Monash University, Melbourne, VIC, 3800, Australia; 
+Monash Biomedicine Discovery Institute, Melbourne, VIC, 3800, Australia.
+Electronic address: wendy.imlach@monash.edu.
+
+Excitatory and inhibitory neurotransmission within the spinal dorsal horn is
+tightly controlled to regulate transmission of nociceptive signals to the brain. 
+One aspect of this control is modulation of neuronal activity through cholinergic
+signaling. Nociceptive neurons in the dorsal horn express both nicotinic and
+muscarinic cholinergic receptors and activation of these receptors reduces pain
+in humans, while inhibition leads to nociceptive hypersensitivity. At a cellular 
+level, acetylcholine (ACh) has diverse effects on excitability which is dependent
+on the receptor and neuronal subtypes involved. In the present study we sought to
+characterize the electrophysiological responses of specific subsets of lamina II 
+interneurons from rat and marmoset spinal cord. Neurons were grouped by
+morphology and by action potential firing properties. Whole-cell voltage-clamp
+recordings from lamina II dorsal horn neurons of adult rats showed that bath
+applied acetylcholine increased, decreased or had no effect on spontaneous
+synaptic current activity in a cell-type specific manner. ACh modulated
+inhibitory synaptic activity in 80% of neurons, whereas excitatory synaptic
+activity was affected in less than 50% of neurons. In whole-cell current clamp
+recordings, brief somatic application of ACh induced cell-type specific responses
+in 79% of rat lamina II neurons, which included: depolarization and action
+potential firing, subthreshold membrane depolarization, biphasic responses
+characterized by transient depolarization followed by hyperpolarization and
+membrane hyperpolarization alone. Similar responses were seen in marmoset lamina 
+II neurons and the properties of each neuron group were consistent across
+species. ACh-induced hyperpolarization was blocked by the muscarinic antagonist
+atropine and all forms of acetylcholine-induced depolarization were blocked by
+the nicotinic antagonist mecamylamine. The cholinergic system plays an important 
+role in regulating nociception and this study contributes to our understanding of
+how circuit activity is controlled by ACh at a cellular level in primate and
+rodent spinal cord.
+
+Copyright © 2021 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.neuropharm.2021.108755 
+PMID: 34416268  [Indexed for MEDLINE]
+

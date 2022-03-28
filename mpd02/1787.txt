@@ -1,0 +1,35 @@
+
+
+1787. J Virol. 2012 Feb;86(4):2109-20. doi: 10.1128/JVI.06190-11. Epub 2011 Dec 7.
+
+Development of a novel nonhuman primate model for Rift Valley fever.
+
+Smith DR(1), Bird BH, Lewis B, Johnston SC, McCarthy S, Keeney A, Botto M,
+Donnelly G, Shamblin J, Albariño CG, Nichol ST, Hensley LE.
+
+Author information: 
+(1)US Army Medical Research Institute of Infectious Diseases, Fort Detrick,
+Maryland, USA. darci.smith1@us.army.mil
+
+Rift Valley fever (RVF) virus (RVFV) can cause severe human disease characterized
+by either acute-onset hepatitis, delayed-onset encephalitis, retinitis and
+blindness, or a hemorrhagic syndrome. The existing nonhuman primate (NHP) model
+for RVF utilizes an intravenous (i.v.) exposure route in rhesus macaques (Macaca 
+mulatta). Severe disease in these animals is infrequent, and large cohorts are
+needed to observe significant morbidity and mortality. To overcome these
+drawbacks, we evaluated the infectivity and pathogenicity of RVFV in the common
+marmoset (Callithrix jacchus) by i.v., subcutaneous (s.c.), and intranasal
+exposure routes to more closely mimic natural exposure. Marmosets were more
+susceptible to RVFV than rhesus macaques and experienced higher rates of
+morbidity, mortality, and viremia and marked aberrations in hematological and
+chemistry values. An overwhelming infection of hepatocytes was a major
+consequence of infection of marmosets by the i.v. and s.c. exposure routes.
+Additionally, these animals displayed signs of hemorrhagic manifestations and
+neurological impairment. Based on our results, the common marmoset model more
+closely resembles severe human RVF disease and is therefore an ideal model for
+the evaluation of potential vaccines and therapeutics.
+
+DOI: 10.1128/JVI.06190-11 
+PMCID: PMC3302397
+PMID: 22156530  [Indexed for MEDLINE]
+

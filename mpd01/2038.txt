@@ -1,0 +1,66 @@
+
+
+2038. Mult Scler. 2010 May;16(5):537-48. doi: 10.1177/1352458509360362. Epub 2010 Mar
+1.
+
+Focal and diffuse cortical degenerative changes in a marmoset model of multiple
+sclerosis.
+
+Pomeroy IM(1), Jordan EK, Frank JA, Matthews PM, Esiri MM.
+
+Author information: 
+(1)Department of Clinical Neurology, University of Oxford, Oxford, UK.
+ian.pomeroy@nhs.net
+
+BACKGROUND: Degenerative features, such as neuronal, glial, synaptic and axonal
+loss, have been identified in neocortical and other grey matter structures in
+patients with multiple sclerosis, but mechanisms for neurodegeneration are
+unclear. Cortical demyelinating lesions are a potential cause of this
+degeneration, but the pathological and clinical significance of these lesions is 
+uncertain as they remain difficult to identify and study in vivo. In this study
+we aimed to describe and quantify cellular and subcellular pathology in the
+cortex of myelin oligodendrocyte glycoprotein-induced marmoset experimental
+autoimmune encephalomyelitis using quantitative immunohistochemical methods.
+RESULTS: We found evidence of diffuse axonal damage occurring throughout cortical
+grey matter with evidence for synaptic loss and gliosis and a 13.6% decrease in
+neuronal size and occurring in deep cortical layers. Evidence of additional
+axonal damage and a 29.6-36.5% loss of oligodendrocytes was found in demyelinated
+cortical lesions. Leucocortical lesions also showed neuronal loss of 22.2% and a 
+15.8% increase in oligodendrocyte size.
+CONCLUSIONS: The marmoset experimental autoimmune encephalomyelitis model,
+therefore, shows both focal and generalized neurodegeneration. The generalized
+changes cannot be directly related to focal lesions, suggesting that they are
+either a consequence of diffusible inflammatory factors or secondary to remote
+lesions acting through trans-synaptic or retrograde degeneration.
+
+DOI: 10.1177/1352458509360362 
+PMCID: PMC2874633
+PMID: 20194580  [Indexed for MEDLINE]
+
+
+2039. Neuroreport. 2010 Mar 31;21(5):328-32. doi: 10.1097/WNR.0b013e3283360ba8.
+
+Neurofeedback training on sensorimotor rhythm in marmoset monkeys.
+
+Philippens IH(1), Vanwersch RA.
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Centre, Rijswijk, The
+Netherlands. philippens@bprc.nl
+
+Neurofeedback research in a model closely related to humans is recommended to
+rule out placebo effects and unspecific factors bridging the gap between
+nonvalidated empirical and standardized controlled research. In this article,
+telemetric sensorimotor rhythm (SMR; 11-14 Hz) feedback training in the marmoset 
+monkey is applied to examine the monkey's capability to voluntary control their
+brain activity. Four monkeys, provided with two epidural bioelectric electrodes
+above the sensorimotor cortex, were trained with positive reinforcement on SMR
+measured by online analyses of 1.28 s electroencephalogram epochs in 30-min
+sessions. These monkeys learned within five sessions to increase their alpha
+activity. The first evidence of nonhuman primates having an operant control over 
+the SMR is provided, an initial step for a much-needed scientific basis to
+neurofeedback.
+
+DOI: 10.1097/WNR.0b013e3283360ba8 
+PMID: 20186109  [Indexed for MEDLINE]
+

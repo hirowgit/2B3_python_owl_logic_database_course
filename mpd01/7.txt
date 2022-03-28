@@ -1,0 +1,109 @@
+
+
+7. Behav Brain Res. 2022 May 3;425:113816. doi: 10.1016/j.bbr.2022.113816. Epub 2022
+Feb 26.
+
+Preserved intersegmental coordination during locomotion after cervical spinal
+cord injury in common marmosets.
+
+Sato Y(1), Kondo T(2), Uchida A(3), Sato K(3), Yoshino-Saito K(4), Nakamura M(5),
+Okano H(2), Ushiba J(6).
+
+Author information: 
+(1)Graduate School of Science and Technology, Keio University, 3-14-1 Hiyoshi,
+Kohoku-ku, Yokohama, Kanagawa 223-8522, Japan; Laboratory for Marmoset Neural
+Architecture, RIKEN Center for Brain Science, 2-1 Hirosawa, Wako City, Saitama
+351-0198, Japan.
+(2)Department of Physiology, Keio University School of Medicine, 35 Shinanomachi,
+Shinjuku-ku, Tokyo 160-8582, Japan.
+(3)Graduate School of Science and Technology, Keio University, 3-14-1 Hiyoshi,
+Kohoku-ku, Yokohama, Kanagawa 223-8522, Japan.
+(4)Department of Physiology, Keio University School of Medicine, 35 Shinanomachi,
+Shinjuku-ku, Tokyo 160-8582, Japan; Japan Society for the Promotion of Science,
+Kojimachi Business Center Building, 5-3-1 Kojimachi, Chiyoda-ku, Tokyo 102-0083, 
+Japan.
+(5)Department of Orhopaedic Surgery, Keio University School of Medicine, 35
+Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan.
+(6)Department of Biosciences and Informatics, Faculty of Science and Technology, 
+Keio University, 3-14-1 Hiyoshi, Kohoku-ku, Yokohama, Kanagawa 223-8522, Japan.
+Electronic address: ushiba@brain.bio.keio.ac.jp.
+
+It is known that primates including human regain some locomotor function after a 
+partial spinal cord injury, but the locomotor pattern is different from before
+the injury. Although these observations have many implications for improving
+rehabilitative strategies, these mechanisms are not well understood. In this
+study, we used a common marmoset hemisection SCI model to examine temporal
+changes in locomotor pattern, in particular, intersegmental coordination of left 
+hindlimb. Marmoset showed loss of detectable function in the left forelimb and
+hindlimb after left unilateral hemisection of cervical spinal cord. At two weeks 
+after injury, weight-bearing of the left forelimb during locomotion was limited, 
+but the left hindlimb was able to plantar step. Then marmosets showed gradual
+recovery in walking ability, but kinematics analysis showed differences in the
+endpoint trajectory and joint angle movement. Furthermore, intersegmental
+coordination in left hindlimb represented by planar covariation was preserved
+over time after the injury. Previous studies have reported that planar covariance
+is disrupted in patients with stroke or SCI, and that improvement in planarity
+correlates with recovery in walking ability after rehabilitation. In this study, 
+quadrupedal marmosets were able to walk without loss of balance even after SCI;
+the different balance needs of bipedal and quadrupedal walkers may lead to
+differences in planar covariation. Our results show that planar covariation was
+preserved at all time points after the cervical unilateral hemisection.
+
+Copyright © 2022 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbr.2022.113816 
+PMID: 35231498 
+
+
+8. Lab Anim Res. 2022 Feb 28;38(1):6. doi: 10.1186/s42826-022-00115-6.
+
+Diagnosis and treatment of macrocytic anemia in a perinatal common marmoset: a
+case report.
+
+Kim JM(1)(2)(3)(4), Kwak J(4)(5), Lim HJ(4)(5), Kim JI(4)(5), Kang
+BC(6)(7)(8)(9).
+
+Author information: 
+(1)Xenotransplantation Research Center, Seoul National University College of
+Medicine, Seoul, Korea.
+(2)Institute of Endemic Diseases, Seoul National University College of Medicine, 
+Seoul, Korea.
+(3)Cancer Research Institute, Seoul National University College of Medicine,
+Seoul, Korea.
+(4)Department of Experimental Animal Research, Biomedical Research Institute,
+Seoul National University Hospital, Seoul, 110-799, Korea.
+(5)Graduate School of Translational Medicine, Seoul National University College
+of Medicine, 101 Daehakro, Jongno-gu, Seoul, 03080, Korea.
+(6)Department of Experimental Animal Research, Biomedical Research Institute,
+Seoul National University Hospital, Seoul, 110-799, Korea. bckang@snu.ac.kr.
+(7)Graduate School of Translational Medicine, Seoul National University College
+of Medicine, 101 Daehakro, Jongno-gu, Seoul, 03080, Korea. bckang@snu.ac.kr.
+(8)Biomedical Center for Animal Resource and Development, Seoul National
+University College of Medicine, Seoul, Korea. bckang@snu.ac.kr.
+(9)Designed Animal and Transplantation Research Institute, Institute of Green Bio
+Science Technology, Seoul National University, Pyeongchang-gun, Gangwon-do,
+Korea. bckang@snu.ac.kr.
+
+BACKGROUND: The common marmoset is widely used in current biomedical research for
+various research fields. We observed macrocytic anemia in a perinatal common
+marmoset with gradual weight loss and diarrhea. The objective of this case report
+is to describe the diagnosis and treatment of macrocytic anemia in a perinatal
+common marmoset.
+CASE PRESENTATION: A 7-year-old female common marmoset showed clinical signs of
+gradual weight loss and intermittent diarrhea beginning 3 months after giving
+birth. Macrocytic anemia was diagnosed due to a decreased red blood cell (RBC)
+count, low hemoglobin level, and increased mean corpuscular volume (MCV).
+Multivitamins containing cobalamin and folate were administered for 7 days, and
+the patient's RBC count recovered to near the normal range with this treatment.
+CONCLUSIONS: Macrocytic anemia can be diagnosed by evaluating the MCV on a
+complete blood count (CBC) and cobalamin or folate levels and be treated by
+supplementation with cobalamin and folate. Such supplements may be needed during 
+pregnancy and lactation in female common marmosets and/or in animals with chronic
+diarrhea.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s42826-022-00115-6 
+PMCID: PMC8883691
+PMID: 35227328 
+

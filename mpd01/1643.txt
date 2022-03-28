@@ -1,0 +1,66 @@
+
+
+1643. PLoS One. 2012;7(10):e47895. doi: 10.1371/journal.pone.0047895. Epub 2012 Oct 24.
+
+An operant conditioning method for studying auditory behaviors in marmoset
+monkeys.
+
+Remington ED(1), Osmanski MS, Wang X.
+
+Author information: 
+(1)Department of Biomedical Engineering, The Johns Hopkins University School of
+Medicine, Baltimore, Maryland, United States of America. evan.remington@gmail.com
+
+The common marmoset (Callithrix jacchus) is a small New World primate that has
+increasingly been used as a non-human model in the fields of sensory, motor, and 
+cognitive neuroscience. However, little knowledge exists regarding behavioral
+methods in this species. Developing an understanding of the neural basis of
+perception and cognition in an animal model requires measurement of both brain
+activity and behavior. Here we describe an operant conditioning behavioral
+training method developed to allow controlled psychoacoustic measurements in
+marmosets. We demonstrate that marmosets can be trained to consistently perform a
+Go/No-Go auditory task in which a subject licks at a feeding tube when it detects
+a sound. Correct responses result in delivery of a food reward. Crucially, this
+operant conditioning task generates little body movement and is well suited for
+pairing behavior with single-unit electrophysiology. Successful implementation of
+an operant conditioning behavior opens the door to a wide range of new studies in
+the field of auditory neuroscience using the marmoset as a model system.
+
+DOI: 10.1371/journal.pone.0047895 
+PMCID: PMC3480461
+PMID: 23110123  [Indexed for MEDLINE]
+
+
+1644. Trends Genet. 2012 Dec;28(12):586-91. doi: 10.1016/j.tig.2012.09.003. Epub 2012
+Oct 22.
+
+The resurgence and genetic implications of New World primates in biomedical
+research.
+
+Ward JM(1), Vallender EJ.
+
+Author information: 
+(1)New England Primate Research Center, Harvard Medical School, One Pine Hill
+Drive, Southborough, MA 01772, USA.
+
+There has been a recent resurgence of interest in New World monkeys within the
+biomedical research community, driven by both the sequencing of the common
+marmoset (Callithrix jacchus) genome and a growing demand for alternatives to Old
+World primates. New World monkeys offer attractive advantages over Old World
+species, including cheaper and simpler husbandry, while still maintaining a
+greater evolutionary proximity to humans compared with other animal models.
+Although numerous commonalities across primate species exist, there are also
+important genetic and reproductive differences that can and should play a
+critical role in selecting appropriate animal models. Common marmosets in
+particular have significantly reduced diversity at the major histocompatibility
+complex (MHC) loci and are born as hematopoietic chimeras. New World primates can
+make ideal translational models for research, but scientists must necessarily
+incorporate complete understandings of their genetic and phenotypic differences
+from humans and other model organisms.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tig.2012.09.003 
+PMCID: PMC3500444
+PMID: 23099234  [Indexed for MEDLINE]
+

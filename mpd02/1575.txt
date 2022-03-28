@@ -1,0 +1,37 @@
+
+
+1575. DNA Res. 2013 Jun;20(3):255-62. doi: 10.1093/dnares/dst007. Epub 2013 Mar 29.
+
+Development and characterization of cDNA resources for the common marmoset: one
+of the experimental primate models.
+
+Tatsumoto S(1), Adati N, Tohtoki Y, Sakaki Y, Boroviak T, Habu S, Okano H,
+Suemizu H, Sasaki E, Satake M.
+
+Author information: 
+(1)RIKEN Genomic Sciences Center, Suehiro-cho 1-7-22, Tsurumi-ku, Yokohama
+230-0045, Japan.
+
+The common marmoset is a new world monkey, which has become a valuable
+experimental animal for biomedical research. This study developed cDNA libraries 
+for the common marmoset from five different tissues. A total of 290 426
+high-quality EST sequences were obtained, where 251 587 sequences (86.5%) had
+homology (1E(-100)) with the Refseqs of six different primate species, including 
+human and marmoset. In parallel, 270 673 sequences (93.2%) were aligned to the
+human genome. When 247 090 sequences were assembled into 17 232 contigs, most of 
+the sequences (218 857 or 15 089 contigs) were located in exonic regions,
+indicating that these genes are expressed in human and marmoset. The other 5578
+sequences (or 808 contigs) mapping to the human genome were not located in exonic
+regions, suggesting that they are not expressed in human. Furthermore, a
+different set of 118 potential coding sequences were not similar to any Refseqs
+in any species, and, thus, may represent unknown genes. The cDNA libraries
+developed in this study are available through RIKEN Bio Resource Center. A Web
+server for the marmoset cDNAs is available at
+http://marmoset.nig.ac.jp/index.html, where each marmoset EST sequence has been
+annotated by reference to the human genome. These new libraries will be a useful 
+genetic resource to facilitate research in the common marmoset.
+
+DOI: 10.1093/dnares/dst007 
+PMCID: PMC3686431
+PMID: 23543116  [Indexed for MEDLINE]
+

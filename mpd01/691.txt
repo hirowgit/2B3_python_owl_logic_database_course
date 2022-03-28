@@ -1,0 +1,90 @@
+
+
+691. eNeuro. 2018 May 7;5(2). pii: ENEURO.0078-18.2018. doi:
+10.1523/ENEURO.0078-18.2018. eCollection 2018 Mar-Apr.
+
+Sound Frequency Representation in the Auditory Cortex of the Common Marmoset
+Visualized Using Optical Intrinsic Signal Imaging.
+
+Tani T(1)(2), Abe H(1)(2), Hayami T(2)(3), Banno T(2)(4), Miyakawa N(2)(5),
+Kitamura N(1), Mashiko H(1), Ichinohe N(2)(1), Suzuki W(2)(1).
+
+Author information: 
+(1)Ichinohe Neural System Group, Laboratory for Molecular Analysis of Higher
+Brain Functions, RIKEN Brain Science Institute, Wako, Saitama 351-0198, Japan.
+(2)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Kodaira, Tokyo 187-8502, Japan.
+(3)Department of Biotechnology and Life Science, Graduate School of Engineering, 
+Tokyo University of Agriculture and Technology, Koganei, Tokyo 184-8588, Japan.
+(4)Department of Otorhinolaryngology, University of Pennsylvania, Philadelphia,
+PA 19104.
+(5)Department of Functional Brain Imaging Research, National Institutes of
+Quantum and Radiological Science and Technology, Chiba, Chiba 263-8555, Japan.
+
+Natural sound is composed of various frequencies. Although the core region of the
+primate auditory cortex has functionally defined sound frequency preference maps,
+how the map is organized in the auditory areas of the belt and parabelt regions
+is not well known. In this study, we investigated the functional organizations of
+the core, belt, and parabelt regions encompassed by the lateral sulcus and the
+superior temporal sulcus in the common marmoset (Callithrix jacchus). Using
+optical intrinsic signal imaging, we obtained evoked responses to band-pass noise
+stimuli in a range of sound frequencies (0.5-16 kHz) in anesthetized adult
+animals and visualized the preferred sound frequency map on the cortical surface.
+We characterized the functionally defined organization using histologically
+defined brain areas in the same animals. We found tonotopic representation of a
+set of sound frequencies (low to high) within the primary (A1), rostral (R), and 
+rostrotemporal (RT) areas of the core region. In the belt region, the tonotopic
+representation existed only in the mediolateral (ML) area. This representation
+was symmetric with that found in A1 along the border between areas A1 and ML. The
+functional structure was not very clear in the anterolateral (AL) area. Low
+frequencies were mainly preferred in the rostrotemplatal (RTL) area, while high
+frequencies were preferred in the caudolateral (CL) area. There was a portion of 
+the parabelt region that strongly responded to higher sound frequencies (>5.8
+kHz) along the border between the rostral parabelt (RPB) and caudal parabelt
+(CPB) regions.
+
+DOI: 10.1523/ENEURO.0078-18.2018 
+PMCID: PMC5937112
+PMID: 29736410  [Indexed for MEDLINE]
+
+
+692. Physiol Behav. 2018 Sep 1;193(Pt A):108-116. doi: 10.1016/j.physbeh.2018.02.050. 
+Epub 2018 May 2.
+
+Why help? Relationship quality, not strategic grooming predicts infant-care in
+group-living marmosets.
+
+Finkenwirth C(1), Burkart JM(2).
+
+Author information: 
+(1)Department of Anthropology, University of Zurich, Winterthurerstrasse 190,
+8057 Zurich, Switzerland. Electronic address: christa.finkenwirth@uzh.ch.
+(2)Department of Anthropology, University of Zurich, Winterthurerstrasse 190,
+8057 Zurich, Switzerland.
+
+Cooperatively breeding common marmosets raise their infants with the help of
+other adult group members, but individual care-taking contribution can vary
+considerably. We tested four hypotheses that may explain this variation within
+marmoset family groups. The pay-for-help hypothesis argues that allogrooming is
+used strategically by parents to pay helpers for helping. The
+pay-for-infant-access hypothesis claims that helpers use allogrooming as payment 
+for infant-access. The intrinsic predisposition hypothesis suggests that more
+affiliative individuals are also more motivated for infant-care, and the
+relationship quality hypothesis that individuals involved in highly affiliative
+relationships with main caregivers contribute more to infant-care. To test these 
+hypotheses, we followed five marmoset family groups over a total of eight
+reproductive cycles, and quantified affiliative behavior, infant-carrying, and
+food sharing over six to 12 weeks around infant-birth. We found no evidence for
+either the pay-for-help or pay-for-infant-access hypotheses nor did intrinsic
+prosocial predisposition determine individual infant-care. Mutual dyadic
+affiliation, however, was positively linked to infant-carrying and food sharing
+in female and male breeders and in male helpers. This suggests that cooperation
+during infant-care is mediated by relationship quality rather than strategic
+grooming in marmosets. Overall, these results may also contribute to a better
+understanding of cooperation in humans.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.physbeh.2018.02.050 
+PMID: 29730031  [Indexed for MEDLINE]
+

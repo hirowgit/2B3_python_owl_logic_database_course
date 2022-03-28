@@ -1,0 +1,91 @@
+
+
+255. J Comp Neurol. 2021 May 1;529(7):1628-1641. doi: 10.1002/cne.25044. Epub 2020 Oct
+7.
+
+Marmosets have a greater diversity of c-Fos response after hyperstimulation in
+distinct cortical regions as compared to rats.
+
+Magalhães SA(1), Foresti ML(1)(2), Barros VN(1), Mello LE(1)(2).
+
+Author information: 
+(1)Physiology Department, Universidade Federal de São Paulo, São Paulo, Brazil.
+(2)Instituto D'Or de Pesquisa e Ensino, Botafogo, Brazil.
+
+Previous evidence indicated a potential mechanism that might support the fact
+that primates exhibit greater neural integration capacity as a result of the
+activation of different structures of the central nervous system, as compared to 
+rodents. The current study aimed to provide further evidence to confirm previous 
+findings by analyzing the patterns of c-Fos expression in more neocortical
+structures of rats and marmosets using a more robust quantitative technique and
+evaluating a larger number of brain areas. Nineteen Wistar rats and 21 marmosets 
+(Callithrix jacchus) were distributed among control groups (animals without
+injections) and animals injected with pentylenetetrazol (PTZ) and euthanized at
+different time points after stimulus. Immunohistochemical detection of c-Fos was 
+quantified using unbiased and efficient stereological cell counting in eight
+neocortical regions. Marmosets had a c-Fos expression that was notably more
+widely expressed (5× more cells) and longer lasting (up to 3 hr) than rats. c-Fos
+expression in rats presented similar patterns of expression according to the
+function of the brain cortical structures (associative, sensorial, and motor
+functions), which was not observed for marmosets (in which no clear pattern could
+be drawn, and a more diverse profile emerged). Our results provide evidence that 
+the marmoset brain has a greater neuronal activation after intense stimulation by
+means of PTZ and a more complex pattern of brain activation. We speculate that
+these functional differences may contribute for the understanding of the
+different neuronal processing capacities of the neocortex in these mammals'
+orders.
+
+© 2020 Wiley Periodicals LLC.
+
+DOI: 10.1002/cne.25044 
+PMID: 32975324  [Indexed for MEDLINE]
+
+
+256. Front Psychiatry. 2020 Aug 19;11:826. doi: 10.3389/fpsyt.2020.00826. eCollection 
+2020.
+
+Effects of Ketamine Administration on Auditory Information Processing in the
+Neocortex of Nonhuman Primates.
+
+Komatsu M(1)(2), Ichinohe N(1)(2).
+
+Author information: 
+(1)Laboratory for Molecular Analysis of Higher Brain Functions, RIKEN Center for 
+Brain Science, Saitama, Japan.
+(2)Department of Ultrastructural Research, National Center of Neurology and
+Psychiatry, Tokyo, Japan.
+
+Ketamine, an N-methyl-D-aspartate (NMDA) receptor antagonist, exerts broad
+effects on consciousness and perception. Since NMDA receptor antagonists induce
+cognitive impairments, ketamine has been used for translational research on
+several psychiatric diseases, such as schizophrenia. Whereas the effects of
+ketamine on cognitive functions have been extensively studied, studies on the
+effects of ketamine on simple sensory information processing remain limited. In
+this study, we investigated the cortex-wide effects of ketamine administration on
+auditory information processing in nonhuman primates using whole-cortical
+electrocorticography (ECoG). We first recorded ECoG from awake monkeys on
+presenting auditory stimuli of different frequencies or different durations. We
+observed auditory evoked responses (AERs) across the cortex, including in
+frontal, parietal, and temporal areas, while feature-specific responses were
+obtained around the temporal sulcus. Next, we examined the effects of ketamine on
+cortical auditory information processing. We conducted ECoG recordings from
+monkeys that had been administered anesthetic doses of ketamine from 10 to
+180 min following administration. We observed significant changes in stimulus
+feature-specific responses. Electrodes showing a frequency preference or offset
+responses were altered following ketamine administration, while those of the AERs
+were not strongly influenced. However, the frequency preference of a selected
+electrode was not significantly altered by ketamine administration over time
+following administration, while the imbalances in the onset and offset persisted 
+over the course of 150 min following ketamine administration in all three
+monkeys. These results suggest that ketamine affects the ability to distinguish
+between sound frequency and duration in different ways. In conclusion, future
+research on the NMDA sensitivity of cortical wide sensory information processing 
+may provide a new perspective into the development of nonhuman primate models of 
+psychiatric disorders.
+
+Copyright © 2020 Komatsu and Ichinohe.
+
+DOI: 10.3389/fpsyt.2020.00826 
+PMCID: PMC7466740
+PMID: 32973576 
+

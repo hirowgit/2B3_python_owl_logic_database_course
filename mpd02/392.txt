@@ -1,0 +1,47 @@
+
+
+392. Biochem Pharmacol. 2020 Jan;171:113721. doi: 10.1016/j.bcp.2019.113721. Epub 2019
+Nov 18.
+
+The marmoset cytochrome P450 superfamily: Sequence/phylogenetic analyses, genomic
+structure, and catalytic function.
+
+Uehara S(1), Uno Y(2), Yamazaki H(3).
+
+Author information: 
+(1)Showa Pharmaceutical University, Machida, Tokyo 194-8543, Japan.
+(2)Joint Faculty of Veterinary Medicine, Kagoshima University, Kagoshima-city,
+Kagoshima 890-8580, Japan.
+(3)Showa Pharmaceutical University, Machida, Tokyo 194-8543, Japan. Electronic
+address: hyamazak@ac.shoyaku.ac.jp.
+
+The common marmoset (Callithrix jacchus) is a New World monkey that has attracted
+much attention as a potentially useful primate model for preclinical testing. A
+total of 36 marmoset cytochrome P450 (P450) isoforms in the P450 1-51 subfamilies
+have been identified and characterized by the application of genome analysis and 
+molecular functional characterization. In this mini-review, we provide an
+overview of the genomic structures, sequence identities, and substrate
+selectivities of marmoset P450s compared with those of human P450s. Based on the 
+sequence identity, phylogeny, and genomic organization of marmoset P450s,
+orthologous relationships were established between human and marmoset P450s.
+Twenty-four members of the marmoset P450 1A, 2A, 2B, 2C, 2D, 2E, 3A, 4A, and 4F
+subfamilies shared high degrees of homology in terms of cDNA (>89%) and amino
+acid sequences (>85%) with the corresponding human P450s; P450 2C76 was among the
+exceptions. Phylogenetic analysis using amino acid sequences revealed that
+marmoset P450s in the P450 1-51 families were located in the same clades as their
+human and macaque P450 homologs. This finding underlines the evolutionary
+closeness of marmoset P450s to their human and macaque homologs. Most marmoset
+P450 1-4 enzymes catalyzed the typical drug-metabolizing reactions of the
+corresponding human P450 homologs, except for some differences of P450 2A6 and
+2B6. Consequently, it appears that the substrate specificities of enzymes in the 
+P450 1-4 families are generally similar in marmosets and humans. The information 
+presented here supports a better understanding of the functional characteristics 
+of marmoset P450s and their similarities and differences with human P450s. It is 
+hoped that this mini-review will facilitate the successful use of marmosets as
+primate models in drug metabolism and pharmacokinetic studies.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2019.113721 
+PMID: 31751534  [Indexed for MEDLINE]
+

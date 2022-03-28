@@ -1,0 +1,44 @@
+
+
+3794. J Comp Neurol. 1996 Apr 8;367(3):413-30.
+
+Developmental profile of GABAA-receptors in the marmoset monkey: expression of
+distinct subtypes in pre- and postnatal brain.
+
+Hornung JP(1), Fritschy JM.
+
+Author information: 
+(1)Institute of Anatomy, University of Lausanne, Switzerland.
+
+Gamma aminobutyric acid (GABA)A-receptors are expressed in fetal mammalian brain 
+before the onset of synaptic inhibition, suggesting their involvement in brain
+development. In this study, we have analyzed the maturation of the GABAA-receptor
+in the marmoset monkey forebrain to determine whether distinct receptor subtypes 
+are expressed at particular stages of pre- and postnatal ontogeny. The
+distribution of the subunits alpha 1, alpha 2, and beta 2,3 was investigated
+immunohistochemically between embryonic day 100 (6 weeks before birth) and
+adulthood. Prenatally, the alpha 2- and beta 2,3-subunit-immunoreactivity (-IR)
+was prominent throughout the forebrain, whereas the alpha 1-subunit-IR appeared
+in selected regions shortly before birth. The alpha 2-subunit-IR disappeared
+gradually to become restricted to a few regions in adult forebrain. By contrast, 
+the alpha 1-subunit-IR increased dramatically after birth and replaced the alpha 
+2-subunit in the basal forebrain, pallidum, thalamus, and most of the cerebral
+cortex. Staining for the beta 2,3-subunits was ubiquitous at every age examined, 
+indicating their association with either the alpha 1- or the alpha 2-subunit in
+distinct receptor subtypes. In neocortex, the alpha 1 -subunit-IR was first
+located selectively to layers IV and VI of primary somatosensory and visual
+areas. Postnatally, it increased throughout the cortex, with the adult pattern
+being established only during the second year. The switch in expression of the
+alpha 1- and alpha 2- subunits indicates that the subunit composition of major
+GABAA-receptor subtypes changes during ontogeny. This change coincides with
+synaptogenesis, suggesting that the emergence of alpha 1- GABAA-receptors
+parallels the formation of inhibitory circuits. A similar pattern has been
+reported in rat, indicating that the developmental regulation of GABAA-receptors 
+is conserved across species, possibly including man. However, the marmoset brain 
+is more mature than the rat brain at the onset of alpha 1-subunit expression,
+suggesting that alpha 1-GABAA-receptors are largely dispensable in utero, but may
+be required for information processing after birth.
+
+DOI: 10.1002/(SICI)1096-9861(19960408)367:3<413::AID-CNE7>3.0.CO;2-8 
+PMID: 8698901  [Indexed for MEDLINE]
+

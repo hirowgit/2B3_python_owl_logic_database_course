@@ -1,0 +1,97 @@
+
+
+857. J Neurosci. 2017 Jul 19;37(29):7036-7047. doi: 10.1523/JNEUROSCI.0702-17.2017.
+Epub 2017 Jun 19.
+
+Social Context-Dependent Activity in Marmoset Frontal Cortex Populations during
+Natural Conversations.
+
+Nummela SU(1), Jovanovic V(2)(3), de la Mothe L(4), Miller CT(2)(3).
+
+Author information: 
+(1)Cortical Systems and Behavior Laboratory and snummela@gmail.com.
+(2)Cortical Systems and Behavior Laboratory and.
+(3)Neurosciences Graduate Program, University of California, San Diego, La Jolla,
+California 92093, and.
+(4)Department of Psychology, Tennessee State University, Nashville, Tennessee
+37219-1561.
+
+Communication is an inherently interactive process that weaves together the
+fabric of both human and nonhuman primate societies. To investigate the
+properties of the primate brain during active social signaling, we recorded the
+responses of frontal cortex neurons as freely moving marmosets engaged in
+conversational exchanges with a visually occluded virtual marmoset. We found that
+small changes in firing rate (∼1 Hz) occurred across a broadly distributed
+population of frontal cortex neurons when marmosets heard a conspecific
+vocalization, and that these changes corresponded to subjects' likelihood of
+producing or withholding a vocal reply. Although the contributions of individual 
+neurons were relatively small, large populations of neurons were able to clearly 
+distinguish between these social contexts. Most significantly, this social
+context-dependent change in firing rate was evident even before subjects heard
+the vocalization, indicating that the probability of a conversational exchange
+was determined by the state of the frontal cortex at the time a vocalization was 
+heard, and not by a decision driven by acoustic characteristics of the
+vocalization. We found that changes in neural activity scaled with the length of 
+the conversation, with greater changes in firing rate evident for longer
+conversations. These data reveal specific and important facets of this neural
+activity that constrain its possible roles in active social signaling, and we
+hypothesize that the close coupling between frontal cortex activity and this
+natural, active primate social-signaling behavior facilitates social-monitoring
+mechanisms critical to conversational exchanges.SIGNIFICANCE STATEMENT We provide
+evidence for a novel pattern of neural activity in the frontal cortex of freely
+moving, naturally behaving, marmoset monkeys that may facilitate natural primate 
+conversations. We discovered small (∼1 Hz), but reliable, changes in neural
+activity that occurred before marmosets even heard a conspecific vocalization
+that, as a population, almost perfectly predicted whether subjects would produce 
+a vocalization in response. The change in the state of the frontal cortex
+persisted throughout the conversation and its magnitude scaled linearly with the 
+length of the interaction. We hypothesize that this social context-dependent
+change in frontal cortex activity is supported by several mechanisms, such as
+social arousal and attention, and facilitates social monitoring critical for
+vocal coordination characteristic of human and nonhuman primate conversations.
+
+Copyright © 2017 the authors 0270-6474/17/377036-12$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.0702-17.2017 
+PMCID: PMC5518427
+PMID: 28630255  [Indexed for MEDLINE]
+
+
+858. Neurobiol Aging. 2017 Sep;57:95-103. doi: 10.1016/j.neurobiolaging.2017.05.013.
+Epub 2017 May 22.
+
+Age-related plasticity of the axon initial segment of cortical pyramidal cells in
+marmoset monkeys.
+
+Atapour N(1), Rosa MGP(2).
+
+Author information: 
+(1)Biomedicine Discovery Institute and Department of Physiology, Monash
+University, Melbourne, Victoria, Australia; Australian Research Council, Centre
+of Excellence for Integrative Brain Function, Monash University Node, Melbourne, 
+Victoria, Australia. Electronic address: nafiseh.atapour@monash.edu.
+(2)Biomedicine Discovery Institute and Department of Physiology, Monash
+University, Melbourne, Victoria, Australia; Australian Research Council, Centre
+of Excellence for Integrative Brain Function, Monash University Node, Melbourne, 
+Victoria, Australia.
+
+Structural plasticity of the axon initial segment (AIS), the site of action
+potential initiation, is observed as part of the normal early development of the 
+cortex, as well as in association with injury and disease. Here, we show that
+structural AIS plasticity also occurs with normal aging in adult marmosets.
+Immunohistochemical techniques were used to reveal the extent of the AIS of layer
+2/3A pyramidal cells in 8 neocortical areas. We found that the AIS length varied 
+significantly between areas in young adult (2-3 years old) marmosets, with
+neurons in frontal area 14C having the longest AIS, and those in the primary
+visual cortex the shortest. Similar interareal differences were observed in aged 
+(12-14 year old) monkeys, but the AIS was significantly shortened in many areas, 
+relative to the corresponding length in young adults. Shortening of the AIS is
+likely to represent a compensatory response to changes in the
+excitation-inhibition balance, associated with the loss of GABAergic interneurons
+in the aged cortex.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neurobiolaging.2017.05.013 
+PMID: 28624616  [Indexed for MEDLINE]
+

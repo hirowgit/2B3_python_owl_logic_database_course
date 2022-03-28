@@ -1,0 +1,78 @@
+
+
+1507. PLoS One. 2013 Sep 30;8(9):e74789. doi: 10.1371/journal.pone.0074789. eCollection
+2013.
+
+In vivo manipulation of γ9(+) T cells in the common marmoset (Callithrix Jacchus)
+with phosphoantigen and effect on the progression of respiratory melioidosis.
+
+Laws TR(1), Nelson M, Bonnafous C, Sicard H, Taylor C, Salguero FJ, Atkins TP,
+Oyston PC, Rowland CA.
+
+Author information: 
+(1)Biomedical Sciences Dept, Defence Science and Technology laboratory (DSTL)
+Porton Down, Salisbury, United Kingdom.
+
+Burkholderia pseudomallei is a dangerous human pathogen. Phosphoantigens
+specifically the target primate specific γ9(+)δ2(+) T cells subset and some have 
+been developed as potential immunotherapeutics. Previously, we demonstrated that,
+when stimulated with the phosphoantigen CHDMAPP, γ9(+)δ2(+) T cells aid in the
+killing of intracellular B. pseudomallei bacteria. Moreover, we found that common
+marmoset (Callithrix Jacchus) γ9(+) T cells increase in frequency and respond to 
+the phosphoantigen CHDMAPP and/or B. pseudomallei, in combination with IL-2, in a
+similar manner to human γ9(+)δ2(+) T cells. Here we evaluate the efficacy of the 
+phosphoantigen CHDMAPP, in combination with IL-2, as a therapy against B.
+pseudomallei infection, in vivo. We found that the previous studies predicted the
+in vivo responsiveness of γ9(+) T cells to the CHDMAPP+IL-2 treatment and
+significant expansion of the numbers of peripheral and splenic γ9(+) T cells were
+observed. This effect was similar to those reported in other primate species
+treated with phosphoantigen. Furthermore, splenocytes were retrieved 7 days post 
+onset of treatment, restimulated with CHDMAPP or heat-killed B. pseudomallei and 
+the cultured γ9(+) T cells demonstrated no reduction in IFN-γ response when
+CHDMAPP+IL-2 animals were compared to IL-2 only treated animals. Using an
+established model of B. pseudomallei infection in the marmoset, we assessed the
+potential for using phosphoantigen as a novel immunotherapy. The CHDMAPP
+treatment regime had no effect on the progression of respiratory melioidosis and 
+this was despite the presence of elevated numbers of γ9(+) T cells in the spleen,
+liver and lung and an increased proportion of IFN-γ(+) cells in response to
+infection. We therefore report that the common marmoset has proven a good model
+for studying the effect in vivo of γ9(+) T cell stimulation; however, γ9(+) T
+cells have little or no effect on the progression of lethal, respiratory B.
+pseudomallei infection.
+
+DOI: 10.1371/journal.pone.0074789 
+PMCID: PMC3786980
+PMID: 24098670  [Indexed for MEDLINE]
+
+
+1508. Mol Biol Rep. 2013 Dec;40(12):6747-55. doi: 10.1007/s11033-013-2791-0. Epub 2013 
+Sep 26.
+
+Selection of suitable reference genes for mRNA quantification studies using
+common marmoset tissues.
+
+Shimamoto Y(1), Kitamura H, Niimi K, Yoshikawa Y, Hoshi F, Ishizuka M, Takahashi 
+E.
+
+Author information: 
+(1)Department of Veterinary Teaching Hospital, School of Veterinary Medicine,
+Kitasato University, Towada, Aomori, 034-8628, Japan.
+
+The common marmoset (Callithrix jacchus) is increasingly being used as a
+non-human primate animal model in biomedical research. To perform accurate
+quantitative analysis of gene expression by quantitative reverse transcription
+polymerase chain reaction, reliable reference genes should be selected. In this
+study, we evaluated the expressions of 11 widely used reference genes: ACTB,
+ATP5F1, B2M, GAPDH, HPRT1, PGK1, PPIA, RN18S1, RPLP0, TBP and UBC in 12 tissues
+and five brain areas of healthy common marmosets. NormFinder and geNorm indicated
+that the most suitable reference genes for cross-sectional studies of the 17
+tissues were RN18S1 and RPLP0. Conversely, ACTB and PPIA were the most suitable
+for analyzing brain samples; however, the expression of PGK1 fluctuated among
+brain areas. These results indicate that suitable reference genes differ between 
+the tissues examined. This study provides fundamental information for gene
+expression studies of the common marmoset and highlights the importance of
+validating reference genes before quantification of target mRNAs.
+
+DOI: 10.1007/s11033-013-2791-0 
+PMID: 24068436  [Indexed for MEDLINE]
+

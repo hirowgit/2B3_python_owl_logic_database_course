@@ -1,0 +1,47 @@
+
+
+330. J Parkinsons Dis. 2020;10(3):959-967. doi: 10.3233/JPD-191824.
+
+Antiparkinsonian Effects of a Metabotropic Glutamate Receptor 4 Agonist in
+MPTP-Treated Marmosets.
+
+Mann E(1), Jackson M(2), Lincoln L(2), Fisher R(2), Rose S(2), Duty S(1).
+
+Author information: 
+(1)Wolfson Centre for Age-Related Diseases, Institute of Psychiatry, Psychology
+and Neuroscience, King's College London, London, UK.
+(2)Neurodegenerative Diseases Research Group, Faculty of Life Science and
+Medicine, King's College London, London, UK.
+
+BACKGROUND: Increased firing across glutamatergic synapses may contribute to both
+the motor dysfunction and L-DOPA-induced dyskinesia seen in Parkinson's disease. 
+Given their ability to reduce glutamate release, activation of group III
+metabotropic glutamate receptors such as metabotropic glutamate receptor 4 may
+prove effective against both motor dysfunction and dyskinesia in Parkinson's
+disease.
+OBJECTIVE: We hypothesised that activation of metabotropic glutamate receptor 4
+by an orthosteric agonist
+((2S)-2-amino-4-(hydroxy(hydroxy(4-hydroxy-3-methoxy-5-nitrophenyl)methyl)phospho
+ryl)butanoic acid, LSP1-2111) would produce antiparkinsonian activity and reduce 
+expression of dyskinesia in a 1-methyl-4-phenyl,1,2,3,6-tetrahydropyridine
+(MPTP)-treated marmoset model of Parkinson's disease.
+METHODS: Common marmosets were previously treated with MPTP and pre-primed with
+L-DOPA for up to 28 days to express dyskinesia. LSP1-2111 (1, 3, or 6 mg/kg s.c.)
+or vehicle (0.9% saline s.c.) were administered immediately prior to L-DOPA
+(8 mg/kg + benserazide (10 mg/kg) p.o.) or vehicle (10% sucrose p.o.). Locomotor 
+activity was measured in automated test cages and animals were scored for
+dyskinesia and disability.
+RESULTS: As expected, L-DOPA reversed motor disability and induced moderate
+dyskinesia. By contrast, LSP1-2111 alone significantly reduced the motor
+disability without any accompanying expression of dyskinesia. When administered
+in combination with L-DOPA, LSP1-2111 did not significantly reduce the severity
+of L-DOPA-induced dyskinesia.
+CONCLUSION: Systemic administration of LSP1-2111 reduces motor disability without
+causing dyskinesia in MPTP-treated marmosets, supporting a role for metabotropic 
+glutamate receptor 4 orthosteric agonists as promising monotherapy for PD.
+Conversely, this study found no evidence to support their use as antidyskinetic
+agents within the dose range tested.
+
+DOI: 10.3233/JPD-191824 
+PMID: 32250315  [Indexed for MEDLINE]
+

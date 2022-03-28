@@ -1,0 +1,100 @@
+
+
+1063. J Neurosci. 2016 Apr 20;36(16):4579-90. doi: 10.1523/JNEUROSCI.4563-15.2016.
+
+Rapid Adaptation Induces Persistent Biases in Population Codes for Visual Motion.
+
+Zavitz E(1), Yu HH(2), Rowe EG(3), Rosa MG(2), Price NS(2).
+
+Author information: 
+(1)Department of Physiology, Neuroscience Program, Biomedicine Discovery
+Institute, and ARC Centre of Excellence for Integrative Brain Function, Monash
+University Node, Monash University, Clayton, VIC 3800, Australia
+elizabeth.zavitz@monash.edu.
+(2)Department of Physiology, Neuroscience Program, Biomedicine Discovery
+Institute, and ARC Centre of Excellence for Integrative Brain Function, Monash
+University Node, Monash University, Clayton, VIC 3800, Australia.
+(3)Department of Physiology.
+
+Each visual experience changes the neural response to subsequent stimuli. If the 
+brain is unable to incorporate these encoding changes, the decoding, or
+perception, of subsequent stimuli is biased. Although the phenomenon of
+adaptation pervades the nervous system, its effects have been studied mainly in
+isolation, based on neuronal encoding changes induced by an isolated, prolonged
+stimulus. To understand how adaptation-induced biases arise and persist under
+continuous, naturalistic stimulation, we simultaneously recorded the responses of
+up to 61 neurons in the marmoset (Callithrix jacchus) middle temporal area to a
+sequence of directions that changed every 500 ms. We found that
+direction-specific adaptation following only 0.5 s of stimulation strongly
+affected encoding for up to 2 s by reducing both the gain and the spike count
+correlations between pairs of neurons with preferred directions close to the
+adapting direction. In addition, smaller changes in bandwidth and preferred
+direction were observed in some animals. Decoding individual trials of
+adaptation-affected activity in simultaneously recorded neurons predicted
+repulsive biases that are consistent with the direction aftereffect.
+Surprisingly, removing spike count correlations by trial shuffling did not impact
+decoding performance or bias. When adaptation had the largest effect on encoding,
+the decoder made the most errors. This suggests that neural and perceptual
+repulsion is not a mechanism to enhance perceptual performance but is instead a
+necessary consequence of optimizing neural encoding for the identification of a
+wide range of stimulus properties in diverse temporal contexts.SIGNIFICANCE
+STATEMENT: Although perception depends upon decoding the pattern of activity
+across a neuronal population, the encoding properties of individual neurons are
+unreliable: a single neuron's response to repetitions of the same stimulus is
+variable, and depends on both its spatial and temporal context. In this
+manuscript, we describe the complete cascade of adaptation-induced effects in
+sensory encoding and show how they predict population decoding errors consistent 
+with perceptual biases. We measure the time course of adaptation-induced changes 
+to the response properties of neurons in isolation, and to the correlation
+structure across pairs of simultaneously recorded neurons. These results provide 
+novel insight into how and for how long adaptation affects the neural code,
+particularly during continuous, naturalistic vision.
+
+Copyright © 2016 the authors 0270-6474/16/364579-12$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.4563-15.2016 
+PMCID: PMC6601831
+PMID: 27098699  [Indexed for MEDLINE]
+
+
+1064. Neurosci Res. 2016 Sep;110:1-10. doi: 10.1016/j.neures.2016.04.002. Epub 2016 Apr
+19.
+
+Overlapping expression of anion exchangers in the cochlea of a non-human primate 
+suggests functional compensation.
+
+Hosoya M(1), Fujioka M(2), Kobayashi R(3), Okano H(3), Ogawa K(1).
+
+Author information: 
+(1)Keio University School of Medicine, Department of Otorhinolaryngology, Head
+and Neck Surgery, 35 Shinanomachi, Shinjuku-ku 160-8582, Japan.
+(2)Keio University School of Medicine, Department of Otorhinolaryngology, Head
+and Neck Surgery, 35 Shinanomachi, Shinjuku-ku 160-8582, Japan. Electronic
+address: masato@2002.jukuin.keio.ac.jp.
+(3)Keio University School of Medicine, Department of Physiology, 35 Shinanomachi,
+Shinjuku-ku, Tokyo 160-8582, Japan.
+
+Ion homeostasis in the inner ear is essential for proper hearing. Anion
+exchangers are one of the transporters responsible for the maintenance of
+homeostasis, but their expression profile in the primate cochlea has not been
+fully characterized. However, species-specific overlapping expression patterns
+and functional compensation in other organs, such as the kidney, pancreas and
+small intestine, have been reported. Here, we determined the expression patterns 
+of the anion exchangers SLC26A4, SLC26A5, SLC26A6, SLC26A7, SLC26A11, SLC4A2 and 
+SLC4A3 in the cochlea of a non-human primate, the common marmoset (Callithrix
+jacchus). Although the pattern of expression of SLC26A4 and SLC26A5 was similar
+to that in rodents, SLC26A7, SLC4A2, SLC4A3 exhibited different distributions.
+Notably, five transporters, SLC26A4, SLC26A6, SLC26A11 SLC4A2 and SLC4A3, were
+expressed in the cells of the outer sulcus. Our results reveal a species-specific
+distribution pattern of anion exchangers in the cochlea, particularly in the
+outer sulcus cells, suggesting functional compensation among these exchangers.
+This "primate-specific" pattern may be related to the human-specific hearing loss
+phenotypes of channelopathy disorders, including the SLC26A4-related diseases
+Pendred syndrome/DFNB4.
+
+Copyright © 2016 Elsevier Ireland Ltd and Japan Neuroscience Society. All rights 
+reserved.
+
+DOI: 10.1016/j.neures.2016.04.002 
+PMID: 27091614  [Indexed for MEDLINE]
+

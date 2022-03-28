@@ -1,0 +1,40 @@
+
+
+1743. J Immunol. 2012 May 1;188(9):4654-62. doi: 10.4049/jimmunol.1101575. Epub 2012
+Mar 30.
+
+Aryl hydrocarbon receptor-mediated induction of EBV reactivation as a risk factor
+for Sjögren's syndrome.
+
+Inoue H(1), Mishima K, Yamamoto-Yoshida S, Ushikoshi-Nakayama R, Nakagawa Y,
+Yamamoto K, Ryo K, Ide F, Saito I.
+
+Author information: 
+(1)Department of Pathology, Tsurumi University School of Dental Medicine,
+Kanagawa 230-8501, Japan.
+
+The aryl hydrocarbon receptor (AhR) is a ligand-activated transcription factor
+that mediates a variety of biological effects by binding to environmental
+pollutants, including 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD or dioxin).
+Although numerous animal studies have demonstrated the harmful effects of
+dioxins, it remains controversial whether dioxins pose a risk to human health.
+Enhanced lytic replication of EBV is a risk factor for the development of
+autoimmune diseases and cancers. This study evaluated the possibility that
+ligand-activated AhR reactivates EBV. EBV reactivation and AhR transactivation
+were evaluated with luciferase assays. Saliva samples were collected from 19
+patients with primary Sjögren's syndrome (SS). Control saliva samples were
+obtained from 10 healthy individuals and nine patients with severe dry mouth.
+TCDD enhanced BZLF1 transcription, which mediates the switch from the latent to
+the lytic form of EBV infection in EBV-positive B cell lines and in a salivary
+gland epithelial cell line. Moreover, TCDD-induced increases in BZLF1 mRNA and
+EBV genomic DNA levels were confirmed in the B cell lines. Saliva from SS
+patients activated the transcription of both CYP1A1 and BZLF1. Additionally,
+there was a positive correlation between CYP1A1 and BZLF1 promoter activities.
+AhR ligands elicited the reactivation of EBV in activated B cells and salivary
+epithelial cells, and these ligands are involved in SS. Our findings reveal novel
+aspects of the biological effects of dioxin and the AhR-dependent pathogenesis of
+autoimmune diseases.
+
+DOI: 10.4049/jimmunol.1101575 
+PMID: 22467650  [Indexed for MEDLINE]
+

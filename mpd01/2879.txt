@@ -1,0 +1,55 @@
+
+
+2879. Brain Res. 2003 Dec 12;993(1-2):54-8.
+
+Pharmacokinetics of L-dopa in plasma and extracellular fluid of striatum in
+common marmosets.
+
+Zhang J(1), Qu FR, Nakatsuka A, Nomura T, Nagai M, Nomoto M.
+
+Author information: 
+(1)Department of Clinical Pharmacology and Therapeutics, School of Medicine,
+Ehime University, Shigenobu, Ehime 791-0295, Japan.
+
+L-3, 4-Dihydroxyphenylalanine (L-dopa) has been widely used for the treatment of 
+Parkinson's disease (PD), but its pharmacokinetics in the striatum have hardly
+been investigated, especially in primates. In this study, we examined the
+concentration of L-dopa in plasma and in the extracellular fluid (ECF) of the
+striatum in common marmosets using microdialysis and high-performance liquid
+chromatography (HPLC) with electrochemical detection. With a clinically
+therapeutic dosage of L-dopa/benserazide (20/5 mg/kg, p.o.), the t(max) of L-dopa
+was 30 min in plasma and 60-90 min in ECF of striatum. Mean C(max) was 20.3
+microM in plasma and 442.9 nM in ECF of striatum, which is about 2.2% of that in 
+plasma. The L-dopa concentration in ECF is much lower than those previously
+applied during in vivo studies for L-dopa toxicity.
+
+DOI: 10.1016/j.brainres.2003.08.065 
+PMID: 14642830  [Indexed for MEDLINE]
+
+
+2880. Neuroimage. 2003 Nov;20(3):1857-64.
+
+Optical imaging of the retinotopic organization of V1 in the common marmoset.
+
+Schiessl I(1), McLoughlin N.
+
+Author information: 
+(1)Department of Optometry and Neuroscience, UMIST, PO Box 88, Manchester M60
+1QD, UK.
+
+We examined the retinotopic mapping of the visual world in the primary visual
+cortex of the marmoset monkey using differential optical imaging. Two sets of
+complementary stripe-like locations were visually stimulated in turn. Their
+difference depicts the cortical representations of continuous bands of visual
+space. By rotating the sets of stripe-like locations it is possible to map
+different spatial axes. Analogous to the macaque we found that the V1/V2 border
+represented the vertical meridian, while horizontal, 45-, and 135-degree angled
+stripes of space were also represented in a continuous manner. We developed a new
+automatic method of calculating local measures of cortical magnification from our
+optical retinotopic maps. Using this method we found no evidence of any local
+anisotropies in cortical representation. Overall our results indicate that space 
+is mapped isotropically in the primary visual cortex of the common marmoset.
+
+DOI: 10.1016/j.neuroimage.2003.07.023 
+PMID: 14642495  [Indexed for MEDLINE]
+

@@ -1,0 +1,67 @@
+
+
+2695. Cereb Cortex. 2006 Feb;16(2):162-77. Epub 2005 Apr 27.
+
+Functional response properties of neurons in the dorsomedial visual area of New
+World monkeys (Callithrix jacchus).
+
+Lui LL(1), Bourne JA, Rosa MG.
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, VIC 3800, Australia.
+
+The dorsomedial visual area (DM), a subdivision of extrastriate cortex located
+near the dorsal midline, is characterized by heavy myelination and a relative
+emphasis on peripheral vision. To date, DM remains the least understood of the
+three primary targets of projections from the striate cortex (V1) in New World
+monkeys. Here, we characterize the responses of DM neurons in anaesthetized
+marmosets to drifting sine wave gratings. Most (82.4%) cells showed bidirectional
+sensitivity, with only 6.9% being strongly direction selective. The distribution 
+of orientation sensitivity was bimodal, with a distinct population (corresponding
+to over half of the sample) formed by neurons with very narrow selectivity. When 
+compared with a sample of V1 units representing a comparable range of
+eccentricities, DM cells revealed a preference for much lower spatial
+frequencies, and higher speeds. End inhibition was extremely rare, and the
+responses of many cells summated over distances as large as 30 degrees. Our
+results suggest clear differences between DM and the two other main targets of V1
+projections, the second (V2) and middle temporal (MT) areas, with cells in DM
+emphasizing aspects of visual information that are likely to be relevant for
+motor control.
+
+DOI: 10.1093/cercor/bhi094 
+PMID: 15858163  [Indexed for MEDLINE]
+
+
+2696. J Neurosci Methods. 2005 May 15;144(1):53-61.
+
+Spectral representation--analyzing single-unit activity in extracellularly
+recorded neuronal data without spike sorting.
+
+Luczak A(1), Narayanan NS.
+
+Author information: 
+(1)Center for Molecular and Behavioral Neuroscience, Rutgers, The State
+University of New Jersey, 197 University Avenue, Newark, NJ 07102, USA.
+Luczak@cs.yale.edu
+
+One step in the conventional analysis of extracellularly recorded neuronal data
+is spike sorting, which separates electrical signal into action potentials from
+different neurons. Because spike sorting involves human judgment, it can be
+subjective and time intensive, particularly for large sets of neurons. Here we
+propose a simple, automated way to construct alternative representations of
+neuronal activity, called spectral representation (SR). In this approach,
+neuronal spikes are mapped to a discrete space of spike waveform features and
+time. Spectral representation enables us to find single-unit stimulus-related
+changes in neuronal activity without spike sorting. We tested the ability of this
+method to predict stimuli using both simulated data and experimental data from an
+auditory mapping study in anesthetized marmoset monkeys. We find that our
+approach produces more accurate classification of stimuli than spike-sorted data 
+for both simulated and experimental conditions. Furthermore, this method lends
+itself to automated analysis of extracellularly recorded neuronal ensembles.
+Additionally, we suggest ways in which these representations can be readily
+extended to assist in spike sorting and the evaluation of single-neuron
+peri-stimulus time histograms.
+
+DOI: 10.1016/j.jneumeth.2004.10.009 
+PMID: 15848239  [Indexed for MEDLINE]
+

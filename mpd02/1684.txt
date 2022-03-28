@@ -1,0 +1,28 @@
+
+
+1684. J Pharmacokinet Pharmacodyn. 2012 Oct;39(5):429-51. doi:
+10.1007/s10928-012-9260-6. Epub 2012 Aug 1.
+
+Dynamics of target-mediated drug disposition: characteristic profiles and
+parameter identification.
+
+Peletier LA(1), Gabrielsson J.
+
+Author information: 
+(1)Mathematical Institute, Leiden University, PB 9512, 2300 RA, Leiden, The
+Netherlands. peletier@math.leidenuniv.nl
+
+In this paper we present a mathematical analysis of the basic model for target
+mediated drug disposition (TMDD). Assuming high affinity of ligand to target, we 
+give a qualitative characterisation of ligand versus time graphs for different
+dosing regimes and derive accurate analytic approximations of different phases in
+the temporal behaviour of the system. These approximations are used to estimate
+model parameters, give analytical approximations of such quantities as area under
+the ligand curve and clearance. We formulate conditions under which a suitably
+chosen Michaelis-Menten model provides a good approximation of the full
+TMDD-model over a specified time interval.
+
+DOI: 10.1007/s10928-012-9260-6 
+PMCID: PMC3446204
+PMID: 22851162  [Indexed for MEDLINE]
+

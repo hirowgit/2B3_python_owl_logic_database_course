@@ -1,0 +1,77 @@
+
+
+2309. Vis Neurosci. 2008 Jan-Feb;25(1):67-76. doi: 10.1017/S0952523808080073.
+
+Distribution of bipolar input to midget and parasol ganglion cells in marmoset
+retina.
+
+Eriköz B(1), Jusuf PR, Percival KA, Grünert U.
+
+Author information: 
+(1)National Vision Research Institute of Australia, Carlton, Australia.
+
+Different types of retinal ganglion cell show differences in their response
+properties. Here we investigated the question of whether these differences are
+related to the distribution of the synaptic input to the dendritic tree. We
+measured the distribution and density of synaptic input to the dendrites of
+midget and parasol ganglion cells in the retina of a New World monkey, the
+marmoset, Callithrix jacchus. Ganglion cells were retrogradely labeled by dye
+injection into parvocellular or magnocellular regions of the lateral geniculate
+nucleus and subsequently photo-filled. Presumed bipolar cell synapses were
+identified immunocytochemically using antibodies against the ribbon protein CtBP2
+or the GluR4 subunit of the AMPA receptor. For all cells, colocalized
+immunoreactive puncta were distributed across the entire dendritic tree. The
+density of the presumed bipolar input to midget ganglion cells was comparable for
+both synaptic markers, suggesting that the AMPA receptor GluR4 subunit is
+expressed at all synapses between midget bipolar and midget ganglion cells.
+Midget ganglion cells had an average of nine colocalized immunoreactive puncta
+per 100 microm2 dendritic surface, and parasol cells had an average of seven
+colocalized immunoreactive puncta per 100 microm2 dendritic surface. The
+densities were comparable in different regions of the dendritic tree and were not
+influenced by the location of the cells with respect to the fovea. Our findings
+suggest that the differences in the response characteristics of midget and
+parasol cells are not due to differences in the density of synaptic input to
+their dendritic tree.
+
+DOI: 10.1017/S0952523808080073 
+PMID: 18282311  [Indexed for MEDLINE]
+
+
+2310. Perception. 2007;36(10):1419-30.
+
+Sources of somatosensory input to the caudal belt areas of auditory cortex.
+
+Hackett TA(1), Smiley JF, Ulbert I, Karmos G, Lakatos P, de la Mothe LA,
+Schroeder CE.
+
+Author information: 
+(1)Department of Hearing and Speech Sciences, Vanderbilt University, Nashville,
+TN 37203, USA. troy.a.hackett@vanderbilt.edu
+
+The auditory cortex of nonhuman primates is comprised of a constellation of at
+least twelve interconnected areas distributed across three major regions on the
+superior temporal gyrus: core, belt, and parabelt. Individual areas are
+distinguished on the basis of unique profiles comprising architectonic features, 
+thalamic and cortical connections, and neuron response properties. Recent
+demonstrations of convergent auditory-somatosensory interactions in the
+caudomedial (CM) and caudolateral (CL) belt areas prompted us to pursue
+anatomical studies to identify the source(s) of somatic input to auditory cortex.
+Corticocortical and thalamocortical connections were revealed by injecting
+neuroanatomical tracers into CM, CL, and adjoining fields of marmoset (Callithrix
+jacchus jacchus) and macaque (Macaca mulatta) monkeys. In addition to auditory
+cortex, the cortical connections of CM and CL included somatosensory
+(retroinsular, Ri; granular insula, Ig) and multisensory areas (temporal parietal
+occipital, temporal parietal temporal). Thalamic inputs included the medial
+geniculate complex and several multisensory nuclei (suprageniculate, posterior,
+limitans, medial pulvinar), but not the ventroposterior complex. Injections of
+the core (A1, R) and rostromedial areas of auditory cortex revealed sparse
+multisensory connections. The results suggest that areas Ri and Ig are the
+principle sources of somatosensory input to the caudal belt, while multisensory
+regions of cortex and thalamus may also contribute. The present data add to
+growing evidence of multisensory convergence in cortical areas previously
+considered to be 'unimodal', and also indicate that auditory cortical areas
+differ in this respect.
+
+DOI: 10.1068/p5841 
+PMID: 18265825  [Indexed for MEDLINE]
+

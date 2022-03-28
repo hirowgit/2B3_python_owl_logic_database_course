@@ -1,0 +1,75 @@
+
+
+1693. Mol Biol Evol. 2012 Dec;29(12):3843-53. doi: 10.1093/molbev/mss186. Epub 2012 Jul
+23.
+
+Evolution of HLA-DRB genes.
+
+Doxiadis GG(1), Hoof I, de Groot N, Bontrop RE.
+
+Author information: 
+(1)Department of Comparative Genetics and Refinement, Biomedical Primate Research
+Centre, Rijswijk, The Netherlands.
+
+The HLA region shows diversity concerning the number and content of DRB genes
+present per haplotype. Similar observations are made for the equivalent regions
+in other primate species. To elucidate the evolutionary history of the various
+HLA-DRB genes, a large panel of intron sequences obtained from humans,
+chimpanzees, rhesus macaques, and common marmosets has been subjected to
+phylogenetic analyses. Special attention was paid to the presence and absence of 
+particular transposable elements and/or to their segments. The sharing of
+different parts of the same long interspersed nuclear element-2 (LINE2, L2) and
+various Alu insertions by the species studied demonstrates that one precursor
+gene must have been duplicated several times before the Old World monkey (OWM)
+and hominid (HOM) divergence. At least four ancestral DRB gene families appear to
+have been present before the radiation of OWM and HOM, and one of these even
+predates the speciation of Old and New World primates. Two of these families
+represent the pseudogenes DRB6/DRB2 and DRB7, which have been locked in the
+genomes of various primate species over long evolutionary time spans.
+Furthermore, all phylogenies of different intron segments show consistently that,
+apart from the pseudogenes, only DRB5 genes are shared by OWM and HOM, and they
+demonstrate the common history of certain DRB genes/lineages of humans and
+chimpanzees. In contrast, the evolutionary history of some other DRB loci is
+difficult to decipher, thus illustrating the complex history of the evolution of 
+DRB genes due to a combination of mutations and recombination-like events. The
+selected approach allowed us to shed light on the ancestral DRB gene pool in
+primates and on the evolutionary relationship of the various HLA-DRB genes.
+
+DOI: 10.1093/molbev/mss186 
+PMCID: PMC3494273
+PMID: 22826457  [Indexed for MEDLINE]
+
+
+1694. J Neuropathol Exp Neurol. 2012 Aug;71(8):716-28.
+
+B-cell depletion abrogates T cell-mediated demyelination in an
+antibody-nondependent common marmoset experimental autoimmune encephalomyelitis
+model.
+
+Jagessar SA(1), Heijmans N, Bauer J, Blezer EL, Laman JD, Hellings N, 't Hart BA.
+
+Author information: 
+(1)Department Immunobiology, Biomedical Primate Research Centre, Rijswijk, the
+Netherlands.
+
+CD20-positive B-cell depletion is a highly promising treatment for multiple
+sclerosis (MS), but the mechanisms underlying therapeutic effects are poorly
+understood. B cells are thought to contribute to MS pathogenesis by producing
+autoantibodies that amplify demyelination via opsonization of myelin. To analyze 
+autoantibody-nondependent functions of B cells in an animal model of MS, we used 
+a novel T cell-driven experimental autoimmune encephalomyelitis (EAE) model in
+marmoset monkeys (Callithrix jacchus). In this model, demyelination of brain and 
+spinal cord white and gray matter and the ensuing neurological deficits are
+induced by immunization with peptide 34 to 56 of myelin/oligodendrocyte
+glycoprotein (MOG34-56) in incomplete Freund's adjuvant. Although autoantibodies 
+do not have a detectable pathogeniccontribution in the model, depletion of B
+cells with monoclonal antibody 7D8, a human IgG1κ monoclonal antibody against
+human CD20, suppressed clinical and pathological EAE. In B cell-depleted monkeys,
+the activation of peptide-specific Th17-producing and cytotoxic T cells, which in
+previous studies were found to play an essential role in disease induction, was
+impaired. Thus, we demonstrate a critical antibody-nondependent role for B cells 
+in EAE, that is, the activation of pathogenic T cells.
+
+DOI: 10.1097/NEN.0b013e3182622691 
+PMID: 22805775  [Indexed for MEDLINE]
+

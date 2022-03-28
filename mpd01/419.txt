@@ -1,0 +1,122 @@
+
+
+419. Nat Commun. 2019 Oct 9;10(1):4592. doi: 10.1038/s41467-019-12588-6.
+
+Vocal state change through laryngeal development.
+
+Zhang YS(1), Takahashi DY(1), Liao DA(1), Ghazanfar AA(2)(3)(4), Elemans CPH(5).
+
+Author information: 
+(1)Princeton Neuroscience Institute, Princeton University, Princeton, NJ, 08544, 
+USA.
+(2)Princeton Neuroscience Institute, Princeton University, Princeton, NJ, 08544, 
+USA. asifg@princeton.edu.
+(3)Department of Psychology, Princeton University, Princeton, NJ, 08544, USA.
+asifg@princeton.edu.
+(4)Department of Ecology & Evolutionary Biology, Princeton University, Princeton,
+NJ, 08544, USA. asifg@princeton.edu.
+(5)Department of Biology, University of Southern Denmark, 5230, Odense M,
+Denmark. coen@biology.sdu.dk.
+
+Erratum in
+    Nat Commun. 2020 Feb 24;11(1):1096.
+
+Across vertebrates, progressive changes in vocal behavior during postnatal
+development are typically attributed solely to developing neural circuits. How
+the changing body influences vocal development remains unknown. Here we show that
+state changes in the contact vocalizations of infant marmoset monkeys, which
+transition from noisy, low frequency cries to tonal, higher pitched vocalizations
+in adults, are caused partially by laryngeal development. Combining analyses of
+natural vocalizations, motorized excised larynx experiments, tensile material
+tests and high-speed imaging, we show that vocal state transition occurs via a
+sound source switch from vocal folds to apical vocal membranes, producing louder 
+vocalizations with higher efficiency. We show with an empirically based model of 
+descending motor control how neural circuits could interact with changing
+laryngeal dynamics, leading to adaptive vocal development. Our results emphasize 
+the importance of embodied approaches to vocal development, where exploiting
+biomechanical consequences of changing material properties can simplify motor
+control, reducing the computational load on the developing brain.
+
+DOI: 10.1038/s41467-019-12588-6 
+PMCID: PMC6785551
+PMID: 31597928  [Indexed for MEDLINE]
+
+
+420. J Virol. 2019 Dec 12;94(1). pii: e01623-19. doi: 10.1128/JVI.01623-19. Print 2019
+Dec 12.
+
+Yellow Fever Virus Reemergence and Spread in Southeast Brazil, 2016-2019.
+
+Giovanetti M(#)(1)(2), de Mendonça MCL(#)(3), Fonseca V(2)(4), Mares-Guia MA(3), 
+Fabri A(3), Xavier J(2), de Jesus JG(5), Gräf T(5), Dos Santos Rodrigues CD(3),
+Dos Santos CC(3), Sampaio SA(3), Chalhoub FLL(3), de Bruycker Nogueira F(3),
+Theze J(6), Romano APM(7), Ramos DG(7), de Abreu AL(8), Oliveira WK(9), do Carmo 
+Said RF(7), de Alburque CFC(10), de Oliveira T(4), Fernandes CA(11), Aguiar
+SF(11), Chieppe A(12), Sequeira PC(3), Faria NR(6), Cunha RV(13)(14), Alcantara
+LCJ(3)(2), de Filippis AMB(3).
+
+Author information: 
+(1)Laboratório de Flavivírus, Instituto Oswaldo Cruz Fiocruz, Rio de Janeiro,
+Brazil giovanetti.marta@gmail.com.
+(2)Laboratório de Genética Celular e Molecular, ICB, Universidade Federal de
+Minas Gerais, Belo Horizonte, Minas Gerais, Brazil.
+(3)Laboratório de Flavivírus, Instituto Oswaldo Cruz Fiocruz, Rio de Janeiro,
+Brazil.
+(4)KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), College of 
+Health Sciences, University of KwaZulu-Natal, Durban, South Africa.
+(5)Instituto Gonçalo Moniz, Fundação Oswaldo Cruz, Ministério da Saúde, Salvador,
+Bahia, Brazil.
+(6)Department of Zoology, University of Oxford, Oxford, United Kingdom.
+(7)Coordenação Geral de Vigilância de Arboviroses (CGARB), Ministério da Saúde,
+(CGLAB/SVS-MS), Brasília, Brazil.
+(8)Coordenação Geral dos Laboratórios de Saúde Pública/Secretaria de Vigilância
+em Saúde, Ministério da Saúde, (CGLAB/SVS-MS), Brasília, Brazil.
+(9)Secretaria de Vigilância em Saúde, Ministério da Saúde (SVS-MS), Brasília,
+Brazil.
+(10)Organização Pan-Americana da Saúde/Organização Mundial da Saúde, Brasília,
+Brazil.
+(11)Laboratório Central de Saúde Pública Noel Nutels (LACEN-RJ), Rio de Janeiro, 
+Brazil.
+(12)Superintendência de Vigilância do Estado, Rio de Janeiro, Brazil.
+(13)Fundação Oswaldo Cruz, Bio-Manguinhos, Rio de Janeiro, Brazil.
+(14)Universidade Federal do Mato Grosso do Sul, Faculdade de Medicina, Campo
+Grande, Brazil.
+(#)Contributed equally
+
+Erratum in
+    J Virol. 2020 May 18;94(11):.
+
+The recent reemergence of yellow fever virus (YFV) in Brazil has raised serious
+concerns due to the rapid dissemination of the virus in the southeastern region. 
+To better understand YFV genetic diversity and dynamics during the recent
+outbreak in southeastern Brazil, we generated 18 complete and nearly complete
+genomes from the peak of the epidemic curve from nonhuman primates (NHPs) and
+human infected cases across the Espírito Santo and Rio de Janeiro states. Genomic
+sequencing of 18 YFV genomes revealed the estimated timing, source, and likely
+routes of yellow fever virus transmission and dispersion during one of the
+largest outbreaks ever registered in Brazil. We showed that during the recent
+epidemic, YFV was reintroduced from Minas Gerais to the Espírito Santo and Rio de
+Janeiro states multiple times between 2016 and 2019. The analysis of data from
+portable sequencing could identify the corridor of spread of YFV. These findings 
+reinforce the idea that continued genomic surveillance strategies can provide
+information on virus genetic diversity and transmission dynamics that might
+assist in understanding arbovirus epidemics.IMPORTANCE Arbovirus infections in
+Brazil, including yellow fever, dengue, zika, and chikungunya, result in
+considerable morbidity and mortality and are pressing public health concerns.
+However, our understanding of these outbreaks is hampered by the limited
+availability of genomic data. In this study, we investigated the genetic
+diversity and spatial distribution of YFV during the current outbreak by
+analyzing genomic data from areas in southeastern Brazil not covered by other
+previous studies. To gain insights into the routes of YFV introduction and
+dispersion, we tracked the virus by sequencing YFV genomes sampled from nonhuman 
+primates and infected patients from the southeastern region. Our study provides
+an understanding of how YFV initiates transmission in new Brazilian regions and
+illustrates that genomics in the field can augment traditional approaches to
+infectious disease surveillance and control.
+
+Copyright © 2019 American Society for Microbiology.
+
+DOI: 10.1128/JVI.01623-19 
+PMCID: PMC6912119
+PMID: 31597773  [Indexed for MEDLINE]
+

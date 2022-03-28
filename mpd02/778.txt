@@ -1,0 +1,51 @@
+
+
+778. Gene. 2018 Feb 5;642:343-353. doi: 10.1016/j.gene.2017.11.048. Epub 2017 Nov 17.
+
+Evolution of vomeronasal receptor 1 (V1R) genes in the common marmoset
+(Callithrix jacchus).
+
+Moriya-Ito K(1), Hayakawa T(2), Suzuki H(3), Hagino-Yamagishi K(4), Nikaido M(5).
+
+Author information: 
+(1)Department of Brain Development and Neural Regeneration, Tokyo Metropolitan
+Institute of Medical Science, Tokyo 156-8506, Japan. Electronic address:
+moriya-kk@igakuken.or.jp.
+(2)Department of Wildlife Science (Nagoya Railroad Co., Ltd.), Primate Research
+Institute, Kyoto University, Inuyama, Aichi 484-8506, Japan; Japan Monkey Centre,
+Inuyama, Aichi 484-0081, Japan.
+(3)Nihon BioData Corporation, 3-2-1 Sakado, Takatsu-ku, Kawasaki, Kanagawa
+213-0012, Japan.; School of Life Science and Technology, Tokyo Institute of
+Technology, Tokyo 152-8550, Japan.
+(4)Department of Brain Development and Neural Regeneration, Tokyo Metropolitan
+Institute of Medical Science, Tokyo 156-8506, Japan.
+(5)School of Life Science and Technology, Tokyo Institute of Technology, Tokyo
+152-8550, Japan. Electronic address: mnikaido@bio.titech.ac.jp.
+
+Pheromones are crucial for eliciting innate responses and inducing social and
+sexual behaviors in mammals. The vomeronasal receptor 1 genes, V1Rs, encode
+members of a pheromone receptor family that are mainly expressed in the
+vomeronasal organ (VNO). The V1R family shows extraordinary variety in gene
+number among vertebrates owing to successive gene gains and losses during
+evolution. Such diversity is believed to reflect a degree of dependence on the
+VNO. We investigated V1R evolution in primate lineages closely related to humans 
+because these VNOs show a trend toward degeneration. We performed extensive
+phylogenetic analyses for V1Rs from a broad range of primate species. Although
+the decline of intact genes was evident in anthropoids (hominoids, Old World
+monkeys and New World monkeys), we found that a certain number of intact genes
+persist in New World monkeys. In one New World monkey species, the common
+marmoset (Callithrix jacchus), we examined seven putatively functional V1Rs using
+in situ hybridization and reverse transcription-PCR. Based on their mRNA
+expression patterns in the VNO and other organs, two types of V1Rs emerged: the
+canonical class with VNO-specific expression, and a second group having more
+ubiquitous expression in various organs as well as VNO. Furthermore, phylogenetic
+analysis revealed that the class with the more widespread expression had been
+retained longer in evolution than the VNO-specific type. We propose that the
+acquisition of a novel non-VNO-related function(s) may have led to the survival
+of a small but persistent number of V1Rs in anthropoid primates.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.gene.2017.11.048 
+PMID: 29155331  [Indexed for MEDLINE]
+

@@ -1,0 +1,36 @@
+
+
+2024. Curr Drug Metab. 2010 Feb;11(2):142-52.
+
+Macaque CYP2C76 encodes cytochrome P450 enzyme not orthologous to any human
+isozymes.
+
+Uno Y(1), Fujino H, Iwasaki K, Utoh M.
+
+Author information: 
+(1)Pharmacokinetics and Bioanalysis Center, Shin Nippon Biomedical Laboratories, 
+Ltd., Kainan, Japan. uno-yasuhiro@snbl.co.jp
+
+Cynomolgus monkey is used in the study of drug metabolism and toxicity due to its
+evolutionary closeness to human as compared with other non-human primate species.
+However, it has become certain that drug metabolism in monkeys is different than 
+in humans. Such species differences have not been fully investigated at a
+molecular level largely due to the scarcity of information on drug-metabolizing
+enzyme genes. In cynomolgus monkey, we have identified cDNAs for 21 kinds of
+cytochromes P450 (CYPs), among which CYP2C76 does not correspond to any human CYP
+isozymes and is partly responsible for the difference in pitavastatin metabolism 
+between cynomolgus monkey and human. In cynomolgus monkey CYP2C76, we identified 
+numerous genetic variants including a null genotype. Heterozygotes for this null 
+genotype are expected to be poor metabolizers in CYP2C76-mediated drug
+metabolism. To provide new clues to CYP2C76 function, here, we have taken
+advantage of sequence information that has been recently deposited to public
+databases to assess the presence of CYP2C76 orthologs in primate species. In this
+assessment, we found the CYP2C76 cDNA sequence in rhesus monkey, and a gene
+sequence highly homologous to cynomolgus monkey CYP2C76 in the marmoset and
+orangutan genomes, raising the possibility that CYP2C76 could also play a role in
+these primate species. This review paper gives an overview of CYP2C76 from
+isolation to molecular characterization, and its implication in drug metabolism.
+
+DOI: 10.2174/138920010791110854 
+PMID: 20359284  [Indexed for MEDLINE]
+

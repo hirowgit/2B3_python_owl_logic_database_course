@@ -1,0 +1,57 @@
+
+
+920. Virol J. 2017 Feb 7;14(1):25. doi: 10.1186/s12985-017-0687-7.
+
+Characterization and pathogenesis of aerosolized eastern equine encephalitis in
+the common marmoset (Callithrix jacchus).
+
+Porter AI(1), Erwin-Cohen RA(2), Twenhafel N(3), Chance T(3), Yee SB(4), Kern
+SJ(5), Norwood D(6), Hartman LJ(6), Parker MD(1), Glass PJ(1), DaSilva L(4).
+
+Author information: 
+(1)United States Army Medical Research Institute of Infectious Diseases
+(USAMRIID), Virology Division, Frederick, MD, 21702, USA.
+(2)United States Army Medical Research Institute of Infectious Diseases
+(USAMRIID), Virology Division, Frederick, MD, 21702, USA. rerwincohen@gmail.com.
+(3)Pathology Division, Frederick, MD, 21702, USA.
+(4)Center for Aerobiological Sciences, Frederick, MD, 21702, USA.
+(5)Research Support Division, Frederick, MD, 21702, USA.
+(6)Diagnostic Systems Division, Frederick, MD, 21702, USA.
+
+Erratum in
+    Virol J. 2017 Mar 10;14 (1):51.
+
+BACKGROUND: Licensed antiviral therapeutics and vaccines to protect against
+eastern equine encephalitis virus (EEEV) in humans currently do not exist. Animal
+models that faithfully recapitulate the clinical characteristics of human EEEV
+encephalitic disease, including fever, drowsiness, anorexia, and neurological
+signs such as seizures, are needed to satisfy requirements of the Food and Drug
+Administration (FDA) for clinical product licensing under the Animal Rule.
+METHODS: In an effort to meet this requirement, we estimated the median lethal
+dose and described the pathogenesis of aerosolized EEEV in the common marmoset
+(Callithrix jacchus). Five marmosets were exposed to aerosolized EEEV FL93-939 in
+doses ranging from 2.4 × 101 PFU to 7.95 × 105 PFU.
+RESULTS: The median lethal dose was estimated to be 2.05 × 102 PFU. Lethality was
+observed as early as day 4 post-exposure in the highest-dosed marmoset but
+animals at lower inhaled doses had a protracted disease course where humane study
+endpoint was not met until as late as day 19 post-exposure. Clinical signs were
+observed as early as 3 to 4 days post-exposure, including fever, ruffled fur,
+decreased grooming, and leukocytosis. Clinical signs increased in severity as
+disease progressed to include decreased body weight, subdued behavior, tremors,
+and lack of balance. Fever was observed as early as day 2-3 post-exposure in the 
+highest dose groups and hypothermia was observed in several cases as animals
+became moribund. Infectious virus was found in several key tissues, including
+brain, liver, kidney, and several lymph nodes. Clinical hematology results
+included early neutrophilia, lymphopenia, and thrombocytopenia. Key pathological 
+changes included meningoencephalitis and retinitis. Immunohistochemical staining 
+for viral antigen was positive in the brain, retina, and lymph nodes. More
+intense and widespread IHC labeling occurred with increased aerosol dose.
+CONCLUSION: We have estimated the medial lethal dose of aerosolized EEEV and
+described the pathology of clinical disease in the marmoset model. The results
+demonstrate that the marmoset is an animal model suitable for emulation of human 
+EEEV disease in the development of medical countermeasures.
+
+DOI: 10.1186/s12985-017-0687-7 
+PMCID: PMC5297202
+PMID: 28173871  [Indexed for MEDLINE]
+

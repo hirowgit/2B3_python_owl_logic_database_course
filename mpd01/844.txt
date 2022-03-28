@@ -1,0 +1,62 @@
+
+
+844. PLoS One. 2017 Jul 7;12(7):e0180486. doi: 10.1371/journal.pone.0180486.
+eCollection 2017.
+
+Ribbon scanning confocal for high-speed high-resolution volume imaging of brain.
+
+Watson AM(1)(2), Rose AH(3), Gibson GA(4), Gardner CL(1)(2), Sun C(1)(2), Reed
+DS(1)(5), Lam LKM(1)(2), St Croix CM(4), Strick PL(3), Klimstra WB(1)(2), Watkins
+SC(4).
+
+Author information: 
+(1)Center for Vaccine Research, University of Pittsburgh, Pittsburgh,
+Pennsylvania, United States of America.
+(2)Department of Microbiology and Molecular Genetics, University of Pittsburgh,
+Pittsburgh, Pennsylvania, United States of America.
+(3)Department of Neurobiology, University of Pittsburgh, Pittsburgh,
+Pennsylvania, United States of America.
+(4)Center for Biologic Imaging and the Department of Cellular Biology, University
+of Pittsburgh, Pittsburgh, Pennsylvania, United States of America.
+(5)Department of Immunology, University of Pittsburgh, Pittsburgh, Pennsylvania, 
+United States of America.
+
+Whole-brain imaging is becoming a fundamental means of experimental insight;
+however, achieving subcellular resolution imagery in a reasonable time window has
+not been possible. We describe the first application of multicolor ribbon
+scanning confocal methods to collect high-resolution volume images of chemically 
+cleared brains. We demonstrate that ribbon scanning collects images over ten
+times faster than conventional high speed confocal systems but with equivalent
+spectral and spatial resolution. Further, using this technology, we reconstruct
+large volumes of mouse brain infected with encephalitic alphaviruses and
+demonstrate that regions of the brain with abundant viral replication were
+inaccessible to vascular perfusion. This reveals that the destruction or collapse
+of large regions of brain micro vasculature may contribute to the severe disease 
+caused by Venezuelan equine encephalitis virus. Visualization of this fundamental
+impact of infection would not be possible without sampling at subcellular
+resolution within large brain volumes.
+
+DOI: 10.1371/journal.pone.0180486 
+PMCID: PMC5501561
+PMID: 28686653  [Indexed for MEDLINE]
+
+
+845. Xenobiotica. 2018 Jul;48(7):720-726. doi: 10.1080/00498254.2017.1353716. Epub
+2017 Jul 25.
+
+Effects of aging and rifampicin pretreatment on the pharmacokinetics of human
+cytochrome P450 probes caffeine, warfarin, omeprazole, metoprolol and midazolam
+in common marmosets genotyped for cytochrome P450 2C19.
+
+Toda A(1), Uehara S(2), Inoue T(3), Utoh M(1)(2), Kusama T(2), Shimizu M(2), Uno 
+Y(1), Mogi M(1), Sasaki E(4)(5), Yamazaki H(2).
+
+Author information: 
+(1)a Shin Nippon Biomedical Laboratories Ltd. , Kainan , Japan.
+(2)b Laboratory of Drug Metabolism and Pharmacokinetics , Showa Pharmaceutical
+University , Tokyo , Japan.
+(3)c Marmoset Research Department, Central Institute for Experimental Animals ,
+Kawasaki , Japan.
+(4)d Center of Applied Developmental Biology, Central Institute for Experimental 
+Animals , Kawasaki , Japan , and.
+(5)e Keio Advanced Research Center, Keio University , Tokyo , Japan.

@@ -1,0 +1,65 @@
+
+
+2074. Microbiol Immunol. 2009 Dec;53(12):667-74. doi: 10.1111/j.1348-0421.2009.00176.x.
+
+Epitope mapping of Canine distemper virus phosphoprotein by monoclonal
+antibodies.
+
+Sugai A(1), Kooriyama T, Sato H, Yoneda M, Kai C.
+
+Author information: 
+(1)Laboratory Animal Research Center, The Institute of Medical Science, The
+University of Tokyo, Minato-ku, Tokyo, Japan.
+
+The gene for phosphoprotein (P) of CDV encodes three different proteins, P, V,
+and C. The P protein is involved in viral gene transcription and replication. In 
+the present study, we produced MAbs against a unique domain of the CDV-P protein,
+from aa 232 to 507, and determined their antigenic sites. By immunizing BALB/c
+mice with the recombinant P protein-specific fragment, we obtained six MAbs.
+Competitive binding inhibition assays revealed that they recognized two distinct 
+regions of the P protein. Western blot analysis and immunofluorescence assays
+using deletion mutants of the unique C-terminus of the CDV-P protein revealed
+that all MAbs recognized a central short region (aa 233-303) of the CDV-P
+protein. In addition, linear and conformational epitopes have been determined,
+and at least four antigenic sites exist in the P protein central region.
+Furthermore, four of the MAbs were found to react with the P protein of recent
+Japanese field isolates but not with that of the older CDV strains, including a
+vaccine strain. Thus, these MAbs could be clinically useful for quick diagnosis
+during the CDV outbreaks.
+
+DOI: 10.1111/j.1348-0421.2009.00176.x 
+PMID: 19954454  [Indexed for MEDLINE]
+
+
+2075. Nat Methods. 2010 Jan;7(1):61-6. doi: 10.1038/nmeth.1403. Epub 2009 Nov 29.
+
+Nongenetic method for purifying stem cell-derived cardiomyocytes.
+
+Hattori F(1), Chen H, Yamashita H, Tohyama S, Satoh YS, Yuasa S, Li W, Yamakawa
+H, Tanaka T, Onitsuka T, Shimoji K, Ohno Y, Egashira T, Kaneda R, Murata M,
+Hidaka K, Morisaki T, Sasaki E, Suzuki T, Sano M, Makino S, Oikawa S, Fukuda K.
+
+Author information: 
+(1)Department of Regenerative Medicine and Advanced Cardiac Therapeutics, Keio
+University School of Medicine, Tokyo, Japan.
+
+Comment in
+    Nat Methods. 2010 Jan;7(1):40-2.
+
+Several applications of pluripotent stem cell (PSC)-derived cardiomyocytes
+require elimination of undifferentiated cells. A major limitation for
+cardiomyocyte purification is the lack of easy and specific cell marking
+techniques. We found that a fluorescent dye that labels mitochondria,
+tetramethylrhodamine methyl ester perchlorate, could be used to selectively mark 
+embryonic and neonatal rat cardiomyocytes, as well as mouse, marmoset and human
+PSC-derived cardiomyocytes, and that the cells could subsequently be enriched
+(>99% purity) by fluorescence-activated cell sorting. Purified cardiomyocytes
+transplanted into testes did not induce teratoma formation. Moreover, aggregate
+formation of PSC-derived cardiomyocytes through homophilic cell-cell adhesion
+improved their survival in the immunodeficient mouse heart. Our approaches will
+aid in the future success of using PSC-derived cardiomyocytes for basic and
+clinical applications.
+
+DOI: 10.1038/nmeth.1403 
+PMID: 19946277  [Indexed for MEDLINE]
+

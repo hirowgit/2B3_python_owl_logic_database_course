@@ -1,0 +1,75 @@
+
+
+1874. Epilepsy Res. 2011 Sep;96(1-2):45-57. doi: 10.1016/j.eplepsyres.2011.04.015. Epub
+2011 May 26.
+
+Modeling epileptogenesis and temporal lobe epilepsy in a non-human primate.
+
+Perez-Mendes P(1), Blanco MM, Calcagnotto ME, Cinini SM, Bachiega J, Papoti D,
+Covolan L, Tannus A, Mello LE.
+
+Author information: 
+(1)Departamento de Fisiologia, Universidade Federal de São Paulo, Brazil.
+
+Here we describe a new non-human primate model of temporal lobe epilepsy (TLE) to
+better investigate the cause/effect relationships of human TLE. Status
+epilepticus (SE) was induced in adult marmosets by pilocarpine injection
+(250mg/kg; i.p.). The animals were divided in 2 groups: acute (8h post-SE) and
+chronic (3 and 5 months post-SE). To manage the severity of SE, animals received 
+diazepam 5min after the SE onset (acute group: 2.5 or 1.25mg/kg; i.p.; chronic
+group/; 1.25mg/kg; i.p). All animals were monitored by video and
+electrocorticography to assess SE and subsequent spontaneous recurrent seizures
+(SRS). To evaluate brain injury produced by SE or SRS we used argyrophil III,
+Nissl and neo-Timm staining techniques. Magnetic resonance image was also
+performed in the chronic group. We observed that pilocarpine was able to induce
+SE followed by SRS after a variable period of time. Prolonged SE episodes were
+associated with brain damage, mostly confined to the hippocampus and limbic
+structures. Similar to human TLE, anatomical disruption of dentate gyrus was
+observed after SRS. Our data suggest that pilocarpine marmoset model of epilepsy 
+has great resemblance to human TLE, and could provide new tools to further
+evaluate the subtle changes associated with human epilepsy.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.eplepsyres.2011.04.015 
+PMID: 21620680  [Indexed for MEDLINE]
+
+
+1875. J Neurophysiol. 2011 Aug;106(2):849-59. doi: 10.1152/jn.00559.2010. Epub 2011 May
+25.
+
+Fine frequency tuning in monkey auditory cortex and thalamus.
+
+Bartlett EL(1), Sadagopan S, Wang X.
+
+Author information: 
+(1)Department of Biomedical Engineering, Johns Hopkins University, 720 Rutland
+Ave., Traylor 410, Baltimore, MD 21205, USA.
+
+The frequency resolution of neurons throughout the ascending auditory pathway is 
+important for understanding how sounds are processed. In many animal studies, the
+frequency tuning widths are about 1/5th octave wide in auditory nerve fibers and 
+much wider in auditory cortex neurons. Psychophysical studies show that humans
+are capable of discriminating far finer frequency differences. A recent study
+suggested that this is perhaps attributable to fine frequency tuning of neurons
+in human auditory cortex (Bitterman Y, Mukamel R, Malach R, Fried I, Nelken I.
+Nature 451: 197-201, 2008). We investigated whether such fine frequency tuning
+was restricted to human auditory cortex by examining the frequency tuning width
+in the awake common marmoset monkey. We show that 27% of neurons in the primary
+auditory cortex exhibit frequency tuning that is finer than the typical frequency
+tuning of the auditory nerve and substantially finer than previously reported
+cortical data obtained from anesthetized animals. Fine frequency tuning is also
+present in 76% of neurons of the auditory thalamus in awake marmosets. Frequency 
+tuning was narrower during the sustained response compared to the onset response 
+in auditory cortex neurons but not in thalamic neurons, suggesting that
+thalamocortical or intracortical dynamics shape time-dependent frequency tuning
+in cortex. These findings challenge the notion that the fine frequency tuning of 
+auditory cortex is unique to human auditory cortex and that it is a de novo
+cortical property, suggesting that the broader tuning observed in previous animal
+studies may arise from the use of anesthesia during physiological recordings or
+from species differences.
+
+DOI: 10.1152/jn.00559.2010 
+PMCID: PMC3154823
+PMID: 21613589  [Indexed for MEDLINE]
+

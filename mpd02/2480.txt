@@ -1,0 +1,42 @@
+
+
+2480. J Mol Evol. 2006 Nov;63(5):591-601. Epub 2006 Sep 26.
+
+Evolution of growth hormone in primates: the GH gene clusters of the New World
+monkeys marmoset (Callithrix jacchus) and white-fronted capuchin (Cebus
+albifrons).
+
+Wallis OC(1), Wallis M.
+
+Author information: 
+(1)Biochemistry Department, School of Life Sciences, University of Sussex,
+Brighton BN1 9QG, UK.
+
+The GH gene cluster in marmoset, Callithrix jacchus, comprises eight GH-like
+genes and pseudogenes and appears to have arisen as a consequence of gene
+duplications occurring independently of those leading to the human GH gene
+cluster. We report here the complete sequence of the marmoset GH gene locus,
+including the intergenic regions and 5' and 3' flanking sequence, and a study of 
+the multiple GH-like genes of an additional New World monkey (NWM), the
+white-fronted capuchin, Cebus albifrons. The marmoset sequence includes 945
+nucleotides (nt) of 5' flanking sequence and 1596 nt of 3' flanking sequence that
+are "unique"; between these are eight repeat units, including the eight GH
+genes/pseudogenes. The breakpoints between these repeats are very similar,
+indicating a regular pattern of gene duplication. These breakpoints do not
+correspond to those found in the much less regular human GH gene cluster. This
+and phylogenetic analysis of the repeat units within the marmoset gene cluster
+strongly support the independent origin of these gene clusters, and the idea that
+the episode of rapid evolution that occurred during GH evolution in primates
+preceded the gene duplications. The marmoset GH gene cluster also differs from
+that of human in having fewer and more evenly distributed Alu sequences (a single
+pair in each repeat unit) and a "P-element" upstream of every gene/pseudogene. In
+human there is no P-element upstream of the gene encoding pituitary GH, and these
+elements have been implicated in placental expression of the other genes of the
+cluster. The GH gene clusters in marmoset and capuchin appear to have arisen as
+the consequence of a single-gene duplication event, but in capuchin there was
+then a remarkable expansion of the GH locus, giving at least 40 GH-like genes and
+pseudogenes. Thus even among NWMs the GH gene cluster is very variable.
+
+DOI: 10.1007/s00239-006-0039-5 
+PMID: 17009125  [Indexed for MEDLINE]
+

@@ -1,0 +1,42 @@
+
+
+2432. Br J Pharmacol. 2007 Apr;150(7):893-8. Epub 2007 Feb 12.
+
+Nitric oxide fails to confer endogenous antiarrhythmic cardioprotection in the
+primate heart in vitro.
+
+Pabla R(1), Curtis MJ.
+
+Author information: 
+(1)Cardiovascular Division, Rayne Institute, St Thomas' Hospital, London, UK.
+
+BACKGROUND AND PURPOSE: The role of nitric oxide (NO) in cardiac pathophysiology 
+remains controversial. According to data from several studies using rat and
+rabbit isolated hearts, NO is an endogenous cardioprotectant against
+reperfusion-induced ventricular fibrillation (VF). Thus, if cardiac NO production
+is abolished by perfusion with L-N(G)-nitro-L-arginine methylester (L-NAME) (100 
+microM) there is a concomittant increase in the incidence of reperfusion-induced 
+VF, with L-NAME's effects on NO and VF prevented by L- (but not D-) arginine
+co-perfusion. To make a better estimate of the clinical relevance of these
+findings, 100 microM L-NAME was tested in primate hearts under similar
+conditions.
+EXPERIMENTAL APPROACH: Marmoset (Callithrix jaccus) hearts, isolated and
+perfused, were subjected to 60 min left regional ischaemia followed by 10 min
+reperfusion in vitro. The ECG was recorded and NO in coronary effluent measured
+by chemiluminescence.
+KEY RESULTS: L-NAME (100 micro M) decreased NO in coronary effluent throughout
+ischaemia and reperfusion (e.g. from 3720+/-777 pmol min(-1) g(-1) in controls to
+699+/-98 pmol min(-1) g(-1) after 5 min of ischaemia) and, during ischaemia,
+lowered coronary flow and reduced heart rate, actions identical to those seen in 
+rat and rabbit hearts. However, the incidence of reperfusion-induced VF was
+unchanged (20%, with or without L-NAME).
+CONCLUSIONS AND IMPLICATIONS: A species difference exists in the effectiveness of
+endogenous NO to protect hearts against reperfusion-induced VF. The present
+primate data, which presumably take precedence over rat and rabbit data, cast
+doubt on the clinical relevance of NO as an endogenous, antiarrhythmic,
+cardioprotectant.
+
+DOI: 10.1038/sj.bjp.0707143 
+PMCID: PMC2013886
+PMID: 17293889  [Indexed for MEDLINE]
+

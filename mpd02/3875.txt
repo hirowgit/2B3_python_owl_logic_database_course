@@ -1,0 +1,27 @@
+
+
+3875. Bull Assoc Anat (Nancy). 1995 Sep;79(246):21-4.
+
+The weight of the heart in Callithrix Erxleben, 1777.
+
+de Freitas Burity CH(1), Mandarim-de-Lacerda CA.
+
+Author information: 
+(1)Department of Anatomy, State University of Rio de Janeiro (UERJ), Brazil.
+
+The allometric relationship between the weight of the heart and the body
+measurements was analyzed in 31 primates of genus Callithrix (C. jacchus and C.
+penicillata). The data were analyzed after logarithmic transformation using the
+model: Ln Y = Ln a + (b) Ln X. We compared with the t-test the slopes of the
+males and females and the slopes of the C. Jacchus and C. penicillata. Positive
+allometry was found to the weight of the heart in relation to the body weight
+(except to females of C. penicillata = isometry) and to sitting height in females
+of C. jacchus and males of C. penicillata. The relationship of the weight of the 
+heart with the sitting height was isometric in males of C. jacchus and negative
+in females of C. penicillata. We cannot reject the null hypothesis analyzing the 
+differences between the slopes of males and females. Therefore, in these two
+species of Callithrix we accept the concept of monomorphism.
+
+
+PMID: 8541606  [Indexed for MEDLINE]
+

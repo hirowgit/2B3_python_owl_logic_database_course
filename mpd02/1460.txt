@@ -1,0 +1,64 @@
+
+
+1460. Biochem Biophys Res Commun. 2014 Feb 14;444(3):307-10. doi:
+10.1016/j.bbrc.2014.01.023. Epub 2014 Jan 16.
+
+Developmental genetic profiles of glutamate receptor system, neuromodulator
+system, protector of normal tissue and mitochondria, and reelin in marmoset
+cortex: potential molecular mechanisms of pruning phase of spines in primate
+synaptic formation process during the end of infancy and prepuberty (II).
+
+Sasaki T(1), Oga T(2), Nakagaki K(1), Sakai K(1), Sumida K(3), Hoshino K(4),
+Miyawaki I(4), Saito K(3), Suto F(1), Ichinohe N(5).
+
+Author information: 
+(1)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, 4-1-1 Ogawa-Higashi, Kodaira, Tokyo 
+187-8502, Japan.
+(2)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, 4-1-1 Ogawa-Higashi, Kodaira, Tokyo 
+187-8502, Japan; Graduate School of Frontier Biosciences, Osaka University,
+Toyonaka, Osaka 560-8531, Japan.
+(3)Environmental Health Science Laboratory, Sumitomo Chemical Co., Ltd., 3-1-98
+Kasugade-naka, Konohana-ku, Osaka 554-8558, Japan.
+(4)Preclinical Research Laboratories, Dainippon Sumitomo Pharma Co., Ltd., 3-1-98
+Kasugade-naka, Konohana-ku, Osaka 554-0022, Japan.
+(5)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, 4-1-1 Ogawa-Higashi, Kodaira, Tokyo 
+187-8502, Japan. Electronic address: nichino@ncnp.go.jp.
+
+This is the second report of a series paper, which reports molecular mechanisms
+underlying the occurrence of pruning spine phase after rapid spinogenesis phase
+in neonates and young infant in the primate brain. We performed microarray
+analysis between the peak of spine numbers [postnatal 3 months (M)] and spine
+pruning (postnatal 6M) in prefrontal, inferior temporal, and primary visual
+cortices of the common marmoset (Callithrix jacchus). The pruning phase is not
+clearly defined in rodents but is in primates including the marmoset. The
+differentially expressed genes between 3M and 6M in all three cortical areas were
+selected by two-way analysis of variance. The list of selected genes was analyzed
+by canonical pathway analysis using "Ingenuity Pathway Analysis of complex omics 
+data" (IPA; Ingenuity Systems, Qiagen, Hilden, Germany). In this report, we
+discuss these lists of genes for the glutamate receptor system, G-protein-coupled
+neuromodulator system, protector of normal tissue and mitochondria, and reelin.
+(1) Glutamate is a common neurotransmitter. Its receptors AMPA1, GRIK1, and their
+scaffold protein DLG4 decreased as spine numbers decreased. Instead, GRIN3 (NMDA 
+receptor) increased, suggesting that strong NMDA excitatory currents may be
+required for a single neuron to receive sufficient net synaptic activity in order
+to compensate for the decrease in synapse. (2) Most of the G protein-coupled
+receptor genes (e.g., ADRA1D, HTR2A, HTR4, and DRD1) in the selected list were
+upregulated at 6M. The downstream gene ROCK2 in these receptor systems plays a
+role of decreasing synapses, and ROCK2 decreased at 6M. (3) Synaptic phagosytosis
+by microglia with complement and other cytokines could cause damage to normal
+tissue and mitochondria. SOD1, XIAP, CD46, and CD55, which play protective roles 
+in normal tissue and mitochondria, showed higher expression at 6M than at 3M,
+suggesting that normal brain tissue is more protected at 6M. (4) Reelin has an
+important role in cortical layer formation. In addition, RELN and three different
+pathways of reelin were expressed at 6M, suggesting that new synapse formation
+decreased at that age. Moreover, if new synapses were formed, their positions
+were free and probably dependent on activity.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2014.01.023 
+PMID: 24440696  [Indexed for MEDLINE]
+

@@ -1,0 +1,84 @@
+
+
+1561. J Pharm Sci. 2013 Sep;102(9):3343-55. doi: 10.1002/jps.23575. Epub 2013 May 6.
+
+Quantitative atlas of blood-brain barrier transporters, receptors, and tight
+junction proteins in rats and common marmoset.
+
+Hoshi Y(1), Uchida Y, Tachikawa M, Inoue T, Ohtsuki S, Terasaki T.
+
+Author information: 
+(1)Division of Membrane Transport and Drug Targeting, Graduate School of
+Pharmaceutical Sciences, Tohoku University, Aoba-ku, Sendai 980-8578, Japan.
+
+The purpose of this study was to determine the protein amounts of blood-brain
+barrier (BBB) permeability-related transporters, receptors, and tight junction
+proteins in Sprague Dawley and Wistar rats and common marmoset, and also to
+investigate inter-species and inter-strain differences across rodents and
+primates. Quantification of target proteins in isolated brain capillaries was
+conducted by liquid chromatography-tandem mass spectrometry-based quantitative
+targeted absolute proteomics, with in silico peptide selection. Most target
+proteins showed inter-rodent, inter-primate species, and inter-rat strain
+differences of less than 2-fold. Comparison of rat and human BBB showed that
+P-glycoprotein, multidrug resistance-associated protein 4, monocarboxylate
+transporter 1, l-type amino acid transporter, and organic anion transporter 3
+exhibited differences of more than two-fold in protein abundance, whereas the
+amounts of breast cancer resistance protein, glucose transporter 1, and insulin
+receptor were similar in rat and human. In contrast, the differences between
+marmoset and human BBB were less than 2-fold for almost all measured proteins.
+Thus, the molecular basis of BBB functions may be similar in marmoset and human, 
+whereas that of rats shows significant differences. The marmoset may be a good
+model to access in vivo human BBB permeability characteristics, as an alternative
+to rat and macaque monkey.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jps.23575 
+PMID: 23650139  [Indexed for MEDLINE]
+
+
+1562. PeerJ. 2013 Feb 12;1:e13. doi: 10.7717/peerj.13. Print 2013.
+
+Dissecting the mechanisms of squirrel monkey (Saimiri boliviensis) social
+learning.
+
+Hopper L(1), Holmes A, Williams L, Brosnan S.
+
+Author information: 
+(1)Lester E. Fisher Center for the Study and Conservation of Apes , Lincoln Park 
+Zoo , Chicago, IL , USA ; Language Research Center , Georgia State University ,
+Atlanta, GA , USA.
+
+Although the social learning abilities of monkeys have been well documented, this
+research has only focused on a few species. Furthermore, of those that also
+incorporated dissections of social learning mechanisms, the majority studied
+either capuchins (Cebus apella) or marmosets (Callithrix jacchus). To gain a
+broader understanding of how monkeys gain new skills, we tested squirrel monkeys 
+(Saimiri boliviensis) which have never been studied in tests of social learning
+mechanisms. To determine whether S. boliviensis can socially learn, we ran "open 
+diffusion" tests with monkeys housed in two social groups (N = 23). Over the
+course of 10 20-min sessions, the monkeys in each group observed a trained group 
+member retrieving a mealworm from a bidirectional task (the "Slide-box"). Two
+thirds (67%) of these monkeys both learned how to operate the Slide-box and they 
+also moved the door significantly more times in the direction modeled by the
+trained demonstrator than the alternative direction. To tease apart the
+underlying social learning mechanisms we ran a series of three control conditions
+with 35 squirrel monkeys that had no previous experience with the Slide-box. The 
+first replicated the experimental open diffusion sessions but without the
+inclusion of a trained model, the second was a no-information control with dyads 
+of monkeys, and the third was a 'ghost' display shown to individual monkeys. The 
+first two controls tested for the importance of social support (mere presence
+effect) and the ghost display showed the affordances of the task to the monkeys. 
+The monkeys showed a certain level of success in the group control (54% of
+subjects solved the task on one or more occasions) and paired controls (28% were 
+successful) but none were successful in the ghost control. We propose that the
+squirrel monkeys' learning, observed in the experimental open diffusion tests,
+can be best described by a combination of social learning mechanisms in concert; 
+in this case, those mechanisms are most likely object movement reenactment and
+social facilitation. We discuss the interplay of these mechanisms and how they
+related to learning shown by other primate species.
+
+DOI: 10.7717/peerj.13 
+PMCID: PMC3628937
+PMID: 23638347 
+

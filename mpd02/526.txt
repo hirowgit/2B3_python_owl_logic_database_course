@@ -1,0 +1,49 @@
+
+
+526. PLoS One. 2019 Mar 20;14(3):e0213727. doi: 10.1371/journal.pone.0213727.
+eCollection 2019.
+
+Does opportunistic testing bias cognitive performance in primates? Learning from 
+drop-outs.
+
+Schubiger MN(1)(2), Kissling A(1), Burkart JM(1).
+
+Author information: 
+(1)Department of Anthropology, Evolutionary Cognition Group, University of
+Zurich, Zurich, Switzerland.
+(2)School of Social and Health Sciences, Division of Psychology, Abertay
+University, Dundee, Scotland, United Kingdom.
+
+Dropouts are a common issue in cognitive tests with non-human primates. One main 
+reason for dropouts is that researchers often face a trade-off between obtaining 
+a sufficiently large sample size and logistic restrictions, such as limited
+access to testing facilities. The commonly-used opportunistic testing approach
+deals with this trade-off by only testing those individuals who readily
+participate and complete the cognitive tasks within a given time frame. All other
+individuals are excluded from further testing and data analysis. However, it is
+unknown if this approach merely excludes subjects who are not consistently
+motivated to participate, or if these dropouts systematically differ in cognitive
+ability. If the latter holds, the selection bias resulting from opportunistic
+testing would systematically affect performance scores and thus comparisons
+between individuals and species. We assessed the potential effects of
+opportunistic testing on cognitive performance in common marmosets (Callithrix
+jacchus) and squirrel monkeys (Saimiri sciureus) with a test battery consisting
+of six cognitive tests: two inhibition tasks (Detour Reaching and A-not-B), one
+cognitive flexibility task (Reversal Learning), one quantity discrimination task,
+and two memory tasks. Importantly, we used a full testing approach in which
+subjects were given as much time as they required to complete each task. For each
+task, we then compared the performance of subjects who completed the task within 
+the expected number of testing days with those subjects who needed more testing
+time. We found that the two groups did not differ in task performance, and
+therefore opportunistic testing would have been justified without risking biased 
+results. If our findings generalise to other species, maximising sample sizes by 
+only testing consistently motivated subjects will be a valid alternative whenever
+full testing is not feasible.
+
+DOI: 10.1371/journal.pone.0213727 
+PMCID: PMC6426242
+PMID: 30893340  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

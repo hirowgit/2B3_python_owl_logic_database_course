@@ -1,0 +1,58 @@
+
+
+382. Immunity. 2020 Jan 14;52(1):167-182.e7. doi: 10.1016/j.immuni.2019.12.004. Epub
+2019 Dec 26.
+
+Targeted Complement Inhibition at Synapses Prevents Microglial Synaptic
+Engulfment and Synapse Loss in Demyelinating Disease.
+
+Werneburg S(1), Jung J(1), Kunjamma RB(2), Ha SK(3), Luciano NJ(3), Willis CM(4),
+Gao G(5), Biscola NP(6), Havton LA(7), Crocker SJ(4), Popko B(2), Reich DS(3),
+Schafer DP(8).
+
+Author information: 
+(1)Department of Neurobiology, Brudnik Neuropsychiatric Research Institute,
+University of Massachusetts Medical School, Worcester, MA 01605, USA.
+(2)Department of Neurology, University of Chicago, Chicago, IL 60637, USA.
+(3)Translational Neuroradiology Section, National Institute of Neurological
+Disorders and Stroke, National Institutes of Health, Bethesda, MD 20892, USA.
+(4)Department of Neuroscience, University of Connecticut School of Medicine,
+Farmington, CT 06032, USA.
+(5)Horae Gene Therapy Center, University of Massachusetts Medical School,
+Worcester, MA 01605, USA; Li Weibo Institute for Rare Diseases Research,
+University of Massachusetts Medical School, Worcester, MA 01605, USA; Department 
+of Microbiologic and Physiological Systems, University of Massachusetts Medical
+School, Worcester, MA 01605, USA.
+(6)Department of Neurology, David Geffen School of Medicine at UCLA, Los Angeles,
+CA 90095, USA.
+(7)Department of Neurology, David Geffen School of Medicine at UCLA, Los Angeles,
+CA 90095, USA; Department of Neurobiology, David Geffen School of Medicine at
+UCLA, Los Angeles, CA 90095, USA.
+(8)Department of Neurobiology, Brudnik Neuropsychiatric Research Institute,
+University of Massachusetts Medical School, Worcester, MA 01605, USA. Electronic 
+address: dorothy.schafer@umassmed.edu.
+
+Comment in
+    Immunity. 2020 Jan 14;52(1):11-13.
+
+Multiple sclerosis (MS) is a demyelinating, autoimmune disease of the central
+nervous system. While work has focused on myelin and axon loss in MS, less is
+known about mechanisms underlying synaptic changes. Using postmortem human MS
+tissue, a preclinical nonhuman primate model of MS, and two rodent models of
+demyelinating disease, we investigated synapse changes in the visual system.
+Similar to other neurodegenerative diseases, microglial synaptic engulfment and
+profound synapse loss were observed. In mice, synapse loss occurred independently
+of local demyelination and neuronal degeneration but coincided with gliosis and
+increased complement component C3, but not C1q, at synapses. Viral overexpression
+of the complement inhibitor Crry at C3-bound synapses decreased microglial
+engulfment of synapses and protected visual function. These results indicate that
+microglia eliminate synapses through the alternative complement cascade in
+demyelinating disease and identify a strategy to prevent synapse loss that may be
+broadly applicable to other neurodegenerative diseases. VIDEO ABSTRACT.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.immuni.2019.12.004 
+PMCID: PMC6996144
+PMID: 31883839  [Indexed for MEDLINE]
+

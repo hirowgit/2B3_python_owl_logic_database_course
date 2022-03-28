@@ -1,0 +1,58 @@
+
+
+3019. J Neural Transm (Vienna). 2002 Oct;109(10):1295-307.
+
+Naloxone reduces levodopa-induced dyskinesias and apomorphine-induced rotations
+in primate models of parkinsonism.
+
+Klintenberg R(1), Svenningsson P, Gunne L, Andrén PE.
+
+Author information: 
+(1)Department of Pharmaceutical Biosciences, Uppsala University, Biomedicum,
+Uppsala, Sweden.
+
+Using in situ hybridization, it was found that subchronic treatment with
+levodopa/benserazide increased preproenkephalin-A and preproenkephalin-B mRNAs in
+the dopamine-depleted striatum. In order to examine whether dysfunction of the
+endogenous opioid system may underlie the development of levodopa-induced
+dyskinesias, the effect of naloxone, an opioid antagonist, on dyskinesias was
+investigated in two models of parkinsonism in the common marmoset. MPTP-treated
+monkeys were administered a daily oral dose of levodopa/benserazide which
+relieved the parkinsonian symptoms but induced severe and reproducible dyskinetic
+movements. Naloxone (0.1, 0.2 or 0.5 mg/kg) was given subcutaneously (s.c.)
+during peak-dose dyskinesia, which reduced the dyskinesias significantly using
+the highest dose, normalized the motor activity, but did not modify the
+antiparkinson effect. Unilaterally 6-OHDA -lesioned marmosets received
+apomorphine s.c., which caused a contralateral turning behavior that could be
+reduced up to 35 percent by concomitant administration of naloxone. Taken
+together the present results suggest a possible role for the endogenous opioid
+system in the pathogenesis of levodopa-induced dyskinesia in primates.
+
+DOI: 10.1007/s00702-002-0715-6 
+PMID: 12373562  [Indexed for MEDLINE]
+
+
+3020. Neuron. 2002 Sep 26;36(1):139-42.
+
+Predicting functional properties of visual cortex from an evolutionary scaling
+law.
+
+Stevens CF(1).
+
+Author information: 
+(1)Howard Hughes Medical Institute, Molecular Neurobiology Laboratory, The Salk
+Institute, La Jolla, CA 92037, USA. stevens@salk.edu
+
+The number of neurons in the primary visual cortex (V1) is, across primate
+species, related to the number of neurons in the visual thalamus (the lateral
+geniculate nucleus [LGN]) by a power law with an exponent of 3/2. This
+evolutionary scaling law is explained by a simple relation according to which the
+fineness of resolution in cortex is related to the number of neurons in the area 
+of cortex used to process the information from a single point of light (the
+point-spread area). The same theory provides a link between two functional
+properties of the visual cortex, the areal cortical magnification factor (ACMF)
+and the receptive field (RF) area.
+
+DOI: 10.1016/s0896-6273(02)00902-9 
+PMID: 12367512  [Indexed for MEDLINE]
+

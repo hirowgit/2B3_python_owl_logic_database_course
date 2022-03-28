@@ -1,0 +1,75 @@
+
+
+101. J Med Primatol. 2021 Oct;50(5):249-258. doi: 10.1111/jmp.12534. Epub 2021 Jul 28.
+
+The use of midazolam as an appetite stimulant and anxiolytic in the common
+marmoset (Callithrix jacchus).
+
+Herrod JA(1), Avelino JA(1)(2), Schonvisky KM(1), Lynch JK(3), Hutchinson EK(1), 
+Izzi JM(1).
+
+Author information: 
+(1)Research Animal Resources, Department of Molecular and Comparative
+Pathobiology, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+(2)College of Veterinary Medicine, North Caroline State University, Raleigh, NC, 
+USA.
+(3)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+
+BACKGROUND: Food avoidance secondary to disease or stress can lead to weight loss
+and rapid deterioration of clinical condition in the common marmoset (Callithrix 
+jacchus). Currently, there are no data supporting the use of any pharmaceuticals 
+as an appetite stimulant in this species; however, benzodiazepines are frequently
+used for this purpose in other species.
+METHODS: Six marmosets were used in a crossover study design to evaluate the
+benzodiazepine midazolam as an appetite stimulant and anxiolytic. Total food
+intake (TFI) and latency to eat (LTE) were measured following administration of
+oral and injectable midazolam in non-anxious and anxious states.
+RESULTS: Injectable midazolam increased TFI and decreased LTE in anxious
+marmosets, but had no effect in non-anxious animals. Oral midazolam had no effect
+on appetite in either state.
+CONCLUSIONS: Injectable midazolam may be an effective treatment for
+anxiety-induced inappetence in marmosets. Individual response to both oral and
+injectable midazolam may vary.
+
+© 2021 The Authors. Journal of Medical Primatology published by John Wiley & Sons
+Ltd.
+
+DOI: 10.1111/jmp.12534 
+PMID: 34318933  [Indexed for MEDLINE]
+
+
+102. Biochem Biophys Rep. 2021 Jul 12;27:101078. doi: 10.1016/j.bbrep.2021.101078.
+eCollection 2021 Sep.
+
+Marmoset glutathione transferases with ketosteroid isomerase activity.
+
+Ismail A(1), Sawmi J(1), Mannervik B(1).
+
+Author information: 
+(1)Department of Biochemistry and Biophysics, Arrhenius Laboratories, Stockholm
+University, SE-10691, Stockholm. Sweden.
+
+The common marmoset Callithrix jacchus encodes two glutathione transferase (GST) 
+enzymes with ketosteroid double-bond isomerase activity. The most active enzyme
+is CjaGST A3-3 showing a specific activity with 5-androsten-3,17-dione (Δ5-AD) of
+62.1 ± 1.8 μmol min-1 mg-1, and a kcat value of 261 ± 49 s-1. The second
+ketosteroid isomerase CjaGST A1-1 has a 30-fold lower specific activity with
+Δ5-AD and a 37-fold lower kcat value. Thus, the marmoset CjaGST A3-3 would be the
+main contributor to the biosynthesis of the steroid hormones testosterone and
+progesterone, like the human ortholog HsaGST A3-3. Two residues differ in the
+H-site of the 91.4% sequence identical CjaGST A1-1 and CjaGST A3-3, and modeling 
+of the structures suggests that the bulky phenyl ring of Phe111 in CjaGST A1-1
+causes steric hindrance in the binding of the steroid substrate. Tributyltin
+acetate (IC50=0.16 ± 0.004 μM) and ethacrynic acid (IC50=3.3 ± 0.2 μM) were found
+to be potent inhibitors of CjaGST A3-3, as previously demonstrated with the human
+and equine orthologs.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.bbrep.2021.101078 
+PMCID: PMC8280513
+PMID: 34286113 
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+

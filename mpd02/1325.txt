@@ -1,0 +1,46 @@
+
+
+1325. Neuron. 2014 Nov 19;84(4):716-722. doi: 10.1016/j.neuron.2014.08.061. Epub 2014
+Oct 30.
+
+Spinal cord stimulation alleviates motor deficits in a primate model of Parkinson
+disease.
+
+Santana MB(#)(1)(2), Halje P(#)(3), Simplício H(1)(4), Richter U(3), Freire
+MAM(1), Petersson P(3), Fuentes R(1), Nicolelis MAL(1)(5)(6)(7)(8).
+
+Author information: 
+(1)Edmond and Lily Safra Institute of Neuroscience of Natal, 590660 Natal,
+Brazil.
+(2)Psychobiology, Federal Univ. of Rio Grande do Norte, Natal, Brazil.
+(3)Integrative Neurophysiology and Neurotechnology, Neuronano Research Center,
+Department of Experimental Medical Sciences, Lund University, BMC F10, S-221 84
+Lund, Sweden.
+(4)State Univ. of Rio Grande do Norte, Natal, Brazil.
+(5)Biomedical Engineering, Duke Univ., Durham, NC 27708, U.S.A.
+(6)Ctr. for Neuroengineering, Duke Univ., Durham, NC 27708, U.S.A.
+(7)Dept. of Neurobiology, Duke Univ., Durham, NC 27708, U.S.A.
+(8)Dept. of Psychology and Neuroscience, Duke Univ., Durham, NC 27708, U.S.A.
+(#)Contributed equally
+
+Although deep brain electrical stimulation can alleviate the motor symptoms of
+Parkinson disease (PD), just a small fraction of patients with PD can take
+advantage of this procedure due to its invasive nature. A significantly less
+invasive method--epidural spinal cord stimulation (SCS)--has been suggested as an
+alternative approach for symptomatic treatment of PD. However, the mechanisms
+underlying motor improvements through SCS are unknown. Here, we show that SCS
+reproducibly alleviates motor deficits in a primate model of PD. Simultaneous
+neuronal recordings from multiple structures of the cortico-basal
+ganglia-thalamic loop in parkinsonian monkeys revealed abnormal highly
+synchronized neuronal activity within each of these structures and excessive
+functional coupling among them. SCS disrupted this pathological circuit behavior 
+in a manner that mimics the effects caused by pharmacological dopamine
+replacement therapy or deep brain stimulation. These results suggest that SCS
+should be considered as an additional treatment option for patients with PD.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2014.08.061 
+PMCID: PMC4428767
+PMID: 25447740  [Indexed for MEDLINE]
+

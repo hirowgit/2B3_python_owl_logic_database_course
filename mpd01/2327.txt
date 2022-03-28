@@ -1,0 +1,78 @@
+
+
+2327. J Comp Neurol. 2008 Feb 10;506(5):860-76.
+
+Anatomical and physiological definition of the motor cortex of the marmoset
+monkey.
+
+Burman KJ(1), Palmer SM, Gamberini M, Spitzer MW, Rosa MG.
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, Victoria 3800,
+Australia.
+
+We used a combination of anatomical and physiological techniques to define the
+primary motor cortex (M1) of the marmoset monkey and its relationship to adjacent
+cortical fields. Area M1, defined as a region containing a representation of the 
+entire body and showing the highest excitability to intracortical
+microstimulation, is architecturally heterogeneous: it encompasses both the
+caudal part of the densely myelinated "gigantopyramidal" cortex (field 4) and a
+lateral region, corresponding to the face representation, which is less
+myelinated and has smaller layer 5 pyramidal cells (field 4c). Rostral to M1 is a
+field that is strongly reminiscent of field 4 in terms of cyto- and
+myeloarchitecture but that in the marmoset is poorly responsive to
+microstimulation. Anatomical tracing experiments revealed that this rostral field
+is interconnected with visual areas of the posterior parietal cortex, whereas M1 
+itself has no such connections. For these reasons, we considered this field to be
+best described as part of the dorsal premotor cortex and adopted the designation 
+6Dc. Histological criteria were used to define other fields adjacent to M1,
+including medial and ventral subdivisions of the premotor cortex (fields 6M and
+6V) and the rostral somatosensory field (area 3a), as well as a rostral
+subdivision of the dorsal premotor area (field 6Dr). These results suggest a
+basic plan underlying the histological organization of the caudal frontal cortex 
+in different simian species, which has been elaborated during the evolution of
+larger species of primate by creation of further morphological and functional
+subdivisions.
+
+(c) 2007 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.21580 
+PMID: 18076083  [Indexed for MEDLINE]
+
+
+2328. Neurodegener Dis. 2008;5(1):38-52.
+
+Preclinical assessment of therapeutic antibodies against human CD40 and human
+interleukin-12/23p40 in a nonhuman primate model of multiple sclerosis.
+
+'t Hart BA(1), Hintzen RQ, Laman JD.
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Centre, Rijswijk, The
+Netherlands. hart@bprc.nl
+
+BACKGROUND: Proinflammatory cytokines, such as interleukin (IL)-12 and IL-23, and
+costimulatory molecules on antigen-presenting cells (APC), such as CD40, are
+critical to autoreactive T cell activation by APC, and hence, are considered
+relevant targets of therapy for immune-mediated inflammatory diseases (IMID).
+OBJECTIVE: The current review discusses the preclinical evaluation of two novel
+immunotherapeutic monoclonal antibodies (mAbs), one directed against human
+IL-12/23p40 and the other against CD40. As the antibodies only recognize their
+target molecule in primates, the efficacy could not be tested in rodent models.
+RESULTS: As a preclinical IMID model for the in vivo evaluation of both mAbs, we 
+have used the experimental autoimmune/allergic encephalomyelitis (EAE) model in
+common marmoset monkeys (Callithrix jacchus). Both mAbs show beneficial
+activities in the EAE model when administered early in disease development as
+well as after the onset of brain inflammation. The treatment effects were
+evaluated using a combination of quantitative magnetic resonance imaging and a
+series of ex vivo and immunopathological evaluations.
+CONCLUSION: The promising effects during ongoing disease in a relevant
+preclinical IMID model illustrate the potential of these two antibodies as
+treatment of IMID, in particular for multiple sclerosis on which disease EAE has 
+been modeled.
+
+Copyright (c) 2008 S. Karger AG, Basel.
+
+DOI: 10.1159/000109937 
+PMID: 18075274  [Indexed for MEDLINE]
+

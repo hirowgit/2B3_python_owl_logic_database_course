@@ -1,0 +1,37 @@
+
+
+2784. J Neurophysiol. 2005 Jan;93(1):22-34. Epub 2004 Sep 1.
+
+A comparison of neuron response properties in areas A1 and CM of the marmoset
+monkey auditory cortex: tones and broadband noise.
+
+Kajikawa Y(1), de La Mothe L, Blumell S, Hackett TA.
+
+Author information: 
+(1)Department of Psychology, Vanderbilt University, 301 Wilson Hall 111 21Avenue 
+South, Nashville, TN 37203, USA.
+
+The purpose of this study was to compare response properties of two adjacent
+areas of the marmoset monkey auditory cortex. Multiunit responses to 50 ms tones 
+and broadband noise bursts (BBN) were recorded in the core area, A1, and the
+caudomedial belt area, CM, of ketamine-anesthetized animals. Neurons in A1 and CM
+exhibited robust low-threshold short-latency responses to BBN and tones, whereas 
+neurons in adjoining lateral belt areas were poorly responsive or unresponsive to
+tones and noise. Except for a population of broadly tuned units in CM, the
+characteristic frequency (CF) could be determined for all recording sites in A1
+and CM. Both areas were tonotopically organized and shared a high CF border.
+Whereas the tonotopic gradient in A1 was smooth and continuous across the field, 
+the gradient in CM was discontinuous, and the intermediate CF range was
+underrepresented. For BBN stimuli, rate level functions were largely monotonic in
+A1 and CM. Response profiles were also similar in both areas. As a population,
+neurons in CM were distinguished from A1 by significantly shorter response
+latencies, lower thresholds, and broader tuning bandwidth at higher intensities. 
+The results indicated that, while A1 and CM represent anatomically and
+physiologically distinct areas, their response profiles under anesthesia
+overlapped considerably compared with the lateral belt areas. Therefore
+refinements of current models of the primate auditory cortex may be needed to
+account for differences in organization among the auditory belt areas.
+
+DOI: 10.1152/jn.00248.2004 
+PMID: 15342713  [Indexed for MEDLINE]
+

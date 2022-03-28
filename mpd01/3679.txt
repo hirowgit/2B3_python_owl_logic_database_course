@@ -1,0 +1,82 @@
+
+
+3679. J Pharmacol Exp Ther. 1997 May;281(2):746-52.
+
+RPR 107393, a potent squalene synthase inhibitor and orally effective
+cholesterol-lowering agent: comparison with inhibitors of HMG-CoA reductase.
+
+Amin D(1), Rutledge RZ, Needle SN, Galczenski HF, Neuenschwander K, Scotese AC,
+Maguire MP, Bush RC, Hele DJ, Bilder GE, Perrone MH.
+
+Author information: 
+(1)Department of Cardiovascular Biology, Rhöne Poulenc Rorer, Collegeville,
+Pennsylvania, USA.
+
+Squalene synthase catalyzes the reductive dimerization of two molecules of
+farnesyl pyrophosphate to form squalene and is the first committed step in sterol
+synthesis. A specific inhibitor of squalene synthase would inhibit cholesterol
+biosynthesis but not prevent the formation of other products of the isoprenoid
+pathway, such as dolichol and ubiquinone. RPR 107393
+[3-hydroxy-3-[4-(quinolin-6-yl)phenyl]-1-azabicyclo[2-2-2]octane dihydrochloride]
+and its R and S enantiomers are potent inhibitors of rat liver microsomal
+squalene synthase, with IC50 values of 0.6 to 0.9 nM. One hour after oral
+administration to rats, RPR 107393 inhibited de novo [14C]cholesterol
+biosynthesis from [14C]mevalonate in the liver with an ED50 value of 5 mg/kg.
+Diacid metabolites of [14C]farnesyl pyrophosphate were identified after acid
+treatment of the livers of these animals. These results support in vitro data
+demonstrating that these compounds are inhibitors of squalene synthase. In rats, 
+RPR 107393 (30 mg/kg p.o. b.i.d. for 2 days) reduced total serum cholesterol by <
+or = 51%. In the same paradigm, the HMG-CoA reductase inhibitor lovastatin failed
+to lower serum cholesterol in rats. In marmosets, RPR 107393 (20 mg/kg b.i.d.)
+reduced plasma cholesterol concentration by 50% after 1 week of administration;
+this was greater than the reduction observed with lovastatin or pravastatin,
+neither of which produced > 31% reduction in plasma cholesterol when administered
+for 1 week at a dose of 50 mg/kg b.i.d. The R and S enantiomers of RPR 107393 (20
+mg/kg p.o. q.d. for 7 days) reduced plasma low density lipoprotein cholesterol by
+50% and 43%, respectively, whereas high density lipoprotein cholesterol was
+unchanged. In summary, RPR 107393 is a potent inhibitor of squalene synthase. It 
+is an orally effective hypocholesterolemic agent in rats and marmosets that has
+greater efficacy than lovastatin or pravastatin in the marmoset.
+
+
+PMID: 9152381  [Indexed for MEDLINE]
+
+
+3680. Mol Reprod Dev. 1997 May;47(1):113-9.
+
+Fertilization-promoting peptide in reproductive tissues and semen of the male
+marmoset (Callithrix jacchus).
+
+Kennedy AM(1), Morrell JM, Siviter RJ, Cockle SM.
+
+Author information: 
+(1)School of Animal and Microbial Sciences, University of Reading, UK.
+
+Fertilization-promoting peptide (FPP) is present in the prostate gland and semen 
+of some mammals, and has been shown to enhance the fertilizing ability of both
+epididymal mouse and ejaculated human spermatozoa. The novel peptide may prove of
+importance for the treatment of some cases of male infertility, and a suitable
+animal model would be useful to test this hypothesis. To this end, we examined
+reproductive tissues and semen of the male marmoset for the presence of FPP.
+Peptides were extracted from seminal plasma, testes, prostate, and bulbourethral 
+glands of intact and castrated male marmosets. The peptides were identified by
+ion-exchange chromatography followed by radioimmunoassay. The mean concentration 
+of FPP immunoreactivity in semen from intact males was 58.7 nM (SE +/- 9.9 nM, n 
+= 10), and anion-exchange chromatography revealed FPP as the only immunoreactive 
+peptide present. Analysis of tissues revealed that FPP in semen was likely to be 
+derived from the prostate gland, which contained this peptide as the major source
+of immunoreactivity (10.86 pmol/gland; SE +/- 4.39 pmol/gland, n = 4). Only low
+concentrations of FPP were detectable in the bulbourethral glands, and the
+peptide was undetectable in the testis. Surprisingly, FPP was readily detectable 
+in the seminal plasma from one castrated marmoset and was present in the prostate
+gland from 3 castrates at levels which did not differ significantly from those in
+intact animals (5.47 pmol/gland, SE +/- 1.64 pmol/gland, n = 3). Plasma
+testosterone measurements indicated that residual circulatory androgens remained 
+after castration, which may be consistent both with the maintenance of mating
+behavior and the presence of prostatic FPP. We conclude that FPP is present
+within the prostate gland and seminal plasma of the marmoset at concentrations
+consistent with a role in male fertility in this species.
+
+DOI: 10.1002/(SICI)1098-2795(199705)47:1<113::AID-MRD15>3.0.CO;2-2 
+PMID: 9110322  [Indexed for MEDLINE]
+

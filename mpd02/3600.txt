@@ -1,0 +1,43 @@
+
+
+3600. J Virol. 1998 Apr;72(4):3205-12.
+
+Infection of human B lymphocytes with lymphocryptoviruses related to Epstein-Barr
+virus.
+
+Moghaddam A(1), Koch J, Annis B, Wang F.
+
+Author information: 
+(1)Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, 
+Boston, Massachusetts 02115, USA.
+
+Lymphocryptoviruses (LCVs) naturally infecting Old World nonhuman primates are
+closely related to the human LCV, Epstein-Barr virus (EBV), and share similar
+genome organization and sequences, biologic properties, epidemiology, and
+pathogenesis. LCVs can efficiently immortalize B lymphocytes from the autologous 
+species, but the ability of a given LCV to immortalize B cells from other Old
+World primate species is variable. We found that LCV from rhesus monkeys did not 
+immortalize human B cells, and EBV did not immortalize rhesus monkey B cells. In 
+this study, baboon LCV could not immortalize human peripheral blood B cells but
+could readily immortalize rhesus monkey B cells. Thus, efficient LCV-induced
+B-cell immortalization across distant Old World primate species appears to be
+restricted by a species-specific block. To further characterize this species
+restriction, we first cloned the rhesus monkey LCV major membrane glycoprotein
+and discovered that the binding epitope for the EBV receptor, CD21, was highly
+conserved. Stable infections of human B cells with recombinant amplicons packaged
+in rhesus monkey or baboon LCV envelopes were also consistent with a
+species-restricted block occurring after virus binding and penetration. Transient
+infections of human B cells with simian LCV resulted in latent LCV EBNA-2 gene
+expression and activation of cell CD23 gene expression. EBV-immortalized human B 
+cells could be coinfected with baboon LCV, and the simian virus persisted and
+replicated in human B cells. Thus, several lines of evidence indicate that the
+species restriction for efficient LCV-induced B-cell immortalization occurs
+beyond virus binding and penetration. This has important implications for the
+study of LCV infection in Old World primate models and for human
+xenotransplantation where simian LCVs may be inadvertently introduced into
+humans.
+
+DOI: 10.1128/JVI.72.4.3205-3212.1998 
+PMCID: PMC109784
+PMID: 9525646  [Indexed for MEDLINE]
+

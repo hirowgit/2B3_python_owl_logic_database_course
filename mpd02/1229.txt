@@ -1,0 +1,56 @@
+
+
+1229. Cryobiology. 2015 Aug;71(1):103-11. doi: 10.1016/j.cryobiol.2015.05.001. Epub
+2015 May 14.
+
+Multipotent stromal cells derived from common marmoset Callithrix jacchus within 
+alginate 3D environment: Effect of cryopreservation procedures.
+
+Gryshkov O(1), Hofmann N(2), Lauterboeck L(3), Pogozhykh D(4), Mueller T(5),
+Glasmacher B(6).
+
+Author information: 
+(1)Institute for Multiphase Processes, Leibniz Universitaet Hannover,
+Callinstrasse 36, 30167 Hannover, Germany. Electronic address:
+gryshkov@imp.uni-hannover.de.
+(2)Institute for Multiphase Processes, Leibniz Universitaet Hannover,
+Callinstrasse 36, 30167 Hannover, Germany. Electronic address:
+hofmann@imp.uni-hannover.de.
+(3)Institute for Multiphase Processes, Leibniz Universitaet Hannover,
+Callinstrasse 36, 30167 Hannover, Germany. Electronic address:
+lauterboeck@imp.uni-hannover.de.
+(4)Institute for Transfusion Medicine, Hannover Medical School,
+Carl-Neuberg-Strasse 1, 30625 Hannover, Germany. Electronic address:
+Pogozhykh.Denys@mh-hannover.de.
+(5)Institute for Transfusion Medicine, Hannover Medical School,
+Carl-Neuberg-Strasse 1, 30625 Hannover, Germany. Electronic address:
+mueller.thomas@mh-hannover.de.
+(6)Institute for Multiphase Processes, Leibniz Universitaet Hannover,
+Callinstrasse 36, 30167 Hannover, Germany. Electronic address:
+glasmacher@imp.uni-hannover.de.
+
+Multipotent stromal cells derived from the common marmoset monkey Callithrix
+jacchus (cjMSCs) possess high phylogenetic similarity to humans, with a great
+potential for preclinical studies in the field of regenerative medicine. Safe and
+effective long-term storage of cells is of great significance to clinical and
+research applications. Encapsulation of such cell types within alginate beads
+that can mimic an extra-cellular matrix and provide a supportive environment for 
+cells during cryopreservation, has several advantages over freezing of cells in
+suspension. In this study we have analysed the effect of dimethyl sulfoxide
+(Me2SO, 2.5-10%, v/v) and pre-freeze loading time of alginate encapsulated cjMSCs
+in Me2SO (0-45 min) on the viability and metabolic activity of the cells after
+freezing using a slow cooling rate (-1°C/min). It was found that these parameters
+affect the stability and homogeneity of alginate beads after thawing. Moreover,
+the cjMSCs can be frozen in alginate beads with lower Me2SO concentration of 7.5%
+after 30 min of loading, while retaining high cryopreservation outcome. We
+demonstrated the maximum viability, membrane integrity and metabolic activity of 
+the cells under optimized, less cytotoxic conditions. The results of this study
+are another step forward towards the application of cryopreservation for the
+long-term storage and subsequent applications of transplants in cell-based
+therapies.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cryobiol.2015.05.001 
+PMID: 25980899  [Indexed for MEDLINE]
+

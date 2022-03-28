@@ -1,0 +1,39 @@
+
+
+2109. J Virol. 2009 Nov;83(22):11635-44. doi: 10.1128/JVI.01483-09. Epub 2009 Sep 2.
+
+General and target-specific RNA binding properties of Epstein-Barr virus SM
+posttranscriptional regulatory protein.
+
+Han Z(1), Verma D, Hilscher C, Dittmer DP, Swaminathan S.
+
+Author information: 
+(1)Division of Infectious Diseases, Department of Medicine, and University of
+Florida Shands Cancer Center, University of Florida, Gainesville, Florida, USA.
+
+Epstein-Barr virus (EBV) SM protein is an essential nuclear shuttling protein
+expressed by EBV early during the lytic phase of replication. SM acts to increase
+EBV lytic gene expression by binding EBV mRNAs and enhancing accumulation of the 
+majority of EBV lytic cycle mRNAs. SM increases target mRNA stability and nuclear
+export, in addition to modulating RNA splicing. SM and its homologs in other
+herpesvirus have been hypothesized to function in part by binding viral RNAs and 
+recruiting cellular export factors. Although activation of gene expression by SM 
+is gene specific, it is unknown whether SM binds to mRNA in a specific manner or 
+whether its RNA binding is target independent. SM-mRNA complexes were isolated
+from EBV-infected B-lymphocyte cell lines induced to permit lytic EBV
+replication, and a quantitative measurement of mRNAs corresponding to all known
+EBV open reading frames was performed by real-time quantitative reverse
+transcription-PCR. The results showed that although SM has broad RNA binding
+properties, there is a clear hierarchy of affinities among EBV mRNAs with respect
+to SM complex formation. In vitro binding assays with two of the most highly
+SM-associated transcripts suggested that SM binds preferentially to specific
+sequences or structures present in noncoding regions of some EBV mRNAs.
+Furthermore, the presence of these sequences conferred responsiveness to SM.
+These data are consistent with a mechanism of action similar to that of hnRNPs,
+which exert sequence-specific effects on gene expression despite having multiple 
+degenerate consensus binding sites common to a large number of RNAs.
+
+DOI: 10.1128/JVI.01483-09 
+PMCID: PMC2772688
+PMID: 19726500  [Indexed for MEDLINE]
+

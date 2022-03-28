@@ -1,0 +1,41 @@
+
+
+1869. Drug Metab Dispos. 2011 Sep;39(9):1555-67. doi: 10.1124/dmd.111.039669. Epub 2011
+Jun 13.
+
+Disposition and metabolism of ticagrelor, a novel P2Y12 receptor antagonist, in
+mice, rats, and marmosets.
+
+Li Y(1), Landqvist C, Grimm SW.
+
+Author information: 
+(1)Drug Metabolism and Pharmacokinetics, AstraZeneca R&D, Waltham, MA 02451, USA.
+yan.li@astrazeneca.com
+
+Ticagrelor is a reversibly binding and selective oral P2Y(12) antagonist,
+developed for the prevention of atherothrombotic events in patients with acute
+coronary syndromes. The disposition and metabolism of [(14)C]ticagrelor was
+investigated in mice, rats, and marmosets to demonstrate that these preclinical
+toxicity species showed similar metabolic profiles to human. Incubations with
+hepatocytes or microsomes from multiple species were also studied to compare with
+in vivo metabolic profiles. The routes of excretion were similar for both oral
+and intravenous administration in mice, rats, and marmosets with fecal excretion 
+being the major elimination pathway accounting for 59 to 96% of the total
+radioactivity administered. Urinary excretion of drug-related material accounted 
+for only 1 to 15% of the total radioactivity administered. Milk samples from
+lactating rats displayed significantly higher levels of total radioactivity than 
+plasma after oral administration of ticagrelor. This demonstrated that ticagrelor
+and/or its metabolites were readily transferred into rat milk and that neonatal
+rats could be exposed to ticagrelor-related compounds via maternal milk.
+Ticagrelor and active metabolite AR-C124910 (loss of hydroxyethyl side chain)
+were the major components in plasma from all species studied and similar to human
+plasma profiles. The primary metabolite of ticagrelor excreted in urine across
+all species was an inactive metabolite, AR-C133913 (loss of
+difluorophenylcyclopropyl group). Ticagrelor, AR-C124910, and AR-C133913 were the
+major components found in feces from the three species examined. Overall, in vivo
+metabolite profiles were qualitatively similar across all species and consistent 
+with in vitro results.
+
+DOI: 10.1124/dmd.111.039669 
+PMID: 21670219  [Indexed for MEDLINE]
+

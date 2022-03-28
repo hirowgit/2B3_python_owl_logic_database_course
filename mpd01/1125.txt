@@ -1,0 +1,75 @@
+
+
+1125. Stem Cells Int. 2016;2016:2480298. doi: 10.1155/2016/2480298. Epub 2015 Nov 9.
+
+Long-Term Oocyte-Like Cell Development in Cultures Derived from Neonatal Marmoset
+Monkey Ovary.
+
+Fereydouni B(1), Salinas-Riester G(2), Heistermann M(3), Dressel R(4), Lewerich
+L(1), Drummer C(1), Behr R(1).
+
+Author information: 
+(1)Stem Cell Biology Unit, German Primate Center-Leibniz Institute for Primate
+Research, Kellnerweg 4, 37077 Göttingen, Germany.
+(2)Microarray and Deep-Sequencing Core Facility, University Medical Center
+Göttingen (UMG), Justus-von-Liebig-Weg 11, 37077 Göttingen, Germany.
+(3)Endocrinology Laboratory, German Primate Center-Leibniz Institute for Primate 
+Research, Kellnerweg 4, 37077 Göttingen, Germany.
+(4)Department of Cellular and Molecular Immunology, University of Göttingen,
+Humboldtallee 34, 37073 Göttingen, Germany.
+
+We use the common marmoset monkey (Callithrix jacchus) as a preclinical nonhuman 
+primate model to study reproductive and stem cell biology. The neonatal marmoset 
+monkey ovary contains numerous primitive premeiotic germ cells (oogonia)
+expressing pluripotent stem cell markers including OCT4A (POU5F1). This is a
+peculiarity compared to neonatal human and rodent ovaries. Here, we aimed at
+culturing marmoset oogonia from neonatal ovaries. We established a culture system
+being stable for more than 20 passages and 5 months. Importantly, comparative
+transcriptome analysis of the cultured cells with neonatal ovary, embryonic stem 
+cells, and fibroblasts revealed a lack of germ cell and pluripotency genes
+indicating the complete loss of oogonia upon initiation of the culture. From
+passage 4 onwards, however, the cultured cells produced large spherical,
+free-floating cells resembling oocyte-like cells (OLCs). OLCs strongly expressed 
+several germ cell genes and may derive from the ovarian surface epithelium. In
+summary, our novel primate ovarian cell culture initially lacked detectable germ 
+cells but then produced OLCs over a long period of time. This culture system may 
+allow a deeper analysis of early phases of female primate germ cell development
+and-after significant refinement-possibly also the production of monkey oocytes.
+
+DOI: 10.1155/2016/2480298 
+PMCID: PMC4655298
+PMID: 26664406 
+
+
+1126. Genome Announc. 2015 Dec 10;3(6). pii: e01463-15. doi: 10.1128/genomeA.01463-15.
+
+Draft Genome Sequence of Bifidobacterium aesculapii DSM 26737T, Isolated from
+Feces of Baby Common Marmoset.
+
+Toh H(1), Yamazaki Y(2), Tashiro K(3), Kawarai S(4), Oshima K(5), Nakano A(6),
+Kim CN(7), Mimura I(7), Arakawa K(7), Iriki A(2), Kikusui T(4), Morita H(8).
+
+Author information: 
+(1)Medical Institute of Bioregulation, Kyushu University, Fukuoka, Japan.
+(2)Riken Brain Science Institute, Wako, Japan.
+(3)Graduate School of Systems Life Sciences, Kyushu University, Fukuoka, Japan.
+(4)School of Veterinary Medicine, Azabu University, Sagamihara, Kanagawa, Japan.
+(5)Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Chiba,
+Japan.
+(6)Department of Microbiology and Infectious Diseases, Nara Medical University,
+Kashihara, Nara, Japan.
+(7)Graduate School of Environmental and Life Science, Okayama University,
+Okayama, Japan.
+(8)Graduate School of Environmental and Life Science, Okayama University,
+Okayama, Japan hidetoshi-morita@okayama-u.ac.jp.
+
+Bifidobacterium aesculapii DSM 26737(T) was isolated from feces of baby common
+marmoset. Here, we report the draft genome sequence of this organism. This paper 
+is the first published report of the genomic sequence of B. aesculapii.
+
+Copyright © 2015 Toh et al.
+
+DOI: 10.1128/genomeA.01463-15 
+PMCID: PMC4675957
+PMID: 26659692 
+

@@ -1,0 +1,37 @@
+
+
+3463. Mol Phylogenet Evol. 1999 Apr;11(3):459-76.
+
+Phylogenetic relationships of the New World monkeys (Primates, platyrrhini) based
+on nuclear G6PD DNA sequences.
+
+von Dornum M(1), Ruvolo M.
+
+Author information: 
+(1)Department of Anthropology, Harvard University, Cambridge, Massachusetts,
+02138, USA. m.dornum@ucl.ac.uk
+
+In order to test hypotheses about the phylogenetic relationships among living
+genera of New World monkeys, 1.3 kb of DNA sequence information was collected for
+two introns of the glucose-6-phosphate dehydrogenase (G6PD) locus, encoded on the
+X chromosome, for 24 species of New World monkeys. These data were analyzed using
+a maximum parsimony algorithm. The strict consensus of the three
+most-parsimonious gene trees that result shows support for the following clades: 
+a pitheciine clade including Callicebus within which Chiropotes and Cacajao are
+sister taxa, an Alouatta-atelin clade within which Brachyteles is the sister
+taxon of Lagothrix and which is sister to another clade containing the
+callitrichines, and a callitrichine/Aotus/Cebus/Saimiri clade. Within the
+callitrichines, Callimico is the sister taxon of Callithrix. Cebus and Saimiri
+form a clade. These results are broadly consistent with previously published DNA 
+sequence analyses of platyrrhine phylogeny and provide additional support for
+groupings provisionally proposed in those earlier studies. Nevertheless,
+questions remain as to the relative phylogenetic placement of Leontopithecus and 
+Saguinus, the branching order within the Aotus/Cebus/Saimiri/callitrichine clade,
+and the placement of the pitheciine clade relative to the atelines and the
+callitrichines.
+
+Copyright 1999 Academic Press.
+
+DOI: 10.1006/mpev.1998.0582 
+PMID: 10196085  [Indexed for MEDLINE]
+

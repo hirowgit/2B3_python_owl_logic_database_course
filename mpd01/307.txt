@@ -1,0 +1,93 @@
+
+
+307. Ecol Evol. 2020 Apr 12;10(11):4691-4701. doi: 10.1002/ece3.6224. eCollection 2020
+Jun.
+
+What smells? Developing in-field methods to characterize the chemical composition
+of wild mammalian scent cues.
+
+Thompson CL(1), Bottenberg KN(1), Lantz AW(2), de Oliveira MAB(3), Melo LCO(3),
+Vinyard CJ(4).
+
+Author information: 
+(1)Department of Biomedical Sciences Grand Valley State University Allendale MI
+USA.
+(2)Department of Chemistry Grand Valley State University Allendale MI USA.
+(3)Departamento de Morfologia e Fisiologia Animal Universidade Federal Rural de
+Pernambuco Recife Brazil.
+(4)Department of Anatomy & Neurobiology Northeast Ohio Medical University
+Rootstown OH USA.
+
+Olfactory cues play an important role in mammalian biology, but have been
+challenging to assess in the field. Current methods pose problematic issues with 
+sample storage and transportation, limiting our ability to connect chemical
+variation in scents with relevant ecological and behavioral contexts. Real-time, 
+in-field analysis via portable gas chromatography-mass spectrometry (GC-MS) has
+the potential to overcome these issues, but with trade-offs of reduced
+sensitivity and compound mass range. We field-tested the ability of portable
+GC-MS to support two representative applications of chemical ecology research
+with a wild arboreal primate, common marmoset monkeys (Callithrix jacchus). We
+developed methods to (a) evaluate the chemical composition of marmoset scent
+marks deposited at feeding sites and (b) characterize the scent profiles of
+exudates eaten by marmosets. We successfully collected marmoset scent marks
+across several canopy heights, with the portable GC-MS detecting known components
+of marmoset glandular secretions and differentiating these from in-field
+controls. Likewise, variation in the chemical profile of scent marks demonstrated
+a significant correlation with marmoset feeding behavior, indicating these
+scents' biological relevance. The portable GC-MS also delineated species-specific
+olfactory signatures of exudates fed on by marmosets. Despite the trade-offs,
+portable GC-MS represents a viable option for characterizing olfactory compounds 
+used by wild mammals, yielding biologically relevant data. While the decision to 
+adopt portable GC-MS will likely depend on site- and project-specific needs, our 
+ability to conduct two example applications under relatively challenging field
+conditions bodes well for the versatility of in-field GC-MS.
+
+© 2020 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/ece3.6224 
+PMCID: PMC7297786
+PMID: 32551053 
+
+Conflict of interest statement: The authors have no conflicts of interest to
+declare.
+
+
+308. Am J Primatol. 2020 Aug;82(8):e23159. doi: 10.1002/ajp.23159. Epub 2020 Jun 9.
+
+Early learning in the common marmoset (Callithrix jacchus): Behavior in the
+family group is related to preadolescent cognitive performance.
+
+Ash H(1), Ziegler TE(1), Colman RJ(1)(2).
+
+Author information: 
+(1)Wisconsin National Primate Research Center, University of Wisconsin, Madison, 
+Wisconsin.
+(2)Department of Cell and Regenerative Biology, Wisconsin Institutes for Medical 
+Research, University of Wisconsin School of Medicine and Public Health, Madison, 
+Wisconsin.
+
+Early environment can have a major impact on development, with family life known 
+to play an important role. Longitudinal studies can therefore help increase our
+understanding of variance in cognitive abilities in young animals, as well as
+over time. We followed 22 marmosets (11 male and 11 female) from infancy through 
+to early adolescence. At 3 months old, the marmosets were trained to reliably
+touch a rewarded stimulus. At 5 months, behavior was observed within the natal
+group. At 9 months, the marmosets were given a visual discrimination task to
+assess learning ability. Mann-Whitney U tests found no sex or family size
+differences in number of errors at 3 or 9 months. While no significant
+relationships were found between behavior in the family and learning at 3 months,
+significant negative correlations were found between duration spent in locomotion
+and learning errors (p = .05), as well as between frequency of calm vocalizations
+and learning errors (p = .001) at 9 months. A U-shape curve was found between
+amount of social play and learning at 9 months. Positive family interactions,
+including moderate amounts of play, as well as calm individual behavior, may
+therefore be important in learning. This study sheds light on cognitive
+development in much younger marmosets than previously studied, and helps increase
+understanding of how individual differences in learning may arise.
+
+© 2020 Wiley Periodicals LLC.
+
+DOI: 10.1002/ajp.23159 
+PMCID: PMC7440670
+PMID: 32515834  [Indexed for MEDLINE]
+

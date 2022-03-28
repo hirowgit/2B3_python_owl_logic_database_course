@@ -1,0 +1,73 @@
+
+
+3663. J Gen Virol. 1997 Jul;78 ( Pt 7):1565-9.
+
+Molecular cloning of the hepatitis A virus receptor from a simian cell line.
+
+Ashida M(1), Hamada C.
+
+Author information: 
+(1)Department of Virology, Niigata University School of Medicine, Japan.
+vgoal@med.niigata.u.ac.jp
+
+Using a eukaryotic expression system in combination with a monoclonal antibody
+(MAb) capable of blocking hepatitis A virus (HAV) adsorption, a cDNA clone was
+selected from a library of S.la/Ve-1 cells, a cell line that is highly
+susceptible to the virus. Sequence analysis of the cDNA revealed a single open
+reading frame that encoded a protein consisting of 460 amino acids. The deduced
+primary structure of the protein included a signal sequence, a transmembrane
+domain, four sites for N-linked glycosylation, cysteine residues attributable to 
+an immunoglobulin domain and threonine clusters characteristic of mucin-like
+protein. By employing a vaccinia virus expression vector, the cDNA was expressed 
+in HeLa cells where it induced marked HAV attachment which was specifically
+blocked by the MAb. The cDNA obtained was thus assumed to encode a functional
+receptor for HAV.
+
+DOI: 10.1099/0022-1317-78-7-1565 
+PMID: 9225030  [Indexed for MEDLINE]
+
+
+3664. Biol Reprod. 1997 Jul;57(1):16-26.
+
+A local oxytocin system is part of the luteinization process in the preovulatory 
+follicle of the marmoset monkey (Callithrix jacchus).
+
+Einspanier A(1), Jurdzinski A, Hodges JK.
+
+Author information: 
+(1)Department of Reproductive Biology, German Primate Center, Göttingen.
+aeinspa@gwdg.de
+
+Luteinization is a complex differentiation process involving the interaction of
+extrinsic and intraovarian factors. The aim of this study was to examine the
+components of an intraovarian oxytocin (OT) system during the periovulatory
+period in the marmoset monkey, as well as the possible relationship of these
+components to other factors involved in the luteinization process, using
+immunohistochemistry and cell culture techniques. Ovaries were collected on Day 7
+of the follicular phase (before the endogenous LH surge) and on Day 8 (22 h after
+an exogenous hCG application, but before ovulation). Before the endogenous LH
+increase, OT immunoreactivity was detectable at low levels in most antral
+follicles, where its presence was confined to antral granulosa cell (GC) layers. 
+In contrast, immunoreactivity for the OT receptor (OTR) was localized primarily
+in the basal GC layer. After application of exogenous hCG, there was a marked
+enhancement in both the staining intensity and the number of cells positive for
+OT and the OTR in all GC layers of antral follicles, especially in the
+preovulatory follicle. Progesterone receptor and 3beta-hydroxysteroid
+dehydrogenase activity in GC were clearly present only when follicles were
+obtained after gonadotropin stimulation. Secretion of authentic OT was
+demonstrated from cultured GC obtained before the LH surge, with highest amounts 
+in cells cultured from preovulatory as opposed to smaller antral follicles. OT
+production could be stimulated by the application of hCG to the GC cultured from 
+preovulatory follicles, whereas the gonadotropin was without effect on GC from
+small follicles. FSH had no effect on OT production by GC from either follicle
+type. Application of OT to the cultures caused an increase in progesterone
+production by GC from large preovulatory follicles but was without effect on
+steroidogenesis by cells from small antral follicles. These results describing
+the presence and distribution of OT and OTR and their modulation by hCG, as well 
+as the luteotrophic effect of OT in cultured GC from preovulatory follicles,
+implicate OT as a paracrine mediator in the luteinization process in the primate 
+ovary.
+
+DOI: 10.1095/biolreprod57.1.16 
+PMID: 9209075  [Indexed for MEDLINE]
+

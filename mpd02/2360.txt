@@ -1,0 +1,31 @@
+
+
+2360. Nihon Shinkei Seishin Yakurigaku Zasshi. 2007 Aug;27(4):161-6.
+
+Microarray analysis of laser capture microdissected substantia nigra pars
+compacta after a single administration of MPTP in common marmosets.
+
+Iwata S(1), Nomoto M, Miyata A.
+
+Author information: 
+(1)Department of Pharmacology, Kagoshima University Graduate School of Medical
+and Dental Sciences, 8-35-1 Sakuragaoka, Kagoshima, 890-8544 Japan.
+shinichi@m.kufm.kagoshima-u.ac.jp
+
+Gene expression profiling was performed in the laser capture microdissected
+substantia nigra pars compacta (SNc) after a single administration of
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) in common marmosets. RNA from
+substantia nigra pars compacta tissue underwent a double linear amplification and
+was then applied to a whole human genome oligo microarray. Since the number of
+TH-immunoreactive cells in the SNc decreased to 50% of that in the control after 
+14 days and since our previous study showed that down-regulation of mRNA levels
+precedes cell death, genes for which mRNA levels were below 50% of levels in the 
+vehicle-treated control throughout the experimental period were defined as being 
+vulnerable to MPTP in the present study. There were 48 genes that satisfied this 
+condition. In order to elucidate mechanisms of dopaminergic cell death in
+Parkinson's disease, extensive gene expression studies at various time points
+after MPTP and with various MPTP doses are required.
+
+
+PMID: 17879594  [Indexed for MEDLINE]
+

@@ -1,0 +1,52 @@
+
+
+328. Am J Primatol. 2020 Jun;82(6):e23131. doi: 10.1002/ajp.23131. Epub 2020 Apr 9.
+
+Evaluation of vitamin D3 metabolites in Callithrix jacchus (common marmoset).
+
+Goodroe AE(1), Fitz C(2), Power ML(3), Colman RJ(2)(4), Capuano S 3rd(2), Ziegler
+TE(2).
+
+Author information: 
+(1)Veterinary Resources, Southwest National Primate Research Center, San Antonio,
+Texas.
+(2)Veterinary Services Unit, Wisconsin National Primate Research Center, Madison,
+Wisconsin.
+(3)Conservation Ecology Center, Smithsonian National Zoological Park and
+Conservation Biology Institute, Washington, District of Columbia.
+(4)Department of Cell and Regenerative Biology, School of Medicine and Public
+Health, University of Wisconsin, Madison, Wisconsin.
+
+Vitamin D3 (cholecalciferol) is endogenously produced in the skin of primates
+when exposed to the appropriate wavelengths of ultraviolet light (UV-B). Common
+marmosets (Callithrix jacchus) maintained indoors require dietary provision of
+vitamin D3 due to lack of sunlight exposure. The minimum dietary vitamin D3
+requirement and the maximum amount of vitamin D3 that can be metabolized by
+marmosets is unknown. Observations of metabolic bone disease and gastrointestinal
+malabsorption have led to wide variation in dietary vitamin D3 provision amongst 
+research institutions, with resulting variation in circulating 25-hydroxyvitamin 
+D3 (25(OH)D3 ), the accepted marker for vitamin D sufficiency/deficiency.
+Multiple studies have reported serum 25(OH)D3 in captive marmosets, but 25(OH)D3 
+is not the final product of vitamin D3 metabolism. In addition to serum 25(OH)D3,
+we measured the most physiologically active metabolite, 1,25-dihydroxyvitamin D3 
+(1,25(OH)2 D3 ), and the less well understood metabolite, 24,25-dihydroxyvitamin 
+D3 (24,25(OH)2 D3 ) to characterize the marmoset's ability to metabolize dietary 
+vitamin D3 . We present vitamin D3 metabolite and related serum chemistry value
+colony reference ranges in marmosets provided diets with 26,367 (Colony A,
+N = 113) or 8,888 (Colony B, N = 52) international units (IU) of dietary vitamin 
+D3 per kilogram of dry matter. Colony A marmosets had higher serum 25(OH)D3
+(426 ng/ml [SD 200] vs. 215 ng/ml [SD 113]) and 24,25(OH)2 D3 (53 ng/ml [SD 35]
+vs. 7 ng/ml [SD 5]). There was no difference in serum 1,25(OH)2 D3 between the
+colonies. Serum 1,25(OH)2 D3 increased and 25(OH)D3 decreased with age, but the
+effect was weak. Marmosets tightly regulate metabolism of dietary vitamin D3 into
+the active metabolite 1,25(OH)2 D3 ; excess 25(OH)D3 is metabolized into
+24,25(OH)2 D3 . This ability explains the tolerance of high levels of dietary
+vitamin D3 by marmosets, however, our data suggest that these high dietary levels
+are not required.
+
+© 2020 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajp.23131 
+PMCID: PMC7384697
+PMID: 32270886  [Indexed for MEDLINE]
+

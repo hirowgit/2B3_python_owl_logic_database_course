@@ -1,0 +1,98 @@
+
+
+119. J Neurophysiol. 2021 Jul 1;126(1):330-339. doi: 10.1152/jn.00078.2021. Epub 2021 
+Jun 16.
+
+Ketamine disrupts gaze patterns during face viewing in the common marmoset.
+
+Selvanayagam J(1)(2), Johnston KD(3)(2), Wong RK(1)(2), Schaeffer D(4), Everling 
+S(1)(3)(2).
+
+Author information: 
+(1)Graduate Program in Neuroscience, Western University, London, Ontario, Canada.
+(2)Center for Functional and Metabolic Mapping, Robarts Research Institute,
+Western University, London, Ontario, Canada.
+(3)Department of Physiology and Pharmacology, Western University, London,
+Ontario, Canada.
+(4)Department of Neurobiology, University of Pittsburgh, Pittsburgh,
+Pennsylvania.
+
+Faces are stimuli of critical importance for primates. The common marmoset
+(Callithrix jacchus) is a promising model for investigations of face processing, 
+as this species possesses oculomotor and face-processing networks resembling
+those of macaques and humans. Face processing is often disrupted in
+neuropsychiatric conditions such as schizophrenia (SZ), and thus, it is important
+to recapitulate underlying circuitry dysfunction preclinically. The
+N-methyl-d-aspartate (NMDA) noncompetitive antagonist ketamine has been used
+extensively to model the cognitive symptoms of SZ. Here, we investigated the
+effects of a subanesthetic dose of ketamine on oculomotor behavior in marmosets
+during face viewing. Four marmosets received systemic ketamine or saline
+injections while viewing phase-scrambled or intact videos of conspecifics' faces.
+To evaluate effects of ketamine on scan paths during face viewing, we identified 
+regions of interest in each face video and classified locations of saccade onsets
+and landing positions within these areas. A preference for the snout over eye
+regions was observed following ketamine administration. In addition, regions in
+which saccades landed could be significantly predicted by saccade onset region in
+the saline but not the ketamine condition. Effects on saccade control were
+limited to an increase in saccade peak velocity in all conditions and a reduction
+in saccade amplitudes during viewing of scrambled videos. Thus, ketamine induced 
+a significant disruption of scan paths during viewing of conspecific faces but
+limited effects on saccade motor control. These findings support the use of
+ketamine in marmosets for investigating changes in neural circuits underlying
+social cognition in neuropsychiatric disorders.NEW & NOTEWORTHY Face processing, 
+an important social cognitive ability, is impaired in neuropsychiatric conditions
+such as schizophrenia. The highly social common marmoset model presents an
+opportunity to investigate these impairments. We administered subanesthetic doses
+of ketamine to marmosets to model the cognitive symptoms of schizophrenia. We
+observed a disruption of scan paths during viewing of conspecifics' faces. These 
+findings support the use of ketamine in marmosets as a model for investigating
+social cognition in neuropsychiatric disorders.
+
+DOI: 10.1152/jn.00078.2021 
+PMID: 34133232  [Indexed for MEDLINE]
+
+
+120. Commun Biol. 2021 Jun 15;4(1):739. doi: 10.1038/s42003-021-02256-1.
+
+Lévy walk dynamics explain gamma burst patterns in primate cerebral cortex.
+
+Liu Y(#)(1)(2), Long X(#)(1)(2), Martin PR(2)(3)(4), Solomon SG(5), Gong P(6)(7).
+
+Author information: 
+(1)School of Physics, University of Sydney, Sydney, NSW, Australia.
+(2)ARC Centre of Excellence for Integrative Brain Function, University of Sydney,
+Sydney, NSW, Australia.
+(3)Discipline of Physiology, University of Sydney, Sydney, NSW, Australia.
+(4)Save Sight Institute, University of Sydney, Sydney, NSW, Australia.
+(5)Department of Experimental Psychology, University College London, London, UK.
+(6)School of Physics, University of Sydney, Sydney, NSW, Australia.
+pulin.gong@sydney.edu.au.
+(7)ARC Centre of Excellence for Integrative Brain Function, University of Sydney,
+Sydney, NSW, Australia. pulin.gong@sydney.edu.au.
+(#)Contributed equally
+
+Lévy walks describe patterns of intermittent motion with variable step sizes. In 
+complex biological systems, Lévy walks (non-Brownian, superdiffusive random
+walks) are associated with behaviors such as search patterns of animals foraging 
+for food. Here we show that Lévy walks also describe patterns of oscillatory
+activity in primate cerebral cortex. We used a combination of empirical
+observation and modeling to investigate high-frequency (gamma band) local field
+potential activity in visual motion-processing cortical area MT of marmoset
+monkeys. We found that gamma activity is organized as localized burst patterns
+that propagate across the cortical surface with Lévy walk dynamics. Lévy walks
+are fundamentally different from either global synchronization, or regular
+propagating waves, because they include large steps that enable activity patterns
+to move rapidly over cortical modules. The presence of Lévy walk dynamics
+therefore represents a previously undiscovered mode of brain activity, and
+implies a novel way for the cortex to compute. We apply a biophysically realistic
+circuit model to explain that the Lévy walk dynamics arise from critical-state
+transitions between asynchronous and localized propagating wave states, and that 
+these dynamics yield optimal spatial sampling of the cortical sheet. We
+hypothesise that Lévy walk dynamics could help the cortex to efficiently process 
+variable inputs, and to find links in patterns of activity among sparsely spiking
+populations of neurons.
+
+DOI: 10.1038/s42003-021-02256-1 
+PMCID: PMC8206356
+PMID: 34131276  [Indexed for MEDLINE]
+

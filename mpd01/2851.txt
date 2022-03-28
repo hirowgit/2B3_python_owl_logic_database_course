@@ -1,0 +1,87 @@
+
+
+2851. J Mol Endocrinol. 2004 Feb;32(1):115-28.
+
+Chorionic gonadotrophin beta subunit mRNA but not luteinising hormone beta
+subunit mRNA is expressed in the pituitary of the common marmoset (Callithrix
+jacchus).
+
+Müller T(1), Simoni M, Pekel E, Luetjens CM, Chandolia R, Amato F, Norman RJ,
+Gromoll J.
+
+Author information: 
+(1)Institute of Reproductive Medicine of the University, Domagkstrasse 11,
+D-48129 Münster, Germany.
+
+The pituitary gonadotrophins LH and FSH are responsible for regulation of
+gametogenesis in the testis and ovary. Chorionic gonadotrophin (CG), a third
+closely related glycoprotein hormone derived by gene duplication of the LHbeta
+gene and secreted by the placenta in primates, is essential for the rescue of the
+corpus luteum and maintenance of pregnancy. We have recently shown that marmoset 
+(m) CGbeta mRNA is highly expressed in the pituitary of the common marmoset
+(Callithrix jacchus) and that LH is less active than human CG in activating the
+human LH receptor lacking exon 10. To investigate further which gonadotrophin is 
+the actual ligand of the LH receptor (LHR) of the marmoset monkey that naturally 
+lacks exon 10, we identified and characterised the genomic organisation of the
+mLHbeta gene and its expression. Intergenic PCR amplification of the region
+encompassing the mLHbeta and the mCGbeta genes revealed that, surprisingly,
+mCGbeta is located 20 kbp upstream of the LHbeta gene, whereas in other species
+the intergenic distance is approximately 2-3 kbp. Sequence analysis of the
+mLHbeta coding region showed 70% identity to mCGbeta and 90% identity to human
+LHbeta at the amino acid level. Both gonadotrophin beta subunits are present at
+the genomic level, but RT-PCR of pituitary and placental total RNA using specific
+oligonucleotides for mCGbeta and mLHbeta showed high expression of mCGbeta mRNA
+in both tissues, whereas LHbeta was expressed neither in the pituitary nor in the
+placenta. Thus mLHbeta mRNA is lacking in the marmoset pituitary.
+Immunohistochemistry of marmoset pituitaries showed that mCG was confined to the 
+gonadotrophes, and partly co-localised in cells stained positively for FSH.
+Western blot analysis confirmed the presence of mCG in the pituitary. Northern
+blot analysis using mCGbeta as a probe displayed one transcript of 0.7 kb in the 
+pituitary and detected two transcripts of 1.1 kb and 2 kb in the marmoset
+placenta. Our results suggest that, in the common marmoset, CG is the only
+gonadotrophin with luteinising function that is present in the pituitary. We
+postulate that, owing to an unknown mutational event in evolution, expression of 
+mLH was completely abolished, and CG - which, unlike LH, acts normally even when 
+exon 10 is missing from the LHR - took over its function.
+
+DOI: 10.1677/jme.0.0320115 
+PMID: 14765996  [Indexed for MEDLINE]
+
+
+2852. J Comp Neurol. 2004 Feb 16;469(4):494-506.
+
+Synaptic connectivity of the diffuse bipolar cell type DB6 in the inner plexiform
+layer of primate retina.
+
+Jusuf PR(1), Lee SC, Grünert U.
+
+Author information: 
+(1)Department of Physiology F13 and Institute for Biomedical Research, The
+University of Sydney, New South Wales 2006, Australia.
+
+Diffuse bipolar cells in primate retina receive synaptic input from multiple
+cones and provide output to ganglion cells. Diffuse bipolar cells can be
+subdivided into six types (DB1-DB6) according to the stratification of their axon
+terminals in the inner plexiform layer, but their synaptic connectivity in the
+inner plexiform layer is not well understood. Here the stratification and
+synaptic connectivity of DB6 axon terminals were studied in the retinae of New
+World (marmoset) and Old World (macaque) monkeys. Immunohistochemical markers
+were applied to retinal sections. The sections were analyzed by confocal and
+deconvolution light microscopy as well as electron microscopy. The DB6 cells were
+identified with antibodies against CD15; rod bipolar cells were identified with
+antibodies against protein kinase Calpha (PKCalpha); and AII amacrine cells were 
+identified with antibodies against calretinin. The axons of DB6 and rod bipolar
+cells occupy distinct regions in stratum 5 of the inner plexiform layer. The
+distal processes of calretinin-labeled AII cells are usually closely associated
+with rod bipolar axons but sometimes also with DB6 axons. Pre-embedding
+immunoelectron microscopy showed that the vast majority (over 86%) of the
+synaptic output of DB6 cells is onto amacrine cell processes, whereas less than
+14% goes to ganglion cell processes. In double-labeled preparations DB6 axons
+occasionally made output onto calretinin-labeled amacrine processes. Thus it is
+possible that AII cells receive some input from DB6 cells.
+
+Copyright 2004 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.11027 
+PMID: 14755531  [Indexed for MEDLINE]
+

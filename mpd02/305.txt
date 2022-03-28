@@ -1,0 +1,42 @@
+
+
+305. Cereb Cortex. 2020 Oct 1;30(11):5943-5959. doi: 10.1093/cercor/bhaa168.
+
+Altered Resting-State Functional Connectivity Between Awake and Isoflurane
+Anesthetized Marmosets.
+
+Hori Y(1), Schaeffer DJ(1), Gilbert KM(1), Hayrynen LK(1), Cléry JC(1), Gati
+JS(1), Menon RS(1), Everling S(1)(2).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Ontario N6A 5B7, Canada.
+(2)Department of Physiology and Pharmacology, The University of Western Ontario, 
+London, Ontario N6A 5C1, Canada.
+
+The common marmoset (Callithrix jacchus) is a New World primate that is becoming 
+increasingly popular as a preclinical model. To assess functional connectivity
+(FC) across the marmoset brain, resting-state functional MRI (RS-fMRI) is often
+performed under isoflurane anesthesia to avoid the effects of motion,
+physiological stress, and training requirements. In marmosets, however, it
+remains unclear how isoflurane anesthesia affects patterns of FC. Here, we
+investigated the effects of isoflurane on FC when delivered with either medical
+air or 100% pure oxygen, two canonical methods of inhalant isoflurane anesthesia 
+delivery. The results demonstrated that when delivered with either medical air or
+100% oxygen, isoflurane globally decreased FC across resting-state networks that 
+were identified in awake marmosets. Generally, although isoflurane globally
+decreased FC in resting-state networks, the spatial structure of the networks was
+preserved. Outside of the context of RS networks, we indexed pair-wise functional
+connectivity between regions across the brain and found that isoflurane
+substantially altered interhemispheric and thalamic FC. Taken together, these
+findings indicate that RS-fMRI under isoflurane anesthesia is useful to evaluate 
+the global structure of functional networks, but may obfuscate important nodes of
+some network components when compared to data acquired in fully awake marmosets.
+
+© The Author(s) 2020. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permission@oup.com.
+
+DOI: 10.1093/cercor/bhaa168 
+PMCID: PMC7899065
+PMID: 32556184  [Indexed for MEDLINE]
+

@@ -1,0 +1,57 @@
+
+
+783. Neurosci Res. 2018 Mar;128:1-13. doi: 10.1016/j.neures.2017.10.009. Epub 2017 Oct
+27.
+
+Digital gene atlas of neonate common marmoset brain.
+
+Shimogori T(1), Abe A(2), Go Y(3), Hashikawa T(2), Kishi N(4), Kikuchi SS(2),
+Kita Y(2), Niimi K(5), Nishibe H(2), Okuno M(4), Saga K(2), Sakurai M(2), Sato
+M(2), Serizawa T(6), Suzuki S(2), Takahashi E(5), Tanaka M(2), Tatsumoto S(7),
+Toki M(6), U M(2), Wang Y(2), Windak KJ(2), Yamagishi H(6), Yamashita K(2), Yoda 
+T(2), Yoshida AC(2), Yoshida C(2), Yoshimoto T(5), Okano H(8).
+
+Author information: 
+(1)RIKEN Brain Science Institute, Laboratory for Molecular Mechanisms of Thalamus
+Development, 2-1 Hirosawa, Wako, Saitama, 351-0198, Japan. Electronic address:
+tshimogori@brain.riken.jp.
+(2)RIKEN Brain Science Institute, Laboratory for Molecular Mechanisms of Thalamus
+Development, 2-1 Hirosawa, Wako, Saitama, 351-0198, Japan.
+(3)Department of Brain Sciences, Center for Novel Science Initiatives, National
+Institutes of Natural Sciences, Okazaki, Aichi, 444-8585, Japan; Department of
+Physiological Sciences, National Institute for Physiological Sciences, Okazaki,
+Aichi 444-8585, Japan.
+(4)RIKEN Brain Science Institute, Laboratory for Marmoset Neural Architecture,
+2-1 Hirosawa, Wako, Saitama, 351-0198, Japan; Department of Physiology, Keio
+University School of Medicine, 35 Shinanomachi, Shinjuku, Tokyo, 160-0016, Japan.
+(5)RIKEN Brain Science Institute, Support Unit for Animal Resources Development, 
+2-1 Hirosawa, Wako, Saitama, 351-0198, Japan.
+(6)Progress wave, 3-14-11 Takamatsu-cho, Tachikawashi, Tokyo 190-0011, Japan.
+(7)Department of Brain Sciences, Center for Novel Science Initiatives, National
+Institutes of Natural Sciences, Okazaki, Aichi, 444-8585, Japan.
+(8)RIKEN Brain Science Institute, Laboratory for Marmoset Neural Architecture,
+2-1 Hirosawa, Wako, Saitama, 351-0198, Japan; Department of Physiology, Keio
+University School of Medicine, 35 Shinanomachi, Shinjuku, Tokyo, 160-0016, Japan.
+Electronic address: hidokano@keio.jp.
+
+Interest in the common marmoset (Callithrix jacchus) as a primate model animal
+has grown recently, in part due to the successful demonstration of transgenic
+marmosets. However, there is some debate as to the suitability of marmosets,
+compared to more widely used animal models, such as the macaque monkey and mouse.
+Especially, the usage of marmoset for animal models of human cognition and mental
+disorders, is still yet to be fully explored. To examine the prospects of the
+marmoset model for neuroscience research, the Marmoset Gene Atlas
+(https://gene-atlas.bminds.brain.riken.jp/) provides a whole brain gene
+expression atlas in the common marmoset. We employ in situ hybridization (ISH) to
+systematically analyze gene expression in neonate marmoset brains, which allows
+us to compare expression with other model animals such as mouse. We anticipate
+that these data will provide sufficient information to develop tools that enable 
+us to reveal marmoset brain structure, function, cellular and molecular
+organization for primate brain research.
+
+Copyright © 2017 Elsevier Ireland Ltd and Japan Neuroscience Society. All rights 
+reserved.
+
+DOI: 10.1016/j.neures.2017.10.009 
+PMID: 29111135  [Indexed for MEDLINE]
+

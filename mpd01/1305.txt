@@ -1,0 +1,86 @@
+
+
+1305. Toxicol Rep. 2014 Dec 31;2:165-174. doi: 10.1016/j.toxrep.2014.11.016.
+eCollection 2015.
+
+Non-human primate and rodent embryonic stem cells are differentially sensitive to
+embryotoxic compounds.
+
+Walker L(1)(2), Baumgartner L(3), Keller KC(1), Ast J(3), Trettner S(3), Zur
+Nieden NI(1)(2)(3).
+
+Author information: 
+(1)Department of Cell Biology & Neuroscience and Stem Cell Center, College of
+Natural and Agricultural Sciences, University of California Riverside, Riverside,
+CA 92521, USA.
+(2)Environmental Toxicology Graduate Program, College of Natural and Agricultural
+Sciences, University of California Riverside, Riverside, CA 92521, USA.
+(3)Fraunhofer Institute for Cell Therapy & Immunology, Perlickstrasse 1, 04103
+Leipzig, Germany.
+
+Many industrial chemicals and their respective by-products need to be
+comprehensively evaluated for toxicity using reliable and efficient assays. In
+terms of teratogenicity evaluations, the murine-based embryonic stem cell test
+(EST) offers a promising solution to screen for multiple tissue endpoints.
+However, use of a mouse model in the EST can yield only a limited understanding
+of human development, anatomy, and physiology. Non-human primate or human in
+vitro models have been suggested to be a pharmacologically and
+pathophysiologically desirable alternative to murine in vitro models. Here, we
+comparatively evaluated the sensitivity of embryonic stem cells (ESCs) of a
+non-human primate to skeletal teratogens with mouse ESCs hypothesizing that
+inclusion of non-human primate cells in in vitro tests would increase the
+reliability of safety predictions for humans. First, osteogenic capacity was
+compared between ESCs from the mouse and a New World monkey, the common marmoset.
+Then, cells were treated with compounds that have been previously reported to
+induce bone teratogenicity. Calcification and MTT assays evaluated effects on
+osteogenesis and cell viability, respectively. Our data indicated that marmoset
+ESCs responded differently than mouse ESCs in such embryotoxicity screens with no
+obvious dependency on chemical or compound classes and thus suggest that
+embryotoxicity screening results could be affected by species-driven response
+variation. In addition, ESCs derived from rhesus monkey, an Old World monkey, and
+phylogenetically closer to humans than the marmoset, were observed to respond
+differently to test compounds than marmoset ESCs. Together these results indicate
+that there are significant differences in the responses of non-human primate and 
+mouse ESC to embryotoxic agents.
+
+DOI: 10.1016/j.toxrep.2014.11.016 
+PMCID: PMC5598278
+PMID: 28962348 
+
+
+1306. J Exp Psychol Anim Learn Cogn. 2014 Jul;40(3):317-26. doi: 10.1037/xan0000027.
+Epub 2014 May 5.
+
+Transposition and its generalization in common marmosets.
+
+Yamazaki Y(1), Saiki M(2), Inada M(2), Iriki A(2), Watanabe S(1).
+
+Author information: 
+(1)Graduate School of Human Relations, Keio University.
+(2)Laboratory for Symbolic Cognitive Development, RIKEN Brain Science Institute.
+
+Whether animals use relational cues in transposition tests has long been
+considered a controversial issue. In the present study, we examined whether
+common marmosets could generalize relational responses to untrained stimulus
+pairs and further apply these generalizations to unknown shapes. The subjects
+were trained to perform simple discrimination tasks using a pair of stimuli. The 
+stimuli differed in size, and the subjects were required to select the larger or 
+smaller of the 2 sizes, depending on the given contingencies. After experiencing 
+several reversals, the subjects were examined using 2 different tests:
+transposition and shape generalization. In the transposition test trials, in
+which squares of different sizes than those used in the training trials were
+presented, the subjects selected the stimulus based on the relative size of the
+stimulus. In the shape generalization tests, sets of 5 novel shapes with the same
+relative sizes were presented with the training stimuli. The subjects'
+performance indicated successful transposition to the novel stimulus pairs, and
+further analysis showed that transposition was more likely to occur when the test
+stimuli shared physical features, such as the outer length and the number of line
+segments, with the trained stimuli. Thus, the present study demonstrated the
+robust ability of transposition in common marmosets based on relative size, both 
+with and without common shape features, and offered a possible method for
+specifying the critical stimulus features through which transposition can be more
+readily observed.
+
+DOI: 10.1037/xan0000027 
+PMID: 25545979  [Indexed for MEDLINE]
+

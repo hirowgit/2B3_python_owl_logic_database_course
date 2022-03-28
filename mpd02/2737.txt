@@ -1,0 +1,43 @@
+
+
+2737. Toxicology. 2005 Jan 5;206(1):33-48.
+
+Differential signatures of protein expression in marmoset liver and thymus
+induced by single-dose TCDD treatment.
+
+Oberemm A(1), Meckert C, Brandenburger L, Herzig A, Lindner Y, Kalenberg K,
+Krause E, Ittrich C, Kopp-Schneider A, Stahlmann R, Richter-Reichhelm HB,
+Gundert-Remy U.
+
+Author information: 
+(1)Federal Institute for Risk Assessment, Thielallee 88-92, 14195 Berlin,
+Germany. a.oberemm@bfr.bund.de
+
+2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) is an ubiquitously distributed
+environmental pollutant. Health effects have been studied intensively, but
+low-dose effects are quite complex and not yet fully understood. In many studies,
+the immune system was identified as the most sensitive target. Here, we
+demonstrate changes of protein expression in liver and thymus of male marmosets
+(Callithrix jacchus) which were subjected to a single dose of a subcutaneous
+injection of 100 ng/kg body weight TCDD. Histopathological examination revealed
+myocardial fibrosis, but there were no significant findings in pathology and
+histopathology of liver and thymus. In order to detect more subtle
+treatment-related changes, we performed a comparative proteomic investigation of 
+liver and thymus using a 2-D gel electrophoresis based proteomics approach.
+Fluorescence labeling and automated image analysis was used to enhance
+sensitivity and reproducibility. In both organs, distinct changes of protein
+expression were detected which were more pronounced in thymus, where the pattern 
+of deregulated proteins could be clearly related to immune responses. In the
+thymus of treated animals, several toxicologically relevant factors were
+increased, including chaperones, glycerol-3-phosphate dehydrogenase, and
+adseverin. Among others, vimentin, Ca-dependent protease and protein disulfide
+isomerase were downregulated. In the liver, transferrins, lamin A and HSP70 were 
+upregulated, whereas thymidine phosphorylase (synonyms: endothelial cell growth
+factor, PD-ECGF, gliostatin) was significantly reduced. Comparative analysis of
+deregulated proteins in both organs revealed a pattern of related functions,
+which fits well into the existing knowledge of the toxic processes and mechanisms
+underlying TCDD-mediated toxicity.
+
+DOI: 10.1016/j.tox.2004.06.061 
+PMID: 15590107  [Indexed for MEDLINE]
+

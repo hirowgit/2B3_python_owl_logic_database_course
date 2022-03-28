@@ -1,0 +1,33 @@
+
+
+3381. J Med Chem. 1999 Nov 18;42(23):4890-908.
+
+New alpha-substituted succinate-based hydroxamic acids as TNFalpha convertase
+inhibitors.
+
+Barlaam B(1), Bird TG, Lambert-Van Der Brempt C, Campbell D, Foster SJ, Maciewicz
+R.
+
+Author information: 
+(1)AstraZeneca, Zeneca Pharma, Centre de Recherches, Z.I. La Pompelle, BP1050,
+51689 Reims Cedex 2, France.
+
+Tumor necrosis factor alpha convertase (TACE), the enzyme responsible for the
+processing of pro-TNFalpha to TNFalpha, has been reported to be a
+metalloproteinase closely related to matrix metalloproteinases (MMPs). Current
+inhibitors of TACE such as succinate-based hydroxamic acids exemplified by
+Marimastat (TACE IC(50): 3.8 nM; blood IC(50): 7 microM) and BB1101 (TACE IC(50):
+0.2 nM; blood IC(50): 2.3 microM) suffer from modest potency in blood and poor in
+vivo properties. The introduction of new bulky alpha-substituents into these
+succinate-based hydroxamic acids was studied. Substituents such as thioethers,
+sulfonamides, and ethers showed improved potency against TACE when compared with 
+Marimastat. Although this improvement did not translate into better blood potency
+for thioether or ether substituents, the sulfonamide series exhibited improved
+potency both against TACE and in blood when compared with Marimastat.
+Optimization of this sulfonamide series has culminated in the identification of
+heterocyclic bicyclic sulfonamides such as 3t (TACE IC(50): 0.57 nM; blood
+IC(50): 0.28 microM).
+
+DOI: 10.1021/jm990377j 
+PMID: 10579851  [Indexed for MEDLINE]
+

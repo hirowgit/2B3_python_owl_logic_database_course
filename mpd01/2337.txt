@@ -1,0 +1,80 @@
+
+
+2337. Immunology. 2008 Apr;123(4):566-74. Epub 2007 Nov 14.
+
+Isolation and characterization of dendritic cells from common marmosets for
+preclinical cell therapy studies.
+
+Ohta S(1), Ueda Y, Yaguchi M, Matsuzaki Y, Nakamura M, Toyama Y, Tanioka Y,
+Tamaoki N, Nomura T, Okano H, Kawakami Y, Toda M.
+
+Author information: 
+(1)Neuroimmunology Research Group, Keio University School of Medicine, Tokyo,
+Japan.
+
+Dendritic cells (DCs) have important functions as modulators of immune responses,
+and their ability to activate T cells is of great value in cancer immunotherapy. 
+The isolation of DCs from the peripheral blood of rhesus and African green
+monkeys has been reported, but the immune system in the common marmoset remains
+poorly characterized, although it offers many potential advantages for
+preclinical studies. In the present study, we devised methods, based on
+techniques developed for mouse and human DC preparation, for isolating DCs from
+three major tissue sources in the common marmoset: bone marrow (BM), spleen and
+peripheral blood. Each set of separated cells was analysed using the cell surface
+DC-associated markers CD11c, CD80, CD83, CD86 and human leucocyte antigen
+(HLA)-DR, all of which are antibodies against human antigens, and the cells were 
+further characterized both functionally and morphologically as antigen-presenting
+cells. BM proved to be an excellent cell source for the isolation of DCs intended
+for preclinical studies on cell therapy, for which large quantities of cells are 
+required. In the BM-derived CD11c(+) cell population, cells exhibiting the
+characteristic features of DCs were enriched, with the typical DC morphology and 
+the abilities to undergo endocytosis, to secrete interleukin (IL)-12, and to
+stimulate Xenogenic T cells. Moreover, BM-derived DCs produced the neurotrophic
+factor NT-3, which is also found in murine splenic DCs. These results suggest
+that BM-derived DCs from the common marmoset may be useful for biological
+analysis and for preclinical studies on cell therapy for central nervous system
+diseases and cancer.
+
+DOI: 10.1111/j.1365-2567.2007.02727.x 
+PMCID: PMC2433308
+PMID: 18005037  [Indexed for MEDLINE]
+
+
+2338. Eur J Neurosci. 2007 Nov;26(10):2906-21.
+
+Characterization and synaptic connectivity of melanopsin-containing ganglion
+cells in the primate retina.
+
+Jusuf PR(1), Lee SC, Hannibal J, Grünert U.
+
+Author information: 
+(1)National Vision Research Institute of Australia, Cnr Keppel & Cardigan
+Streets, Carlton, Victoria 3053, Australia.
+
+Melanopsin is a photopigment expressed in retinal ganglion cells, which are
+intrinsically photosensitive and are also involved in retinal circuits arising
+from rod and cone photoreceptors. This circuitry, however, is poorly understood. 
+Here, we studied the morphology, distribution and synaptic input to
+melanopsin-containing ganglion cells in a New World monkey, the common marmoset
+(Callithrix jacchus). The dendrites of melanopsin-containing cells in marmoset
+stratify either close to the inner nuclear layer (outer stratifying), or close to
+the ganglion cell layer (inner stratifying). The dendritic fields of
+outer-stratifying cells tile the retina, with little overlap. However, the
+dendritic fields of outer-stratifying cells largely overlap with the dendritic
+fields of inner-stratifying cells. Thus, inner-stratifying and outer-stratifying 
+cells may form functionally independent populations. The synaptic input to
+melanopsin-containing cells was determined using synaptic markers (antibodies to 
+C-terminal binding protein 2, CtBP2, for presumed bipolar synapses, and
+antibodies to gephyrin for presumed amacrine synapses). Both outer-stratifying
+and inner-stratifying cells show colocalized immunoreactive puncta across their
+entire dendritic tree for both markers. The density of CtBP2 puncta on inner
+dendrites was about 50% higher than that on outer dendrites. The density of
+gephyrin puncta was comparable for outer and inner dendrites but higher than the 
+density of CtBP2 puncta. The inner-stratifying cells may receive their input from
+a type of diffuse bipolar cell (DB6). Our results are consistent with the idea
+that both outer and inner melanopsin cells receive bipolar and amacrine input
+across their dendritic tree.
+
+DOI: 10.1111/j.1460-9568.2007.05924.x 
+PMID: 18001286  [Indexed for MEDLINE]
+

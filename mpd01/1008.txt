@@ -1,0 +1,116 @@
+
+
+1008. J Virol. 2016 Sep 29;90(20):9153-62. doi: 10.1128/JVI.01051-16. Print 2016 Oct
+15.
+
+Acute Liver Damage Associated with Innate Immune Activation in a Small Nonhuman
+Primate Model of Hepacivirus Infection.
+
+Manickam C(1), Rajakumar P(2), Wachtman L(3), Kramer JA(3), Martinot AJ(1),
+Varner V(1), Giavedoni LD(4), Reeves RK(5).
+
+Author information: 
+(1)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, Massachusetts, USA.
+(2)Yerkes National Primate Research Center, Emory University, Atlanta, Georgia,
+USA.
+(3)New England Primate Research Center, Harvard Medical School, Southborough
+Campus, Southborough, Massachusetts, USA.
+(4)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, Texas, USA.
+(5)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, Massachusetts, USA New England Primate Research Center, Harvard
+Medical School, Southborough Campus, Southborough, Massachusetts, USA
+rreeves@bidmc.harvard.edu.
+
+Despite its importance in shaping adaptive immune responses, viral clearance, and
+immune-based inflammation, tissue-specific innate immunity remains poorly
+characterized for hepatitis C virus (HCV) infection due to the lack of access to 
+acutely infected tissues. In this study, we evaluated the impact of natural
+killer (NK) cells and myeloid (mDCs) and plasmacytoid (pDCs) dendritic cells on
+control of virus replication and virus-induced pathology caused by another, more 
+rapidly resolving hepacivirus, GB virus B (GBV-B), in infections of common
+marmosets. High plasma and liver viral loads and robust hepatitis characterized
+acute GBV-B infection, and while viremia was generally cleared by 2 to 3 months
+postinfection, hepatitis and liver fibrosis persisted after clearance. Coinciding
+with peak viral loads and liver pathology, the levels of NK cells, mDCs, and pDCs
+in the liver increased up to 3-fold. Although no obvious numerical changes in
+peripheral innate cells occurred, circulating NK cells exhibited increased
+perforin and Ki67 expression levels and increased surface expression of CXCR3.
+These data suggested that increased NK cell arming and proliferation as well as
+tissue trafficking may be associated with influx into the liver during acute
+infection. Indeed, NK cell frequencies in the liver positively correlated with
+plasma (R = 0.698; P = 0.015) and liver (R = 0.567; P = 0.057) viral loads.
+Finally, soluble factors associated with NK cells and DCs, including gamma
+interferon (IFN-γ) and RANTES, were increased in acute infection and also were
+associated with viral loads and hepatitis. Collectively, the findings showed that
+mobilization of local and circulating innate immune responses was linked to acute
+virus-induced hepatitis, and potentially to resolution of GBV-B infection, and
+our results may provide insight into similar mechanisms in HCV
+infection.IMPORTANCE: Hepatitis C virus (HCV) infection has created a global
+health crisis, and despite new effective antivirals, it is still a leading cause 
+of liver disease and death worldwide. Recent evidence suggests that innate
+immunity may be a potential therapeutic target for HCV, but it may also be a
+correlate of increased disease. Due to a lack of access to human tissues with
+acute HCV infection, in this study we evaluated the role of innate immunity in
+resolving infection with a hepacivirus, GBV-B, in common marmosets. Collectively,
+our data suggest that NK cell and DC mobilization in acute hepacivirus infection 
+can dampen virus replication but also regulate acute and chronic liver damage.
+How these two opposing effects on the host may be modulated in future therapeutic
+and vaccine approaches warrants further study.
+
+Copyright © 2016, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.01051-16 
+PMCID: PMC5044824
+PMID: 27489267  [Indexed for MEDLINE]
+
+
+1009. Tissue Eng Regen Med. 2016 Aug 5;13(4):323-334. doi: 10.1007/s13770-016-9091-4.
+eCollection 2016 Aug.
+
+Use of nonhuman primates for the development of bioengineered female reproductive
+organs.
+
+Yun JW(1), Kim YY(2), Ahn JH(1)(3), Kang BC(1)(3)(4)(5)(6), Ku SY(2)(7).
+
+Author information: 
+(1)1Department of Experimental Animal Research, Biomedical Research Institute,
+Seoul National University Hospital, Seoul, Korea.
+(2)2Department of Obstetrics and Gynecology, Seoul National University College of
+Medicine, Seoul, Korea.
+(3)3Graduate School of Translational Medicine, Seoul National University College 
+of Medicine, Seoul, Korea.
+(4)4Designed Animal Research Center, Institute of GreenBio Science Technology,
+Seoul National University, Pyeongchang, Korea.
+(5)5Biomedical Center for Animal Resource and Development, N-BIO, Seoul National 
+University, Seoul, Korea.
+(6)6Department of Obstetrics and Gynecology, Seoul National University College of
+Medicine, 101 Daehak-ro, Jongno-gu, Seoul, 03080 Korea.
+(7)7Graduate School of Translational Medicine, Seoul National University College 
+of Medicine, 101 Daehak-ro, Jongno-gu, Seoul, 03080 Korea.
+
+Nonhuman primates (NHPs) have been widely used in reproductive biology,
+neuroscience, and drug development since a number of primate species are
+phylogenetically close to humans. In this review, we summarize the use of NHPs
+for nonclinical application in the reproductive system disorders including the
+loss or failure of an organ or tissue. Causes of infertility include congenital
+aplasia and acquired disorders of the reproductive organs. In addition,
+anti-cancer treatments can deplete ovarian follicles, leading to premature
+ovarian failure, infertility and long-term health risks. Along with a limited
+supply of human reproductive organs, anatomic/physiologic similarities to humans 
+support the need for NHP models (New-World monkeys such as the common marmoset
+and Old-World monkeys such as cynomolgus and rhesus monkeys) to promote the
+advances in female infertility studies. For maintaining and executing animal
+studies using NHP, special protocols including animal care, anesthetic protocol, 
+surgical technique, and immunosuppressive protocol are necessary. With a growing 
+interest in the potential therapies such as endometrial tissue engineering, and
+ovary/follicle cryopreservation and grafting in Korea, this review can be useful 
+in selecting appropriate animal models and can bridge between nonclinical studies
+and clinical applications by providing detailed information on the use of NHPs in
+the field of reproductive organ disorders.
+
+DOI: 10.1007/s13770-016-9091-4 
+PMCID: PMC6171544
+PMID: 30603414 
+

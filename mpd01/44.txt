@@ -1,0 +1,127 @@
+
+
+44. Neuroscience. 2022 Jan 1;480:143-154. doi: 10.1016/j.neuroscience.2021.11.009.
+Epub 2021 Nov 11.
+
+Co-registration of Imaging Modalities (MRI, CT and PET) to Perform Frameless
+Stereotaxic Robotic Injections in the Common Marmoset.
+
+Kwan C(1), Kang MS(2), Nuara SG(3), Gourdon JC(3), Bédard D(1), Tardif CL(4),
+Hopewell R(5), Ross K(5), Bdair H(6), Hamadjida A(1), Massarweh G(5), Soucy
+JP(7), Luo W(8), Del Cid Pellitero E(9), Shlaifer I(8), Durcan TM(8), Fon EA(9), 
+Rosa-Neto P(10), Frey S(11), Huot P(12).
+
+Author information: 
+(1)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital (The
+Neuro), Montreal, QC, Canada.
+(2)McGill University Research Centre for Studies in Aging, Douglas Research
+Centre, Montreal, QC, Canada.
+(3)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(4)Department of Neurology and Neurosurgery, McGill University, Montreal, QC,
+Canada; Department of Biomedical Engineering, McGill University, Montreal, QC,
+Canada; McConnell Brain Imaging Centre, Montreal Neurological Institute-Hospital 
+(The Neuro), Montreal, QC, Canada.
+(5)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital (The
+Neuro), Montreal, QC, Canada; McConnell Brain Imaging Centre, Montreal
+Neurological Institute-Hospital (The Neuro), Montreal, QC, Canada.
+(6)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital (The
+Neuro), Montreal, QC, Canada; Department of Neurology and Neurosurgery, McGill
+University, Montreal, QC, Canada; McConnell Brain Imaging Centre, Montreal
+Neurological Institute-Hospital (The Neuro), Montreal, QC, Canada.
+(7)McConnell Brain Imaging Centre, Montreal Neurological Institute-Hospital (The 
+Neuro), Montreal, QC, Canada.
+(8)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital (The
+Neuro), Montreal, QC, Canada; The Neuro's Early Drug Discovery Unit, McGill
+University, Montreal, QC, Canada.
+(9)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital (The
+Neuro), Montreal, QC, Canada; Department of Neurology and Neurosurgery, McGill
+University, Montreal, QC, Canada; Movement Disorder Clinic, Division of
+Neurology, Department of Neuroscience, McGill University Health Centre, Montreal,
+QC, Canada.
+(10)McGill University Research Centre for Studies in Aging, Douglas Research
+Centre, Montreal, QC, Canada; Department of Neurology and Neurosurgery, McGill
+University, Montreal, QC, Canada; McConnell Brain Imaging Centre, Montreal
+Neurological Institute-Hospital (The Neuro), Montreal, QC, Canada.
+(11)Rogue Research Inc, Montreal, QC, Canada.
+(12)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital
+(The Neuro), Montreal, QC, Canada; Department of Neurology and Neurosurgery,
+McGill University, Montreal, QC, Canada; Movement Disorder Clinic, Division of
+Neurology, Department of Neuroscience, McGill University Health Centre, Montreal,
+QC, Canada. Electronic address: philippe.huot@mcgill.ca.
+
+The common marmoset has emerged as a popular model in neuroscience research, in
+part due to its reproductive efficiency, genetic and neuroanatomical similarities
+to humans and the successful generation of transgenic lines. Stereotaxic
+procedures in marmosets are guided by 2D stereotaxic atlases, which are
+constructed with a limited number of animals and fail to account for
+inter-individual variability in skull and brain size. Here, we developed a
+frameless imaging-guided stereotaxic system that improves upon traditional
+approaches by using subject-specific registration of computed tomography (CT),
+magnetic resonance imaging (MRI) and positron emission tomography (PET) data to
+identify a surgical target, namely the putamen, in two marmosets. The skull
+surface was laser-scanned to create a point cloud that was registered to the 3D
+reconstruction of the skull from CT. Reconstruction of the skull, as well as of
+the brain from MR images, was crucial for surgical planning. Localisation and
+injection into the putamen was done using a 6-axis robotic arm controlled by a
+surgical navigation software (Brainsight™). Integration of subject-specific
+registration and frameless stereotaxic navigation allowed target localisation
+specific to each animal. Injection of alpha-synuclein fibrils into the putamen
+triggered progressive neurodegeneration of the nigro-striatal system, a key
+feature of Parkinson's disease. Four months post-surgery, a PET scan found
+evidence of nigro-striatal denervation, supporting accurate targeting of the
+putamen during co-registration and subsequent surgery. Our results suggest that
+this approach, coupled with frameless stereotaxic neuronavigation, is accurate in
+localising surgical targets and can be used to assess endpoints for longitudinal 
+studies.
+
+Copyright © 2021 IBRO. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuroscience.2021.11.009 
+PMID: 34774970  [Indexed for MEDLINE]
+
+
+45. Exp Neurol. 2022 Jan;347:113920. doi: 10.1016/j.expneurol.2021.113920. Epub 2021 
+Nov 8.
+
+Dopamine D3 receptor ligand suppresses the expression of levodopa-induced
+dyskinesia in nonhuman primate model of parkinson's disease.
+
+Oh T(1), Daadi ES(1), Kim J(2), Daadi EW(1), Chen PJ(3), Roy-Choudhury G(1),
+Bohmann J(4), Blass BE(3), Daadi MM(5).
+
+Author information: 
+(1)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX, USA.
+(2)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX, USA; Cell Systems & Anatomy, University of Texas
+Health at San Antonio, San Antonio, TX, USA.
+(3)Department of Pharmaceutical Sciences, Moulder Center for Drug Discovery
+Research, Temple University School of Pharmacy, Philadelphia, PA, USA.
+(4)Southwest Research Institute, San Antonio, TX, USA.
+(5)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX, USA; Cell Systems & Anatomy, University of Texas
+Health at San Antonio, San Antonio, TX, USA; Radiology, Long School of Medicine, 
+University of Texas Health at San Antonio, San Antonio, TX, USA. Electronic
+address: mdaadi@txbiomed.org.
+
+Parkinson's disease (PD) is a complex multisystem, chronic and so far incurable
+disease with significant unmet medical needs. The incidence of PD increases with 
+aging and the expected burden will continue to escalate with our aging
+population. Since its discovery in the 1961 levodopa has remained the gold
+standard pharmacotherapy for PD. However, the progressive nature of the
+neurodegenerative process in and beyond the nigrostriatal system causes a
+multitude of side effects, including levodopa-induced dyskinesia within 5 years
+of therapy. Attenuating dyskinesia has been a significant challenge in the
+clinical management of PD. We report on a small molecule that eliminates the
+expression of levodopa-induced dyskinesia and significantly improves PD-like
+symptoms. The lead compound PD13R we discovered is a dopamine D3 receptor partial
+agonist with high affinity and selectivity, orally active and with desirable
+drug-like properties. Future studies are aimed at developing this lead compound
+for treating PD patients with dyskinesia.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.expneurol.2021.113920 
+PMID: 34762921  [Indexed for MEDLINE]
+

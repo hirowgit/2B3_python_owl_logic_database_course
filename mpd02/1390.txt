@@ -1,0 +1,45 @@
+
+
+1390. Biomed Res Int. 2014;2014:927685. doi: 10.1155/2014/927685. Epub 2014 May 27.
+
+Individual differences in gambling proneness among rats and common marmosets: an 
+automated choice task.
+
+Zoratto F(1), Sinclair E(2), Manciocco A(3), Vitale A(2), Laviola G(2), Adriani
+W(2).
+
+Author information: 
+(1)Section of Behavioural Neuroscience, Department of Cell Biology and
+Neurosciences, Istituto Superiore di Sanità, Viale Regina Elena 299, 00161 Rome, 
+Italy ; Bambino Gesù Children's Hospital IRCCS, Rome, Italy.
+(2)Section of Behavioural Neuroscience, Department of Cell Biology and
+Neurosciences, Istituto Superiore di Sanità, Viale Regina Elena 299, 00161 Rome, 
+Italy.
+(3)Section of Behavioural Neuroscience, Department of Cell Biology and
+Neurosciences, Istituto Superiore di Sanità, Viale Regina Elena 299, 00161 Rome, 
+Italy ; Istituto di Scienze e Tecnologie della Cognizione, National Research
+Council (ISTC-CNR), Rome, Italy.
+
+Interest is rising for animal modeling of pathological gambling. Using the
+operant probabilistic-delivery task (PDT), gambling proneness can be evaluated in
+laboratory animals. Drawing a comparison with rats, this study evaluated the
+common marmoset (Callithrix jacchus) using a PDT. By nose- or hand-poking,
+subjects learnt to prefer a large (LLL, 5-6 pellets) over a small (SS, 1-2
+pellets) reward and, subsequently, the probability of occurrence of large-reward 
+delivery was decreased progressively to very low levels (from 100% to 17% and
+14%). As probability decreased, subjects showed a great versus little shift in
+preference from LLL to SS reinforcer. Hence, two distinct subpopulations
+("non-gambler" versus "gambler") were differentiated within each species. A proof
+of the model validity comes from marmosets' reaction to reward-delivery omission.
+Namely, depending on individual temperament ("gambler" versus "non-gambler"),
+they showed either persistence (i.e., inadequate pokes towards LLL) or
+restlessness (i.e., inadequate pokes towards SS), respectively. In conclusion,
+the marmoset could be a suitable model for preclinical gambling studies.
+Implementation of the PDT to species other than rats may be relevant for
+determining its external validity/generalizability and improving its
+face/construct validity.
+
+DOI: 10.1155/2014/927685 
+PMCID: PMC4058269
+PMID: 24971360  [Indexed for MEDLINE]
+

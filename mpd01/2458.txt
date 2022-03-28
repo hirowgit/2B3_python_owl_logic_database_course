@@ -1,0 +1,77 @@
+
+
+2458. J Physiol. 2007 Feb 15;579(Pt 1):29-51. Epub 2006 Nov 23.
+
+Response variability of marmoset parvocellular neurons.
+
+Victor JD(1), Blessing EM, Forte JD, Buzás P, Martin PR.
+
+Author information: 
+(1)Department of Neurology and Neuroscience, Weill Medical College of Cornell
+University, New York, NY 10021, USA.
+
+This study concerns the properties of neurons carrying signals for colour vision 
+in primates. We investigated the variability of responses of individual
+parvocellular lateral geniculate neurons of dichromatic and trichromatic
+marmosets to drifting sinusoidal luminance and chromatic gratings. Response
+variability was quantified by the cycle-to-cycle variation in Fourier components 
+of the response. Averaged across the population, the variability at low contrasts
+was greater than predicted by a Poisson process, and at high contrasts the
+responses were approximately 40% more variable than responses at low contrasts.
+The contrast-dependent increase in variability was nevertheless below that
+expected from the increase in firing rate. Variability falls below the Poisson
+prediction at high contrast, and intrinsic variability of the spike train
+decreases as contrast increases. Thus, while deeply modulated responses in
+parvocellular cells have a larger absolute variability than weakly modulated
+ones, they have a more favourable signal: noise ratio than predicted by a Poisson
+process. Similar results were obtained from a small sample of magnocellular and
+koniocellular ('blue-on') neurons. For parvocellular neurons with pronounced
+colour opponency, chromatic responses were, on average, less variable (10-15%,
+p<0.01) than luminance responses of equal magnitude. Conversely, non-opponent
+parvocellular neurons showed the opposite tendency. This is consistent with a
+supra-additive noise source prior to combination of cone signals. In summary,
+though variability of parvocellular neurons is largely independent of the way in 
+which they combine cone signals, the noise characteristics of retinal circuitry
+may augment specialization of parvocellular neurons to signal luminance or
+chromatic contrast.
+
+DOI: 10.1113/jphysiol.2006.122283 
+PMCID: PMC2075379
+PMID: 17124265  [Indexed for MEDLINE]
+
+
+2459. Exp Neurol. 2007 Mar;204(1):162-70. Epub 2006 Nov 16.
+
+Decreased expression of l-dopa-induced dyskinesia by switching to ropinirole in
+MPTP-treated common marmosets.
+
+Jackson MJ(1), Smith LA, Al-Barghouthy G, Rose S, Jenner P.
+
+Author information: 
+(1)Neurodegenerative Diseases Research Centre, School of Health and Biomedical
+Sciences, King's College, London SE1 1UL, UK.
+
+Current concepts suggest that pulsatile stimulation of dopamine receptors
+following L-dopa administration leads to priming for dyskinesia in
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine hydrochloride (MPTP)-treated
+primates, while continuous dopaminergic stimulation with long-acting dopamine
+agonists does not. We investigated whether L-dopa-induced dyskinesia is reduced
+by switching to a dopamine agonist. MPTP-treated marmosets received chronic
+treatment with L-dopa or ropinirole in doses producing equivalent motor activity 
+and reversal of motor deficits. Administration of L-dopa led to the rapid onset
+of moderate to severe dyskinesia, whereas ropinirole produced only mild
+dyskinesia. Animals initially treated with L-dopa were switched to an equivalent 
+dose of ropinirole and those treated with ropinirole were switched to an
+equivalent dose of L-dopa for 56 days. L-dopa-primed animals that were switched
+to ropinirole showed a trend towards a reduction of dyskinesia intensity, whereas
+animals initially treated with ropinirole and switched to L-dopa showed a trend
+toward increased dyskinesia intensity. A subsequent, acute L-dopa challenge
+reversed motor deficits and induced intense dyskinesia in both groups. This
+suggests that L-dopa leads to the priming and expression of dyskinesia, but that 
+expression is not maintained when switching to a long-acting dopamine agonist. In
+contrast, dopamine agonists may prime for dyskinesia, but do not lead to its full
+expression.
+
+DOI: 10.1016/j.expneurol.2006.10.005 
+PMID: 17113078  [Indexed for MEDLINE]
+

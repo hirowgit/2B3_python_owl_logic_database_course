@@ -1,0 +1,70 @@
+
+
+1500. Hepatology. 2014 Mar;59(3):789-802. doi: 10.1002/hep.26750. Epub 2014 Jan 16.
+
+Infection of common marmosets with hepatitis C virus/GB virus-B chimeras.
+
+Li T(1), Zhu S, Shuai L, Xu Y, Yin S, Bian Y, Wang Y, Zuo B, Wang W, Zhao S,
+Zhang L, Zhang J, Gao GF, Allain JP, Li C.
+
+Author information: 
+(1)Department of Transfusion Medicine, Southern Medical University, Guangzhou,
+P.R. China.
+
+The development of vaccination and novel therapy for hepatitis C virus (HCV) has 
+been hampered by the lack of suitable small-animal models. GB virus B (GBV-B),
+closely related to HCV, causes viral hepatitis in common marmosets (Callithrix
+jacchue jacchus) and might represent an attractive surrogate model for HCV
+infection. However, differences exist between GBV-B and HCV in spite of a short
+genetic distance between the two viruses. Here we report common marmosets
+infected with two HCV/GBV-B chimeras containing HCV structural genes coding for
+either whole core and envelope proteins (CE1E2p7) or full envelope proteins
+(E1E2p7) substituted for the counterpart elements of GBV-B. Naïve animals
+intrahepatically injected with chimeric RNA transcripts or intravenously injected
+with sera from primary infected animals produced high levels of circulating
+infectious chimeric viruses and they developed chronic infection.
+Tacrolimus-treated marmosets inoculated with a CE1E2p7 chimera had higher viral
+loads and long-term persistent infection. A moderate elevation of serum aspartate
+aminotransferase (AST) levels was observed in parallel with viral replication.
+Chimeras recovered from liver samples revealed 1/958 adaptive viral mutations.
+Histopathological changes typical of viral hepatitis were observed in liver
+tissues from all types of HCV chimeras-infected marmosets. HCV core and E2
+proteins were detected in liver tissues from infected animals by
+immunohistochemical staining. Fluctuations of chimeric virus replication in
+marmosets with spontaneous and sporadic viral clearance might be related to
+specific antibody and T-cell response to HCV proteins in vivo. Replication of
+CE1E2p7 chimera was observed in primary hepatocyte cultures by immunofluorescent 
+staining in vitro.CONCLUSION: Infectious HCV chimeras causing chronic hepatitis
+in marmosets might constitute a small primate model suitable for evaluation of
+virus-cell interaction, vaccination, and antiviral therapy against HCV infection.
+
+© 2014 by the American Association for the Study of Liver Diseases.
+
+DOI: 10.1002/hep.26750 
+PMID: 24123143  [Indexed for MEDLINE]
+
+
+1501. Annu Int Conf IEEE Eng Med Biol Soc. 2013;2013:5402-5. doi:
+10.1109/EMBC.2013.6610770.
+
+A new method of concurrently visualizing states, values, and actions in
+reinforcement based brain machine interfaces.
+
+Bae J, Sanchez Giraldo LG, Pohlmeyer EA, Sanchez JC, Principe JC.
+
+This paper presents the first attempt to quantify the individual performance of
+the subject and of the computer agent on a closed loop Reinforcement Learning
+Brain Machine Interface (RLBMI). The distinctive feature of the RLBMI
+architecture is the co-adaptation of two systems (a BMI decoder in agent and a
+BMI user in environment). In this work, an agent implemented using Q-learning via
+kernel temporal difference (KTD)(λ) decodes the neural states of a monkey and
+transforms them into action directions of a robotic arm. We analyze how each
+participant influences the overall performance both in successful and missed
+trials by visualizing states, corresponding action value Q, and resulting actions
+in two-dimensional space. With the proposed methodology, we can observe how the
+decoder effectively learns a good state to action mapping, and how neural states 
+affect the prediction performance.
+
+DOI: 10.1109/EMBC.2013.6610770 
+PMID: 24110957  [Indexed for MEDLINE]
+

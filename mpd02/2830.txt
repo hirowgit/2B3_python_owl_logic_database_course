@@ -1,0 +1,35 @@
+
+
+2830. Exp Neurol. 2004 May;187(1):86-93.
+
+Antiparkinsonian activity of Ro 25-6981, a NR2B subunit specific NMDA receptor
+antagonist, in animal models of Parkinson's disease.
+
+Löschmann PA(1), De Groote C, Smith L, Wüllner U, Fischer G, Kemp JA, Jenner P,
+Klockgether T.
+
+Author information: 
+(1)Department of Neurology, University of Tübingen, Tuebingen, Germany.
+
+N-methyl-D-aspartate (NMDA) receptor antagonists have antiakinetic and
+antidyskinetic effects in animals models of Parkinson's disease (PD). However,
+non-selective inhibition of NMDA receptors throughout the central nervous system 
+may result in undesired effects such as ataxia and psychosis. We therefore
+studied Ro 25-6981, an activity-dependent antagonist of NMDA receptors containing
+the NR2B subunit which are predominantly expressed in the striatum. Ro 25-6981
+induced contraversive rotations in 6-hydroxydopamine (6-OHDA)-lesioned rats
+without stimulating locomotion in normal rats and reversed parkinsonian symptoms 
+in 1-methyl-4-phenyl-1,2,3,6,-tetrahydropyridine (MPTP)-treated common marmosets.
+Due to the small number of marmosets, there were no significant differences
+between Ro 25-6981 and vehicle though there was a significant trend toward
+differences, as shown by the Page test. Furthermore, Ro 25-6981 potentiated the
+action of levodopa in both species and attenuated the maximal levodopa response
+in 6-OHDA-lesioned rats chronically treated with levodopa without reducing the
+overall response. Ro 25-6981 also potentiated the action of the dopamine receptor
+agonists apomorphine, A68930 and quinpirole in 6-OHDA-lesioned rats. The present 
+observations suggest a therapeutic potential of NR2B-selective NMDA receptor
+antagonists in the management of PD.
+
+DOI: 10.1016/j.expneurol.2004.01.018 
+PMID: 15081591  [Indexed for MEDLINE]
+

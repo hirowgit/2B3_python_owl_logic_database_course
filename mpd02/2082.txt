@@ -1,0 +1,39 @@
+
+
+2082. Cytogenet Genome Res. 2009;125(4):253-9. doi: 10.1159/000235930. Epub 2009 Oct
+27.
+
+A non-human primate BAC resource to study interchromosomal segmental
+duplications.
+
+Kirsch S(1), Hodler C, Schempp W.
+
+Author information: 
+(1)Institute of Human Genetics, University of Freiburg, Freiburg, Germany.
+
+Segmental duplications (SDs) are involved in the reshaping and evolutionary
+development of primate genome architecture. Their intrinsic property to promote
+genomic instability facilitates genome rearrangements, thereby contributing to
+karyotype diversity in primates. However, comparative analyses of SDs based on
+whole-genome shotgun assemblies of primate genomes may lead to a distorted view
+of their evolutionary dynamics as this method will incorrectly assemble or simply
+not represent these regions. Therefore high-quality sequences of chromosomally
+assigned SDs are indispensable for unraveling the amplification and dispersal
+pattern of SDs during primate evolution. Here, we use an updated version of the
+ancestral duplicon state of the non-palindromic SDs of all 4 human Y-chromosome
+euchromatin/heterochromatin transition regions to perform a survey of duplicons
+genome-wide across 7 primate species. By adjusting experimental conditions to the
+mean nucleotide sequence divergence to human we identified 11,075 BAC clones
+carrying primate orthologs or paralogs of human Y chromosome-derived duplicons.
+Preliminary results indicate lineage-specific amplification of duplicons in
+prosimians and gibbons. This BAC-based framework represents the first complete
+set of a defined number of duplicons over 60 million years of primate evolution. 
+Comparative sequence analysis of this genetic resource can contribute to our
+deeper understanding of the impact of segmental duplications on primate genome
+evolution.
+
+(c) 2009 S. Karger AG, Basel.
+
+DOI: 10.1159/000235930 
+PMID: 19864887  [Indexed for MEDLINE]
+

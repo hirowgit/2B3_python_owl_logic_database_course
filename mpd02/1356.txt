@@ -1,0 +1,48 @@
+
+
+1356. Gigascience. 2014 Sep 19;3:14. doi: 10.1186/2047-217X-3-14. eCollection 2014.
+
+De novo assembly of the common marmoset transcriptome from NextGen mRNA
+sequences.
+
+Maudhoo MD(1), Ren D(2), Gradnigo JS(3), Gibbs RM(1), Lubker AC(1), Moriyama
+EN(3), French JA(4), Norgren RB Jr(1).
+
+Author information: 
+(1)Department of Genetics, Cell Biology and Anatomy, University of Nebraska
+Medical Center, Omaha, Nebraska 68198, USA.
+(2)Callitrichid Research Center, Department of Psychology, University of
+Nebraska, Omaha, USA ; Key Laboratory for Animal Biotechnology of Jiangxi
+Province and the Ministry of Agriculture of China, Jiangxi Agricultural
+University, Nanchang 330045, China.
+(3)School of Biological Sciences & Center for Plant Science Innovation,
+University of Nebraska-Lincoln, 403 Manter Hall, Lincoln, Nebraska 68588-0118,
+USA.
+(4)Callitrichid Research Center, Department of Psychology, University of
+Nebraska, Omaha, USA.
+
+BACKGROUND: Nonhuman primates are important for both biomedical studies and
+understanding human evolution. Although research in these areas has mostly
+focused on Old World primates, such as the rhesus macaque, the common marmoset
+(Callithrix jacchus), a New World primate, offers important advantages in
+comparison to other primates, such as an accelerated lifespan. To conduct Next
+Generation expression studies or to study primate evolution, a high quality
+annotation of the marmoset genome is required. The availability of marmoset
+transcriptome data from five tissues, including both raw sequences and assembled 
+transcripts, will aid in the annotation of the newly released marmoset assembly.
+FINDINGS: RNA WAS EXTRACTED FROM FIVE TISSUES: skeletal muscle, bladder and
+hippocampus from a male common marmoset, and cerebral cortex and cerebellum from 
+a female common marmoset. All five RNA samples were sequenced on the Illumina
+HiSeq 2000 platform. Sequences were deposited in the NCBI Sequence Read Archive. 
+Transcripts were assembled, annotated and deposited in the NCBI Transcriptome
+Shotgun Assembly database.
+CONCLUSIONS: We have provided a high quality annotation of 51,163 transcripts
+with full-length coding sequence. This set represented a total of 10,833 unique
+genes. In addition to providing empirical support for the existence of these
+10,833 genes, we also provide sequence information for 2,422 genes that were not 
+previously identified in the Ensembl annotation of the marmoset genome.
+
+DOI: 10.1186/2047-217X-3-14 
+PMCID: PMC4169894
+PMID: 25243066 
+

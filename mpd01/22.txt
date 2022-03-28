@@ -1,0 +1,88 @@
+
+
+22. J Comp Neurol. 2022 Jan 14. doi: 10.1002/cne.25292. [Epub ahead of print]
+
+Retinal ganglion cells expressing CaM kinase II in human and nonhuman primates.
+
+Baldicano AK(1), Nasir-Ahmad S(1)(2), Novelli M(1), Lee SCS(1)(2), Do MTH(3),
+Martin PR(1)(2), Grünert U(1)(2).
+
+Author information: 
+(1)Save Sight Institute and Discipline of Ophthalmology, Faculty of Medicine and 
+Health, The University of Sydney, Sydney, NSW, Australia.
+(2)Australian Research Council Centre of Excellence for Integrative Brain
+Function, The University of Sydney, Sydney, NSW, 2000, Australia.
+(3)F.M. Kirby Neurobiology Center and Department of Neurology, Boston Children's 
+Hospital and Harvard Medical School, Boston, Massachusetts, USA.
+
+Immunoreactivity for calcium-/calmodulin-dependent protein kinase II (CaMKII) in 
+the primate dorsal lateral geniculate nucleus (dLGN) has been attributed to
+geniculocortical relay neurons and has also been suggested to arise from
+terminals of retinal ganglion cells. Here, we combined immunostaining with
+single-cell injections to investigate the expression of CaMKII in retinal
+ganglion cells of three primate species: macaque (Macaca fascicularis, M.
+nemestrina), human, and marmoset (Callithrix jacchus). We found that in all
+species, about 2%-10% of the total ganglion cell population expressed CaMKII. In 
+all species, CaMKII was expressed by multiple types of wide-field ganglion cell
+including large sparse, giant sparse (melanopsin-expressing), broad thorny, and
+narrow thorny cells. Three other ganglion cells types, namely, inner and outer
+stratifying maze cells in macaque and tufted cells in marmoset were also found.
+Double labeling experiments showed that CaMKII-expressing cells included inner
+and outer stratifying melanopsin cells. Nearly all CaMKII-expressing ganglion
+cell types identified here are known to project to the koniocellular layers of
+the dLGN as well as to the superior colliculus. The best characterized
+koniocellular projecting cell type-the small bistratified (blue ON/yellow OFF)
+cell-was, however, not CaMKII-positive in any species. Our results indicate that 
+the pattern of CaMKII expression in retinal ganglion cells is largely conserved
+across different species of primate suggesting a common functional role. But the 
+results also show that CaMKII is not a marker for all koniocellular projecting
+retinal ganglion cells.
+
+© 2022 Wiley Periodicals LLC.
+
+DOI: 10.1002/cne.25292 
+PMID: 35029299 
+
+
+23. Transl Vis Sci Technol. 2022 Jan 3;11(1):14. doi: 10.1167/tvst.11.1.14.
+
+A Robust Microbead Occlusion Model of Glaucoma for the Common Marmoset.
+
+Kumar S(1), Benavente-Perez A(1), Ablordeppey R(1), Lin C(1), Viswanathan S(1),
+Akopian A(1), Bloomfield SA(1).
+
+Author information: 
+(1)Department of Biological and Vision Sciences, State University of New York
+College of Optometry, New York, NY, USA.
+
+Purpose: To establish a robust experimental model of glaucoma in the common
+marmoset (Callithrix jacchus), a New World primate, using an intracameral
+microbead injection technique.
+Methods: Elevated intraocular pressure (IOP) was induced by an injection of
+polystyrene microbeads. Morphologic changes in the retina and optic nerve of
+glaucomatous eyes were assessed and electroretinogram (ERG) recordings were
+performed to evaluate functional changes.
+Results: Microbead injections induced a sustained IOP elevation for at least 10
+weeks in a reproducible manner. At the end of the 10-week experimental period,
+there was significant loss of retinal ganglion cells (RGCs) in all quadrants and 
+eccentricities, although it was more prominent in the mid-peripheral and
+peripheral regions. This was consistent with a thinning of the Retinal nerve
+fiber layer (RNFL) seen in spectral domain optical coherence tomography scans.
+Surviving RGCs showed marked changes in morphology, including somatic shrinkage
+and dendritic atrophy. Retinas also showed significant gliosis. The amplitude of 
+the ERG photopic negative response, with subsequent a- and b-wave changes, was
+reduced in glaucomatous eyes. The optic nerve of glaucomatous eyes showed
+expanded cupping, disorganization of the astrocytic matrix, axonal loss, and
+gliosis.
+Conclusions: We developed a robust and reproducible model of glaucoma in the
+marmoset. The model exhibits both structural and functional alterations of retina
+and optic nerve characteristic of glaucoma in humans and animal models.
+Translational Relevance: The glaucoma model in the marmoset described here forms 
+a robust method to study the disease etiology, progression, and potential
+therapies in a nonhuman primate, allowing for more effective translation of
+animal data to humans.
+
+DOI: 10.1167/tvst.11.1.14 
+PMCID: PMC8762714
+PMID: 35019964  [Indexed for MEDLINE]
+

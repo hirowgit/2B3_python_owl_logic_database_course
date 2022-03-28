@@ -1,0 +1,45 @@
+
+
+1266. J Med Virol. 2015 Jul;87(7):1077-89. doi: 10.1002/jmv.24167. Epub 2015 Mar 16.
+
+Identification of cytotoxic T lymphocyte epitopes in dengue virus serotype 1.
+
+Duan Z(1), Guo J, Huang X, Liu H, Chen X, Jiang M, Wen J.
+
+Author information: 
+(1)Department of Microbiology and Immunology, School of Basic Medical Sciences,
+Wenzhou Medical University, Wenzhou, China; Department of Clinical Laboratory,
+The Second Affiliated Hospital & Yuying Children's Hospital of Wenzhou Medical
+University, Wenzhou, China.
+
+Dengue virus (DENV) has a serious and growing impact on global health and the
+exact role of DENV-specific CD8(+) T-cells in DENV infection is still uncertain. 
+In the present study, SYFPEITHI algorithm was used to screen the amino acid
+sequence of Dengue virus serotype 1 (DENV-1) for potential epitopes, and seven
+putative HLA-A*1101-restricted and five putative HLA-A*2402-restricted epitopes
+conserved in hundreds of DENV-1 strains were synthesized. The binding affinity of
+these epitope candidates to corresponding HLA molecules was evaluated using
+competitive peptide-binding assay. The immunogenicity and specificity of peptides
+were further tested in HLA-A*1101 transgenic mice, HLA-A*2402 transgenic mice and
+peripheral blood mononuclear cells (PBMCs) of patients infected with DENV-1.
+Percentage inhibition (PI) values calculated in competitive peptide-binding assay
+showed that six peptides (E39-47 PTLDIELLK, NS5(505-513) GVEGEGLHK, NS2b(15-23)
+SILLSSLLK, NS5(561-569) ALLATSIFK, NS3(99-107) AVEPGKNPK, and NS4b(159-167)
+VVYDAKFEK) could bind to HLA-A*1101 molecule with high affinity and five peptides
+(NS3472-480 QYIYMGQPL, NS4a40-48 AYRHAMEEL, NS5(880-888) DYMTSMKRF, NS3(548-556) 
+SYKVASEGF, and NS3(22-30) IYRILQRGL) have a high affinity for HLA-A*2402
+molecule. Enzyme-linked immunospot (ELISPOT) results indicated that these
+high-affinity peptides were recognized by splenocytes of DENV-1-infected
+transgenic mice and high-affinity peptide-immunized transgenic mice displayed
+high levels of peptide-specific IFN-γ-secreting cells. In addition, both
+peptide-pulsed splenocytes and DENV-1-infected splenic monocytes were efficiently
+killed by these peptide-specific cytotoxic T lymphocytes. Finally, except
+NS2b(15-23), 10 high-affinity peptides were recognized by PBMCs of patients
+infected with DENV-1. These identified epitopes would contribute to the
+understanding of the function of DENV-specific CD8(+) T-cells.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.24167 
+PMID: 25777343  [Indexed for MEDLINE]
+

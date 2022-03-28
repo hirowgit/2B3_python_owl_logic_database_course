@@ -1,0 +1,41 @@
+
+
+1604. J Tissue Eng Regen Med. 2015 Apr;9(4):473-9. doi: 10.1002/term.1709. Epub 2013
+Feb 18.
+
+Embryonic stem cells of the non-human primate Callithrix jacchus can be
+differentiated into definitive endoderm by Activin-A but not IDE-1/2.
+
+Diekmann U(1), Naujok O, Blasczyk R, Müller T.
+
+Author information: 
+(1)Institute of Clinical Biochemistry, Hannover Medical School, Hannover,
+Germany; Institute for Transfusion Medicine, Hannover Medical School, Hannover,
+Germany.
+
+Pluripotent stem cells hold great promise for regenerative medicine, due to their
+unlimited self-renewal potential and the ability to differentiate into all
+somatic cell types. Differences between the rodent disease models and the
+situation in humans can be narrowed down with non-human primate models. The
+common marmoset monkey (Callithrix jacchus) is an interesting model for
+biomedical research because these animals are easy to breed, get relatively old
+(≤ 13 years), are small in size, are relatively cost-effective and have a high
+genetic proximity to the human. In particular, diseases of the liver and pancreas
+are interesting for cell replacement therapies but the in vitro differentiation
+of ESCs into the definitive endoderm germ layer is still a demanding task.
+Membrane-permeable, chemically defined small molecules can possibly replace
+recombinant growth factors used in most directed differentiation protocols.
+However, the potent small molecules IDE-1 and IDE-2 were not able to induce
+definitive endoderm-like cells when ESCs from the common marmoset were treated
+with these compounds, whereas the recombinant growth factor Activin A could force
+the differentiation into this lineage. Our results indicate that ESCs from the
+common marmoset are less sensitive or even insensitive to these small molecules. 
+Thus, differences between the species of human ESCs and ESCs of this non-human
+primate might be a useful model to further evaluate the exact mode of action of
+these compounds.
+
+Copyright © 2013 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/term.1709 
+PMID: 23418163  [Indexed for MEDLINE]
+

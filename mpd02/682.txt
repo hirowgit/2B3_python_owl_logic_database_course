@@ -1,0 +1,48 @@
+
+
+682. Antiviral Res. 2018 Aug;156:64-71. doi: 10.1016/j.antiviral.2018.06.006. Epub
+2018 Jun 7.
+
+Prophylactic and therapeutic efficacy of mAb treatment against MERS-CoV in common
+marmosets.
+
+de Wit E(1), Feldmann F(2), Okumura A(3), Horne E(4), Haddock E(4), Saturday
+G(2), Scott D(2), Erlandson KJ(5), Stahl N(6), Lipsich L(6), Kyratsous CA(6),
+Feldmann H(4).
+
+Author information: 
+(1)Laboratory of Virology, National Institute of Allergy and Infectious Diseases,
+National Institutes of Health, Hamilton, MT, USA. Electronic address:
+emmie.dewit@nih.gov.
+(2)Rocky Mountain Veterinary Branch, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health, Hamilton, MT, USA.
+(3)Center for Infection and Immunity, Mailman School of Public Health, Columbia
+University, New York, NY, USA.
+(4)Laboratory of Virology, National Institute of Allergy and Infectious Diseases,
+National Institutes of Health, Hamilton, MT, USA.
+(5)Biomedical Advanced Research and Development Authority, Washington, DC, USA.
+(6)Regeneron Pharmaceuticals, Inc., Tarrytown, NY, USA.
+
+The high case-fatality rate of confirmed MERS-CoV infections underlines the
+urgent need for an effective treatment to reduce the disease severity and
+mortality. REGN3051 and REGN3048 are two fully human neutralizing monoclonal
+antibodies (mAb) against MERS-CoV that reduced virus replication in mice
+expressing human DPP4 upon prophylactic and therapeutic treatment. Here, we
+evaluated the prophylactic and therapeutic efficacy of REGN3048 and REGN3051 in
+the common marmoset model of MERS-CoV infection. Intravenous administration of
+mAb resulted in high levels of MERS-CoV-neutralizing activity in circulating
+blood. When animals were treated with mAbs one day before challenge, respiratory 
+disease was less severe and, in animals treated with both REGN3048 and REGN3051, 
+viral loads in the lungs were reduced. However, therapeutic treatment on day one 
+after challenge was less efficacious as it did not prevent the development of
+severe respiratory disease and all treated animals developed bronchointerstitial 
+pneumonia of similar severity as the control animals. Thus, mAb administration
+may be more effective in a prophylactic treatment regimen rather than treatment
+of MERS.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.antiviral.2018.06.006 
+PMCID: PMC7113689
+PMID: 29885377  [Indexed for MEDLINE]
+

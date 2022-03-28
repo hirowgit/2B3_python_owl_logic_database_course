@@ -1,0 +1,28 @@
+
+
+3663. J Gen Virol. 1997 Jul;78 ( Pt 7):1565-9.
+
+Molecular cloning of the hepatitis A virus receptor from a simian cell line.
+
+Ashida M(1), Hamada C.
+
+Author information: 
+(1)Department of Virology, Niigata University School of Medicine, Japan.
+vgoal@med.niigata.u.ac.jp
+
+Using a eukaryotic expression system in combination with a monoclonal antibody
+(MAb) capable of blocking hepatitis A virus (HAV) adsorption, a cDNA clone was
+selected from a library of S.la/Ve-1 cells, a cell line that is highly
+susceptible to the virus. Sequence analysis of the cDNA revealed a single open
+reading frame that encoded a protein consisting of 460 amino acids. The deduced
+primary structure of the protein included a signal sequence, a transmembrane
+domain, four sites for N-linked glycosylation, cysteine residues attributable to 
+an immunoglobulin domain and threonine clusters characteristic of mucin-like
+protein. By employing a vaccinia virus expression vector, the cDNA was expressed 
+in HeLa cells where it induced marked HAV attachment which was specifically
+blocked by the MAb. The cDNA obtained was thus assumed to encode a functional
+receptor for HAV.
+
+DOI: 10.1099/0022-1317-78-7-1565 
+PMID: 9225030  [Indexed for MEDLINE]
+

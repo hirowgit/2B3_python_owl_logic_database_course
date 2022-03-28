@@ -1,0 +1,66 @@
+
+
+3043. J Exp Med. 2002 Aug 19;196(4):431-45.
+
+Blockade of HIV-1 infection of New World monkey cells occurs primarily at the
+stage of virus entry.
+
+LaBonte JA(1), Babcock GJ, Patel T, Sodroski J.
+
+Author information: 
+(1)Department of Cancer Immunology & AIDS, JFB 824, Dana-Farber Cancer Institute,
+44 Binney Street, Boston, MA 02115, USA.
+
+HIV-1 naturally infects chimpanzees and humans, but does not infect Old World
+monkeys because of replication blocks that occur after virus entry into the cell.
+To understand the species-specific restrictions operating on HIV-1 infection, the
+ability of HIV-1 to infect the cells of New World monkeys was examined. Primary
+cells derived from common marmosets and squirrel monkeys support every phase of
+HIV-1 replication with the exception of virus entry. Efficient HIV-1 entry
+typically requires binding of the viral envelope glycoproteins and host cell
+receptors, CD4 and either CCR5 or CXCR4 chemokine receptors. HIV-1 did not
+detectably bind or utilize squirrel monkey CD4 for entry, and marmoset CD4 was
+also very inefficient compared with human CD4. A marmoset CD4 variant, in which
+residues 48 and 59 were altered to the amino acids found in human CD4, supported 
+HIV-1 entry efficiently. The CXCR4 molecules of both marmosets and squirrel
+monkeys supported HIV-1 infection, but the CCR5 proteins of both species were
+only marginally functional. These results demonstrate that the CD4 and CCR5
+proteins of New World monkeys represent the major restriction against HIV-1
+replication in these primates. Directed adaptation of the HIV-1 envelope
+glycoproteins to common marmoset receptors might allow the development of New
+World monkey models of HIV-1 infection.
+
+DOI: 10.1084/jem.20020468 
+PMCID: PMC2196058
+PMID: 12186836  [Indexed for MEDLINE]
+
+
+3044. J Mol Evol. 2002 Jul;55(1):92-103.
+
+SRY evolution in Cebidae (Platyrrhini: Primates).
+
+Moreira MA(1).
+
+Author information: 
+(1)Praça da Cruz Vermelha 23, Sexto Andar-Genetics Division, Instituto Nacional
+de Câncer, Rio de Janeiro, RJ, Brazil 20230-130. genetics@inca.org.br
+
+Sex determination in mammals is dependent on the presence of SRY, which codes for
+a protein with a DNA binding motif (the HMG-box domain). Here we analyze the
+evolution of SRY among seven genera of New World monkeys belonging to the family 
+Cebidae. Estimates of the number of synonymous and nonsynonymous substitutions
+indicated the absence of positive selection acting on SRY evolution. The presence
+of indels at the C-terminus coding region in different genera and species
+maintained an open reading frame, indicating a selective pressure constraining
+the evolution of this coding region. Available data on the fertility of natural
+and captive interspecific hybrids failed to show any relationship between SRY
+evolution and speciation for the genera herein studied. Our phylogenetic
+arrangement for Cebidae genera was similar to previous topologies based on
+mitochondrial and autosomal DNA sequences. This arrangement also corroborated the
+division of Cebus into two species groups. However, for Callithrix the
+differences among SRY topology and those derived from autosomal and mitochondrial
+genes suggested a Y-chromosome ancestral polymorphism.
+
+DOI: 10.1007/s00239-001-2308-7 
+PMID: 12165846  [Indexed for MEDLINE]
+

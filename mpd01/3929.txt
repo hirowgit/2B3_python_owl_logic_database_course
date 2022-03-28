@@ -1,0 +1,83 @@
+
+
+3929. J Exp Med. 1995 Feb 1;181(2):503-13.
+
+In vivo expansion of HLA-B35 alloreactive T cells sharing homologous T cell
+receptors: evidence for maintenance of an oligoclonally dominated allospecificity
+by persistent stimulation with an autologous MHC/peptide complex.
+
+Steinle A(1), Reinhardt C, Jantzer P, Schendel DJ.
+
+Author information: 
+(1)Institute of Immunology, University of Munich, Germany.
+
+The nature of alloantigens seen by T lymphocytes, in particular the role of
+peptides in allorecognition, has been studied intensively whereas knowledge about
+the in vivo emergence, diversity, and the structural basis of specificity of
+alloreactive T cells is very limited. Here we describe human T cell clones that
+recognize HLA-B35 alloantigens in a peptide-dependent manner. TCR sequence
+analysis revealed that several of these allospecific clones utilize homologous
+TCR: they all express TCRAV2S3J36C1 and TCRBV4S1J2S7C2 chains with highly related
+CDR3 sequences. Thus peptide-specific alloreactivity is reflected in homologous
+CDR3 sequences in a manner similar to that described for T cells that recognize
+nominal peptide/self-MHC complexes. The in vivo frequency of this TCR specificity
+was studied in unstimulated PBL of the responding cell donor who was not
+sensitized against HLA-B35. The vast majority (approximately 75%) of the VA2S3J36
+junctional regions obtained from two samples of PBL, isolated at a 9-yr interval,
+encode CDR3 identical or homologous to those of the functionally characterized
+HLA-B35 allospecific T cells. These data are most easily explained by a model of 
+alloreactivity in which persistent or recurrent exposure to a foreign
+peptide/self-MHC complex led to the in vivo expansion and long-term maintenance
+of specific T cells that show fortuitous crossrecognition of an HLA-B35/peptide
+complex and dominate the alloresponse against HLA-B35.
+
+DOI: 10.1084/jem.181.2.503 
+PMCID: PMC2191865
+PMID: 7836907  [Indexed for MEDLINE]
+
+
+3930. Psychopharmacology (Berl). 1995 Feb;117(3):287-97.
+
+The differential behavioural effects of benzazepine D1 dopamine agonists with
+varying efficacies, co-administered with quinpirole in primate and rodent models 
+of Parkinson's disease.
+
+Gnanalingham KK(1), Hunter AJ, Jenner P, Marsden CD.
+
+Author information: 
+(1)Parkinson's Disease Society, Experimental Research Laboratories, King's
+College, London, U.K.
+
+The effects of co-administration of quinpirole with benzazepine D1 dopamine (DA) 
+agonists possessing full/supramaximal (SKF 80723 and SKF 82958), partial (SKF
+38393 and SKF 75670) and no efficacies (SKF 83959) in stimulating adenylate
+cyclase (AC) were investigated in rodent and primate models of Parkinson's
+disease (PD). In rats with a unilateral 6-hydroxydopamine (6-OHDA) lesion of the 
+medial forebrain bundle, co-administration of SKF 38393
+(7,8-dihydroxy-1-phenyl-2,3,4,5-tetrahydro-1H-3-benzazepine), SKF 75670 (3-CH3
+analogue), SKF 80723 (6-Br analogue), SKF 83959 (6-Cl, 3-CH3, 3'-CH3 analogue)
+and SKF 82958 (6-Cl, 3-C3H5 analogue) strongly potentiated the contralateral
+circling induced by quinpirole. In MPTP
+(1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine) treated common marmosets,
+administration of quinpirole alone increased locomotor activity and reversed
+motor deficits. Grooming and oral activity were unaltered. Co-administration of
+SKF 38393 and SKF 75670 inhibited the quinpirole-induced changes in locomotor
+activity and motor disability. The combined treatment of SKF 80723 or SKF 82958
+with quinpirole had no overall effect on locomotor activity or motor disability. 
+In contrast, SKF 83959 extended the duration of the quinpirole-induced increase
+in locomotor activity with corresponding decreases in motor disability.
+Co-administration of high doses of SKF 82958 and more especially SKF 83959 and
+SKF 80723, with quinpirole induced hyperexcitability and seizures. Oral activity 
+and grooming were unaltered following the co-administration of benzazepine
+derivatives with quinpirole. The ability of some benzazepine D1 DA agonists to
+prolong the antiparkinsonian effects of quinpirole in the MPTP-treated marmoset
+may indicate a role for certain D1 DA agonists in the clinical treatment of PD.
+In general, the behavioural responses to the combined administration of
+benzazepines with quinpirole in the 6-OHDA lesioned rat and more especially the
+MPTP-treated marmoset failed to correlate with their ability to stimulate AC.
+These observations further implicate a behavioural role for D1 DA receptors not
+linked to AC.
+
+DOI: 10.1007/BF02246103 
+PMID: 7770604  [Indexed for MEDLINE]
+

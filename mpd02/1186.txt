@@ -1,0 +1,59 @@
+
+
+1186. Int J Mol Sci. 2015 Jul 24;16(8):16880-96. doi: 10.3390/ijms160816880.
+
+Murine K2P5.1 Deficiency Has No Impact on Autoimmune Neuroinflammation due to
+Compensatory K2P3.1- and KV1.3-Dependent Mechanisms.
+
+Bittner S(1), Bobak N(2), Hofmann MS(3), Schuhmann MK(4), Ruck T(5), Göbel K(6), 
+Brück W(7), Wiendl H(8), Meuth SG(9)(10).
+
+Author information: 
+(1)Department of Neurology, University of Münster, Albert-Schweitzer-Campus 1,
+Münster 48149, Germany. stefan.bittner@ukmuenster.de.
+(2)LabEx ICST, Institut de Pharmacologie Moléculaire et Cellulaire, CNRS and
+Université de Nice-Sophia Antipolis, Valbonne 06560, France.
+nicole.bobak@txcell.com.
+(3)Department of Neurology, University of Münster, Albert-Schweitzer-Campus 1,
+Münster 48149, Germany. majella.hofmann@uni-muenster.de.
+(4)Department of Neurology, University of Würzburg, Würzburg 97070, Germany.
+Schuhmann_M@ukw.de.
+(5)Department of Neurology, University of Münster, Albert-Schweitzer-Campus 1,
+Münster 48149, Germany. tobias.ruck@ukmuenster.de.
+(6)Department of Neurology, University of Münster, Albert-Schweitzer-Campus 1,
+Münster 48149, Germany. kerstin.goebel@ukmuenster.de.
+(7)Department of Neuropathology, University Medical Center, Georg August
+University, Göttingen 37073, Germany. neuropat@med.uni-goettingen.de.
+(8)Department of Neurology, University of Münster, Albert-Schweitzer-Campus 1,
+Münster 48149, Germany. heinz.wiendl@ukmuenster.de.
+(9)Department of Neurology, University of Münster, Albert-Schweitzer-Campus 1,
+Münster 48149, Germany. sven.meuth@ukmuenster.de.
+(10)Department of Physiology I-Neuropathophysiology, University of Münster,
+Münster 48149, Germany . sven.meuth@ukmuenster.de.
+
+Lymphocytes express potassium channels that regulate physiological cell
+functions, such as activation, proliferation and migration. Expression levels of 
+K2P5.1 (TASK2; KCNK5) channels belonging to the family of two-pore domain
+potassium channels have previously been correlated to the activity of
+autoreactive T lymphocytes in patients with multiple sclerosis and rheumatoid
+arthritis. In humans, K2P5.1 channels are upregulated upon T cell stimulation and
+influence T cell effector functions. However, a further clinical translation of
+targeting K2P5.1 is currently hampered by a lack of highly selective inhibitors, 
+making it necessary to evaluate the impact of KCNK5 in established preclinical
+animal disease models. We here demonstrate that K2P5.1 knockout (K2P5.1-/-) mice 
+display no significant alterations concerning T cell cytokine production,
+proliferation rates, surface marker molecules or signaling pathways. In an
+experimental model of autoimmune neuroinflammation, K2P5.1-/- mice show a
+comparable disease course to wild-type animals and no major changes in the
+peripheral immune system or CNS compartment. A compensatory upregulation of the
+potassium channels K2P3.1 and KV1.3 seems to counterbalance the deletion of
+K2P5.1. As an alternative model mimicking autoimmune neuroinflammation,
+experimental autoimmune encephalomyelitis in the common marmoset has been
+proposed, especially for testing the efficacy of new potential drugs. Initial
+experiments show that K2P5.1 is functionally expressed on marmoset T lymphocytes,
+opening up the possibility for assessing future K2P5.1-targeting drugs.
+
+DOI: 10.3390/ijms160816880 
+PMCID: PMC4581175
+PMID: 26213925  [Indexed for MEDLINE]
+

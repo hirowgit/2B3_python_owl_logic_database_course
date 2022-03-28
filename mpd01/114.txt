@@ -1,0 +1,117 @@
+
+
+114. Sci Data. 2021 Jun 28;8(1):159. doi: 10.1038/s41597-021-00935-6.
+
+Chromosomal-scale de novo genome assemblies of Cynomolgus Macaque and Common
+Marmoset.
+
+Jayakumar V(1), Nishimura O(2), Kadota M(2), Hirose N(3)(4)(5), Sano H(3)(6),
+Murakawa Y(6)(7)(5)(8)(9), Yamamoto Y(10), Nakaya M(11)(12), Tsukiyama T(11)(12),
+Seita Y(11), Nakamura S(11)(12), Kawai J(7), Sasaki E(13), Ema M(11)(12), Kuraku 
+S(2), Kawaji H(14)(15)(16), Sakakibara Y(17).
+
+Author information: 
+(1)Department of Biosciences and Informatics, Keio University, Yokohama,
+Kanagawa, 223-8522, Japan.
+(2)Laboratory for Phyloinformatics, RIKEN Center for Biosystems Dynamics
+Research, Minatojimaminami-machi 2-2-3, Kobe, Hyogo, 650-0047, Japan.
+(3)RIKEN Center for Integrative Medical Science Preventive Medicine and Applied
+Genomics Unit, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama, 230-0045, Japan.
+(4)Research Center for Genome & Medical Sciences, Tokyo Metropolitan Institute of
+Medical Science, 2-1-6 Kamikitazawa, Setagaya-ku, Tokyo, 156-8506, Japan.
+(5)Institute for the Advanced Study of Human Biology, Kyoto University,
+Yoshida-Konoe-cho, Sakyo-ku, Kyoto, 606-8501, Japan.
+(6)RIKEN Center for Integrative Medical Sciences RIKEN-IFOM Joint Laboratory for 
+Cancer Genomics, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama, 230-0045, Japan.
+(7)RIKEN Preventive Medicine and Diagnosis Innovation Program, 1-7-22
+Suehiro-cho, Tsurumi-ku, Yokohama, 230-0045, Japan.
+(8)Department of Medical Systems Genomics, Graduate School of Medicine, Kyoto
+University, Yoshida-Konoe-cho, Sakyo-ku, Kyoto, 606-8501, Japan.
+(9)IFOM-the FIRC Institute of Molecular Oncology, Milan, Italy.
+(10)RIKEN Center for Integrative Medical Sciences Laboratory for Comprehensive
+Genomic Analysis, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama, 230-0045, Japan.
+(11)Department of Stem Cells and Human Disease Models, Research Center for Animal
+Life Science, Shiga University of Medical Science, Shiga, 520-2192, Japan.
+(12)Institute for the Advanced Study of Human Biology (WPI-ASHBi), Kyoto
+University, Kyoto, 606-8501, Japan.
+(13)Central Institute for Experimental Animals, Department of Marmoset Biology
+and Medicine, Central Institute for Experimental Animals, 3-25-12, Tonomachi,
+Kawasaki-ku, Kawasaki, 210-0821, Japan.
+(14)RIKEN Center for Integrative Medical Science Preventive Medicine and Applied 
+Genomics Unit, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama, 230-0045, Japan.
+hideya.kawaji@riken.jp.
+(15)Research Center for Genome & Medical Sciences, Tokyo Metropolitan Institute
+of Medical Science, 2-1-6 Kamikitazawa, Setagaya-ku, Tokyo, 156-8506, Japan.
+hideya.kawaji@riken.jp.
+(16)RIKEN Preventive Medicine and Diagnosis Innovation Program, 1-7-22
+Suehiro-cho, Tsurumi-ku, Yokohama, 230-0045, Japan. hideya.kawaji@riken.jp.
+(17)Department of Biosciences and Informatics, Keio University, Yokohama,
+Kanagawa, 223-8522, Japan. yasu@bio.keio.ac.jp.
+
+Cynomolgus macaque (Macaca fascicularis) and common marmoset (Callithrix jacchus)
+have been widely used in human biomedical research. Long-standing primate genome 
+assemblies used the human genome as a reference for ordering and orienting the
+assembled fragments into chromosomes. Here we performed de novo genome assembly
+of these two species without any human genome-based bias observed in the genome
+assemblies released earlier. We assembled PacBio long reads, and the resultant
+contigs were scaffolded with Hi-C data, which were further refined based on Hi-C 
+contact maps and alternate de novo assemblies. The assemblies achieved scaffold
+N50 lengths of 149 Mb and 137 Mb for cynomolgus macaque and common marmoset,
+respectively. The high fidelity of our assembly is also ascertained by BAC-end
+concordance in common marmoset. Our assembly of cynomolgus macaque outperformed
+all the available assemblies of this species in terms of contiguity. The
+chromosome-scale genome assemblies produced in this study are valuable resources 
+for non-human primate models and provide an important baseline in human
+biomedical research.
+
+DOI: 10.1038/s41597-021-00935-6 
+PMCID: PMC8239027
+PMID: 34183680  [Indexed for MEDLINE]
+
+
+115. BMC Ecol Evol. 2021 Jun 25;21(1):132. doi: 10.1186/s12862-021-01848-z.
+
+Vertical clinging and leaping induced evolutionary rate shifts in postcranial
+evolution of tamarins and marmosets (Primates, Callitrichidae).
+
+Botton-Divet L(1), Nyakatura JA(2).
+
+Author information: 
+(1)AG Vergleichende Zoologie, Institut Für Biologie, Humboldt-Universität Zu
+Berlin, Philippstr. 13, 10115, Berlin, Germany. leo.botton-divet@hu-berlin.de.
+(2)AG Vergleichende Zoologie, Institut Für Biologie, Humboldt-Universität Zu
+Berlin, Philippstr. 13, 10115, Berlin, Germany.
+
+BACKGROUND: Callitrichids comprise a diverse group of platyrrhine monkeys that
+are present across South and Central America. Their secondarily evolved small
+size and pointed claws allow them to cling to vertical trunks of a large
+diameter. Within callitrichids, lineages with a high affinity for vertical
+supports often engage in trunk-to-trunk leaping. This vertical clinging and
+leaping (VCL) differs from horizontal leaping (HL) in terms of the functional
+demands imposed on the musculoskeletal system, all the more so as HL often occurs
+on small compliant terminal branches. We used quantified shape descriptors (3D
+geometric morphometrics) and phylogenetically-informed analyses to investigate
+the evolution of the shape and size of the humerus and femur, and how this
+variation reflects locomotor behavior within Callitrichidae.
+RESULTS: The humerus of VCL-associated species has a narrower trochlea compared
+with HL species. It is hypothesized that this contributes to greater elbow
+mobility. The wider trochlea in HL species appears to correspondingly provide
+greater stability to the elbow joint. The femur in VCL species has a smaller head
+and laterally-oriented distal condyles, possibly to reduce stresses during
+clinging. Similarly, the expanded lesser trochanters visible in VCL species
+provide a greater lever for the leg retractors and are thus also interpreted as
+an adaptation to clinging. Evolutionary rate shifts to faster shape and size
+changes of humerus and femur occurred in the Leontocebus clade when a shift to
+slower rates occurred in the Saguinus clade.
+CONCLUSIONS: Based on the study of evolutionary rate shifts, the transition to
+VCL behavior within callitrichids (specifically the Leontocebus clade) appears to
+have been an opportunity for radiation, rather than a specialization that imposed
+constraints on morphological diversity. The study of the evolution of
+callitrichids suffers from a lack of comparative analyses of limb mechanics
+during trunk-to-trunk leaping, and future work in this direction would be of
+great interest.
+
+DOI: 10.1186/s12862-021-01848-z 
+PMCID: PMC8235625
+PMID: 34171986  [Indexed for MEDLINE]
+

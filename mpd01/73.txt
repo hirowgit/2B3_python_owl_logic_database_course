@@ -1,0 +1,101 @@
+
+
+73. Nat Commun. 2021 Sep 15;12(1):5388. doi: 10.1038/s41467-021-25487-6.
+
+Functional and molecular characterization of a non-human primate model of autism 
+spectrum disorder shows similarity with the human disease.
+
+Watanabe S(1), Kurotani T(2), Oga T(2), Noguchi J(2), Isoda R(2), Nakagami
+A(2)(3), Sakai K(2), Nakagaki K(2), Sumida K(4), Hoshino K(5), Saito K(4),
+Miyawaki I(5), Sekiguchi M(6), Wada K(6), Minamimoto T(7), Ichinohe N(8).
+
+Author information: 
+(1)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Kodaira, Tokyo, Japan.
+s-watanabe@ncnp.go.jp.
+(2)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Kodaira, Tokyo, Japan.
+(3)Department of Psychology, Japan Women's University, Kawasaki, Kanagawa, Japan.
+(4)Environmental Health Science Laboratory, Sumitomo Chemical Co., Ltd.,
+Konohana-ku, Osaka, Japan.
+(5)Preclinical Research Laboratories, Sumitomo Dainippon Pharma Co., Ltd.,
+Konohana-ku, Osaka, Japan.
+(6)Department of Degenerative Neurological Diseases, National Institute of
+Neuroscience, National Center of Neurology and Psychiatry, Kodaira, Tokyo, Japan.
+(7)Department of Functional Brain Imaging, National Institutes for Quantum and
+Radiological Science and Technology, Chiba, Chiba, Japan.
+(8)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Kodaira, Tokyo, Japan.
+nichino@ncnp.go.jp.
+
+Autism spectrum disorder (ASD) is a multifactorial disorder with characteristic
+synaptic and gene expression changes. Early intervention during childhood is
+thought to benefit prognosis. Here, we examined the changes in cortical
+synaptogenesis, synaptic function, and gene expression from birth to the juvenile
+stage in a marmoset model of ASD induced by valproic acid (VPA) treatment. Early 
+postnatally, synaptogenesis was reduced in this model, while juvenile-age
+VPA-treated marmosets showed increased synaptogenesis, similar to observations in
+human tissue. During infancy, synaptic plasticity transiently increased and was
+associated with altered vocalization. Synaptogenesis-related genes were
+downregulated early postnatally. At three months of age, the differentially
+expressed genes were associated with circuit remodeling, similar to the
+expression changes observed in humans. In summary, we provide a functional and
+molecular characterization of a non-human primate model of ASD, highlighting its 
+similarity to features observed in human ASD.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41467-021-25487-6 
+PMCID: PMC8443557
+PMID: 34526497  [Indexed for MEDLINE]
+
+
+74. Brain Struct Funct. 2021 Dec;226(9):3007-3022. doi: 10.1007/s00429-021-02367-9.
+Epub 2021 Sep 13.
+
+Marmosets: a promising model for probing the neural mechanisms underlying complex
+visual networks such as the frontal-parietal network.
+
+D'Souza JF(1)(2), Price NSC(1)(2), Hagan MA(3)(4).
+
+Author information: 
+(1)Department of Physiology and Neuroscience Program, Biomedicine Discovery
+Institute, Monash University, 26 Innovation Walk, Clayton, VIC, 3800, Australia.
+(2)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, VIC, 3800, Australia.
+(3)Department of Physiology and Neuroscience Program, Biomedicine Discovery
+Institute, Monash University, 26 Innovation Walk, Clayton, VIC, 3800, Australia. 
+maureen.hagan@monash.edu.
+(4)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, VIC, 3800, Australia.
+maureen.hagan@monash.edu.
+
+The technology, methodology and models used by visual neuroscientists have
+provided great insights into the structure and function of individual brain
+areas. However, complex cognitive functions arise in the brain due to networks
+comprising multiple interacting cortical areas that are wired together with
+precise anatomical connections. A prime example of this phenomenon is the
+frontal-parietal network and two key regions within it: the frontal eye fields
+(FEF) and lateral intraparietal area (area LIP). Activity in these cortical areas
+has independently been tied to oculomotor control, motor preparation, visual
+attention and decision-making. Strong, bidirectional anatomical connections have 
+also been traced between FEF and area LIP, suggesting that the aforementioned
+visual functions depend on these inter-area interactions. However, advancements
+in our knowledge about the interactions between area LIP and FEF are limited with
+the main animal model, the rhesus macaque, because these key regions are buried
+in the sulci of the brain. In this review, we propose that the common marmoset is
+the ideal model for investigating how anatomical connections give rise to
+functionally-complex cognitive visual behaviours, such as those modulated by the 
+frontal-parietal network, because of the homology of their cortical networks with
+humans and macaques, amenability to transgenic technology, and rich behavioural
+repertoire. Furthermore, the lissencephalic structure of the marmoset brain
+enables application of powerful techniques, such as array-based electrophysiology
+and optogenetics, which are critical to bridge the gaps in our knowledge about
+structure and function in the brain.
+
+© 2021. The Author(s).
+
+DOI: 10.1007/s00429-021-02367-9 
+PMCID: PMC8541938
+PMID: 34518902  [Indexed for MEDLINE]
+

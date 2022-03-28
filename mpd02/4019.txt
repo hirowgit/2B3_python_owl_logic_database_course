@@ -1,0 +1,49 @@
+
+
+4019. Carcinogenesis. 1994 May;15(5):829-36.
+
+Contribution of CYP1A1 and CYP1A2 to the activation of heterocyclic amines in
+monkeys and human.
+
+Edwards RJ(1), Murray BP, Murray S, Schulz T, Neubert D, Gant TW, Thorgeirsson
+SS, Boobis AR, Davies DS.
+
+Author information: 
+(1)Department of Clinical Pharmacology, Royal Postgraduate Medical School,
+London, UK.
+
+The activation of heterocyclic amines to mutagenic products by hepatic microsomal
+fractions from cynomolgus monkey, marmoset monkey and man was compared with the
+respective levels of cytochrome P450 enzymes CYP1A1 and CYP1A2. The rate of
+activation of 2-amino-3,8-dimethylimidazo[4,5-f] quinoxaline (MeIQx),
+2-amino-3-methylimidazo[4,5-f]quinoline (IQ) and
+2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) to mutagens by hepatic
+microsomal fraction from cynomolgus monkey was very low. This was associated with
+a lack of constitutive expression of CYP1A1 and CYP1A2. In contrast, human
+hepatic microsomal fraction readily activates these heterocyclic amines and this 
+is associated with constitutive expression of CYP1A2. Treatment of cynomolgus
+monkey with 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) causes a very modest
+induction of CYP1A2, and a small increase in the activation of MeIQx and IQ.
+However, there was marked induction of CYP1A1 which was accompanied by > 10-fold 
+increases in PhIP activation and 7-ethoxyresorufin O-deethylase (EROD),
+7-methoxyresorufin O-demethylase (MROD) and aryl hydrocarbon hydroxylase
+activities. Following treatment of cynomolgus monkey with 3-methylcholanthrene,
+induction of CYP1A1, but not CYP1A2, was evident. In untreated marmoset monkey
+the activations of MeIQx and PhIP, as well as phenacetin O-deethylase, EROD, MROD
+and aryl hydrocarbon hydroxylase activities, are similar to those in man,
+although the activations of IQ and coumarin 7-hydroxylase activity are lower than
+in man. The presence of constitutive CYP1A2, and the absence of CYP1A1, in the
+liver of this species correspond to the situation in man. Treatment of marmoset
+monkey with TCDD results in increased CYP1A2 levels (4-fold), accompanied by
+proportional increases in the activation of MeIQx and IQ and phenacetin
+O-deethylase, EROD and MROD activities. The activation of PhIP is increased
+disproportionately, by 8-fold, most likely due to the activity of CYP1A1 which is
+also induced by TCDD in this species. Overall, the hepatic metabolism of
+heterocyclic amines by CYP1A enzymes in the untreated marmoset monkey resembles
+that in human more closely than that in the cynomolgus monkey. Therefore,
+marmoset monkey may be a more suitable model than the cynomolgus monkey for
+carcinogenicity studies involving MeIQx and PhIP, but not IQ.
+
+DOI: 10.1093/carcin/15.5.829 
+PMID: 8200083  [Indexed for MEDLINE]
+

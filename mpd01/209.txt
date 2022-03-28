@@ -1,0 +1,91 @@
+
+
+209. J Neurophysiol. 2021 Feb 1;125(2):437-457. doi: 10.1152/jn.00312.2020. Epub 2020 
+Dec 23.
+
+Properties of visually guided saccadic behavior and bottom-up attention in
+marmoset, macaque, and human.
+
+Chen CY(1)(2), Matrov D(1)(3), Veale R(1), Onoe H(4), Yoshida M(5), Miura
+K(6)(7), Isa T(1)(2)(4).
+
+Author information: 
+(1)Department of Neuroscience, Graduate School of Medicine, Kyoto University,
+Kyoto, Japan.
+(2)Institute for the Advanced Study of Human Biology, Kyoto University, Kyoto,
+Japan.
+(3)Division of Neuropsychopharmacology, Department of Psychology, University of
+Tartu, Tartu, Estonia.
+(4)Human Brain Research Center, Graduate School of Medicine, Kyoto University,
+Kyoto, Japan.
+(5)Center for Human Nature, Artificial Intelligence, and Neuroscience, Hokkaido
+University, Sapporo, Japan.
+(6)Department of Integrative Brain Science, Graduate School of Medicine, Kyoto
+University, Kyoto, Japan.
+(7)Department of Pathology of Mental Diseases, National Institute of Mental
+Health, National Center of Neurology and Psychiatry, Tokyo, Japan.
+
+Saccades are stereotypic behaviors whose investigation improves our understanding
+of how primate brains implement precise motor control. Furthermore, saccades
+offer an important window into the cognitive and attentional state of the brain. 
+Historically, saccade studies have largely relied on macaques. However, the
+cortical network giving rise to the saccadic command is difficult to study in
+macaques because relevant cortical areas lie in deep sulci and are difficult to
+access. Recently, a New World monkey. the marmoset, has garnered attention as an 
+alternative to macaques because of advantages including its smooth cortical
+surface. However, adoption of the marmoset for oculomotor research has been
+limited due to a lack of in-depth descriptions of marmoset saccade kinematics and
+their ability to perform psychophysical tasks. Here, we directly compare
+free-viewing and visually guided behavior of marmoset, macaque, and human engaged
+in identical tasks under similar conditions. In the video free-viewing task, all 
+species exhibited qualitatively similar saccade kinematics up to 25° in amplitude
+although with different parameters. Furthermore, the conventional bottom-up
+saliency model predicted gaze targets at similar rates for all species. We
+further verified their visually guided behavior by training them with step and
+gap saccade tasks. In the step paradigm, marmosets did not show shorter saccade
+reaction time for upward saccades whereas macaques and humans did. In the gap
+paradigm, all species showed similar gap effect and express saccades. Our results
+suggest that the marmoset can serve as a model for oculomotor, attentional, and
+cognitive research while we need to be aware of their difference from macaque or 
+human.NEW & NOTEWORTHY We directly compared the results of a video free-viewing
+task and visually guided saccade tasks (step and gap) among three different
+species: marmoset, macaque, and human. We found that all species exhibit
+qualitatively similar saccadic kinematics and saliency-driven saccadic behavior
+albeit with different parameters. Our results suggest that the marmoset possesses
+similar neural mechanisms to macaque and human for saccadic control, and it is an
+appropriate model to study neural mechanisms for active vision and attention.
+
+DOI: 10.1152/jn.00312.2020 
+PMID: 33356912  [Indexed for MEDLINE]
+
+
+210. Emerg Infect Dis. 2021 Jan;27(1):47-56. doi: 10.3201/eid2701.191220.
+
+Differential Yellow Fever Susceptibility in New World Nonhuman Primates,
+Comparison with Humans, and Implications for Surveillance.
+
+de Azevedo Fernandes NCC, Guerra JM, Díaz-Delgado J, Cunha MS, Saad LD, Iglezias 
+SD, Ressio RA, Dos Santos Cirqueira C, Kanamura CT, Jesus IP, Maeda AY, Vasami
+FGS, de Carvalho J, de Araújo LJT, de Souza RP, Nogueira JS, Spinola RMF,
+Catão-Dias JL.
+
+A major outbreak of yellow fever (YF) occurred in Brazil during 2016-2018.
+Epizootics in New World nonhuman primates are sentinel events for YF virus
+circulation. However, genus-specific susceptibilities and suitability for YF
+surveillance remain poorly understood. We obtained and compared epidemiologic,
+histopathologic, immunohistochemical, and molecular results from 93 human and
+1,752 primate cases submitted during the recent YF outbreak in Brazil (2017),
+with the support of the Brazilian National YF Surveillance Program. We detected
+heterogeneous YF-associated profiles among the various genera of primates we
+analyzed. Alouatta primates were the most reliable sentinel; Sapajus and
+Callicebus primates had higher viral loads but lower proportional mortality
+rates. Callithrix primates were the least sensitive, showing lower viral loads,
+lower proportional mortality rates, and no demonstrable YF virus antigen or
+extensive lesions in liver, despite detectable viral RNA. These differences in
+susceptibility, viral load, and mortality rates should be considered in strategic
+surveillance of epizootics and control measures for YF.
+
+DOI: 10.3201/eid2701.191220 
+PMCID: PMC7774563
+PMID: 33350931  [Indexed for MEDLINE]
+

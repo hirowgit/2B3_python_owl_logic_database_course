@@ -1,0 +1,78 @@
+
+
+3178. Biomed Sci Instrum. 2001;37:119-24.
+
+Development of a wireless system for auditory neuroscience.
+
+Lukes AJ(1), Lear AT, Snider RK.
+
+Author information: 
+(1)Department of Electrical and Computer Engineering, Montana State University,
+Bozeman, MT 59717, USA.
+
+In order to study how the auditory cortex extracts communication sounds in a
+realistic acoustic environment, a wireless system is being developed that will
+transmit acoustic as well as neural signals. The miniature transmitter will be
+capable of transmitting two acoustic signals with 37.5 KHz bandwidths (75 KHz
+sample rate) and 56 neural signals with bandwidths of 9.375 KHz (18.75 KHz sample
+rate). These signals will be time-division multiplexed into one high bandwidth
+signal with a 1.2 MHz sample rate. This high bandwidth signal will then be
+frequency modulated onto a 2.4 GHz carrier, which resides in the industrial,
+scientic, and medical (ISM) band that is designed for low-power short-range
+wireless applications. On the receiver side, the signal will be demodulated from 
+the 2.4 GHz carrier and then digitized by an analog-to-digital (A/D) converter.
+The acoustic and neural signals will be digitally demultiplexed from the
+multiplexed signal into their respective channels. Oversampling (20 MHz) will
+allow the reconstruction of the multiplexing clock by a digital signal processor 
+(DSP) that will perform frame and bit synchronization. A frame is a subset of the
+signal that contains all the channels and several channels tied high and low will
+signal the start of a frame. This technological development will bring two
+benefits to auditory neuroscience. It will allow simultaneous recording of many
+neurons that will permit studies of population codes. It will also allow neural
+functions to be determined in higher auditory areas by correlating neural and
+acoustic signals without apriori knowledge of the necessary stimuli.
+
+
+PMID: 11347373  [Indexed for MEDLINE]
+
+
+3179. Physiol Behav. 2001 Apr;72(5):713-20.
+
+Prolactin levels are elevated after infant carrying in parentally inexperienced
+common marmosets.
+
+Roberts RL(1), Jenkins KT, Lawler T, Wegner FH, Norcross JL, Bernhards DE, Newman
+JD.
+
+Author information: 
+(1)Unit on Developmental Neuroethology, Laboratory of Comparative Ethology,
+National Institute of Child Health and Human Development, NIH Animal Center, P.O.
+Box 529, Poolesville, MD 20837, USA. lr123@nih.gov
+
+Alloparental behavior (parental behavior directed to nondescendant young) is
+pervasive among human cultures but rare among other mammals. New World primates
+of the family Callitrichidae, including common marmosets (Callithrix jacchus
+jacchus), dwell in large families and many family members carry and/or provision 
+infants. This study experimentally characterized alloparenting in common
+marmosets by measuring infant retrieval and carrying outside of the context of
+the family group. Prolactin was measured in samples collected before and after
+infant exposure to determine whether elevated prolactin levels were predictive of
+alloparental responsiveness. Seventeen nonbreeding, parentally inexperienced,
+singly or peer-housed common marmosets (10 females, 7 males, 6-66 months of age) 
+were tested repeatedly in an infant retrieval paradigm. Infant retrieval was
+shown by 5 out of 17 monkeys (29%) in their first test. The rate of retrieval
+increased to 10 monkeys (59%) by the fourth test. No significant differences in
+age, sex, or housing condition existed between monkeys that retrieved infants and
+those not retrieving. Prolactin concentrations were significantly elevated in
+serum obtained after testing only in monkeys that retrieved infants. Prolactin
+levels after infant exposure were positively related to carrying duration. A
+separate experiment verified that neither prolactin nor cortisol was
+significantly elevated in response to prolonged handling. Cortisol levels were
+inversely proportional to handling time. Prolactin levels were not significantly 
+related to handling time. Our results indicate that alloparental behavior is
+expressed at high rates after minimal infant experience, and prolactin levels
+rise concomitantly with the expression of alloparental behavior in this species.
+
+DOI: 10.1016/s0031-9384(01)00430-9 
+PMID: 11337003  [Indexed for MEDLINE]
+

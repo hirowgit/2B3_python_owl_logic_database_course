@@ -1,0 +1,102 @@
+
+
+1624. J Neurophysiol. 2013 Mar;109(6):1638-57. doi: 10.1152/jn.00698.2012. Epub 2012
+Dec 28.
+
+Comparison of auditory-vocal interactions across multiple types of vocalizations 
+in marmoset auditory cortex.
+
+Eliades SJ(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+seliades@jhu.edu
+
+Auditory-vocal interaction, the modulation of auditory sensory responses during
+vocal production, is an important but poorly understood neurophysiological
+phenomenon in nonhuman primates. This sensory-motor processing has important
+behavioral implications for self-monitoring during vocal production as well as
+feedback-mediated vocal control for both animals and humans. Previous studies in 
+marmosets have shown that a large portion of neurons in the auditory cortex are
+suppressed during self-produced vocalization but have primarily focused on a
+single type of isolation vocalization. The present study expands previous
+analyses to compare auditory-vocal interaction of cortical responses between
+different types of vocalizations. We recorded neurons from the auditory cortex of
+unrestrained marmoset monkeys with implanted electrode arrays and showed that
+auditory-vocal interactions generalize across vocalization types. We found the
+following: 1) Vocal suppression and excitation are a general phenomenon,
+occurring for all four major vocalization types. 2) Within individual neurons,
+suppression was the more general response, occurring for multiple vocalization
+types, while excitation tended to be more specific to a single vocalization type.
+3) A subset of neurons changed their responses between different types of
+vocalization, most often from strong suppression or excitation for one
+vocalization to unresponsive for another, and only rarely from suppression to
+excitation. 4) Differences in neural responses between vocalization types were
+weakly correlated with passive response properties, measured by playbacks of
+acoustic stimuli including recorded vocalizations. These results indicate that
+vocalization-induced modulation of the auditory cortex is a general phenomenon
+applicable to all vocalization types, but variations within individual neurons
+suggest possible vocalization-specific coding.
+
+DOI: 10.1152/jn.00698.2012 
+PMCID: PMC3602939
+PMID: 23274315  [Indexed for MEDLINE]
+
+
+1625. Pathogens. 2013 May 13;2(2):357-63. doi: 10.3390/pathogens2020357.
+
+Presence of Viral Genome in Urine and Development of Hematuria and Pathological
+Changes in Kidneys in Common Marmoset (Callithrix jacchus) after Inoculation with
+Dengue Virus.
+
+Moi ML(1), Omatsu T(2), Hirayama T(3), Nakamura S(4), Katakai Y(5), Yoshida T(6),
+Saito A(7), Tajima S(8), Ito M(9), Takasaki T(10), Akari H(11), Kurane I(12).
+
+Author information: 
+(1)National Institute of Infectious Diseases, 1-23-1 Toyama, Shinjuku-ku, Tokyo, 
+162-8640, Japan. sherry@nih.go.jp.
+(2)National Institute of Infectious Diseases, 1-23-1 Toyama, Shinjuku-ku, Tokyo, 
+162-8640, Japan. tomatsu@cc.tuat.ac.jp.
+(3)National Institute of Infectious Diseases, 1-23-1 Toyama, Shinjuku-ku, Tokyo, 
+162-8640, Japan. hirayama@jata.or.jp.
+(4)Shiga University of Medical Science, Seta Tsukinowa-cho, Otsu, Shiga,
+520-2192, Japan. snakamur@belle.shiga-med.ac.jp.
+(5)National Institute of Biomedical Innovation, 1 Hachimandai, Tsukuba, Ibaraki, 
+305-0843, Japan. katakai@primate.or.jp.
+(6)Primate Research Institute, Kyoto University, Inuyama, Aichi, 484-8506, Japan.
+ytomoyuki@pri.kyoto-u.ac.jp.
+(7)Primate Research Institute, Kyoto University, Inuyama, Aichi, 484-8506, Japan.
+saito.akatsuki.6a@kyoto-u.ac.jp.
+(8)National Institute of Infectious Diseases, 1-23-1 Toyama, Shinjuku-ku, Tokyo, 
+162-8640, Japan. stajima@nih.go.jp.
+(9)National Institute of Infectious Diseases, 1-23-1 Toyama, Shinjuku-ku, Tokyo, 
+162-8640, Japan. mito0908@yahoo.co.jp.
+(10)National Institute of Infectious Diseases, 1-23-1 Toyama, Shinjuku-ku, Tokyo,
+162-8640, Japan. takasaki@nih.go.jp.
+(11)Primate Research Institute, Kyoto University, Inuyama, Aichi, 484-8506,
+Japan. akari@pri.kyoto-u.ac.jp.
+(12)National Institute of Infectious Diseases, 1-23-1 Toyama, Shinjuku-ku, Tokyo,
+162-8640, Japan. kurane@nih.go.jp.
+
+Common marmosets (Callithrix jacchus) developed high levels of viremia, clinical 
+signs including fever, weight loss, a decrease in activity and hematuria upon
+inoculation with dengue virus (DENV). Presence of DENV genome in urine samples
+and pathological changes in kidneys were examined in the present study. Levels of
+DENV genome were determined in 228 urine samples from 20 primary DENV-inoculated 
+marmosets and in 56 urine samples from four secondary DENV-inoculated marmosets. 
+DENV genome was detected in 75% (15/20) of marmosets after primary DENV
+infection. No DENV genome was detected in urine samples from the marmosets with
+secondary infection with homologous DENV (0%, 0/4). Two marmosets demonstrated
+hematuria. Pathological analysis of the kidneys demonstrated non-suppressive
+interstitial nephritis with renal tubular regeneration. DENV antigen-positive
+cells were detected in kidneys. In human dengue virus infections, some patients
+present renal symptoms. The results indicate that marmosets recapitulate some
+aspects of the involvement of kidneys in human DENV infection, and suggest that
+marmosets are potentially useful for the studies of the pathogenesis of DENV
+infection, including kidneys.
+
+DOI: 10.3390/pathogens2020357 
+PMCID: PMC4235723
+PMID: 25437039 
+

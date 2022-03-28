@@ -1,0 +1,77 @@
+
+
+2421. J Comp Neurol. 2007 May 1;502(1):126-40.
+
+Connections of diffuse bipolar cells in primate retina are biased against
+S-cones.
+
+Lee SC(1), Grünert U.
+
+Author information: 
+(1)National Vision Research Institute of Australia, Carlton, VIC 3053, Australia.
+
+In mammalian retina, each diffuse bipolar type stratifies in a distinct layer of 
+the inner plexiform layer. Thus, different types of bipolar cells provide output 
+to distinct visual pathways. Here, the question of whether diffuse bipolar cell
+types differ with respect to their contacts with short wavelength-sensitive (S-) 
+cones was investigated in the retinas of a New World monkey, Callithrix jacchus, 
+and an Old World monkey, Macaca fascicularis. Subpopulations of OFF bipolar cells
+were labeled with antibodies to the glutamate transporter Glt-1 and ON bipolar
+cells were labeled with antibodies to the alpha subunit of the Go protein
+(Goalpha). Two types of diffuse ON bipolar cells, DB4 and DB6, were identified
+with antibodies to protein kinase Calpha and CD15, respectively. Cone pedicles
+were labeled either with peanut agglutinin coupled to fluorescein or with
+antibodies to the ribbon protein, C-terminus binding protein 2. We found that
+immunoreactivity for Glt-1 (OFF bipolar cells) is reduced at S-cones in
+comparison to medium/long wavelength-sensitive (M/L-) cones. Immunoreactivity for
+Goalpha (ON bipolar cells) is comparable at all cone types. Nearly all M/L-cone
+pedicles contact the diffuse ON bipolar types DB4 and DB6, but only between 60%
+and 75% of the S-cone pedicles make contact. Furthermore, the number of dendritic
+tips of DB4 and DB6 cells at S-cone pedicles is lower than that at M/L-cone
+pedicles. These results suggest that there is a bias in the S-cone connectivity
+of diffuse bipolar cells.
+
+DOI: 10.1002/cne.21284 
+PMID: 17335043  [Indexed for MEDLINE]
+
+
+2422. J Comp Neurol. 2007 May 1;502(1):86-112.
+
+Forebrain connectivity of the prefrontal cortex in the marmoset monkey
+(Callithrix jacchus): an anterograde and retrograde tract-tracing study.
+
+Roberts AC(1), Tomic DL, Parkinson CH, Roeling TA, Cutter DJ, Robbins TW, Everitt
+BJ.
+
+Author information: 
+(1)Behavioural and Clinical Neuroscience Institute, University of Cambridge,
+Cambridge, CB2 3EB, UK. acr4@cam.ac.uk
+
+The cortical and subcortical forebrain connections of the marmoset prefrontal
+cortex (PFC) were examined by injecting the retrograde tracer, choleratoxin, and 
+the anterograde tracer, biotin dextran amine, into four sites within the PFC. Two
+of the sites, the lateral and orbital regions, had previously been shown to
+provide functionally dissociable contributions to distinct forms of behavioral
+flexibility, attentional set-shifting and discrimination reversal learning,
+respectively. The dysgranular and agranular regions lying on the orbital and
+medial surfaces of the frontal lobes were most closely connected with limbic
+structures including cingulate cortex, amygdala, parahippocampal cortex,
+subiculum, hippocampus, hypothalamus, medial caudate nucleus, and nucleus
+accumbens as well as the magnocellular division of the mediodorsal nucleus of the
+thalamus and midline thalamic nuclei, consistent with findings in the rhesus
+monkey. In contrast, the granular region on the dorsal surface closely resembled 
+area 8Ad in macaques and had connections restricted to posterior parietal cortex 
+primarily associated with visuospatial functions. However, it also had
+connections with limbic cortex, including retrosplenial and caudal cingulate
+cortex as well as auditory processing regions in the superior temporal cortex.
+The granular region on the lateral convexity had the most extensive connections. 
+Based on its architectonics and functionality, it resembled areas 12/45 in
+macaques. It had connections with high-order visual processing regions in the
+inferotemporal cortex and posterior parietal cortex, higher-order auditory and
+polymodal processing regions in the superior temporal cortex. In addition it had 
+extensive connections with limbic regions including the amygdala, parahippocampal
+cortex, cingulate, and retrosplenial cortex.
+
+DOI: 10.1002/cne.21300 
+PMID: 17335041  [Indexed for MEDLINE]
+

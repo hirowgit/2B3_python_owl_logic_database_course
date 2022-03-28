@@ -1,0 +1,69 @@
+
+
+2315. Eur Neuropsychopharmacol. 2008 May;18(5):383-9. doi:
+10.1016/j.euroneuro.2007.11.003. Epub 2008 Jan 28.
+
+Therapeutic effects of Delta9-THC and modafinil in a marmoset Parkinson model.
+
+van Vliet SA(1), Vanwersch RA, Jongsma MJ, Olivier B, Philippens IH.
+
+Author information: 
+(1)Department of Diagnosis and Therapy, TNO Defence, Security and Safety,
+Rijswijk, The Netherlands. s.a.m.van.vliet@med.umcg.nl
+
+Current therapies for Parkinson's disease (PD) like l-dopa and dopamine (DA)
+agonists have declined efficacy after long term use. Therefore, research towards 
+supplementary or alternative medication is needed. The implementation in PD can
+be expedited by application of compounds already used in the clinic. In this
+study the therapeutic effects of the psychoactive compounds
+Delta(9)-tetrahydrocannabinol (Delta(9)-THC) and modafinil were tested in the
+1-methyl-1,2,3,6-tetrahydropyridine (MPTP)-marmoset model for PD. The
+anti-parkinson effects of Delta(9)-THC (4 mg/kg) and modafinil (100 mg/kg) in
+parkinsonian marmosets were assessed with two behavioral rating scales covering
+parkinsonian symptoms and involuntary movements and two test systems assessing
+the locomotor activity and hand-eye coordination. Delta(9)-THC improved activity 
+and hand-eye coordination, but induced compound-related side-effects. Modafinil
+improved activity and observed parkinsonian symptoms but not hand-eye
+coordination. It can be concluded that both compounds have therapeutic values and
+could supplement existing therapies for PD.
+
+DOI: 10.1016/j.euroneuro.2007.11.003 
+PMID: 18222654  [Indexed for MEDLINE]
+
+
+2316. Pharmacogenet Genomics. 2008 Jan;18(1):53-66. doi: 10.1097/FPC.0b013e3282f313f8.
+
+CYP3 phylogenomics: evidence for positive selection of CYP3A4 and CYP3A7.
+
+Qiu H(1), Taudien S, Herlyn H, Schmitz J, Zhou Y, Chen G, Roberto R, Rocchi M,
+Platzer M, Wojnowski L.
+
+Author information: 
+(1)Department of Pharmacology, Johannes Gutenberg University Mainz, Germany.
+
+OBJECTIVE: CYP3A metabolizes 50% of currently prescribed drugs and is frequently 
+involved in clinically relevant drug interactions. The understanding of roles and
+regulations of the individual CYP3A genes in pharmacology and physiology is
+incomplete.
+METHODS: Using genomic sequences from 16 species we investigated the evolution of
+CYP3 genomic loci over a period of 450 million years.
+RESULTS: CYP3A genes in amniota evolved from two ancestral CYP3A genes. Upon the 
+emergence of eutherian mammals, one of them was lost, whereas, the other acquired
+a novel genomic environment owing to translocation. In primates, CYP3A underwent 
+rapid evolutionary changes involving multiple gene duplications, deletions,
+pseudogenizations, and gene conversions. The expansion of CYP3A in catarrhines
+(Old World monkeys, great apes, and humans) differed substantially from New World
+primates (e.g. common marmoset) and strepsirrhines (e.g. galago). We detected two
+recent episodes of particularly strong positive selection acting on primate CYP3A
+protein-coding sequence: (i) on CYP3A7 early in hominoid evolution, which was
+accompanied by a restriction of its hepatic expression to fetal period and (ii)
+on human CYP3A4 following the split of the chimpanzee and human lineages. In
+agreement with these findings, three out of four positively selected amino acids 
+investigated in previous biochemical studies of CYP3A affect the activity and
+regioselectivity.
+CONCLUSIONS: CYP3A7 and CYP3A4 may have acquired catalytic functions especially
+important for the evolution of hominoids and humans, respectively.
+
+DOI: 10.1097/FPC.0b013e3282f313f8 
+PMID: 18216722  [Indexed for MEDLINE]
+

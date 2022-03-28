@@ -1,0 +1,70 @@
+
+
+2587. J Neurochem. 2006 Mar;96(5):1315-21. Epub 2006 Feb 8.
+
+Pramipexole protects against MPTP toxicity in non-human primates.
+
+Iravani MM(1), Haddon CO, Cooper JM, Jenner P, Schapira AH.
+
+Author information: 
+(1)Neurodegenerative Disease Research Centre, GKT School of Biomedical Sciences, 
+King's College, London, UK.
+
+The neurotoxin MPTP induces nigral dopaminergic cell death in primates and
+produces a partial model of Parkinson's disease (PD). Pramipexole is a D2/D3
+dopamine receptor agonist used in the symptomatic treatment of PD, and which also
+protects neuronal cells against dopaminergic toxins in vitro. We now demonstrate 
+that pramipexole partially prevents MPTP toxicity in vivo in a primate species.
+Common marmosets were repeatedly treated with pramipexole either before,
+coincidentally with, or after low-dose MPTP treatment designed to induce a
+partial lesion of the substantia nigra. Animals pretreated with pramipexole had a
+significantly greater number of surviving tyrosine hydroxylase (TH) positive
+neurones in the pars compacta of the substantia nigra. Pramipexole pretreatment
+also prevented degeneration of striatal dopamine terminals. Treatment with
+pramipexole concurrently with MPTP or following MPTP did not prevent TH-positive 
+cell loss. Pramipexole pretreatment appears to induce adaptive changes that
+protect against dopaminergic cell loss in primates.
+
+DOI: 10.1111/j.1471-4159.2005.03625.x 
+PMID: 16464239  [Indexed for MEDLINE]
+
+
+2588. Proc Natl Acad Sci U S A. 2006 Feb 14;103(7):2280-5. Epub 2006 Feb 3.
+
+Antibodies to native myelin oligodendrocyte glycoprotein are serologic markers of
+early inflammation in multiple sclerosis.
+
+Lalive PH(1), Menge T, Delarasse C, Della Gaspera B, Pham-Dinh D, Villoslada P,
+von Büdingen HC, Genain CP.
+
+Author information: 
+(1)Department of Neurology, University of California, San Francisco, CA 94143,
+USA.
+
+Myelin oligodendrocyte glycoprotein (MOG) is an integral membrane protein
+expressed in CNS oligodendrocytes and outermost myelin lamellae. Anti-MOG Abs
+cause myelin destruction (demyelination) in animal models of multiple sclerosis
+(MS); however, such pathogenic Abs have not yet been characterized in humans.
+Here, a method that specifically detects IgG binding to human MOG in its native, 
+membrane-embedded conformation on MOG-transfected mammalian cells was used to
+evaluate the significance of these auto Abs. Compared with healthy controls,
+native MOG-specific IgGs were most frequently found in serum of clinically
+isolated syndromes (P < 0.001) and relapsing-remitting MS (P < 0.01), only
+marginally in secondary progressive MS (P < 0.05), and not at all in primary
+progressive MS. We demonstrate that epitopes exposed in this cell-based assay are
+different from those exposed on the refolded, extracellular domain of human
+recombinant MOG tested by solid-phase ELISA. In marmoset monkeys induced to
+develop MS-like CNS inflammatory demyelination, IgG reactivity against the native
+membrane-bound MOG is always detected before clinical onset of disease (P <
+0.0001), unlike that against other myelin constituents. We conclude that (i)
+epitopes displayed on native, glycosylated MOG expressed in vivo are early
+targets for pathogenic Abs; (ii) these Abs, which are not detected in solid-phase
+assays, might be the ones to play a pathogenic role in early MS with predominant 
+inflammatory activity; and (iii) the cell-based assay provides a practical
+serologic marker for early detection of CNS autoimmune demyelination including
+its preclinical stage at least in the primate MS model.
+
+DOI: 10.1073/pnas.0510672103 
+PMCID: PMC1413723
+PMID: 16461459  [Indexed for MEDLINE]
+

@@ -1,0 +1,33 @@
+
+
+2345. J Virol. 2008 Jan;82(1):346-57. Epub 2007 Oct 24.
+
+Adaptation of the human immunodeficiency virus type 1 envelope glycoproteins to
+new world monkey receptors.
+
+Pacheco B(1), Basmaciogullari S, Labonte JA, Xiang SH, Sodroski J.
+
+Author information: 
+(1)Dana-Farber Cancer Institute, 44 Binney Street, JFB 824, Boston, MA 02115,
+USA.
+
+Human immunodeficiency virus type 1 (HIV-1) infection encounters an early block
+in the cells of New World monkeys because the CD4 receptor does not efficiently
+support HIV-1 entry. We adapted HIV-1(NL4-3) and HIV-1(KB9), two HIV-1 variants
+with different envelope glycoproteins, to replicate efficiently in cells
+expressing the CD4 and CXCR4 proteins of the common marmoset, a New World monkey.
+The HIV-1(NL4-3) adaptation involves three gp120 changes that result in a
+specific increase in affinity for the marmoset CD4 glycoprotein. The already high
+affinity of the HIV-1(KB9) envelope glycoproteins for marmoset CD4 did not
+significantly change as a result of the adaptation. Instead, changes in the gp120
+variable loops and gp41 ectodomain resulted in improved replication in cells
+expressing the marmoset receptors. HIV-1(KB9) became relatively sensitive to
+neutralization by soluble CD4 and antibodies as a result of the adaptation. These
+results demonstrate the distinct mechanistic pathways by which the HIV-1 envelope
+glycoproteins can adapt to less-than-optimal CD4 molecules and provide HIV-1
+variants that can overcome some of the early blocks in New World monkey cells.
+
+DOI: 10.1128/JVI.01299-07 
+PMCID: PMC2224371
+PMID: 17959679  [Indexed for MEDLINE]
+

@@ -1,0 +1,125 @@
+
+
+459. PeerJ. 2019 Jul 25;7:e7019. doi: 10.7717/peerj.7019. eCollection 2019.
+
+The Munduruku marmoset: a new monkey species from southern Amazonia.
+
+Costa-Araújo R(1)(2), de Melo FR(3)(4), Canale GR(5), Hernández-Rangel SM(2),
+Messias MR(6), Rossi RV(7), Silva FE(8)(9), da Silva MNF(10), Nash SD(11), Boubli
+JP(8), Farias IP(2), Hrbek T(2).
+
+Author information: 
+(1)Pós-graduação em Ecologia, Instituto Nacional de Pesquisas da Amazônia,
+Manaus, Amazonas, Brasil.
+(2)Departamento de Genética, Universidade Federal do Amazonas, Manaus, Amazonas, 
+Brasil.
+(3)Departamento de Engenharia Florestal, Universidade Federal de Viçosa, Viçosa, 
+Minas Gerais, Brasil.
+(4)Unidade Acadêmica Especial Ciências Biológicas, Universidade Federal de Goiás,
+Jataí, Goiás, Brasil.
+(5)ICNHS/CUS/NEBAM, Universidade Federal de Mato Grosso, Sinop, Mato Grosso,
+Brasil.
+(6)Departamento de Biologia, Universidade Federal de Rondônia, Porto Velho,
+Rondônia, Brasil.
+(7)Departamento de Biologia e Zoologia, Instituto de Biociências, Universidade
+Federal de Mato Grosso, Cuiabá, Mato Grosso, Brasil.
+(8)School of Environment and Life Sciences, University of Salford, Salford,
+Manchester, UK.
+(9)Ecovert, Instituto de Desenvolvimento Sustentável Mamirauá, Tefé, Amazonas,
+Brasil.
+(10)Coleção de Mamíferos, Instituto Nacional de Pesquisas da Amazônia, Manaus,
+Amazonas, Brasil.
+(11)Department of Anatomical Sciences, Stony Brook University, Stony Brook, NY,
+USA.
+
+Although the Atlantic Forest marmosets (Callithrix spp.) are among the best
+studied Neotropical primates, the Amazonian marmosets (Callibella humilis,
+Cebuella spp. and Mico spp.) are much less well-known. Even species diversity and
+distributions are yet to be properly determined because field data and materials 
+currently available in scientific collections do not allow comprehensive
+taxonomic studies of Amazonian marmosets. From 2015 to 2018, we conducted 10
+expeditions in key-areas within southern Amazonia where little or no information 
+on marmosets was available. In one such region-the Tapajós-Jamanxim interfluve-we
+recorded marmosets with a distinctive pelage pigmentation pattern suggesting they
+could represent a new species. We tested this hypothesis using an integrative
+taxonomic framework that included phylogenomic data (ddRAD sequences), pelage
+pigmentation characters, and distribution records. We found that the marmosets of
+the northern Tapajós-Jamanxim interfluve have unique states in pelage
+pigmentation characters, form a clade (100% support) in our Bayesian and
+Maximum-Likelihood phylogenies, and occur in an area isolated from other taxa by 
+rivers. The integration of these lines of evidence leads us to describe a new
+marmoset species in the genus Mico, named after the Munduruku Amerindians of the 
+Tapajós-Jamanxim interfluve, southwest of Pará State, Brazil.
+
+DOI: 10.7717/peerj.7019 
+PMCID: PMC6661146
+PMID: 31380146 
+
+Conflict of interest statement: Tomas Hrbek is an Academic Editor for PeerJ. All 
+other authors declare that there are no competing interests.
+
+
+460. Mult Scler Relat Disord. 2019 Oct;35:108-115. doi: 10.1016/j.msard.2019.07.020.
+Epub 2019 Jul 24.
+
+[11C]PIB PET imaging can detect white and grey matter demyelination in a
+non-human primate model of progressive multiple sclerosis.
+
+Carvalho RHF(1), Real CC(1), Cinini S(2), Garcez AT(1), Duran FLS(3), Marques
+FLN(1), Mello LE(2), Busatto Filho G(3), de Vries EFJ(4), de Britto LRG(5),
+Buchpiguel CA(1), de Paula Faria D(6).
+
+Author information: 
+(1)Laboratory of Nuclear Medicine (LIM-43), Departamento de Radiologia e
+Oncologia, Faculdade de Medicina, Universidade de Sao Paulo, Sao Paulo, SP,
+Brazil.
+(2)Department of Physiology, Escola Paulista de Medicina, Universidade Federal de
+Sao Paulo, Sao Paulo, SP, Brazil.
+(3)Laboratory of Psychiatric Neuroimaging (LIM-21), Departamento de Psiquiatria, 
+Faculdade de Medicina, Universidade de Sao Paulo, Sao Paulo, SP, Brazil.
+(4)Department of Nuclear Medicine and Molecular Imaging, University Medical
+Center Groningen, University of Groningen, Groningen, the Netherlands.
+(5)Laboratory of Cellular Neurobiology, Departamento de Fisiologia e Biofísica,
+Universidade de Sao Paulo, Sao Paulo, SP, Brazil.
+(6)Laboratory of Nuclear Medicine (LIM-43), Departamento de Radiologia e
+Oncologia, Faculdade de Medicina, Universidade de Sao Paulo, Sao Paulo, SP,
+Brazil. Electronic address: daniele.faria@hc.fm.usp.br.
+
+BACKGROUND: Multiple sclerosis (MS) is a demyelinating and inflammatory disease
+of the central nervous system. Its diagnosis is clinical, often confirmed by
+magnetic resonance imaging. This image modality, however, is not ideal for
+discrimination of demyelination in grey and white matter regions from
+inflammatory lesions. Positron Emission Tomography (PET), using specific
+radiopharmaceuticals, can be a tool to differentiate between these processes. The
+radiopharmaceutical [11C]PIB is widely used for detection of β-amyloid plaques,
+but has also been suggested for the analysis of myelin content due to its
+consistent uptake in white matter. The aim of this study was to evaluate [11C]PIB
+PET imaging as a tool for detecting demyelinated regions in white and grey matter
+of non-human primate model of progressive MS.
+METHODS: Experimental autoimmune encephalomyelitis (EAE) was induced in marmosets
+by injection of recombinant human myelin oligodendrocyte glycoprotein (rhMOG)
+emulsified in either Incomplete Freund's Adjuvant (IFA) or Complete Freund's
+Adjuvant (CFA). [11C]PIB PET images were acquired prior to immunization
+(baseline) and after symptoms were present (end of experiment). Brain tissue was 
+isolated for histochemical analysis.
+RESULTS: All rhMOG/IFA-treated and rhMOG/CFA-treated animals showed clinical
+signs of EAE. The rhMOG/CFA group presented a significant [11C]PIB uptake
+reduction only in the left motor cortex (9%, P = 0.011). For the rhMOG/IFA group,
+significant decrease in [11C]PIB uptake was observed in the whole brain (15%,
+P = 0.015), in the right hemisphere of body of corpus callosum (34%, P = 0.02),
+splenium of corpus callosum (38%, P = 0.004), hippocampus (19%, P = 0.036), optic
+tract (13%, P = 0.025), thalamus (14%, P = 0.041), Globus pallidus (23%,
+P = 0.017), head of caudate nucleus (25%, P = 0.045), tail of caudate nucleus
+(29%, P = 0.003), putamen (28%, P = 0.047) and left hemisphere of body of corpus 
+callosum (14%, P = 0.037) and head of caudate nucleus (23%, P = 0.023). [11C]PIB 
+uptake significantly correlated with luxol fast blue histology (myelin marker),
+both in the rhMOG/IFA (r2= 0.32, P < 0.0001) and the rhMOG/CFA group (r2= 0.46, P
+< 0.0001).
+CONCLUSION: [11C]PIB PET imaging is an efficient tool for detecting demyelination
+in grey and white matter, in a non-human primate model of progressive MS.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.msard.2019.07.020 
+PMID: 31362166  [Indexed for MEDLINE]
+

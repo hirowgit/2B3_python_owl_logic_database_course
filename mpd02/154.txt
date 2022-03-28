@@ -1,0 +1,44 @@
+
+
+154. eNeuro. 2021 May 17;8(3). pii: ENEURO.0489-20.2021. doi:
+10.1523/ENEURO.0489-20.2021. Print 2021 May-Jun.
+
+Visual Neuroscience Methods for Marmosets: Efficient Receptive Field Mapping and 
+Head-Free Eye Tracking.
+
+Jendritza P(1)(2), Klein FJ(3), Rohenkohl G(3)(4), Fries P(3)(5).
+
+Author information: 
+(1)Ernst Strüngmann Institute (ESI) for Neuroscience in Cooperation with Max
+Planck Society, 60528 Frankfurt, Germany patrick.jendritza@esi-frankfurt.de.
+(2)International Max Planck Research School for Neural Circuits, 60438 Frankfurt,
+Germany.
+(3)Ernst Strüngmann Institute (ESI) for Neuroscience in Cooperation with Max
+Planck Society, 60528 Frankfurt, Germany.
+(4)Department of Physiology, Institute of Biosciences, University of São Paulo,
+05508-000 São Paulo, Brazil.
+(5)Donders Institute for Brain, Cognition and Behaviour, Radboud University
+Nijmegen, 6525 EN Nijmegen, The Netherlands.
+
+The marmoset has emerged as a promising primate model system, in particular for
+visual neuroscience. Many common experimental paradigms rely on head fixation and
+an extended period of eye fixation during the presentation of salient visual
+stimuli. Both of these behavioral requirements can be challenging for marmosets. 
+Here, we present two methodological developments, each addressing one of these
+difficulties. First, we show that it is possible to use a standard eye-tracking
+system without head fixation to assess visual behavior in the marmoset.
+Eye-tracking quality from head-free animals is sufficient to obtain precise
+psychometric functions from a visual acuity task. Second, we introduce a novel
+method for efficient receptive field (RF) mapping that does not rely on moving
+stimuli but uses fast flashing annuli and wedges. We present data recorded during
+head-fixation in areas V1 and V6 and show that RF locations are readily obtained 
+within a short period of recording time. Thus, the methodological advancements
+presented in this work will contribute to establish the marmoset as a valuable
+model in neuroscience.
+
+Copyright © 2021 Jendritza et al.
+
+DOI: 10.1523/ENEURO.0489-20.2021 
+PMCID: PMC8143020
+PMID: 33863782  [Indexed for MEDLINE]
+

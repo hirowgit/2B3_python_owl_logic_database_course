@@ -1,0 +1,70 @@
+
+
+1520. J Physiol. 2013 Nov 15;591(22):5671-90. doi: 10.1113/jphysiol.2013.257568. Epub
+2013 Sep 2.
+
+Texture-dependent motion signals in primate middle temporal area.
+
+Gharaei S(1), Tailby C, Solomon SS, Solomon SG.
+
+Author information: 
+(1)S. G. Solomon: 26 Bedford Way, London WC1 0AH, UK. s.solomon@ucl.ac.uk.
+
+Neurons in the middle temporal (MT) area of primate cortex provide an important
+stage in the analysis of visual motion. For simple stimuli such as bars and
+plaids some neurons in area MT--pattern cells--seem to signal motion independent 
+of contour orientation, but many neurons--component cells--do not. Why area MT
+supports both types of receptive field is unclear. To address this we made
+extracellular recordings from single units in area MT of anaesthetised marmoset
+monkeys and examined responses to two-dimensional images with a large range of
+orientations and spatial frequencies. Component and pattern cell response
+remained distinct during presentation of these complex spatial textures.
+Direction tuning curves were sharpest in component cells when a texture contained
+a narrow range of orientations, but were similar across all neurons for textures 
+containing all orientations. Response magnitude of pattern cells, but not
+component cells, increased with the spatial bandwidth of the texture. In
+addition, response variability in all neurons was reduced when the stimulus was
+rich in spatial texture. Fisher information analysis showed that component cells 
+provide more informative responses than pattern cells when a texture contains a
+narrow range of orientations, but pattern cells had more informative responses
+for broadband textures. Component cells and pattern cells may therefore coexist
+because they provide complementary and parallel motion signals.
+
+DOI: 10.1113/jphysiol.2013.257568 
+PMCID: PMC3853503
+PMID: 24000175  [Indexed for MEDLINE]
+
+
+1521. Immunol Lett. 2013 Jul-Aug;154(1-2):12-7. doi: 10.1016/j.imlet.2013.08.005. Epub 
+2013 Aug 19.
+
+Efficient in vivo depletion of CD8(+) T lymphocytes in common marmosets by novel 
+CD8 monoclonal antibody administration.
+
+Yoshida T(1), Suzuki S, Iwasaki Y, Kaneko A, Saito A, Enomoto Y, Higashino A,
+Watanabe A, Suzuki J, Inoue K, Kuroda T, Takada M, Ito R, Ito M, Akari H.
+
+Author information: 
+(1)Tsukuba Primate Research Center, National Institute of Biomedical Innovation, 
+Hachimandai, Tsukuba, Ibaraki 305-0843, Japan; Primate Research Institute, Kyoto 
+University, Inuyama, Aichi 484-8506, Japan. Electronic address:
+yoshida.tomoyuki.4w@kyoto-u.ac.jp.
+
+In order to directly demonstrate the roles of CD8(+) T lymphocytes in non-human
+primates, in vivo depletion of the CD8(+) T cells by administration of a
+CD8-specific monoclonal antibody (mAb) is one of the crucial techniques.
+Recently, the common marmoset (Callithrix jacchus), which is classified as a New 
+World monkey, has been shown useful as an experimental animal model for various
+human diseases such as multiple sclerosis, Parkinson's disease and a number of
+infectious diseases. Here we show that an anti-marmoset CD8 mAb 6F10, which we
+have recently established, efficiently depletes the marmoset CD8(+) T lymphocytes
+in vivo, i.e., the administration of 6F10 induces drastic and specific reduction 
+in the ratio of the CD8(+) T cell subset for at least three weeks or longer. Our 
+finding will help understand the pivotal role of CD8(+) T cells in vivo in the
+control of human diseases.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.imlet.2013.08.005 
+PMID: 23969290  [Indexed for MEDLINE]
+

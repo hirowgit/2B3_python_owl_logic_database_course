@@ -1,0 +1,33 @@
+
+
+3199. J Exp Med. 2001 Mar 5;193(5):637-42.
+
+Independence of herpesvirus-induced T cell lymphoma from viral cyclin D
+homologue.
+
+Ensser A(1), Glykofrydes D, Niphuis H, Kuhn EM, Rosenwirth B, Heeney JL,
+Niedobitek G, Müller-Fleckenstein I, Fleckenstein B.
+
+Author information: 
+(1)Institut für Klinische und Molekulare Virologie der Universität
+Erlangen-Nürnberg, Schlossgarten 4, 91054 Erlangen, Germany.
+ensser@viro.med.uni-erlangen.de
+
+Cyclin D family members are cellular protooncogenes, and their viral homologues
+in the Kaposi's sarcoma-associated herpesvirus (KSHV, human herpesvirus type 8
+[HHV-8]) and the closely related Herpesvirus saimiri have been implicated as
+putative cofactors of viral transformation and pathogenesis. KSHV is regularly
+found in Kaposi's sarcoma and in the primary effusion B cell lymphoma and
+Castleman's disease associated with immunosuppression and AIDS. H. saimiri strain
+C488 transforms human and marmoset T cells in vitro and causes polyclonal T cell 
+lymphoma in New World monkeys. The viral cyclins stimulate cell cycle progression
+of quiescent fibroblasts, and they form active cyclin-dependent kinase (CDK)6
+complexes of broad substrate specificity that can resist and downregulate
+cellular CDK inhibitors. This study shows that the viral cyclin of H. saimiri
+strain C488 is not required for viral replication, T cell transformation, and
+pathogenicity in New World primates.
+
+DOI: 10.1084/jem.193.5.637 
+PMCID: PMC2193399
+PMID: 11238594  [Indexed for MEDLINE]
+

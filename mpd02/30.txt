@@ -1,0 +1,73 @@
+
+
+30. PLoS Negl Trop Dis. 2021 Dec 13;15(12):e0010016. doi:
+10.1371/journal.pntd.0010016. eCollection 2021 Dec.
+
+A systematic review and meta-analysis of the potential non-human animal
+reservoirs and arthropod vectors of the Mayaro virus.
+
+Celone M(1), Okech B(1), Han BA(2), Forshey BM(3), Anyamba A(4), Dunford J(1),
+Rutherford G(5), Mita-Mendoza NK(6), Estallo EL(7), Khouri R(8), de Siqueira
+IC(8), Pollett S(9)(10).
+
+Author information: 
+(1)Uniformed Services University of the Health Sciences, F. Edward Hébert School 
+of Medicine, Department of Preventive Medicine & Biostatistics, Bethesda,
+Maryland, United States of America.
+(2)Cary Institute of Ecosystem Studies, Millbrook, New York, United States of
+America.
+(3)Armed Forces Health Surveillance Division, Silver Spring, Maryland, United
+States of America.
+(4)University Space Research Association & NASA/Goddard Space Flight Center,
+Biospheric Sciences Laboratory, Greenbelt, Maryland, United States of America.
+(5)Institute for Global Health Sciences, University of California, San Francisco,
+San Francisco, California, United States of America.
+(6)New York State Department of Health, New Rochelle, New York, United States of 
+America.
+(7)Instituto de Investigaciones Biológicas y Tecnológicas (IIByT)
+CONICET-Universidad Nacional de Córdoba, Centro de Investigaciones Entomológicas 
+de Córdoba, Córdoba, Argentina.
+(8)Instituto Gonçalo Moniz-Fiocruz, R. Waldemar Falcão, Salvador, Bahia, Brazil.
+(9)Infectious Disease Clinical Research Program, Department of Preventive
+Medicine and Biostatistics, Uniformed Services University of the Health Sciences,
+Bethesda, Maryland, United States of America.
+(10)Henry M. Jackson Foundation for the Advancement of Military Medicine, Inc.,
+Bethesda, Maryland, United States of America.
+
+Improving our understanding of Mayaro virus (MAYV) ecology is critical to guide
+surveillance and risk assessment. We conducted a PRISMA-adherent systematic
+review of the published and grey literature to identify potential arthropod
+vectors and non-human animal reservoirs of MAYV. We searched PubMed/MEDLINE,
+Embase, Web of Science, SciELO and grey-literature sources including PAHO
+databases and dissertation repositories. Studies were included if they assessed
+MAYV virological/immunological measured occurrence in field-caught, domestic, or 
+sentinel animals or in field-caught arthropods. We conducted an animal
+seroprevalence meta-analysis using a random effects model. We compiled granular
+georeferenced maps of non-human MAYV occurrence and graded the quality of the
+studies using a customized framework. Overall, 57 studies were eligible out of
+1523 screened, published between the years 1961 and 2020. Seventeen studies
+reported MAYV positivity in wild mammals, birds, or reptiles and five studies
+reported MAYV positivity in domestic animals. MAYV positivity was reported in 12 
+orders of wild-caught vertebrates, most frequently in the orders Charadriiformes 
+and Primate. Sixteen studies detected MAYV in wild-caught mosquito genera
+including Haemagogus, Aedes, Culex, Psorophora, Coquillettidia, and Sabethes.
+Vertebrate animals or arthropods with MAYV were detected in Brazil, Panama, Peru,
+French Guiana, Colombia, Trinidad, Venezuela, Argentina, and Paraguay. Among
+non-human vertebrates, the Primate order had the highest pooled seroprevalence at
+13.1% (95% CI: 4.3-25.1%). From the three most studied primate genera we found
+the highest seroprevalence was in Alouatta (32.2%, 95% CI: 0.0-79.2%), followed
+by Callithrix (17.8%, 95% CI: 8.6-28.5%), and Cebus/Sapajus (3.7%, 95% CI:
+0.0-11.1%). We further found that MAYV occurs in a wide range of vectors beyond
+Haemagogus spp. The quality of evidence behind these findings was variable and
+prompts calls for standardization of reporting of arbovirus occurrence. These
+findings support further risk emergence prediction, guide field surveillance
+efforts, and prompt further in-vivo studies to better define the ecological
+drivers of MAYV maintenance and potential for emergence.
+
+DOI: 10.1371/journal.pntd.0010016 
+PMCID: PMC8699665
+PMID: 34898602  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

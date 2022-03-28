@@ -1,0 +1,46 @@
+
+
+1161. Invest Ophthalmol Vis Sci. 2015 Oct;56(11):6255-64. doi: 10.1167/iovs.15-17726.
+
+Evolutionary Characterization of the Retinitis Pigmentosa GTPase Regulator Gene.
+
+Raghupathy RK(1), Gautier P(2), Soares DC(2), Wright AF(2), Shu X(1).
+
+Author information: 
+(1)Department of Life Sciences Glasgow Caledonian University, Glasgow, United
+Kingdom.
+(2)MRC Human Genetics Unit, MRC Institute of Genetics and Molecular Medicine,
+University of Edinburgh, Edinburgh, United Kingdom.
+
+PURPOSE: The evolutionary conservation of the retinitis pigmentosa GTPase
+regulator (RPGR) gene was examined across vertebrate and invertebrate lineages to
+elucidate its function.
+METHODS: Orthologous RPGR sequences from vertebrates and invertebrates were
+selected. Multiple sequence alignments, phylogenetic analyses, synteny, and gene 
+structure comparisons were carried out. Expression of the alternatively spliced
+constitutive (RPGR(const) or RPGR(ex1-19)) and RPGR(ORF15) isoforms was examined 
+in developing and adult zebrafish.
+RESULTS: Phylogenetic analyses and syntenic relationships were consistent with
+the selected sequences being true orthologues, although whole genome duplications
+in teleost fish resulted in a more complex picture. The splice form RPGR(const)
+was present in all vertebrate and invertebrate species but the defining carboxyl 
+(C)-terminal exon of RPGR(ORF15) was absent from all invertebrates. The regulator
+of chromosome condensation (RCC1)-like domain adopts a seven-bladed β-propeller
+structure, which was present in both major splice forms and strongly conserved
+across evolution. The repetitive acidic region of RPGR(ORF15) showed a high rate 
+of in-frame deletions/insertions across nine primate species, compared with
+flanking sequences, consistent with an unstable and rapidly evolving region. In
+zebrafish, RPGR(const) transcripts were most strongly expressed in early
+development, while the RPGR(ORF15) isoform showed highest expression in adult
+eye.
+CONCLUSIONS: The regulator of chromosome condensation 1-like domain of RPGR was
+conserved in vertebrates and invertebrates, but RPGR(ORF15) was unique to
+vertebrates, consistent with a proposed role in the ciliary-based transport of
+cargoes such as rhodopsin, which is ∼10 times more abundant in vertebrate than
+invertebrate photoreceptors. The repetitive acidic region of RPGR(ORF15) shows a 
+rapid rate of evolution, consistent with a mutation "hot spot."
+
+DOI: 10.1167/iovs.15-17726 
+PMCID: PMC5841567
+PMID: 26431479  [Indexed for MEDLINE]
+

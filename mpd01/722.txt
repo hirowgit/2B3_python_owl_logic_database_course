@@ -1,0 +1,85 @@
+
+
+722. Exp Anim. 2018 Jul 30;67(3):321-327. doi: 10.1538/expanim.17-0156. Epub 2018 Mar 
+22.
+
+Thioacetamide-induced hepatic fibrosis in the common marmoset.
+
+Inoue T(1), Ishizaka Y(2), Sasaki E(1), Lu J(2), Mineshige T(1), Yanase M(3),
+Sasaki E(1)(4), Shimoda M(5).
+
+Author information: 
+(1)Department of Marmoset Research, Central Institute for Experimental Animals,
+3-25-12 Tonomachi, Kawasaki-ku, Kawasaki-shi, Kanagawa 210-0821, Japan.
+(2)Department of Intractable Diseases, National Center for Global Health and
+Medicine, 1-21-1 Toyama, Shinjuku-ku, Tokyo 162-8655, Japan.
+(3)Department of Gastroenterology, National Center for Global Health and
+Medicine, 1-21-1 Toyama, Shinjuku-ku, Tokyo 162-8655, Japan.
+(4)Keio Advanced Research Center, Keio University, 35 Shinanomachi, Shinjuku-ku, 
+Tokyo 160-8582, Japan.
+(5)Islet Cell Transplantation Project, Diabetes Research Center, National Center 
+for Global Health and Medicine, 1-21-1 Toyama, Shinjuku-ku, Tokyo 162-8655,
+Japan.
+
+The common marmoset (Callithrix jacchus) is a nonhuman primate that is used for
+preclinical research on stem cell transplantation therapies due to its similarity
+to human beings as well as its small size, enabling researchers to perform
+experiments without preparing a large number of cells. In this study, we
+developed a marmoset hepatic fibrosis model for regenerative medicine research.
+Six female marmosets aged 4-6 years were administered thioacetamide (TAA) at a
+dose of 2.5-40 mg/kg two or three times a week. Hepatic fibrosis was assessed by 
+liver biopsy when blood chemistry indicated liver damage. Administration of TAA
+increased total bile acid, aspartate aminotransferase, and total bilirubin and
+decreased serum albumin levels. Following more than 11 weeks of continuous
+injection of TAA, histological analyses detected hepatic fibrosis in all animals.
+Type IV collagen 7S serum levels in animals with hepatic fibrosis were
+significantly higher than in normal animals as a possible marker of hepatic
+fibrosis in marmosets. Serial liver biopsies following the last administration of
+TAA revealed that induced fibrosis remained up to 11 weeks. The results suggest
+that continuous TAA administration induces persistent hepatic fibrosis in the
+common marmoset and this nonhuman primate hepatic fibrosis model have the
+possibility to evaluate the therapeutic effects of test samples to ameliorate
+hepatic fibrosis.
+
+DOI: 10.1538/expanim.17-0156 
+PMCID: PMC6083030
+PMID: 29467352  [Indexed for MEDLINE]
+
+
+723. Expert Opin Drug Discov. 2018 May;13(5):387-397. doi:
+10.1080/17460441.2018.1443075. Epub 2018 Feb 25.
+
+Merits and complexities of modeling multiple sclerosis in non-human primates:
+implications for drug discovery.
+
+'t Hart BA(1)(2), Laman JD(2), Kap YS(1).
+
+Author information: 
+(1)a Department of Immunobiology , Biomedical Primate Research Centre , Rijswijk 
+, The Netherlands.
+(2)b Department of Neuroscience , University of Groningen, University Medical
+Center Groningen , Groningen , The Netherlands.
+
+INTRODUCTION: The translation of scientific discoveries made in animal models
+into effective treatments for patients often fails, indicating that currently
+used disease models in preclinical research are insufficiently predictive for
+clinical success. An often-used model in the preclinical research of autoimmune
+neurological diseases, multiple sclerosis in particular, is experimental
+autoimmune encephalomyelitis (EAE). Most EAE models are based on genetically
+susceptible inbred/SPF mouse strains used at adolescent age (10-12 weeks), which 
+lack exposure to genetic and microbial factors which shape the human immune
+system. Areas covered: Herein, the authors ask whether an EAE model in adult
+non-human primates from an outbred conventionally-housed colony could help bridge
+the translational gap between rodent EAE models and MS patients. Particularly,
+the authors discuss a novel and translationally relevant EAE model in common
+marmosets (Callithrix jacchus) that shares remarkable pathological similarity
+with MS. Expert opinion: The MS-like pathology in this model is caused by the
+interaction of effector memory T cells with B cells infected with the
+γ1-herpesvirus (CalHV3), both present in the pathogen-educated marmoset immune
+repertoire. The authors postulate that depletion of only the small subset
+(<0.05%) of CalHV3-infected B cells may be sufficient to limit chronic
+inflammatory demyelination.
+
+DOI: 10.1080/17460441.2018.1443075 
+PMID: 29465302  [Indexed for MEDLINE]
+

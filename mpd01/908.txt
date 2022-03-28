@@ -1,0 +1,98 @@
+
+
+908. Metallomics. 2017 Apr 19;9(4):411-423. doi: 10.1039/c7mt00012j.
+
+Whole-brain metallomic analysis of the common marmoset (Callithrix jacchus).
+
+Knauer B(1), Majka P(2), Watkins KJ(3), Taylor AWR(3), Malamanova D(3), Paul
+B(4), Yu HH(3), Bush AI(5), Hare DJ(6), Reser DH(7).
+
+Author information: 
+(1)Department of Physiology, Faculty of Medicine, Nursing, and Health Sciences,
+Monash University, Clayton, Victoria 3800, Australia and Research School, Ruhr
+University Bochum, Bochum, Germany.
+(2)Laboratory of Neuroinformatics, Department of Neurophysiology, Nencki
+Institute of Experimental Biology of Polish Academy of Sciences, 3 Pasteur
+Street, 02-093 Warsaw, Poland.
+(3)Department of Physiology, Faculty of Medicine, Nursing, and Health Sciences,
+Monash University, Clayton, Victoria 3800, Australia.
+(4)School of Earth Sciences, The University of Melbourne, Parkville, Victoria
+3010, Australia and The Florey Institute of Neuroscience and Mental Health, The
+University of Melbourne, Parkville, 3010, Victoria, Australia.
+(5)The Florey Institute of Neuroscience and Mental Health, The University of
+Melbourne, Parkville, 3010, Victoria, Australia.
+(6)The Florey Institute of Neuroscience and Mental Health, The University of
+Melbourne, Parkville, 3010, Victoria, Australia and Elemental Bio-imaging
+Facility, University of Technology Sydney, Broadway, NSW, Australia.
+(7)Department of Physiology, Faculty of Medicine, Nursing, and Health Sciences,
+Monash University, Clayton, Victoria 3800, Australia and Graduate Entry Medical
+Program, School of Rural Health, Monash University, Churchill, Victoria 3842,
+Australia.
+
+Despite the importance of transition metals for normal brain function, relatively
+little is known about the distribution of these elemental species across the
+different tissue compartments of the primate brain. In this study, we employed
+laser ablation-inductively coupled plasma-mass spectrometry on PFA-fixed brain
+sections obtained from two adult common marmosets. Concurrent cytoarchitectonic, 
+myeloarchitectonic, and chemoarchitectonic measurements allowed for
+identification of the major neocortical, archaecortical, and subcortical
+divisions of the brain, and precise localisation of iron, manganese, and zinc
+concentrations within each division. Major findings across tissue compartments
+included: (1) differentiation of white matter tracts from grey matter based on
+manganese and zinc distribution; (2) high iron concentrations in the basal
+ganglia, cortex, and substantia nigra; (3) co-localization of high concentrations
+of iron and manganese in the primary sensory areas of the cerebral cortex; and
+(4) high manganese in the hippocampus. The marmoset has become a model species of
+choice for connectomic, aging, and transgenic studies in primates, and the
+application of metallomics to these disciplines has the potential to yield high
+translational and basic science value.
+
+DOI: 10.1039/c7mt00012j 
+PMID: 28246661  [Indexed for MEDLINE]
+
+
+909. Primate Biol. 2017 Mar 1;4(1):17-25. doi: 10.5194/pb-4-17-2017. eCollection 2017.
+
+Spontaneous lung pathology in a captive common marmoset colony (Callithrix
+jacchus).
+
+Bleyer M(1), Kunze M(1), Gruber-Dujardin E(1), Mätz-Rensing K(1).
+
+Author information: 
+(1)Pathology Unit, German Primate Center, Kellnerweg 4, 37077 Göttingen, Germany.
+
+Data on spontaneous pathology are substantially scarce for common marmosets,
+compared to other laboratory animals, but is essential for the interpretation of 
+histological findings in the context of toxicological and experimental studies.
+Especially if common marmosets are used as experimental animals in respiratory
+research, detailed knowledge on the spectrum, occurrence, and incidence of
+spontaneous histopathological pulmonary lesions in this non-human primate species
+is required. In this study, lung tissue of 638 common marmosets from the marmoset
+colony of the German Primate Center was examined histologically. The analysis
+revealed a high incidence of predominantly mild and multifocal interstitial
+pneumonia (32.99 %) of unknown etiology in most cases. Only few marmosets
+exhibited lobar pneumonia (1.41 %) and bronchopneumonia (0.94), which were mainly
+caused by bacterial pathogens such as Bordetella bronchiseptica and Klebsiella
+pneumoniae. Lung immaturity and atelectasis were common histological findings in 
+newborn marmosets. Typical background lesions included anthracosis (8.15 %),
+hemosiderosis (1.72 %), extramedullary hematopoiesis (11.6 %), mineralization
+(10.97 %), and inflammatory cell foci (10.34 %). In addition, three cases of
+pulmonary arteriopathy (0.47 %) and 1 case of foreign-body granuloma (0.16 %)
+were detected in the marmoset study cohort. The high prevalence of circulatory
+disturbances (congestion, edema, hemorrhage) and changes in air content
+(secondary atelectasis, alveolar emphysema) could partly be explained by
+euthanasia-related artifacts or agonal changes. The present study provides a
+comprehensive overview of the range and incidence of spontaneous pulmonary
+histopathology in common marmosets, serving as valuable reference data for the
+interpretation of lung lesions in toxicological and experimental marmoset
+studies.
+
+Copyright: © 2017 Martina Bleyer et al.
+
+DOI: 10.5194/pb-4-17-2017 
+PMCID: PMC7041528
+PMID: 32110688 
+
+Conflict of interest statement: The authors declare that they have no conflict of
+interest.
+

@@ -1,0 +1,77 @@
+
+
+2563. Proc Natl Acad Sci U S A. 2006 Apr 11;103(15):5864-8. Epub 2006 Mar 31.
+
+Reactivation by exon shuffling of a conserved HLA-DR3-like pseudogene segment in 
+a New World primate species.
+
+Doxiadis GG(1), van der Wiel MK, Brok HP, de Groot NG, Otting N, 't Hart BA, van 
+Rood JJ, Bontrop RE.
+
+Author information: 
+(1)Department of Comparative Genetics and Refinement, Biomedical Primate Research
+Centre, P.O. Box 3306, 2280 GH, Rijswijk, The Netherlands.
+
+The common marmoset (Callithrix jacchus), a New World monkey species with a
+limited MHC class II repertoire, is highly susceptible to certain bacterial
+infections. Genomic analysis of exon 2 sequences documented the existence of only
+one DRB region configuration harboring three loci. Two of these loci display
+moderate levels of allelic polymorphism, whereas the -DRB*W12 gene appears to be 
+monomorphic. This study shows that only the Caja-DRB*W16 and -DRB*W12 loci
+produce functional transcripts. The Caja-DRB1*03 locus is occupied by a
+pseudogene, given that most of the transcripts, if detected at all, show
+imperfections and are present at low levels. Moreover, two hybrid transcripts
+were identified that feature the evolutionarily conserved peptide-binding motif
+characteristic for the Caja-DRB1*03 gene. Thus, the severely reduced MHC class II
+repertoire in common marmosets has been expanded by reactivation of a pseudogene 
+segment as a result of exon shuffling.
+
+DOI: 10.1073/pnas.0600643103 
+PMCID: PMC1421335
+PMID: 16581907  [Indexed for MEDLINE]
+
+
+2564. Neuropharmacology. 2006 Jun;50(8):975-83. Epub 2006 Mar 31.
+
+Characterisation of the selective 5-HT1B receptor antagonist SB-616234-A
+(1-[6-(cis-3,5-dimethylpiperazin-1-yl)-2,3-dihydro-5-methoxyindol-1-yl]-1-[2'-met
+hyl-4'-(5-methyl-1,2,4-oxadiazol-3-yl)biphenyl-4-yl]methanone hydrochloride): in 
+vivo neurochemical and behavioural evidence of anxiolytic/antidepressant
+activity.
+
+Dawson LA(1), Hughes ZA, Starr KR, Storey JD, Bettelini L, Bacchi F, Arban R,
+Poffe A, Melotto S, Hagan JJ, Price GW.
+
+Author information: 
+(1)Psychiatry Centre of Excellence for Drug Discovery, GlaxoSmithKline, New
+Frontiers Science Park (North), 3rd Avenue, Harlow, Essex CM19 5AW, UK.
+lee.a.dawson@gsk.com
+
+The 5-HT1B receptor has attracted significant interest as a potential target for 
+the development of therapeutics for the treatment of affective disorders such as 
+anxiety and depression. Here we present the in vivo characterisation of a novel, 
+selective and orally bioavailable 5-HT1B receptor antagonist, SB-616234-A
+(1-[6-(cis-3,5-dimethylpiperazin-1-yl)-2,3-dihydro-5-methoxyindol-1-yl]-1-[2'-met
+hyl-4'-(5-methyl-1,2,4-oxadiazol-3-yl)biphenyl-4-yl]methanone hydrochloride).
+SB-616234-A reversed the 5-HT1/7 receptor agonist, SKF-99101H-induced hypothermia
+in guinea pigs in a dose related manner with an ED50 of 2.4 mg/kg p.o. Using in
+vivo microdialysis in freely moving guinea pigs, SB-616234-A (3-30 mg/kg p.o.)
+caused a dose-related increase in extracellular 5-HT in the dentate gyrus.
+Evaluation of antidepressant- and anxiolytic-like effects of this 5-HT1B receptor
+antagonist was performed in a variety of models and species. SB-616234-A produced
+a decrease in immobility time in the mouse forced swim test; an effect suggestive
+of antidepressant activity. Furthermore, SB-616234-A produced dose-related
+anxiolytic effects in both rat and guinea pig maternal separation-induced
+vocalisation models with an ED50 of 1.0 and 3.3 mg/kg i.p., respectively (vs
+fluoxetine treatment ED50 = 2.2 mg/kg i.p. in both species). Also a significant
+reduction in posturing behaviours was observed in the human threat test in
+marmosets; an effect indicative of anxiolytic activity. In summary, SB-616234-A
+is a novel, potent and orally bioavailable 5-HT1B receptor antagonist which
+exhibits a neurochemical and behavioural profile that is consistent with both
+anxiolytic- and antidepressant-like activity in a variety of species. Taken
+together these data suggest that SB-616234-A may have therapeutic efficacy in the
+treatment of affective disorders.
+
+DOI: 10.1016/j.neuropharm.2006.01.010 
+PMID: 16581092  [Indexed for MEDLINE]
+

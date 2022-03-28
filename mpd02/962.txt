@@ -1,0 +1,46 @@
+
+
+962. Dev Neurobiol. 2017 Mar;77(3):300-313. doi: 10.1002/dneu.22467.
+
+Psychophysical measurement of marmoset acuity and myopia.
+
+Nummela SU(1), Coop SH(2), Cloherty SL(2)(3), Boisvert CJ(4), Leblanc M(5),
+Mitchell JF(2).
+
+Author information: 
+(1)Department of Psychology, University of California, San Diego.
+(2)Department of Brain and Cognitive Sciences, University of Rochester, New York.
+(3)Department of Physiology, Monash University, Melbourne, Australia.
+(4)Gavin Herbert Eye Institute, Department of Ophthalmology, University of
+California, Irvine, California.
+(5)Animal Resources Department, The Salk Institute for Biological Studies, La
+Jolla, California.
+
+The common marmoset has attracted increasing interest as a model for visual
+neuroscience. A measurement of fundamental importance to ensure the validity of
+visual studies is spatial acuity. The marmoset has excellent acuity that has been
+reported at the fovea to be nearly half that of the human (Ordy and Samorajski
+[]: Vision Res 8:1205-1225), a value that is consistent with them having similar 
+photoreceptor densities combined with their smaller eye size (Troilo et al. []:
+Vision Res 33:1301-1310). Of interest, the marmoset exhibits a higher proportion 
+of cones than rods in peripheral vision than human or macaque, which in principle
+could endow them with better peripheral acuity depending on how those signals are
+pooled in subsequent processing. Here, we introduce a simple behavioral paradigm 
+to measure acuity and then test how acuity in the marmoset scales with
+eccentricity. We trained subjects to fixate a central point and detect a
+peripheral Gabor by making a saccade to its location. First, we found that
+accurate assessment of acuity required correction for myopia in all adult
+subjects. This is an important point because marmosets raised in laboratory
+conditions often have mild to severe myopia (Graham and Judge []: Vision Res
+39:177-187), a finding that we confirm, and that would limit their utility for
+studies of vision if uncorrected. With corrected vision, we found that their
+acuity scales with eccentricity similar to that of humans and macaques, having
+roughly half the value of the human and with no clear departure for higher acuity
+in the periphery. © 2016 Wiley Periodicals, Inc. Develop Neurobiol 77: 300-313,
+2017.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/dneu.22467 
+PMID: 27804251  [Indexed for MEDLINE]
+

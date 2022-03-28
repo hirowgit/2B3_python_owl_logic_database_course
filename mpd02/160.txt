@@ -1,0 +1,88 @@
+
+
+160. BMC Genomics. 2021 Apr 6;22(1):239. doi: 10.1186/s12864-021-07533-1.
+
+Mitogenomic phylogeny of Callithrix with special focus on human transferred taxa.
+
+Malukiewicz J(1)(2), Cartwright RA(3), Curi NHA(4), Dergam JA(5), Igayara CS(6), 
+Moreira SB(7), Molina CV(8)(9), Nicola PA(10), Noll A(11), Passamani M(12),
+Pereira LCM(13), Pissinatti A(7), Ruiz-Miranda CR(14), Silva DL(15), Stone
+AC(16)(17)(18), Zinner D(19)(20)(21), Roos C(11)(22).
+
+Author information: 
+(1)Primate Genetics Laboratory, German Primate Center, Leibniz Institute for
+Primate Research, Göttingen, Germany. jmalukiewicz@dpz.eu.
+(2)Instituto de Medicina Tropical de São Paulo, Universidade de São Paulo, São
+Paulo, SP, Brazil. jmalukiewicz@dpz.eu.
+(3)School of Life Sciences and The Biodesign Institute, Arizona State University,
+Tempe, AZ, USA.
+(4)Ecologia, Epidemiologia e Medicina da Conservação, Departamento de Medicina
+Veterinária, Unilavras, Lavras, MG, Brazil.
+(5)Department of Animal Biology, Federal University of Viçosa, Viçosa, MG,
+Brazil.
+(6)Guarulhos Municipal Zoo, Guarulhos, SP, Brazil.
+(7)Centro de Primatologia do Rio de Janeiro, Guapimirim, RJ, Brazil.
+(8)Programa de Interunidades em Biotecnologia, Instituto de Ciências Biomédicas, 
+Universidade de São Paulo, São Paulo, SP, Brazil.
+(9)Scientific Platform Pasteur, Universidade de São Paulo, São Paulo, Brazil.
+(10)Programa de Pós-Graduação, Ciências da Saúde e Biológicas, Universidade
+Federal do Vale do São Francisco, Petrolina, PE, Brazil.
+(11)Primate Genetics Laboratory, German Primate Center, Leibniz Institute for
+Primate Research, Göttingen, Germany.
+(12)Laboratório de Ecologia e Conservação de Mamíferos, Departamento de Biologia,
+Universidade Federal de Lavras, Lavras, MG, Brazil.
+(13)Centro de Conservação e Manejo de Fauna da Caatinga, Universidade Federal do 
+Vale do São Francisco, Petrolina, PE, Brazil.
+(14)Laboratório das Ciências Ambientais, Centro de Biociências e Biotecnologia,
+Universidade Estadual do Norte Fluminense, Campos dos Goytacazes, RJ, Brazil.
+(15)Núcleo de Pesquisas em Ciências Biológicas - NUPEB, Federal University of
+Ouro Preto, Ouro Preto, MG, Brazil.
+(16)School of Human Evolution and Social Change, Arizona State University, Tempe,
+AZ, USA.
+(17)Institute of Human Origins, Arizona State University, Tempe, AZ, USA.
+(18)Center for Evolution and Medicine, Arizona State University, Tempe, AZ, USA.
+(19)Cognitive Ethology Laboratory, German Primate Center, Leibniz Institute for
+Primate Research, Göttingen, Germany.
+(20)Leibniz Science Campus Primate Cognition, Göttingen, Germany.
+(21)Department of Primate Cognition, Georg-August-University, Göttingen, Germany.
+(22)Gene Bank of Primates, German Primate Center, Leibniz Institute for Primate
+Research, Göttingen, Germany.
+
+BACKGROUND: Callithrix marmosets are a relatively young primate radiation, whose 
+phylogeny is not yet fully resolved. These primates are naturally para- and
+allopatric, but three species with highly invasive potential have been introduced
+into the southeastern Brazilian Atlantic Forest by the pet trade. There, these
+species hybridize with each other and endangered, native congeners. We aimed here
+to reconstruct a robust Callithrix phylogeny and divergence time estimates, and
+identify the biogeographic origins of autochthonous and allochthonous Callithrix 
+mitogenome lineages. We sequenced 49 mitogenomes from four species (C. aurita, C.
+geoffroyi, C. jacchus, C. penicillata) and anthropogenic hybrids (C. aurita x
+Callithrix sp., C. penicillata x C. jacchus, Callithrix sp. x Callithrix sp., C. 
+penicillata x C. geoffroyi) via Sanger and whole genome sequencing. We combined
+these data with previously published Callithrix mitogenomes to analyze five
+Callithrix species in total.
+RESULTS: We report the complete sequence and organization of the C. aurita
+mitogenome. Phylogenetic analyses showed that C. aurita was the first to diverge 
+within Callithrix 3.54 million years ago (Ma), while C. jacchus and C.
+penicillata lineages diverged most recently 0.5 Ma as sister clades. MtDNA clades
+of C. aurita, C. geoffroyi, and C. penicillata show intraspecific geographic
+structure, but C. penicillata clades appear polyphyletic. Hybrids, which were
+identified by phenotype, possessed mainly C. penicillata or C. jacchus mtDNA
+haplotypes. The biogeographic origins of mtDNA haplotypes from hybrid and
+allochthonous Callithrix were broadly distributed across natural Callithrix
+ranges. Our phylogenetic results also evidence introgression of C. jacchus mtDNA 
+into C. aurita.
+CONCLUSION: Our robust Callithrix mitogenome phylogeny shows C. aurita lineages
+as basal and C. jacchus lineages among the most recent within Callithrix. We
+provide the first evidence that parental mtDNA lineages of anthropogenic hybrid
+and allochthonous marmosets are broadly distributed inside and outside of the
+Atlantic Forest. We also show evidence of cryptic hybridization between
+allochthonous Callithrix and autochthonous C. aurita. Our results encouragingly
+show that further development of genomic resources will allow to more clearly
+elucidate Callithrix evolutionary relationships and understand the dynamics of
+Callithrix anthropogenic introductions into the Brazilian Atlantic Forest.
+
+DOI: 10.1186/s12864-021-07533-1 
+PMCID: PMC8025498
+PMID: 33823806  [Indexed for MEDLINE]
+

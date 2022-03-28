@@ -1,0 +1,49 @@
+
+
+3520. Exp Brain Res. 1998 Oct;122(3):351-61.
+
+Pharmacologically evoked fictive motor patterns in the acutely spinalized
+marmoset monkey (Callithrix jacchus).
+
+Fedirchuk B(1), Nielsen J, Petersen N, Hultborn H.
+
+Author information: 
+(1)Department of Physiology, University of Manitoba, Winnipeg, Canada.
+brent@scrc.umanitoba.ca
+
+The existence of a spinal network capable of generating rhythmic alternating
+activity resembling locomotion still has not been firmly established in primates,
+including man, although evidence for one is accumulating. The present study
+investigated whether it is possible to activate such a network by administration 
+of a variety of pharmacological agents to acutely spinalized marmoset monkeys
+(Callithrix jacchus) in the absence of phasic afferent input to the spinal cord. 
+Fourteen marmoset monkeys were decerebrated, spinalized, and paralyzed. The
+nerves supplying both hindlimbs were cut and recorded from. In 5 monkeys the
+effect of electrical stimulation of the brainstem was investigated before
+spinalization. In 3 of these monkeys, rhythmic activity alternating between
+extensors and flexor nerves was seen. In the 2 other monkeys only synchronized
+activity was elicited. In acutely spinalized monkeys, administration of
+L-3,4-dihydroxyphenylalanine (L-dopa; 3-4 h after treatment with nialamide)
+failed to evoke any rhythmic alternating activity. In contrast, administration of
+clonidine elicited alternating activity in all of 8 monkeys tested. In 4 of these
+monkeys, the activity was restricted to alternation between ipsilateral and
+contralateral flexor nerves, whereas alternating activity between ipsilateral
+flexors and extensors was also seen in the other 4 monkeys. Administration of
+excitatory amino acids (NMDA or NMA) also elicited rhythmic alternating activity 
+in 7 of 10 spinalized monkeys. In 4, rhythmic alternating activity was seen
+between extensors and flexors on one limb as well as between ipsilateral and
+contralateral flexors. In 3 monkeys NMDA/NMA produced alternation between
+extensors and flexors of one limb without alternation between the ipsilateral and
+contralateral sides. Administration of noradrenaline failed to elicit any
+rhythmic activity, but rather completely depressed already existing activity.
+Administration of serotonin (5-HT) was ineffective in facilitating alternating
+activity in 6 of 8 monkeys and was facilitatory to rhythmic activity in the other
+2. We suggest that these data provide further evidence of a network capable of
+eliciting rhythmic alternating activity resembling locomotion in the primate
+spinal cord. The network, however, seems to be more difficult to activate
+pharmacologically in those conditions than in other mammals. This may especially 
+be the case in higher primates, including man.
+
+DOI: 10.1007/s002210050523 
+PMID: 9808308  [Indexed for MEDLINE]
+

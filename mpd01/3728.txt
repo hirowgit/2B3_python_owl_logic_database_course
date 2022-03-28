@@ -1,0 +1,83 @@
+
+
+3728. J Gen Virol. 1997 Jan;78 ( Pt 1):97-106.
+
+Sequence divergence of measles virus haemagglutinin during natural evolution and 
+adaptation to cell culture.
+
+Rima BK(1), Earle JA, Baczko K, ter Meulen V, Liebert UG, Carstens C, Carabaña J,
+Caballero M, Celma ML, Fernandez-Muñoz R.
+
+Author information: 
+(1)School of Biology and Biochemistry, The Queen's University of Belfast, UK.
+b.rima@qub.ac.uk
+
+Phylogenetic analysis of the sequence of the H gene of 75 measles virus (MV)
+strains (32 published and 43 new sequences) was carried out. The lineage groups
+described from comparison of the nucleotide sequences encoding the C-terminal
+regions of the N protein of MV were the same as those derived from the H gene
+sequences in almost all cases. The databases document a number of distinct
+genotype switches that have occurred in Madrid (Spain). Well-documented is the
+complete replacement of lineage group C2, the common European genotype at that
+time, with that of group D3 around the autumn of 1993. No further isolations of
+group C2 took place in Madrid after this time. The rate of mutation of the H gene
+sequences of MV genotype D3 circulating in Madrid from 1993 to 1996 was very low 
+(5 x 10(-4) per annum for a given nucleotide position). This is an order of
+magnitude lower than the rates of mutation observed in the HN genes of human
+influenza A viruses. The ratio of expressed over silent mutations indicated that 
+the divergence was not driven by immune selection in this gene. Variations in
+amino acid 117 of the H protein (F or L) may be related to the ability of some
+strains to haemagglutinate only in the presence of salt. Adaptation of MV to
+different primate cell types was associated with very small numbers of mutations 
+in the H gene. The changes could not be predicted when virus previously grown in 
+human B cell lines was adapted to monkey Vero cells. In contrast, rodent
+brain-adapted viruses displayed a lot of amino acid sequence variation from
+normal MV strains. There was no convincing evidence for recombination between MV 
+genotypes.
+
+DOI: 10.1099/0022-1317-78-1-97 
+PMID: 9010291  [Indexed for MEDLINE]
+
+
+3729. Biol Reprod. 1997 Jan;56(1):238-46.
+
+Maturation, fertilization, and development of marmoset monkey oocytes in vitro.
+
+Gilchrist RB(1), Nayudu PL, Hodges JK.
+
+Author information: 
+(1)Department of Reproductive Biology, German Primate Centre, Göttingen, Germany.
+rgilchrist@medicine.adelaide.edu.au
+
+This study was conducted to investigate 1) the capacity of in vitro-matured (IVM)
+marmoset oocytes to be fertilized and to support embryonic development in vitro
+and 2) oocyte meiotic maturation in relation to in vivo FSH administration,
+follicle size, and oocyte-cumulus cell status. Pairs of ovaries were collected on
+Day 4 of the follicular phase from adult females receiving either 1) human FSH (3
+IU; n = 5) or 2) control (saline; n = 5) daily for 4 days. Antral follicles were 
+excised from ovaries and separated into classes according to size: class 1
+(660-840 microm), class 2 (> 840-1000 microm), class 3 (> 1000-1400 microm), and 
+class 4 (> 1400 microm). A total of 823 partially naked and cumulus-enclosed
+oocytes (CEOs) were released from follicles and cultured in vitro. Cumulus cells 
+remaining after 22 h were removed, metaphase II (MII) oocytes were inseminated
+with epididymal sperm, and resulting embryos were cultured until developmental
+arrest. Fluorescence microscopy was used to assess oocyte meiotic and embryo
+developmental progression. Oocyte germinal vesicle breakdown (GVB)- and
+MII-competencies increased significantly with follicular size (p < 0.01 and p <
+0.0001, respectively), although they were independent of oocyte-cumulus cell
+associations. After 24 and 32 h in vitro, 69% and 93%, respectively, of CEOs with
+MII competence had completed meiotic maturation, and the rate of nuclear
+maturation increased progressively with follicle size (p < 0.01) and with the
+association of cumulus cells (p < 0.01). In vivo FSH priming slightly improved
+oocyte GVB- and MII-competencies (p < 0.01 and p < 0.05, respectively) and
+decreased the time required to achieve MII (p < 0.01). IVM oocytes from all
+follicle sizes fertilized (78-92%) in vitro, with 27% developing to morula- and
+4% to blastocyst-stage embryos. This study demonstrates for the first time that
+IVM New World primate oocytes are able to support advanced preimplantation
+embryonic development in vitro. Oocyte meiotic competence and the time course of 
+nuclear maturation are profoundly influenced by their follicular origin, and
+marginally by FSH treatment.
+
+DOI: 10.1095/biolreprod56.1.238 
+PMID: 9002655  [Indexed for MEDLINE]
+

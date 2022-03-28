@@ -1,0 +1,80 @@
+
+
+3687. Magn Reson Med. 1997 Apr;37(4):530-6.
+
+Hepatic hemosiderosis in non-human primates: quantification of liver iron using
+different field strengths.
+
+Bulte JW(1), Miller GF, Vymazal J, Brooks RA, Frank JA.
+
+Author information: 
+(1)Laboratory of Diagnostic Radiology Research, National Institutes of Health,
+Bethesda, MD 20892-1074, USA.
+
+Using a non-human primate model of idiopathic hemochromatosis,
+hemosiderin-induced T2 shortening of the liver was assessed at nine different
+field strengths over a range of 0.05 to 1.5 Tesla. The 1/T2 values increased
+linearly with field strength, with all specimens having approximately the same
+zero-field intercept. The slope of the field increase, termed "field-dependent T2
+proton relaxation enhancement (PRE)", appeared to be proportional to the
+chemically determined tissue iron content, viz. 10.8 s-1T-1(mg Fe/g wet
+tissue)-1. The correlation between iron content and field-dependent T2 PRE (r =
+0.94) was better than the correlation between iron content and 1/T2 values
+obtained at single field strengths. For livers containing > or = 2 mg Fe/g wet
+weight, biexponential T2 relaxation behavior emerged at higher field strengths,
+with the short T2 component (intracellular water) exhibiting a linear dependence 
+of 1/T2 on field, while T2 of the long component (extracellular/sinusoidal water)
+was nearly field-independent. After maceration of the specimens, all T2
+relaxation curves became monoexponential, including those for high iron content
+at high field strengths. The present data suggest that the use of double-field MR
+imaging to assess the field-dependent T2 PRE has potential for specific
+quantification of (liver) tissue iron stores.
+
+DOI: 10.1002/mrm.1910370409 
+PMID: 9094074  [Indexed for MEDLINE]
+
+
+3688. J Biol Chem. 1997 Mar 28;272(13):8433-40.
+
+Functional characterization and purification of an intracellular vitamin
+D-binding protein in vitamin D-resistant new world primate cells. Amino acid
+sequence homology with proteins in the hsp-70 family.
+
+Gacad MA(1), Chen H, Arbelle JE, LeBon T, Adams JS.
+
+Author information: 
+(1)Cedars-Sinai Burns and Allen Research Institute, UCLA School of Medicine, Los 
+Angeles, California 90048, USA.
+
+Most genera of New World primates exhibit resistance to vitamin D. These monkeys 
+harbor high circulating concentrations of the prohormone 25-hydroxyvitamin D and 
+the active vitamin D hormone 1, 25-dihydroxyvitamin D. Previous work from this
+laboratory indicated that resistance is associated with the overexpression of a
+60-65-kDa intracellular protein that binds vitamin D metabolites competitively.
+In the current studies 25-[3H]hydroxyvitamin D3 (25-OHD3) was used as a
+competitive ligand to investigate the ability of a number of small lipid
+molecules to interact with this intracellular vitamin D-binding protein (IDBP) in
+post-nuclear extracts of a prototypical lymphoblast cell line from the common
+marmoset, a vitamin D-resistant New World primate. Only those vitamin D
+metabolites with a hydroxyl moiety in the C-25 position were bound by IDBP.
+Disruption of the C-25 hydroxyl obviated binding, whereas more proximal
+alterations in the vitamin D side chain did not. Modifications in the A-ring of
+25-hydroxylated vitamin D metabolites, most specifically hydroxylation of C-1,
+diminished but did not abolish ligand binding. Of more than two dozen other small
+lipid molecules examined, only the C-19 17-hydroxysteroids, 17beta-estradiol and 
+testosterone, and the C-21 steroid progesterone were found to be capable of
+binding specifically to IDBP. Using a combination of physical and serial
+chromatographic techniques, we enriched IDBP 25-OHD3 binding activity 17,588-fold
+in extracts of B95-8 cells. Two-dimensional sodium dodecyl sulfate-polyacrylamide
+gel electrophoresis of this purified fraction demonstrated a predominant 65-kDa
+molecular species with a pI approximately 4.5. Seven different peptide fragments 
+were isolated from the 65-kDa protein, each possessing sequence similarity to the
+hsp-70 family of proteins. Ligand binding analyses confirmed that human inducibly
+expressed hsp-70-bound 25-OHD3 with approximately similar affinity (
+approximately 10(-7) M) as did purified IDBP. In summary, these results suggest a
+novel action for the hsp-70 family of proteins as intracellular vitamin D- and
+gonadal steroid hormone-binding molecules.
+
+DOI: 10.1074/jbc.272.13.8433 
+PMID: 9079669  [Indexed for MEDLINE]
+

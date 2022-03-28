@@ -1,0 +1,38 @@
+
+
+3068. Proc Natl Acad Sci U S A. 2002 Jun 11;99(12):8207-12.
+
+Molecular characterization of antibody specificities against
+myelin/oligodendrocyte glycoprotein in autoimmune demyelination.
+
+von Büdingen HC(1), Hauser SL, Fuhrmann A, Nabavi CB, Lee JI, Genain CP.
+
+Author information: 
+(1)Department of Neurology, University of California San Francisco, Box 0114, 505
+Parnassus Avenue, San Francisco, CA 94143-0114, USA.
+
+Myelin/oligodendrocyte glycoprotein (MOG) is a target antigen for
+myelin-destructive Abs in autoimmune central nervous system demyelinating
+disorders. Little is known about the molecular and structural basis of these
+pathogenic Ab responses. Here, we have characterized anti-MOG Ab specificities in
+the marmoset model of experimental allergic encephalomyelitis, by means of a
+combinatorial IgG-Fab library. We found that a diverse population of Ig genes
+encodes for auto-Abs that exclusively recognize conformation-dependent antigenic 
+targets on MOG. These antigenic domains correspond to exposed epitopes in vivo,
+as the Fab fragments recognize native MOG in situ in marmoset brain tissue. The
+Ab fragments described here represent Ab specificities that are common
+constituents of the humoral immune repertoire against MOG in outbred populations,
+as demonstrated by their ability to displace native anti-MOG Abs present in sera 
+from MOG-immune marmosets and patients with multiple sclerosis. Furthermore,
+neuropathological analysis and characterization of Ab epitope specificities in
+animals immunized with MOG or MOG-derived peptides revealed that only
+conformation-dependent Abs are associated with demyelinating activity, suggesting
+that epitope recognition is an important factor for Ab pathogenicity. Our
+findings provide novel and unexpected knowledge on the diversity of anti-MOG Ab
+responses in nonhuman primates and humans, and will permit the dissection of
+pathogenic auto-Ab properties in multiple sclerosis.
+
+DOI: 10.1073/pnas.122092499 
+PMCID: PMC123046
+PMID: 12060766  [Indexed for MEDLINE]
+

@@ -1,0 +1,113 @@
+
+
+1312. Am J Phys Anthropol. 2015 Apr;156(4):565-76. doi: 10.1002/ajpa.22683. Epub 2014
+Dec 19.
+
+Angular momentum and arboreal stability in common marmosets (Callithrix jacchus).
+
+Chadwell BA(1), Young JW.
+
+Author information: 
+(1)Department of Anatomy and Neurobiology, Northeast Ohio Medical University
+(NEOMED), Rootstown, OH, 44272; Skeletal Biology Research Focus Area, NEOMED,
+Rootstown, OH, 44272.
+
+Despite the importance that concepts of arboreal stability have in theories of
+primate locomotor evolution, we currently lack measures of balance performance
+during primate locomotion. We provide the first quantitative data on locomotor
+stability in an arboreal primate, the common marmoset (Callithrix jacchus),
+predicting that primates should maximize arboreal stability by minimizing
+side-to-side angular momentum about the support (i.e., Lsup ). If net Lsup
+becomes excessive, the animal will be unable to arrest its angular movement and
+will fall. Using a novel, highly integrative experimental procedure we directly
+measured whole-body Lsup in two adult marmosets moving along narrow (2.5 cm
+diameter) and broad (5 cm diameter) poles. Marmosets showed a strong preference
+for asymmetrical gaits (e.g., gallops and bounds) over symmetrical gaits (e.g.,
+walks and runs), with asymmetrical gaits representing >90% of all strides.
+Movement on the narrow support was associated with an increase in more "grounded"
+gaits (i.e., lacking an aerial phase) and a more even distribution of torque
+production between the fore- and hind limbs. These adjustments in gait dynamics
+significantly reduced net Lsup on the narrow support relative to the broad
+support. Despite their lack of a well-developed grasping apparatus, marmosets
+proved adept at producing muscular "grasping" torques about the support,
+particularly with the hind limbs. We contend that asymmetrical gaits permit
+small-bodied arboreal mammals, including primates, to expand "effective grasp" by
+gripping the substrate between left and right limbs of a girdle. This model of
+arboreal stability may hold important implications for understanding primate
+locomotor evolution.
+
+© 2014 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajpa.22683 
+PMID: 25523444  [Indexed for MEDLINE]
+
+
+1313. J Virol. 2015 Feb;89(4):2253-67. doi: 10.1128/JVI.02716-14. Epub 2014 Dec 10.
+
+Identification and functional comparison of seven-transmembrane G-protein-coupled
+BILF1 receptors in recently discovered nonhuman primate lymphocryptoviruses.
+
+Spiess K(1), Fares S(2), Sparre-Ulrich AH(2), Hilgenberg E(3), Jarvis MA(4),
+Ehlers B(3), Rosenkilde MM(5).
+
+Author information: 
+(1)Laboratory for Molecular Pharmacology, Department of Neuroscience and
+Pharmacology, Faculty of Health and Medical Sciences, University of Copenhagen,
+Copenhagen, Denmark Division 12, Measles, Mumps, Rubella, and Viruses Affecting
+Immunocompromised Patients, Robert Koch Institute, Berlin, Germany.
+(2)Laboratory for Molecular Pharmacology, Department of Neuroscience and
+Pharmacology, Faculty of Health and Medical Sciences, University of Copenhagen,
+Copenhagen, Denmark.
+(3)Division 12, Measles, Mumps, Rubella, and Viruses Affecting Immunocompromised 
+Patients, Robert Koch Institute, Berlin, Germany.
+(4)School of Biomedical and Healthcare Sciences, University of Plymouth,
+Plymouth, United Kingdom.
+(5)Laboratory for Molecular Pharmacology, Department of Neuroscience and
+Pharmacology, Faculty of Health and Medical Sciences, University of Copenhagen,
+Copenhagen, Denmark Rosenkilde@sund.ku.dk.
+
+Coevolution of herpesviruses with their respective host has resulted in a
+delicate balance between virus-encoded immune evasion mechanisms and host
+antiviral immunity. BILF1 encoded by human Epstein-Barr virus (EBV) is a
+7-transmembrane (7TM) G-protein-coupled receptor (GPCR) with multiple
+immunomodulatory functions, including attenuation of PKR phosphorylation,
+activation of G-protein signaling, and downregulation of major histocompatibility
+complex (MHC) class I surface expression. In this study, we explored the
+evolutionary and functional relationships between BILF1 receptor family members
+from EBV and 12 previously uncharacterized nonhuman primate (NHP)
+lymphocryptoviruses (LCVs). Phylogenetic analysis defined 3 BILF1 clades,
+corresponding to LCVs of New World monkeys (clade A) or Old World monkeys and
+great apes (clades B and C). Common functional properties were suggested by a
+high degree of sequence conservation in functionally important regions of the
+BILF1 molecules. A subset of BILF1 receptors from EBV and LCVs from NHPs
+(chimpanzee, orangutan, marmoset, and siamang) were selected for multifunctional 
+analysis. All receptors exhibited constitutive signaling activity via G protein
+Gαi and induced activation of the NF-κB transcription factor. In contrast, only 3
+of 5 were able to activate NFAT (nuclear factor of activated T cells); chimpanzee
+and orangutan BILF1 molecules were unable to activate NFAT. Similarly, although
+all receptors were internalized, BILF1 from the chimpanzee and orangutan
+displayed an altered cellular localization pattern with predominant cell surface 
+expression. This study shows how biochemical characterization of functionally
+important orthologous viral proteins can be used to complement phylogenetic
+analysis to provide further insight into diverse microbial evolutionary
+relationships and immune evasion function.IMPORTANCE: Epstein-Barr virus (EBV),
+known as an oncovirus, is the only human herpesvirus in the genus
+Lymphocryptovirus (LCV). EBV uses multiple strategies to hijack infected host
+cells, establish persistent infection in B cells, and evade antiviral immune
+responses. As part of EBV's immune evasion strategy, the virus encodes a
+multifunctional 7-transmembrane (7TM) G-protein-coupled receptor (GPCR), EBV
+BILF1. In addition to multiple immune evasion-associated functions, EBV BILF1 has
+transforming properties, which are linked to its high constitutive activity. We
+identified BILF1 receptor orthologues in 12 previously uncharacterized LCVs from 
+nonhuman primates (NHPs) of Old and New World origin. As 7TM receptors are
+excellent drug targets, our unique insight into the molecular mechanism of action
+of the BILF1 family and into the evolution of primate LCVs may enable validation 
+of EBV BILF1 as a drug target for EBV-mediated diseases, as well as facilitating 
+the design of drugs targeting EBV BILF1.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.02716-14 
+PMCID: PMC4338891
+PMID: 25505061  [Indexed for MEDLINE]
+

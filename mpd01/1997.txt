@@ -1,0 +1,74 @@
+
+
+1997. Science. 2010 Jun 18;328(5985):1563-6. doi: 10.1126/science.1187197.
+
+Down-regulation of a host microRNA by a Herpesvirus saimiri noncoding RNA.
+
+Cazalla D(1), Yario T, Steitz JA.
+
+Author information: 
+(1)Department of Molecular Biophysics and Biochemistry, Howard Hughes Medical
+Institute, Yale University School of Medicine, Boyer Center for Molecular
+Medicine, 295 Congress Avenue, New Haven, CT 06536, USA.
+
+Erratum in
+    Science. 2010 Sep 17;329(5998):1467. Steitz, Joan [corrected to Steitz, Joan A].
+
+Comment in
+    Science. 2010 Jun 18;328(5985):1494-5.
+
+T cells transformed by Herpesvirus saimiri express seven viral U-rich noncoding
+RNAs of unknown function called HSURs. We noted that conserved sequences in HSURs
+1 and 2 constitute potential binding sites for three host-cell microRNAs
+(miRNAs). Coimmunoprecipitation experiments confirmed that HSURs 1 and 2 interact
+with the predicted miRNAs in virally transformed T cells. The abundance of one of
+these miRNAs, miR-27, is dramatically lowered in transformed cells, with
+consequent effects on the expression of miR-27 target genes. Transient knockdown 
+and ectopic expression of HSUR 1 demonstrate that it directs degradation of
+mature miR-27 in a sequence-specific and binding-dependent manner. This viral
+strategy illustrates use of a ncRNA to manipulate host-cell gene expression via
+the miRNA pathway.
+
+DOI: 10.1126/science.1187197 
+PMCID: PMC3075239
+PMID: 20558719  [Indexed for MEDLINE]
+
+
+1998. J Med Microbiol. 2010 Sep;59(Pt 9):1107-1113. doi: 10.1099/jmm.0.020669-0. Epub
+2010 Jun 17.
+
+Characterization of lethal inhalational infection with Francisella tularensis in 
+the common marmoset (Callithrix jacchus).
+
+Nelson M(1), Lever MS(1), Dean RE(1), Savage VL(1), Salguero FJ(2), Pearce PC(1),
+Stevens DJ(1), Simpson AJH(1).
+
+Author information: 
+(1)Biomedical Sciences, Defence Science and Technology Laboratory (Dstl), Porton 
+Down, Salisbury, Wiltshire SP4 0JQ, UK.
+(2)Veterinary Laboratories Agency, Weybridge, Addlestone, Surrey KT15 3NB, UK.
+
+The intracellular Gram-negative pathogen Francisella tularensis is the causative 
+agent of tularaemia and is prevalent in many countries in the northern
+hemisphere. To determine whether the common marmoset (Callithrix jacchus) would
+be a suitable non-human primate model of inhalational tularaemia, a
+pathophysiology study was undertaken. Ten animals were challenged with
+approximately 10(2) c.f.u. F. tularensis strain SCHU S4 (F. tularensis subsp.
+tularensis). To look for trends in the infection, pairs of animals were
+sacrificed at 24 h intervals between 0 and 96 h post-challenge and blood and
+organs were assessed for bacteriology, pathology and haematological and
+immunological parameters. The first indication of infection was a raised core
+temperature at 3 days post-challenge. This coincided with a number of other
+factors: a rapid increase in the number of bacteria isolated from all organs,
+more pronounced gross pathology and histopathology, and an increase in the
+immunological response. As the disease progressed, higher bacterial and cytokine 
+levels were detected. More extensive pathology was observed, with multifocal
+lesions seen in the lungs, liver and spleen. Disease progression in the common
+marmoset appears to be consistent with human clinical and pathological features
+of tularaemia, indicating that this may be a suitable animal model for the
+investigation of novel medical interventions such as vaccines or therapeutics.
+
+DOI: 10.1099/jmm.0.020669-0 
+PMCID: PMC3052436
+PMID: 20558585  [Indexed for MEDLINE]
+

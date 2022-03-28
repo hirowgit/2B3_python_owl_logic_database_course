@@ -1,0 +1,85 @@
+
+
+2622. J Neurophysiol. 2006 Feb;95(2):1244-62. Epub 2005 Oct 5.
+
+Virtual vocalization stimuli for investigating neural representations of
+species-specific vocalizations.
+
+DiMattina C(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Neuroscience, The Johns 
+Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+
+Most studies investigating neural representations of species-specific
+vocalizations in non-human primates and other species have involved studying
+neural responses to vocalization tokens. One limitation of such approaches is the
+difficulty in determining which acoustical features of vocalizations evoke neural
+responses. Traditionally used filtering techniques are often inadequate in
+manipulating features of complex vocalizations. Furthermore, the use of
+vocalization tokens cannot fully account for intrinsic stochastic variations of
+vocalizations that are crucial in understanding the neural codes for categorizing
+and discriminating vocalizations differing along multiple feature dimensions. In 
+this work, we have taken a rigorous and novel approach to the study of
+species-specific vocalization processing by creating parametric "virtual
+vocalization" models of major call types produced by the common marmoset
+(Callithrix jacchus). The main findings are as follows. 1) Acoustical parameters 
+were measured from a database of the four major call types of the common
+marmoset. This database was obtained from eight different individuals, and for
+each individual, we typically obtained hundreds of samples of each major call
+type. 2) These feature measurements were employed to parameterize models defining
+representative virtual vocalizations of each call type for each of the eight
+animals as well as an overall species-representative virtual vocalization
+averaged across individuals for each call type. 3) Using the same
+feature-measurement that was applied to the vocalization samples, we measured
+acoustical features of the virtual vocalizations, including features not
+explicitly modeled and found the virtual vocalizations to be statistically
+representative of the callers and call types. 4) The accuracy of the virtual
+vocalizations was further confirmed by comparing neural responses to real and
+synthetic virtual vocalizations recorded from awake marmoset auditory cortex. We 
+found a strong agreement between the responses to token vocalizations and their
+synthetic counterparts. 5) We demonstrated how these virtual vocalization stimuli
+could be employed to precisely and quantitatively define the notion of
+vocalization "selectivity" by using stimuli with parameter values both within and
+outside the naturally occurring ranges. We also showed the potential of the
+virtual vocalization stimuli in studying issues related to vocalization
+categorizations by morphing between different call types and individual callers.
+
+DOI: 10.1152/jn.00818.2005 
+PMID: 16207780  [Indexed for MEDLINE]
+
+
+2623. IEEE Trans Neural Syst Rehabil Eng. 2005 Sep;13(3):263-71.
+
+Wireless multichannel biopotential recording using an integrated FM telemetry
+circuit.
+
+Mohseni P(1), Najafi K, Eliades SJ, Wang X.
+
+Author information: 
+(1)Center for Wireless Integrated MicroSystems (WIMS), Department of Electrical
+Engineering, University of Michigan, Ann Arbor, MI 48109-2122, USA.
+pmohseni@umich.edu
+
+This paper presents a four-channel telemetric microsystem featuring on-chip
+alternating current amplification, direct current baseline stabilization, clock
+generation, time-division multiplexing, and wireless frequency-modulation
+transmission of microvolt- and millivolt-range input biopotentials in the very
+high frequency band of 94-98 MHz over a distance of approximately 0.5 m. It
+consists of a 4.84-mm2 integrated circuit, fabricated using a 1.5-microm
+double-poly double-metal n-well standard complementary metal-oxide semiconductor 
+process, interfaced with only three off-chip components on a custom-designed
+printed-circuit board that measures 1.7 x 1.2 x 0.16 cm3, and weighs 1.1 g
+including two miniature 1.5-V batteries. We characterize the microsystem
+performance, operating in a truly wireless fashion in single-channel and
+multichannel operation modes, via extensive benchtop and in vitro tests in saline
+utilizing two different micromachined neural recording microelectrodes, while
+dissipating approximately 2.2 mW from a 3-V power supply. Moreover, we
+demonstrate successful wireless in vivo recording of spontaneous neural activity 
+at 96.2 MHz from the auditory cortex of an awake marmoset monkey at several
+transmission distances ranging from 10 to 50 cm with signal-to-noise ratios in
+the range of 8.4-9.5 dB.
+
+DOI: 10.1109/TNSRE.2005.853625 
+PMID: 16200750  [Indexed for MEDLINE]
+

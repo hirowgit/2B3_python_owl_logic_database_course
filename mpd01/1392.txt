@@ -1,0 +1,92 @@
+
+
+1392. PLoS One. 2014 Jun 24;9(6):e100574. doi: 10.1371/journal.pone.0100574.
+eCollection 2014.
+
+Tissue transglutaminase in marmoset experimental multiple sclerosis: discrepancy 
+between white and grey matter.
+
+Espitia Pinzon N(1), Stroo E(1), 't Hart BA(2), Bol JG(1), Drukarch B(1), Bauer
+J(3), van Dam AM(1).
+
+Author information: 
+(1)VU University Medical Center, Neuroscience Campus Amsterdam, Department of
+Anatomy and Neurosciences, Amsterdam, The Netherlands.
+(2)Biomedical Primate Research Center, Department of Immunobiology, Rijswijk, The
+Netherlands; University Groningen, University Medical Center, Department of
+Neuroscience, Groningen, The Netherlands.
+(3)Center for Brain Research, Department of Neuroimmunology, Vienna, Austria.
+
+Infiltration of leukocytes is a major pathological event in white matter lesion
+formation in the brain of multiple sclerosis (MS) patients. In grey matter
+lesions, less infiltration of these cells occur, but microglial activation is
+present. Thus far, the interaction of β-integrins with extracellular matrix
+proteins, e.g. fibronectin, is considered to be of importance for the influx of
+immune cells. Recent in vitro studies indicate a possible role for the enzyme
+tissue Transglutaminase (TG2) in mediating cell adhesion and migration. In the
+present study we questioned whether TG2 is present in white and grey matter
+lesions observed in the marmoset model for MS. To this end, immunohistochemical
+studies were performed. We observed that TG2, expressed by infiltrating monocytes
+in white matter lesions co-expressed β1-integrin and is located in close
+apposition to deposited fibronectin. These data suggest an important role for TG2
+in the adhesion and migration of infiltrating monocytes during white matter
+lesion formation. Moreover, in grey matter lesions, TG2 is mainly present in
+microglial cells together with some β1-integrin, whereas fibronectin is absent in
+these lesions. These data imply an alternative role for microglial-derived TG2 in
+grey matter lesions, e.g. cell proliferation. Further research should clarify the
+functional role of TG2 in monocytes or microglial cells in MS lesion formation.
+
+DOI: 10.1371/journal.pone.0100574 
+PMCID: PMC4069090
+PMID: 24959868  [Indexed for MEDLINE]
+
+
+1393. J Neurophysiol. 2014 Sep 15;112(6):1421-38. doi: 10.1152/jn.00077.2014. Epub 2014
+Jun 11.
+
+Temporal response properties of koniocellular (blue-on and blue-off) cells in
+marmoset lateral geniculate nucleus.
+
+Pietersen AN(1), Cheong SK(1), Solomon SG(2), Tailby C(3), Martin PR(4).
+
+Author information: 
+(1)Australian Research Council Centre of Excellence for Integrative Brain
+Function, University of Sydney, Sydney, Australia; Save Sight Institute,
+University of Sydney, Sydney, Australia;
+(2)School of Medical Sciences, University of Sydney, Sydney, Australia;
+Department of Experimental Psychology, University College London, London, United 
+Kingdom; and.
+(3)School of Medical Sciences, University of Sydney, Sydney, Australia; Florey
+Institute of Neuroscience and Mental Health, Heidelberg, Australia.
+(4)Australian Research Council Centre of Excellence for Integrative Brain
+Function, University of Sydney, Sydney, Australia; Save Sight Institute,
+University of Sydney, Sydney, Australia; School of Medical Sciences, University
+of Sydney, Sydney, Australia; prmartin@physiol.usyd.edu.au.
+
+Visual perception requires integrating signals arriving at different times from
+parallel visual streams. For example, signals carried on the phasic-magnocellular
+(MC) pathway reach the cerebral cortex pathways some tens of milliseconds before 
+signals traveling on the tonic-parvocellular (PC) pathway. Visual latencies of
+cells in the koniocellular (KC) pathway have not been specifically studied in
+simian primates. Here we compared MC and PC cells to "blue-on" (BON) and
+"blue-off" (BOF) KC cells; these cells carry visual signals originating in
+short-wavelength-sensitive (S) cones. We made extracellular recordings in the
+lateral geniculate nucleus (LGN) of anesthetized marmosets. We found that BON
+visual latencies are 10-20 ms longer than those of PC or MC cells. A small number
+of recorded BOF cells (n = 7) had latencies 10-20 ms longer than those of BON
+cells. Within all cell groups, latencies of foveal receptive fields (<10°
+eccentricity) were longer (by 3-8 ms) than latencies of peripheral receptive
+fields (>10°). Latencies of yellow-off inputs to BON cells lagged the blue-on
+inputs by up to 30 ms, but no differences in visual latency were seen on
+comparing marmosets expressing dichromatic ("red-green color-blind") or
+trichromatic color vision phenotype. We conclude that S-cone signals leaving the 
+LGN on KC pathways are delayed with respect to signals traveling on PC and MC
+pathways. Cortical circuits serving color vision must therefore integrate across 
+delays in (red-green) chromatic signals carried by PC cells and (blue-yellow)
+signals carried by KC cells.
+
+Copyright © 2014 the American Physiological Society.
+
+DOI: 10.1152/jn.00077.2014 
+PMID: 24920024  [Indexed for MEDLINE]
+

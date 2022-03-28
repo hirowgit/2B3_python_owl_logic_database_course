@@ -1,0 +1,53 @@
+
+
+307. Ecol Evol. 2020 Apr 12;10(11):4691-4701. doi: 10.1002/ece3.6224. eCollection 2020
+Jun.
+
+What smells? Developing in-field methods to characterize the chemical composition
+of wild mammalian scent cues.
+
+Thompson CL(1), Bottenberg KN(1), Lantz AW(2), de Oliveira MAB(3), Melo LCO(3),
+Vinyard CJ(4).
+
+Author information: 
+(1)Department of Biomedical Sciences Grand Valley State University Allendale MI
+USA.
+(2)Department of Chemistry Grand Valley State University Allendale MI USA.
+(3)Departamento de Morfologia e Fisiologia Animal Universidade Federal Rural de
+Pernambuco Recife Brazil.
+(4)Department of Anatomy & Neurobiology Northeast Ohio Medical University
+Rootstown OH USA.
+
+Olfactory cues play an important role in mammalian biology, but have been
+challenging to assess in the field. Current methods pose problematic issues with 
+sample storage and transportation, limiting our ability to connect chemical
+variation in scents with relevant ecological and behavioral contexts. Real-time, 
+in-field analysis via portable gas chromatography-mass spectrometry (GC-MS) has
+the potential to overcome these issues, but with trade-offs of reduced
+sensitivity and compound mass range. We field-tested the ability of portable
+GC-MS to support two representative applications of chemical ecology research
+with a wild arboreal primate, common marmoset monkeys (Callithrix jacchus). We
+developed methods to (a) evaluate the chemical composition of marmoset scent
+marks deposited at feeding sites and (b) characterize the scent profiles of
+exudates eaten by marmosets. We successfully collected marmoset scent marks
+across several canopy heights, with the portable GC-MS detecting known components
+of marmoset glandular secretions and differentiating these from in-field
+controls. Likewise, variation in the chemical profile of scent marks demonstrated
+a significant correlation with marmoset feeding behavior, indicating these
+scents' biological relevance. The portable GC-MS also delineated species-specific
+olfactory signatures of exudates fed on by marmosets. Despite the trade-offs,
+portable GC-MS represents a viable option for characterizing olfactory compounds 
+used by wild mammals, yielding biologically relevant data. While the decision to 
+adopt portable GC-MS will likely depend on site- and project-specific needs, our 
+ability to conduct two example applications under relatively challenging field
+conditions bodes well for the versatility of in-field GC-MS.
+
+© 2020 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/ece3.6224 
+PMCID: PMC7297786
+PMID: 32551053 
+
+Conflict of interest statement: The authors have no conflicts of interest to
+declare.
+

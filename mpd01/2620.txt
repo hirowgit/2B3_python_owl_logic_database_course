@@ -1,0 +1,73 @@
+
+
+2620. Vis Neurosci. 2005 Jul-Aug;22(4):479-91.
+
+Spatial coding and response redundancy in parallel visual pathways of the
+marmoset Callithrix jacchus.
+
+Forte JD(1), Hashemi-Nezhad M, Dobbie WJ, Dreher B, Martin PR.
+
+Author information: 
+(1)National Vision Research Institute of Australia, Cnr Keppel & Cardigan
+Streets, Carlton, and the Department of Optometry and Vision Sciences, The
+University of Melbourne, Parkville, Australia.
+
+Many neurons in the primary visual cortex (area V1) show pronounced selectivity
+for the orientation and spatial frequency of visual stimuli, whereas most neurons
+in subcortical afferent streams show little selectivity for these stimulus
+attributes. It has been suggested that this transformation is a functional sign
+of increased coding efficiency, whereby the redundancy (or overlap in response
+properties) is reduced at consecutive levels of visual processing. Here we
+compared experimentally the response redundancy in area V1 with that in the three
+main dorsal thalamic afferent streams, the parvocellular (PC), koniocellular
+(KC), and magnocellular (MC) divisions of the dorsal lateral geniculate nucleus
+(LGN) in marmosets. The spatial frequency and orientation tuning of single cells 
+in the LGN and area V1 were measured, using luminance contrast sine-wave
+gratings. A joint spatial frequency-orientation response selectivity profile was 
+calculated for each cell. Response redundancy for each population was estimated
+by cross-multiplication of the joint selectivity profiles for pairs of cells. We 
+show that when estimated in this way, redundancy in LGN neurons is approximately 
+double that of neurons in cortical area V1. However, there are differences
+between LGN subdivisions, such that the KC pathway has a spatial representation
+that lies between the redundant code of the PC and MC pathways and the more
+efficient sparse spatial code of area V1.
+
+DOI: 10.1017/S0952523805224094 
+PMID: 16212705  [Indexed for MEDLINE]
+
+
+2621. Vis Neurosci. 2005 Jul-Aug;22(4):395-404.
+
+Mosaic properties of midget and parasol ganglion cells in the marmoset retina.
+
+Szmajda BA(1), Grünert U, Martin PR.
+
+Author information: 
+(1)National Vision Research Institute of Australia, Carlton, and the Department
+of Optometry and Vision Sciences, The University of Melbourne, Australia.
+
+We measured mosaic properties of midget and parasol ganglion cells in the retina 
+of a New World monkey, the common marmoset Callithrix jacchus . We addressed the 
+functional specialization of these populations for color and spatial vision, by
+comparing the mosaic of ganglion cells in dichromatic ("red-green color blind")
+and trichromatic marmosets. Ganglion cells were labelled by photolytic
+amplification of retrograde marker ("photofilling") following injections into the
+lateral geniculate nucleus, or by intracellular injection in an in vitro retinal 
+preparation. The dendritic-field size, shape, and overlap of neighboring cells
+were measured. We show that in marmosets, both midget and parasol cells exhibit a
+radial bias, so that the long axis of the dendritic field points towards the
+fovea. The radial bias is similar for parasol cells and midget cells, despite the
+fact that midget cell dendritic fields are more elongated than are those of
+parasol cells. The dendritic fields of midget ganglion cells from the same (ON or
+OFF) response-type array show very little overlap, consistent with the low
+coverage of the midget mosaic in humans. No large differences in radial bias, or 
+overlap, were seen on comparing retinae from dichromatic and trichromatic
+animals. These data suggest that radial bias in ganglion cell populations is a
+consistent feature of the primate retina. Furthermore, they suggest that the
+mosaic properties of the midget cell population are associated with high spatial 
+resolution rather than being specifically associated with trichromatic color
+vision.
+
+DOI: 10.1017/S0952523805224021 
+PMID: 16212698  [Indexed for MEDLINE]
+

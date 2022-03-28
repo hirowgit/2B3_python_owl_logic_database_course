@@ -1,0 +1,36 @@
+
+
+2334. DNA Cell Biol. 2008 Jan;27(1):45-54.
+
+The cotton-top tamarin (Saguinus oedipus) has five beta-microseminoprotein genes,
+two of which are pseudogenes.
+
+Valtonen-André C(1), Lundwall A.
+
+Author information: 
+(1)Division of Clinical Chemistry, Department of Laboratory Medicine, Lund
+University, University Hospital MAS, Malmö, Sweden.
+
+beta-Microseminoprotein (MSP) is one of the most abundant proteins in human
+seminal plasma and is secreted from the prostate gland. Its evolution can be
+traced from primates down to nonvertebrate species such as amphioxus, despite
+substantial differences in the primary structure. Most mammals are known to have 
+one single MSP gene, but we have previously shown that the cotton-top tamarin and
+the common marmoset-two New World monkeys-carry several MSP genes. In this study 
+we continue our characterization of MSP genes in the cotton-top tamarin by
+presenting the full nucleotide sequence of the three previously identified genes,
+mspA, mspE, and mspJ. A promoter analysis using the luciferase reporter showed
+that mspE is as transcriptionally active as the single human MSP gene, whereas
+mspA and mspJ display no activity with this assay. Two novel MSP genes were also 
+identified, mspB and mspH, both of which are pseudogenes. MspB has a frameshift
+mutation in the third exon resulting in a new C-terminus and premature stop of
+translation. MspH has the features of a processed pseudogene, originating from a 
+transcript of mspE. It is integrated into the genome together with another
+processed pseudogene originating from a transcript of the nucleoporin gene NUP88.
+The MSP genes described in this study probably arose by phylogenetically rather
+late duplication or retrotransposition, suggesting that they are confined to a
+limited number of New World monkeys.
+
+DOI: 10.1089/dna.2007.0641 
+PMID: 18020964  [Indexed for MEDLINE]
+

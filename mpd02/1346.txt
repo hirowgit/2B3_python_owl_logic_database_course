@@ -1,0 +1,44 @@
+
+
+1346. Neurosci Res. 2015 Apr;93:62-71. doi: 10.1016/j.neures.2014.09.012. Epub 2014 Oct
+7.
+
+Structure and function of the middle temporal visual area (MT) in the marmoset:
+Comparisons with the macaque monkey.
+
+Lui LL(1), Rosa MG(2).
+
+Author information: 
+(1)Department of Physiology, Monash University, VIC 3800, Australia; Monash
+Vision Group, Monash University, VIC 3800, Australia; ARC Centre of Excellence
+for Integrative Brain Function, Monash University, VIC 3800, Australia.
+Electronic address: leo.lui@monash.edu.
+(2)Department of Physiology, Monash University, VIC 3800, Australia; Monash
+Vision Group, Monash University, VIC 3800, Australia; ARC Centre of Excellence
+for Integrative Brain Function, Monash University, VIC 3800, Australia.
+
+Although macaque monkeys have been dominant models in visual neuroscience, recent
+scientific advances suggest that marmosets provide a valuable alternative in the 
+context of many types of experiments. Here we focus on the middle temporal area
+(MT), the most extensively studied extrastriate area in primates, and discuss
+similarities and differences between marmosets and macaques. The basic response
+properties of MT cells are similar in these species, including direction
+selectivity, speed tuning, and receptive field centre-surround organization.
+However, there are differences associated with spatial processing: receptive
+fields are larger in the marmoset than in the macaque, and MT neurons have
+preferences for lower spatial frequencies. Comparative analysis of anatomical
+connections show neural projections from several higher-order association areas
+to marmoset MT, which seem to be absent or reduced in the macaque. This suggests 
+that cognitive processes could influence the activity of marmoset MT cells more
+directly. Despite a relative reduction in visual acuity, the present knowledge
+about the anatomy and physiology of MT in the marmoset suggests that simple
+low-level visual tasks, which are standard in the literature, are well within the
+capabilities of marmosets, opening the way for comparative studies of perception 
+and cognition in primate brains of different sizes.
+
+Copyright © 2014 Elsevier Ireland Ltd and the Japan Neuroscience Society. All
+rights reserved.
+
+DOI: 10.1016/j.neures.2014.09.012 
+PMID: 25304293  [Indexed for MEDLINE]
+

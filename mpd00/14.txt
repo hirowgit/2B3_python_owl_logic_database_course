@@ -1,0 +1,62 @@
+
+
+14. Neuropharmacology. 2019 Nov 1;158:107725. doi: 10.1016/j.neuropharm.2019.107725. 
+Epub 2019 Jul 25.
+
+Activation of mGlu2/3 receptors, a novel therapeutic approach to alleviate
+dyskinesia and psychosis in experimental parkinsonism.
+
+Frouni I(1), Hamadjida A(2), Kwan C(2), Bédard D(3), Nafade V(3), Gaudette F(4), 
+Nuara SG(5), Gourdon JC(5), Beaudry F(6), Huot P(7).
+
+Author information: 
+(1)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada; Neurodegenerative Disease Group, Montreal Neurological Institute,
+Montreal, QC, Canada.
+(2)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada; Integrated Program in Neuroscience, McGill University, Montreal, QC, 
+Canada.
+(3)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada.
+(4)Plateforme de Pharmacocinétique, Centre de Recherche du Centre Hospitalier de 
+l'Université de Montréal, Montreal, QC, Canada.
+(5)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(6)Groupe de Recherche en Pharmacologie Animale du Québec, Département de
+Biomédecine Vétérinaire, Faculté de Médecine Vétérinaire, Université de Montréal,
+Saint-Hyacinthe, QC, Canada.
+(7)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada; Neurodegenerative Disease Group, Montreal Neurological Institute,
+Montreal, QC, Canada; Integrated Program in Neuroscience, McGill University,
+Montreal, QC, Canada; Department of Neurology and Neurosurgery, McGill
+University, Montreal, QC, Canada; Movement Disorder Clinic, Division of
+Neurology, Department of Neurosciences, McGill University Health Centre,
+Montreal, QC, Canada. Electronic address: philippe.huot@mcgill.ca.
+
+Selective blockade of serotonin 2A (5-HT2A) receptors is a promising strategy to 
+reduce L-3,4-dihydroxyphenylalanine (l-DOPA)-induced dyskinesia and has shown
+efficacy in a Phase III clinical trial for dopaminergic psychosis in Parkinson's 
+disease (PD). However, pre-clinical and clinical evidence suggest that, while
+this approach may be effective and well tolerated, there might be a ceiling
+beyond which no further therapeutic benefit might be achieved. There is mounting 
+evidence that 5-HT2A receptors form a functional hetero-complex with metabotropic
+glutamate 2 (mGlu2) receptors, with antagonism of 5-HT2A receptors and activation
+of mGlu2 receptors producing similar effects on the Gi/Gq signalling ratio at the
+intra-cellular level. Based on this interaction between 5-HT2A and mGlu2
+receptors, we hypothesised that activation of mGlu2 receptors would alleviate
+dyskinesia and psychosis in PD. LY-354,740 is a selective mGlu2/3 orthosteric
+agonist that was previously tested in the clinic. In experiments conducted in the
+6-hydroxydopamine (6-OHDA)-lesioned rat and the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned marmoset, we found
+that mGlu2/3 activation with LY-354,740 significantly reduced the expression of
+dyskinesia and psychosis-like behaviours, while simultaneously enhancing l-DOPA
+therapeutic benefit. Moreover, mGlu2/3 activation with LY-354,740 attenuated the 
+development of dyskinesia. These data indicate that activation of mGlu2/3
+receptors is a therapeutic strategy that may provide relief for both motor
+and-non-motor treatment-related complications in PD.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuropharm.2019.107725 
+PMID: 31351976  [Indexed for MEDLINE]
+

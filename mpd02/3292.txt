@@ -1,0 +1,41 @@
+
+
+3292. Chem Biol. 2000 Jul;7(7):493-504.
+
+Structure-based drug design: the discovery of novel nonpeptide orally active
+inhibitors of human renin.
+
+Rahuel J(1), Rasetti V, Maibaum J, Rüeger H, Göschke R, Cohen NC, Stutz S, Cumin 
+F, Fuhrer W, Wood JM, Grütter MG.
+
+Author information: 
+(1)Core Technology Area, Novartis Pharma AG, Metabolic and Cardiovascular
+Diseases, Basle, Switzerland.
+
+BACKGROUND: The aspartic proteinase renin plays an important physiological role
+in the regulation of blood pressure. It catalyses the first step in the
+conversion of angiotensinogen to the hormone angiotensin II. In the past, potent 
+peptide inhibitors of renin have been developed, but none of these compounds has 
+made it to the end of clinical trials. Our primary aim was to develop novel
+nonpeptide inhibitors. Based on the available structural information concerning
+renin-substrate interactions, we synthesized inhibitors in which the peptide
+portion was replaced by lipophilic moieties that interact with the large
+hydrophobic S1/S3-binding pocket in renin.
+RESULTS: Crystal structure analysis of renin-inhibitor complexes combined with
+computational methods were employed in the medicinal-chemistry optimisation
+process. Structure analysis revealed that the newly designed inhibitors bind as
+predicted to the S1/S3 pocket. In addition, however, these compounds interact
+with a hitherto unrecognised large, distinct, sub-pocket of the enzyme that
+extends from the S3-binding site towards the hydrophobic core of the enzyme.
+Binding to this S3(sp) sub-pocket was essential for high binding affinity. This
+unprecedented binding mode guided the drug-design process in which the mostly
+hydrophobic interactions within subsite S3(sp) were optimised.
+CONCLUSIONS: Our design approach led to compounds with high in vitro affinity and
+specificity for renin, favourable bioavailability and excellent oral efficacy in 
+lowering blood pressure in primates. These renin inhibitors are therefore
+potential therapeutic agents for the treatment of hypertension and related
+cardiovascular diseases.
+
+DOI: 10.1016/s1074-5521(00)00134-4 
+PMID: 10903938  [Indexed for MEDLINE]
+

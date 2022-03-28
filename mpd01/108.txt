@@ -1,0 +1,79 @@
+
+
+108. Cell Rep. 2021 Jul 13;36(2):109379. doi: 10.1016/j.celrep.2021.109379.
+
+Chronic wireless neural population recordings with common marmosets.
+
+Walker JD(1), Pirschel F(2), Sundiang M(3), Niekrasz M(4), MacLean JN(5),
+Hatsopoulos NG(6).
+
+Author information: 
+(1)Committee on Computational Neuroscience, University of Chicago, Chicago, IL
+60615, USA; Department of Organismal Biology and Anatomy, University of Chicago, 
+Chicago, IL 60615, USA. Electronic address: walkerjd@uchicago.edu.
+(2)Department of Organismal Biology and Anatomy, University of Chicago, Chicago, 
+IL 60615, USA.
+(3)Committee on Computational Neuroscience, University of Chicago, Chicago, IL
+60615, USA.
+(4)Department of Surgery, University of Chicago, Chicago, IL 60615, USA; The
+University of Chicago Neuroscience Institute, University of Chicago, Chicago, IL 
+60615, USA.
+(5)Committee on Computational Neuroscience, University of Chicago, Chicago, IL
+60615, USA; Department of Neurobiology, University of Chicago, Chicago, IL 60615,
+USA; The University of Chicago Neuroscience Institute, University of Chicago,
+Chicago, IL 60615, USA.
+(6)Committee on Computational Neuroscience, University of Chicago, Chicago, IL
+60615, USA; Department of Organismal Biology and Anatomy, University of Chicago, 
+Chicago, IL 60615, USA; The University of Chicago Neuroscience Institute,
+University of Chicago, Chicago, IL 60615, USA.
+
+Marmosets are an increasingly important model system for neuroscience in part due
+to genetic tractability and enhanced cortical accessibility, due to a
+lissencephalic neocortex. However, many of the techniques generally employed to
+record neural activity in primates inhibit the expression of natural behaviors in
+marmosets precluding neurophysiological insights. To address this challenge, we
+have developed methods for recording neural population activity in unrestrained
+marmosets across multiple ethological behaviors, multiple brain states, and over 
+multiple years. Notably, our flexible methodological design allows for replacing 
+electrode arrays and removal of implants providing alternative experimental
+endpoints. We validate the method by recording sensorimotor cortical population
+activity in freely moving marmosets across their natural behavioral repertoire
+and during sleep.
+
+Copyright © 2021 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2021.109379 
+PMCID: PMC8513487
+PMID: 34260919  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests N.G.H. serves as a
+consultant for BlackRock Microsystems, Inc., the company that sells the
+multi-electrode arrays and acquisition system used in this study.
+
+
+109. Annu Rev Neurosci. 2021 Jul 8;44:27-48. doi: 10.1146/annurev-neuro-030520-101844.
+Epub 2020 Dec 2.
+
+Current Status of and Perspectives on the Application of Marmosets in
+Neurobiology.
+
+Okano H(1)(2).
+
+Author information: 
+(1)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan; email: hidokano@keio.jp.
+(2)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako-shi, Saitama 351-0198, Japan.
+
+The common marmoset (Callithrix jacchus), a small New World primate, is receiving
+substantial attention in the neuroscience and biomedical science fields because
+its anatomical features, functional and behavioral characteristics, and
+reproductive features and its amenability to available genetic modification
+technologies make it an attractive experimental subject. In this review, I
+outline the progress of marmoset neuroscience research and summarize both the
+current status (opportunities and limitations) of and the future perspectives on 
+the application of marmosets in neuroscience and disease modeling.
+
+DOI: 10.1146/annurev-neuro-030520-101844 
+PMID: 34236888  [Indexed for MEDLINE]
+

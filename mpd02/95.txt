@@ -1,0 +1,38 @@
+
+
+95. Genes (Basel). 2021 Jul 16;12(7). pii: 1082. doi: 10.3390/genes12071082.
+
+Dynamic Spatiotemporal Expression Changes in Connexins of the Developing
+Primate's Cochlea.
+
+Hosoya M(1), Fujioka M(1), Murayama AY(2)(3), Ogawa K(1), Okano H(2)(3), Ozawa
+H(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Keio University
+School of Medicine, 35 Shinanomachi Shinjuku-ku, Tokyo 160-8582, Japan.
+(2)Department of Physiology, Keio University School of Medicine, 35 Shinanomachi 
+Shinjuku-ku, Tokyo 160-8582, Japan.
+(3)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako 351-0198, Japan.
+
+Connexins are gap junction components that are essential for acquiring normal
+hearing ability. Up to 50% of congenital, autosomal-recessive, non-syndromic
+deafness can be attributed to variants in GJB2, the gene that encodes connexin
+26. Gene therapies modifying the expression of connexins are a feasible treatment
+option for some patients with genetic hearing losses. However, the expression
+patterns of these proteins in the human fetus are not fully understood due to
+ethical concerns. Recently, the common marmoset was used as a primate animal
+model for the human fetus. In this study, we examined the expression patterns of 
+connexin 26 and connexin 30 in the developing cochlea of this primate.
+Primate-specific spatiotemporal expression changes were revealed, which suggest
+the existence of primate-specific control of connexin expression patterns and
+specific functions of these gap junction proteins. Moreover, our results indicate
+that treatments for connexin-related hearing loss established in rodent models
+may not be appropriate for human patients, underscoring the importance of testing
+these treatments in primate models before applying them in human clinical trials.
+
+DOI: 10.3390/genes12071082 
+PMCID: PMC8307058
+PMID: 34356098  [Indexed for MEDLINE]
+

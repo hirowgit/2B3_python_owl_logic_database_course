@@ -1,0 +1,82 @@
+
+
+2278. Brain. 2008 Jun;131(Pt 6):1574-87. doi: 10.1093/brain/awn085. Epub 2008 May 16.
+
+Sprouting of dopamine terminals and altered dopamine release and uptake in
+Parkinsonian dyskinaesia.
+
+Lee J(1), Zhu WM, Stanic D, Finkelstein DI, Horne MH, Henderson J, Lawrence AJ,
+O'Connor L, Tomas D, Drago J, Horne MK.
+
+Author information: 
+(1)Brain Injury and Repair, Howard Florey Institute, University of Melbourne,
+Parkville,VIC, 3010, Australia.
+
+Failed storage capacity, leading to pulsatile delivery of dopamine (DA) in the
+striatum, is used to explain the emergence of 'wearing off' and dyskinaesia in
+Parkinson's disease. In this study, we show that surviving DA neurons in 6-OHDA
+lesioned rats sprout to re-innervate the striatum, and maintain terminal density 
+until approximately 60% of neurons are lost. We demonstrate that DA terminal
+density correlates with baseline striatal DA concentration ([DA]).
+Electrochemical and synaptosome studies in 6-OHDA lesioned rats and primates
+suggest that impaired striatal DA re-uptake and increased DA release from medial 
+forebrain bundle fibres contribute to maintaining striatal DA levels. In lesioned
+rats where terminal density fell by 60% or more, L-DOPA administration increased 
+striatal DA levels markedly. The striatal [DA] produced by L-DOPA directly
+correlated with the extent of dyskinaesia, suggesting that dyskinaesia was
+related to high striatal [DA]. While sprouting and decreased dopamine uptake
+transporter function would be expected to contribute to the marked increase in
+L-DOPA induced [DA], the increased [DA] was most marked when DAergic fibres were 
+>60% denervated, suggesting that other release sites, such as serotonergic fibres
+might be contributing. In conclusion, the extent of dyskinaesia was directly
+proportional to the extent of DA terminal denervation and levels of
+extra-synaptic striatal DA. We propose that sprouting of DA terminals and
+decreased dopamine uptake transporter function prevent the appearance of
+Parkinsonian symptoms until about 60% loss of nigral neurons, but also contribute
+to dysregulated striatal DA release that is responsible for the emergence of
+dyskinaesia and 'wearing off'.
+
+DOI: 10.1093/brain/awn085 
+PMID: 18487277  [Indexed for MEDLINE]
+
+
+2279. J Virol. 2008 Jul;82(14):7167-79. doi: 10.1128/JVI.02664-07. Epub 2008 May 14.
+
+Characterization of the New World monkey homologues of human poliovirus receptor 
+CD155.
+
+Khan S(1), Peng X, Yin J, Zhang P, Wimmer E.
+
+Author information: 
+(1)Department of Molecular Genetics and Microbiology, Stony Brook University,
+Stony Brook, NY 11794-5222, USA.
+
+In contrast to Old World monkeys, most New World monkeys (NWMs) are not
+susceptible to poliovirus (PV), regardless of the route of infection. We have
+investigated the molecular basis of restricted PV pathogenesis of NWMs with two
+kidney cell lines of NWMs, TMX (tamarin) and NZP-60 (marmoset), and characterized
+their PV receptor homologues. TMX cells were susceptible to infection by PV1
+(Mahoney) and PV3 (Leon) but not by PV2 (Lansing). Binding studies to TMX cells
+indicated that the formation of PV/receptor complexes increased when measured
+first at 4 degrees C and then at 25 degrees C, whereas PV2 did not significantly 
+bind to TMX cells at either temperature. On the other hand, NZP-60 cells were not
+susceptible to infection by any of the PV serotypes. However, a low amount of PV1
+bound to NZP-60 cells at 4 degrees C, but there was no increase of binding at 25 
+degrees C. In contrast, both NWM cell lines supported genome replication and
+virion formation when transfected with viral RNAs of either serotype, an
+observation indicating that infection was blocked in receptor-virus interaction. 
+To overcome the receptor block, we substituted 3 amino acids in the marmoset
+receptor (nCD155), H80Q, N85S, and P87S, found in the human PV receptor, hCD155. 
+Cells expressing the mutant receptor (L-nCD155mt) were now susceptible to
+infection with PV1, which correlated with an increase in PV1-bound receptor
+complexes from 4 degrees C to 25 degrees C. L-nCD155mt cells were, however, still
+resistant to PV2 and PV3. These data show that an increase in the formation of
+PV/receptor complexes, when measured at 4 degrees C and at 25 degrees C,
+correlates with and is an indicator of successful infection at 37 degrees C,
+suggesting that the complex formed at 25 degrees C may be an intermediate in PV
+uptake.
+
+DOI: 10.1128/JVI.02664-07 
+PMCID: PMC2446954
+PMID: 18480448  [Indexed for MEDLINE]
+

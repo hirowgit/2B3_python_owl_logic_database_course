@@ -1,0 +1,29 @@
+
+
+3900. J Virol. 1995 Jun;69(6):3752-8.
+
+A subpopulation of normal B cells latently infected with Epstein-Barr virus
+resembles Burkitt lymphoma cells in expressing EBNA-1 but not EBNA-2 or LMP1.
+
+Chen F(1), Zou JZ, di Renzo L, Winberg G, Hu LF, Klein E, Klein G, Ernberg I.
+
+Author information: 
+(1)Microbiology and Tumor Biology Center, Karolinska Institutet, Stockholm,
+Sweden.
+
+Using reverse transcription of whole cellular RNA and nested PCR, we have
+performed experiments mixing different proportions of Epstein-Barr virus
+(EBV)-carrying and EBV-negative cells. Based on the results, a method that
+detects viral transcripts for EBNA-1, EBNA-2, LMP1, and LMP2a from less than one 
+positive cell among 10(5) negative cells was developed. With this method we have 
+shown that the EBV DNA positive cells among small, high-density peripheral blood 
+B-lymphocytes of normal healthy persons express EBNA-1-mRNA but not EBNA-2 or
+LMP1. A similar EBV expression pattern is found in type I Burkitt lymphoma cells.
+We suggest that the expression pattern in the lymphoma cells reflects the viral
+strategy in normal resting B cells and meets the requirements of latent
+persistence.
+
+DOI: 10.1128/JVI.69.6.3752-3758.1995 
+PMCID: PMC189092
+PMID: 7745723  [Indexed for MEDLINE]
+

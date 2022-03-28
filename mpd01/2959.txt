@@ -1,0 +1,75 @@
+
+
+2959. Mol Phylogenet Evol. 2003 Mar;26(3):490-501.
+
+Molecular cladistic markers in New World monkey phylogeny (Platyrrhini,
+Primates).
+
+Singer SS(1), Schmitz J, Schwiegk C, Zischler H.
+
+Author information: 
+(1)Primate Genetics, German Primate Center, Kellnerweg 4, Göttingen 37077,
+Germany. ssinger@gwdg.de
+
+Transpositions of primate-specific Alu elements were applied as molecular
+cladistic markers in a phylogenetic analysis of South American primates.
+Seventy-four human and platyrrhine loci containing intronic Alu elements were PCR
+screened in various New World monkeys and the human outgroup to detect the
+presence of orthologous retrotransposons informative of New World monkey
+phylogeny. Six loci revealed size polymorphism in the amplification pattern,
+indicating a shared derived character state due to the presence of orthologous
+Alu elements confirmed by subsequent sequencing. Three markers corroborate (1)
+New World monkey monophyly and one marker supports each of the following
+callitrichine relationships: (2) Callithrix and Cebuella are more closely related
+to each other than to any other callitrichine, (3) the callitrichines form a
+monophyletic clade including Callimico, and (4) the next living relatives to the 
+callitrichines are Cebus, Saimiri, and Aotus.
+
+Copyright 2002 Elsevier Science (USA)
+
+DOI: 10.1016/s1055-7903(02)00312-3 
+PMID: 12644406  [Indexed for MEDLINE]
+
+
+2960. J Neurophysiol. 2003 Mar;89(3):1603-22.
+
+Spectral integration in A1 of awake primates: neurons with single- and
+multipeaked tuning characteristics.
+
+Kadia SC(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA.
+
+We investigated modulations by stimulus components placed outside of the
+classical receptive field in the primary auditory cortex (A1) of awake marmosets.
+Two classes of neurons were identified using single tone stimuli: neurons with
+single-peaked frequency tuning characteristics (147/185, 80%) and neurons with
+multipeaked frequency tuning characteristics (38/185, 20%), referred to as
+single- and multipeaked units, respectively. Each class of neurons was further
+studied using two-tone paradigms in which the frequency, intensity, and timing of
+the second tone were systematically varied while a unit was driven by the first
+tone placed at a unit's characteristic frequency (CF) if it was single-peaked or 
+at one of multiple spectral peaks if it was multipeaked. The main findings were: 
+1) excitatory spectral peaks in the frequency tuning of the multipeaked units
+were often harmonically related. 2) Multipeaked units showed facilitation in
+their responses to combinations of two harmonically related tones placed at the
+spectral peaks of their frequency tuning. The two-tone facilitation was strongest
+for the simultaneously presented tones. 3) In 76 of 113 single-peaked units
+studied using the two-tone paradigm, facilitatory and/or inhibitory modulations
+by distant off-CF tones were observed. This distant inhibition differed from
+flanking (or side-band) inhibitions near CF. 4) In single-peaked units, the
+distant off-CF inhibitions were dominated by tones at frequencies that were
+harmonically related to the CF of a unit, whereas the facilitation by off-CF
+tones was observed for a wide range of frequencies. And 5) in both single- and
+multipeaked units, sound levels of two interacting tones determined whether the
+two tones produced excitation or inhibition. The largest facilitation was
+achieved by using two tones at their corresponding preferred sound levels.
+Together, these findings suggest that extracting or rejecting harmonically
+related components embedded in complex sounds may represent fundamental signal
+processing properties in different classes of A1 neurons.
+
+DOI: 10.1152/jn.00271.2001 
+PMID: 12626629  [Indexed for MEDLINE]
+

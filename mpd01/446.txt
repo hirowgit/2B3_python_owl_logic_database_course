@@ -1,0 +1,84 @@
+
+
+446. Nat Commun. 2019 Aug 22;10(1):3796. doi: 10.1038/s41467-019-11714-8.
+
+Cognitive control of complex motor behavior in marmoset monkeys.
+
+Pomberger T(1)(2), Risueno-Segovia C(1)(2), Gultekin YB(1)(2), Dohmen D(1)(2),
+Hage SR(3).
+
+Author information: 
+(1)Neurobiology of Vocal Communication, Werner Reichardt Centre for Integrative
+Neuroscience, University of Tübingen, Otfried-Müller-Str. 25, 72076, Tübingen,
+Germany.
+(2)Graduate School of Neural & Behavioural Sciences, International Max Planck
+Research School, University of Tübingen, Österberg-Str. 3, 72074, Tübingen,
+Germany.
+(3)Neurobiology of Vocal Communication, Werner Reichardt Centre for Integrative
+Neuroscience, University of Tübingen, Otfried-Müller-Str. 25, 72076, Tübingen,
+Germany. steffen.hage@uni-tuebingen.de.
+
+Erratum in
+    Nat Commun. 2019 Sep 26;10(1):4446.
+
+Marmosets have attracted significant interest in the life sciences. Similarities 
+with human brain anatomy and physiology, such as the granular frontal cortex, as 
+well as the development of transgenic lines and potential for transferring rodent
+neuroscientific techniques to small primates make them a promising
+neurodegenerative and neuropsychiatric model system. However, whether marmosets
+can exhibit complex motor tasks in highly controlled experimental designs-one of 
+the prerequisites for investigating higher-order control mechanisms underlying
+cognitive motor behavior-has not been demonstrated. We show that marmosets can be
+trained to perform vocal behavior in response to arbitrary visual cues in
+controlled operant conditioning tasks. Our results emphasize the marmoset as a
+suitable model to study complex motor behavior and the evolution of cognitive
+control underlying speech.
+
+DOI: 10.1038/s41467-019-11714-8 
+PMCID: PMC6706403
+PMID: 31439849  [Indexed for MEDLINE]
+
+
+447. Sci Rep. 2019 Aug 21;9(1):12219. doi: 10.1038/s41598-019-48489-3.
+
+atlasBREX: Automated template-derived brain extraction in animal MRI.
+
+Lohmeier J(1), Kaneko T(2), Hamm B(3), Makowski MR(3), Okano H(4)(5).
+
+Author information: 
+(1)Charité Universitätsmedizin Berlin, Radiology, Berlin, Germany.
+johannes.lohmeier@charite.de.
+(2)Center for Brain Science Institute, RIKEN, Marmoset Neural Architecture,
+Wako-shi, Saitama, Japan.
+(3)Charité Universitätsmedizin Berlin, Radiology, Berlin, Germany.
+(4)Center for Brain Science Institute, RIKEN, Marmoset Neural Architecture,
+Wako-shi, Saitama, Japan. hidokano@a2.keio.jp.
+(5)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+hidokano@a2.keio.jp.
+
+We proposed a generic template-derived approach for (semi-) automated brain
+extraction in animal MRI studies and evaluated our implementation with different 
+animal models (macaque, marmoset, rodent) and MRI protocols (T1, T2). While
+conventional MR-neuroimaging studies perform brain extraction as an initial step 
+priming subsequent image-registration from subject to template, our proposed
+approach propagates an anatomical template to (whole-head) individual subjects in
+reverse order, which is challenging due to the surrounding extracranial tissue,
+greater differences in contrast pattern and larger areas with field
+inhomogeneity. As a novel approach, the herein introduced brain extraction
+algorithm derives whole-brain segmentation using rigid and non-rigid deformation 
+based on unbiased anatomical atlas building with a priori estimates from
+study-cohort and an initial approximate brain extraction. We evaluated our
+proposed method in comparison to several other technical approaches including
+"Marker based watershed scalper", "Brain-Extraction-Tool", "3dSkullStrip",
+"Primatologist-Toolbox", "Rapid Automatic Tissue Segmentation" and "Robust
+automatic rodent brain extraction using 3D pulse-coupled neural networks" with
+manual skull-stripping as reference standard. ABX demonstrated best performance
+with accurate (≥92%) and consistent results throughout datasets and across
+species, age and MRI protocols. ABX was made available to the public with
+documentation, templates and sample material (
+https://www.github.com/jlohmeier/atlasBREX ).
+
+DOI: 10.1038/s41598-019-48489-3 
+PMCID: PMC6704255
+PMID: 31434923  [Indexed for MEDLINE]
+

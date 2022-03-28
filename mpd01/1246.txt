@@ -1,0 +1,80 @@
+
+
+1246. PLoS Comput Biol. 2015 Apr 16;11(4):e1004197. doi: 10.1371/journal.pcbi.1004197. 
+eCollection 2015 Apr.
+
+The role of inhibition in a computational model of an auditory cortical neuron
+during the encoding of temporal information.
+
+Bendor D(1).
+
+Author information: 
+(1)Institute of Behavioural Neuroscience, Department of Experimental Psychology, 
+University College London, London, United Kingdom.
+
+In auditory cortex, temporal information within a sound is represented by two
+complementary neural codes: a temporal representation based on stimulus-locked
+firing and a rate representation, where discharge rate co-varies with the timing 
+between acoustic events but lacks a stimulus-synchronized response. Using a
+computational neuronal model, we find that stimulus-locked responses are
+generated when sound-evoked excitation is combined with strong, delayed
+inhibition. In contrast to this, a non-synchronized rate representation is
+generated when the net excitation evoked by the sound is weak, which occurs when 
+excitation is coincident and balanced with inhibition. Using single-unit
+recordings from awake marmosets (Callithrix jacchus), we validate several model
+predictions, including differences in the temporal fidelity, discharge rates and 
+temporal dynamics of stimulus-evoked responses between neurons with rate and
+temporal representations. Together these data suggest that feedforward inhibition
+provides a parsimonious explanation of the neural coding dichotomy observed in
+auditory cortex.
+
+DOI: 10.1371/journal.pcbi.1004197 
+PMCID: PMC4400160
+PMID: 25879843  [Indexed for MEDLINE]
+
+
+1247. J Neurophysiol. 2015 Jun 1;113(10):3954-60. doi: 10.1152/jn.00197.2015. Epub 2015
+Apr 1.
+
+Motion dependence of smooth pursuit eye movements in the marmoset.
+
+Mitchell JF(1), Priebe NJ(2), Miller CT(3).
+
+Author information: 
+(1)Systems Neurobiology Lab, The Salk Institute, La Jolla, California; Brain and 
+Cognitive Sciences, The University of Rochester, Rochester, New York;
+jmitchell@bcs.rochester.edu.
+(2)Department of Neuroscience, The University of Texas at Austin, Austin, Texas; 
+and.
+(3)Department of Psychology and Neurosciences Graduate Program, The University of
+California at San Diego, La Jolla, California.
+
+Smooth pursuit eye movements stabilize slow-moving objects on the retina by
+matching eye velocity with target velocity. Two critical components are required 
+to generate smooth pursuit: first, because it is a voluntary eye movement, the
+subject must select a target to pursue to engage the tracking system; and second,
+generating smooth pursuit requires a moving stimulus. We examined whether this
+behavior also exists in the common marmoset, a New World primate that is
+increasingly attracting attention as a genetic model for mental disease and
+systems neuroscience. We measured smooth pursuit in two marmosets, previously
+trained to perform fixation tasks, using the standard Rashbass step-ramp pursuit 
+paradigm. We first measured the aspects of visual motion that drive pursuit eye
+movements. Smooth eye movements were in the same direction as target motion,
+indicating that pursuit was driven by target movement rather than by
+displacement. Both the open-loop acceleration and closed-loop eye velocity
+exhibited a linear relationship with target velocity for slow-moving targets, but
+this relationship declined for higher speeds. We next examined whether marmoset
+pursuit eye movements depend on an active engagement of the pursuit system by
+measuring smooth eye movements evoked by small perturbations of motion from
+fixation or during pursuit. Pursuit eye movements were much larger during pursuit
+than from fixation, indicating that pursuit is actively gated. Several practical 
+advantages of the marmoset brain, including the accessibility of the middle
+temporal (MT) area and frontal eye fields at the cortical surface, merit its
+utilization for studying pursuit movements.
+
+Copyright © 2015 the American Physiological Society.
+
+DOI: 10.1152/jn.00197.2015 
+PMCID: PMC4485767
+PMID: 25867740  [Indexed for MEDLINE]
+

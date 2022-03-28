@@ -1,0 +1,39 @@
+
+
+2066. Cloning Stem Cells. 2009 Dec;11(4):575-83. doi: 10.1089/clo.2009.0005.
+
+Preimplantation development of somatic cell cloned embryos in the common marmoset
+(Callithrix jacchus).
+
+Sotomaru Y(1), Hirakawa R, Shimada A, Shiozawa S, Sugawara A, Oiwa R, Nobukiyo A,
+Okano H, Tamaoki N, Nomura T, Hiyama E, Sasaki E.
+
+Author information: 
+(1)Natural Science Center for Basic Research and Development, Hiroshima
+University, Hiroshima, Hiroshima, Japan. sotomaru@hiroshima-u.ac.jp
+
+The somatic cell nuclear transfer technique has been applied to various mammals
+to produce cloned animals; however, a standardized method is not applicable to
+all species. We aimed here to develop optimum procedures for somatic cell cloning
+in nonhuman primates, using common marmosets. First, we confirmed that
+parthenogenetic activation of in vitro matured oocytes was successfully induced
+by electrical stimulation (three cycles of 150 V/mm, 50 microsec x 2, 20 min
+intervals), and this condition was applied to the egg activation procedure in the
+subsequent experiments. Next, nuclear transfer to recipient enucleated oocytes
+was performed 1 h before, immediately after, or 1 h after egg activation
+treatment. The highest developmental rate was observed when nuclear transfer was 
+performed 1 h before activation, but none of the cloned embryos developed beyond 
+the eight-cell stage. To investigate the causes of the low developmental
+potential of cloned embryos, a study was performed to determine whether the
+presence of metaphase II (MII) chromosome in recipient ooplasm has an effect on
+developmental potential. As a result, only tetraploid cloned embryos produced by 
+transferring a donor cell into a recipient bearing the MII chromosome developed
+into blastocysts (66.7%). In contrast, neither parthenogenetic embryos nor cloned
+embryos (whether diploid or tetraploid) produced using enucleated oocytes
+developed past the eight-cell stage. These results suggest that MII chromosome,
+or cytoplasm proximal to the MII chromosome, plays a major role in the
+development of cloned embryos in common marmosets.
+
+DOI: 10.1089/clo.2009.0005 
+PMID: 20025525  [Indexed for MEDLINE]
+

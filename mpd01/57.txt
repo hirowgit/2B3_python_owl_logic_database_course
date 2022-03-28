@@ -1,0 +1,196 @@
+
+
+57. Viruses. 2021 Sep 25;13(10). pii: 1933. doi: 10.3390/v13101933.
+
+Lack of Evidence of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) 
+Spillover in Free-Living Neotropical Non-Human Primates, Brazil.
+
+Sacchetto L(1), Chaves BA(2)(3)(4), Costa ER(2), de Menezes Medeiros AS(2), Gordo
+M(5), Araújo DB(6)(7), Oliveira DBL(6)(7)(8), da Silva APB(9), Negri AF(9),
+Durigon EL(6)(10), Hanley KA(11), Vasilakis N(12)(13)(14)(15)(16), de Lacerda
+MVG(2)(3)(17), Nogueira ML(1).
+
+Author information: 
+(1)Laboratório de Pesquisas em Virologia, Departamento de Doenças Dermatológicas,
+Infecciosas e Parasitárias, Faculdade de Medicina de São José do Rio Preto, São
+José do Rio Preto 15090-000, Brazil.
+(2)Instituto de Pesquisas Clínicas Carlos Borborema, Fundação de Medicina
+Tropical Doutor Heitor Vieria Dourado, Manaus 69040-000, Brazil.
+(3)Programa de Pós-Graduação em Medicina Tropical, Universidade do Estado do
+Amazonas, Manaus 69040-000, Brazil.
+(4)Programa de Pós-Graduação em Ciências da Saúde, Universidade Federal do
+Amazonas, Manaus 69020-160, Brazil.
+(5)Laboratório de Biologia da Conservação, Projeto Sauim-de-Coleira, Instituto de
+Ciências Biológicas, Universidade Federal do Amazonas, PPGZOO, PPGCASA, CAPES
+(Coordenação de Aperfeiçoamento de Pessoal de Nível Superior), Manaus 69080-900, 
+Brazil.
+(6)Departamento de Microbiologia, Instituto de Ciências Biomédicas, Universidade 
+de São Paulo, São Paulo 05508-000, Brazil.
+(7)Hospital Israelita Albert Einstein, São Paulo 05652-900, Brazil.
+(8)Centro de Inovação e Desenvolvimento, Instituto Butantã, São Paulo 05503-900, 
+Brazil.
+(9)Departamento de Vigilância Epidemiológica de São José do Rio Preto, São José
+do Rio Preto 15084-010, Brazil.
+(10)Plataforma Científica Pasteur, Universidade de São Paulo, São Paulo
+05508-020, Brazil.
+(11)Department of Biology, New Mexico State University, Las Cruces, NM 88003,
+USA.
+(12)Department of Pathology, The University of Texas Medical Branch, Galveston,
+TX 77555, USA.
+(13)Sealy Center for Vector-Borne and Zoonotic Diseases, University of Texas
+Medical Branch, Galveston, TX 77555, USA.
+(14)Center for Biodefense and Emerging Infectious Diseases, University of Texas
+Medical Branch, Galveston, TX 77555, USA.
+(15)Center for Tropical Diseases, University of Texas Medical Branch, Galveston, 
+TX 77555, USA.
+(16)Institute for Human Infection and Immunity, University of Texas Medical
+Branch, Galveston, TX 77555, USA.
+(17)Instituto Leônidas e Maria Deane, Fiocruz, Manaus 69057-070, Brazil.
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the agent of
+coronavirus disease 2019 (COVID-19), is responsible for the worst pandemic of the
+21st century. Like all human coronaviruses, SARS-CoV-2 originated in a wildlife
+reservoir, most likely from bats. As SARS-CoV-2 has spread across the globe in
+humans, it has spilled over to infect a variety of non-human animal species in
+domestic, farm, and zoo settings. Additionally, a broad range of species,
+including one neotropical monkey, have proven to be susceptible to experimental
+infection with SARS-CoV-2. Together, these findings raise the specter of
+establishment of novel enzootic cycles of SARS-CoV-2. To assess the potential
+exposure of free-living non-human primates to SARS-CoV-2, we sampled 60
+neotropical monkeys living in proximity to Manaus and São José do Rio Preto, two 
+hotspots for COVID-19 in Brazil. Our molecular and serological tests detected no 
+evidence of SAR-CoV-2 infection among these populations. While this result is
+reassuring, sustained surveillance efforts of wildlife living in close
+association with human populations is warranted, given the stochastic nature of
+spillover events and the enormous implications of SARS-CoV-2 spillover for human 
+health.
+
+DOI: 10.3390/v13101933 
+PMCID: PMC8540180
+PMID: 34696363  [Indexed for MEDLINE]
+
+
+58. Elife. 2021 Oct 19;10. pii: e64175. doi: 10.7554/eLife.64175.
+
+scAAVengr, a transcriptome-based pipeline for quantitative ranking of engineered 
+AAVs with single-cell resolution.
+
+Öztürk BE(1), Johnson ME(1), Kleyman M(2), Turunç S(1), He J(3), Jabalameli S(1),
+Xi Z(1)(4), Visel M(5), Dufour VL(6), Iwabe S(6), Pompeo Marinho LFL(6), Aguirre 
+GD(6), Sahel JA(1), Schaffer DV(5)(7), Pfenning AR(2), Flannery JG(5)(8), Beltran
+WA(6), Stauffer WR(3), Byrne LC(1)(3)(6)(9).
+
+Author information: 
+(1)Department of Ophthalmology, University of Pittsburgh, Pittsburgh, United
+States.
+(2)Computational Biology, School of Computer Science, Carnegie Mellon University,
+Pittsburgh, United States.
+(3)Department of Neurobiology, University of Pittsburgh, Pittsburgh, United
+States.
+(4)Eye Center of Xiangya Hospital, Hunan Key Laboratory of Ophthalmology, Central
+South University, Changsha, China.
+(5)Helen Wills Neuroscience Institute, University of California, Berkeley,
+Berkeley, United States.
+(6)Division of Experimental Retinal Therapies, Department of Clinical Sciences & 
+Advanced Medicine, School of Veterinary Medicine, University of Pennsylvania,
+Philadelphia, United States.
+(7)Chemical Engineering, University of California, Berkeley, Berkeley, United
+States.
+(8)Vision Science, Herbert Wertheim School of Optometry, University of California
+Berkeley, Berkeley, United States.
+(9)Department of Bioengineering, University of Pittsburgh, Pittsburgh, United
+States.
+
+Background: Adeno-associated virus (AAV)-mediated gene therapies are rapidly
+advancing to the clinic, and AAV engineering has resulted in vectors with
+increased ability to deliver therapeutic genes. Although the choice of vector is 
+critical, quantitative comparison of AAVs, especially in large animals, remains
+challenging.
+Methods: Here, we developed an efficient single-cell AAV engineering pipeline
+(scAAVengr) to simultaneously quantify and rank efficiency of competing AAV
+vectors across all cell types in the same animal.
+Results: To demonstrate proof-of-concept for the scAAVengr workflow, we
+quantified - with cell-type resolution - the abilities of naturally occurring and
+newly engineered AAVs to mediate gene expression in primate retina following
+intravitreal injection. A top performing variant identified using this pipeline, 
+K912, was used to deliver SaCas9 and edit the rhodopsin gene in macaque retina,
+resulting in editing efficiency similar to infection rates detected by the
+scAAVengr workflow. scAAVengr was then used to identify top-performing AAV
+variants in mouse brain, heart, and liver following systemic injection.
+Conclusions: These results validate scAAVengr as a powerful method for
+development of AAV vectors.
+Funding: This work was supported by funding from the Ford Foundation, NEI/NIH,
+Research to Prevent Blindness, Foundation Fighting Blindness, UPMC Immune
+Transplant and Therapy Center, and the Van Sloun fund for canine genetic
+research.
+
+plain-language-summary: Gene therapy is an experimental approach to treating
+disease that involves altering faulty genes or replacing them with new, working
+copies. Most often, the new genetic material is delivered into cells using a
+modified virus that no longer causes disease, called a viral vector.
+Virus-mediated gene therapies are currently being explored for degenerative eye
+diseases, such as retinitis pigmentosa, and neurological disorders, like
+Alzheimer’s and Parkinson’s disease. A number of gene therapies have also been
+approved for treating some rare cancers, blood disorders and a childhood form of 
+motor neuron disease. Despite the promise of virus-mediated gene therapy, there
+are significant hurdles to its widespread success. Viral vectors need to deliver 
+enough genetic material to the right cells without triggering an immune response 
+or causing serious side effects. Selecting an optimal vector is key to achieving 
+this. A type of viruses called adeno-associated viruses (AAV) are prime
+candidates, partly because they can be easily engineered. However, accurately
+comparing the safety and efficacy of newly engineered AAVs is difficult, due to
+variation between test subjects and the labor and cost involved in careful
+testing. Öztürk et al. addressed this issue by developing an experimental
+pipeline called scAAVengr for comparing gene therapy vectors head-to-head. The
+process involves tagging potential AAV vectors with unique genetic barcodes,
+which can then be detected and quantified in individual cells using a technique
+called single-cell RNA sequencing. This means that when several vectors are used 
+to infect lab-grown cells or a test animal at the same time, they can be tracked.
+The vectors can then be ranked on their ability to infect specific cell types and
+deliver useful genetic material. Using scAAVengr, Öztürk et al. compared viral
+vectors designed to target the light-sensitive cells of the retina, which allow
+animals to see. First, a set of promising viral vectors were evaluated using the 
+scAAVengr pipeline in the eyes of marmosets and macaques, two small primates.
+Precise levels and locations of gene delivery were quantified. The top-performing
+vector was then identified and used to deliver Cas9, a genome editing tool, to
+primate retinas. Öztürk et al. also used scAAVengr to compare viral vectors in
+mice, analysing the vectors’ ability to deliver their genetic cargo to the brain,
+heart, and liver. These experiments demonstrated that scAAVengr can be used to
+evaluate vectors in multiple tissues and in different organisms. In summary, this
+work outlines a method for identifying and precisely quantifying the performance 
+of top-performing viral vectors for gene therapy. By aiding the selection of
+optimal viral vectors, the scAAVengr pipeline could help to improve the success
+of preclinical studies and early clinical trials testing gene therapies.
+© 2021, Öztürk et al.
+
+DOI: 10.7554/eLife.64175 
+PMCID: PMC8612735
+PMID: 34664552  [Indexed for MEDLINE]
+
+Conflict of interest statement: BÖ, MJ, MK, ST, JH, SJ, ZX, VD, SI, LP, GA No
+competing interests declared, MV is an inventor on AAV capsid variants (US patent
+IDs: 10,214,785, 10,745,453). MV has also received royalty payments from UC
+Berkeley. The author has no other competing interests to declare, JS has served
+as a consultant (with no consulting fee) for Pixium Vision, GenSight Biologics
+and SparingVision. Personal financial interests: Pixium Vision, GenSight
+Biologics, Prophesee and Chronolife, SparingVision, SHARPEYE, Vegavect, Newsight 
+Therapeutics. The author has no other competing interests to declare, DS is named
+as an inventor on patent applications on AAV capsid variants (U.S. Patent
+Applications No. 16/315,032, 16/486,681). DS is also a co-founder of 4D Molecular
+Therapeutics, and DS performs consultancy and owns stock options in this company.
+The author has no other competing interests to declare, AP has received an
+honorarium from the University of Rhode Island, and has applied for patents on
+specific Nuclear-Anchored Independent Labeling System (PCT/US2020/038520 and
+PCT/US2020/038528). The author has no other competing interests to declare, JF is
+an inventor on patent application on AAV capsid variants (U.S. Patent Application
+No. 16/315,032, 16/486,681). The author has no other competing interests to
+declare, WB is an inventor on patent application on AAV capsid
+variants(16/315,032). The author has no other competing interests to declare, WS 
+is an inventor on a patent application for methods of AAV capsid development
+(PCT/US2019/068489). The author has no other competing interests to declare, LB
+is named as an inventor on patent applications on AAV capsid variants and AAV
+screening methods (U.S. Patent Applications No. 16/315,032, 16/486,681,
+PCT/US2019/068489). LB has consulted on AAV-mediated gene therapy for Vedere
+Therapeutics, and is a named founder of Vegavect and Newsight Therapeutics. The
+author has no other competing interests to declare
+

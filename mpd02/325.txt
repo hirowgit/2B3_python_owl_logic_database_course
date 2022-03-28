@@ -1,0 +1,50 @@
+
+
+325. Anim Sci J. 2020 Jan-Dec;91(1):e13366. doi: 10.1111/asj.13366.
+
+Comparison of the fecal microbiota of two monogastric herbivorous and five
+omnivorous mammals.
+
+Kobayashi R(1), Nagaoka K(2), Nishimura N(3), Koike S(4), Takahashi E(5), Niimi
+K(5), Murase H(6), Kinjo T(7), Tsukahara T(8), Inoue R(1).
+
+Author information: 
+(1)Laboratory of Animal Science, Kyoto Prefectural University, Kyoto, Japan.
+(2)Laboratory of Veterinary Physiology, Tokyo University of Agriculture and
+Technology, Fuchu, Japan.
+(3)College of Agriculture, Academic Institute, Shizuoka University, Shizuoka,
+Japan.
+(4)Research Faculty of Agriculture, Hokkaido University, Sapporo, Japan.
+(5)Research Resources Division, RIKEN Center for Brain Science, Wako, Japan.
+(6)Japan Racing Association, Hidaka Training and Research Center, Urakawa-cho,
+Japan.
+(7)Okinawa Zoo and Museum, Okinawa Zoo Animal Hospital, Okinawa, Japan.
+(8)Kyoto Institute of Nutrition and Pathology, Ujitawara-cho, Japan.
+
+Fecal microbiota in seven different monogastric animal species, elephant, horse, 
+human, marmoset, mouse, pig and, rat were compared using the same analytical
+protocol of 16S rRNA metagenome. Fecal microbiota in herbivores showed higher
+alpha diversity than omnivores except for pigs. Additionally, principal
+coordinate analysis based on weighted UniFrac distance demonstrated that
+herbivores and pigs clustered together, whereas other animal species were
+separately aggregated. In view of butyrate- and lactate-producing bacteria,
+predominant genera were different depending on animal species. For example, the
+abundance of Faecalibacterium, a known butyrate producer, was 8.02% ± 3.22% in
+human while it was less than 1% in other animal species. Additionally,
+Bifidobacterium was a predominant lactate producer in human and marmoset, while
+it was rarely detected in other omnivores. The abundance of lactate-producing
+bacteria in herbivores was notably lower than omnivores. On the other hand,
+herbivores as well as pig possess Fibrobacter, a cellulolytic bacterium. This
+study demonstrated that fecal microbiota in herbivorous animals is similar,
+sharing some common features such as higher alpha diversity and higher abundance 
+of cellulolytic bacterium. On the other hand, omnivorous animals seem to possess 
+unique fecal microbiota. It is of interest that pigs, although omnivore, have
+fecal microbiota showing some common features with herbivores.
+
+© 2020 The Authors. Animal Science Journal published by John Wiley & Sons
+Australia, Ltd on behalf of Japanese Society of Animal Science.
+
+DOI: 10.1111/asj.13366 
+PMCID: PMC7216987
+PMID: 32285557  [Indexed for MEDLINE]
+

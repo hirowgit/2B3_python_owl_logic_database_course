@@ -1,0 +1,71 @@
+
+
+1875. J Neurophysiol. 2011 Aug;106(2):849-59. doi: 10.1152/jn.00559.2010. Epub 2011 May
+25.
+
+Fine frequency tuning in monkey auditory cortex and thalamus.
+
+Bartlett EL(1), Sadagopan S, Wang X.
+
+Author information: 
+(1)Department of Biomedical Engineering, Johns Hopkins University, 720 Rutland
+Ave., Traylor 410, Baltimore, MD 21205, USA.
+
+The frequency resolution of neurons throughout the ascending auditory pathway is 
+important for understanding how sounds are processed. In many animal studies, the
+frequency tuning widths are about 1/5th octave wide in auditory nerve fibers and 
+much wider in auditory cortex neurons. Psychophysical studies show that humans
+are capable of discriminating far finer frequency differences. A recent study
+suggested that this is perhaps attributable to fine frequency tuning of neurons
+in human auditory cortex (Bitterman Y, Mukamel R, Malach R, Fried I, Nelken I.
+Nature 451: 197-201, 2008). We investigated whether such fine frequency tuning
+was restricted to human auditory cortex by examining the frequency tuning width
+in the awake common marmoset monkey. We show that 27% of neurons in the primary
+auditory cortex exhibit frequency tuning that is finer than the typical frequency
+tuning of the auditory nerve and substantially finer than previously reported
+cortical data obtained from anesthetized animals. Fine frequency tuning is also
+present in 76% of neurons of the auditory thalamus in awake marmosets. Frequency 
+tuning was narrower during the sustained response compared to the onset response 
+in auditory cortex neurons but not in thalamic neurons, suggesting that
+thalamocortical or intracortical dynamics shape time-dependent frequency tuning
+in cortex. These findings challenge the notion that the fine frequency tuning of 
+auditory cortex is unique to human auditory cortex and that it is a de novo
+cortical property, suggesting that the broader tuning observed in previous animal
+studies may arise from the use of anesthesia during physiological recordings or
+from species differences.
+
+DOI: 10.1152/jn.00559.2010 
+PMCID: PMC3154823
+PMID: 21613589  [Indexed for MEDLINE]
+
+
+1876. Ann N Y Acad Sci. 2011 May;1225 Suppl 1:E171-81. doi:
+10.1111/j.1749-6632.2011.06000.x.
+
+Visualizing myeloarchitecture with magnetic resonance imaging in primates.
+
+Bock NA(1), Hashim E, Kocharyan A, Silva AC.
+
+Author information: 
+(1)Medical Physics and Applied Radiation Sciences, McMaster University, Hamilton,
+Ontario, Canada. bockn@mcmaster.ca
+
+The pattern of myelination over the cerebral cortex, termed myeloarchitecture, is
+an established and often-used feature to visualize cortical organization with
+histology in a variety of primate species. In this paper, we use in vivo magnetic
+resonance imaging (MRI) and advanced image processing using surface rendering to 
+visualize and characterize myeloarchitecture in a small nonhuman primate, the
+common marmoset (Callithrix jacchus). Through images made in four female adult
+marmosets, we produce a representative 3D map of marmoset myeloarchitecture and
+flatten and annotate this map to show the location and extent of a variety of
+major areas of the cortex, including the primary visual, auditory, and
+somatosensory areas. By treating our MRI data as a surface, we can measure the
+surface area of cortical areas, and we present these measurements here to
+summarize cortical organization in the marmoset.
+
+© 2011 New York Academy of Sciences. No claim to original U.S. Government works.
+
+DOI: 10.1111/j.1749-6632.2011.06000.x 
+PMCID: PMC5027904
+PMID: 21599695  [Indexed for MEDLINE]
+

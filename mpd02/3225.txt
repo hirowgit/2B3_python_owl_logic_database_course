@@ -1,0 +1,38 @@
+
+
+3225. Brain Res. 2001 Jan 5;888(1):34-50.
+
+Visual discrimination learning impairments produced by combined transections of
+the anterior temporal stem, amygdala and fornix in marmoset monkeys.
+
+Maclean CJ(1), Gaffan D, Baker HF, Ridley RM.
+
+Author information: 
+(1)Department of Experimental Psychology, Downing Street, CB2 3EB, Cambridge, UK.
+
+Marmoset monkeys (Callithrix jacchus) with bilateral transections of the anterior
+temporal stem, amygdala and fornix were unable to relearn a 2-choice object
+discrimination first learnt prior to surgery, and were very severely impaired at 
+relearning a concurrent object discrimination task which they had learnt and
+relearnt prior to surgery, indicating that they had a dense retrograde amnesia.
+They also had difficulty learning new visual object discriminations but were only
+mildly impaired on spatial learning. When tested on new learning of concurrent
+discriminations 8 to 10 weeks after surgery, three operated monkeys were unable
+to reach criterion in 400 trials while the remaining two operated monkeys
+performed within the normal range. The operated monkeys were subsequently shown
+to be impaired on acquisition of shape discriminations using black objects. These
+anterograde effects suggest that the impairment runs mainly in the domain of
+visual analysis. The monkeys also exhibited many of the features of the
+Klüver-Bucy syndrome. Histological analysis indicated that in addition to cutting
+some of the subcortical temporal lobe efferent pathways, the surgical procedures 
+had cut the cholinergic afferents to the temporal neocortex, entorhinal cortex,
+and hippocampus. In a second experiment we found that treatment with the
+cholinergic agonist pilocarpine, which is effective in monkeys with specific
+cholinergic lesions, was unable to remediate the lesion-induced impairments. This
+suggests that transection of the non-cholinergic afferents, or the temporal lobe 
+subcortical efferents, contributed to the behavioural syndrome and the learning
+and retention deficits seen in these monkeys.
+
+DOI: 10.1016/s0006-8993(00)02998-x 
+PMID: 11146050  [Indexed for MEDLINE]
+

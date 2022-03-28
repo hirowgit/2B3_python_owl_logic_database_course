@@ -1,0 +1,79 @@
+
+
+2103. Neurosci Res. 2009 Dec;65(4):384-92. doi: 10.1016/j.neures.2009.08.016. Epub 2009
+Sep 6.
+
+Transplantation of dendritic cells promotes functional recovery from spinal cord 
+injury in common marmoset.
+
+Yaguchi M(1), Tabuse M, Ohta S, Ohkusu-Tsukada K, Takeuchi T, Yamane J, Katoh H, 
+Nakamura M, Matsuzaki Y, Yamada M, Itoh T, Nomura T, Toyama Y, Okano H, Toda M.
+
+Author information: 
+(1)Neuroimmunology Research Group, Keio University School of Medicine, Tokyo
+160-8582, Japan.
+
+We previously reported that implantation of dendritic cells (DCs) into the
+injured site activates neural stem/progenitor cells (NSPCs) and promotes
+functional recovery after spinal cord injury (SCI) in mice. Working toward
+clinical application of DC therapy for SCI, we analyzed whether DCs promote
+functional recovery after SCI in a non-human primate, the common marmoset (CM).
+CMs are usually born as dizygotic twins. They are thus natural bone marrow and
+peripheral blood chimeras due to sharing of the placental circulation between
+dizygotic twins, leading to functional immune tolerance. In this study, to
+identify adequate CM donor-and-host pairs, mixed leukocyte reaction (MLR) assays 
+were performed. Then, CM-DCs were generated from the bone marrow of the twin
+selected to be donor and transplanted into the injured site of the spinal cord of
+the other twin selected to be host, 7 days after injury. Histological analyses
+revealed fewer areas of demyelination around the injured site in DC-treated CMs
+than in controls. Immunohistochemical analysis showed that more motor neurons and
+corticospinal tracts were preserved after SCI in DC-treated CMs. Motor functions 
+were evaluated using three different behavior tests and earlier functional
+recovery was observed in DC-treated CMs. These results suggest DC therapy to
+possibly be beneficial in primates with SCI and that this treatment has potential
+for clinical application.
+
+DOI: 10.1016/j.neures.2009.08.016 
+PMID: 19737583  [Indexed for MEDLINE]
+
+
+2104. J Neurosci Methods. 2009 Dec 15;185(1):15-22. doi:
+10.1016/j.jneumeth.2009.08.022. Epub 2009 Sep 6.
+
+Visualizing the entire cortical myelination pattern in marmosets with magnetic
+resonance imaging.
+
+Bock NA(1), Kocharyan A, Liu JV, Silva AC.
+
+Author information: 
+(1)Cerebral Microcirculation Unit, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD 20892-1065, USA. bockn@mcmaster.ca
+
+Myeloarchitecture, the pattern of myelin density across the cerebral cortex, has 
+long been visualized in histological sections to identify distinct anatomical
+areas of the cortex. In humans, two-dimensional (2D) magnetic resonance imaging
+(MRI) has been used to visualize myeloarchitecture in select areas of the cortex,
+such as the stripe of Gennari in the primary visual cortex and Heschl's gyrus in 
+the primary auditory cortex. Here, we investigated the use of MRI contrast based 
+on longitudinal relaxation time (T(1)) to visualize myeloarchitecture in vivo
+over the entire cortex of the common marmoset (Callithrix jacchus), a small
+non-human primate that is becoming increasingly important in neuroscience and
+neurobiology research. Using quantitative T(1) mapping, we found that T(1) at 7T 
+in a cortical region with a high myelin content was 15% shorter than T(1) in a
+region with a low myelin content. To maximize this T(1) contrast for imaging
+cortical myelination patterns, we optimized a magnetization-prepared rapidly
+acquired gradient echo (MP-RAGE) sequence. In whole-brain, 3D T(1)-weighted
+images made in vivo with the sequence, we identified six major cortical areas
+with high myelination and confirmed the results with histological sections
+stained for myelin. We also identified several subtle features of
+myeloarchitecture, showing the sensitivity of our technique. The ability to image
+myeloarchitecture over the entire cortex may prove useful in studies of
+longitudinal changes of the topography of the cortex associated with development 
+and neuronal plasticity, as well as for guiding and confirming the location of
+functional measurements.
+
+DOI: 10.1016/j.jneumeth.2009.08.022 
+PMCID: PMC2783340
+PMID: 19737577  [Indexed for MEDLINE]
+

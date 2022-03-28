@@ -1,0 +1,45 @@
+
+
+1431. J Neurophysiol. 2014 Jun 15;111(12):2624-33. doi: 10.1152/jn.00885.2013. Epub
+2014 Mar 26.
+
+Alignment of sound localization cues in the nucleus of the brachium of the
+inferior colliculus.
+
+Slee SJ(1), Young ED(2).
+
+Author information: 
+(1)Oregon Hearing Research Center, Oregon Health and Science University,
+Portland, Oregon; and Biomedical Engineering Department, Johns Hopkins
+University, Baltimore, Maryland slee@ohsu.edu.
+(2)Biomedical Engineering Department, Johns Hopkins University, Baltimore,
+Maryland.
+
+Accurate sound localization is based on three acoustic cues (interaural time and 
+intensity difference and spectral cues from directional filtering by the pinna). 
+In natural listening conditions, every spatial position of a sound source
+provides a unique combination of these three cues in "natural alignment."
+Although neurons in the central nucleus (ICC) of the inferior colliculus (IC) are
+sensitive to multiple cues, they do not favor their natural spatial alignment. We
+tested for sensitivity to cue alignment in the nucleus of the brachium of the IC 
+(BIN) in unanesthetized marmoset monkeys. The BIN receives its predominant
+auditory input from ICC and projects to the topographic auditory space map in the
+superior colliculus. Sound localization cues measured in each monkey were used to
+synthesize broadband stimuli with aligned and misaligned cues; spike responses to
+these stimuli were recorded in the BIN. We computed mutual information (MI)
+between the set of spike rates and the stimuli containing either aligned or
+misaligned cues. The results can be summarized as follows: 1) BIN neurons encode 
+more information about auditory space when cues are aligned compared with
+misaligned. 2) Significantly more units prefer aligned cues in the BIN than in
+ICC. 3) An additive model based on summing the responses to stimuli with the
+localization cues varying individually accurately predicts the alignment
+preference with all cues varying. Overall, the results suggest that the BIN is
+the first site in the ascending mammalian auditory system that is tuned to
+natural combinations of sound localization cues.
+
+Copyright © 2014 the American Physiological Society.
+
+DOI: 10.1152/jn.00885.2013 
+PMCID: PMC4044433
+PMID: 24671535  [Indexed for MEDLINE]
+

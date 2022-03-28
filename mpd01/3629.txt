@@ -1,0 +1,71 @@
+
+
+3629. Vision Res. 1997 Oct;37(19):2649-60.
+
+Temporal properties of marmoset lateral geniculate cells.
+
+Kremers J(1), Weiss S, Zrenner E.
+
+Author information: 
+(1)Department of Experimental Ophthalmology, University of Tübingen Eye Hospital,
+Germany. jan.kremers@uni-tuebingen.de
+
+We measured the temporal modulation transfer functions (TMTFs) of cells in the
+marmoset lateral geniculate nucleus (LGN) at three different luminance levels,
+and described the responses with a linear model. It was found that qualitatively 
+there are many similarities with the temporal response properties of macaque and 
+marmoset retinal ganglion cells. M-cells displayed stronger attenuation at lower 
+temporal frequencies, and showed more nonlinearities (such as saturation and a
+contrast gain control) than P-cells. We therefore propose that the temporal
+properties of the visual system of New and Old World monkeys are similar at least
+up to the LGN. However, there are some quantitative differences, indicating that 
+response alterations take place at the stage of synaptic transmission in the LGN.
+The most important are an attenuation of the responses to higher temporal
+frequencies and the smaller differences between parvo- and magnocellular cell
+responsivities. Cell responses to square-wave modulation were also measured and
+compared with predictions from a linear systems analysis. The linear systems
+analysis gave reasonable predicted responses to square-wave modulation, but these
+predictions were poor than those for retinal ganglion cells, indicating that
+additional nonlinearities are introduced at the synaptic transition in the LGN.
+
+DOI: 10.1016/s0042-6989(97)00090-4 
+PMID: 9373665  [Indexed for MEDLINE]
+
+
+3630. J Virol. 1997 Dec;71(12):9124-33.
+
+The superantigen-homologous viral immediate-early gene ie14/vsag in herpesvirus
+saimiri-transformed human T cells.
+
+Knappe A(1), Hiller C, Thurau M, Wittmann S, Hofmann H, Fleckenstein B,
+Fickenscher H.
+
+Author information: 
+(1)Institut für Klinische und Molekulare Virologie,
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany.
+
+Herpesvirus saimiri C488 transforms human T lymphocytes to stable growth in
+culture. The growth-transformed human T cells harbor the viral genome in a
+nonintegrated episomal form without production of virus particles. In these
+cells, virus gene expression was previously found to be confined to the
+transforming genes stpC and tip. In order to analyze virus gene expression in
+more detail, we applied a subtractive hybridization technique and compared
+stimulated virus-transformed cells with uninfected parental T cells of the same
+donor. A number of known T-cell activation genes were isolated. Viral stpC/tip
+cDNAs were enriched after subtraction. In addition, the viral immediate-early,
+superantigen-homologous gene ie14/vsag was represented by numerous cDNA clones
+that comprised the entire spliced transcript. Whereas a weak basal expression of 
+ie14/vsag was detected by reverse transcription-PCR only, the phorbol
+ester-induced transcripts were readily shown by Northern blotting. ie14/vsag,
+which before had been classified as a major immediate-early gene of herpesvirus
+saimiri, is localized within a highly conserved region with extensive homologies 
+to the cellular genome. Mutant viruses without the ie14/vsag gene are replication
+competent and fully capable of transforming human and marmoset T cells. Since
+ie14/vsag is transiently expressed after stimulation, it may increase T-cell
+proliferation in an activation-dependent and superantigen-like but apparently
+Vbeta-independent way.
+
+DOI: 10.1128/JVI.71.12.9124-9133.1997 
+PMCID: PMC230213
+PMID: 9371569  [Indexed for MEDLINE]
+

@@ -1,0 +1,46 @@
+
+
+554. Sci Rep. 2019 Feb 6;9(1):1528. doi: 10.1038/s41598-018-37990-w.
+
+Robust and efficient knock-in in embryonic stem cells and early-stage embryos of 
+the common marmoset using the CRISPR-Cas9 system.
+
+Yoshimatsu S(1)(2), Okahara J(3)(4), Sone T(1), Takeda Y(3), Nakamura M(1),
+Sasaki E(4), Kishi N(3), Shiozawa S(5)(6), Okano H(7)(8).
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, Shinjuku-ku,
+Tokyo, 160-8582, Japan.
+(2)Laboratory for Proteolytic Neuroscience, RIKEN Center for Brain Science, Wako 
+City, Saitama, 351-0198, Japan.
+(3)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako City, Saitama, 351-0198, Japan.
+(4)Central Institute for Experimental Animals, Kawasaki, Kanagawa, 210-0821,
+Japan.
+(5)Department of Physiology, School of Medicine, Keio University, Shinjuku-ku,
+Tokyo, 160-8582, Japan. shiozawa@a7.keio.jp.
+(6)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako City, Saitama, 351-0198, Japan. shiozawa@a7.keio.jp.
+(7)Department of Physiology, School of Medicine, Keio University, Shinjuku-ku,
+Tokyo, 160-8582, Japan. hidokano@a2.keio.jp.
+(8)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako City, Saitama, 351-0198, Japan. hidokano@a2.keio.jp.
+
+Genome editing technology greatly facilitates the genetic modification of various
+cells and animals. The common marmoset (Callithrix jacchus), a small non-human
+primate which exhibits high reproductive efficiency, is a widely used animal
+model in biomedical research. Developing genome editing techniques in the common 
+marmoset will further enhance its utility. Here, we report the successful
+establishment of a knock-in (KI) method for marmoset embryonic stem cells (ESCs),
+which is based on the CRISPR-Cas9 system. The use of CRISPR-Cas9, mediated by
+homologous recombination (HR), enhanced the KI efficiency in marmoset ESCs.
+Furthermore, we succeeded in performing KI in early-stage marmoset embryos. In
+the course of the experiments, we found that HR in the marmoset ESCs is innately 
+highly efficient. This suggested that the marmoset possesses a repair mechanism
+for DNA double-strand breaks. The current study will facilitate the generation of
+genetically modified marmosets and gene function analysis in the marmoset.
+
+DOI: 10.1038/s41598-018-37990-w 
+PMCID: PMC6365532
+PMID: 30728412  [Indexed for MEDLINE]
+

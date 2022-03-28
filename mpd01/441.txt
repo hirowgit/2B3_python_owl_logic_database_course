@@ -1,0 +1,104 @@
+
+
+441. J Neural Eng. 2020 Jan 14;17(1):016031. doi: 10.1088/1741-2552/ab4104.
+
+Spinal cord neural interfacing in common marmosets (Callithrix jacchus).
+
+Prins NW(1), Mylavarapu R, Shoup AM, Debnath S, Prasad A.
+
+Author information: 
+(1)Department of Biomedical Engineering, University of Miami, 1251 Memorial Dr,
+MEA 203, Coral Gables, FL 33146, United States of America.
+
+OBJECTIVE: Spinal cord injury remains an ailment with no comprehensive cure, and 
+affected patients suffer from a greatly diminished quality of life. This large
+population could significantly benefit from prosthetic technologies to replace
+missing limbs, reanimate nonfunctional limbs, and enable new modes of
+technologies to restore muscle control and function. While cortically driven
+brain machine interfaces have achieved great success in interfacing with an
+external device to restore lost functions, interfacing with the spinal cord can
+provide an additional site to record motor control signals, which can have its
+own advantages, despite challenges from using a smaller non-human primate (NHP)
+model. The goal of this study is to develop such a spinal cord neural interface
+to record motor signals from the high cervical levels of the spinal cord in a
+common marmoset (Callithrix jacchus) model. Approach and main results. Detailed
+methods are discussed for this smaller NHP model that includes behavioral
+training, surgical methods for electrode placement, connector placement and wire 
+handling, electrode specifications and modifications for accessing high cervical 
+level interneurons and motorneurons. The study also discusses the methods and
+challenges involved in behavioral multi-channel extracellular recording from the 
+marmoset spinal cord, including the major recording failure mechanisms
+encountered during the study.
+SIGNIFICANCE: Marmosets provide a good step between rodent and larger NHP models 
+due to their small size, ease of handling, cognitive abilities, and similarities 
+to other primate motor systems. The study shows the feasibility of recording
+spinal cord signals and using marmosets as a smaller NHP model in behavioral
+neuroscience studies. Interfacing with the spinal cord in chronically implanted
+animals can provide useful information about how motor control signals within the
+spinal cord are transformed to cause limb movements.
+
+DOI: 10.1088/1741-2552/ab4104 
+PMCID: PMC6960332
+PMID: 31480029  [Indexed for MEDLINE]
+
+
+442. Neuroimage. 2019 Nov 15;202:116147. doi: 10.1016/j.neuroimage.2019.116147. Epub
+2019 Aug 31.
+
+Task-based fMRI of a free-viewing visuo-saccadic network in the marmoset monkey.
+
+Schaeffer DJ(1), Gilbert KM(2), Hori Y(2), Hayrynen LK(2), Johnston KD(3), Gati
+JS(2), Menon RS(4), Everling S(5).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada. Electronic address:
+dschaeff@uwo.ca.
+(2)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada.
+(3)Department of Physiology and Pharmacology, University of Western Ontario,
+London, Ontario, Canada.
+(4)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada; Department of Physiology 
+and Pharmacology, University of Western Ontario, London, Ontario, Canada.
+(5)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada; Department of Physiology 
+and Pharmacology, University of Western Ontario, London, Ontario, Canada.
+Electronic address: severling@uwo.ca.
+
+Saccadic tasks are often used to index aberrations of cognitive function in
+patient populations, with several neuropsychiatric and neurologic disorders
+characterized by saccadic dysfunction. The common marmoset (Callithrix jacchus)
+has received recent attention as an additional primate model for studying the
+neural basis of these dysfunctions - marmosets are amenable to a host of genetic 
+manipulation techniques and have a lissencephalic cortex, which is well suited
+for a variety of recording techniques (e.g., calcium imaging, laminar
+electrophysiology). Because the marmoset cortex is mostly lissencephalic,
+however, the locations of frontal saccade-related regions (e.g., frontal eye
+fields (FEF)) are less readily identified than in Old World macaque monkeys.
+Further, although high quality histology-based atlases do exist for marmosets,
+identifying these regions based on histology alone is not always accurate, with
+the cytoarchitectonic boundaries often inconsonant with functional boundaries. As
+such, there is a need to map the functional location of these regions directly.
+Task-based functional magnetic resonance imaging (fMRI) is of utility in this
+regard, allowing for detection of whole-brain signal changes in response to
+moving stimuli. Here, we conducted task-based fMRI in marmosets at ultra-high
+field (9.4 T) during a free-viewing visuo-saccadic task. We also conducted the
+same task in humans at ultra-high field (7 T) to validate that our simple task
+was indeed evoking the visuo-saccadic circuitry we expected (as defined by a
+meta-analysis of fMRI saccade studies). In the marmosets, we found that the task 
+evoked a robust visuo-saccadic topology, with visual cortex (V1, V2, V3, V4)
+activation extending ventrally to MT, MST, FST and dorsally into V6, 19M, 23V.
+This topology also included putative cingulate eye field (area 32 and 24d),
+posterior parietal cortex (with strongest activation in lateral intraparietal
+area (LIP)), and a frontolateral peak in area 8 aV in marmosets, extending into
+45, 46, 8aD, 6DR, 8c, 6 aV, 6DC. Overall, these results support the view that
+marmosets are a promising preclinical modelling species for studying saccadic
+dysfunction related to neuropsychiatric or neurodegenerative human brain
+diseases.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2019.116147 
+PMID: 31479755  [Indexed for MEDLINE]
+

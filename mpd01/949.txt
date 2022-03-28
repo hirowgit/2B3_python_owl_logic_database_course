@@ -1,0 +1,104 @@
+
+
+949. Transfusion. 2017 Jan;57(1):60-69. doi: 10.1111/trf.13909. Epub 2016 Nov 25.
+
+Differentiation of induced pluripotent stem cell-derived neutrophil granulocytes 
+from common marmoset monkey (Callithrix jacchus).
+
+Schrimpf C(1), Wrede C(2)(3), Glage S(4), Hegermann J(2)(3), Backhaus S(1),
+Blasczyk R(1), Heuft HG(1), Müller T(1)(3)(5).
+
+Author information: 
+(1)Institute for Transfusion Medicine, REBIRTH Cluster of Excellence, Hannover.
+(2)Institute of Functional and Applied Anatomy, REBIRTH Cluster of Excellence,
+Hannover.
+(3)REBIRTH Cluster of Excellence, Hannover, Germany.
+(4)Institute for Laboratory Animal Science and Central Animal Facility, Hannover 
+Medical School, Hannover, Germany.
+(5)Synlab Medical Care Centre Weiden Ltd, Weiden, Germany.
+
+BACKGROUND: Inherited and acquired marrow failure syndromes most commonly lead to
+defect in myeloid and/or neutrophil differentiation and/or function. Besides
+this, neutropenia induced by cancer-adjusted chemotherapy is a frequent clinical 
+problem. In both cases, cell replacement therapy is a well-established, but due
+to necessity of donors limited and perilous procedure. Therefore, autologous cell
+replacement from patients' own marrow-derived cells lowers risk and bares new
+possibilities for therapy. Since the immune system of the marmoset monkey is
+known to show high similarity to humans, preclinical studies with these animals
+bare high hopes for immunologic research and cell replacement therapy.
+STUDY DESIGN AND METHODS: Marmoset-induced pluripotent stem (iPS) cells (cj-iPSC)
+were first cultivated on mouse embryonic feeder cells in medium containing
+recombinant human vascular endothelial growth factor. After 13 days,
+CD34+/vascular endothelial growth factor receptor-2 (VEGFR2)- cells were sorted, 
+treated with interleukin (IL-3), thrombopoietin, and stem cell factor for 20 days
+and further cultivated with granulocyte-colony-stimulating factor (G-CSF) and
+IL-3 for 10 days.
+RESULTS: CD34+/VEGFR2- cells could be generated in high amounts (39.65 ± 6.01%;
+2.31 × 105 cells). Afterward, these hematopoietic progenitors could be
+successfully differentiated into mature cj-iPSC-derived neutrophils showing
+similar morphology, specific surface antigens, and neutrophil-specific gene
+products and in vitro phagocytic activity.
+CONCLUSION: cj-iPSC-derived neutrophils bare high hopes in hematologic cell
+replacement therapy. They exhibit high morphologic similarity to native
+neutrophils and present neutrophil-specific surface antigens, antimicrobial
+proteins, and gene products yielding an auspicious approach for continuative
+experiments including tests in living animals.
+
+© 2016 The Authors Transfusion published by Wiley Periodicals, Inc. on behalf of 
+AABB.
+
+DOI: 10.1111/trf.13909 
+PMID: 27888517  [Indexed for MEDLINE]
+
+
+950. J Neurophysiol. 2017 Feb 1;117(2):713-727. doi: 10.1152/jn.00476.2016. Epub 2016 
+Nov 23.
+
+Contextual effects of noise on vocalization encoding in primary auditory cortex.
+
+Ni R(1), Bender DA(1), Shanechi AM(1), Gamble JR(1), Barbour DL(2).
+
+Author information: 
+(1)Laboratory of Sensory Neuroscience and Neuroengineering, Department of
+Biomedical Engineering, Washington University in St. Louis, St. Louis, Missouri.
+(2)Laboratory of Sensory Neuroscience and Neuroengineering, Department of
+Biomedical Engineering, Washington University in St. Louis, St. Louis, Missouri
+dbarbour@wustl.edu.
+
+Robust auditory perception plays a pivotal function for processing behaviorally
+relevant sounds, particularly with distractions from the environment. The
+neuronal coding enabling this ability, however, is still not well understood. In 
+this study, we recorded single-unit activity from the primary auditory cortex
+(A1) of awake marmoset monkeys (Callithrix jacchus) while delivering conspecific 
+vocalizations degraded by two different background noises: broadband white noise 
+and vocalization babble. Noise effects on neural representation of target
+vocalizations were quantified by measuring the responses' similarity to those
+elicited by natural vocalizations as a function of signal-to-noise ratio. A
+clustering approach was used to describe the range of response profiles by
+reducing the population responses to a summary of four response classes (robust, 
+balanced, insensitive, and brittle) under both noise conditions. This clustering 
+approach revealed that, on average, approximately two-thirds of the neurons
+change their response class when encountering different noises. Therefore, the
+distortion induced by one particular masking background in single-unit responses 
+is not necessarily predictable from that induced by another, suggesting the low
+likelihood of a unique group of noise-invariant neurons across different
+background conditions in A1. Regarding noise influence on neural activities, the 
+brittle response group showed addition of spiking activity both within and
+between phrases of vocalizations relative to clean vocalizations, whereas the
+other groups generally showed spiking activity suppression within phrases, and
+the alteration between phrases was noise dependent. Overall, the variable
+single-unit responses, yet consistent response types, imply that primate A1
+performs scene analysis through the collective activity of multiple neurons.NEW &
+NOTEWORTHY: The understanding of where and how auditory scene analysis is
+accomplished is of broad interest to neuroscientists. In this paper, we
+systematically investigated neuronal coding of multiple vocalizations degraded by
+two distinct noises at various signal-to-noise ratios in nonhuman primates. In
+the process, we uncovered heterogeneity of single-unit representations for
+different auditory scenes yet homogeneity of responses across the population.
+
+Copyright © 2017 the American Physiological Society.
+
+DOI: 10.1152/jn.00476.2016 
+PMCID: PMC5296407
+PMID: 27881720  [Indexed for MEDLINE]
+

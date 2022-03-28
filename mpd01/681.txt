@@ -1,0 +1,85 @@
+
+
+681. Nat Commun. 2018 Jun 11;9(1):2281. doi: 10.1038/s41467-018-04500-5.
+
+Top-down feedback controls spatial summation and response amplitude in primate
+visual cortex.
+
+Nurminen L(1), Merlin S(1)(2), Bijanzadeh M(1)(3), Federer F(1), Angelucci A(4).
+
+Author information: 
+(1)Department of Ophthalmology and Visual Science, Moran Eye Institute,
+University of Utah, 65 Mario Capecchi Drive, Salt Lake City, UT, 84132, USA.
+(2)Medical Science, School of Science and Health, Western Sydney University,
+Campbelltown, NSW, 2560, Australia.
+(3)Department of Neurological Surgery, UCSF, San Francisco, CA, 94143, USA.
+(4)Department of Ophthalmology and Visual Science, Moran Eye Institute,
+University of Utah, 65 Mario Capecchi Drive, Salt Lake City, UT, 84132, USA.
+alessandra.angelucci@hsc.utah.edu.
+
+Sensory information travels along feedforward connections through a hierarchy of 
+cortical areas, which, in turn, send feedback connections to lower-order areas.
+Feedback has been implicated in attention, expectation, and sensory context, but 
+the mechanisms underlying these diverse feedback functions are unknown. Using
+specific optogenetic inactivation of feedback connections from the secondary
+visual area (V2), we show how feedback affects neural responses in the primate
+primary visual cortex (V1). Reducing feedback activity increases V1 cells'
+receptive field (RF) size, decreases their responses to stimuli confined to the
+RF, and increases their responses to stimuli extending into the proximal
+surround, therefore reducing surround suppression. Moreover, stronger reduction
+of V2 feedback activity leads to progressive increase in RF size and decrease in 
+response amplitude, an effect predicted by a recurrent network model. Our results
+indicate that feedback modulates RF size, surround suppression and response
+amplitude, similar to the modulatory effects of visual spatial attention.
+
+DOI: 10.1038/s41467-018-04500-5 
+PMCID: PMC5995810
+PMID: 29892057  [Indexed for MEDLINE]
+
+
+682. Antiviral Res. 2018 Aug;156:64-71. doi: 10.1016/j.antiviral.2018.06.006. Epub
+2018 Jun 7.
+
+Prophylactic and therapeutic efficacy of mAb treatment against MERS-CoV in common
+marmosets.
+
+de Wit E(1), Feldmann F(2), Okumura A(3), Horne E(4), Haddock E(4), Saturday
+G(2), Scott D(2), Erlandson KJ(5), Stahl N(6), Lipsich L(6), Kyratsous CA(6),
+Feldmann H(4).
+
+Author information: 
+(1)Laboratory of Virology, National Institute of Allergy and Infectious Diseases,
+National Institutes of Health, Hamilton, MT, USA. Electronic address:
+emmie.dewit@nih.gov.
+(2)Rocky Mountain Veterinary Branch, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health, Hamilton, MT, USA.
+(3)Center for Infection and Immunity, Mailman School of Public Health, Columbia
+University, New York, NY, USA.
+(4)Laboratory of Virology, National Institute of Allergy and Infectious Diseases,
+National Institutes of Health, Hamilton, MT, USA.
+(5)Biomedical Advanced Research and Development Authority, Washington, DC, USA.
+(6)Regeneron Pharmaceuticals, Inc., Tarrytown, NY, USA.
+
+The high case-fatality rate of confirmed MERS-CoV infections underlines the
+urgent need for an effective treatment to reduce the disease severity and
+mortality. REGN3051 and REGN3048 are two fully human neutralizing monoclonal
+antibodies (mAb) against MERS-CoV that reduced virus replication in mice
+expressing human DPP4 upon prophylactic and therapeutic treatment. Here, we
+evaluated the prophylactic and therapeutic efficacy of REGN3048 and REGN3051 in
+the common marmoset model of MERS-CoV infection. Intravenous administration of
+mAb resulted in high levels of MERS-CoV-neutralizing activity in circulating
+blood. When animals were treated with mAbs one day before challenge, respiratory 
+disease was less severe and, in animals treated with both REGN3048 and REGN3051, 
+viral loads in the lungs were reduced. However, therapeutic treatment on day one 
+after challenge was less efficacious as it did not prevent the development of
+severe respiratory disease and all treated animals developed bronchointerstitial 
+pneumonia of similar severity as the control animals. Thus, mAb administration
+may be more effective in a prophylactic treatment regimen rather than treatment
+of MERS.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.antiviral.2018.06.006 
+PMCID: PMC7113689
+PMID: 29885377  [Indexed for MEDLINE]
+

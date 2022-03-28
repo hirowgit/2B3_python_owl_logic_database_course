@@ -1,0 +1,80 @@
+
+
+2386. Gene. 2007 Sep 15;399(2):105-11. Epub 2007 May 22.
+
+Phylogenetic conservation of the androgen receptor AR45 variant form in placental
+mammals.
+
+Weiss B(1), Faus H, Haendler B.
+
+Author information: 
+(1)Target Discovery, Bayer Schering Pharma AG, D-13342 Berlin, Germany.
+
+A cDNA coding for a tissue-specific AR45 variant form of the androgen receptor
+(AR) has recently been identified in humans, with highest expression levels found
+in heart. The deduced protein comprises the DNA-binding domain, hinge region and 
+ligand-binding domain of the AR, but not the N-terminal domain which is replaced 
+by a unique, short, seven amino-acid-long stretch. This sequence is encoded by
+the mutually exclusive exon 1B, located between exons 1 and 2 of the human AR
+gene. As transcript variants of the steroid receptor family have been shown to
+have important implications for hormone function, we set out to analyse the
+genomes of different organisms for potential AR45 expression. We found exon 1B to
+be conserved in the syntenic chromosomal region of non-human primates such as the
+chimpanzee Pan troglodytes, the orang-utan Pongo pygmaeus, the macaque Macaca
+mulatta and the marmoset Callithrix jacchus, and of the elephant Loxondonta
+africana, the pig Sus scrofa and the dog Canis familiaris. Quantification of AR45
+transcript levels in heart, skeletal muscle and lung of Macaca fascicularis
+showed the heart to be the main organ of expression. A complete AR45 cDNA was
+furthermore isolated from the heart of this species. Comparative analysis of the 
+identified AR45 exon 1B regions and of the deduced amino acids revealed a high
+conservation among species. The four N-terminal residues were identical in all
+eight species, whereas a few changes were seen in the other three residues in the
+marmoset, elephant and pig. In contrast, we observed more divergence in the mouse
+Mus musculus and rat Rattus norvegicus syntenic regions. Here a stop codon was
+found downstream of the potential start codon in the putatively deduced protein
+sequence and it can be inferred that no protein corresponding to AR45 exists in
+these two species. The existence of AR45 in different placental mammals with the 
+exception of mouse and rat suggests a disappearance in rodents late in evolution,
+before the separation of the mouse and rat lineages, about 16 million years ago. 
+In view of the potential function of AR45 as a regulator of AR function, and
+considering the multiple roles of androgens in normal physiology and in several
+diseases, these findings have important implications with regard to subtle
+differences in the action of the male sexual hormone in various organisms.
+
+DOI: 10.1016/j.gene.2007.04.037 
+PMID: 17574777  [Indexed for MEDLINE]
+
+
+2387. J Immunol. 2007 Jun 1;178(11):7151-61.
+
+Genomics and diversity of the common marmoset monkey NK complex.
+
+Averdam A(1), Kuhl H, Sontag M, Becker T, Hughes AL, Reinhardt R, Walter L.
+
+Author information: 
+(1)Department of Primate Genetics, German Primate Center, Göttingen, Germany.
+
+The common marmoset monkey (Callithrix jacchus) is a New World primate that is
+increasingly used in biomedical research as a model organism. Due to the
+occurrence of natural bone marrow chimerism, it represents a particularly useful 
+primate model in immunological research. In this study, we describe the genomic
+organization of the CD94, NKG2, and LY49L genes in the NK complex (NKC) of the
+common marmoset based on complete sequencing of a bacterial artificial chromosome
+clonal contig. This region of the marmoset NKC is 1.5 times smaller than its
+human counterpart, but the genes are colinear and orthologous. One exception is
+the activating NKG2CE gene, which is probably an ancestral form of the NKG2C- and
+NKG2E-activating receptor genes of humans and great apes. The two completely
+sequenced marmoset bacterial artificial chromosome clones are derived from
+distinct haplotypes, which differ by 200 sites in the overlapping sequence.
+Analyses of NKC genes in nine additional marmoset individuals revealed a moderate
+degree of polymorphism of the CD94, NKG2A, NKG2CE, and NKG2D genes. Furthermore, 
+expression analyses identified several alternatively spliced transcripts,
+particularly of the CD94 gene. Several products of alternative splicing of NKC
+genes are highly conserved among primates. Alternative transcriptional start
+sites were found, but these probably do not lead to a change of the translational
+start site or result in longer or shorter cytoplasmic regions of these type II
+membrane receptors.
+
+DOI: 10.4049/jimmunol.178.11.7151 
+PMID: 17513764  [Indexed for MEDLINE]
+

@@ -1,0 +1,27 @@
+
+
+2945. Cancer Res. 2003 Apr 15;63(8):1756-8.
+
+A promoter that acquired p53 responsiveness during primate evolution.
+
+Contente A(1), Zischler H, Einspanier A, Dobbelstein M.
+
+Author information: 
+(1)Institut für Virologie, Philipps-Universität Marburg, Germany.
+
+The tumor suppressor p53 activates the transcription of human PIG3 through direct
+interaction with a polymorphic microsatellite sequence, (TGYCC)(n). Here, the
+evolution of this p53-responsive element was recapitulated. Comparison between
+primate species revealed that the PIG3 promoter acquired this sequence element in
+its full length only in Hominoidea (apes and humans), whereas the number of TGYCC
+repeats is far lower in monkeys. Accordingly, only the PIG3 promoters from
+Hominoidea respond efficiently to p53, whereas those from monkeys respond poorly 
+or not at all. In parallel, the PIG3 gene was strongly induced by p53 in human
+and chimpanzee cells but was unaffected by p53 in cells derived from a common
+marmoset monkey. Thus, a novel p53 target gene appeared as recently as during the
+evolution of primates. This suggests that mechanisms of tumor suppression are
+subject to ongoing evolution in humans and their closest relatives.
+
+
+PMID: 12702557  [Indexed for MEDLINE]
+

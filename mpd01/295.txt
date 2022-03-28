@@ -1,0 +1,96 @@
+
+
+295. Naunyn Schmiedebergs Arch Pharmacol. 2020 Nov;393(11):2139-2144. doi:
+10.1007/s00210-020-01927-w. Epub 2020 Jun 29.
+
+Monoamine oxidase A inhibition as monotherapy reverses parkinsonism in the
+MPTP-lesioned marmoset.
+
+Hamadjida A(1), Nuara SG(2), Frouni I(1)(3), Kwan C(1), Bédard D(1), Gourdon
+JC(2), Huot P(4)(5)(6)(7).
+
+Author information: 
+(1)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St, Montreal, Quebec, H3A 2B4, Canada.
+(2)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+Quebec, Canada.
+(3)Département de pharmacologie et physiologie, Université de Montréal, Montreal,
+Quebec, Canada.
+(4)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St, Montreal, Quebec, H3A 2B4, Canada. philippe.huot@mcgill.ca.
+(5)Département de pharmacologie et physiologie, Université de Montréal, Montreal,
+Quebec, Canada. philippe.huot@mcgill.ca.
+(6)Department of Neurology and Neurosurgery, McGill University, Montreal, Quebec,
+Canada. philippe.huot@mcgill.ca.
+(7)Movement Disorder Clinic, Division of Neurology, Department of Neuroscience,
+McGill University Health Centre, Montreal, Quebec, Canada.
+philippe.huot@mcgill.ca.
+
+Monoamine oxidase (MAO) type B (MAO-B) inhibition was shown to confer
+anti-parkinsonian benefit as monotherapy and adjunct to
+L-3,4-dihydroxyphenylalanine (L-DOPA) in clinical trials. Here, we explore the
+anti-parkinsonian effect of MAO type A (MAO-A) inhibition as monotherapy, as the 
+enzyme MAO-A is also encountered within the primate and human basal ganglia,
+where it metabolises dopamine, albeit to a lesser extent than MAO-B. In six
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned marmosets, we
+assessed the anti-parkinsonian effect of the reversible MAO-A inhibitor
+moclobemide (0.1 and 1 mg/kg) as monotherapy and compared it to that of L-DOPA
+and vehicle treatments. Moclobemide significantly reversed parkinsonism (by 39%, 
+P < 0.01), while eliciting only mild dyskinesia and psychosis-like behaviours
+(PLBs). In contrast, L-DOPA anti-parkinsonian effect was accompanied by marked
+dyskinesia and PLBs. MAO-A inhibition with moclobemide may provide
+anti-parkinsonian benefit when administered without L-DOPA and might perhaps be
+considered as monotherapy for the treatment of Parkinson's disease in the early
+stages of the condition.
+
+DOI: 10.1007/s00210-020-01927-w 
+PMID: 32601846  [Indexed for MEDLINE]
+
+
+296. Mol Brain. 2020 Jun 26;13(1):98. doi: 10.1186/s13041-020-00639-9.
+
+Effects of interferon-alpha on hippocampal neurogenesis and behavior in common
+marmosets.
+
+Kaneko N(1)(2), Nakamura S(3), Sawamoto K(4)(5).
+
+Author information: 
+(1)Department of Developmental and Regenerative Neurobiology, Institute of Brain 
+Science, Nagoya City University Graduate School of Medical Sciences, 1 Kawasumi, 
+Mizuho-cho, Mizuho-ku, Nagoya, Aichi, 467-8601, Japan.
+naokoka@med.nagoya-cu.ac.jp.
+(2)Division of Neural Development and Regeneration, National Institute for
+Physiological Sciences, 5-1 Higashiyama, Myodaiji, Okazaki, Aichi, 444-8787,
+Japan. naokoka@med.nagoya-cu.ac.jp.
+(3)Department of Developmental and Regenerative Neurobiology, Institute of Brain 
+Science, Nagoya City University Graduate School of Medical Sciences, 1 Kawasumi, 
+Mizuho-cho, Mizuho-ku, Nagoya, Aichi, 467-8601, Japan.
+(4)Department of Developmental and Regenerative Neurobiology, Institute of Brain 
+Science, Nagoya City University Graduate School of Medical Sciences, 1 Kawasumi, 
+Mizuho-cho, Mizuho-ku, Nagoya, Aichi, 467-8601, Japan.
+sawamoto@med.nagoya-cu.ac.jp.
+(5)Division of Neural Development and Regeneration, National Institute for
+Physiological Sciences, 5-1 Higashiyama, Myodaiji, Okazaki, Aichi, 444-8787,
+Japan. sawamoto@med.nagoya-cu.ac.jp.
+
+In many mammalian species, the production of new neurons in the hippocampal
+dentate gyrus continues throughout life. Previous studies using rodents suggest
+that adult-born neurons are involved in memory and cognition tasks and mood
+regulation. Interferon-alpha (IFNα), a proinflammatory cytokine used for the
+treatment of chronic viral hepatitis and malignancies, frequently causes
+depressive symptoms in patients and animals, including non-human primates. We
+have previously demonstrated that chronic IFNα treatment decreases hippocampal
+neurogenesis in mice. Here, we investigated the effects of four-week human
+pegylated IFNα treatment on hippocampal neurogenesis and behavior in common
+marmosets. Continuous monitoring of voluntary activity levels using an actigraphy
+device suggested that adaptive ability is impaired in IFNα-treated animals.
+Analyses of BrdU-labeled cells expressing a marker for immature or mature neurons
+revealed a significant reduction in the number of new neurons in the hippocampus 
+of IFNα-treated animals. These data indicate that chronic human IFNα treatment
+causes behavioral changes and a decrease in hippocampal neurogenesis in common
+marmosets.
+
+DOI: 10.1186/s13041-020-00639-9 
+PMCID: PMC7318457
+PMID: 32590991  [Indexed for MEDLINE]
+

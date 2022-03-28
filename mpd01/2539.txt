@@ -1,0 +1,73 @@
+
+
+2539. J Comp Psychol. 2006 May;120(2):120-30.
+
+Geometrical gaze following in common marmosets (Callithrix jacchus).
+
+Burkart J(1), Heschl A.
+
+Author information: 
+(1)Anthropological Institute, University of Zurich, Switzerland.
+judith.burkart@aim.unizh.ch
+
+A series of experiments investigating the degree of gaze understanding in common 
+marmosets (Callithrix jacchus) is reported. Results show that marmosets follow
+the gaze of a human experimenter readily and also use the gaze to locate food in 
+a modified version of the object choice task if influences of chance
+probabilities and prepotent response tendencies are controlled for. In addition, 
+this new version of the task allows the assessment of the accuracy of gaze
+following. Marmosets precisely extrapolate gaze direction, past distracting
+objects and from considerable distances, thereby meeting the criteria of
+so-called geometrical gaze following. The presence of this ability in common
+marmosets suggests that higher forms of gaze following might be more widely
+distributed among nonhuman primates than previously thought.
+
+Copyright 2006 APA, all rights reserved.
+
+DOI: 10.1037/0735-7036.120.2.120 
+PMID: 16719590  [Indexed for MEDLINE]
+
+
+2540. Arch Toxicol. 2006 Nov;80(11):719-31. Epub 2006 May 23.
+
+A physiologically based pharmacokinetic (PB/PK) model for multiple exposure
+routes of soman in multiple species.
+
+Sweeney RE(1), Langenberg JP, Maxwell DM.
+
+Author information: 
+(1)RESECO Research Engineering Consultants, Nottingham, PA 19362, USA.
+Richard.Sweeney@us.army.mil
+
+A physiologically based pharmacokinetic (PB/PK) model has been developed in
+advanced computer simulation language (ACSL) to describe blood and tissue
+concentration-time profiles of the C(+/-)P(-) stereoisomers of soman after
+inhalation, subcutaneous and intravenous exposures at low (0.8-1.0 x LD(50)),
+medium (2-3 x LD(50)) and high (6 x LD(50)) levels of soman challenge in three
+species (rat, guinea pig, marmoset). Allometric formulae were used to compute the
+compartment volumes, blood flow rates, tidal volume and respiratory rate based
+upon total animal weight. Blood/tissue partition coefficients for soman, initial 
+carboxylesterase and acetylcholinesterase levels and the rate constants for
+interactions between soman and these enzymes were species-dependent and were
+obtained from in vitro measurements reported in the literature. The model
+incorporated arterial and venous blood, lung, kidney, liver, richly perfused,
+poorly perfused and fat tissue compartments as well as subcutaneous and nasal
+exposure site compartments. First-order absorption from linearly filled soman
+deposits into metabolizing exposure site compartments was employed to model
+subcutaneous and inhalation exposures. The model was validated by comparing the
+predicted and observed values for C(+/-)P(-)-soman in arterial blood at various
+times following exposure and by regression analysis. Sensitivity analysis was
+used to determine the effects of perturbations in the model parameters on the
+time-course of arterial C(-)P(-)-soman concentrations for different exposure
+routes. In our evaluation of 28 datasets, predicted values were generally within 
+95% confidence limits of the observed values, and regression coefficients
+comparing predicted and observed data were greater than 0.85 for 95% of the
+intravenous and subcutaneous datasets and 25% of the inhalation datasets. We
+conclude that the model predicts the soman toxicokinetics for doses >or=1 x
+LD(50) for intravenous and subcutaneous exposures and inhalation exposures of 8
+min or less sufficiently well to allow its use in the modeling of bioscavenger
+protection.
+
+DOI: 10.1007/s00204-006-0114-0 
+PMID: 16718492  [Indexed for MEDLINE]
+

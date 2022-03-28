@@ -1,0 +1,38 @@
+
+
+560. Behav Processes. 2019 May;162:55-63. doi: 10.1016/j.beproc.2019.01.014. Epub 2019
+Feb 1.
+
+Auditory sequence perception in common marmosets (Callithrix jacchus).
+
+Wakita M(1).
+
+Author information: 
+(1)Cognitive Neuroscience Section, Primate Research Institute, Kyoto University, 
+Kanrin 41-2, Inuyama, Aichi, 484-8506, Japan. Electronic address:
+wakita.masumi.2e@kyoto-u.ac.jp.
+
+One of the essential linguistic and musical faculties of humans is the ability to
+recognize the structure of sound configurations and to extract words and melodies
+from continuous sound sequences. However, monkeys' ability to process the
+temporal structure of sounds is controversial. Here, to investigate whether
+monkeys can analyze the temporal structure of auditory patterns, two common
+marmosets were trained to discriminate auditory patterns in three experiments. In
+Experiment 1, the marmosets were able to discriminate trains of either 0.5- or
+2-kHz tones repeated in either 50- or 200-ms intervals. However, the marmosets
+were not able to discriminate ABAB from AABB patterns consisting of A
+(0.5-kHz/50-ms pulse) and B (2-kHz/200-ms pulse) elements in Experiment 2, and A 
+(0.5-kHz/50-ms pulse) and B (0.5-kHz/200-ms pulse) [or A (0.5-kHz/200-ms pulse)
+and B (2-kHz/200-ms pulse)] in Experiment 3. Consequently, the results indicated 
+that the marmosets could not perceive tonal structures in terms of the temporal
+configuration of discrete sounds, whereas they could recognize the acoustic
+features of the stimuli. The present findings were supported by cognitive and
+brain studies that indicated a limited ability to process sound sequences.
+However, more studies are needed to confirm the ability of auditory sequence
+perception in common marmosets.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.beproc.2019.01.014 
+PMID: 30716383  [Indexed for MEDLINE]
+

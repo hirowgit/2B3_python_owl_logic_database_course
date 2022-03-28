@@ -1,0 +1,78 @@
+
+
+928. Biol Lett. 2017 Jan;13(1). pii: 20160934. doi: 10.1098/rsbl.2016.0934.
+
+Audience affects decision-making in a marmoset communication network.
+
+Toarmino CR(1)(2), Wong L(2), Miller CT(3)(2)(4).
+
+Author information: 
+(1)Department of Psychology, University of California, San Diego, La Jolla, CA
+92093, USA ctoarmin@ucsd.edu.
+(2)Cortical Systems and Behavior Laboratory, University of California, San Diego,
+La Jolla, CA 92093, USA.
+(3)Department of Psychology, University of California, San Diego, La Jolla, CA
+92093, USA.
+(4)Neurosciences Graduate Program, University of California, San Diego, La Jolla,
+CA 92093, USA.
+
+An audience can have a profound effect on the dynamics of communicative
+interactions. As a result, non-human primates often adjust their social
+decision-making strategies depending on the audience composition at a given time.
+Here we sought to test how the unique vocal behaviour of multiple audience
+members affected decisions to communicate. To address this issue, we developed a 
+novel experimental paradigm in which common marmosets directly interacted with
+multiple 'virtual monkeys' (VMs), each of whom represented an individual marmoset
+with distinct vocal behaviour. This active social signalling paradigm provided
+subjects an opportunity to interact with and learn about the behaviour of each VM
+in the network and apply this knowledge in subsequent communicative decisions. We
+found that subjects' propensity to interact with particular VMs was determined by
+the behaviour of each VM in the audience and suggests that marmoset social
+decision-making strategies are highly adaptive to nuances of the immediate
+communication network.
+
+© 2017 The Author(s).
+
+DOI: 10.1098/rsbl.2016.0934 
+PMCID: PMC5310588
+PMID: 28100720  [Indexed for MEDLINE]
+
+
+929. Proc Natl Acad Sci U S A. 2017 Jan 31;114(5):E840-E848. doi:
+10.1073/pnas.1607519114. Epub 2017 Jan 17.
+
+Harmonic template neurons in primate auditory cortex underlying complex sound
+processing.
+
+Feng L(1), Wang X(2).
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD 21205.
+(2)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD 21205
+xiaoqin.wang@jhu.edu.
+
+Harmonicity is a fundamental element of music, speech, and animal vocalizations. 
+How the auditory system extracts harmonic structures embedded in complex sounds
+and uses them to form a coherent unitary entity is not fully understood. Despite 
+the prevalence of sounds rich in harmonic structures in our everyday hearing
+environment, it has remained largely unknown what neural mechanisms are used by
+the primate auditory cortex to extract these biologically important acoustic
+structures. In this study, we discovered a unique class of harmonic template
+neurons in the core region of auditory cortex of a highly vocal New World
+primate, the common marmoset (Callithrix jacchus), across the entire hearing
+frequency range. Marmosets have a rich vocal repertoire and a similar hearing
+range to that of humans. Responses of these neurons show nonlinear facilitation
+to harmonic complex sounds over inharmonic sounds, selectivity for particular
+harmonic structures beyond two-tone combinations, and sensitivity to harmonic
+number and spectral regularity. Our findings suggest that the harmonic template
+neurons in auditory cortex may play an important role in processing sounds with
+harmonic structures, such as animal vocalizations, human speech, and music.
+
+DOI: 10.1073/pnas.1607519114 
+PMCID: PMC5293092
+PMID: 28096341  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

@@ -1,0 +1,77 @@
+
+
+510. Magn Reson Imaging. 2019 Dec;64:21-27. doi: 10.1016/j.mri.2019.04.009. Epub 2019 
+Apr 17.
+
+Open-source pipeline for multi-class segmentation of the spinal cord with deep
+learning.
+
+Paugam F(1), Lefeuvre J(2), Perone CS(3), Gros C(3), Reich DS(2), Sati P(2),
+Cohen-Adad J(4).
+
+Author information: 
+(1)École Centrale de Lyon, Lyon, France; NeuroPoly Lab, Institute of Biomedical
+Engineering, Polytechnique Montreal, Montreal, QC, Canada. Electronic address:
+francois.paugam@laposte.net.
+(2)Translational Neuroradiology Section, National Institute of Neurological
+Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA.
+(3)NeuroPoly Lab, Institute of Biomedical Engineering, Polytechnique Montreal,
+Montreal, QC, Canada.
+(4)NeuroPoly Lab, Institute of Biomedical Engineering, Polytechnique Montreal,
+Montreal, QC, Canada; Functional Neuroimaging Unit, CRIUGM, Université de
+Montréal, Montreal, QC, Canada. Electronic address: jcohen@polymtl.ca.
+
+This paper presents an open-source pipeline to train neural networks to segment
+structures of interest from MRI data. The pipeline is tailored towards
+homogeneous datasets and requires relatively low amounts of manual segmentations 
+(few dozen, or less depending on the homogeneity of the dataset). Two use-case
+scenarios for segmenting the spinal cord white and grey matter are presented: one
+in marmosets with variable numbers of lesions, and the other in the publicly
+available human grey matter segmentation challenge [1]. The pipeline is freely
+available at: https://github.com/neuropoly/multiclass-segmentation.
+
+Copyright © 2019. Published by Elsevier Inc.
+
+DOI: 10.1016/j.mri.2019.04.009 
+PMCID: PMC6800813
+PMID: 31004711  [Indexed for MEDLINE]
+
+
+511. Neural Netw. 2019 Aug;116:25-34. doi: 10.1016/j.neunet.2019.03.014. Epub 2019 Apr
+1.
+
+Semi-supervised deep learning of brain tissue segmentation.
+
+Ito R(1), Nakae K(1), Hata J(2), Okano H(2), Ishii S(3).
+
+Author information: 
+(1)Graduate School of Informatics, Kyoto University, Yoshida-honmachi, Kyoto,
+606-8501, Japan.
+(2)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo, 160-8582, Japan; Laboratory for Marmoset Neural Architecture, RIKEN Center
+for Brain Science, Wako-shi, Saitama, 351-0198, Japan.
+(3)Graduate School of Informatics, Kyoto University, Yoshida-honmachi, Kyoto,
+606-8501, Japan. Electronic address: ishii@i.kyoto-u.ac.jp.
+
+Brain image segmentation is of great importance not only for clinical use but
+also for neuroscience research. Recent developments in deep neural networks
+(DNNs) have led to the application of DNNs to brain image segmentation, which
+required extensive human annotations of whole brain images. Annotating
+three-dimensional brain images requires laborious efforts by expert anatomists
+because of the differences among images in terms of their dimensionality, noise, 
+contrast, or ambiguous boundaries that even prevent these experts from
+necessarily attaining consistency. This paper proposes a semi-supervised learning
+framework to train a DNN based on a relatively small number of annotated
+(labeled) images, named atlases, but also a relatively large number of unlabeled 
+images by leveraging image registration to attach pseudo-labels to images that
+were originally unlabeled. We applied our proposed method to two different
+datasets: open human brain images and our original marmoset brain images. When
+provided with the same number of atlases for training, we found our method
+achieved superior and more stable segmentation results than those by existing
+registration-based and DNN-based methods.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neunet.2019.03.014 
+PMID: 30986724  [Indexed for MEDLINE]
+

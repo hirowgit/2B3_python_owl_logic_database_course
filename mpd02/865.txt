@@ -1,0 +1,60 @@
+
+
+865. J Neurosci Methods. 2017 Jul 15;286:102-113. doi: 10.1016/j.jneumeth.2017.04.016.
+Epub 2017 May 31.
+
+3D reconstruction of brain section images for creating axonal projection maps in 
+marmosets.
+
+Abe H(1), Tani T(2), Mashiko H(2), Kitamura N(2), Miyakawa N(3), Mimura K(3),
+Sakai K(3), Suzuki W(3), Kurotani T(2), Mizukami H(4), Watakabe A(5), Yamamori
+T(5), Ichinohe N(6).
+
+Author information: 
+(1)Ichinohe Group, Laboratory for Molecular Analysis of Higher Brain Function,
+RIKEN Brain Science Institute, Saitama, Japan. Electronic address:
+hiroshi.abe@riken.jp.
+(2)Ichinohe Group, Laboratory for Molecular Analysis of Higher Brain Function,
+RIKEN Brain Science Institute, Saitama, Japan.
+(3)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Tokyo, Japan.
+(4)Division of Genetic Therapeutics, Center for Molecular Medicine, Jichi Medical
+University, Tochigi, Japan.
+(5)Laboratory for Molecular Analysis of Higher Brain Function, RIKEN Brain
+Science Institute, Saitama, Japan.
+(6)Ichinohe Group, Laboratory for Molecular Analysis of Higher Brain Function,
+RIKEN Brain Science Institute, Saitama, Japan; Department of Ultrastructural
+Research, National Institute of Neuroscience, National Center of Neurology and
+Psychiatry, Tokyo, Japan.
+
+BACKGROUND: The brain of the common marmoset (Callithrix jacchus) is becoming a
+popular non-human primate model in neuroscience research. Because its brain fiber
+connectivity is still poorly understood, it is necessary to collect and present
+connection and trajectory data using tracers to establish a marmoset brain
+connectivity database.
+NEW METHOD: To visualize projections and trajectories of axons, brain section
+images were reconstructed in 3D by registering them to the corresponding
+block-face brain images taken during brain sectioning. During preprocessing,
+autofluorescence of the tissue was reduced by applying independent component
+analysis to a set of fluorescent images taken using different filters.
+RESULTS: The method was applied to a marmoset dataset after a tracer had been
+injected into an auditory belt area to fluorescently label axonal projections.
+Cortical and subcortical connections were clearly reconstructed in 3D. The
+registration error was estimated to be smaller than 200 μm. Evaluation tests on
+ICA-based autofluorescence reduction showed a significant improvement in signal
+and background separation.
+COMPARISON WITH EXISTING METHODS: Regarding the 3D reconstruction error, the
+present study shows an accuracy comparable to previous studies using MRI and
+block-face images. Compared to serial section two-photon tomography, an advantage
+of the proposed method is that it can be combined with standard histological
+techniques. The images of differently processed brain sections can be integrated 
+into the original ex vivo brain shape.
+CONCLUSIONS: The proposed method allows creating 3D axonal projection maps
+overlaid with brain area annotations based on the histological staining results
+of the same animal.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2017.04.016 
+PMID: 28577985  [Indexed for MEDLINE]
+

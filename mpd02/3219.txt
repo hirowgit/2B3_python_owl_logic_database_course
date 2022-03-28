@@ -1,0 +1,31 @@
+
+
+3219. Proc Natl Acad Sci U S A. 2001 Jan 30;98(3):1224-9.
+
+An Epstein-Barr-related herpesvirus from marmoset lymphomas.
+
+Cho Y(1), Ramer J, Rivailler P, Quink C, Garber RL, Beier DR, Wang F.
+
+Author information: 
+(1)Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, 
+Boston, MA 02115, USA.
+
+Epstein-Barr virus (EBV) is implicated in the development of human B cell
+lymphomas and carcinomas. Although related oncogenic herpesviruses were believed 
+to be endemic only in Old World primate species, we now find these viruses to be 
+endemic in New World primates. We have isolated a transforming, EBV-related virus
+from spontaneous B cell lymphomas of common marmosets (Callithrix jacchus).
+Sequencing of two-thirds of the genome reveals considerable divergence from the
+genomes of EBV and Old World primate EBV-related viruses, including differences
+in genes important for virus-induced cell growth transformation and pathogenesis.
+DNA related to the C. jacchus herpesvirus is frequently detected in squirrel
+monkey peripheral blood lymphocytes, indicating that persistent infection with
+EBV-related viruses is prevalent in both New World primate families.
+Understanding how these more divergent EBV-related viruses achieve similar
+biologic outcomes in their natural host is likely to provide important insights
+into EBV infection, B cell growth transformation, and oncogenesis.
+
+DOI: 10.1073/pnas.98.3.1224 
+PMCID: PMC14736
+PMID: 11158621  [Indexed for MEDLINE]
+

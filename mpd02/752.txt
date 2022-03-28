@@ -1,0 +1,46 @@
+
+
+752. Int J Syst Evol Microbiol. 2018 Feb;68(2):575-581. doi: 10.1099/ijsem.0.002545.
+Epub 2018 Jan 4.
+
+Bifidobacterium catulorum sp. nov., a novel taxon from the faeces of the baby
+common marmoset (Callithrix jacchus).
+
+Modesto M(1), Michelini S(1)(2), Oki K(3), Biavati B(4), Watanabe K(5)(6),
+Mattarelli P(1).
+
+Author information: 
+(1)Department of Agricultural Sciences, University of Bologna, Italy.
+(2)The Microsoft Research - University of Trento Centre for Computational and
+Systems Biology, Piazza della Manifattura 1, 38068 Rovereto, TN, Italy.
+(3)Yakult Honsha European Research Center for Microbiology ESV, Technologiepark
+4, 9052 Zwijnaarde, Belgium.
+(4)Division of Rural Sciences and Food Systems, Institute of Earth Systems,
+University of Malta, Msida, Malta.
+(5)Department of Animal Science and Technology, National Taiwan University,
+Taipei, Taiwan, ROC.
+(6)Bioresource Collection and Research Center, Food Industry Research and
+Development Institute, Hsinchu, Taiwan, ROC.
+
+In our previous study based on hsp60 PCR-restriction fragment length polymorphism
+and 16S rRNA gene sequencing, we stated that the bifidobacterial strains isolated
+from the individual faecal samples of five baby common marmosets constituted
+different phylogenetically isolated groups of the genus Bifidobacterium. In that 
+study, we also proposed that these isolated groups potentially represented novel 
+species of the genus Bifidobacterium. Out of them, Bifidobacterium aesculapii,
+Bifidobacterium myosotis, Bifidobacterium tissieri and Bifidobacterium hapali,
+have been described recently. Another strain, designated MRM 8.19T, has been
+classified as member of the genus Bifidobacterium on the basis of positive
+results for fructose-6-phosphate phosphoketolase activity and analysis of partial
+16S rRNA, hsp60, clpC, dnaJ, dnaG and rpoB gene sequences. Analysis of 16S rRNA
+and hsp60 gene sequences revealed that strain MRM 8.19T was related to B.
+tissieri DSM 100201T (95.8 %) and to Bifidobacterium bifidum ATCC 29521T
+(93.7 %), respectively. The DNA G+C composition was 63.7 mol% and the
+peptidoglycan structure was l-Orn(Lys)-l-Ser. Based on the phylogenetic,
+genotypic and phenotypic data reported, strain MRM 8.19T represents a novel taxon
+within the genus Bifidobacterium for which the name Bifidobacterium catulorum sp.
+nov. (type strain MRM 8.19T=DSM 103154T=JCM 31794T) is proposed.
+
+DOI: 10.1099/ijsem.0.002545 
+PMID: 29300153  [Indexed for MEDLINE]
+

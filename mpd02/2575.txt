@@ -1,0 +1,36 @@
+
+
+2575. Immunogenetics. 2006 Apr;58(2-3):122-8. Epub 2006 Mar 10.
+
+Restrictive and diversifying elements of the anti-myelin/oligodendrocyte
+glycoprotein antibody response in primate experimental allergic
+encephalomyelitis.
+
+von Büdingen HC(1), Menge T, Hauser SL, Genain CP.
+
+Author information: 
+(1)Department of Neurology, University Hospital Zürich, 8091, Zürich,
+Switzerland.
+
+Autoantibody responses against conformational epitopes of myelin/oligodendrocyte 
+glycoprotein (MOG) possess myelin destructive potential, as demonstrated in the
+marmoset model of human multiple sclerosis (MS) and in some rodent models of
+experimental allergic encephalomyelitis. We have previously characterized
+monoclonal Fab fragments specific for conformational epitopes of MOG that were
+derived from a combinatorial antibody library generated from a MOG-immune
+marmoset. In this paper, we address the molecular heterogeneity of humoral
+responses against MOG in this outbred model of MS by studying additional antibody
+clones derived from a genetically unrelated animal. We find that all MOG-specific
+IgGkappa Fab fragments, unrelated to genetic make-up, utilize a restricted set of
+variable region genes, IGHV1 and IGHV3 for the H chain and IGKV1, IGKV3, and
+IGKV5 for the L chain. Despite these restricting factors, diversity within these 
+antibody repertoires can be observed, predominantly within the H-chain CDR3
+regions. Our findings suggest that only a limited set of Ig genes is necessary to
+launch a diverse, destructive humoral immune response against a single CNS
+antigen in primates. These results are the first to contribute to a better
+understanding of how myelin-directed and potentially destructive autoantibody
+responses may develop in human MS.
+
+DOI: 10.1007/s00251-006-0100-y 
+PMID: 16528499  [Indexed for MEDLINE]
+

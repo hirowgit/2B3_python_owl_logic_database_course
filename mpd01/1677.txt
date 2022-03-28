@@ -1,0 +1,92 @@
+
+
+1677. J Neuroimmune Pharmacol. 2012 Sep;7(3):557-70. doi: 10.1007/s11481-012-9384-x.
+Epub 2012 Jun 30.
+
+Antibodies against human BLyS and APRIL attenuate EAE development in marmoset
+monkeys.
+
+Jagessar SA(1), Heijmans N, Oh L, Bauer J, Blezer EL, Laman JD, Migone TS,
+Devalaraja MN, 't Hart BA.
+
+Author information: 
+(1)Department Immunobiology, Biomedical Primate Research Centre, PO Box 3306,
+2280 GH, Rijswijk, The Netherlands.
+
+Erratum in
+    J Neuroimmune Pharmacol. 2013 Mar;8(1):370. Oh, Luke [added].
+
+B lymphocyte stimulator (BLyS, also indicated as BAFF (B-cell activating factor) 
+and CD257), and A Proliferation Inducing Ligand (APRIL, CD256) are two members of
+the TNF superfamily with a central role in B cell survival. Antibodies against
+these factors have potential therapeutic relevance in autoimmune inflammatory
+disorders with a proven pathogenic contribution of B cells, such as multiple
+sclerosis (MS). In the current study we performed a multi-parameter efficacy
+comparison of monoclonal antibodies against human anti-BLyS and anti-APRIL in a
+common marmoset (Callithrix jacchus) model of experimental autoimmune
+encephalomyelitis (EAE). A MS-like disease was induced by immunization with
+recombinant human myelin/oligodendrocyte glycoprotein (rhMOG) in complete
+Freund's adjuvant. The results show that the anti-BLyS and anti-APRIL antibody
+cause significant depletion of circulating CD20+ B cells, but a small subset of
+CD20 + CD40(high) B cells was not depleted. Induction of CD20+ B cell depletion
+from lymph nodes was only observed in the anti-BLyS treated monkeys. Both
+antibodies had a significant inhibitory effect on disease development, but all
+monkeys developed clinically evident EAE. Anti-BLyS treated monkeys were
+sacrificed with the same clinical signs as saline-treated monkeys, but
+nevertheless displayed significantly reduced spinal cord demyelination. This
+effect was not observed in the anti-APRIL treated monkeys. The two antibodies had
+a different effect on T cell subset activation and the profiles of ex vivo
+released cytokines. In conclusion, treatment with anti-BLyS and anti-APRIL delays
+the development of neurological disease in a relevant preclinical model of MS.
+The two mAbs achieve this effect via different mechanisms.
+
+DOI: 10.1007/s11481-012-9384-x 
+PMCID: PMC3419352
+PMID: 22870852  [Indexed for MEDLINE]
+
+
+1678. Psychopharmacology (Berl). 2013 Jan;225(2):329-39. doi:
+10.1007/s00213-012-2815-9. Epub 2012 Aug 7.
+
+Evaluation of dopamine D₂/D₃ and serotonin 5-HT₂A receptor occupancy for a novel 
+antipsychotic, lurasidone, in conscious common marmosets using small-animal
+positron emission tomography.
+
+Nakazawa S(1), Yokoyama C, Nishimura N, Horisawa T, Kawasaki A, Mizuma H, Doi H, 
+Onoe H.
+
+Author information: 
+(1)RIKEN Center for Molecular Imaging Science, 6-7-3 Minatojima-Minamimachi,
+Chuo-ku, Kobe, Hyogo 650-0047, Japan.
+
+RATIONALE: Lurasidone is a novel antipsychotic drug with potent binding affinity 
+for dopamine D(2) and serotonin (5-hydroxytryptamine, 5-HT)(2A), 5-HT(7), and
+5-HT(1A) receptors. Previous pharmacological studies have revealed that
+lurasidone exhibits a preferable profile (potent antipsychotic activity and lower
+incidence of catalepsy) to other antipsychotic drugs, although the contribution
+of receptor subtypes to this profile remains unclear.
+OBJECTIVES: To compare target engagements of lurasidone with those of an atypical
+antipsychotic, olanzapine, we performed evaluation of dopamine D(2)/D(3) and
+serotonin 5-HT(2A) receptor occupancy in vivo by positron emission tomography
+(PET) with conscious common marmosets.
+METHODS: We measured brain receptor occupancies in conscious common marmosets
+after oral administrations of lurasidone or olanzapine by PET with
+[(11)C]raclopride and
+[(11)C]R-(+)-α-(2,3-dimethoxyphenyl)-1-[2-(4-fluorophenylethyl)]-4-piperidine
+methanol (MDL 100907) for D(2)/D(3) and 5-HT(2A) receptors, respectively.
+RESULTS: Increases in brain D(2)/D(3) receptor occupancies of both lurasidone and
+olanzapine, which reached >80 % at maximum, were observed in the striatum with
+significant correlations to plasma drug levels. However, lurasidone showed lower 
+5-HT(2A) receptor occupancy in the frontal cortex within the same dose range,
+while olanzapine showed broadly comparable 5-HT(2A) and D(2)/D(3) receptor
+occupancies.
+CONCLUSIONS: Compared with olanzapine, lurasidone preferentially binds to
+D(2)/D(3) receptors rather than 5-HT(2A) receptors in common marmosets. These
+results suggest that the contribution of in vivo 5-HT(2A) receptor blocking
+activity to the pharmacological profile of lurasidone might differ from
+olanzapine in terms of the low risk of extrapyramidal syndrome and efficacy
+against negative symptoms.
+
+DOI: 10.1007/s00213-012-2815-9 
+PMID: 22868411  [Indexed for MEDLINE]
+

@@ -1,0 +1,45 @@
+
+
+447. Sci Rep. 2019 Aug 21;9(1):12219. doi: 10.1038/s41598-019-48489-3.
+
+atlasBREX: Automated template-derived brain extraction in animal MRI.
+
+Lohmeier J(1), Kaneko T(2), Hamm B(3), Makowski MR(3), Okano H(4)(5).
+
+Author information: 
+(1)Charité Universitätsmedizin Berlin, Radiology, Berlin, Germany.
+johannes.lohmeier@charite.de.
+(2)Center for Brain Science Institute, RIKEN, Marmoset Neural Architecture,
+Wako-shi, Saitama, Japan.
+(3)Charité Universitätsmedizin Berlin, Radiology, Berlin, Germany.
+(4)Center for Brain Science Institute, RIKEN, Marmoset Neural Architecture,
+Wako-shi, Saitama, Japan. hidokano@a2.keio.jp.
+(5)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+hidokano@a2.keio.jp.
+
+We proposed a generic template-derived approach for (semi-) automated brain
+extraction in animal MRI studies and evaluated our implementation with different 
+animal models (macaque, marmoset, rodent) and MRI protocols (T1, T2). While
+conventional MR-neuroimaging studies perform brain extraction as an initial step 
+priming subsequent image-registration from subject to template, our proposed
+approach propagates an anatomical template to (whole-head) individual subjects in
+reverse order, which is challenging due to the surrounding extracranial tissue,
+greater differences in contrast pattern and larger areas with field
+inhomogeneity. As a novel approach, the herein introduced brain extraction
+algorithm derives whole-brain segmentation using rigid and non-rigid deformation 
+based on unbiased anatomical atlas building with a priori estimates from
+study-cohort and an initial approximate brain extraction. We evaluated our
+proposed method in comparison to several other technical approaches including
+"Marker based watershed scalper", "Brain-Extraction-Tool", "3dSkullStrip",
+"Primatologist-Toolbox", "Rapid Automatic Tissue Segmentation" and "Robust
+automatic rodent brain extraction using 3D pulse-coupled neural networks" with
+manual skull-stripping as reference standard. ABX demonstrated best performance
+with accurate (≥92%) and consistent results throughout datasets and across
+species, age and MRI protocols. ABX was made available to the public with
+documentation, templates and sample material (
+https://www.github.com/jlohmeier/atlasBREX ).
+
+DOI: 10.1038/s41598-019-48489-3 
+PMCID: PMC6704255
+PMID: 31434923  [Indexed for MEDLINE]
+

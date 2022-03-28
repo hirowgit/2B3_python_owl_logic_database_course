@@ -1,0 +1,86 @@
+
+
+2147. Br J Pharmacol. 2009 Aug;157(7):1157-71. doi: 10.1111/j.1476-5381.2009.00196.x.
+Epub 2009 Apr 27.
+
+Effects of NXY-059 in experimental stroke: an individual animal meta-analysis.
+
+Bath PM(1), Gray LJ, Bath AJ, Buchan A, Miyata T, Green AR; NXY-059 Efficacy
+Meta-analysis in Individual Animals with Stroke Investigators.
+
+Author information: 
+(1)Stroke Trials Unit, University of Nottingham, Clinical Sciences Building, City
+Hospital Campus, Hucknall Road, Nottingham, UK. philip.bath@nottingham.ac.uk
+
+Comment in
+    Br J Pharmacol. 2009 Aug;157(7):1154-6.
+
+BACKGROUND AND PURPOSE: Disodium 2,4-disulphophenyl-N-tert-butylnitrone (NXY-059)
+was neuroprotective in experimental stroke models but ineffective in a large
+clinical trial. This first-ever individual animal meta-analysis was used to
+assess the preclinical studies.
+EXPERIMENTAL APPROACH: Studies were obtained from AstraZeneca and PubMed
+searches. Data for each animal were obtained from the lead author of each study
+and/or AstraZeneca. Published summary data were used if individual data were not 
+available. Infarct volume and motor impairment were standardized to reflect
+different species and scales. Standardized mean difference (SMD), coefficients
+from multilevel models and 95% confidence intervals (95% CI) are presented.
+KEY RESULTS: Fifteen studies (26 conditions, 12 laboratories) involving rats
+(544), mice (9) and marmosets (32) were identified (NXY-059: 332, control: 253)
+with individual data for 442 animals. Four studies were unpublished. Studies
+variably used randomization (40%), blinding of surgeon (53%) and outcome assessor
+(67%). NXY-059 reduced total (SMD -1.17, 95% CI -1.50 to -0.84), cortical (SMD
+-2.17, 95% CI -2.99 to -1.34) and subcortical (-1.43, 95% CI -2.20 to -0.86)
+lesion volume; efficacy was seen in transient, permanent and thrombotic
+ischaemia, up to 180 min post occlusion. NXY-059 reduced motor impairment (SMD
+-1.66, 95% CI -2.18 to -1.14) and neglect. Evidence for performance, attrition
+and publication bias was present.
+CONCLUSIONS AND IMPLICATIONS: NXY-059 was neuroprotective in experimental stroke 
+although bias may have resulted in efficacy being overestimated. Efficacy in
+young, healthy, male animals is a poor predictor of clinical outcome. We suggest 
+the use of preclinical meta-analysis before initiation of future clinical trials.
+
+DOI: 10.1111/j.1476-5381.2009.00196.x 
+PMCID: PMC2743834
+PMID: 19422398  [Indexed for MEDLINE]
+
+
+2148. J Neurosci. 2009 May 6;29(18):6033-41. doi: 10.1523/JNEUROSCI.0312-09.2009.
+
+Response disengagement on a spatial self-ordered sequencing task: effects of
+regionally selective excitotoxic lesions and serotonin depletion within the
+prefrontal cortex.
+
+Walker SC(1), Robbins TW, Roberts AC.
+
+Author information: 
+(1)Department of Experimental Psychology, University of Cambridge, Cambridge CB2 
+3EB, UK.
+
+Prefrontal cortex (PFC) is critical for self-ordered response sequencing.
+Patients with frontal lobe damage are impaired on response sequencing tasks, and 
+increased blood flow has been reported in ventrolateral and dorsolateral PFC in
+subjects performing such tasks. Previously, we have shown that large excitotoxic 
+lesions of the lateral PFC (LPFC) and orbitofrontal cortex FC (OFC), but not
+global prefrontal dopamine depletion, markedly impaired marmoset performance on a
+spatial self-ordered sequencing task (SSOST). To determine whether LPFC or OFC
+was responsible for the previously observed impairments and whether the
+underlying neural mechanism was modulated by serotonin, the present study
+compared the effects of selective LPFC and OFC excitotoxic lesions and
+5,7-DHT-induced PFC serotonin depletions in marmosets on SSOST performance.
+Severe and long-lasting impairments in SSOST performance, including robust
+perseverative responding, followed LPFC but not OFC lesions. The deficit was
+ameliorated by task manipulations that precluded perseveration. Depletions of
+serotonin within LPFC and OFC had no effect, despite impairing performance on a
+visual discrimination reversal task, thus providing further evidence for
+differential monaminergic regulation of prefrontal function. In the light of the 
+proposed attentional control functions of ventrolateral PFC and the failure of
+LPFC-lesioned animals to disengage from the immediately preceding response, it is
+proposed that this deficit may be due to a failure to attend to and register that
+a response has been made and thus should not be repeated. However, 5-HT does not 
+appear to be implicated in this response inhibitory capacity.
+
+DOI: 10.1523/JNEUROSCI.0312-09.2009 
+PMCID: PMC4263250
+PMID: 19420270  [Indexed for MEDLINE]
+

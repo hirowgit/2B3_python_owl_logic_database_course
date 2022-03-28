@@ -1,0 +1,75 @@
+
+
+2977. Folia Primatol (Basel). 2002 Sep-Oct;73(5):240-51.
+
+Mitochondrial COII gene sequences provide new insights into the phylogeny of
+marmoset species groups (Callitrichidae, Primates).
+
+Sena L(1), Vallinoto M, Sampaio I, Schneider H, Ferrari SF, Schneider MP.
+
+Author information: 
+(1)DNA Polymorphism Laboratory, Department of Genetics, Universidade Federal do
+Pará, Belém, Brazil. sena@interconect.com.br
+
+Mitochondrial cytochrome oxidase II (COII) gene sequences (549 base pairs) were
+used to investigate the taxonomic relationships among 12 marmoset (Callithrix,
+Cebuella and Mico) taxa. A large number of substitutions were found in the third 
+base codon positions, providing a strong phylogenetic signal in a gene coding a
+conserved protein. Despite the significant affinity between the 2 Amazonian
+genera Cebuella and Mico, found in recent molecular studies, the analysis
+presented here did not resolve convincingly the phylogenetic relationships
+between the 3 genera. Mico nevertheless formed 3 distinct clades, reflecting a
+basic division of species groups based on geographic distribution (east or west
+of the Rio Tapajós) rather than morphology (presence or absence of auricular
+hair). This supports the taxonomic distinction of the allopatric emiliae forms.
+In Callithrix, Callithrix aurita forms a distinct clade, but the remaining
+morphotypes form a somewhat contradictory cluster, possibly resulting from an
+extremely rapid radiation.
+
+Copyright 2002 S. Karger AG, Basel
+
+DOI: 10.1159/000067456 
+PMID: 12566758  [Indexed for MEDLINE]
+
+
+2978. Genome Res. 2003 Feb;13(2):159-72.
+
+Genomic sequence and transcriptional profile of the boundary between
+pericentromeric satellites and genes on human chromosome arm 10p.
+
+Guy J(1), Hearn T, Crosier M, Mudge J, Viggiano L, Koczan D, Thiesen HJ, Bailey
+JA, Horvath JE, Eichler EE, Earthrowl ME, Deloukas P, French L, Rogers J, Bentley
+D, Jackson MS.
+
+Author information: 
+(1)The Institute of Human Genetics, The International Centre for Life, University
+of Newcastle upon Tyne, Newcastle upon Tyne NE1 3BZ, UK.
+
+Contiguous finished sequence from highly duplicated pericentromeric regions of
+human chromosomes is needed if we are to understand the role of pericentromeric
+instability in disease, and in gene and karyotype evolution. Here, we have
+constructed a BAC contig spanning the transition from pericentromeric satellites 
+to genes on the short arm of human chromosome 10, and used this to generate 1.4
+Mb of finished genomic sequence. Combining RT-PCR, in silico gene prediction, and
+paralogy analysis, we can identify two domains within the sequence. The proximal 
+600 kb consists of satellite-rich pericentromerically duplicated DNA which is
+transcript poor, containing only three unspliced transcripts. In contrast, the
+distal 850 kb contains four known genes (ZNF248, ZNF25, ZNF33A, and ZNF37A) and
+up to 32 additional transcripts of unknown function. This distal region also
+contains seven out of the eight intrachromosomal duplications within the
+sequence, including the p arm copy of the approximately 250-kb duplication which 
+gave rise to ZNF33A and ZNF33B. By sequencing orthologs of the duplicated ZNF33
+genes we have established that ZNF33A has diverged significantly at residues
+critical for DNA binding but ZNF33B has not, indicating that ZNF33B has remained 
+constrained by selection for ancestral gene function. These results provide
+further evidence of gene formation within intrachromosomal duplications, but
+indicate that recent interchromosomal duplications at this centromere have
+involved transcriptionally inert, satellite rich DNA, which is likely to be
+heterochromatic. This suggests that any novel gene structures formed by these
+interchromosomal events would require relocation to a more open chromatin
+environment to be expressed.
+
+DOI: 10.1101/gr.644503 
+PMCID: PMC420363
+PMID: 12566394  [Indexed for MEDLINE]
+

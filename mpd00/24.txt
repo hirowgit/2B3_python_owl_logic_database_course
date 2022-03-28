@@ -1,0 +1,45 @@
+
+
+24. J Neurosci. 2011 May 11;31(19):7190-8. doi: 10.1523/JNEUROSCI.1171-11.2011.
+
+Characterization of 3,4-methylenedioxymethamphetamine (MDMA) enantiomers in vitro
+and in the MPTP-lesioned primate: R-MDMA reduces severity of dyskinesia, whereas 
+S-MDMA extends duration of ON-time.
+
+Huot P(1), Johnston TH, Lewis KD, Koprich JB, Reyes MG, Fox SH, Piggott MJ,
+Brotchie JM.
+
+Author information: 
+(1)Toronto Western Research Institute, Toronto Western Hospital, University
+Health Network, Toronto, Ontario M5T 2S8, Canada.
+
+l-3,4-dihydroxyphenylalanine (l-DOPA) is the most effective treatment for
+Parkinson's disease, but long-term l-DOPA administration is marred by the
+emergence of motor complications, namely, dyskinesia and a shortening of
+antiparkinsonian benefit (wearing-OFF). 3,4-methylenedioxymethamphetamine (MDMA) 
+is unique in that it exerts antidyskinetic effects and may enhance
+antiparkinsonian actions of l-DOPA. MDMA is composed of two enantiomers with
+different pharmacological profiles; here, we describe a novel enantiospecific
+synthesis of the two enantiomers and expand on the previous characterization of
+their pharmacology. R-MDMA (rectus-MDMA) is relatively selective for 5-HT(2A)
+receptors, whereas S-MDMA (sinister-MDMA) inhibits both serotonin (SERT) and
+dopamine transporters (DAT; SERT/DAT ratio of 10 to 1). R- or S-MDMA (1, 3, and
+10 mg/kg, s.c.) was administered in combination with l-DOPA (15 mg/kg, s.c.) to
+six female common marmosets (Callithrix jacchus) rendered parkinsonian by MPTP
+(1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine) administration. Motor disability, 
+including parkinsonism and dyskinesia, and duration of antiparkinsonian benefit
+(ON-time) were evaluated. After the administration of R-MDMA (3 and 10 mg/kg),
+the severity of peak-dose dyskinesia was decreased (by 33 and 46%, respectively; 
+p < 0.05); although total ON-time was unchanged (approximately 220 min), the
+duration of ON-time with disabling dyskinesia was decreased by 90 min when
+compared to l-DOPA alone (69% reduction; p < 0.05). S-MDMA (1 mg/kg) increased
+the total ON-time by 88 min compared to l-DOPA alone (34% increase; p < 0.05),
+though dyskinesia were exacerbated. These data suggest that racemic MDMA exerts
+simultaneous effects, reducing dyskinesia and extending ON-time, by 5-HT(2A)
+antagonism and SERT-selective mixed monoamine uptake inhibition, which arise from
+its R and S enantiomers, respectively.
+
+DOI: 10.1523/JNEUROSCI.1171-11.2011 
+PMCID: PMC6703214
+PMID: 21562283  [Indexed for MEDLINE]
+

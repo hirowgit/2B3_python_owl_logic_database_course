@@ -1,0 +1,75 @@
+
+
+2588. Proc Natl Acad Sci U S A. 2006 Feb 14;103(7):2280-5. Epub 2006 Feb 3.
+
+Antibodies to native myelin oligodendrocyte glycoprotein are serologic markers of
+early inflammation in multiple sclerosis.
+
+Lalive PH(1), Menge T, Delarasse C, Della Gaspera B, Pham-Dinh D, Villoslada P,
+von Büdingen HC, Genain CP.
+
+Author information: 
+(1)Department of Neurology, University of California, San Francisco, CA 94143,
+USA.
+
+Myelin oligodendrocyte glycoprotein (MOG) is an integral membrane protein
+expressed in CNS oligodendrocytes and outermost myelin lamellae. Anti-MOG Abs
+cause myelin destruction (demyelination) in animal models of multiple sclerosis
+(MS); however, such pathogenic Abs have not yet been characterized in humans.
+Here, a method that specifically detects IgG binding to human MOG in its native, 
+membrane-embedded conformation on MOG-transfected mammalian cells was used to
+evaluate the significance of these auto Abs. Compared with healthy controls,
+native MOG-specific IgGs were most frequently found in serum of clinically
+isolated syndromes (P < 0.001) and relapsing-remitting MS (P < 0.01), only
+marginally in secondary progressive MS (P < 0.05), and not at all in primary
+progressive MS. We demonstrate that epitopes exposed in this cell-based assay are
+different from those exposed on the refolded, extracellular domain of human
+recombinant MOG tested by solid-phase ELISA. In marmoset monkeys induced to
+develop MS-like CNS inflammatory demyelination, IgG reactivity against the native
+membrane-bound MOG is always detected before clinical onset of disease (P <
+0.0001), unlike that against other myelin constituents. We conclude that (i)
+epitopes displayed on native, glycosylated MOG expressed in vivo are early
+targets for pathogenic Abs; (ii) these Abs, which are not detected in solid-phase
+assays, might be the ones to play a pathogenic role in early MS with predominant 
+inflammatory activity; and (iii) the cell-based assay provides a practical
+serologic marker for early detection of CNS autoimmune demyelination including
+its preclinical stage at least in the primate MS model.
+
+DOI: 10.1073/pnas.0510672103 
+PMCID: PMC1413723
+PMID: 16461459  [Indexed for MEDLINE]
+
+
+2589. Cancer Lett. 2006 Feb 8;232(2):189-98.
+
+siRNA targeting LMP1-induced apoptosis in EBV-positive lymphoma cells is
+associated with inhibition of telomerase activity and expression.
+
+Mei YP(1), Zhu XF, Zhou JM, Huang H, Deng R, Zeng YX.
+
+Author information: 
+(1)Department of Experimental Research, State Key Laboratory of Oncology in
+Southern China, Cancer Center, Sun Yat-sen University, 651 DongFeng Road East,
+GuangZhou 510060, China.
+
+Epstein-Barr Virus (EBV) is closely associated with B cell malignancies. However,
+whether EBV appears to be absolutely required for cell proliferation and survival
+in lymphoma cells is still unknown. In this study, small interfering RNA (siRNA) 
+targeting LMP1 was employed to investigate the effect of LMP1 on cell
+proliferation in EBV-positive lymphoblastoid B-cell line. A plasmid stable
+encoding 21-nt small RNA specifically and efficiently interfering LMP1 was
+constructed, resulting in a substantial loss of LMP1 mRNA and a significantly
+decreased LMP1 protein expression. Our data demonstrated that cell proliferation 
+was completely inhibited and apoptosis was induced after knockdown of LMP1 gene
+in lymphoblastoid B-cell line. Also, we found that suppression of LMP1 caused
+downregulation of telomerase protein expression and decreased telomerase activity
+in lymphoma cells. In EBV-negative NPC cell line, transfection of plasmid
+expressing LMP1 greatly enhanced telomerase protein expression. Our results
+suggested that siRNA targeting LMP1 can induce apoptosis in EBV-positive lymphoma
+cells and is associated with inhibition of telomerase activity and expression.
+siRNA-directed LMP1 silencing may be of the therapeutic value for preventing and 
+treating those EBV-associated tumors.
+
+DOI: 10.1016/j.canlet.2005.02.010 
+PMID: 16458115  [Indexed for MEDLINE]
+

@@ -1,0 +1,49 @@
+
+
+2851. J Mol Endocrinol. 2004 Feb;32(1):115-28.
+
+Chorionic gonadotrophin beta subunit mRNA but not luteinising hormone beta
+subunit mRNA is expressed in the pituitary of the common marmoset (Callithrix
+jacchus).
+
+Müller T(1), Simoni M, Pekel E, Luetjens CM, Chandolia R, Amato F, Norman RJ,
+Gromoll J.
+
+Author information: 
+(1)Institute of Reproductive Medicine of the University, Domagkstrasse 11,
+D-48129 Münster, Germany.
+
+The pituitary gonadotrophins LH and FSH are responsible for regulation of
+gametogenesis in the testis and ovary. Chorionic gonadotrophin (CG), a third
+closely related glycoprotein hormone derived by gene duplication of the LHbeta
+gene and secreted by the placenta in primates, is essential for the rescue of the
+corpus luteum and maintenance of pregnancy. We have recently shown that marmoset 
+(m) CGbeta mRNA is highly expressed in the pituitary of the common marmoset
+(Callithrix jacchus) and that LH is less active than human CG in activating the
+human LH receptor lacking exon 10. To investigate further which gonadotrophin is 
+the actual ligand of the LH receptor (LHR) of the marmoset monkey that naturally 
+lacks exon 10, we identified and characterised the genomic organisation of the
+mLHbeta gene and its expression. Intergenic PCR amplification of the region
+encompassing the mLHbeta and the mCGbeta genes revealed that, surprisingly,
+mCGbeta is located 20 kbp upstream of the LHbeta gene, whereas in other species
+the intergenic distance is approximately 2-3 kbp. Sequence analysis of the
+mLHbeta coding region showed 70% identity to mCGbeta and 90% identity to human
+LHbeta at the amino acid level. Both gonadotrophin beta subunits are present at
+the genomic level, but RT-PCR of pituitary and placental total RNA using specific
+oligonucleotides for mCGbeta and mLHbeta showed high expression of mCGbeta mRNA
+in both tissues, whereas LHbeta was expressed neither in the pituitary nor in the
+placenta. Thus mLHbeta mRNA is lacking in the marmoset pituitary.
+Immunohistochemistry of marmoset pituitaries showed that mCG was confined to the 
+gonadotrophes, and partly co-localised in cells stained positively for FSH.
+Western blot analysis confirmed the presence of mCG in the pituitary. Northern
+blot analysis using mCGbeta as a probe displayed one transcript of 0.7 kb in the 
+pituitary and detected two transcripts of 1.1 kb and 2 kb in the marmoset
+placenta. Our results suggest that, in the common marmoset, CG is the only
+gonadotrophin with luteinising function that is present in the pituitary. We
+postulate that, owing to an unknown mutational event in evolution, expression of 
+mLH was completely abolished, and CG - which, unlike LH, acts normally even when 
+exon 10 is missing from the LHR - took over its function.
+
+DOI: 10.1677/jme.0.0320115 
+PMID: 14765996  [Indexed for MEDLINE]
+

@@ -1,0 +1,37 @@
+
+
+1205. J Acoust Soc Am. 2015 Jun;137(6):3068-76. doi: 10.1121/1.4921607.
+
+The source-filter theory of whistle-like calls in marmosets: Acoustic analysis
+and simulation of helium-modulated voices.
+
+Koda H(1), Tokuda IT(2), Wakita M(1), Ito T(3), Nishimura T(1).
+
+Author information: 
+(1)Primate Research Institute, Kyoto University, Inuyama, Aichi 484-8506, Japan.
+(2)Department of Mechanical Engineering, Ritsumeikan University, Kusatsu, Shiga
+525-8577, Japan.
+(3)Department of Human Biology and Anatomy, Graduate School of Medicine,
+University of the Ryukyus, Nishihara, Okinawa 903-0215, Japan.
+
+Whistle-like high-pitched "phee" calls are often used as long-distance vocal
+advertisements by small-bodied marmosets and tamarins in the dense forests of
+South America. While the source-filter theory proposes that vibration of the
+vocal fold is modified independently from the resonance of the supralaryngeal
+vocal tract (SVT) in human speech, a source-filter coupling that constrains the
+vibration frequency to SVT resonance effectively produces loud tonal sounds in
+some musical instruments. Here, a combined approach of acoustic analyses and
+simulation with helium-modulated voices was used to show that phee calls are
+produced principally with the same mechanism as in human speech. The animal keeps
+the fundamental frequency (f0) close to the first formant (F1) of the SVT, to
+amplify f0. Although f0 and F1 are primarily independent, the degree of their
+tuning can be strengthened further by a flexible source-filter interaction, the
+variable strength of which depends upon the cross-sectional area of the laryngeal
+cavity. The results highlight the evolutionary antiquity and universality of the 
+source-filter model in primates, but the study can also explore the
+diversification of vocal physiology, including source-filter interaction and its 
+anatomical basis in non-human primates.
+
+DOI: 10.1121/1.4921607 
+PMID: 26093398  [Indexed for MEDLINE]
+

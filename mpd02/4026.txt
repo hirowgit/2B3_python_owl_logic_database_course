@@ -1,0 +1,46 @@
+
+
+4026. Eur J Biochem. 1994 Apr 1;221(1):53-62.
+
+Molecular evolution of alanine/glyoxylate aminotransferase 1 intracellular
+targeting. Analysis of the feline gene.
+
+Lumb MJ(1), Purdue PE, Danpure CJ.
+
+Author information: 
+(1)Biochemical Genetics Research Group, MRC Clinical Research Centre, Harrow,
+England.
+
+The subcellular distribution of hepatic alanine:glyoxylate aminotransferase 1
+(AGT) has changed, under the influence of dietary selection pressure, on several 
+o occasions during the evolution of mammals. In some species (e.g. human and
+rabbit) AGT is entirely peroxisomal; in other species (e.g. marmoset and rat)
+this enzyme is found in similar amounts in peroxisomes and mitochondria; in yet
+other species (e.g. cat) it is mainly mitochondrial. The molecular basis of the
+species-specific dual intracellular targeting of AGT has been partially
+elucidated in the human and rabbit (as examples of the first group), and in the
+rat and marmoset (as examples of the second group). As part of a wider study on
+the molecular evolution of AGT intracellular targeting, we report in the present 
+paper the results of an investigation into the molecular basis of the subcellular
+distribution of AGT in the cat (as an example of the third group). Cat liver AGT 
+cDNA has been cloned and sequenced, and shown to have a high degree of similarity
+to AGT from human, rabbit, marmoset and rat. Southern-blotting analysis showed
+that AGT in the cat is probably encoded by a single gene, as it is in other
+species. Transcript analysis by RNase protection indicated that almost all of the
+AGT mRNA would possess an open reading frame encoding a polypeptide of 414 amino 
+acids and a molecular mass of 45,508 Da. The N-terminal 22 amino acids comprised 
+the putative mitochondrial-targeting sequence (by analogy with the equivalent
+sequence in marmoset and rat pre-mitochondrial AGT). The very low level of
+peroxisomal AGT in cat liver is compatible with the absence of any
+RNase-protected transcripts initiating downstream of the first putative
+translation initiation codon (i.e. absence of any transcripts in which the
+mitochondrial-targeting sequence is excluded from the open reading frame). In
+vitro studies showed that the 45 kDa polypeptide was imported into rat liver
+mitochondria and processed to a mature protein of approximately 43 kDa,
+compatible with the cleavage of the N-terminal 22 amino acids, as is also the
+case in rat and marmoset. A polypeptide in which the N-terminal 22 amino acids
+was absent could not be imported into mitochondria in vitro.
+
+DOI: 10.1111/j.1432-1033.1994.tb18714.x 
+PMID: 8168541  [Indexed for MEDLINE]
+

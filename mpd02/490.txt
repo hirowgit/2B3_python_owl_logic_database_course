@@ -1,0 +1,51 @@
+
+
+490. Front Neural Circuits. 2019 May 8;13:29. doi: 10.3389/fncir.2019.00029.
+eCollection 2019.
+
+Large-Area Fluorescence and Electron Microscopic Correlative Imaging With
+Multibeam Scanning Electron Microscopy.
+
+Shibata S(1)(2), Iseda T(1)(2), Mitsuhashi T(3), Oka A(2), Shindo T(1)(2),
+Moritoki N(1), Nagai T(1), Otsubo S(2), Inoue T(4), Sasaki E(4), Akazawa C(5),
+Takahashi T(3), Schalek R(6), Lichtman JW(6), Okano H(1)(2)(7).
+
+Author information: 
+(1)Electron Microscope Laboratory, Keio University School of Medicine, Tokyo,
+Japan.
+(2)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+(3)Department of Pediatrics, Keio University School of Medicine, Tokyo, Japan.
+(4)Central Institute for Experimental Animals, Kawasaki, Japan.
+(5)Department of Biochemistry and Biophysics, Graduate School of Health Care
+Sciences, Tokyo Medical and Dental University, Tokyo, Japan.
+(6)Department of Molecular and Cellular Biology, Harvard University, Cambridge,
+MA, United States.
+(7)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wakō, Japan.
+
+Recent improvements in correlative light and electron microscopy (CLEM)
+technology have led to dramatic improvements in the ability to observe tissues
+and cells. Fluorescence labeling has been used to visualize the localization of
+molecules of interest through immunostaining or genetic modification strategies
+for the identification of the molecular signatures of biological specimens. Newer
+technologies such as tissue clearing have expanded the field of observation
+available for fluorescence labeling; however, the area of correlative observation
+available for electron microscopy (EM) remains restricted. In this study, we
+developed a large-area CLEM imaging procedure to show specific molecular
+localization in large-scale EM sections of mouse and marmoset brain. Target
+molecules were labeled with antibodies and sequentially visualized in cryostat
+sections using fluorescence and gold particles. Fluorescence images were obtained
+by light microscopy immediately after antibody staining. Immunostained sections
+were postfixed for EM, and silver-enhanced sections were dehydrated in a graded
+ethanol series and embedded in resin. Ultrathin sections for EM were prepared
+from fully polymerized resin blocks, collected on silicon wafers, and observed by
+multibeam scanning electron microscopy (SEM). Multibeam SEM has made rapid,
+large-area observation at high resolution possible, paving the way for the
+analysis of detailed structures using the CLEM approach. Here, we describe
+detailed methods for large-area CLEM in various tissues of both rodents and
+primates.
+
+DOI: 10.3389/fncir.2019.00029 
+PMCID: PMC6517476
+PMID: 31133819  [Indexed for MEDLINE]
+

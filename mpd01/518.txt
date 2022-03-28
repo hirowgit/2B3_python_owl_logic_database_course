@@ -1,0 +1,96 @@
+
+
+518. Sci Rep. 2019 Apr 2;9(1):5474. doi: 10.1038/s41598-019-41950-3.
+
+Epizootics due to Yellow Fever Virus in São Paulo State, Brazil: viral
+dissemination to new areas (2016-2017).
+
+Cunha MS(1), da Costa AC(2), de Azevedo Fernandes NCC(3), Guerra JM(3), Dos
+Santos FCP(4), Nogueira JS(4), D'Agostino LG(4), Komninakis SV(5)(6), Witkin
+SS(7)(8), Ressio RA(3), Maeda AY(4), Vasami FGS(4), Kaigawa UMA(4), de Azevedo
+LS(4), de Souza Facioli PA(4), Macedo FLL(4), Sabino EC(7), Leal É(9), de Souza
+RP(4).
+
+Author information: 
+(1)Vector-Borne Diseases Group, Virology Center, Adolfo Lutz Institute, Sao
+Paulo, Brazil. masequetin@gmail.com.
+(2)Institute of Tropical Medicine, University of Sao Paulo, Sao Paulo, Brazil.
+charlysbr@yahoo.com.br.
+(3)Pathology Center, Adolfo Lutz Institute, Sao Paulo, Brazil.
+(4)Vector-Borne Diseases Group, Virology Center, Adolfo Lutz Institute, Sao
+Paulo, Brazil.
+(5)Laboratory of Retrovirology, Federal University of Sao Paulo, Sao Paulo,
+Brazil.
+(6)Post-Graduate Program in Health Sciences, FMABC, Santo Andre, Brazil.
+(7)Institute of Tropical Medicine, University of Sao Paulo, Sao Paulo, Brazil.
+(8)Department of Obstetrics and Gynecology, Weill Cornell Medicine, New York, New
+York, USA.
+(9)Institute of Biological Sciences, Federal University of Para, Belem, Brazil.
+
+Beginning in late 2016 Brazil faced the worst outbreak of Yellow Fever in recent 
+decades, mainly located in southeastern rural regions of the country. In the
+present study we characterize the Yellow Fever Virus (YFV) associated with this
+outbreak in São Paulo State, Brazil. Blood or tissues collected from 430 dead
+monkeys and 1030 pools containing a total of 5,518 mosquitoes were tested for YFV
+by quantitative RT-PCR, immunohistochemistry (IHC) and indirect
+immunofluorescence. A total of 67 monkeys were YFV-positive and 3 pools yielded
+YFV following culture in a C6/36 cell line. Analysis of five nearly full length
+genomes of YFV from collected samples was consistent with evidence that the virus
+associated with the São Paulo outbreak originated in Minas Gerais. The
+phylogenetic analysis also showed that strains involved in the 2016-2017 outbreak
+in distinct Brazilian states (i.e., Minas Gerais, Rio de Janeiro, Espirito Santo)
+intermingled in maximum-likelihood and Bayesian trees. Conversely, the strains
+detected in São Paulo formed a monophyletic cluster, suggesting that they were
+local-adapted. The finding of YFV by RT-PCR in five Callithrix monkeys who were
+all YFV-negative by histopathology or immunohistochemistry suggests that this YFV
+lineage circulating in Sao Paulo is associated with different outcomes in
+Callithrix when compared to other monkeys.
+
+DOI: 10.1038/s41598-019-41950-3 
+PMCID: PMC6445104
+PMID: 30940867  [Indexed for MEDLINE]
+
+
+519. Cereb Cortex. 2019 Dec 17;29(12):5150-5165. doi: 10.1093/cercor/bhz054.
+
+Evolution of Brain Connections: Integrating Diffusion MR Tractography With Gene
+Expression Highlights Increased Corticocortical Projections in Primates.
+
+Charvet CJ(1), Palani A(2)(3), Kabaria P(2)(4), Takahashi E(2).
+
+Author information: 
+(1)Department of Psychology, Delaware State University, Dover, DE 19901, USA.
+(2)Division of Newborn Medicine, Department of Medicine, Boston Children's
+Hospital, Harvard Medical School, Boston, MA 02215, USA.
+(3)Medical Sciences in the College of Arts and Sciences, Boston University,
+Boston, MA 02215, USA.
+(4)Department of Behavioral Neuroscience, Northeastern University, Boston, MA
+02115, USA.
+
+Diffusion MR tractography permits investigating the 3D structure of cortical
+pathways as interwoven paths across the entire brain. We use high-resolution
+scans from diffusion spectrum imaging and high angular resolution diffusion
+imaging to investigate the evolution of cortical pathways within the
+euarchontoglire (i.e., primates, rodents) lineage. More specifically, we compare 
+cortical fiber pathways between macaques (Macaca mulatta), marmosets (Callithrix 
+jachus), and rodents (mice, Mus musculus). We integrate these observations with
+comparative analyses of Neurofilament heavy polypeptide (NEFH) expression across 
+the cortex of mice and primates. We chose these species because their
+phylogenetic position serves to trace the early evolutionary history of the human
+brain. Our comparative analysis from diffusion MR tractography, cortical white
+matter scaling, and NEFH expression demonstrates that the examined primates
+deviate from mice in possessing increased long-range cross-cortical projections, 
+many of which course across the anterior to posterior axis of the cortex. Our
+study shows that integrating gene expression data with diffusion MR data is an
+effective approach in identifying variation in connectivity patterns between
+species. The expansion of corticocortical pathways and increased anterior to
+posterior cortical integration can be traced back to an extension of neurogenetic
+schedules during development in primates.
+
+© The Author(s) 2019. Published by Oxford University Press. All rights reserved. 
+For Permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhz054 
+PMCID: PMC6918932
+PMID: 30927350  [Indexed for MEDLINE]
+

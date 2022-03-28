@@ -1,0 +1,66 @@
+
+
+4311. J Immunol. 1991 Apr 1;146(7):2176-84.
+
+Development of a monoclonal antibody, anti-6C2, which is involved in the
+interaction of CD4 T helper cells and activated B cells.
+
+Torimoto Y(1), Sugita K, Weinberg DS, Dang NH, Donahue C, Letvin NL, Schlossman
+SF, Morimoto C.
+
+Author information: 
+(1)Division of Tumor Immunology, Dana-Farber Cancer Institute, Boston, MA 02115.
+
+We have developed a mAb anti-6C2, by immunizing mice with T cell line derived
+from the Callithrix jacchus (common marmoset). Anti-6C2 is reactive with
+approximately 50% of unfractionated T cells, 50% of CD4+ cells, and 40% of CD8+
+cells. Regarding CD4+ cells, anti-6C2-reactive cells substantially overlap with
+the CD29+CD45RO+ Th cell population. Moreover, anti-6C2 can divide these T cells 
+into 6C2+ and 6C2- subpopulations. The CD4+CD45RO+6C2+ cells maximally respond to
+soluble Ag such as tetanus toxoid and provide strong helper function for
+PWM-driven B cell IgG synthesis. Most interestingly, anti-6C2 was also reactive
+against activated B cells but not resting B cells; furthermore, this epitope was 
+inducible through activation of resting B cells or B cell line. Biochemical
+characterization showed that anti-6C2 precipitated two glycoproteins with the
+relative molecular weights of 180,000 and 95,000 from 125I-surface labeled cell
+lysate. Sequential immunoprecipitation studies demonstrated that these two
+glycoproteins were the lymphocyte function-associated antigen (LFA-1) Ag complex 
+(CD11a/18). Significantly, although this antibody did not inhibit cytotoxic
+killer T cell responses and Ag-induced T cell proliferation as did conventional
+anti-LFA-1, it did inhibit PWM-driven B cell IgG synthesis. Because 6C2
+expression was induced after B cell activation, the above results strongly
+suggest that the 6C2 molecule may play a role in the interaction of CD4 helper
+cells and activated B lymphocytes.
+
+
+PMID: 1706389  [Indexed for MEDLINE]
+
+
+4312. Physiol Behav. 1991 Mar;49(3):557-62.
+
+Penile spines affect copulatory behaviour in a primate (Callithrix jacchus).
+
+Dixson AF(1).
+
+Author information: 
+(1)Primate Centre, Centre International de Recherches Médicales de Franceville,
+Gabon.
+
+Androgen-dependent, keratinized "spines" occur on the glans penis in many
+rodents, primates and other mammals. Since penile spines overlie dermal tactile
+receptors, they may play a role in copulatory behaviour. An experiment was
+conducted to test this hypothesis. Sixteen sexually experienced adult male
+marmosets were paired with ovariectomized females before, and after, removal of
+penile spines (using thioglycollate cream applied to the glans under anaesthesia)
+or a sham operation. Spine removal resulted in an increased duration of
+preintromission pelvic thrusting (mean +/- s.e.m. from 6.87 +/- 1.09 to 14.94 +/-
+3.32 s, p = 0.05) and of intromitted thrusting (from 1.73 +/- 0.11 to 2.0 +/-
+0.11 s, p less than 0.05). Three males exhibited partial intromissions during
+some postspinectomy tests, an effect which had not been observed prior to the
+operation. Sham operations had no behavioural effects. Results indicate that
+penile spines play a significant (but not indispensible) role in sensory feedback
+during copulation in this primate species.
+
+DOI: 10.1016/0031-9384(91)90280-2 
+PMID: 2062934  [Indexed for MEDLINE]
+

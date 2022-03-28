@@ -1,0 +1,36 @@
+
+
+2636. J Med Chem. 2005 Sep 22;48(19):5921-31.
+
+Development of human calcitonin gene-related peptide (CGRP) receptor antagonists.
+1. Potent and selective small molecule CGRP antagonists.
+1-[N2-[3,5-dibromo-N-[[4-(3,4-dihydro-2(1H)-oxoquinazolin-3-yl)-1-piperidinyl]car
+bonyl]-D-tyrosyl]-l-lysyl]-4-(4-pyridinyl)piperazine: the first CGRP antagonist
+for clinical trials in acute migraine.
+
+Rudolf K(1), Eberlein W, Engel W, Pieper H, Entzeroth M, Hallermayer G, Doods H.
+
+Author information: 
+(1)Boehringer Ingelheim Pharma GmbH & Co. KG, Research Division, Birkendorfer
+Strasse 65, 88397 Biberach/RISS, Germany.
+klaus.rudolf@bc.boehringer-ingelheim.com
+
+Although the triptans have greatly improved the acute treatment of migraine
+headache, there are yet many shortcomings. Therefore, new strategies for the
+treatment of migraine are needed which offer advantages over current therapy,
+e.g. triptans. Our novel approach was based on the hypothesis that the release of
+calcitonin gene-related peptide (CGRP) could play a causative role in migraine
+headache. Thus we initiated a program aimed at the design and synthesis of small 
+molecule CGRP receptor antagonists. High throughput screening led to the
+identification of (R)-Tyr-(S)-Lys dipeptide-like compounds that showed weak but
+unequivocal binding to the human CGRP receptor. Lead optimization afforded highly
+potent CGRP antagonists, the prototype being compound 19 (BIBN4096). This
+compound exhibiting a favorable biological profile was selected for initial
+clinical trials. A proof of concept study indicated that intravenous application 
+of 19 was effective in the treatment of acute migraine headache. This finding
+strongly supports our initial working hypothesis that CGRP plays an important
+role in the pathophysiology of migraine.
+
+DOI: 10.1021/jm0490641 
+PMID: 16161996  [Indexed for MEDLINE]
+

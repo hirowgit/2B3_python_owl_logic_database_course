@@ -1,0 +1,81 @@
+
+
+504. Nat Commun. 2019 Apr 29;10(1):1975. doi: 10.1038/s41467-019-09813-7.
+
+Anatomical and functional investigation of the marmoset default mode network.
+
+Liu C(1), Yen CC(2), Szczupak D(2), Ye FQ(3), Leopold DA(3)(4), Silva AC(5).
+
+Author information: 
+(1)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD, 20892, USA. cirong.liu@nih.gov.
+(2)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD, 20892, USA.
+(3)Neurophysiology Imaging Facility, National Institute of Mental Health,
+National Institute of Neurological Disorders and Stroke, and National Eye
+Institute, National Institutes of Health, Bethesda, MD, 20892, USA.
+(4)Section on Cognitive Neurophysiology and Imaging, Laboratory of
+Neuropsychology, National Institute of Mental Health, National Institutes of
+Health, Bethesda, MD, 20892, USA.
+(5)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD, 20892, USA. afonso@pitt.edu.
+
+The default mode network (DMN) is associated with a wide range of brain
+functions. In humans, the DMN is marked by strong functional connectivity among
+three core regions: medial prefrontal cortex (mPFC), posterior parietal cortex
+(PPC), and the medial parietal and posterior cingulate cortex (PCC). Neuroimaging
+studies have shown that the DMN also exists in non-human primates, suggesting
+that it may be a conserved feature of the primate brain. Here, we found that, in 
+common marmosets, the dorsolateral prefrontal cortex (dlPFC; peak at A8aD) has
+robust fMRI functional connectivity and reciprocal anatomical connections with
+the posterior DMN core regions (PPC and PCC), while the mPFC has weak connections
+with the posterior DMN core regions. This strong dlPFC but weak mPFC connectivity
+in marmoset differs markedly from the stereotypical DMN in humans. The mPFC may
+be involved in brain functions that are further developed in humans than in other
+primates.
+
+DOI: 10.1038/s41467-019-09813-7 
+PMCID: PMC6488610
+PMID: 31036814  [Indexed for MEDLINE]
+
+
+505. J Comp Psychol. 2019 Nov;133(4):488-495. doi: 10.1037/com0000182. Epub 2019 Apr
+25.
+
+Common marmosets (Callithrix jacchus) evaluate third-party social interactions of
+human actors but Japanese monkeys (Macaca fuscata) do not.
+
+Kawai N(1), Nakagami A(1), Yasue M(1), Koda H(2), Ichinohe N(3).
+
+Author information: 
+(1)Department of Cognitive and Psychological Sciences.
+(2)Primate Research Institute.
+(3)Department of Ultrastructural Research.
+
+Reciprocity and cooperation are fundamental to human society and are observed in 
+nonhuman primates. Primates are not only sensitive to direct reciprocity and its 
+violation but also indirect reciprocity. Recent studies demonstrated that some
+primate species adjusted their behavior by observing others' interactions.
+Capuchin, marmoset, and squirrel monkeys avoided taking food from human actors
+who behaved nonreciprocally; however, no such empirical evidence among Old World 
+monkeys is available. Here, we show that common marmosets, which are a highly
+prosocial species, discriminated between human actors who reciprocated in social 
+exchanges and those who did not; however, Japanese monkeys, who are renowned for 
+despotic social relationships, did not. In the reciprocal condition, 2 human
+actors exchanged food equally, whereas in the nonreciprocal condition, 1 actor
+(nonreciprocator) ended up with all the food and the other actor with none. The
+common marmosets avoided receiving food from the nonreciprocator in the
+nonreciprocal condition. Nevertheless, the Japanese monkeys did not show
+differential preferences in either condition. These results suggest a crucial
+role for prosocial tendencies in monkeys' responses to asymmetric exchanges and
+indicate that third-party social evaluations are not homologous among primates.
+Further comparative studies with direct comparisons will be required to explore
+the underlying mechanism of third-party social evaluations. (PsycINFO Database
+Record (c) 2019 APA, all rights reserved).
+
+DOI: 10.1037/com0000182 
+PMID: 31021114  [Indexed for MEDLINE]
+

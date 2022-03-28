@@ -1,0 +1,63 @@
+
+
+1166. J Neuroinflammation. 2015 Sep 17;12:169. doi: 10.1186/s12974-015-0378-5.
+
+Immune profile of an atypical EAE model in marmoset monkeys immunized with
+recombinant human myelin oligodendrocyte glycoprotein in incomplete Freund's
+adjuvant.
+
+Jagessar SA(1)(2), Heijmans N(3), Blezer EL(4), Bauer J(5), Weissert R(6), 't
+Hart BA(7)(8)(9).
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Centre, P.O. Box
+3306, 2280, GH, Rijswijk, The Netherlands. jagessar@bprc.nl.
+(2)ErasMS Centre, Erasmus Medical Center, Rotterdam, The Netherlands.
+jagessar@bprc.nl.
+(3)Department of Immunobiology, Biomedical Primate Research Centre, P.O. Box
+3306, 2280, GH, Rijswijk, The Netherlands.
+(4)Image Sciences Institute, University Medical Center Utrecht, Utrecht, The
+Netherlands.
+(5)Center for Brain Research, Medical University of Vienna, Vienna, Austria.
+jan.bauer@meduniwien.ac.at.
+(6)Department of Neurology, University of Regensburg, Regensburg, Germany.
+(7)Department of Immunobiology, Biomedical Primate Research Centre, P.O. Box
+3306, 2280, GH, Rijswijk, The Netherlands. hart@bprc.nl.
+(8)ErasMS Centre, Erasmus Medical Center, Rotterdam, The Netherlands.
+hart@bprc.nl.
+(9)Department of Neuroscience, University of Groningen, Groningen, The
+Netherlands. hart@bprc.nl.
+
+BACKGROUND: Experimental autoimmune encephalomyelitis (EAE) in the common
+marmoset monkey (Callithrix jacchus) is a relevant preclinical model for
+translational research into immunopathogenic mechanisms operating in multiple
+sclerosis (MS). Prior studies showed a core pathogenic role of T and B cells
+specific for myelin oligodendrocyte glycoprotein (MOG). However, in those
+studies, the quality of the response against MOG epitopes was strongly biased by 
+bacterial antigens in the complete Freund's adjuvant (CFA), in which the
+immunizing recombinant human (rh) MOG protein had been formulated. In response to
+the need of a more refined EAE model, we have tested whether disease could also
+be induced with rhMOG in incomplete Freund's adjuvant (IFA).
+METHOD: Marmosets were immunized with rhMOG emulsified in IFA in the dorsal skin.
+Monkeys that did not develop neurological deficit were given booster
+immunizations at 28-day interval with the same antigen preparation. In a second
+experiment, three marmoset twin pairs were sensitized against MOG peptides in IFA
+to study a possibility for suppressive activity towards pathogenic T cells
+directed against the encephalitogenic epitope MOG40-48.
+RESULTS: Despite the absence of strong danger signals in the rhMOG/IFA inoculum, 
+all monkeys developed clinically evident EAE symptoms. Moreover, in all monkeys, 
+demyelinated lesions were present in the white matter and in two cases also in
+the cortical grey matter. Immune profiling at height of the disease showed a
+dominant T cell response against the overlapping peptides 14-36 and 24-46, but
+reactivity against the pathogenically most relevant peptide 34-56 was
+conspicuously absent. In the second experiment, there was an indication for a
+possible suppressive mechanism.
+CONCLUSIONS: Immunization of marmoset monkeys with rhMOG in IFA elicits clinical 
+EAE in all animals. Moreover, rhMOG contains pathogenic and regulatory epitopes, 
+but the pathogenic hierarchy of rhMOG epitopes is strongly influenced by the
+adjuvant in which the protein is formulated.
+
+DOI: 10.1186/s12974-015-0378-5 
+PMCID: PMC4574133
+PMID: 26377397  [Indexed for MEDLINE]
+

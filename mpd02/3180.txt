@@ -1,0 +1,32 @@
+
+
+3180. Mol Cell Biochem. 2001 Feb;218(1-2):157-63.
+
+Identification of beta subunit of the rhesus monkey chorionic gonadotropin
+(rmCG).
+
+Chen Y(1), Liu Z, Wang B, Peng JP.
+
+Author information: 
+(1)State Key Laboratory of Reproductive Biology, Institute of Zoology, Chinese
+Academy of Sciences, Beijing.
+
+Chorionic gonadotropin (CG) is a placental derived hormone that plays a crucial
+role in successful implantation and establishment of early pregnancy in the
+primates. The rhesus monkey was chosen as a model to understand the feasibility
+of developing human DNA immuno-contraceptive. The coding region of rhesus monkey 
+CG beta-subunit (rmCGbeta) was isolated by the TDRT-PCR method. The nucleotide
+sequence including the leader peptide was 499 nucleotide long and encoded 166
+amino acids. In comparing with the previous known primates CG beta-subunits, the 
+rmCGbeta was the highest degree of homology with baboon CG beta-subunit at the
+deduced amino acid sequence (94%), 79.5% homology with human CG beta-subunit and 
+70.4% homology with marmoset monkey CG beta-subunit. The eukaryotic expression
+vector pCMV4-rmCGbeta inserted full-coding cDNA sequence of rmCGbeta was
+constructed, and the expression of rmCG beta-subunit in HeLa cells transient
+expressing system in vitro and BALB/c mice in vivo was determined. The results
+demonstrated that the recombinant PCMV4-rmCGbeta eukaryotic expression vector
+could express rmCG beta-subunit in vitro and in vivo.
+
+DOI: 10.1023/a:1007233329355 
+PMID: 11330831  [Indexed for MEDLINE]
+

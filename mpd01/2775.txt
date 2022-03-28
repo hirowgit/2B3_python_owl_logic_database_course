@@ -1,0 +1,82 @@
+
+
+2775. Endocrinology. 2005 Jan;146(1):365-74. Epub 2004 Sep 30.
+
+Male marmoset monkeys express an adrenal fetal zone at birth, but not a zona
+reticularis in adulthood.
+
+Pattison JC(1), Abbott DH, Saltzman W, Nguyen AD, Henderson G, Jing H, Pryce CR, 
+Allen AJ, Conley AJ, Bird IM.
+
+Author information: 
+(1)Perinatal Research Laboratories, University of Wisconsin-Madison, Madison,
+Wisconsin 53715, USA.
+
+Neonatal human males produce high levels of dehydroepiandrosterone (DHEA) and its
+sulfo-conjugated form (DS) that decline within a few months of birth, due to
+regression of the adrenal fetal zone (FZ). Adult male humans and rhesus monkeys
+produce C19 steroids in abundance from the adrenal zona reticularis (ZR). Male
+marmoset monkeys produce DS at birth, but unlike humans and rhesus monkeys, do
+not produce comparable amounts of DHEA and DS in adulthood. To determine whether 
+male marmosets express a functional ZR in adulthood, we examined adult and
+neonatal male marmosets for the presence of a ZR and FZ, respectively. Exogenous 
+ACTH failed to stimulate DHEA or DS in adults, and dexamethasone treatment failed
+to suppress DHEA and DS, although cortisol levels changed as expected. In
+steroidogenic tissues, the key proteins necessary to synthesize C19 steroids from
+pregnenolone are P450c17, 3beta-hydroxysteroid dehydrogenase (3beta-HSD),
+nicotinamide adenine dinucleotide phosphate (reduced) oxido-reductase cytochrome 
+P450 (reductase), and cytochromeb5 (cytb5). Adult adrenal cross sections showed
+P450c17 and reductase protein expression throughout the cortex but showed no
+expected decrease in 3beta-HSD and increase in cytb5 in the innermost region.
+Western analysis confirmed these data, demonstrating comparable P450c17
+expression to rhesus monkeys, but not cytb5. HPLC analysis revealed similar
+17alpha-hydroxylase action on pregnenolone for adult marmoset and rhesus adrenal 
+microsomes but greatly diminished 17,20-lyase activity in marmosets. Neonatal
+marmoset adrenals exhibited staining indicative of a putative FZ (with P450c17,
+reduced 3beta-HSD and increased cytb5). We conclude that neonatal marmosets
+exhibit a C19 steroid-secreting FZ similar to humans, but adult males fail to
+acquire a functional ZR.
+
+DOI: 10.1210/en.2004-0689 
+PMID: 15459122  [Indexed for MEDLINE]
+
+
+2776. Am J Phys Anthropol. 2004 Dec;125(4):343-51.
+
+New technique for studying reaction forces during primate behaviors on vertical
+substrates.
+
+Vinyard CJ(1), Schmitt D.
+
+Author information: 
+(1)Department of Biological Anthropology and Anatomy, Duke University Medical
+Center, Durham, North Carolina 27710, USA. cvinyard@neoucom.edu
+
+Recording reaction forces from primates during behaviors on vertical substrates, 
+such as leaping, climbing, or biting trees, typically requires the design and
+construction of customized recording devices or mounting commercially available
+force platforms in a vertical position. The technical difficulties imposed by
+either option have hindered in vivo research on the kinetics of primate behaviors
+on vertical substrates. We describe a simple, inexpensive apparatus for recording
+forces from primate behaviors on vertical substrates. The apparatus includes an
+instrumented beam fastened directly to a horizontal force platform and a
+surrounding vertical substrate that does not contact the instrumented beam or
+platform. The contact piece at the end of the instrumented beam is positioned
+flush with the noninstrumented vertical substrate, and reaction forces elicited
+on this instrumented section are directed to the force platform. Because most of 
+the vertical substrate is not instrumented, we can isolate and record forces from
+a single limb or jaw during a behavior. Biewener and Full ([1992] Biomechanics
+Structures and Positions: A Practical Approach; New York: Oxford University
+press, p. 45-73) gave seven criteria to consider when designing a customized
+force-recording device. Where appropriate, we tested if our apparatus met their
+criteria. The apparatus accurately records forces in three orthogonal directions,
+has low cross-talk, maintains a high frequency response, exhibits a linear
+response up to at least 200 Newtons, and displays a uniform response to a given
+force across the instrumented contact piece. Our design does not easily
+facilitate the identification of the point of force application. Therefore, joint
+moments cannot be easily calculated. This limitation, however, does not affect
+the apparatus's ability to accurately record the magnitude and direction of a
+force (as shown by other tests). We developed this apparatus to measure jaw
+forces during tree gouging in common marmosets (Callithrix jacchus), but the
+general design can be readily modified to study a variety of primate behaviors on
+vertical substrates.

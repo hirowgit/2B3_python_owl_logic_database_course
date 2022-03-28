@@ -1,0 +1,108 @@
+
+
+1414. Front Behav Neurosci. 2014 Apr 24;8:137. doi: 10.3389/fnbeh.2014.00137.
+eCollection 2014.
+
+Individual differences in behavioral and cardiovascular reactivity to emotive
+stimuli and their relationship to cognitive flexibility in a primate model of
+trait anxiety.
+
+Shiba Y(1), Santangelo AM(1), Braesicke K(1), Agustín-Pavón C(1), Cockcroft G(2),
+Haggard M(3), Roberts AC(1).
+
+Author information: 
+(1)Department of Physiology, Development and Neuroscience, University of
+Cambridge Cambridge, UK ; Behavioural and Clinical Neuroscience Institute,
+University of Cambridge Cambridge, UK.
+(2)Behavioural and Clinical Neuroscience Institute, University of Cambridge
+Cambridge, UK ; Department of Psychology, University of Cambridge Cambridge, UK.
+(3)Department of Psychology, University of Cambridge Cambridge, UK.
+
+High trait anxiety is a risk factor for the development of anxiety disorders.
+Like the disorders themselves high trait anxiety has marked phenotypic variation 
+at the level of symptomatology and neural circuits, suggesting that there may be 
+different symptoms and distinct neural circuits associated with risk for these
+disorders. To address these issues, it is essential to develop reliable animal
+models of trait anxiety in a non-human primate whose brain bears structural and
+functional similarity to humans. The present study investigated individual
+variation in responsivity to fearful and anxiety provoking stimuli in the common 
+marmoset monkey. Seven out of 27 animals failed to display discriminative,
+conditioned cardiovascular and behavioral responses on an auditory fear
+discrimination task, similar to that seen in high anxious humans and rodents.
+Their heightened emotionality to a rubber snake was consistent with the
+hypothesis that they were high in trait-like anxiety. Evidence for phenotypic
+variation in the high anxiety group was provided by the finding that
+discrimination failure was predicted early in conditioning by either
+hyper-vigilant scanning to the cues or a reduction in blood pressure to the
+context, i.e., test apparatus. Given that high trait anxiety in humans can be
+associated with altered prefrontal cognitive functioning and previously we
+implicated the marmoset anterior orbitofrontal (antOFC) and ventrolateral
+prefrontal cortex (vlPFC) in negative emotion regulation, we also tested the
+marmosets on two tests of cognitive flexibility differentially dependent on these
+two regions. While the high anxious group did not differ overall in their
+perseverative performance, the two distinct phenotypes were differentially
+correlated with reduced perseverative responding on the OFC- and vlPFC-dependent 
+flexibility tests. Together, this study provides a new model of trait anxiety in 
+marmosets amenable to analysis of phenotypic variation and neural circuitry.
+
+DOI: 10.3389/fnbeh.2014.00137 
+PMCID: PMC4006051
+PMID: 24795587 
+
+
+1415. J Pharmacol Exp Ther. 2014 Jul;350(1):153-63. doi: 10.1124/jpet.114.214155. Epub 
+2014 Apr 30.
+
+GSK356278, a potent, selective, brain-penetrant phosphodiesterase 4 inhibitor
+that demonstrates anxiolytic and cognition-enhancing effects without inducing
+side effects in preclinical species.
+
+Rutter AR(1), Poffe A(2), Cavallini P(2), Davis TG(2), Schneck J(2), Negri M(2), 
+Vicentini E(2), Montanari D(2), Arban R(2), Gray FA(2), Davies CH(2), Wren PB(2).
+
+Author information: 
+(1)GlaxoSmithKline, Discovery Medicine, Stevenage, Herts, United Kingdom (F.A.G.,
+P.B.W.); GlaxoSmithKline, Neural Pathways Discovery Performance Unit, Biopolis,
+Singapore (A.R.R., C.H.D.); GlaxoSmithKline, Neurosciences Centre of Excellence
+for Drug Discovery, Verona, Italy (A.P., P.C., M.N., E.V., D.M., R.A.);
+GlaxoSmithKline, Molecular Discovery Research, Collegeville, Pennsylvania (J.S.);
+and GlaxoSmithKline, Respiratory Centre of Excellence for Drug Discovery, King of
+Prussia, Pennsylvania (T.G.D.) Richard.a.rutter@gsk.com.
+(2)GlaxoSmithKline, Discovery Medicine, Stevenage, Herts, United Kingdom (F.A.G.,
+P.B.W.); GlaxoSmithKline, Neural Pathways Discovery Performance Unit, Biopolis,
+Singapore (A.R.R., C.H.D.); GlaxoSmithKline, Neurosciences Centre of Excellence
+for Drug Discovery, Verona, Italy (A.P., P.C., M.N., E.V., D.M., R.A.);
+GlaxoSmithKline, Molecular Discovery Research, Collegeville, Pennsylvania (J.S.);
+and GlaxoSmithKline, Respiratory Centre of Excellence for Drug Discovery, King of
+Prussia, Pennsylvania (T.G.D.).
+
+Small molecule phosphodiesterase (PDE) 4 inhibitors have long been known to show 
+therapeutic benefit in various preclinical models of psychiatric and neurologic
+diseases because of their ability to elevate cAMP in various cell types of the
+central nervous system. Despite the registration of the first PDE4 inhibitor,
+roflumilast, for the treatment of chronic obstructive pulmonary disease, the
+therapeutic potential of PDE4 inhibitors in neurologic diseases has never been
+fulfilled in the clinic due to severe dose-limiting side effects such as nausea
+and vomiting. In this study, we describe the detailed pharmacological
+characterization of GSK356278
+[5-(5-((2,4-dimethylthiazol-5-yl)methyl)-1,3,4-oxadiazol-2-yl)-1-ethyl-N-(tetrahy
+dro-2H-pyran-4-yl)-1H-pyrazolo[3,4-b]pyridin-4-amine], a potent, selective, and
+brain-penetrant PDE4 inhibitor that shows a superior therapeutic index to both
+rolipram and roflumilast in various preclinical species and has potential for
+further development in the clinic for the treatment of psychiatric and neurologic
+diseases. GSK356278 inhibited PDE4B enzyme activity with a pIC50 of 8.8 and bound
+to the high-affinity rolipram binding site with a pIC50 of 8.6. In preclinical
+models, the therapeutic index as defined in a rodent lung inflammation model
+versus rat pica feeding was >150 compared with 0.5 and 6.4 for rolipram and
+roflumilast, respectively. In a model of anxiety in common marmosets, the
+therapeutic index for GSK356278 was >10 versus <1 for rolipram. We also
+demonstrate that GSK356278 enhances performance in a model of executive function 
+in cynomolgus macaques with no adverse effects, a therapeutic profile that
+supports further evaluation of GSK356278 in a clinical setting.
+
+Copyright © 2014 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/jpet.114.214155 
+PMID: 24784567  [Indexed for MEDLINE]
+

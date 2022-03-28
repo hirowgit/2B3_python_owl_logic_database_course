@@ -1,0 +1,67 @@
+
+
+3110. Neuropharmacology. 2002 Jan;42(1):74-81.
+
+[3H]-SB-269970 radiolabels 5-HT7 receptors in rodent, pig and primate brain
+tissues.
+
+Thomas DR(1), Atkinson PJ, Hastie PG, Roberts JC, Middlemiss DN, Price GW.
+
+Author information: 
+(1)GlaxoSmithKline Pharmaceuticals, Psychiatry Centre of Excellence for Drug
+Discovery, New Frontiers Science Park (North), Third Avenue, CM19 5AW, Harlow,
+Essex, UK. david_r_thomas@sbphrd.com
+
+The selective 5-HT7 receptor antagonist radioligand, [3H]-SB-269970, has been
+reported to radiolabel the human cloned 5-HT7(a) receptor and 5-HT7 receptors in 
+guinea pig cortex (thomas et al, 2000). Saturation analysis of [3H]-SB-269970
+binding to mouse forebrain, rat cortex, pig cortex, marmoset cortex and human
+thalamus membranes was consistent with labelling a homogenous population of
+binding sites in each tissue. K(D) values for [3H]-SB-269970 binding in these
+tissues ranged from 0.9 to 2.3 nM, being similar to those reported for the human 
+cloned and guinea pig cortex 5-HT7 receptors (1.3 and 1.7 nM, respectively). Bmax
+values for [3H]-SB-269970 binding to the mouse, rat, pig, marmoset and human
+brain membranes were 20, 30, 31, 14 and 68 fmoles x mg x protein(-1),
+respectively. For each species the profile of inhibition of [3H]-SB-269970
+binding, using a number of 5-HT7 receptor agonists and antagonists, correlated
+well with that reported for the human cloned 5-HT7(a) receptor (correlation
+coefficients were 0.95, 0.94, 0.92, 0.95, 0.97 versus the mouse, rat, pig,
+marmoset and human tissues, respectively). In conclusion, [3H]-SB-269970 has been
+shown to radiolabel 5-HT7 receptors in rodent, pig and primate brain and
+represents a valuable tool with which to further characterise the distribution
+and function of 5-HT7 receptors in native tissues and elucidate their potential
+role in disease states.
+
+DOI: 10.1016/s0028-3908(01)00151-4 
+PMID: 11750917  [Indexed for MEDLINE]
+
+
+3111. J Med Virol. 2002 Jan;66(1):115-22.
+
+Pathogenicity of mumps virus in the marmoset.
+
+Saika S(1), Kidokoro M, Ohkawa T, Aoki A, Suzuki K.
+
+Author information: 
+(1)Chiba Serum Institute, Chiba, Japan. kaihatu@triton.ocn.ne.jp
+
+The neurovirulence of two mumps virus strains was compared using marmosets.
+Marmosets were inoculated intravenously with the wild-type mumps virus Odate
+strain, resulting in evident meningitis in 1 of 3 marmosets at each of the weeks 
+3, 4, and 5 postinoculation, representing a total of 3 out of 9 marmosets.
+Nephritis, parotitis, pancreatitis, and tonsillitis were manifest in addition to 
+central nervous system (CNS) sequelae. On the other hand, the Jeryl Lynn vaccine 
+strain did not induce histopathological changes in the CNS and multiplication of 
+the Jeryl Lynn strain was distinctly lower compared to that of the Odate strain
+in the marmoset. This is the first report to describe the induction of meningitis
+in non-human primates after peripheral inoculation of a wild-type mumps virus,
+presenting findings useful for the elucidation of the mechanism of infection and 
+pathology of mumps virus in the CNS. The distinction observed between the Odate
+and Jeryl Lynn strains suggests the applicability of the marmoset model for the
+evaluation of any neurovirulence potential of vaccine strains.
+
+Copyright 2002 Wiley-Liss, Inc.
+
+DOI: 10.1002/jmv.2119 
+PMID: 11748667  [Indexed for MEDLINE]
+

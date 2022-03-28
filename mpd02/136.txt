@@ -1,0 +1,45 @@
+
+
+136. Drug Metab Pharmacokinet. 2021 Aug;39:100398. doi: 10.1016/j.dmpk.2021.100398.
+Epub 2021 Apr 17.
+
+Cloning, sequence analysis, and tissue expression of marmoset paraoxonase 1.
+
+Uehara S(1), Uno Y(2), Shimizu M(1), Yamazaki H(3).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Japan.
+(2)Joint Faculty of Veterinary Medicine, Kagoshima University, Kagoshima-city,
+Japan.
+(3)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Japan. Electronic address: hyamazak@ac.shoyaku.ac.jp.
+
+Paraoxonase (PON) plays roles in the metabolism of organophosphate xenobiotics
+and drugs. Despite the importance of marmosets for research into drug metabolism 
+and pharmacokinetics, marmoset paraoxonase has not yet been fully characterized. 
+Consequently, we identified the PON1 gene in the marmoset genome by sequence
+homology analysis. Marmoset PON1 cDNA containing an open reading frame (1065 bp) 
+was successfully cloned from marmoset liver by reverse transcription-polymerase
+chain reaction. The deduced amino acid sequence (355 amino acids) has
+approximately 93% identity with the human ortholog and contains important amino
+acid residues for substrate binding and calcium ion coordination. According to a 
+phylogenetic tree of PON1 amino acid sequences constructed using data from seven 
+animal species, marmoset PON1 is closer to human PON1 than it is to the PON1
+orthologs of experimental animals such as pigs, rabbits, rats, and mice. Marmoset
+PON1 mRNA was predominantly expressed in liver among the five tissues examined.
+Marmoset PON1 protein secreted into plasma was detected by immunoblotting. The
+paraoxon-hydrolyzing activity in plasma was higher in marmosets than in humans.
+Based on these data, we concluded that marmoset and human PON1 have similar
+characteristics with regard to genomic structure, amino acid sequences, and
+tissue distribution.
+
+Copyright © 2021 The Japanese Society for the Study of Xenobiotics. Published by 
+Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.dmpk.2021.100398 
+PMID: 33992953  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that there are no conflicts of interest.
+

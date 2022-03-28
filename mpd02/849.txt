@@ -1,0 +1,42 @@
+
+
+849. Comp Med. 2017 Jun 1;67(3):253-262.
+
+Animal Models of Ebolavirus Infection.
+
+St Claire MC(1), Ragland DR(2), Bollinger L(2), Jahrling PB(3).
+
+Author information: 
+(1)Integrated Research Facility, Division of Clinical Research, National
+Institute of Allergy and Infectious Diseases, National Institutes of Health,
+Frederick, Maryland;, Email: stclairem@niaid.nih.gov.
+(2)Integrated Research Facility, Division of Clinical Research, National
+Institute of Allergy and Infectious Diseases, National Institutes of Health,
+Frederick, Maryland.
+(3)Integrated Research Facility, Division of Clinical Research, Emerging Viral
+Pathogens Section, National Institute of Allergy and Infectious Diseases,
+National Institutes of Health, Frederick, Maryland.
+
+Ebola virus is a highly pathogenic member of the family Filoviridae that causes a
+severe hemorrhagic disease in humans and NHP. The 2013-2016 West African outbreak
+has increased interest in the development and refinement of animal models of
+Ebola virus disease. These models are used to test countermeasures and vaccines, 
+gain scientific insights into the mechanisms of disease progression and
+transmission, and study key correlates of immunology. Ebola virus is classified
+as a BSL4 pathogen and Category A agent, for which the United States government
+requires preparedness in case of bioterrorism. Rodents, such as Syrian golden
+hamsters (Mesocricetus auratus), mice (Mus musculus), and guinea pigs (Cavia
+porcellus), are the most common research species. However, NHP, especially
+macaques, are favored for Ebola virus disease research due to similarities with
+humans regarding the pathogenesis, clinical presentation, laboratory findings,
+and causes of fatality. To satisfy the regulatory requirements for approval of
+countermeasures against high-consequence pathogens, the FDA instituted the Animal
+Rule, which permits efficacy studies in animal models in place of human clinical 
+data when such studies are not feasible or ethical. This review provides a
+comprehensive summary of various animal models and their use in Ebola virus
+disease research.
+
+
+PMCID: PMC5482517
+PMID: 28662754  [Indexed for MEDLINE]
+

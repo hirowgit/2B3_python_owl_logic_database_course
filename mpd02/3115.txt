@@ -1,0 +1,33 @@
+
+
+3115. Bioorg Med Chem. 2002 Feb;10(2):401-14.
+
+Novel 4,1-benzoxazepine derivatives with potent squalene synthase inhibitory
+activities.
+
+Miki T(1), Kori M, Mabuchi H, Banno H, Tozawa Ri, Nakamura M, Itokawa S, Sugiyama
+Y, Yukimasa H.
+
+Author information: 
+(1)Takeda Chemical Industries, Ltd. Pharmaceutical Research Division, 2-17-85,
+Juso-Honmachi, Yodogawa-ku, 532-8686, Osaka, Japan. Miki_Takashi@takeda.co.jp
+
+A series of (3,5-trans)-2-oxo-5-phenyl-1,2,3,5-tetrahydro-4,1-benzoxazepine
+derivatives were synthesized and evaluated for squalene synthase inhibitory and
+cholesterol biosynthesis inhibitory activities. Through modification of
+substituents of the lead compounds 1a and 1b, it was found that
+4,1-benzoxazepine-3-acetic acid derivatives with isobutyl and neopentyl groups at
+the 1-position, the chloro atom at the 7-position, and the chloro and methoxy
+groups at the 2'-position on the 5-phenyl ring, had potent squalene synthase
+inhibitory activity. Among such compounds, the 5-(2,3-dimethoxyphenyl) derivative
+2t exhibited potent inhibition of cholesterol biosynthesis in HepG2 cells. As a
+result of optical resolution study of 2t, the absolute stereochemistry required
+for inhibitory activity was determined to be 3R,5S. In vivo study showed that the
+sodium salt of
+(3R,5S)-7-chloro-5-(2,3-dimethoxyphenyl)-1-neopentyl-2-oxo-1,2,3,5-tetrahydro-4,1
+-benzoxazepine-3-acetic acid 20 effectively reduced plasma cholesterol in
+marmosets.
+
+DOI: 10.1016/s0968-0896(01)00290-5 
+PMID: 11741788  [Indexed for MEDLINE]
+

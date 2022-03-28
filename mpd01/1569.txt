@@ -1,0 +1,90 @@
+
+
+1569. Neuroimage. 2013 Sep;78:16-32. doi: 10.1016/j.neuroimage.2013.04.016. Epub 2013
+Apr 13.
+
+Mean apparent propagator (MAP) MRI: a novel diffusion imaging method for mapping 
+tissue microstructure.
+
+Özarslan E(1), Koay CG, Shepherd TM, Komlosh ME, İrfanoğlu MO, Pierpaoli C,
+Basser PJ.
+
+Author information: 
+(1)Section on Tissue Biophysics and Biomimetics, PPITS, NICHD, National
+Institutes of Health, Bethesda, MD 20892, USA. evren@bwh.harvard.edu
+
+Diffusion-weighted magnetic resonance (MR) signals reflect information about
+underlying tissue microstructure and cytoarchitecture. We propose a quantitative,
+efficient, and robust mathematical and physical framework for representing
+diffusion-weighted MR imaging (MRI) data obtained in "q-space," and the
+corresponding "mean apparent propagator (MAP)" describing molecular displacements
+in "r-space." We also define and map novel quantitative descriptors of diffusion 
+that can be computed robustly using this MAP-MRI framework. We describe efficient
+analytical representation of the three-dimensional q-space MR signal in a series 
+expansion of basis functions that accurately describes diffusion in many complex 
+geometries. The lowest order term in this expansion contains a diffusion tensor
+that characterizes the Gaussian displacement distribution, equivalent to
+diffusion tensor MRI (DTI). Inclusion of higher order terms enables the
+reconstruction of the true average propagator whose projection onto the unit
+"displacement" sphere provides an orientational distribution function (ODF) that 
+contains only the orientational dependence of the diffusion process. The
+representation characterizes novel features of diffusion anisotropy and the
+non-Gaussian character of the three-dimensional diffusion process. Other
+important measures this representation provides include the return-to-the-origin 
+probability (RTOP), and its variants for diffusion in one- and two-dimensions-the
+return-to-the-plane probability (RTPP), and the return-to-the-axis probability
+(RTAP), respectively. These zero net displacement probabilities measure the mean 
+compartment (pore) volume and cross-sectional area in distributions of isolated
+pores irrespective of the pore shape. MAP-MRI represents a new comprehensive
+framework to model the three-dimensional q-space signal and transform it into
+diffusion propagators. Experiments on an excised marmoset brain specimen
+demonstrate that MAP-MRI provides several novel, quantifiable parameters that
+capture previously obscured intrinsic features of nervous tissue microstructure. 
+This should prove helpful for investigating the functional organization of normal
+and pathologic nervous tissue.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2013.04.016 
+PMCID: PMC4059870
+PMID: 23587694  [Indexed for MEDLINE]
+
+
+1570. Behav Brain Res. 2013 Jul 1;248:144-50. doi: 10.1016/j.bbr.2013.04.001. Epub 2013
+Apr 8.
+
+Hand preference depends on posture in common marmosets.
+
+Hashimoto T(1), Yamazaki Y, Iriki A.
+
+Author information: 
+(1)Lab for Symbolic Cognitive Development, RIKEN Brain Science Institute,
+Saitama, Japan.
+
+Postural conditions are known to affect hand use in many primate species. It
+remains to be examined how posture and task differences modulate, or interact
+with, hand use in common marmosets (Callithrix jacchus). Three experimental
+conditions were introduced to assess the occurrence of preferential hand use as a
+function of posture and size of aperture for the subjects to grasp and retrieve
+the food item bi- or unimanually: ground level condition for requiring
+quadrupedal posture with enough space for food reaching with both hands, large
+hole (4 cm in diameter) condition for requiring upright posture with available
+space for both hands, and small hole (2 cm in diameter) condition for requiring
+upright posture with available space for only one hand. While the distribution of
+hand preference did not significantly differ among the three conditions at the
+group level, eight out of twelve marmosets did not change hands when identical
+upright postures were required in large and small hole conditions. Some marmosets
+simultaneously used both hands when both hands were free to reach the food items;
+however, the number of left hand users increased when the marmosets were forced
+to use either hand to pass through the reduced hole size. Significant
+correlations in hand use between the upright posture conditions were observed,
+whereas no correlation was observed between the different posture conditions.
+These results suggest that, although preferential hand use was not found at group
+level, posture, but not size of aperture, has effects on hand use in individual
+common marmosets.
+
+Copyright © 2013 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbr.2013.04.001 
+PMID: 23578761  [Indexed for MEDLINE]
+

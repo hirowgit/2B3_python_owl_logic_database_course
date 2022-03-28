@@ -1,0 +1,38 @@
+
+
+1481. PLoS One. 2013 Nov 11;8(11):e78793. doi: 10.1371/journal.pone.0078793.
+eCollection 2013.
+
+Characterization of circulating natural killer cells in neotropical primates.
+
+Carville A(1), Evans TI, Reeves RK.
+
+Author information: 
+(1)Division of Immunology, New England Primate Research Center, Harvard Medical
+School, Southborough Campus, Southborough, Massachusetts, United States of
+America.
+
+Despite extensive use of nonhuman primates as models for infectious diseases and 
+reproductive biology, imprecise phenotypic and functional definitions exist for
+natural killer (NK) cells. This deficit is particularly significant in the
+burgeoning use of small, less expensive New World primate species. Using
+polychromatic flow cytometry, we identified peripheral blood NK cells as
+CD3-negative and expressing a cluster of cell surface molecules characteristic of
+NK cells (i.e., NKG2A, NKp46, NKp30) in three New World primate species - common 
+marmosets, cotton-top tamarins, and squirrel monkeys. We then assessed subset
+distribution using the classical NK markers, CD56 and CD16. In all species,
+similar to Old World primates, only a minor subset of NK cells was CD56+, and the
+dominant subset was CD56-CD16+. Interestingly, CD56+ NK cells were primarily
+cytokine-secreting cells, whereas CD56-CD16+ NK cells expressed significantly
+greater levels of intracellular perforin, suggesting these cells might have
+greater potential for cytotoxicity. New World primate species, like Old World
+primates, also had a minor CD56-CD16- NK cell subset that has no obvious
+counterpart in humans. Herein we present phenotypic profiles of New World primate
+NK cell subpopulations that are generally analogous to those found in humans.
+This conservation among species should support the further use of these species
+for biomedical research.
+
+DOI: 10.1371/journal.pone.0078793 
+PMCID: PMC3823947
+PMID: 24244365  [Indexed for MEDLINE]
+

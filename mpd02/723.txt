@@ -1,0 +1,39 @@
+
+
+723. Expert Opin Drug Discov. 2018 May;13(5):387-397. doi:
+10.1080/17460441.2018.1443075. Epub 2018 Feb 25.
+
+Merits and complexities of modeling multiple sclerosis in non-human primates:
+implications for drug discovery.
+
+'t Hart BA(1)(2), Laman JD(2), Kap YS(1).
+
+Author information: 
+(1)a Department of Immunobiology , Biomedical Primate Research Centre , Rijswijk 
+, The Netherlands.
+(2)b Department of Neuroscience , University of Groningen, University Medical
+Center Groningen , Groningen , The Netherlands.
+
+INTRODUCTION: The translation of scientific discoveries made in animal models
+into effective treatments for patients often fails, indicating that currently
+used disease models in preclinical research are insufficiently predictive for
+clinical success. An often-used model in the preclinical research of autoimmune
+neurological diseases, multiple sclerosis in particular, is experimental
+autoimmune encephalomyelitis (EAE). Most EAE models are based on genetically
+susceptible inbred/SPF mouse strains used at adolescent age (10-12 weeks), which 
+lack exposure to genetic and microbial factors which shape the human immune
+system. Areas covered: Herein, the authors ask whether an EAE model in adult
+non-human primates from an outbred conventionally-housed colony could help bridge
+the translational gap between rodent EAE models and MS patients. Particularly,
+the authors discuss a novel and translationally relevant EAE model in common
+marmosets (Callithrix jacchus) that shares remarkable pathological similarity
+with MS. Expert opinion: The MS-like pathology in this model is caused by the
+interaction of effector memory T cells with B cells infected with the
+γ1-herpesvirus (CalHV3), both present in the pathogen-educated marmoset immune
+repertoire. The authors postulate that depletion of only the small subset
+(<0.05%) of CalHV3-infected B cells may be sufficient to limit chronic
+inflammatory demyelination.
+
+DOI: 10.1080/17460441.2018.1443075 
+PMID: 29465302  [Indexed for MEDLINE]
+

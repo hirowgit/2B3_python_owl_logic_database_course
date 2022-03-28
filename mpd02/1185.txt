@@ -1,0 +1,58 @@
+
+
+1185. Drug Metab Dispos. 2015 Oct;43(10):1408-16. doi: 10.1124/dmd.115.066100. Epub
+2015 Jul 30.
+
+Novel Marmoset Cytochrome P450 2C19 in Livers Efficiently Metabolizes Human P450 
+2C9 and 2C19 Substrates, S-Warfarin, Tolbutamide, Flurbiprofen, and Omeprazole.
+
+Uehara S(1), Uno Y(1), Inoue T(1), Kawano M(1), Shimizu M(1), Toda A(1), Utoh
+M(1), Sasaki E(1), Yamazaki H(2).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., M.K., M.S., H.Y.); Pharmacokinetics and 
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U., A.T., M.U.); Department of Applied Developmental Biology (T.I.) and 
+Center of Applied Developmental Biology (E.S.), Central Institute for
+Experimental Animals, Kawasaki, Japan; and Keio Advanced Research Center, Keio
+University, Minato-ku, Tokyo, Japan (E.S.).
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., M.K., M.S., H.Y.); Pharmacokinetics and 
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U., A.T., M.U.); Department of Applied Developmental Biology (T.I.) and 
+Center of Applied Developmental Biology (E.S.), Central Institute for
+Experimental Animals, Kawasaki, Japan; and Keio Advanced Research Center, Keio
+University, Minato-ku, Tokyo, Japan (E.S.) hyamazak@ac.shoyaku.ac.jp.
+
+The common marmoset (Callithrix jacchus), a small New World monkey, has the
+potential for use in human drug development due to its evolutionary closeness to 
+humans. Four novel cDNAs, encoding cytochrome P450 (P450) 2C18, 2C19, 2C58, and
+2C76, were cloned from marmoset livers to characterize P450 2C molecular
+properties, including previously reported P450 2C8. The deduced amino acid
+sequence showed high sequence identities (>86%) with those of human P450 2Cs,
+except for marmoset P450 2C76, which has a low sequence identity (∼70%) with any 
+human P450 2Cs. Phylogenetic analysis showed that marmoset P450 2Cs were more
+closely clustered with those of humans and macaques than other species
+investigated. Quantitative polymerase chain reaction analysis showed that all of 
+the marmoset P450 2C mRNAs were predominantly expressed in liver as opposed to
+the other tissues tested. Marmoset P450 2C proteins were detected in liver by
+immunoblotting using antibodies against human P450 2Cs. Among marmoset P450 2Cs
+heterologously expressed in Escherichia coli, marmoset P450 2C19 efficiently
+catalyzed human P450 2C substrates, S-warfarin, diclofenac, tolbutamide,
+flurbiprofen, and omeprazole. Marmoset P450 2C19 had high Vmax and low Km values 
+for S-warfarin 7-hydroxylation that were comparable to those in human liver
+microsomes, indicating warfarin stereoselectivity similar to findings in humans. 
+Faster in vivo S-warfarin clearance than R-warfarin after intravenous
+administration of racemic warfarin (0.2 mg/kg) to marmosets was consistent with
+the in vitro kinetic parameters. These results indicated that marmoset P450 2C
+enzymes had functional characteristics similar to those of humans, and that P450 
+2C-dependent metabolic properties are likewise similar between marmosets and
+humans.
+
+Copyright © 2015 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/dmd.115.066100 
+PMID: 26228688  [Indexed for MEDLINE]
+

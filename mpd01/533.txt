@@ -1,0 +1,72 @@
+
+
+533. Mol Ther. 2019 Apr 10;27(4):700-704. doi: 10.1016/j.ymthe.2019.02.016. Epub 2019 
+Feb 28.
+
+Neurotropic Properties of AAV-PHP.B Are Shared among Diverse Inbred Strains of
+Mice.
+
+Matsuzaki Y(1), Tanaka M(1), Hakoda S(1), Masuda T(1), Miyata R(1), Konno A(1),
+Hirai H(2).
+
+Author information: 
+(1)Department of Neurophysiology & Neural Repair, Gunma University Graduate
+School of Medicine, Maebashi, Gunma 371-8511, Japan.
+(2)Department of Neurophysiology & Neural Repair, Gunma University Graduate
+School of Medicine, Maebashi, Gunma 371-8511, Japan; Research Program for Neural 
+Signaling, Division of Endocrinology, Metabolism and Signal Research, Gunma
+University Initiative for Advanced Research, Gunma, Japan. Electronic address:
+hirai@gunma-u.ac.jp.
+
+DOI: 10.1016/j.ymthe.2019.02.016 
+PMCID: PMC6453512
+PMID: 30842039  [Indexed for MEDLINE]
+
+
+534. Cell Rep. 2019 Mar 5;26(10):2818-2832.e8. doi: 10.1016/j.celrep.2019.02.011.
+
+Functional Access to Neuron Subclasses in Rodent and Primate Forebrain.
+
+Mehta P(1), Kreeger L(1), Wylie DC(2), Pattadkal JJ(3), Lusignan T(1), Davis
+MJ(1), Turi GF(4), Li WK(4), Whitmire MP(5), Chen Y(5), Kajs BL(1), Seidemann
+E(5), Priebe NJ(3), Losonczy A(4), Zemelman BV(6).
+
+Author information: 
+(1)Center for Learning and Memory, University of Texas, Austin, TX 78712, USA;
+Department of Neuroscience, University of Texas, Austin, TX 78712, USA.
+(2)Center for Computational Biology and Bioinformatics, University of Texas,
+Austin, TX 78712, USA.
+(3)Center for Learning and Memory, University of Texas, Austin, TX 78712, USA;
+Center for Perceptual Systems, University of Texas, Austin, TX 78712, USA;
+Department of Neuroscience, University of Texas, Austin, TX 78712, USA.
+(4)Kavli Institute for Brain Science, Columbia University, New York, NY 10027,
+USA; Department of Neuroscience, Columbia University, New York, NY 10027, USA.
+(5)Center for Perceptual Systems, University of Texas, Austin, TX 78712, USA;
+Department of Neuroscience, University of Texas, Austin, TX 78712, USA;
+Department of Psychology, University of Texas, Austin, TX 78712, USA.
+(6)Center for Learning and Memory, University of Texas, Austin, TX 78712, USA;
+Department of Neuroscience, University of Texas, Austin, TX 78712, USA.
+Electronic address: zemelmanb@mail.clm.utexas.edu.
+
+Comment in
+    Neurosci Insights. 2020 Feb 27;15:2633105520908537.
+
+Viral vectors enable foreign proteins to be expressed in brains of non-genetic
+species, including non-human primates. However, viruses targeting specific neuron
+classes have proved elusive. Here we describe viral promoters and strategies for 
+accessing GABAergic interneurons and their molecularly defined subsets in the
+rodent and primate. Using a set intersection approach, which relies on two
+co-active promoters, we can restrict heterologous protein expression to cortical 
+and hippocampal somatostatin-positive and parvalbumin-positive interneurons. With
+an orthogonal set difference method, we can enrich for subclasses of
+neuropeptide-Y-positive GABAergic interneurons by effectively subtracting the
+expression pattern of one promoter from that of another. These methods harness
+the complexity of gene expression patterns in the brain and significantly expand 
+the number of genetically tractable neuron classes across mammals.
+
+Copyright © 2019 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2019.02.011 
+PMCID: PMC6509701
+PMID: 30840900  [Indexed for MEDLINE]
+

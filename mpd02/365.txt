@@ -1,0 +1,50 @@
+
+
+365. PLoS Negl Trop Dis. 2020 Feb 12;14(2):e0008027. doi:
+10.1371/journal.pntd.0008027. eCollection 2020 Feb.
+
+A high infectious simian adenovirus type 23 vector based vaccine efficiently
+protects common marmosets against Zika virus infection.
+
+Luo S(1), Zhao W(2), Ma X(1), Zhang P(1), Liu B(1), Zhang L(1), Wang W(1), Wang
+Y(3), Fu Y(4), Allain JP(1)(5), Li T(1), Li C(1).
+
+Author information: 
+(1)Department of Transfusion Medicine, School of Laboratory Medicine and
+Biotechnology, Southern Medical University, Guangzhou, China.
+(2)Laboratory of Biosafety, School of Public Health, Southern Medical University,
+Guangzhou, China.
+(3)Experimental Animal Center, Nanfang Hospital, Southern Medical University,
+Guangzhou, China.
+(4)Guangzhou Blood Center, Guangzhou, China.
+(5)Emeritus professor, University of Cambridge, Cambridge, United Kingdom.
+
+Zika virus (ZIKV) has spread in many countries or territories causing severe
+neurologic complications with potential fatal outcomes. The small primate common 
+marmosets are susceptible to ZIKV, mimicking key features of human infection.
+Here, a novel simian adenovirus type 23 vector-based vaccine expressing ZIKV
+pre-membrane-envelope proteins (Sad23L-prM-E) was produced in high infectious
+titer. Due to determination of immunogenicity in mice, a single-dose of 3×108 PFU
+Sad23L-prM-E vaccine was intramuscularly inoculated to marmosets. This vaccine
+raised antibody titers of 104.07 E-specific and 103.13 neutralizing antibody
+(NAb), as well as robust specific IFN-γ secreting T-cell response (1,219 SFCs/106
+cells) to E peptides. The vaccinated marmosets, upon challenge with a high dose
+of ZIKV (105 PFU) six weeks post prime immunization, reduced viremia by more than
+100 folds, and the low level of detectable viral RNA (<103 copies/ml) in blood,
+saliva, urine and feces was promptly eliminated when the secondary NAb (titer
+>103.66) and T-cell response (>726 SFCs/106 PBMCs) were acquired 1-2 weeks post
+exposure to ZIKV, while non-vaccinated control marmosets developed long-term high
+titer of ZIKV (105.73 copies/ml) (P<0.05). No significant pathological lesions
+were observed in marmoset tissues. Sad23L-prM-E vaccine was detectable in spleen,
+liver and PBMCs at least 4 months post challenge. In conclusion, a prime
+immunization with Sad23L-prM-E vaccine was able to protect marmosets against ZIKV
+infection when exposed to a high dose of ZIKV. This Sad23L-prM-E vaccine is a
+promising vaccine candidate for prevention of ZIKV infection in humans.
+
+DOI: 10.1371/journal.pntd.0008027 
+PMCID: PMC7015313
+PMID: 32049958  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

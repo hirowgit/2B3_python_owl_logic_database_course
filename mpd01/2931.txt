@@ -1,0 +1,81 @@
+
+
+2931. Toxicol Appl Pharmacol. 2003 Jun 15;189(3):170-9.
+
+Long-term, low-level exposure of guinea pigs and marmosets to sarin vapor in air:
+lowest observable effect level.
+
+Van Helden HP(1), Trap HC, Oostdijk JP, Kuijpers WC, Langenberg JP, Benschop HP.
+
+Author information: 
+(1)Division of Chemical and Biological Protection, TNO Prins Maurits Laboratory, 
+P.O. Box 45, 2280 AA, Rijswijk, The Netherlands. helden@pml.tno.nl
+
+Realistic scenarios for low-level exposure to nerve agents will often involve
+exposures over several hours to extremely low doses of agent. In order to expose 
+animals to the lowest controllable concentrations of agent and to increase
+exposure times until a lowest observable effect level (LOEL) becomes measurable, 
+a validated system was developed for exposing conscious animals to 0.05-1.0
+microg/m(3) (8-160 ppt) of sarin and other nerve agents. Based on cold trapping
+of sarin from the exposure air, the concentration could be measured
+semicontinuously, at 4-min time intervals by means of gas chromatography. We
+found that the LOEL upon a 5-h whole body exposure of guinea pigs and marmosets
+to sarin vapor corresponds with the measurement of an internal dose by means of
+fluoride-induced regeneration of sarin from phosphylated binding sites in plasma,
+mostly BuChE. For guinea pigs the LOEL was observed at Ct = 0.010 +/- 0.002
+mg/min/m(3), whereas a Ct of 0.04 +/- 0.01 mg/min/m(3) was established for the
+LOEL in marmosets. These levels are several orders of magnitude lower than those 
+based on classical measurement of depressed cholinesterase activities. At low
+exposure levels of guinea pigs and marmosets (< or =1 microg/m(3)), a reasonable 
+linearity was observed between exposure dose and internal dose. The data were
+addressed in the light of the recently recommended occupational exposure limits
+to sarin for workers without respiratory protection, which suggests that the
+exposure limits should be reconsidered if the slightest inhibition of
+cholinesterases should be prevented.
+
+DOI: 10.1016/s0041-008x(03)00131-5 
+PMID: 12791302  [Indexed for MEDLINE]
+
+
+2932. Curr Eye Res. 2003 Jan;26(1):15-23.
+
+Differential expression of the lenticular antioxidant system in laboratory
+animals: a determinant of species predilection to oxidative stress-induced ocular
+toxicity?
+
+Slaughter MR(1), Thakkar H, O'Brien PJ.
+
+Author information: 
+(1)Safety Assessment, GlaxoSmithKline, Ware, UK.
+mark_slaughter@sandwich.pfizer.com
+
+PURPOSE: Various animal species have been used to study oxidative stress-induced 
+cataractogenesis; however, given that differences in the expression of the lens
+antioxidant system may influence species susceptibility to oxidative stress, we
+compared and contrasted a broad spectrum of components of the lens antioxidant
+system in dog, rat, marmoset, and rabbit.
+METHODS: Lenses collected from beagle dogs, Sprague-Dawley rats, marmosets, and
+New Zealand white rabbits were assayed for reduced glutathione (GSH), and
+activities of copper-zinc and manganese superoxide dismutase (CuZn-SOD; Mn-SOD), 
+catalase (CAT), glutathione peroxidase (GPX), gamma-Glutamylcysteine synthetase
+(GCS), glutathione reductase (GR), glutathione-S-transferases (GST), and
+glucose-6-phosphate dehydrogenase (GPDH), and Trolox equivalent antioxidant
+capacity (TEAC).
+RESULTS: Expression of the lens antioxidant system varied considerably between
+species. Marmoset lens contained the highest levels of GSH, its respective
+biosynthetic and recycling enzymes GCS and GR, and the associated H(2
+)O(2)-dismutation enzyme GPX. Activities of both SOD isoforms were also highest
+in marmoset lens. However, activities of the xenobiotic-conjugating enzyme GST
+and NADPH-generating enzyme GPDH were relatively low. In contrast, dog lens had
+the lowest levels of GSH, GCS, GR, and Cu-Zn SOD (1/2, 1/2 and 1/33, and 1/63
+that in marmoset) but highest levels of GST and GPDH. Rabbit lens contained the
+highest CAT activity, at up to 3.5-fold that for marmoset and rat.
+CONCLUSION: These results demonstrate substantial variation in lens antioxidant
+systems between different laboratory animal species. Given that such variation
+may affect relative susceptibility to oxidative stress-mediated ocular toxicity, 
+our findings may provide useful information when choosing different animal
+species for lens research.
+
+DOI: 10.1076/ceyr.26.1.15.14247 
+PMID: 12789532  [Indexed for MEDLINE]
+

@@ -1,0 +1,83 @@
+
+
+1479. PLoS One. 2013 Nov 25;8(11):e81502. doi: 10.1371/journal.pone.0081502.
+eCollection 2013.
+
+The origin of the RB1 imprint.
+
+Kanber D(1), Buiting K, Roos C, Gromoll J, Kaya S, Horsthemke B, Lohmann D.
+
+Author information: 
+(1)Institut für Humangenetik, Universitätsklinikum Essen, Essen, Germany.
+
+The human RB1 gene is imprinted due to a differentially methylated CpG island in 
+intron 2. This CpG island is part of PPP1R26P1, a truncated retrocopy of PPP1R26,
+and serves as a promoter for an alternative RB1 transcript. We show here by in
+silico analyses that the parental PPP1R26 gene is present in the analysed members
+of Haplorrhini, which comprise Catarrhini (Old World Monkeys, Small apes, Great
+Apes and Human), Platyrrhini (New World Monkeys) and tarsier, and Strepsirrhini
+(galago). Interestingly, we detected the retrocopy, PPP1R26P1, in all
+Anthropoidea (Catarrhini and Platyrrhini) that we studied but not in tarsier or
+galago. Additional retrocopies are present in human and chimpanzee on chromosome 
+22, but their distinct composition indicates that they are the result of
+independent retrotransposition events. Chimpanzee and marmoset have further
+retrocopies on chromosome 8 and chromosome 4, respectively. To examine the origin
+of the RB1 imprint, we compared the methylation patterns of the parental PPP1R26 
+gene and its retrocopies in different primates (human, chimpanzee, orangutan,
+rhesus macaque, marmoset and galago). Methylation analysis by deep bisulfite
+sequencing showed that PPP1R26 is methylated whereas the retrocopy in RB1 intron 
+2 is differentially methylated in all primates studied. All other retrocopies are
+fully methylated, except for the additional retrocopy on marmoset chromosome 4,
+which is also differentially methylated. Using an informative SNP for the
+methylation analysis in marmoset, we could show that the differential methylation
+pattern of the retrocopy on chromosome 4 is allele-specific. We conclude that the
+epigenetic fate of a PPP1R26 retrocopy after integration depends on the DNA
+sequence and selective forces at the integration site.
+
+DOI: 10.1371/journal.pone.0081502 
+PMCID: PMC3839921
+PMID: 24282601  [Indexed for MEDLINE]
+
+
+1480. Behav Brain Res. 2014 Feb 1;259:336-41. doi: 10.1016/j.bbr.2013.11.026. Epub 2013
+Nov 23.
+
+Time-of-day effect on a food-induced conditioned place preference task in
+monkeys.
+
+Monclaro AV(1), Sampaio AC(1), Ribeiro NB(1), Barros M(2).
+
+Author information: 
+(1)Department of Pharmaceutical Sciences, School of Health Sciences, University
+of Brasilia, CEP 70910-900 Brasilia, DF, Brazil.
+(2)Department of Pharmaceutical Sciences, School of Health Sciences, University
+of Brasilia, CEP 70910-900 Brasilia, DF, Brazil. Electronic address:
+mbarros@unb.br.
+
+Time can be an important contextual cue for cognitive performance, with
+implications for reward-associated learned behaviors such as (drug and food)
+addiction. So, we analyzed: (1) if marmoset monkeys develop a place preference
+that is conditioned to previous pairings with a highly-palatable food reward; (2)
+if the response is strongest when training and testing times match - time stamp
+effect; and (3) if there is an optimal time of the day (morning vs. afternoon)
+when this preference occurs - time-of-day effect. Subjects were first habituated 
+to a two-compartment conditioned-place-preference (CPP) box. Then, during six
+training sessions held either in the morning or afternoon, a mixture of
+jellybeans and live mealworms was made available in a specific compartment.
+Marmosets were subsequently tested for preferring the food-paired context at the 
+circadian time that either matched or was different from that of training.
+Compared to baseline levels, only subjects trained and tested in the afternoon
+made significantly longer and more frequent visits to the food-paired context and
+with a shorter latency to first entry. Thus, highly-palatable food rewards
+induced a CPP response. This behavior was exhibited only when training and
+testing times overlapped and during a restricted circadian timeframe (afternoon),
+consistent with a time-stamp and time-of-day effect, respectively. In this case, 
+time may have been an internal circadian contextual cue. Whether due to
+circadian-mediated oscillations in memory and/or reward processes, such findings 
+may be applied to addiction and other learned behaviors.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbr.2013.11.026 
+PMID: 24280121  [Indexed for MEDLINE]
+

@@ -1,0 +1,41 @@
+
+
+1385. Arthritis Res Ther. 2014 Jul 8;16(4):R143. doi: 10.1186/ar4605.
+
+Type II collagen antibody response is enriched in the synovial fluid of
+rheumatoid joints and directed to the same major epitopes as in collagen induced 
+arthritis in primates and mice.
+
+Lindh I, Snir O, Lönnblom E, Uysal H, Andersson I, Nandakumar KS, Vierboom M, 't 
+Hart B, Malmström V, Holmdahl R.
+
+INTRODUCTION: Antibodies towards type II collagen (CII) are detected in patients 
+with rheumatoid arthritis (RA) and in non-human primates and rodents with
+collagen induced arthritis (CIA). We have previously shown that antibodies
+specific for several CII-epitopes are pathogenic using monoclonal antibodies from
+arthritic mice, although the role of different anti-CII epitopes has not been
+investigated in detail in other species. We therefore performed an inter-species 
+comparative study of the autoantibody response to CII in patients with RA versus 
+monkeys and mice with CIA.
+METHODS: Analysis of the full epitope repertoire along the disease course of CIA 
+was performed using a library of CII triple-helical peptides. The antibody
+responses to the major CII epitopes were analyzed in sera and synovial fluid from
+RA patients, and in sera from rhesus monkeys (Macaca mulatta), common marmosets
+(Callithrix jacchus) and mice.
+RESULTS: Many CII epitopes including the major C1, U1, and J1 were associated
+with established CIA and arginine residues played an important role in the
+anti-CII antibody interactions. The major epitopes were also recognized in RA
+patients, both in sera and even more pronounced in synovial fluid: 77% of the
+patients had antibodies to the U1 epitope. The anti-CII immune response was not
+restricted to the anti-citrulline protein antibodies (ACPA) positive RA group.
+CONCLUSION: CII conformational dependent antibody responses are common in RA and 
+are likely to originate from rheumatoid joints but did not show a correlation
+with ACPA response. Importantly, the fine specificity of the anti-CII response is
+similar with CIA in monkeys and rodents where the recognized epitopes are
+conserved and have a major pathogenic role. Thus, anti-CII antibodies may both
+contribute to, as well as be the consequence of, local joint inflammation.
+
+DOI: 10.1186/ar4605 
+PMCID: PMC4226996
+PMID: 25005029  [Indexed for MEDLINE]
+

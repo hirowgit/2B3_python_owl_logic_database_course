@@ -1,0 +1,31 @@
+
+
+463. Front Immunol. 2019 Jul 9;10:1339. doi: 10.3389/fimmu.2019.01339. eCollection
+2019.
+
+The Exaptation of HERV-H: Evolutionary Analyses Reveal the Genomic Features of
+Highly Transcribed Elements.
+
+Gemmell P(1), Hein J(2), Katzourakis A(1).
+
+Author information: 
+(1)Department of Zoology, University of Oxford, Oxford, United Kingdom.
+(2)Department of Statistics, University of Oxford, Oxford, United Kingdom.
+
+HERV-H endogenous retroviruses are thought to be essential to stem cell identity 
+in humans. We embrace several decades of HERV-H research in order to relate the
+transcription of HERV-H loci to their genomic structure. We find that highly
+transcribed HERV-H loci are younger, more fragmented, and less likely to be
+present in other primate genomes. We also show that repeats in HERV-H LTRs are
+correlated to where loci are transcribed: type-I LTRs associate with stem cells
+while type-II repeats associate with embryonic cells. Our findings are generally 
+in line with what is known about endogenous retrovirus biology but we find that
+the presence of the zinc finger motif containing region of gag is positively
+correlated with transcription. This leads us to suggest a possible explanation
+for why an unusually large proportion of HERV-H loci have been preserved in
+non-solo-LTR form.
+
+DOI: 10.3389/fimmu.2019.01339 
+PMCID: PMC6629862
+PMID: 31338090  [Indexed for MEDLINE]
+

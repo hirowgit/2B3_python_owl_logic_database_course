@@ -1,0 +1,71 @@
+
+
+3462. J Virol. 1999 May;73(5):3913-9.
+
+Role of cellular tumor necrosis factor receptor-associated factors in NF-kappaB
+activation and lymphocyte transformation by herpesvirus Saimiri STP.
+
+Lee H(1), Choi JK, Li M, Kaye K, Kieff E, Jung JU.
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, New England Regional
+Primate Research Center, Harvard Medical School, Southborough, Massachusetts
+01772-9102, USA.
+
+The STP oncoproteins of the herpesvirus saimiri (HVS) subgroup A strain 11 and
+subgroup C strain 488 are now found to be stably associated with tumor necrosis
+factor receptor-associated factor (TRAF) 1, 2, or 3. Mutational analyses
+identified residues of PXQXT/S in STP-A11 as critical for TRAF association. In
+addition, a somewhat divergent region of STP-C488 is critical for TRAF
+association. Mutational analysis also revealed that STP-C488 induced NF-kappaB
+activation that was correlated with its ability to associate with TRAFs. The HVS 
+STP-C488 P10-->R mutant was deficient in human T-lymphocyte transformation to
+interleukin-2-independent growth but showed wild-type phenotype for marmoset
+T-lymphocyte transformation in vitro and in vivo. The STP-C488 P10-->R mutant was
+also defective in Rat-1 fibroblast transformation, and fibroblast cell
+transformation was blocked by a TRAF2 dominant-negative mutant. These data
+implicate TRAFs in STP-C488-mediated transformation of human lymphocytes and
+rodent fibroblasts. Other factors are implicated in immortalization of common
+marmoset T lymphocytes and may also be critical in the transformation of human
+lymphocytes and rodent fibroblasts.
+
+DOI: 10.1128/JVI.73.5.3913-3919.1999 
+PMCID: PMC104169
+PMID: 10196286  [Indexed for MEDLINE]
+
+
+3463. Mol Phylogenet Evol. 1999 Apr;11(3):459-76.
+
+Phylogenetic relationships of the New World monkeys (Primates, platyrrhini) based
+on nuclear G6PD DNA sequences.
+
+von Dornum M(1), Ruvolo M.
+
+Author information: 
+(1)Department of Anthropology, Harvard University, Cambridge, Massachusetts,
+02138, USA. m.dornum@ucl.ac.uk
+
+In order to test hypotheses about the phylogenetic relationships among living
+genera of New World monkeys, 1.3 kb of DNA sequence information was collected for
+two introns of the glucose-6-phosphate dehydrogenase (G6PD) locus, encoded on the
+X chromosome, for 24 species of New World monkeys. These data were analyzed using
+a maximum parsimony algorithm. The strict consensus of the three
+most-parsimonious gene trees that result shows support for the following clades: 
+a pitheciine clade including Callicebus within which Chiropotes and Cacajao are
+sister taxa, an Alouatta-atelin clade within which Brachyteles is the sister
+taxon of Lagothrix and which is sister to another clade containing the
+callitrichines, and a callitrichine/Aotus/Cebus/Saimiri clade. Within the
+callitrichines, Callimico is the sister taxon of Callithrix. Cebus and Saimiri
+form a clade. These results are broadly consistent with previously published DNA 
+sequence analyses of platyrrhine phylogeny and provide additional support for
+groupings provisionally proposed in those earlier studies. Nevertheless,
+questions remain as to the relative phylogenetic placement of Leontopithecus and 
+Saguinus, the branching order within the Aotus/Cebus/Saimiri/callitrichine clade,
+and the placement of the pitheciine clade relative to the atelines and the
+callitrichines.
+
+Copyright 1999 Academic Press.
+
+DOI: 10.1006/mpev.1998.0582 
+PMID: 10196085  [Indexed for MEDLINE]
+

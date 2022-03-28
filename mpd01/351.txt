@@ -1,0 +1,89 @@
+
+
+351. Nat Commun. 2020 Feb 28;11(1):1133. doi: 10.1038/s41467-020-14858-0.
+
+Open access resource for cellular-resolution analyses of corticocortical
+connectivity in the marmoset monkey.
+
+Majka P(1)(2)(3), Bai S(2)(3), Bakola S(2)(3)(4), Bednarek S(1), Chan JM(2)(3),
+Jermakow N(1), Passarelli L(4), Reser DH(3)(5), Theodoni P(6)(7)(8), Worthy
+KH(3), Wang XJ(6), Wójcik DK(1), Mitra PP(9), Rosa MGP(10)(11).
+
+Author information: 
+(1)Laboratory of Neuroinformatics, Nencki Institute of Experimental Biology of
+the Polish Academy of Sciences, 3 Pasteur Street, 02-093, Warsaw, Poland.
+(2)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, VIC, 3800, Australia.
+(3)Biomedicine Discovery Institute and Department of Physiology, Monash
+University, Clayton, VIC, 3800, Australia.
+(4)Department of Biomedical and Neuromotor Sciences Pharmacy and Biotechnology,
+University of Bologna, Bologna, 40126, Italy.
+(5)Graduate Entry Medicine Program, Monash Rural Health-Churchill, School of
+Rural Health, Monash University, Churchill, VIC, 3842, Australia.
+(6)Center for Neural Science, New York University, NY, 10003, USA.
+(7)New York University - East China Normal University Institute of Brain and
+Cognitive Science, Shanghai, 200241, China.
+(8)New York University Shanghai, Shanghai, 200122, China.
+(9)Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, NY, 11724, USA.
+(10)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, VIC, 3800, Australia.
+marcello.rosa@monash.edu.
+(11)Biomedicine Discovery Institute and Department of Physiology, Monash
+University, Clayton, VIC, 3800, Australia. marcello.rosa@monash.edu.
+
+Understanding the principles of neuronal connectivity requires tools for
+efficient quantification and visualization of large datasets. The primate cortex 
+is particularly challenging due to its complex mosaic of areas, which in many
+cases lack clear boundaries. Here, we introduce a resource that allows
+exploration of results of 143 retrograde tracer injections in the marmoset
+neocortex. Data obtained in different animals are registered to a common
+stereotaxic space using an algorithm guided by expert delineation of histological
+borders, allowing accurate assignment of connections to areas despite
+interindividual variability. The resource incorporates tools for analyses
+relative to cytoarchitectural areas, including statistical properties such as the
+fraction of labeled neurons and the percentage of supragranular neurons. It also 
+provides purely spatial (parcellation-free) data, based on the stereotaxic
+coordinates of 2 million labeled neurons. This resource helps bridge the gap
+between high-density cellular connectivity studies in rodents and imaging-based
+analyses of human brains.
+
+DOI: 10.1038/s41467-020-14858-0 
+PMCID: PMC7048793
+PMID: 32111833  [Indexed for MEDLINE]
+
+
+352. Primate Biol. 2019 Jul 12;6(2):65-73. doi: 10.5194/pb-6-65-2019. eCollection
+2019.
+
+Effect of ovariectomy on proximal tibia metaphysis and lumbar vertebral body in
+common marmoset monkeys.
+
+Schlumbohm C(1), Seidlová-Wuttke D(2), Fuchs E(1).
+
+Author information: 
+(1)German Primate Center, Leibniz Institute for Primate Research, 37077
+Göttingen, Germany.
+(2)Department of Endocrinology, University Medical Center Göttingen, 37075
+Göttingen, Germany.
+
+This study aimed to investigate the effect of estrogen withdrawal on bone tissue 
+in adult female marmoset monkeys. In a 1-year follow-up study we used
+quantitative computer tomography to measure total bone mineral density (BMD) of
+the proximal tibia and the second-last lumbar vertebral body (L5/L6) before and
+1, 3, 6, and 12 months after ovariectomy. Body mass did not significantly change 
+during the 1-year observation period. However, a significant decline of total BMD
+after ovariectomy was observed in the proximal tibia but not in L5/L6. In
+addition, regression analysis showed a significant positive relationship between 
+BMD and body mass in both tibia and L5/L6. The results of our study support the
+idea that ovariectomized marmoset monkeys may serve as a model to investigate
+bone loss related to decline of estrogen production.
+
+Copyright: © 2019 Christina Schlumbohm et al.
+
+DOI: 10.5194/pb-6-65-2019 
+PMCID: PMC7041521
+PMID: 32110717 
+
+Conflict of interest statement: Eberhard Fuchs is coordinating editor of the
+journal .
+

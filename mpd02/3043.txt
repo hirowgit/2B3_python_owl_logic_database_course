@@ -1,0 +1,36 @@
+
+
+3043. J Exp Med. 2002 Aug 19;196(4):431-45.
+
+Blockade of HIV-1 infection of New World monkey cells occurs primarily at the
+stage of virus entry.
+
+LaBonte JA(1), Babcock GJ, Patel T, Sodroski J.
+
+Author information: 
+(1)Department of Cancer Immunology & AIDS, JFB 824, Dana-Farber Cancer Institute,
+44 Binney Street, Boston, MA 02115, USA.
+
+HIV-1 naturally infects chimpanzees and humans, but does not infect Old World
+monkeys because of replication blocks that occur after virus entry into the cell.
+To understand the species-specific restrictions operating on HIV-1 infection, the
+ability of HIV-1 to infect the cells of New World monkeys was examined. Primary
+cells derived from common marmosets and squirrel monkeys support every phase of
+HIV-1 replication with the exception of virus entry. Efficient HIV-1 entry
+typically requires binding of the viral envelope glycoproteins and host cell
+receptors, CD4 and either CCR5 or CXCR4 chemokine receptors. HIV-1 did not
+detectably bind or utilize squirrel monkey CD4 for entry, and marmoset CD4 was
+also very inefficient compared with human CD4. A marmoset CD4 variant, in which
+residues 48 and 59 were altered to the amino acids found in human CD4, supported 
+HIV-1 entry efficiently. The CXCR4 molecules of both marmosets and squirrel
+monkeys supported HIV-1 infection, but the CCR5 proteins of both species were
+only marginally functional. These results demonstrate that the CD4 and CCR5
+proteins of New World monkeys represent the major restriction against HIV-1
+replication in these primates. Directed adaptation of the HIV-1 envelope
+glycoproteins to common marmoset receptors might allow the development of New
+World monkey models of HIV-1 infection.
+
+DOI: 10.1084/jem.20020468 
+PMCID: PMC2196058
+PMID: 12186836  [Indexed for MEDLINE]
+

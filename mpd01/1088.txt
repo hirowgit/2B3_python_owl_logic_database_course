@@ -1,0 +1,110 @@
+
+
+1088. Primates. 2016 Jul;57(3):421-31. doi: 10.1007/s10329-016-0526-2. Epub 2016 Mar 5.
+
+Physiological and behavioral responses to routine procedures in captive common
+marmosets (Callithrix jacchus).
+
+de Menezes Galvão AC(1), Ferreira RG(1), de Sousa MB(1), Galvão-Coelho NL(2).
+
+Author information: 
+(1)Department of Physiology, Psychobiology Graduation Program, Federal University
+of Rio Grande do Norte, Caixa Postal, 1511, Natal, RN, 59078-970, Brazil.
+(2)Department of Physiology, Psychobiology Graduation Program, Federal University
+of Rio Grande do Norte, Caixa Postal, 1511, Natal, RN, 59078-970, Brazil.
+galvaonic@hotmail.com.
+
+The effect of routine captive procedures on the welfare of species used as
+experimental models in biomedical research is of great interest, since stress may
+alter the generalization and interpretation of results. This study investigated
+behavioral and endocrine (fecal cortisol) reactivity patterns in common marmoset 
+(Callithrix jacchus) adult males (N = 10) and females (N = 9) subjected to three 
+types of routine procedures in captivity: (1) moving to a same-sized cage (P1),
+to a smaller cage (P2), and (2) first-time pair formation (P3). Sexually
+dimorphic cortisol responses were detected in animals submitted to a physical
+environmental stressor (cage change). Females showed an increased response
+throughout P1, in relation to baseline (BP) cortisol, and a trend during P2.
+Males increased cortisol only during P2. On the other hand, males and females
+showed a similar endocrine response when management involved social challenge
+(pair formation), with both sexes increasing cortisol levels, but females
+exhibited a more intense and longer-lasting cortisol increase. Males and females 
+exhibited similar behavioral responses to cage change, except for autogrooming,
+with males decreasing this behavior in P1. Only females demonstrated a
+significantly higher increase in piloerection frequency than that of males during
+the pair formation phase. These endocrine and behavioral changes must be taken
+into account when interpreting research data that involve these types of
+procedures. Further studies on the impacts of routine colony management are
+required to devise and include protocols in official husbandry guidelines.
+
+DOI: 10.1007/s10329-016-0526-2 
+PMID: 26946459  [Indexed for MEDLINE]
+
+
+1089. J Neurosci. 2016 Mar 2;36(9):2796-808. doi: 10.1523/JNEUROSCI.1770-15.2016.
+
+Application of q-Space Diffusion MRI for the Visualization of White Matter.
+
+Fujiyoshi K(1), Hikishima K(2), Nakahara J(3), Tsuji O(4), Hata J(5), Konomi
+T(1), Nagai T(6), Shibata S(7), Kaneko S(8), Iwanami A(9), Momoshima S(10),
+Takahashi S(3), Jinzaki M(10), Suzuki N(3), Toyama Y(9), Nakamura M(11), Okano
+H(12).
+
+Author information: 
+(1)Departments of Orthopedic Surgery, Physiology, Department of Orthopedic
+Surgery, National Hospital Organization Murayama Medical Center, Tokyo 208-0011, 
+Japan.
+(2)Physiology, Central Institute for Experimental Animals, Kanagawa 210-0821,
+Japan, and.
+(3)Neurology, and.
+(4)Departments of Orthopedic Surgery, Physiology.
+(5)Physiology, Laboratory for Marmoset Neural Architecture, RIKEN Brain Science
+Institute, Saitama 351-0198, Japan.
+(6)Electron Microscopic Laboratory, Keio University School of Medicine, Tokyo
+160-8582, Japan.
+(7)Physiology.
+(8)Department of Orthopedic Surgery, National Hospital Organization Murayama
+Medical Center, Tokyo 208-0011, Japan.
+(9)Departments of Orthopedic Surgery.
+(10)Radiology, and.
+(11)Departments of Orthopedic Surgery, masa@a8.keio.jp hidokano@a2.keio.jp.
+(12)Physiology, Laboratory for Marmoset Neural Architecture, RIKEN Brain Science 
+Institute, Saitama 351-0198, Japan masa@a8.keio.jp hidokano@a2.keio.jp.
+
+White matter abnormalities in the CNS have been reported recently in various
+neurological and psychiatric disorders. Quantitation of non-Gaussianity for water
+diffusion by q-space diffusional MRI (QSI) renders biological diffusion barriers 
+such as myelin sheaths; however, the time-consuming nature of this method hinders
+its clinical application. In the current study, we aimed to refine QSI protocols 
+to enable their clinical application and to visualize myelin signals in a
+clinical setting. For this purpose, animal studies were first performed to
+optimize the acquisition protocol of a non-Gaussian QSI metric. The heat map of
+standardized kurtosis values derived from optimal QSI (myelin map) was then
+created. Histological validation of the myelin map was performed in
+myelin-deficient mice and in a nonhuman primate by monitoring its variation
+during demyelination and remyelination after chemical spinal cord injury. The
+results demonstrated that it was sensitive enough to depict dysmyelination,
+demyelination, and remyelination in animal models. Finally, its utility in
+clinical practice was assessed by a pilot clinical study in a selected group of
+patients with multiple sclerosis (MS). The human myelin map could be obtained
+within 10 min with a 3 T MR scanner. Use of the myelin map was practical for
+visualizing white matter and it sensitively detected reappearance of myelin
+signals after demyelination, possibly reflecting remyelination in MS patients.
+Our results together suggest that the myelin map, a kurtosis-related heat map
+obtainable with time-saving QSI, may be a novel and clinically useful means of
+visualizing myelin in the human CNS.SIGNIFICANCE STATEMENT: Myelin abnormalities 
+in the CNS have been gaining increasing attention in various neurological and
+psychiatric diseases. However, appropriate methods with which to monitor CNS
+myelin in daily clinical practice have been lacking. In the current study, we
+introduced a novel MRI modality that produces the "myelin map." The myelin map
+accurately depicted myelin status in mice and nonhuman primates and in a pilot
+clinical study of multiple sclerosis patients, suggesting that it is useful in
+detecting possibly remyelinated lesions. A myelin map of the human brain could be
+obtained in <10 min using a 3 T scanner and it therefore promises to be a
+powerful tool for researchers and clinicians examining myelin-related diseases.
+
+Copyright © 2016 the authors 0270-6474/16/362797-13$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.1770-15.2016 
+PMCID: PMC6604869
+PMID: 26937016  [Indexed for MEDLINE]
+

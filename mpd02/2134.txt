@@ -1,0 +1,35 @@
+
+
+2134. Virology. 2009 Aug 1;390(2):186-96. doi: 10.1016/j.virol.2009.05.005. Epub 2009
+Jun 7.
+
+Antiviral activity and host gene induction by tamarin and marmoset
+interferon-alpha and interferon-gamma in the GBV-B primary hepatocyte culture
+model.
+
+Chavez D(1), Guerra B, Lanford RE.
+
+Author information: 
+(1)Department of Virology and Immunology, Southwest Foundation for Biomedical
+Research and Southwest National Primate Research Center, 7620 NW Loop 410, San
+Antonio, TX 78227, USA.
+
+GBV-B induces hepatitis in tamarins and marmosets and is a surrogate model for
+HCV infections. Here, we cloned and characterized the antiviral activity of
+tamarin and marmoset interferon (IFN)alpha and IFN gamma. Potent antiviral
+activity was observed for tamarin and marmoset IFN alpha in primary hepatocyte
+cultures infected with GBV-B. The antiviral activity was greater in cultures
+exposed to IFN alpha prior to GBV-B infection, suggesting that either GBV-B was
+capable of inhibition of the antiviral activity of exogenous IFN alpha or that
+the preexisting endogenous IFN response to the virus reduced efficacy to
+exogenous IFN alpha. IFN gamma also exhibited antiviral activity in GBV-B
+infected hepatocytes. The transcriptional response to IFN alpha in marmoset
+hepatocytes was characterized using human genome microarrays. Since the GBV-B
+hepatocyte culture model possesses a functional innate immune response, it will
+provide opportunities to explore the nature of the antiviral response to a virus 
+closely related to HCV.
+
+DOI: 10.1016/j.virol.2009.05.005 
+PMCID: PMC2753388
+PMID: 19501869  [Indexed for MEDLINE]
+

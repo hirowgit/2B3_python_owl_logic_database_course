@@ -1,0 +1,43 @@
+
+
+419. Nat Commun. 2019 Oct 9;10(1):4592. doi: 10.1038/s41467-019-12588-6.
+
+Vocal state change through laryngeal development.
+
+Zhang YS(1), Takahashi DY(1), Liao DA(1), Ghazanfar AA(2)(3)(4), Elemans CPH(5).
+
+Author information: 
+(1)Princeton Neuroscience Institute, Princeton University, Princeton, NJ, 08544, 
+USA.
+(2)Princeton Neuroscience Institute, Princeton University, Princeton, NJ, 08544, 
+USA. asifg@princeton.edu.
+(3)Department of Psychology, Princeton University, Princeton, NJ, 08544, USA.
+asifg@princeton.edu.
+(4)Department of Ecology & Evolutionary Biology, Princeton University, Princeton,
+NJ, 08544, USA. asifg@princeton.edu.
+(5)Department of Biology, University of Southern Denmark, 5230, Odense M,
+Denmark. coen@biology.sdu.dk.
+
+Erratum in
+    Nat Commun. 2020 Feb 24;11(1):1096.
+
+Across vertebrates, progressive changes in vocal behavior during postnatal
+development are typically attributed solely to developing neural circuits. How
+the changing body influences vocal development remains unknown. Here we show that
+state changes in the contact vocalizations of infant marmoset monkeys, which
+transition from noisy, low frequency cries to tonal, higher pitched vocalizations
+in adults, are caused partially by laryngeal development. Combining analyses of
+natural vocalizations, motorized excised larynx experiments, tensile material
+tests and high-speed imaging, we show that vocal state transition occurs via a
+sound source switch from vocal folds to apical vocal membranes, producing louder 
+vocalizations with higher efficiency. We show with an empirically based model of 
+descending motor control how neural circuits could interact with changing
+laryngeal dynamics, leading to adaptive vocal development. Our results emphasize 
+the importance of embodied approaches to vocal development, where exploiting
+biomechanical consequences of changing material properties can simplify motor
+control, reducing the computational load on the developing brain.
+
+DOI: 10.1038/s41467-019-12588-6 
+PMCID: PMC6785551
+PMID: 31597928  [Indexed for MEDLINE]
+

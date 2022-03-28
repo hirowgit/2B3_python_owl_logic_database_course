@@ -1,0 +1,111 @@
+
+
+823. J Neurosci Methods. 2017 Nov 1;291:51-60. doi: 10.1016/j.jneumeth.2017.08.006.
+Epub 2017 Aug 9.
+
+Novel method of extracting motion from natural movies.
+
+Suzuki W(1), Ichinohe N(2), Tani T(2), Hayami T(3), Miyakawa N(2), Watanabe S(3),
+Takeichi H(4).
+
+Author information: 
+(1)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Kodaira, Tokyo, Japan; Ichinohe
+Neural System Group, Laboratory for Molecular Analysis of Higher Brain Functions,
+RIKEN Brain Science Institute, RIKEN, Wako, Saitama, Japan. Electronic address:
+watarus@ncnp.go.jp.
+(2)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Kodaira, Tokyo, Japan; Ichinohe
+Neural System Group, Laboratory for Molecular Analysis of Higher Brain Functions,
+RIKEN Brain Science Institute, RIKEN, Wako, Saitama, Japan.
+(3)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Kodaira, Tokyo, Japan.
+(4)Computational Engineering Applications Unit, Advanced Center for Computing and
+Communication (ACCC), RIKEN, Wako, Saitama, Japan.
+
+BACKGROUND: The visual system in primates can be segregated into motion and shape
+pathways. Interaction occurs at multiple stages along these pathways. Processing 
+of shape-from-motion and biological motion is considered to be a higher-order
+integration process involving motion and shape information. However, relatively
+limited types of stimuli have been used in previous studies on these integration 
+processes.
+NEW METHOD: We propose a new algorithm to extract object motion information from 
+natural movies and to move random dots in accordance with the information. The
+object motion information is extracted by estimating the dynamics of local normal
+vectors of the image intensity projected onto the x-y plane of the movie.
+RESULTS: An electrophysiological experiment on two adult common marmoset monkeys 
+(Callithrix jacchus) showed that the natural and random dot movies generated with
+this new algorithm yielded comparable neural responses in the middle temporal
+visual area.
+COMPARISON WITH EXISTING METHODS: In principle, this algorithm provided random
+dot motion stimuli containing shape information for arbitrary natural movies.
+This new method is expected to expand the neurophysiological and psychophysical
+experimental protocols to elucidate the integration processing of motion and
+shape information in biological systems.
+CONCLUSIONS: The novel algorithm proposed here was effective in extracting object
+motion information from natural movies and provided new motion stimuli to
+investigate higher-order motion information processing.
+
+Copyright © 2017 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2017.08.006 
+PMID: 28802702  [Indexed for MEDLINE]
+
+
+824. J Chromatogr B Analyt Technol Biomed Life Sci. 2017 Sep 1;1061-1062:392-398. doi:
+10.1016/j.jchromb.2017.07.007. Epub 2017 Jul 15.
+
+Development and validation of a high-performance liquid chromatography-tandem
+mass spectrometry method to quantify LY-354,740 in rat and marmoset plasma.
+
+Gaudette F(1), Hamadjida A(2), Bédard D(2), Nuara SG(3), Beaudry F(4), Huot P(5).
+
+Author information: 
+(1)CRCHUM, Centre de Recherche du Centre Hospitalier de l'Université de Montréal,
+Montreal, Quebec, Canada. Electronic address:
+fleur.gaudette.chum@ssss.gouv.qc.ca.
+(2)CRCHUM, Centre de Recherche du Centre Hospitalier de l'Université de Montréal,
+Montreal, Quebec, Canada.
+(3)Comparative Medicine and Animal Resources Centre, McGill University, Montreal,
+Quebec, Canada.
+(4)CRCHUM, Centre de Recherche du Centre Hospitalier de l'Université de Montréal,
+Montreal, Quebec, Canada; Groupe de Recherche en Pharmacologie Animal du Québec, 
+Département de Biomédecine Vétérinaire, Faculté de Médecine Vétérinaire
+Université de Montréal, Saint-Hyacinthe, Quebec, Canada.
+(5)CRCHUM, Centre de Recherche du Centre Hospitalier de l'Université de Montréal,
+Montreal, Quebec, Canada; Département de Pharmacologie, Faculté de Médicine,
+Université de Montréal, Montreal, Quebec, Canada; Unité des Troubles du Mouvement
+André Barbeau, Centre Hospitalier de l'Université de Montréal, Montreal, Quebec, 
+Canada; Division of Neurology, Centre Hospitalier de l'Université de Montréal,
+Montreal, Quebec, Canada.
+
+LY-354,740 (eglumegad) is a selective and potent agonist of the metabotropic
+glutamate group II receptors (mGluR2,3) that has already entered clinical trials 
+as a potential anti-psychotic agent and therefore has well-documented
+pharmacokinetic (PK), safety and tolerability profiles in human. Whereas its
+development as an anti-psychotic agent has not been pursued, LY-354,740 may have 
+potential in other neuroscience-related fields, notably anxiety and
+neuro-protection. The common marmoset is a small primate that has long been used 
+in neuroscience. However, given its small size and small circulating blood
+volume, conducting PK studies to determine the therapeutic effectiveness of
+LY-354,740 at clinically-relevant doses is challenging. Here, we have developed
+and validated a simple, sensitive and selective analytical method that enables
+quantification of LY-354,740 using a small volume of plasma. The analytical
+method consisted of protein precipitation followed by high-performance liquid
+chromatography with heat assisted electrospray ionisation mass spectrometry
+(UHPLC-HESI-MS/MS). The chromatographic separation was achieved using gradient
+elution with a mobile phase consisting of acetonitrile and 10mM ammonium formate 
+(pH 3) on a Thermo Scientific Acclaim Trinity P1 analytical column (100x3.0mm
+I.D., 3μm) operating at 45°C and at a flow rate of 900μl/min. The method displays
+a linear relationship ranging from 20.0 to 5000ng/ml. Intra- and inter-day
+relative standard deviations are less than 5.7% and 7.0%, respectively and the
+accuracy ranged from 91.0 to 106.0%. The UHPLC-HESI-MS/MS analytical method we
+describe here is simple, sensitive, specific and capable of quantifying
+LY-354,740 in both rat and marmoset plasma, and is suitable to conduct PK studies
+after a single sub-cutaneous dose of 1.0mg/kg or lower in both species.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jchromb.2017.07.007 
+PMID: 28802219  [Indexed for MEDLINE]
+

@@ -1,0 +1,75 @@
+
+
+3463. Mol Phylogenet Evol. 1999 Apr;11(3):459-76.
+
+Phylogenetic relationships of the New World monkeys (Primates, platyrrhini) based
+on nuclear G6PD DNA sequences.
+
+von Dornum M(1), Ruvolo M.
+
+Author information: 
+(1)Department of Anthropology, Harvard University, Cambridge, Massachusetts,
+02138, USA. m.dornum@ucl.ac.uk
+
+In order to test hypotheses about the phylogenetic relationships among living
+genera of New World monkeys, 1.3 kb of DNA sequence information was collected for
+two introns of the glucose-6-phosphate dehydrogenase (G6PD) locus, encoded on the
+X chromosome, for 24 species of New World monkeys. These data were analyzed using
+a maximum parsimony algorithm. The strict consensus of the three
+most-parsimonious gene trees that result shows support for the following clades: 
+a pitheciine clade including Callicebus within which Chiropotes and Cacajao are
+sister taxa, an Alouatta-atelin clade within which Brachyteles is the sister
+taxon of Lagothrix and which is sister to another clade containing the
+callitrichines, and a callitrichine/Aotus/Cebus/Saimiri clade. Within the
+callitrichines, Callimico is the sister taxon of Callithrix. Cebus and Saimiri
+form a clade. These results are broadly consistent with previously published DNA 
+sequence analyses of platyrrhine phylogeny and provide additional support for
+groupings provisionally proposed in those earlier studies. Nevertheless,
+questions remain as to the relative phylogenetic placement of Leontopithecus and 
+Saguinus, the branching order within the Aotus/Cebus/Saimiri/callitrichine clade,
+and the placement of the pitheciine clade relative to the atelines and the
+callitrichines.
+
+Copyright 1999 Academic Press.
+
+DOI: 10.1006/mpev.1998.0582 
+PMID: 10196085  [Indexed for MEDLINE]
+
+
+3464. Exp Neurol. 1999 Mar;156(1):121-9.
+
+Functional benefit from clomethiazole treatment after focal cerebral ischemia in 
+a nonhuman primate species.
+
+Marshall JW(1), Cross AJ, Ridley RM.
+
+Author information: 
+(1)Department of Experimental Psychology, University of Cambridge, Downing
+Street, Cambridge, CB2 3EB, United Kingdom.
+
+Clomethiazole (CMZ) (Zendra) is neuroprotective in rodents following focal and
+global ischemia. However, its neuroprotective effects in other species,
+particularly on functional outcome, have not been reported. We have therefore
+examined the ability of CMZ to ameliorate the functional deficits produced by a
+focal cerebral ischemic lesion in the marmoset, a New World primate. Six monkeys 
+received permanent middle cerebral artery occlusion (pMCAO); six further monkeys 
+received pMCAO with administration of CMZ, 5 min after the arterial occlusion, by
+intraperitoneal bolus injection and by subcutaneous implantation of an osmotic
+minipump, which released CMZ for 24 h. The monkeys were trained and tested
+preoperatively on a number of behavioral tasks which were repeated 3 and 9 weeks 
+after surgery. CMZ-treated monkeys were better than non-drug-treated monkeys at
+using the disabled arm contralateral to the lesion and also showed a reduction in
+contralateral spatial hemineglect. Postmortem histopathological analysis at
+several stereotaxic levels showed a significant reduction in the area of ischemic
+damage in CMZ-treated monkeys compared to that in untreated animals. CMZ
+treatment reduced the overall volume of damage by 31.8% (MCA group, 370.8 +/-
+37.4 mm3 of damage; CMZ group, 253.0 +/- 38.0 mm3 of damage). This study
+demonstrates that CMZ is neuroprotective in a nonhuman primate species and is
+able to ameliorate the level of functional disability and reduce the size of
+infarct produced by focal cerebral ischemia.
+
+Copyright 1999 Academic Press.
+
+DOI: 10.1006/exnr.1998.6994 
+PMID: 10192783  [Indexed for MEDLINE]
+

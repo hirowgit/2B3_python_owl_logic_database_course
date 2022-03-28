@@ -1,0 +1,85 @@
+
+
+630. Am J Primatol. 2019 Feb;81(2):e22927. doi: 10.1002/ajp.22927. Epub 2018 Oct 12.
+
+Long-term treatment with the mTOR inhibitor rapamycin has minor effect on
+clinical laboratory markers in middle-aged marmosets.
+
+Sills AM(1), Artavia JM(1), DeRosa BD(1), Ross CN(1)(2), Salmon AB(1)(3)(4).
+
+Author information: 
+(1)The Sam and Ann Barshop Institute for Longevity and Aging Studies, UT Health
+San Antonio, San Antonio, Texas.
+(2)Department of Science and Mathematics, Texas A&M University at San Antonio,
+San Antonio, Texas.
+(3)Department of Molecular Medicine, UT Health San Antonio, San Antonio, Texas.
+(4)Geriatric Research, Education and Clinical Center, South Texas Veterans
+Healthcare System, San Antonio, Texas.
+
+Interventions to extend lifespan and improve health with increasing age would
+have significant impact on a growing aged population. There are now several
+pharmaceutical interventions that extend lifespan in laboratory rodent models
+with rapamycin, an inhibitor of mechanistic target of rapamycin (mTOR) being the 
+most well studied. In this study, we report on the hematological effects in a
+cohort of middle-aged common marmosets (Callithrix jacchus) that were enrolled in
+a study to test the effects of daily rapamycin treatment on aging in this
+species. In addition, we assessed whether sex was a significant factor in either 
+baseline assessment or as an interaction with rapamycin treatment. Among our
+cohort at baseline, we found few differences in either basic morphology or
+hematological markers of blood cell counts, metabolism or inflammation between
+male and female marmosets. After dosing with rapamycin, surprisingly we found
+trough blood concentrations of rapamycin were significantly lower in female
+compared to male marmosets. Despite this pharmacological difference, both sexes
+had only minor changes in cellular blood counts after 9 months of rapamycin.
+These data then suggest that the potential clinical hematological side effects of
+rapamycin are not likely outcomes of long-term rapamycin in relatively healthy,
+middle-aged marmosets.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajp.22927 
+PMCID: PMC6415526
+PMID: 30311681  [Indexed for MEDLINE]
+
+
+631. Eur J Neurosci. 2019 Jan;49(2):179-198. doi: 10.1111/ejn.14204. Epub 2018 Nov 2.
+
+Distributed representation of vocalization pitch in marmoset primary auditory
+cortex.
+
+Zhu S(1)(2), Allitt B(1), Samuel A(1), Lui L(1)(2), Rosa MGP(1)(2), Rajan R(1).
+
+Author information: 
+(1)Biomedicine Discovery Institute and Department of Physiology, Monash
+University, Clayton, Victoria, Australia.
+(2)Centre of Excellence in Integrative Brain Function, Australian Research
+Council, Clayton, Victoria, Australia.
+
+The pitch of vocalizations is a key communication feature aiding recognition of
+individuals and separating sound sources in complex acoustic environments. The
+neural representation of the pitch of periodic sounds is well defined. However,
+many natural sounds, like complex vocalizations, contain rich, aperiodic or not
+strictly periodic frequency content and/or include high-frequency components, but
+still evoke a strong sense of pitch. Indeed, such sounds are the rule, not the
+exception but the cortical mechanisms for encoding pitch of such sounds are
+unknown. We investigated how neurons in the high-frequency representation of
+primary auditory cortex (A1) of marmosets encoded changes in pitch of four
+natural vocalizations, two centred around a dominant frequency similar to the
+neuron's best sensitivity and two around a much lower dominant frequency. Pitch
+was varied over a fine range that can be used by marmosets to differentiate
+individuals. The responses of most high-frequency A1 neurons were sensitive to
+pitch changes in all four vocalizations, with a smaller proportion of the neurons
+showing pitch-insensitive responses. Classically defined excitatory drive, from
+the neuron's monaural frequency response area, predicted responses to changes in 
+vocalization pitch in <30% of neurons suggesting most pitch tuning observed is
+not simple frequency-level response. Moreover, 39% of A1 neurons showed
+call-invariant tuning of pitch. These results suggest that distributed activity
+across A1 can represent the pitch of natural sounds over a fine, functionally
+relevant range, and exhibits pitch tuning for vocalizations within and outside
+the classical neural tuning area.
+
+© 2018 Federation of European Neuroscience Societies and John Wiley & Sons Ltd.
+
+DOI: 10.1111/ejn.14204 
+PMID: 30307660  [Indexed for MEDLINE]
+

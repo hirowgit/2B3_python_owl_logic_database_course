@@ -1,0 +1,55 @@
+
+
+321. J Neural Transm (Vienna). 2020 Jul;127(7):1013-1021. doi:
+10.1007/s00702-020-02196-w. Epub 2020 Apr 24.
+
+The mGlu2/3 antagonist LY-341,495 reverses the anti-dyskinetic and anti-psychotic
+effects of the mGlu2 activators LY-487,379 and LY-354,740 in the MPTP-lesioned
+marmoset.
+
+Nuara SG(1), Hamadjida A(2)(3), Gourdon JC(1), Huot P(4)(5)(6).
+
+Author information: 
+(1)Comparative Medicine and Animal Resource Centre, McGill University, Montreal, 
+QC, Canada.
+(2)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St, Montreal, QC, H3A 2B4, Canada.
+(3)École Normale supérieure de Bertoua, Université de Ngaoundéré, Ngaoundéré,
+Cameroon.
+(4)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St, Montreal, QC, H3A 2B4, Canada. philippe.huot@mcgill.ca.
+(5)Department of Neurology and Neurosurgery, McGill University, Montreal, QC,
+Canada. philippe.huot@mcgill.ca.
+(6)Movement Disorder Clinic, Division of Neurology, Department of Neurosciences, 
+McGill University Health Centre, Montreal, QC, Canada. philippe.huot@mcgill.ca.
+
+We have recently shown that activation of metabotropic glutamate 2 (mGlu2)
+receptors through positive allosteric modulation and orthosteric stimulation is a
+novel approach to reduce L-3,4-dihydroxyphenylalanine (L-DOPA)-induced dyskinesia
+and dopaminergic psychosis in Parkinson's disease (PD). We have obtained these
+benefits with the mGlu2-positive allosteric modulator (PAM) LY-487,379 and the
+mGlu2/3 orthosteric agonist (OA) LY-354,740 in experiments conducted in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned marmoset. Here, we
+sought to pharmacologically characterise the anti-dyskinetic and anti-psychotic
+effects of LY-487,379 and LY-354,740, by assessing whether their benefits would
+be reversed by the mGlu2/3 orthosteric antagonist LY-341,495. Six MPTP-lesioned
+marmosets exhibiting stable dyskinesia and psychosis-like behaviours (PLBs)
+entered the experiments. In the first series of experiments, animals were
+injected L-DOPA in combination with either vehicle, LY-487,379 (10 mg/kg),
+LY-341,495 (1 mg/kg) or LY-487,379/LY-341,495. In the second series of
+experiments, marmosets were injected L-DOPA in combination with either vehicle,
+LY-354,740 (1 mg/kg), LY-341,495 (1 mg/kg) or LY-354,740/LY-341495. As we
+previously demonstrated, both LY-487,379 and LY-354,740 alleviated dyskinesia (by
+44% and 47%, both P < 0.001) and PLBs (by 44% and 39%, P < 0.01 and P < 0.001)
+when compared to vehicle treatment. When LY-487,379 and LY-354,740 were
+administered concurrently with LY-341,495, the anti-dyskinetic and anti-psychotic
+benefits were abolished. When administered with L-DOPA in the absence of
+LY-487,379 and LY-354,740, LY-341,495 did not worsen dyskinesia or PLBs and did
+not hamper L-DOPA anti-parkinsonian action. Our results indicate that the
+anti-dyskinetic and anti-psychotic effects of mGlu2-positive allosteric
+modulation and mGlu2/3 orthosteric stimulation are reversed by mGlu2/3
+orthosteric blockade.
+
+DOI: 10.1007/s00702-020-02196-w 
+PMID: 32333122  [Indexed for MEDLINE]
+

@@ -1,0 +1,85 @@
+
+
+670. IEEE Trans Med Imaging. 2019 Jan;38(1):69-78. doi: 10.1109/TMI.2018.2855736. Epub
+2018 Jul 13.
+
+PAT-Probabilistic Axon Tracking for Densely Labeled Neurons in Large 3-D
+Micrographs.
+
+Skibbe H, Reisert M, Nakae K, Watakabe A, Hata J, Mizukami H, Okano H, Yamamori
+T, Ishii S.
+
+A major goal of contemporary neuroscience research is to map the structural
+connectivity of mammalian brain using microscopy imaging data. In this context,
+the reconstruction of densely labeled axons from two-photon microscopy images is 
+a challenging and important task. The visually overlapping, crossing, and often
+strongly distorted images of the axons allow many ambiguous interpretations to be
+made. We address the problem of tracking axons in densely labeled samples of
+neurons in large image data sets acquired from marmoset brains. Our
+high-resolution images were acquired using two-photon microscopy and they
+provided whole brain coverage, occupying terabytes of memory. Both the image
+distortions and the large data set size frequently make it impractical to apply
+present-day neuron tracing algorithms to such data due to the optimization of
+such algorithms to the precise tracing of either single or sparse sets of
+neurons. Thus, new tracking techniques are needed. We propose a probabilistic
+axon tracking algorithm (PAT). PAT tackles the tracking of axons in two steps:
+locally (L-PAT) and globally (G-PAT). L-PAT is a probabilistic tracking algorithm
+that can tackle distorted, cluttered images of densely labeled axons. L-PAT
+divides a large micrograph into smaller image stacks. It then processes each
+image stack independently before mapping the axons in each image to a sparse
+model of axon trajectories. G-PAT merges the sparse L-PAT models into a single
+global model of axon trajectories by minimizing a global objective function using
+a probabilistic optimization method. We demonstrate the superior performance of
+PAT over standard approaches on synthetic data. Furthermore, we successfully
+apply PAT to densely labeled axons in large images acquired from marmoset brains.
+
+DOI: 10.1109/TMI.2018.2855736 
+PMID: 30010551  [Indexed for MEDLINE]
+
+
+671. J Virol. 2018 Sep 12;92(19). pii: e00359-18. doi: 10.1128/JVI.00359-18. Print
+2018 Oct 1.
+
+Cell-Derived Viral Genes Evolve under Stronger Purifying Selection in
+Rhadinoviruses.
+
+Aswad A(1), Katzourakis A(2).
+
+Author information: 
+(1)Zoology Department, University of Oxford, Oxford, Oxfordshire, United Kingdom.
+(2)Zoology Department, University of Oxford, Oxford, Oxfordshire, United Kingdom 
+aris.katzourakis@zoo.ox.ac.uk.
+
+Like many other large double-stranded DNA (dsDNA) viruses, herpesviruses are
+known to capture host genes to evade host defenses. Little is known about the
+detailed natural history of such genes, nor do we fully understand their
+evolutionary dynamics. A major obstacle is that they are often highly divergent, 
+maintaining very low sequence similarity to host homologs. Here we use the
+herpesvirus genus Rhadinovirus as a model system to develop an analytical
+approach that combines complementary evolutionary and bioinformatic techniques,
+offering results that are both detailed and robust for a range of genes. Using a 
+systematic phylogenetic strategy, we identify the original host lineage of viral 
+genes with high confidence. We show that although host immunomodulatory genes
+evolve rapidly compared to other host genes, they undergo a clear increase in
+purifying selection once captured by a virus. To characterize this shift in
+detail, we developed a novel technique to identify changes in selection pressure 
+that can be attributable to particular domains. These findings will inform us on 
+how viruses develop strategies to evade the immune system, and our synthesis of
+techniques can be reapplied to other viruses or biological systems with similar
+analytical challenges.IMPORTANCE Viruses and hosts have been shown to capture
+genes from one another as part of the evolutionary arms race. Such genes offer a 
+natural experiment on the effects of evolutionary pressure, since the same gene
+exists in vastly different selective environments. However, sequences of viral
+homologs often bear little similarity to the original sequence, complicating the 
+reconstruction of their shared evolutionary history with host counterparts. In
+this study, we use a genus of herpesviruses as a model system to comprehensively 
+investigate the evolution of host-derived viral genes, using a synthesis of
+genomics, phylogenetics, selection analysis, and nucleotide and amino acid
+modeling.
+
+Copyright © 2018 American Society for Microbiology.
+
+DOI: 10.1128/JVI.00359-18 
+PMCID: PMC6146799
+PMID: 29997213  [Indexed for MEDLINE]
+

@@ -1,0 +1,49 @@
+
+
+2108. Mol Biol Evol. 2009 Dec;26(12):2865-75. doi: 10.1093/molbev/msp197. Epub 2009 Sep
+2.
+
+Evolutionary trajectories of primate genes involved in HIV pathogenesis.
+
+Ortiz M(1), Guex N, Patin E, Martin O, Xenarios I, Ciuffi A, Quintana-Murci L,
+Telenti A.
+
+Author information: 
+(1)Institute of Microbiology, University Hospital Center and University of
+Lausanne, Lausanne, Switzerland.
+
+The current availability of five complete genomes of different primate species
+allows the analysis of genetic divergence over the last 40 million years of
+evolution. We hypothesized that the interspecies differences observed in
+susceptibility to HIV-1 would be influenced by the long-range selective pressures
+on host genes associated with HIV-1 pathogenesis. We established a list of human 
+genes (n = 140) proposed to be involved in HIV-1 biology and pathogenesis and a
+control set of 100 random genes. We retrieved the orthologous genes from the
+genome of humans and of four nonhuman primates (Pan troglodytes, Pongo pygmaeus
+abeli, Macaca mulatta, and Callithrix jacchus) and analyzed the nucleotide
+substitution patterns of this data set using codon-based maximum likelihood
+procedures. In addition, we evaluated whether the candidate genes have been
+targets of recent positive selection in humans by analyzing HapMap Phase 2
+single-nucleotide polymorphisms genotyped in a region centered on each candidate 
+gene. A total of 1,064 sequences were used for the analyses. Similar median
+K(A)/K(S) values were estimated for the set of genes involved in HIV-1
+pathogenesis and for control genes, 0.19 and 0.15, respectively. However, genes
+of the innate immunity had median values of 0.37 (P value = 0.0001, compared with
+control genes), and genes of intrinsic cellular defense had K(A)/K(S) values
+around or greater than 1.0 (P value = 0.0002). Detailed assessment allowed the
+identification of residues under positive selection in 13 proteins: AKT1,
+APOBEC3G, APOBEC3H, CD4, DEFB1, GML, IL4, IL8RA, L-SIGN/CLEC4M, PTPRC/CD45,
+Tetherin/BST2, TLR7, and TRIM5alpha. A number of those residues are relevant for 
+HIV-1 biology. The set of 140 genes involved in HIV-1 pathogenesis did not show a
+significant enrichment in signals of recent positive selection in humans
+(intraspecies selection). However, we identified within or near these genes 24
+polymorphisms showing strong signatures of recent positive selection.
+Interestingly, the DEFB1 gene presented signatures of both interspecies positive 
+selection in primates and intraspecies recent positive selection in humans. The
+systematic assessment of long-acting selective pressures on primate genomes is a 
+useful tool to extend our understanding of genetic variation influencing
+contemporary susceptibility to HIV-1.
+
+DOI: 10.1093/molbev/msp197 
+PMID: 19726537  [Indexed for MEDLINE]
+

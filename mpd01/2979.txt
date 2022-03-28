@@ -1,0 +1,72 @@
+
+
+2979. J Physiol. 2003 Feb 1;546(Pt 3):903-19.
+
+Centre and surround responses of marmoset lateral geniculate neurones at
+different temporal frequencies.
+
+Kilavik BE(1), Silveira LC, Kremers J.
+
+Author information: 
+(1)Department of Experimental Ophthalmology, University of Tübingen Eye Hospital,
+Röntgenweg 11, D-72076 Tübingen, Germany.
+
+The responses of marmoset lateral geniculate neurones to stimuli that were
+composed of a sinusoidally modulating centre stimulus and a surround that was
+modulated in counterphase were measured. The size of the stimulus centre was
+varied. These measurements were repeated at different temporal frequencies
+between 1 and 30 Hz. The response amplitudes and phases depended in a
+characteristic manner on the stimulus centre size. The response behaviour could
+be modelled by assuming Gaussian responsivity profiles of the cells' receptive
+field (RF) centres and surrounds and a phase delay in the RF surround responses, 
+relative to the centre, enabling the description of RF centre and surround
+response characteristics. We found that the RF centre-to-surround phase
+difference increased linearly with increasing temporal frequency, indicating a
+constant delay difference of about 4.5 to 6 ms. A linear model, including
+low-pass filters, a lead lag stage and a delay, was used to describe the mean RF 
+centre and surround responses. The separate RF centre and surround responses were
+less band pass than the full receptive field responses of the cells. The linear
+model provided less satisfactory fits to M-cell responses than to those of
+P-cells, indicating additional nonlinearities.
+
+DOI: 10.1113/jphysiol.2002.027748 
+PMCID: PMC2342578
+PMID: 12563014  [Indexed for MEDLINE]
+
+
+2980. Anal Sci. 2003 Jan;19(1):67-71.
+
+In vivo imaging of brain dopaminergic neurotransmission system in small animals
+with high-resolution single photon emission computed tomography.
+
+Saji H(1), Iida Y, Kawashima H, Ogawa M, Kitamura Y, Mukai T, Shimazu S, Yoneda
+F.
+
+Author information: 
+(1)Graduate School of Pharmaceutical Sciences, Kyoto University, Yoshida,
+Sakyo-ku, Kyoto 606-8501, Japan. hsaji@pharm.kyoto-u.ac.jp
+
+High-resolution single photon emission computed tomography (SPECT) provides a
+unique capability to image the biodistribution of radiolabeled molecules in small
+laboratory animals. Thus, we applied the high-resolution SPECT to in vivo imaging
+of the brain dopaminergic neurotransmission system in common marmosets using two 
+radiolabeled ligands, [123I]2beta-carbomethoxy-3beta-(4-iodophenyl)tropane
+(beta-CIT) as a dopamine transporter (DAT) ligand and [123I]iodobenzamide (IBZM) 
+as a dopamine D2 receptor (D2R) ligand. Specific images of the striatum, a region
+with a high density of dopaminergic synapses, were obtained at 240 min and 60 min
+after injection of [123I]beta-CIT and [123I]IBZM, respectively. Furthermore, a
+significantly low accumulation of [123I]beta-CIT in the striatum was observed in 
+MPTP-treated animals compared with results for a control group, and a similar
+accumulation in the control group was observed with the pretreatment of deprenyl 
+in the MPTP-treated animals. However, the striatal accumulation of [123I]IBZM
+showed no changes among the control, MPTP-treated, and deprenyl-MPTP-treated
+groups. These SPECT imaging results agreed well with those of DA concentration
+and motor behavior. Since MPTP destroys nigrostriatal dopamine nerves and
+produces irreversible neurodegeneration associated with Parkinsonian syndrome,
+SPECT imaging data in this study demonstrated that deprenyl shows its
+neuroprotective effect on Parkinsonism by protecting against the destruction of
+presynaptic dopamine neurons.
+
+DOI: 10.2116/analsci.19.67 
+PMID: 12558026  [Indexed for MEDLINE]
+

@@ -1,0 +1,83 @@
+
+
+63. Mol Cell Endocrinol. 2022 Jan 1;539:111488. doi: 10.1016/j.mce.2021.111488. Epub 
+2021 Oct 9.
+
+Limited spermatogenic differentiation of testicular tissue from prepubertal
+marmosets (Callithrix jacchus) in an in vitro organ culture system.
+
+Sharma S(1), Klaverkamp RS(1), Wistuba J(1), Schlatt S(2).
+
+Author information: 
+(1)Centre of Reproductive Medicine and Andrology, Institute of Reproductive and
+Regenerative Biology, Albert-Schweitzer Campus 1, Building D11, 48149, Münster,
+Germany.
+(2)Centre of Reproductive Medicine and Andrology, Institute of Reproductive and
+Regenerative Biology, Albert-Schweitzer Campus 1, Building D11, 48149, Münster,
+Germany. Electronic address: stefan.schlatt@ukmuenster.de.
+
+PURPOSE: of the research: To achieve male fertility preservation and restoration,
+experimental strategies for in vitro germ cell differentiation are required. The 
+effects of two different culture conditions on in vitro maintenance and
+differentiation of non-human primate germ cells was studied. Three testes from
+three 6-month-old marmosets were cultured using a gas-liquid interphase system
+for 12 days. Testicular maturation in pre-culture control and samples cultured in
+gonadotropin and serum supplemented and non-supplemented culture samples was
+evaluated using Periodic Acid-Schiff (PAS) and immunohistochemical stainings.
+PRINCIPLE RESULTS: Gonadotropins and serum-supplemented tissues demonstrate up to
+meiotic differentiation (BOULE + Pachytene spermatocyte) and advanced
+localization of germ cells (MAGEA4+). Moreover, complex (with gonadotropin and
+marmoset monkey serum) conditions induced progression in somatic cell maturation 
+with advanced seminiferous epithelial organization, maintenance of encapsulation 
+of cultured fragments with peritubular-myoid cells, preservation of tubular
+structural integrity and architecture.
+MAJOR CONCLUSIONS: We report stimulation-dependent in vitro meiotic transition in
+non-human primate testes. This model represents a novel ex vivo approach to
+obtain crucial developmental progression.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.mce.2021.111488 
+PMID: 34637880 
+
+
+64. EMBO J. 2021 Nov 15;40(22):e107757. doi: 10.15252/embj.2021107757. Epub 2021 Oct 
+12.
+
+A genetically targeted reporter for PET imaging of deep neuronal circuits in
+mammalian brains.
+
+Shimojo M(1), Ono M(1), Takuwa H(1), Mimura K(1), Nagai Y(1), Fujinaga M(2),
+Kikuchi T(2), Okada M(2), Seki C(1), Tokunaga M(1), Maeda J(1), Takado Y(1),
+Takahashi M(1), Minamihisamatsu T(1), Zhang MR(2), Tomita Y(3), Suzuki N(3),
+Maximov A(4), Suhara T(1), Minamimoto T(1), Sahara N(1), Higuchi M(1).
+
+Author information: 
+(1)Department of Functional Brain Imaging, National Institutes for Quantum and
+Radiological Science and Technology, Chiba, Japan.
+(2)Department of Radiopharmaceuticals Development, National Institutes for
+Quantum and Radiological Science and Technology, Chiba, Japan.
+(3)Department of Neurology, Keio University School of Medicine, Tokyo, Japan.
+(4)Department of Neuroscience, The Scripps Research Institute, La Jolla, CA, USA.
+
+Positron emission tomography (PET) allows biomolecular tracking but PET
+monitoring of brain networks has been hampered by a lack of suitable reporters.
+Here, we take advantage of bacterial dihydrofolate reductase, ecDHFR, and its
+unique antagonist, TMP, to facilitate in vivo imaging in the brain. Peripheral
+administration of radiofluorinated and fluorescent TMP analogs enabled PET and
+intravital microscopy, respectively, of neuronal ecDHFR expression in mice. This 
+technique can be used to the visualize neuronal circuit activity elicited by
+chemogenetic manipulation in the mouse hippocampus. Notably, ecDHFR-PET allows
+mapping of neuronal projections in non-human primate brains, demonstrating the
+applicability of ecDHFR-based tracking technologies for network monitoring.
+Finally, we demonstrate the utility of TMP analogs for PET studies of turnover
+and self-assembly of proteins tagged with ecDHFR mutants. These results establish
+opportunities for a broad spectrum of previously unattainable PET analyses of
+mammalian brain circuits at the molecular level.
+
+© 2021 The Authors. Published under the terms of the CC BY 4.0 license.
+
+DOI: 10.15252/embj.2021107757 
+PMCID: PMC8591537
+PMID: 34636430  [Indexed for MEDLINE]
+

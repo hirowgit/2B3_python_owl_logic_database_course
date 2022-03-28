@@ -1,0 +1,38 @@
+
+
+3895. Brain Res. 1995 Jun 12;683(1):102-8.
+
+Functional implications of kappa opioid receptor-mediated modulation of glutamate
+transmission in the output regions of the basal ganglia in rodent and primate
+models of Parkinson's disease.
+
+Maneuf YP(1), Mitchell IJ, Crossman AR, Woodruff GN, Brotchie JM.
+
+Author information: 
+(1)Division of Neuroscience, School of Biological Sciences, University of
+Manchester, UK.
+
+Parkinson's disease is characterized by an increased excitatory amino acid
+transmission in the internal segment of the globus pallidus and the substantia
+nigra pars reticulata. The effects of the kappa receptor agonist enadoline
+(CI-977) on glutamate transmission were investigated in vitro. Enadoline reduced 
+the K(+)-evoked release of glutamate from slices of substantia nigra in a
+concentration-dependent manner (maximum effect: 78% inhibition at 200 microM).
+This effect was blocked by the selective kappa receptor antagonist
+nor-binaltorphimine. The endogenous ligand for kappa receptors is thought to be
+dynorphin. Dynorphin released from terminals of striato-pallidal and
+striato-nigral pathways might thus act as an endogenous modulatory agent on
+glutamatergic transmission in the basal ganglia. In vivo experiments were carried
+out in rodent and primate models of Parkinson's disease to assess the potential
+of manipulating kappa receptors as a potential treatment for Parkinson's disease.
+Enadoline reduced reserpine-induced akinesia when injected in the entopeduncular 
+nucleus of the rat. Similarly, injections of CI-977 in the internal segment of
+globus pallidus (GPi) of the MPTP-treated marmoset alleviated parkinsonian
+symptoms and allowed the animal to recover its locomotor activity. This suggest
+that reducing the overactive glutamatergic transmission in the output regions of 
+the basal ganglia by activating kappa receptors might potentially form the basis 
+of a novel anti-parkinsonian therapy.
+
+DOI: 10.1016/0006-8993(95)00358-w 
+PMID: 7552334  [Indexed for MEDLINE]
+

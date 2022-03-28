@@ -1,0 +1,44 @@
+
+
+879. Biopharm Drug Dispos. 2017 Sep;38(6):394-397. doi: 10.1002/bdd.2080. Epub 2017
+Jun 28.
+
+Functional characterization and tissue expression of marmoset cytochrome P450
+2E1.
+
+Uehara S(1), Uno Y(2), Tomioka E(1), Inoue T(3), Sasaki E(3)(4), Yamazaki H(1).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, 194-8543, Japan.
+(2)Pharmacokinetics and Bioanalysis Center, Shin Nippon Biomedical Laboratories, 
+Ltd., Kainan, Wakayama, Japan.
+(3)Department of marmoset research, Central Institute for Experimental Animals,
+Kawasaki, Japan.
+(4)Keio Advanced Research Center, Keio University, Minato-ku, Tokyo, Japan.
+
+Common marmosets (Callithrix jacchus) have attracted increasing attention as a
+useful small non-human primate model in preclinical research. However, studies on
+marmoset cytochrome P450 (P450) 2E enzyme have scarcely been conducted. In this
+study, the full-length cDNA encoding P450 2E1 enzyme was isolated from marmoset
+livers by reverse transcription (RT)-polymerase chain reaction (PCR). Marmoset
+P450 2E1 amino acid sequences were highly identical (>88%) to those of cynomolgus
+monkey and human P450 2E1 enzymes. Phylogenetic analysis indicated a close
+evolutionary relationship among marmoset, cynomolgus monkey, and human P450 2E1
+enzymes. The tissue expression pattern analyzed by real-time RT-PCR and
+immunoblotting demonstrated that marmoset P450 2E1 mRNA and proteins were
+predominantly expressed in livers. Marmoset P450 2E1 enzyme heterologously
+expressed in Escherichia coli catalyzed the hydroxylation of p-nitrophenol,
+chlorzoxazone, and theophylline, similar to cynomolgus monkey and human P450 2E1 
+enzymes. By kinetic analyses, those P450 2E1 enzymes catalyzed p-nitrophenol
+hydroxylation with similar affinities and relatively high intrinsic clearance
+efficiencies. These results indicated that tissue distribution and
+enzyme-substrate specificity of marmoset P450 2E1 were similar to cynomolgus
+monkey and human P450 2E1 enzymes, suggesting that marmosets are a suitable
+primate model for P450 2E1-dependent drug and xenobiotic metabolism.
+
+Copyright © 2017 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/bdd.2080 
+PMID: 28474789  [Indexed for MEDLINE]
+

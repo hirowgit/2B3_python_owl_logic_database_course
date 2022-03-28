@@ -1,0 +1,86 @@
+
+
+1084. Nat Neurosci. 2016 Apr;19(4):634-641. doi: 10.1038/nn.4268. Epub 2016 Mar 14.
+
+Spike sorting for large, dense electrode arrays.
+
+Rossant C(#)(1)(2), Kadir SN(#)(1)(2), Goodman DFM(3), Schulman J(4), Hunter
+MLD(1)(2), Saleem AB(5), Grosmark A(6), Belluscio M(6), Denfield GH(7), Ecker
+AS(7), Tolias AS(7), Solomon S(8), Buzsaki G(6), Carandini M(5), Harris KD(1)(2).
+
+Author information: 
+(1)UCL Department of Neuroscience, Physiology and Pharmacology, London, UK.
+(2)UCL Institute of Neurology, London, UK.
+(3)Department of Electrical and Electronic Engineering, Imperial College, London,
+UK.
+(4)Department of Electrical Engineering and Computer Sciences, UC Berkeley,
+Berkeley, CA.
+(5)UCL Institute of Ophthalmology, London, UK.
+(6)NYU Neuroscience Institute, Langone Medical Center, New York, NY.
+(7)Department of Neuroscience, Baylor College of Medicine, Houston, TX.
+(8)UCL Institute of Behavioural Neuroscience, Department of Experimental
+Psychology, London, UK.
+(#)Contributed equally
+
+Developments in microfabrication technology have enabled the production of neural
+electrode arrays with hundreds of closely spaced recording sites, and electrodes 
+with thousands of sites are under development. These probes in principle allow
+the simultaneous recording of very large numbers of neurons. However, use of this
+technology requires the development of techniques for decoding the spike times of
+the recorded neurons from the raw data captured from the probes. Here we present 
+a set of tools to solve this problem, implemented in a suite of practical,
+user-friendly, open-source software. We validate these methods on data from the
+cortex, hippocampus and thalamus of rat, mouse, macaque and marmoset,
+demonstrating error rates as low as 5%.
+
+DOI: 10.1038/nn.4268 
+PMCID: PMC4817237
+PMID: 26974951  [Indexed for MEDLINE]
+
+
+1085. Front Integr Neurosci. 2016 Mar 4;10:9. doi: 10.3389/fnint.2016.00009.
+eCollection 2016.
+
+Functional Connectivity Hubs and Networks in the Awake Marmoset Brain.
+
+Belcher AM(1), Yen CC(2), Notardonato L(2), Ross TJ(3), Volkow ND(4), Yang Y(3), 
+Stein EA(3), Silva AC(2), Tomasi D(5).
+
+Author information: 
+(1)Department of Psychiatry, University of Maryland School of MedicineBaltimore, 
+MD, USA; National Institute on Drug Abuse, National Institutes of
+HealthBaltimore, MD, USA.
+(2)National Institute of Neurological Disorders and Stroke, National Institutes
+of Health Bethesda, MD, USA.
+(3)National Institute on Drug Abuse, National Institutes of Health Baltimore, MD,
+USA.
+(4)National Institute on Drug Abuse, National Institutes of HealthRockville, MD, 
+USA; National Institute on Alcohol Abuse and Alcoholism, National Institutes of
+HealthBethesda, MD, USA.
+(5)National Institute on Alcohol Abuse and Alcoholism, National Institutes of
+Health Bethesda, MD, USA.
+
+In combination with advances in analytical methods, resting-state fMRI is
+allowing unprecedented access to a better understanding of the network
+organization of the brain. Increasing evidence suggests that this architecture
+may incorporate highly functionally connected nodes, or "hubs", and we have
+recently proposed local functional connectivity density (lFCD) mapping to
+identify highly-connected nodes in the human brain. Here, we imaged awake
+nonhuman primates to test whether, like the human brain, the marmoset brain
+contains FC hubs. Ten adult common marmosets (Callithrix jacchus) were acclimated
+to mild, comfortable restraint using individualized helmets. Following restraint 
+training, resting BOLD data were acquired during eight consecutive 10 min scans
+for each subject. lFCD revealed prominent cortical and subcortical hubs of
+connectivity across the marmoset brain; specifically, in primary and secondary
+visual cortices (V1/V2), higher-order visual association areas (A19M/V6[DM]),
+posterior parietal and posterior cingulate areas (PGM and A23b/A31), thalamus,
+dorsal and ventral striatal areas (caudate, putamen, lateral septal nucleus, and 
+anterior cingulate cortex (A24a). lFCD hubs were highly connected to widespread
+areas of the brain, and further revealed significant network-network
+interactions. These data provide a baseline platform for future investigations in
+a nonhuman primate model of the brain's network topology.
+
+DOI: 10.3389/fnint.2016.00009 
+PMCID: PMC4777715
+PMID: 26973476 
+

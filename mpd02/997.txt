@@ -1,0 +1,46 @@
+
+
+997. J Exp Biol. 2016 Sep 1;219(Pt 17):2659-72. doi: 10.1242/jeb.140939.
+
+Effects of support diameter and compliance on common marmoset (Callithrix
+jacchus) gait kinematics.
+
+Young JW(1), Stricklen BM(2), Chadwell BA(2).
+
+Author information: 
+(1)Department of Anatomy and Neurobiology, Northeast Ohio Medical University
+(NEOMED), Rootstown, OH 44272, USA Musculoskeletal Biology Research Focus Area,
+NEOMED, Rootstown, OH 44272, USA School of Biomedical Sciences, Kent State
+University, Kent, OH 44240, USA jwyoung@neomed.edu.
+(2)Department of Anatomy and Neurobiology, Northeast Ohio Medical University
+(NEOMED), Rootstown, OH 44272, USA.
+
+Locomotion is precarious in an arboreal habitat, where supports can vary in both 
+diameter and level of compliance. Several previous studies have evaluated the
+influence of substrate diameter on the locomotor performance of arboreal
+quadrupeds. The influence of substrate compliance, however, has been mostly
+unexamined. Here, we used a multifactorial experimental design to investigate how
+perturbations in both diameter and compliance affect the gait kinematics of
+marmosets (Callithrix jacchus; N=2) moving over simulated arboreal substrates. We
+used 3D-calibrated video to quantify marmoset locomotion over a horizontal
+trackway consisting of variably sized poles (5, 2.5 and 1.25 cm in diameter),
+analyzing a total of 120 strides. The central portion of the trackway was either 
+immobile or mounted on compliant foam blocks, depending on condition. We found
+that narrowing diameter and increasing compliance were both associated with
+relatively longer substrate contact durations, though adjustments to diameter
+were often inconsistent relative to compliance-related adjustments. Marmosets
+also responded to narrowing diameter by reducing speed, flattening center of mass
+(CoM) movements and dampening support displacement on the compliant substrate.
+For the subset of strides on the compliant support, we found that speed, contact 
+duration and CoM amplitude explained >60% of the variation in substrate
+displacement over a stride, suggesting a direct performance advantage to these
+kinematic adjustments. Overall, our results show that compliant substrates can
+exert a significant influence on gait kinematics. Substrate compliance, and not
+just support diameter, should be considered a critical environmental variable
+when evaluating locomotor performance in arboreal quadrupeds.
+
+© 2016. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/jeb.140939 
+PMID: 27582562  [Indexed for MEDLINE]
+

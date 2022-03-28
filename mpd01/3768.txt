@@ -1,0 +1,82 @@
+
+
+3768. Virology. 1996 Aug 15;222(2):451-6.
+
+Endogenous D-type (HERV-K) related sequences are packaged into retroviral
+particles in the placenta and possess open reading frames for reverse
+transcriptase.
+
+Simpson GR(1), Patience C, Löwer R, Tönjes RR, Moore HD, Weiss RA, Boyd MT.
+
+Author information: 
+(1)Chester Beatty Laboratories, Institute of Cancer Research, London, United
+Kingdom.
+
+All primates studied to date produce retroviral-like particles in their
+placentae. We have purified these particles from two primate species, one Old
+World (human) and one New World (marmoset), and have identified the retroviral
+sequences which are packaged into these particles. Three families of sequences
+have been detected in these particles in human, all of which have the highest
+homology to B- and D-type retroviruses and to the human endogenous retrovirus
+HERV-K10. Previous studies have reported that the New World monkeys do not
+possess sequences with homology to HERV-K10. We have identified a new family of
+low-copy-number sequences which are present in New World monkeys and which
+possess 70% homology to the HERV-K family. Particles from both species possess
+reverse transcriptase activity and we have found that some of these retroviral
+particles package sequences which encode long open reading frames in pol, as
+revealed by expression cloning in Escherichia coli. These open reading frames
+could encode the reverse transcriptase enzyme activity found in the particles.
+
+DOI: 10.1006/viro.1996.0443 
+PMID: 8806530  [Indexed for MEDLINE]
+
+
+3769. Virology. 1996 Aug 15;222(2):352-64.
+
+Epstein-Barr virus single-stranded DNA-binding protein: purification,
+characterization, and action on DNA synthesis by the viral DNA polymerase.
+
+Tsurumi T(1), Kobayashi A, Tamai K, Yamada H, Daikoku T, Yamashita Y, Nishiyama
+Y.
+
+Author information: 
+(1)Laboratory of Virology, Nagoya University School of Medicine, Japan.
+
+Epstein-Barr virus (EBV) BALF2 gene product is one of the essential components in
+the lytic phase of the EBV DNA replication. The BALF2 protein was purified to
+near homogeneity from the nuclear extract of B95-8 cells with virus productive
+cycle induced by chemical agents. SDS-polyacrylamide gel electrophoresis showed
+the presence of a single polypeptide with a molecular weight of 130 K, which was 
+identified as BALF2 protein by Western immunoblot analysis. On Superose 6 HR
+10/30 gel filtration the BALF2 protein eluted at a position corresponding to an
+apparent molecular mass of approximately 128 K, indicating that the BALF2 protein
+behaves as a monomer in solution. The purified BALF2 protein bound to
+single-stranded DNA preferentially over double-stranded DNA or single-stranded
+RNA. Replication of singly primed M13 single-stranded DNA by the EBV DNA
+polymerase complex in the absence of the BALF2 protein exhibited a highly
+processive mode of replication and generated full length products in addition to 
+some bands of pausing sites. Although the addition of the BALF2 protein did not
+affect the replication rate, the average chain length of the replication products
+was slightly increased with eliminating bands of pausing sites. Similar effects
+were observed with the reconstituted polymerase complex composed of the BALF5 and
+BMRF1 Pol subunits. On the other hand, in the absence of the BALF2 protein, the
+BALF5 Pol catalytic subunit alone extended the primer slightly and paused at
+specific sites on M13 ssDNA template where stable secondary structure is
+predicted. However, addition of the BALF2 protein, in contrast to the case of
+herpes simplex virus ICP8 which does not affect the overall distribution of
+length of the replication products synthesized by the HSV Pol catalytic subunit
+(Gottlieb et al., 1990, J. Virol. 64, 5976-5987), stimulated DNA synthesis and
+yielded a distribution of replication products with long lengths in addition to
+full length products. Although the BALF2 protein behaved as if it converts a low 
+processive enzyme of the EBV Pol catalytic subunit to a highly processive form
+like the BMRF1 Pol accessory subunit, challenger DNA experiments revealed that
+the EBV Pol catalytic subunit is transferred to challenger DNA even in the
+presence of the BALF2 protein. It is therefore likely that the EBV BALF2 protein 
+functions to melt out the regions of secondary structure on the single-stranded
+DNA template, thereby reducing and eliminating pausing of the EBV DNA polymerase 
+at specific sites. These properties indicate that the EBV BALF2 protein acts as a
+single-stranded DNA-binding protein during lytic phase of EBV DNA replication.
+
+DOI: 10.1006/viro.1996.0432 
+PMID: 8806519  [Indexed for MEDLINE]
+

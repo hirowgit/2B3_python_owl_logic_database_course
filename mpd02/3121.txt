@@ -1,0 +1,41 @@
+
+
+3121. Arch Biochem Biophys. 2001 Dec 1;396(1):56-64.
+
+Nafenopin-, ciprofibroyl-, and palmitoyl-CoA conjugation in vitro: kinetic and
+molecular characterization of marmoset liver microsomes and expressed MLCL1.
+
+Drogemuller CJ(1), Nunthasomboon S, Knights KM.
+
+Author information: 
+(1)Department of Clinical Pharmacology, School of Medicine, Adelaide, 5042,
+Australia.
+
+Acyl-CoA conjugation of xenobiotic carboxylic acids is catalyzed by hepatic
+microsomal long-chain fatty acid CoA ligases (LCL, EC 6.2.1.3). Marmosets
+(Callithrix jacchus) are considered genetically closer to humans than rodents and
+are used in pharmacological and toxicological studies. We have demonstrated that 
+marmoset liver microsomes catalyze nafenopin-, ciprofibroyl-, and palmitoyl-CoA
+conjugation and that only palmitoyl-CoA conjugation is significantly upregulated 
+(1.7-fold, P < 0.02) by a high fat diet. Additionally, the apparent C(50) values 
+for nafenopin-, ciprofibroyl-, and palmitoyl-CoA conjugation of 149.7, 413.4, and
+3.4 microM were comparable to those reported for human liver microsomes viz,
+213.7, 379.8, and 3.4 microM, respectively. Comparison with human data was
+enabled by the cloning of a full-length marmoset cDNA (MLCL1) that encoded a
+698-amino-acid protein sharing 83% similarity with rat liver acyl-CoA synthetase 
+(ACS1) and 93 and 90% similarity with human liver LCL1 and LCL2, respectively.
+MLCL1 transiently expressed in COS-7 cells activated nafenopin (C(50) 192.9
+microM), ciprofibrate (C(50) 168.7 microM), and palmitic acid (C(50) 4.5 microM) 
+to their respective CoA conjugates. This study also demonstrated that the
+sigmoidal kinetics observed for nafenopin- and ciprofibroyl-CoA conjugation were 
+not unique to human liver microsomes but were also characteristic of marmoset
+liver microsomes and recombinant MLCL1. More extensive characterization of the
+substrate specificity of marmoset LCL isoforms will aid in determining further
+the suitability of marmosets as a model for human xenobiotic metabolism via
+acyl-CoA conjugation.
+
+(c)2001 Elsevier Science.
+
+DOI: 10.1006/abbi.2001.2591 
+PMID: 11716462  [Indexed for MEDLINE]
+

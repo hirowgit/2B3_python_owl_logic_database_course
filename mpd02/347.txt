@@ -1,0 +1,54 @@
+
+
+347. Biomed Pharmacother. 2020 Jun;126:110060. doi: 10.1016/j.biopha.2020.110060. Epub
+2020 Mar 4.
+
+Comparison of the pharmacological profiles of arginine vasopressin and oxytocin
+analogs at marmoset, macaque, and human vasopressin 1a receptor.
+
+Pierce ML(1), French JA(2), Murray TF(3).
+
+Author information: 
+(1)Department of Pharmacology, Creighton University School of Medicine, 2500
+California Plaza, Omaha, NE 68178, USA.
+(2)Department of Psychology, University of Nebraska Omaha, 6001 Dodge St., Omaha,
+NE 68182, USA.
+(3)Department of Pharmacology, Creighton University School of Medicine, 2500
+California Plaza, Omaha, NE 68178, USA. Electronic address:
+tfmurray@creighton.edu.
+
+Arginine vasopressin (AVP) and oxytocin (OT) are nonapeptides that bind to
+G-protein coupled receptors and influence social behaviors. Consensus mammalian
+AVP and OT (Leu8-OT) sequences are highly conserved. In marmosets, an amino acid 
+change in the 8th position of the peptide (Pro8-OT) exhibits unique structural
+and functional properties. There is ∼85 % structural homology between the OT
+receptor (OTR) and vasopressin 1a receptor (V1aR) resulting in significant
+cross-reactivity between the ligands and receptors. Chinese hamster ovary (CHO)
+cells expressing marmoset (mV1aR), macaque (qV1aR), or human vasopressin receptor
+1a (hV1aR) were used to assess AVP, Leu8-OT and Pro8-OT pharmacological profiles.
+To assess activation of Gq, functional assays were performed using Fluo-3 to
+measure ligand-induced Ca2+ mobilization. In all three V1aR-expressing cell
+lines, AVP was more potent than the OT ligands. To assess ligand-induced
+hyperpolarization, FLIPR Membrane Potential (FMP) assays were performed. In all
+three V1aR lines, AVP was more potent than the OT analogs. The distinctive
+U-shaped concentration-response curve displayed by AVP may reflect enhanced
+desensitization of the mV1aR and hV1aR, which is not observed with qV1aR.
+Evaluation of Ca2+-activated potassium (K+) channels using the inhibitors apamin,
+paxilline, and TRAM-34 demonstrated that both intermediate and large conductance 
+Ca2+-activated K+ channels contributed to membrane hyperpolarization, with
+different pharmacological profiles identified for distinct ligand-receptor
+combinations. Taken together, these data suggest differences in ligand-receptor
+signaling that may underlie differences in social behavior. Integrative studies
+of behavior, genetics and ligand-receptor interaction will help elucidate the
+connection between receptor pharmacology and social behaviors.
+
+Copyright © 2020 The Author(s). Published by Elsevier Masson SAS.. All rights
+reserved.
+
+DOI: 10.1016/j.biopha.2020.110060 
+PMCID: PMC7250216
+PMID: 32145592  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that there are no conflicts of interest.
+

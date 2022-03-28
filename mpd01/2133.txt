@@ -1,0 +1,75 @@
+
+
+2133. Invest Ophthalmol Vis Sci. 2009 Nov;50(11):5411-8. doi: 10.1167/iovs.08-3246.
+Epub 2009 Jun 10.
+
+CD73, a novel cell surface antigen that characterizes retinal photoreceptor
+precursor cells.
+
+Koso H(1), Minami C, Tabata Y, Inoue M, Sasaki E, Satoh S, Watanabe S.
+
+Author information: 
+(1)Department of Molecular and Developmental Biology, Institute of Medical
+Science, University of Tokyo, Tokyo, Japan.
+
+PURPOSE: The authors sought to identify cell surface markers of photoreceptor and
+its precursor cells.
+METHODS: The expression of surface CD antigens that label both temporally and
+spatially distinct populations of mouse retinal cells were examined. Of the
+antibodies that showed positive signals in retinal cells, CD73 was focused on for
+more detailed analyses.
+RESULTS: Mouse retinal subpopulations that expressed CD73 first appeared around
+birth and subsequently increased dramatically in number, eventually representing 
+more than 90% of the retinal cells in the adult. CD73(+) cells were postmitotic
+and mostly rhodopsin-negative at postnatal day 1. However, in the adult retina,
+most of these cells expressed rhodopsin but not s-opsin. In reaggregation
+cultures, CD73(+) cells differentiated into rhodopsin-positive cells more rapidly
+than CD73(-) cells, which supports the idea that CD73 is an early photoreceptor
+lineage marker. The effects of ectopic expression in retinal cells of Nrl and
+Crx, both of which are transcription factors known to be expressed in
+photoreceptor lineage, suggest that CD73 is genetically downstream of Crx in the 
+rod cell differentiation lineage. Adult retina of the common marmoset monkey also
+showed correlation of the expression pattern of rhodopsin and CD73.
+CONCLUSIONS: CD73 is a cell surface marker of cone/rod common precursors and
+mature rod cells in mice and is genetically localized between Nrl and Crx. The
+expression of CD73 was conserved in primate rod cells, and CD73 provides an
+useful tool to purify photoreceptor cells for transplantation aimed at the
+regeneration of photoreceptors.
+
+DOI: 10.1167/iovs.08-3246 
+PMID: 19515998  [Indexed for MEDLINE]
+
+
+2134. Virology. 2009 Aug 1;390(2):186-96. doi: 10.1016/j.virol.2009.05.005. Epub 2009
+Jun 7.
+
+Antiviral activity and host gene induction by tamarin and marmoset
+interferon-alpha and interferon-gamma in the GBV-B primary hepatocyte culture
+model.
+
+Chavez D(1), Guerra B, Lanford RE.
+
+Author information: 
+(1)Department of Virology and Immunology, Southwest Foundation for Biomedical
+Research and Southwest National Primate Research Center, 7620 NW Loop 410, San
+Antonio, TX 78227, USA.
+
+GBV-B induces hepatitis in tamarins and marmosets and is a surrogate model for
+HCV infections. Here, we cloned and characterized the antiviral activity of
+tamarin and marmoset interferon (IFN)alpha and IFN gamma. Potent antiviral
+activity was observed for tamarin and marmoset IFN alpha in primary hepatocyte
+cultures infected with GBV-B. The antiviral activity was greater in cultures
+exposed to IFN alpha prior to GBV-B infection, suggesting that either GBV-B was
+capable of inhibition of the antiviral activity of exogenous IFN alpha or that
+the preexisting endogenous IFN response to the virus reduced efficacy to
+exogenous IFN alpha. IFN gamma also exhibited antiviral activity in GBV-B
+infected hepatocytes. The transcriptional response to IFN alpha in marmoset
+hepatocytes was characterized using human genome microarrays. Since the GBV-B
+hepatocyte culture model possesses a functional innate immune response, it will
+provide opportunities to explore the nature of the antiviral response to a virus 
+closely related to HCV.
+
+DOI: 10.1016/j.virol.2009.05.005 
+PMCID: PMC2753388
+PMID: 19501869  [Indexed for MEDLINE]
+

@@ -1,0 +1,93 @@
+
+
+1136. Aging (Albany NY). 2015 Nov;7(11):964-73.
+
+Metabolic consequences of long-term rapamycin exposure on common marmoset monkeys
+(Callithrix jacchus).
+
+Ross C(1)(2), Salmon A(2)(3), Strong R(2), Fernandez E(2)(3), Javors M(2)(3),
+Richardson A(4), Tardif S(2)(5).
+
+Author information: 
+(1)Department of Arts & Sciences, Texas A&M University San Antonio, San Antonio, 
+TX 78224, USA.
+(2)Barshop Institute for Longevity & Aging Studies, University of Texas Health
+Science Center San Antonio, San Antonio, TX 78224, USA.
+(3)Geriatric Research, Education & Clinical Center, South Texas Veteran's Health 
+Care System, San Antonio, TX 78224, USA.
+(4)University of Oklahoma Health Sciences Center and the Oklahoma City VA Medical
+Center, Oklahoma City, OK 73104, USA.
+(5)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX 78224, USA.
+
+Rapamycin has been shown to extend lifespan in rodent models, but the effects on 
+metabolic health and function have been widely debated in both clinical and
+translational trials. Prior to rapamycin being used as a treatment to extend both
+lifespan and healthspan in the human population, it is vital to assess the side
+effects of the treatment on metabolic pathways in animal model systems, including
+a closely related non-human primate model. In this study, we found that long-term
+treatment of marmoset monkeys with orally-administered encapsulated rapamycin
+resulted in no overall effects on body weight and only a small decrease in fat
+mass over the first few months of treatment. Rapamycin treated subjects showed no
+overall changes in daily activity counts, blood lipids, or significant changes in
+glucose metabolism including oral glucose tolerance. Adipose tissue displayed no 
+differences in gene expression of metabolic markers following treatment, while
+liver tissue exhibited suppressed G6Pase activity with increased PCK and GPI
+activity. Overall, the marmosets revealed only minor metabolic consequences of
+chronic treatment with rapamycin and this adds to the growing body of literature 
+that suggests that chronic and/or intermittent rapamycin treatment results in
+improved health span and metabolic functioning. The marmosets offer an
+interesting alternative animal model for future intervention testing and
+translational modeling.
+
+DOI: 10.18632/aging.100843 
+PMCID: PMC4694066
+PMID: 26568298  [Indexed for MEDLINE]
+
+
+1137. J Comp Neurol. 2016 Jun 15;524(9):1839-58. doi: 10.1002/cne.23925. Epub 2015 Nov 
+24.
+
+Connectivity between the OFF bipolar type DB3a and six types of ganglion cell in 
+the marmoset retina.
+
+Masri RA(1), Percival KA(1), Koizumi A(2), Martin PR(1)(3)(4), Grünert
+U(1)(3)(4).
+
+Author information: 
+(1)Department of Ophthalmology and Save Sight Institute, The University of
+Sydney, Sydney, New South Wales, 2000, Australia.
+(2)National Institutes of Natural Sciences, Tokyo, Japan.
+(3)Australian Research Council Centre of Excellence for Integrative Brain
+Function, The University of Sydney, Sydney, New South Wales, 2000, Australia.
+(4)School of Medical Sciences, The University of Sydney, Sydney, New South Wales,
+2000, Australia.
+
+Erratum in
+    J Comp Neurol. 2017 Mar 1;525(4):1055.
+
+Parallel visual pathways originate at the first synapse in the retina, where
+cones make connections with cone bipolar cells that in turn contact ganglion
+cells. There are more ganglion cell types than bipolar types, suggesting that
+there must be divergence from bipolar to ganglion cells. Here we analyze the
+contacts between an OFF bipolar type (DB3a) and six ganglion cell types in the
+retina of the marmoset monkey (Callithrix jacchus). Ganglion cells were
+transfected via particle-mediated gene transfer of an expression plasmid for the 
+postsynaptic density 95-green fluorescent protein (PSD95-GFP), and DB3a cells
+were labeled via immunohistochemistry. Ganglion cell types that fully or
+partially costratified with DB3a cells included OFF parasol, OFF midget, broad
+thorny, recursive bistratified, small bistratified, and large bistratified cells.
+On average, the number of DB3a contacts to parasol cells (18 contacts per axon
+terminal) is higher than that to other ganglion cell types (between four and
+seven contacts). We estimate that the DB3a output to OFF parasol cells accounts
+for at least 30% of the total DB3a output. Furthermore, we found that OFF parasol
+cells receive approximately 20% of their total bipolar input from DB3a cells,
+suggesting that other diffuse bipolar types also provide input to OFF parasol
+cells. We conclude that DB3a cells preferentially contact OFF parasol cells but
+also provide input to other ganglion cell types.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/cne.23925 
+PMID: 26559914  [Indexed for MEDLINE]
+

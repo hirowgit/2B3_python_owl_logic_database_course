@@ -1,0 +1,36 @@
+
+
+1440. J Immunol. 2014 Apr 1;192(7):3239-46. doi: 10.4049/jimmunol.1302745. Epub 2014
+Mar 5.
+
+Genomic sequence analysis of the MHC class I G/F segment in common marmoset
+(Callithrix jacchus).
+
+Kono A(1), Brameier M, Roos C, Suzuki S, Shigenari A, Kametani Y, Kitaura K,
+Matsutani T, Suzuki R, Inoko H, Walter L, Shiina T.
+
+Author information: 
+(1)Division of Basic Medical Science and Molecular Medicine, Department of
+Molecular Life Science, Tokai University School of Medicine, Isehara, Kanagawa
+259-1143, Japan;
+
+The common marmoset (Callithrix jacchus) is a New World monkey that is used
+frequently as a model for various human diseases. However, detailed knowledge
+about the MHC is still lacking. In this study, we sequenced and annotated a total
+of 854 kb of the common marmoset MHC region that corresponds to the HLA-A/G/F
+segment (Caja-G/F) between the Caja-G1 and RNF39 genes. The sequenced region
+contains 19 MHC class I genes, of which 14 are of the MHC-G (Caja-G) type, and 5 
+are of the MHC-F (Caja-F) type. Six putatively functional Caja-G and Caja-F genes
+(Caja-G1, Caja-G3, Caja-G7, Caja-G12, Caja-G13, and Caja-F4), 13 pseudogenes
+related either to Caja-G or Caja-F, three non-MHC genes (ZNRD1, PPPIR11, and
+RNF39), two miscRNA genes (ZNRD1-AS1 and HCG8), and one non-MHC pseudogene
+(ETF1P1) were identified. Phylogenetic analysis suggests segmental duplications
+of units consisting of basically five (four Caja-G and one Caja-F) MHC class I
+genes, with subsequent expansion/deletion of genes. A similar genomic
+organization of the Caja-G/F segment has not been observed in catarrhine
+primates, indicating that this genomic segment was formed in New World monkeys
+after the split of New World and Old World monkeys.
+
+DOI: 10.4049/jimmunol.1302745 
+PMID: 24600031  [Indexed for MEDLINE]
+

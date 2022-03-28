@@ -1,0 +1,85 @@
+
+
+1209. J Neurophysiol. 2015 Aug;114(2):1158-71. doi: 10.1152/jn.01003.2014. Epub 2015
+Jun 17.
+
+Responses of primate frontal cortex neurons during natural vocal communication.
+
+Miller CT(1), Thomas AW(2), Nummela SU(3), de la Mothe LA(4).
+
+Author information: 
+(1)Cortical Systems and Behavior Laboratory, Department of Psychology, University
+of California, San Diego, La Jolla, California; Neurosciences Graduate Program,
+University of California, San Diego, La Jolla, California; corymiller@ucsd.edu.
+(2)Cortical Systems and Behavior Laboratory, Department of Psychology, University
+of California, San Diego, La Jolla, California; Helen Wills Neuroscience Graduate
+Program, University of California, Berkeley, Berkeley, California; and.
+(3)Cortical Systems and Behavior Laboratory, Department of Psychology, University
+of California, San Diego, La Jolla, California;
+(4)Department of Psychology, Tennessee State University, Nashville, Tennessee.
+
+The role of primate frontal cortex in vocal communication and its significance in
+language evolution have a controversial history. While evidence indicates that
+vocalization processing occurs in ventrolateral prefrontal cortex neurons,
+vocal-motor activity has been conjectured to be primarily subcortical and
+suggestive of a distinctly different neural architecture from humans. Direct
+evidence of neural activity during natural vocal communication is limited, as
+previous studies were performed in chair-restrained animals. Here we recorded the
+activity of single neurons across multiple regions of prefrontal and premotor
+cortex while freely moving marmosets engaged in a natural vocal behavior known as
+antiphonal calling. Our aim was to test whether neurons in marmoset frontal
+cortex exhibited responses during vocal-signal processing and/or vocal-motor
+production in the context of active, natural communication. We observed
+motor-related changes in single neuron activity during vocal production, but
+relatively weak sensory responses for vocalization processing during this natural
+behavior. Vocal-motor responses occurred both prior to and during call production
+and were typically coupled to the timing of each vocalization pulse. Despite the 
+relatively weak sensory responses a population classifier was able to distinguish
+between neural activity that occurred during presentations of vocalization
+stimuli that elicited an antiphonal response and those that did not. These
+findings are suggestive of the role that nonhuman primate frontal cortex neurons 
+play in natural communication and provide an important foundation for more
+explicit tests of the functional contributions of these neocortical areas during 
+vocal behaviors.
+
+Copyright © 2015 the American Physiological Society.
+
+DOI: 10.1152/jn.01003.2014 
+PMCID: PMC4725106
+PMID: 26084912  [Indexed for MEDLINE]
+
+
+1210. Dev Growth Differ. 2015 Aug;57(6):474-83. doi: 10.1111/dgd.12228. Epub 2015 Jun
+17.
+
+Complex and dynamic expression of cadherins in the embryonic marmoset cerebral
+cortex.
+
+Matsunaga E(1), Nambu S(1), Oka M(1), Iriki A(1).
+
+Author information: 
+(1)Laboratory for Symbolic Cognitive Development, RIKEN Brain Science Institute, 
+Hirosawa 2-1, Wako, 351-0198, Japan.
+
+Cadherin is a cell adhesion molecule widely expressed in the nervous system.
+Previously, we analyzed the expression of nine classic cadherins (Cdh4, Cdh6,
+Cdh7, Cdh8, Cdh9, Cdh10, Cdh11, Cdh12, and Cdh20) and T-cadherin (Cdh13) in the
+developing postnatal common marmoset (Callithrix jacchus) brain, and found
+differential expressions between mice and marmosets. In this study, to explore
+primate-specific cadherin expression at the embryonic stage, we extensively
+analyzed the expression of these cadherins in the developing embryonic marmoset
+brain. Each cadherin showed differential spatial and temporal expression and
+exhibited temporally complicated expression. Furthermore, the expression of some 
+cadherins differed from that in rodent brains, even at the embryonic stage. These
+results suggest the possibility that the differential expressions of diverse
+cadherins are involved in primate specific cortical development, from the
+prenatal to postnatal period.
+
+© 2015 The Authors Development, Growth & Differentiation published by Wiley
+Publishing Asia Pty Ltd on behalf of Japanese Society of Developmental
+Biologists.
+
+DOI: 10.1111/dgd.12228 
+PMCID: PMC4744772
+PMID: 26081465  [Indexed for MEDLINE]
+

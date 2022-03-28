@@ -1,0 +1,68 @@
+
+
+1575. DNA Res. 2013 Jun;20(3):255-62. doi: 10.1093/dnares/dst007. Epub 2013 Mar 29.
+
+Development and characterization of cDNA resources for the common marmoset: one
+of the experimental primate models.
+
+Tatsumoto S(1), Adati N, Tohtoki Y, Sakaki Y, Boroviak T, Habu S, Okano H,
+Suemizu H, Sasaki E, Satake M.
+
+Author information: 
+(1)RIKEN Genomic Sciences Center, Suehiro-cho 1-7-22, Tsurumi-ku, Yokohama
+230-0045, Japan.
+
+The common marmoset is a new world monkey, which has become a valuable
+experimental animal for biomedical research. This study developed cDNA libraries 
+for the common marmoset from five different tissues. A total of 290 426
+high-quality EST sequences were obtained, where 251 587 sequences (86.5%) had
+homology (1E(-100)) with the Refseqs of six different primate species, including 
+human and marmoset. In parallel, 270 673 sequences (93.2%) were aligned to the
+human genome. When 247 090 sequences were assembled into 17 232 contigs, most of 
+the sequences (218 857 or 15 089 contigs) were located in exonic regions,
+indicating that these genes are expressed in human and marmoset. The other 5578
+sequences (or 808 contigs) mapping to the human genome were not located in exonic
+regions, suggesting that they are not expressed in human. Furthermore, a
+different set of 118 potential coding sequences were not similar to any Refseqs
+in any species, and, thus, may represent unknown genes. The cDNA libraries
+developed in this study are available through RIKEN Bio Resource Center. A Web
+server for the marmoset cDNAs is available at
+http://marmoset.nig.ac.jp/index.html, where each marmoset EST sequence has been
+annotated by reference to the human genome. These new libraries will be a useful 
+genetic resource to facilitate research in the common marmoset.
+
+DOI: 10.1093/dnares/dst007 
+PMCID: PMC3686431
+PMID: 23543116  [Indexed for MEDLINE]
+
+
+1576. Biol Reprod. 2013 May 9;88(5):115. doi: 10.1095/biolreprod.113.109165. Print 2013
+May.
+
+Efficient embryo transfer in the common marmoset monkey (Callithrix jacchus) with
+a reduced transfer volume: a non-surgical approach with cryopreserved late-stage 
+embryos.
+
+Ishibashi H(1), Motohashi HH, Kumon M, Yamamoto K, Okada H, Okada T, Seki K.
+
+Author information: 
+(1)Department of Neurophysiology, National Institute of Neuroscience, National
+Center of Neurology and Psychiatry, Tokyo, Japan. ishiba@ncnp.go.jp
+
+Among primates, the common marmoset is suitable for primate embryology research. 
+Its small body size, however, has delayed the technical development of efficient 
+embryo transfer. Furthermore, three factors have been determined to adversely
+affect the performance of marmoset embryo transfer: nonsurgical approaches, the
+use of cryopreserved embryos, and the use of late-stage embryos. Here we
+performed embryo transfer under conditions that included the above three factors 
+and using either a small (1 μl or less) or a large volume (2-3 μl) of medium. The
+pregnancy and birth rates were 50% (5/10) and 27% (3/11), respectively, when
+using the large volume, and 80% (8/10) and 75% (9/12), respectively, when using
+the small volume. The latter scores exceed those of previous reports using
+comparable conditions. Thus, it appears that these three previously considered
+factors could be overcome, and we propose that reducing the transfer volume to 1 
+μl or less is essential for successful marmoset embryo transfer.
+
+DOI: 10.1095/biolreprod.113.109165 
+PMID: 23536374  [Indexed for MEDLINE]
+

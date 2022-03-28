@@ -1,0 +1,106 @@
+
+
+356. BMC Evol Biol. 2020 Feb 27;20(1):33. doi: 10.1186/s12862-020-1595-9.
+
+Unusual sequence characteristics of human chromosome 19 are conserved across 11
+nonhuman primates.
+
+Harris RA(1)(2), Raveendran M(3)(4), Worley KC(3)(4), Rogers J(3)(4).
+
+Author information: 
+(1)Human Genome Sequencing Center, Baylor College of Medicine, One Baylor Plaza, 
+Mail Stop: BCM226, Houston, TX, 77030, USA. rharris1@bcm.edu.
+(2)Department of Molecular and Human Genetics, Baylor College of Medicine, One
+Baylor Plaza, Mail Stop: BCM226, Houston, TX, 77030, USA. rharris1@bcm.edu.
+(3)Human Genome Sequencing Center, Baylor College of Medicine, One Baylor Plaza, 
+Mail Stop: BCM226, Houston, TX, 77030, USA.
+(4)Department of Molecular and Human Genetics, Baylor College of Medicine, One
+Baylor Plaza, Mail Stop: BCM226, Houston, TX, 77030, USA.
+
+BACKGROUND: Human chromosome 19 has many unique characteristics including gene
+density more than double the genome-wide average and 20 large tandemly clustered 
+gene families. It also has the highest GC content of any chromosome, especially
+outside gene clusters. The high GC content and concomitant high content of
+hypermutable CpG sites raises the possibility chromosome 19 exhibits higher
+levels of nucleotide diversity both within and between species, and may possess
+greater variation in DNA methylation that regulates gene expression.
+RESULTS: We examined GC and CpG content of chromosome 19 orthologs across
+representatives of the primate order. In all 12 primate species with suitable
+genome assemblies, chromosome 19 orthologs have the highest GC content of any
+chromosome. CpG dinucleotides and CpG islands are also more prevalent in
+chromosome 19 orthologs than other chromosomes. GC and CpG content are generally 
+higher outside the gene clusters. Intra-species variation based on SNPs in human 
+common dbSNP, rhesus, crab eating macaque, baboon and marmoset datasets is most
+prevalent on chromosome 19 and its orthologs. Inter-species comparisons based on 
+phyloP conservation show accelerated nucleotide evolution for chromosome 19
+promoter flanking and enhancer regions. These same regulatory regions show the
+highest CpG density of any chromosome suggesting they possess considerable
+methylome regulatory potential.
+CONCLUSIONS: The pattern of high GC and CpG content in chromosome 19 orthologs,
+particularly outside gene clusters, is present from human to mouse lemur
+representing 74 million years of primate evolution. Much CpG variation exists
+both within and between primate species with a portion of this variation
+occurring in regulatory regions.
+
+DOI: 10.1186/s12862-020-1595-9 
+PMCID: PMC7045612
+PMID: 32106815  [Indexed for MEDLINE]
+
+
+357. Hepat Med. 2020 Feb 13;12:15-27. doi: 10.2147/HMER.S243277. eCollection 2020.
+
+Hepatic Differentiation of Marmoset Embryonic Stem Cells and Functional
+Characterization of ESC-Derived Hepatocyte-Like Cells.
+
+Aravalli RN(1), Collins DP(2), Hapke JH(2), Crane AT(3), Steer CJ(4)(5).
+
+Author information: 
+(1)Department of Electrical and Computer Engineering, University of Minnesota,
+Minneapolis, MN 55455, USA.
+(2)Cytomedical Design Group LLC, St. Paul, MN 55127, USA.
+(3)Department of Neurosurgery, University of Minnesota Medical School,
+Minneapolis, MN 55455, USA.
+(4)Department of Medicine, University of Minnesota Medical School, Minneapolis,
+MN 55455, USA.
+(5)Department of Genetics, Cell Biology and Development, University of Minnesota,
+Minneapolis, MN 55455, USA.
+
+Background: Primary human hepatocytes (PHHs) are the ideal candidates for
+studying critical liver functions such as drug metabolism and toxicity. However, 
+as they are isolated from discarded livers that are unsuitable for
+transplantation, they possess limited expansion ability in vitro and their
+enzymatic functions deteriorate rapidly because they are often of poor quality.
+Therefore, there is a compelling reason to find reliable alternative sources of
+hepatocytes.
+Methods: In this study, we report on efficient and robust differentiation of
+embryonic stem cells (ESC) from the common marmoset Callithrix jacchus into
+functional hepatocyte-like cells (HLC) using a simple, and reproducible
+three-step procedure. ESC-derived HLCs were examined by morphological analysis
+and tested for their expression of hepatocyte-specific markers using a
+combination of immunohistochemistry, RT-PCR, and biochemical assays. Primary
+human hepatocytes were used as controls.
+Results: ESC-derived HLCs expressed each of the hepatocyte-specific markers
+tested, including albumin; α-fetoprotein; asialoglycoprotein receptor 1; α-1
+antitrypsin; hepatocyte nuclear factors 1α and 4; cytokeratin 18; hepatocyte
+growth factor receptor; transferrin; tyrosine aminotransferase; alkaline
+phosphatase; c-reactive protein; cytochrome P450 enzymes CYP1A2, CYP2E1 and
+CYP3A4; and coagulation factors FVII and FIX. They were functionally competent as
+demonstrated by biochemical assays in addition to producing urea.
+Conclusion: Our data strongly suggest that marmoset HLCs possess characteristics 
+similar to those of PHHs. They could, therefore, be invaluable for studies on
+drug metabolism and cell transplantation therapy for a variety of liver
+disorders. Because of the similarities in the anatomical and physiological
+features of the common marmoset to that of humans, Callithrix jacchus is an
+appropriate animal model to study human disease conditions and cellular
+functions.
+
+© 2020 Aravalli et al.
+
+DOI: 10.2147/HMER.S243277 
+PMCID: PMC7026140
+PMID: 32104112 
+
+Conflict of interest statement: Dr Daniel Collins reports other funding from
+CMDG, LLC, outside of the submitted work. The authors declare no additional
+conflicts of interest.
+

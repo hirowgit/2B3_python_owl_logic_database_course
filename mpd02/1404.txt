@@ -1,0 +1,56 @@
+
+
+1404. J Neurosci. 2014 May 28;34(22):7663-76. doi: 10.1523/JNEUROSCI.0718-14.2014.
+
+Orbitofrontal dopamine depletion upregulates caudate dopamine and alters behavior
+via changes in reinforcement sensitivity.
+
+Clarke HF(1), Cardinal RN(2), Rygula R(3), Hong YT(4), Fryer TD(4), Sawiak SJ(5),
+Ferrari V(4), Cockcroft G(6), Aigbirhio FI(5), Robbins TW(3), Roberts AC(6).
+
+Author information: 
+(1)Departments of Physiology, Development and Neuroscience, Behavioral and
+Clinical Neuroscience Institute, University of Cambridge, Cambridge CB2 3EB,
+United Kingdom, hfc23@cam.ac.uk.
+(2)Behavioral and Clinical Neuroscience Institute, University of Cambridge,
+Cambridge CB2 3EB, United Kingdom, Department of Psychiatry and Liaison
+Psychiatry Service, Cambridge and Peterborough NHS Foundation Trust, Cambridge
+CB2 0QQ, United Kingdom.
+(3)Psychology, and Behavioral and Clinical Neuroscience Institute, University of 
+Cambridge, Cambridge CB2 3EB, United Kingdom.
+(4)Wolfson Brain Imaging Centre, Addenbrooke's Hospital, Cambridge CB2 0QQ,
+United Kingdom, and.
+(5)Behavioral and Clinical Neuroscience Institute, University of Cambridge,
+Cambridge CB2 3EB, United Kingdom, Wolfson Brain Imaging Centre, Addenbrooke's
+Hospital, Cambridge CB2 0QQ, United Kingdom, and.
+(6)Departments of Physiology, Development and Neuroscience, Behavioral and
+Clinical Neuroscience Institute, University of Cambridge, Cambridge CB2 3EB,
+United Kingdom.
+
+Schizophrenia is associated with upregulation of dopamine (DA) release in the
+caudate nucleus. The caudate has dense connections with the orbitofrontal cortex 
+(OFC) via the frontostriatal loops, and both areas exhibit pathophysiological
+change in schizophrenia. Despite evidence that abnormalities in dopaminergic
+neurotransmission and prefrontal cortex function co-occur in schizophrenia, the
+influence of OFC DA on caudate DA and reinforcement processing is poorly
+understood. To test the hypothesis that OFC dopaminergic dysfunction disrupts
+caudate dopamine function, we selectively depleted dopamine from the OFC of
+marmoset monkeys and measured striatal extracellular dopamine levels (using
+microdialysis) and dopamine D2/D3 receptor binding (using positron emission
+tomography), while modeling reinforcement-related behavior in a discrimination
+learning paradigm. OFC dopamine depletion caused an increase in tonic dopamine
+levels in the caudate nucleus and a corresponding reduction in D2/D3 receptor
+binding. Computational modeling of behavior showed that the lesion increased
+response exploration, reducing the tendency to persist with a recently chosen
+response side. This effect is akin to increased response switching previously
+seen in schizophrenia and was correlated with striatal but not OFC D2/D3 receptor
+binding. These results demonstrate that OFC dopamine depletion is sufficient to
+induce striatal hyperdopaminergia and changes in reinforcement learning relevant 
+to schizophrenia.
+
+Copyright © 2014 Clarke, Cardinal et al.
+
+DOI: 10.1523/JNEUROSCI.0718-14.2014 
+PMCID: PMC4035526
+PMID: 24872570  [Indexed for MEDLINE]
+

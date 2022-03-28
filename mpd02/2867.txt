@@ -1,0 +1,28 @@
+
+
+2867. Virology. 2003 Dec 20;317(2):299-307.
+
+Species-specific transformation of T cells by HV(MNE).
+
+Ferrari MG(1), Stevceva L, Markham P, Franchini G.
+
+Author information: 
+(1)Animal Models and Retroviral Vaccines Section, National Cancer Institute,
+41/D804, Bethesda, MD 20892-5055, USA.
+
+HV(MNE) is an Epstein-Barr virus (EBV)-like lymphocryptovirus (LCV) originally
+isolated from a Macaca nemestrina with CD8(+) T cell mycosis fungoides/cutaneous 
+T cell lymphoma (Blood 98 (2001), 2193). HV(MNE) transforms rabbit T cells in
+vitro and causes T cell lymphoma in New Zealand white rabbits. Here we
+demonstrate that HV(MNE) also immortalizes T cells from mustached tamarins but
+not those from owl monkeys, common marmosets, squirrel monkeys, black-capped
+capuchins, and humans. Cytogenetic and FACS analysis revealed the true origin and
+T cell lineage of the transformed tamarin T cell lines. Tamarin T cells contained
+HV(MNE) DNA sequence and displayed a decreased requirement for the IL-2 cytokine 
+for growth. Thus, this EBV-like virus from M. nemestrina differs from the other
+EBV-like viruses found in nonhuman primates inasmuch as it appears to
+preferentially transform T cells.
+
+DOI: 10.1016/j.virol.2003.08.030 
+PMID: 14698668  [Indexed for MEDLINE]
+

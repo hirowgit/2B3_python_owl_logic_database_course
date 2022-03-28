@@ -1,0 +1,40 @@
+
+
+1456. J Neurosci. 2014 Jan 22;34(4):1183-94. doi: 10.1523/JNEUROSCI.3899-13.2014.
+
+Active vision in marmosets: a model system for visual neuroscience.
+
+Mitchell JF(1), Reynolds JH, Miller CT.
+
+Author information: 
+(1)Systems Neurobiology Laboratory, The Salk Institute for Biological Studies, La
+Jolla, California 92037-1099 and Department of Psychology and Neurosciences
+Graduate Program, The University of California at San Diego, La Jolla, California
+92093-0109.
+
+The common marmoset (Callithrix jacchus), a small-bodied New World primate,
+offers several advantages to complement vision research in larger primates.
+Studies in the anesthetized marmoset have detailed the anatomy and physiology of 
+their visual system (Rosa et al., 2009) while studies of auditory and vocal
+processing have established their utility for awake and behaving
+neurophysiological investigations (Lu et al., 2001a,b; Eliades and Wang, 2008a,b;
+Osmanski and Wang, 2011; Remington et al., 2012). However, a critical unknown is 
+whether marmosets can perform visual tasks under head restraint. This has been
+essential for studies in macaques, enabling both accurate eye tracking and head
+stabilization for neurophysiology. In one set of experiments we compared the free
+viewing behavior of head-fixed marmosets to that of macaques, and found that
+their saccadic behavior is comparable across a number of saccade metrics and that
+saccades target similar regions of interest including faces. In a second set of
+experiments we applied behavioral conditioning techniques to determine whether
+the marmoset could control fixation for liquid reward. Two marmosets could fixate
+a central point and ignore peripheral flashing stimuli, as needed for receptive
+field mapping. Both marmosets also performed an orientation discrimination task, 
+exhibiting a saturating psychometric function with reliable performance and
+shorter reaction times for easier discriminations. These data suggest that the
+marmoset is a viable model for studies of active vision and its underlying neural
+mechanisms.
+
+DOI: 10.1523/JNEUROSCI.3899-13.2014 
+PMCID: PMC3898283
+PMID: 24453311  [Indexed for MEDLINE]
+

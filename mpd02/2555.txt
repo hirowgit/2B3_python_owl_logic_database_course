@@ -1,0 +1,41 @@
+
+
+2555. Eur J Neurosci. 2006 Apr;23(7):1766-74.
+
+MPTP treatment of common marmosets impairs proteasomal enzyme activity and
+decreases expression of structural and regulatory elements of the 26S proteasome.
+
+Zeng BY(1), Iravani MM, Lin ST, Irifune M, Kuoppamäki M, Al-Barghouthy G, Smith
+L, Jackson MJ, Rose S, Medhurst AD, Jenner P.
+
+Author information: 
+(1)Neurodegenerative Disease Research Group, GKT School of Biomedical and Health 
+Sciences, King's College, London, SE1 1UL, UK.
+
+Dysfunction of the ubiquitin-proteasome system occurs in the substantia nigra
+(SN) in Parkinson's disease (PD). However, it is unknown whether this is a
+primary cause or a secondary consequence of other components of the pathogenic
+process. We have investigated in nonhuman primates whether initiating cell death 
+through mitochondrial complex I inhibition using
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine hydrochloride (MPTP) altered
+proteasomal activity or the proteasomal components in the SN. Chymotrypsin-like, 
+trypsin-like and peptidylglutamyl-peptide hydrolase (PGPH) activating of 20S
+proteasome were decreased in SN homogenates of MPTP-treated marmosets compared to
+naïve animals. Western blotting revealed a marked decrease in the expression of
+20S-alpha subunits, but no change in 20S-beta subunits in the SN of MPTP-treated 
+marmoset compared to naïve animals. There was a marked decrease in the expression
+of the proteasome activator 700 (PA700) and proteasome activator 28 (PA28)
+regulatory complexes. The 20S-alpha4 subunit immunoreactivity was decreased in
+the nucleus of colocalized tyrosine hydroxylase (TH)-positive cells of
+MPTP-treated animals compared to naïve animals but no difference in the intensity
+of 20S-beta1i subunit staining. Immunoreactivity for PA700-Rpt5 and PA28-alpha
+subunits within surviving TH-positive cells of MPTP-treated marmoset was reduced 
+compared to naïve controls. Overall, the changes in proteasomal function and
+structure occurring follow MPTP-induced destruction of the SN in common marmosets
+were very similar to those found in PD. This suggests that altered proteasomal
+function in PD could be a consequence of other pathogenic processes occurring in 
+SN as opposed to initiating cell death as previously suggested.
+
+DOI: 10.1111/j.1460-9568.2006.04718.x 
+PMID: 16623833  [Indexed for MEDLINE]
+

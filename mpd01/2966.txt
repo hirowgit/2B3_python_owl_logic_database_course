@@ -1,0 +1,83 @@
+
+
+2966. Biol Reprod. 2003 Jun;68(6):2092-9. Epub 2003 Jan 22.
+
+Characterization of 17beta-hydroxysteroid dehydrogenase type 7 in reproductive
+tissues of the marmoset monkey.
+
+Husen B(1), Adamski J, Brüns A, Deluca D, Fuhrmann K, Möller G, Schwabe I,
+Einspanier A.
+
+Author information: 
+(1)Department of Reproductive Biology, German Primate Center, 37077 Göttingen,
+Germany.
+
+In contrast to the known rodent enzymes, the physiological significance of
+17beta-hydroxysteroid dehydrogenase type 7 (17HSD7) and its presumed function in 
+reproductive biology is not well understood in primates. As a first step, we
+recently cloned the complete coding regions of human and marmoset monkey
+(Callithrix jacchus) 17HSD7 (cj17HSD7). In the present work the complete cDNA of 
+marmoset 17HSD1 (cj17HSD1), including the proximal promoter region, and a partial
+sequence of marmoset aromatase (cjARO) were sequenced in order to compare the
+expression of these estradiol synthesizing enzymes with that of 17HSD7 in a
+primate model and to identify tissues where 17HSD7 might participate in the
+pathway of estradiol synthesis. The gene structures of cj17HSD1 and cj17HSD7 were
+determined and proved to be very similar to the human orthologues. Northern
+hybridization showed that cjARO mRNA seems to be coexpressed preferably with
+cj17HSD1 in placenta, whereas in other tissues it is expressed in parallel only
+with cj17HSD7. Especially in corpora lutea, the cj17HSD7 transcript is detectable
+throughout the luteal phase of the ovarian cycle and increases during pregnancy, 
+in parallel with the transcript of aromatase. Results were confirmed by
+immunoblots and immunohistochemistry using new polyclonal antisera directed
+against cj17HSD7 and cjARO protein. The enzymatic conversion of estrone to
+estradiol was assessed in marmoset corpora lutea. The pattern of coexpression
+with aromatase supports the hypothesis that luteal 17HSD7 complements placental
+17HSD1, ensuring continued estradiol synthesis throughout pregnancy in primates.
+
+DOI: 10.1095/biolreprod.102.012476 
+PMID: 12606385  [Indexed for MEDLINE]
+
+
+2967. Biol Reprod. 2003 Jul;69(1):75-80. Epub 2003 Feb 19.
+
+A new subclass of the luteinizing hormone/chorionic gonadotropin receptor lacking
+exon 10 messenger RNA in the New World monkey (Platyrrhini) lineage.
+
+Gromoll J(1), Wistuba J, Terwort N, Godmann M, Müller T, Simoni M.
+
+Author information: 
+(1)Institute of Reproductive Medicine of the University, University of Münster,
+D-48129 Münster, Germany. gromolji@uni-muenster.de
+
+The luteinizing hormone receptor (LHR) plays an essential role as a mediator of
+LH and CG action during embryonic sexual differentiation and in gametogenesis. In
+a hypogonadal male patient, we recently demonstrated that a genomic deletion of
+exon 10, located in the hinge region of the extracellular domain, results in
+discrimination of LH and hCG action. In the common marmoset (Calltithrix
+jacchus), exon 10 of the LHR is naturally missing at the mRNA level. In order to 
+investigate whether this is an isolated species-specific phenomenon, we performed
+a phylogenetic screening, searching for the presence of LHR exon 10 mRNA in a
+number of primate species representative for the major lineages of primate
+evolution. The expressed LHR region encompassing exon 10 was amplified from
+testicular tissue by RT-PCR, cloned, and sequenced. In addition, we performed
+Southern blot analysis of the LHR of selected New World and Old World primates.
+The results revealed that exon 10 mRNA is lacking in the complete New World
+monkey (Platyrrhini) lineage but is present in both more primitive and more
+advanced primates. However, exon 10 seems to be present at the genomic level,
+arguing for a splicing failure possibly due to a genomic mutation or the lack of 
+appropriate splicing factors. Considering that, in the human, LH is far less
+active than hCG on the LHR lacking exon 10, we addressed the question whether the
+existence of such a receptor has any consequences on the dual hormone LH/CG
+system present in Platyrrhini. Using primers specific for the known marmoset CG
+beta cDNA, we amplified the CG beta subunit cDNA from male common marmoset
+pituitaries by RT-PCR, while LH beta could not be amplified, suggesting a
+possible physiological role of pituitary CG in this species. In conclusion, we
+demonstrated for the first time that the LH mRNA without exon10 is the natural
+wild-type LHR in the Platyrrhini lineage. We propose that this LHR represents a
+new subclass of receptors that should be named LHR type II. In addition, the high
+expression of CG beta in the marmoset pituitary suggests a physiological role of 
+CG in the reproductive function of these primates beyond pregnancy.
+
+DOI: 10.1095/biolreprod.102.014902 
+PMID: 12606382  [Indexed for MEDLINE]
+

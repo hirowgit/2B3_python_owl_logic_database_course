@@ -1,0 +1,69 @@
+
+
+3372. Mol Phylogenet Evol. 1999 Nov;13(2):392-404.
+
+The place of Callimico goeldii in the Callitrichine phylogenetic tree: evidence
+from von Willebrand factor gene intron II sequences.
+
+Chaves R(1), Sampaio I, Schneider MP, Schneider H, Page SL, Goodman M.
+
+Author information: 
+(1)Departamento de Genetica, Universidade Federal do Para, Centro de Ciencias
+Biologicas, Belem, Para, 66075-900, Brazil.
+
+Sequences of a 0.9-kb DNA segment spanning intron 11 of the von Willebrand Factor
+gene (vWF) were determined for 21 individuals of 19 primate species. The results 
+of maximum parsimony and maximum likelihood analyses of these vWF sequences are
+congruent with previous molecular findings from other nonlinked nuclear genomic
+loci which divide the platyrrhine superfamily Ceboidea into three monophyletic
+families: Cebidae, Atelidae, and Pitheciidae. The vWF results strongly support
+the taxon Callitrichinae as a monophyletic subfamily within Cebidae. The four
+extant callitrichine genera constitute tribe Callitrichini, and the basal
+branchings within this tribe first separate out Saguinus (tamarins), next
+Leontopithecus (lion tamarins), and last the sister genera Callimico (Goeldi's
+monkeys) and Callithrix (marmosets). Callithrix divides into three subclades,
+with pygmy marmosets (C. pygmaea) as sister of the C. argentata species group and
+with the C. jacchus species group as their sister. Fossil and DNA evidence place 
+the emergence of the callitrichine clade in the basal cebid radiation at about 20
+Ma (million years ago) and the three basal branchings in the callitrichin
+radiation at about 13 to 11 Ma. In turn, the branchings separating the three
+subclades of Callithrix are placed at about 5 to 4 Ma.
+
+Copyright 1999 Academic Press.
+
+DOI: 10.1006/mpev.1999.0658 
+PMID: 10603266  [Indexed for MEDLINE]
+
+
+3373. J Neurosci Methods. 1999 Oct 30;93(1):27-35.
+
+A multielectrode implant device for the cerebral cortex.
+
+deCharms RC(1), Blake DT, Merzenich MM.
+
+Author information: 
+(1)Coleman Laboratory and Keck Center for Integrative Neuroscience, UCSF, San
+Francisco, CA 94143-0732, USA.
+
+A new class of brain implant technology was developed that allows the
+simultaneous recording of voltage signals from many individual neurons in the
+cerebral cortex during cognitive tasks. The device allows recording from 49
+independent positions spanning a 2 x 2-mm region of neural tissue. The recording 
+electrodes are positioned in a square grid with 350 microm spacing, and each
+microelectrode can be precisely independently vertically positioned using a
+hydraulic microdrive. The device utilizes ultrafine, sharp iridium
+microelectrodes that minimize mechanical disturbance of the region near the
+electrode tip and produce low noise neuronal recordings. The total weight of this
+device is less than 20 g, and the device is reusable. The implant device has been
+used for transdural recordings in primary somatosensory and auditory cortices of 
+marmosets, owl monkeys, and rats. On a typical day, one-third of the
+microelectrodes yield well-discriminated single neuron action potential
+waveforms. Additional array electrodes yield lower amplitude driven multiunit
+activity. The average signal-to-noise ratio of discriminated action potential
+waveforms 6 months after implantation was greater than 9. Simple design
+alternatives are discussed that can increase the number of electrodes in the
+array and the depths at which dense array recordings can be achieved.
+
+DOI: 10.1016/s0165-0270(99)00087-4 
+PMID: 10598862  [Indexed for MEDLINE]
+

@@ -1,0 +1,33 @@
+
+
+2420. Hear Res. 2007 Jul;229(1-2):81-93. Epub 2007 Jan 25.
+
+Neural coding strategies in auditory cortex.
+
+Wang X(1).
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+xiaoqin.wang@jhu.edu
+
+In contrast to the visual system, the auditory system has longer subcortical
+pathways and more spiking synapses between the peripheral receptors and the
+cortex. This unique organization reflects the needs of the auditory system to
+extract behaviorally relevant information from a complex acoustic environment
+using strategies different from those used by other sensory systems. The neural
+representations of acoustic information in auditory cortex can be characterized
+by three types: (1) isomorphic (faithful) representations of acoustic structures;
+(2) non-isomorphic transformations of acoustic features and (3) transformations
+from acoustical to perceptual dimensions. The challenge facing auditory
+neurophysiologists is to understand the nature of the latter two transformations.
+In this article, I will review recent studies from our laboratory regarding
+temporal discharge patterns in auditory cortex of awake marmosets and cortical
+representations of time-varying signals. Findings from these studies show that
+(1) firing patterns of neurons in auditory cortex are dependent on stimulus
+optimality and context and (2) the auditory cortex forms internal representations
+of sounds that are no longer faithful replicas of their acoustic structures.
+
+DOI: 10.1016/j.heares.2007.01.019 
+PMID: 17346911  [Indexed for MEDLINE]
+

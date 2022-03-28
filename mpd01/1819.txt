@@ -1,0 +1,64 @@
+
+
+1819. Drug Metab Dispos. 2012 Jan;40(1):70-5. doi: 10.1124/dmd.111.041566. Epub 2011
+Oct 5.
+
+Debrisoquine metabolism and CYP2D expression in marmoset liver microsomes.
+
+Cooke BR(1), Bligh SW, Cybulski ZR, Ioannides C, Hall M.
+
+Author information: 
+(1)Department of In Vitro Metabolism, Huntingdon Life Sciences Ltd., Woolley
+Road, Alconbury, Huntingdon, Cambridgeshire, PE28 4HS, UK.
+
+The objective of this study was to define CYP2D enzymes in marmoset (Callithrix
+jacchus) liver microsomes, both at the activity level using debrisoquine as the
+model substrate and at the protein level using antibodies raised to human CYP2D6.
+Marmoset liver microsomes were incubated with [(14)C]debrisoquine, and the
+structure of the generated metabolites was determined using liquid
+chromatography-tandem mass spectrometry and NMR. Marmoset liver microsomes were
+very effective in hydroxylating debrisoquine at various positions. Although
+4-hydroxydebrisoquine was formed, in contrast to rat and human it was only a
+minor metabolite. Debrisoquine was more extensively hydroxylated in the 7, 5, 6, 
+and 8 positions. In addition to the monohydroxylated metabolites, a dihydroxy
+metabolite, namely 6,7-dihydroxydebrisoquine, was identified. Finally,
+metabolites that had undergone ring opening were also detected but were not
+investigated further. Antibodies to CYP2D6 immunoreacted with protein in marmoset
+and human but not rat hepatic microsomes. In conclusion, we demonstrate that
+marmoset liver microsomes are effective in hydroxylating debrisoquine at various 
+positions and that they contain a protein that is immunorelated to human CYP2D6.
+
+DOI: 10.1124/dmd.111.041566 
+PMID: 21976620  [Indexed for MEDLINE]
+
+
+1820. J Med Chem. 2011 Nov 10;54(21):7547-57. doi: 10.1021/jm2008453. Epub 2011 Oct 19.
+
+Introduction of an electron withdrawing group on the hydroxyphenylnaphthol
+scaffold improves the potency of 17β-hydroxysteroid dehydrogenase type 2
+(17β-HSD2) inhibitors.
+
+Wetzel M(1), Marchais-Oberwinkler S, Perspicace E, Möller G, Adamski J, Hartmann 
+RW.
+
+Author information: 
+(1)Saarland University, Saarbrücken, Germany.
+
+Estrogen deficiency in postmenopausal women or elderly men is often associated
+with the skeletal disease osteoporosis. The supplementation of estradiol (E2) in 
+osteoporotic patients is known to prevent bone fracture but cannot be
+administered because of adverse effect. As 17β-hydroxysteroid dehydrogenase type 
+2 (17β-HSD2) oxidizes E2 to its inactive form estrone (E1) and has been found in 
+osteoblastic cells, it is an attractive target for the treatment of osteoporosis.
+Twenty-one novel, naphthalene-derived compounds have been synthesized and
+evaluated for their 17β-HSD2 inhibition and their selectivity toward 17β-HSD1 and
+the estrogen receptors (ERs) α and β. Compound 19 turned out to be the most
+potent and selective inhibitor of 17β-HSD2 in cell-free assays and had a very
+good cellular activity in MDA-MB-231 cells, expressing naturally 17β-HSD2. It
+also showed marked inhibition of the E1-formation by the rat and mouse
+orthologous enzymes and strong inhibition of monkey 17β-HSD2. It is thus an
+appropriate candidate to be further evaluated in a disease-oriented model.
+
+DOI: 10.1021/jm2008453 
+PMID: 21972996  [Indexed for MEDLINE]
+

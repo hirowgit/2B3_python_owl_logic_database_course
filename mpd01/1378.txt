@@ -1,0 +1,87 @@
+
+
+1378. Mol Ther Methods Clin Dev. 2014 Feb 5;1. pii: 10.
+
+Marmosets as a preclinical model for testing "off-label" use of doxycycline to
+turn on Flt3L expression from high-capacity adenovirus vectors.
+
+VanderVeen N(1), Paran C(1), Appelhans A(1), Krasinkiewicz J(1), Lemons R(1),
+Appelman H(2), Doherty R(1), Palmer D(3), Ng P(3), Lowenstein PR(1), Castro
+MG(1).
+
+Author information: 
+(1)Department of Neurosurgery, The University of Michigan School of Medicine, Ann
+Arbor, Michigan, USA ; Department of Cell and Developmental Biology, The
+University of Michigan School of Medicine, Ann Arbor, Michigan, USA.
+(2)Department of Pathology, The University of Michigan School of Medicine,
+University Hospital, Ann Arbor, Michigan, USA.
+(3)Department of Molecular and Human Genetics, Baylor College of Medicine,
+Houston, Texas, USA.
+
+We developed a combined conditional cytotoxic, i.e., herpes simplex type
+1-thymidine kinase (TK), plus immune-stimulatory, i.e., fms-like tyrosine kinase 
+ligand-3-mediated gene therapy for glioblastoma multiforme (GBM). Therapeutic
+transgenes were encoded within high-capacity adenoviral vectors (HC-Ad); TK was
+expressed constitutively, while Flt3L was under the control of the TetOn
+regulatable promoter. We previously assessed efficacy and safety in intracranial 
+GBM rodent models. But, since this approach involves expression of a cytokine
+within the brain, we chose the nonhuman primate, i.e., Callithrix jaccus
+(marmoset) as it has been established that its immune response shares
+similarities with man. We characterized the safety, cell-type specific
+expression, and doxycycline (DOX)-inducibility of HC-Ad-TetOn-Flt3L delivered
+within the striatum. We used allometrically scaled DOX doses delivered orally,
+twice daily for one month, mimicking the route and duration of DOX administration
+planned for the GBM trial. Flt3L was effectively expressed within astrocytes,
+microglia, oligodendrocytes, and neurons. No evidence of brain or systemic
+toxicities due to the treatment was encountered. Our data indicate that DOX doses
+equivalent to those used in humans to treat infections can be safely used
+"off-label" to turn "on" therapeutic gene expression from HC-Ad-TetOn-Flt3L;
+providing evidence for the safety of this approach in the clinic.
+
+DOI: 10.1038/mtm.2013.10 
+PMCID: PMC4111110
+PMID: 25068145 
+
+
+1379. Brain Struct Funct. 2015 Nov;220(6):3245-58. doi: 10.1007/s00429-014-0853-2. Epub
+2014 Jul 27.
+
+Postnatal development of dendritic structure of layer III pyramidal neurons in
+the medial prefrontal cortex of marmoset.
+
+Sasaki T(1), Aoi H(1)(2), Oga T(1)(2), Fujita I(2)(3), Ichinohe N(4).
+
+Author information: 
+(1)Department of Ultrastructural Research, National Center of Neurology and
+Psychiatry, National Institute of Neuroscience, 4-1-1 Ogawa-Higashi, Kodaira,
+Tokyo, 187-8502, Japan.
+(2)Graduate School of Frontier Biosciences, Osaka University, 1-4 Yamadaoka,
+Suita, Osaka, 565-0871, Japan.
+(3)Center for Information and Neural Networks (CiNet), National Institute of
+Information and Communications Technology, Osaka University, 1-4 Yamadaoka,
+Suita, Osaka, 565-0871, Japan.
+(4)Department of Ultrastructural Research, National Center of Neurology and
+Psychiatry, National Institute of Neuroscience, 4-1-1 Ogawa-Higashi, Kodaira,
+Tokyo, 187-8502, Japan. nichino@ncnp.go.jp.
+
+In the primate cerebral cortex, dendritic spines rapidly increase in number after
+birth up to infancy or mid-childhood, and then decrease towards adulthood.
+Abnormalities in these processes accompany several psychiatric disorders. In this
+study, we examined developmental changes of basal dendrites and spines of layer
+III pyramidal cells in the medial prefrontal cortex (mPFC) of the common
+marmoset. The mPFC consists of several areas with distinct features in layer
+organization, histochemistry, connections, and, in humans, vulnerability to
+psychiatric disorders. We selected three areas for examination: granular
+dorsomedial prefrontal (area 8B/9), dysgranular ventromedial prefrontal (area
+14r), and agranular anterior cingulate (area 24) cortices. Dendritic field areas,
+lengths, number of branching points, and total spine number reached a peak at 2-3
+postnatal months in all three areas. However, the profiles of spine formation and
+pruning differed across the three areas with different degrees of granularity;
+the amount of spine loss from the peak to adulthood was less in areas 24 (33%)
+and 14r (29%) than in area 8B/9 (43%). Disturbance of this modest spine pruning
+in the less granular cortical areas may lead to an excessive loss of spines
+reported for areas 24 and 14r of schizophrenic patients.
+
+DOI: 10.1007/s00429-014-0853-2 
+PMID: 25064470  [Indexed for MEDLINE]
+

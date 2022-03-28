@@ -1,0 +1,46 @@
+
+
+3006. J Pharmacol Exp Ther. 2002 Dec;303(3):952-8.
+
+Dopamine, but not norepinephrine or serotonin, reuptake inhibition reverses motor
+deficits in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-treated primates.
+
+Hansard MJ(1), Smith LA, Jackson MJ, Cheetham SC, Jenner P.
+
+Author information: 
+(1)Neurodegenerative Disease Research Centre, Guy's, King's, and St. Thomas'
+School of Biomedical Sciences, King's College, London, United Kingdom.
+
+Monoamine reuptake inhibitors that do not discriminate between the transporters
+for dopamine (DA), norepinephrine (NE), or 5-hydroxytryptamine (5-HT, serotonin) 
+can reverse locomotor deficits and motor disability in
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-treated common marmosets. DA 
+reuptake inhibition is presumed to be primarily responsible, but the role played 
+by inhibition of NE and 5-HT reuptake is unknown. We now evaluate the efficacy of
+a range of monoamine reuptake inhibitors either alone or in combination in
+MPTP-treated common marmosets to determine the actions required for effective
+antiparkinsonian activity. Monoamine reuptake inhibitors not discriminating
+between the DA, NE, and 5-HT transporters
+[1-[1-(3,4-dichlororphenyl)cyclobutyl]-2-(3-diaminethylaminopropylthio)ethanone
+monocitrate (BTS 74 398) and nomifensine] reversed locomotor deficits and motor
+disability in MPTP-treated marmosets but bupropion was without effect. The
+selective DA reuptake inhibitor
+1-(2-(bis-(4-fluorophenyl)-methoxy)ethyl)-4-(3-phenylpropyl) piperazine)
+dihydrochloride (GBR 12909) also reversed these motor deficits. The relative
+efficacy of the compounds (BTS 74 398 > GBR 12909 > nomifensine >> bupropion)
+paralleled their potency in inhibiting DA uptake in vitro and in vivo. In
+contrast, the selective NE reuptake inhibitor nisoxetine and the 5-HT reuptake
+inhibitor sertraline administered alone failed to improve motor function and
+tended to worsen the deficits. Coadministration of nisoxetine attenuated the
+improvement in motor deficits produced by GBR 12909. Coadministration of
+sertraline also abolished the reversal of motor deficits produced by GBR 12909.
+Coadministration of both sertraline and nisoxetine similarly abolished the
+improvement of motor deficits produced by GBR 12909. Molecules possessing potent 
+DA reuptake inhibitory activity may be useful in the treatment of the motor
+symptoms of Parkinson's disease. In contrast, there seems to be no role for NE or
+5-HT reuptake inhibitors, and they may impair antiparkinsonian activity mediated 
+through dopaminergic mechanisms.
+
+DOI: 10.1124/jpet.102.039743 
+PMID: 12438514  [Indexed for MEDLINE]
+

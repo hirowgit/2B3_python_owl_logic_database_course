@@ -1,0 +1,86 @@
+
+
+154. eNeuro. 2021 May 17;8(3). pii: ENEURO.0489-20.2021. doi:
+10.1523/ENEURO.0489-20.2021. Print 2021 May-Jun.
+
+Visual Neuroscience Methods for Marmosets: Efficient Receptive Field Mapping and 
+Head-Free Eye Tracking.
+
+Jendritza P(1)(2), Klein FJ(3), Rohenkohl G(3)(4), Fries P(3)(5).
+
+Author information: 
+(1)Ernst Strüngmann Institute (ESI) for Neuroscience in Cooperation with Max
+Planck Society, 60528 Frankfurt, Germany patrick.jendritza@esi-frankfurt.de.
+(2)International Max Planck Research School for Neural Circuits, 60438 Frankfurt,
+Germany.
+(3)Ernst Strüngmann Institute (ESI) for Neuroscience in Cooperation with Max
+Planck Society, 60528 Frankfurt, Germany.
+(4)Department of Physiology, Institute of Biosciences, University of São Paulo,
+05508-000 São Paulo, Brazil.
+(5)Donders Institute for Brain, Cognition and Behaviour, Radboud University
+Nijmegen, 6525 EN Nijmegen, The Netherlands.
+
+The marmoset has emerged as a promising primate model system, in particular for
+visual neuroscience. Many common experimental paradigms rely on head fixation and
+an extended period of eye fixation during the presentation of salient visual
+stimuli. Both of these behavioral requirements can be challenging for marmosets. 
+Here, we present two methodological developments, each addressing one of these
+difficulties. First, we show that it is possible to use a standard eye-tracking
+system without head fixation to assess visual behavior in the marmoset.
+Eye-tracking quality from head-free animals is sufficient to obtain precise
+psychometric functions from a visual acuity task. Second, we introduce a novel
+method for efficient receptive field (RF) mapping that does not rely on moving
+stimuli but uses fast flashing annuli and wedges. We present data recorded during
+head-fixation in areas V1 and V6 and show that RF locations are readily obtained 
+within a short period of recording time. Thus, the methodological advancements
+presented in this work will contribute to establish the marmoset as a valuable
+model in neuroscience.
+
+Copyright © 2021 Jendritza et al.
+
+DOI: 10.1523/ENEURO.0489-20.2021 
+PMCID: PMC8143020
+PMID: 33863782  [Indexed for MEDLINE]
+
+
+155. Cereb Cortex. 2021 Jul 29;31(9):4220-4232. doi: 10.1093/cercor/bhab080.
+
+The Brain Circuits and Dynamics of Curiosity-Driven Behavior in Naturally Curious
+Marmosets.
+
+Tian X(1)(2), Silva AC(1)(2), Liu C(1)(2)(3)(4).
+
+Author information: 
+(1)Department of Neurobiology, University of Pittsburgh Brain Institute,
+University of Pittsburgh, Pittsburgh PA 15261, USA.
+(2)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda MD 20892, USA.
+(3)Institute of Neuroscience, Center for Excellence in Brain Science and
+Intelligence Technology, Chinese Academy of Sciences, Shanghai 200031, China.
+(4)Shanghai Center for Brain Science and Brain-Inspired Intelligence Technology, 
+Shanghai 201210, China.
+
+Curiosity is a fundamental nature of animals for adapting to changing
+environments, but its underlying brain circuits and mechanisms remain poorly
+understood. One main barrier is that existing studies use rewards to train
+animals and motivate their engagement in behavioral tasks. As such, the rewards
+become significant confounders in interpreting curiosity. Here, we overcame this 
+problem by studying research-naïve and naturally curious marmosets that can
+proactively and persistently participate in a visual choice task without external
+rewards. When performing the task, the marmosets manifested a strong innate
+preference towards acquiring new information, associated with faster behavioral
+responses. Longitudinally functional magnetic resonance imaging revealed
+behavior-relevant brain states that reflected choice preferences and engaged
+several brain regions, including the cerebellum, the hippocampus, and cortical
+areas 19DI, 25, and 46D, with the cerebellum being the most prominent. These
+results unveil the essential brain circuits and dynamics underlying
+curiosity-driven activity.
+
+© The Author(s) 2021. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhab080 
+PMCID: PMC8485152 [Available on 2022-04-12]
+PMID: 33839768  [Indexed for MEDLINE]
+

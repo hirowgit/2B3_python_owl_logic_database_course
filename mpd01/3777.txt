@@ -1,0 +1,82 @@
+
+
+3777. J Biol Chem. 1996 Jun 21;271(25):14684-91.
+
+Fetal globin expression in New World monkeys.
+
+Johnson RM(1), Buck S, Chiu C, Schneider H, Sampaio I, Gage DA, Shen TL,
+Schneider MP, Muniz JA, Gumucio DL, Goodman M.
+
+Author information: 
+(1)Department of Biochemistry, Wayne State Medical School, Detroit, Michigan
+48201, USA.
+
+Erratum in
+    J Biol Chem. 1996 Nov 22;271(47):30298.
+
+Reverse phase chromatography of the globin chains of adult, newborn, and fetal
+erythrocytes from three species of New World monkeys (Cebus apella, Aotus azarae,
+and Callithrix jacchus) representing three of the seven platyrrhine clades showed
+that gamma-globin expression was fetal in these animals. The globins were
+identified by a combination of chemical sequencing and mass spectrometric
+analysis. Since gamma-globin expression is fetal in the other major simian
+branch, the catarrhines, but embryonic in prosimian primates and nonprimate
+placental mammals, the evolution of fetal recruitment can now be assigned to the 
+period between the simian-prosimian divergence (55 million years ago) and the
+platyrrhine-catarrhine divergence (35 million years ago). The gamma-globin gene
+underwent tandem duplication during the same evolutionary epoch, in accord with a
+model that suggests that the downstream duplicated gamma-gene (gamma2) was free
+to acquire the mutations necessary for fetal recruitment. Mass spectrometric
+analysis of tryptic digests of the gamma-globins verified the amino acid
+sequences deduced from genomic sequencing. Detailed analysis of high performance 
+liquid chromatography and matrix-assisted laser desorption/ionization mass
+spectrometry data showed that gamma2-globin in Cebus was expressed to a far
+greater extent than gamma1-globin, supporting inferences drawn from a study of
+the promoter sequences. A "pre-gamma"-globin was observed in C. apella and shown 
+to be primarily the glutathionyl adduct. The other species, A. azarae and C.
+jacchus, also express only one gamma-globin polypeptide. This work provides
+biochemical evidence of an evolutionary trend in the platyrrhines to alter the
+duplicated gamma-globin gene locus so that only one gamma-globin polypeptide is
+expressed.
+
+DOI: 10.1074/jbc.271.25.14684 
+PMID: 8663037  [Indexed for MEDLINE]
+
+
+3778. Exp Cell Res. 1996 Jun 15;225(2):257-67.
+
+Functional reconstitution of oxidase activity in X-linked chronic granulomatous
+disease by retrovirus-mediated gene transfer.
+
+Zentilin L(1), Tafuro S, Grassi G, Garcia R, Ventura A, Baralle F, Falaschi A,
+Giacca M.
+
+Author information: 
+(1)International Centre for Genetic Engineering and Biotechnology, Trieste,
+Italy.
+
+The feasibility of correction of the disease phenotype by gene gene transfer was 
+investigated in cells of four patients with X-linked chronic granulomatous
+disease. These patients carry point mutations of the gp91-phox gene, encoding for
+the large subunit of the catalytic core of the phagocytic cell NADPH oxidase. A
+retroviral vector expressing the gp91-phox protein was constructed and used to
+transduce lymphoblastoid cell lines established from the patients. Several
+transduced lymphoblastoid cell clones were investigated for mRNA and protein
+expression, and for functional reconstitution of oxidase activity. Although
+extensive quantitative variability was detected among different clones,
+functional reconstitution of O2- production was obtained in most cases, with
+oxidase function within the same range as in B cell lines derived from normal
+individuals. The same vector was also used for transduction of hematopoietic
+precursors from bone marrow or peripheral blood either with or without enrichment
+for CD34+ cells. A comprehensive analysis was performed on differentiated myeloid
+colonies, to evaluate the efficiency of transduction, the levels of gp91-phox
+expression, and the extent of functional reconstitution of oxidase activity. A
+high efficiency of transduction was obtained in most experiments, with 60-100% of
+colonies containing proviral DNA. Among the transduced colonies, an extensive
+variability in the levels of expression of the transduced gene and of functional 
+restoration of NADPH oxidase activity was observed. These results represent a
+step toward the development of a gene therapy protocol for these patients.
+
+DOI: 10.1006/excr.1996.0175 
+PMID: 8660913  [Indexed for MEDLINE]
+

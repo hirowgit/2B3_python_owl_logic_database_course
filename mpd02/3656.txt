@@ -1,0 +1,41 @@
+
+
+3656. Virology. 1997 Jul 21;234(1):1-13.
+
+Early detection of the lytic LMP-1 protein in EBV-infected B-cells suggests its
+presence in the virion.
+
+Erickson KD(1), Martin JM.
+
+Author information: 
+(1)Department of Molecular, Cellular, and Developmental Biology, University of
+Colorado, Boulder 80309, USA.
+
+The Epstein-Barr virus (EBV)-positive B958 cell line expresses two related
+membrane proteins encoded by BNLF-1 open reading frames. One protein (LMP-1) has 
+been shown to be essential for the growth transforming properties of EBV. The
+second protein (the lytic LMP-1) is an amino-terminally truncated form of LMP-1
+whose expression is associated with induction of EBV's lytic cycle. We have
+investigated the expression of full-length and lytic forms of LMP-1 immediately
+after infection of the EBV-negative, B-lymphoma cell line BJAB. Only the lytic
+LMP-1 protein is present in BJAB cells early (within minutes following addition
+of virus) after infection with virus derived from either uninduced or
+tetradecanoyl phorbol acetate and sodium butyrate-induced B958 cells. Lytic LMP-1
+protein levels begin to decline by 48 hr after infection, whereas levels of
+full-length LMP-1 increase between 24 and 48 hr after infection and then remain
+constant. The presence of the lytic LMP-1 protein in infected cells is
+independent of both protein synthesis and virus internalization. We also find the
+lytic LMP-1 protein in BJAB cells early after infection (within 3 hr of addition 
+of virus) with the HH514 strain of EBV, and HH514 cells treated with
+tetradecanoyl phorbol acetate and sodium butyrate, express high levels of both
+the lytic LMP-1 and full-length LMP-1 proteins. The lytic LMP-1 protein is
+enriched in purified virion preparations, and immunoelectron microscopic analysis
+indicates that EBV virions can be specifically labeled with anti-LMP-1 antisera. 
+Together, these results are consistent with a model in which the lytic LMP-1
+protein is present in the EBV virion and is carried into the B-cell upon
+infection and suggest a role for this protein in early infection events and/or in
+EBV's lytic cycle.
+
+DOI: 10.1006/viro.1997.8638 
+PMID: 9234942  [Indexed for MEDLINE]
+

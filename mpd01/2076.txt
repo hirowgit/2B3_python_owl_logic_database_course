@@ -1,0 +1,75 @@
+
+
+2076. J Exp Biol. 2009 Dec;212(Pt 24):4040-55. doi: 10.1242/jeb.029983.
+
+The morphology of the masticatory apparatus facilitates muscle force production
+at wide jaw gapes in tree-gouging common marmosets (Callithrix jacchus).
+
+Eng CM(1), Ward SR, Vinyard CJ, Taylor AB.
+
+Author information: 
+(1)Department of Orthopaedic Surgery, University of California, San Diego, CA
+92121, USA. cmeng@fas.harvard.edu
+
+Common marmosets (Callithrix jacchus) generate wide jaw gapes when gouging trees 
+with their anterior teeth to elicit tree exudate flow. Closely related cotton-top
+tamarins (Saguinus oedipus) do not gouge trees but share similar diets including 
+exudates. Maximizing jaw opening theoretically compromises the bite forces that
+marmosets can generate during gouging. To investigate how jaw-muscle architecture
+and craniofacial position impact muscle performance during gouging, we combine
+skull and jaw-muscle architectural features to model muscle force production
+across a range of jaw gapes in these two species. We incorporate joint mechanics,
+resting sarcomere length and muscle architecture estimates from the masseter and 
+temporalis to model muscle excursion, sarcomere length and relative tension as a 
+function of joint angle. Muscle excursion from occlusion to an estimated maximum 
+functional gape of 55 deg. was smaller in all regions of the masseter and
+temporalis of C. jacchus compared with S. oedipus except the posterior
+temporalis. As a consequence of reduced muscle excursion distributed over more
+sarcomeres in series (i.e. longer fibers), sarcomere length operating ranges are 
+smaller in C. jacchus jaw muscles across this range of gapes. This configuration 
+allows C. jacchus to act on a more favorable portion of the length-tension curve 
+at larger gapes and thereby generate relatively greater tension in these muscles 
+compared with S. oedipus. Our results suggest that biting performance during tree
+gouging in common marmosets is improved by a musculoskeletal configuration that
+reduces muscle stretch at wide gapes while simultaneously facilitating
+comparatively large muscle forces at the extremes of jaw opening.
+
+DOI: 10.1242/jeb.029983 
+PMCID: PMC4075048
+PMID: 19946083  [Indexed for MEDLINE]
+
+
+2077. J Immunol Methods. 2010 Jan 31;352(1-2):59-70. doi: 10.1016/j.jim.2009.11.008.
+Epub 2009 Nov 18.
+
+Propagation and characterisation of dendritic cells from G-CSF mobilised
+peripheral blood monocytes and stem cells in common marmoset monkeys.
+
+Prasad S(1), Kireta S, Leedham E, Russ GR, Coates PT.
+
+Author information: 
+(1)Transplantation Immunology Laboratory and Department of Medicine, University
+of Adelaide, The Queen Elizabeth Hospital Campus, 28 Woodville Road, Woodville,
+SA 5011, Australia.
+
+The common marmoset is a small New World Primate that has been used as an
+immunological model for a number of human diseases. Dendritic cells (DC) have not
+been extensively characterised in this species and in particular protocols to
+derive DC from living donors without the need for animal sacrifice are presently 
+lacking. This study establishes new protocols to generate substantial numbers of 
+marmoset DC for use in cell therapy studies. Recombinant human G-CSF was used to 
+mobilise peripheral blood monocytes and CD34(+) stem cells in sufficient numbers 
+for large scale in-vitro DC propagation using cytokine conditioning including
+IL-4, GM-CSF, FLT3-L, stem cell factor and thrombopoietin. Marmoset DC exhibited 
+morphology similar to human DC, were capable of antigen uptake and presentation
+and had moderate allo-stimulatory ability. Monocyte-derived DC had a
+maturation-resistant immature phenotype, whereas haematopoietic precursor-derived
+DC were semi-mature in phenotype and function. This study confirms the
+feasibility of the marmoset as a unique small primate model in which to pursue
+DC-based immunotherapy strategies.
+
+Copyright 2009 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jim.2009.11.008 
+PMID: 19931270  [Indexed for MEDLINE]
+

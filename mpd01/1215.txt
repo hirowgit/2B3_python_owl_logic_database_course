@@ -1,0 +1,103 @@
+
+
+1215. Stem Cell Res. 2015 Jul;15(1):141-50. doi: 10.1016/j.scr.2015.05.010. Epub 2015
+May 27.
+
+Marmoset induced pluripotent stem cells: Robust neural differentiation following 
+pretreatment with dimethyl sulfoxide.
+
+Qiu Z(1), Mishra A(1), Li M(1), Farnsworth SL(1), Guerra B(2), Lanford RE(2),
+Hornsby PJ(3).
+
+Author information: 
+(1)South Texas Veterans Health Care System, San Antonio, TX, United States;
+Department of Physiology/Barshop Institute, University of Texas Health Science
+Center at San Antonio, United States.
+(2)Southwest National Primate Research Center and Texas Biomedical Research
+Institute, United States.
+(3)South Texas Veterans Health Care System, San Antonio, TX, United States;
+Department of Physiology/Barshop Institute, University of Texas Health Science
+Center at San Antonio, United States. Electronic address: hornsby@uthscsa.edu.
+
+The marmoset is an important nonhuman primate model for regenerative medicine.
+For experimental autologous cell therapy based on induced pluripotent (iPS) cells
+in the marmoset, cells must be able to undergo robust and reliable directed
+differentiation that will not require customization for each specific iPS cell
+clone. When marmoset iPS cells were aggregated in a hanging drop format for 3
+days, followed by exposure to dual SMAD inhibitors and retinoic acid in monolayer
+culture for 3 days, we found substantial variability in the response of different
+iPS cell clones. However, when clones were pretreated with 0.05-2% dimethyl
+sulfoxide (DMSO) for 24 hours, all clones showed a very similar maximal response 
+to the directed differentiation scheme. Peak responses were observed at 0.5% DMSO
+in two clones and at 1% DMSO in a third clone. When patterns of gene expression
+were examined by microarray analysis, hierarchical clustering showed very similar
+responses in all 3 clones when they were pretreated with optimal DMSO
+concentrations. The change in phenotype following exposure to DMSO and the 6 day 
+hanging drop/monolayer treatment was confirmed by immunocytochemistry. Analysis
+of DNA content in DMSO-exposed cells indicated that it is unlikely that DMSO acts
+by causing cells to exit from the cell cycle. This approach should be generally
+valuable in the directed neural differentiation of pluripotent cells for
+experimental cell therapy.
+
+Copyright © 2015. Published by Elsevier B.V.
+
+DOI: 10.1016/j.scr.2015.05.010 
+PMCID: PMC4516655
+PMID: 26070112  [Indexed for MEDLINE]
+
+
+1216. PLoS One. 2015 Jun 10;10(6):e0127268. doi: 10.1371/journal.pone.0127268.
+eCollection 2015.
+
+Natural and Anthropogenic Hybridization in Two Species of Eastern Brazilian
+Marmosets (Callithrix jacchus and C. penicillata).
+
+Malukiewicz J(1), Boere V(2), Fuzessy LF(3), Grativol AD(4), de Oliveira E Silva 
+I(5), Pereira LC(6), Ruiz-Miranda CR(4), Valença YM(7), Stone AC(8).
+
+Author information: 
+(1)Departamento de Bioquímica e Biologia Molecular, Universidade Federal de
+Viçosa, Viçosa MG, Brazil; School of Human Evolution and Social Change, Arizona
+State University, Tempe, Arizona, 85287, United States of America.
+(2)Departamento de Bioquímica e Biologia Molecular, Universidade Federal de
+Viçosa, Viçosa MG, Brazil.
+(3)Department of Plant Biology, Universidade Federal de Minas Gerais, Belo
+Horizonte MG, Brazil.
+(4)Ciências Ambientias, Centro de Biociências e Biotecnologia, Universidade
+Estadual do Norte Fluminense, Campos dos Goytacazes RJ, Brazil.
+(5)Departamento de Biologia Animal, Universidade Federal de Viçosa, Viçosa MG,
+Brazil.
+(6)Centro de Conservação e Manejo de Fauna da Caatinga, Universidade Federal do
+Vale do São Francisco, Petrolina PE, Brazil.
+(7)Centro de Reabilitação de Animais Silvestres do Santuário dos Três Reinos,
+Recife PE, Brazil.
+(8)School of Human Evolution and Social Change, Arizona State University, Tempe, 
+Arizona, 85287, United States of America.
+
+Animal hybridization is well documented, but evolutionary outcomes and
+conservation priorities often differ for natural and anthropogenic hybrids. Among
+primates, an order with many endangered species, the two contexts can be hard to 
+disentangle from one another, which carries important conservation implications. 
+Callithrix marmosets give us a unique glimpse of genetic hybridization effects
+under distinct natural and human-induced contexts. Here, we use a 44 autosomal
+microsatellite marker panel to examine genome-wide admixture levels and
+introgression at a natural C. jacchus and C. penicillata species border along the
+São Francisco River in NE Brazil and in an area of Rio de Janeiro state where
+humans introduced these species exotically. Additionally, we describe for the
+first time autosomal genetic diversity in wild C. penicillata and expand previous
+C. jacchus genetic data. We characterize admixture within the natural zone as
+bimodal where hybrid ancestry is biased toward one parental species or the other.
+We also show evidence that São Francisco River islands are gateways for
+bidirectional gene flow across the species border. In the anthropogenic zone,
+marmosets essentially form a hybrid swarm with intermediate levels of admixture, 
+likely from the absence of strong physical barriers to interspecific breeding.
+Our data show that while hybridization can occur naturally, the presence of
+physical, even if leaky, barriers to hybridization is important for maintaining
+species genetic integrity. Thus, we suggest further study of hybridization under 
+different contexts to set well informed conservation guidelines for hybrid
+populations that often fit somewhere between "natural" and "man-made."
+
+DOI: 10.1371/journal.pone.0127268 
+PMCID: PMC4464756
+PMID: 26061111  [Indexed for MEDLINE]
+

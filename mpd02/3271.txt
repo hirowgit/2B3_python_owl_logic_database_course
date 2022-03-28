@@ -1,0 +1,40 @@
+
+
+3271. Exp Neurol. 2000 Sep;165(1):136-42.
+
+Antiparkinsonian actions of ifenprodil in the MPTP-lesioned marmoset model of
+Parkinson's disease.
+
+Nash JE(1), Fox SH, Henry B, Hill MP, Peggs D, McGuire S, Maneuf Y, Hille C,
+Brotchie JM, Crossman AR.
+
+Author information: 
+(1)Manchester Movement Disorder Laboratory, Room 1.124, Division of Neuroscience,
+School of Biological Sciences, University of Manchester, Oxford Road, Manchester,
+M13 9PT, United Kingdom.
+
+Dopamine-replacement strategies form the basis of most symptomatic treatments for
+Parkinson's disease. However, since long-term dopamine-replacement therapies are 
+characterized by many side effects, most notably dyskinesia, the concept of a
+nondopaminergic therapy for Parkinson's disease has attracted great interest. To 
+date, it has proved difficult to devise a nondopaminergic therapy with efficacy
+comparable to that of dopamine replacement. In animal models of Parkinson's
+disease, loss of striatal dopamine leads to enhanced excitation of striatal
+NR2B-containing NMDA receptors. This is responsible, in part at least, for
+generating parkinsonian symptoms. Here we demonstrate that, in the MPTP-lesioned 
+marmoset, monotherapy with the NR2B-selective NMDA receptor antagonist,
+ifenprodil, administered de novo, has antiparkinsonian effects equivalent to
+those of l-DOPA (administered as its methyl ester form). In MPTP-lesioned
+marmosets, median mobility scores, following vehicle-treatment were 12.5/h (range
+6-21), compared to 61/h (range 26-121) in normal, non-MPTP-lesioned animals.
+Following ifenprodil (10 mg/kg) treatment in MPTP-lesioned marmosets, the median 
+mobility score was 66/h (range 34-93), and following l-DOPA (10 mg/kg i.p.)
+treatment 89/h (range 82-92). The data support the proposal that NR2B-selective
+NMDA receptor antagonists have potential as a nondopaminergic monotherapy for the
+treatment of parkinsonian symptoms when given de novo.
+
+Copyright 2000 Academic Press.
+
+DOI: 10.1006/exnr.2000.7444 
+PMID: 10964492  [Indexed for MEDLINE]
+

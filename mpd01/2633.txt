@@ -1,0 +1,63 @@
+
+
+2633. J Psychopharmacol. 2005 Sep;19(5):455-66.
+
+A long-term study of the effects of diazinon on sleep, the electrocorticogram and
+cognitive behaviour in common marmosets.
+
+Muggleton NG(1), Smith AJ, Scott EA, Wilson SJ, Pearce PC.
+
+Author information: 
+(1)Psychopharmacology Unit, University of Bristol, School of Medical Sciences,
+University Walk, Bristol BS8 1TD, UK. n.muggleton@ucl.ac.uk
+
+The long-term sequelae of exposure to low doses of organophosphate compounds are 
+ill defined, with effects variously reported on a range of indices of central
+nervous system functions such as sleep, cognitive performance and
+electroencephalogram (EEG). These indices were examined in common marmosets
+exposed to a range of doses of the organophosphorous sheep dip, diazinon.
+Cognitive performance was assessed by means of elements from the Cambridge
+Neuropsychological Test Automated Battery (CANTAB), and radiotelemetry techniques
+were employed to monitor the electrocorticogram and sleep patterns. Data were
+collected for 12 months following intramuscular administration of a single dose
+of diazinon (10, 90 or 130 mg.kg (-1)) or vehicle. Although high levels of
+erythrocyte acetylcholinesterase (AChE) inhibition (up to 82%) and short-term
+changes in sleep patterns were seen, there was no evidence of biologically
+significant long-term changes in any measures. The effects of multiple exposures,
+impurities or mixtures of OP compounds remain to be investigated.
+
+DOI: 10.1177/0269881105056521 
+PMID: 16166182  [Indexed for MEDLINE]
+
+
+2634. Cell Immunol. 2005 Jul-Aug;236(1-2):115-22. Epub 2005 Sep 12.
+
+Cross-reactivity of anti-human chemokine receptor and anti-TNF family antibodies 
+with common marmoset (Callithrix jacchus) leukocytes.
+
+Kireta S(1), Zola H, Gilchrist RB, Coates PT.
+
+Author information: 
+(1)Transplantation Immunology Laboratory and Department of Medicine, University
+of Adelaide, The Queen Elizabeth Hospital Campus, 28 Woodville Rd, Adelaide, SA
+5011, Australia.
+
+The common marmoset (Callithrix jacchus) is a New World primate species
+frequently employed for immunological models of human disease. We used flow
+cytometry to screen a panel of new anti-human antibodies from the HLDA8 workshop 
+to establish cross-reactivity with marmoset peripheral blood mononuclear cells.
+Seventy-seven antibodies were screened of which nine antibodies showed binding.
+Cross-reactivity of anti-human monoclonal antibodies with CC and CXC chemokine
+receptors CCR3, CCR6, CCR7, and CCR8 was demonstrated on untreated marmoset
+mononuclear cells. Stimulation of marmoset mononuclear cells with ConA and/or
+PMA-ionomycin resulted in an up-regulated expression of CXCR1, CXCR3, and CXCR4. 
+The expression of TNF-family related molecules TACI and APRIL on marmoset
+mononuclear cells was also identified. These studies extend the range of
+cross-reactive antibodies to now include anti-chemokine and anti-TNF family
+antibodies for this important pre-clinical model species and should provide
+useful tools for investigation of immunological processes in marmoset monkey
+models.
+
+DOI: 10.1016/j.cellimm.2005.08.017 
+PMID: 16165115  [Indexed for MEDLINE]
+

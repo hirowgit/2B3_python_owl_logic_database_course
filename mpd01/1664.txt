@@ -1,0 +1,83 @@
+
+
+1664. Neuroimage. 2012 Dec;63(4):1841-53. doi: 10.1016/j.neuroimage.2012.08.040. Epub
+2012 Aug 23.
+
+Conditions for quantitative evaluation of injured spinal cord by in vivo
+diffusion tensor imaging and tractography: preclinical longitudinal study in
+common marmosets.
+
+Konomi T(1), Fujiyoshi K, Hikishima K, Komaki Y, Tsuji O, Okano HJ, Toyama Y,
+Okano H, Nakamura M.
+
+Author information: 
+(1)Department of Orthopaedic Surgery, Keio University School of Medicine, 35
+Shinanomachi, Shinjuku, Tokyo 160-8582, Japan.
+
+Conventional magnetic resonance imaging (MRI) can detect hemorrhage, edema,
+syrinx, and spinal cord atrophy, but not axonal disruption after spinal cord
+injury (SCI). We previously demonstrated that diffusion tensor tractography (DTT)
+could depict axonal disruption after hemisection SCI in common marmosets. In the 
+present study, to determine the relationship between DTT results and functional
+recovery after contusive SCI, we performed longitudinal DTT, behavioral, and
+histological analyses before and after contusive SCI in common marmosets. By
+comparing the tract fiber estimate depicted by DTT with neuronal fibers labeled
+with RT97 and SMI-31, anti-neurofilament antibodies, we determined the optimal
+fractional anisotropy (FA) threshold for fiber tracking to be 0.40. The ratio of 
+the number of tract fiber estimates at the lesion site to the number before SCI, 
+determined by DTT, was significantly correlated with the functional recovery
+after SCI. Moreover, comparison of the longitudinal pre- and post-SCI FA and
+axial diffusivity (λ(‖)) values revealed that they decreased after injury at the 
+sites caudal to the lesion epicenter in the corticospinal tract and rostral to
+the lesion epicenter in the dorsal column. The FA values, then, showed partial
+recovery in the dorsal column. FA-value-oriented color DTT was used to represent 
+axonal sparing or regeneration of the different tracts. These findings indicated 
+that DTT analysis might be a versatile non-invasive tool for evaluating the
+axonal disruption after SCI.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2012.08.040 
+PMID: 22922169  [Indexed for MEDLINE]
+
+
+1665. Pharmacol Biochem Behav. 2012 Dec;103(2):279-83. doi: 10.1016/j.pbb.2012.08.003. 
+Epub 2012 Aug 11.
+
+Repeated cocaine administration in marmoset monkeys induces
+hypervigilance-related behaviors, but no changes in locomotion and cortisol
+levels.
+
+Cagni P(1), Komorowski M, Melo GC, Lima T, Tomaz C, de Souza Silva MA, Huston JP,
+Barros M.
+
+Author information: 
+(1)Department of Pharmaceutical Sciences, School of Health Sciences, University
+of Brasilia, 70910-900 Brasilia, DF, Brazil.
+
+Although cocaine induces several behavioral and hormonal effects, little is known
+about non-contingent repeated administrations in non-human primates. Therefore,
+we analyzed behavioral (locomotion, vigilance) and hormonal (cortisol) responses 
+of adult black tufted-ear marmosets during repeated administrations and
+withdrawal trials. The subjects were divided into two groups (saline or cocaine
+5mg/kg, ip) and submitted to nine treatment trials and four withdrawal trials in 
+the absence of any treatment in an open-field arena. Blood samples were obtained 
+on five different time points of the procedure to evaluate the effects of
+repeated cocaine treatment on basal cortisol levels. Cocaine repeatedly
+administered to drug-naïve marmosets induced a slow-onset hypervigilance effect
+(i.e., scan - long-lasting sweeping movements of the head directed at the
+environment; and glance - single rapid movement of the head directed at the
+environment), with no concomitant change in locomotion. Treatment cessation
+during withdrawal immediately reversed the cocaine-induced hypervigilance effect.
+Cortisol levels remained constant throughout the procedure. Therefore, marmosets 
+seem to have a similar behavioral - but not hormonal - response as humans and
+other nonhuman primates repeatedly injected with cocaine, but differ from rats in
+their absence of hyperlocomotor activity. The development of hypervigilance with 
+repeated application may constitute a unique measure to assess cocaine-induced
+changes in behavior in the marmoset and other nonhuman primates.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pbb.2012.08.003 
+PMID: 22921767  [Indexed for MEDLINE]
+

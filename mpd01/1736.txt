@@ -1,0 +1,81 @@
+
+
+1736. Genome Biol Evol. 2012;4(5):641-57. doi: 10.1093/gbe/evs035. Epub 2012 Apr 13.
+
+Identification and characterization of lineage-specific highly conserved
+noncoding sequences in Mammalian genomes.
+
+Takahashi M(1), Saitou N.
+
+Author information: 
+(1)Department of Genetics, School of Life Science, Graduate University for
+Advanced Studies, Japan.
+
+Vertebrate genome comparisons revealed that there are highly conserved noncoding 
+sequences (HCNSs) among a wide range of species and many of which contain
+regulatory elements. However, recently emerged sequences conserved in specific
+lineages have not been well studied. Toward this end, we identified 8,198 primate
+and 21,128 specific HCNSs as representative ones among mammals from
+human-marmoset and mouse-rat comparisons, respectively. Derived allele frequency 
+analysis of primate-specific HCNSs showed that these HCNSs were under purifying
+selection, indicating that they may harbor important functions. We selected the
+top 1,000 largest HCNSs and compared the lineage-specific HCNS-flanking genes
+(LHF genes) with ultraconserved element (UCE)-flanking genes. Interestingly, the 
+majority of LHF genes were different from UCE-flanking genes. This
+lineage-specific set of LHF genes was more enriched in protein-binding function. 
+Conversely, the number of LHF genes that were also shared by UCEs was small but
+significantly larger than random expectation, and many of these genes were
+involved in anatomical development as transcriptional regulators, suggesting that
+certain groups of genes preferentially recruit new HCNSs in addition to old HCNSs
+that are conserved among vertebrates. This group of LHF genes might be involved
+in the various levels of lineage-specific evolution among vertebrates, mammals,
+primates, and rodents. If so, the emergence of HCNSs in and around these two
+groups of LHF genes developed lineage-specific characteristics. Our results
+provide new insight into lineage-specific evolution through interactions between 
+HCNSs and their LHF genes.
+
+DOI: 10.1093/gbe/evs035 
+PMCID: PMC3381673
+PMID: 22505575  [Indexed for MEDLINE]
+
+
+1737. Biol Psychiatry. 2012 Aug 15;72(4):266-72. doi: 10.1016/j.biopsych.2012.03.007.
+Epub 2012 Apr 12.
+
+Lesions of ventrolateral prefrontal or anterior orbitofrontal cortex in primates 
+heighten negative emotion.
+
+Agustín-Pavón C(1), Braesicke K, Shiba Y, Santangelo AM, Mikheenko Y, Cockroft G,
+Asma F, Clarke H, Man MS, Roberts AC.
+
+Author information: 
+(1)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Cambridge, United Kingdom.
+
+BACKGROUND: Heightened fear and anxiety are core symptoms of a variety of
+neuropsychiatric disorders. They are associated with structural and activity
+changes throughout neural circuitry that includes the ventral and medial
+prefrontal cortices (PFC), the amygdala, and hippocampus. Although the
+contributions of the medial PFC, amygdala, and hippocampus to fear and anxiety
+have been studied extensively with animal models, the selective roles of the
+ventral PFC-including the ventrolateral prefrontal cortex (vlPFC) and
+orbitofrontal cortex-are poorly understood.
+METHODS: We investigated the effects of selective excitotoxic lesions of either
+the vlPFC or anterior orbitofrontal cortex (antOFC) on anxious behavior and
+Pavlovian conditioned autonomic and behavioral fear responses in the New World
+primate, the common marmoset.
+RESULTS: Both vlPFC and antOFC lesions resulted in stronger, less adaptable
+conditioned fear responses. They also heightened the anxiety responses of a
+marmoset to a human intruder. In contrast, only a lesion of the vlPFC affected
+the coping style that a marmoset displayed in the presence of the human intruder,
+increasing the likelihood of proactive mobbing.
+CONCLUSIONS: These results suggest that both the antOFC and vlPFC can
+downregulate fear and anxiety and, together, provide necessary but independent
+contributions to the top-down control of negative emotion.
+
+Copyright © 2012 Society of Biological Psychiatry. Published by Elsevier Inc. All
+rights reserved.
+
+DOI: 10.1016/j.biopsych.2012.03.007 
+PMID: 22502990  [Indexed for MEDLINE]
+

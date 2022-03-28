@@ -1,0 +1,46 @@
+
+
+1240. J Neurophysiol. 2015 Jul;114(1):274-83. doi: 10.1152/jn.00228.2015. Epub 2015 Apr
+29.
+
+Cooperative vocal control in marmoset monkeys via vocal feedback.
+
+Choi JY(1), Takahashi DY(1), Ghazanfar AA(2).
+
+Author information: 
+(1)Princeton Neuroscience Institute, Princeton University, Princeton, New Jersey;
+Department of Psychology, Princeton University, Princeton, New Jersey; and.
+(2)Princeton Neuroscience Institute, Princeton University, Princeton, New Jersey;
+Department of Psychology, Princeton University, Princeton, New Jersey; and
+Department of Ecology and Evolutionary Biology, Princeton University, Princeton, 
+New Jersey asifg@princeton.edu.
+
+Humans adjust speech amplitude as a function of distance from a listener; we do
+so in a manner that would compensate for such distance. This ability is presumed 
+to be the product of high-level sociocognitive skills. Nonhuman primates are
+thought to lack such socially related flexibility in vocal production. Using
+predictions from a simple arousal-based model whereby vocal feedback from a
+conspecific modulates the drive to produce a vocalization, we tested whether
+another primate exhibits this type of cooperative vocal control. We conducted a
+playback experiment with marmoset monkeys and simulated "far-away" and "nearby"
+conspecifics using contact calls that differed in sound intensity. We found that 
+marmoset monkeys increased the amplitude of their contact calls and produced such
+calls with shorter response latencies toward more distant conspecifics. The same 
+was not true in response to changing levels of background noise. To account for
+how simulated conspecific distance can change both the amplitude and timing of
+vocal responses, we developed a model that incorporates dynamic interactions
+between the auditory system and limbic "drive" systems. Overall, our data show
+that, like humans, marmoset monkeys cooperatively control the acoustics of their 
+vocalizations according to changes in listener distance, increasing the
+likelihood that a conspecific will hear their call. However, we propose that such
+cooperative vocal control is a system property that does not necessitate any
+particularly advanced sociocognitive skill. At least in marmosets, this vocal
+control can be parsimoniously explained by the regulation of arousal states
+across two interacting individuals via vocal feedback.
+
+Copyright © 2015 the American Physiological Society.
+
+DOI: 10.1152/jn.00228.2015 
+PMCID: PMC4507967
+PMID: 25925323  [Indexed for MEDLINE]
+

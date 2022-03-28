@@ -1,0 +1,66 @@
+
+
+3592. Arch Virol. 1998;143(2):213-25.
+
+The hemagglutinin of recent measles virus isolates induces cell fusion in a
+marmoset cell line, but not in other CD46-positive human and monkey cell lines,
+when expressed together with the F protein.
+
+Tanaka K(1), Xie M, Yanagi Y.
+
+Author information: 
+(1)Department of Virology, Faculty of Medicine, Kyushu University, Fukuoka,
+Japan.
+
+Measles virus (MV) is efficiently isolated from patients with measles by using
+B95a cells, a marmoset B cell line. Recent wild-type MV strains isolated using
+B95a cells did not produce cytopathic effects in any of CD46+ primate cell lines 
+examined (except B95a cells), nor did they induce downregulation of CD46.
+Transfection of the hemagglutinin (H) and fusion (F) genes of the Edmonston
+strain of MV produced syncytia in HeLa, Cos and B95a cells. By contrast, the
+expression of the H gene from the two wild-type strains, together with the F gene
+of the Edmonston strain, resulted in syncytium production in B95a cells, but not 
+in HeLa and Cos cells. Cocultivation of Cos cells expressing the wild-type H
+protein and the Edmonston strain F protein with B95a cells, but not with HeLa,
+Jurkat or BJAB cells, generated large syncytia. The results suggest that these
+recent MV isolates may use a molecule other than CD46 as the cellular receptor or
+require another coreceptor to infect cells.
+
+DOI: 10.1007/s007050050281 
+PMID: 9541608  [Indexed for MEDLINE]
+
+
+3593. J Comp Neurol. 1998 Apr 6;393(2):196-209.
+
+Horizontal cell connections with short wavelength-sensitive cones in the retina: 
+a comparison between New World and Old World primates.
+
+Chan TL(1), Grünert U.
+
+Author information: 
+(1)Department of Physiology and Institute for Biomedical Research, The University
+of Sydney, New South Wales, Australia.
+
+Recent studies in the Old World macaque monkey have shown that the two horizontal
+cell types H1 and H2 differ with respect to their connections to short
+wavelength-sensitive (SWS) cones. We wanted to establish whether this pattern of 
+connectivity is common to all primates. The connections of horizontal cells with 
+SWS cones were studied in the retinas of two species of New World (marmoset and
+tamarin) and two species of Old World (orangutan and chimpanzee) primates by
+using a double-labelling technique. Horizontal cells were labelled with DiI and
+then photoconverted; SWS cones were labelled immunocytochemically. The marmoset
+shows a sex-linked polymorphism of colour vision: All males are dichromats,
+whereas most females are trichromats. In contrast, Old World primates are usually
+trichromats. Our results show that the horizontal cells of both New World and Old
+World primates have a comparable pattern of connectivity with SWS cones and thus 
+indicate that the wiring of horizontal cells with SWS cones does not differ
+between dichromats and trichromats and is common to all primates. The H1 cells
+make no or only sparse contact with SWS cones. In marmoset, H1 cells have on
+average 0.8% of their dendritic terminals at SWS cones. The H2 cells contact all 
+SWS cones in their dendritic field. In marmoset, H2 cells have on average 11.8%
+of their dendritic terminals at SWS cones. The axon of H2 cells contacts SWS
+cones but presumably also contacts other cones.
+
+
+PMID: 9548697  [Indexed for MEDLINE]
+

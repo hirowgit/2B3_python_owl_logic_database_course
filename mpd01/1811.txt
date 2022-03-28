@@ -1,0 +1,62 @@
+
+
+1811. J Vet Med Sci. 2012 Mar;74(3):357-9. Epub 2011 Oct 20.
+
+A case of intestinal mucormycosis in a common marmoset (Callithrix jacchus).
+
+Yasuda M(1), Inoue T, Takakura A, Itoh T.
+
+Author information: 
+(1)ICLAS Monitoring Center, Central Institute for Experimental Animals, Kawasaki,
+Kanagawa 210–0821, Japan. myasuda@ciea.or.jp
+
+A 3-year-old female common marmoset was euthanatized because of wasting. Grossly,
+a perforating lesion was present in the jejunum and hemorrhagic lesions in the
+cecum and colon. Histopathologically, these gross lesions were a perforated
+jejunal ulcer and necrotizing colitis, respectively. Necrotizing colitis was
+characterized by extensive mucosal necrosis along with numerous ribbon-shaped
+aseptate hyphae. These aseptate hyaline hyphae were positively stained with PAS
+and GMS, and reacted immunohistochemically with the antibody against the family
+Mucoraceae. This case was diagnosed as intestinal mucormycosis. This is the first
+report on mucormycosis in a common marmoset.
+
+DOI: 10.1292/jvms.10-0187 
+PMID: 22020147  [Indexed for MEDLINE]
+
+
+1812. Virology. 2011 Dec 20;421(2):184-91. doi: 10.1016/j.virol.2011.10.001. Epub 2011 
+Oct 21.
+
+Heat shock factor 1 upregulates transcription of Epstein-Barr Virus nuclear
+antigen 1 by binding to a heat shock element within the BamHI-Q promoter.
+
+Wang FW(1), Wu XR, Liu WJ, Liao YJ, Lin S, Zong YS, Zeng MS, Zeng YX, Mai SJ, Xie
+D.
+
+Author information: 
+(1)The State Key Laboratory of Oncology in South China, Cancer Center, Sun
+Yat-Sen University, Guangzhou, China.
+
+Erratum in
+    Virology. 2021 Sep;561:125.
+
+Epstein-Barr virus (EBV) nuclear antigen 1 (EBNA1) is essential for maintenance
+of the episome and establishment of latency. In this study, we observed that heat
+treatment effectively induced EBNA1 transcription in EBV-transformed B95-8 and
+human LCL cell lines. Although Cp is considered as the sole promoter used for the
+expression of EBNA1 transcripts in the lymphoblastoid cell lines, the RT-PCR
+results showed that the EBNA1 transcripts induced by heat treatment arise from
+Qp-initiated transcripts. Using bioinformatics, a high affinity and functional
+heat shock factor 1 (HSF1)-binding element within the -17/+4 oligonucleotide of
+the Qp was found, and was determined by electrophoretic mobility shift assay and 
+chromatin immunoprecipitation assay. Moreover, heat shock and exogenous HSF1
+expression induced Qp activity in reporter assays. Further, RNA
+interference-mediated HSF1 gene silencing attenuated heat-induced EBNA1
+expression in B95-8 cells. These results provide evidence that EBNA1 is a new
+target for the transcription factor HSF1.
+
+Copyright Â© 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2011.10.001 
+PMID: 22018489  [Indexed for MEDLINE]
+

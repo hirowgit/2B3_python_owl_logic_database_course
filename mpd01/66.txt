@@ -1,0 +1,121 @@
+
+
+66. IBRO Neurosci Rep. 2021 Sep 22;11:128-136. doi: 10.1016/j.ibneur.2021.09.003.
+eCollection 2021 Dec.
+
+Roving oddball paradigm elicits sensory gating, frequency sensitivity, and
+long-latency response in common marmosets.
+
+O'Reilly JA(1).
+
+Author information: 
+(1)College of Biomedical Engineering, Rangsit University, 52/347 Muang-Ake,
+Phaholyothin Road, Pathumthani 12000, Thailand.
+
+Mismatch negativity (MMN) is a candidate biomarker for neuropsychiatric disease. 
+Understanding the extent to which it reflects cognitive deviance-detection or
+purely sensory processes will assist practitioners in making informed clinical
+interpretations. This study compares the utility of deviance-detection and
+sensory-processing theories for describing MMN-like auditory responses of a
+common marmoset monkey during roving oddball stimulation. The following
+exploratory analyses were performed on an existing dataset: responses during the 
+transition and repetition sequence of the roving oddball paradigm (standard ->
+deviant/S1 -> S2 -> S3) were compared; long-latency potentials evoked by deviant 
+stimuli were examined using a double-epoch waveform subtraction; effects of
+increasing stimulus repetitions on standard and deviant responses were analyzed; 
+and transitions between standard and deviant stimuli were divided into ascending 
+and descending frequency changes to explore contributions of
+frequency-sensitivity. An enlarged auditory response to deviant stimuli was
+observed. This decreased exponentially with stimulus repetition, characteristic
+of sensory gating. A slow positive deflection was viewed over approximately
+300-800 ms after the deviant stimulus, which is more difficult to ascribe to
+afferent sensory mechanisms. When split into ascending and descending frequency
+transitions, the resulting difference waveforms were disproportionally influenced
+by descending frequency deviant stimuli. This asymmetry is inconsistent with the 
+general deviance-detection theory of MMN. These findings tentatively suggest that
+MMN-like responses from common marmosets are predominantly influenced by rapid
+sensory adaptation and frequency preference of the auditory cortex, while
+deviance-detection may play a role in long-latency activity.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.ibneur.2021.09.003 
+PMCID: PMC8482433
+PMID: 34622244 
+
+
+67. Nature. 2021 Oct;598(7879):86-102. doi: 10.1038/s41586-021-03950-0. Epub 2021 Oct
+6.
+
+A multimodal cell census and atlas of the mammalian primary motor cortex.
+
+BRAIN Initiative Cell Census Network (BICCN).
+
+Collaborators: Callaway EM, Dong HW, Ecker JR, Hawrylycz MJ, Huang ZJ, Lein ES,
+Ngai J, Osten P, Ren B, Tolias AS, White O, Zeng H, Zhuang X, Ascoli GA, Behrens 
+MM, Chun J, Feng G, Gee JC, Ghosh SS, Halchenko YO, Hertzano R, Lim BK, Martone
+ME, Ng L, Pachter L, Ropelewski AJ, Tickle TL, Yang XW, Zhang K, Bakken TE,
+Berens P, Daigle TL, Harris JA, Jorstad NL, Kalmbach BE, Kobak D, Li YE, Liu H,
+Matho KS, Mukamel EA, Naeemi M, Scala F, Tan P, Ting JT, Xie F, Zhang M, Zhang Z,
+Zhou J, Zingg B, Armand E, Yao Z, Bertagnolli D, Casper T, Crichton K, Dee N,
+Diep D, Ding SL, Dong W, Dougherty EL, Fong O, Goldman M, Goldy J, Hodge RD, Hu
+L, Keene CD, Krienen FM, Kroll M, Lake BB, Lathia K, Linnarsson S, Liu CS,
+Macosko EZ, McCarroll SA, McMillen D, Nadaf NM, Nguyen TN, Palmer CR, Pham T,
+Plongthongkum N, Reed NM, Regev A, Rimorin C, Romanow WJ, Savoia S, Siletti K,
+Smith K, Sulc J, Tasic B, Tieu M, Torkelson A, Tung H, van Velthoven CTJ,
+Vanderburg CR, Yanny AM, Fang R, Hou X, Lucero JD, Osteen JK, Pinto-Duarte A,
+Poirion O, Preissl S, Wang X, Aldridge AI, Bartlett A, Boggeman L, O'Connor C,
+Castanon RG, Chen H, Fitzpatrick C, Luo C, Nery JR, Nunn M, Rivkin AC, Tian W,
+Dominguez B, Ito-Cole T, Jacobs M, Jin X, Lee CT, Lee KF, Miyazaki PA, Pang Y,
+Rashid M, Smith JB, Vu M, Williams E, Biancalani T, Booeshaghi AS, Crow M, Dudoit
+S, Fischer S, Gillis J, Hu Q, Kharchenko PV, Niu SY, Ntranos V, Purdom E, Risso
+D, de Bézieux HR, Somasundaram S, Street K, Svensson V, Vaishnav ED, Van den
+Berge K, Welch JD, An X, Bateup HS, Bowman I, Chance RK, Foster NN, Galbavy W,
+Gong H, Gou L, Hatfield JT, Hintiryan H, Hirokawa KE, Kim G, Kramer DJ, Li A, Li 
+X, Luo Q, Muñoz-Castañeda R, Stafford DA, Feng Z, Jia X, Jiang S, Jiang T, Kuang 
+X, Larsen R, Lesnar P, Li Y, Li Y, Liu L, Peng H, Qu L, Ren M, Ruan Z, Shen E,
+Song Y, Wakeman W, Wang P, Wang Y, Wang Y, Yin L, Yuan J, Zhao S, Zhao X,
+Narasimhan A, Palaniswamy R, Banerjee S, Ding L, Huilgol D, Huo B, Kuo HC,
+Laturnus S, Li X, Mitra PP, Mizrachi J, Wang Q, Xie P, Xiong F, Yu Y, Eichhorn
+SW, Berg J, Bernabucci M, Bernaerts Y, Cadwell CR, Castro JR, Dalley R, Hartmanis
+L, Horwitz GD, Jiang X, Ko AL, Miranda E, Mulherkar S, Nicovich PR, Owen SF,
+Sandberg R, Sorensen SA, Tan ZH, Allen S, Hockemeyer D, Lee AY, Veldman MB,
+Adkins RS, Ament SA, Bravo HC, Carter R, Chatterjee A, Colantuoni C, Crabtree J, 
+Creasy H, Felix V, Giglio M, Herb BR, Kancherla J, Mahurkar A, McCracken C,
+Nickel L, Olley D, Orvis J, Schor M, Hood G, Dichter B, Grauer M, Helba B,
+Bandrowski A, Barkas N, Carlin B, D'Orazi FD, Degatano K, Gillespie TH, Khajouei 
+F, Konwar K, Thompson C, Kelly K, Mok S, Sunkin S.
+
+Comment in
+    Nat Rev Neurosci. 2022 Jan;23(1):1.
+
+Here we report the generation of a multimodal cell census and atlas of the
+mammalian primary motor cortex as the initial product of the BRAIN Initiative
+Cell Census Network (BICCN). This was achieved by coordinated large-scale
+analyses of single-cell transcriptomes, chromatin accessibility, DNA methylomes, 
+spatially resolved single-cell transcriptomes, morphological and
+electrophysiological properties and cellular resolution input-output mapping,
+integrated through cross-modal computational analysis. Our results advance the
+collective knowledge and understanding of brain cell-type organization1-5. First,
+our study reveals a unified molecular genetic landscape of cortical cell types
+that integrates their transcriptome, open chromatin and DNA methylation maps.
+Second, cross-species analysis achieves a consensus taxonomy of transcriptomic
+types and their hierarchical organization that is conserved from mouse to
+marmoset and human. Third, in situ single-cell transcriptomics provides a
+spatially resolved cell-type atlas of the motor cortex. Fourth, cross-modal
+analysis provides compelling evidence for the transcriptomic, epigenomic and gene
+regulatory basis of neuronal phenotypes such as their physiological and
+anatomical properties, demonstrating the biological validity and genomic
+underpinning of neuron types. We further present an extensive genetic toolset for
+targeting glutamatergic neuron types towards linking their molecular and
+developmental identity to their circuit function. Together, our results establish
+a unifying and mechanistic framework of neuronal cell-type organization that
+integrates multi-layered molecular genetic and spatial information with
+multi-faceted phenotypic properties.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41586-021-03950-0 
+PMCID: PMC8494634
+PMID: 34616075  [Indexed for MEDLINE]
+

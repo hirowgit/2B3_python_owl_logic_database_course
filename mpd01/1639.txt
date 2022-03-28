@@ -1,0 +1,62 @@
+
+
+1639. J Med Chem. 2013 Jan 10;56(1):167-81. doi: 10.1021/jm3014053. Epub 2012 Dec 19.
+
+Structural optimization of 2,5-thiophene amides as highly potent and selective
+17β-hydroxysteroid dehydrogenase type 2 inhibitors for the treatment of
+osteoporosis.
+
+Marchais-Oberwinkler S(1), Xu K, Wetzel M, Perspicace E, Negri M, Meyer A,
+Odermatt A, Möller G, Adamski J, Hartmann RW.
+
+Author information: 
+(1)Pharmaceutical and Medicinal Chemistry, Saarland University, D-66041
+Saarbrücken, Germany.
+
+Inhibition of 17β-HSD2 is an attractive mechanism for the treatment of
+osteoporosis. We report here the optimization of human 17β-HSD2 inhibitors in the
+2,5-thiophene amide class by varying the size of the linker (n equals 0 and 2)
+between the amide moiety and the phenyl group. While none of the phenethylamides 
+(n = 2) were active, most of the anilides (n = 0) turned out to moderately or
+strongly inhibit 17β-HSD2. The four most active compounds showed an IC₅₀ of
+around 60 nM and a very good selectivity toward 17β-HSD1, 17β-HSD4, 17β-HSD5,
+11β-HSD1, 11β-HSD2 and the estrogen receptors α and β. The investigated compounds
+inhibited monkey 17β-HSD2 moderately, and one of them showed good inhibitory
+activity on mouse 17β-HSD2. SAR studies allowed a first characterization of the
+human 17β-HSD2 active site, which is predicted to be considerably larger than
+that of 17β-HSD1.
+
+DOI: 10.1021/jm3014053 
+PMID: 23145773  [Indexed for MEDLINE]
+
+
+1640. Methods Mol Biol. 2013;947:185-200. doi: 10.1007/978-1-62703-131-8_15.
+
+The enhanced pre- and postnatal development study for monoclonal antibodies.
+
+Weinbauer GF(1), Luft J, Fuchs A.
+
+Author information: 
+(1)Covance Laboratories GmbH, Muenster, Germany. Gerhard.Weinbauer@covance.com
+
+The enhanced pre- and postnatal (ePPND) study design has been developed in
+response to new scientific knowledge and subsequent guideline changes [ICH M3(R2)
+and ICH S6(R1)]. The changes in study design were basically driven by the
+experiences obtained during preclinical development of biopharmaceuticals. The
+standard ePPND concept does not apply to conventional small molecule
+pharmaceuticals. In essence, the ePPND design is a pre- and postnatal development
+(PPND) study in which key elements of an embryo-fetal development study are
+investigated in newborns and infants rather than in the fetus. The cynomolgus
+monkey is the current relevant nonhuman primate model. The ICH S6(R1) guideline
+reached step 5 in June 2011 and provides detailed recommendations on various
+parameters and the conduct of an ePPND study. This chapter provides working
+guidance for monitoring menstrual cycles to generate pregnant animals, ultrasound
+monitoring of pregnancy, morphometric measurements of fetuses and newborns, in
+vivo skeletal examination, various protocols for evaluation of infants (e.g.,
+neurobehavioral assessment, learning and memory test, grip strength, immune
+system evaluation) and a comprehensive list of additional infant evaluation
+parameters for the cynomolgus monkey.
+
+DOI: 10.1007/978-1-62703-131-8_15 
+PMID: 23138905  [Indexed for MEDLINE]
+

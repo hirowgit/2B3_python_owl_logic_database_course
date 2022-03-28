@@ -1,0 +1,78 @@
+
+
+1914. Oncogene. 2011 Jun 30;30(26):2921-32. doi: 10.1038/onc.2011.16. Epub 2011 Feb 14.
+
+Functional interaction of Ugene and EBV infection mediates tumorigenic effects.
+
+Wang LT(1), Lin CS, Chai CY, Liu KY, Chen JY, Hsu SH.
+
+Author information: 
+(1)Graduate Institute of Medicine, College of Medicine, Kaohsiung Medical
+University, Kaohsiung, Taiwan.
+
+Epstein-Barr virus (EBV) infection is associated with many human neoplasms, in
+which EBV-derived latent membrane protein-1 (LMP1) appears to be critical, but
+its exact oncogenic mechanism remains to be defined. To this end, our initial
+microarray analyses identified a LMP1-inducible gene, Ugene, originally
+characterized as a binding partner for uracil DNA glycosylase 2, which is highly 
+expressed in malignant colon cancer. In this report, it was found that Ugene,
+designated herein as LMP1-induced protein (LMPIP), was induced, in a
+time-dependent manner, in EBV-infected peripheral blood mononuclear cells and
+LMP1-transfected 293 cells. Functionally, when compared with mock-transfected
+cells, overexpression of LMPIP in nasopharyngeal carcinoma (NPC) cell lines
+resulted in a decrease in reactive oxygen species production and maintained
+mitochondria membrane potential (Δψ) loss induced by H(2)O(2). The NPC cells
+transfected with LMPIP also showed a decrease in G1 population and an increase in
+the cell population in sub-G1 and multiploid phase, concomitant with increased
+levels of cell cycle activators, including cyclin D1 and CDK4. In contrast,
+silencing of LMPIP expression in the NPC tumor cell lines with short hairpin RNA 
+interference revealed significantly decreased cell population at G1/S phase,
+while the number of cells in multiploid phase increased. Significantly, NPC cells
+with LMPIP knock-down also showed a decrease in tumorigenic and transforming
+activity induced by ectopic LMP1 expression, as determined by analyses of soft
+agar foci and tumor size in nude mice. Further, elevated LMPIP expression was
+also noted in cytoplasm and nuclei in EBV-infected NPC tumor cell mass and
+non-EBV-infected tumor cell lines. These results suggested that LMPIP may have an
+important mediator role in EBV-mediated neoplasm and may serve as a new target
+for therapy of tumors induced by EBV infection.
+
+DOI: 10.1038/onc.2011.16 
+PMID: 21317926  [Indexed for MEDLINE]
+
+
+1915. Hear Res. 2011 Jul;277(1-2):127-33. doi: 10.1016/j.heares.2011.02.001. Epub 2011 
+Feb 12.
+
+Measurement of absolute auditory thresholds in the common marmoset (Callithrix
+jacchus).
+
+Osmanski MS(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+The Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+michael.osmanski@jhu.edu
+
+The common marmoset is a small, arboreal, New World primate that has emerged as a
+promising non-human model system in auditory neuroscience. A complete
+understanding of the neuroethology of auditory processing in marmosets will
+include behavioral work examining how sounds are perceived by these animals.
+However, there have been few studies of the marmoset's hearing and perceptual
+abilities and the audiogram of this species has not been measured using modern
+psychophysical methods. The present experiment pairs psychophysics with an
+operant conditioning technique to examine perception of pure tone stimuli by
+marmosets using an active behavioral paradigm. Subjects were trained to lick at a
+feeding tube when they detected a sound. Correct responses provided access to a
+food reward. Pure tones of varying intensities were presented to subjects using
+the method of constant stimuli. Behavioral thresholds were calculated for each
+animal based on hit rate--threshold was defined by the tone intensity that the
+animal correctly identified 50% of the time. Results show that marmoset hearing
+is comparable to that of other New World monkeys, with a hearing range extending 
+from about 125 Hz up to 36 kHz and a sensitivity peak around 7 kHz.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.heares.2011.02.001 
+PMCID: PMC3123402
+PMID: 21303689  [Indexed for MEDLINE]
+

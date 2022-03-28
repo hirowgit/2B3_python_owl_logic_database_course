@@ -1,0 +1,107 @@
+
+
+1059. Neuron. 2016 Apr 20;90(2):219-33. doi: 10.1016/j.neuron.2016.03.018.
+
+Marmosets: A Neuroscientific Model of Human Social Behavior.
+
+Miller CT(1), Freiwald WA(2), Leopold DA(3), Mitchell JF(4), Silva AC(5), Wang
+X(6).
+
+Author information: 
+(1)Cortical Systems and Behavior Laboratory, University of California, San Diego,
+9500 Gilman Dr., La Jolla, CA 92093, USA. Electronic address:
+corymiller@ucsd.edu.
+(2)Laboratory of Neural Systems, The Rockefeller University, 1230 York Ave., New 
+York, NY 10065, USA.
+(3)Section on Cognitive Neurophysiology and Imaging, Laboratory of
+Neuropsychology, National Institute of Mental Health, National Institutes of
+Health, 6001 Executive Blvd., Bethesda, MD 20892, USA.
+(4)Department of Brain and Cognitive Sciences, University of Rochester, 358
+Meliora Hall, Rochester, NY 14627, USA.
+(5)Section on Cerebral Microcirculation, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, 6001 Executive Blvd., Bethesda, MD 20892, USA.
+(6)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, 720 Rutland Ave., Baltimore, MD
+21205, USA.
+
+The common marmoset (Callithrix jacchus) has garnered interest recently as a
+powerful model for the future of neuroscience research. Much of this excitement
+has centered on the species' reproductive biology and compatibility with gene
+editing techniques, which together have provided a path for transgenic marmosets 
+to contribute to the study of disease as well as basic brain mechanisms. In step 
+with technical advances is the need to establish experimental paradigms that
+optimally tap into the marmosets' behavioral and cognitive capacities. While
+conditioned task performance of a marmoset can compare unfavorably with rhesus
+monkey performance on conventional testing paradigms, marmosets' social behavior 
+and cognition are more similar to that of humans. For example, marmosets are
+among only a handful of primates that, like humans, routinely pair bond and care 
+cooperatively for their young. They are also notably pro-social and exhibit
+social cognitive abilities, such as imitation, that are rare outside of the Apes.
+In this Primer, we describe key facets of marmoset natural social behavior and
+demonstrate that emerging behavioral paradigms are well suited to isolate
+components of marmoset cognition that are highly relevant to humans. These
+approaches generally embrace natural behavior, which has been rare in
+conventional primate testing, and thus allow for a new consideration of neural
+mechanisms underlying primate social cognition and signaling. We anticipate that 
+through parallel technical and paradigmatic advances, marmosets will become an
+essential model of human social behavior, including its dysfunction in
+neuropsychiatric disorders.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2016.03.018 
+PMCID: PMC4840471
+PMID: 27100195  [Indexed for MEDLINE]
+
+
+1060. J Comp Neurol. 2016 Aug 1;524(11):2161-81. doi: 10.1002/cne.24023.
+
+Towards a comprehensive atlas of cortical connections in a primate brain: Mapping
+tracer injection studies of the common marmoset into a reference digital
+template.
+
+Majka P(1)(2)(3)(4), Chaplin TA(1)(2)(4)(5), Yu HH(1)(2)(4)(5), Tolpygo A(6),
+Mitra PP(4)(6), Wójcik DK(3), Rosa MG(1)(2)(4)(5).
+
+Author information: 
+(1)Neuroscience Program, Biomedicine Discovery Institute, Monash University,
+Clayton, VIC, Australia.
+(2)Department of Physiology, Monash University, Clayton, VIC, Australia.
+(3)Nencki Institute of Experimental Biology, Warsaw, Poland.
+(4)Australian Research Council Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, VIC, Australia.
+(5)Monash Vision Group, Monash University, Clayton, VIC, Australia.
+(6)Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, USA.
+
+The marmoset is an emerging animal model for large-scale attempts to understand
+primate brain connectivity, but achieving this aim requires the development and
+validation of procedures for normalization and integration of results from many
+neuroanatomical experiments. Here we describe a computational pipeline for
+coregistration of retrograde tracing data on connections of cortical areas into a
+3D marmoset brain template, generated from Nissl-stained sections. The procedure 
+results in a series of spatial transformations that are applied to the
+coordinates of labeled neurons in the different cases, bringing them into common 
+stereotaxic space. We applied this procedure to 17 injections, placed in the
+frontal lobe of nine marmosets as part of earlier studies. Visualizations of
+cortical patterns of connections revealed by these injections are supplied as
+Supplementary Materials. Comparison between the results of the automated and
+human-based processing of these cases reveals that the centers of injection sites
+can be reconstructed, on average, to within 0.6 mm of coordinates estimated by an
+experienced neuroanatomist. Moreover, cell counts obtained in different areas by 
+the automated approach are highly correlated (r = 0.83) with those obtained by an
+expert, who examined in detail histological sections for each individual. The
+present procedure enables comparison and visualization of large datasets, which
+in turn opens the way for integration and analysis of results from many animals. 
+Its versatility, including applicability to archival materials, may reduce the
+number of additional experiments required to produce the first detailed cortical 
+connectome of a primate brain. J. Comp. Neurol. 524:2161-2181, 2016. © 2016 The
+Authors The Journal of Comparative Neurology Published by Wiley Periodicals, Inc.
+
+© 2016 The Authors The Journal of Comparative Neurology Published by Wiley
+Periodicals, Inc.
+
+DOI: 10.1002/cne.24023 
+PMCID: PMC4892968
+PMID: 27099164  [Indexed for MEDLINE]
+

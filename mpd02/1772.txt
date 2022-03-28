@@ -1,0 +1,24 @@
+
+
+1772. J Med Chem. 2012 Mar 8;55(5):2469-73. doi: 10.1021/jm201711b. Epub 2012 Feb 23.
+
+Optimization of hydroxybenzothiazoles as novel potent and selective inhibitors of
+17β-HSD1.
+
+Spadaro A(1), Frotscher M, Hartmann RW.
+
+Author information: 
+(1)Pharmaceutical and Medicinal Chemistry, Saarland University, Campus C23,
+D-66123 Saarbrücken, Germany.
+
+17β-HSD1 is a novel target for the treatment of estrogen-dependent diseases, as
+it catalyzes intracellular estradiol formation. Starting from two recently
+described compounds, highly active and selective inhibitors were developed.
+Benzoyl 6 and benzamide 17 are the most selective compounds toward 17β-HSD2
+described so far. They also showed a promising profile regarding activity in
+T47-D cells, selectivity toward ERα and ERβ, inhibition of hepatic CYP enzymes,
+metabolic stability, and inhibition of marmoset 17β-HSD1 and 17β-HSD2.
+
+DOI: 10.1021/jm201711b 
+PMID: 22277094  [Indexed for MEDLINE]
+

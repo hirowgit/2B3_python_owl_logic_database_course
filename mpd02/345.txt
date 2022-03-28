@@ -1,0 +1,48 @@
+
+
+345. Eur J Neurosci. 2020 Sep;52(6):3531-3544. doi: 10.1111/ejn.14721. Epub 2020 Apr
+3.
+
+Compensatory mechanisms affect sensorimotor integration during ongoing vocal
+motor acts in marmoset monkeys.
+
+Pomberger T(1)(2), Löschner J(1), Hage SR(1)(3).
+
+Author information: 
+(1)Neurobiology of Vocal Communication, Werner Reichardt Centre for Integrative
+Neuroscience, University of Tübingen, Tübingen, Germany.
+(2)Graduate School of Neural & Behavioural Sciences - International Max Planck
+Research School, University of Tübingen, Tübingen, Germany.
+(3)Department of Otolaryngology - Head and Neck Surgery, Hearing Research Center,
+University of Tübingen, Medical Center, Tübingen, Germany.
+
+Any transmission of vocal signals faces the challenge of acoustic interferences
+such as heavy rain, wind, animal or urban sounds. Consequently, several
+mechanisms and strategies have evolved to optimize signal-to-noise ratio.
+Examples to increase detectability are the Lombard effect, an involuntary rise in
+call amplitude in response to masking ambient noise, which is often associated
+with other vocal changes such as call frequency and duration, as well as the
+animals' capability of limiting calling to periods where noise perturbation is
+absent. Previous studies revealed vocal flexibility and various audio-vocal
+integration mechanisms in marmoset monkeys. Using acoustic perturbation triggered
+by vocal behaviour, we investigated whether marmosets are capable of exhibiting
+changes in call structure when perturbing noise starts after call onset or
+whether such effects only occur if noise perturbation starts prior to call onset.
+We show that marmosets are capable of rapidly modulating call amplitude and
+frequency in response to such noise perturbation. Vocalizations swiftly increased
+call frequency after noise onset indicating a rapid effect of perturbing noise on
+vocal motor production. Call amplitudes were also affected. Interestingly,
+however, the marmosets did not exhibit the Lombard effect as previously reported 
+but decreased call intensity in response to noise. Our findings indicate that
+marmosets possess a general avoidance strategy to call in the presence of ambient
+noise and suggest that these animals are capable of counteracting a previously
+thought involuntary audio-vocal mechanism, the Lombard effect. These findings
+will pave the way to investigate the underlying audio-vocal integration
+mechanisms explaining these behaviours.
+
+© 2020 The Authors. European Journal of Neuroscience published by Federation of
+European Neuroscience Societies and John Wiley & Sons Ltd.
+
+DOI: 10.1111/ejn.14721 
+PMID: 32170972  [Indexed for MEDLINE]
+

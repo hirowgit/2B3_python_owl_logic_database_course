@@ -1,0 +1,42 @@
+
+
+1132. Cladistics. 2015 Dec;31(6):652-678. doi: 10.1111/cla.12106. Epub 2015 Jan 8.
+
+How many marmoset (Primates: Cebidae: Callitrichinae) genera are there? A
+phylogenetic analysis based on multiple morphological systems.
+
+Garbino GST(1)(2).
+
+Author information: 
+(1)IPÊ - Instituto de Pesquisas Ecológicas, C. Postal 47, 12960-000, Nazaré
+Paulista, São Paulo, Brazil.
+(2)Pós-graduação, Museu de Zoologia, Universidade de São Paulo, Avenida Nazaré
+481, 04263-000, São Paulo, SP, Brazil.
+
+The marmosets, tribe Callitrichini, are the most speciose clade in the subfamily 
+Callitrichinae, containing 21 species. However, there is no consensus among
+molecular and morphological systematists as to how many genera should be
+recognized for the group. To test the morphological support for the alternative
+generic classifications, this study presents a comprehensive phylogenetic
+analysis. It is the first such analysis to include all 21 species and employ
+continuous and discrete osteological, pelage and tegument, karyological and vocal
+characters. This dataset was combined with nucleotide sequences from two
+mitochondrial and four nuclear regions. Separate analyses showed that, among
+morphological datasets, osteological characters were best at solving
+relationships at more inclusive levels, whilst pelage characters were most
+informative at the interspecific level. This suggests the presence of different
+transformation rates for the two character sets. When a single most parsimonious 
+tree was obtained using the 83-character matrix, three main clades were
+identified, supporting the division of the marmosets into three genera:
+Callithrix, Cebuella and Mico. The total evidence analysis that included an
+additional 3481 molecular characters corroborated most of the morphology-based
+clades and also supported a three-genus classification of the marmosets. This is 
+the first morphological study to support an Amazonian marmoset clade
+(Cebuella + Mico), which is also strongly supported in exclusively molecular
+phylogenies, and to synonimize Callibella under Mico.
+
+© The Willi Hennig Society 2015.
+
+DOI: 10.1111/cla.12106 
+PMID: 34753268 
+

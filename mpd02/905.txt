@@ -1,0 +1,54 @@
+
+
+905. Neuroimage. 2018 Jan 1;164:121-130. doi: 10.1016/j.neuroimage.2017.03.005. Epub
+2017 Mar 6.
+
+Investigating the spatiotemporal characteristics of the deoxyhemoglobin-related
+and deoxyhemoglobin-unrelated functional hemodynamic response across cortical
+layers in awake marmosets.
+
+Yen CC(1), Papoti D(1), Silva AC(2).
+
+Author information: 
+(1)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD 20892, USA.
+(2)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD 20892, USA. Electronic address:
+SilvaA@ninds.nih.gov.
+
+Blood oxygenation level dependent (BOLD) functional magnetic resonance imaging
+(fMRI) has become a major tool to map neural activity. However, the
+spatiotemporal characteristics of the BOLD functional hemodynamic response across
+the cortical layers remain poorly understood. While human fMRI studies suffer
+from low spatiotemporal resolution, the use of anesthesia in animal models
+introduces confounding factors. Additionally, inflow contributions to the fMRI
+signal become non-negligible when short repetition times (TRs) are used. In the
+present work, we mapped the BOLD fMRI response to somatosensory stimulation in
+awake marmosets. To address the above technical concerns, we used a dual-echo
+gradient-recalled echo planar imaging (GR-EPI) sequence to separate the
+deoxyhemoglobin-related response (absolute T2* differences) from the
+deoxyhemoglobin-unrelated response (relative S0 changes). We employed a spatial
+saturation pulse to saturate incoming arterial spins and reduce inflow effects.
+Functional GR-EPI images were obtained from a single coronal slice with two
+different echo times (13.5 and 40.5ms) and TR=0.2s. BOLD, T2*, and S0 images were
+calculated and their functional responses were detected in both hemispheres of
+primary somatosensory cortex, from which five laminar regions (L1+2, L3, L4, L5, 
+and L6) were derived. The spatiotemporal distribution of the BOLD response across
+the cortical layers was heterogeneous, with the middle layers having the highest 
+BOLD amplitudes and shortest onset times. ΔT2* also showed a similar trend.
+However, functional S0 changes were detected only in L1+2, with a fast onset
+time. Because inflow effects were minimized, the source of S0 functional changes 
+in L1+2 could be attributed to a reduction of cerebrospinal fluid volume fraction
+due to the functional increase in cerebral blood volume and to unmodeled T2*
+changes in the extra- and intra-venous compartments. Caution should be exercised 
+when interpreting laminar BOLD fMRI changes in superficial layers as surrogates
+of underlying neural activity.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.neuroimage.2017.03.005 
+PMCID: PMC5587354
+PMID: 28274833  [Indexed for MEDLINE]
+

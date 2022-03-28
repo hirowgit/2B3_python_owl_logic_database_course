@@ -1,0 +1,107 @@
+
+
+1558. J Pharmacol Toxicol Methods. 2014 Jan-Feb;69(1):61-101. doi:
+10.1016/j.vascn.2013.05.004. Epub 2013 May 17.
+
+Preclinical QT safety assessment: cross-species comparisons and human translation
+from an industry consortium.
+
+Holzgrefe H(1), Ferber G(2), Champeroux P(3), Gill M(4), Honda M(5),
+Greiter-Wilke A(6), Baird T(7), Meyer O(8), Saulnier M(9).
+
+Author information: 
+(1)Charles River Laboratories, 6995 Longley Lane, Reno, NV 89511, USA. Electronic
+address: Henry.holzgrefe@crl.com.
+(2)Statistik Georg Ferber GmbH, Cagliostrostrasse 14, 4125 Riehen, Switzerland.
+Electronic address: Statistik.Georg.Ferber@bluewin.ch.
+(3)Centre de Recherches Biologiques, CERB, Chemin de Montifault, 18800 Baugy,
+France. Electronic address: pascal.champeroux@cerb.fr.
+(4)Bristol-Myers Squibb, Discovery Toxicology, Route 206 and Provinceline Road,
+Princeton, NJ 08543, USA. Electronic address: Michael.gill@bms.com.
+(5)Chugai Pharmaceutical Co., Ltd., Research Division, 1-135 Komakado, Gotemba,
+Shizuoka 412-8513, Japan. Electronic address: hondamsk@chugai-pharm.co.jp.
+(6)F. Hoffmann-La Roche, Ltd., Grenzacherstrasse 124, 4070 Basel, Switzerland.
+Electronic address: andrea.greiter-wilke@roche.com.
+(7)MPI Research, Inc., 54943 North Main Street, Mattawan, MI 49071, USA.
+Electronic address: Theodore.Baird@mpiresearch.com.
+(8)F. Hoffmann-La Roche, Ltd., Grenzacherstrasse 124, 4070 Basel, Switzerland.
+Electronic address: olivier-meyer@hotmail.com.
+(9)Center for Drug Evaluation and Research, Food and Drug Administration, 10903
+New Hampshire Avenue, Silver Spring, MD 20993, USA. Electronic address:
+Muriel.saulnier@fda.hhs.gov.
+
+INTRODUCTION: In vivo models have been required to demonstrate relative cardiac
+safety, but model sensitivity has not been systematically investigated.
+Cross-species and human translation of repolarization delay, assessed as QT/QTc
+prolongation, has not been compared employing common methodologies across
+multiple species and sites. Therefore, the accurate translation of repolarization
+results within and between preclinical species, and to man, remains problematic.
+METHODS: Six pharmaceutical companies entered into an informal consortium
+designed to collect high-resolution telemetered data in multiple species (dog;
+n=34, cynomolgus; n=37, minipig; n=12, marmoset; n=14, guinea pig; n=5, and man; 
+n=57). All animals received vehicle and varying doses of moxifloxacin (3-100
+mg/kg, p.o.) with telemetered ECGs (≥500 Hz) obtained for 20-24h post-dose.
+Individual probabilistic QT-RR relationships were derived for each subject. The
+rate-correction efficacies of the individual (QTca) and generic correction
+formulae (Bazett, Fridericia, and Van de Water) were objectively assessed as the 
+mean squared slopes of the QTc-RR relationships. Normalized moxifloxacin QTca
+responses (Veh Δ%/μM) were derived for 1h centered on the moxifloxacin Tmax.
+RESULTS: All QT-RR ranges demonstrated probabilistic uncertainty; slopes varied
+distinctly by species where dog and human exhibited the lowest QT
+rate-dependence, which was much steeper in the cynomolgus and guinea pig.
+Incorporating probabilistic uncertainty, the normalized QTca-moxifloxacin
+responses were similarly conserved across all species, including man.
+DISCUSSION: The current results provide the first unambiguous evidence that all
+preclinical in vivo repolarization assays, when accurately modeled and evaluated,
+yield results that are consistent with the conservation of moxifloxacin-induced
+QT prolongation across all common preclinical species. Furthermore, these
+outcomes are directly transferable across all species including man. The
+consortium results indicate that the implementation of standardized QTc data
+presentation, QTc reference cycle lengths, and rate-correction coefficients can
+markedly improve the concordance of preclinical and clinical outcomes in most
+preclinical species.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.vascn.2013.05.004 
+PMID: 23689033  [Indexed for MEDLINE]
+
+
+1559. Int J Oncol. 2013 Jul;43(1):29-38. doi: 10.3892/ijo.2013.1949. Epub 2013 May 20.
+
+ROS and ERK1/2-mediated caspase-9 activation increases XAF1 expression in
+dexamethasone-induced apoptosis of EBV-transformed B cells.
+
+Park GB(1), Choi Y, Kim YS, Lee HK, Kim D, Hur DY.
+
+Author information: 
+(1)Department of Anatomy and Research Center for Tumor Immunology, Inje
+University College of Medicine, Busan 614-735, Republic of Korea.
+
+Dexamethasone (Dex) inhibits the growth of diverse types of cancer cells and is
+utilized clinically for the therapy of hematological malignancies. In this study,
+we investigated the molecular mechanisms of Dex action in the apoptosis of
+Epstein-Barr virus (EBV)-transformed B cells. We showed that Dex inhibited the
+proliferation of EBV-transformed B cells and induced apoptosis by activating
+caspase-9, -3 and -8. While activation of caspase-9 was triggered as early as 2 h
+after Dex treatment, cleavage of caspase-8 was deferred and was found 8 h after
+the exposure. Dex-dependent activation of caspase-8 was blocked by the specific
+caspase-9 inhibitor, z-LEHD-fmk. Moreover, Dex significantly increased the
+expression of X-linked inhibitor of apoptosis (XIAP)‑associated factor 1 (XAF1)
+and induced the translocation of XAF1 into the cytosol. Cytosolic XAF1 with Puma 
+induced the translocation of Bax into mitochondria. Dex led to up-regulation of
+reactive oxygen species (ROS) generation and the phosphorylation of ERK1/2 after 
+the exposure. We speculated that ROS generation might be the first event of
+Dex-induced apoptosis because ROS inhibitor NAC abrogated ROS production and
+ERK1/2 activation, but PD98059 did not block ROS production. NAC and PD98059 also
+suppressed the translocation of XAF1, Puma and Bax into mitochondria. These
+results demonstrated that Dex-mediated activation of caspase-9 via ROS generation
+and ERK1/2 pathway activation resulted in the activation of caspase-8 and the
+increment of XAF1, thereby induced apoptosis of EBV-transformed B cells. These
+findings suggest that Dex constitutes a probable therapy for EBV-associated
+hematological malignancies.
+
+DOI: 10.3892/ijo.2013.1949 
+PMCID: PMC3742161
+PMID: 23685456  [Indexed for MEDLINE]
+

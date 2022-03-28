@@ -1,0 +1,80 @@
+
+
+3158. Vis Neurosci. 2001 Mar-Apr;18(2):209-18.
+
+Long-range interactions in the lateral geniculate nucleus of the New-World
+monkey, Callithrix jacchus.
+
+Felisberti F(1), Derrington AM.
+
+Author information: 
+(1)Applied Vision Research Centre, Department of Optometry & Visual Science, City
+University, London, UK. F.Felisberti@city.ac.uk
+
+Visual stimulation of zones extending beyond the classical receptive field can
+modulate the contrast gain of neurons in the lateral geniculate nucleus (LGN) of 
+cats, but little is known about the effect of extra-classical visual stimulation 
+on the LGN of primates. Hence, we compare the effect of long-range interactions
+in parvocellular and magnocellular LGN layers of the marmoset monkey Callithrix
+jacchus using optimal, incremental spots flashed on the classical receptive field
+either alone or simultaneously with the shift of a grating (98% contrast; 0.1
+cycles/deg) confined to a peripheral annulus (radii: 5-15 deg). The contrast
+required to drive the response halfway to saturation (c50) of most LGN neurons
+was raised by remote pattern shifts. The c50 ratio [(shift+spot)/spot] in
+OFF-center magnocellular neurons was significantly higher than in OFF-center
+parvocellular neurons. OFF-center magnocellular neurons closer to the fovea (<10 
+deg eccentricity) tended to have a higher c50 ratio than in more peripheral
+neurons. A significant drop in visual sensitivity to 25% contrast spots was
+observed during remote motion: d' fell from 1.8 to 1.4 in parvocellular neurons
+and from 2.2 to 1.7 in magnocellular neurons. Such long-range interactions
+produce a reduction in visual sensitivity by changing the gain of the geniculate 
+relay and point to an inhibitory, motion-sensitive extra-classical receptive
+field in both parvocellular and magnocellular pathways, which may be involved in 
+saccadic suppression and attentional mechanisms in early vision.
+
+DOI: 10.1017/s0952523801182064 
+PMID: 11417796  [Indexed for MEDLINE]
+
+
+3159. Endocrinology. 2001 Jul;142(7):3244-54.
+
+Angiogenesis during follicular development in the primate and its inhibition by
+treatment with truncated Flt-1-Fc (vascular endothelial growth factor Trap(A40)).
+
+Wulff C(1), Wiegand SJ, Saunders PT, Scobie GA, Fraser HM.
+
+Author information: 
+(1)Medical Research Council, Human Reproductive Sciences Unit, EH3 9ET Edinburgh,
+United Kingdom. cwulff@hrsu.mrc.ac.uk
+
+The aims of this study were to 1) quantify changes in angiogenesis during
+follicular growth in a primate model; 2) investigate the molecular regulation
+using in situ hybridization of vascular endothelial growth factor (VEGF), its
+receptor, Flt-1, the angiopoietins (Ang-1 and Ang-2), and their receptor, Tie-2; 
+3) elucidate the role of VEGF in follicular angiogenesis by blocking its action
+by treatment with a soluble truncated form of the Flt-1 receptor, (VEGF
+Trap(A40)). Changes in angiogenesis were quantified using bromodeoxyuridine to
+obtain a proliferation index, and CD31 immunocytochemistry to visualize
+endothelial cell area. Percentage of proliferating endothelial cells was
+calculated by double labeling for bromodeoxyuridine and CD31. Vascularization was
+first observed in follicles containing four granulosa cell layers. A significant 
+increase in proliferation in the thecal layer was observed from the early to late
+secondary stage, and dual staining showed that 25% of proliferating cells were of
+endothelial cell origin. VEGF messenger RNA (mRNA) was expressed in granulosa
+cells with an increase of grain density from late secondary to tertiary
+follicles. Ang-1 was weakly expressed in the theca of tertiary follicles. Ang-2
+mRNA was not detected in any follicles. The mRNA for the Flt-1 and Tie-2
+receptors was localized in endothelial cells of the theca. Unexpectedly, Tie-2
+mRNA was also found in granulosa cells of early follicular stages and its
+translation was confirmed by immunocytochemistry. VEGF trap treatment for 3 days 
+resulted in an 87% decrease of proliferation in the theca of secondary and
+tertiary follicles, a reduction in endothelial cell area and a marked decline in 
+Flt-1 mRNA expression. Granulosa cell proliferation also decreased. These results
+show that onset and establishment of the follicle vasculature takes place early
+during follicular development. The ability of VEGF trap treatment to severely
+restrict follicular angiogenesis establishes that VEGF is the major regulator of 
+this process in the primate ovary.
+
+DOI: 10.1210/endo.142.7.8258 
+PMID: 11416048  [Indexed for MEDLINE]
+

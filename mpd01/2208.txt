@@ -1,0 +1,84 @@
+
+
+2208. Radiology. 2008 Dec;249(3):855-64. doi: 10.1148/radiol.2493072141.
+
+Diffusion-tensor neuronal fiber tractography and manganese-enhanced MR imaging of
+primate visual pathway in the common marmoset: preliminary results.
+
+Yamada M(1), Momoshima S, Masutani Y, Fujiyoshi K, Abe O, Nakamura M, Aoki S,
+Tamaoki N, Okano H.
+
+Author information: 
+(1)Central Institute for Experimental Animals, Collaborating Institute for
+Graduate School of Medicine, Keio University, Tokyo, Japan. kiyusamaya@mac.com
+
+Comment in
+    Radiology. 2008 Dec;249(3):725-7.
+
+PURPOSE: To investigate whether diffusion-tensor tractography (DTT) of neuronal
+fibers is useful for delineating the configuration of the neuronal fiber
+trajectories in the primate visual pathway, including the well-developed optic
+chiasm, in comparison with tract tracing at manganese-enhanced magnetic resonance
+(MR) imaging.
+MATERIALS AND METHODS: The handling methods used for all the animals in this
+study were approved by the institutional committee for animal experiments.
+Diffusion-tensor MR imaging was performed in four healthy common marmosets, and
+in two of these animals, manganese-enhanced MR imaging tract tracing was
+performed by using a 7.0-T MR imaging unit. The visual pathways were
+quantitatively investigated in terms of the manganese distribution observed on
+the manganese-enhanced MR images. The images obtained with DTT and
+manganese-enhanced MR imaging tract tracing were qualitatively compared, and the 
+features of the visual pathway were verified through fusion of the reconstructed 
+images obtained by using these two modalities.
+RESULTS: DTT provided information regarding the neuroanatomic features of the
+marmoset visual pathway and revealed the bilateral branching patterns of the
+typical primate retinogeniculate pathways, although several incorrectly tracked
+fibers were noted. The distribution of manganese on the manganese-enhanced MR
+images revealed bilateral innervation of the retinal projections and depicted the
+layered internal structure of the lateral geniculate nuclei bilaterally,
+depending on the ocularity of each layer. These morphologic findings were
+consistent with those of previous histopathologic studies.
+CONCLUSION: The findings of this preliminary study raise the possibility that DTT
+is useful for visualizing the neuronal fiber trajectories in primate visual
+pathways.
+SUPPLEMENTAL MATERIAL:
+http://radiology.rsnajnls.org/cgi/content/full/249/3/855/DC1.
+
+RSNA, 2008
+
+DOI: 10.1148/radiol.2493072141 
+PMID: 19011185  [Indexed for MEDLINE]
+
+
+2209. Radiology. 2008 Dec;249(3):725-7. doi: 10.1148/radiol.2493081531.
+
+Does diffusion-tensor MR imaging provide accurate tracing of specific white
+matter tracts that correspond to actual anatomic and functional units in the
+central nervous system?
+
+Kim S(1), Melhem ER.
+
+Author information: 
+(1)Department of Radiology, Division of Neuroradiology, Hospital of the
+University of Pennsylvania, Dulles 2 Building, 3400 Market St Philadelphia, PA
+19104, USA.
+
+Comment on
+    Radiology. 2008 Dec;249(3):855-64.
+
+By using healthy common marmoset monkeys, Yamada et al traced the
+retinogeniculate pathways with ultra high-spatial-resolution manganese-enhanced
+magnetic resonance (MR) imaging and diffusion-tensor imaging at 7 T. Both methods
+were compared with morphologic findings described in published histopathologic
+studies. Both methods provided identical tracing of the optic nerve, optic
+chiasm, and optic tracts to the level of the lateral geniculate nucleus (LGN),
+faithfully reproducing the crossing of the nasal portion of the optic nerve at
+the level of the chiasm into the contralateral optic tract. This study strongly
+suggests that diffusion-tensor imaging, a noninvasive method that can be used in 
+human research and clinical practice, has the potential to provide accurate
+tracing of specific white matter tracts that correspond to actual anatomic and
+functional units in the central nervous system.
+
+DOI: 10.1148/radiol.2493081531 
+PMID: 19011176  [Indexed for MEDLINE]
+

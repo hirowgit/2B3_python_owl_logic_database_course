@@ -1,0 +1,75 @@
+
+
+1615. J Pharmacol Sci. 2013;121(2):131-7. Epub 2013 Jan 31.
+
+Involvement of the autonomic nervous system in diurnal variation of corrected QT 
+intervals in common marmosets.
+
+Honda M(1), Komatsu R, Isobe T, Tabo M, Ishikawa T.
+
+Author information: 
+(1)Research Division, Chugai Pharmaceutical Co., Ltd., Komakado, Gotemba City,
+Shizuoka, Japan. hondamsk@chugai-pharm.co.jp
+
+Our previous study has shown that the corrected QT (QTc) interval of the
+electrocardiogram is longer during the dark period than during the light period
+in telemetered common marmosets. In the present study, we investigated the
+involvement of sympathetic and parasympathetic nervous activities in the changes 
+of QTc interval associated with the light-dark cycle.Telemetry transmitters were 
+implanted in six common marmosets to continuously record the electrocardiogram.
+The QT intervals obtained were corrected for the RR interval by applying
+individual probabilistic QT-rate correction formulae. Power spectral analysis of 
+heart rate variability was performed to quantify each autonomic nervous function.
+Changes in QTc intervals and autonomic nervous tones were associated with the
+light-dark cycle. Parasympathetic nervous activity and QTc intervals
+significantly increased by approximately 10 ms during the dark period.Atropine, a
+muscarinic receptor antagonist, suppressed the increased parasympathetic tone and
+QTc prolongation during the dark period. In contrast, propranolol, a
+β-adrenoceptor antagonist, decreased the sympathetic activity and increased QTc
+intervals during the light period. These results suggest that the parasympathetic
+nerve functions prolong QTc intervals during the dark period, while the
+sympathetic nerve functions shorten them during the light period in common
+marmosets.
+
+DOI: 10.1254/jphs.12230fp 
+PMID: 23363785  [Indexed for MEDLINE]
+
+
+1616. PLoS One. 2013;8(1):e54667. doi: 10.1371/journal.pone.0054667. Epub 2013 Jan 15.
+
+Diversity of retinal ganglion cells identified by transient GFP transfection in
+organotypic tissue culture of adult marmoset monkey retina.
+
+Moritoh S(1), Komatsu Y, Yamamori T, Koizumi A.
+
+Author information: 
+(1)Department of Cell Physiology, National Institute for Physiological Sciences, 
+Myodaiji, Okazaki, Japan.
+
+The mammalian retina has more diversity of neurons than scientists had once
+believed in order to establish complicated vision processing. In the monkey
+retina, morphological diversity of retinal ganglion cells (RGCs) besides dominant
+midget and parasol cells has been suggested. However, characteristic subtypes of 
+RGCs in other species such as bistratified direction-selective ganglion cells
+(DSGC) have not yet been identified. Increasing interest has been shown in the
+common marmoset (Callithrix jacchus) monkey as a "super-model" of neuroscientific
+research. Here, we established organotypic tissue culture of the adult marmoset
+monkey retina with particle-mediated gene transfer of GFP to survey the
+morphological diversity of RGCs. We successfully incubated adult marmoset monkey 
+retinas for 2 to 4 days ex vivo for transient expression of GFP. We
+morphologically examined 121 RGCs out of more than 3240 GFP-transfected cells in 
+5 retinas. Among them, we identified monostratified or broadly stratified
+ganglion cells (midget, parasol, sparse, recursive, thorny, and broad thorny
+ganglion cells), and bistratified ganglion cells (recursive, large, and small
+bistratified ganglion cells [blue-ON/yellow-OFF-like]). By this survey, we also
+found a candidate for bistratified DSGC whose dendrites were well cofasciculated 
+with ChAT-positive starburst dendrites, costratified with ON and OFF ChAT bands, 
+and had honeycomb-shaped dendritic arbors morphologically similar to those in
+rabbits. Our genetic engineering method provides a new approach to future
+investigation for morphological and functional diversity of RGCs in the monkey
+retina.
+
+DOI: 10.1371/journal.pone.0054667 
+PMCID: PMC3545886
+PMID: 23336011  [Indexed for MEDLINE]
+

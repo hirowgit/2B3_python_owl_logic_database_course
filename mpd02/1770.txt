@@ -1,0 +1,41 @@
+
+
+1770. Biol Reprod. 2012 Apr 27;86(4):123. doi: 10.1095/biolreprod.111.097964. Print
+2012 Apr.
+
+ACP5 (Uteroferrin): phylogeny of an ancient and conserved gene expressed in the
+endometrium of mammals.
+
+Padua MB(1), Lynch VJ, Alvarez NV, Garthwaite MA, Golos TG, Bazer FW, Kalkunte S,
+Sharma S, Wagner GP, Hansen PJ.
+
+Author information: 
+(1)Department of Animal Sciences and DH Barron Reproductive and Perinatal Biology
+Research Program, University of Florida, Gainesville, Florida 32611-0910, USA.
+
+Type 5 acid phosphatase (ACP5; also known as tartrate-resistant acid phosphatase 
+or uteroferrin) is a metalloprotein secreted by the endometrial glandular
+epithelium of pigs, mares, sheep, and water buffalo. In this paper, we describe
+the phylogenetic distribution of endometrial expression of ACP5 and demonstrate
+that endometrial expression arose early in evolution (i.e., before divergence of 
+prototherian and therian mammals ~166 million years ago). To determine expression
+of ACP5 in the pregnant endometrium, RNA was isolated from rhesus, mouse, rat,
+dog, sheep, cow, horse, armadillo, opossum, and duck-billed platypus. Results
+from RT-PCR and RNA-Seq experiments confirmed that ACP5 is expressed in all
+species examined. ACP5 was also demonstrated immunochemically in endometrium of
+rhesus, marmoset, sheep, cow, goat, and opossum. Alignment of inferred amino acid
+sequences shows a high conservation of ACP5 throughout speciation, with
+species-specific differences most extensive in the N-terminal and C-terminal
+regions of the protein. Analysis by Selecton indicated that most of the sites in 
+ACP5 are undergoing purifying selection, and no sites undergoing positive
+selection were found. In conclusion, endometrial expression of ACP5 is a common
+feature in all orders of mammals and has been subjected to purifying selection.
+Expression of ACP5 in the uterus predates the divergence of therians and
+prototherians. ACP5 is an evolutionary conserved gene that likely exerts a common
+function important for pregnancy in mammals using a wide range of reproductive
+strategies.
+
+DOI: 10.1095/biolreprod.111.097964 
+PMCID: PMC3338662
+PMID: 22278982  [Indexed for MEDLINE]
+

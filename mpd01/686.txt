@@ -1,0 +1,112 @@
+
+
+686. Mol Hum Reprod. 2018 Aug 1;24(8):401-410. doi: 10.1093/molehr/gay025.
+
+Characterization of a non-human primate model for the study of testicular
+peritubular cells-comparison with human testicular peritubular cells.
+
+Schmid N(1), Stöckl JB(2), Flenkenthaler F(2), Dietrich KG(1), Schwarzer JU(3),
+Köhn FM(4), Drummer C(5), Fröhlich T(2), Arnold GJ(2), Behr R(5), Mayerhofer
+A(1).
+
+Author information: 
+(1)Cell Biology-Anatomy III, Biomedical Center Munich (BMC),
+Ludwig-Maximilians-Universität München, Großhaderner Strasse 9, Martinsried,
+Germany.
+(2)Laboratory for Functional Genome Analysis LAFUGA, Gene Center, LMU München,
+Fedor-Lynen-Strasse 25, Munich, Germany.
+(3)Andrology Center, Lortzingstrasse 26, Munich, Germany.
+(4)Andrologicum, Burgstrassse 7, Munich, Germany.
+(5)Platform Degenerative Diseases, German Primate Center, Kellnerweg 4,
+Göttingen, Germany.
+
+STUDY QUESTION: Are monkey testicular peritubular cells (MKTPCs) from the common 
+marmoset monkey (Callithrix jacchus) a suitable translational model for the study
+of human testicular peritubular cells (HTPCs)?
+SUMMARY ANSWER: MKTPCs can be isolated and propagated in vitro, retain
+characteristic markers for testicular peritubular cells and their proteome
+strongly (correlation coefficient of 0.78) overlaps with the proteome of HTPCs.
+WHAT IS KNOWN ALREADY: Smooth-muscle-like peritubular cells form the wall of
+seminiferous tubules, transport sperm, are immunologically active, secrete a
+plethora of factors and may contribute to the spermatogonial stem cell niche.
+Mechanistic studies are hampered by heterogeneity of human samples.
+STUDY DESIGN, SIZE, DURATION: We established a culture method for MKTPCs and
+characterized these cells from six young adult animals (2-3 years). To examine
+whether they qualify as a translational model we also examined HTPCs from seven
+men and compared the proteomes of both groups.
+PARTICIPANTS/MATERIALS, SETTING, METHODS: We used explant cultures to obtain
+MKTPCs, which express smooth muscle markers (calponin (CNN1), smooth muscle actin
+(ACTA2)), lack FSH-receptors (FSHR) and LH-receptors (LHCGR), but possess
+androgen receptors (AR). MKTPCs can be passaged at least up to eight times,
+without discernable phenotypic changes. Mass-spectrometry-based analyses of the
+MKTPC and HTPC proteomes were performed.
+MAIN RESULTS AND THE ROLE OF CHANCE: We established a method for isolation and
+cultivation of MKTPCs, and provide a comprehensive analysis of their protein
+repertoire. The results let us conclude that MKTPCs are suitable as a non-human
+primate model to study peritubular cell functions.
+LARGE SCALE DATA: List of identified proteins in MKTPCs by liquid
+chromatography-tandem mass spectrometry is accessible at the ProteomeXchange
+(identifier PXD009394).
+LIMITATIONS, REASON FOR CAUTION: This is an in vitro cellular non-human primate
+model used to provide a window into the role of these cells in the human testis.
+WIDER IMPLICATIONS OF THE FINDINGS: Previous studies with HTPCs from patients
+revealed a degree of heterogeneity, possibly due to age, lifestyle and medical
+history of the individual human donors. We anticipate that the new translational 
+model, derived from young healthy non-human primates, may allow us to circumvent 
+these issues and may lead to a better understanding of the role of peritubular
+cells.
+STUDY FUNDING AND COMPETION OF INTEREST(S): This work was supported by grants
+from the Deutsche Forschungsgemeinschaft (MA 1080/27-1; AR 362/9-1; BE 2296/8-1).
+The authors declare no competing financial interests.
+
+DOI: 10.1093/molehr/gay025 
+PMID: 29846669  [Indexed for MEDLINE]
+
+
+687. Cell Discov. 2018 May 15;4:23. doi: 10.1038/s41421-018-0020-7. eCollection 2018.
+
+Immortalized common marmoset (Callithrix jacchus) hepatic progenitor cells
+possess bipotentiality in vitro and in vivo.
+
+Guo Z(1), Jing R(1), Rao Q(1), Zhang L(2), Gao Y(2), Liu F(3), Wang X(4)(5)(6),
+Hui L(2), Yin H(1).
+
+Author information: 
+(1)1Department of Cell Biology, Tianjin Medical University, Qixiangtai Road,
+Heping District, Tianjin, 300070 China.
+(2)2State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell
+Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of
+Sciences, Shanghai, 200031 China.
+(3)3Department of Laboratory Animal, Tianjin Medical University, Tianjin, 300070 
+China.
+(4)4Key Laboratory of National Education Ministry for Mammalian Reproductive
+Biology and Biotechnology, Inner Mongolia University, Hohhot, 010021 China.
+(5)5Department of Laboratory Medicine and Pathology, Stem Cell Institute,
+University of Minnesota, Minneapolis, MN 55455 USA.
+(6)Hepatoscience Incorporation, 4062 Fabian Way, Palo Alto, CA 94303 USA.
+
+Common marmoset (Callithrix jacchus) is emerging as a clinically relevant
+nonhuman primate model for various diseases, but is hindered by the availability 
+of marmoset cell lines, which are critical for understanding the disease
+pathogenesis and drug/toxicological screening prior to animal testing. Here we
+describe the generation of immortalized marmoset hepatic progenitor cells (MHPCs)
+by lentivirus-mediated transfer of the simian virus 40 large T antigen gene in
+fetal liver polygonal cells. MHPCs proliferate indefinitely in vitro without
+chromosomal alteration and telomere shortening. These cells possess hepatic
+progenitor cell-specific gene expression profiles with potential to differentiate
+into both hepatocytic and cholangiocytic lineages in vitro and in vivo and also
+can be genetically modified. Importantly, injected MHPCs repopulated the injured 
+liver of fumarylacetoacetate hydrolase (Fah)-deficient mice with hepatocyte-like 
+cells. MHPCs also engraft as cholangiocytes into bile ducts of
+3,5-diethoxycarbonyl-1,4-dihydrocollidine (DDC)-induced bile ductular injured
+mice. MHPCs provide a tool to enable efficient derivation and genetic
+modification of both hepatocytes and cholangiocytes for use in disease modeling, 
+tissue engineering, and drug screening.
+
+DOI: 10.1038/s41421-018-0020-7 
+PMCID: PMC5951880
+PMID: 29796307 
+
+Conflict of interest statement: The authors declare that they have no conflict of
+interest.
+

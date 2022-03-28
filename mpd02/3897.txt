@@ -1,0 +1,25 @@
+
+
+3897. Genomics. 1995 Jun 10;27(3):535-8.
+
+Sequence and evolution of the blue cone pigment gene in Old and New World
+primates.
+
+Hunt DM(1), Cowing JA, Patel R, Appukuttan B, Bowmaker JK, Mollon JD.
+
+Author information: 
+(1)Department of Molecular Genetics, University of London, United Kingdom.
+
+The sequences of the blue cone photopigments in the talapoin monkey (Miopithecus 
+talapoin), an Old World primate, and in the marmoset (Callithrix jacchus), a New 
+World monkey, are presented. Both genes are composed of 5 exons separated by 4
+introns. In this respect, they are identical to the human blue gene, and intron
+sizes are also similar. Based on the level of amino acid identity, both monkey
+pigments are members of the S branch of pigments. Alignment of these sequences
+with the human gene requires the insertion/deletion of two separate codons in
+exon 1. The silent site divergence between these primate blue genes indicates a
+separation of the Old and New World primate lineages around 43 million years ago.
+
+DOI: 10.1006/geno.1995.1088 
+PMID: 7558038  [Indexed for MEDLINE]
+

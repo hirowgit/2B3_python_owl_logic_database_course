@@ -1,0 +1,71 @@
+
+
+3856. J Clin Invest. 1995 Dec;96(6):2966-74.
+
+Antibody facilitation of multiple sclerosis-like lesions in a nonhuman primate.
+
+Genain CP(1), Nguyen MH, Letvin NL, Pearl R, Davis RL, Adelman M, Lees MB,
+Linington C, Hauser SL.
+
+Author information: 
+(1)Department of Neurology, University of California, San Francisco 94143, USA.
+
+In the human disease multiple sclerosis (MS), the immune mechanisms responsible
+for selective destruction of central nervous system myelin are unknown. In the
+common marmoset Callithrix jacchus, a unique demyelinating form of experimental
+allergic encephalomyelitis resembling MS can be induced by immunization with
+whole myelin. Here we show that the MS-like lesion can be reproduced by
+immunization against the extracellular domain of a single myelin protein,
+myelin/oligodendrocyte glycoprotein (MOG). By contrast, immunization against the 
+quantitatively major myelin proteins myelin basic protein or proteolipid protein 
+results in inflammation but little or no demyelination. Furthermore, in the
+presence of encephalitogenic (e.g., disease-inducing) T cells, the fully
+demyelinated lesion is reconstructed by systemic administration of IgG purified
+from whole myelin-, or MOG-immunized animals, and equally by a monoclonal
+antibody against MOG, but not by control IgG. Encephalitogenic T cells may
+contribute to the MS-like lesion through disruption of the blood-brain barrier
+that permits access of demyelinating antibody into the nervous system. The
+identification of MOG as a major target antigen for autoimmune demyelination in a
+nonhuman primate should facilitate development of specific immunotherapies for
+human MS.
+
+DOI: 10.1172/JCI118368 
+PMCID: PMC186008
+PMID: 8675668  [Indexed for MEDLINE]
+
+
+3857. J Neurosci. 1995 Dec;15(12):7892-904.
+
+Visual responses in the lateral geniculate nucleus of dichromatic and
+trichromatic marmosets (Callithrix jacchus).
+
+Yeh T(1), Lee BB, Kremers J, Cowing JA, Hunt DM, Martin PR, Troy JB.
+
+Author information: 
+(1)Department of Neurobiology, Max Planck Institute for Biophysical Chemistry,
+Göttingen, Germany.
+
+New-world primates such as the marmoset (Callithrix jacchus) show polymorphism
+for the middle- to long-wavelength sensitive cone pigments. Each X-chromosome
+carries a gene for only one of three possible pigments. All males are thus
+dichromats, but some females will be trichromats. We have investigated the
+responses of cells of the parvocellular (PC) and magnocellular (MC) systems
+within animals from a single marmoset family. The middle- to long-wavelength
+pigment of dichromats was identified physiologically. Trichromats could readily
+be distinguished from dichromats by the presence of a high proportion of
+red-green opponent PC-cells. The physiological classification of phenotypes was
+confirmed with genetic analysis. The pattern of inheritance was consistent with
+current genetic models. In trichromatic females, the properties of cells
+resembled in detail those of cells from the PC- and MC-pathways of the macaque.
+In dichromats, cell responses resembled those of trichromats (except for the lack
+of opponency in PC-cells); PC-cells showed sustained and MC-cells transient
+responses, with a lower contrast gain for the former type. One difference was
+that a proportion of PC-cells in dichromats showed strong rod input even at high 
+levels of retinal illuminance. Thus, in trichromatic marmosets the presence of
+two middle- to long-wave pigments appears to permit the elaboration of all the
+physiological properties associated with trichromacy.
+
+
+PMCID: PMC6577942
+PMID: 8613728  [Indexed for MEDLINE]
+

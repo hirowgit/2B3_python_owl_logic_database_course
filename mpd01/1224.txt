@@ -1,0 +1,87 @@
+
+
+1224. Neuroscience. 2015 Aug 6;300:585-92. doi: 10.1016/j.neuroscience.2015.05.041.
+Epub 2015 May 23.
+
+Voxel-based morphometry of the marmoset brain: In vivo detection of volume loss
+in the substantia nigra of the MPTP-treated Parkinson's disease model.
+
+Hikishima K(1), Ando K(2), Komaki Y(1), Kawai K(2), Yano R(3), Inoue T(2), Itoh
+T(2), Yamada M(4), Momoshima S(5), Okano HJ(6), Okano H(7).
+
+Author information: 
+(1)Department of Physiology, Keio University School of Medicine, Tokyo, Japan;
+Central Institute for Experimental Animals, Kawasaki, Japan.
+(2)Central Institute for Experimental Animals, Kawasaki, Japan.
+(3)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+(4)Faculty of Radiological Technology, Fujita Health University School of Health 
+Sciences, Toyoake, Japan.
+(5)Department of Diagnostic Radiology, Keio University School of Medicine, Tokyo,
+Japan.
+(6)Division of Regenerative Medicine, Jikei University School of Medicine, Tokyo,
+Japan.
+(7)Department of Physiology, Keio University School of Medicine, Tokyo, Japan;
+Laboratory for Marmoset Neural Architecture, Brain Science Institute RIKEN, Wako,
+Japan. Electronic address: hidokano@a2.keio.jp.
+
+Movement dysfunction in Parkinson's disease (PD) is caused by the degeneration of
+dopaminergic (DA) neurons in the substantia nigra (SN). Here, we established a
+method for voxel-based morphometry (VBM) and automatic tissue segmentation of the
+marmoset monkey brain using a 7-T animal scanner and applied the method to assess
+DA degeneration in a PD model, 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(MPTP)-treated animals, with tyrosine-hydroxylase staining. The most significant 
+decreases of local tissue volume were detected in the bilateral SN of
+MPTP-treated marmoset brains (-53.0% in right and -46.5% in left) and
+corresponded with the location of DA neurodegeneration found in histology (-65.4%
+in right). In addition to the SN, the decreases were also confirmed in the locus 
+coeruleus, and lateral hypothalamus. VBM using 7-T MRI was effective in detecting
+volume loss in the SN of the PD-model marmoset. This study provides a potential
+basis for the application of VBM with ultra-high field MRI in the clinical
+diagnosis of PD. The developed method may also offer value in automatic
+whole-brain evaluation of structural changes for the marmoset monkey.
+
+Copyright © 2015 IBRO. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuroscience.2015.05.041 
+PMID: 26012491  [Indexed for MEDLINE]
+
+
+1225. Ann Clin Transl Neurol. 2015 May;2(5):581-93. doi: 10.1002/acn3.194. Epub 2015
+Mar 18.
+
+The primate autoimmune encephalomyelitis model; a bridge between mouse and man.
+
+'t Hart BA(1), van Kooyk Y(2), Geurts JJ(3), Gran B(4).
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Centre Rijswijk, The 
+Netherlands ; Department Neuroscience, University Medical Center, University of
+Groningen Groningen, The Netherlands.
+(2)Department of Cell Biology and Immunology, Free University Medical Center
+Amsterdam, The Netherlands.
+(3)Department of Anatomy and Neuroscience, Free University Medical Center
+Amsterdam, The Netherlands.
+(4)Division of Clinical Neuroscience, University of Nottingham School of Medicine
+Nottingham, United Kingdom.
+
+INTRODUCTION: Multiple sclerosis (MS) is an enigmatic autoimmune-driven
+inflammatory/demyelinating disease of the human central nervous system (CNS),
+affecting brain, spinal cord, and optic nerves. The cause of the disease is not
+known and the number of effective treatments is limited. Despite some clear
+successes, translation of immunological discoveries in the mouse experimental
+autoimmune encephalomyelitis (EAE) model into effective therapies for MS patients
+has been difficult. This translation gap between MS and its elected EAE animal
+model reflects the phylogenetic distance between humans and their experimental
+counterpart, the inbred/specific pathogen free (SPF) laboratory mouse.
+OBJECTIVE: Here, we discuss that important new insights can be obtained into the 
+mechanistic basis of the therapy paradox from the study of nonhuman primate EAE
+(NHP-EAE) models, the well-validated EAE model in common marmosets (Callithrix
+jacchus) in particular.
+INTERPRETATION: Data presented in this review demonstrate that due to a
+considerable immunological and pathological overlap with mouse EAE on one side
+and MS on the other, the NHP EAE model can help us bridge the translation gap.
+
+DOI: 10.1002/acn3.194 
+PMCID: PMC4435712
+PMID: 26000330 
+

@@ -1,0 +1,95 @@
+
+
+807. Infect Genet Evol. 2018 Sep;63:410-419. doi: 10.1016/j.meegid.2017.09.009. Epub
+2017 Sep 15.
+
+Accurate identification of Anopheles gambiae Giles trophic preferences by
+MALDI-TOF MS.
+
+Niare S(1), Tandina F(1), Davoust B(2), Doumbo O(3), Raoult D(2), Parola P(4),
+Almeras L(5).
+
+Author information: 
+(1)Aix Marseille Université, Unité de Recherche en Maladies Infectieuses et
+Tropicales Emergentes (URMITE), UM63, CNRS 7278, IRD 198 (Dakar, Sénégal), Inserm
+1095, Faculté de Médecine, 27 bd Jean Moulin, 13385 Marseille cedex 5, France;
+Malaria Research and Training Center, DEAP/FMOS, UMI 3189, University of Science,
+Techniques and Technology, Bamako, Mali.
+(2)Aix Marseille Université, Unité de Recherche en Maladies Infectieuses et
+Tropicales Emergentes (URMITE), UM63, CNRS 7278, IRD 198 (Dakar, Sénégal), Inserm
+1095, Faculté de Médecine, 27 bd Jean Moulin, 13385 Marseille cedex 5, France.
+(3)Malaria Research and Training Center, DEAP/FMOS, UMI 3189, University of
+Science, Techniques and Technology, Bamako, Mali.
+(4)Aix Marseille Université, Unité de Recherche en Maladies Infectieuses et
+Tropicales Emergentes (URMITE), UM63, CNRS 7278, IRD 198 (Dakar, Sénégal), Inserm
+1095, Faculté de Médecine, 27 bd Jean Moulin, 13385 Marseille cedex 5, France.
+Electronic address: philippe.parola@univ-amu.fr.
+(5)Aix Marseille Université, Unité de Recherche en Maladies Infectieuses et
+Tropicales Emergentes (URMITE), UM63, CNRS 7278, IRD 198 (Dakar, Sénégal), Inserm
+1095, Faculté de Médecine, 27 bd Jean Moulin, 13385 Marseille cedex 5, France;
+Unité de Parasitologie et Entomologie, Département des Maladies Infectieuses,
+Institut de Recherche Biomédicale des Armées, Marseille, France.
+
+The determination of the trophic preferences of the Anopheles gambiae Giles
+(Diptera: Culicidae) is a decisive parameter for the monitoring and the
+prevention of malaria risk transmission. Currently, arthropod blood feeding
+sources are identified using immunological or molecular biology traditional
+techniques. Despite the effectiveness of these methods, they present several
+limitations, and notably, they are time-consuming and costly techniques. A recent
+study demonstrated that MALDI-TOF MS could be a useful tool for the
+identification of blood meal origins in freshly engorged mosquitoes. However, the
+limited number of blood vertebrate species tested to date, did not allow an
+assessment of the efficiency of MALDI-TOF MS in distinguishing blood MS spectra
+among close host species, such as humans versus primates. Therefore, in the
+present study, blood from ten distinct vertebrate host species, including four
+domestic species, four wild species, and two primates, was selected to control
+the reliability of MALDI-TOF MS based identification. Host blood species-specific
+MS profiles, up to 24h post-feeding in engorged Anopheles abdomens, were
+confirmed. Blind tests underlined the high specificity of MS spectra for the
+recognition of each host species, preventing misidentification. Nevertheless, an 
+accurate analysis of the results from MS spectra queried against the MS database 
+revealed that the reliability of identification is directly linked to the
+comprehensiveness of the MS reference database. Finally, the rapidity, the
+low-cost reagents, the simplicity of data analysis, and the accuracy of the tool 
+for blood origin determination, make this proteomic strategy a promising
+complementary method for the elucidation of host/vector interactions.
+
+Copyright © 2017. Published by Elsevier B.V.
+
+DOI: 10.1016/j.meegid.2017.09.009 
+PMID: 28919552  [Indexed for MEDLINE]
+
+
+808. Virology. 2017 Dec;512:48-55. doi: 10.1016/j.virol.2017.08.037. Epub 2017 Sep 13.
+
+Hepatic immunopathology during occult hepacivirus re-infection.
+
+Manickam C(1), Martinot AJ(1), Jones RA(1), Varner V(1), Reeves RK(2).
+
+Author information: 
+(1)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, MA, USA.
+(2)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, MA, USA. Electronic address: rreeves@bidmc.harvard.edu.
+
+Despite drug advances for Hepatitis C virus (HCV), re-infections remain prevalent
+in high-risk populations. Unfortunately, the role of preexisting viral immunity
+and how it modulates re-infection is unclear. GBV-B infection of common marmosets
+is a useful model to study tissue immune responses in hepacivirus infections, and
+in this study we re-challenged 4 animals after clearance of primary viremia.
+Although only low-to-absent viremia was observed following re-challenge, GBV-B
+viral RNA was detectable in liver, confirming re-infection. Microscopic hepatic
+lesions indicated severe-to-mild lymphocyte infiltration and fibrosis in 3 out of
+4 animals. Further, GBV-B-specific T cells were elevated in animals with
+moderate-to-severe hepatopathology, and up to 3-fold increases in myeloid
+dendritic and activated natural killer cells were observed after infection. Our
+data indicate that occult hepacivirus re-infections occur and that new liver
+pathology is possible even in the presence of anti-hepacivirus T cells and in the
+absence of high viremia.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2017.08.037 
+PMCID: PMC5653381
+PMID: 28915405  [Indexed for MEDLINE]
+

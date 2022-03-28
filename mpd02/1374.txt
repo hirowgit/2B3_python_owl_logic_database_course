@@ -1,0 +1,61 @@
+
+
+1374. PLoS Pathog. 2014 Aug 21;10(8):e1004250. doi: 10.1371/journal.ppat.1004250.
+eCollection 2014 Aug.
+
+Infection with MERS-CoV causes lethal pneumonia in the common marmoset.
+
+Falzarano D(1), de Wit E(1), Feldmann F(2), Rasmussen AL(3), Okumura A(3), Peng
+X(3), Thomas MJ(3), van Doremalen N(4), Haddock E(1), Nagy L(2), LaCasse R(2),
+Liu T(5), Zhu J(5), McLellan JS(6), Scott DP(2), Katze MG(3), Feldmann H(7),
+Munster VJ(4).
+
+Author information: 
+(1)Disease Modeling and Transmission, Laboratory of Virology, Division of
+Intramural Research, National Institute of Allergy and Infectious Diseases,
+National Institutes of Health, Rocky Mountain Laboratories, Hamilton, Montana,
+United States of America.
+(2)Rocky Mountain Veterinary Branch, Division of Intramural Research, National
+Institute of Allergy and Infectious Diseases, National Institutes of Health,
+Rocky Mountain Laboratories, Hamilton, Montana, United States of America.
+(3)Department of Microbiology, University of Washington, Seattle, Washington,
+United States of America.
+(4)Virus Ecology Unit, Laboratory of Virology, Division of Intramural Research,
+National Institute of Allergy and Infectious Diseases, National Institutes of
+Health, Rocky Mountain Laboratories, Hamilton, Montana, United States of America.
+(5)Department of Immunology and Microbial Science, Department of Integrative
+Structural and Computational Biology, The Scripps Research Institute, La Jolla,
+California, United States of America.
+(6)Department of Biochemistry, Geisel School of Medicine at Dartmouth, Hanover,
+New Hampshire, United States of America.
+(7)Disease Modeling and Transmission, Laboratory of Virology, Division of
+Intramural Research, National Institute of Allergy and Infectious Diseases,
+National Institutes of Health, Rocky Mountain Laboratories, Hamilton, Montana,
+United States of America; Department of Medical Microbiology, University of
+Manitoba, Winnipeg, Manitoba, Canada.
+
+Erratum in
+    PLoS Pathog. 2014 Sep;10(9):e1004431.
+
+The availability of a robust disease model is essential for the development of
+countermeasures for Middle East respiratory syndrome coronavirus (MERS-CoV).
+While a rhesus macaque model of MERS-CoV has been established, the lack of
+uniform, severe disease in this model complicates the analysis of countermeasure 
+studies. Modeling of the interaction between the MERS-CoV spike glycoprotein and 
+its receptor dipeptidyl peptidase 4 predicted comparable interaction energies in 
+common marmosets and humans. The suitability of the marmoset as a MERS-CoV model 
+was tested by inoculation via combined intratracheal, intranasal, oral and ocular
+routes. Most of the marmosets developed a progressive severe pneumonia leading to
+euthanasia of some animals. Extensive lesions were evident in the lungs of all
+animals necropsied at different time points post inoculation. Some animals were
+also viremic; high viral loads were detected in the lungs of all infected
+animals, and total RNAseq demonstrated the induction of immune and inflammatory
+pathways. This is the first description of a severe, partially lethal, disease
+model of MERS-CoV, and as such will have a major impact on the ability to assess 
+the efficacy of vaccines and treatment strategies as well as allowing more
+detailed pathogenesis studies.
+
+DOI: 10.1371/journal.ppat.1004250 
+PMCID: PMC4140844
+PMID: 25144235  [Indexed for MEDLINE]
+

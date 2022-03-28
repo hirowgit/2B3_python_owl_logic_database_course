@@ -1,0 +1,98 @@
+
+
+925. Am J Primatol. 2017 May;79(5). doi: 10.1002/ajp.22638. Epub 2017 Jan 24.
+
+Total energy expenditure in captive capuchins (Sapajus apella).
+
+Edwards W(1)(2), Lonsdorf EV(3), Pontzer H(2)(4).
+
+Author information: 
+(1)Department of Biological Sciences, Ohio University, Athens, Ohio.
+(2)Department of Anthropology, Hunter College, New York, New York.
+(3)Department of Psychology, Franklin and Marshall College, Lancaster,
+Pennsylvania.
+(4)New York Consortium of Evolutionary Primatology, New York, New York.
+
+Primates have markedly lower total energy expenditure (TEE; kcal/day) than other 
+placental mammals, expending approximately 50% less energy for their mass than
+non-primate eutherians. However, little is known regarding interspecific
+variation of energy expenditure within platyrrhine primates. We investigated TEE 
+in captive tufted capuchins (Sapajus apella, n = 8, ages 7-36), a frugivorous
+platyrrhine, to compare TEE with other placental mammals and primates. We tested 
+the hypothesis that large-brained capuchins would exhibit greater TEE than other 
+platyrrhines that are less encephalized. We used the doubly labeled water (DLW)
+method to measure TEE over 7-11 days, during which physical activity data were
+recorded via focal observation. TEE was strongly correlated with fat free mass,
+but sex, age, and rates of walking and climbing were not correlated with
+variation in TEE in multivariate analyses controlling for fat free mass. We found
+evidence that daily physical activity was negatively correlated with body fat
+percentage. Capuchin TEE was similar (P = 0.67) to other, less encephalized
+platyrrhines (Callithrix and Alouatta) and 54% lower than other placental
+mammals, in analyses controlling for body mass. These results suggest that brain 
+size and physical activity do not necessarily influence variation in daily energy
+expenditure across primate species.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajp.22638 
+PMID: 28118497  [Indexed for MEDLINE]
+
+
+926. J Physiol. 2017 Jul 1;595(13):4475-4492. doi: 10.1113/JP273569. Epub 2017 Mar 10.
+
+Relationship between cortical state and spiking activity in the lateral
+geniculate nucleus of marmosets.
+
+Pietersen ANJ(1)(2), Cheong SK(1)(2), Munn B(1)(3), Gong P(1)(3), Martin
+PR(1)(2)(4), Solomon SG(1)(4)(5).
+
+Author information: 
+(1)Australian Research Council Centre of Excellence for Integrative Brain
+Function, University of Sydney, Australia.
+(2)Save Sight Institute, University of Sydney Eye Hospital Campus, Sydney,
+Australia.
+(3)School of Physics, University of Sydney, Sydney, Australia.
+(4)School of Medical Sciences, University of Sydney, Sydney, Australia.
+(5)Department of Experimental Psychology, University College London, UK.
+
+KEY POINTS: How parallel are the primate visual pathways? In the present study,
+we demonstrate that parallel visual pathways in the dorsal lateral geniculate
+nucleus (LGN) show distinct patterns of interaction with rhythmic activity in the
+primary visual cortex (V1). In the V1 of anaesthetized marmosets, the EEG
+frequency spectrum undergoes transient changes that are characterized by
+fluctuations in delta-band EEG power. We show that, on multisecond timescales,
+spiking activity in an evolutionary primitive (koniocellular) LGN pathway is
+specifically linked to these slow EEG spectrum changes. By contrast, on subsecond
+(delta frequency) timescales, cortical oscillations can entrain spiking activity 
+throughout the entire LGN. Our results are consistent with the hypothesis that,
+in waking animals, the koniocellular pathway selectively participates in brain
+circuits controlling vigilance and attention.
+ABSTRACT: The major afferent cortical pathway in the visual system passes through
+the dorsal lateral geniculate nucleus (LGN), where nerve signals originating in
+the eye can first interact with brain circuits regulating visual processing,
+vigilance and attention. In the present study, we investigated how ongoing and
+visually driven activity in magnocellular (M), parvocellular (P) and
+koniocellular (K) layers of the LGN are related to cortical state. We recorded
+extracellular spiking activity in the LGN simultaneously with local field
+potentials (LFP) in primary visual cortex, in sufentanil-anaesthetized marmoset
+monkeys. We found that asynchronous cortical states (marked by low power in
+delta-band LFPs) are linked to high spike rates in K cells (but not P cells or M 
+cells), on multisecond timescales. Cortical asynchrony precedes the increases in 
+K cell spike rates by 1-3 s, implying causality. At subsecond timescales, the
+spiking activity in many cells of all (M, P and K) classes is phase-locked to
+delta waves in the cortical LFP, and more cells are phase-locked during
+synchronous cortical states than during asynchronous cortical states. The switch 
+from low-to-high spike rates in K cells does not degrade their visual signalling 
+capacity. By contrast, during asynchronous cortical states, the fidelity of
+visual signals transmitted by K cells is improved, probably because K cell
+responses become less rectified. Overall, the data show that slow fluctuations in
+cortical state are selectively linked to K pathway spiking activity, whereas
+delta-frequency cortical oscillations entrain spiking activity throughout the
+entire LGN, in anaesthetized marmosets.
+
+© 2017 The Authors. The Journal of Physiology © 2017 The Physiological Society.
+
+DOI: 10.1113/JP273569 
+PMCID: PMC5491878
+PMID: 28116750  [Indexed for MEDLINE]
+

@@ -1,0 +1,93 @@
+
+
+1176. J Virol. 2015 Nov;89(21):10901-11. doi: 10.1128/JVI.01884-15. Epub 2015 Aug 19.
+
+Herpesvirus saimiri MicroRNAs Preferentially Target Host Cell Cycle Regulators.
+
+Guo YE(1), Oei T(1), Steitz JA(2).
+
+Author information: 
+(1)Department of Molecular Biophysics and Biochemistry, Howard Hughes Medical
+Institute, Yale School of Medicine, New Haven, Connecticut, USA.
+(2)Department of Molecular Biophysics and Biochemistry, Howard Hughes Medical
+Institute, Yale School of Medicine, New Haven, Connecticut, USA
+joan.steitz@yale.edu.
+
+In latently infected marmoset T cells, Herpesvirus saimiri (HVS) expresses six
+microRNAs (known as miR-HSURs [H. saimiri U-rich RNAs]). The viral miR-HSURs are 
+processed from chimeric primary transcripts, each containing a noncoding U-rich
+RNA (HSUR) and a pre-miRNA hairpin. To uncover the functions of miR-HSURs, we
+identified mRNA targets in infected cells using high-throughput sequencing of RNA
+isolated by cross-linking immunoprecipitation (HITS-CLIP). HITS-CLIP revealed
+hundreds of robust Argonaute (Ago) binding sites mediated by miR-HSURs that map
+to the host genome but few in the HVS genome. Gene ontology analysis showed that 
+several pathways regulating the cell cycle are enriched among cellular targets of
+miR-HSURs. Interestingly, miR-HSUR4-3p represses expression of the p300
+transcriptional coactivator by binding the open reading frame of its mRNA.
+miR-HSUR5-3p directly regulates BiP, an endoplasmic reticulum (ER)-localized
+chaperone facilitating maturation of major histocompatibility complex class I
+(MHC-I) and the antiviral response. miR-HSUR5-3p also robustly downregulates
+WEE1, a key negative regulator of cell cycle progression, leading to reduced
+phosphorylation of its substrate, cyclin-dependent kinase (Cdk1). Consistently,
+inhibition of miR-HSUR5-3p in HVS-infected cells decreases their proliferation.
+Together, our results shed light on the roles of viral miRNAs in cellular
+transformation and viral latency.IMPORTANCE: Viruses express miRNAs during
+various stages of infection, suggesting that viral miRNAs play critical roles in 
+the viral life cycle. Compared to protein-coding genes, the functions of viral
+miRNAs are not well understood. This is because it has been challenging to
+identify their mRNA targets. Here, we focused on the functions of the recently
+discovered HVS miRNAs, called miR-HSURs. HVS is an oncogenic gammaherpesvirus
+that causes acute T-cell lymphomas and leukemias in New World primates and
+transforms human T cells. A better understanding of HVS biology will help advance
+our knowledge of virus-induced oncogenesis. Because numerous cellular miRNAs play
+crucial roles in cancer, viral miRNAs from the highly oncogenic HVS might also be
+important for transformation. Here, we found that the miR-HSURs preferentially
+modulate expression of host cell cycle regulators, as well as antiviral response 
+factors. Our work provides further insight into the functions of herpesviral
+miRNAs in virus-induced oncogenesis and latency.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.01884-15 
+PMCID: PMC4621106
+PMID: 26292323  [Indexed for MEDLINE]
+
+
+1177. MAbs. 2015;7(6):1151-60. doi: 10.1080/19420862.2015.1081323. Epub 2015 Aug 18.
+
+The molecular mode of action and species specificity of canakinumab, a human
+monoclonal antibody neutralizing IL-1β.
+
+Rondeau JM(1), Ramage P(1), Zurini M(1), Gram H(1).
+
+Author information: 
+(1)a Novartis Institutes for BioMedical Research ; Basel , Switzerland.
+
+Interleukin-1β (IL-1β) plays a key role in autoinflammatory diseases, such as
+systemic juvenile idiopathic arthritis (sJIA) or cryopyrin-associated periodic
+syndrome (CAPS). Canakinumab, a human monoclonal anti-IL-1β antibody, was
+recently approved for human use under the brand name Ilaris®. Canakinumab does
+not cross-react with IL-1β from mouse, rat, rabbit, or macaques. The crystal
+structure of the canakinumab Fab bound to human IL-1β was determined in an
+attempt to rationalize the species specificity. The X-ray analysis reveals a
+complex surface epitope with an intricate network of well-ordered water molecules
+at the antibody-antigen interface. The canakinumab paratope is largely
+pre-organized, as demonstrated by the structure determination of the free Fab.
+Glu 64 of human IL-1β is a pivotal epitope residue explaining the exquisite
+species specificity of canakinumab. We identified marmoset as the only non-human 
+primate species that carries Glu 64 in its IL-1β and demonstrates full
+cross-reactivity of canakinumab, thereby enabling toxicological studies in this
+species. As demonstrated by the X-ray structure of the complex with IL-1β,
+canakinumab binds IL-1β on the opposite side with respect to the IL-1RAcP binding
+site, and in an approximately orthogonal orientation with respect to IL-1RI.
+However, the antibody and IL-1RI binding sites slightly overlap and the VH region
+of canakinumab would sterically interfere with the D1 domain of IL-1RI, as shown 
+by a structural overlay with the IL-1β:IL-1RI complex. Therefore, direct
+competition with IL-1RI for IL-1β binding is the molecular mechanism of
+neutralization by canakinumab, which is also confirmed by competition assays with
+recombinant IL-1RI and IL-1RII.
+
+DOI: 10.1080/19420862.2015.1081323 
+PMCID: PMC4966334
+PMID: 26284424  [Indexed for MEDLINE]
+

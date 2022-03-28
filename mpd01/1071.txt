@@ -1,0 +1,110 @@
+
+
+1071. Drug Metab Dispos. 2016 Jun;44(6):833-41. doi: 10.1124/dmd.116.070367. Epub 2016 
+Apr 4.
+
+A New Marmoset P450 4F12 Enzyme Expressed in Small Intestines and Livers
+Efficiently Metabolizes Antihistaminic Drug Ebastine.
+
+Uehara S(1), Uno Y(1), Yuki Y(1), Inoue T(1), Sasaki E(1), Yamazaki H(2).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., Y.Y., H.Y.); Pharmacokinetics and
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology (T.I.) and Center of
+Applied Developmental Biology (E.S.), Central Institute for Experimental Animals,
+Kawasaki, Japan; and Keio Advanced Research Center, Keio University, Minato-ku,
+Tokyo, Japan (E.S.).
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., Y.Y., H.Y.); Pharmacokinetics and
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology (T.I.) and Center of
+Applied Developmental Biology (E.S.), Central Institute for Experimental Animals,
+Kawasaki, Japan; and Keio Advanced Research Center, Keio University, Minato-ku,
+Tokyo, Japan (E.S.) hyamazak@ac.shoyaku.ac.jp.
+
+Common marmosets (Callithrix jacchus) are attracting attention as animal models
+in preclinical studies for drug development. However, cytochrome P450s (P450s),
+major drug-metabolizing enzymes, have not been fully identified and characterized
+in marmosets. In this study, based on the four novel P450 4F genes found on the
+marmoset genome, we successfully isolated P450 4F2, 4F3B, 4F11, and 4F12 cDNAs in
+marmoset livers. Deduced amino acid sequences of the four marmoset P450 4F forms 
+exhibited high sequence identities (87%-93%) to the human and cynomolgus monkey
+P450 4F homologs. Marmoset P450 4F3B and 4F11 mRNAs were predominantly expressed 
+in livers, whereas marmoset P450 4F2 and 4F12 mRNAs were highly expressed in
+small intestines and livers. Four marmoset P450 4F proteins heterologously
+expressed in Escherichia coli catalyzed the ω-hydroxylation of leukotriene B4 In 
+addition, marmoset P450 4F12 effectively catalyzed the hydroxylation of
+antiallergy drug ebastine, a human P450 2J/4F probe substrate. Ebastine
+hydroxylation activities by small intestine and liver microsomes from marmosets
+and cynomolgus monkeys showed greatly higher values than those of humans.
+Ebastine hydroxylation activities by marmoset and cynomolgus monkey small
+intestine microsomes were inhibited (approximately 60%) by anti-P450 4F
+antibodies, unlike human small intestine microsomes, suggesting that contribution
+of P450 4F enzymes for ebastine hydroxylation in the small intestine might be
+different between marmosets/cynomolgus monkeys and humans. These results
+indicated that marmoset P450 4F2, 4F3B, 4F11, and 4F12 were expressed in livers
+and/or small intestines and were functional in the metabolism of endogenous and
+exogenous compounds, similar to those of cynomolgus monkeys and humans.
+
+Copyright © 2016 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/dmd.116.070367 
+PMID: 27044800  [Indexed for MEDLINE]
+
+
+1072. J Comp Neurol. 2017 Apr 15;525(6):1421-1441. doi: 10.1002/cne.24009. Epub 2016
+May 19.
+
+Topography of claustrum and insula projections to medial prefrontal and anterior 
+cingulate cortices of the common marmoset (Callithrix jacchus).
+
+Reser DH(1)(2), Majka P(1)(2)(3), Snell S(1), Chan JM(1), Watkins K(1), Worthy
+K(1), Quiroga MD(1), Rosa MG(1)(2)(4).
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, Victoria, 3800,
+Australia.
+(2)Neuroscience Program, Biomedicine Research Institute, Monash University,
+Clayton, Victoria, 3800, Australia.
+(3)Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093, 
+Warsaw, Poland.
+(4)ARC Centre of Excellence for Integrative Brain Function, Monash University
+Node, Clayton, Victoria, 3800, Australia.
+
+The claustrum has been the subject of intense research interest in recent years, 
+driven in large part by its extensive connections with various regions of the
+cerebral cortex and by hypotheses surrounding its possible role in multimodal
+sensory and/or sensory-emotional integration. Here we employed neuroanatomical
+tracers to map projections from the claustrum-insular region to the medial
+prefrontal and anterior cingulate cortex of the common marmoset (Callithrx
+jacchus). These areas were selected based on their identification as "hub" areas 
+of the default mode and cortical salience networks, respectively. Microinjections
+of fluorescent tracers, along with gold-nanoparticle-conjugated cholera toxin
+B-subunit and biotinylated dextran amine, were placed in subdivisions of the
+anterior cingulate area 24b/c and in medial prefrontal areas 32 and 32V. The
+resulting distribution of transported label showed rostral-caudal and
+dorsal-ventral topographic arrangement of claustrum connections and clear
+rostral-caudal topography of insular projections. Medial prefrontal connections
+were restricted mainly to a ventromedial strip located in the rostral half of the
+claustrum, with a second, smaller patch of cells in the caudal, ventrolateral
+portion. In contrast, injections into area 24 yielded dense, widespread
+connections from the dorsal claustrum, extending along its entire rostral-caudal 
+length. Projections from the "classical" agranular, disgranular, and granular
+insular areas were sparse or nonexistent in areas 32 and 32V, with progressively 
+increasing connections observed in more caudal tracer injections (i.e., in
+subdivisions of area 24). Transported label was observed in rostral peri-insular 
+areas orbital periallocortex, orbital proisocortex, and insular proisocortex
+following all prefrontal injections. These data provide a structural connectivity
+foundation for interpretation of functional imaging studies, which often indicate
+activity in the "anterior insula" that may arise, in part, from claustrum and/or 
+peri-insular projections to the anterior cingulate and medial prefrontal
+cortices. J. Comp. Neurol. 525:1421-1441, 2017. © 2016 Wiley Periodicals, Inc.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/cne.24009 
+PMID: 27038224  [Indexed for MEDLINE]
+

@@ -1,0 +1,50 @@
+
+
+4305. Arterioscler Thromb. 1991 Jul-Aug;11(4):1030-41.
+
+Lipoprotein(a) and apolipoprotein(a) in a New World monkey, the common marmoset
+(Callithrix jacchus). Association of variable plasma lipoprotein(a) levels with a
+single apolipoprotein(a) isoform.
+
+Guo HC(1), Michel JB, Blouquit Y, Chapman MJ.
+
+Author information: 
+(1)INSERM Unité 321, Hôpital de la Pitié, Paris, France.
+
+In an earlier report (Chapman et al, Biochemistry 1979;18:5096-5108), we
+suggested that the common marmoset may represent an important model for the study
+of human plasma lipoprotein metabolism. We now extend the interest of this monkey
+model to the study of lipoprotein(a) (Lp[a]) and apolipoprotein(a) (apo[a]).
+Density gradient ultracentrifugal fractionation of marmoset plasma revealed a
+bimodal distribution of Lp(a), with one peak of concentration occurring in
+association with very low density lipoproteins (VLDLs) and a second in the
+density range 1.040-1.080 g/ml. The dense Lp(a) subspecies displayed
+physicochemical properties (chemical composition, particle size, and
+electrophoretic mobility) that closely resembled those of its counterpart in
+humans and baboons but that were distinct from those of low density lipoprotein
+(LDL). Furthermore, the particle size of marmoset Lp(a) was invariant (31 nm)
+over the density interval 1.040-1.080 g/ml, whereas that of LDL decreased
+progressively with an increase in density (approximately 26-25.2 nm). Use of
+polyclonal and monoclonal antibodies to human apo(a) and of a polyclonal antibody
+to marmoset Lp(a) allowed immunologic identification of a single apo(a) isoform
+in the marmoset whose size was similar to that of apo B-100; apo(a) and apo B-100
+were associated in Lp(a) particles by a disulfide linkage. The total protein mass
+of apo-Lp(a) was estimated to be 800,000 or more by electrophoresis in sodium
+dodecyl sulfate-polyacrylamide-agarose gels. The amino acid compositions of
+marmoset and human apo(a) resembled each other but were distinct from those of
+the corresponding forms of apo B-100. Immunologic evidence is provided for a high
+degree of cross reactivity between apo(a) in marmosets, baboons, and humans,
+supporting the idea of the existence of a marked degree of structural homology
+between these proteins. In addition, electroimmunoblotting of marmoset apo(a) and
+marmoset plasminogen showed that these proteins shared certain epitopes in
+common, suggesting that marmoset apo(a) may possess kringle-like structural
+features. Finally, despite possession of a single apo(a) isoform, marmoset Lp(a) 
+levels varied over a 100-fold range (0.5-49 mg/dl plasma). Considered together,
+our present findings suggest that the common marmoset monkey constitutes a unique
+model in which to study the regulation of apo(a) gene expression and the
+posttranslational processing of apo(a), as well as factors that modulate the
+synthesis, intravascular metabolism, and cellular catabolism of Lp(a).
+
+DOI: 10.1161/01.atv.11.4.1030 
+PMID: 1829630  [Indexed for MEDLINE]
+

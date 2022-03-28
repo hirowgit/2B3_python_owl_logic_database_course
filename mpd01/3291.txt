@@ -1,0 +1,81 @@
+
+
+3291. J Virol. 2000 Aug;74(16):7331-7.
+
+Analysis of gene expression in a human cell line stably transduced with
+herpesvirus saimiri.
+
+Hall KT(1), Giles MS, Goodwin DJ, Calderwood MA, Carr IM, Stevenson AJ, Markham
+AF, Whitehouse A.
+
+Author information: 
+(1)Molecular Medicine Unit, University of Leeds, St. James's University Hospital,
+Leeds LS9 7TF, United Kingdom.
+
+Herpesvirus saimiri (HVS) is the prototype gamma-2 herpesvirus; it has
+significant homology to the human gammaherpesviruses Kaposi's sarcoma-associated 
+virus and Epstein-Barr virus and the murine gammaherpesvirus murine herpesvirus
+68. HVS causes a persistent asymptomatic infection in its natural host, the
+squirrel monkey. Both subgroups A and C possess the ability to immortalize common
+marmoset T lymphocytes to interleukin-2-independent proliferation. However, only 
+subgroup C is capable of transforming human, rabbit, and rhesus monkey
+lymphocytes in vitro. In addition, HVS can stably transduce a variety of human
+cell lines where the virus persists as a nonintegrating circular episome. In this
+study, we have developed a system in which the HVS DNA is stably maintained as a 
+nonintegrated circular episome in the human lung carcinoma cell line A549. Virus 
+production can be reactivated using chemical inducing agents, including
+tetradecanoyl phorbol acetate and n-butyrate, suggesting that the infection in
+human A549 cells is latent. To analyze virus gene expression in these stably
+transduced cells, Northern blot analysis was performed using a series of probes
+produced from restriction fragments spanning the entire coding region of the HVS 
+genome. This demonstrated that an adjacent set of genes containing open reading
+frames (ORFs) 71 to 73 are expressed in this stably transduced cell line.
+Moreover, these genes are transcribed as a polycistronic mRNA species produced
+from a common promoter upstream of ORF 73. This model may serve as a useful tool 
+in the further analysis of the role of ORFs 71 to 73 in gamma-2 herpesvirus
+latency.
+
+DOI: 10.1128/jvi.74.16.7331-7337.2000 
+PMCID: PMC112253
+PMID: 10906186  [Indexed for MEDLINE]
+
+
+3292. Chem Biol. 2000 Jul;7(7):493-504.
+
+Structure-based drug design: the discovery of novel nonpeptide orally active
+inhibitors of human renin.
+
+Rahuel J(1), Rasetti V, Maibaum J, Rüeger H, Göschke R, Cohen NC, Stutz S, Cumin 
+F, Fuhrer W, Wood JM, Grütter MG.
+
+Author information: 
+(1)Core Technology Area, Novartis Pharma AG, Metabolic and Cardiovascular
+Diseases, Basle, Switzerland.
+
+BACKGROUND: The aspartic proteinase renin plays an important physiological role
+in the regulation of blood pressure. It catalyses the first step in the
+conversion of angiotensinogen to the hormone angiotensin II. In the past, potent 
+peptide inhibitors of renin have been developed, but none of these compounds has 
+made it to the end of clinical trials. Our primary aim was to develop novel
+nonpeptide inhibitors. Based on the available structural information concerning
+renin-substrate interactions, we synthesized inhibitors in which the peptide
+portion was replaced by lipophilic moieties that interact with the large
+hydrophobic S1/S3-binding pocket in renin.
+RESULTS: Crystal structure analysis of renin-inhibitor complexes combined with
+computational methods were employed in the medicinal-chemistry optimisation
+process. Structure analysis revealed that the newly designed inhibitors bind as
+predicted to the S1/S3 pocket. In addition, however, these compounds interact
+with a hitherto unrecognised large, distinct, sub-pocket of the enzyme that
+extends from the S3-binding site towards the hydrophobic core of the enzyme.
+Binding to this S3(sp) sub-pocket was essential for high binding affinity. This
+unprecedented binding mode guided the drug-design process in which the mostly
+hydrophobic interactions within subsite S3(sp) were optimised.
+CONCLUSIONS: Our design approach led to compounds with high in vitro affinity and
+specificity for renin, favourable bioavailability and excellent oral efficacy in 
+lowering blood pressure in primates. These renin inhibitors are therefore
+potential therapeutic agents for the treatment of hypertension and related
+cardiovascular diseases.
+
+DOI: 10.1016/s1074-5521(00)00134-4 
+PMID: 10903938  [Indexed for MEDLINE]
+

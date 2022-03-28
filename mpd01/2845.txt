@@ -1,0 +1,68 @@
+
+
+2845. Hybrid Hybridomics. 2004 Feb;23(1):29-37.
+
+Characterization of monoclonal antibody to the Epstein-Barr virus BHRF1 protein, 
+a homologue of Bcl-2.
+
+Chou SP(1), Tsai CH, Li LY, Liu MY, Chen JY.
+
+Author information: 
+(1)National Health Research Institutes, Taipei, Taiwan, Republic of China.
+
+A monoclonal antibody (MAb), designated 3E8, was produced against the
+Epstein-Barr virus BHRF1 which is a viral homologue of the anti-apoptotic protein
+Bcl-2. The MAb recognized the BHRF1 protein in extracts from EBV-containing cell 
+lines after activation and EBV-negative cell lines transfected by the BHRF1 gene.
+Epitope mapping by Western blot analysis revealed that the antibody bound region 
+encompassing amino acid residues 28-33 of the BHRF1. In addition to
+immunoblotting, the MAb could be applied widely in detection of the BHRF1 in many
+assays, including immunofluorescence assay, immunohistochemistry, enzyme-linked
+immunosorbent assay and immunoprecipitation. Most of all, when used in
+immunoprecipitation experiments, the MAb 3E8 showed a better effect than the
+existing anti-BHRF1 MAbs since radioactive isotopes were not required to
+intensify signals of its target antigen. Based on its great use in a variety of
+immunological reactions, it is a powerful tool to elucidate the biological
+functions of BHRF1.
+
+DOI: 10.1089/153685904322772006 
+PMID: 15000846  [Indexed for MEDLINE]
+
+
+2846. Toxicol Appl Pharmacol. 2004 Mar 1;195(2):142-53.
+
+Blood burden of di(2-ethylhexyl) phthalate and its primary metabolite
+mono(2-ethylhexyl) phthalate in pregnant and nonpregnant rats and marmosets.
+
+Kessler W(1), Numtip W, Grote K, Csanády GA, Chahoud I, Filser JG.
+
+Author information: 
+(1)Institute of Toxicology, GSF National Research Center for Environment and
+Health, Ingolstädter Landstr. 1, D-85764 Neuherberg, Germany.
+
+A comparison of the dose-dependent blood burden of di(2-ethylhexyl) phthalate
+(DEHP) and mono(2-ethylhexyl) phthalate (MEHP) in pregnant and nonpregnant rats
+and marmosets is presented. Sprague-Dawley rats and marmosets were treated orally
+with 30 or 500 mg DEHP/kg per day, nonpregnant animals on 7 (rats) and 29
+(marmosets) consecutive days, pregnant animals on gestation days 14-19 (rats) and
+96-124 (marmosets). In addition, rats received a single dose of 1000 mg DEHP/kg. 
+Blood was collected up to 48 h after dosing. Concentrations of DEHP and MEHP in
+blood were determined by GC/MS. In rats, normalized areas under the
+concentration-time curves (AUCs) of DEHP were two orders of magnitude smaller
+than the normalized AUCs of the first metabolite MEHP. Metabolism of MEHP was
+saturable. Repeated DEHP treatment and pregnancy had only little influence on the
+normalized AUC of MEHP. In marmosets, most of MEHP concentration-time courses
+oscillated. Normalized AUCs of DEHP were at least one order of magnitude smaller 
+than those of MEHP. In pregnant marmosets, normalized AUCs of MEHP were similar
+to those in nonpregnant animals with the exception that at 500 mg DEHP/kg per
+day, the normalized AUCs determined on gestation days 103, 117, and 124 were
+distinctly smaller. The maximum concentrations of MEHP in blood of marmosets were
+up to 7.5 times and the normalized AUCs up to 16 times lower than in rats
+receiving the same daily oral DEHP dose per kilogram of body weight. From this
+toxicokinetic comparison, DEHP can be expected to be several times less effective
+in the offspring of marmosets than in that of rats if the blood burden by MEHP in
+dams can be regarded as a dose surrogate for the MEHP burden in their fetuses.
+
+DOI: 10.1016/j.taap.2003.11.014 
+PMID: 14998681  [Indexed for MEDLINE]
+

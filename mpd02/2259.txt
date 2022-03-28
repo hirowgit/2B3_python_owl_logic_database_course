@@ -1,0 +1,34 @@
+
+
+2259. Hear Res. 2008 Sep;243(1-2):57-68. doi: 10.1016/j.heares.2008.05.006. Epub 2008
+May 23.
+
+Distortion-product otoacoustic emissions in the common marmoset (Callithrix
+jacchus): parameter optimization.
+
+Valero MD(1), Pasanen EG, McFadden D, Ratnam R.
+
+Author information: 
+(1)University of Texas at San Antonio, Department of Biology, One UTSA Circle,
+San Antonio, TX 78249, USA.
+
+Distortion-product otoacoustic emissions (DPOAEs) were measured in a New World
+primate, the common marmoset (Callithrix jacchus). We determined the optimal
+primary-tone frequency ratio (f(2)/f(1)) to generate DPOAEs of maximal amplitude 
+between 3 and 24 kHz. The optimal f(2)/f(1), determined by varying f(2)/f(1) from
+1.02 to 1.40 using equilevel primary tones, decreased with increasing f(2)
+frequency between 3 and 17 kHz, and increased at 24 kHz. The optimal f(2)/f(1)
+ratio increased with increasing primary-tone levels from 50 to 74 dB SPL. When
+all stimulus parameters were considered, the mean optimal f(2)/f(1) was
+1.224-1.226. Additionally, we determined the effect of reducing L(2) below L(1). 
+Decreasing L(2) below L(1) by 0, 5, and 10 dB (f(2)/f(1)=1.21) minimally affected
+DPOAE strength. DPOAE levels were stronger in females than males and stronger in 
+the right ear than the left, just as in humans. This study is the first to
+measure OAEs in the marmoset, and the results indicate that the effect of varying
+the frequency ratio and primary-tone level difference on marmoset DPOAEs is
+similar to the reported effects in humans and Old World primates.
+
+DOI: 10.1016/j.heares.2008.05.006 
+PMCID: PMC2567920
+PMID: 18586424  [Indexed for MEDLINE]
+

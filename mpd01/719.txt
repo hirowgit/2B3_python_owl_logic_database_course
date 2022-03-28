@@ -1,0 +1,106 @@
+
+
+719. Anim Cogn. 2018 May;21(3):331-343. doi: 10.1007/s10071-018-1169-z. Epub 2018 Feb 
+27.
+
+Individual identity and affective valence in marmoset calls: in vivo brain
+imaging with vocal sound playback.
+
+Kato M(1)(2), Yokoyama C(3), Kawasaki A(4), Takeda C(4), Koike T(1), Onoe H(4),
+Iriki A(5)(6).
+
+Author information: 
+(1)Laboratory for Symbolic Cognitive Development, RIKEN Brain Science Institute, 
+Wako, Saitama, Japan.
+(2)Research Development Section, Research Promotion Hub, Office for Enhancing
+Institutional Capacity, Hokkaido University, Sapporo, Hokkaido, Japan.
+(3)Division of Bio-Function Dynamics Imaging, RIKEN Center for Life Science
+Technologies, Kobe, Hyogo, Japan. chihiro@riken.jp.
+(4)Division of Bio-Function Dynamics Imaging, RIKEN Center for Life Science
+Technologies, Kobe, Hyogo, Japan.
+(5)Laboratory for Symbolic Cognitive Development, RIKEN Brain Science Institute, 
+Wako, Saitama, Japan. iriki@brain.riken.jp.
+(6)RIKEN-NTU Research Centre for Human Biology, Lee Kong Chian School of
+Medicine, Nanyang Technological University, Singapore, Singapore.
+iriki@brain.riken.jp.
+
+As with humans, vocal communication is an important social tool for nonhuman
+primates. Common marmosets (Callithrix jacchus) often produce whistle-like 'phee'
+calls when they are visually separated from conspecifics. The neural processes
+specific to phee call perception, however, are largely unknown, despite the
+possibility that these processes involve social information. Here, we examined
+behavioral and whole-brain mapping evidence regarding the detection of individual
+conspecific phee calls using an audio playback procedure. Phee calls evoked sound
+exploratory responses when the caller changed, indicating that marmosets can
+discriminate between caller identities. Positron emission tomography with [18F]
+fluorodeoxyglucose revealed that perception of phee calls from a single subject
+was associated with activity in the dorsolateral prefrontal, medial prefrontal,
+orbitofrontal cortices, and the amygdala. These findings suggest that these
+regions are implicated in cognitive and affective processing of salient social
+information. However, phee calls from multiple subjects induced brain activation 
+in only some of these regions, such as the dorsolateral prefrontal cortex. We
+also found distinctive brain deactivation and functional connectivity associated 
+with phee call perception depending on the caller change. According to changes in
+pupillary size, phee calls from a single subject induced a higher arousal level
+compared with those from multiple subjects. These results suggest that marmoset
+phee calls convey information about individual identity and affective valence
+depending on the consistency or variability of the caller. Based on the flexible 
+perception of the call based on individual recognition, humans and marmosets may 
+share some neural mechanisms underlying conspecific vocal perception.
+
+DOI: 10.1007/s10071-018-1169-z 
+PMCID: PMC5908821
+PMID: 29488110  [Indexed for MEDLINE]
+
+
+720. Curr Biol. 2018 Mar 5;28(5):788-794.e3. doi: 10.1016/j.cub.2018.01.070. Epub 2018
+Feb 22.
+
+Precise Motor Control Enables Rapid Flexibility in Vocal Behavior of Marmoset
+Monkeys.
+
+Pomberger T(1), Risueno-Segovia C(1), Löschner J(2), Hage SR(3).
+
+Author information: 
+(1)Neurobiology of Vocal Communication, Werner Reichardt Centre for Integrative
+Neuroscience, University of Tübingen, Otfried-Müller-Str. 25, 72076 Tübingen,
+Germany; Graduate School of Neural & Behavioural Sciences - International Max
+Planck Research School, University of Tübingen, Österberg-Str. 3, 72074 Tübingen,
+Germany.
+(2)Neurobiology of Vocal Communication, Werner Reichardt Centre for Integrative
+Neuroscience, University of Tübingen, Otfried-Müller-Str. 25, 72076 Tübingen,
+Germany.
+(3)Neurobiology of Vocal Communication, Werner Reichardt Centre for Integrative
+Neuroscience, University of Tübingen, Otfried-Müller-Str. 25, 72076 Tübingen,
+Germany. Electronic address: steffen.hage@uni-tuebingen.de.
+
+Investigating the evolution of human speech is difficult and controversial
+because human speech surpasses nonhuman primate vocal communication in scope and 
+flexibility [1-3]. Monkey vocalizations have been assumed to be largely innate,
+highly affective, and stereotyped for over 50 years [4, 5]. Recently, this
+perception has dramatically changed. Current studies have revealed distinct
+learning mechanisms during vocal development [6-8] and vocal flexibility,
+allowing monkeys to cognitively control when [9, 10], where [11], and what to
+vocalize [10, 12, 13]. However, specific call features (e.g., duration,
+frequency) remain surprisingly robust and stable in adult monkeys, resulting in
+rather stereotyped and discrete call patterns [14]. Additionally, monkeys seem to
+be unable to modulate their acoustic call structure under reinforced conditions
+beyond natural constraints [15, 16]. Behavioral experiments have shown that
+monkeys can stop sequences of calls immediately after acoustic perturbation but
+cannot interrupt ongoing vocalizations, suggesting that calls consist of single
+impartible pulses [17, 18]. Using acoustic perturbation triggered by the vocal
+behavior itself and quantitative measures of resulting vocal adjustments, we show
+that marmoset monkeys are capable of producing calls with durations beyond the
+natural boundaries of their repertoire by interrupting ongoing vocalizations
+rapidly after perturbation onset. Our results indicate that marmosets are capable
+of interrupting vocalizations only at periodic time points throughout calls,
+further supported by the occurrence of periodically segmented phees. These ideas 
+overturn decades-old concepts on primate vocal pattern generation, indicating
+that vocalizations do not consist of one discrete call pattern but are built of
+many sequentially uttered units, like human speech.
+
+Copyright © 2018 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.cub.2018.01.070 
+PMID: 29478857  [Indexed for MEDLINE]
+

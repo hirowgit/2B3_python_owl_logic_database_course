@@ -1,0 +1,58 @@
+
+
+4002. Virology. 1994 Jul;202(1):16-24.
+
+Modulation of vimentin, the CD40 activation antigen and Burkitt's lymphoma
+antigen (CD77) by the Epstein-Barr virus nuclear antigen EBNA-4.
+
+Silins SL(1), Sculley TB.
+
+Author information: 
+(1)Queensland Institute of Medical Research, Bancroft Centre, Brisbane, Australia
+4029.
+
+The growth transformation of human B cells by Epstein-Barr virus (EBV) is
+controlled by the coordinate expression of 10 latent viral genes. This
+transforming capacity is believed to be fundamental to the involvement of the
+virus in human malignancies of B cell origin. EBV-negative Burkitt's lymphoma
+(dG75) clones stably expressing one of these EBV-coded antigens, EBNA-4, have
+been established using an episomal-based plasmid. EBNA-4 expression was found to 
+upregulate the cytoskeletal protein vimentin as well as surface expression of the
+activation antigen CD40. In addition, the presence of EBNA-4 resulted in
+downregulation of the Burkitt's lymphoma-associated antigen (BLA/CD77). These
+studies show for the first time that EBNA-4 modulates the expression of several
+cellular genes implicated in cell-growth transformation.
+
+DOI: 10.1006/viro.1994.1317 
+PMID: 8009829  [Indexed for MEDLINE]
+
+
+4003. J Chromatogr B Biomed Appl. 1994 Jul 1;657(1):155-61.
+
+Quantitative determination of CGP 53,437, a new HIV protease inhibitor, in plasma
+by high-performance liquid chromatography and fluorescence detection.
+
+Flesch G(1), Mann C, Boss E, Lang M, Degen PH, Dieterle W.
+
+Author information: 
+(1)Ciba-Geigy Ltd, Basle, Switzerland.
+
+A specific and sensitive liquid chromatographic assay for CGP 53,437 (I), a
+potent HIV protease inhibitor, is described. The method is based on a
+deproteinization step, followed by a liquid-liquid extraction with diisopropyl
+ether. Then a deprotection step of the primary amine and derivatization using
+fluorescamine is performed. Chromatography is achieved by isocratic elution with 
+a mobile phase of 63 mM borax buffer (pH 9)-acetonitrile (58:42, v/v). The
+flow-rate of the mobile phase is 1 ml/min. The derivatives of compound I and its 
+internal standard CGP 54,451, II, fluoresce at 480 nm on excitation at 395 nm.
+The limit of quantitation which is the lowest concentration of the analyte that
+can be measured with a coefficient of variation and a deviation from theory of
+less than 20%, was 5 nmol/l plasma. The analyte is stable for at least seven
+months in spiked human plasma samples. It is also stable after freezing and
+thawing cycles. Different human plasma sources and plasma samples from three
+different species (dog, marmoset, and rat) were tested and no interferences from 
+plasma constituents was observed.
+
+DOI: 10.1016/0378-4347(94)80082-0 
+PMID: 7952063  [Indexed for MEDLINE]
+

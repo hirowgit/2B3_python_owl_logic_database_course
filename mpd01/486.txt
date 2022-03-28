@@ -1,0 +1,103 @@
+
+
+486. ACS Infect Dis. 2019 Aug 9;5(8):1433-1445. doi: 10.1021/acsinfecdis.9b00112. Epub
+2019 Jun 11.
+
+Dual-Pharmacophore Pyrithione-Containing Cephalosporins Kill Both Replicating and
+Nonreplicating Mycobacterium tuberculosis.
+
+Lopez Quezada L(1), Li K(2), McDonald SL(2), Nguyen Q(2), Perkowski AJ(2), Pharr 
+CW(2), Gold B(1), Roberts J(1), McAulay K(3)(4), Saito K(5), Somersan Karakaya
+S(5), Javidnia PE(5), Porras de Francisco E(6), Amieva MM(6), Dı Az SP(6),
+Mendoza Losana A(6), Zimmerman M(7), Liang HH(7), Zhang J(1), Dartois V(7), Sans 
+S(8), Lagrange S(8), Goullieux L(8), Roubert C(8), Nathan C(1), Aubé J(2).
+
+Author information: 
+(1)Department of Microbiology and Immunology , Weill Cornell Medicine , 1300 York
+Avenue , New York , New York 10065 , United States.
+(2)Division of Chemical Biology and Medicinal Chemistry, UNC Eshelman School of
+Pharmacy , University of North Carolina at Chapel Hill , 125 Mason Farm Road ,
+Chapel Hill , North Carolina 27599 , United States.
+(3)Center for Global Health , Weill Cornell Medicine , 402 East 67th Street , New
+York , New York 10065 , United States.
+(4)Les Centres GHESKIO , 33, Boulevard Harry Truman , Port-au-Prince , Haiti.
+(5)Department of Medicine , Weill Cornell Medical College , New York , New York
+10065 , United States.
+(6)Diseases of the Developing World (DDW), Tres Cantos Medicine Development
+Campus , GlaxoSmithKline , Severo Ochoa 2 , Tres Cantos , Madrid 28760 , Spain.
+(7)Public Health Research Institute, New Jersey Medical School , Rutgers, the
+State University of New Jersey , 225 Warren Street , Newark , New Jersey 07013 , 
+United States.
+(8)Evotec ID (Lyon), SAS , 1541, Avenue Marcel Merieux , Marcy l'Etoile 69280 ,
+France.
+
+Erratum in
+    ACS Infect Dis. 2019 Dec 13;5(12):2175.
+
+The historical view of β-lactams as ineffective antimycobacterials has given way 
+to growing interest in the activity of this class against Mycobacterium
+tuberculosis (Mtb) in the presence of a β-lactamase inhibitor. However, most
+antimycobacterial β-lactams kill Mtb only or best when the bacilli are
+replicating. Here, a screen of 1904 β-lactams led to the identification of
+cephalosporins substituted with a pyrithione moiety at C3' that are active
+against Mtb under both replicating and nonreplicating conditions, neither
+activity requiring a β-lactamase inhibitor. Studies showed that activity against 
+nonreplicating Mtb required the in situ release of the pyrithione, independent of
+the known class A β-lactamase, BlaC. In contrast, replicating Mtb could be killed
+both by released pyrithione and by the parent β-lactam. Thus, the
+antimycobacterial activity of pyrithione-containing cephalosporins arises from
+two mechanisms that kill mycobacteria in different metabolic states.
+
+DOI: 10.1021/acsinfecdis.9b00112 
+PMCID: PMC7241432
+PMID: 31184461  [Indexed for MEDLINE]
+
+
+487. Int J Syst Evol Microbiol. 2019 Aug;69(8):2477-2485. doi: 10.1099/ijsem.0.003518.
+Epub 2019 Jun 10.
+
+Bifidobacterium jacchi sp. nov., isolated from the faeces of a baby common
+marmoset (Callithrix jacchus).
+
+Modesto M(1), Watanabe K(2)(3), Arita M(4)(5), Satti M(4), Oki K(6), Sciavilla
+P(1), Patavino C(7), Cammà C(7), Michelini S(1)(8), Sgorbati B(1)(9), Mattarelli 
+P(1).
+
+Author information: 
+(1)Department of Agricultural and Food Sciences, University of Bologna, Italy.
+(2)Department of Animal Science and Technology, National Taiwan University,
+Taipei, Taiwan, ROC.
+(3)Bioresource Collection and Research Center, Food Industry Research and
+Development Institute, Hsinchu, Taiwan, ROC.
+(4)Department of Genetics, SOKENDAI University (National Institute of Genetics), 
+Yata 1111, Mishima, Shizuoka 411-8540, Japan.
+(5)RIKEN Center for Sustainable Resource Science, 1-7-22 Suehiro, Tsurumi,
+Yokohama, Kanagawa 230-0045, Japan.
+(6)Yakult Honsha European Research Center for Microbiology ESV, Technologiepark
+94, 9052 Zwijnaarde, Belgium.
+(7)National Reference Center for Whole Genome Sequencing of microbial pathogens: 
+database and bioinformatic analysis, Istituto Zooprofilattico Sperimentale
+dell'Abruzzo e del Molise, Campo Boario, 64100, Teramo, Italy.
+(8)The Microsoft Research - University of Trento Centre for Computational and
+Systems Biology Piazza della Manifattura 1, 38068 Rovereto (TN), Italy.
+(9)School of Pharmacy, Biotechnology and Sport Science, 40100 Bologna, Italy.
+
+A novel Bifidobacterium strain, MRM 9.3T, was isolated from a faecal sample of a 
+baby common marmoset (Callithrixjacchus). Cells were Gram-stain-positive,
+non-motile, non-sporulating, non-haemolytic, facultatively anaerobic and fructose
+6-phosphate phosphoketolase-positive. Phylogenetic analyses based on 16S rRNA
+genes as well as multilocus sequences (representing hsp60, rpoB, clpC, dnaJ and
+dnaG genes) and the core genomes revealed that strain MRM 9.3T exhibited
+phylogenetic relatedness to Bifidobacterium myosotis DSM 100196T. Comparative
+analysis of 16S rRNA gene sequences confirmed the phylogenetic results showing
+the highest gene sequence identity with strain B.ifidobacterium myosotis DSM
+100196T (95.6 %). The average nucleotide identity, amino acid average identity
+and in silico DNA-DNA hybridization values between MRM 9.3T and DSM 100196T were 
+79.9, 72.1 and 28.5 %, respectively. Phenotypic and genotypic features clearly
+showed that the strain MRM 9.3T represents a novel species, for which the name
+Bifidobacterium jacchi sp. nov. is proposed. The type strain is MRM 9.3T (=DSM
+103362T =JCM 31788T).
+
+DOI: 10.1099/ijsem.0.003518 
+PMID: 31180316  [Indexed for MEDLINE]
+

@@ -1,0 +1,72 @@
+
+
+2776. Am J Phys Anthropol. 2004 Dec;125(4):343-51.
+
+New technique for studying reaction forces during primate behaviors on vertical
+substrates.
+
+Vinyard CJ(1), Schmitt D.
+
+Author information: 
+(1)Department of Biological Anthropology and Anatomy, Duke University Medical
+Center, Durham, North Carolina 27710, USA. cvinyard@neoucom.edu
+
+Recording reaction forces from primates during behaviors on vertical substrates, 
+such as leaping, climbing, or biting trees, typically requires the design and
+construction of customized recording devices or mounting commercially available
+force platforms in a vertical position. The technical difficulties imposed by
+either option have hindered in vivo research on the kinetics of primate behaviors
+on vertical substrates. We describe a simple, inexpensive apparatus for recording
+forces from primate behaviors on vertical substrates. The apparatus includes an
+instrumented beam fastened directly to a horizontal force platform and a
+surrounding vertical substrate that does not contact the instrumented beam or
+platform. The contact piece at the end of the instrumented beam is positioned
+flush with the noninstrumented vertical substrate, and reaction forces elicited
+on this instrumented section are directed to the force platform. Because most of 
+the vertical substrate is not instrumented, we can isolate and record forces from
+a single limb or jaw during a behavior. Biewener and Full ([1992] Biomechanics
+Structures and Positions: A Practical Approach; New York: Oxford University
+press, p. 45-73) gave seven criteria to consider when designing a customized
+force-recording device. Where appropriate, we tested if our apparatus met their
+criteria. The apparatus accurately records forces in three orthogonal directions,
+has low cross-talk, maintains a high frequency response, exhibits a linear
+response up to at least 200 Newtons, and displays a uniform response to a given
+force across the instrumented contact piece. Our design does not easily
+facilitate the identification of the point of force application. Therefore, joint
+moments cannot be easily calculated. This limitation, however, does not affect
+the apparatus's ability to accurately record the magnitude and direction of a
+force (as shown by other tests). We developed this apparatus to measure jaw
+forces during tree gouging in common marmosets (Callithrix jacchus), but the
+general design can be readily modified to study a variety of primate behaviors on
+vertical substrates.
+
+2004 Wiley-Liss, Inc.
+
+DOI: 10.1002/ajpa.10395 
+PMID: 15386253  [Indexed for MEDLINE]
+
+
+2777. Lancet Neurol. 2004 Oct;3(10):588-97.
+
+Modelling of multiple sclerosis: lessons learned in a non-human primate.
+
+'t Hart BA(1), Laman JD, Bauer J, Blezer E, van Kooyk Y, Hintzen RQ.
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Centre, Rijswijk,
+Netherlands. hart@bprc.nl
+
+The many, highly specific, biological therapies for immune-based diseases create 
+a need for valid preclinical animal models. The wide immunological gap between
+human beings and laboratory mouse or rat models makes many disease models in
+these species invalid. In this review, we report a non-human-primate model of
+chronic multiple sclerosis (MS)-experimental autoimmune encephalitis (EAE) in the
+common marmoset (Callithrix jacchus)-that can help bridge this wide gap. The
+genetic and immunological similarity of marmosets and human beings and the
+clinical and neuropathological similarity of the EAE model to MS provide a unique
+experimental platform for research into basic immunopathogenetic mechanisms and
+for the development of more effective treatments for MS.
+
+DOI: 10.1016/S1474-4422(04)00879-8 
+PMID: 15380155  [Indexed for MEDLINE]
+

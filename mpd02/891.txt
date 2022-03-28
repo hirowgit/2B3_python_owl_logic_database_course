@@ -1,0 +1,62 @@
+
+
+891. eNeuro. 2017 Mar 28;4(2). pii: ENEURO.0250-16.2017. doi:
+10.1523/ENEURO.0250-16.2017. eCollection 2017 Mar-Apr.
+
+Transgenic Monkey Model of the Polyglutamine Diseases Recapitulating Progressive 
+Neurological Symptoms.
+
+Tomioka I(1), Ishibashi H(1), Minakawa EN(2), Motohashi HH(1), Takayama O(1),
+Saito Y(3), Popiel HA(2), Puentes S(1), Owari K(1), Nakatani T(1), Nogami N(1),
+Yamamoto K(4), Noguchi S(5), Yonekawa T(5), Tanaka Y(3), Fujita N(1), Suzuki
+H(1), Kikuchi H(2), Aizawa S(2), Nagano S(6), Yamada D(2), Nishino I(5), Ichinohe
+N(7), Wada K(2), Kohsaka S(8), Nagai Y(2), Seki K(1).
+
+Author information: 
+(1)Department of Neurophysiology, National Institute of Neuroscience National
+Center of Neurology and Psychiatry , Tokyo 187-8502, Japan.
+(2)Department of Degenerative Neurological Diseases, National Institute of
+Neuroscience National Center of Neurology and Psychiatry , Tokyo 187-8502, Japan.
+(3)Department of Pathology and Laboratory Medicine, National Institute of
+Neuroscience National Center of Neurology and Psychiatry , Tokyo 187-8502, Japan.
+(4)Division of Laboratory Animals Resources, National Institute of Neuroscience
+National Center of Neurology and Psychiatry , Tokyo 187-8502, Japan.
+(5)Department of Neuromuscular Research, National Institute of Neuroscience
+National Center of Neurology and Psychiatry , Tokyo 187-8502, Japan.
+(6)Department of Peripheral Nervous System Research, National Institute of
+Neuroscience National Center of Neurology and Psychiatry , Tokyo 187-8502, Japan.
+(7)Department of Ultrastructural Research, National Institute of Neuroscience
+National Center of Neurology and Psychiatry , Tokyo 187-8502, Japan.
+(8)Department of Neurochemistry, National Institute of Neuroscience National
+Center of Neurology and Psychiatry , Tokyo 187-8502, Japan.
+
+Age-associated neurodegenerative diseases, such as Alzheimer's disease,
+Parkinson's disease, and the polyglutamine (polyQ) diseases, are becoming
+prevalent as a consequence of elongation of the human lifespan. Although various 
+rodent models have been developed to study and overcome these diseases, they have
+limitations in their translational research utility owing to differences from
+humans in brain structure and function and in drug metabolism. Here, we generated
+a transgenic marmoset model of the polyQ diseases, showing progressive
+neurological symptoms including motor impairment. Seven transgenic marmosets were
+produced by lentiviral introduction of the human ataxin 3 gene with 120 CAG
+repeats encoding an expanded polyQ stretch. Although all offspring showed no
+neurological symptoms at birth, three marmosets with higher transgene expression 
+developed neurological symptoms of varying degrees at 3-4 months after birth,
+followed by gradual decreases in body weight gain, spontaneous activity, and grip
+strength, indicating time-dependent disease progression. Pathological
+examinations revealed neurodegeneration and intranuclear polyQ protein inclusions
+accompanied by gliosis, which recapitulate the neuropathological features of
+polyQ disease patients. Consistent with neuronal loss in the cerebellum, brain
+MRI analyses in one living symptomatic marmoset detected enlargement of the
+fourth ventricle, which suggests cerebellar atrophy. Notably, successful germline
+transgene transmission was confirmed in the second-generation offspring derived
+from the symptomatic transgenic marmoset gamete. Because the accumulation of
+abnormal proteins is a shared pathomechanism among various neurodegenerative
+diseases, we suggest that this new marmoset model will contribute toward
+elucidating the pathomechanisms of and developing clinically applicable therapies
+for neurodegenerative diseases.
+
+DOI: 10.1523/ENEURO.0250-16.2017 
+PMCID: PMC5368386
+PMID: 28374014  [Indexed for MEDLINE]
+

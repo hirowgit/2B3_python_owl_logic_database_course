@@ -1,0 +1,72 @@
+
+
+1254. Philos Trans R Soc Lond B Biol Sci. 2015 May 19;370(1668). pii: 20140310. doi:
+10.1098/rstb.2014.0310.
+
+Brain/MINDS: brain-mapping project in Japan.
+
+Okano H(1), Miyawaki A(2), Kasai K(3).
+
+Author information: 
+(1)Laboratory for Marmoset Neural Architecture, Brain Science Institute RIKEN,
+2-1 Hirosawa, Wako, Saitama 351-0198, Japan Department of Physiology, Keio
+University School of Medicine, 35 Shinanomachi, Shinjuku, Tokyo 160-8582, Japan
+hidokano@brain.riken.jp hidokano@a2.keio.jp.
+(2)Laboratory for Cell Function Dynamics, Brain Science Institute RIKEN, 2-1
+Hirosawa, Wako, Saitama 351-0198, Japan matsushi@brain.riken.jp.
+(3)Department of Neuropsychiatry, Graduate School of Medicine, University of
+Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8655, Japan kasaik-tky@umin.net.
+
+There is an emerging interest in brain-mapping projects in countries across the
+world, including the USA, Europe, Australia and China. In 2014, Japan started a
+brain-mapping project called Brain Mapping by Integrated Neurotechnologies for
+Disease Studies (Brain/MINDS). Brain/MINDS aims to map the structure and function
+of neuronal circuits to ultimately understand the vast complexity of the human
+brain, and takes advantage of a unique non-human primate animal model, the common
+marmoset (Callithrix jacchus). In Brain/MINDS, the RIKEN Brain Science Institute 
+acts as a central institute. The objectives of Brain/MINDS can be categorized
+into the following three major subject areas: (i) structure and functional
+mapping of a non-human primate brain (the marmoset brain); (ii) development of
+innovative neurotechnologies for brain mapping; and (iii) human brain mapping;
+and clinical research. Brain/MINDS researchers are highly motivated to identify
+the neuronal circuits responsible for the phenotype of neurological and
+psychiatric disorders, and to understand the development of these devastating
+disorders through the integration of these three subject areas.
+
+DOI: 10.1098/rstb.2014.0310 
+PMCID: PMC4387516
+PMID: 25823872  [Indexed for MEDLINE]
+
+
+1255. Neurosci Res. 2015 Apr;93:116-27. doi: 10.1016/j.neures.2015.01.009. Epub 2015
+Mar 26.
+
+Current models of the marmoset brain.
+
+Hashikawa T(1), Nakatomi R(1), Iriki A(2).
+
+Author information: 
+(1)Laboratory for Symbolic Cognitive Development, RIKEN Brain Science Institute, 
+Wako, Saitama 351-0198, Japan.
+(2)Laboratory for Symbolic Cognitive Development, RIKEN Brain Science Institute, 
+Wako, Saitama 351-0198, Japan. Electronic address: iriki@brain.riken.jp.
+
+Since the availability of the common marmoset monkey as a primate model in
+neuroscience research has recently increased, much effort has been made to
+develop a reliable guide of the brain structures of this species. In this
+article, we review the development of the marmoset brain atlas and discuss a
+newly developed brain model, which was reconstructed from histological sections
+under volume-rendering technology. This kind of brain model allows virtual
+sections to be constructed on any axis, with nomenclatural annotations to
+structures in situ. This model is also applicable for the identification of
+structures revealed in magnetic resonance imaging studies. The brain model is
+accessible at the following web address:
+http://brainatlas.brain.riken.jp/marmoset/modules/xoonips/listitem.php?index_id=6
+6.
+
+Copyright © 2015 The Authors. Published by Elsevier Ireland Ltd.. All rights
+reserved.
+
+DOI: 10.1016/j.neures.2015.01.009 
+PMID: 25817023  [Indexed for MEDLINE]
+

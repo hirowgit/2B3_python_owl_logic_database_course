@@ -1,0 +1,84 @@
+
+
+3769. Virology. 1996 Aug 15;222(2):352-64.
+
+Epstein-Barr virus single-stranded DNA-binding protein: purification,
+characterization, and action on DNA synthesis by the viral DNA polymerase.
+
+Tsurumi T(1), Kobayashi A, Tamai K, Yamada H, Daikoku T, Yamashita Y, Nishiyama
+Y.
+
+Author information: 
+(1)Laboratory of Virology, Nagoya University School of Medicine, Japan.
+
+Epstein-Barr virus (EBV) BALF2 gene product is one of the essential components in
+the lytic phase of the EBV DNA replication. The BALF2 protein was purified to
+near homogeneity from the nuclear extract of B95-8 cells with virus productive
+cycle induced by chemical agents. SDS-polyacrylamide gel electrophoresis showed
+the presence of a single polypeptide with a molecular weight of 130 K, which was 
+identified as BALF2 protein by Western immunoblot analysis. On Superose 6 HR
+10/30 gel filtration the BALF2 protein eluted at a position corresponding to an
+apparent molecular mass of approximately 128 K, indicating that the BALF2 protein
+behaves as a monomer in solution. The purified BALF2 protein bound to
+single-stranded DNA preferentially over double-stranded DNA or single-stranded
+RNA. Replication of singly primed M13 single-stranded DNA by the EBV DNA
+polymerase complex in the absence of the BALF2 protein exhibited a highly
+processive mode of replication and generated full length products in addition to 
+some bands of pausing sites. Although the addition of the BALF2 protein did not
+affect the replication rate, the average chain length of the replication products
+was slightly increased with eliminating bands of pausing sites. Similar effects
+were observed with the reconstituted polymerase complex composed of the BALF5 and
+BMRF1 Pol subunits. On the other hand, in the absence of the BALF2 protein, the
+BALF5 Pol catalytic subunit alone extended the primer slightly and paused at
+specific sites on M13 ssDNA template where stable secondary structure is
+predicted. However, addition of the BALF2 protein, in contrast to the case of
+herpes simplex virus ICP8 which does not affect the overall distribution of
+length of the replication products synthesized by the HSV Pol catalytic subunit
+(Gottlieb et al., 1990, J. Virol. 64, 5976-5987), stimulated DNA synthesis and
+yielded a distribution of replication products with long lengths in addition to
+full length products. Although the BALF2 protein behaved as if it converts a low 
+processive enzyme of the EBV Pol catalytic subunit to a highly processive form
+like the BMRF1 Pol accessory subunit, challenger DNA experiments revealed that
+the EBV Pol catalytic subunit is transferred to challenger DNA even in the
+presence of the BALF2 protein. It is therefore likely that the EBV BALF2 protein 
+functions to melt out the regions of secondary structure on the single-stranded
+DNA template, thereby reducing and eliminating pausing of the EBV DNA polymerase 
+at specific sites. These properties indicate that the EBV BALF2 protein acts as a
+single-stranded DNA-binding protein during lytic phase of EBV DNA replication.
+
+DOI: 10.1006/viro.1996.0432 
+PMID: 8806519  [Indexed for MEDLINE]
+
+
+3770. Int J Androl. 1996 Aug;19(4):212-9.
+
+Expression of protamine P2 in the testis of the common marmoset and man
+visualized using non-radioactive in-situ hybridization.
+
+Saunders PT(1), Gaughan J, Saxty BA, Kerr LE, Millar MR.
+
+Author information: 
+(1)MRC Reproductive Biology Unit, Edinburgh, UK.
+
+Information on the organization of the spermatogenic cycle of the common marmoset
+(Callíthrix jacchus), a small New World primate, is limited to a single
+histological report on the differentiation of spermatids. In the present study we
+have used non-radioactive in-situ hybridization with a cRNA probe directed
+against marmoset protamine 2, on fixed sections of marmoset and human testis to
+elucidate the organization of mature germ cells within the seminiferous
+epithelium. Specificity of the probe was checked on Northern blots; mP2
+hybridized exclusively to mRNA in samples extracted from marmoset and human
+testis. In sections from human and marmoset testis, positive staining for mRNA
+was confined to round and elongating spermatids and in the human was reduced in
+samples from patients with incomplete spermatogenesis. In the human, P2 mRNA was 
+present in groups of cells consistent with the presence of more than one stage of
+the spermatogenic cycle in transverse sections of individual tubules. In the
+marmoset, P2-positive cells were detected as a continuous ring of staining in the
+majority of sections of tubules whilst in others only a group(s) of cells was
+positive. We conclude that the arrangement of the spermatogenic wave in this New 
+World primate may be intermediate between that seen in rodents (segmental) and in
+the human (helical).
+
+DOI: 10.1111/j.1365-2605.1996.tb00465.x 
+PMID: 8940659  [Indexed for MEDLINE]
+

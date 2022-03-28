@@ -1,0 +1,43 @@
+
+
+155. Cereb Cortex. 2021 Jul 29;31(9):4220-4232. doi: 10.1093/cercor/bhab080.
+
+The Brain Circuits and Dynamics of Curiosity-Driven Behavior in Naturally Curious
+Marmosets.
+
+Tian X(1)(2), Silva AC(1)(2), Liu C(1)(2)(3)(4).
+
+Author information: 
+(1)Department of Neurobiology, University of Pittsburgh Brain Institute,
+University of Pittsburgh, Pittsburgh PA 15261, USA.
+(2)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda MD 20892, USA.
+(3)Institute of Neuroscience, Center for Excellence in Brain Science and
+Intelligence Technology, Chinese Academy of Sciences, Shanghai 200031, China.
+(4)Shanghai Center for Brain Science and Brain-Inspired Intelligence Technology, 
+Shanghai 201210, China.
+
+Curiosity is a fundamental nature of animals for adapting to changing
+environments, but its underlying brain circuits and mechanisms remain poorly
+understood. One main barrier is that existing studies use rewards to train
+animals and motivate their engagement in behavioral tasks. As such, the rewards
+become significant confounders in interpreting curiosity. Here, we overcame this 
+problem by studying research-naïve and naturally curious marmosets that can
+proactively and persistently participate in a visual choice task without external
+rewards. When performing the task, the marmosets manifested a strong innate
+preference towards acquiring new information, associated with faster behavioral
+responses. Longitudinally functional magnetic resonance imaging revealed
+behavior-relevant brain states that reflected choice preferences and engaged
+several brain regions, including the cerebellum, the hippocampus, and cortical
+areas 19DI, 25, and 46D, with the cerebellum being the most prominent. These
+results unveil the essential brain circuits and dynamics underlying
+curiosity-driven activity.
+
+© The Author(s) 2021. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhab080 
+PMCID: PMC8485152 [Available on 2022-04-12]
+PMID: 33839768  [Indexed for MEDLINE]
+

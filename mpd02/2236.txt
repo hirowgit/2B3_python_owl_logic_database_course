@@ -1,0 +1,47 @@
+
+
+2236. Mol Vis. 2008 Aug 11;14:1465-79.
+
+Microarray analysis of choroid/RPE gene expression in marmoset eyes undergoing
+changes in ocular growth and refraction.
+
+Shelton L(1), Troilo D, Lerner MR, Gusev Y, Brackett DJ, Rada JS.
+
+Author information: 
+(1)Department of Cell Biology, University of Oklahoma Health Science Center, 940 
+Stanton L. Young Blvd., Oklahoma City, OK 73104, USA.
+
+PURPOSE: Visually guided ocular growth is facilitated by scleral extracellular
+matrix remodeling at the posterior pole of the eye. Coincident with scleral
+remodeling, significant changes in choroidal morphology, blood flow, and protein 
+synthesis have been shown to occur in eyes undergoing ocular growth changes. The 
+current study is designed to identify gene expression changes that may occur in
+the choroid/retinal pigment epithelium (RPE) of marmoset eyes during their
+compensation for hyperopic defocus as compared to eyes compensating for myopic
+defocus.
+METHODS: Total RNA was isolated from choroid/RPE from four common marmosets
+(Callithrix jacchus) undergoing binocular lens treatment using extended wear soft
+contact lenses of equal magnitude but opposite sign (+/-5 diopter [D]). After
+reverse transcription, cDNA was labeled and hybridized to a human oligonucleotide
+microarray and gene transcript expression profiles were determined. Real-time
+polymerase chain reaction (PCR) and western blot analysis were used to confirm
+genes and proteins of interest, respectively.
+RESULTS: Microarray analyses in choroid/RPE indicated 204 genes were
+significantly changed in minus lens-treated as compared with plus lens-treated
+eyes (p<0.05, Student's t-test). Differential choroid/RPE expression of protein
+tyrosine phosphatase, receptor type, B (PTPRB), transforming growth factor
+beta-induced (TGFBI), and basic fibroblast growth factor 2 (FGF-2) were confirmed
+by real-time PCR. TGFBIp was confirmed at the protein level by western blot
+analysis in marmoset and human cornea, choroid/RPE, and sclera.
+CONCLUSIONS: The present study demonstrated that significant gene expression
+changes occur in the marmoset choroid/RPE during visually guided ocular growth.
+The identification of novel candidate genes in choroid/RPE of marmoset eyes
+actively accelerating or decelerating their rates of ocular elongation may
+elucidate the choroidal response during the regulation of postnatal ocular growth
+and may lead to the identification of choroid/RPE signaling molecules that
+participate in scleral remodeling.
+
+
+PMCID: PMC2504533
+PMID: 18698376  [Indexed for MEDLINE]
+

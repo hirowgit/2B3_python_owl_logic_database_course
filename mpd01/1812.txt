@@ -1,0 +1,73 @@
+
+
+1812. Virology. 2011 Dec 20;421(2):184-91. doi: 10.1016/j.virol.2011.10.001. Epub 2011 
+Oct 21.
+
+Heat shock factor 1 upregulates transcription of Epstein-Barr Virus nuclear
+antigen 1 by binding to a heat shock element within the BamHI-Q promoter.
+
+Wang FW(1), Wu XR, Liu WJ, Liao YJ, Lin S, Zong YS, Zeng MS, Zeng YX, Mai SJ, Xie
+D.
+
+Author information: 
+(1)The State Key Laboratory of Oncology in South China, Cancer Center, Sun
+Yat-Sen University, Guangzhou, China.
+
+Erratum in
+    Virology. 2021 Sep;561:125.
+
+Epstein-Barr virus (EBV) nuclear antigen 1 (EBNA1) is essential for maintenance
+of the episome and establishment of latency. In this study, we observed that heat
+treatment effectively induced EBNA1 transcription in EBV-transformed B95-8 and
+human LCL cell lines. Although Cp is considered as the sole promoter used for the
+expression of EBNA1 transcripts in the lymphoblastoid cell lines, the RT-PCR
+results showed that the EBNA1 transcripts induced by heat treatment arise from
+Qp-initiated transcripts. Using bioinformatics, a high affinity and functional
+heat shock factor 1 (HSF1)-binding element within the -17/+4 oligonucleotide of
+the Qp was found, and was determined by electrophoretic mobility shift assay and 
+chromatin immunoprecipitation assay. Moreover, heat shock and exogenous HSF1
+expression induced Qp activity in reporter assays. Further, RNA
+interference-mediated HSF1 gene silencing attenuated heat-induced EBNA1
+expression in B95-8 cells. These results provide evidence that EBNA1 is a new
+target for the transcription factor HSF1.
+
+Copyright Â© 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2011.10.001 
+PMID: 22018489  [Indexed for MEDLINE]
+
+
+1813. J Neuroimmune Pharmacol. 2012 Mar;7(1):253-65. doi: 10.1007/s11481-011-9320-5.
+Epub 2011 Oct 20.
+
+Discrepant effects of human interferon-gamma on clinical and immunological
+disease parameters in a novel marmoset model for multiple sclerosis.
+
+Jagessar SA(1), Gran B, Heijmans N, Bauer J, Laman JD, 't Hart BA, Constantinescu
+CS.
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Centre, Rijswijk, The
+Netherlands.
+
+The core pathogenic process in the common marmoset model of multiple sclerosis
+(MS) is the activation of memory-like T cells specific for peptide 34 to 56
+derived from the extracellular domain of myelin/oligodendrocyte glycoprotein
+(MOG(34-56)). Immunization with MOG(34-56) in incomplete Freund's adjuvant is a
+sufficient stimulus for in vivo activation of these T cells, together with the
+induction of MS-like disease and CNS pathology. Ex vivo functional
+characteristics of MOG(34-56) specific T cells are specific cytolysis of peptide 
+pulsed target cells and high IL-17A production. To indentify possible functions
+in this new model of T helper 1 cells, which play a central pathogenic role in MS
+models induced with complete Freund's adjuvant, we tested the effect of human
+interferon-γ (IFNγ) administration during disease initiation of the disease (day 
+0-25) and around the time of disease expression (psd 56-81). The results show a
+clear modulatory effect of early IFNγ treatment on humoral and cellular
+autoimmune parameters, but no generalized mitigating effect on the disease
+course. These results argue against a prominent pathogenic role of T helper 1
+cells in this new marmoset EAE model.
+
+DOI: 10.1007/s11481-011-9320-5 
+PMCID: PMC3280389
+PMID: 22012268  [Indexed for MEDLINE]
+

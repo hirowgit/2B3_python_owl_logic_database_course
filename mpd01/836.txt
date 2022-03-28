@@ -1,0 +1,84 @@
+
+
+836. Biochim Biophys Acta Mol Basis Dis. 2018 Sep;1864(9 Pt A):2733-2741. doi:
+10.1016/j.bbadis.2017.07.008. Epub 2017 Jul 17.
+
+Non-human primates as a model for aging.
+
+Colman RJ(1).
+
+Author information: 
+(1)Department of Cell and Regenerative Biology, University of Wisconsin School of
+Medicine and Public Health, Wisconsin Institutes for Medical Research, 1111
+Highland Avenue, Madison, WI 53705, USA; Wisconsin National Primate Research
+Center, University of Wisconsin, 1220 Capitol Court, Madison, WI 53715, USA.
+Electronic address: rcolman@primate.wisc.edu.
+
+There has been, and continues to be, a dramatic shift in the human population
+towards older ages necessitating biomedical research aimed at better
+understanding the basic biology of aging and age-related diseases and
+facilitating new and improved therapeutic options. As it is not practical to
+perform the breadth of this research in humans, animal models are necessary to
+recapitulate the complexity of the aging environment. The mouse model is most
+frequently chosen for these endeavors, however, they are frequently not the most 
+appropriate model. Non-human primates, on the other hand, are more closely
+related to humans and recapitulate the human aging process and development of
+age-related diseases. Extensive aging research has been performed in the
+well-characterized rhesus macaque aging model. More recently, the common
+marmoset, a small non-human primate with a shorter lifespan, has been explored as
+a potential aging model. This model holds particular promise as an aging disease 
+model in part due to the successful creation of transgenic marmosets. Limitations
+to the use of non-human primates in aging research exist but can be mitigated
+somewhat by the existence of available resources supported by the National
+Institutes of Health. This article is part of a Special Issue entitled: Animal
+models of aging - edited by "Houtkooper Riekelt".
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbadis.2017.07.008 
+PMCID: PMC5772001
+PMID: 28729086  [Indexed for MEDLINE]
+
+
+837. Neurophotonics. 2017 Oct;4(4):041502. doi: 10.1117/1.NPh.4.4.041502. Epub 2017
+Jul 12.
+
+Utah optrode array customization using stereotactic brain atlases and 3-D CAD
+modeling for optogenetic neocortical interrogation in small rodents and nonhuman 
+primates.
+
+Boutte RW(1)(2), Merlin S(3), Yona G(4), Griffiths B(2), Angelucci A(3), Kahn
+I(4), Shoham S(4), Blair S(1).
+
+Author information: 
+(1)University of Utah, Department of Electrical and Computer Engineering, Salt
+Lake City, Utah, United States.
+(2)Northrop Grumman Corporation, Salt Lake City, Utah, United States.
+(3)University of Utah, Moran Eye Institute, Department of Ophthalmology, Salt
+Lake City, Utah, United States.
+(4)Technion-Israel Institute of Technology, Haifa, Israel.
+
+As the optogenetic field expands, the need for precise targeting of neocortical
+circuits only grows more crucial. This work demonstrates a technique for using
+Solidworks® computer-aided design (CAD) and readily available stereotactic brain 
+atlases to create a three-dimensional (3-D) model of the dorsal region of area
+visual cortex 4 (V4D) of the macaque monkey (Macaca fascicularis) visual cortex. 
+The 3-D CAD model of the brain was used to customize an [Formula: see text] Utah 
+optrode array (UOA) after it was determined that a high-density ([Formula: see
+text]) UOA caused extensive damage to marmoset (Callithrix jacchus) primary
+visual cortex as assessed by electrophysiological recording of spiking activity
+through a 1.5-mm-diameter through glass via. The [Formula: see text] UOA was
+customized for optrode length ([Formula: see text]), optrode width ([Formula: see
+text]), optrode pitch ([Formula: see text]), backplane thickness ([Formula: see
+text]), and overall form factor ([Formula: see text]). Two [Formula: see text]
+UOAs were inserted into layer VI of macaque V4D cortices with minimal damage as
+assessed in fixed tissue cytochrome oxidase staining in nonrecoverable surgeries.
+Additionally, two [Formula: see text] arrays were implanted in mice (Mus
+musculus) motor cortices, providing early evidence for long-term tolerability
+(over 6 months), and for the ability to integrate the UOA with a Holobundle light
+delivery system toward patterned optogenetic stimulation of cortical networks.
+
+DOI: 10.1117/1.NPh.4.4.041502 
+PMCID: PMC5506344
+PMID: 28721358 
+

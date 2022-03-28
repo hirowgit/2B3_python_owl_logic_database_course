@@ -1,0 +1,95 @@
+
+
+778. Gene. 2018 Feb 5;642:343-353. doi: 10.1016/j.gene.2017.11.048. Epub 2017 Nov 17.
+
+Evolution of vomeronasal receptor 1 (V1R) genes in the common marmoset
+(Callithrix jacchus).
+
+Moriya-Ito K(1), Hayakawa T(2), Suzuki H(3), Hagino-Yamagishi K(4), Nikaido M(5).
+
+Author information: 
+(1)Department of Brain Development and Neural Regeneration, Tokyo Metropolitan
+Institute of Medical Science, Tokyo 156-8506, Japan. Electronic address:
+moriya-kk@igakuken.or.jp.
+(2)Department of Wildlife Science (Nagoya Railroad Co., Ltd.), Primate Research
+Institute, Kyoto University, Inuyama, Aichi 484-8506, Japan; Japan Monkey Centre,
+Inuyama, Aichi 484-0081, Japan.
+(3)Nihon BioData Corporation, 3-2-1 Sakado, Takatsu-ku, Kawasaki, Kanagawa
+213-0012, Japan.; School of Life Science and Technology, Tokyo Institute of
+Technology, Tokyo 152-8550, Japan.
+(4)Department of Brain Development and Neural Regeneration, Tokyo Metropolitan
+Institute of Medical Science, Tokyo 156-8506, Japan.
+(5)School of Life Science and Technology, Tokyo Institute of Technology, Tokyo
+152-8550, Japan. Electronic address: mnikaido@bio.titech.ac.jp.
+
+Pheromones are crucial for eliciting innate responses and inducing social and
+sexual behaviors in mammals. The vomeronasal receptor 1 genes, V1Rs, encode
+members of a pheromone receptor family that are mainly expressed in the
+vomeronasal organ (VNO). The V1R family shows extraordinary variety in gene
+number among vertebrates owing to successive gene gains and losses during
+evolution. Such diversity is believed to reflect a degree of dependence on the
+VNO. We investigated V1R evolution in primate lineages closely related to humans 
+because these VNOs show a trend toward degeneration. We performed extensive
+phylogenetic analyses for V1Rs from a broad range of primate species. Although
+the decline of intact genes was evident in anthropoids (hominoids, Old World
+monkeys and New World monkeys), we found that a certain number of intact genes
+persist in New World monkeys. In one New World monkey species, the common
+marmoset (Callithrix jacchus), we examined seven putatively functional V1Rs using
+in situ hybridization and reverse transcription-PCR. Based on their mRNA
+expression patterns in the VNO and other organs, two types of V1Rs emerged: the
+canonical class with VNO-specific expression, and a second group having more
+ubiquitous expression in various organs as well as VNO. Furthermore, phylogenetic
+analysis revealed that the class with the more widespread expression had been
+retained longer in evolution than the VNO-specific type. We propose that the
+acquisition of a novel non-VNO-related function(s) may have led to the survival
+of a small but persistent number of V1Rs in anthropoid primates.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.gene.2017.11.048 
+PMID: 29155331  [Indexed for MEDLINE]
+
+
+779. Vet Pathol. 2018 Mar;55(2):258-267. doi: 10.1177/0300985817736113. Epub 2017 Nov 
+16.
+
+Use of Immunohistochemistry to Demonstrate In Vivo Expression of the Burkholderia
+mallei Virulence Factor BpaB During Experimental Glanders.
+
+Zimmerman SM(1), Long ME(2), Dyke JS(1), Jelesijevic TP(1), Michel F(3),
+Lafontaine ER(1), Hogan RJ(1)(3).
+
+Author information: 
+(1)1 Department of Infectious Diseases, University of Georgia College of
+Veterinary Medicine, Athens, GA, USA.
+(2)2 Veterinary Teaching Hospital, University of Georgia College of Veterinary
+Medicine, Athens, GA, USA.
+(3)3 Department of Veterinary Biosciences and Diagnostic Imaging, University of
+Georgia College of Veterinary Medicine, Athens, GA, USA.
+
+Burkholderia mallei causes the highly contagious and debilitating zoonosis
+glanders, which infects via inhalation or percutaneous inoculation and often
+culminates in life-threatening pneumonia and sepsis. In humans, glanders is
+difficult to diagnose and requires prolonged antibiotic therapy with low success 
+rates. No vaccine exists to protect against B. mallei, and there is concern
+regarding its use as a bioweapon. The authors previously identified the protein
+BpaB as a potential target for devising therapies due to its role in adherence to
+host cells and the formation of biofilms in vitro and its contribution to
+pathogenicity in a mouse model of glanders. In the present study, the authors
+developed an immunostaining approach to probe tissues of experimentally infected 
+animals and demonstrated that BpaB is produced exclusively in vivo by wild-type
+B. mallei in target organs from mice and marmosets. They detected the expression 
+of BpaB by B. mallei both extracellularly and within macrophages, neutrophils,
+and epithelial cells in respiratory tissues (7/10 marmoset; 2/2 mouse). The
+authors also noted the intracellular expression of BpaB by B. mallei in
+macrophages in the regional lymph nodes of mice (2/2 tissues) and MALT of
+marmosets (4/5 tissues). It is interesting that B. mallei bacteria infecting
+distal organs did not express BpaB (2/2 mice; 3/3 marmosets), suggesting that the
+protein is not necessary for bacterial fitness in these anatomic locations. These
+findings underscore the value of BpaB as a target for developing medical
+countermeasures and provide insight into its role in pathogenesis.
+
+DOI: 10.1177/0300985817736113 
+PMCID: PMC7063225
+PMID: 29145795  [Indexed for MEDLINE]
+

@@ -1,0 +1,97 @@
+
+
+165. Stem Cell Reports. 2021 Apr 13;16(4):754-770. doi: 10.1016/j.stemcr.2021.03.002. 
+Epub 2021 Apr 1.
+
+Non-viral Induction of Transgene-free iPSCs from Somatic Fibroblasts of Multiple 
+Mammalian Species.
+
+Yoshimatsu S(1), Nakajima M(2), Iguchi A(3), Sanosaka T(2), Sato T(2), Nakamura
+M(2), Nakajima R(4), Arai E(5), Ishikawa M(2), Imaizumi K(2), Watanabe H(2),
+Okahara J(6), Noce T(4), Takeda Y(4), Sasaki E(6), Behr R(7), Edamura K(3),
+Shiozawa S(2), Okano H(8).
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, 35
+Shinanomachi, Shinjuku-ku, Tokyo, Japan; Laboratory for Proteolytic Neuroscience,
+RIKEN Center for Brain Science, Saitama, Japan; Laboratory for Marmoset Neural
+Architecture, RIKEN Center for Brain Science, Saitama, Japan. Electronic address:
+yoshima@a7.keio.jp.
+(2)Department of Physiology, School of Medicine, Keio University, 35
+Shinanomachi, Shinjuku-ku, Tokyo, Japan.
+(3)Laboratory of Veterinary Surgery, Department of Veterinary Medicine, College
+of Bioresource Sciences, Nihon University, Kanagawa, Japan.
+(4)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan.
+(5)Department of Pathology, School of Medicine, Keio University, Tokyo, Japan.
+(6)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan; Department of Marmoset Biology and Medicine, Central Institute
+for Experimental Animals, Kanagawa, Japan.
+(7)Research Platform Degenerative Diseases, German Primate Center - Leibniz
+Institute for Primate Research, Göttingen, Germany; DZHK (German Centre for
+Cardiovascular Research), partner site Göttingen, Göttingen, Germany.
+(8)Department of Physiology, School of Medicine, Keio University, 35
+Shinanomachi, Shinjuku-ku, Tokyo, Japan; Laboratory for Marmoset Neural
+Architecture, RIKEN Center for Brain Science, Saitama, Japan. Electronic address:
+hidokano@keio.jp.
+
+Induced pluripotent stem cells (iPSCs) are capable of providing an unlimited
+source of cells from all three germ layers and germ cells. The derivation and
+usage of iPSCs from various animal models may facilitate stem cell-based therapy,
+gene-modified animal production, and evolutionary studies assessing interspecies 
+differences. However, there is a lack of species-wide methods for deriving iPSCs,
+in particular by means of non-viral and non-transgene-integrating (NTI)
+approaches. Here, we demonstrate the iPSC derivation from somatic fibroblasts of 
+multiple mammalian species from three different taxonomic orders, including the
+common marmoset (Callithrix jacchus) in Primates, the dog (Canis lupus
+familiaris) in Carnivora, and the pig (Sus scrofa) in Cetartiodactyla, by
+combinatorial usage of chemical compounds and NTI episomal vectors.
+Interestingly, the fibroblasts temporarily acquired a neural stem cell-like state
+during the reprogramming. Collectively, our method, robustly applicable to
+various species, holds a great potential for facilitating stem cell-based
+research using various animals in Mammalia.
+
+Copyright © 2021 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.stemcr.2021.03.002 
+PMCID: PMC8072067
+PMID: 33798453  [Indexed for MEDLINE]
+
+
+166. Elife. 2021 Mar 31;10. pii: e65012. doi: 10.7554/eLife.65012.
+
+Neural network of social interaction observation in marmosets.
+
+Cléry JC(1), Hori Y(1), Schaeffer DJ(1)(2), Menon RS(1)(3), Everling S(1)(3).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Canada.
+(2)University of Pittsburgh, Department of Neurobiology, Pittsburgh, United
+States.
+(3)Department of Physiology and Pharmacology, The University of Western Ontario, 
+London, Canada.
+
+A crucial component of social cognition is to observe and understand the social
+interactions of other individuals. A promising nonhuman primate model for
+investigating the neural basis of social interaction observation is the common
+marmoset (Callithrix jacchus), a small New World primate that shares a rich
+social repertoire with humans. Here, we used functional magnetic resonance
+imaging acquired at 9.4 T to map the brain areas activated by social interaction 
+observation in awake marmosets. We discovered a network of subcortical and
+cortical areas, predominately in the anterior lateral frontal and medial frontal 
+cortex, that was specifically activated by social interaction observation. This
+network resembled that recently identified in Old World macaque monkeys. Our
+findings suggest that this network is largely conserved between New and Old World
+primates and support the use of marmosets for studying the neural basis of social
+cognition.
+
+© 2021, Cléry et al.
+
+DOI: 10.7554/eLife.65012 
+PMCID: PMC8024015
+PMID: 33787492  [Indexed for MEDLINE]
+
+Conflict of interest statement: JC, YH, DS, RM, SE No competing interests
+declared
+

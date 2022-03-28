@@ -1,0 +1,76 @@
+
+
+4175. Endocrinology. 1992 Dec;131(6):2581-7.
+
+Specificity of steroid binding in New World primate B95-8 cells with a vitamin
+D-resistant phenotype.
+
+Gacad MA(1), Adams JS.
+
+Author information: 
+(1)Division of Endocrinology and Metabolism, Cedars-Sinai Medical Center,
+University of California School of Medicine, Los Angeles 90049.
+
+We recently described the existence of a competitive binding component in vitamin
+D-resistant New World primate cells that has a relatively low affinity (Kd,
+approximately 10(-8) M) but high capacity for 1,25-dihydroxyvitamin D3
+[1,25-(OH)2D3] compared to that possessed by the vitamin D receptor (VDR). Here
+we show that this binding component is capable of binding a vitamin D3 metabolite
+other than 1,25-(OH)2D3 as well as steroid hormones structurally disparate from
+vitamin D3 sterols. We studied the binding of [3H]1,25-(OH)2D3 and
+[3H]25-hydroxyvitamin D3 ([3H]25OHD3) in extracts of the vitamin D-resistant
+marmoset lymphoblastic cell line B95-8 in the presence and absence of potential
+competitive ligands, including 25OHD3, 1,25-(OH)2D3, 17 beta-estradiol,
+testosterone, and progesterone, at concentrations ranging from 1-100 nM. Compared
+to extracts containing the authentic VDR, extracts of B95-8 cells bound 180% more
+1,25-(OH)2D3 and 12-fold more 25OHD3 on a weight basis. The affinity of this
+binder for 25OHD3 was 2.2 times as great as its affinity for 1,25-(OH)2D3.
+Further, at concentrations approaching the Kd of this binder for 1,25-(OH)2D3,
+25OHD3 was 3 times more effective than 1,25-(OH)2D3 in competing with
+[3H]1,25-(OH)2D3 for binding. This binder eluted from a Sephadex G-100 column
+with an apparent mol wt of 58 kilodaltons, and pooled elution fractions from the 
+column encompassing this mol wt range were capable of inhibiting binding of
+1,25-(OH)2D3 to the VDR by 65%. Competitive steroid binding analyses showed
+estradiol to be at least as effective as 1,25-(OH)2D3 in inhibition of
+[3H]1,25-(OH)2D3 binding; homologous binding studies with 17 beta-estradiol as
+labeled and competitive ligand demonstrated that concentrations of the gonadal
+steroid that successfully displaced [3H]1,25-(OH)2D3 also displaced 17 beta-[3H] 
+estradiol. Using [3H]25OHD3 as the labeled ligand and a more extensive array of
+competitive ligands, the rank order of steroid binding was 25OHD3 > 1,25-(OH)2D3 
+> or = estradiol = progesterone = testosterone. These results suggest that the
+phenotype of steroid hormone resistance in New World primates may result from the
+overexpression of an intracellular 58-kilodalton protein(s) that interferes with 
+the steroid-receptor interaction by competing for ligand binding.
+
+DOI: 10.1210/endo.131.6.1446602 
+PMID: 1446602  [Indexed for MEDLINE]
+
+
+4176. J Comp Neurol. 1992 Nov 15;325(3):379-87.
+
+Tyrosine hydroxylase-immunoreactive neurons in the nucleus basalis of the common 
+marmoset (Callithrix jacchus).
+
+Wisniowski L(1), Ridley RM, Baker HF, Fine A.
+
+Author information: 
+(1)Neuroscience Institute, Dalhousie University Faculty of Medicine, Halifax,
+Nova Scotia, Canada.
+
+In the course of characterizing the distribution of putative catecholaminergic
+neurons in the brain of the common marmoset, we encountered a population of such 
+cells in the basal forebrain. Tyrosine hydroxylase-immunoreactive neurons are
+abundant within the nucleus basalis magnocellularis throughout its entire
+rostrocaudal extent, but not in other cholinergic basal forebrain nuclei. Most
+tyrosine hydroxylase-immunoreactive cells are large and multipolar. Double
+staining with antibodies to choline acetyltransferase or nerve growth factor
+receptor confirmed that these tyrosine hydroxylase-immunoreactive neurons are
+cholinergic, and compose at least 40% of the nucleus basalis cholinergic cells.
+The presence of a catecholamine-synthesizing enzyme in the neurons that provide
+the major cholinergic input to the neocortex may have important consequences for 
+cortical function, and may be relevant to the vulnerability of the nucleus
+basalis in certain neurodegenerative disorders.
+
+DOI: 10.1002/cne.903250305 
+PMID: 1280282  [Indexed for MEDLINE]
+

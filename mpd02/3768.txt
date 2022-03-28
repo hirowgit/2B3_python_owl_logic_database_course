@@ -1,0 +1,32 @@
+
+
+3768. Virology. 1996 Aug 15;222(2):451-6.
+
+Endogenous D-type (HERV-K) related sequences are packaged into retroviral
+particles in the placenta and possess open reading frames for reverse
+transcriptase.
+
+Simpson GR(1), Patience C, Löwer R, Tönjes RR, Moore HD, Weiss RA, Boyd MT.
+
+Author information: 
+(1)Chester Beatty Laboratories, Institute of Cancer Research, London, United
+Kingdom.
+
+All primates studied to date produce retroviral-like particles in their
+placentae. We have purified these particles from two primate species, one Old
+World (human) and one New World (marmoset), and have identified the retroviral
+sequences which are packaged into these particles. Three families of sequences
+have been detected in these particles in human, all of which have the highest
+homology to B- and D-type retroviruses and to the human endogenous retrovirus
+HERV-K10. Previous studies have reported that the New World monkeys do not
+possess sequences with homology to HERV-K10. We have identified a new family of
+low-copy-number sequences which are present in New World monkeys and which
+possess 70% homology to the HERV-K family. Particles from both species possess
+reverse transcriptase activity and we have found that some of these retroviral
+particles package sequences which encode long open reading frames in pol, as
+revealed by expression cloning in Escherichia coli. These open reading frames
+could encode the reverse transcriptase enzyme activity found in the particles.
+
+DOI: 10.1006/viro.1996.0443 
+PMID: 8806530  [Indexed for MEDLINE]
+

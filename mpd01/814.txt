@@ -1,0 +1,91 @@
+
+
+814. DNA Res. 2017 Aug 1;24(4):377-385. doi: 10.1093/dnares/dsx010.
+
+Identification and characterization of a subtelomeric satellite DNA in
+Callitrichini monkeys.
+
+Araújo NP(1), de Lima LG(1), Dias GB(1), Kuhn GCS(1), de Melo AL(2),
+Yonenaga-Yassuda Y(3), Stanyon R(4), Svartman M(1).
+
+Author information: 
+(1)Universidade Federal de Minas Gerais, Laboratório de Citogenômica Evolutiva,
+Departamento de Biologia Geral, Instituto de Ciências Biológicas, Avenida
+Presidente Antônio Carlos, 6627 - Pampulha, 31270-901, Belo Horizonte, Brazil.
+(2)Universidade Federal de Minas Gerais, Laboratório de Taxonomia e Biologia de
+Invertebrados, Departamento de Parasitologia, Instituto de Ciências Biológicas,
+Belo Horizonte, Brazil.
+(3)Universidade de São Paulo, Laboratório de Citogenética de Vertebrados,
+Departamento de Genética e Biologia Evolutiva, Instituto de Biociências, São
+Paulo, Brazil.
+(4)University of Florence, Department of Biology, Florence, Italy.
+
+Repetitive DNAs are abundant fast-evolving components of eukaryotic genomes,
+which often possess important structural and functional roles. Despite their
+ubiquity, repetitive DNAs are poorly studied when compared with the genic
+fraction of genomes. Here, we took advantage of the availability of the sequenced
+genome of the common marmoset Callithrix jacchus to assess its satellite DNAs
+(satDNAs) and their distribution in Callitrichini. After clustering analysis of
+all reads and comparisons by similarity, we identified a satDNA composed by
+171 bp motifs, named MarmoSAT, which composes 1.09% of the C. jacchus genome.
+Fluorescent in situ hybridization on chromosomes of species from the genera
+Callithrix, Mico and Callimico showed that MarmoSAT had a subtelomeric location. 
+In addition to the common monomeric, we found that MarmoSAT was also organized in
+higher-order repeats of 338 bp in Callimico goeldii. Our phylogenetic analyses
+showed that MarmoSAT repeats from C. jacchus lack chromosome-specific features,
+suggesting exchange events among subterminal regions of non-homologous
+chromosomes. MarmoSAT is transcribed in several tissues of C. jacchus, with the
+highest transcription levels in spleen, thymus and heart. The transcription
+profile and subtelomeric location suggest that MarmoSAT may be involved in the
+regulation of telomerase and modulation of telomeric chromatin.
+
+© The Author 2017. Published by Oxford University Press on behalf of Kazusa DNA
+Research Institute.
+
+DOI: 10.1093/dnares/dsx010 
+PMCID: PMC5737874
+PMID: 28854689  [Indexed for MEDLINE]
+
+
+815. PLoS One. 2017 Aug 30;12(8):e0182887. doi: 10.1371/journal.pone.0182887.
+eCollection 2017.
+
+Antiparkinsonian effects of the "Radiprodil and Tozadenant" combination in
+MPTP-treated marmosets.
+
+Michel A(1), Nicolas JM(1), Rose S(2), Jackson M(2), Colman P(3), Briône W(1),
+Sciberras D(1), Muglia P(1), Scheller DK(1), Citron M(1), Downey P(1).
+
+Author information: 
+(1)UCB BioPharma, Braine L'Alleud, Belgium.
+(2)King's College, Institute of Pharmaceutical Science, London, United Kingdom.
+(3)UCB BioPharma, Slough, United Kingdom.
+
+OBJECTIVE: Investigate a combination of two clinically tested drugs, the NR2B
+antagonist Radiprodil and the A2A antagonist Tozadenant in the MPTP-treated
+marmoset model of Parkinson's Disease (PD).
+BACKGROUND: In PD, there remains a need for the development of non-dopaminergic
+drugs to effectively treat the motor symptoms without the induction of
+L-Dopa-induced motor complications.
+METHODS: Clinically relevant doses of Radiprodil and Tozadenant were given both
+alone and in combination without the addition of L-Dopa, and the antiparkinsonian
+efficacy of the treatments was assessed in a primate model of PD.
+RESULTS: When compared to the drugs tested alone, the drug combination led to a
+significant increase of motor activity and an improvement of motor disability in 
+MPTP-treated marmosets. In addition, the motor restoration brought about by the
+combination was almost completely devoid of dyskinesia. Interestingly, treated
+primates were not overstimulated, but were able to move normally when motivated
+by the exploration of novel objects.
+CONCLUSION: We have demonstrated in a primate model that, the
+"Radiprodil/Tozadenant" combination significantly improves motor activity,
+extending previous results obtained in unilaterally lesioned 6-OHDA-rats. The
+strength of the preclinical data accumulated so far suggests that the use of such
+an A2A and NR2B antagonist combination could bring significant motor improvement 
+to PD patients, without inducing the motor complications induced by L-Dopa
+therapy. Although encouraging, these preclinical data need to be confirmed in the
+clinic.
+
+DOI: 10.1371/journal.pone.0182887 
+PMCID: PMC5576667
+PMID: 28854243  [Indexed for MEDLINE]
+

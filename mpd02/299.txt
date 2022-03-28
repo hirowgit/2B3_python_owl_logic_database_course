@@ -1,0 +1,46 @@
+
+
+299. Cell Rep. 2020 Jun 23;31(12):107799. doi: 10.1016/j.celrep.2020.107799.
+
+Recently Evolved Enhancers Emerge with High Interindividual Variability and Less 
+Frequently Associate with Disease.
+
+Castelijns B(1), Baak ML(1), Geeven G(1), Vermunt MW(1), Wiggers CRM(2),
+Timpanaro IS(1), Kondova I(3), de Laat W(1), Creyghton MP(4).
+
+Author information: 
+(1)Hubrecht Institute-KNAW & University Medical Center Utrecht, Utrecht, the
+Netherlands.
+(2)Hubrecht Institute-KNAW & University Medical Center Utrecht, Utrecht, the
+Netherlands; Department of Pediatric Hematology, University Medical Center
+Utrecht, Utrecht, the Netherlands.
+(3)Biomedical Primate Research Center, Lange Kleiweg 161, 2288GJ Rijswijk, the
+Netherlands.
+(4)Hubrecht Institute-KNAW & University Medical Center Utrecht, Utrecht, the
+Netherlands; Erasmus University Medical Center, Department of Developmental
+Biology, Wytemaweg 80, 3015 CN Rotterdam, the Netherlands. Electronic address:
+m.creyghton@erasmusmc.nl.
+
+Mutations in non-coding regulatory DNA such as enhancers underlie a wide variety 
+of diseases including developmental disorders and cancer. As enhancers rapidly
+evolve, understanding their function and configuration in non-human disease
+models can have important clinical applications. Here, we analyze enhancer
+configurations in tissues isolated from the common marmoset, a widely used
+primate model for human disease. Integrating these data with human and mouse
+data, we find that enhancers containing trait-associated variants are
+preferentially conserved. In contrast, most human-specific enhancers are highly
+variable between individuals, with a subset failing to contact promoters. These
+are located further away from genes and more often reside in inactive
+B-compartments. Our data show that enhancers typically emerge as instable
+elements with minimal biological impact prior to their integration in a
+transcriptional program. Furthermore, our data provide insight into which trait
+variations in enhancers can be faithfully modeled using the common marmoset.
+
+Copyright © 2020 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2020.107799 
+PMID: 32579926  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests The authors declare no
+competing interests.
+

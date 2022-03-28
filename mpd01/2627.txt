@@ -1,0 +1,80 @@
+
+
+2627. J Med Chem. 2005 Oct 6;48(20):6430-41.
+
+Adenosine kinase inhibitors. 5. Synthesis, enzyme inhibition, and analgesic
+activity of diaryl-erythro-furanosyltubercidin analogues.
+
+Boyer SH(1), Ugarkar BG, Solbach J, Kopcho J, Matelich MC, Ollis K, Gomez-Galeno 
+JE, Mendonca R, Tsuchiya M, Nagahisa A, Nakane M, Wiesner JB, Erion MD.
+
+Author information: 
+(1)Metabasis Therapeutics Inc., 9390 Towne Centre Drive, San Diego, California
+92121, USA. boyer@mbasis.com
+
+Adenosine is an endogenous neuromodulator that when produced in the central and
+the peripheral nervous systems has anticonvulsant, anti-inflammatory, and
+analgesic properties. However, efforts to use adenosine receptor agonists are
+plagued by dose-limiting cardiovascular side effects. As an alternative, we
+explored the use of adenosine kinase inhibitors (AKIs) as potential antiseizure
+agents and demonstrated an adenosine receptor mediated therapeutic effect in the 
+absence of overt cardiovascular side effects. These activities were associated
+with elevation of extracellular adenosine concentrations due to inhibition of AK 
+in a site and event specific manner. Several tubercidin based AKIs, including the
+ribo- and lyxo-furanosyltubercidin analogues as well as the newly discovered
+erythro-furanosyltubercidin analogues, designed to prevent 5'-O-phosphorylation
+and associated toxicities, were tested for their analgesic activity in the rat
+formalin paw model. Described herein are the synthesis, enzyme inhibition
+structure-activity relationships (SARs) of erythro-furanosyltubercidin analogues,
+and SARs of analgesic activity of various classes of AKIs. Also reported is the
+characterization of a lead AKI, 19d (GP3966), an orally bioavailable compound (F%
+= 60% in dog) which exhibits broad-spectrum analgesic activities (ED50 < or = 4
+mg/kg, per os) that are reversible with an adenosine receptor antagonist
+(theophylline).
+
+DOI: 10.1021/jm0503650 
+PMID: 16190769  [Indexed for MEDLINE]
+
+
+2628. Eur J Endocrinol. 2005 Oct;153(4):605-12.
+
+GnRH-II receptor-like antigenicity in human placenta and in cancers of the human 
+reproductive organs.
+
+Eicke N(1), Günthert AR, Viereck V, Siebold D, Béhé M, Becker T, Emons G,
+Gründker C.
+
+Author information: 
+(1)Department of Gynecology and Obstetrics, Georg-August-University,
+Robert-Koch-Street 40, D-37075 Göttingen, Germany.
+
+We have recently demonstrated that the antiproliferative activity of GnRH-II on
+human endometrial and ovarian cancer cell lines is not mediated through the
+GnRH-I receptor. A functional receptor for human GnRH-II has not yet been
+identified. In this study, we have generated a polyclonal antiserum to the
+putative human GnRH-II receptor using a peptide (YSPTMLTEVPPC) corresponding to
+the third extracellular domain coupled to keyhole limpet haemocyanin via the Cys 
+residue. A database search showed no identical peptide sequences in any other
+human gene. To avoid cross-reactions against two similar amino acid sequences the
+antiserum was pre-absorbed using these peptides. Immune histological sections of 
+human placenta and human endometrial, ovarian and prostate cancers using rabbit
+anti-human GnRH-II receptor antiserum showed GnRH-II receptor-like staining.
+Western blot analysis of cell membrane preparations of human endometrial and
+ovarian cancer cell lines yielded a band at approximately 43 kDa whereas Western 
+blot analysis of cell membrane preparations of ovaries obtained from the marmoset
+monkey (Callithrix jacchus) yielded a band at approximately 54 kDa. To identify
+the GnRH-II receptor-like antigen we used the photo-affinity labelling technique.
+Photochemical reaction of (125)I-labelled
+(4-azidobenzoyl)-N-hydroxysuccinimide-[d-Lys(6)]-GnRH-II (10(-9) M) with cell
+membrane preparations of human endometrial and ovarian cancer cells yielded a
+band at approximately 43 kDa. In competition experiments, the GnRH-I agonist
+Triptorelin (10(-7) M) showed a weak decrease of (125)I-labelled
+(4-azidobenzoyl)-N-hydroxysuccinimide-[d-Lys(6)]-GnRH-II binding to its binding
+site. The GnRH-I antagonist Cetrorelix (10(-7) M) showed a clearly stronger
+decrease, whereas GnRH-II agonist [d-Lys(6)]-GnRH-II (10(-7) M) was the most
+potent competitor. Western blot analysis of the same gel using rabbit anti-human 
+GnRH-II receptor antiserum identified this band as GnRH-II receptor-like antigen.
+
+DOI: 10.1530/eje.1.02005 
+PMID: 16189182  [Indexed for MEDLINE]
+

@@ -1,0 +1,96 @@
+
+
+421. Neuroimage. 2020 Jan 1;204:116241. doi: 10.1016/j.neuroimage.2019.116241. Epub
+2019 Oct 3.
+
+Comparison of resting-state functional connectivity in marmosets with
+tracer-based cellular connectivity.
+
+Hori Y(1), Schaeffer DJ(2), Gilbert KM(2), Hayrynen LK(2), Cléry JC(2), Gati
+JS(2), Menon RS(2), Everling S(3).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Ontario, N6A 5B7, Canada. Electronic
+address: yhori@uwo.ca.
+(2)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Ontario, N6A 5B7, Canada.
+(3)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Ontario, N6A 5B7, Canada; Department of
+Physiology and Pharmacology, The University of Western Ontario, London, Ontario, 
+N6A 5C1, Canada. Electronic address: severlin@uwo.ca.
+
+Resting-state functional MRI (RS-fMRI) is widely used to assess how strongly
+different brain areas are connected. However, this connection obtained by
+RS-fMRI, which is called functional connectivity (FC), simply refers to the
+correlation of blood oxygen level-dependent (BOLD) signals across time it has yet
+to be quantified how accurately FC reflects cellular connectivity (CC). In this
+study, we elucidated this relationship using RS-fMRI and quantitative tracer data
+in marmosets. In addition, we also elucidated the effects of distance between two
+brain regions on the relationship between FC and CC across seed region. To
+calculate FC, we used full correlation approach that is considered to reflect not
+only direct (monosynaptic connections) but also indirect pathways (polysynaptic
+connections). Our main findings are that: (1) overall FC obtained by RS-fMRI was 
+highly correlated with tracer-based CC, but correlation coefficients varied
+remarkably across seed regions; (2) the strength of FC decreased with increase in
+the distance between two regions; (3) correlation coefficients between FC and CC 
+after regressing out the effects of the distance between two regions still varied
+across seed regions, but some regions have strong correlations. These findings
+suggest that although FC reflects the strength of monosynaptic pathways, it is
+strongly affected by the distance between regions.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2019.116241 
+PMID: 31586676  [Indexed for MEDLINE]
+
+
+422. Neurosci Res. 2020 Jun;155:1-11. doi: 10.1016/j.neures.2019.09.005. Epub 2019 Oct
+3.
+
+Evaluating the efficacy of small molecules for neural differentiation of common
+marmoset ESCs and iPSCs.
+
+Yoshimatsu S(1), Nakamura M(2), Nakajima M(2), Nemoto A(2), Sato T(2), Sasaki
+E(3), Shiozawa S(2), Okano H(4).
+
+Author information: 
+(1)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan; Laboratory for Proteolytic Neuroscience, RIKEN Center for 
+Brain Science, Wako City, Saitama, 351-0198, Japan.
+(2)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan.
+(3)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako City, Saitama, 351-0198, Japan; Department of Marmoset Biology and Medicine,
+Central Institute for Experimental Animals, Kanagawa, 210-0821, Japan.
+(4)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan; Laboratory for Marmoset Neural Architecture, RIKEN Center 
+for Brain Science, Wako City, Saitama, 351-0198, Japan. Electronic address:
+hidokano@a2.keio.jp.
+
+The common marmoset (marmoset; Callithrix jacchus) harbors various desired
+features as a non-human primate (NHP) model for neuroscience research. Recently, 
+efforts have been made to induce neural cells in vitro from marmoset pluripotent 
+stem cells (PSCs), including embryonic stem cells (ESCs) and induced pluripotent 
+stem cells (iPSCs), which are characterized by their capacity to differentiate
+into all cell types from the three germ layers. Successful generation of marmoset
+neural cells is not only invaluable for understanding neural development and for 
+modeling neurodegenerative and psychiatric disorders, but is also necessary for
+the phenotypic screening of genetically-modified marmosets. However, differences 
+in the differentiation propensity among PSC lines hamper the applicability and
+the reproducibility of differentiation methods. To overcome this limitation, we
+evaluated the efficacy of small molecules for neural differentiation of marmoset 
+ESCs (cjESCs) and iPSCs using multiple differentiation methods. By immunochemical
+and transcriptomic analyses, we confirmed that our methods using the small
+molecules are efficient for various differentiation protocols by either enhancing
+the yield of a mixture of neural cells including both neurons and glial cells, or
+a pure population of neurons. Collectively, our findings optimized in vitro
+neural differentiation methods for marmoset PSCs, which would ultimately help
+enhance the utility of the animal model in neuroscience.
+
+Copyright © 2019 Elsevier B.V. and Japan Neuroscience Society. All rights
+reserved.
+
+DOI: 10.1016/j.neures.2019.09.005 
+PMID: 31586586  [Indexed for MEDLINE]
+

@@ -1,0 +1,38 @@
+
+
+3420. Electrophoresis. 1999 Jun;20(7):1527-32.
+
+Simultaneous analysis of endogenous neurotransmitters and neuropeptides in brain 
+tissue using capillary electrophoresis--microelectrospray-tandem mass
+spectrometry.
+
+Jäverfalk-Hoyes EM(1), Bondesson U, Westerlund D, Andrén PE.
+
+Author information: 
+(1)Department of Chemistry, National Veterinary Institute, Uppsala, Sweden.
+
+Capillary electrophoresis was combined with highly sensitive
+microelectrospray-tandem mass spectrometry to simultaneously detect classical
+small molecule neurotransmitters as well as neuropeptides from discrete regions
+of the marmoset brain. A mixture of four classical neurotransmitters (glutamate, 
+gamma-aminobutyric acid, acetylcholine, dopamine) and four neuropeptides
+(neurotensin, methionine-enkephalin, leucine-enkephalin and substance P 1-7) was 
+studied to optimize the capillary electrophoresis conditions for separation,
+injection volume, and analysis time. Gamma-aminopropyltriethoxysilane-coated
+capillaries and acetic acid electrolytes were used to avoid interactions between 
+the sample and the capillary surface and to obtain a high anodic electroosmotic
+flow, which resulted in a short analysis time. Detection was performed using
+tandem mass spectrometry in the selected reaction monitoring mode using a triple 
+quadrupole mass spectrometer. Samples were dissolved in ammonium acetate to
+achieve a transient-isotachophoretic concentration step at the beginning of the
+separation and to make it possible to inject larger sample volumes, up to 140 nL.
+Small amounts of tissue from specific regions of the marmoset monkey brain were
+pretreated using solid-phase extraction as a clean-up and concentrating step. In 
+the striatum we could detect endogenous glutamate, gamma-aminobutyric acid
+(GABA), acetylcholine and dopamine, as well as the neuropeptides
+methionine-enkephalin and substance P 1-7 in the same analysis, using only 58 mm3
+of brain tissue.
+
+DOI: 10.1002/(SICI)1522-2683(19990601)20:7<1527::AID-ELPS1527>3.0.CO;2-9 
+PMID: 10424476  [Indexed for MEDLINE]
+

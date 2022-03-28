@@ -1,0 +1,86 @@
+
+
+1688. J Immunol Methods. 2012 Oct 31;384(1-2):81-91. doi: 10.1016/j.jim.2012.07.012.
+Epub 2012 Jul 25.
+
+A new method for quantitative analysis of the T cell receptor V region
+repertoires in healthy common marmosets by microplate hybridization assay.
+
+Kitaura K(1), Fujii Y, Matsutani T, Shirai K, Suzuki S, Takasaki T, Shimada S,
+Kametani Y, Shiina T, Takabayashi S, Katoh H, Ogasawara K, Kurane I, Suzuki R.
+
+Author information: 
+(1)Department of Rheumatology and Clinical Immunology, Clinical Research Center
+for Allergy and Rheumatology, Sagamihra National Hospital, National Hospital
+Organization, Kanagawa, Japan.
+
+The common marmoset, Callithrix jacchus, is one of the smallest primates and is
+increasingly used for an experimental nonhuman primate model in many research
+fields. Analysis of T cell receptor (TCR) repertoires is a powerful tool to
+investigate T cell immunity in terms of antigen specificity and variability of
+TCR expression. However, monoclonal antibodies specific for many TCR Vα or Vβ
+chains have not been created. We have recently identified a large number of TCRα 
+chain variable (TRAV) and TCRβ chain variable (TRBV) sequences from a cDNA
+library of common marmosets. The purpose of this study is to develop a new method
+for analysis of TCR repertoires in the common marmoset using this sequence
+information. This method is based on a microplate hybridization technique using
+32 TRAV-specific and 32 TRBV-specific oligoprobes following an adaptor-ligation
+PCR. This enables the easy quantitation of the respective TRAV and TRBV
+expression levels. No cross-hybridization among specific-oligoprobes and very low
+variances in repeated measures of the same samples was found, demonstrating high 
+specificity and reproducibility. Furthermore, this method was validated by an
+antihuman Vβ23 antibody which specifically bound to marmoset Vβ23. Using this
+method, we analyzed TCR repertoires from various tissue samples (PBMCs, spleen,
+lymph node and thymus) and isolated T cell subpopulations (CD4+CD8+, CD4+CD8− and
+CD4−CD8+) from the thymus of 10 common marmosets. Neither tissue-specific nor T
+cell subpopulation-specific differences was found in TRAV and TRBV repertoires.
+These results suggest that, unlike mice, TCR repertoires in the common marmoset
+are not affected by endogenous superantigens and are conserved among individuals,
+among tissues, and among T cell subpopulations. Thus, TCR repertoire analysis
+with high specificity and reproducibility is a very useful technique, with the
+potential to replace flow cytometric analysis using a panel of TRV-specific
+antibodies, many of which remain unavailable.
+
+Copyright © 2012 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jim.2012.07.012 
+PMID: 22841578  [Indexed for MEDLINE]
+
+
+1689. Int Immunol. 2012 Sep;24(9):593-603. doi: 10.1093/intimm/dxs070. Epub 2012 Jul
+25.
+
+Double expression of CD34 and CD117 on bone marrow progenitors is a hallmark of
+the development of functional mast cell of Callithrix jacchus (common marmoset).
+
+Nunomura S(1), Shimada S, Kametani Y, Yamada Y, Yoshioka M, Suemizu H, Ozawa M,
+Itoh T, Kono A, Suzuki R, Tani K, Ando K, Yagita H, Ra C, Habu S, Satake M,
+Sasaki E.
+
+Author information: 
+(1)Department of Molecular Cell Immunology and Allergology, Nihon University
+School of Medicine, Tokyo, Japan.
+
+Mast cells (MCs) are developed from hematopoietic progenitor cells and play an
+important role in inflammation. Study of the kinetics of development and
+accumulation of primate MC in vivo is crucial for the control of human
+inflammatory diseases, as evolution of the immune system is quite rapid and
+inflammation including MC response is considered to be different between mouse
+and human. In the present study, we examined the development of MC from
+hematopoietic progenitors of Callithrix jacchus (common marmoset), an
+experimental animal of nonhuman primates. Bone marrow cells were fractionated for
+the expression of CD34 and CD117 by cell sorting. MCs were developed in vitro or 
+by transplanting the cells to NOD/SCID/IL-2γc knockout (NOG) mice. In vitro
+culture of CD34(+)CD117(+) (double positive, DP) cells with stem cell factor
+could generate high-affinity Fc epsilon receptor (FcεR)-expressing CD117(+) cells
+with typical granules. The developed MC released β-hexosaminidase and produced
+leukotriene C(4) after the stimulation of FcεRI. Transplantation of DP cells gave
+rise to a marked expansion of CD34(-)CD45(+)CD117(+)FcεR(+) cells in NOG mice.
+They expressed transcripts encoding chymase 1 and tryptase β. Differentiation of 
+CD34(-)CD117(+) cells to MCs was relatively limited compared with the DP cells,
+similarly to human MCs. These results suggest that this marmoset system provides 
+a good model for human MC development.
+
+DOI: 10.1093/intimm/dxs070 
+PMID: 22836021  [Indexed for MEDLINE]
+

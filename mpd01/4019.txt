@@ -1,0 +1,92 @@
+
+
+4019. Carcinogenesis. 1994 May;15(5):829-36.
+
+Contribution of CYP1A1 and CYP1A2 to the activation of heterocyclic amines in
+monkeys and human.
+
+Edwards RJ(1), Murray BP, Murray S, Schulz T, Neubert D, Gant TW, Thorgeirsson
+SS, Boobis AR, Davies DS.
+
+Author information: 
+(1)Department of Clinical Pharmacology, Royal Postgraduate Medical School,
+London, UK.
+
+The activation of heterocyclic amines to mutagenic products by hepatic microsomal
+fractions from cynomolgus monkey, marmoset monkey and man was compared with the
+respective levels of cytochrome P450 enzymes CYP1A1 and CYP1A2. The rate of
+activation of 2-amino-3,8-dimethylimidazo[4,5-f] quinoxaline (MeIQx),
+2-amino-3-methylimidazo[4,5-f]quinoline (IQ) and
+2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) to mutagens by hepatic
+microsomal fraction from cynomolgus monkey was very low. This was associated with
+a lack of constitutive expression of CYP1A1 and CYP1A2. In contrast, human
+hepatic microsomal fraction readily activates these heterocyclic amines and this 
+is associated with constitutive expression of CYP1A2. Treatment of cynomolgus
+monkey with 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) causes a very modest
+induction of CYP1A2, and a small increase in the activation of MeIQx and IQ.
+However, there was marked induction of CYP1A1 which was accompanied by > 10-fold 
+increases in PhIP activation and 7-ethoxyresorufin O-deethylase (EROD),
+7-methoxyresorufin O-demethylase (MROD) and aryl hydrocarbon hydroxylase
+activities. Following treatment of cynomolgus monkey with 3-methylcholanthrene,
+induction of CYP1A1, but not CYP1A2, was evident. In untreated marmoset monkey
+the activations of MeIQx and PhIP, as well as phenacetin O-deethylase, EROD, MROD
+and aryl hydrocarbon hydroxylase activities, are similar to those in man,
+although the activations of IQ and coumarin 7-hydroxylase activity are lower than
+in man. The presence of constitutive CYP1A2, and the absence of CYP1A1, in the
+liver of this species correspond to the situation in man. Treatment of marmoset
+monkey with TCDD results in increased CYP1A2 levels (4-fold), accompanied by
+proportional increases in the activation of MeIQx and IQ and phenacetin
+O-deethylase, EROD and MROD activities. The activation of PhIP is increased
+disproportionately, by 8-fold, most likely due to the activity of CYP1A1 which is
+also induced by TCDD in this species. Overall, the hepatic metabolism of
+heterocyclic amines by CYP1A enzymes in the untreated marmoset monkey resembles
+that in human more closely than that in the cynomolgus monkey. Therefore,
+marmoset monkey may be a more suitable model than the cynomolgus monkey for
+carcinogenicity studies involving MeIQx and PhIP, but not IQ.
+
+DOI: 10.1093/carcin/15.5.829 
+PMID: 8200083  [Indexed for MEDLINE]
+
+
+4020. J Neurosci. 1994 May;14(5 Pt 1):2531-44.
+
+6-Hydroxydopamine lesions of the prefrontal cortex in monkeys enhance performance
+on an analog of the Wisconsin Card Sort Test: possible interactions with
+subcortical dopamine.
+
+Roberts AC(1), De Salvia MA, Wilkinson LS, Collins P, Muir JL, Everitt BJ,
+Robbins TW.
+
+Author information: 
+(1)Department of Experimental Psychology, University of Cambridge, United
+Kingdom.
+
+The effects of 6-hydroxydopamine lesions of the prefrontal cortex in monkeys were
+investigated on two cognitive tests of prefrontal function, spatial delayed
+response, and attentional set shifting. The latter test provided a componential
+analysis of the Wisconsin Card Sort Test, a commonly used clinical test of
+frontal lobe function in man. Acquisition of a visual compound discrimination
+requiring a shift of attention from one dimension to another (extradimensional
+shift), for example, shapes to lines, was significantly improved. This
+enhancement was behaviorally specific in that there were no effects on
+acquisition of a discrimination that required the continued maintenance of an
+attentional set toward one particular dimension (intradimensional shift), nor any
+effects on a series of visual or spatial discrimination reversals that involved
+the repeated shifting of responding between two exemplars from the same
+dimension. In contrast, spatial delayed response performance was impaired, in
+agreement with previous results. Neurochemical measures showed a marked depletion
+of dopamine limited to the prefrontal cortex and a smaller loss of prefrontal
+noradrenaline. This was accompanied by a long-term adaptive change in the
+striatum such that extracellular dopamine in the caudate nucleus, as measured by 
+in vivo microdialysis, was elevated in response to potassium stimulation as long 
+as 18 months postsurgery. It is proposed that attentional set shifting is
+mediated by a balanced interaction between prefrontal and striatal dopamine, and 
+that elevated dopamine contributes to the improvement in attentional set-shifting
+ability. This interpretation is consistent with the impairment in attentional
+set-shifting ability observed in patients with Parkinson's disease or with damage
+to the frontal lobes using the same test as used here for infrahuman primates.
+
+
+PMCID: PMC6577476
+PMID: 8182426  [Indexed for MEDLINE]
+

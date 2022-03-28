@@ -1,0 +1,77 @@
+
+
+1739. J Neurosci. 2012 Apr 11;32(15):5039-53. doi: 10.1523/JNEUROSCI.4788-11.2012.
+
+Comparative anatomy of marmoset and mouse cortex from genomic expression.
+
+Mashiko H(1), Yoshida AC, Kikuchi SS, Niimi K, Takahashi E, Aruga J, Okano H,
+Shimogori T.
+
+Author information: 
+(1)Laboratory for Molecular Mechanisms of Thalamus Development, RIKEN Brain
+Science Institute, Wako, Saitama, Japan.
+
+Erratum in
+    J Neurosci. 2012 Dec 5;32(49):17932.
+
+Advances in mouse neural circuit genetics, brain atlases, and behavioral assays
+provide a powerful system for modeling the genetic basis of cognition and
+psychiatric disease. However, a critical limitation of this approach is how to
+achieve concordance of mouse neurobiology with the ultimate goal of understanding
+the human brain. Previously, the common marmoset has shown promise as a genetic
+model system toward the linking of mouse and human studies. However, the advent
+of marmoset transgenic approaches will require an understanding of developmental 
+principles in marmoset compared to mouse. In this study, we used gene expression 
+analysis in marmoset brain to pose a series of fundamental questions on cortical 
+development and evolution for direct comparison to existing mouse brain atlas
+expression data. Most genes showed reliable conservation of expression between
+marmoset and mouse. However, certain markers had strikingly divergent expression 
+patterns. The lateral geniculate nucleus and pulvinar in the thalamus showed
+diversification of genetic organization between marmoset and mouse, suggesting
+they share some similarity. In contrast, gene expression patterns in early visual
+cortical areas showed marmoset-specific expression. In prefrontal cortex, some
+markers labeled architectonic areas and layers distinct between mouse and
+marmoset. Core hippocampus was conserved, while afferent areas showed divergence.
+Together, these results indicate that existing cortical areas are genetically
+conserved between marmoset and mouse, while differences in areal parcellation,
+afferent diversification, and layer complexity are associated with specific
+genes. Collectively, we propose that gene expression patterns in marmoset brain
+reveal important clues to the principles underlying the molecular evolution of
+cortical and cognitive expansion.
+
+DOI: 10.1523/JNEUROSCI.4788-11.2012 
+PMCID: PMC6622108
+PMID: 22496550  [Indexed for MEDLINE]
+
+
+1740. Cereb Cortex. 2013 Apr;23(4):922-31. doi: 10.1093/cercor/bhs085. Epub 2012 Apr 3.
+
+Early decline in progenitor diversity in the marmoset lateral ventricle.
+
+Azim K(1), Zweifel S, Klaus F, Yoshikawa K, Amrein I, Raineteau O.
+
+Author information: 
+(1)Brain Research Institute, University of Zürich/Swiss Federal Institute of
+Technology Zurich (ETHZ), 8057 Zürich, Switzerland.
+
+The lateral ventricle (LV) of the adult rodent brain harbors neural stem cells
+(NSCs) that continue to generate new neurons throughout life. NSCs located in
+defined areas of the LV walls generate progenitors with distinct transcriptional 
+profiles that are committed to specific neuronal fates. Here, we assessed if such
+diversity of NSCs also exist in the adult common marmoset, a widely used primate 
+species in basic and clinical neuroscience research. We first investigated the 3D
+distributions of proliferative progenitors and committed neuroblasts in the
+marmoset forebrain. In addition to these maps, we assessed the spatial presence
+of divergent progenitor populations based on their expression of defined
+transcription factors, that is, Dlx2, Pax6, Tbr2, and Ngn2 which are
+differentially expressed by γ-aminobutyric acidergic versus glutamatergic
+progenitors in the adult rodent forebrain. In striking contrast to rodents,
+glutamatergic progenitors were only sparse in neonates and absent from the adult 
+LV, whilst present in the hippocampus. Our analyses highlight major differences
+in the diversity of NSCs of the marmoset LV compared with rodents and emphasize
+the need to address NSCs diversity in evolutionary higher order mammals
+concomitantly to rodents.
+
+DOI: 10.1093/cercor/bhs085 
+PMID: 22473896  [Indexed for MEDLINE]
+

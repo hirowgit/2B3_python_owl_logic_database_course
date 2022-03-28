@@ -1,0 +1,74 @@
+
+
+1838. Proc Natl Acad Sci U S A. 2011 Aug 30;108(35):14659-63. doi:
+10.1073/pnas.1108004108. Epub 2011 Aug 15.
+
+Slow intrinsic rhythm in the koniocellular visual pathway.
+
+Cheong SK(1), Tailby C, Martin PR, Levitt JB, Solomon SG.
+
+Author information: 
+(1)Australian Research Council Centre of Excellence in Vision Science and Save
+Sight Institute, University of Sydney, Sydney, New South Wales 2001, Australia.
+
+Slow rhythmic changes in nerve-cell activity are characteristic of unconscious
+brain states and also may contribute to waking brain function by coordinating
+activity between cortical and subcortical structures. Here we show that slow
+rhythms are exhibited by the koniocellular (K) pathway, one of three visual
+pathways beginning in the eye and projecting through the lateral geniculate
+visual relay nucleus to the cerebral cortex. We recorded activity in pairs and
+ensembles of neurons in the lateral geniculate nucleus of anesthetized marmoset
+monkeys. We found slow rhythms are common in K cells but are rare in
+parvocellular and magnocellular cell pairs. The time course of slow K rhythms
+corresponds to subbeta (<10 Hz) EEG frequencies, and high spike rates in K cells 
+are associated with low power in the theta and delta EEG bands. By contrast,
+spontaneous activity in the parvocellular and magnocellular pathways is neither
+synchronized nor strongly linked to EEG state. These observations suggest that
+parallel visual pathways not only carry different kinds of visual signals but
+also contribute differentially to brain circuits at the first synapse in the
+thalamus. Differential contribution of sensory streams to rhythmic brain circuits
+also raises the possibility that sensory stimuli can be tailored to modify brain 
+rhythms.
+
+DOI: 10.1073/pnas.1108004108 
+PMCID: PMC3167552
+PMID: 21844334  [Indexed for MEDLINE]
+
+
+1839. J Neurosci Methods. 2011 Sep 30;201(1):159-72. doi:
+10.1016/j.jneumeth.2011.07.029. Epub 2011 Aug 6.
+
+Multimodal vessel mapping for precise large area alignment of functional optical 
+imaging data to neuroanatomical preparations in marmosets.
+
+Valverde Salzmann MF(1), Wallace DJ, Logothetis NK, Schüz A.
+
+Author information: 
+(1)Max Planck Institute for Biological Cybernetics, Spemannstrasse 38, 72076
+Tübingen, Germany. matthias.valverde@tuebingen.mpg.de
+
+Imaging technologies, such as intrinsic optical imaging (IOI), functional
+magnetic resonance imaging (fMRI) or multiphoton microscopy provide excellent
+opportunities to study the relationship between functional signals recorded from 
+a cortical area and the underlying anatomical structure. This, in turn, requires 
+accurate alignment of the recorded functional imaging data with histological
+datasets from the imaged tissue obtained after the functional experiment. This
+alignment is complicated by distortions of the tissue which naturally occur
+during histological treatment, and is particularly difficult to achieve over
+large cortical areas, such as primate visual areas. We present here a method that
+uses IOI vessel maps revealed in the time course of the intrinsic signal, in
+combination with vascular casts and vascular lumen labeling techniques together
+with a pseudo three dimensional (p3D) reconstruction of the tissue architecture
+in order to facilitate alignment of IOI data with posthoc histological datasets. 
+We demonstrate that by such a multimodal vessel mapping approach, we are able to 
+constitute a hook in anatomical-functional data alignment that enables the
+accurate assignment of functional signals over large cortical regions. As an
+example, we present precise alignments of IOI responses showing orientation
+selectivity of primate V1 with anatomical sections stained for
+cytochrome-oxidase-reactivity.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2011.07.029 
+PMID: 21843550  [Indexed for MEDLINE]
+

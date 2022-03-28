@@ -1,0 +1,51 @@
+
+
+1036. Bioinformatics. 2016 Jun 15;32(12):i369-i377. doi: 10.1093/bioinformatics/btw273.
+
+SHARAKU: an algorithm for aligning and clustering read mapping profiles of deep
+sequencing in non-coding RNA processing.
+
+Tsuchiya M(1), Amano K(1), Abe M(1), Seki M(1), Hase S(1), Sato K(1), Sakakibara 
+Y(1).
+
+Author information: 
+(1)Department of Biosciences and Informatics, Keio University, Yokohama 161-0031,
+Japan.
+
+MOTIVATION: Deep sequencing of the transcripts of regulatory non-coding RNA
+generates footprints of post-transcriptional processes. After obtaining sequence 
+reads, the short reads are mapped to a reference genome, and specific mapping
+patterns can be detected called read mapping profiles, which are distinct from
+random non-functional degradation patterns. These patterns reflect the maturation
+processes that lead to the production of shorter RNA sequences. Recent
+next-generation sequencing studies have revealed not only the typical maturation 
+process of miRNAs but also the various processing mechanisms of small RNAs
+derived from tRNAs and snoRNAs.
+RESULTS: We developed an algorithm termed SHARAKU to align two read mapping
+profiles of next-generation sequencing outputs for non-coding RNAs. In contrast
+with previous work, SHARAKU incorporates the primary and secondary sequence
+structures into an alignment of read mapping profiles to allow for the detection 
+of common processing patterns. Using a benchmark simulated dataset, SHARAKU
+exhibited superior performance to previous methods for correctly clustering the
+read mapping profiles with respect to 5'-end processing and 3'-end processing
+from degradation patterns and in detecting similar processing patterns in
+deriving the shorter RNAs. Further, using experimental data of small RNA
+sequencing for the common marmoset brain, SHARAKU succeeded in identifying the
+significant clusters of read mapping profiles for similar processing patterns of 
+small derived RNA families expressed in the brain.
+AVAILABILITY AND IMPLEMENTATION: The source code of our program SHARAKU is
+available at http://www.dna.bio.keio.ac.jp/sharaku/, and the simulated dataset
+used in this work is available at the same link. Accession code: The sequence
+data from the whole RNA transcripts in the hippocampus of the left brain used in 
+this work is available from the DNA DataBank of Japan (DDBJ) Sequence Read
+Archive (DRA) under the accession number DRA004502.
+CONTACT: yasu@bio.keio.ac.jp
+SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics
+online.
+
+© The Author 2016. Published by Oxford University Press.
+
+DOI: 10.1093/bioinformatics/btw273 
+PMCID: PMC4908357
+PMID: 27307639  [Indexed for MEDLINE]
+

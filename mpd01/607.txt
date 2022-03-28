@@ -1,0 +1,98 @@
+
+
+607. Brain Behav. 2018 Dec;8(12):e01148. doi: 10.1002/brb3.1148. Epub 2018 Oct 30.
+
+Sex-biased gene expression in the frontal cortex of common marmosets (Callithrix 
+jacchus) and potential behavioral correlates.
+
+Nogueira VB(1), Imparato DO(2), de Souza SJ(3), de Sousa MBC(4).
+
+Author information: 
+(1)Health Sciences Graduate Program, Federal University of Rio Grande do Norte,
+Natal, Brazil.
+(2)Bioinformatics Multidisciplinary Environment, Federal University of Rio Grande
+do Norte, Natal, Brazil.
+(3)Brain Institute, Bioinformatics Multidisciplinary Environment, Federal
+University of Rio Grande do Norte, Natal, Brazil.
+(4)Brain Institute and Health Sciences Graduate Program, Federal University of
+Rio Grande do Norte, Natal, Brazil.
+
+INTRODUCTION: The common marmoset (Callithrix jacchus), a small New World monkey,
+has been widely used as a biological model in neuroscience to elucidate neural
+circuits involved in cognition and to understand brain dysfunction in
+neuropsychiatric disorders. In this regard, the availability of gene expression
+data derived from next-generation sequencing (NGS) technologies represents an
+opportunity for a molecular contextualization. Sexual dimorphism account for
+differences in diseases prevalence and prognosis. Here, we explore sex
+differences on frontal cortex of gene expression in common marmoset's adults.
+METHODS: Gene expression profiles in six different tissues (cerebellum, frontal
+cortex, liver, heart, and kidney) were analyzed in male and female marmosets. To 
+emphasize the translational value of this species for behavioral studies, we
+focused on sex-biased gene expression from the frontal cortex of male and female 
+in common marmosets and compared to humans (Homo sapiens).
+RESULTS: In this study, we found that frontal cortex genes whose expression is
+male-biased are conserved between marmosets and humans and enriched with
+"house-keeping" functions. On the other hand, female-biased genes are more
+related to neural plasticity functions involved in remodeling of synaptic
+circuits, stress cascades, and visual behavior. Additionally, we developed and
+made available an application-the CajaDB-to provide a friendly interface for
+genomic, expression, and alternative splicing data of marmosets together with a
+series of functionalities that allow the exploration of these data. CajaDB is
+available at cajadb.neuro.ufrn.br.
+CONCLUSION: The data point to differences in gene expression of male and female
+common marmosets in all tissues analyzed. In frontal cortex, female-biased
+expression in synaptic plasticity, stress, and visual processing might be linked 
+to biological and behavioral mechanisms of this sex. Due to the limited sample
+size, the data here analyzed are for exploratory purposes.
+
+© 2018 Federal Government of Brazil. Brain and Behavior published by Wiley
+Periodicals, Inc.
+
+DOI: 10.1002/brb3.1148 
+PMCID: PMC6305938
+PMID: 30378298  [Indexed for MEDLINE]
+
+
+608. Sci Rep. 2018 Oct 26;8(1):16131. doi: 10.1038/s41598-018-34068-5.
+
+Publisher Correction: Experimental Zika Virus Infection in the Pregnant Common
+Marmoset Induces Spontaneous Fetal Loss and Neurodevelopmental Abnormalities.
+
+Seferovic M(1), Sánchez-San Martín C(2), Tardif SD(3), Rutherford J(4), Castro
+ECC(1), Li T(2), Hodara VL(3)(5), Parodi LM(3)(5), Giavedoni L(3)(5), Layne-Colon
+D(3), Tamhankar M(5), Yagi S(6), Martyn C(2), Reyes K(2), Suter MA(1), Aagaard
+KM(7), Chiu CY(8)(9), Patterson JL(10).
+
+Author information: 
+(1)Departments of Obstetrics and Gynecology, Molecular and Human Genetics, and
+Pathology and Laboratory Medicine at Baylor College of Medicine and Texas
+Children's Hospital, Houston, TX, 77030, USA.
+(2)Department of Laboratory Medicine, University of California, San Francisco,
+CA, 94143, USA.
+(3)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX, 78245, USA.
+(4)Department of Women, Children and Family Health Science, University of
+Illinois at Chicago, Chicago, IL, 60612, USA.
+(5)Department of Virology and Immunology, Texas Biomedical Research Institute,
+San Antonio, TX, 78245, USA.
+(6)California Department of Public Health, Richmond, CA, 94804, USA.
+(7)Departments of Obstetrics and Gynecology, Molecular and Human Genetics, and
+Pathology and Laboratory Medicine at Baylor College of Medicine and Texas
+Children's Hospital, Houston, TX, 77030, USA. aagaardt@bcm.edu.
+(8)Department of Laboratory Medicine, University of California, San Francisco,
+CA, 94143, USA. charles.chiu@ucsf.edu.
+(9)Department of Medicine/Infectious Diseases, University of California, San
+Francisco, CA, 94143, USA. charles.chiu@ucsf.edu.
+(10)Department of Virology and Immunology, Texas Biomedical Research Institute,
+San Antonio, TX, 78245, USA. jpatters@txbiomed.org.
+
+Erratum for
+    Sci Rep. 2018 May 1;8(1):6851.
+
+A correction to this article has been published and is linked from the HTML and
+PDF versions of this paper. The error has been fixed in the paper.
+
+DOI: 10.1038/s41598-018-34068-5 
+PMCID: PMC6203817
+PMID: 30367092 
+

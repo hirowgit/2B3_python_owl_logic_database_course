@@ -1,0 +1,39 @@
+
+
+2143. J Endocrinol. 2009 Dec;203(3):313-26. doi: 10.1677/JOE-08-0554. Epub 2009 May 27.
+
+Plasticity of the zona reticularis in the adult marmoset adrenal cortex: voyages 
+of discovery in the New World.
+
+Pattison JC(1), Abbott DH, Saltzman W, Conley AJ, Bird IM.
+
+Author information: 
+(1)Perinatal Research Laboratories, University of Wisconsin-Madison, 7E Meriter
+Hospital/Park, 202 South Park Street, Madison, Wisconsin 53715, USA.
+
+Adrenarche in humans occurs at the age of 5-7 years, yet the process by which
+dehydroepiandrosterone (DHEA) biosynthesis in the adrenal zona reticularis (ZR)
+increases so dramatically remains as a matter of debate. One suggestion is that
+increased DHEA production by P450c17 (CYP17A1 as listed in HUGO Database) in the 
+ZR results from a coincident fall in the expression of HSD3B, which would
+otherwise compete for pregnenolone substrate. Nonetheless, studies of human and
+rhesus adrenal show that cytochrome b5 (CYTB5) expression increases in the ZR
+with DHEA biosynthesis, and cloned human and rhesus P450c17 show selective
+increases in 17,20-lyase activity in the presence of CYTB5. The marmoset, a New
+World primate, expresses a fetal zone during development which regresses after
+birth. Adult males, however, do not develop an obvious functional ZR, while
+females develop a ZR in a manner that depends on their social/gonadal status. In 
+all social and physiologic states, changes in marmoset ZR function relate
+directly to changes in the expression of CYTB5. Recent cloning and expression of 
+marmoset P450c17 also show that while amino acid sequence homology is in the
+order of approximately 85% of that found in human and rhesus sequences, and basal
+lyase activity is low compared with rhesus, all previously described amino acids 
+critical to human 17,20-lyase activity are completely conserved. Furthermore, the
+17,20-lyase activity of the marmoset P450c17 clone is dramatically increased by
+addition of CYTB5. We propose that these combined data from the marmoset model
+provide further compelling evidence that the control of ZR CYTB5 expression is a 
+key determinant of ZR function.
+
+DOI: 10.1677/JOE-08-0554 
+PMID: 19474057  [Indexed for MEDLINE]
+

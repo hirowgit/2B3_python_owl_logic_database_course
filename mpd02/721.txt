@@ -1,0 +1,55 @@
+
+
+721. Science. 2018 Feb 23;359(6378):935-939. doi: 10.1126/science.aaq1067.
+
+Single-cell bioluminescence imaging of deep tissue in freely moving animals.
+
+Iwano S(1), Sugiyama M(1), Hama H(1), Watakabe A(2), Hasegawa N(2), Kuchimaru
+T(3), Tanaka KZ(4), Takahashi M(5), Ishida Y(5), Hata J(6), Shimozono S(1),
+Namiki K(1), Fukano T(1), Kiyama M(7), Okano H(6), Kizaka-Kondoh S(3), McHugh
+TJ(4), Yamamori T(2), Hioki H(5), Maki S(7), Miyawaki A(8)(9).
+
+Author information: 
+(1)Laboratory for Cell Function and Dynamics, Brain Science Institute, RIKEN, 2-1
+Hirosawa, Wako-city, Saitama 351-0198, Japan.
+(2)Laboratory for Molecular Analysis of Higher Brain Function, Brain Science
+Institute, RIKEN, 2-1 Hirosawa, Wako-city, Saitama 351-0198, Japan.
+(3)School of Life Science and Technology, Tokyo Institute of Technology, 4259
+Nagatsuta, Midori-ku, Yokohama 226-8501, Japan.
+(4)Laboratory for Circuit and Behavioral Physiology, Brain Science Institute,
+RIKEN, 2-1 Hirosawa, Wako-city, Saitama 351-0198, Japan.
+(5)Department of Morphological Brain Science, Graduate School of Medicine, Kyoto 
+University, Yoshida-Konoe-Cho, Sakyo-ku, Kyoto 606-8501, Japan.
+(6)Laboratory for Marmoset Neural Architecture, Brain Science Institute, RIKEN,
+2-1 Hirosawa, Wako-city, Saitama 351-0198, Japan.
+(7)Graduate School of Informatics and Engineering, The University of
+Electro-Communications, 1-5-1 Chofugaoka, Chofu-city, Tokyo 182-8585, Japan.
+(8)Laboratory for Cell Function and Dynamics, Brain Science Institute, RIKEN, 2-1
+Hirosawa, Wako-city, Saitama 351-0198, Japan. matsushi@brain.riken.jp.
+(9)Biotechnological Optics Research Team, Center for Advanced Photonics, RIKEN,
+2-1 Hirosawa, Wako-city, Saitama 351-0198, Japan.
+
+Comment in
+    Science. 2018 Feb 23;359(6378):868-869.
+
+Bioluminescence is a natural light source based on luciferase catalysis of its
+substrate luciferin. We performed directed evolution on firefly luciferase using 
+a red-shifted and highly deliverable luciferin analog to establish AkaBLI, an
+all-engineered bioluminescence in vivo imaging system. AkaBLI produced emissions 
+in vivo that were brighter by a factor of 100 to 1000 than conventional systems, 
+allowing noninvasive visualization of single cells deep inside freely moving
+animals. Single tumorigenic cells trapped in the mouse lung vasculature could be 
+visualized. In the mouse brain, genetic labeling with neural activity sensors
+allowed tracking of small clusters of hippocampal neurons activated by novel
+environments. In a marmoset, we recorded video-rate bioluminescence from neurons 
+in the striatum, a deep brain area, for more than 1 year. AkaBLI is therefore a
+bioengineered light source to spur unprecedented scientific, medical, and
+industrial applications.
+
+Copyright © 2018 The Authors, some rights reserved; exclusive licensee American
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.
+
+DOI: 10.1126/science.aaq1067 
+PMID: 29472486  [Indexed for MEDLINE]
+

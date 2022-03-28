@@ -1,0 +1,95 @@
+
+
+939. PLoS Pathog. 2016 Dec 27;12(12):e1006066. doi: 10.1371/journal.ppat.1006066.
+eCollection 2016 Dec.
+
+Non-human Primate Schlafen11 Inhibits Production of Both Host and Viral Proteins.
+
+Stabell AC(1), Hawkins J(2), Li M(3), Gao X(3), David M(3), Press WH(2)(4),
+Sawyer SL(1).
+
+Author information: 
+(1)BioFrontiers Institute, University of Colorado Boulder, Boulder, CO, United
+States of America.
+(2)Institute for Computational Engineering and Sciences, University of Texas at
+Austin, TX, United States of America.
+(3)Division of Biological Sciences, UCSD Moores Cancer Center, University of
+California San Diego, La Jolla, CA, United States of America.
+(4)Department of Integrative Biology, University of Texas at Austin, Austin, TX, 
+United States of America.
+
+Schlafen11 (encoded by the SLFN11 gene) has been shown to inhibit the
+accumulation of HIV-1 proteins. We show that the SLFN11 gene is under positive
+selection in simian primates and is species-specific in its activity against
+HIV-1. The activity of human Schlafen11 is relatively weak compared to that of
+some other primate versions of this protein, with the versions encoded by
+chimpanzee, orangutan, gibbon, and marmoset being particularly potent inhibitors 
+of HIV-1 protein production. Interestingly, we find that Schlafen11 is functional
+in the absence of infection and reduces protein production from certain non-viral
+(GFP) and even host (Vinculin and GAPDH) transcripts. This suggests that
+Schlafen11 may just generally block protein production from non-codon optimized
+transcripts. Because Schlafen11 is an interferon-stimulated gene with a broad
+ability to inhibit protein production from many host and viral transcripts, its
+role may be to create a general antiviral state in the cell. Interestingly, the
+strong inhibitors such as marmoset Schlafen11 consistently block protein
+production better than weak primate Schlafen11 proteins, regardless of the virus 
+or host target being analyzed. Further, we show that the residues to which
+species-specific differences in Schlafen11 potency map are distinct from residues
+that have been targeted by positive selection. We speculate that the positive
+selection of SLFN11 could have been driven by a number of different factors,
+including interaction with one or more viral antagonists that have yet to be
+identified.
+
+DOI: 10.1371/journal.ppat.1006066 
+PMCID: PMC5189954
+PMID: 28027315  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+940. J Comp Neurol. 2019 Jan 1;527(1):236-258. doi: 10.1002/cne.24157. Epub 2017 Feb
+13.
+
+Survey of retinal ganglion cell morphology in marmoset.
+
+Masri RA(1), Percival KA(1), Koizumi A(2), Martin PR(1)(3)(4), Grünert
+U(1)(3)(4).
+
+Author information: 
+(1)Save Sight Institute and Department of Clinical Ophthalmology, The University 
+of Sydney, Sydney, New South Wales, Australia.
+(2)National Institutes of Natural Sciences, Tokyo, Japan.
+(3)Australian Research Council Centre of Excellence for Integrative Brain
+Function, The University of Sydney, Sydney, New South Wales, Australia.
+(4)School of Medical Sciences, The University of Sydney, Sydney, New South Wales,
+Australia.
+
+In primate retina, the midget, parasol, and small bistratified cell populations
+form the large majority of ganglion cells. In addition, there is a variety of
+low-density wide-field ganglion cell types that are less well characterized. Here
+we studied retinal ganglion cells in the common marmoset, Callithrix jacchus,
+using particle-mediated gene transfer. Ganglion cells were transfected with an
+expression plasmid for the postsynaptic density 95-green fluorescent protein. The
+retinas were processed with established immunohistochemical markers for bipolar
+and/or amacrine cells to determine ganglion cell dendritic stratification. In
+total over 500 ganglion cells were classified based on their dendritic field
+size, morphology, and stratification in the inner plexiform layer. Over 17 types 
+were distinguished, including midget, parasol, broad thorny, small bistratified, 
+large bistratified, recursive bistratified, recursive monostratified, narrow
+thorny, smooth monostratified, large sparse, giant sparse (melanopsin) ganglion
+cells, and a group that may contain several as yet uncharacterized types.
+Assuming each characterized type forms a hexagonal mosaic, the midget and parasol
+cells account for over 80% of all ganglion cells in the central retina but only
+∼50% of cells in the peripheral (>2 mm) retina. We conclude that the fovea is
+dominated by midget and parasol cells, but outside the fovea the ganglion cell
+diversity in marmoset is likely as great as that reported for nonprimate retinas.
+Taken together, the ganglion cell types in marmoset retina resemble those
+described previously in macaque retina with respect to morphology,
+stratification, and change in proportion across the retina.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/cne.24157 
+PMID: 27997691  [Indexed for MEDLINE]
+

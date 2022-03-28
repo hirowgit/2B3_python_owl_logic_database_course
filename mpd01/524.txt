@@ -1,0 +1,73 @@
+
+
+524. Comp Med. 2019 Apr 1;69(2):151-154. doi: 10.30802/AALAS-CM-18-000107. Epub 2019
+Mar 22.
+
+Atresia Ani with Imperforate Anus in a Common Marmoset (Callithrix jacchus).
+
+Werts AD(1), Pate NM(2), Metcalf Pate KA(2), Garrett CM(3).
+
+Author information: 
+(1)Department of Molecular and Comparative Pathobiology, Johns Hopkins University
+School of Medicine, Baltimore, Maryland;, Email: awerts2@jhmi.edu.
+(2)Department of Molecular and Comparative Pathobiology, Johns Hopkins University
+School of Medicine, Baltimore, Maryland.
+(3)Department of Molecular and Comparative Pathobiology, PolarityTE, Salt Lake
+City, Utah.
+
+In November 2015, an 83-d-old juvenile male common marmoset (Callithrix jacchus) 
+in good body condition was found dead in his family cage with no previous
+premonitory signs. Necropsy revealed a gas-distended abdomen, feces-distended
+large bowel, and a full-thickness distal colonic perforation resulting in fecal
+peritonitis. The distal colon ended in a blind pouch at 7 mm prior to the
+expected anal opening, consistent with atresia ani. Here we present this case,
+briefly discuss the human and veterinary literature regarding correction of
+anorectal malformations, and highlight the importance of identifying such
+devastating congenital defects in breeding colonies while limiting the disruption
+and handling of seemingly healthy, young NHP raised in a complex social setting.
+
+DOI: 10.30802/AALAS-CM-18-000107 
+PMCID: PMC6464079
+PMID: 30902118  [Indexed for MEDLINE]
+
+
+525. Nat Commun. 2019 Mar 21;10(1):1302. doi: 10.1038/s41467-019-09115-y.
+
+Optimal features for auditory categorization.
+
+Liu ST(1), Montes-Lourido P(2), Wang X(3), Sadagopan S(4)(5)(6).
+
+Author information: 
+(1)Department of Bioengineering, University of Pittsburgh, Pittsburgh, 15213, PA,
+USA.
+(2)Department of Neurobiology, University of Pittsburgh, Pittsburgh, 15213, PA,
+USA.
+(3)Department of Biomedical Engineering, Johns Hopkins University, Baltimore,
+21205, MD, USA.
+(4)Department of Bioengineering, University of Pittsburgh, Pittsburgh, 15213, PA,
+USA. vatsun@pitt.edu.
+(5)Department of Neurobiology, University of Pittsburgh, Pittsburgh, 15213, PA,
+USA. vatsun@pitt.edu.
+(6)Department of Otolaryngology, University of Pittsburgh, Pittsburgh, 15213, PA,
+USA. vatsun@pitt.edu.
+
+Humans and vocal animals use vocalizations to communicate with members of their
+species. A necessary function of auditory perception is to generalize across the 
+high variability inherent in vocalization production and classify them into
+behaviorally distinct categories ('words' or 'call types'). Here, we demonstrate 
+that detecting mid-level features in calls achieves production-invariant
+classification. Starting from randomly chosen marmoset call features, we use a
+greedy search algorithm to determine the most informative and least redundant
+features necessary for call classification. High classification performance is
+achieved using only 10-20 features per call type. Predictions of tuning
+properties of putative feature-selective neurons accurately match some observed
+auditory cortical responses. This feature-based approach also succeeds for call
+categorization in other species, and for other complex classification tasks such 
+as caller identification. Our results suggest that high-level neural
+representations of sounds are based on task-dependent features optimized for
+specific computational goals.
+
+DOI: 10.1038/s41467-019-09115-y 
+PMCID: PMC6428858
+PMID: 30899018  [Indexed for MEDLINE]
+

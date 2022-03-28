@@ -1,0 +1,112 @@
+
+
+121. ILAR J. 2020 Dec 31;61(2-3):139-166. doi: 10.1093/ilar/ilab017.
+
+Research Relevant Conditions and Pathology in Nonhuman Primates.
+
+Saravanan C(1), Flandre T(2), Hodo CL(3), Lewis AD(4), Mecklenburg L(5), Romeike 
+A(5), Turner OC(6), Yen HY(5).
+
+Author information: 
+(1)Novartis, Novartis Institutes for BioMedical Research, Preclinical Safety,
+Cambridge, Massachusetts 02139, USA.
+(2)Novartis, Novartis Institutes for BioMedical Research, Preclinical Safety,
+Basel, Switzerland.
+(3)The University of Texas MD Anderson Cancer Center, Michale E. Keeling Center
+for Comparative Medicine and Research, Bastrop, Texas, USA.
+(4)Oregon National Primate Research Center, Beaverton, Oregon, USA.
+(5)Covance Preclinical Services GmbH, Münster 48163, Germany.
+(6)Novartis, Novartis Institutes for BioMedical Research, Preclinical Safety,
+East Hanover, New Jersey, USA.
+
+Biomedical research involving animal models continues to provide important
+insights into disease pathogenesis and treatment of diseases that impact human
+health. In particular, nonhuman primates (NHPs) have been used extensively in
+translational research due to their phylogenetic proximity to humans and
+similarities to disease pathogenesis and treatment responses as assessed in
+clinical trials. Microscopic changes in tissues remain a significant endpoint in 
+studies involving these models. Spontaneous, expected (ie, incidental or
+background) histopathologic changes are commonly encountered and influenced by
+species, genetic variations, age, and geographical origin of animals, including
+exposure to infectious or parasitic agents. Often, the background findings
+confound study-related changes, because numbers of NHPs used in research are
+limited by animal welfare and other considerations. Moreover, background findings
+in NHPs can be exacerbated by experimental conditions such as treatment with
+xenobiotics (eg, infectious morphological changes related to immunosuppressive
+therapy). This review and summary of research-relevant conditions and pathology
+in rhesus and cynomolgus macaques, baboons, African green monkeys, common
+marmosets, tamarins, and squirrel and owl monkeys aims to improve the
+interpretation and validity of NHP studies.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the
+National Academies of Sciences, Engineering, and Medicine. All rights reserved.
+For permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/ilar/ilab017 
+PMCID: PMC8918156 [Available on 2022-06-15]
+PMID: 34129672 
+
+
+122. Aging Cell. 2021 Jul;20(7):e13407. doi: 10.1111/acel.13407. Epub 2021 Jun 12.
+
+Chloride channel accessory 1 integrates chloride channel activity and mTORC1 in
+aging-related kidney injury.
+
+Lee HJ(1), Donati A(1), Feliers D(1), Sun Y(2), Ding Y(3), Madesh M(1), Salmon
+AB(4)(5)(6)(7), Ikeno Y(3)(4)(6), Ross C(8)(9), O'Connor CL(10), Ju W(10), Bitzer
+M(10), Chen Y(11)(12), Choudhury GG(1)(6)(7), Singh BB(2), Sharma K(1)(6),
+Kasinath BS(1)(5)(6)(7).
+
+Author information: 
+(1)Department of Medicine, Center for Renal Precision Medicine, University of
+Texas Health, San Antonio, TX, USA.
+(2)Department of Periodontics, University of Texas Health, San Antonio, TX, USA.
+(3)Department of Pathology, University of Texas Health, San Antonio, TX, USA.
+(4)Department of Molecular Medicine, University of Texas Health, San Antonio, TX,
+USA.
+(5)Barshop Institute for Longevity and Aging Studies, University of Texas Health,
+San Antonio, TX, USA.
+(6)South Texas Veterans Health Care System, San Antonio, TX, USA.
+(7)Geriatric Research, Education & Clinical Center, South Texas Veterans Health
+Care System, San Antonio, TX, USA.
+(8)Texas Biomedical Research Institute, Southwest National Primate Research
+Center, San Antonio, TX, USA.
+(9)Department of Science and Mathematics, Texas A&M University San Antonio, San
+Antonio, TX, USA.
+(10)Department of Internal Medicine, University of Michigan, Ann Arbor, MI, USA.
+(11)Department of Population Health Sciences, University of Texas Health, San
+Antonio, TX, USA.
+(12)Greehey Children's Cancer Research Institute, University of Texas Health, San
+Antonio, TX, USA.
+
+The mechanism of kidney injury in aging are not well understood. In order to
+identify hitherto unknown pathways of aging-related kidney injury, we performed
+RNA-Seq on kidney extracts of young and aged mice. Expression of chloride (Cl)
+channel accessory 1 (CLCA1) mRNA and protein was increased in the kidneys of aged
+mice. Immunostaining showed a marked increase in CLCLA1 expression in the
+proximal tubules of the kidney from aged mice. Increased kidney CLCA1 gene
+expression also correlated with aging in marmosets and in a human cohort. In
+aging mice, increased renal cortical CLCA1 content was associated with hydrogen
+sulfide (H2 S) deficiency, which was ameliorated by administering sodium
+hydrosulfide (NaHS), a source of H2 S. In order to study whether increased CLCA1 
+expression leads to injury phenotype and the mechanisms involved, stable
+transfection of proximal tubule epithelial cells overexpressing human CLCA1
+(hCLCA1) was performed. Overexpression of hCLCA1 augmented Cl- current via the
+Ca++ -dependent Cl- channel TMEM16A (anoctamin-1) by patch-clamp studies. hCLCA1 
+overexpression also increased the expression of fibronectin, a matrix protein,
+and induced the senescence-associated secretory phenotype (SASP). Mechanistic
+studies underlying these changes showed that hCLCA1 overexpression leads to
+inhibition of AMPK activity and stimulation of mTORC1 as cellular signaling
+determinants of injury. Both TMEM16A inhibitor and NaHS reversed these signaling 
+events and prevented changes in fibronectin and SASP. We conclude that
+CLCA1-TMEM16A-Cl- current pathway is a novel mediator of kidney injury in aging
+that is regulated by endogenous H2 S.
+
+© 2021 The Authors. Aging Cell published by Anatomical Society and John Wiley &
+Sons Ltd. This article is a U.S. Government work and is in the public domain in
+the USA.
+
+DOI: 10.1111/acel.13407 
+PMCID: PMC8282273
+PMID: 34118180  [Indexed for MEDLINE]
+

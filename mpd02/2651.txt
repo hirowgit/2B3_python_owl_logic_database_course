@@ -1,0 +1,40 @@
+
+
+2651. J Allergy Clin Immunol. 2005 Aug;116(2):453-9.
+
+Antibody responses against galactocerebroside are potential stage-specific
+biomarkers in multiple sclerosis.
+
+Menge T(1), Lalive PH, von Büdingen HC, Cree B, Hauser SL, Genain CP.
+
+Author information: 
+(1)Department of Neurology, University of California San Francisco, San
+Francisco, CA 94143-0114, USA.
+
+BACKGROUND: Galactocerebroside, the major glycolipid of central nervous system
+myelin, is a known target for pathogenic demyelinating antibody responses in
+experimental allergic encephalomyelitis (EAE), the animal model of multiple
+sclerosis (MS).
+OBJECTIVE: To address the importance of anti-galactocerebroside (alpha-GalC)
+antibodies in MS and to evaluate them as biomarkers of disease.
+METHODS: alpha-GalC IgGs were quantified from sera of patients with MS and in
+marmoset EAE by a new immunosorbent assay.
+RESULTS: We report a significant difference in serum alpha-GalC IgG titers
+between patients with relapsing-remitting (RR)-MS and healthy controls (HCs; P < 
+.001). The frequencies of alpha-GalC antibody-positive subjects (alpha-GalC
+titers > or = mean HC titers+3 SD) are also significantly elevated in RR-MS
+compared with HC (40% vs 0%; P = .0033). Immunoaffinity purified alpha-GalC IgGs 
+from human serum bind to cultured human oligodendrocytes, indicating that the
+ELISA detects a biologically relevant epitope. Corroborating these findings,
+alpha-GalC antibody responses in marmoset EAE were similarly found to be
+specifically associated with the RR forms and not the peracute or progressive
+forms, in contrast with other anti-myelin antibodies (P = .0256).
+CONCLUSION: (1) alpha-GalC antibodies appear MS-specific and are not found in
+healthy subjects, unlike antibodies against myelin proteins; (2) when present,
+alpha-GalC antibodies identify mostly RR-MS and may be an indicator of ongoing
+disease activity. This novel assay is a suitable and valuable method to increase 
+accuracy of diagnosis and disease staging in MS.
+
+DOI: 10.1016/j.jaci.2005.03.023 
+PMID: 16083805  [Indexed for MEDLINE]
+

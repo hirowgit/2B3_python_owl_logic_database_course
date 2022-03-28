@@ -1,0 +1,41 @@
+
+
+3378. J Endocrinol. 1999 Dec;163(3):447-56.
+
+Isolation and characterisation of the marmoset gonadotrophin releasing hormone
+receptor: Ser(140) of the DRS motif is substituted by Phe.
+
+Byrne B(1), McGregor A, Taylor PL, Sellar R, Rodger FE, Fraser HM, Eidne KA.
+
+Author information: 
+(1)MRC Reproductive Biology Unit, 37 Chalmers St, Edinburgh EH3 9EW, UK.
+Bernadette-Cons.Byrne@eu.phu.com
+
+In order to facilitate the understanding of gonadotrophin-releasing hormone
+(GnRH) agonist and antagonist action in the primate animal model, the marmoset
+GnRH receptor (GnRH-R) was cloned and characterised. It was shown to have 95% and
+85% sequence identity with the human and rat GnRH-Rs, respectively, and, when
+transiently expressed in COS-7 cells, it exhibited high-affinity des-Gly(10),
+[d-Trp(6)]-GnRH binding, with a K(d) value similar to those of both the rat and
+human forms, but with a greatly reduced B(max) value. The ED(50) for production
+of GnRH-induced total inositol phosphate (IP) for the marmoset GnRH-R was also
+similar to those of the rat and the human, but the maximal response compared with
+the rat receptor was markedly reduced. In all mammalian forms of the GnRH-R
+cloned to date, the conserved DRY region of G-protein-coupled receptors is
+substituted with DRS. The most interesting feature of the marmoset GnRH-R was the
+substitution of this motif with DRF. In order to investigate the DRS to DRF
+substitution, a Ser(140)Phe rat GnRH-R mutant was generated. The mutant had a
+K(d) value similar to that of the wild-type rat receptor, although the B(max)
+value was slightly lower, indicating that expression of functional mutant
+receptor at the cell surface was reduced. The ED(50) value for IP production was 
+also similar to that of the wild-type receptor, with a reduction in maximal
+response. The level of internalisation for the rat wild-type and mutant GnRH-R
+constructs was also assessed and the Ser(140)Phe mutant was shown to have an
+increased rate of receptor internalisation, suggesting a role for this residue in
+regulating internalisation. These results show that the marmoset GnRH-R exhibits 
+a substitution in the DRS motif and that this substitution may play a part in
+desensitisation and internalisation events.
+
+DOI: 10.1677/joe.0.1630447 
+PMID: 10588818  [Indexed for MEDLINE]
+

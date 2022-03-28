@@ -1,0 +1,73 @@
+
+
+3391. J Neurosci Methods. 1999 Sep 15;91(1-2):115-22.
+
+A new video/computer method to measure the amount of overall movement in
+experimental animals (two-dimensional object-difference method).
+
+Hashimoto T(1), Izawa Y, Yokoyama H, Kato T, Moriizumi T.
+
+Author information: 
+(1)Third Department of Internal Medicine, School of Medicine, Shinshu University,
+Asahi, Matsumoto, Japan.
+
+Evaluation of the amount of overall animal movement is important for
+investigations of motor control mechanisms in the central nervous system. We
+describe a new method to quantify overall free movements of an animal without any
+markers using a video camera and a personal computer equipped with a
+video-capture board. The operating principle is that the amount of overall
+movement of an object can be expressed by the difference in total area occupied
+by the object in two consecutive picture frames. The software for this
+application operates in real-time. Using this method and with proper setting for 
+the cage and recording view, we can estimate three-dimensional movements of
+animals. The major advantages are low cost, easy operation and high sensitivity. 
+The experimental results indicate that this method can be applied to various
+fields of motion analysis.
+
+DOI: 10.1016/s0165-0270(99)00082-5 
+PMID: 10522830  [Indexed for MEDLINE]
+
+
+3392. Anat Rec. 1999 Nov 1;256(3):279-99.
+
+Implantation in the marmoset monkey: expansion of the early implantation site.
+
+Enders AC(1), Lopata A.
+
+Author information: 
+(1)Department of Cell Biology and Human Anatomy, University of California, Davis,
+California, 95616, USA. acenders@ucdavis.edu
+
+This study was initiated to examine the early stages of trophoblast adhesion and 
+invasion during implantation in the marmoset. Seven implantation sites were found
+in the uteri of four marmosets taken between days 13 and 15 of gestation. Three
+implantation sites in two uteri were examined in detail by electron microscopy.
+Between days 13 and 15, the marmoset implantation site expanded peripherally by
+adding areas where syncytial trophoblast penetrated between uterine luminal
+epithelial cells. Such penetrating masses often bridged openings of endometrial
+glands, shared junctional complexes with the uterine epithelial cells between
+which they are infiltrating, and subsequently reached the residual basal lamina
+of the uterine luminal epithelium. Centripetal to the peripheral region was an
+intermediate region in which syncytial trophoblast overlay individual clusters of
+epithelial cells and rested along the basal lamina. In this region there was some
+evidence of fusion of syncytial trophoblast with uterine epithelial cells. In the
+central region of the implantation site near the inner cell mass and amnion the
+trophoblast formed elaborate lamellipodia in relation to the basal lamina. In one
+of the three specimens examined with electron microscopy there were two foci
+where trophoblast penetrated through the basal lamina. It was also in the central
+region that trophoblast penetrated farthest into the uterine glands. The gland
+cells closest to trophoblast were less closely associated and lost their columnar
+shape, forming large round cells similar to the epithelial plaque cells of other 
+primates. Where two blastocysts implanted on the same side of the uterus a
+conjoint membrane was formed which in regions consisted solely of syncytial
+trophoblast with two basal surfaces and two basal laminas. The prolonged period
+of time when the implantation site expands within the plane of the uterine
+epithelium (trophoblastic plate stage) and the peripheral to central sequence in 
+extent of development make this primate a particularly useful animal for studies 
+of trophoblast adhesion to and penetration of the uterine luminal epithelium.
+
+Copyright 1999 Wiley-Liss, Inc.
+
+DOI: 10.1002/(SICI)1097-0185(19991101)256:3<279::AID-AR7>3.0.CO;2-O 
+PMID: 10521786  [Indexed for MEDLINE]
+

@@ -1,0 +1,74 @@
+
+
+4455. Biochem Pharmacol. 1988 Aug 1;37(15):2939-48.
+
+Hydrolysis of the four stereoisomers of soman catalyzed by liver homogenate and
+plasma from rat, guinea pig and marmoset, and by human plasma.
+
+de Jong LP(1), van Dijk C, Benschop HP.
+
+Author information: 
+(1)Prins Maurits Laboratory TNO, Rijswijk, The Netherlands.
+
+Stereoselective hydrolysis at pH 7.5 and 37 degrees of C(+/-)P(+/-)-soman by
+liver homogenate and plasma from rat, guinea pig and marmoset, and by human
+plasma is studied by using the four single stereoisomers. The fast hydrolysis of 
+the C(+/-)P(+)-isomers is monitored titrimetrically, whereas the decay of the
+much slower reacting C(+/-)P(-)-isomers is followed by gas chromatographic
+determination of the residual concentration. Values of Km and Vmax are evaluated 
+for the enzymatic hydrolysis of the two relatively nontoxic C(+/-)P(+)-isomers.
+The plasma enzymes have a high affinity for these isomers (Km: 0.01-0.04 mM); the
+Km values of the liver enzymes vary between 0.04 and 0.7 mM. Except for rat liver
+homogenate, only first-order rate constants can be obtained for catalyzed
+hydrolysis (kc) of the highly toxic C(+/-)P(-)-isomers: most measurements with
+C(+/-)P(-)-isomer concentrations greater than 0.3 mM are complicated by
+epimerization to C(+/-)P(+)-isomers, which may conceal enzyme saturation with the
+C(+/-)P(-)-isomers. The first-order rate constants of catalyzed hydrolysis
+(Vmax/Km or kc) by all liver homogenates and plasmata decrease in the order:
+C(+)P(+)- greater than C(-)P(+)- much greater than C(-)P(-)- greater than
+C(+)P(-)-soman. The highest P(+)-/P(-)-stereoselectivity is found for rat plasma.
+Rat liver homogenate is more potent than the other liver homogenates in
+catalyzing the hydrolysis of both the C(+/-)P(+)- and the C(+/-)P(-)-isomers. Rat
+plasma shows the highest activity for degradation of the C(+/-)P(+)-isomers, but 
+is approximately as active as marmoset and human plasma for degradation of the
+C(+/-)P(-)-isomers.
+
+DOI: 10.1016/0006-2952(88)90279-1 
+PMID: 3395367  [Indexed for MEDLINE]
+
+
+4456. J Endocrinol. 1988 Aug;118(2):259-64.
+
+Effects of acute stress on the patterns of LH secretion in the common marmoset
+(Callithrix jacchus).
+
+O'Byrne KT(1), Lunn SF, Dixson AF.
+
+Author information: 
+(1)MRC Reproductive Biology Unit, Centre for Reproductive Biology, Edinburgh.
+
+Stressful stimuli associated with aggressive encounters and low social rank may
+affect female fertility in a variety of mammalian species. In these experiments
+we examined the effects of aggressive encounters and physical restraint in a
+primate chair on the patterns of LH secretion in ovariectomized, oestrogen-primed
+female marmosets. Receipt of aggression from a female conspecific, followed by
+physical restraint for collection of blood samples (at 10-min intervals for 4 h),
+resulted in marked declines in LH concentrations during oestradiol-induced LH
+surges in five animals (from 112 +/- 24 micrograms/l to 45 +/- 12 micrograms/l;
+group means +/- S.E.M.; P less than 0.05). This was due to reductions in LH pulse
+amplitude rather than to changes in pulse frequency. Decreases in plasma
+concentrations of LH were reversed by treating females with exogenous
+LH-releasing hormone (LHRH). Cortisol treatment had no effect on LH levels during
+oestrogen-induced LH surges. Effects of aggressive encounters and physical
+restraint on plasma LH were not therefore due to reduced pituitary responsiveness
+to LHRH or to increased plasma concentrations of cortisol. In separate
+experiments it was found that physical restraint alone had no effect on plasma LH
+in habituated subjects, and that decreases in plasma LH after receipt of
+aggression only occurred if animals were subsequently placed in the restraint
+chair. A summation of stressful effects is therefore required to produce the fall
+in circulating LH. A summation of social and other environmental stressors may
+also underlie the reduced fertility seen in free-living animals.
+
+DOI: 10.1677/joe.0.1180259 
+PMID: 3139816  [Indexed for MEDLINE]
+

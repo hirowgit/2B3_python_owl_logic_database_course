@@ -1,0 +1,68 @@
+
+
+1031. Nat Protoc. 2016 Jul;11(7):1299-308. doi: 10.1038/nprot.2016.076. Epub 2016 Jun
+23.
+
+MRI-guided stereotaxic brain surgery in the infant and adult common marmoset.
+
+Mundinano IC(1), Flecknell PA(2), Bourne JA(1).
+
+Author information: 
+(1)Australian Regenerative Medicine Institute, Monash University, Clayton,
+Australia.
+(2)Comparative Biology Centre, Medical School, Newcastle University, Newcastle,
+UK.
+
+In the past decade, the New World common marmoset (Callithrix jacchus) has taken 
+a seminal position in neurobiological research, fueled in part by its smooth
+cortical sheet, which allows cortical areas to be easily accessed by current
+technologies on the dorsal surface of the brain. In this protocol, we describe a 
+method for the precision placement of agents (e.g., tracers or neurotoxins) into 
+small brain regions of the infant and adult marmoset, using an MRI-guided
+approach. This strategy uses a protocol for prolonged anesthesia without the need
+for intubation that we have recently developed, alongside appropriate analgesia
+and monitoring. The protocol can be readily adapted to be used together with
+advanced research techniques, such as two-photon microscopy and optical imaging. 
+Including a 5-d postoperative care plan, this protocol takes 7 d to complete. The
+protocol requires a team of personnel experienced in marmoset care and handling, 
+and small-animal neurosurgery; an assistant for monitoring the animal and
+assisting with anesthesia; and an MRI technician.
+
+DOI: 10.1038/nprot.2016.076 
+PMID: 27336707  [Indexed for MEDLINE]
+
+
+1032. RNA. 2016 Aug;22(8):1181-9. doi: 10.1261/rna.054817.115. Epub 2016 Jun 22.
+
+Host miRNA degradation by Herpesvirus saimiri small nuclear RNA requires an
+unstructured interacting region.
+
+Pawlica P(1), Moss WN(1), Steitz JA(1).
+
+Author information: 
+(1)Department of Molecular Biophysics and Biochemistry, Howard Hughes Medical
+Institute, Yale University School of Medicine, New Haven, Connecticut 06536, USA.
+
+Herpesvirus saimiri, an oncogenic herpesvirus, during latency produces seven
+small nuclear RNAs, called the Herpesvirus saimiri U RNAs (HSUR1-7). HSUR1
+mediates degradation of the host microRNA, miR-27, via a process that requires
+imperfect base-pairing. The decreased levels of miR-27 lead to prolonged T-cell
+activation and likely contribute to oncogenesis. To gain insight into
+HSUR1-mediated degradation of miR-27, we probed the in vivo secondary structure
+of HSUR1 and coupled this with bioinformatic structural analyses. The results
+suggest that HSUR1 adopts a conformation different than previously believed and
+that the region complementary to miR-27 lacks stable structure. To determine
+whether HSUR1 structural flexibility is important for its ability to mediate
+miR-27 degradation, we performed structurally informative mutagenic analyses of
+HSUR1. HSUR1 mutants in which the miR-27 binding site sequence is preserved, but 
+sequestered in predicted helices, lose their ability to decrease miR-27 levels.
+These results indicate that the HSUR1 miR27-binding region must be available in a
+conformationally flexible segment for noncoding RNA function.
+
+© 2016 Pawlica et al.; Published by Cold Spring Harbor Laboratory Press for the
+RNA Society.
+
+DOI: 10.1261/rna.054817.115 
+PMCID: PMC4931111
+PMID: 27335146  [Indexed for MEDLINE]
+

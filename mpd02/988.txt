@@ -1,0 +1,50 @@
+
+
+988. Zoolog Sci. 2016 Oct;33(5):497-504.
+
+Molecular Cloning of Ghrelin and Characteristics of Ghrelin-Producing Cells in
+the Gastrointestinal Tract of the Common Marmoset (Callithrix jacchus).
+
+Takemi S(1), Sakata I(1), Apu AS(1), Tsukahara S(2), Yahashi S(3), Katsuura G(4),
+Iwashige F(3), Akune A(3), Inui A(4), Sakai T(2).
+
+Author information: 
+(1)1 Area of Regulatory Biology, Division of Life Science, Graduate School of
+Science and Engineering,Saitama University, 255 Shimo-okubo, Sakura-ku, Saitama
+338-8570, Japan.
+(2)2 Area of Life-NanoBio, Division of Strategy Research, Graduate School of
+Science and Engineering,Saitama University, 255 Shimo-okubo, Sakura-ku, Saitama
+338-8570, Japan.
+(3)3 Drug Safety Research Laboratories, Shin Nippon Biomedical Laboratories, Ltd.
+(SNBL DSR),2438 Miyanoura, Kagoshima 891-1394, Japan.
+(4)4 Graduate School of Medical and Dental Sciences, Kagoshima
+University,Kagoshima 890-8544, Japan.
+
+Ghrelin was first isolated from human and rat as an endogenous ligand for the
+growth hormone secretagogue receptor (GHS-R). In the present study, we determined
+the ghrelin cDNA sequence of the common marmoset (Callithrix jacchus), a
+small-bodied New World monkey, and investigated the distribution of
+ghrelin-producing cells in the gastrointestinal tract and localization profiles
+with somatostatin-producing cells. The marmoset ghrelin cDNA coding region was
+354 base pairs, and showed high homology to that in human, rhesus monkey, and
+mouse. Marmoset ghrelin consists of 28 amino acids, and the N-terminal region is 
+highly conserved as found in other mammalian species. Marmoset preproghrelin and 
+mature ghrelin have 86.3% and 92.9% homology, respectively, to their human
+counterparts. Quantitative RT-PCR analysis showed that marmoset ghrelin mRNA is
+highly expressed in the stomach, but it is not detected in other tissues of the
+gastrointestinal tract. In addition, a large number of ghrelin mRNA-expressing
+cells and ghrelin-immunopositive cells were detected in the mucosal layer of the 
+stomach, but not in the myenteric plexus. Moreover, all the ghrelin cells
+examined in the stomach were observed to be closed-type. Double staining showed
+that somatostatin-immunopositive cells were not co-localized with
+ghrelin-producing cells; however, a subset of somatostatin-immunopositive cells
+is directly adjacent to ghrelin-immunopositive cells. These findings suggest that
+the distribution of ghrelin cells in marmoset differs from that in rodents, and
+thus the marmoset may be a more useful model for the translational study of
+ghrelin in primates. In conclusion, we have clarified the expression and cell
+distribution of ghrelin in marmoset, which may represent a useful model in
+translational study.
+
+DOI: 10.2108/zs160020 
+PMID: 27715422  [Indexed for MEDLINE]
+

@@ -1,0 +1,82 @@
+
+
+1056. Gene Ther. 2016 Aug;23(8-9):680-9. doi: 10.1038/gt.2016.42. Epub 2016 Apr 26.
+
+AAV-mediated transduction and targeting of retinal bipolar cells with improved
+mGluR6 promoters in rodents and primates.
+
+Lu Q(1), Ganjawala TH(1), Ivanova E(2), Cheng JG(3), Troilo D(4), Pan ZH(1)(5).
+
+Author information: 
+(1)Department of Anatomy and Cell Biology, Wayne State University School of
+Medicine, Detroit, MI, USA.
+(2)Burke Medical Research Institute, Weill Medical College of Cornell University,
+White Plains, NY, USA.
+(3)Neuroscience Center, University of North Carolina, Chapel Hill, NC, USA.
+(4)State University of New York, College of Optometry, New York, NY, USA.
+(5)Department of Ophthalmology, Kresge Eye Institute, Wayne State University
+School of Medicine, Detroit, MI, USA.
+
+Adeno-associated virus (AAV) vectors have been a powerful gene delivery vehicle
+to the retina for basic research and gene therapy. For many of these
+applications, achieving cell type-specific targeting and high transduction
+efficiency is desired. Recently, there has been increasing interest in
+AAV-mediated gene targeting to specific retinal bipolar cell types. A 200-bp
+enhancer in combination with a basal SV40 promoter has been commonly used to
+target transgenes into ON-type bipolar cells. In the current study, we searched
+for additional cis-regulatory elements in the mGluR6 gene for improving
+AAV-mediated transduction efficiency into retinal bipolar cells. Our results
+showed that the combination of the endogenous mGluR6 promoter with additional
+enhancers in the introns of the mGluR6 gene markedly enhanced AAV transduction
+efficiency as well as made the targeting more selective for rod bipolar cells in 
+mice. Furthermore, the AAV vectors with the improved promoter could target to ON 
+bipolar cells with robust transduction efficiency in the parafovea and the far
+peripheral retina of marmoset monkeys. The improved mGluR6 promoter constructs
+could provide a valuable tool for genetic manipulation in rod bipolar cells in
+mice and facilitate clinical applications for ON bipolar cell-based gene
+therapies.
+
+DOI: 10.1038/gt.2016.42 
+PMCID: PMC4863234
+PMID: 27115727  [Indexed for MEDLINE]
+
+
+1057. Nan Fang Yi Ke Da Xue Xue Bao. 2016 Apr;36(4):582-7.
+
+[Detection of neutralizing antibody to human adenovirus type 5 in marmosets].
+
+[Article in Chinese]
+
+Sun YC(1), Li TT, Wang YL, Zhang L, Zhu H, Li CY.
+
+Author information: 
+(1)Department of Transfusion Medicine, Southern Medical University, Guangzhou
+510515, China. E-mail: 759921681@qq.com.
+
+OBJECTIVE: To construct a recombinant human adenovirus type 5 (Ad5) expressing
+luciferase and GFP reporter gene and detect neutralizing antibodies against
+adenovirus type 5 in common marmosets (Callithrix jacchus) to provide basic
+laboratory data for evaluating adenovirus vaccines.
+METHODS: Luciferase and GFP reporter genes from plasmid pHAGE-CMV-GFP were
+inserted into pDC315 to construct the recombinant adenovirus shutter plasmid
+pDC315-Luc-GFP. The shutter plasmid was co-transduced with pBHGlox(delta)E1,3Cre 
+in 293A cell line to package the recombinant adenovirus rAd5/Luc/GFP. Three
+rounds of plaque formation experiment were performed to select the monoclonal
+adenovirus followed by purification with cesium chloride density gradient
+centrifugation and virus titration with TCID50 method. Chemiluminescence assay
+and flow cytometry were employed to detect the neutralizing antibody levels in 14
+common marmosets.
+RESULTS: The shuttle plasmid pDC315-Luc-GFP was successfully constructed and the 
+recombinant adenovirus rAd5/Luc/GFP was packaged with a the titer reaching
+6.9×10(11.5) PFU/mL. In the 14 marmosets, chemiluminescence assay identified 4
+(28.6%) marmosets that were positive for Ad5-neutralizing antibodies, including 2
+with a antibody titer of 1/16 and another 2 with a titer of 1/32; flow cytomery
+detected Ad5-neutralizing antibodies in 3 marmosets at the titer of 1/16.
+CONCLUSION: Chemiluminescence assay is a simple, sensitive, and accurate modality
+for detecting Ad5-neutralizing antibodies. Common marmosets have a very low
+positivity rate for Ad5-neutralizing antibodies and are therefore promising
+models for studying adenovirus-based vaccines and therapies.
+
+
+PMID: 27113192  [Indexed for MEDLINE]
+

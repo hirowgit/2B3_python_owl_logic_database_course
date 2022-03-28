@@ -1,0 +1,95 @@
+
+
+484. Cereb Cortex. 2020 Mar 21;30(2):451-464. doi: 10.1093/cercor/bhz096.
+
+Altered Sensitivity to Motion of Area MT Neurons Following Long-Term V1 Lesions.
+
+Hagan MA(1)(2)(3), Chaplin TA(1)(2)(3)(4), Huxlin KR(5), Rosa MGP(1)(2)(3), Lui
+LL(1)(2)(3).
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, VIC 3800, Australia.
+(2)Neuroscience Program, Biomedicine Discovery Institute, Monash University,
+Clayton, VIC 3800, Australia.
+(3)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, VIC 3800, Australia.
+(4)Sainsbury Wellcome Centre for Neural Circuits and Behaviour, University
+College London, 25 Howland Street, London W1T 4JG, United Kingdom.
+(5)Flaum Eye Institute, University of Rochester, Rochester, NY 14642, USA.
+
+Primates with primary visual cortex (V1) damage often retain residual motion
+sensitivity, which is hypothesized to be mediated by middle temporal area (MT).
+MT neurons continue to respond to stimuli shortly after V1 lesions; however,
+experimental and clinical studies of lesion-induced plasticity have shown that
+lesion effects can take several months to stabilize. It is unknown what
+physiological changes occur in MT and whether neural responses persist long after
+V1 damage. We recorded neuronal responses in MT to moving dot patterns in adult
+marmoset monkeys 6-12 months after unilateral V1 lesions. In contrast to results 
+obtained shortly after V1 lesions, we found that fewer MT neurons were direction 
+selective, including neurons expected to still receive projections from remaining
+parts of V1. The firing rates of most cells increased with increases in motion
+strength, regardless of stimulus direction. Furthermore, firing rates were higher
+and more variable than in control MT cells. To test whether these observations
+could be mechanistically explained by underlying changes in neural circuitry, we 
+created a network model of MT. We found that a local imbalance of inhibition and 
+excitation explained the observed firing rate changes. These results provide the 
+first insights into functional implications of long-term plasticity in MT
+following V1 lesions.
+
+© The Author(s) 2019. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhz096 
+PMCID: PMC7444738
+PMID: 31211357  [Indexed for MEDLINE]
+
+
+485. Am J Primatol. 2019 Jul;81(7):e23018. doi: 10.1002/ajp.23018. Epub 2019 Jun 13.
+
+Trait variation and trait stability in common marmosets (Callithrix jacchus)
+inhabiting ecologically distinct habitats in northeastern Brazil.
+
+Garber PA(1), Caselli CB(2), McKenney AC(3), Abreu F(2), De la Fuente MF(2),
+Araújo A(4), de Fatima Arruda M(4), Souto A(5), Schiel N(2), Bicca-Marques JC(6).
+
+Author information: 
+(1)Department of Anthropology and Program in Ecology, Evolution, and Conservation
+Biology, University of Illinois, Urbana, Illinois.
+(2)Departamento de Biologia, Laboratório de Etologia Teórica e Aplicada,
+Universidade Federal Rural de Pernambuco, Recife, PE, Brazil.
+(3)Natural Resources and Environmental Sciences, University of Illinois, Urbana, 
+Illinois.
+(4)Departamento e Fisiologia, Universidade Federal do Rio Grande do Norte, Natal,
+RN, Brazil.
+(5)Departamento de Zoologia, Laboratório de Etologia, Universidade Federal de
+Pernambuco, Recife, PE, Brazil.
+(6)Escola de Ciências, Laboratório de Primatologia, Pontifícia Universidade
+Católica do Rio Grande do Sul, Porto Alegre, RS, Brazil.
+
+Understanding the set of factors that promote and constrain a species' ability to
+exploit ecologically distinct habitats is central for addressing questions of
+intraspecific variability in behavior and morphology. In this study, we compared 
+newly collected data with published data on body measurements, group size and
+composition, daily path length, home range, and reproductive output in wild
+common marmosets naturally inhabiting two contrasting environments in
+northeastern Brazil: the Atlantic Forest (AF), which is characterized by high
+biodiversity and reduced seasonality in food availability and the Caatinga (CAT),
+which is characterized by a severe hot and dry season lasting from 5 to 11
+months, drought-resistant plant species, and reduced primary productivity.
+Despite marked differences in ecological conditions, CAT marmosets and AF
+marmosets differed minimally in daily path length, home range, reproductive
+output, and infant survivorship. CAT marmosets were found to live in smaller
+groups containing fewer adult females than AF marmosets, and also were
+characterized by a greater surface area to body mass ratio, a trait that may
+represent an adaptation to the hot and dry conditions of the Caatinga. We propose
+that in conjunction with body mass reduction, minor adjustments in behavior, the 
+exploitation of cacti as a source of water and nutrients, and access to exudates 
+as a dependable year-round food resource, common marmosets successfully used the 
+same adaptive pattern to maintain high reproductive output and infant
+survivorship in exploiting these two ecologically distinct environments.
+
+© 2019 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajp.23018 
+PMID: 31192487  [Indexed for MEDLINE]
+

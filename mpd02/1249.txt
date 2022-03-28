@@ -1,0 +1,54 @@
+
+
+1249. Drug Metab Dispos. 2015 Jul;43(7):969-76. doi: 10.1124/dmd.115.063909. Epub 2015 
+Apr 9.
+
+Substrate Selectivities and Catalytic Activities of Marmoset Liver Cytochrome
+P450 2A6 Differed from Those of Human P450 2A6.
+
+Uehara S(1), Uno Y(1), Inoue T(1), Sasaki E(1), Yamazaki H(2).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., H.Y.); Pharmacokinetics and Bioanalysis 
+Center, Shin Nippon Biomedical Laboratories, Kainan, Wakayama, Japan (Y.U.);
+Department of Applied Developmental Biology, Central Institute for Experimental
+Animals, Kawasaki, Japan (T.I., E.S.); and Keio Advanced Research Center, Keio
+University, Minato-ku, Tokyo, Japan (E.S.).
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., H.Y.); Pharmacokinetics and Bioanalysis 
+Center, Shin Nippon Biomedical Laboratories, Kainan, Wakayama, Japan (Y.U.);
+Department of Applied Developmental Biology, Central Institute for Experimental
+Animals, Kawasaki, Japan (T.I., E.S.); and Keio Advanced Research Center, Keio
+University, Minato-ku, Tokyo, Japan (E.S.) hyamazak@ac.shoyaku.ac.jp.
+
+The common marmoset (Callithrix jacchus), a New World primate species, is
+potentially a useful animal model for preclinical studies in drug development.
+However, cytochrome P450 (P450) enzymes have not been fully identified and
+characterized in marmosets. In this study, we identified P450 2A6 cDNA with the
+sequence highly identical (91-94%) to human P450 2A6, 2A7, and 2A13 cDNA and
+cynomolgus monkey P450 2A23, 2A24, and 2A26 cDNA. Among the tissue types
+examined, marmoset P450 2A6 mRNA was most abundantly expressed in livers where
+P450 2A6 protein was also detected by immunoblotting. Phylogenetic analysis
+showed that marmoset P450 2A6 was more closely clustered with human and
+cynomolgus monkey P450 2As than P450 2As of dog, rat, and mouse (the species also
+used in drug metabolism). Marmoset P450 2A6 heterologously expressed in
+Escherichia coli membranes efficiently catalyzed 7-ethoxycoumarin O-deethylation,
+similar to human P450 2A6 and 2A13 and cynomolgus monkey P450 2A23, 2A24, and
+2A26, but much less effectively coumarin 7-hydroxylation, showing some difference
+as well. Interestingly, marmoset P450 2A6 and cynomolgus monkey P450 2A23
+catalyzed phenacetin O-deethylation, which is catalyzed by human P450 1A2 and
+2A13, but not by P450 2A6. Marmoset P450 2A6 also exhibited catalytic activity
+toward testosterone by the multiple sites, but not rat P450 2A-specific
+testosterone 7α-hydroxylation activity. These results indicated that marmoset
+P450 2A6 had functional characteristics different from those of human and
+cynomolgus monkey P450 2As in terms of partially different substrate
+specificities and catalytic activities, indicating its importance of further
+studies for P450 2A-dependent drug metabolism in marmosets.
+
+Copyright © 2015 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/dmd.115.063909 
+PMID: 25858611  [Indexed for MEDLINE]
+

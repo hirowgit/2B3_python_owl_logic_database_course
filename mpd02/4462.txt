@@ -1,0 +1,52 @@
+
+
+4462. Endocrinology. 1988 Jun;122(6):2780-7.
+
+Factors influencing follicle-stimulating hormone-responsive steroidogenesis in
+marmoset granulosa cells: effects of androgens and the stage of follicular
+maturity.
+
+Harlow CR(1), Shaw HJ, Hillier SG, Hodges JK.
+
+Author information: 
+(1)Institute of Obstetrics and Gynaecology, Royal Postgraduate Medical School,
+Hammersmith Hospital, London, United Kingdom.
+
+Preovulatory changes in the steroidogenic function of primate granulosa cells
+were studied using the cyclic marmoset (Callithrix jacchus) as a model. Antral
+follicles (greater than or equal to 0.5 mm diameter) were dissected from mid-late
+follicular phase ovaries (7 days after prostaglandin-induced luteolysis) and
+classified by diameter as small (0.5-1.0 mm), medium (1.1-1.9 mm) or large
+(greater than or equal to 2.0 mm). Granulosa cells from follicles in each size
+category were isolated and pooled to assess steroid biosynthesis. The aromatase
+activity of freshly isolated granulosa cells from large follicles was 200 times
+greater than that of small follicles, confirming their relatively advanced
+preovulatory status. Granulosa cells were cultured for 48 h in the presence and
+absence of human (h) FSH (0.1 ng/ml), with and without 0.1 microM androgen
+(testosterone or 5 alpha-dihydrotestosterone), to assess basal and
+hormone-responsive steroidogenesis (progesterone accumulation in culture medium
+and aromatase activity in washed granulosa cell monolayers). Basal granulosa cell
+steroidogenesis increased with follicular size, and there was a
+development-related pattern of response to hFSH and androgen. hFSH responsiveness
+(maximum fold-stimulation induced by hFSH) declined with follicular size, being
+2-6 times greater for granulosa cells from small vs. large follicles. On the
+other hand, hFSH sensitivity increased with follicular size; the dose of hFSH
+giving 50% of the maximum response (ED50) for cells from large follicles being
+10-20 times less than that of cells from small follicles. For granulosa cells
+from small follicles, treatment with 0.1 microM androgen in the presence of hFSH 
+led to dramatic (up to 16-fold) enhancement of steroidogenic responses to hFSH.
+In contrast, for granulosa cells from large follicles, the presence of androgen
+substantially inhibited aromatase activity stimulated by hFSH and had weak
+inhibitory effects on progesterone accumulation. These results show that
+granulosa cell steroidogenesis becomes increasingly sensitive to hFSH during
+preovulatory follicular development in marmosets. The marked ability of androgen 
+to directly augment hFSH-responsive steroidogenesis in vitro is lost during
+preovulatory development, such that androgen acts in mature granulosa cells to
+suppress hFSH-stimulated aromatase activity. These observations are evidence of
+development-dependent changes in granulosa cell responses to FSH and androgens
+which may contribute to the control of preovulatory follicular development in
+primates.
+
+DOI: 10.1210/endo-122-6-2780 
+PMID: 3131124  [Indexed for MEDLINE]
+

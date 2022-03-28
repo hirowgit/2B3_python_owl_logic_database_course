@@ -1,0 +1,41 @@
+
+
+3344. Br J Pharmacol. 2000 Mar;129(6):1075-88.
+
+BIIE0246, a potent and highly selective non-peptide neuropeptide Y Y(2) receptor 
+antagonist.
+
+Dumont Y(1), Cadieux A, Doods H, Pheng LH, Abounader R, Hamel E, Jacques D,
+Regoli D, Quirion R.
+
+Author information: 
+(1)Douglas Hospital Research Centre, Department of Psychiatry, McGill University,
+6875 LaSalle Blvd., Verdun, QC, H4H 1R3, Canada.
+
+1. BIIE0246, a newly synthesized non-peptide neuropeptide Y (NPY) Y(2) receptor
+antagonist, was able to compete with high affinity (8 to 15 nM) for specific
+[(125)I]PYY(3 - 36) binding sites in HEK293 cells transfected with the rat Y(2)
+receptor cDNA, and in rat brain and human frontal cortex membrane homogenates. 2.
+Interestingly, in rat brain homogenates while NPY, C2-NPY and PYY(3 - 36)
+inhibited all specific [(125)I]PYY(3 - 36) labelling, BIIE0246 failed to compete 
+for all specific binding suggesting that [(125)I]PYY(3 - 36) recognized, in
+addition to the Y(2) subtype, another population of specific NPY binding sites,
+most likely the Y(5) receptor. 3. Quantitative receptor autoradiographic data
+confirmed the presence of [(125)I]PYY(3 - 36)/BIIE0246-sensitive (Y(2))
+and-insensitive (Y(5)) binding sites in the rat brain as well as in the marmoset 
+monkey and human hippocampal formation. 4. In the rat vas deferens and dog
+saphenous vein (two prototypical Y(2) bioassays), BIIE0246 induced parallel
+shifts to the right of NPY concentration-response curves with pA(2) values of 8.1
+and 8.6, respectively. In the rat colon (a Y(2)/Y(4) bioassay), BIIE0246 (1
+microM) completely blocked the contraction induced by PYY(3 - 36), but not that
+of [Leu(31), Pro(34)]NPY (a Y(1), Y(4) and Y(5) agonist) and hPP (a Y(4) and Y(5)
+agonist). Additionally, BIIE0246 failed to alter the contractile effects of NPY
+in prototypical Y(1) in vitro bioassays. 5. Taken together, these results
+demonstrate that BIIE0246 is a highly potent, high affinity antagonist selective 
+for the Y(2) receptor subtype. It should prove most useful to establish further
+the functional role of the Y(2) receptor in the organism.
+
+DOI: 10.1038/sj.bjp.0703162 
+PMCID: PMC1571943
+PMID: 10725255  [Indexed for MEDLINE]
+

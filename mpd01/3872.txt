@@ -1,0 +1,78 @@
+
+
+3872. Am J Physiol. 1995 Oct;269(4 Pt 2):H1221-8.
+
+Captopril-induced hypotension is inhibited by the bradykinin blocker HOE-140 in
+Na(+)-depleted marmosets.
+
+Panzenbeck MJ(1), Loughnan CL, Madwed JB, Winquist RJ, Fogal SE.
+
+Author information: 
+(1)Department of Immunological Diseases, Boehringer Ingelheim Pharmaceuticals,
+Ridgefield, Connecticut 06877, USA.
+
+Inhibition of angiotensin-converting enzyme (ACE) inhibits formation of
+angiotensin II and, by inhibition of kinin metabolism, may also increase vascular
+bradykinin. The present experiments were done in sodium-depleted, conscious,
+unrestrained marmosets (n = 5-11) to examine the contribution of bradykinin to
+ACE inhibitor-induced hypotension. Aortic blood pressure and heart rate (HR) were
+monitored via telemetry. After sodium depletion (low-sodium diet and furosemide),
+captopril (1 mg/kg po) caused a significant (P < 0.05) decrease in mean arterial 
+blood pressure (MABP) (-34 +/- 3 mmHg, maximally, from 79 +/- 2 mmHg) but no
+change in HR compared with vehicle treatment. The bradykinin receptor antagonist 
+HOE-140 (1 mg/kg sc) significantly inhibited the hypotensive response to
+captopril and caused marked tachycardia (+133 +/- 14 beats/min from 214 +/- 8
+beats/min). HOE-140 (1 mg/kg sc) followed by vehicle administration had no effect
+on MABP but increased HR similarly. The hypotensive response to captopril was
+inhibited by HOE-140 regardless of the order of administration or the route of
+captopril administration (by mouth vs. subcutaneously). The hypotensive response 
+to a renin inhibitor, A-72517 (3 mg/kg sc), was not inhibited by prior HOE-140
+administration despite a similar HOE-140-induced tachycardia. These data suggest 
+that the hypotensive effect of captopril in sodium-depleted, conscious marmosets 
+is dependent on functional bradykinin B2 receptors. Also, blockade of B2
+receptors uncovers marked tachycardia in this model, suggesting a tonic effect of
+bradykinin on control of HR in marmosets.
+
+DOI: 10.1152/ajpheart.1995.269.4.H1221 
+PMID: 7485552  [Indexed for MEDLINE]
+
+
+3873. J Biol Chem. 1995 Sep 15;270(37):21539-44.
+
+Eosinophil cationic protein and eosinophil-derived neurotoxin. Evolution of novel
+function in a primate ribonuclease gene family.
+
+Rosenberg HF(1), Dyer KD.
+
+Author information: 
+(1)Laboratory of Host Defenses, NIAID, National Institutes of Health, Bethesda,
+Maryland 20892, USA.
+
+Erratum in
+    J Biol Chem. 1995 Dec 15;270(50):30234.
+
+Human eosinophil-derived neurotoxin (EDN) and eosinophil cationic protein (ECP)
+are members of a unique subfamily of rapidly evolving primate ribonuclease genes 
+that emerged via a gene duplication event occurring after the divergence of Old
+World from New World monkeys (Rosenberg, H. F., Dyer, K. D., Tiffany, H. L., and 
+Gonzalez, M. (1995) Nature Genet. 10, 219-223). In this work, we studied the
+activity of the protein encoded by the EDN/ECP homolog of the New World monkey,
+Saguinus oedipus (marmoset), a representative of the "ancestral" single
+sequences. Although the nucleotide sequence of the single marmoset gene (mEDN)
+was equally homologous (82%) to both human genes, the encoded amino acid
+sequence, calculated isoelectric point, and immunoreactivity all suggested a
+closer relationship with EDN. Furthermore, mEDN (at 0.3-1.0 microM
+concentrations) had no measurable anti-staphylococcal activity, suggesting
+functional as well as structural similarity to EDN. However, with yeast tRNA as
+substrate, mEDN had significantly less ribonuclease activity than EDN; Michaelis 
+constants were nearly identical (Km (mEDN) = 0.67 microM; Km (EDN) = 0.70
+microM), while turnover numbers differed by a factor of 100 (kcat (mEDN) = 0.91
+s-1; kcat (EDN) = 0.64 x 10(-2) s-1). Thus, evolutionary constraints appear to
+have promoted two novel functions: increased cationicity/toxicity (ECP) and
+enhanced ribonuclease activity (EDN). The latter result is particularly
+intriguing, as it suggests a crucial role for ribonuclease activity in the (as
+yet to be determined) physiologic function of EDN.
+
+DOI: 10.1074/jbc.270.37.21539 
+PMID: 7665566  [Indexed for MEDLINE]
+

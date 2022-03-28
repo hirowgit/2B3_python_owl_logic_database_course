@@ -1,0 +1,43 @@
+
+
+4220. Biochem Pharmacol. 1992 May 28;43(10):2129-34.
+
+Identification of the proximate peroxisome proliferator(s) derived from di
+(2-ethylhexyl) adipate and species differences in response.
+
+Cornu MC(1), Lhuguenot JC, Brady AM, Moore R, Elcombe CR.
+
+Author information: 
+(1)Département de Biochimie et Toxicologie Alimentaires, ENS.BANA, Campus
+Universitaire, Dijon, France.
+
+Identification of the proximate peroxisome proliferator(s) derived from di
+(2-ethylhexyl) adipate (DEHA) has been achieved using primary hepatocyte cultures
+derived from different species and cyanide-insensitive fatty acyl CoA oxidase
+(PCO) as a marker enzyme for peroxisome proliferation. In rat and mouse
+hepatocytes, the parent compound (DEHA) had no effect on peroxisomal
+beta-oxidation, but primary metabolites of DEHA, mono (2-ethylhexyl) adipate
+(MEHA) and 2-ethylhexanol (EH), were approximately equipotent in PCO induction
+(5-fold at 0.5 mM final concentration). The secondary metabolite of DEHA,
+2-ethylhexanoic acid (EHA), was in both species the most potent peroxisome
+proliferator (25- and 9-fold induction in mice and rats, respectively, at 1 mM
+final concentration). At 2 mM final concentration a tertiary metabolite of DEHA, 
+2-ethyl-5-hydroxyhexan-1-oic acid, was less effective in mouse and rat
+hepatocytes at inducing PCO (15- and 5-fold, respectively).
+2-Ethyl-5-oxohexan-1-oic acid and 2-ethylhexan-1,6-dioic acid had little effect
+(2-3-fold in both rat and mouse hepatocytes). Thus, EHA was identified as the
+proximate peroxisome proliferator of DEHA and mouse hepatocytes were
+approximately twice as sensitive as rat hepatocytes to peroxisome proliferation
+due to MEHA, EH and EHA. We investigated further species differences in response 
+to peroxisome proliferators by using guinea pig and marmoset primary hepatocyte
+culture. None of the chemicals studied stimulated peroxisomal beta-oxidation in
+these species up to a final concentration of 2 mM. Higher concentrations lead to 
+cytotoxicity. This lack of sensitivity of guinea pig and marmoset hepatocytes is 
+in agreement with previous studies with di (2-ethylhexyl) phthalate metabolites, 
+suggesting the absence of a threat of hepatocarcinogenic damage to these species 
+and confirming that primary hepatocytes cultures are useful models for
+investigating the phenomenon of peroxisome proliferation.
+
+DOI: 10.1016/0006-2952(92)90171-e 
+PMID: 1599500  [Indexed for MEDLINE]
+

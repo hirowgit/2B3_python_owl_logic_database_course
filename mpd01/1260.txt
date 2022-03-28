@@ -1,0 +1,84 @@
+
+
+1260. Appl Biochem Biotechnol. 2015 May;176(2):399-411. doi: 10.1007/s12010-015-1583-5.
+Epub 2015 Mar 26.
+
+Expression of Bioactive Callithrix jacchus Follicle-Stimulating Hormone in Pichia
+pastoris.
+
+Kutteyil SS(1), Pathak BR, Dighe RR, Mahale SD.
+
+Author information: 
+(1)Division of Structural Biology, National Institute for Research in
+Reproductive Health (Indian Council of Medical Research), Jehangir Merwanji
+Street, Parel, Mumbai, 400 012, India.
+
+Callithrix jacchus (common marmoset) is a New World primate monkey, used as an
+animal model in biomedical research. Marmoset-specific follicle-stimulating
+hormone (FSH) preparation is required to improve superovulation protocols and to 
+develop homologous FSH monitoring assays in these monkeys. In this study, we
+document the large-scale expression of recombinant marmoset FSH in methylotropic 
+yeast, Pichia pastoris. The recombinant preparation was found to be
+immunologically active in Western blotting and radioimmunoassay. The preparation 
+displayed receptor binding ability in radioreceptor assay. Based on the receptor 
+binding ability, the yield of fermentation was estimated to be 7.2 mg/L.
+FSH-induced cAMP assay and estradiol assay revealed that the recombinant hormone 
+is able to induce signal transduction. Both immunological and in vitro biological
+activity of marmoset FSH was found to be comparable to purified human pituitary
+FSH, which served as reference hormone for these assays. Thus, the study suggests
+that a Pichia expression system can be used for large-scale expression of
+bioactive recombinant marmoset FSH.
+
+DOI: 10.1007/s12010-015-1583-5 
+PMID: 25805018  [Indexed for MEDLINE]
+
+
+1261. Behav Brain Res. 2015;287:120-6. doi: 10.1016/j.bbr.2015.03.025. Epub 2015 Mar
+21.
+
+The serotonin 5-HT₁A receptor agonist tandospirone improves executive function in
+common marmosets.
+
+Baba S(1), Murai T(2), Nakako T(2), Enomoto T(1), Ono M(3), Shimizu I(1), Ikeda
+K(4).
+
+Author information: 
+(1)Drug Development Research Laboratories, Sumitomo Dainippon Pharma, Co., Ltd., 
+Osaka, Japan.
+(2)Ikeda Lab., Drug Development Research Laboratories, Sumitomo Dainippon Pharma,
+Co., Ltd., Osaka, Japan.
+(3)Innovative Drug Discovery Laboratories, Sumitomo Dainippon Pharma, Co., Ltd., 
+Osaka, Japan.
+(4)Ikeda Lab., Drug Development Research Laboratories, Sumitomo Dainippon Pharma,
+Co., Ltd., Osaka, Japan. Electronic address: kazuhito-ikeda@ds-pharma.co.jp.
+
+Previous pilot clinical studies have shown that the serotonin 5-HT1A receptor
+agonist tandospirone has beneficial effect on cognitive deficits associated with 
+schizophrenia. In the present study, we evaluated the cognitive efficacy of
+tandospirone, given alone or in combination with the antipsychotic blonanserin,
+risperidone or haloperidol, on executive function in marmosets using the object
+retrieval with detour (ORD) task. Treatment with tandospirone alone at 20 and 40 
+mg/kg increased the number of correct responses in the difficult trial, while
+risperidone (0.3mg/kg) and haloperidol (0.3mg/kg) decreased the number of correct
+responses in this trial. On the other hand, blonanserin (0.1-0.3mg/kg), an
+atypical antipsychotic highly selective for dopamine D2/D3 and serotonin 5-HT2A
+receptors, did not affect the number of correct responses in both the easy and
+difficult trials. Co-treatment with tandospirone (20mg/kg) and risperidone
+(0.1-0.3mg/kg) or haloperidol (0.1-0.3mg/kg) did not improve animals' performance
+in the difficult trial. However, co-treatment with tandospirone and blonanserin
+(0.1-0.3mg/kg) increased the number of correct responses in the difficult trial. 
+In addition, treatment with the dopamine D1 receptor agonist SKF-81297 at 1mg/kg 
+increased marmosets correct responses in the difficult trial. These results
+suggest that tandospirone is a promising candidate for the treatment of cognitive
+deficits associated with schizophrenia and that adjunctive treatment with
+tandospirone and blonanserin is more appropriate for cognitive deficits than
+combination therapy with tandospirone and risperidone or haloperidol. The results
+of this study also indicate that the putative mechanism of action of tandospirone
+might be related to enhancement of dopamine neurotransmission via activation of
+the 5-HT1A receptor.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbr.2015.03.025 
+PMID: 25804359  [Indexed for MEDLINE]
+

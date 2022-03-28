@@ -1,0 +1,89 @@
+
+
+1327. Exp Toxicol Pathol. 2015 Jan;67(1):41-51. doi: 10.1016/j.etp.2014.09.007. Epub
+2014 Nov 11.
+
+Histopathological characterization of renal tubular and interstitial changes in
+5/6 nephrectomized marmoset monkeys (Callithrix jacchus).
+
+Suzuki Y(1), Yamaguchi I(2), Myojo K(2), Kimoto N(3), Imaizumi M(2), Takada C(2),
+Sanada H(3), Takaba K(2), Yamate J(4).
+
+Author information: 
+(1)Translational Research Unit, Research and Development Division, Kyowa Hakko
+Kirin, Co., Ltd., Japan; Veterinary Pathology, Osaka Prefecture University,
+Japan. Electronic address: yui.manabe@kyowa-kirin.co.jp.
+(2)Translational Research Unit, Research and Development Division, Kyowa Hakko
+Kirin, Co., Ltd., Japan.
+(3)Research Functions Unit, Research and Development Division, Kyowa Hakko Kirin,
+Co., Ltd., Japan.
+(4)Veterinary Pathology, Osaka Prefecture University, Japan.
+
+Common marmosets (Callithrix jacchus) have become a useful animal model,
+particularly for development of biopharmaceuticals. While various renal failure
+models have been established in rodents, there is currently no acceptable model
+in marmosets. We analyzed the damaged renal tubules and tubulointerstitial
+changes (inflammation and fibrosis) of 5/6 nephrectomized (Nx) common marmosets
+by histopathological/immunohistochemical methods, and compared these findings to 
+those in 5/6 Nx SD rats. In Nx marmosets and rats sacrificed at 5 and 13 weeks
+after Nx, variously dilated and atrophied renal tubules were seen in the cortex
+in common; however, the epithelial proliferating activity was much less in Nx
+marmosets. Furthermore, the degrees of inflammation and fibrosis seen in the
+affected cortex were more severe and massive in Nx marmosets with time-dependent 
+increase. Interestingly, inflammation in Nx marmosets, of which degree was less
+in Nx rats, consisted of a large number of CD3-positive T cells and CD20-positive
+B cells (occasionally forming follicles), and a few CD68-positive macrophages.
+Based on these findings, lymphocytes might contribute to the progressive renal
+lesions in Nx marmosets. Fibrotic areas in Nx marmosets comprised myofibroblasts 
+expressing vimentin and α-smooth muscle actin (α-SMA), whereas along with
+vimentin and α-SMA expressions, desmin was expressed in myofibroblasts in Nx
+rats. This study shows that there are some differences in renal lesions induced
+by Nx between marmosets and rats, which would provide useful, base-line
+information for pharmacology and toxicology studies using Nx marmosets.
+
+Copyright © 2014 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.etp.2014.09.007 
+PMID: 25446802  [Indexed for MEDLINE]
+
+
+1328. Oncol Rep. 2015 Feb;33(2):958-66. doi: 10.3892/or.2014.3625. Epub 2014 Nov 25.
+
+The V-val subtype Epstein-Barr virus nuclear antigen 1 promotes cell survival
+after serum withdrawal.
+
+Chao M(1), Wang HN(1), Lu YJ(1), Chang YS(1), Yu JS(2).
+
+Author information: 
+(1)Division of Microbiology, Graduate Institute of Biomedical Sciences, Chang
+Gung University, Kwei-Shan, Tao-Yang 333, Taiwan R.O.C.
+(2)Molecular Medicine Research Center, College of Medicine, Chang Gung
+University, Kwei-Shan, Tao-Yang 333, Taiwan R.O.C.
+
+Epstein-Barr virus (EBV) can establish latent infection and has been associated
+with various human cancers. Epstein-Barr nuclear antigen 1 (EBNA1) is the only
+viral protein that is expressed in all EBV-associated malignant tissues. The N-
+and C-terminal domains of EBNA1, which are connected by internal
+glycine/alanine-rich short repeat sequences of various sizes, show sequence
+divergence across EBV strains isolated from around the world. At least five
+subtypes have been described, according to the amino acid at residue 487: P-ala, 
+P-thr, V-val, V-pro, and V-leu. Whether the variations of EBNA-1 contribute to
+the pathogenesis of EBV or simply reflect the geographical distribution of EBV
+remain to be investigated. Furthermore, the cell effects conferred by EBNA1
+subtypes that differ from that of the B95.8 prototype, which belongs to the P-ala
+subtype, remain to be elucidated. In this study, PCR was amplified with the
+full-length V-val EBNA1 gene from the CG3 cell line, an EBV-carrying
+lymphoblastoid cell line derived from a Taiwanese chronic myeloid leukemia
+patient. Plasmids expressing His-tagged EBNA1 fusion proteins in E. coli were
+constructed and used to raise antibodies in rabbit. The V-val EBNA1 gene was then
+cloned into a eukaryotic expression vector and successfully expressed in the
+transfected cultured cells. Expression of V-val EBNA1 rendered 293 cells able to 
+undergo serum‑independent cell proliferation, providing them with anti-apoptotic 
+abilities, which are two characteristics of cancer cells. These data suggested
+that use of EBNA1 originally derived from tumor cells, rather than the more
+commonly utilized prototype, when investigating the potential role of EBNA1 in
+the oncogenesis of EBV-associated malignancies, is crucial.
+
+DOI: 10.3892/or.2014.3625 
+PMID: 25434292  [Indexed for MEDLINE]
+

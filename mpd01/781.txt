@@ -1,0 +1,104 @@
+
+
+781. PLoS One. 2017 Nov 14;12(11):e0188013. doi: 10.1371/journal.pone.0188013.
+eCollection 2017.
+
+Severe oxidative stress in an acute inflammatory demyelinating model in the
+rhesus monkey.
+
+Dunham J(1)(2), van de Vis R(1), Bauer J(3), Wubben J(1), van Driel N(1), Laman
+JD(2), 't Hart BA(1)(2), Kap YS(1).
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Centre, Rijswijk, The
+Netherlands.
+(2)University Groningen, University Medical Center, Department of Neuroscience,
+Groningen, The Netherlands.
+(3)Department Neuroimmunology, Brain Research Institute, Medical University,
+Vienna, Austria.
+
+Oxidative stress is increasingly implicated as a co-factor of tissue injury in
+inflammatory/demyelinating disorders of the central nervous system (CNS), such as
+multiple sclerosis (MS). While rodent experimental autoimmune encephalomyelitis
+(EAE) models diverge from human demyelinating disorders with respect to limited
+oxidative injury, we observed that in a non-human primate (NHP) model for MS,
+namely EAE in the common marmoset, key pathological features of the disease were 
+recapitulated, including oxidative tissue injury. Here, we investigated the
+presence of oxidative injury in another NHP EAE model, i.e. in rhesus macaques,
+which yields an acute demyelinating disease, which may more closely resemble
+acute disseminated encephalomyelitis (ADEM) than MS. Rhesus monkey EAE diverges
+from marmoset EAE by abundant neutrophil recruitment into the CNS and destructive
+injury to white matter. This difference prompted us to investigate to which
+extent the oxidative pathway features elicited in MS and marmoset EAE are
+reflected in the acute rhesus monkey EAE model. The rhesus EAE brain was
+characterized by widespread demyelination and active lesions containing numerous 
+phagocytic cells and to a lesser extent T cells. We observed induction of the
+oxidative stress pathway, including injury, with a predilection of p22phox
+expression in neutrophils and macrophages/microglia. In addition, changes in iron
+were observed. These results indicate that pathogenic mechanisms in the rhesus
+EAE model may differ from the marmoset EAE and MS brain due to the neutrophil
+involvement, but may in the end lead to similar induction of oxidative stress and
+injury.
+
+DOI: 10.1371/journal.pone.0188013 
+PMCID: PMC5685592
+PMID: 29136024  [Indexed for MEDLINE]
+
+
+782. Vision Res. 2018 Oct;151:41-52. doi: 10.1016/j.visres.2017.09.002. Epub 2017 Nov 
+22.
+
+Chromatic summation and receptive field properties of blue-on and blue-off cells 
+in marmoset lateral geniculate nucleus.
+
+Eiber CD(1), Pietersen ANJ(2), Zeater N(3), Solomon SG(4), Martin PR(5).
+
+Author information: 
+(1)Save Sight Institute, University of Sydney, Sydney, Australia; School of
+Medical Sciences, University of Sydney, Sydney, Australia; Australian Research
+Council Centre of Excellence for Integrative Brain Function, University of
+Sydney, Australia. Electronic address: calvin.eiber@sydney.edu.au.
+(2)Save Sight Institute, University of Sydney, Sydney, Australia; School of
+Medical Sciences, University of Sydney, Sydney, Australia; Australian Research
+Council Centre of Excellence for Integrative Brain Function, University of
+Sydney, Australia. Electronic address: alexander.pietersen@sydney.edu.au.
+(3)Save Sight Institute, University of Sydney, Sydney, Australia; School of
+Medical Sciences, University of Sydney, Sydney, Australia; Australian Research
+Council Centre of Excellence for Integrative Brain Function, University of
+Sydney, Australia. Electronic address: natalie.zeater@sydney.edu.au.
+(4)School of Medical Sciences, University of Sydney, Sydney, Australia;
+Department of Experimental Psychology, University College London, United Kingdom.
+Electronic address: samuels@physiol.usyd.edu.au.
+(5)Save Sight Institute, University of Sydney, Sydney, Australia; School of
+Medical Sciences, University of Sydney, Sydney, Australia; Australian Research
+Council Centre of Excellence for Integrative Brain Function, University of
+Sydney, Australia. Electronic address: prmartin@physiol.usyd.edu.au.
+
+The "blue-on" and "blue-off" receptive fields in retina and dorsal lateral
+geniculate nucleus (LGN) of diurnal primates combine signals from
+short-wavelength sensitive (S) cone photoreceptors with signals from medium/long 
+wavelength sensitive (ML) photoreceptors. Three questions about this combination 
+remain unresolved. Firstly, is the combination of S and ML signals in these cells
+linear or non-linear? Secondly, how does the timing of S and ML inputs to these
+cells influence their responses? Thirdly, is there spatial antagonism within S
+and ML subunits of the receptive field of these cells? We measured contrast
+sensitivity and spatial frequency tuning for four types of drifting sine
+gratings: S cone isolating, ML cone isolating, achromatic (S + ML), and
+counterphase chromatic (S - ML), in extracellular recordings from LGN of marmoset
+monkeys. We found that responses to stimuli which modulate both S and ML cones
+are well predicted by a linear sum of S and ML signals, followed by a saturating 
+contrast-response relation. Differences in sensitivity and timing (i.e. vector
+combination) between S and ML inputs are needed to explain the amplitude and
+phase of responses to achromatic (S + ML) and counterphase chromatic (S - ML)
+stimuli. Best-fit spatial receptive fields for S and/or ML subunits in most cells
+(>80%) required antagonistic surrounds, usually in the S subunit. The surrounds
+were however generally weak and had little influence on spatial tuning. The
+sensitivity and size of S and ML subunits were correlated on a cell-by-cell
+basis, adding to evidence that blue-on and blue-off receptive fields are
+specialised to signal chromatic but not spatial contrast.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.visres.2017.09.002 
+PMID: 29129732  [Indexed for MEDLINE]
+

@@ -1,0 +1,72 @@
+
+
+1424. Mol Cell. 2014 Apr 10;54(1):67-79. doi: 10.1016/j.molcel.2014.03.025.
+
+Alternative capture of noncoding RNAs or protein-coding genes by herpesviruses to
+alter host T cell function.
+
+Guo YE(1), Riley KJ(2), Iwasaki A(3), Steitz JA(4).
+
+Author information: 
+(1)Department of Cell Biology, Yale University School of Medicine, New Haven, CT 
+06536, USA.
+(2)Department of Molecular Biophysics and Biochemistry, Yale University School of
+Medicine, New Haven, CT 06536, USA.
+(3)Department of Immunobiology, Yale University School of Medicine, New Haven, CT
+06536, USA; Howard Hughes Medical Institute, Yale University School of Medicine, 
+New Haven, CT 06536, USA.
+(4)Department of Molecular Biophysics and Biochemistry, Yale University School of
+Medicine, New Haven, CT 06536, USA; Howard Hughes Medical Institute, Yale
+University School of Medicine, New Haven, CT 06536, USA. Electronic address:
+joan.steitz@yale.edu.
+
+In marmoset T cells transformed by Herpesvirus saimiri (HVS), a viral U-rich
+noncoding (nc) RNA, HSUR 1, specifically mediates degradation of host microRNA-27
+(miR-27). High-throughput sequencing of RNA after crosslinking
+immunoprecipitation (HITS-CLIP) identified mRNAs targeted by miR-27 as enriched
+in the T cell receptor (TCR) signaling pathway, including GRB2. Accordingly,
+transfection of miR-27 into human T cells attenuates TCR-induced activation of
+mitogen-activated protein kinases (MAPKs) and induction of CD69. MiR-27 also
+robustly regulates SEMA7A and IFN-γ, key modulators and effectors of T cell
+function. Knockdown or ectopic expression of HSUR 1 alters levels of these
+proteins in virally transformed cells. Two other T-lymphotropic γ-herpesviruses, 
+AlHV-1 and OvHV-2, do not produce a noncoding RNA to downregulate miR-27 but
+instead encode homologs of miR-27 target genes. Thus, oncogenic γ-herpesviruses
+have evolved diverse strategies to converge on common targets in host T cells.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.molcel.2014.03.025 
+PMCID: PMC4039351
+PMID: 24725595  [Indexed for MEDLINE]
+
+
+1425. Vis Neurosci. 2014 May;31(3):263-73. doi: 10.1017/S0952523814000066. Epub 2014
+Apr 7.
+
+Antidromic latency of magnocellular, parvocellular, and koniocellular (Blue-ON)
+geniculocortical relay cells in marmosets.
+
+Cheong SK(1), Johannes Pietersen AN(1).
+
+Author information: 
+(1)ARC Centre of Excellence in Vision Science,The University of Sydney Eye
+Hospital Campus,Sydney,New South Wales 2001,Australia.
+
+We studied the functional connectivity of cells in the lateral geniculate nucleus
+(LGN) with the primary visual cortex (V1) in anesthetized marmosets (Callithrix
+jacchus). The LGN sends signals to V1 along parallel visual pathways called
+parvocellular (P), magnocellular (M), and koniocellular (K). To better understand
+how these pathways provide inputs to V1, we antidromically activated relay cells 
+in the LGN by electrically stimulating V1 and measuring the conduction latencies 
+of P (n = 7), M (n = 14), and the "Blue-ON" (n = 5) subgroup of K cells (K-BON
+cells). We found that the antidromic latencies of K-BON cells were similar to
+those of P cells. We also measured the response latencies to high contrast visual
+stimuli for a subset of cells. We found the LGN cells that have the shortest
+latency of response to visual stimulation also have the shortest antidromic
+latencies. We conclude that Blue color signals are transmitted directly to V1
+from the LGN by K-BON cells.
+
+DOI: 10.1017/S0952523814000066 
+PMID: 24703370  [Indexed for MEDLINE]
+

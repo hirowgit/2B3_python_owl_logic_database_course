@@ -1,0 +1,99 @@
+
+
+269. J Vet Pharmacol Ther. 2021 Jan;44(1):18-27. doi: 10.1111/jvp.12905. Epub 2020 Sep
+2.
+
+Pharmacokinetics and effects on clinical and physiological parameters following a
+single bolus dose of propofol in common marmosets (Callithrix jacchus).
+
+Muta K(1), Miyabe-Nishiwaki T(2), Masui K(3), Yajima I(4), Iizuka T(1), Kaneko
+A(2), Nishimura R(1).
+
+Author information: 
+(1)Laboratory of Veterinary Surgery, Graduate School of Agricultural and Life
+Sciences, the University of Tokyo, Tokyo, Japan.
+(2)Center for Human Evolution Modeling Research, Primate Research Institute,
+Kyoto University, Inuyama, Aichi, Japan.
+(3)Department of Anesthesiology, Showa University School of Medicine, Tokyo,
+Japan.
+(4)Department of Pharmacy, National Defense Medical College Hospital, Tokorozawa,
+Saitama, Japan.
+
+The objectives of this study were (a) to establish a population pharmacokinetic
+model and (b) to investigate the clinical and physiological effects of a single
+bolus dose of propofol in common marmosets. In Study 1, pharmacokinetic analysis 
+was performed in six marmosets under sevoflurane anaesthesia. 8 mg/kg of propofol
+was administrated at a rate of 4 mg kg-1  min-1 . Blood samples were collected 2,
+5, 15, 30, 60, 90, 120 or 180 min after starting propofol administration. Plasma 
+concentration was measured, and population pharmacokinetic modelling was
+performed. A two-compartment model was selected as the final model. The
+population pharmacokinetic parameters were as follows: V1  = 1.14 L, V2  = 77.6
+L, CL1  = 0.00182 L/min, CL2  = 0.0461 L/min. In Study 2, clinical and
+physiological parameters were assessed and recorded every 2 min after 12 mg/kg of
+propofol was administrated at a rate of 4 mg kg-1  min-1 . Immobilization was
+sustained for 5 min following propofol administration without apparent
+bradycardia. While combination of propofol and sevoflurane caused apnoea in Study
+1, apnoea was not observed following single administration of propofol in Study
+2. These data provide bases for further investigation on intravenous anaesthesia 
+using propofol in common marmosets.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/jvp.12905 
+PMID: 32880998  [Indexed for MEDLINE]
+
+
+270. Neuroscience. 2020 Oct 15;446:145-156. doi: 10.1016/j.neuroscience.2020.08.031.
+Epub 2020 Aug 29.
+
+Axonal Projections from Middle Temporal Area to the Pulvinar in the Common
+Marmoset.
+
+Arafune-Mishima A(1), Abe H(2), Tani T(2), Mashiko H(2), Watanabe S(3), Sakai
+K(3), Suzuki W(3), Mizukami H(4), Watakabe A(2), Yamamori T(2), Ichinohe N(5).
+
+Author information: 
+(1)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Tokyo, Japan; Department of NCNP
+Brain Physiology and Pathology, Graduate School of Medical and Dental Sciences,
+Tokyo Medical and Dental University, Japan.
+(2)Laboratory for Molecular Analysis of Higher Brain Function, Center for Brain
+Science, RIKEN, Saitama, Japan.
+(3)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Tokyo, Japan.
+(4)Division of Genetic Therapeutics, Center for Molecular Medicine, Jichi Medical
+University, Tochigi, Japan.
+(5)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Tokyo, Japan; Ichinohe Group,
+Laboratory for Molecular Analysis of Higher Brain Function, Center for Brain
+Science, RIKEN, Saitama, Japan. Electronic address: nichinohe@brain.riken.jp.
+
+The pulvinar, the largest thalamic nucleus in the primate brain, has connections 
+with a variety of cortical areas and is involved in many aspects of higher brain 
+functions. Among cortico-pulvino-cortical systems, the connection between the
+middle temporal area (MT) and the pulvinar has been thought to contribute
+significantly to complex motion recognition. Recently, the common marmoset
+(Callithrix jacchus), has become a valuable model for a variety of neuroscience
+studies, including visual neuroscience and translational research of neurological
+and psychiatric disorders. However, information on projections from MT to the
+pulvinar in the marmoset brain is scant. We addressed this deficiency by
+injecting sensitive anterograde viral tracers into MT to examine the distribution
+of labeled terminations in the pulvinar. The injection sites were placed
+retinotopically according to visual field coordinates mapped by optical intrinsic
+imaging. All injections produced anterograde terminal labeling, which was densest
+in the medial nucleus of the inferior pulvinar (PIm), sparser in the central
+nucleus of the inferior pulvinar, and weakest in the lateral pulvinar. Within
+each subnucleus, terminations formed separate retinotopic fields. Most labeled
+terminals were small but these comingled with a few large terminals, distributed 
+mainly in the dorsomedial part of the PIm. Our results further delineate the
+organization of projections from MT to the pulvinar in the marmoset as forming
+parallel complex networks, which may differentially contribute to motion
+processing. It is interesting that the densest projections from MT target the
+PIm, the subnucleus recently reported to preferentially receive direct retinal
+projections.
+
+Copyright © 2020 IBRO. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuroscience.2020.08.031 
+PMID: 32866602  [Indexed for MEDLINE]
+

@@ -1,0 +1,76 @@
+
+
+3764. Toxicol Appl Pharmacol. 1996 Sep;140(1):77-84.
+
+Enzymatic methylation of arsenic compounds. III. The marmoset and tamarin, but
+not the rhesus, monkeys are deficient in methyltransferases that methylate
+inorganic arsenic.
+
+Zakharyan RA(1), Wildfang E, Aposhian HV.
+
+Author information: 
+(1)Department of Molecular and Cellular Biology, University of Arizona, Tucson
+85721, USA.
+
+The methylation of inorganic arsenic to monomethylarsonic acid (MMA) and
+dimethylarsinic acid (DMA) have been generally considered to be the major pathway
+for inorganic arsenic biotransformation and detoxification. Yet, when
+arsenate/arsenite is injected into the Callithrix jacchus (marmoset) monkey or
+chimpanzee, monomethylarsonic acid and dimethylarsinic acid are not found in the 
+urine. With the development of a rapid assay for the methyltransferases of
+arsenic metabolism, we have investigated the methyltransferases of the marmoset
+monkey liver. We have found that the marmoset, a New World animal, is deficient
+in liver arsenite and monomethylarsonic acid methyltransferase activities.
+However, the rhesus monkey, an Old World animal, has ample amounts of such
+methyltransferase activities. The tamarin, another New World species, is also
+deficient in these methyltransferases. Polymorphism and deficiency of these
+methyltransferases may have allowed high levels of arsenite to be maintained in
+the blood and liver of the marmoset and tamarin. Such high levels of arsenite may
+have been selective for survival of the species. The rhesus liver
+methyltransferases for arsenite and MMA have been purified and found to have some
+properties different from those of the previously reported purified rabbit liver 
+activities. The rhesus and rabbit liver arsenite and MMA methyltransferases are
+devoid of catechol O-methyltransferase activity.
+
+DOI: 10.1006/taap.1996.0199 
+PMID: 8806872  [Indexed for MEDLINE]
+
+
+3765. J Virol. 1996 Sep;70(9):6314-22.
+
+Human adenovirus-specific CD8+ T-cell responses are not inhibited by E3-19K in
+the presence of gamma interferon.
+
+Flomenberg P(1), Piaskowski V, Truitt RL, Casper JT.
+
+Author information: 
+(1)Department of Medicine, Thomas Jefferson Medical College, Philadelphia,
+Pennsylvania 19107, USA.
+
+Adenovirus has considerable potential as a gene therapy vector, but recent animal
+data suggest that transduced cells are destroyed by adenovirus-specific cytotoxic
+T-lymphocyte (CTL) responses. Therefore, it will be important to develop
+strategies to evade adenovirus-specific CTL responses in humans. As a first step,
+an assay was developed to detect and characterize human CTLs directed against
+adenovirus. Adenovirus-specific CTL responses were demonstrated to be present in 
+four of five healthy adults by in vitro stimulation of peripheral blood
+mononuclear cells with autologous fibroblasts infected with the adenovirus type 2
+(Ad2) E3 deletion mutant Ad2+ND1. Killing by adenovirus-specific CTLs was major
+histocompatibility complex class I restricted and was documented to be mediated
+by CD8+ T cells. Wild-type-Ad2-infected cells were poor CTL targets compared with
+cells infected with the E3 deletion mutant because of the expression of E3-19K,
+an early viral glycoprotein which prevents transport of major histocompatibility 
+complex class I antigens out of the endoplasmic reticulum to the cell surface.
+However, preincubation of targets with gamma interferon resulted in enhanced
+killing of wild-type-Ad2-infected cells, to levels comparable to those obtained
+with Ad2+ ND1-infected cells. Radioimmunoprecipitation analysis revealed that
+gamma interferon not only increased the synthesis of class I antigens but also
+allowed excess molecules to escape from the endoplasmic reticulum. It is
+concluded that E3-19K expression in adenovirus-infected cells inhibits human CTL 
+recognition in vitro but that gamma interferon may help overcome the E3-19K
+effect during acute infection in vivo.
+
+DOI: 10.1128/JVI.70.9.6314-6322.1996 
+PMCID: PMC190657
+PMID: 8709259  [Indexed for MEDLINE]
+

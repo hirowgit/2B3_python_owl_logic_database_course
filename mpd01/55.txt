@@ -1,0 +1,96 @@
+
+
+55. Proc Natl Acad Sci U S A. 2021 Nov 2;118(44). pii: e2104884118. doi:
+10.1073/pnas.2104884118.
+
+An uncommon neuronal class conveys visual signals from rods and cones to retinal 
+ganglion cells.
+
+Young BK(1)(2), Ramakrishnan C(3), Ganjawala T(4), Wang P(1), Deisseroth K(3)(5),
+Tian N(6)(2)(7)(8)(9).
+
+Author information: 
+(1)Department of Ophthalmology & Visual Sciences, University of Utah, Salt Lake
+City, UT 84132.
+(2)Interdepartmental Neuroscience Program, University of Utah, Salt Lake City, UT
+84114.
+(3)Department of Bioengineering, Stanford University, Stanford, CA 94305.
+(4)Department of Ophthalmology, Visual and Anatomical Sciences, Wayne State
+University School of Medicine, Detroit, MI 48202.
+(5)Howard Hughes Medical Institute, Stanford University, Stanford, CA 94305.
+(6)Department of Ophthalmology & Visual Sciences, University of Utah, Salt Lake
+City, UT 84132; ning.tian@hsc.utah.edu.
+(7)Department of Neurobiology, University of Utah, Salt Lake City, UT 84132.
+(8)Department of Biomedical Engineering, University of Utah, Salt Lake City, UT
+84132.
+(9)Veterans Affairs Medical Center, Salt Lake City, UT 84148.
+
+Neurons in the central nervous system (CNS) are distinguished by the
+neurotransmitter types they release, their synaptic connections, morphology, and 
+genetic profiles. To fully understand how the CNS works, it is critical to
+identify all neuronal classes and reveal their synaptic connections. The retina
+has been extensively used to study neuronal development and circuit formation.
+Here, we describe a previously unidentified interneuron in mammalian retina. This
+interneuron shares some morphological, physiological, and molecular features with
+retinal bipolar cells, such as receiving input from photoreceptors and relaying
+visual signals to retinal ganglion cells. It also shares some features with
+amacrine cells (ACs), particularly Aii-ACs, such as their neurite morphology in
+the inner plexiform layer, the expression of some AC-specific markers, and
+possibly the release of the inhibitory neurotransmitter glycine. Thus, we unveil 
+an uncommon interneuron, which may play an atypical role in vision.
+
+DOI: 10.1073/pnas.2104884118 
+PMCID: PMC8612366 [Available on 2022-04-26]
+PMID: 34702737  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.
+
+
+56. Neurobiol Aging. 2022 Jan;109:88-99. doi: 10.1016/j.neurobiolaging.2021.09.015.
+Epub 2021 Sep 20.
+
+Sex differences in cognitive aging: a 4-year longitudinal study in marmosets.
+
+Rothwell ES(1), Workman KP(2), Wang D(2), Lacreuse A(3).
+
+Author information: 
+(1)Department of Psychological and Brain Sciences, University of Massachusetts,
+Amherst, MA, USA. Electronic address: erothwell@umass.edu.
+(2)Department of Psychological and Brain Sciences, University of Massachusetts,
+Amherst, MA, USA.
+(3)Department of Psychological and Brain Sciences, University of Massachusetts,
+Amherst, MA, USA; Neuroscience and Behavior Graduate Program, University of
+Massachusetts, Amherst, MA, USA.
+
+Longitudinal studies are essential to understand healthy and pathological
+neurocognitive aging such as Alzheimer's Disease, but longitudinal designs are
+rare in both humans and non-human primate models of aging because of the
+difficulty of tracking cognitive change in long-lived primates. Common marmosets 
+(Callithrix jacchus) are uniquely suited for aging studies due to their naturally
+short lifespan (10-12 years), sophisticated cognitive and social abilities and
+Alzheimer Disease-like neuropathology. We report the first longitudinal study of 
+cognitive aging in marmosets (N = 28) as they transitioned from middle- (∼5
+years) to old age (∼9 years). We characterized aging trajectories using reversal 
+learning with different stimuli each year. Marmosets initially improved on
+cognitive performance due to practice, but worsened in the final year, suggesting
+the onset of age-related decline. Cognitive impairment emerged earlier in females
+than males and was more prominent for discrimination than for reversal learning. 
+Sex differences in cognitive aging could not be explained by differences in
+motivation or motor abilities, which improved or remained stable across aging.
+Likewise, males and females did not differ in aging trajectories of overall
+behavior or reactivity to a social stressor, with the exception of a progressive 
+decline in the initiation of social behavior in females. Patterns of cognitive
+aging were highly variable across marmosets of both sexes, suggesting the
+potential for pathological aging for some individuals. Future work will link
+individual cognitive trajectories to neuropathology in order to better understand
+the relationships between neuropathologic burden and vulnerability to age-related
+cognitive decline in each sex.
+
+Copyright © 2021. Published by Elsevier Inc.
+
+DOI: 10.1016/j.neurobiolaging.2021.09.015 
+PMCID: PMC8841951 [Available on 2023-01-01]
+PMID: 34700200  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations of Interest None.
+

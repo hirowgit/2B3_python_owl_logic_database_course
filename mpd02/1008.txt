@@ -1,0 +1,67 @@
+
+
+1008. J Virol. 2016 Sep 29;90(20):9153-62. doi: 10.1128/JVI.01051-16. Print 2016 Oct
+15.
+
+Acute Liver Damage Associated with Innate Immune Activation in a Small Nonhuman
+Primate Model of Hepacivirus Infection.
+
+Manickam C(1), Rajakumar P(2), Wachtman L(3), Kramer JA(3), Martinot AJ(1),
+Varner V(1), Giavedoni LD(4), Reeves RK(5).
+
+Author information: 
+(1)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, Massachusetts, USA.
+(2)Yerkes National Primate Research Center, Emory University, Atlanta, Georgia,
+USA.
+(3)New England Primate Research Center, Harvard Medical School, Southborough
+Campus, Southborough, Massachusetts, USA.
+(4)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, Texas, USA.
+(5)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, Massachusetts, USA New England Primate Research Center, Harvard
+Medical School, Southborough Campus, Southborough, Massachusetts, USA
+rreeves@bidmc.harvard.edu.
+
+Despite its importance in shaping adaptive immune responses, viral clearance, and
+immune-based inflammation, tissue-specific innate immunity remains poorly
+characterized for hepatitis C virus (HCV) infection due to the lack of access to 
+acutely infected tissues. In this study, we evaluated the impact of natural
+killer (NK) cells and myeloid (mDCs) and plasmacytoid (pDCs) dendritic cells on
+control of virus replication and virus-induced pathology caused by another, more 
+rapidly resolving hepacivirus, GB virus B (GBV-B), in infections of common
+marmosets. High plasma and liver viral loads and robust hepatitis characterized
+acute GBV-B infection, and while viremia was generally cleared by 2 to 3 months
+postinfection, hepatitis and liver fibrosis persisted after clearance. Coinciding
+with peak viral loads and liver pathology, the levels of NK cells, mDCs, and pDCs
+in the liver increased up to 3-fold. Although no obvious numerical changes in
+peripheral innate cells occurred, circulating NK cells exhibited increased
+perforin and Ki67 expression levels and increased surface expression of CXCR3.
+These data suggested that increased NK cell arming and proliferation as well as
+tissue trafficking may be associated with influx into the liver during acute
+infection. Indeed, NK cell frequencies in the liver positively correlated with
+plasma (R = 0.698; P = 0.015) and liver (R = 0.567; P = 0.057) viral loads.
+Finally, soluble factors associated with NK cells and DCs, including gamma
+interferon (IFN-γ) and RANTES, were increased in acute infection and also were
+associated with viral loads and hepatitis. Collectively, the findings showed that
+mobilization of local and circulating innate immune responses was linked to acute
+virus-induced hepatitis, and potentially to resolution of GBV-B infection, and
+our results may provide insight into similar mechanisms in HCV
+infection.IMPORTANCE: Hepatitis C virus (HCV) infection has created a global
+health crisis, and despite new effective antivirals, it is still a leading cause 
+of liver disease and death worldwide. Recent evidence suggests that innate
+immunity may be a potential therapeutic target for HCV, but it may also be a
+correlate of increased disease. Due to a lack of access to human tissues with
+acute HCV infection, in this study we evaluated the role of innate immunity in
+resolving infection with a hepacivirus, GBV-B, in common marmosets. Collectively,
+our data suggest that NK cell and DC mobilization in acute hepacivirus infection 
+can dampen virus replication but also regulate acute and chronic liver damage.
+How these two opposing effects on the host may be modulated in future therapeutic
+and vaccine approaches warrants further study.
+
+Copyright © 2016, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.01051-16 
+PMCID: PMC5044824
+PMID: 27489267  [Indexed for MEDLINE]
+

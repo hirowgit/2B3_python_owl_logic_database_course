@@ -1,0 +1,110 @@
+
+
+1264. J Neurosci. 2015 Mar 18;35(11):4657-62. doi: 10.1523/JNEUROSCI.4509-14.2015.
+
+Emergence of complex wave patterns in primate cerebral cortex.
+
+Townsend RG(1), Solomon SS(2), Chen SC(2), Pietersen AN(2), Martin PR(3), Solomon
+SG(4), Gong P(5).
+
+Author information: 
+(1)School of Physics, University of Sydney, New South Wales 2006, Australia, ARC 
+Centre of Excellence for Integrative Brain Function, University of Sydney, New
+South Wales 2001, Australia.
+(2)ARC Centre of Excellence for Integrative Brain Function, University of Sydney,
+New South Wales 2001, Australia, Discipline of Physiology, University of Sydney, 
+Sydney, New South Wales 2006, Australia.
+(3)ARC Centre of Excellence for Integrative Brain Function, University of Sydney,
+New South Wales 2001, Australia, Discipline of Physiology, University of Sydney, 
+Sydney, New South Wales 2006, Australia, Save Sight Institute, University of
+Sydney, Sydney, New South Wales 2001, Australia, and prmartin@sydney.edu.au
+p.gong@physics.usyd.edu.au.
+(4)Discipline of Physiology, University of Sydney, Sydney, New South Wales 2006, 
+Australia, Department of Experimental Psychology, University College London, WC1P
+0AH, London, United Kingdom.
+(5)School of Physics, University of Sydney, New South Wales 2006, Australia, ARC 
+Centre of Excellence for Integrative Brain Function, University of Sydney, New
+South Wales 2001, Australia, prmartin@sydney.edu.au p.gong@physics.usyd.edu.au.
+
+Slow brain rhythms are attributed to near-simultaneous (synchronous) changes in
+activity in neuron populations in the brain. Because they are slow and
+widespread, synchronous rhythms have not been considered crucial for information 
+processing in the waking state. Here we adapted methods from turbulence physics
+to analyze δ-band (1-4 Hz) rhythms in local field potential (LFP) activity, in
+multielectrode recordings from cerebral cortex in anesthetized marmoset monkeys. 
+We found that synchrony contributes only a small fraction (less than one-fourth) 
+to the local spatiotemporal structure of δ-band signals. Rather, δ-band activity 
+is dominated by propagating plane waves and spatiotemporal structures, which we
+call complex waves. Complex waves are manifest at submillimeter spatial scales,
+and millisecond-range temporal scales. We show that complex waves can be
+characterized by their relation to phase singularities within local nerve cell
+networks. We validate the biological relevance of complex waves by showing that
+nerve cell spike rates are higher in presence of complex waves than in the
+presence of synchrony and that there are nonrandom patterns of evolution from one
+type of complex wave to another. We conclude that slow brain rhythms
+predominantly indicate spatiotemporally organized activity in local nerve cell
+circuits, not synchronous activity within and across brain regions.
+
+Copyright © 2015 the authors 0270-6474/15/354657-06$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.4509-14.2015 
+PMCID: PMC4363391
+PMID: 25788682  [Indexed for MEDLINE]
+
+
+1265. PLoS One. 2015 Mar 18;10(3):e0118424. doi: 10.1371/journal.pone.0118424.
+eCollection 2015.
+
+Non-viral generation of marmoset monkey iPS cells by a six-factor-in-one-vector
+approach.
+
+Debowski K(1), Warthemann R(1), Lentes J(1), Salinas-Riester G(2), Dressel R(3), 
+Langenstroth D(4), Gromoll J(4), Sasaki E(5), Behr R(6).
+
+Author information: 
+(1)Stem Cell Biology Unit, German Primate Center-Leibniz Institute for Primate
+Research, Göttingen, Germany.
+(2)Microarray and Deep-Sequencing Core Facility, University Medical Center
+Göttingen (UMG), Göttingen, Germany.
+(3)Department of Cellular and Molecular Immunology, University of Göttingen,
+Göttingen, Germany.
+(4)Centre of Reproductive Medicine and Andrology, University of Münster, Münster,
+Germany.
+(5)Department of Applied Developmental Biology, Central Institute for
+Experimental Animals, Kawasaki-ku, Kawasaki, Kanagawa, Japan, Keio Advanced
+Research Center, Keio University, Shinjuku-ku, Tokyo, Japan.
+(6)Stem Cell Biology Unit, German Primate Center-Leibniz Institute for Primate
+Research, Göttingen, Germany; DZHK (German Center for Cardiovascular Research),
+Partner Site Göttingen, Göttingen, Germany.
+
+Groundbreaking studies showed that differentiated somatic cells of mouse and
+human origin could be reverted to a stable pluripotent state by the ectopic
+expression of only four proteins. The resulting pluripotent cells, called induced
+pluripotent stem (iPS) cells, could be an alternative to embryonic stem cells,
+which are under continuous ethical debate. Hence, iPS cell-derived functional
+cells such as neurons may become the key for an effective treatment of currently 
+incurable degenerative diseases. However, besides the requirement of efficacy
+testing of the therapy also its long-term safety needs to be carefully evaluated 
+in settings mirroring the clinical situation in an optimal way. In this context, 
+we chose the long-lived common marmoset monkey (Callithrix jacchus) as a
+non-human primate species to generate iPS cells. The marmoset monkey is
+frequently used in biomedical research and is gaining more and more preclinical
+relevance due to the increasing number of disease models. Here, we describe, to
+our knowledge, the first-time generation of marmoset monkey iPS cells from
+postnatal skin fibroblasts by non-viral means. We used the transposon-based,
+fully reversible piggyback system. We cloned the marmoset monkey reprogramming
+factors and established robust and reproducible reprogramming protocols with a
+six-factor-in-one-construct approach. We generated six individual iPS cell lines 
+and characterized them in comparison with marmoset monkey embryonic stem cells.
+The generated iPS cells are morphologically indistinguishable from marmoset ES
+cells. The iPS cells are fully reprogrammed as demonstrated by differentiation
+assays, pluripotency marker expression and transcriptome analysis. They are
+stable for numerous passages (more than 80) and exhibit euploidy. In summary, we 
+have established efficient non-viral reprogramming protocols for the derivation
+of stable marmoset monkey iPS cells, which can be used to develop and test cell
+replacement therapies in preclinical settings.
+
+DOI: 10.1371/journal.pone.0118424 
+PMCID: PMC4365012
+PMID: 25785453  [Indexed for MEDLINE]
+

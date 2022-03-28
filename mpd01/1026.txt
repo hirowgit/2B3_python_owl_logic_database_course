@@ -1,0 +1,123 @@
+
+
+1026. J Virol. 2016 Aug 26;90(18):8198-211. doi: 10.1128/JVI.02653-15. Print 2016 Sep
+15.
+
+Infection of Common Marmosets with GB Virus B Chimeric Virus Encoding the Major
+Nonstructural Proteins NS2 to NS4A of Hepatitis C Virus.
+
+Zhu S(1), Li T(2), Liu B(1), Xu Y(1), Sun Y(1), Wang Y(1), Wang Y(3), Shuai L(4),
+Chen Z(1), Allain JP(5), Li C(6).
+
+Author information: 
+(1)Department of Transfusion Medicine, Southern Medical University, Guangzhou,
+China.
+(2)Department of Transfusion Medicine, Southern Medical University, Guangzhou,
+China apple-ting-007@163.com chengyaoli@hotmail.com.
+(3)Experimental Animal Center, Nanfang Hospital, Southern Medical University,
+Guangzhou, China.
+(4)Guangzhou Military Center of Disease Control, Guangzhou, China.
+(5)Department of Transfusion Medicine, Southern Medical University, Guangzhou,
+China Department of Haematology, University of Cambridge, Cambridge, United
+Kingdom.
+(6)Department of Transfusion Medicine, Southern Medical University, Guangzhou,
+China School of Public Health and Tropical Medicine, Southern Medical University,
+Guangzhou, China apple-ting-007@163.com chengyaoli@hotmail.com.
+
+A lack of immunocompetent-small-primate models has been an obstacle for
+developing hepatitis C virus (HCV) vaccines and affordable antiviral drugs. In
+this study, HCV/GB virus B (GBV-B) chimeric virus carrying the major
+nonstructural proteins NS2 to NS4A (HCV NS2 to -4A chimera) was produced and used
+to infect common marmosets, since HCV NS2 to NS4A proteins are critical proteases
+and major antigens. Seven marmosets were inoculated intrahepatically with HCV NS2
+to -4A chimera RNA for primary infection or intravenously injected with
+chimera-containing serum for passage infection. Three animals used as controls
+were injected with phosphate-buffered saline (PBS) or GBV-B, respectively. Six of
+seven HCV NS2 to -4A chimera-infected marmosets exhibited consistent viremia and 
+one showed transient viremia during the course of follow-up detection. All six
+infected animals with persistent circulating viremia presented characteristics
+typical of viral hepatitis, including viral RNA and proteins in hepatocytes and
+histopathological changes in liver tissue. Viremia was consistently detected for 
+5 to 54 weeks of follow-up. FK506 immunosuppression facilitated the establishment
+of persistent chimera infection in marmosets. An animal with chimera infection
+spontaneously cleared the virus in blood 7 weeks following the first inoculation,
+but viral-RNA persistence, low-level viral protein, and mild necroinflammation
+remained in liver tissue. The specific antibody and T-cell response to HCV NS3 in
+this viremia-resolved marmoset was boosted by rechallenging, but no viremia was
+detected during 57 weeks of follow-up. The chimera-infected marmosets described
+can be used as a suitable small-primate animal model for studying novel antiviral
+drugs and T-cell-based vaccines against HCV infection.IMPORTANCE: HCV infection
+causes approximately 70% of chronic hepatitis and is frequently associated with
+primary liver cancer globally. Chimpanzees have been used as a reliable primate
+model for HCV infection, but ethical considerations have restricted their utility
+in biomedical research. GB virus B (GBV-B) is a flavivirus related to HCV. It can
+infect common marmosets, a New World small primate, and induces viral hepatitis
+similar to HCV infection in humans. To minimize differences between GBV-B and
+HCV, we generated HCV NS2 to -4A/GBV-B chimeric viruses and established a
+chimera-infected marmoset model. HCV NS2 to -4A chimera-infected marmosets
+provide a small-animal model for evaluating novel antiviral drugs targeting HCV
+NS3-NS4A protease and T-cell-based HCV vaccines.
+
+Copyright © 2016, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.02653-15 
+PMCID: PMC5008089 [Available on 2017-02-26]
+PMID: 27384651  [Indexed for MEDLINE]
+
+
+1027. Cell Stem Cell. 2016 Jul 7;19(1):127-38. doi: 10.1016/j.stem.2016.06.003. Epub
+2016 Jun 30.
+
+Generation of a Nonhuman Primate Model of Severe Combined Immunodeficiency Using 
+Highly Efficient Genome Editing.
+
+Sato K(1), Oiwa R(1), Kumita W(1), Henry R(2), Sakuma T(3), Ito R(1), Nozu R(1), 
+Inoue T(1), Katano I(1), Sato K(4), Okahara N(1), Okahara J(1), Shimizu Y(1),
+Yamamoto M(1), Hanazawa K(5), Kawakami T(6), Kametani Y(7), Suzuki R(8),
+Takahashi T(1), Weinstein EJ(2), Yamamoto T(3), Sakakibara Y(4), Habu S(9), Hata 
+J(1), Okano H(10), Sasaki E(11).
+
+Author information: 
+(1)Central Institute for Experimental Animals, Kawasaki, Kanagawa 210-0821,
+Japan.
+(2)Horizon Discovery, Saint Louis, MO 63146, USA.
+(3)Department of Mathematical and Life Sciences, Graduate School of Science,
+Hiroshima University, Hiroshima 739-8526, Japan.
+(4)Department of Biosciences and Informatics, Keio University, Yokohama, Kanagawa
+223-8522, Japan.
+(5)Department of Oncology, Juntendo University Nerima Hospital, Nerima-ku, Tokyo 
+177-8521, Japan.
+(6)Medical Proteo Scope Company, Ltd., Yokohama, Kanagawa 236-0004, Japan.
+(7)Department of Molecular Life Science, Division of Basic Medical Science and
+Molecular Medicine, Tokai University School of Medicine, Isehara, Kanagawa
+259-1193, Japan.
+(8)Department of Rheumatology and Clinical Immunology, Clinical Research Center
+for Rheumatology and Allergy, Sagamihara National Hospital, Sagamihara, Kanagawa 
+252-0392, Japan.
+(9)Atopy Research Center, Juntendo University Graduate School of Medicine,
+Bunkyo-ku, Tokyo 113-8421, Japan.
+(10)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan. Electronic address: hidokano@a2.keio.jp.
+(11)Central Institute for Experimental Animals, Kawasaki, Kanagawa 210-0821,
+Japan; Advanced Research Center, Keio University, Shinjuku-ku, Tokyo 160-8582,
+Japan. Electronic address: esasaki@ciea.or.jp.
+
+Recent advances in genome editing have facilitated the generation of nonhuman
+primate (NHP) models, with potential to unmask the complex biology of human
+disease not revealed by rodent models. However, their broader use is hindered by 
+the challenges associated with generation of adult NHP models as well as the cost
+of their production. Here, we describe the generation of a marmoset model of
+severe combined immunodeficiency (SCID). This study optimized zinc-finger
+nucleases (ZFNs) and transcription activator-like effector nucleases (TALENs) to 
+target interleukin-2 receptor subunit gamma (IL2RG) in pronuclear stage marmoset 
+embryos. Nine of 21 neonates exhibited mutations in the IL2RG gene, concomitant
+with immunodeficiency, and three neonates have currently survived from 240 days
+to 1.8 years. Our approach demonstrates highly efficient production of founder
+NHP with SCID phenotypes, with promises of multiple pre-clinical and
+translational applications.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.stem.2016.06.003 
+PMID: 27374787  [Indexed for MEDLINE]
+

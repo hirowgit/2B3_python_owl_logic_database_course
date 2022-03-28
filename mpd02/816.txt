@@ -1,0 +1,38 @@
+
+
+816. Hum Brain Mapp. 2017 Nov;38(11):5756-5777. doi: 10.1002/hbm.23766. Epub 2017 Aug 
+28.
+
+Analysis of vascular homogeneity and anisotropy on high-resolution primate brain 
+imaging.
+
+Kennel P(1), Fonta C(2), Guibert R(1), Plouraboué F(1).
+
+Author information: 
+(1)Institut de Mécanique des Fluides de Toulouse (IMFT), Université de Toulouse, 
+CNRS, INPT, UPS, Toulouse, France.
+(2)Brain and Cognition Research Center (CerCo), CNRS-University of Toulouse UPS, 
+F-31052 Toulouse Cedex, France.
+
+Using a systematic investigation of brain blood volume, in high-resolution
+synchrotron 3D images of microvascular structures within cortical regions of a
+primate brain, we challenge several basic questions regarding possible vascular
+bias in high-resolution functional neuroimaging. We present a bilateral
+comparison of cortical regions, where we analyze relative vascular volume in
+voxels from 150 to 1000 μm side lengths in the white and grey matter. We show
+that, if voxel size reaches a scale smaller than 300 µm, the vascular volume can 
+no longer be considered homogeneous, either within one hemisphere or in bilateral
+comparison between samples. We demonstrate that voxel size influences the
+comparison between vessel-relative volume distributions depending on the scale
+considered (i.e., hemisphere, lobe, or sample). Furthermore, we also investigate 
+how voxel anisotropy and orientation can affect the apparent vascular volume, in 
+accordance with actual fMRI voxel sizes. These findings are discussed from the
+various perspectives of high-resolution brain functional imaging. Hum Brain Mapp 
+38:5756-5777, 2017. © 2017 Wiley Periodicals, Inc.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hbm.23766 
+PMCID: PMC6866716
+PMID: 28845885  [Indexed for MEDLINE]
+

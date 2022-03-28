@@ -1,0 +1,42 @@
+
+
+1386. J Biol Regul Homeost Agents. 2014 Apr-Jun;28(2):183-93.
+
+Allogeneic and xenogeneic anti-tumor effect of callithrix jacchus natural killer 
+cells is dependent on NKp30 and B7-H6 interaction.
+
+Müller T(1), Schlahsa L(1), Zhang HJ(1), Skaik Y(1), Eiz-Vesper B(1), Immenschuh 
+S(1), Blasczyk R(1), Figueiredo C(1).
+
+Author information: 
+(1)Institute for Transfusion Medicine, Hannover Medical School, Hannover,
+Germany.
+
+Natural Killer (NK) cells mount a fast and efficient immune response against
+tumor cells and are currently a major focus in the development of anti-cancer
+cell-based therapies. Due to major differences between the murine and human NK
+cell receptor system, a non-human primate model would be helpful to evaluate the 
+efficiency of NK-cell based therapies prior to clinical applications. In humans, 
+B7-H6 has been shown to facilitate the elimination of lymphoma cells through the 
+interaction with its receptor NKp30. The common marmoset (Callithrix jacchus) is 
+a new world monkey readily used in biomedical research due to its easy management
+and proximity to humans. In this study, we demonstrated the expression of B7-H6
+antigen in marmoset B-lymphoblastoid cell lines. In addition, a method was
+established to isolate B- or NK-cells from peripheral blood of marmosets with
+purities of up to 97%We detected the expression of B7-H6 in lymphoma cells and
+for the first time in leukemic blasts of human acute myeloid leukemia (AML).
+Marmoset NK cells were shown to lyse marmoset B lymphoblastoid cell line (B-LCL) 
+cells by up to 28.4% and human B-LCL cells by up to 20%. This effect was
+abrogated when the NK cells were pre-treated with an anti-NKp30 specific
+antibody. Also, marmoset NK cells were able to lyse primary leukemic AML cells
+and lymphoma cells by up to 8.3 and 20.3%respectively. Stimulation of marmoset NK
+cells with recombinant B7-H6 induced phosphorylation of ERK1/2 and proliferation 
+rates. Furthermore, the secretion of IL-1β, IL-8, IFN-γ and TNF-α was
+significantly increased upon B7-H6 stimulation. In conclusion, we demonstrated
+that non-human primate NK cells have similar mechanisms for the lysis of tumor
+cells as human NK cells. Thus, this animal model constitutes a very promising
+tool for the development and evaluation of novel NK-cell based therapies.
+
+
+PMID: 25001651  [Indexed for MEDLINE]
+

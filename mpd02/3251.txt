@@ -1,0 +1,47 @@
+
+
+3251. Gene. 2000 Sep 19;255(2):335-45.
+
+Progressive inactivation of the haploid expressed gene for the sperm-specific
+endozepine-like peptide (ELP) through primate evolution.
+
+Ivell R(1), Pusch W, Balvers M, Valentin M, Walther N, Weinbauer G.
+
+Author information: 
+(1)Institute for Hormone and Fertility Research, University of Hamburg, Grandweg 
+64, 22529, Hamburg, Germany. ivell@ihf.de
+
+The endozepine-like peptide (ELP) is a novel intracellular molecule which is
+expressed in high amounts at both mRNA and protein levels very specifically in
+late haploid male germ cells. It is closely related to the ubiquitous acyl-CoA
+binding protein, is highly conserved, shares a similar ability to bind mid-long
+chain acyl-CoA, and is thus likely to be involved in mature sperm metabolism.
+While it has been characterized from diverse mammals, it has so far not been
+possible to identify an equivalent molecule in the primate testis. Using a PCR
+approach, combined with cDNA cloning and Northern hybridization, testicular
+transcripts and/or genomic DNA were analysed for different primate species,
+including human. In the marmoset and cynomolgus macaque normally structured
+transcripts appear to be expressed, though at a low level. In the human testis,
+two rare transcripts were characterized, hELP1 and hELP2, the products of
+independent duplicated genes. Both transcripts were longer than in non-mammalian 
+species, included frame-shift mutations and substantial sequence insertions,
+preventing the translation of a sensible protein. Genomic PCR analysis of three
+anthropoid species, chimpanzee, gorilla and orangutan, showed the presence of a
+similarly mutated hELP1 gene. Only in the gorilla was a hELP2 gene identified,
+apparently lacking the frame-shift mutation, and thus potentially able to give
+rise to a functional ELP protein. Taken together, these results show that during 
+primate evolution there has been a progressive inactivation of the ELP gene,
+initially with a down-regulation in lower primates, and subsequently with
+inactivating mutations in the open reading frame. At some time during simian
+evolution prior to these mutations there has been a gene duplication, though this
+second gene has also become inactivated in humans. In its pattern of evolution
+the ELP gene shows similarities with the MDC/fertilin family, whose members are
+also considered essential components of haploid sperm in non-primates, but which 
+are progressively inactivated in anthropoids and humans. We should like to
+speculate that the established subfertility of the human male may not be a recent
+event, but the consequence of a longer evolutionary process whereby primates have
+traded off absolute fertility against social or sexual advantages.
+
+DOI: 10.1016/s0378-1119(00)00317-6 
+PMID: 11024294  [Indexed for MEDLINE]
+

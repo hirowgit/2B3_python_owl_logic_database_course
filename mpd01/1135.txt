@@ -1,0 +1,92 @@
+
+
+1135. PLoS Negl Trop Dis. 2015 Nov 16;9(11):e0004198. doi:
+10.1371/journal.pntd.0004198. eCollection 2015 Nov.
+
+Validation of qPCR Methods for the Detection of Mycobacterium in New World Animal
+Reservoirs.
+
+Housman G(1), Malukiewicz J(1)(2), Boere V(2), Grativol AD(3), Pereira LC(4),
+Silva Ide O(5), Ruiz-Miranda CR(3), Truman R(6), Stone AC(1).
+
+Author information: 
+(1)School of Human Evolution and Social Change, Arizona State University, Tempe, 
+Arizona, United States of America.
+(2)Departamento de Bioquímica e Biologia Molecular, Universidade Federal de
+Viçosa, Viçosa, Minas Gerais, Brazil.
+(3)Laboratório de Ciências Ambientias, Centro de Biociências e Biotecnologia,
+Universidade Estadual do Norte Fluminense, Campos dos Goytacazes, Rio de Janeiro,
+Brazil.
+(4)Centro de Conservação e Manejo de Fauna da Caatinga, Universidade Federal do
+Vale do São Francisco, Petrolina, Pernambuco, Brazil.
+(5)Departamento de Biologia Animal, Universidade Federal de Viçosa, Viçosa, Minas
+Gerais, Brazil.
+(6)HHS\HRSA\HSB National Hansen's Disease Program-NIAID IAA-2646, Baton Rouge,
+Louisiana, United States of America.
+
+Erratum in
+    PLoS Negl Trop Dis. 2016 May;10(5):e0004756.
+
+Zoonotic pathogens that cause leprosy (Mycobacterium leprae) and tuberculosis
+(Mycobacterium tuberculosis complex, MTBC) continue to impact modern human
+populations. Therefore, methods able to survey mycobacterial infection in
+potential animal hosts are necessary for proper evaluation of human exposure
+threats. Here we tested for mycobacterial-specific single- and multi-copy loci
+using qPCR. In a trial study in which armadillos were artificially infected with 
+M. leprae, these techniques were specific and sensitive to pathogen detection,
+while more traditional ELISAs were only specific. These assays were then employed
+in a case study to detect M. leprae as well as MTBC in wild marmosets. All
+marmosets were negative for M. leprae DNA, but 14 were positive for the
+mycobacterial rpoB gene assay. Targeted capture and sequencing of rpoB and other 
+MTBC genes validated the presence of mycobacterial DNA in these samples and
+revealed that qPCR is useful for identifying mycobacterial-infected animal hosts.
+
+DOI: 10.1371/journal.pntd.0004198 
+PMCID: PMC4646627
+PMID: 26571269  [Indexed for MEDLINE]
+
+
+1136. Aging (Albany NY). 2015 Nov;7(11):964-73.
+
+Metabolic consequences of long-term rapamycin exposure on common marmoset monkeys
+(Callithrix jacchus).
+
+Ross C(1)(2), Salmon A(2)(3), Strong R(2), Fernandez E(2)(3), Javors M(2)(3),
+Richardson A(4), Tardif S(2)(5).
+
+Author information: 
+(1)Department of Arts & Sciences, Texas A&M University San Antonio, San Antonio, 
+TX 78224, USA.
+(2)Barshop Institute for Longevity & Aging Studies, University of Texas Health
+Science Center San Antonio, San Antonio, TX 78224, USA.
+(3)Geriatric Research, Education & Clinical Center, South Texas Veteran's Health 
+Care System, San Antonio, TX 78224, USA.
+(4)University of Oklahoma Health Sciences Center and the Oklahoma City VA Medical
+Center, Oklahoma City, OK 73104, USA.
+(5)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX 78224, USA.
+
+Rapamycin has been shown to extend lifespan in rodent models, but the effects on 
+metabolic health and function have been widely debated in both clinical and
+translational trials. Prior to rapamycin being used as a treatment to extend both
+lifespan and healthspan in the human population, it is vital to assess the side
+effects of the treatment on metabolic pathways in animal model systems, including
+a closely related non-human primate model. In this study, we found that long-term
+treatment of marmoset monkeys with orally-administered encapsulated rapamycin
+resulted in no overall effects on body weight and only a small decrease in fat
+mass over the first few months of treatment. Rapamycin treated subjects showed no
+overall changes in daily activity counts, blood lipids, or significant changes in
+glucose metabolism including oral glucose tolerance. Adipose tissue displayed no 
+differences in gene expression of metabolic markers following treatment, while
+liver tissue exhibited suppressed G6Pase activity with increased PCK and GPI
+activity. Overall, the marmosets revealed only minor metabolic consequences of
+chronic treatment with rapamycin and this adds to the growing body of literature 
+that suggests that chronic and/or intermittent rapamycin treatment results in
+improved health span and metabolic functioning. The marmosets offer an
+interesting alternative animal model for future intervention testing and
+translational modeling.
+
+DOI: 10.18632/aging.100843 
+PMCID: PMC4694066
+PMID: 26568298  [Indexed for MEDLINE]
+

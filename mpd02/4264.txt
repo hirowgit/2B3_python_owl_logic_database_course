@@ -1,0 +1,52 @@
+
+
+4264. Arch Toxicol. 1992;66(4):250-9.
+
+Polyhalogenated dibenzo-p-dioxins and dibenzofurans and the immune system. 4.
+Effects of multiple-dose treatment with 2,3,7,8-tetrachlorodibenzo-p-dioxin
+(TCDD) on peripheral lymphocyte subpopulations of a non-human primate (Callithrix
+jacchus).
+
+Neubert R(1), Golor G, Stahlmann R, Helge H, Neubert D.
+
+Author information: 
+(1)Institut für Toxikologie und Embryopharmakologie, Freie Universität Berlin,
+Federal Republic of Germany.
+
+Non-human primates (Callithrix jacchus) were treated with
+2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) over a period of 30 weeks, and
+lymphocyte subpopulations of venous blood were monitored using monoclonal
+antibodies and flow cytometry (FACScan). There was no clear-cut change in the
+total lymphocyte population during this study. In the first part of the study the
+new-world monkeys (marmosets) were treated for 24 weeks with a weekly dose of 0.3
+ng TCDD/kg body wt. At the end of this treatment period a level corresponding to 
+an actual cumulative dose of about 2.5-2.7 ng TCDD/kg body wt was expected. The
+percentage and the absolute number of the CD4+CDw29+ cells ("helper inducer" or
+"memory" cells) surmounted the physiologically occurring increase. Concomitantly 
+the percentage of the CD4+CD45RA+ cells ("suppressor-inducer" or "naive" cells)
+decreased. There was, at the same period, no change in the total T cell
+population (CD2+ cells) or in the cells carrying the CD8 or the CD4 epitope. When
+increasing the weekly dose to 1.5 ng TCDD/kg body wt, a transient increase in the
+percentage and the absolute number of the CD8+CD56+ cell population ("cytotoxic T
+cells") was observed 3 weeks after the increase in dosing. At this time the
+expected decrease in the percentage or the absolute number of CD4+CDw29+ cells
+was just detectable and this decline was at its maximum 6 weeks after switching
+to the higher weekly doses. The reduction in the percentage and the absolute
+number of CD4+CDw29+ cells persisted 5 weeks after discontinuation of the dosing,
+but this cell population was again within normal limits 7 weeks later. Because
+the two subpopulations are changed in opposite directions, the ratio
+CD4+CDw29+/CD4+CD45RA+ is a very sensitive measure of the effect induced by TCDD.
+There was a pronounced decrease in the percentage of the CD20+ cells (B1 cells), 
+but their percentage and number rapidly normalized, in contrast to the CD4+CDw29+
+cells, when the dosing was discontinued. At the end of the treatment period the
+apparent body burden was calculated to correspond to an actual dose of about 9-10
+ng TCDD/kg body wt. Such an actual dose level might be assumed to be reached
+under steady-state conditions in chronic experiments with daily doses of about
+135 pg TCDD/kg body wt (assuming a half-life for TCDD in the marmoset of 6-8
+weeks). Extrapolations of the results obtained at higher doses to very low
+exposures is not justified with respect to the effects induced by TCDD on the
+immune system of marmosets. At lower doses the effect is clearly reversed.
+
+DOI: 10.1007/BF02307170 
+PMID: 1514923  [Indexed for MEDLINE]
+

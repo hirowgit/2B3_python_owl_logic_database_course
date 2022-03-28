@@ -1,0 +1,104 @@
+
+
+202. Front Neural Circuits. 2020 Dec 21;14:612595. doi: 10.3389/fncir.2020.612595.
+eCollection 2020.
+
+Dynamic Interhemispheric Desynchronization in Marmosets and Humans With Disorders
+of the Corpus Callosum.
+
+Szczupak D(1)(2), Yen CC(2), Liu C(1)(2)(3), Tian X(1)(2), Lent R(4)(5),
+Tovar-Moll F(4)(5), Silva AC(1)(2); IRC5 Consortium.
+
+Author information: 
+(1)Department of Neurobiology, University Pittsburgh Brain Institute, University 
+of Pittsburgh, Pittsburgh, PA, United States.
+(2)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD, United States.
+(3)Institute of Neuroscience, CAS Center for Excellence in Brain Science and
+Intelligence Technology, Chinese Academy of Sciences, Shanghai, China.
+(4)Instituto de Ciências Biomédicas, Universidade Federal do Rio de Janeiro, Rio 
+de Janeiro, Brazil.
+(5)Instituto D'Or de Pesquisa e Ensino, Rio de Janeiro, Brazil.
+
+The corpus callosum, the principal structural avenue for interhemispheric
+neuronal communication, controls the brain's lateralization. Developmental
+malformations of the corpus callosum (CCD) can lead to learning and intellectual 
+disabilities. Currently, there is no clear explanation for these symptoms. Here, 
+we used resting-state functional MRI (rsfMRI) to evaluate the dynamic
+resting-state functional connectivity (rsFC) in both the cingulate cortex (CG)
+and the sensory areas (S1, S2, A1) in three marmosets (Callithrix jacchus) with
+spontaneous CCD. We also performed rsfMRI in 10 CCD human subjects (six
+hypoplasic and four agenesic). We observed no differences in the strength of rsFC
+between homotopic CG and sensory areas in both species when comparing them to
+healthy controls. However, in CCD marmosets, we found lower strength of
+quasi-periodic patterns (QPP) correlation in the posterior interhemispheric
+sensory areas. We also found a significant lag of interhemispheric communication 
+in the medial CG, suggesting asynchrony between the two hemispheres.
+Correspondingly, in human subjects, we found that the CG of acallosal subjects
+had a higher QPP correlation than controls. In comparison, hypoplasic subjects
+had a lower QPP correlation and a delay of 1.6 s in the sensory regions. These
+results show that CCD affects the interhemispheric synchrony of both CG and
+sensory areas and that, in both species, its impact on cortical communication
+varies along the CC development gradient. Our study shines a light on how CCD
+misconnects homotopic regions and opens a line of research to explain the causes 
+of the symptoms exhibited by CCD patients and how to mitigate them.
+
+Copyright © 2020 Szczupak, Yen, Liu, Tian, Lent, Tovar-Moll and Silva.
+
+DOI: 10.3389/fncir.2020.612595 
+PMCID: PMC7779638
+PMID: 33408615  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+203. Anim Cogn. 2021 May;24(3):629-643. doi: 10.1007/s10071-020-01465-1. Epub 2021 Jan
+4.
+
+Navigating in a challenging semiarid environment: the use of a route-based mental
+map by a small-bodied neotropical primate.
+
+Abreu F(1), Garber PA(2), Souto A(3), Presotto A(4), Schiel N(5).
+
+Author information: 
+(1)Department of Biology, Federal Rural University of Pernambuco, R. Dom Manuel
+de Medeiros, s/n, Dois Irmãos, Recife, PE, 52171-900, Brazil.
+filipaabreu88@gmail.com.
+(2)Department of Anthropology, Program in Ecology, Evolution, and Conservation
+Biology, University of Illinois Urbana-Champaign, Urbana, IL, 61801, USA.
+(3)Department of Zoology, Federal University of Pernambuco, Av. Professor Moraes 
+Rego, 1235, Recife, PE, 50670-901, Brazil.
+(4)Department of Geography and Geosciences, Salisbury University, Salisbury, USA.
+(5)Department of Biology, Federal Rural University of Pernambuco, R. Dom Manuel
+de Medeiros, s/n, Dois Irmãos, Recife, PE, 52171-900, Brazil.
+
+To increase efficiency in the search for resources, many animals rely on their
+spatial abilities. Specifically, primates have been reported to use mostly
+topological and rarely Euclidean maps when navigating in large-scale space. Here,
+we aimed to investigate if the navigation of wild common marmosets inhabiting a
+semiarid environment is consistent with a topological representation and how
+environmental factors affect navigation. We collected 497 h of direct behavioral 
+and GPS information on a group of marmosets using a 2-min instantaneous focal
+animal sampling technique. We found that our study group reused not only
+long-route segments (mean of 1007 m) but entire daily routes, a pattern that is
+not commonly seen in primates. The most frequently reused route segments were the
+ones closer to feeding sites, distant to resting sites, and in areas sparse in
+tree vegetation. We also identified a total of 56 clustered direction change
+points indicating that the group modified their direction of travel. These
+changes in direction were influenced by their close proximity to resting and
+feeding sites. Despite our small sample size, the obtained results are important 
+and consistent with the contention that common marmosets navigate using a
+topological map that seems to benefit these animals in response to the
+exploitation of clustered exudate trees. Based on our findings, we hypothesize
+that the Caatinga landscape imposes physical restrictions in our group's
+navigation such as gaps in vegetation, small trees and xerophytic plants. This
+study, based on preliminary evidence, raises the question of whether navigation
+patterns are an intrinsic characteristic of a species or are ecologically
+dependent and change according to the environment.
+
+DOI: 10.1007/s10071-020-01465-1 
+PMID: 33394185  [Indexed for MEDLINE]
+

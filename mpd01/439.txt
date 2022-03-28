@@ -1,0 +1,118 @@
+
+
+439. Sci Rep. 2019 Sep 3;9(1):12719. doi: 10.1038/s41598-019-49110-3.
+
+Efficient generation of Knock-in/Knock-out marmoset embryo via CRISPR/Cas9 gene
+editing.
+
+Kumita W(1), Sato K(1), Suzuki Y(1), Kurotaki Y(1), Harada T(2)(3), Zhou Y(4),
+Kishi N(5), Sato K(6), Aiba A(3), Sakakibara Y(6), Feng G(4), Okano H(5)(7),
+Sasaki E(8)(9)(10).
+
+Author information: 
+(1)Central Institute for Experimental Animals, Kawasaki-shi, Kanagawa, 210-0821, 
+Japan.
+(2)Department of Molecular Biology and Biochemistry, Graduate School of Medicine,
+Osaka University, Suita-shi, Osaka, 565-0871, Japan.
+(3)Laboratory of Animal Resources, Center for Disease Biology and Integrative
+Medicine, Graduate School of Medicine, The University of Tokyo, Hongo, Bunkyo-ku,
+Tokyo, 113-0033, Japan.
+(4)McGovern Institute for Brain Research, Department of Brain and Cognitive
+Sciences, Massachusetts Institute of Technology, Cambridge, Massachusetts, 02139,
+USA.
+(5)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako-shi, Saitama, 351-0198, Japan.
+(6)Department of Biosciences and Informatics, Keio University, Yokohama-shi,
+Kanagawa, 223-8522, Japan.
+(7)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo, 160-8582, Japan.
+(8)Central Institute for Experimental Animals, Kawasaki-shi, Kanagawa, 210-0821, 
+Japan. esasaki@ciea.or.jp.
+(9)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako-shi, Saitama, 351-0198, Japan. esasaki@ciea.or.jp.
+(10)Advanced Research Center, Keio University, Shinjuku-ku, Tokyo, 160-8582,
+Japan. esasaki@ciea.or.jp.
+
+Genetically modified nonhuman primates (NHP) are useful models for biomedical
+research. Gene editing technologies have enabled production of target-gene
+knock-out (KO) NHP models. Target-gene-KO/knock-in (KI) efficiency of CRISPR/Cas9
+has not been extensively investigated in marmosets. In this study, optimum
+conditions for target gene modification efficacies of CRISPR/mRNA and
+CRISPR/nuclease in marmoset embryos were examined. CRISPR/nuclease was more
+effective than CRISPR/mRNA in avoiding mosaic genetic alteration. Furthermore,
+optimal conditions to generate KI marmoset embryos were investigated using
+CRISPR/Cas9 and 2 different lengths (36 nt and 100 nt) each of a sense or
+anti-sense single-strand oligonucleotide (ssODN). KIs were observed when
+CRISPR/nuclease and 36 nt sense or anti-sense ssODNs were injected into embryos. 
+All embryos exhibited mosaic mutations with KI and KO, or imprecise KI, of c-kit.
+Although further improvement of KI strategies is required, these results
+indicated that CRISPR/Cas9 may be utilized to produce KO/KI marmosets via gene
+editing.
+
+DOI: 10.1038/s41598-019-49110-3 
+PMCID: PMC6722079
+PMID: 31481684  [Indexed for MEDLINE]
+
+
+440. Molecules. 2019 Sep 1;24(17). pii: E3178. doi: 10.3390/molecules24173178.
+
+Preclinical Study of DNA-Recognized Peptide Compound Pyrrole-Imidazole Polyamide 
+Targeting Human TGF-β1 Promoter for Progressive Renal Diseases in the Common
+Marmoset.
+
+Otsuki M(1), Fukuda N(2)(3), Inoue T(4), Mineshige T(5), Otsuki T(6), Horikoshi
+S(7), Endo M(8), Abe M(9).
+
+Author information: 
+(1)Division of Nephrology, Hypertension and Endocrinology, Department of Internal
+Medicine, Nihon University School of Medicine, Tokyo 173-8610, Japan.
+mi.piace.hayden.v@gmail.com.
+(2)Division of Nephrology, Hypertension and Endocrinology, Department of Internal
+Medicine, Nihon University School of Medicine, Tokyo 173-8610, Japan.
+fukuda.noboru@nihon-u.ac.jp.
+(3)Research Center Nihon University, Tokyo 101-0061, Japan.
+fukuda.noboru@nihon-u.ac.jp.
+(4)Marmoset Research Department, Central Institute for Experimental Animals,
+Kanagawa 210-0821, Japan. inoue-t@ciea.or.jp.
+(5)Marmoset Research Department, Central Institute for Experimental Animals,
+Kanagawa 210-0821, Japan. mineshige@ciea.or.jp.
+(6)Division of Nephrology, Hypertension and Endocrinology, Department of Internal
+Medicine, Nihon University School of Medicine, Tokyo 173-8610, Japan.
+totsuki16@gmail.com.
+(7)Division of Nephrology, Hypertension and Endocrinology, Department of Internal
+Medicine, Nihon University School of Medicine, Tokyo 173-8610, Japan.
+horiko19830823@yahoo.co.jp.
+(8)Faculty of Human Health Science, Hachinohe Gakuin University, Hachinohe,
+Aomori 031-8588, Japan. mendo@hachinohe-u.ac.jp.
+(9)Division of Nephrology, Hypertension and Endocrinology, Department of Internal
+Medicine, Nihon University School of Medicine, Tokyo 173-8610, Japan.
+abe.masanori@nihon-u.ac.jp.
+
+Pyrrole-imidazole (PI) polyamides are novel gene silencers that strongly bind the
+promoter region of target genes in a sequence-specific manner to inhibit gene
+transcription. We created a PI polyamide targeting human TGF-β1 (hTGF-β1). To
+develop this PI polyamide targeting hTGF-β1 (Polyamide) as a practical medicine
+for treating progressive renal diseases, we examined the effects of Polyamide in 
+two common marmoset models of nephropathy. We performed lead optimization of PI
+polyamides that targeted hTGF-β1 by inhibiting in a dose-dependent manner the
+expression of TGF-β1 mRNA stimulated by PMA in marmoset fibroblasts. Marmosets
+were housed and fed with a 0.05% NaCl and magnesium diet and treated with
+cyclosporine A (CsA; 37.5 mg/kg/day, eight weeks) to establish chronic
+nephropathy. We treated the marmosets with nephropathy with Polyamide (1
+mg/kg/week, four weeks). We also established a unilateral urethral obstruction
+(UUO) model to examine the effects of Polyamide (1 mg/kg/week, four times) in
+marmosets. Histologically, the renal medulla from CsA-treated marmosets showed
+cast formation and interstitial fibrosis in the renal medulla.
+Immunohistochemistry showed strong staining of Polyamide in the renal medulla
+from CsA-treated marmosets. Polyamide treatment (1 mg/kg/week, four times)
+reduced hTGF-β1 staining and urinary protein excretion in CsA-treated marmosets. 
+In UUO kidneys from marmosets, Polyamide reduced the glomerular injury score and 
+tubulointerstitial injury score. Polyamide significantly suppressed hTGF-β1 and
+snail mRNA expression in UUO kidneys from the marmosets. Polyamide effectively
+improved CsA- and UUO-associated nephropathy, indicating its potential
+application in the prevention of renal fibrosis in progressive renal diseases.
+
+DOI: 10.3390/molecules24173178 
+PMCID: PMC6749436
+PMID: 31480595  [Indexed for MEDLINE]
+

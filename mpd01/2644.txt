@@ -1,0 +1,70 @@
+
+
+2644. Horm Behav. 2006 Mar;49(3):293-302. Epub 2005 Aug 26.
+
+Hormonal changes related to paternal and alloparental care in common marmosets
+(Callithrix jacchus).
+
+da Silva Mota MT(1), Franci CR, de Sousa MB.
+
+Author information: 
+(1)Departamento de Fisiologia, Centro de Biociências, UFRN, Campus Universitário,
+Natal, Brazil. mtmota@cb.ufm.br
+
+The physiological mechanisms of parental and alloparental care in cooperatively
+breeding nonhuman primate species such as the common marmoset (Callithrix
+jacchus) are poorly known. In this study, we examined prolactin and cortisol
+plasma levels of fathers and older offspring of both sexes, with and without
+previous experience in infant carrying, around parturition and during infant
+carrying. Blood samples were collected from fathers and older offspring and
+prolactin and cortisol were measured by RIA and EIA, respectively. Prolactin
+levels of both caretakers were not influenced by infant's birth, previous
+experience or proximity to parturition. However, prolactin levels increased in
+both caretakers while in physical contact with infants and also with the number
+of infants being carried in older offspring. These findings suggest that
+increased prolactin seems to be mainly due to physical effort rather than a
+physiological trigger of paternal and alloparental care in common marmosets.
+Cortisol levels were higher for experienced fathers shortly before parturition
+which could act to reinforce affiliative bonds between breeding males and females
+at this time or in the ability of males to detect the proximity of the
+parturition or both.
+
+DOI: 10.1016/j.yhbeh.2005.07.012 
+PMID: 16126204  [Indexed for MEDLINE]
+
+
+2645. Nature. 2005 Aug 25;436(7054):1161-5.
+
+The neuronal representation of pitch in primate auditory cortex.
+
+Bendor D(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland 21025, USA.
+dbendor@bme.jhu.edu
+
+Comment in
+    Nature. 2005 Aug 25;436(7054):1093-4.
+
+Pitch perception is critical for identifying and segregating auditory objects,
+especially in the context of music and speech. The perception of pitch is not
+unique to humans and has been experimentally demonstrated in several animal
+species. Pitch is the subjective attribute of a sound's fundamental frequency
+(f(0)) that is determined by both the temporal regularity and average repetition 
+rate of its acoustic waveform. Spectrally dissimilar sounds can have the same
+pitch if they share a common f(0). Even when the acoustic energy at f(0) is
+removed ('missing fundamental') the same pitch is still perceived. Despite its
+importance for hearing, how pitch is represented in the cerebral cortex is
+unknown. Here we show the existence of neurons in the auditory cortex of marmoset
+monkeys that respond to both pure tones and missing fundamental harmonic complex 
+sounds with the same f(0), providing a neural correlate for pitch constancy.
+These pitch-selective neurons are located in a restricted low-frequency cortical 
+region near the anterolateral border of the primary auditory cortex, and is
+consistent with the location of a pitch-selective area identified in recent
+imaging studies in humans.
+
+DOI: 10.1038/nature03867 
+PMCID: PMC1780171
+PMID: 16121182  [Indexed for MEDLINE]
+

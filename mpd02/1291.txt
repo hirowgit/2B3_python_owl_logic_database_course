@@ -1,0 +1,61 @@
+
+
+1291. J Neurosci. 2015 Jan 21;35(3):1160-72. doi: 10.1523/JNEUROSCI.2659-14.2015.
+
+Functional mapping of face-selective regions in the extrastriate visual cortex of
+the marmoset.
+
+Hung CC(1), Yen CC(2), Ciuchta JL(2), Papoti D(2), Bock NA(3), Leopold DA(4),
+Silva AC(5).
+
+Author information: 
+(1)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, Maryland 20892, Section on Cognitive
+Neurophysiology and Imaging, Laboratory of Neuropsychology, National Institute of
+Mental Health, National Institutes of Health, Bethesda, Maryland 20892.
+(2)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, Maryland 20892.
+(3)Medical Physics and Applied Radiation Sciences, McMaster University, Hamilton,
+Ontario L8S 4K1, Canada, and.
+(4)Section on Cognitive Neurophysiology and Imaging, Laboratory of
+Neuropsychology, National Institute of Mental Health, National Institutes of
+Health, Bethesda, Maryland 20892, Neurophysiology Imaging Facility, National
+Institute of Mental Health, National Institute of Neurological Disorders and
+Stroke, National Eye Institute, National Institutes of Health, Bethesda, Maryland
+20182.
+(5)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, Maryland 20892, SilvaA@ninds.nih.gov.
+
+Comment in
+    Trends Cogn Sci. 2015 May;19(5):240-1.
+
+The cerebral cortex of humans and macaques has specialized regions for processing
+faces and other visual stimulus categories. It is unknown whether a similar
+functional organization exists in New World monkeys, such as the common marmoset 
+(Callithrix jacchus), a species of growing interest as a primate model in
+neuroscience. To address this question, we measured selective neural responses in
+the brain of four awake marmosets trained to fix their gaze upon images of faces,
+bodies, objects, and control patterns. In two of the subjects, we measured high
+gamma-range field potentials from electrocorticography arrays implanted over a
+large portion of the occipital and inferotemporal cortex. In the other two
+subjects, we measured BOLD fMRI responses across the entire brain. Both
+techniques revealed robust, regionally specific patterns of category-selective
+neural responses. We report that at least six face-selective patches mark the
+occipitotemporal pathway of the marmoset, with the most anterior patches showing 
+the strongest preference for faces over other stimuli. The similar appearance of 
+these patches to previous findings in macaques and humans, including their
+apparent arrangement in two parallel pathways, suggests that core elements of the
+face processing network were present in the common anthropoid primate ancestor
+living ∼35 million years ago. The findings also identify the marmoset as a viable
+animal model system for studying specialized neural mechanisms related to
+high-level social visual perception in humans.
+
+Copyright © 2015 the authors 0270-6474/15/351160-13$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.2659-14.2015 
+PMCID: PMC4300322
+PMID: 25609630  [Indexed for MEDLINE]
+

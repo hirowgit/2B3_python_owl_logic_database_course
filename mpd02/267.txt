@@ -1,0 +1,48 @@
+
+
+267. Cereb Cortex. 2021 Jan 1;31(1):439-447. doi: 10.1093/cercor/bhaa235.
+
+Ultrahigh-resolution MRI Reveals Extensive Cortical Demyelination in a Nonhuman
+Primate Model of Multiple Sclerosis.
+
+Donadieu M(1), Kelly H(1), Szczupak D(2), Lin JP(1), Song Y(1), Yen CCC(3), Ye
+FQ(4), Kolb H(1), Guy JR(1), Beck ES(1), Jacobson S(5), Silva AC(2), Sati P(1),
+Reich DS(1).
+
+Author information: 
+(1)Translational Neuroradiology Section, National Institute of Neurological
+Disorders and Stroke, National Institutes of Health, Bethesda, MD 20892, USA.
+(2)Department of Neurobiology, University of Pittsburgh, Pittsburgh, PA 15261,
+USA.
+(3)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD 20892, USA.
+(4)Neurophysiology Imaging Facility, National Institute of Mental Health,
+National Institutes of Health, Bethesda, MD 20892, USA.
+(5)Viral Immunology Section, National Institute of Neurological Disorders and
+Stroke, National Institutes of Health, Bethesda, MD 20892, USA.
+
+Cortical lesions are a primary driver of disability in multiple sclerosis (MS).
+However, noninvasive detection of cortical lesions with in vivo magnetic
+resonance imaging (MRI) remains challenging. Experimental autoimmune
+encephalomyelitis (EAE) in the common marmoset is a relevant animal model of MS
+for investigating the pathophysiological mechanisms leading to brain damage. This
+study aimed to characterize cortical lesions in marmosets with EAE using
+ultrahigh-field (7 T) MRI and histological analysis. Tissue preparation was
+optimized to enable the acquisition of high-spatial resolution (50-μm isotropic) 
+T2*-weighted images. A total of 14 animals were scanned in this study, and 70% of
+the diseased animals presented at least one cortical lesion on postmortem
+imaging. Cortical lesions identified on MRI were verified with myelin proteolipid
+protein immunostaining. An optimized T2*-weighted sequence was developed for in
+vivo imaging and shown to capture 65% of cortical lesions detected postmortem.
+Immunostaining confirmed extensive demyelination with preserved neuronal somata
+in several cortical areas of EAE animals. Overall, this study demonstrates the
+relevance and feasibility of the marmoset EAE model to study cortical lesions,
+among the most important yet least understood features of MS.
+
+Published by Oxford University Press 2020.
+
+DOI: 10.1093/cercor/bhaa235 
+PMCID: PMC7947170
+PMID: 32901254  [Indexed for MEDLINE]
+

@@ -1,0 +1,78 @@
+
+
+3360. J Virol. 2000 Mar;74(6):2793-803.
+
+Expression of two related viral early genes in Epstein-Barr virus-associated
+tumors.
+
+Xue SA(1), Lu QL, Poulsom R, Karran L, Jones MD, Griffin BE.
+
+Author information: 
+(1)Department of Infectious Diseases (Virology), Imperial College School of
+Medicine, London W12 ONN, United Kingdom.
+
+The transcription of two early "leftwardly" expressed genes carrying repetitive
+sequences, IR2 and IR4, has been studied for Epstein-Barr virus-associated
+tumors, and for established B-cell lines, using sequence-specific probes
+generated for this purpose. Whereas the IR4 transcript was identified in every
+tumor and cell line assessed (except B95-8, with a deletion that removes the
+gene), expression of the IR2 gene was restricted to B lymphocytes. Though the
+promoters for both transcripts lie within homologous regions (D(L) and D(R)) in
+the viral genome, the IR2 promoter appears more tightly regulated. Detailed
+characterization of the IR4 transcript from a nasopharyngeal carcinoma tumor,
+C15, identifies a sequence variant of this gene that differs from those reported 
+for B cells; in situ hybridization methods show transcription to be restricted to
+a subset of cells, with the strongest signals seen adjacent to host stroma. As
+with B cells in culture (Y. Gao, P. R. Smith, L. Karran, Q. L. Lu, and B. E.
+Griffin, J. Virol. 71:84-94, 1997), chemical induction enhanced transcriptional
+expression of the IR4 gene in the C15 tumor, although staining for both the IR4
+antigen and that of the virus lytic switch, Zta, gave negative results. In a
+Burkitt's lymphoma biopsy specimen, however, both proteins were found expressed, 
+notably in the same subset of cells. The data here and elsewhere (Gao et al., J. 
+Virol., 1997) are consistent with a block to intracellular transport of the
+transcript(s) and suggest nuclear roles for it in tumors, possibly in RNA
+processing and viral lytic replication. Both roles could be fulfilled in the
+absence of translation.
+
+DOI: 10.1128/jvi.74.6.2793-2803.2000 
+PMCID: PMC111770
+PMID: 10684296  [Indexed for MEDLINE]
+
+
+3361. J Virol. 2000 Mar;74(6):2550-7.
+
+The Epstein-Barr virus pol catalytic subunit physically interacts with the
+BBLF4-BSLF1-BBLF2/3 complex.
+
+Fujii K(1), Yokoyama N, Kiyono T, Kuzushima K, Homma M, Nishiyama Y, Fujita M,
+Tsurumi T.
+
+Author information: 
+(1)Division of Virology, Aichi Cancer Center Research Institute, Chikusa-ku,
+Nagoya 464-8681, Japan.
+
+The Epstein-Barr virus (EBV)-encoded replication proteins that account for the
+basic reactions at the replication fork are thought to be the EBV Pol holoenzyme,
+consisting of the BALF5 Pol catalytic and the BMRF1 Pol accessory subunits, the
+putative helicase-primase complex, comprising the BBLF4, BSLF1, and BBLF2/3
+proteins, and the BALF2 single-stranded DNA-binding protein. Immunoprecipitation 
+analyses using anti-BSLF1 or anti-BBLF2/3 protein-specific antibody with
+clarified lysates of B95-8 cells in a viral productive cycle suggested that the
+EBV Pol holoenzyme physically interacts with the BBLF4-BSLF1-BBLF2/3 complex to
+form a large complex. Although the complex was stable in 500 mM NaCl and 1%
+NP-40, the BALF5 protein became dissociated in the presence of 0.1% sodium
+dodecyl sulfate. Experiments using lysates from insect cells superinfected with
+combinations of recombinant baculoviruses capable of expressing each of viral
+replication proteins showed that not the BMRF1 Pol accessory subunit but rather
+the BALF5 Pol catalytic subunit directly interacts with the BBLF4-BSLF1-BBLF2/3
+complex. Furthermore, double infection with pairs of recombinant viruses revealed
+that each component of the BBLF4-BSLF1-BBLF2/3 complex makes contact with the
+BALF5 Pol catalytic subunit. The interactions of the EBV DNA polymerase with the 
+EBV putative helicase-primase complex warrant particular attention because they
+are thought to coordinate leading- and lagging-strand DNA synthesis at the
+replication fork.
+
+DOI: 10.1128/jvi.74.6.2550-2557.2000 
+PMCID: PMC111743
+PMID: 10684269  [Indexed for MEDLINE]
+

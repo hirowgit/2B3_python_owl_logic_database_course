@@ -1,0 +1,42 @@
+
+
+1328. Oncol Rep. 2015 Feb;33(2):958-66. doi: 10.3892/or.2014.3625. Epub 2014 Nov 25.
+
+The V-val subtype Epstein-Barr virus nuclear antigen 1 promotes cell survival
+after serum withdrawal.
+
+Chao M(1), Wang HN(1), Lu YJ(1), Chang YS(1), Yu JS(2).
+
+Author information: 
+(1)Division of Microbiology, Graduate Institute of Biomedical Sciences, Chang
+Gung University, Kwei-Shan, Tao-Yang 333, Taiwan R.O.C.
+(2)Molecular Medicine Research Center, College of Medicine, Chang Gung
+University, Kwei-Shan, Tao-Yang 333, Taiwan R.O.C.
+
+Epstein-Barr virus (EBV) can establish latent infection and has been associated
+with various human cancers. Epstein-Barr nuclear antigen 1 (EBNA1) is the only
+viral protein that is expressed in all EBV-associated malignant tissues. The N-
+and C-terminal domains of EBNA1, which are connected by internal
+glycine/alanine-rich short repeat sequences of various sizes, show sequence
+divergence across EBV strains isolated from around the world. At least five
+subtypes have been described, according to the amino acid at residue 487: P-ala, 
+P-thr, V-val, V-pro, and V-leu. Whether the variations of EBNA-1 contribute to
+the pathogenesis of EBV or simply reflect the geographical distribution of EBV
+remain to be investigated. Furthermore, the cell effects conferred by EBNA1
+subtypes that differ from that of the B95.8 prototype, which belongs to the P-ala
+subtype, remain to be elucidated. In this study, PCR was amplified with the
+full-length V-val EBNA1 gene from the CG3 cell line, an EBV-carrying
+lymphoblastoid cell line derived from a Taiwanese chronic myeloid leukemia
+patient. Plasmids expressing His-tagged EBNA1 fusion proteins in E. coli were
+constructed and used to raise antibodies in rabbit. The V-val EBNA1 gene was then
+cloned into a eukaryotic expression vector and successfully expressed in the
+transfected cultured cells. Expression of V-val EBNA1 rendered 293 cells able to 
+undergo serum‑independent cell proliferation, providing them with anti-apoptotic 
+abilities, which are two characteristics of cancer cells. These data suggested
+that use of EBNA1 originally derived from tumor cells, rather than the more
+commonly utilized prototype, when investigating the potential role of EBNA1 in
+the oncogenesis of EBV-associated malignancies, is crucial.
+
+DOI: 10.3892/or.2014.3625 
+PMID: 25434292  [Indexed for MEDLINE]
+

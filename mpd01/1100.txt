@@ -1,0 +1,79 @@
+
+
+1100. Mol Neurobiol. 2017 Apr;54(3):1745-1758. doi: 10.1007/s12035-016-9777-6. Epub
+2016 Feb 16.
+
+Transduction Profile of the Marmoset Central Nervous System Using
+Adeno-Associated Virus Serotype 9 Vectors.
+
+Matsuzaki Y(1), Konno A(1), Mukai R(2), Honda F(3), Hirato M(3), Yoshimoto Y(3), 
+Hirai H(4).
+
+Author information: 
+(1)Department of Neurophysiology and Neural Repair, Gunma University Graduate
+School of Medicine, Maebashi, Gunma, 371-8511, Japan.
+(2)Department of Ophthalmology, Gunma University Graduate School of Medicine,
+Maebashi, Gunma, 371-8511, Japan.
+(3)Department of Neurosurgery, Gunma University Graduate School of Medicine,
+Maebashi, Gunma, 371-8511, Japan.
+(4)Department of Neurophysiology and Neural Repair, Gunma University Graduate
+School of Medicine, Maebashi, Gunma, 371-8511, Japan. hirai@gunma-u.ac.jp.
+
+The common marmoset is a small New World primate that has attracted remarkable
+attention as a potential experimental animal link between rodents and humans.
+Adeno-associated virus (AAV) vector-mediated expression of a disease-causing gene
+or a potential therapeutic gene in the brain may allow the construction of a
+marmoset model of a brain disorder or an exploration of the possibility of gene
+therapy. To gain more insights into AAV vector-mediated transduction profiles in 
+the marmoset central nervous system (CNS), we delivered AAV serotype 9 (AAV9)
+vectors expressing GFP to the cisterna magna or the cerebellar cortex.
+Intracisternally injected AAV9 vectors expanded in the CNS according to the
+cerebrospinal fluid (CSF) flow, by retrograde transport through neuronal axons or
+via intermediary transcytosis, resulting in diffuse and global transduction
+within the CNS. In contrast, cerebellar parenchymal injection intensely
+transduced a more limited area, including the cerebellar cortex and cerebellar
+afferents, such as neurons of the pontine nuclei, vestibular nucleus and inferior
+olivary nucleus. In the spinal cord, both administration routes resulted in
+labeling of the dorsal column and spinocerebellar tracts, presumably by
+retrograde transport from the medulla oblongata and cerebellum, respectively.
+Motor neurons and dorsal root ganglia were also transduced, possibly by diffusion
+of the vector down the subarachnoid space along the cord. Thus, these two
+administration routes led to distinct transduction patterns in the marmoset CNS, 
+which could be utilized to generate different disease animal models and to
+deliver therapeutic genes for the treatment of diseases affecting distinct brain 
+areas.
+
+DOI: 10.1007/s12035-016-9777-6 
+PMID: 26884266  [Indexed for MEDLINE]
+
+
+1101. Exp Anim. 2016 Jul 29;65(3):189-96. doi: 10.1538/expanim.15-0097. Epub 2016 Feb
+15.
+
+Cryopreservation of ovaries from neonatal marmoset monkeys.
+
+Motohashi HH(1), Ishibashi H.
+
+Author information: 
+(1)Department of Neurophysiology, National Institute of Neuroscience (NIN),
+National Center for Neurology and Psychiatry (NCNP), 4-1-1 Ogawa-Higashi,
+Kodaira, Tokyo 187-8502, Japan.
+
+The ovary of neonatal nonhuman primates contains the highest number of immature
+oocytes, but its cryopreservation has not yet been sufficiently investigated in
+all life stages. In the current study, we investigated cryodamage after
+vitrification/warming of neonatal ovaries from a nonhuman primate, the common
+marmoset (Callithrix jacchus). A Cryotop was used for cryopreservation of whole
+ovaries. The morphology of the vitrified/warmed ovaries was found to be
+equivalent to that of fresh ovaries. No significant difference in the number of
+oocytes retaining normal morphology per unit area in histological sections was
+found between the two groups. In an analysis of dispersed cells from the ovaries,
+however, the cell viability of the vitrified/warmed group tended to be decreased.
+The results of a comet assay showed no significant differences in DNA damage.
+These results show that cryopreservation of neonatal marmoset ovaries using
+vitrification may be useful as a storage system for whole ovaries.
+
+DOI: 10.1538/expanim.15-0097 
+PMCID: PMC4976232
+PMID: 26876597  [Indexed for MEDLINE]
+

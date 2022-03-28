@@ -1,0 +1,119 @@
+
+
+913. Behav Brain Res. 2017 May 15;325(Pt A):51-62. doi: 10.1016/j.bbr.2017.02.010.
+Epub 2017 Feb 17.
+
+Behavioral phenotypes associated with MPTP induction of partial lesions in common
+marmosets (Callithrix jacchus).
+
+Phillips KA(1), Ross CN(2), Spross J(3), Cheng CJ(4), Izquierdo A(5), Biju KC(6),
+Chen C(7), Li S(7), Tardif SD(8).
+
+Author information: 
+(1)Department of Psychology, Trinity University, San Antonio TX, United States;
+Southwest National Primate Research Center, Texas Biomedical Research Institute, 
+San Antonio, TX, United States. Electronic address:
+kimberley.phillips@trinity.edu.
+(2)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX, United States; Department of Science and Mathematics,
+Texas A&M University San Antonio, San Antonio, TX, United States; Barshop
+Institute for Longevity and Aging Studies, University of Texas Health Science
+Center San Antonio, San Antonio, TX, United States.
+(3)Barshop Institute for Longevity and Aging Studies, University of Texas Health 
+Science Center San Antonio, San Antonio, TX, United States.
+(4)Barshop Institute for Longevity and Aging Studies, University of Texas Health 
+Science Center San Antonio, San Antonio, TX, United States; Department of Cell
+Systems and Anatomy, University of Texas Health Science Center San Antonio, San
+Antonio, TX, United States.
+(5)Department of Psychology, Trinity University, San Antonio TX, United States.
+(6)Department of Medicine, University of Texas Health Science Center San Antonio,
+San Antonio, TX, United States.
+(7)Barshop Institute for Longevity and Aging Studies, University of Texas Health 
+Science Center San Antonio, San Antonio, TX, United States; Department of
+Medicine, University of Texas Health Science Center San Antonio, San Antonio, TX,
+United States; South Texas Veterans Health Care System, Audie L. Murphy Division,
+San Antonio, TX, United States.
+(8)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX, United States; Barshop Institute for Longevity and
+Aging Studies, University of Texas Health Science Center San Antonio, San
+Antonio, TX, United States.
+
+Parkinson's disease is a chronic neurodegenerative disorder with the core motor
+features of resting tremor, bradykinesia, rigidity, and postural instability.
+Non-motor symptoms also occur, and include cognitive dysfunction, mood disorders,
+anosmia (loss of smell), and REM sleep disturbances. As the development of
+medications and other therapies for treatment of non-motor symptoms is ongoing,
+it is essential to have animal models that aid in understanding the neural
+changes underlying non-motor PD symptoms and serve as a testing ground for
+potential therapeutics. We investigated several non-motor symptoms in 10 adult
+male marmosets using the MPTP model, with both the full (n=5) and partial (n=5)
+MPTP dosing regimens. Baseline data in numerous domains were collected prior to
+dosing; assessments in these same domains occurred post-dosing for 12 weeks.
+Marmosets given the partial MPTP dose (designed to mimic the early stages of the 
+disease) differed significantly from marmosets given the full MPTP dose in
+several ways, including behavior, olfactory discrimination, cognitive
+performance, and social responses. Importantly, while spontaneous recovery of PD 
+motor symptoms has been previously reported in studies of MPTP monkeys and cats, 
+we did not observe recovery of any non-motor symptoms. This suggests that the
+neurochemical mechanisms behind the non-motor symptoms of PD, which appear years 
+before the onset of symptoms, are independent of the striatal dopaminergic
+transmission. We demonstrate the value of assessing a broad range of behavioral
+change to detect non-motor impairment, anosmia, and differences in socially
+appropriate responses, in the marmoset MPTP model of early PD.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbr.2017.02.010 
+PMCID: PMC5410665
+PMID: 28219749  [Indexed for MEDLINE]
+
+
+914. Neurosci Res. 2017 Jul;120:60-65. doi: 10.1016/j.neures.2017.02.005. Epub 2017
+Feb 17.
+
+Use of human methylation arrays for epigenome research in the common marmoset
+(Callithrix jacchus).
+
+Ueda J(1), Murata Y(2), Bundo M(3), Oh-Nishi A(4), Kassai H(5), Ikegame T(6),
+Zhao Z(6), Jinde S(6), Aiba A(5), Suhara T(4), Kasai K(6), Kato T(1), Iwamoto
+K(7).
+
+Author information: 
+(1)Laboratory for Molecular Dynamics of Mental Disorders, RIKEN Brain Science
+Institute, 2-1 Hirosawa, Wako City, Saitama, 351-0198, Japan.
+(2)Department of Neuropsychiatry, Graduate School of Medicine, The University of 
+Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8655, Japan; Department of Molecular
+Brain Science, Graduate School of Life Sciences, Kumamoto University, 1-1-1
+Honjo, Kumamoto City, Kumamoto, 860-8556, Japan.
+(3)Department of Molecular Brain Science, Graduate School of Life Sciences,
+Kumamoto University, 1-1-1 Honjo, Kumamoto City, Kumamoto, 860-8556, Japan.
+(4)Department of Functional Brain Imaging, National Institute of Radiological
+Sciences, National Institute for Quantum and Radiological Sciences and
+Technology, 4-9-1 Anagawa, Inage-ku, Chiba-shi, Chiba, 263-8555, Japan.
+(5)Laboratory of Animal Resources, Center for Disease Biology and Integrative
+Medicine, Graduate School of Medicine, The University of Tokyo, 7-3-1 Hongo,
+Bunkyo-ku, Tokyo, 113-8655, Japan.
+(6)Department of Neuropsychiatry, Graduate School of Medicine, The University of 
+Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8655, Japan.
+(7)Department of Molecular Brain Science, Graduate School of Life Sciences,
+Kumamoto University, 1-1-1 Honjo, Kumamoto City, Kumamoto, 860-8556, Japan.
+Electronic address: iwamotok@kumamoto-u.ac.jp.
+
+We examined the usefulness of commercially available DNA methylation arrays
+designed for the human genome (Illumina HumanMethylation450 and MethylationEPIC) 
+for high-throughput epigenome analysis of the common marmoset, a nonhuman primate
+suitable for research on neuropsychiatric disorders. From among the probes on the
+methylation arrays, we selected those available for the common marmoset. DNA
+methylation data were obtained from genomic DNA extracted from the frontal cortex
+and blood samples of adult common marmosets as well as the frontal cortex of
+neonatal marmosets. About 10% of the probes on the arrays were estimated to be
+useful for DNA methylation assay in the common marmoset. Strong correlations
+existed between human and marmoset DNA methylation data. Illumina methylation
+arrays are useful for epigenome research using the common marmoset.
+
+Copyright © 2017 Elsevier Ireland Ltd and Japan Neuroscience Society. All rights 
+reserved.
+
+DOI: 10.1016/j.neures.2017.02.005 
+PMID: 28215819  [Indexed for MEDLINE]
+

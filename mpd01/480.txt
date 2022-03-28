@@ -1,0 +1,73 @@
+
+
+480. Invest Ophthalmol Vis Sci. 2019 Jun 3;60(7):2623-2630. doi:
+10.1167/iovs.18-24490.
+
+Effects of Monocular Atropinization on Refractive Error and Eye Growth in Infant 
+New World Monkeys.
+
+Whatham AR, Lunn D, Judge SJ.
+
+Purpose: To explore the effect of topical atropine on axial eye growth and
+emmetropization in infant marmosets.
+Methods: Atropine was applied to one eye from the age of 7 to 56 days in two dose
+regimens, High (0.1-1% twice daily, increasing with age) or moderate (Mod) (0.1% 
+once daily). Both eyes of the marmosets were refracted, and axial dimensions were
+measured ultrasonically, at 14, 28, 42, 49, 56, 70, 105, 168, and 279 days of
+age. The time course of each measured variable was analyzed using multilevel
+mixed-effects modeling realized in R.
+Results: The logistic growth curves fitted to anterior segment depth (ASD) did
+not differ significantly between the dose regimens, but xmid, the age at which
+growth was half-maximal, and scal, the time constant of the exponential term in
+the logistic growth curve equation, differed significantly between the ASD of
+atropinized and untreated eyes (P = 0.03 and P < 0.0001, respectively), with the 
+ASD of atropinized eyes shorter than that of untreated eyes. The splines fitted
+to lens thickness did not vary significantly with dose, but differed
+significantly (P < 0.0001) between the atropinized and untreated eyes, with the
+atropinized lenses thicker. Vitreous chamber depth (VCD) was not significantly
+different, but the variance of VCD was significantly greater (P < 0.001) in the
+atropinized compared with the untreated eyes. Refractive error (RE) became
+relatively myopic in atropinized eyes. The variance of RE in atropinized eyes was
+significantly greater (P < 0.0001) than in untreated eyes.
+Conclusions: Atropine caused the infant marmoset lens to move forward and
+thicken, a relative myopia, and increases in the between-animals variance in VCD,
+which could be considered a failure of emmetropization.
+
+DOI: 10.1167/iovs.18-24490 
+PMID: 31226711  [Indexed for MEDLINE]
+
+
+481. Cytogenet Genome Res. 2019;158(2):88-97. doi: 10.1159/000500796. Epub 2019 Jun
+21.
+
+Considerable Synteny and Sequence Similarity of Primate Chromosomal Region
+VIIq31.
+
+Hirai H, Go Y, Hirai Y, Rakotoarisoa G, Pamungkas J, Baicharoen S, Jahan I,
+Sajuthi D, Tosi AJ.
+
+Human chromosome 7 has been the focus of many behavioral, genetic, and medical
+studies because it carries genes related to cancer and neurodevelopment. We
+examined the evolution of the chromosome 7 homologs, and the 7q31 region in
+particular, using chromosome painting analyses and 3 paint probes derived from
+(i) the whole of chimpanzee chromosome VII (wcVII), (ii) human 7q31 (h7q31), and 
+(iii) the chimpanzee homolog VIIq31 (cVIIq31). The wcVII probe was used instead
+of the whole human chromosome 7 because the chimpanzee contains additional
+C-bands and revealed large areas of synteny conservation as well as fragmentation
+across 20 primate species. Analyses focusing specifically on the 7q31 homolog and
+vicinity revealed considerable conservation across lineages with 2 exceptions.
+First, the probes verified an insertion of repetitive sequence at VIIq22 in
+chimpanzees and bonobos and also detected the sequence in most subtelomeres of
+the African apes. Second, a paracentric inversion with a breakpoint in the
+cVIIq31 block was found in the common marmoset, confirming earlier studies.
+Subsequent in silico comparative genome analysis of 17 primate species revealed
+that VIIq31.1 is more significantly conserved at the sequence level than other
+regions of chromosome VII, which indicates that its components are likely
+responsible for critical shared traits across the order, including conditions
+necessary for proper human development and wellbeing.
+
+© 2019 S. Karger AG, Basel.
+
+DOI: 10.1159/000500796 
+PMID: 31220833  [Indexed for MEDLINE]
+

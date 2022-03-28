@@ -1,0 +1,98 @@
+
+
+1231. Sci Rep. 2015 May 14;5:10315. doi: 10.1038/srep10315.
+
+Higher-order repeat structure in alpha satellite DNA occurs in New World monkeys 
+and is not confined to hominoids.
+
+Sujiwattanarat P(1), Thapana W(1), Srikulnath K(2), Hirai Y(3), Hirai H(3), Koga 
+A(3).
+
+Author information: 
+(1)1] Primate Research Institute, Kyoto University, Inuyama City 484-8506, Japan 
+[2] Faculty of Science, Kasetsart University, Bangkok 10900, Thailand.
+(2)Faculty of Science, Kasetsart University, Bangkok 10900, Thailand.
+(3)Primate Research Institute, Kyoto University, Inuyama City 484-8506, Japan.
+
+Centromeres usually contain large amounts of tandem repeat DNA. Alpha satellite
+DNA (AS) is the most abundant tandem repeat DNA found in the centromeres of
+simian primates. The AS of humans contains sequences organized into higher-order 
+repeat (HOR) structures, which are tandem arrays of larger repeat units
+consisting of multiple basic repeat units. HOR-carrying AS also occurs in other
+hominoids, but results reported to date for phylogenetically more remote taxa
+have been negative. Here we show direct evidence for clear HOR structures in AS
+of the owl monkey and common marmoset. These monkeys are New World monkey species
+that are located phylogenetically outside of hominoids. It is currently
+postulated that the presence of HOR structures in AS is unique to hominoids. Our 
+results suggest that this view must be modified. A plausible explanation is that 
+generation of HOR structures is a general event that occurs occasionally or
+frequently in primate centromeres, and that, in humans, HOR-carrying AS became
+predominant in the central region of the centromere. It is often difficult to
+assemble sequence reads of tandem repeat DNAs into accurate contig sequences; our
+careful sequencing strategy allowed us to overcome this problem.
+
+DOI: 10.1038/srep10315 
+PMCID: PMC4431391
+PMID: 25974220  [Indexed for MEDLINE]
+
+
+1232. Virus Res. 2015 Jun 2;204:95-102. doi: 10.1016/j.virusres.2015.04.016. Epub 2015 
+May 6.
+
+Virus safety of islet cell transplantation from transgenic pigs to marmosets.
+
+Plotzki E(1), Wolf-van Buerck L(2), Knauf Y(3), Becker T(4), Maetz-Rensing K(5), 
+Schuster M(6), Baehr A(7), Klymiuk N(8), Wolf E(9), Seissler J(10), Denner J(11).
+
+Author information: 
+(1)Robert Koch Institute, HIV and Other Retroviruses, Nordufer 20, 13353 Berlin, 
+Germany. Electronic address: PlotzkiE@rki.de.
+(2)Medizinische Klinik und Poliklinik IV, Diabeteszentrum,
+Ludwig-Maximilians-Universität, München, Ziemssenstraße 1, 80336 München,
+Germany. Electronic address: Lelia.van_Buerck@med.uni-muenchen.de.
+(3)German Primate Center, Leibniz-Institute, Pathology Unit, Kellnerweg 4, 37077 
+Göttingen, Germany. Electronic address: YKnauf@dpz.eu.
+(4)German Primate Center, Leibniz-Institute, Pathology Unit, Kellnerweg 4, 37077 
+Göttingen, Germany. Electronic address: tbecker@dpz.eu.
+(5)German Primate Center, Leibniz-Institute, Pathology Unit, Kellnerweg 4, 37077 
+Göttingen, Germany. Electronic address: kmaetz@dpz.eu.
+(6)Medizinische Klinik und Poliklinik IV, Diabeteszentrum,
+Ludwig-Maximilians-Universität, München, Ziemssenstraße 1, 80336 München,
+Germany. Electronic address: Marion.Schuster@med.uni-muenchen.de.
+(7)Chair for Molecular Animal Breeding and Biotechnology and Laboratory for
+Functional Genome Analysis (LAFUGA), Gene Center, Ludwig-Maximilians-Universität 
+München, Hackerstraße 27, 85764 Oberschleißheim, Germany. Electronic address:
+A.Baehr@gen.vetmed.uni-muenchen.de.
+(8)Chair for Molecular Animal Breeding and Biotechnology and Laboratory for
+Functional Genome Analysis (LAFUGA), Gene Center, Ludwig-Maximilians-Universität 
+München, Hackerstraße 27, 85764 Oberschleißheim, Germany. Electronic address:
+N.Klymiuk@gen.vetmed.uni-muenchen.de.
+(9)Chair for Molecular Animal Breeding and Biotechnology and Laboratory for
+Functional Genome Analysis (LAFUGA), Gene Center, Ludwig-Maximilians-Universität 
+München, Hackerstraße 27, 85764 Oberschleißheim, Germany. Electronic address:
+ewolf@lmb.uni-muenchen.de.
+(10)Medizinische Klinik und Poliklinik IV, Diabeteszentrum,
+Ludwig-Maximilians-Universität, München, Ziemssenstraße 1, 80336 München,
+Germany. Electronic address: Jochen.Seissler@med.uni-muenchen.de.
+(11)Robert Koch Institute, HIV and Other Retroviruses, Nordufer 20, 13353 Berlin,
+Germany. Electronic address: DennerJ@rki.de.
+
+Transplantation of pig islet cells for the treatment of diabetes may be a more
+effective approach compared with the application of insulin. However, before
+introduction into the clinic, efficacy and safety of this treatment have to be
+shown. Non-human primate models may be used for this, despite the fact that they 
+are characterised by several limitations. Here we investigate the prevalence of
+porcine endogenous retroviruses (PERVs), which are present in the genome of all
+pigs and which may infect human cells, as well as of porcine herpes viruses in
+donor pigs and their potential transmission to non-human primate recipients.
+Despite the fact that all three subtypes of PERV were present in all and porcine 
+cytomegalovirus (PCMV) was found in some of the pigs, neither PERVs nor PCMV were
+found in the recipient animals under the experimental conditions applied. Porcine
+lymphotropic herpes viruses (PLHV) were not found in the donor pigs, hepatitis E 
+virus (HEV) was not found in the recipients.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.virusres.2015.04.016 
+PMID: 25956348  [Indexed for MEDLINE]
+

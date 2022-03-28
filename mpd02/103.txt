@@ -1,0 +1,46 @@
+
+
+103. J Am Assoc Lab Anim Sci. 2021 Sep 1;60(5):568-575. doi:
+10.30802/AALAS-JAALAS-20-000151. Epub 2021 Jul 19.
+
+Pharmacokinetics of Single-Dose Intramuscular and Subcutaneous Injections of
+Buprenorphine in Common Marmosets (Callithrix jacchus).
+
+Fabian NJ(1), Moody DE(2), Averin O(2), Fang WB(2), Jamiel M(3), Fox JG(3), Burns
+MA(3), Haupt JL(3).
+
+Author information: 
+(1)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, Massachusetts;, Email: nfabian@mit.edu.
+(2)Center for Human Toxicology, University of Utah, Salt Lake City, Utah.
+(3)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, Massachusetts.
+
+Although buprenorphine is the most frequently used opioid analgesic in common
+marmosets (Callithrix jacchus), there is limited information in the literature
+supporting current dosing regimens used for this species. The purpose of this
+study was to determine the pharmacokinetic profiles of single-dose buprenorphine 
+HCl administered intramuscularly (IM) at 0.01 mg/kg in 6 adult marmosets (1.8 to 
+12.8 y old; 2 males, 4 females) and subcutaneously (SQ) at 0.01 mg/kg in 6 adult 
+marmo- sets (2.3-4.4 y old; 3 males, 3 females) by mass spectrometry. Blood was
+collected at multiple time points from 0.25 to 24 h from unsedated animals
+following a hybrid sparse-serial sampling design. The maximal observed plasma
+concentration of buprenorphine (Cmax ) administered IM (2.57 ± 0.95 ng/mL) was
+significantly higher than administered SQ (1.47 ± 0.61 ng/mL). However, the time 
+to Cmax (Tmax) was not statistically different between routes (17.4 ± 6 min for
+IM and 19.8 ± 7.8 min for SQ). The time of the last quantifiable concentration of
+buprenorphine was 5 ± 1.67 h for IM compared with 6.33 ± 1.51 h for SQ, which was
+not statistically different. The mean buprenorphine plasma concentration-time
+curves were used to propose a dosing frequency of 4 to 6 h for buprenorphine at
+0.01 mg/kg IM or SQ based on a theoretical therapeutic plasma concentration
+threshold of 0.1 ng/mL. Based on the mean pharmacokinetic parameters and
+plasma-concentration time curves, both IM and SQ routes of buprenorphine at this 
+dose provide a rapid increase in the plasma concentration of buprenorphine above 
+the therapeutic threshold, and may be more effective for acute rather than
+long-lasting analgesia. Further studies are needed to examine repeated dosing
+regimens and the efficacy of buprenorphine in common marmosets.
+
+DOI: 10.30802/AALAS-JAALAS-20-000151 
+PMCID: PMC8603367
+PMID: 34281629  [Indexed for MEDLINE]
+

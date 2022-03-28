@@ -1,0 +1,87 @@
+
+
+1623. Eur J Neurosci. 2013 Mar;37(6):924-41. doi: 10.1111/ejn.12092. Epub 2012 Dec 21.
+
+Auditory cortex of the marmoset monkey - complex responses to tones and
+vocalizations under opiate anaesthesia in core and belt areas.
+
+Rajan R(1), Dubaj V, Reser DH, Rosa MG.
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, Vic., 3800, Australia.
+Ramesh.Rajan@monash.edu
+
+Many anaesthetics commonly used in auditory research severely depress cortical
+responses, particularly in the supragranular layers of the primary auditory
+cortex and in non-primary areas. This is particularly true when stimuli other
+than simple tones are presented. Although awake preparations allow better
+preservation of the neuronal responses, there is an inherent limitation to this
+approach whenever the physiological data need to be combined with histological
+reconstruction or anatomical tracing. Here we tested the efficacy of an
+opiate-based anaesthetic regime to study physiological responses in the primary
+auditory cortex and middle lateral belt area. Adult marmosets were anaesthetized 
+using a combination of sufentanil (8 μg/kg/h, i.v.) and N2 O (70%). Unit activity
+was recorded throughout the cortical layers, in response to auditory stimuli
+presented binaurally. Stimuli consisted of a battery of tones presented at
+different intensities, as well as two marmoset calls ('Tsik' and 'Twitter'). In
+addition to robust monotonic and non-monotonic responses to tones, we found that 
+the neuronal activity reflected various aspects of the calls, including 'on' and 
+'off' components, and temporal fluctuations. Both phasic and tonic activities, as
+well as excitatory and inhibitory components, were observed. Furthermore, a late 
+component (100-250 ms post-offset) was apparent. Our results indicate that the
+sufentanil/N2 O combination allows better preservation of response patterns in
+both the core and belt auditory cortex, in comparison with anaesthetics usually
+employed in auditory physiology. This anaesthetic regime holds promise in
+enabling the physiological study of complex auditory responses in acute
+preparations, combined with detailed anatomical and histological investigation.
+
+© 2012 Federation of European Neuroscience Societies and Blackwell Publishing
+Ltd.
+
+DOI: 10.1111/ejn.12092 
+PMID: 23278961  [Indexed for MEDLINE]
+
+
+1624. J Neurophysiol. 2013 Mar;109(6):1638-57. doi: 10.1152/jn.00698.2012. Epub 2012
+Dec 28.
+
+Comparison of auditory-vocal interactions across multiple types of vocalizations 
+in marmoset auditory cortex.
+
+Eliades SJ(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+seliades@jhu.edu
+
+Auditory-vocal interaction, the modulation of auditory sensory responses during
+vocal production, is an important but poorly understood neurophysiological
+phenomenon in nonhuman primates. This sensory-motor processing has important
+behavioral implications for self-monitoring during vocal production as well as
+feedback-mediated vocal control for both animals and humans. Previous studies in 
+marmosets have shown that a large portion of neurons in the auditory cortex are
+suppressed during self-produced vocalization but have primarily focused on a
+single type of isolation vocalization. The present study expands previous
+analyses to compare auditory-vocal interaction of cortical responses between
+different types of vocalizations. We recorded neurons from the auditory cortex of
+unrestrained marmoset monkeys with implanted electrode arrays and showed that
+auditory-vocal interactions generalize across vocalization types. We found the
+following: 1) Vocal suppression and excitation are a general phenomenon,
+occurring for all four major vocalization types. 2) Within individual neurons,
+suppression was the more general response, occurring for multiple vocalization
+types, while excitation tended to be more specific to a single vocalization type.
+3) A subset of neurons changed their responses between different types of
+vocalization, most often from strong suppression or excitation for one
+vocalization to unresponsive for another, and only rarely from suppression to
+excitation. 4) Differences in neural responses between vocalization types were
+weakly correlated with passive response properties, measured by playbacks of
+acoustic stimuli including recorded vocalizations. These results indicate that
+vocalization-induced modulation of the auditory cortex is a general phenomenon
+applicable to all vocalization types, but variations within individual neurons
+suggest possible vocalization-specific coding.
+
+DOI: 10.1152/jn.00698.2012 
+PMCID: PMC3602939
+PMID: 23274315  [Indexed for MEDLINE]
+

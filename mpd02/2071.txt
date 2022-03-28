@@ -1,0 +1,28 @@
+
+
+2071. Annu Int Conf IEEE Eng Med Biol Soc. 2009;2009:3833-6. doi:
+10.1109/IEMBS.2009.5335132.
+
+Low-cost wireless neural recording system and software.
+
+Gregory JA(1), Borna A, Roy S, Wang X, Lewandowski B, Schmidt M, Najafi K.
+
+Author information: 
+(1)Department of Electrical Engineering and Computer Science, University of
+Michigan, Ann Arbor, USA. jagregor@umich.edu
+
+We describe a flexible wireless neural recording system, which is comprised of a 
+15-channel analog FM transmitter, digital receiver and custom user interface
+software for data acquisition. The analog front-end is constructed from
+commercial off the shelf (COTS) components and weighs 6.3g (including batteries) 
+and is capable of transmitting over 24 hours up to a range over 3m with a
+25microV(rms) in-vivo noise floor. The Software Defined Radio (SDR) and the
+acquisition software provide a data acquisition platform with real time data
+display and can be customized based on the specifications of various experiments.
+The described system was characterized with in-vitro and in-vivo experiments and 
+the results are presented.
+
+DOI: 10.1109/IEMBS.2009.5335132 
+PMCID: PMC4324723
+PMID: 19965244  [Indexed for MEDLINE]
+

@@ -1,0 +1,89 @@
+
+
+1132. Cladistics. 2015 Dec;31(6):652-678. doi: 10.1111/cla.12106. Epub 2015 Jan 8.
+
+How many marmoset (Primates: Cebidae: Callitrichinae) genera are there? A
+phylogenetic analysis based on multiple morphological systems.
+
+Garbino GST(1)(2).
+
+Author information: 
+(1)IPÊ - Instituto de Pesquisas Ecológicas, C. Postal 47, 12960-000, Nazaré
+Paulista, São Paulo, Brazil.
+(2)Pós-graduação, Museu de Zoologia, Universidade de São Paulo, Avenida Nazaré
+481, 04263-000, São Paulo, SP, Brazil.
+
+The marmosets, tribe Callitrichini, are the most speciose clade in the subfamily 
+Callitrichinae, containing 21 species. However, there is no consensus among
+molecular and morphological systematists as to how many genera should be
+recognized for the group. To test the morphological support for the alternative
+generic classifications, this study presents a comprehensive phylogenetic
+analysis. It is the first such analysis to include all 21 species and employ
+continuous and discrete osteological, pelage and tegument, karyological and vocal
+characters. This dataset was combined with nucleotide sequences from two
+mitochondrial and four nuclear regions. Separate analyses showed that, among
+morphological datasets, osteological characters were best at solving
+relationships at more inclusive levels, whilst pelage characters were most
+informative at the interspecific level. This suggests the presence of different
+transformation rates for the two character sets. When a single most parsimonious 
+tree was obtained using the 83-character matrix, three main clades were
+identified, supporting the division of the marmosets into three genera:
+Callithrix, Cebuella and Mico. The total evidence analysis that included an
+additional 3481 molecular characters corroborated most of the morphology-based
+clades and also supported a three-genus classification of the marmosets. This is 
+the first morphological study to support an Amazonian marmoset clade
+(Cebuella + Mico), which is also strongly supported in exclusively molecular
+phylogenies, and to synonimize Callibella under Mico.
+
+© The Willi Hennig Society 2015.
+
+DOI: 10.1111/cla.12106 
+PMID: 34753268 
+
+
+1133. Sci Rep. 2015 Nov 20;5:16894. doi: 10.1038/srep16894.
+
+Resequencing of the common marmoset genome improves genome assemblies and
+gene-coding sequence analysis.
+
+Sato K(1), Kuroki Y(2), Kumita W(3), Fujiyama A(4)(5), Toyoda A(5), Kawai J(6),
+Iriki A(7), Sasaki E(3)(8), Okano H(9)(10), Sakakibara Y(1).
+
+Author information: 
+(1)Department of Biosciences and Informatics, Keio University, Japan.
+(2)Department of Genome Medicine, National Research Institute for Child Health
+and Development, NCCHD, Japan.
+(3)Department of Applied Developmental Biology, Central Institute for
+Experimental Animals, Japan.
+(4)Principles of Informatics Research Division, National Institute of
+Informatics, Japan.
+(5)Center for Information Biology, National Institute of Genetics, Japan.
+(6)Preventive Medicine and Diagnosis Innovation Program, RIEKN, Japan.
+(7)Laboratory for Symbolic Cognitive Development, Brain Science Institute RIKEN, 
+Japan.
+(8)Keio Advanced Research Center, Japan.
+(9)Department of Physiology, Keio University School of Medicine, Japan.
+(10)Laboratory for Marmoset Neural Architecture, RIKEN Brain Science Institute.
+
+The first draft of the common marmoset (Callithrix jacchus) genome was published 
+by the Marmoset Genome Sequencing and Analysis Consortium. The draft was based on
+whole-genome shotgun sequencing, and the current assembly version is
+Callithrix_jacches-3.2.1, but there still exist 187,214 undetermined gap regions 
+and supercontigs and relatively short contigs that are unmapped to chromosomes in
+the draft genome. We performed resequencing and assembly of the genome of common 
+marmoset by deep sequencing with high-throughput sequencing technology. Several
+different sequence runs using Illumina sequencing platforms were executed, and
+181 Gbp of high-quality bases including mate-pairs with long insert lengths of 3,
+8, 20, and 40 Kbp were obtained, that is, approximately 60× coverage. The
+resequencing significantly improved the MGSAC draft genome sequence. The N50 of
+the contigs, which is a statistical measure used to evaluate assembly quality,
+doubled. As a result, 51% of the contigs (total length: 299 Mbp) that were
+unmapped to chromosomes in the MGSAC draft were merged with chromosomal contigs, 
+and the improved genome sequence helped to detect 5,288 new genes that are
+homologous to human cDNAs and the gaps in 5,187 transcripts of the Ensembl gene
+annotations were completely filled.
+
+DOI: 10.1038/srep16894 
+PMCID: PMC4653617
+PMID: 26586576  [Indexed for MEDLINE]
+

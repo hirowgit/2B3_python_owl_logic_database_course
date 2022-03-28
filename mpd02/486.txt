@@ -1,0 +1,54 @@
+
+
+486. ACS Infect Dis. 2019 Aug 9;5(8):1433-1445. doi: 10.1021/acsinfecdis.9b00112. Epub
+2019 Jun 11.
+
+Dual-Pharmacophore Pyrithione-Containing Cephalosporins Kill Both Replicating and
+Nonreplicating Mycobacterium tuberculosis.
+
+Lopez Quezada L(1), Li K(2), McDonald SL(2), Nguyen Q(2), Perkowski AJ(2), Pharr 
+CW(2), Gold B(1), Roberts J(1), McAulay K(3)(4), Saito K(5), Somersan Karakaya
+S(5), Javidnia PE(5), Porras de Francisco E(6), Amieva MM(6), Dı Az SP(6),
+Mendoza Losana A(6), Zimmerman M(7), Liang HH(7), Zhang J(1), Dartois V(7), Sans 
+S(8), Lagrange S(8), Goullieux L(8), Roubert C(8), Nathan C(1), Aubé J(2).
+
+Author information: 
+(1)Department of Microbiology and Immunology , Weill Cornell Medicine , 1300 York
+Avenue , New York , New York 10065 , United States.
+(2)Division of Chemical Biology and Medicinal Chemistry, UNC Eshelman School of
+Pharmacy , University of North Carolina at Chapel Hill , 125 Mason Farm Road ,
+Chapel Hill , North Carolina 27599 , United States.
+(3)Center for Global Health , Weill Cornell Medicine , 402 East 67th Street , New
+York , New York 10065 , United States.
+(4)Les Centres GHESKIO , 33, Boulevard Harry Truman , Port-au-Prince , Haiti.
+(5)Department of Medicine , Weill Cornell Medical College , New York , New York
+10065 , United States.
+(6)Diseases of the Developing World (DDW), Tres Cantos Medicine Development
+Campus , GlaxoSmithKline , Severo Ochoa 2 , Tres Cantos , Madrid 28760 , Spain.
+(7)Public Health Research Institute, New Jersey Medical School , Rutgers, the
+State University of New Jersey , 225 Warren Street , Newark , New Jersey 07013 , 
+United States.
+(8)Evotec ID (Lyon), SAS , 1541, Avenue Marcel Merieux , Marcy l'Etoile 69280 ,
+France.
+
+Erratum in
+    ACS Infect Dis. 2019 Dec 13;5(12):2175.
+
+The historical view of β-lactams as ineffective antimycobacterials has given way 
+to growing interest in the activity of this class against Mycobacterium
+tuberculosis (Mtb) in the presence of a β-lactamase inhibitor. However, most
+antimycobacterial β-lactams kill Mtb only or best when the bacilli are
+replicating. Here, a screen of 1904 β-lactams led to the identification of
+cephalosporins substituted with a pyrithione moiety at C3' that are active
+against Mtb under both replicating and nonreplicating conditions, neither
+activity requiring a β-lactamase inhibitor. Studies showed that activity against 
+nonreplicating Mtb required the in situ release of the pyrithione, independent of
+the known class A β-lactamase, BlaC. In contrast, replicating Mtb could be killed
+both by released pyrithione and by the parent β-lactam. Thus, the
+antimycobacterial activity of pyrithione-containing cephalosporins arises from
+two mechanisms that kill mycobacteria in different metabolic states.
+
+DOI: 10.1021/acsinfecdis.9b00112 
+PMCID: PMC7241432
+PMID: 31184461  [Indexed for MEDLINE]
+

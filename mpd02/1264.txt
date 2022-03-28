@@ -1,0 +1,53 @@
+
+
+1264. J Neurosci. 2015 Mar 18;35(11):4657-62. doi: 10.1523/JNEUROSCI.4509-14.2015.
+
+Emergence of complex wave patterns in primate cerebral cortex.
+
+Townsend RG(1), Solomon SS(2), Chen SC(2), Pietersen AN(2), Martin PR(3), Solomon
+SG(4), Gong P(5).
+
+Author information: 
+(1)School of Physics, University of Sydney, New South Wales 2006, Australia, ARC 
+Centre of Excellence for Integrative Brain Function, University of Sydney, New
+South Wales 2001, Australia.
+(2)ARC Centre of Excellence for Integrative Brain Function, University of Sydney,
+New South Wales 2001, Australia, Discipline of Physiology, University of Sydney, 
+Sydney, New South Wales 2006, Australia.
+(3)ARC Centre of Excellence for Integrative Brain Function, University of Sydney,
+New South Wales 2001, Australia, Discipline of Physiology, University of Sydney, 
+Sydney, New South Wales 2006, Australia, Save Sight Institute, University of
+Sydney, Sydney, New South Wales 2001, Australia, and prmartin@sydney.edu.au
+p.gong@physics.usyd.edu.au.
+(4)Discipline of Physiology, University of Sydney, Sydney, New South Wales 2006, 
+Australia, Department of Experimental Psychology, University College London, WC1P
+0AH, London, United Kingdom.
+(5)School of Physics, University of Sydney, New South Wales 2006, Australia, ARC 
+Centre of Excellence for Integrative Brain Function, University of Sydney, New
+South Wales 2001, Australia, prmartin@sydney.edu.au p.gong@physics.usyd.edu.au.
+
+Slow brain rhythms are attributed to near-simultaneous (synchronous) changes in
+activity in neuron populations in the brain. Because they are slow and
+widespread, synchronous rhythms have not been considered crucial for information 
+processing in the waking state. Here we adapted methods from turbulence physics
+to analyze δ-band (1-4 Hz) rhythms in local field potential (LFP) activity, in
+multielectrode recordings from cerebral cortex in anesthetized marmoset monkeys. 
+We found that synchrony contributes only a small fraction (less than one-fourth) 
+to the local spatiotemporal structure of δ-band signals. Rather, δ-band activity 
+is dominated by propagating plane waves and spatiotemporal structures, which we
+call complex waves. Complex waves are manifest at submillimeter spatial scales,
+and millisecond-range temporal scales. We show that complex waves can be
+characterized by their relation to phase singularities within local nerve cell
+networks. We validate the biological relevance of complex waves by showing that
+nerve cell spike rates are higher in presence of complex waves than in the
+presence of synchrony and that there are nonrandom patterns of evolution from one
+type of complex wave to another. We conclude that slow brain rhythms
+predominantly indicate spatiotemporally organized activity in local nerve cell
+circuits, not synchronous activity within and across brain regions.
+
+Copyright © 2015 the authors 0270-6474/15/354657-06$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.4509-14.2015 
+PMCID: PMC4363391
+PMID: 25788682  [Indexed for MEDLINE]
+

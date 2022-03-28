@@ -1,0 +1,27 @@
+
+
+1586. J Cereb Blood Flow Metab. 2013 May;33(5):669-72. doi: 10.1038/jcbfm.2013.39. Epub
+2013 Mar 13.
+
+On the normalization of cerebral blood flow.
+
+Guibert R(1), Fonta C, Estève F, Plouraboué F.
+
+Author information: 
+(1)Institut de Mécanique des Fluides de Toulouse, Université de Toulouse, INPT,
+UPS, IMFT, Toulouse, France.
+
+Cerebral blood flow (CBF) is the most common parameter for the quantification of 
+brain's function. Literature data indicate a widespread dispersion of values that
+might be related to some differences in the measurement conditions that are not
+properly taken into account in CBF evaluation. Using recent high-resolution
+imaging of the complete cortical microvasculature of primate brain, we perform
+extensive numerical evaluation of the cerebral perfusion. We show that blood
+perfusion associated with intravascular tracers should be normalized by the
+surface of the voxel rather than by its volume and we consistently test this
+result on the available literature data.
+
+DOI: 10.1038/jcbfm.2013.39 
+PMCID: PMC3652705
+PMID: 23486290  [Indexed for MEDLINE]
+

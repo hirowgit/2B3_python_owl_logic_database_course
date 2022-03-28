@@ -1,0 +1,60 @@
+
+
+711. Sci Am. 2018 Feb 20;318(3):60-65. doi: 10.1038/scientificamerican0318-60.
+
+The Means of Reproduction.
+
+Weintraub K.
+
+DOI: 10.1038/scientificamerican0318-60 
+PMID: 29565334  [Indexed for MEDLINE]
+
+
+712. Sci Rep. 2018 Mar 21;8(1):4922. doi: 10.1038/s41598-018-23144-5.
+
+Propagation-based phase-contrast x-ray tomography of cochlea using a compact
+synchrotron source.
+
+Töpperwien M(1)(2), Gradl R(3)(4)(5), Keppeler D(6), Vassholz M(1), Meyer A(7),
+Hessler R(8), Achterhold K(3)(5), Gleich B(5), Dierolf M(3)(5), Pfeiffer
+F(3)(4)(5)(9), Moser T(2)(6)(10), Salditt T(11)(12).
+
+Author information: 
+(1)Institute for X-Ray Physics, University of Göttingen, Göttingen, Germany.
+(2)Center for Nanoscopy and Molecular Physiology of the Brain, Göttingen,
+Germany.
+(3)Chair of Biomedical Physics, Department of Physics, Technical University of
+Munich, Garching, Germany.
+(4)Institute for Advanced Study, Technical University of Munich, Garching,
+Germany.
+(5)Munich School of BioEngineering, Technical University of Munich, Garching,
+Germany.
+(6)Institute for Auditory Neuroscience and InnerEarLab, University Medical Center
+Göttingen, Göttingen, Germany.
+(7)InnerEarLab, Department of Otolaryngology, University Medical Center
+Göttingen, Göttingen, Germany.
+(8)MED-EL Company, Innsbruck, Austria.
+(9)Department of Diagnostic and Interventional Radiology, Klinikum rechts der
+Isar, Technical University of Munich, München, Germany.
+(10)Bernstein Focus for Neurotechnology, University of Göttingen, Göttingen,
+Germany.
+(11)Institute for X-Ray Physics, University of Göttingen, Göttingen, Germany.
+tsaldit@gwdg.de.
+(12)Center for Nanoscopy and Molecular Physiology of the Brain, Göttingen,
+Germany. tsaldit@gwdg.de.
+
+We demonstrate that phase retrieval and tomographic imaging at the organ level of
+small animals can be advantageously carried out using the monochromatic radiation
+emitted by a compact x-ray light source, without further optical elements apart
+from source and detector. This approach allows to carry out microtomography
+experiments which - due to the large performance gap with respect to conventional
+laboratory instruments - so far were usually limited to synchrotron sources. We
+demonstrate the potential by mapping the functional soft tissue within the guinea
+pig and marmoset cochlea, including in the latter case an electrical cochlear
+implant. We show how 3d microanatomical studies without dissection or microscopic
+imaging can enhance future research on cochlear implants.
+
+DOI: 10.1038/s41598-018-23144-5 
+PMCID: PMC5862924
+PMID: 29563553  [Indexed for MEDLINE]
+

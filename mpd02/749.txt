@@ -1,0 +1,52 @@
+
+
+749. Neurosci Res. 2018 Oct;135:37-45. doi: 10.1016/j.neures.2018.01.001. Epub 2018
+Jan 6.
+
+Development of stereotaxic recording system for awake marmosets (Callithrix
+jacchus).
+
+Wakabayashi M(1), Koketsu D(2), Kondo H(2), Sato S(2), Ohara K(3), Polyakova
+Z(1), Chiken S(1), Hatanaka N(4), Nambu A(5).
+
+Author information: 
+(1)Division of System Neurophysiology, National Institute for Physiological
+Sciences, Okazaki, 444-8585, Japan; Department of Physiological Sciences,
+SOKENDAI (The Graduate University for Advanced Studies), Okazaki, 444-8585,
+Japan.
+(2)Division of System Neurophysiology, National Institute for Physiological
+Sciences, Okazaki, 444-8585, Japan.
+(3)O'HARA & CO., LTD, Tokyo 165-0022, Japan.
+(4)Division of System Neurophysiology, National Institute for Physiological
+Sciences, Okazaki, 444-8585, Japan; Department of Physiological Sciences,
+SOKENDAI (The Graduate University for Advanced Studies), Okazaki, 444-8585,
+Japan. Electronic address: hatanaka@nips.ac.jp.
+(5)Division of System Neurophysiology, National Institute for Physiological
+Sciences, Okazaki, 444-8585, Japan; Department of Physiological Sciences,
+SOKENDAI (The Graduate University for Advanced Studies), Okazaki, 444-8585,
+Japan. Electronic address: nambu@nips.ac.jp.
+
+The common marmoset has been proposed as a potential alternative to macaque
+monkey as a primate model for neuroscience and medical research. Here, we have
+newly developed a stereotaxic neuronal recording system for awake marmosets under
+the head-fixed condition by modifying that for macaque monkeys. Using this
+system, we recorded neuronal activity in the cerebral cortex of awake marmosets
+and successfully identified the primary motor cortex by intracortical
+microstimulation. Neuronal activities of deep brain structures, such as the basal
+ganglia, thalamus, and cerebellum, in awake marmosets were also successfully
+recorded referring to magnetic resonance images. Our system is suitable for
+functional mapping of the brain, since the large recording chamber allows access 
+to arbitrary regions over almost the entire brain, and the recording electrode
+can be easily moved stereotaxically from one site to another. In addition, our
+system is desirable for neuronal recording during task performance to assess
+motor skills and cognitive function, as the marmoset sits in the marmoset chair
+and can freely use its hands. Moreover, our system can be used in combination
+with cutting-edge techniques, such as two-photon imaging and optogenetic
+manipulation. This recording system will contribute to boosting neuroscience and 
+medical research using marmosets.
+
+Copyright © 2018 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.neures.2018.01.001 
+PMID: 29317247  [Indexed for MEDLINE]
+

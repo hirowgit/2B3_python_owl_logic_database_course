@@ -1,0 +1,90 @@
+
+
+84. Sci Rep. 2021 Aug 26;11(1):17279. doi: 10.1038/s41598-021-96404-6.
+
+Genomic skimming and nanopore sequencing uncover cryptic hybridization in one of 
+world's most threatened primates.
+
+Malukiewicz J(1)(2), Cartwright RA(3), Dergam JA(4), Igayara CS(5), Nicola PA(6),
+Pereira LMC(6), Ruiz-Miranda CR(7), Stone AC(8)(9)(10), Silva DL(11), Silva
+FFRD(12), Varsani A(13)(14), Walter L(15), Wilson MA(10)(16), Zinner
+D(17)(18)(19), Roos C(15)(20).
+
+Author information: 
+(1)German Primate Center, Leibniz Institute for Primate Research, Primate
+Genetics Laboratory, Göttingen, 37077, Germany. jmalukie@gmail.com.
+(2)Universidade de São Paulo, Faculdade de Medicina, São Paulo, São Paulo,
+05403-000, Brazil. jmalukie@gmail.com.
+(3)School of Life Sciences and The Biodesign Institute, Arizona State University,
+Tempe, AZ, 85281, USA.
+(4)Departamento de Biologia Animal, Universidade Federal de Viçosa, Viçosa, MG,
+36570-900, Brazil.
+(5)Guarulhos Municipal Zoo, Guarulhos, SP, 07081-120, Brazil.
+(6)Centro de Conservação e Manejo de Fauna da Caatinga, Universidade Federal do
+Vale do São Francisco, Petrolina, PE, 56300-000, Brazil.
+(7)Laboratório das Ciências Ambientais, Centro de Biociências e Biotecnologia,
+Universidade Estadual do Norte Fluminense, Campos dos Goytacazes, RJ, 28013-602, 
+Brazil.
+(8)School of Human Evolution and Social Change, Arizona State University, Tempe, 
+AZ, 85281, USA.
+(9)Arizona State University, Institute of Human Origins, Tempe, AZ, 85281, USA.
+(10)Center for Evolution and Medicine, Arizona State University, Tempe, AZ,
+85287, USA.
+(11)Núcleo de Pesquisas em Ciências Biológicas - NUPEB, Federal University of
+Ouro Preto, Ouro Preto, MG, 35400-000, Brazil.
+(12)Centro de Conservação dos Saguis-da-Serra, Universidade Federal de Viçosa,
+Viçosa, MG, 36570-900, Brazil.
+(13)The Biodesign Center for Fundamental and Applied Microbiomics, Center for
+Evolution and Medicine, School of Life Sciences, Arizona State University, Tempe,
+AZ, 85287, USA.
+(14)Structural Biology Research Unit, Department of Integrative Biomedical
+Sciences, University of Cape Town, Rondebosch, Cape Town, 7700, South Africa.
+(15)German Primate Center, Leibniz Institute for Primate Research, Primate
+Genetics Laboratory, Göttingen, 37077, Germany.
+(16)School of Life Sciences, Arizona State University, Tempe, AZ, 85287, USA.
+(17)German Primate Center, Leibniz Institute for Primate Research, Cognitive
+Ethology Laboratory, Göttingen, 37077, Germany.
+(18)Leibniz ScienceCampus Primate Cognition, Göttingen, 37077, Germany.
+(19)Department of Primate Cognition, Georg-August-University, Göttingen, 37077,
+Germany.
+(20)German Primate Center, Leibniz Institute for Primate Research, Gene Bank of
+Primates, Göttingen, 37077, Germany.
+
+The Brazilian buffy-tufted-ear marmoset (Callithrix aurita), one of the world's
+most endangered primates, is threatened by anthropogenic hybridization with
+exotic, invasive marmoset species. As there are few genetic data available for C.
+aurita, we developed a PCR-free protocol with minimal technical requirements to
+rapidly generate genomic data with genomic skimming and portable nanopore
+sequencing. With this direct DNA sequencing approach, we successfully determined 
+the complete mitogenome of a marmoset that we initially identified as C. aurita. 
+The obtained nanopore-assembled sequence was highly concordant with a Sanger
+sequenced version of the same mitogenome. Phylogenetic analyses unexpectedly
+revealed that our specimen was a cryptic hybrid, with a C. aurita phenotype and
+C. penicillata mitogenome lineage. We also used publicly available mitogenome
+data to determine diversity estimates for C. aurita and three other marmoset
+species. Mitogenomics holds great potential to address deficiencies in genomic
+data for endangered, non-model species such as C. aurita. However, we discuss why
+mitogenomic approaches should be used in conjunction with other data for marmoset
+species identification. Finally, we discuss the utility and implications of our
+results and genomic skimming/nanopore approach for conservation and evolutionary 
+studies of C. aurita and other marmosets.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-96404-6 
+PMCID: PMC8390465
+PMID: 34446741  [Indexed for MEDLINE]
+
+
+85. Lab Anim (NY). 2021 Sep;50(9):239. doi: 10.1038/s41684-021-00844-6.
+
+Modularity for marmosets.
+
+Neff EP(1).
+
+Author information: 
+(1)Lab Animal, . ellen.neff@us.nature.com.
+
+DOI: 10.1038/s41684-021-00844-6 
+PMID: 34433924  [Indexed for MEDLINE]
+

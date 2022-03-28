@@ -1,0 +1,78 @@
+
+
+3129. Immunogenetics. 2001 Sep;53(7):557-63.
+
+Characterization of the expressed immunoglobulin IGHV repertoire in the New World
+marmoset Callithrix jacchus.
+
+von Büdingen HC(1), Hauser SL, Nabavi CB, Genain CP.
+
+Author information: 
+(1)Department of Neurology, University of California School of Medicine, 505
+Parnassus Avenue, San Francisco, CA 94143-0114, USA.
+
+The common marmoset (Callithrix jacchus jacchus) is a member of the
+Callithrichinae, a family of outbred New World primates with limited MHC
+polymorphisms and a propensity to develop spontaneous or experimentally induced
+autoimmunity. C. jacchus marmosets are susceptible to experimental allergic
+encephalomyelitis (EAE), and spontaneously develop autoimmune colitis and
+thyroiditis. Such disease models approximate the complexity of human autoimmune
+disorders, and allow an investigation of the respective roles of T-cell and
+antibody responses to self-antigens in outbred species. A key issue for further
+definition of the pathogenic antibody responses in human autoimmunity is to
+understand the diversity of the immunoglobulin repertoire in primate models.
+Here, we characterized the expressed immunoglobulin IGHV repertoire of the C.
+jacchus marmoset. Six IGHV subgroups were identified which show a high degree of 
+sequence similarity to their human IGHV counterparts (IGHV1, IGHV3, IGHV4, IGHV5,
+IGHV6, and IGHV7). As in the expressed human IGHV repertoire, the framework
+regions are more conserved when compared to the complementarity-determining
+regions (CDRs), with the greatest degree of variability located in CDR3.
+Predicted structural features are highly conserved between C. jacchus and human
+IGHV. This information now provides a framework for studies of the
+antigen-specific repertoire of pathogenic antibodies in EAE and other
+immune-mediated diseases.
+
+DOI: 10.1007/s002510100362 
+PMID: 11685468  [Indexed for MEDLINE]
+
+
+3130. Exp Neurol. 2001 Nov;172(1):189-98.
+
+Antiparkinsonian action of a delta opioid agonist in rodent and primate models of
+Parkinson's disease.
+
+Hille CJ(1), Fox SH, Maneuf YP, Crossman AR, Brotchie JM.
+
+Author information: 
+(1)Department of Pharmacology, University of Oxford, Oxford OX1 3QT, United
+Kingdom.
+
+The opioid peptides localized in striatal projection neurons are of great
+relevance to Parkinson's disease, not only as a consequence of their
+distribution, but also due to the pronounced changes in expression seen in
+Parkinson's disease. It has long been suspected that increased expression of
+enkephalin may represent one of the many mechanisms that compensate for dopamine 
+(DA) depletion in Parkinson's disease. Here we demonstrate that a systemically
+delivered, selective delta opioid agonist (SNC80) has potent antiparkinsonian
+actions in both rat and primate models of Parkinson's disease. In rats treated
+with either the D2-preferring DA antagonist haloperidol (1 mg/kg) or the
+selective D1 antagonist SCH23390 (1 mg/kg), but not a combination of D1 and D2
+antagonists, SNC80 (10 mg/kg) completely reversed the catalepsy induced by DA
+antagonists. In rats rendered immobile by treatment with reserpine, SNC80
+dose-dependently reversed akinesia (EC(50) 7.49 mg/kg). These effects were
+dose-dependently inhibited (IC(50) 1.05 mg/kg) by a selective delta opioid
+antagonist (naltrindole) and by SCH23390 (1 mg/kg), but not by haloperidol (1
+mg/kg). SNC80 also reversed parkinsonian symptoms in the MPTP-treated marmoset.
+At 10 mg/kg (ip), scores measuring bradykinesia and posture were significantly
+reduced and motor activity increased to levels comparable with pre-MPTP-treatment
+scores. Any treatment that serves to increase delta opioid receptor activation
+may be a useful therapeutic strategy for the treatment of Parkinson's disease,
+either in the early stages or as an adjunct to dopamine replacement therapy.
+Furthermore, enhanced enkephalin expression observed in Parkinson's disease may
+serve to potentiate dopamine acting preferentially at D1 receptors.
+
+Copyright 2001 Academic Press.
+
+DOI: 10.1006/exnr.2001.7763 
+PMID: 11681851  [Indexed for MEDLINE]
+

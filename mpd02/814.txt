@@ -1,0 +1,48 @@
+
+
+814. DNA Res. 2017 Aug 1;24(4):377-385. doi: 10.1093/dnares/dsx010.
+
+Identification and characterization of a subtelomeric satellite DNA in
+Callitrichini monkeys.
+
+Araújo NP(1), de Lima LG(1), Dias GB(1), Kuhn GCS(1), de Melo AL(2),
+Yonenaga-Yassuda Y(3), Stanyon R(4), Svartman M(1).
+
+Author information: 
+(1)Universidade Federal de Minas Gerais, Laboratório de Citogenômica Evolutiva,
+Departamento de Biologia Geral, Instituto de Ciências Biológicas, Avenida
+Presidente Antônio Carlos, 6627 - Pampulha, 31270-901, Belo Horizonte, Brazil.
+(2)Universidade Federal de Minas Gerais, Laboratório de Taxonomia e Biologia de
+Invertebrados, Departamento de Parasitologia, Instituto de Ciências Biológicas,
+Belo Horizonte, Brazil.
+(3)Universidade de São Paulo, Laboratório de Citogenética de Vertebrados,
+Departamento de Genética e Biologia Evolutiva, Instituto de Biociências, São
+Paulo, Brazil.
+(4)University of Florence, Department of Biology, Florence, Italy.
+
+Repetitive DNAs are abundant fast-evolving components of eukaryotic genomes,
+which often possess important structural and functional roles. Despite their
+ubiquity, repetitive DNAs are poorly studied when compared with the genic
+fraction of genomes. Here, we took advantage of the availability of the sequenced
+genome of the common marmoset Callithrix jacchus to assess its satellite DNAs
+(satDNAs) and their distribution in Callitrichini. After clustering analysis of
+all reads and comparisons by similarity, we identified a satDNA composed by
+171 bp motifs, named MarmoSAT, which composes 1.09% of the C. jacchus genome.
+Fluorescent in situ hybridization on chromosomes of species from the genera
+Callithrix, Mico and Callimico showed that MarmoSAT had a subtelomeric location. 
+In addition to the common monomeric, we found that MarmoSAT was also organized in
+higher-order repeats of 338 bp in Callimico goeldii. Our phylogenetic analyses
+showed that MarmoSAT repeats from C. jacchus lack chromosome-specific features,
+suggesting exchange events among subterminal regions of non-homologous
+chromosomes. MarmoSAT is transcribed in several tissues of C. jacchus, with the
+highest transcription levels in spleen, thymus and heart. The transcription
+profile and subtelomeric location suggest that MarmoSAT may be involved in the
+regulation of telomerase and modulation of telomeric chromatin.
+
+© The Author 2017. Published by Oxford University Press on behalf of Kazusa DNA
+Research Institute.
+
+DOI: 10.1093/dnares/dsx010 
+PMCID: PMC5737874
+PMID: 28854689  [Indexed for MEDLINE]
+

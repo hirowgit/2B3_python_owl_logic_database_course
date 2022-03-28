@@ -1,0 +1,39 @@
+
+
+1817. J Exp Biol. 2011 Nov 1;214(Pt 21):3619-29. doi: 10.1242/jeb.056101.
+
+Vocal control by the common marmoset in the presence of interfering noise.
+
+Roy S(1), Miller CT, Gottsch D, Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+
+The natural environment is inherently noisy with acoustic interferences. It is,
+therefore, beneficial for a species to modify its vocal production to effectively
+communicate in the presence of interfering noises. Non-human primates have been
+traditionally considered to possess limited voluntary vocal control, but little
+is known about their ability to modify vocal behavior when encountering
+interfering noises. Here we tested the ability of the common marmoset (Callithrix
+jacchus) to control the initiation of vocalizations and maintain vocal
+interactions between pairs in an acoustic environment in which the length and
+predictability (periodic or random aperiodic occurrences) of interfering noise
+bursts were varied. Despite the presence of interfering noise, the marmosets
+continued to engage in antiphonal calling behavior. Results showed that the
+overwhelming majority of calls were initiated during silence gaps even when the
+length of the silence gap following each noise burst was unpredictable. During
+the periodic noise conditions, as the length of the silence gap decreased, the
+latency between the end of noise burst and call onset decreased significantly. In
+contrast, when presented with aperiodic noise bursts, the marmosets chose to call
+predominantly during long (4 and 8 s) over short (2 s) silence gaps. In the 8 s
+periodic noise conditions, a marmoset pair either initiated both calls of an
+antiphonal exchange within the same silence gap or exchanged calls in two
+consecutive silence gaps. Our findings provide compelling evidence that common
+marmosets are capable of modifying their vocal production according to the
+dynamics of their acoustic environment during vocal communication.
+
+DOI: 10.1242/jeb.056101 
+PMCID: PMC3192021
+PMID: 21993791  [Indexed for MEDLINE]
+

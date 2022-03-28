@@ -1,0 +1,82 @@
+
+
+14. Commun Biol. 2022 Feb 3;5(1):108. doi: 10.1038/s42003-022-03052-1.
+
+Cortical neural dynamics unveil the rhythm of natural visual behavior in
+marmosets.
+
+Kaneko T(#)(1)(2), Komatsu M(#)(3), Yamamori T(3), Ichinohe N(4), Okano H(5)(6).
+
+Author information: 
+(1)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan. kaneko.takaaki.6w@kyoto-u.ac.jp.
+(2)Systems Neuroscience Section, Primate Research Institute, Kyoto University,
+Aichi, Japan. kaneko.takaaki.6w@kyoto-u.ac.jp.
+(3)Laboratory for Molecular Analysis of Higher Brain Function, Center for Brain
+Science, RIKEN, Saitama, Japan.
+(4)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Tokyo, Japan.
+(5)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan. hidokano@a2.keio.jp.
+(6)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+hidokano@a2.keio.jp.
+(#)Contributed equally
+
+Numerous studies have shown that the visual system consists of functionally
+distinct ventral and dorsal streams; however, its exact spatial-temporal dynamics
+during natural visual behavior remain to be investigated. Here, we report
+cerebral neural dynamics during active visual exploration recorded by an
+electrocorticographic array covering the entire lateral surface of the marmoset
+cortex. We found that the dorsal stream was activated before the primary visual
+cortex with saccades and followed by the alteration of suppression and activation
+signals along the ventral stream. Similarly, the signal that propagated from the 
+dorsal to ventral visual areas was accompanied by a travelling wave of low
+frequency oscillations. Such signal dynamics occurred at an average of 220 ms
+after saccades, which corresponded to the timing when whole-brain activation
+returned to background levels. We also demonstrated that saccades could occur at 
+any point of signal flow, indicating the parallel computation of motor commands. 
+Overall, this study reveals the neural dynamics of active vision, which are
+efficiently linked to the natural rhythms of visual exploration.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s42003-022-03052-1 
+PMCID: PMC8814246
+PMID: 35115680  [Indexed for MEDLINE]
+
+
+15. Geroscience. 2022 Feb 2. doi: 10.1007/s11357-022-00524-4. [Epub ahead of print]
+
+Correction to: Primary neuron and astrocyte cultures from postnatal Callithrix
+jacchus: a non-human primate in vitro model for research in neuroscience, nervous
+system aging, and neurological diseases of aging.
+
+Dorigatti AO(1)(2), Hussong SA(1)(2)(3), Hernandez SF(1)(2), Sills AM(2), Salmon 
+AB(2)(3)(4), Galvan V(5)(6)(7)(8).
+
+Author information: 
+(1)Department of Cellular and Integrative Physiology, University of Texas Health 
+Science Center at San Antonio, 15355 Lambda Drive, STCBM 3.200.8, San Antonio,
+TX, 78245, USA.
+(2)Barshop Institute for Longevity and Aging Studies, University of Texas Health 
+Science Center at San Antonio, San Antonio, TX, USA.
+(3)South Texas Veterans Health Care System, San Antonio, TX, USA.
+(4)Department of Molecular Medicine, University of Texas Health Science Center at
+San Antonio, San Antonio, TX, USA.
+(5)Department of Cellular and Integrative Physiology, University of Texas Health 
+Science Center at San Antonio, 15355 Lambda Drive, STCBM 3.200.8, San Antonio,
+TX, 78245, USA. galvanv@uthscsa.edu.
+(6)Barshop Institute for Longevity and Aging Studies, University of Texas Health 
+Science Center at San Antonio, San Antonio, TX, USA. galvanv@uthscsa.edu.
+(7)South Texas Veterans Health Care System, San Antonio, TX, USA.
+galvanv@uthscsa.edu.
+(8)Glenn Biggs Institute for Alzheimer's & Neurodegenerative Diseases, University
+of Texas Health Science Center at San Antonio, San Antonio, TX, USA.
+galvanv@uthscsa.edu.
+
+Erratum for
+    Geroscience. 2021 Feb;43(1):115-124.
+
+DOI: 10.1007/s11357-022-00524-4 
+PMID: 35107706 
+

@@ -1,0 +1,78 @@
+
+
+2341. J Microbiol. 2007 Oct;45(5):431-40.
+
+Natural iminosugar derivatives of 1-deoxynojirimycin inhibit glycosylation of
+hepatitis viral envelope proteins.
+
+Jacob JR(1), Mansfield K, You JE, Tennant BC, Kim YH.
+
+Author information: 
+(1)Department of Clinical Sciences, College of Veterinary Medicine, Cornell
+University, NY 14853, USA.
+
+A silkworm (Bombyx mori L.) extract known to contain naturally occurring
+iminosugars, including 1-deoxynojirimycin (1-DNJ) derived from the mulberry tree 
+(Morus alba L.), was evaluated in surrogate HCV and HBV in vitro assays.
+Antiviral activity of the silkworm extract and one of its purified constituents, 
+1-DNJ, was demonstrated against bovine viral diarrhea virus (BVDV) and GB virus-B
+(GBV-B), both members of the Flaviviridae family, and against woodchuck hepatitis
+virus (WHV) and hepatitis B virus (HBV), both members of the Hepadnaviridae
+family of viruses. The silkworm extract exhibited a 1,300 fold greater antiviral 
+effect against BVDV in comparison to purified 1-DNJ. Glycoprotein processing of
+BVDV envelope proteins was disrupted upon treatment with the naturally derived
+components. The glycosylation of the WHV envelope proteins was affected largely
+by treatment with the silkworm extract than with purified 1-DNJ as well. The
+mechanism of action for this therapy may lie in the generation of defective
+particles that are unable to initiate the next cycle of infection as demonstrated
+by inhibition of GBV-B in vitro. We postulate that the five constituent
+iminosugars present in the silkworm extract contribute, in a synergistic manner, 
+toward the antiviral effects observed for the inhibition of intact maturation of 
+hepatitis viral particles and may complement conventional therapies. These
+results indicate that pre-clinical testing of the natural silkworm extract with
+regards to the efficacy of treatment against viral hepatitis infections can be
+evaluated in the respective animal models, in preparation for clinical trials in 
+humans.
+
+
+PMID: 17978803  [Indexed for MEDLINE]
+
+
+2342. J Neurosci. 2007 Oct 31;27(44):11991-8.
+
+In vivo tracing of neural tracts in the intact and injured spinal cord of
+marmosets by diffusion tensor tractography.
+
+Fujiyoshi K(1), Yamada M, Nakamura M, Yamane J, Katoh H, Kitamura K, Kawai K,
+Okada S, Momoshima S, Toyama Y, Okano H.
+
+Author information: 
+(1)Department of Orthopaedic Surgery, Keio University School of Medicine,
+Shinjuku, Tokyo 160-8582, Japan.
+
+In spinal cord injury, axonal disruption results in motor and sensory function
+impairment. The evaluation of axonal fibers is essential to assess the severity
+of injury and efficacy of any treatment protocol, but conventional methods such
+as tracer injection in brain parenchyma are highly invasive and require
+histological evaluation, precluding clinical applications. Previous advances in
+magnetic resonance imaging technology have led to the development of diffusion
+tensor tractography (DTT) as a potential modality to perform in vivo tracing of
+axonal fibers. The properties and clinical applications of DTT in the brain have 
+been reported, but technical difficulties have limited DTT studies of the spinal 
+cord. In this study, we report the effective use of DTT to visualize both intact 
+and surgically disrupted spinal long tracts in adult common marmosets. To verify 
+the feasibility of spinal cord DTT, we first performed DTT of postmortem
+marmosets. DTT clearly illustrated spinal projections such as the corticospinal
+tract and afferent fibers in control animals, and depicted the severed long
+tracts in the injured animals. Histology of the spinal cords in both control and 
+injured groups were consistent with DTT findings, verifying the accuracy of DTT. 
+We also conducted DTT in live marmosets and demonstrated that DTT can be
+performed in live animals to reveal in vivo nerve fiber tracing images, providing
+an essential tool to evaluate axonal conditions in the injured spinal cord. Taken
+together, these findings demonstrate the feasibility of applying DTT to
+preclinical and clinical studies of spinal cord injury.
+
+DOI: 10.1523/JNEUROSCI.3354-07.2007 
+PMCID: PMC6673369
+PMID: 17978040  [Indexed for MEDLINE]
+

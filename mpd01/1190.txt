@@ -1,0 +1,100 @@
+
+
+1190. J Infect Dis. 2016 Mar 15;213(6):904-14. doi: 10.1093/infdis/jiv380. Epub 2015
+Jul 22.
+
+Middle East Respiratory Syndrome Coronavirus Efficiently Infects Human Primary T 
+Lymphocytes and Activates the Extrinsic and Intrinsic Apoptosis Pathways.
+
+Chu H(1), Zhou J(1), Wong BH(2), Li C(2), Chan JF(1), Cheng ZS(2), Yang D(2),
+Wang D(2), Lee AC(2), Li C(2), Yeung ML(1), Cai JP(2), Chan IH(3), Ho WK(3), To
+KK(1), Zheng BJ(1), Yao Y(4), Qin C(4), Yuen KY(5).
+
+Author information: 
+(1)State Key Laboratory of Emerging Infectious Diseases Department of
+Microbiology Research Centre of Infection and Immunology Carol Yu Centre for
+Infection.
+(2)Department of Microbiology.
+(3)Department of Surgery, University of Hong Kong, Hong Kong Special
+Administrative Region.
+(4)Institute of Laboratory Animal Sciences, Chinese Academy of Medical Sciences.
+(5)State Key Laboratory of Emerging Infectious Diseases Department of
+Microbiology Research Centre of Infection and Immunology Carol Yu Centre for
+Infection Collaborative Innovation Center for Diagnosis and Treatment of
+Infectious Diseases, Zhejiang University, China.
+
+Comment in
+    J Infect Dis. 2016 Mar 15;213(6):877-9.
+
+Middle East respiratory syndrome (MERS) is associated with a mortality rate of
+>35%. We previously showed that MERS coronavirus (MERS-CoV) could infect human
+macrophages and dendritic cells and induce cytokine dysregulation. Here, we
+further investigated the interplay between human primary T cells and MERS-CoV in 
+disease pathogenesis. Importantly, our results suggested that MERS-CoV
+efficiently infected T cells from the peripheral blood and from human lymphoid
+organs, including the spleen and the tonsil. We further demonstrated that
+MERS-CoV infection induced apoptosis in T cells, which involved the activation of
+both the extrinsic and intrinsic apoptosis pathways. Remarkably, immunostaining
+of spleen sections from MERS-CoV-infected common marmosets demonstrated the
+presence of viral nucleoprotein in their CD3(+) T cells. Overall, our results
+suggested that the unusual capacity of MERS-CoV to infect T cells and induce
+apoptosis might partly contribute to the high pathogenicity of the virus.
+
+© The Author 2015. Published by Oxford University Press on behalf of the
+Infectious Diseases Society of America. All rights reserved. For Permissions,
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiv380 
+PMCID: PMC7107330
+PMID: 26203058  [Indexed for MEDLINE]
+
+
+1191. J Infect Dis. 2015 Dec 15;212(12):1904-13. doi: 10.1093/infdis/jiv392. Epub 2015 
+Jul 21.
+
+Treatment With Lopinavir/Ritonavir or Interferon-β1b Improves Outcome of MERS-CoV
+Infection in a Nonhuman Primate Model of Common Marmoset.
+
+Chan JF(1), Yao Y(2), Yeung ML(3), Deng W(2), Bao L(2), Jia L(3), Li F(2), Xiao
+C(2), Gao H(2), Yu P(2), Cai JP(3), Chu H(3), Zhou J(3), Chen H(1), Qin C(2),
+Yuen KY(1).
+
+Author information: 
+(1)State Key Laboratory of Emerging Infectious Diseases Department of
+Microbiology Research Centre of Infection and Immunology Carol Yu Centre for
+Infection, The University of Hong Kong, Hong Kong Special Administrative Region.
+(2)Institute of Laboratory Animal Sciences, Chinese Academy of Medical Sciences, 
+Beijing, China.
+(3)Department of Microbiology.
+
+Middle East respiratory syndrome coronavirus (MERS-CoV) causes severe disease in 
+human with an overall case-fatality rate of >35%. Effective antivirals are
+crucial for improving the clinical outcome of MERS. Although a number of
+repurposed drugs, convalescent-phase plasma, antiviral peptides, and neutralizing
+antibodies exhibit anti-MERS-CoV activity in vitro, most are not readily
+available or have not been evaluated in nonhuman primates. We assessed 3
+repurposed drugs with potent in vitro anti-MERS-CoV activity (mycophenolate
+mofetil [MMF], lopinavir/ritonavir, and interferon-β1b) in common marmosets with 
+severe disease resembling MERS in humans. The lopinavir/ritonavir-treated and
+interferon-β1b-treated animals had better outcome than the untreated animals,
+with improved clinical (mean clinical scores ↓50.9%-95.0% and ↓weight loss than
+the untreated animals), radiological (minimal pulmonary infiltrates), and
+pathological (mild bronchointerstitial pneumonia) findings, and lower mean viral 
+loads in necropsied lung (↓0.59-1.06 log10 copies/glyceraldehyde 3-phosphate
+dehydrogenase [GAPDH]; P < .050) and extrapulmonary (↓0.11-1.29 log10
+copies/GAPDH; P < .050 in kidney) tissues. In contrast, all MMF-treated animals
+developed severe and/or fatal disease with higher mean viral loads (↑0.15-0.54
+log10 copies/GAPDH) than the untreated animals. The mortality rate at 36 hours
+postinoculation was 67% (untreated and MMF-treated) versus 0-33%
+(lopinavir/ritonavir-treated and interferon-β1b-treated). Lopinavir/ritonavir and
+interferon-β1b alone or in combination should be evaluated in clinical trials.
+MMF alone may worsen MERS and should not be used.
+
+© The Author 2015. Published by Oxford University Press on behalf of the
+Infectious Diseases Society of America. All rights reserved. For Permissions,
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiv392 
+PMCID: PMC7107395
+PMID: 26198719  [Indexed for MEDLINE]
+

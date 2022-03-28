@@ -1,0 +1,84 @@
+
+
+2955. Brain Res. 2003 Apr 11;968(2):206-18.
+
+Alterations in m-RNA expression for Cu,Zn-superoxide dismutase and glutathione
+peroxidase in the basal ganglia of MPTP-treated marmosets and patients with
+Parkinson's disease.
+
+Kunikowska G(1), Jenner P.
+
+Author information: 
+(1)Neurodegenerative Diseases Research Centre, Guy's, King's and St Thomas'
+School of Biomedical Sciences, King's College, London, UK.
+
+Alterations occurring in the antioxidant enzymes, copper, zinc-dependent
+superoxide dismutase (Cu,Zn-SOD) and glutathione peroxidase (GPX) following
+nigral dopaminergic denervation are unclear. We now report on the distribution
+and levels of m-RNA for Cu,Zn-SOD and GPX in basal ganglia of normal and
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-treated common marmosets, and
+in normal individuals and patients with Parkinson's disease (PD) using in situ
+hybridization histochemistry and oligodeoxynucleotide (single-stranded DNA)
+probes. Cu,Zn-SOD and GPX m-RNA was present throughout basal ganglia (nucleus
+accumbens, caudate-putamen, globus pallidus, substantia nigra) in the common
+marmoset, with the highest levels being in substantia nigra (SN). Following MPTP 
+induced nigral cell loss, Cu,Zn-SOD m-RNA levels were decreased in all areas but 
+the SNr, and particularly in SNc (71%, P<0.001). MPTP-treatment had no effect on 
+GPX m-RNA expression in any area of basal ganglia. Cu,Zn-SOD and GPX m-RNA was
+also present in the normal human SN. In PD, however, Cu,Zn-SOD m-RNA was
+significantly decreased (89%, P<0.005) in SNc, and there was a near-complete loss
+of GPX m-RNA in both SNc (100%, P<0.005) and SNr (88%, P<0.005). The loss of
+Cu,Zn-SOD m-RNA in SNc in MPTP-treated marmosets and patients with PD suggests
+that it is primarily located in dopaminergic neuronal cell bodies. The loss of
+GPX m-RNA in SNc in PD also suggests a localisation to dopaminergic cell bodies, 
+but the similar change in SNr may indicate its presence in dopaminergic neurites.
+In contrast, the absence of change in GPX m-RNA in MPTP-treated primates appears 
+to rule out its presence in dopaminergic cells in this species, but this may only
+be apparent and may reflect increased expression in glial cells following acute
+toxin treatment.
+
+DOI: 10.1016/s0006-8993(03)02240-6 
+PMID: 12663090  [Indexed for MEDLINE]
+
+
+2956. J Neurosci. 2003 Mar 15;23(6):2251-64.
+
+Responses of neurons in the middle temporal visual area after long-standing
+lesions of the primary visual cortex in adult new world monkeys.
+
+Collins CE(1), Lyon DC, Kaas JH.
+
+Author information: 
+(1)Department of Psychology, Vanderbilt University, Nashville, Tennessee 37203,
+USA.
+
+The retinotopic organization of the middle temporal visual area (MT) was
+determined in six adult owl monkeys and one adult marmoset 69 d to 10 months
+after lesions of the dorsolateral primary visual cortex (V1). The lesions removed
+were limited to extensive parts of the representation of the lower visual
+quadrant in V1. Microelectrodes were used to record from neurons at numerous
+sites in MT to determine whether parts of MT normally devoted to the lower visual
+quadrant (1) were unresponsive to visual stimuli, (2) acquired responsiveness to 
+inputs from intact portions of V1, or (3) became responsive to some other
+visually driven input such as a relay from the superior colliculus via the
+pulvinar to MT. All monkeys (n = 6) with moderate to moderately large lesions had
+unresponsive portions of MT even after 10 months of recovery. These unresponsive 
+regions were retinotopically equivalent to the removed parts of V1 in normal
+animals. Thus, there was no evidence for an alternative source of activation. In 
+addition, these results indicate that any retinotopic reorganization of MT based 
+on inputs from intact portions of V1 was not extensive, yet neurons near the
+margins of responsive cortex may have acquired new receptive fields, and the
+smallest 5 degrees lesion of V1 failed to produce an unresponsive zone. Deprived 
+portions of MT were not remarkably changed in histological appearance in
+cytochrome oxidase, Nissl, and Wisteria floribunda agglutinin preparations.
+Nevertheless, some reduction in myelin staining and other histological changes
+were suggested. We conclude that MT is highly dependent on V1 for activation in
+these monkeys, and alternative sources do not become effective over months when
+normal activation is absent. Additionally, remaining V1 inputs have only a
+limited capacity to expand their activation territory into deprived portions of
+MT.
+
+
+PMCID: PMC6742043
+PMID: 12657684  [Indexed for MEDLINE]
+

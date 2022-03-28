@@ -1,0 +1,69 @@
+
+
+2722. Cereb Cortex. 2005 Oct;15(10):1510-23. Epub 2005 Feb 2.
+
+Dynamics of auditory-vocal interaction in monkey auditory cortex.
+
+Eliades SJ(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+
+Single neurons in the primate auditory cortex exhibit vocalization-related
+modulations (excitatory or inhibitory) during self-initiated vocal production.
+Previous studies have shown that these modulations of cortical activity are
+variable in individual neurons' responses to multiple instances of vocalization
+and diverse between different cortical neurons. The present study investigated
+dynamic patterns of vocalization-related modulations and demonstrated that much
+of the variability in cortical modulations was related to the acoustic structures
+of self-produced vocalization. We found that suppression of single unit activity 
+during multi-phrased vocalizations was temporally specific in that it was
+maintained during each phrase, but was released between phrases. Furthermore, the
+degree of suppression or excitation was correlated to the mean energy and
+frequency of the produced vocalizations, accounting for much of the response
+variability between multiple instances of vocalization. Simultaneous recordings
+of pairs of neurons from a single electrode revealed that the modulations by
+self-produced vocalizations in nearby neurons were largely uncorrelated.
+Additionally, vocalization-induced suppression was found to be preferentially
+distributed to upper cortical layers. Finally, we showed that the summation of
+all auditory cortical activity during vocalization, including both single and
+multi-unit responses, was weakly excitatory, consistent with observations from
+studies of the human brain during speech.
+
+DOI: 10.1093/cercor/bhi030 
+PMID: 15689521  [Indexed for MEDLINE]
+
+
+2723. J Agric Food Chem. 2005 Feb 9;53(3):816-22.
+
+Antioxidative, antimutagenic, and anticarcinogenic activities of rice bran
+extracts in chemical and cell assays.
+
+Nam SH(1), Choi SP, Kang MY, Kozukue N, Friedman M.
+
+Author information: 
+(1)Department of Biological Science, Ajou University, Suwon 443-749, Korea.
+shnam@ajou.ac.kr
+
+Ethanol-water (70:30 v/v) extracts from rice brans removed from seeds of two
+blackish-purple pigmented (Sanhaehyanghyulla and Suwon 415) and one nonpigmented 
+(Chuchung) brown rice cultivars were evaluated for antioxidative,
+anti-tumor-promoting, and anticarcinogenic activities in chemical assays and in
+mammalian cells (human leukemia HL-60, marmoset B lymphoblastoid B95-8, and
+Chinese hamster V79 lung cells) by the following tests: inhibition of xanthine
+oxidase activity; chelation of ferrous ions; reduction of potassium ferricyanide;
+scavenging of superoxide anions, hydroxyl radicals, and intracellular peroxides; 
+inhibition of 4-nitroquinoline N-oxide-induced mutagenesis; and inhibition of
+phorbol ester-induced tumor promotion. The extracts from the pigmented rice seeds
+had generally higher activities in all tests than did the extract from the
+nonpigmented variety. The results suggest that brans from pigmented rice
+varieties may provide a source of new natural antioxidants and anticarcinogens
+and that such rice cultivars with high antioxidative potential also provide a
+genetic resource for the development of new, improved rice cultivars that may
+make it possible to enhance both the nutritional and medical value of rice-based 
+diets.
+
+DOI: 10.1021/jf0490293 
+PMID: 15686439  [Indexed for MEDLINE]
+

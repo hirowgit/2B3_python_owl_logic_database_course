@@ -1,0 +1,40 @@
+
+
+2076. J Exp Biol. 2009 Dec;212(Pt 24):4040-55. doi: 10.1242/jeb.029983.
+
+The morphology of the masticatory apparatus facilitates muscle force production
+at wide jaw gapes in tree-gouging common marmosets (Callithrix jacchus).
+
+Eng CM(1), Ward SR, Vinyard CJ, Taylor AB.
+
+Author information: 
+(1)Department of Orthopaedic Surgery, University of California, San Diego, CA
+92121, USA. cmeng@fas.harvard.edu
+
+Common marmosets (Callithrix jacchus) generate wide jaw gapes when gouging trees 
+with their anterior teeth to elicit tree exudate flow. Closely related cotton-top
+tamarins (Saguinus oedipus) do not gouge trees but share similar diets including 
+exudates. Maximizing jaw opening theoretically compromises the bite forces that
+marmosets can generate during gouging. To investigate how jaw-muscle architecture
+and craniofacial position impact muscle performance during gouging, we combine
+skull and jaw-muscle architectural features to model muscle force production
+across a range of jaw gapes in these two species. We incorporate joint mechanics,
+resting sarcomere length and muscle architecture estimates from the masseter and 
+temporalis to model muscle excursion, sarcomere length and relative tension as a 
+function of joint angle. Muscle excursion from occlusion to an estimated maximum 
+functional gape of 55 deg. was smaller in all regions of the masseter and
+temporalis of C. jacchus compared with S. oedipus except the posterior
+temporalis. As a consequence of reduced muscle excursion distributed over more
+sarcomeres in series (i.e. longer fibers), sarcomere length operating ranges are 
+smaller in C. jacchus jaw muscles across this range of gapes. This configuration 
+allows C. jacchus to act on a more favorable portion of the length-tension curve 
+at larger gapes and thereby generate relatively greater tension in these muscles 
+compared with S. oedipus. Our results suggest that biting performance during tree
+gouging in common marmosets is improved by a musculoskeletal configuration that
+reduces muscle stretch at wide gapes while simultaneously facilitating
+comparatively large muscle forces at the extremes of jaw opening.
+
+DOI: 10.1242/jeb.029983 
+PMCID: PMC4075048
+PMID: 19946083  [Indexed for MEDLINE]
+

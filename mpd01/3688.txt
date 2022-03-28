@@ -1,0 +1,95 @@
+
+
+3688. J Biol Chem. 1997 Mar 28;272(13):8433-40.
+
+Functional characterization and purification of an intracellular vitamin
+D-binding protein in vitamin D-resistant new world primate cells. Amino acid
+sequence homology with proteins in the hsp-70 family.
+
+Gacad MA(1), Chen H, Arbelle JE, LeBon T, Adams JS.
+
+Author information: 
+(1)Cedars-Sinai Burns and Allen Research Institute, UCLA School of Medicine, Los 
+Angeles, California 90048, USA.
+
+Most genera of New World primates exhibit resistance to vitamin D. These monkeys 
+harbor high circulating concentrations of the prohormone 25-hydroxyvitamin D and 
+the active vitamin D hormone 1, 25-dihydroxyvitamin D. Previous work from this
+laboratory indicated that resistance is associated with the overexpression of a
+60-65-kDa intracellular protein that binds vitamin D metabolites competitively.
+In the current studies 25-[3H]hydroxyvitamin D3 (25-OHD3) was used as a
+competitive ligand to investigate the ability of a number of small lipid
+molecules to interact with this intracellular vitamin D-binding protein (IDBP) in
+post-nuclear extracts of a prototypical lymphoblast cell line from the common
+marmoset, a vitamin D-resistant New World primate. Only those vitamin D
+metabolites with a hydroxyl moiety in the C-25 position were bound by IDBP.
+Disruption of the C-25 hydroxyl obviated binding, whereas more proximal
+alterations in the vitamin D side chain did not. Modifications in the A-ring of
+25-hydroxylated vitamin D metabolites, most specifically hydroxylation of C-1,
+diminished but did not abolish ligand binding. Of more than two dozen other small
+lipid molecules examined, only the C-19 17-hydroxysteroids, 17beta-estradiol and 
+testosterone, and the C-21 steroid progesterone were found to be capable of
+binding specifically to IDBP. Using a combination of physical and serial
+chromatographic techniques, we enriched IDBP 25-OHD3 binding activity 17,588-fold
+in extracts of B95-8 cells. Two-dimensional sodium dodecyl sulfate-polyacrylamide
+gel electrophoresis of this purified fraction demonstrated a predominant 65-kDa
+molecular species with a pI approximately 4.5. Seven different peptide fragments 
+were isolated from the 65-kDa protein, each possessing sequence similarity to the
+hsp-70 family of proteins. Ligand binding analyses confirmed that human inducibly
+expressed hsp-70-bound 25-OHD3 with approximately similar affinity (
+approximately 10(-7) M) as did purified IDBP. In summary, these results suggest a
+novel action for the hsp-70 family of proteins as intracellular vitamin D- and
+gonadal steroid hormone-binding molecules.
+
+DOI: 10.1074/jbc.272.13.8433 
+PMID: 9079669  [Indexed for MEDLINE]
+
+
+3689. Virology. 1997 Mar 17;229(2):429-36.
+
+Five new or recently discovered (GBV-A) virus species are indigenous to New World
+monkeys and may constitute a separate genus of the Flaviviridae.
+
+Bukh J(1), Apgar CL.
+
+Author information: 
+(1)Hepatitis Viruses Section, National Institute of Allergy and infectious
+Diseases, National Institutes of Health, Bethesda, Maryland 20892-0740, USA.
+
+In previous studies, human hepatitis viruses have been experimentally transmitted
+to New World monkeys of the genus Saguinus (tamarins). Recently, two
+Flaviviridae-like agents (GBV-A and GBV-B) were identified in tamarins that
+developed hepatitis following inoculation with serum of the 11th tamarin passage 
+of a potentially new human hepatitis agent. However, it was not shown that these 
+viruses originated from the initial inoculum. We here report the discovery of
+indigenous species-specific viruses related to GBV-A in several species of New
+World monkeys and suggest that GBV-A virus was fortuitously acquired during
+passage in tamarins. Sera or plasma from 98 wild-caught New World monkeys
+representing 10 different species was tested by RT-PCR with conserved degenerate 
+primers to the 5' noncoding region of the genome. Viral sequences were identified
+in 33 animals and sequence analysis was performed on the amplicons. In addition, 
+the genomic region corresponding to the putative NS3 RNA helicase of GBV-A was
+amplified from most positive animals and sequenced. We detected GBV-A-like
+viruses in 13 (35%) of 37 S. mystax, 7 (78%) of 9 S. nigricollis, 3 (25%) of 12
+S. labiatus, 2 (50%) of 4 S. oedipus, 2 (100%) of 2 Callithrix jacchus, and 6
+(50%) of 12 Aotus trivirgatus monkeys. Each positive animal was infected with a
+unique strain of the GBV-A-like viruses. Analysis of the 5' NC and NS3 helicase
+sequences revealed that these viruses could be classified into 5 major genetic
+groups with genetic distances equivalent to or greater than those found among
+major genetic groups of hepatitis C virus. Species-specific GBV-A-like viruses
+were found in S. mystax, S. nigricollis, S. oedipus, C. jacchus, and A.
+trivirgatus species. The viruses specific for S. nigricollis were closely related
+to GBV-A, suggesting that GBV-A was acquired by passage through this species
+during the initial transmission studies. The natural history of the GBV-A-like
+viruses was studied in serial serum samples from 9 S. mystax and 2 A. trivirgatus
+monkeys. Each animal was chronically infected and the viral strain did not vary
+during 9-27 months of follow-up. Finally, we demonstrated that four S. mystax
+were positive upon arrival to the United States from the country of origin. No
+apparent disease was associated with chronic infection of the GBV-A-like viruses.
+In conclusion, many New World monkeys are persistently infected with indigenous
+species-specific viruses that may represent a new genus within the virus family
+Flaviviridae.
+
+DOI: 10.1006/viro.1997.8461 
+PMID: 9126255  [Indexed for MEDLINE]
+

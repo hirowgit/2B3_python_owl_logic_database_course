@@ -1,0 +1,43 @@
+
+
+2665. J Mol Evol. 2005 May;60(5):606-14.
+
+Molecular evolution of prolactin in primates.
+
+Wallis OC(1), Mac-Kwashie AO, Makri G, Wallis M.
+
+Author information: 
+(1)Biochemistry Department, School of Life Sciences, University of Sussex,
+Brighton, UK. C.Wallis@sussex.ac.uk
+
+Pituitary prolactin, like growth hormone (GH) and several other protein hormones,
+shows an episodic pattern of molecular evolution in which sustained bursts of
+rapid change contrast with long periods of slow evolution. A period of rapid
+change occurred in the evolution of prolactin in primates, leading to marked
+sequence differences between human prolactin and that of nonprimate mammals. We
+have defined this burst more precisely by sequencing the coding regions of
+prolactin genes for a prosimian, the slow loris (Nycticebus pygmaeus), and a New 
+World monkey, the marmoset (Callithrix jacchus). Slow loris prolactin is very
+similar in sequence to pig prolactin, so the episode of rapid change occurred
+during primate evolution, after the separation of lines leading to prosimians and
+higher primates. Marmoset prolactin is similar in sequence to human prolactin, so
+the accelerated evolution occurred before divergence of New World monkeys and Old
+World monkeys/apes. The burst of change was confined largely to coding sequence
+(nonsynonymous sites) for mature prolactin and is not marked in other components 
+of the gene sequence. This and the observations that (1) there was no apparent
+loss of function during the episode of rapid evolution, (2) the rate of evolution
+slowed toward the basal rate after this burst, and (3) the distribution of
+substitutions in the prolactin molecule is very uneven support the idea that this
+episode of rapid change was due to positive adaptive selection. In the slow loris
+and marmoset there is no evidence for duplication of the prolactin gene, and
+evidence from another New World monkey (Cebus albifrons) and from the chimpanzee 
+and human genome sequences, suggests that this is the general position in
+primates, contrasting with the situation for GH genes. The chimpanzee prolactin
+sequence differs from that of human at two residues and comparison of human and
+chimpanzee prolactin gene sequences suggests that noncoding regions associated
+with regulating expression may be evolving differently from other noncoding
+regions.
+
+DOI: 10.1007/s00239-004-0239-9 
+PMID: 15983870  [Indexed for MEDLINE]
+

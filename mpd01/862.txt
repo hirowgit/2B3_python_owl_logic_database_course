@@ -1,0 +1,94 @@
+
+
+862. Psychoneuroendocrinology. 2017 Sep;83:42-48. doi: 10.1016/j.psyneuen.2017.05.009.
+Epub 2017 May 10.
+
+An eye tracking system for monitoring face scanning patterns reveals the
+enhancing effect of oxytocin on eye contact in common marmosets.
+
+Kotani M(1), Shimono K(2), Yoneyama T(3), Nakako T(1), Matsumoto K(1), Ogi Y(1), 
+Konoike N(4), Nakamura K(4), Ikeda K(5).
+
+Author information: 
+(1)Higher Brain Function Research, Sumitomo Dainippon Pharma, Co., Ltd., 33-94
+Enoki-cho, Suita, Osaka, 564-0053, Japan.
+(2)Molecular Pathophysiology Research, Drug Research Division, Sumitomo Dainippon
+Pharma, Co., Ltd., 3-1-98 Kasugadenaka, Konohana-ku, Osaka, 554-0022, Japan.
+(3)Omics Group, Genomic Science Laboratories, Drug Research Division, Sumitomo
+Dainippon Pharma, Co., Ltd., 3-1-98 Kasugadenaka, Konohana-ku, Osaka, 554-0022,
+Japan.
+(4)Department of Neuroscience, Primate Research Institute, Kyoto University, 41-2
+Kanrin, Inuyama, Aichi, 484-8506, Japan.
+(5)Higher Brain Function Research, Sumitomo Dainippon Pharma, Co., Ltd., 33-94
+Enoki-cho, Suita, Osaka, 564-0053, Japan. Electronic address:
+kazuhito-ikeda@ds-pharma.co.jp.
+
+Eye tracking systems are used to investigate eyes position and gaze patterns
+presumed as eye contact in humans. Eye contact is a useful biomarker of social
+communication and known to be deficient in patients with autism spectrum
+disorders (ASDs). Interestingly, the same eye tracking systems have been used to 
+directly compare face scanning patterns in some non-human primates to those in
+human. Thus, eye tracking is expected to be a useful translational technique for 
+investigating not only social attention and visual interest, but also the effects
+of psychiatric drugs, such as oxytocin, a neuropeptide that regulates social
+behavior. In this study, we report on a newly established method for eye tracking
+in common marmosets as unique New World primates that, like humans, use eye
+contact as a mean of communication. Our investigation was aimed at characterizing
+these primates face scanning patterns and evaluating the effects of oxytocin on
+their eye contact behavior. We found that normal common marmosets spend more time
+viewing the eyes region in common marmoset's picture than the mouth region or a
+scrambled picture. In oxytocin experiment, the change in eyes/face ratio was
+significantly greater in the oxytocin group than in the vehicle group. Moreover, 
+oxytocin-induced increase in the change in eyes/face ratio was completely blocked
+by the oxytocin receptor antagonist L-368,899. These results indicate that eye
+tracking in common marmosets may be useful for evaluating drug candidates
+targeting psychiatric conditions, especially ASDs.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.psyneuen.2017.05.009 
+PMID: 28586711  [Indexed for MEDLINE]
+
+
+863. Vet Pathol. 2018 Jan;55(1):27-41. doi: 10.1177/0300985817712794. Epub 2017 Jun 6.
+
+Experimental Models of Autoimmune Demyelinating Diseases in Nonhuman Primates.
+
+Stimmer L(1), Fovet CM(2), Serguera C(3).
+
+Author information: 
+(1)1 U1169/US27 Platform for experimental pathology, Molecular Imaging Research
+Center, INSERM-CEA, Fontenay-aux-Roses, France.
+(2)2 U1169/US27 Platform for general surgery, Molecular Imaging Research Center, 
+INSERM-CEA, Fontenay-aux-Roses, France.
+(3)3 US27, Molecular Imaging Research Center, INSERM-CEA, Fontenay-aux-Roses,
+France.
+
+Human idiopathic inflammatory demyelinating diseases (IIDD) are a heterogeneous
+group of autoimmune inflammatory and demyelinating disorders of the central
+nervous system (CNS). These include multiple sclerosis (MS), the most common
+chronic IIDD, but also rarer disorders such as acute disseminated
+encephalomyelitis (ADEM) and neuromyelitis optica (NMO). Great efforts have been 
+made to understand the pathophysiology of MS, leading to the development of a few
+effective treatments. Nonetheless, IIDD still require a better understanding of
+the causes and underlying mechanisms to implement more effective therapies and
+diagnostic methods. Experimental autoimmune encephalomyelitis (EAE) is a commonly
+used animal model to study the pathophysiology of IIDD. EAE is principally
+induced through immunization with myelin antigens combined with immune-activating
+adjuvants. Nonhuman primates (NHP), the phylogenetically closest relatives of
+humans, challenged by similar microorganisms as other primates may recapitulate
+comparable immune responses to that of humans. In this review, the authors
+describe EAE models in 3 NHP species: rhesus macaques ( Macaca mulatta),
+cynomolgus macaques ( Macaca fascicularis), and common marmosets ( Callithrix
+jacchus), evaluating their respective contribution to the understanding of human 
+IIDD. EAE in NHP is a heterogeneous disease, including acute monophasic and
+chronic polyphasic forms. This diversity makes it a versatile model to use in
+translational research. This clinical variability also creates an opportunity to 
+explore multiple facets of immune-mediated mechanisms of neuro-inflammation and
+demyelination as well as intrinsic protective mechanisms. Here, the authors
+review current insights into the pathogenesis and immunopathological mechanisms
+implicated in the development of EAE in NHP.
+
+DOI: 10.1177/0300985817712794 
+PMID: 28583039  [Indexed for MEDLINE]
+

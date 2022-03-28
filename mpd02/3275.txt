@@ -1,0 +1,42 @@
+
+
+3275. Psychopharmacology (Berl). 2000 Jul;151(1):91-7.
+
+Anxiolytic profile of ropinirole in the rat, mouse and common marmoset.
+
+Rogers DC(1), Costall B, Domeney AM, Gerrard PA, Greener M, Kelly ME, Hagan JJ,
+Hunter AJ.
+
+Author information: 
+(1)Neuroscience Research, SmithKline Beecham Pharmaceuticals, Harlow, Essex, UK. 
+Derek_C_Rogers@sbphrd.com
+
+RATIONALE: Some features of Parkinson's disease are exacerbated by stress and
+anxiety and it is important to understand the effects of dopamine receptor
+agonists on measures of anxiety. The aim of this study was to assess the effects 
+of the dopamine D2/D3 receptor agonist ropinirole in models of anxiety and
+depression in the rat, mouse and marmoset.
+RESULTS: In the rat elevated plus-maze test, ropinirole (0.01-1 mg/kg, i.p.)
+produced an inverted-U dose-response curve in the percentage time spent in the
+open arms. Compared with vehicle, ropinirole (0.1 mg/kg) had a significant
+anxiolytic-like effect, which was similar to that observed with 1.5 mg/kg
+diazepam. This effect was found at doses that did not affect motor behaviour or
+induce stereotypy. In the mouse black and white box test of anxiety, ropinirole
+(0.1-10 mg/kg, i.p.) increased both the rearing time and number of line crosses
+in the white section. This effect reached statistical significance for both
+measures at a dose of 0.1 mg/kg and suggests an anxiolytic-like action of the
+compound. By contrast, the dopamine agonist bromocriptine (0.1-10 mg/kg, i.p.)
+did not produce significant changes in these behaviours. In the marmoset human
+threat test, ropinirole (0.01-10 microg/kg, s.c.) reduced the number of postures 
+at all doses tested and this reached statistical significance at 10 microg/kg.
+Ropinirole did not compromise the effect of amitriptyline in the Porsolt test of 
+depression and in itself produced antidepressant-like effects.
+CONCLUSIONS: These data demonstrate that systemic administration of ropinirole
+produces anxiolytic-like effects in three separate models in the mouse, rat and
+marmoset. This may predict an action of ropinirole in man that would provide a
+superior profile of action over other presently available anti-parkinsonian
+agents.
+
+DOI: 10.1007/s002130000485 
+PMID: 10958122  [Indexed for MEDLINE]
+

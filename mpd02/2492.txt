@@ -1,0 +1,44 @@
+
+
+2492. J Pharmacol Exp Ther. 2006 Dec;319(3):1225-34. Epub 2006 Sep 7.
+
+In 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-treated primates, the selective
+5-hydroxytryptamine 1a agonist (R)-(+)-8-OHDPAT inhibits levodopa-induced
+dyskinesia but only with\ increased motor disability.
+
+Iravani MM(1), Tayarani-Binazir K, Chu WB, Jackson MJ, Jenner P.
+
+Author information: 
+(1)Neurodegenerative Disease Research Group, School of Health and Biomedical
+Sciences, King's College, London, United Kingdom. m.iravani@kcl.ac.uk
+
+5-Hydroxytryptamine 1a (5-HT(1a)) receptor agonists, such as sarizotan and
+tandospirone, are reported to reduce levodopa-induced dyskinesia in
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-treated macaques and in
+Parkinson's disease without worsening motor disability. However, these compounds 
+are not specific for 5-HT(1a) receptors and also possess dopamine antagonist
+actions. We now report on the effects of
+(2R)-(+)-8-hydroxy-2-(di-n-propylamino)tetralin [(R)-(+)-8-OHDPAT], a selective
+5-HT(1a) agonist lacking dopaminergic activity, on motor disability and
+dyskinesia (chorea and dystonia) in levodopa-primed MPTP-treated common
+marmosets. Administration of (R)-(+)-8-OHDPAT (0.2, 0.6, and 2.0 mg/kg s.c), in
+conjunction with levodopa/carbidopa (12.5 mg/kg each p.o.) to levodopa-primed
+animals, dose-dependently reduced levodopa-induced chorea but did not affect
+dystonic movements. However, (R)-(+)-8-OHDPAT treatment also reduced locomotor
+activity and the reversal of motor disability. Administration of (R)-(+)-8-OHDPAT
+alone had no effects of motor behaviors. The effects of (R)-(+)-8-OHDPAT on
+levodopa-induced motor behaviors were antagonized by the 5-HT(1a) receptor
+antagonist
+N-[2-[4-(2-methoxyphenyl)-1-piperazinyl]ethyl]-N-2-pyridinylcyclohexanecarboxamid
+e maleate (WAY-100635) (1.0 mg/kg s.c.). Administration of (R)-(+)-8-OHDPAT (0.6 
+mg/kg s.c.) also reduced chorea produced by the administration of the D(2)/D(3)
+dopamine receptor agonist pramipexole (0.06 mg/kg p.o.) to levodopa-primed
+MPTP-treated animals. However, again the increase in locomotor activity and
+reversal of motor disability produced by pramipexole were also inhibited. These
+data suggest that selective 5-HT(1a) agonists do not provide an effective means
+of suppressing levodopa-induced dyskinesia, except with worsening of
+parkinsonism.
+
+DOI: 10.1124/jpet.106.110429 
+PMID: 16959959  [Indexed for MEDLINE]
+

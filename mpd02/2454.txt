@@ -1,0 +1,34 @@
+
+
+2454. Biol Lett. 2005 Jun 22;1(2):223-6.
+
+The ecology and evolution of patience in two New World monkeys.
+
+Stevens JR(1), Hallinan EV, Hauser MD.
+
+Author information: 
+(1)Department of Psychology and Primate Cognitive Neuroscience Laboratory,
+Harvard University, Cambridge, MA 02138, USA. jstevens@wjh.harvard.edu
+
+Decision making often involves choosing between small, short-term rewards and
+large, long-term rewards. All animals, humans included, discount future
+rewards--the present value of delayed rewards is viewed as less than the value of
+immediate rewards. Despite its ubiquity, there exists considerable but
+unexplained variation between species in their capacity to wait for rewards--that
+is, to exert patience or self-control. Using two closely related primates--common
+marmosets (Callithrix jacchus) and cotton-top tamarins (Saguinus oedipus)--we
+uncover a variable that may explain differences in how species discount future
+rewards. Both species faced a self-control paradigm in which individuals chose
+between taking an immediate small reward and waiting a variable amount of time
+for a large reward. Under these conditions, marmosets waited significantly longer
+for food than tamarins. This difference cannot be explained by life history,
+social behaviour or brain size. It can, however, be explained by feeding ecology:
+marmosets rely on gum, a food product acquired by waiting for exudate to flow
+from trees, whereas tamarins feed on insects, a food product requiring impulsive 
+action. Foraging ecology, therefore, may provide a selective pressure for the
+evolution of self-control.
+
+DOI: 10.1098/rsbl.2004.0285 
+PMCID: PMC1626214
+PMID: 17148172  [Indexed for MEDLINE]
+

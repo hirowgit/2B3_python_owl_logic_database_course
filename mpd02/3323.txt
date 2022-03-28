@@ -1,0 +1,30 @@
+
+
+3323. J Chromatogr B Biomed Sci Appl. 2000 Jan 28;738(1):129-36.
+
+Automated quantitative determination of the new renin inhibitor CGP 60536 by
+high-performance liquid chromatography.
+
+Lefèvre G(1), Gauron S.
+
+Author information: 
+(1)Novartis Pharma AG, Basle, Switzerland. gilbert.lefevre@pharma.novartis.com
+
+A fully automated high-performance liquid chromatography method with fluorescence
+detection for the determination of the renin inhibitor CGP 60536 in animal and
+human plasma and urine has been developed and validated. After addition of an
+internal standard, the compounds were automatically extracted from 400 microl of 
+plasma or urine with methyl alcohol-acetic acid (99:1, v/v) on 100-mg Bond-Elut
+CN cartridges using the Gilson ASPEC system. The on-line chromatographic
+separation was performed on a LiChrospher 100 RP8 5-microm particle size packed
+analytical column (25x0.4 cm I.D.). The mobile phase consisted of
+acetonitrile-0.01 M potassium dihydrogenphosphate (65:35, v/v) at a flow-rate of 
+0.8 ml/min. The analytes were detected using a fluorescence detector at
+excitation and emission wavelengths of 280 and 330 nm, respectively. The limit of
+quantitation was established at 4.5 ng/ml in plasma (accuracy 106% and precision 
+1%), and 9.0 ng/ml in urine (accuracy 101% and precision 13%). The method was
+applied to the investigation of the pharmacokinetics of CGP 60536.
+
+DOI: 10.1016/s0378-4347(99)00509-5 
+PMID: 10778934  [Indexed for MEDLINE]
+

@@ -1,0 +1,113 @@
+
+
+366. Biochem Pharmacol. 2020 Apr;174:113835. doi: 10.1016/j.bcp.2020.113835. Epub 2020
+Feb 4.
+
+Systematic characterization of glutathione S-transferases in common marmosets.
+
+Uno Y(1), Uehara S(2), Tanaka S(2), Murayama N(2), Yamazaki H(3).
+
+Author information: 
+(1)Joint Faculty of Veterinary Medicine, Kagoshima University, Kagoshima-city,
+Kagoshima 890-8580, Japan; Shin Nippon Biomedical Laboratories, Ltd., Kainan,
+Wakayama 642-0017, Japan. Electronic address: unoxx001@vet.kagoshima-u.ac.jp.
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo 194-8543, Japan.
+(3)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo 194-8543, Japan. Electronic address:
+hyamazak@ac.shoyaku.ac.jp.
+
+The common marmoset is an important primate species used in drug metabolism
+studies. However, glutathione S-transferases (GSTs), essential drug-metabolizing 
+enzymes involved in the conjugation of various endogenous and exogenous
+substrates, have not been identified or characterized in this species. In this
+study, 20 GSTs [including 3 microsomal GSTs (MGSTs)] were identified and
+characterized in marmosets. Marmoset GSTs had amino acid sequences highly
+identical (86-99%) to human GSTs, except for GSTA4L, which had lower identities
+(59-62%) with human GSTAs. Phylogenetic analysis revealed that marmoset GSTs were
+closely clustered with their human counterparts. Marmoset GSTs had gene and
+genomic structures generally similar to their human counterparts, with some
+differences in GSTA, GSTM, and GSTT clusters. Marmoset GST mRNAs exhibited
+distinct tissue expression patterns: GSTA1, GSTA3, GSTA4L, GSTK1, GSTT1, GSTZ1,
+and MGST1 mRNAs were expressed most abundantly in liver. Other GST mRNAs were
+expressed most abundantly in small intestine, lung, brain, or kidney. Expression 
+of GSTT4 and GSTT4L mRNAs was detected only in testis. Among all 20 marmoset GST 
+mRNAs, the most abundant mRNAs were GSTA1 mRNA in liver, small intestine, and
+kidney; GSTM3 mRNA in testis; and MSGT3 mRNA in brain and lung. All 20 GSTs
+mediated the conjugation of GST substrates 1-chloro-2,4-dinitrobenzene;
+1,2-epoxy-3-(p-nitrophenoxy)propane; styrene 7,8-oxide; and/or 1-iodohexane, but 
+with different activity levels. Kinetic analyses showed that marmoset GSTM2/GSTM5
+and GSTM5/GSTT1 effectively conjugated styrene 7,8-oxide and 1-iodohexane,
+respectively, with the highest affinity. These results suggest that the 20 newly 
+identified marmoset GSTs were functional drug-metabolizing enzymes able to
+conjugate typical GST substrates.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2020.113835 
+PMID: 32027883  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+
+
+367. Mob DNA. 2020 Feb 1;11:6. doi: 10.1186/s13100-020-0203-2. eCollection 2020.
+
+Identification and characterization of ERV-W-like sequences in Platyrrhini
+species provides new insights into the evolutionary history of ERV-W in primates.
+
+Grandi N(1), Pisano MP(1), Demurtas M(1), Blomberg J(2), Magiorkinis G(3), Mayer 
+J(4), Tramontano E(1)(5).
+
+Author information: 
+(1)1Department of Life and Environmental Sciences, University of Cagliari,
+Cittadella Universitaria di Monserrato, SS554, Monserrato, Cagliari Italy.
+(2)2Department of Medical Sciences, Uppsala University, Uppsala, Sweden.
+(3)3Institute of Human Genetics, University of Saarland, Homburg, Germany.
+(4)4Department of Hygiene, Epidemiology, and Medical Statistics, Medical School, 
+National and Kapodistrian University of Athens, Athens, Greece.
+(5)5Istituto di Ricerca Genetica e Biomedica (IRGB), CNR, Monserrato, Cagliari
+Italy.
+
+Background: Endogenous Retroviruses (ERVs) constitute approximately 8% of every
+human genome and are relics of ancestral infections that affected the germ line
+cells. The ERV-W group contributed to primate physiology by providing an envelope
+protein (Syncytin-1) that has been adopted for placenta development in hominoids.
+Expression of Human ERV-W (HERV-W) sequences is investigated for a pathological
+role in various human diseases.
+Results: We previously characterized ERV-W group genomic sequences in human and
+non-human Catarrhini species. We now investigated ERV-W-like sequences in the
+parvorder Platyrrhini, especially regarding two species with complete genome
+assemblies, namely marmoset (Callithrix jacchus) and squirrel monkey (Saimiri
+boliviensis). We identified in both species proviral sequences, annotated as
+ERV1-1 in respective genome assemblies, sharing high sequence similarities with
+Catarrhini ERV-W. A total of 130 relatively intact proviruses from the genomes of
+marmoset and squirrel monkey were characterized regarding their structural and
+evolutionarily relationships with Catarrhini ERV-W elements. Platyrrhini ERV-W
+sequences share several structural features with Catarrhini ERV-W elements and
+are closely related phylogenetically with the latter as well as with other
+ERV-W-related gammaretrovirus-like ERVs. The ERV-W group colonized Platyrrhini
+primates of both Callitrichidae and Atelidae lineages, with provirus formations
+having occurred mostly between 25 and 15 mya. Two LTR subgroups were associated
+with monophyletic proviral bodies. A pre-gag region appears to be a sequence
+feature common to the ERV-W group: it harbors a putative intron sequence that is 
+missing in some ERV-W loci, holding a putative ORF as well. The presence of a
+long pre-gag portion was confirmed among all gammaretroviral ERV analyzed,
+suggesting a role in the latter biology. It is noteworthy that, contrary to
+Catarrhini ERV-W, there was no evidence of L1-mediated mobilization for
+Platyrrhini ERV-W sequences.
+Conclusions: Our data establish that ERV-W is not exclusive to Catarrhini
+primates but colonized both parvorders of Simiiformes, providing further insight 
+into the evolution of ERV-W and the colonization of primate genomes.
+
+© The Author(s). 2020.
+
+DOI: 10.1186/s13100-020-0203-2 
+PMCID: PMC6995185
+PMID: 32021657 
+
+Conflict of interest statement: Competing interestsThe authors declare that they 
+have no competing interests.
+

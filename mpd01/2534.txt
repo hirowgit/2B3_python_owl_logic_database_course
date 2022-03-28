@@ -1,0 +1,70 @@
+
+
+2534. Antivir Ther. 2006;11(3):289-95.
+
+Amantadine inhibits the function of an ion channel encoded by GB virus B, but
+fails to inhibit virus replication.
+
+Premkumar A(1), Dong X, Haqshenas G, Gage PW, Gowans EJ.
+
+Author information: 
+(1)John Curtin School of Medical Research, Australian National University,
+Canberra ACT, Australia.
+
+A chemically synthesized peptide representing the C-terminal subunit (p13-C) of
+the p13 protein of GB virus B (GBV-B), the most closely related virus to
+hepatitis C virus (HCV) showed ion channel activity in artificial lipid bilayers.
+The channels had a variable conductance and were more permeable to potassium ions
+than to chloride ions. Amantadine but not hexamethylene amiloride (HMA) inhibited
+the ion channel function of p13-C in the lipid membranes. However, neither agent 
+was able to inhibit the replication and secretion of GBV-B from virus-infected
+cultured marmoset hepatocytes, which were harvested from a marmoset that was
+infected in vivo or inhibit replication after in vitro infection of naive
+hepatocytes. These data suggest that the GBV-B ion channel, contrary to the data 
+derived from the lipid membranes, is either resistant to amantadine or that virus
+replication and secretion are independent of ion channel function. As the p7
+protein of HCV also has ion channel activity that is apparently resistant to
+amantadine in vivo, the former possibility is most likely. Ion channels are
+likely to have an important role in the life cycle of many viruses and compounds 
+that block these channels may prove to be useful antiviral agents.
+
+
+PMID: 16759044  [Indexed for MEDLINE]
+
+
+2535. J Neuroimmunol. 2006 Jul;176(1-2):39-50. Epub 2006 Jun 5.
+
+Differential expression of major histocompatibility complex class I molecules in 
+the brain of a New World monkey, the common marmoset (Callithrix jacchus).
+
+Rölleke U(1), Flügge G, Plehm S, Schlumbohm C, Armstrong VW, Dressel R,
+Uchanska-Ziegler B, Ziegler A, Fuchs E, Czéh B, Walter L.
+
+Author information: 
+(1)Department of Primate Genetics, German Primate Center, Göttingen, Germany.
+
+It has been supposed that central nervous neurons do not express MHC class I
+molecules. However, recent studies clearly demonstrated functional MHC class I
+expression in the rodent brain. In the present study, we have extended these
+studies and investigated the presence of MHC class I transcripts and proteins in 
+the brain of a non-human primate species, the common marmoset monkey (Callithrix 
+jacchus). Using in-situ hybridization, we found strong expression of MHC class I 
+transcripts in neocortex, hippocampal formation, substantia nigra and nucleus
+ruber. In-situ hybridization with emulsion autoradiography demonstrated MHC class
+I mRNA in distinct pyramidal neurons of cortex and hippocampus, in granule
+neurons of the dentate gyrus, in dopaminergic neurons of substantia nigra and in 
+motor neurons of nucleus ruber. Immunocytochemistry confirmed MHC class I protein
+expression in these neurons. Two monoclonal antibodies, MRC-Ox18 and HB115,
+reacted differentially with MHC class I proteins on neuronal and non-neuronal
+cells, respectively. Interestingly, in marmoset monkeys that were
+immunosuppressed with FK506 (tacrolimus), expression of neuronal MHC class I
+proteins, which could be detected with MRC-Ox18, was either very low (neocortex, 
+nucleus ruber, substantia nigra) or absent (hippocampus). In contrast, class I
+expression in endothelial cells, which was detected by HB115, was not affected by
+immunosuppression. Our data show that selected neurons in the brain of a
+non-human primate express MHC class I molecules and that this expression can be
+modulated by immunosuppression.
+
+DOI: 10.1016/j.jneuroim.2006.04.015 
+PMID: 16750573  [Indexed for MEDLINE]
+

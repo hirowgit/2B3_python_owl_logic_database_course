@@ -1,0 +1,69 @@
+
+
+1610. ILAR J. 2012;53(1):E31-42. doi: 10.1093/ilar.53.1.31.
+
+Influence of animal species on secondary oxidant activation in serum exposed to
+singlet oxygen.
+
+Lhommeau I(1), Douillard S, Foursac A, Aillet L, Bigot E, Patrice T.
+
+Author information: 
+(1)Laser Department/Cancer Photobiology Laboratory, Laënnec Hospital, CHU de
+Nantes, 44093, Nantes, France.
+
+Singlet oxygen ((1)O(2)) produced during inflammatory reactions and during
+photodynamic therapy deactivates by producing in tissues secondary reactive
+oxygen species and peroxides (SOS) as well as other degradation products. We
+investigated the influence of animal species on SOS production secondary to
+standardized (1)O(2) production by performing in vitro experiments with rose
+bengal as the (1)O(2) producer, human serum (HS) as a control, sera derived from 
+various animal species, and dichloro-dihydro-fluorescein as a nonspecific marker 
+that becomes fluorescent when oxidized. The overall SOS production in HS from a
+presumed healthy cohort of 53 donors (31 males and 22 females) gave a mean
+"normal" value of 0.91 compared with a previous pool of 75 male sera samples. SOS
+production after a photo-reaction was two or four times lower in HS than in fetal
+calf serum or mice sera, respectively. In mice, the "nude" characteristic
+increased even more than in the SOS production. In the Aves order, this
+production appeared to be distributed randomly according to the number of
+branches after the appearance of Amniotas. For primates, SOS production appeared 
+to decrease linearly with the number of branches (R(2) = 0.98). Adding
+hemolysates from complete bloods to the corresponding sera induced an increase in
+SOS production in all species, proportional to the production in sera. These
+findings should be kept in mind when interpreting results from studies of
+secondary reactive oxygen species-induced pathways following (1)O(2) production, 
+regardless of its origin.
+
+DOI: 10.1093/ilar.53.1.31 
+PMID: 23382269  [Indexed for MEDLINE]
+
+
+1611. Arch Virol. 2013 Jun;158(6):1209-20. doi: 10.1007/s00705-013-1618-6. Epub 2013
+Feb 5.
+
+Dynamics of cellular immune responses in the acute phase of dengue virus
+infection.
+
+Yoshida T(1), Omatsu T, Saito A, Katakai Y, Iwasaki Y, Kurosawa T, Hamano M,
+Higashino A, Nakamura S, Takasaki T, Yasutomi Y, Kurane I, Akari H.
+
+Author information: 
+(1)Tsukuba Primate Research Center, National Institute of Biomedical Innovation, 
+1-1 Hachimandai, Tsukuba, Ibaraki 305-0843, Japan.
+yoshida.tomoyuki.4w@kyoto-u.ac.jp
+
+In this study, we examined the dynamics of cellular immune responses in the acute
+phase of dengue virus (DENV) infection in a marmoset model. Here, we found that
+DENV infection in marmosets greatly induced responses of CD4/CD8 central memory T
+and NKT cells. Interestingly, the strength of the immune response was greater in 
+animals infected with a dengue fever strain than in those infected with a dengue 
+hemorrhagic fever strain of DENV. In contrast, when animals were re-challenged
+with the same DENV strain used for primary infection, the neutralizing antibody
+induced appeared to play a critical role in sterilizing inhibition against viral 
+replication, resulting in strong but delayed responses of CD4/CD8 central memory 
+T and NKT cells. The results in this study may help to better understand the
+dynamics of cellular and humoral immune responses in the control of DENV
+infection.
+
+DOI: 10.1007/s00705-013-1618-6 
+PMID: 23381396  [Indexed for MEDLINE]
+

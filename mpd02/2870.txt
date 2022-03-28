@@ -1,0 +1,35 @@
+
+
+2870. J Exp Biol. 2004 Jan;207(Pt 3):443-8.
+
+Acoustic communication in noise: regulation of call characteristics in a New
+World monkey.
+
+Brumm H(1), Voss K, Köllmer I, Todt D.
+
+Author information: 
+(1)Freie Universität Berlin, Institut für Biologie, Verhaltensbiologie,
+Haderslebener Strasse 9, 12163 Berlin, Germany. brumm@zedat.fu-berlin.de
+
+This study on common marmosets Callithrix jacchus is the first to examine
+noise-dependent mechanisms of vocal plasticity in a New World monkey. Since
+acoustic communication can be considerably impaired by environmental noise, some 
+animals have evolved adaptations to counteract its masking effects. The studied
+marmosets increased the sound level of their spontaneous calls in response to
+increased levels of white noise broadcast to them. Possibly, such noise-dependent
+adjustment of vocal amplitude serves to maintain a specific signal-to-noise ratio
+that is favourable for signal production. Concurrently, the adjustment of vocal
+amplitude can maintain a given active space for communication. In contrast to
+some bird species, no noise-induced increase in the number of syllables per call 
+series could be found, showing that an increased serial redundancy of vocal
+signals was not used to communicate under noisy conditions. Finally, we examined 
+a possible noise-dependent prolongation of vocal signals. This approach was
+guided by the findings of perceptional studies, which suggest an increased
+detection probability of prolonged signals in noise by temporal summation.
+Marmosets indeed increased the duration of their call syllables along with
+increasing background noise levels. This is the first evidence of such mechanism 
+of vocal plasticity in an animal communication system.
+
+DOI: 10.1242/jeb.00768 
+PMID: 14691092  [Indexed for MEDLINE]
+

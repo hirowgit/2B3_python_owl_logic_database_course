@@ -1,0 +1,40 @@
+
+
+2552. J Med Virol. 2006 Jun;78(6):770-9.
+
+Clonality analysis by sequence variation of the latent membrane protein 1 gene in
+patients with chronic active Epstein-Barr virus infection.
+
+Shibata Y(1), Hoshino Y, Hara S, Yagasaki H, Kojima S, Nishiyama Y, Morishima T, 
+Kimura H.
+
+Author information: 
+(1)Department of Pediatrics, Nagoya University Graduate School of Medicine,
+Nagoya, Japan.
+
+Chronic active Epstein-Barr virus (EBV) infection is a severe systemic disease
+associated with high rates of mortality and morbidity. Recent studies suggest
+that the clonal expansion of EBV-infected T or natural killer cells plays a
+crucial role in the pathogenesis of chronic active EBV infection. However, it is 
+not clear whether chronic active EBV infection is truly a monoclonal disorder
+that originates from one cell. The clonality of EBV was investigated by sequence 
+variation of the latent membrane protein 1 (LMP1) gene, which has a high degree
+of sequence heterogeneity. Peripheral blood mononuclear cells were obtained from 
+nine Japanese patients with chronic active EBV infection and four with infectious
+mononucleosis. A carboxyl-terminal region of the LMP1 gene was analyzed by
+polymerase chain reaction (PCR). The amplified PCR products were subcloned, and
+18 clones from each sample were sequenced. Patients with chronic active EBV
+infection each had two to five different LMP1 nucleotide sequences, whereas
+patients with infectious mononucleosis each had one to seven different sequences.
+Patients with chronic active EBV infection and infectious mononucleosis both had 
+one dominant sequence. Longitudinal analysis was performed in four patients with 
+chronic active EBV infection, in whom the dominant strains were found to have
+remained unchanged for several years. The results suggest that EBV in patients
+with chronic active EBV infection was polyclonal, although clonal expansion may
+occur. Collectively, these findings are critical to clarify further the
+pathogenesis of chronic active EBV infection and aid in the development of
+effective treatment strategies.
+
+DOI: 10.1002/jmv.20622 
+PMID: 16628581  [Indexed for MEDLINE]
+

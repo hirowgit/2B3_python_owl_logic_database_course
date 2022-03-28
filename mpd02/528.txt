@@ -1,0 +1,50 @@
+
+
+528. Neuroimage. 2019 Jun;193:126-138. doi: 10.1016/j.neuroimage.2019.03.023. Epub
+2019 Mar 15.
+
+Integrated radiofrequency array and animal holder design for minimizing head
+motion during awake marmoset functional magnetic resonance imaging.
+
+Schaeffer DJ(1), Gilbert KM(1), Hori Y(1), Gati JS(1), Menon RS(2), Everling
+S(3).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada.
+(2)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada; Department of Physiology 
+and Pharmacology, University of Western Ontario, London, Ontario, Canada.
+(3)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada; Department of Physiology 
+and Pharmacology, University of Western Ontario, London, Ontario, Canada.
+Electronic address: severlin@uwo.ca.
+
+Marmosets are small New World primates that are posited to become an important
+preclinical animal model for studying intractable human brain diseases. A
+critical step in the development of marmosets as a viable model for human brain
+dysfunction is to characterize brain networks that are homologous with human
+network topologies. In this regard, the use of functional magnetic resonance
+imaging (fMRI) holds tremendous potential for functional brain mapping in
+marmosets. Although possible, implementation of hardware for fMRI in awake
+marmosets (free of the confounding effects of anesthesia) is not trivial due to
+the technical challenges associated with developing specialized imaging hardware.
+Here, we describe the design and implementation of a marmoset holder and
+head-fixation system with an integrated receive coil for awake marmoset fMRI.
+This design minimized head motion, with less than 100  μm of translation and 0.5 
+degrees of rotation over 15 consecutive resting state fMRI runs (at 15 min each) 
+across 3 different marmosets. The fMRI data was of sufficient quality to reliably
+extract 8 resting state networks from each animal with only 60-90 min of resting 
+state fMRI acquisition per animal. The restraint system proved to be an efficient
+and practical solution for securing an awake marmoset and positioning a receive
+array within minutes, limiting stress to the animal. This design is also amenable
+for multimodal imaging, allowing for electrode or lens placement above the skull 
+via the open chamber design. All computer-aided-design (CAD) files and
+engineering drawings are provided as an open resource, with the majority of the
+parts designed to be 3D printed.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2019.03.023 
+PMID: 30879997  [Indexed for MEDLINE]
+

@@ -1,0 +1,92 @@
+
+
+3440. J Endocrinol. 1999 Jun;161(3):433-43.
+
+Direct effects of the prostaglandins E2 and f2alpha on progesterone release by
+the corpus luteum of the marmoset monkey (Callithrix jacchus) studied by in vitro
+microdialysis.
+
+Fehrenbach A(1), Hodges JK, Einspanier A.
+
+Author information: 
+(1)Centre of Anatomy, Electron Microscopy, University of Göttingen, Kreuzbergring
+36, D-37075 Göttingen, Germany.
+
+The effects of the prostaglandins (PG) E2 and F2alpha on progesterone secretion
+in luteal tissue (32 corpora lutea) explanted from the mid-luteal ovary of the
+marmoset monkey (n=13) were investigated using an in vitro microdialysis system. 
+Consecutive applications of 1, 10 and 100 microg/ml PGE2 resulted in a
+significant increase in secretion of progesterone at the maximum dose of 100
+microg/ml, which was shown to be the stimulatory dose in both long-period and
+20-min pulse (time to collect one fraction) applications. The response varied
+individually between 1.4- and 3. 4-fold above the baseline concentrations.
+Application of 500 microg/ml PGF2alpha led to similar hormone responses. In
+contrast, lower doses of PGF2alpha (0.5, 5 and 50 microg/ml) resulted in
+significantly increased levels of secretion of progesterone, to approximately
+1.4-fold baseline values, only after the application was terminated (echo
+effect). Responses were less variable when a short pulse of 20 min duration was
+applied, instead of long applications of 1-2 h. On the basis of the passage rates
+measured for tritiated PGF2alpha, transfer through the dialysis membrane was
+assumed to be in the range of 1% for both PGs. Ultrastructurally, luteal cells
+lying in a sheath of five to seven cell layers around the dialysis tubing
+appeared intact and were interconnected by gap junctions. Vesiculation of the
+smooth endoplasmic reticulum was more prominent after PG treatment, indicating a 
+stimulation of cellular synthesis/secretory activities that was in accordance
+with the stimulatory action of both PGs on progesterone release under these in
+vitro conditions.
+
+DOI: 10.1677/joe.0.1610433 
+PMID: 10333546  [Indexed for MEDLINE]
+
+
+3441. J Exp Zool. 1999 Apr 15;285(1):27-40.
+
+Model for the fetal recruitment of simian gamma-globin genes based on findings
+from two New World monkeys Cebus apella and Callithrix jacchus (Platyrrhini,
+Primates).
+
+Chiu CH(1), Gregoire L, Gumucio DL, Muniz JA, Lancaster WD, Goodman M.
+
+Author information: 
+(1)Center for Molecular Medicine and Genetics, Wayne State University School of
+Medicine, Detroit, Michigan 48201, USA.
+
+The originally embryonic gamma-globin locus duplicated and acquired a novel
+(fetal) pattern of expression in a defined time period (55-40 million years ago) 
+during primate phylogeny. The objective of this study was to determine some of
+the factors that led to first the emergence of fetal gamma specificity and then
+the maintenance of different fetal gamma expression patterns in extant simian
+primates (e.g., human, capuchin monkey). Analyses focused on two platyrrhine (New
+World monkey) species: the common marmoset (Callithrix jacchus) and the brown
+capuchin monkey (Cebus apella), each of which has paired, non-allelic gamma loci 
+(5'-gamma 1-gamma 2-3'). Quantitation of beta-type globin mRNAs expressed in a
+4.5 week old embryo of Callithrix jacchus revealed that in addition to its
+primary epsilon-globin message, considerable amounts of gamma 1 message and just 
+trace levels of gamma 2 message are present. In contrast, analyses of
+gamma-globin messenger RNAs expressed in a Cebus apella fetal liver indicated
+that gamma 2 expression is at least 120 times greater than gamma 1 expression.
+Using a luciferase reporter and a transient assay system, the strengths of gamma 
+1 and gamma 2 promoter fragments of Cebus apella were compared in erythroid
+(K562) and non-erythroid (HeLa) cell lines. Due to the lack of chromatin
+repression in a transient expression system, the results do not fully
+recapitulate globin expression. However, the results suggest that sequences
+contained within the Cebus gamma 1 and gamma 2 proximal promoter regions (-200 to
++1 bp) can direct gamma transcription in both cell lines. In K562 and, to a
+lesser extent, in HeLa cells Cebus gamma 2 promoter fragments were significantly 
+stronger (P < 0.01) than gamma 1 promoter fragments. This is consistent with the 
+fact that the Cebus gamma 1 promoter contains several mutations, including a
+proximal CCAAT box mutation (CCAAT-->CCAAc). The epsilon-gamma 1 intergenic
+distances in these platyrrhines (5.4 kb in Cebus apella and 6.9 kb in Callithrix 
+jacchus) are short, supporting the inference that it was also short in the stem
+simian primates. The results suggest that immediately following the gamma
+duplication, the gamma 1 gene of the stem simians was still embryonic and the
+downstream gamma 2 gene was largely silent. A further inference is that once
+gamma 2 accumulated regulatory mutations that disrupted binding of fetal
+repressors, gamma 2 was expressed fetally and, through gene conversion, passed
+these characteristics to the gamma 1 gene. The fetal expression of gamma 1 is
+most evident in catarrhines (Old World monkeys and hominoids), which
+preferentially express the gamma 1 locus during fetal life.
+
+
+PMID: 10327648  [Indexed for MEDLINE]
+

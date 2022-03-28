@@ -1,0 +1,116 @@
+
+
+190. Anim Microbiome. 2021 Jan 5;3(1):1. doi: 10.1186/s42523-020-00062-4.
+
+Changes in the faecal microbiome of pied tamarins (Saguinus bicolor) associated
+with chronic, recurrent diarrhoea and weight loss.
+
+Richards-Rios P(1), Wigley P(2), López J(3), Wormell D(4), Barbón A(4).
+
+Author information: 
+(1)Institute of Veterinary Science, University of Liverpool, Liverpool, UK.
+prich@liverpool.ac.uk.
+(2)Institute of Infection and Global Health, University of Liverpool, Liverpool, 
+UK.
+(3)Chester Zoo, Chester, UK.
+(4)Durrell Wildlife Conservation Trust, Channel Islands, Jersey, France.
+
+BACKGROUND: Chronic recurrent diarrhoea and weight loss is a common problem in
+captive callitrichids. These symptoms are common clinical features of marmoset
+wasting syndrome (MWS), a chronic enteric inflammation of unknown aetiology
+associated with mortality in captive marmosets. The unknown aetiology of the
+condition presents problems for conservation projects where affected colonies
+present higher mortality and lower birth rates. Since a role for the microbiome
+has been established in chronic enteric inflammation of other species it is
+possible that the intestinal microbiome undergoes similar changes during MWS.
+RESULTS: The faecal microbiome of pied tamarins (Saguinus bicolor) at Jersey Zoo 
+was determined using 16S rRNA gene amplicon sequencing to compare the composition
+of the faecal microbiome of tamarins affected by chronic recurrent diarrhoea and 
+weight loss with unaffected individuals. Affected individuals had a higher
+relative abundance of amplicon sequence variants assigned to Lactobacillus and
+Helicobacter jaachi while unaffected individuals had a higher relative abundance 
+of some Lachnospiraceae and Ruminococcaceae.
+CONCLUSIONS: Although Helicobacter has been shown to reside in healthy wild and
+captive marmosets and tamarins and appears to form part of the normal microbiota,
+the results of this study raise the prospect that certain species of Helicobacter
+may be associated with chronic, recurrent diarrhoea in captive callitrichids. The
+presence of Lactobacillus may also play a role in the development of MWS. Since
+depletion of Lachnospiraceae and Ruminococcaceae have been linked to chronic
+gastrointestinal inflammation in humans, this feature of the microbiome of
+affected tamarins provides another avenue of further research in the pathogenesis
+of MWS.
+
+DOI: 10.1186/s42523-020-00062-4 
+PMCID: PMC7934480
+PMID: 33500002 
+
+
+191. Neuropharmacology. 2021 Mar 15;186:108465. doi: 10.1016/j.neuropharm.2021.108465.
+Epub 2021 Jan 22.
+
+Combined 5-HT2A and mGlu2 modulation for the treatment of dyskinesia and
+psychosis in Parkinson's disease.
+
+Kwan C(1), Frouni I(2), Nuara SG(3), Belliveau S(1), Kang W(1), Hamadjida A(1),
+Bédard D(1), Beaudry F(4), Panisset M(5), Gourdon JC(3), Huot P(6).
+
+Author information: 
+(1)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada.
+(2)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada; Département de Pharmacologie et Physiologie, Université de Montréal, 
+Montreal, QC, Canada.
+(3)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(4)Groupe de Recherche en Pharmacologie Animale Du Québec, Département de
+Biomédecine Vétérinaire, Faculté de Médecine Vétérinaire, Université de Montréal,
+Saint-Hyacinthe, QC, Canada.
+(5)Unité des Troubles Du Mouvement André-Barbeau, Service de Neurologie,
+Département de Médecine, Centre Hospitalier de L'Université de Montréal,
+Montreal, QC, Canada; Département de Neurosciences, Université de Montréal,
+Montreal, QC, Canada.
+(6)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada; Département de Pharmacologie et Physiologie, Université de Montréal, 
+Montreal, QC, Canada; Department of Neurology and Neurosurgery, McGill
+University, Montreal, QC, Canada; Movement Disorder Clinic, Division of
+Neurology, Department of Neuroscience, McGill University Health Centre, Montreal,
+QC, Canada. Electronic address: philippe.huot@mcgill.ca.
+
+Antagonising the serotonin 2A (5-HT2A) receptor is an efficacious way to
+alleviate dyskinesia and psychosis in Parkinson's disease (PD). However, previous
+research indicates that there might be a limit to the effects conferred by this
+approach. 5-HT2A receptors were shown to form hetero-dimers with metabotropic
+glutamate 2 (mGlu2) receptors, in which 5-HT2A blockade and mGlu2 activation
+elicit equivalent effects at the downstream signalling level. We have previously 
+shown that mGlu2 activation reduces both dyskinesia and psychosis-like behaviours
+(PLBs) induced by L-3,4-dihydroxyphenylalanine (l-DOPA), in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned primate. Here, we
+hypothesised that concurrent 5-HT2A antagonism and mGlu2 activation would provide
+greater anti-dyskinetic and anti-psychotic benefits than either approach alone.
+We conducted 3 series of experiments in the MPTP-lesioned marmoset. In the first 
+series of experiments, the mGlu2 positive allosteric modulator LY-487,379 and the
+5-HT2A antagonist EMD-281,014, either alone or in combination, were added to
+l-DOPA. In the second series of experiments, the mGlu2/3 orthosteric agonist
+LY-354,740 and EMD-281,014, either alone or in combination, were added to l-DOPA.
+In the last series of experiments, we investigated whether mGlu2 blockade would
+diminish the effects of antagonising 5-HT2A receptors. To this end, the mGlu2/3
+orthosteric antagonist LY-341,495 and EMD-281,014, either alone or in
+combination, were added to l-DOPA. We found that the anti-dyskinetic effect of
+the combination LY-487,379/EMD-281,014 was greater than the ones conferred by
+LY-487,379 (by 35%, P < 0.05) and EMD-281,014 (by 38%, P < 0.01). The
+anti-dyskinetic and anti-psychotic effects of the combination
+LY-354,740/EMD-281,014 were also greater than the ones conferred by LY-354,740
+(by 57% for dyskinesia and 54% for PLBs, both P < 0.001) and EMD-281,014 (by 61% 
+for dyskinesia and 53% for PLBs, both P < 0.001). The anti-parkinsonian action of
+l-DOPA was maintained with all treatments. Lastly, the addition of LY-341,495
+abolished the therapeutic effects of EMD-281,014 on dyskinesia and PLBs. Our
+results suggest that mGlu2 activation may enhance the anti-dyskinetic and
+anti-psychotic effects of 5-HT2A blockade and could provide relief to PD patients
+with dyskinesia and psychotic symptoms beyond what can be achieved with current
+therapies.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuropharm.2021.108465 
+PMID: 33485945  [Indexed for MEDLINE]
+

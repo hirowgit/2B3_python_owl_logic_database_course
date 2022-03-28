@@ -1,0 +1,94 @@
+
+
+1354. Brain Behav Evol. 2014;84(2):93-102. doi: 10.1159/000365346. Epub 2014 Sep 20.
+
+Convergent evolution of vocal cooperation without convergent evolution of brain
+size.
+
+Borjon JI(1), Ghazanfar AA.
+
+Author information: 
+(1)Princeton Neuroscience Institute, Princeton University, Princeton, N.J., USA.
+
+One pragmatic underlying successful vocal communication is the ability to take
+turns. Taking turns - a form of cooperation - facilitates the transmission of
+signals by reducing the amount of their overlap. This allows vocalizations to be 
+better heard. Until recently, non-human primates were not thought of as
+particularly cooperative, especially in the vocal domain. We recently
+demonstrated that common marmosets (Callithrix jacchus), a small New World
+primate species, take turns when they exchange vocalizations with both related
+and unrelated conspecifics. As the common marmoset is distantly related to humans
+(and there is no documented evidence that Old World primates exhibit vocal turn
+taking), we argue that this ability arose as an instance of convergent evolution,
+and is part of a suite of prosocial behavioral tendencies. Such behaviors seem to
+be, at least in part, the outcome of the cooperative breeding strategy adopted by
+both humans and marmosets. Importantly, this suite of shared behaviors occurs
+without correspondence in encephalization. Marmoset vocal turn taking
+demonstrates that a large brain size and complex cognitive machinery is not
+needed for vocal cooperation to occur. Consistent with this idea, the temporal
+structure of marmoset vocal exchanges can be described in terms of coupled
+oscillator dynamics, similar to quantitative descriptions of human conversations.
+We propose a simple neural circuit mechanism that may account for these dynamics 
+and, at its core, involves vocalization-induced reductions of arousal. Such a
+mechanism may underlie the evolution of vocal turn taking in both marmoset
+monkeys and humans.
+
+© 2014 S. Karger AG, Basel.
+
+DOI: 10.1159/000365346 
+PMCID: PMC7592170
+PMID: 25247613  [Indexed for MEDLINE]
+
+
+1355. Behav Brain Res. 2014 Dec 15;275:259-68. doi: 10.1016/j.bbr.2014.09.020. Epub
+2014 Sep 22.
+
+Three-dimensional motion analysis of arm-reaching movements in healthy and
+hemispinalized common marmosets.
+
+Takemi M(1), Kondo T(2), Yoshino-Saito K(2), Sekiguchi T(1), Kosugi A(1), Kasuga 
+S(3), Okano HJ(4), Okano H(2), Ushiba J(5).
+
+Author information: 
+(1)School of Fundamental Science and Technology, Graduate School of Science and
+Technology, Keio University, Kanagawa, Japan.
+(2)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+(3)Department of Biosciences and Informatics, Faculty of Science and Technology, 
+Keio University, Kanagawa, Japan.
+(4)Department of Physiology, Keio University School of Medicine, Tokyo, Japan;
+Division of Regenerative Medicine, Jikei University School of Medicine, Tokyo,
+Japan.
+(5)Department of Biosciences and Informatics, Faculty of Science and Technology, 
+Keio University, Kanagawa, Japan; Department of Rehabilitation Medicine, Keio
+University School of Medicine, Tokyo, Japan. Electronic address:
+ushiba@brain.bio.keio.ac.jp.
+
+Spinal cord injury (SCI) is a devastating neurological injury. At present,
+pharmacological, regenerative, and rehabilitative approaches are widely studied
+as therapeutic interventions for motor recovery after SCI. Preclinical research
+has been performed on model animals with experimental SCI, and those studies
+often evaluate hand and arm motor function using various indices, such as the
+success rate of the single pellet reaching test and the grip force. However,
+compensatory movement strategies, involuntary muscle contraction, and the
+subject's motivation could affect the scores, resulting in failure to assess
+direct recovery from impairment. Identifying appropriate assessments of motor
+impairment is thus important for understanding the mechanisms of motor recovery. 
+In this study, we developed a motion capture system capable of reconstructing
+three-dimensional hand positions with millimeter and millisecond accuracy and
+evaluated hand kinematics during food retrieval movement in both healthy and
+hemispinalized common marmosets. As a result, the endpoint jerk, representing the
+accuracy of hand motor control, was asserted to be an appropriate index of upper 
+limb motor impairment by eliminating the influence of the subject's motivation,
+involuntary muscle contraction, and compensatory strategies. The result also
+suggested that the kinematics of the limb more consistently reflects motor
+restoration from deficit due to spinal cord injury than the performance in the
+single pellet reaching test. Because of recent attention devoted to the common
+marmoset as a nonhuman primate model for human diseases, the present study, which
+clarified arm-reaching movements in spinalized marmosets, provides fundamental
+knowledge for future therapeutic studies.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbr.2014.09.020 
+PMID: 25245335  [Indexed for MEDLINE]
+

@@ -1,0 +1,67 @@
+
+
+1951. Neurosci Lett. 2011 Jan 13;488(1):6-10. doi: 10.1016/j.neulet.2010.10.070. Epub
+2010 Nov 3.
+
+5-HT(1B) receptor in the suprachiasmatic nucleus of the common marmoset
+(Callithrix jacchus).
+
+Cavalcante JS(1), de Pontes AL, Engelberth RC, Cavalcante JC, Nascimento ES Jr,
+Borda JS, Pinato L, Costa MS, de Toledo CA.
+
+Author information: 
+(1)Laboratory of Chronobiology, Biosciences Center, Federal University of Rio
+Grande do Norte, 59072-970 Natal, RN, Brazil. jefsc@uol.com.br
+
+Serotonin (5-HT) is involved in the fine adjustments at several brain centers
+including the core of the mammal circadian timing system (CTS) and the
+hypothalamic suprachiasmatic nucleus (SCN). The SCN receives massive serotonergic
+projections from the midbrain raphe nuclei, whose inputs are described in rats as
+ramifying at its ventral portion overlapping the retinohypothalamic and
+geniculohypothalamic fibers. In the SCN, the 5-HT actions are reported as being
+primarily mediated by the 5-HT1 type receptor with noted emphasis for 5-HT(1B)
+subtype, supposedly modulating the retinal input in a presynaptic way. In this
+study in a New World primate species, the common marmoset (Callithrix jacchus),
+we showed the 5-HT(1B) receptor distribution at the dorsal SCN concurrent with a 
+distinctive location of 5-HT-immunoreactive fibers. This finding addresses to a
+new discussion on the regulation and synchronization of the circadian rhythms in 
+recent primates.
+
+Copyright Â© 2010 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.neulet.2010.10.070 
+PMID: 21055446  [Indexed for MEDLINE]
+
+
+1952. Neuroimage. 2011 Feb 14;54(4):2741-9. doi: 10.1016/j.neuroimage.2010.10.061. Epub
+2010 Oct 29.
+
+Population-averaged standard template brain atlas for the common marmoset
+(Callithrix jacchus).
+
+Hikishima K(1), Quallo MM, Komaki Y, Yamada M, Kawai K, Momoshima S, Okano HJ,
+Sasaki E, Tamaoki N, Lemon RN, Iriki A, Okano H.
+
+Author information: 
+(1)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+
+Advanced magnetic resonance (MR) neuroimaging analysis techniques based on
+voxel-wise statistics, such as voxel-based morphometry (VBM) and functional MRI, 
+are widely applied to cognitive brain research in both human subjects and in
+non-human primates. Recent developments in imaging have enabled the evaluation of
+smaller animal models with sufficient spatial resolution. The common marmoset
+(Callithrix jacchus), a small New World primate species, has been widely used in 
+neuroscience research, to which voxel-wise statistics could be extended with a
+species-specific brain template. Here, we report, for the first time, a
+tissue-segmented, population-averaged standard template of the common marmoset
+brain. This template was created by using anatomical T(1)-weighted images from 22
+adult marmosets with a high-resolution isotropic voxel size of (0.2 mm)(3) at
+7-Tesla and DARTEL algorithm in SPM8. Whole brain templates are available at
+International Neuroinformatics Japan Node website,
+http://brainatlas.brain.riken.jp/marmoset/.
+
+Copyright © 2010 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2010.10.061 
+PMID: 21044887  [Indexed for MEDLINE]
+

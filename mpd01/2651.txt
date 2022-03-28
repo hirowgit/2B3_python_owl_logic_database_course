@@ -1,0 +1,74 @@
+
+
+2651. J Allergy Clin Immunol. 2005 Aug;116(2):453-9.
+
+Antibody responses against galactocerebroside are potential stage-specific
+biomarkers in multiple sclerosis.
+
+Menge T(1), Lalive PH, von Büdingen HC, Cree B, Hauser SL, Genain CP.
+
+Author information: 
+(1)Department of Neurology, University of California San Francisco, San
+Francisco, CA 94143-0114, USA.
+
+BACKGROUND: Galactocerebroside, the major glycolipid of central nervous system
+myelin, is a known target for pathogenic demyelinating antibody responses in
+experimental allergic encephalomyelitis (EAE), the animal model of multiple
+sclerosis (MS).
+OBJECTIVE: To address the importance of anti-galactocerebroside (alpha-GalC)
+antibodies in MS and to evaluate them as biomarkers of disease.
+METHODS: alpha-GalC IgGs were quantified from sera of patients with MS and in
+marmoset EAE by a new immunosorbent assay.
+RESULTS: We report a significant difference in serum alpha-GalC IgG titers
+between patients with relapsing-remitting (RR)-MS and healthy controls (HCs; P < 
+.001). The frequencies of alpha-GalC antibody-positive subjects (alpha-GalC
+titers > or = mean HC titers+3 SD) are also significantly elevated in RR-MS
+compared with HC (40% vs 0%; P = .0033). Immunoaffinity purified alpha-GalC IgGs 
+from human serum bind to cultured human oligodendrocytes, indicating that the
+ELISA detects a biologically relevant epitope. Corroborating these findings,
+alpha-GalC antibody responses in marmoset EAE were similarly found to be
+specifically associated with the RR forms and not the peracute or progressive
+forms, in contrast with other anti-myelin antibodies (P = .0256).
+CONCLUSION: (1) alpha-GalC antibodies appear MS-specific and are not found in
+healthy subjects, unlike antibodies against myelin proteins; (2) when present,
+alpha-GalC antibodies identify mostly RR-MS and may be an indicator of ongoing
+disease activity. This novel assay is a suitable and valuable method to increase 
+accuracy of diagnosis and disease staging in MS.
+
+DOI: 10.1016/j.jaci.2005.03.023 
+PMID: 16083805  [Indexed for MEDLINE]
+
+
+2652. Virus Res. 2005 Dec;114(1-2):154-7. Epub 2005 Jul 28.
+
+Acute GB virus B infection of marmosets is accompanied by mutations in the NS5A
+protein.
+
+Kyuregyan KK(1), Poleschuk VF, Zamyatina NA, Isaeva OV, Michailov MI, Ross S,
+Bukh J, Roggendorf M, Viazov S.
+
+Author information: 
+(1)Gamaleya Institute of Epidemiology and Microbiology, Gamaleya 16, 123098
+Moscow, Russia.
+
+GBV-B, a member of the Flaviviridae family of viruses, is the virus most closely 
+related to HCV, and GBV-B infection in tamarin monkeys might represent a valuable
+surrogate animal model of HCV infection. In the current study, GBV-B was
+successfully transmitted to two marmosets (Callithrix jaccus). The infection
+resulted in viremia of 14- and 17-week duration, respectively, and was
+accompanied by elevation of isocitrate dehydrogenase activity. These data confirm
+that marmosets might represent an attractive model for GBV-B infection. The
+sequence of GBV-B NS5A, which was previously reported to have one of the highest 
+mutation rates during infection in tamarins, was determined for viruses recovered
+from the inoculum and from marmoset blood samples obtained at weeks 1, 8, and 14 
+post inoculation in one marmoset and at weeks 2, 8, and 17 post inoculation in
+the other marmoset. In both animals, we detected four substitutions (R1945K,
+K2052G, F2196L, and G2268E), in the virus recovered immediately before viral
+clearance. Interestingly, two of these mutations (F2196L and G2268E) were
+described recently for viruses recovered from persistently infected tamarins.
+Appearance of these mutations presumably reflects a mechanism of immune escape
+rather than adaptation of the virus to a new host.
+
+DOI: 10.1016/j.virusres.2005.06.009 
+PMID: 16054723  [Indexed for MEDLINE]
+

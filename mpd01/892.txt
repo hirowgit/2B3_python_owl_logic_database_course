@@ -1,0 +1,89 @@
+
+
+892. Front Neural Circuits. 2017 Mar 17;11:17. doi: 10.3389/fncir.2017.00017.
+eCollection 2017.
+
+Representation of Glossy Material Surface in Ventral Superior Temporal Sulcal
+Area of Common Marmosets.
+
+Miyakawa N(1), Banno T(2), Abe H(3), Tani T(3), Suzuki W(1), Ichinohe N(1).
+
+Author information: 
+(1)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and PsychiatryKodaira, Japan; Ichinohe Neural System
+Group, Laboratory for Molecular Analysis of Higher Brain Function, RIKEN Brain
+Science InstituteWako, Japan.
+(2)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry Kodaira, Japan.
+(3)Ichinohe Neural System Group, Laboratory for Molecular Analysis of Higher
+Brain Function, RIKEN Brain Science Institute Wako, Japan.
+
+The common marmoset (Callithrix jacchus) is one of the smallest species of
+primates, with high visual recognition abilities that allow them to judge the
+identity and quality of food and objects in their environment. To address the
+cortical processing of visual information related to material surface features in
+marmosets, we presented a set of stimuli that have identical three-dimensional
+shapes (bone, torus or amorphous) but different material appearances (ceramic,
+glass, fur, leather, metal, stone, wood, or matte) to anesthetized marmoset, and 
+recorded multiunit activities from an area ventral to the superior temporal
+sulcus (STS) using multi-shanked, and depth resolved multi-electrode array. Out
+of 143 visually responsive multiunits recorded from four animals, 29% had
+significant main effect only of the material, 3% only of the shape and 43% of
+both the material and the shape. Furthermore, we found neuronal cluster(s), in
+which most cells: (1) showed a significant main effect in material appearance;
+(2) the best stimulus was a glossy material (glass or metal); and (3) had reduced
+response to the pixel-shuffled version of the glossy material images. The
+location of the gloss-selective area was in agreement with previous macaque
+studies, showing activation in the ventral bank of STS. Our results suggest that 
+perception of gloss is an important ability preserved across wide range of
+primate species.
+
+DOI: 10.3389/fncir.2017.00017 
+PMCID: PMC5355424
+PMID: 28367117  [Indexed for MEDLINE]
+
+
+893. Mol Biol Evol. 2017 Jul 1;34(7):1629-1643. doi: 10.1093/molbev/msx105.
+
+Convergent Balancing Selection on the Mu-Opioid Receptor in Primates.
+
+Sweeney CG(1), Rando JM(1), Panas HN(1), Miller GM(1), Platt DM(1), Vallender
+EJ(1).
+
+Author information: 
+(1)Division of Neuroscience, New England Primate Research Center, Harvard Medical
+School, Southborough, MA.
+
+The mu opioid receptor is involved in many natural processes including stress
+response, pleasure, and pain. Mutations in the gene also have been associated
+with opiate and alcohol addictions as well as with responsivity to medication
+targeting these disorders. Two common and mutually exclusive polymorphisms have
+been identified in humans, A118G (N40D), found commonly in non-African
+populations, and C17T (V6A), found almost exclusively in African populations.
+Although A118G has been studied extensively for associations and in functional
+assays, C17T is much less well understood. In addition to a parallel polymorphism
+previously identified in rhesus macaques (Macaca mulatta), C77G (P26R),
+resequencing in additional non-human primate species identifies further common
+variation: C140T (P47L) in cynomolgus macaques (Macaca fascicularis), G55C (D19H)
+in vervet monkeys (Chlorocebus aethiops sabeus), A111T (L37F) in marmosets
+(Callithrix jacchus), and C55T (P19S) in squirrel monkeys (Saimiri boliviensis
+peruviensis). Functional effects on downstream signaling are observed for each of
+these variants following treatment with the endogenous agonist β-endorphin and
+the exogenous agonists morphine, DAMGO ([d-Ala2, N-Me-Phe4, Gly5-ol]-enkephalin),
+and fentanyl. In addition to demonstrating the importance of functional
+equivalency in reference to population variation for minority health, this also
+shows how common evolutionary pressures have produced similar phenotypes across
+species, suggesting a shared response to environmental needs and perhaps
+elucidating the mechanism by which these organism-environment interactions are
+mediated physiologically and molecularly. These studies set the stage for future 
+investigations of shared functional polymorphisms across species as a new genetic
+tool for translational research.
+
+© The Author 2017. Published by Oxford University Press on behalf of the Society 
+for Molecular Biology and Evolution. All rights reserved. For permissions, please
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/molbev/msx105 
+PMCID: PMC6279279
+PMID: 28333316  [Indexed for MEDLINE]
+

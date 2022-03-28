@@ -1,0 +1,70 @@
+
+
+148. Nature. 2021 Jun;594(7862):227-233. doi: 10.1038/s41586-021-03535-x. Epub 2021
+Apr 28.
+
+Evolutionary and biomedical insights from a marmoset diploid genome assembly.
+
+Yang C(#)(1)(2), Zhou Y(#)(1), Marcus S(#)(3), Formenti G(3)(4), Bergeron LA(2), 
+Song Z(5), Bi X(1), Bergman J(6), Rousselle MMC(6), Zhou C(1), Zhou L(1), Deng
+Y(1)(2), Fang M(1), Xie D(1), Zhu Y(1), Tan S(1), Mountcastle J(4), Haase B(4),
+Balacco J(4), Wood J(7), Chow W(7), Rhie A(8), Pippel M(9)(10), Fabiszak MM(11), 
+Koren S(8), Fedrigo O(4), Freiwald WA(11)(12), Howe K(7), Yang H(1)(5)(13)(14),
+Phillippy AM(8), Schierup MH(6), Jarvis ED(3)(4)(15), Zhang G(16)(17)(18)(19).
+
+Author information: 
+(1)BGI-Shenzhen, Shenzhen, China.
+(2)Villum Centre for Biodiversity Genomics, Section for Ecology and Evolution,
+Department of Biology, University of Copenhagen, Copenhagen, Denmark.
+(3)Laboratory of Neurogenetics of Language, The Rockefeller University, New York,
+NY, USA.
+(4)Vertebrate Genome Laboratory, The Rockefeller University, New York, NY, USA.
+(5)University of the Chinese Academy of Sciences, Beijing, China.
+(6)Bioinformatics Research Centre, Aarhus University, Aarhus, Denmark.
+(7)Wellcome Sanger Institute, Hinxton, UK.
+(8)Genome Informatics Section, Computational and Statistical Genomics Branch,
+National Human Genome Research Institute, National Institutes of Health,
+Bethesda, MD, USA.
+(9)Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany.
+(10)Center for Systems Biology, Dresden, Germany.
+(11)Laboratory of Neural Systems, The Rockefeller University, New York, NY, USA.
+(12)Center for Brains, Minds and Machines (CBMM), The Rockefeller University, New
+York, NY, USA.
+(13)James D. Watson Institute of Genome Sciences, Hangzhou, China.
+(14)Guangdong Provincial Academician Workstation of BGI Synthetic Genomics,
+BGI-Shenzhen, Shenzhen, China.
+(15)Howard Hughes Medical Institute, Chevy Chase, MD, USA.
+(16)Villum Centre for Biodiversity Genomics, Section for Ecology and Evolution,
+Department of Biology, University of Copenhagen, Copenhagen, Denmark.
+guojie.zhang@bio.ku.dk.
+(17)State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of
+Zoology, Chinese Academy of Sciences, Kunming, China. guojie.zhang@bio.ku.dk.
+(18)China National GeneBank, BGI-Shenzhen, Shenzhen, China.
+guojie.zhang@bio.ku.dk.
+(19)Center for Excellence in Animal Evolution and Genetics, Chinese Academy of
+Sciences, Kunming, China. guojie.zhang@bio.ku.dk.
+(#)Contributed equally
+
+The accurate and complete assembly of both haplotype sequences of a diploid
+organism is essential to understanding the role of variation in genome functions,
+phenotypes and diseases1. Here, using a trio-binning approach, we present a
+high-quality, diploid reference genome, with both haplotypes assembled
+independently at the chromosome level, for the common marmoset (Callithrix
+jacchus), an primate model system that is widely used in biomedical research2,3. 
+The full spectrum of heterozygosity between the two haplotypes involves 1.36% of 
+the genome-much higher than the 0.13% indicated by the standard estimation based 
+on single-nucleotide heterozygosity alone. The de novo mutation rate is
+0.43 × 10-8 per site per generation, and the paternal inherited genome acquired
+twice as many mutations as the maternal. Our diploid assembly enabled us to
+discover a recent expansion of the sex-differentiation region and unique
+evolutionary changes in the marmoset Y chromosome. In addition, we identified
+many genes with signatures of positive selection that might have contributed to
+the evolution of Callithrix biological features. Brain-related genes were highly 
+conserved between marmosets and humans, although several genes experienced
+lineage-specific copy number variations or diversifying selection, with
+implications for the use of marmosets as a model system.
+
+DOI: 10.1038/s41586-021-03535-x 
+PMCID: PMC8189906
+PMID: 33910227  [Indexed for MEDLINE]
+

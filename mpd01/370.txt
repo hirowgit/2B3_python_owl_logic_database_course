@@ -1,0 +1,116 @@
+
+
+370. Biomed Pharmacother. 2020 May;125:109832. doi: 10.1016/j.biopha.2020.109832. Epub
+2020 Feb 1.
+
+Comparison of the pharmacologic profiles of arginine vasopressin and oxytocin
+analogs at marmoset, titi monkey, macaque, and human oxytocin receptors.
+
+Pierce ML(1), French JA(2), Murray TF(3).
+
+Author information: 
+(1)Department of Pharmacology, Creighton University School of Medicine, 2500
+California Plaza, Omaha, NE, 68178, USA; Department of Pharmacology, Midwestern
+University, 555 31St., Downers Grove, IL, 60515, USA. Electronic address:
+MarshaPierce@creighton.edu.
+(2)Department of Psychology, University of Nebraska Omaha, 6001 Dodge St., Omaha,
+NE, 68182, USA. Electronic address: jfrench@unomaha.edu.
+(3)Department of Pharmacology, Creighton University School of Medicine, 2500
+California Plaza, Omaha, NE, 68178, USA. Electronic address:
+tfmurray@creighton.edu.
+
+The oxytocin-arginine vasopressin (OT-AVP) ligand-receptor family influences a
+variety of physiological, behavioral, and social behavioral processes in the
+brain and periphery. The OT-AVP family is highly conserved in mammals, but recent
+discoveries have revealed remarkable diversity in OT ligands and receptors in New
+World Monkeys (NWMs) providing a unique opportunity to assess the effects of
+genetic variation on pharmacological signatures of peptide ligands. The consensus
+mammalian OT sequence has leucine in the 8th position (Leu8-OT), whereas a number
+of NWMs, including the marmoset, have proline in the 8th position (Pro8-OT)
+resulting in a more rigid tail structure. OT and AVP bind to OT's cognate
+G-protein coupled receptor (OTR), which couples to various G-proteins (Gi/o, Gq, 
+Gs) to stimulate diverse signaling pathways. CHO cells expressing marmoset
+(mOTR), titi monkey (tOTR), macaque (qOTR), or human (hOTR) OT receptors were
+used to compare AVP and OT analog-induced signaling. Assessment of Gq-mediated
+increase in intracellular calcium (Ca2+) demonstrated that AVP was less potent
+than OT analogs at OTRs from species whose endogenous ligand is Leu8-OT (tOTR,
+qOTR, hOTR), relative to Pro8-OT. Likewise, AVP-induced membrane
+hyperpolarization was less potent at these same OTRs. Evaluation of
+(Ca2+)-activated potassium (K+) channels using the inhibitors apamin, paxilline, 
+and TRAM-34 demonstrated that both intermediate and large conductance
+Ca2+-activated K+ channels contributed to membrane hyperpolarization, with
+different pharmacological profiles identified for distinct ligand-receptor
+combinations. Understanding more fully the contributions of structure activity
+relationships for these peptide ligands at vasopressin and OT receptors will help
+guide the development of OT-mediated therapeutics.
+
+Copyright © 2020 The Author(s). Published by Elsevier Masson SAS.. All rights
+reserved.
+
+DOI: 10.1016/j.biopha.2020.109832 
+PMCID: PMC7196279
+PMID: 32018219  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest None.
+
+
+371. Eur J Pharmacol. 2020 Apr 15;873:172957. doi: 10.1016/j.ejphar.2020.172957. Epub 
+2020 Jan 28.
+
+Selective metabotropic glutamate receptor 2 positive allosteric modulation
+alleviates L-DOPA-induced psychosis-like behaviours and dyskinesia in the
+MPTP-lesioned marmoset.
+
+Sid-Otmane L(1), Hamadjida A(2), Nuara SG(3), Bédard D(2), Gaudette F(4), Gourdon
+JC(3), Michaud V(5), Beaudry F(6), Panisset M(7), Huot P(8).
+
+Author information: 
+(1)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada.
+(2)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada.
+(3)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(4)Plateforme de Pharmacocinétique, Centre de Recherche du Centre Hospitalier de 
+l'Université de Montréal, Montreal, QC, Canada.
+(5)Pharmacotherapy and Translational Research, College of Pharmacy, University of
+Florida, Lake Nona Campus, Orlando, FL, USA.
+(6)Groupe de Recherche en Pharmacologie Animale du Québec, Département de
+Biomédecine Vétérinaire, Faculté de Médecine Vétérinaire, Université de Montréal,
+Saint-Hyacinthe, QC, Canada.
+(7)Unité des troubles du mouvement André-Barbeau, Service de Neurologie,
+Département de Médecine, Centre Hospitalier de l'Université de Montréal,
+Montreal, QC, Canada; Département de Neurosciences, Université de Montréal,
+Montreal, QC, Canada.
+(8)Département de Pharmacologie et Physiologie, Université de Montréal, Montreal,
+QC, Canada; Neurodegenerative Disease Group, Montreal Neurological Institute,
+Montreal, QC, Canada; Department of Neurology and Neurosurgery, McGill
+University, Montreal, QC, Canada; Movement Disorder Clinic, Division of
+Neurology, Department of Neurosciences, McGill University Health Centre,
+Montreal, QC, Canada. Electronic address: philippe.huot@mcgill.ca.
+
+Psychosis and dyskinesia significantly diminish the quality of life of patients
+with advanced Parkinson's disease (PD). Available treatment options are
+unfortunately few and their use is limited by adverse effects. We have recently
+shown that activation of metabotropic glutamate 2 and 3 (mGlu2/3) receptors
+produced significant relief of L-3,4-dihydroxyphenylalanine (L-DOPA)-induced
+psychosis-like behaviours (PLBs) and dyskinesia in experimental models of PD.
+Here, using the highly-selective mGlu2 positive allosteric modulator (PAM)
+LY-487,379, we seek to determine the contribution of selective mGlu2 activation
+on both L-DOPA-induced PLBs and dyskinesia, in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned primate. We first
+determined the pharmacokinetic (PK) profile of LY-487,379 in the common marmoset,
+following which we administered it (0.1, 1 and 10 mg/kg) or its vehicle to 6
+MPTP-lesioned marmosets previously exposed to L-DOPA to elicit stable PLBs and
+dyskinesia. We found that LY-487,379 provided a ≈45% reduction of the global PLBs
+observed and reduced global dyskinesia score by ≈ 55%. Moreover, LY-487,379
+enhanced the anti-parkinsonian effect of L-DOPA, by reducing global parkinsonian 
+score by ≈ 15%. Our data suggest that selective mGlu2 positive allosteric
+modulation with LY-487,379 may represent a potential therapeutic approach to
+alleviate both L-DOPA-induced PLBs and dyskinesia in PD.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ejphar.2020.172957 
+PMID: 32004527  [Indexed for MEDLINE]
+

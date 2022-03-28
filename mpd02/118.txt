@@ -1,0 +1,67 @@
+
+
+118. Drug Metab Dispos. 2021 Sep;49(9):718-728. doi: 10.1124/dmd.121.000513. Epub 2021
+Jun 16.
+
+Differences in Hydrolase Activities in the Liver and Small Intestine between
+Marmosets and Humans.
+
+Honda S(1), Fukami T(2), Hirosawa K(1), Tsujiguchi T(1), Zhang Y(1), Nakano M(1),
+Uehara S(1), Uno Y(1), Yamazaki H(1), Nakajima M(1).
+
+Author information: 
+(1)Drug Metabolism and Toxicology, Faculty of Pharmaceutical Sciences (S.H.,
+T.F., K.H., T.T., Ma.N., Mi.N.), WPI Nano Life Science Institute (WPI-NanoLSI)
+(T.F., Y.Z., Ma.N., Mi.N.), Kanazawa University, Kanazawa, Japan; Clinical
+Pharmacokinetics Laboratory, School of Basic Medicine and Clinical Pharmacy,
+China Pharmaceutical University, Nanjing, China (Y.Z.); Laboratory of Drug
+Metabolism and Pharmacokinetics, Showa Pharmaceutical University, Machida, Japan 
+(S.U., H.Y.); Central Institute for Experimental Animals, Kawasaki, Japan (S.U.);
+Shin Nippon Biomedical Laboratories, Ltd., Kainan, Japan (Y.U.); and Joint
+Faculty of Veterinary Medicine, Kagoshima University, Kagoshima, Japan (Y.U.).
+(2)Drug Metabolism and Toxicology, Faculty of Pharmaceutical Sciences (S.H.,
+T.F., K.H., T.T., Ma.N., Mi.N.), WPI Nano Life Science Institute (WPI-NanoLSI)
+(T.F., Y.Z., Ma.N., Mi.N.), Kanazawa University, Kanazawa, Japan; Clinical
+Pharmacokinetics Laboratory, School of Basic Medicine and Clinical Pharmacy,
+China Pharmaceutical University, Nanjing, China (Y.Z.); Laboratory of Drug
+Metabolism and Pharmacokinetics, Showa Pharmaceutical University, Machida, Japan 
+(S.U., H.Y.); Central Institute for Experimental Animals, Kawasaki, Japan (S.U.);
+Shin Nippon Biomedical Laboratories, Ltd., Kainan, Japan (Y.U.); and Joint
+Faculty of Veterinary Medicine, Kagoshima University, Kagoshima, Japan (Y.U.)
+tatsuki@p.kanazawa-u.ac.jp.
+
+For drug development, species differences in drug-metabolism reactions present
+obstacles for predicting pharmacokinetics in humans. We characterized the species
+differences in hydrolases among humans and mice, rats, dogs, and cynomolgus
+monkeys. In this study, to expand the series of such studies, we attempted to
+characterize marmoset hydrolases. We measured hydrolase activities for 24
+compounds using marmoset liver and intestinal microsomes, as well as recombinant 
+marmoset carboxylesterase (CES) 1, CES2, and arylacetamide deacetylase (AADAC).
+The contributions of CES1, CES2, and AADAC to hydrolysis in marmoset liver
+microsomes were estimated by correcting the activities by using the ratios of
+hydrolase protein levels in the liver microsomes and those in recombinant
+systems. For six out of eight human CES1 substrates, the activities in marmoset
+liver microsomes were lower than those in human liver microsomes. For two human
+CES2 substrates and three out of seven human AADAC substrates, the activities in 
+marmoset liver microsomes were higher than those in human liver microsomes.
+Notably, among the three rifamycins, only rifabutin was hydrolyzed by marmoset
+tissue microsomes and recombinant AADAC. The activities for all substrates in
+marmoset intestinal microsomes tended to be lower than those in liver microsomes,
+which suggests that the first-pass effects of the CES and AADAC substrates are
+due to hepatic hydrolysis. In most cases, the sums of the values of the
+contributions of CES1, CES2, and AADAC were below 100%, which indicated the
+involvement of other hydrolases in marmosets. In conclusion, we clarified the
+substrate preferences of hydrolases in marmosets. SIGNIFICANCE STATEMENT: This
+study confirmed that there are large differences in hydrolase activities between 
+humans and marmosets by characterizing marmoset hydrolase activities for
+compounds that are substrates of human CES1, CES2, or arylacetamide deacetylase. 
+The data obtained in this study may be useful for considering whether marmosets
+are appropriate for examining the pharmacokinetics and efficacies of new chemical
+entities in preclinical studies.
+
+Copyright © 2021 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/dmd.121.000513 
+PMID: 34135089  [Indexed for MEDLINE]
+

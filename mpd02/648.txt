@@ -1,0 +1,34 @@
+
+
+648. J Comp Psychol. 2019 Feb;133(1):72-80. doi: 10.1037/com0000129. Epub 2018 Sep 10.
+
+Artificial visual stimuli for animal experiments: An experimental evaluation in a
+prey capture context with common marmosets (Callithrix jacchus).
+
+Oh J(1), Šlipogor V(1), Fitch WT(1).
+
+Author information: 
+(1)Department of Cognitive Biology.
+
+Experimenters often use images of real objects to simulate interactions between
+animal subjects or visual stimuli on a touchscreen to test animal cognition.
+However, the degree to which nonhuman animals recognize 2-D images as
+representing the corresponding real objects remains debated. The common marmoset 
+monkey (Callithrix jacchus) has been described as a species that spontaneously
+shows natural behaviors to 2-D images, for example, grasping behaviors to insects
+and fear responses to snakes. In this study, we tested 10 monkeys with their
+favorite food item (crickets), 2-D images (a photo and videos of a cricket), and 
+a 3-D plastic model to reevaluate marmoset's spontaneous responses to 2-D images 
+and to explore which artificial visual stimuli can motivate spontaneous
+interactions. The monkeys showed grasping behavior to the real cricket and the
+3-D plastic model, but to none of the 2-D images. Our experiment suggests that
+depth information is the most important factor eliciting predatory behavior from 
+the marmosets, and, therefore, a stimulus produced by a 3-D printer could be a
+good alternative when a spontaneous interaction or a convincing stimulus is
+required. Furthermore, this work serves as a cautionary tale for those using 2-D 
+image presentations with marmosets, and perhaps other animal species. (PsycINFO
+Database Record (c) 2019 APA, all rights reserved).
+
+DOI: 10.1037/com0000129 
+PMID: 30198735  [Indexed for MEDLINE]
+

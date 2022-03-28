@@ -1,0 +1,33 @@
+
+
+2983. Arch Virol. 2003 Jan;148(1):29-44.
+
+Host range of poliovirus is restricted to simians because of a rapid sequence
+change of the poliovirus receptor gene during evolution.
+
+Ida-Hosonuma M(1), Sasaki Y, Toyoda H, Nomoto A, Gotoh O, Yonekawa H, Koike S.
+
+Author information: 
+(1)Department of Microbiology and Immunology, Tokyo Metropolitan Institute for
+Neuroscience, Tokyo, Japan.
+
+The host range of most poliovirus (PV) strains is restricted to simians. This
+host range specificity is believed to be determined by the interaction between PV
+and its receptor molecule. To elucidate the molecular basis of this
+species-specific infection of PV, we cloned orthologs of the PV receptor (PVR)
+gene ( pvr) as well as those of PV receptor-related genes 1 and 2 ( prr1 and
+prr2) from various mammalian species. These three genes are widely present in
+mammalian genomes including those of non-susceptible species. Comparison of the
+deduced amino acid sequences of PVR orthologs revealed that the NH(2)-terminal
+immunoglobulin-like domain (domain 1), which is the virus binding site in the
+human PVR, is highly variable among species, whereas that of PRR1 is highly
+conserved. Domain 1 of the PVR orthologs for the ring-tailed lemur and rabbit,
+which are not susceptible to PV, show only 51 and 61% amino acid sequence
+identity to that of human PVR, respectively. Chimeric PVR proteins that have the 
+domain 1 of the ring-tailed lemur and rabbit PVRs failed to serve as receptors
+for PV. These results suggest that rapid changes in the domain 1 sequence during 
+mammalian evolution determined the host range restriction of PV.
+
+DOI: 10.1007/s00705-002-0910-7 
+PMID: 12536294  [Indexed for MEDLINE]
+

@@ -1,0 +1,55 @@
+
+
+7. J Neural Transm (Vienna). 2020 Oct;127(10):1343-1358. doi:
+10.1007/s00702-020-02247-2. Epub 2020 Aug 29.
+
+The MPTP-lesioned marmoset model of Parkinson's disease: proposed efficacy
+thresholds that may potentially predict successful clinical trial results.
+
+Beaudry F(1), Huot P(2)(3)(4).
+
+Author information: 
+(1)Groupe de Recherche en Pharmacologie Animal du Québec, Département de
+Biomédecine Vétérinaire, Faculté de Médecine Vétérinaire, Université de Montréal,
+Saint-Hyacinthe, QC, Canada.
+(2)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St, Montreal, QC, H3A 2B4, Canada. philippe.huot@mcgill.ca.
+(3)Department of Neurology and Neurosurgery, McGill University, Montreal, QC,
+Canada. philippe.huot@mcgill.ca.
+(4)Movement Disorder Clinic, Division of Neurology, Department of Neurosciences, 
+McGill University Health Centre, Montreal, QC, Canada. philippe.huot@mcgill.ca.
+
+The 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned common marmoset 
+has been used extensively to model Parkinson's disease,
+L-3,4-dihydroxyphenylalanine (L-DOPA)-induced dyskinesia and, more recently,
+dopaminergic psychosis. Whereas several experimental drugs have been tested in
+this primate, many of which subsequently underwent clinical trials, efficacy
+thresholds in the marmoset that would predict efficacy in the clinic are lacking.
+Here, we aimed to determine such efficacy end points that would be indicative of 
+likely efficacy in clinical studies. To do so, we used the evidence-based
+medicine reviews published by the International Parkinson and Movement Disorder
+Society (IPMDS) to select drugs that were rated as clinically efficacious, likely
+efficacious or not efficacious for the treatment of parkinsonism, dyskinesia and 
+psychosis. We then reviewed the literature in the MPTP-lesioned marmoset and
+identified articles reporting the effects of drugs that were included in the
+IPMDS recommendations, following which we estimated efficacy thresholds in the
+marmoset that would predict efficacy at the clinical level. We propose that, when
+drugs are administered as monotherapy, ≥ 50% reduction of global parkinsonism may
+be necessary to predict the possibility of clinical efficacy. As adjunct to a low
+dose of L-DOPA, we propose that an additional reduction of global
+parkinsonism ≥ 25% might predict clinical efficacy. As adjunct to an optimal dose
+of L-DOPA, we propose that additional anti-parkinsonian benefit ≥ 20%, with
+global parkinsonism as the end point, might predict clinical efficacy. For the
+treatment of dyskinesia, we suggest that the predictability threshold be set
+at ≥ 25% reduction of peak dose dyskinesia, while we believe that this threshold 
+should be > 50% reduction of peak dose psychosis-like behaviours for
+psychosis-related end points. This article represents the first step in
+determining what efficacy might be necessary to achieve in pre-clinical studies
+in the MPTP-lesioned marmoset prior to confidently advancing drugs to clinical
+trials. We hope that it will help in the drug discovery and development process, 
+notably by avoiding exposing patients to drugs that have little probability of
+clinical efficacy based upon pre-clinical experiments.
+
+DOI: 10.1007/s00702-020-02247-2 
+PMID: 32860561  [Indexed for MEDLINE]
+

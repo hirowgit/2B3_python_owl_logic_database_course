@@ -1,0 +1,39 @@
+
+
+2083. Magn Reson Med. 2009 Dec;62(6):1510-22. doi: 10.1002/mrm.22135.
+
+Magnetic susceptibility mapping of brain tissue in vivo using MRI phase data.
+
+Shmueli K(1), de Zwart JA, van Gelderen P, Li TQ, Dodd SJ, Duyn JH.
+
+Author information: 
+(1)Advanced MRI Section, Laboratory of Functional and Molecular Imaging, National
+Institute of Neurological Disorders and Stroke, National Institutes of Health,
+Bethesda, Maryland 20892-1065, USA. shmuelik@mail.nih.gov
+
+Phase images in susceptibility-weighted MRI of brain provide excellent contrast. 
+However, the phase is affected by tissue geometry and orientation relative to the
+main magnetic field (B(0)), and phase changes extend beyond areas of altered
+susceptibility. Magnetic susceptibility, on the other hand, is an intrinsic
+tissue property, closely reflecting tissue composition. Therefore, recently
+developed inverse Fourier-based methods were applied to calculate susceptibility 
+maps from high-resolution phase images acquired at a single orientation at 7 T in
+the human brain (in vivo and fixed) and at 11.7 T in fixed marmoset brain. In
+susceptibility images, the contrast of cortical layers was more consistent than
+in phase images and was independent of the structures' orientation relative to
+B(0). The contrast of iron-rich deep-brain structures (red nucleus and substantia
+nigra) in susceptibility images agreed more closely with iron-dominated R(2) (*) 
+images than the phase image contrast, which extended outside the structures. The 
+mean susceptibility in these regions was significantly correlated with their
+estimated iron content. Susceptibility maps calculated using this method overcome
+the orientation-dependence and non-locality of phase image contrast and seem to
+reflect underlying tissue composition. Susceptibility images should be easier to 
+interpret than phase images and could improve our understanding of the sources of
+susceptibility contrast.
+
+(c) 2009 Wiley-Liss, Inc.
+
+DOI: 10.1002/mrm.22135 
+PMCID: PMC4275127
+PMID: 19859937  [Indexed for MEDLINE]
+

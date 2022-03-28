@@ -1,0 +1,86 @@
+
+
+3177. J Neurophysiol. 2001 May;85(5):1793-804.
+
+Characterization of tactile afferent fibers in the hand of the marmoset monkey.
+
+Coleman GT(1), Bahramali H, Zhang HQ, Rowe MJ.
+
+Author information: 
+(1)School of Physiology and Pharmacology, The University of New South Wales,
+Sydney, NSW 2052, Australia.
+
+The marmoset monkey, Callithrix jacchus, has increasingly been the subject of
+experiments for the analysis of somatosensory system function in simian primates.
+However, as response properties of the mechanoreceptive afferent fibers supplying
+the skin have not been characterized for this primate, the present study was
+undertaken to classify fibers innervating the glabrous skin of the marmoset hand 
+and determine whether they resembled those described for other mammalian species,
+including cat, macaque monkey, and human subjects. Forty-seven tactile afferent
+fibers with receptive fields (RFs) on the glabrous skin of the hand were isolated
+in fine median and ulnar nerve strands. Controlled tactile stimuli, including
+static indentation and skin vibration, were used to classify fibers. Twenty-six
+(55%) responded to static indentation in a sustained manner and were designated
+slowly adapting (SA) fibers, while 21 (45%) were selectively sensitive to the
+dynamic components of the stimulus. The SA fibers had well-defined boundaries to 
+their RFs, lacked spontaneous activity in most cases (23/26 fibers), had an
+irregular pattern of discharge to static skin indentation, and displayed graded
+response levels as a function of indentation amplitude, attributes that were
+consistent with the properties of slowly adapting type I (SAI) fibers described
+in other species. The dynamically sensitive afferent fibers could be subdivided
+into two distinct functional classes, based on their responses to vibrotactile
+stimulation. The majority (15/21) responded best to lower frequency vibration
+(~10-50 Hz) and had small RFs, whereas the second class responded preferentially 
+to higher frequency vibration (50-700 Hz) with maximal sensitivity at ~200-300
+Hz. These two classes resembled, respectively, the rapidly adapting (RA) and
+Pacinian corpuscle-related (PC) fiber classes found in other species, and like
+them, responded to vibration with tightly phase-locked patterns of response over 
+a wide range of frequencies. The results demonstrate that the functional classes 
+of tactile afferent fibers that supply the glabrous skin in the marmoset monkey
+appear to correspond with those described previously for the cat and macaque
+monkey, and are similar to those supplying the human hand and fingers, although
+the SA fibers in the human hand appear to fall into two classes, the SAI and SAII
+fibers. With the increasing use of the marmoset monkey as a primate model for
+somatosensory system studies, these data now allow tactile neurons identified at 
+central locations, such as the cerebral cortex and thalamus, to be classified in 
+relation to inputs from the peripheral classes identified in the present study.
+
+DOI: 10.1152/jn.2001.85.5.1793 
+PMID: 11352997  [Indexed for MEDLINE]
+
+
+3178. Biomed Sci Instrum. 2001;37:119-24.
+
+Development of a wireless system for auditory neuroscience.
+
+Lukes AJ(1), Lear AT, Snider RK.
+
+Author information: 
+(1)Department of Electrical and Computer Engineering, Montana State University,
+Bozeman, MT 59717, USA.
+
+In order to study how the auditory cortex extracts communication sounds in a
+realistic acoustic environment, a wireless system is being developed that will
+transmit acoustic as well as neural signals. The miniature transmitter will be
+capable of transmitting two acoustic signals with 37.5 KHz bandwidths (75 KHz
+sample rate) and 56 neural signals with bandwidths of 9.375 KHz (18.75 KHz sample
+rate). These signals will be time-division multiplexed into one high bandwidth
+signal with a 1.2 MHz sample rate. This high bandwidth signal will then be
+frequency modulated onto a 2.4 GHz carrier, which resides in the industrial,
+scientic, and medical (ISM) band that is designed for low-power short-range
+wireless applications. On the receiver side, the signal will be demodulated from 
+the 2.4 GHz carrier and then digitized by an analog-to-digital (A/D) converter.
+The acoustic and neural signals will be digitally demultiplexed from the
+multiplexed signal into their respective channels. Oversampling (20 MHz) will
+allow the reconstruction of the multiplexing clock by a digital signal processor 
+(DSP) that will perform frame and bit synchronization. A frame is a subset of the
+signal that contains all the channels and several channels tied high and low will
+signal the start of a frame. This technological development will bring two
+benefits to auditory neuroscience. It will allow simultaneous recording of many
+neurons that will permit studies of population codes. It will also allow neural
+functions to be determined in higher auditory areas by correlating neural and
+acoustic signals without apriori knowledge of the necessary stimuli.
+
+
+PMID: 11347373  [Indexed for MEDLINE]
+

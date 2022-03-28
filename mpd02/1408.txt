@@ -1,0 +1,51 @@
+
+
+1408. Int Immunol. 2014 Nov;26(11):597-606. doi: 10.1093/intimm/dxu053. Epub 2014 May
+24.
+
+NKG2D functions as an activating receptor on natural killer cells in the common
+marmoset (Callithrix jacchus).
+
+Watanabe M(1), Kudo Y(1), Kawano M(1), Nakayama M(1), Nakamura K(1), Kameda M(1),
+Ebara M(1), Sato T(1), Nakamura M(1), Omine K(1), Kametani Y(2), Suzuki R(3),
+Ogasawara K(4).
+
+Author information: 
+(1)Department of Immunobiology, Institute of Development, Aging and Cancer,
+Tohoku University, Sendai 980-8575, Japan.
+(2)Department of Immunology, Tokai University School of Medicine, Isehara
+259-1193, Japan.
+(3)Department of Rheumatology and Clinical Immunology, Clinical Research Center
+for Allergy and Rheumatology, Sagamihara National Hospital, National Hospital
+Organization, Sagamihara 252-0315, Japan.
+(4)Department of Immunobiology, Institute of Development, Aging and Cancer,
+Tohoku University, Sendai 980-8575, Japan ogasawara@idac.tohoku.ac.jp.
+
+The natural killer group 2 membrane D (NKG2D) receptor is an NK-activating
+receptor that plays an important role in host defense against tumors and viral
+infections. Although the marmoset is an important and reliable animal model,
+especially for the study of human-specific viral infections, functional
+characterization of NKG2D on marmoset NK cells has not previously been conducted.
+In the present study, we investigated a subpopulation of marmoset NK cells that
+express NKG2D and exhibit cytolytic potential. On the basis of their CD16 and
+CD56 expression patterns, marmoset NK cells can be classified into three
+subpopulations: CD16(+) CD56(-), CD16(-) CD56(+) and CD16(-) CD56(-) cells. NKG2D
+expression on marmoset CD16(+) CD56(-) and CD16(-) CD56(+) splenocytes was
+confirmed using an NKG2D ligand composed of an MHC class I chain-related molecule
+A (MICA)-Fc fusion protein. When marmoset splenocytes were cultured with IL-2 for
+4 days, NKG2D expression was retained on CD16(+) CD56(-) and CD16(-) CD56(+). In 
+addition, CD16(+) CD56(+) cells within the marmoset NK population appeared which 
+expressed NKG2D after IL-2 stimulation. IL-2-activated marmoset NK cells showed
+strong cytolytic activity against K562 target cells and target cells stably
+expressing MICA. Further, the cytolytic activity of marmoset splenocytes was
+significantly reduced after addition of MICA-Fc fusion protein. Thus, NKG2D
+functions as an activating receptor on marmoset NK cells that possesses cytotoxic
+potential, and phenotypic profiles of marmoset NK cell subpopulations are similar
+to those seen in humans.
+
+© The Japanese Society for Immunology. 2014. All rights reserved. For
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/intimm/dxu053 
+PMID: 24860119  [Indexed for MEDLINE]
+

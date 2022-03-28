@@ -1,0 +1,63 @@
+
+
+3277. J Virol. 2000 Sep;74(17):8102-10.
+
+The collagen repeat sequence is a determinant of the degree of herpesvirus
+saimiri STP transforming activity.
+
+Choi JK(1), Ishido S, Jung JU.
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics and Division of Tumor
+Virology, New England Regional Primate Research Center, Harvard Medical School,
+Southborough, Massachusetts 01772-9102, USA.
+
+Herpesvirus saimiri (HVS) is divided into three subgroups, A, B, and C, based on 
+sequence divergence at the left end of genomic DNA in which the saimiri
+transforming protein (STP) resides. Subgroup A and C strains transform primary
+common marmoset lymphocytes to interleukin-2-independent growth, whereas subgroup
+B strains do not. To investigate the nononcogenic phenotype of the subgroup B
+viruses, STP genes from seven subgroup B virus isolates were cloned and
+sequenced. Consistent with the lack of oncogenic activity of HVS subgroup B
+viruses, STP-B was deficient for transforming activity in rodent fibroblast
+cells. Sequence comparison reveals that STP-B lacks the signal-transducing
+modules found in STP proteins of the other subgroups, collagen repeats and an
+authentic SH2 binding motif. Substitution mutations demonstrated that the lack of
+collagen repeats but not an SH2 binding motif contributed to the nontransforming 
+phenotype of STP-B. Introduction of the collagen repeat sequence induced
+oligomerization of STP-B, resulting in activation of NF-kappaB activity and
+deregulation of cell growth control. These results demonstrate that the collagen 
+repeat sequence is a determinant of the degree of HVS STP transforming activity.
+
+DOI: 10.1128/jvi.74.17.8102-8110.2000 
+PMCID: PMC112343
+PMID: 10933720  [Indexed for MEDLINE]
+
+
+3278. An Acad Bras Cienc. 2000 Jun;72(2):165-72.
+
+The current status of the New World monkey phylogeny.
+
+Schneider H(1).
+
+Author information: 
+(1)Universidade Federal do Pará, Bragança, Brazil. hschneider@eletronet.com.br
+
+Four DNA datasets were combined in tandem (6700 bp) and Maximum parsimony and
+Neighbor-Joining analyses were performed. The results suggest three groups
+emerging almost at the same time: Atelidae, Pitheciidae and Cebidae. The total
+analysis strongly supports the monophyly of the Cebidae family, grouping Aotus,
+Cebus and Saimiri with the small callitrichines. In the callitrichines, the data 
+link Cebuela to Callithrix, place Callimico as a sister group of
+Callithrix/Cebuella, and show Saguinus to be the earliest offshoot of the
+callitrichines. In the family Pithecidae, Callicebus is the basal genus. Finally,
+combined molecular data showed congruent branching in the atelid clade, setting
+up Alouatta as the basal lineage and Brachyteles-Lagothrix as a sister group and 
+the most derived branch. Two major points remain to be clarified in the
+platyrrhine phylogeny: (i) what is the exact branching pattern of Aotus, Cebus,
+Saimiri and the small callitrichines, and (ii), which two of these three
+lineages, pitheciines, atelines or cebids, are more closely related?
+
+DOI: 10.1590/s0001-37652000000200005 
+PMID: 10932115  [Indexed for MEDLINE]
+

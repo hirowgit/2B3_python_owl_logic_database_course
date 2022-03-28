@@ -1,0 +1,102 @@
+
+
+246. Cereb Cortex. 2021 Jan 5;31(2):1316-1333. doi: 10.1093/cercor/bhaa298.
+
+Neutral Sphingomyelinase is an Affective Valence-Dependent Regulator of Learning 
+and Memory.
+
+Kalinichenko LS(1), Abdel-Hafiz L(2), Wang AL(2), Mühle C(1), Rösel N(1),
+Schumacher F(3)(4), Kleuser B(3), Smaga I(5), Frankowska M(5), Filip M(5),
+Schaller G(1), Richter-Schmidinger T(1), Lenz B(1)(6), Gulbins E(4)(7), Kornhuber
+J(1), Oliveira AWC(8), Barros M(8)(9), Huston JP(2), Müller CP(1).
+
+Author information: 
+(1)Department of Psychiatry and Psychotherapy, University Clinic,
+Friedrich-Alexander-University of Erlangen-Nuremberg, Erlangen 91054, Germany.
+(2)Center for Behavioral Neuroscience, Institute of Experimental Psychology,
+University of Düsseldorf, Düsseldorf 40225, Germany.
+(3)Department of Toxicology, Faculty of Mathematics and Natural Science,
+Institute of Nutritional Science, University of Potsdam, Potsdam 14558, Germany.
+(4)Department of Molecular Biology, University of Duisburg-Essen, Essen 45147,
+Germany.
+(5)Department of Drug Addiction Pharmacology, Polish Academy of Sciences, Maj
+Institute of Pharmacology, Kraków 31-343, Poland.
+(6)Department of Addictive Behavior and Addiction Medicine, Central Institute of 
+Mental Health (CIMH), Medical Faculty Mannheim, Heidelberg University, Mannheim
+68159, Germany.
+(7)Department of Surgery, College of Medicine, University of Cincinnati,
+Cincinnati, OH 45267-0558, USA.
+(8)Department of Pharmacy, School of Health Sciences, University of Brasilia,
+Brasilia, DF 70910-900, Brazil.
+(9)Primate Center, Institute of Biology, University of Brasilia, Brasilia
+70910-900, Brazil.
+
+Sphingolipids and enzymes of the sphingolipid rheostat determine synaptic
+appearance and signaling in the brain, but sphingolipid contribution to normal
+behavioral plasticity is little understood. Here we asked how the sphingolipid
+rheostat contributes to learning and memory of various dimensions. We
+investigated the role of these lipids in the mechanisms of two different types of
+memory, such as appetitively and aversively motivated memory, which are
+considered to be mediated by different neural mechanisms. We found an association
+between superior performance in short- and long-term appetitively motivated
+learning and regionally enhanced neutral sphingomyelinase (NSM) activity. An
+opposite interaction was observed in an aversively motivated task. A
+valence-dissociating role of NSM in learning was confirmed in mice with
+genetically reduced NSM activity. This role may be mediated by the NSM control of
+N-methyl-d-aspartate receptor subunit expression. In a translational approach, we
+confirmed a positive association of serum NSM activity with long-term
+appetitively motivated memory in nonhuman primates and in healthy humans.
+Altogether, these data suggest a new sphingolipid mechanism of de-novo learning
+and memory, which is based on NSM activity.
+
+© The Author(s) 2020. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permission@oup.com.
+
+DOI: 10.1093/cercor/bhaa298 
+PMID: 33043975  [Indexed for MEDLINE]
+
+
+247. Nature. 2020 Nov;587(7834):432-436. doi: 10.1038/s41586-020-2802-y. Epub 2020 Oct
+7.
+
+Spontaneous travelling cortical waves gate perception in behaving primates.
+
+Davis ZW(#)(1), Muller L(#)(2)(3)(4)(5), Martinez-Trujillo J(4)(6)(7), Sejnowski 
+T(2), Reynolds JH(8).
+
+Author information: 
+(1)The Salk Institute for Biological Studies, La Jolla, CA, USA. zdavis@salk.edu.
+(2)The Salk Institute for Biological Studies, La Jolla, CA, USA.
+(3)Department of Applied Mathematics, Western University, London, Ontario,
+Canada.
+(4)Robarts Research and Brain and Mind Institute, Western University, London,
+Ontario, Canada.
+(5)Institut de Neurosciences de la Timone (INT), UMR7289, CNRS, Aix-Marseille
+Université, Marseille, France.
+(6)Department of Physiology and Pharmacology, Schulich School of Medicine and
+Dentistry, Western University, London, Ontario, Canada.
+(7)Department of Psychiatry, Schulich School of Medicine and Dentistry, Western
+University, London, Ontario, Canada.
+(8)The Salk Institute for Biological Studies, La Jolla, CA, USA.
+reynolds@salk.edu.
+(#)Contributed equally
+
+Perceptual sensitivity varies from moment to moment. One potential source of this
+variability is spontaneous fluctuations in cortical activity that can travel as
+waves1. Spontaneous travelling waves have been reported during anaesthesia2-7,
+but it is not known whether they have a role during waking perception. Here,
+using newly developed analytic techniques to characterize the moment-to-moment
+dynamics of noisy multielectrode data, we identify spontaneous waves of activity 
+in the extrastriate visual cortex of awake, behaving marmosets (Callithrix
+jacchus). In monkeys trained to detect faint visual targets, the timing and
+position of spontaneous travelling waves before target onset predicted the
+magnitude of target-evoked activity and the likelihood of target detection. By
+contrast, spatially disorganized fluctuations of neural activity were much less
+predictive. These results reveal an important role for spontaneous travelling
+waves in sensory processing through the modulation of neural and perceptual
+sensitivity.
+
+DOI: 10.1038/s41586-020-2802-y 
+PMCID: PMC7677221
+PMID: 33029013  [Indexed for MEDLINE]
+

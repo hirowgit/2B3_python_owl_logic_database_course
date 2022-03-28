@@ -1,0 +1,84 @@
+
+
+700. Biochem Pharmacol. 2018 Jun;152:272-278. doi: 10.1016/j.bcp.2018.04.002. Epub
+2018 Apr 5.
+
+In vivo and in vitro diclofenac 5-hydroxylation mediated primarily by cytochrome 
+P450 3A enzymes in common marmoset livers genotyped for P450 2C19 variants.
+
+Nakanishi K(1), Uehara S(1), Kusama T(1), Inoue T(2), Shimura K(1), Kamiya Y(1), 
+Murayama N(1), Shimizu M(1), Uno Y(3), Sasaki E(4), Yamazaki H(5).
+
+Author information: 
+(1)Showa Pharmaceutical University, Machida, Tokyo 194-8543, Japan.
+(2)Department of Marmoset Research, Central Institute for Experimental Animals,
+Kawasaki, Japan.
+(3)Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, Japan.
+(4)Department of Marmoset Research, Central Institute for Experimental Animals,
+Kawasaki, Japan; Keio Advanced Research Center, Keio University, Minato-ku,
+Tokyo, Japan.
+(5)Showa Pharmaceutical University, Machida, Tokyo 194-8543, Japan. Electronic
+address: hyamazak@ac.shoyaku.ac.jp.
+
+Common marmosets (Callithrix jacchus) are potentially useful nonhuman primate
+models for preclinical studies. An anti-inflammatory drug, diclofenac is
+reportedly metabolized mainly by human cytochrome P450 (P450) 2C9 to
+4'-hydroxydiclofenac and minorly by P450 3A4 to 5-hydroxydiclofenac that leads to
+reactive intermediates. In this study, in vivo pharmacokinetics in six marmosets 
+and in vitro metabolism in nine marmoset liver microsomes were analyzed using
+diclofenac to evaluate marmosets as preclinical drug metabolism models. In
+wild-type marmosets genotyped for P450 2C19 p.[(Phe7Leu; Ser254Leu; Ile469Thr)], 
+plasma levels of 5-hydroxydiclofenac and 4'-hydroxydiclofenac were roughly
+similar, but the homozygotes showed approximately three-times higher plasma
+levels of 5-hydroxydiclofenac than those of 4'-hydroxydiclofenac after oral
+administrations of diclofenac (50 mg/kg). Nine marmoset liver microsomes
+catalyzed mainly diclofenac 5-hydroxylation with no significant effects of the
+the P450 2C19 genotype, and partly diclofenac 4'-hydroxylation that depended on
+the P450 2C19 genotype, at substrate concentrations of 10 µM and 100 µM. Both
+Michaels-Menten constant Km values for diclofenac 4'-hydroxylation in human and
+marmoset liver microsomes were ∼30 μM and those for diclofenac 5-hydroxylation
+were ∼120 μM. Ketoconazole significantly suppressed only diclofenac
+5-hydroxylation in marmoset or human liver microsomes at 0.030 μM, indicating
+main contribution of P450 3A enzymes, which were found to be P450 3A5/90 using
+recombinant marmoset P450 3A enzymes. These results suggest that marmosets would 
+be a functional animal model for in vivo and in vitro metabolites likely
+generated via arene oxide intermediates of diclofenac by P450 3A enzymes in
+humans, primarily because marmosets lack the ortholog of human P450 2C9.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2018.04.002 
+PMID: 29626440  [Indexed for MEDLINE]
+
+
+701. Anaerobe. 2018 Jun;51:47-49. doi: 10.1016/j.anaerobe.2018.03.013. Epub 2018 Apr
+3.
+
+Type C botulism in domestic chickens, dogs and black-pencilled marmoset
+(Callithrix penicillata) in Minas Gerais, Brazil.
+
+Silva ROS(1), Martins RA(2), Assis RA(2), Oliveira Junior CA(2), Lobato FCF(2).
+
+Author information: 
+(1)Veterinary College, Universidade Federal de Minas Gerais (UFMG), Antônio
+Carlos Avenue, 6627. Belo Horizonte, MG, 31.270-901, Brazil. Electronic address: 
+rodrigo.otaviosilva@gmail.com.
+(2)Veterinary College, Universidade Federal de Minas Gerais (UFMG), Antônio
+Carlos Avenue, 6627. Belo Horizonte, MG, 31.270-901, Brazil.
+
+Botulism is a well-known intoxication that affects humans and animals. The
+disease is endemic in cattle in Brazil and recently emerged as an important
+disease in commercial laying hens and broiler chickens in Europe. Dogs and other 
+animal species can also be affected. Although antitoxins are commonly
+administered to humans diagnosed with botulism, in animals this is rarely the
+case and the treatment of botulism is still based only on support therapy. In the
+present work, we report an outbreak of type C botulism in Brazil that
+simultaneously affected domestic chickens, dogs and a black-pencilled marmoset
+(Callithrix penicillata). The successful use of Clostridium botulinum types C and
+D antitoxin for the treatment of an affected dog is also described.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.anaerobe.2018.03.013 
+PMID: 29621603  [Indexed for MEDLINE]
+

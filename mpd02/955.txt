@@ -1,0 +1,51 @@
+
+
+955. Chromosoma. 2017 Aug;126(4):519-529. doi: 10.1007/s00412-016-0619-0. Epub 2016
+Nov 10.
+
+Centromere repositioning explains fundamental number variability in the New World
+monkey genus Saimiri.
+
+Chiatante G(1), Capozzi O(2), Svartman M(3), Perelman P(4), Centrone L(1),
+Romanenko SS(4), Ishida T(5), Valeri M(3), Roelke-Parker ME(6), Stanyon R(7).
+
+Author information: 
+(1)Department of Biology, Anthropology Laboratories, University of Florence, Via 
+del Proconsolo 12, 50122, Florence, Italy.
+(2)Department of Biology, University of Bari, Bari, Italy.
+(3)Department of General Biology, Universidade Federal de Minas Gerais, Belo
+Horizonte, Brazil.
+(4)Institute of Molecular and Cellular Biology SB RAS, Novosibirsk, Russia.
+(5)Department of Biological Sciences, Graduate School of Science, University of
+Tokyo, Tokyo, Japan.
+(6)Frederick National Laboratory of Cancer Research, Leidos Biomedical Research, 
+Inc, Frederick, MD, USA.
+(7)Department of Biology, Anthropology Laboratories, University of Florence, Via 
+del Proconsolo 12, 50122, Florence, Italy. roscoe.stanyon@unifi.it.
+
+Cytogenetics has historically played a key role in research on squirrel monkey
+(genus Saimiri) evolutionary biology. Squirrel monkeys have a diploid number of
+2n = 44, but vary in fundamental number (FN). Apparently, differences in FN have 
+phylogenetic implications and are correlated with geographic regions. A number of
+hypothetical mechanisms were proposed to explain difference in FN:
+translocations, heterochromatin, or, most commonly, pericentric inversions.
+Recently, an additional mechanism, centromere repositioning, was discovered,
+which can alter chromosome morphology and FN. Here, we used chromosome banding,
+chromosome painting, and BAC-FISH to test these hypotheses. We demonstrate that
+centromere repositioning on chromosomes 5 and 15 is the mechanism that accounts
+for differences in FN. Current phylogenomic trees of platyrrhines provide a
+temporal framework for evolutionary new centromeres (ENC) in Saimiri. The
+X-chromosome ENC could be up to 15 million years (my) old that on chromosome 5 as
+recent as 0.3 my. The chromosome 15 ENC is intermediate, as young as 2.24 my. All
+ENC have abundant satellite DNAs indicating that the maturation process was
+fairly rapid. Callithrix jacchus was used as an outgroup for the BAC-FISH data
+analysis. Comparison with scaffolds from the S. boliviensis genome revealed an
+error in the last marmoset genome release. Future research including at the
+sequence level will provide better understanding of chromosome evolution in
+Saimiri and other platyrrhines. Probably other cases of differences in chromosome
+morphology and FN, both within and between taxa, will be shown to be due to
+centromere repositioning and not pericentric inversions.
+
+DOI: 10.1007/s00412-016-0619-0 
+PMID: 27834006  [Indexed for MEDLINE]
+

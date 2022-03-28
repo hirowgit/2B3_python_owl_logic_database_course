@@ -1,0 +1,67 @@
+
+
+3132. Nat Neurosci. 2001 Nov;4(11):1131-8.
+
+Temporal and rate representations of time-varying signals in the auditory cortex 
+of awake primates.
+
+Lu T(1), Liang L, Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+The Johns Hopkins University School of Medicine, 720 Rutland Avenue, Ross 424,
+Baltimore, Maryland 21205, USA.
+
+Comment in
+    Nat Neurosci. 2001 Nov;4(11):1055-6.
+
+Because auditory cortical neurons have limited stimulus-synchronized responses,
+cortical representations of more rapidly occurring but still perceivable stimuli 
+remain unclear. Here we show that there are two largely distinct populations of
+neurons in the auditory cortex of awake primates: one with stimulus-synchronized 
+discharges that, with a temporal code, explicitly represented slowly occurring
+sound sequences and the other with non-stimulus-synchronized discharges that,
+with a rate code, implicitly represented rapidly occurring events. Furthermore,
+neurons of both populations displayed selectivity in their discharge rates to
+temporal features within a short time-window. Our results suggest that the
+combination of temporal and rate codes in the auditory cortex provides a possible
+neural basis for the wide perceptual range of temporal information.
+
+DOI: 10.1038/nn737 
+PMID: 11593234  [Indexed for MEDLINE]
+
+
+3133. Eur J Immunol. 2001 Oct;31(10):2942-50.
+
+Frequency, heterogeneity and encephalitogenicity of T cells specific for myelin
+oligodendrocyte glycoprotein in naive outbred primates.
+
+Villoslada P(1), Abel K, Heald N, Goertsches R, Hauser SL, Genain CP.
+
+Author information: 
+(1)Department of Neurology, University of California, San Francisco, USA.
+pvilloslada@unav.es
+
+Auto-reactive T cells present in healthy subjects remain in a state of
+unresponsiveness, but may trigger autoimmunity under various situations. Although
+myelin oligodendrocyte glycoprotein (MOG) is a potential target antigen in
+multiple sclerosis (MS), MOG-reactive T cell responses are present in the blood
+of both healthy subjects and MS-affected individuals. To investigate the
+disease-inducing potential and regulation of these autoreactive T cells in
+healthy outbred populations, we have characterized MOG-reactive T cell clones
+obtained by limiting dilution from peripheral blood of unimmunized C. jacchus
+marmosets. We report an extraordinarily high prevalence of circulating
+MOG-reactive T cells in these naive animals (2.6 +/- 1.4 / 10(5) PBMC), and a
+broadly diverse repertoire of epitope recognition encompassing at least three
+regions within the extracellular domain of MOG. Adoptive transfer of a
+MOG21-40-specific T cell clone resulted in mild clinical experimental allergic
+encephalomyelitis, characterized pathologically by rare foci of inflammation and 
+minimal demyelination. We conclude that MOG-reactive T cells are present in
+healthy primates at a highly prevalent frequency, and are potentially capable of 
+triggering central nervous system autoimmunity. Expansion of these autoreactive T
+cells must be tightly controlled to maintain immune homeostasis in healthy
+individuals.
+
+DOI: 10.1002/1521-4141(2001010)31:10<2942::aid-immu2942>3.0.co;2-m 
+PMID: 11592070  [Indexed for MEDLINE]
+

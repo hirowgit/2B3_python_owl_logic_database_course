@@ -1,0 +1,28 @@
+
+
+1919. Neurosci Res. 2011 May;70(1):128-32. doi: 10.1016/j.neures.2011.01.016. Epub 2011
+Feb 1.
+
+Internet-based atlas of the primate spinal cord.
+
+Tokuno H(1), Tanaka I, Senoo A, Umitsu Y, Akazawa T, Nakamura Y, Watson C.
+
+Author information: 
+(1)Department of Brain Structure, Tokyo Metropolitan Institute for Neuroscience, 
+Fuchu, Tokyo 183-8526, Japan. tokuno-hr@igakuken.or.jp
+
+In 2009, we reported an online brain atlas of the common marmoset (Callithrix
+jacchus) at http://marmoset-brain.org:2008. Here we report new digital images of 
+the primate spinal cord sections added to the website. We prepared histological
+sections of every segment of the spinal cord of the common marmoset, rhesus
+monkey and Japanese monkey with various staining techniques. The sections were
+scanned with Carl Zeiss MIRAX SCAN at light microscopic resolution. Obtained
+digital data were processed and converted into multi-resolutionary images with
+Adobe Photoshop and Zoomify Design. These images of the primate spinal cords are 
+now available on the web via the Internet.
+
+Copyright © 2011. Published by Elsevier Ireland Ltd.
+
+DOI: 10.1016/j.neures.2011.01.016 
+PMID: 21291922  [Indexed for MEDLINE]
+

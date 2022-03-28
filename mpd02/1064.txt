@@ -1,0 +1,43 @@
+
+
+1064. Neurosci Res. 2016 Sep;110:1-10. doi: 10.1016/j.neures.2016.04.002. Epub 2016 Apr
+19.
+
+Overlapping expression of anion exchangers in the cochlea of a non-human primate 
+suggests functional compensation.
+
+Hosoya M(1), Fujioka M(2), Kobayashi R(3), Okano H(3), Ogawa K(1).
+
+Author information: 
+(1)Keio University School of Medicine, Department of Otorhinolaryngology, Head
+and Neck Surgery, 35 Shinanomachi, Shinjuku-ku 160-8582, Japan.
+(2)Keio University School of Medicine, Department of Otorhinolaryngology, Head
+and Neck Surgery, 35 Shinanomachi, Shinjuku-ku 160-8582, Japan. Electronic
+address: masato@2002.jukuin.keio.ac.jp.
+(3)Keio University School of Medicine, Department of Physiology, 35 Shinanomachi,
+Shinjuku-ku, Tokyo 160-8582, Japan.
+
+Ion homeostasis in the inner ear is essential for proper hearing. Anion
+exchangers are one of the transporters responsible for the maintenance of
+homeostasis, but their expression profile in the primate cochlea has not been
+fully characterized. However, species-specific overlapping expression patterns
+and functional compensation in other organs, such as the kidney, pancreas and
+small intestine, have been reported. Here, we determined the expression patterns 
+of the anion exchangers SLC26A4, SLC26A5, SLC26A6, SLC26A7, SLC26A11, SLC4A2 and 
+SLC4A3 in the cochlea of a non-human primate, the common marmoset (Callithrix
+jacchus). Although the pattern of expression of SLC26A4 and SLC26A5 was similar
+to that in rodents, SLC26A7, SLC4A2, SLC4A3 exhibited different distributions.
+Notably, five transporters, SLC26A4, SLC26A6, SLC26A11 SLC4A2 and SLC4A3, were
+expressed in the cells of the outer sulcus. Our results reveal a species-specific
+distribution pattern of anion exchangers in the cochlea, particularly in the
+outer sulcus cells, suggesting functional compensation among these exchangers.
+This "primate-specific" pattern may be related to the human-specific hearing loss
+phenotypes of channelopathy disorders, including the SLC26A4-related diseases
+Pendred syndrome/DFNB4.
+
+Copyright © 2016 Elsevier Ireland Ltd and Japan Neuroscience Society. All rights 
+reserved.
+
+DOI: 10.1016/j.neures.2016.04.002 
+PMID: 27091614  [Indexed for MEDLINE]
+

@@ -1,0 +1,45 @@
+
+
+309. Reproduction. 2020 Aug;160(2):259-268. doi: 10.1530/REP-20-0100.
+
+A translational cellular model for the study of peritubular cells of the testis.
+
+Schmid N(1), Missel A(1), Petkov S(2)(3), Stöckl JB(4), Flenkenthaler F(4),
+Arnold GJ(4), Fröhlich T(4), Behr R(2)(3), Mayerhofer A(1).
+
+Author information: 
+(1)LMU München, Biomedical Center (BMC), Anatomy III - Cell Biology, Martinsried,
+Germany.
+(2)Platform Degenerative Diseases, German Primate Center, Göttingen, Germany.
+(3)DZHK (German Center for Cardiovascular Research), Partner Site Göttingen,
+Göttingen, Germany.
+(4)Laboratory for Functional Genome Analysis LAFUGA, Gene Center, LMU München,
+München, Germany.
+
+Testicular peritubular cells (TPCs) are smooth muscle-like cells, which form a
+compartment surrounding the seminiferous tubules. Previous studies employing
+isolated human testicular peritubular cells (HTPCs) indicated that their roles in
+the testis go beyond sperm transport and include paracrine and immunological
+contributions. Peritubular cells from a non-human primate (MKTPCs), the common
+marmoset monkey, Callithrix jacchus, share a high degree of homology with HTPCs. 
+However, like their human counterparts these cells age in vitro and replicative
+senescence limits in-depth functional or mechanistic studies. Therefore, a stable
+cellular model was established. MKTPCs of a young adult animal were immortalized 
+by piggyBac transposition of human telomerase (hTERT), that is, without the
+expression of viral oncogenes. Immortalized MKTPCs (iMKTPCs) grew without
+discernable changes for more than 50 passages. An initial characterization
+revealed typical genes expressed by peritubular cells (androgen receptor (AR),
+smooth-muscle actin (ACTA2), calponin (CNN1)). A proteome analysis of the primary
+MKTPCs and the derived immortalized cell line confirmed that the cells almost
+completely retained their phenotype. To test whether they respond in a similar
+way as HTPCs, iMKTPCs were challenged with forskolin (FSK) and ATP. As HTPCs,
+they showed increased expression level of the StAR protein (StAR) after FSK
+stimulation, indicating steroidogenic capacity. ATP increased the expression of
+pro-inflammatory factors (e.g. IL1B; CCL7), as it is the case in HTPCs. Finally, 
+we confirmed that iMKTPCs can efficiently be transfected. Therefore, they
+represent a highly relevant translational model, which allows mechanistic studies
+for further exploration of the roles of testicular peritubular cells.
+
+DOI: 10.1530/REP-20-0100 
+PMID: 32449695  [Indexed for MEDLINE]
+

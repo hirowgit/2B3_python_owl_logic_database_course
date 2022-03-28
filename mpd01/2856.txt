@@ -1,0 +1,77 @@
+
+
+2856. J Virol. 2004 Feb;78(4):2062-71.
+
+Development of a GB virus B marmoset model and its validation with a novel series
+of hepatitis C virus NS3 protease inhibitors.
+
+Bright H(1), Carroll AR, Watts PA, Fenton RJ.
+
+Author information: 
+(1)Department of Virology, GlaxoSmithKline Medicines Research Centre, Stevenage, 
+Hertfordshire SG1 2NY, United Kingdom. Helen.X.Bright@gsk.com
+
+GB virus B (GBV-B), a flavivirus closely related to HCV, has previously been
+shown to infect and replicate to high titers in tamarins (Saguinus sp.). This
+study describes the use of GBV-B infection and replication in the common marmoset
+(Callithrix jacchus) for the successful development and validation of a surrogate
+animal model for hepatitis C virus (HCV). Infection of marmosets with GBV-B
+produced a viremia that peaked at 10(8) to 10(9) genome copies/ml for a period of
+40 to 60 days followed by viral clearance at 60 to 80 days postinfection. Passage
+of the initial tamarin-derived GBV-B in marmosets produced an infectious stock
+that gave a more reproducible and consistent infection in the marmoset. Titration
+of the virus stocks in vivo indicated that they contained 1 infectious unit for
+every 1,000 genome copies. Cultures of primary marmoset hepatocytes were also
+successfully infected with GBV-B, with high levels of virus detected in
+supernatants and cells for up to 14 days postinfection. Treatment of
+GBV-B-infected hepatocyte cultures with a novel class of HCV protease inhibitor
+(pyrrolidine 5,5 trans-lactams) reduced viral levels by more than 2 logs.
+Treatment of GBV-B-infected marmosets with one such inhibitor resulted in a 3-log
+drop in serum viral titer over 4 days of therapy. These studies provide the first
+demonstration of the in vivo efficacy of a small-molecule inhibitor for HCV in an
+animal model and illustrate the utility of GBV-B as a surrogate animal model
+system for HCV.
+
+DOI: 10.1128/jvi.78.4.2062-2071.2004 
+PMCID: PMC369465
+PMID: 14747571  [Indexed for MEDLINE]
+
+
+2857. J Appl Toxicol. 2004 Jan-Feb;24(1):59-68.
+
+Low-level exposure of guinea pigs and marmosets to sarin vapour in air:
+lowest-observable-adverse-effect level (LOAEL) for miosis.
+
+van Helden HP(1), Trap HC, Kuijpers WC, Oostdijk JP, Benschop HP, Langenberg JP.
+
+Author information: 
+(1)Department of Medical Countermeasures, TNO Prins Maurits Laboratory, PO Box
+45, 2280 AA Rijswijk, The Netherlands. helden@pml.tno.nl
+
+The purpose of this pilot study was to indicate, for low-level exposure of
+conscious guinea pigs and marmoset monkeys to sarin vapour in air, the
+lowest-observable-adverse-effect level (LOAEL) of sarin for miosis. This is the
+concentration x time (C.t) value (t = 5 h) of exposure at which miosis becomes
+significant. The ratio of pupil and iris diameters, measured on digital
+photographs taken on-line during exposure, was calculated as a measure for
+miosis. The exposure concentrations were in the range 7-150 microg x m(-3) and
+the exposure times needed to achieve significant miosis were in the range 10-300 
+min. Both vehicle- and pyridostigmine-pretreated animals were used in the
+experiments. The latter pretreatment resulted in ca. 30% inhibition of
+erythrocyte acetylcholinesterase in both species. In vehicle-pretreated guinea
+pigs and marmosets the pupil size was decreased significantly (P < 0.05) at sarin
+doses of 1.8 +/- 0.3 and 2.5 +/- 0.8 mg x min x m(-3), respectively. In
+pyridostigmine-pretreated guinea pigs and marmosets the pupil size was affected
+significantly (P < 0.05) at 1.8 +/- 0.5 and 3.0 +/- 0.8 mg x min x m(-3),
+respectively. Evidently there is no significant influence of pyridostigmine
+pretreatment on the LOAEL. These data were addressed in light of the recommended 
+occupational and detection limits for sarin vapour in air. It was concluded that 
+miosis will occur during low-level sarin exposure at levels that are not
+detectable by the currently fielded alarm systems, assuming that humans are as
+sensitive for sarin vapour in air as guinea pigs and marmosets.
+
+Copyright 2004 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/jat.948 
+PMID: 14745848  [Indexed for MEDLINE]
+

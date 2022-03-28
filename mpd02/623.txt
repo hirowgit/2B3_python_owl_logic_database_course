@@ -1,0 +1,38 @@
+
+
+623. Sci Rep. 2018 Oct 18;8(1):15438. doi: 10.1038/s41598-018-33758-4.
+
+Tracking EBV-encoded RNAs (EBERs) from the nucleus to the excreted exosomes of
+B-lymphocytes.
+
+Ahmed W(1), Tariq S(2), Khan G(3).
+
+Author information: 
+(1)Department of Microbiology and Immunology, College of Medicine and Health
+Sciences, United Arab Emirates University, Al Ain, United Arab Emirates.
+(2)Department of Anatomy, College of Medicine and Health Sciences, United Arab
+Emirates University, Al Ain, United Arab Emirates.
+(3)Department of Microbiology and Immunology, College of Medicine and Health
+Sciences, United Arab Emirates University, Al Ain, United Arab Emirates.
+g_khan@uaeu.ac.ae.
+
+Epstein-Barr virus-encoded RNAs (EBER1 and EBER2) are two highly abundant,
+non-protein coding RNAs consistently expressed in all EBV infected cells, but
+their function remains poorly understood. Conventional in situ hybridization
+studies have indicated that these RNAs are present exclusively in the nucleus. We
+have recently demonstrated that EBERs can be excreted from infected cells via
+exosomes. However, the details of the steps involved in their excretion remain
+unknown. In this study, we aimed to directly track the journey of EBERs from the 
+nucleus to the excretory exosomes of EBV immortalized B-lymphocytes. Using a
+combination of molecular and novel immuno-gold labelled electron microscopy (EM) 
+based techniques, we demonstrate the presence of EBERs, not only in the nucleus, 
+but also in the cytoplasm of EBV infected B cell lines. EBERs were also seen in
+exosomes shed from infected cells along with the EBER binding protein La. Our
+results show, for the first time, that at least a proportion of EBERs are
+transported from the nucleus to the cytoplasm where they appear to be loaded into
+multi-vesicular bodies for eventual excretion via exosomes.
+
+DOI: 10.1038/s41598-018-33758-4 
+PMCID: PMC6193935
+PMID: 30337610  [Indexed for MEDLINE]
+

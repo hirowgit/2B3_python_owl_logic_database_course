@@ -1,0 +1,79 @@
+
+
+1353. PLoS One. 2014 Sep 26;9(9):e107911. doi: 10.1371/journal.pone.0107911.
+eCollection 2014.
+
+Encapsulating non-human primate multipotent stromal cells in alginate via high
+voltage for cell-based therapies and cryopreservation.
+
+Gryshkov O(1), Pogozhykh D(1), Hofmann N(1), Pogozhykh O(2), Mueller T(2),
+Glasmacher B(1).
+
+Author information: 
+(1)Institute for Multiphase Processes, Leibniz Universitaet Hannover, Hannover,
+Germany.
+(2)Institute for Transfusion Medicine, Hannover Medical School, Hannover,
+Germany.
+
+Alginate cell-based therapy requires further development focused on clinical
+application. To assess engraftment, risk of mutations and therapeutic benefit
+studies should be performed in an appropriate non-human primate model, such as
+the common marmoset (Callithrix jacchus). In this work we encapsulated amnion
+derived multipotent stromal cells (MSCs) from Callithrix jacchus in defined size 
+alginate beads using a high voltage technique. Our results indicate that i)
+alginate-cell mixing procedure and cell concentration do not affect the diameter 
+of alginate beads, ii) encapsulation of high cell numbers (up to 10×106 cells/ml)
+can be performed in alginate beads utilizing high voltage and iii) high voltage
+(15-30 kV) does not alter the viability, proliferation and differentiation
+capacity of MSCs post-encapsulation compared with alginate encapsulated cells
+produced by the traditional air-flow method. The consistent results were obtained
+over the period of 7 days of encapsulated MSCs culture and after cryopreservation
+utilizing a slow cooling procedure (1 K/min). The results of this work show that 
+high voltage encapsulation can further be maximized to develop cell-based
+therapies with alginate beads in a non-human primate model towards human
+application.
+
+DOI: 10.1371/journal.pone.0107911 
+PMCID: PMC4178041
+PMID: 25259731  [Indexed for MEDLINE]
+
+
+1354. Brain Behav Evol. 2014;84(2):93-102. doi: 10.1159/000365346. Epub 2014 Sep 20.
+
+Convergent evolution of vocal cooperation without convergent evolution of brain
+size.
+
+Borjon JI(1), Ghazanfar AA.
+
+Author information: 
+(1)Princeton Neuroscience Institute, Princeton University, Princeton, N.J., USA.
+
+One pragmatic underlying successful vocal communication is the ability to take
+turns. Taking turns - a form of cooperation - facilitates the transmission of
+signals by reducing the amount of their overlap. This allows vocalizations to be 
+better heard. Until recently, non-human primates were not thought of as
+particularly cooperative, especially in the vocal domain. We recently
+demonstrated that common marmosets (Callithrix jacchus), a small New World
+primate species, take turns when they exchange vocalizations with both related
+and unrelated conspecifics. As the common marmoset is distantly related to humans
+(and there is no documented evidence that Old World primates exhibit vocal turn
+taking), we argue that this ability arose as an instance of convergent evolution,
+and is part of a suite of prosocial behavioral tendencies. Such behaviors seem to
+be, at least in part, the outcome of the cooperative breeding strategy adopted by
+both humans and marmosets. Importantly, this suite of shared behaviors occurs
+without correspondence in encephalization. Marmoset vocal turn taking
+demonstrates that a large brain size and complex cognitive machinery is not
+needed for vocal cooperation to occur. Consistent with this idea, the temporal
+structure of marmoset vocal exchanges can be described in terms of coupled
+oscillator dynamics, similar to quantitative descriptions of human conversations.
+We propose a simple neural circuit mechanism that may account for these dynamics 
+and, at its core, involves vocalization-induced reductions of arousal. Such a
+mechanism may underlie the evolution of vocal turn taking in both marmoset
+monkeys and humans.
+
+© 2014 S. Karger AG, Basel.
+
+DOI: 10.1159/000365346 
+PMCID: PMC7592170
+PMID: 25247613  [Indexed for MEDLINE]
+

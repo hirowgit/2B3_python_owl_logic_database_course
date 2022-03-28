@@ -1,0 +1,110 @@
+
+
+1376. Ann Neurol. 2014 Oct;76(4):594-608. doi: 10.1002/ana.24242. Epub 2014 Aug 21.
+
+The formation of inflammatory demyelinated lesions in cerebral white matter.
+
+Maggi P(1), Macri SM, Gaitán MI, Leibovitch E, Wholer JE, Knight HL, Ellis M, Wu 
+T, Silva AC, Massacesi L, Jacobson S, Westmoreland S, Reich DS.
+
+Author information: 
+(1)National Institute for Neurological Disorders and Stroke, National Institutes 
+of Health, Bethesda, MD, USA; Department of Neurosciences, Drug Research, and
+Child's Health, University of Florence, Florence, Italy.
+
+OBJECTIVE: Vascular permeability and inflammatory demyelination are intimately
+linked in the brain, but what is their temporal relationship? We aimed to
+determine the radiological correlates of the earliest tissue changes accompanying
+demyelination in a primate model of multiple sclerosis (MS), experimental
+autoimmune encephalomyelitis (EAE) in the common marmoset.
+METHODS: By 7T magnetic resonance imaging (MRI), T1 maps, proton density, and
+T2-weighted images were acquired before and after EAE induction in 5 marmosets
+(every other week before lesions appeared, weekly thereafter). From scans before 
+and after intravenous injection of contrast material, we measured the evolution
+of lesional blood-brain barrier (BBB) permeability, comparing in vivo MRI to
+postmortem tissue examination.
+RESULTS: On average, BBB permeability increased 3.5-fold (p < 0.0001) over the 4 
+weeks prior to lesion appearance. Permeability gradually decreased after lesion
+appearance, with attendant changes in the distribution of inflammatory cells
+(predominantly macrophages and microglia) and demyelination. On tissue analysis, 
+we also identified small perivascular foci of microglia and T cells without
+blood-derived macrophages or demyelination. These foci had no visible MRI
+correlates, although permeability within the foci, but not outside, increased in 
+the weeks before the animals died (p < 0.0001).
+INTERPRETATION: This study provides compelling evidence that in marmoset EAE,
+which forms lesions strongly resembling those of MS, early changes in vascular
+permeability are associated with perivascular inflammatory cuffing and
+parenchymal microglial activation but precede the arrival of blood-derived
+monocytes that accompany demyelination. Prospective detection of transient
+permeability changes could afford an opportunity for early intervention to
+forestall tissue damage in newly forming lesions.
+
+© 2014 American Neurological Association.
+
+DOI: 10.1002/ana.24242 
+PMCID: PMC4723108
+PMID: 25088017  [Indexed for MEDLINE]
+
+
+1377. PLoS One. 2014 Jul 31;9(7):e103714. doi: 10.1371/journal.pone.0103714.
+eCollection 2014.
+
+5meCpG epigenetic marks neighboring a primate-conserved core promoter short
+tandem repeat indicate X-chromosome inactivation.
+
+Machado FB(1), Machado FB(2), Faria MA(2), Lovatel VL(2), Alves da Silva AF(3),
+Radic CP(4), De Brasi CD(4), Rios ÁF(2), de Sousa Lopes SM(5), da Silveira LS(6),
+Ruiz-Miranda CR(7), Ramos ES(1), Medina-Acosta E(3).
+
+Author information: 
+(1)Department of Genetics, School of Medicine, University of São Paulo, Ribeirão 
+Preto, São Paulo, Brazil.
+(2)Laboratory of Biotechnology, Universidade Estadual do Norte Fluminense Darcy
+Ribeiro, Campos do Goytacazes, Rio de Janeiro, Brazil.
+(3)Laboratory of Biotechnology, Universidade Estadual do Norte Fluminense Darcy
+Ribeiro, Campos do Goytacazes, Rio de Janeiro, Brazil; Molecular Identification
+and Diagnostics Unit, Hospital Escola Álvaro Alvim, Campos dos Goytacazes, Rio de
+Janeiro, Brazil.
+(4)Laboratory of Molecular Genetics of Hemophilia, Institute of Experimental
+Medicine, National Academy of Medicine, Buenos Aires, Argentina.
+(5)Department of Anatomy and Embryology, Leiden University Medical Center,
+Leiden, South Holland, the Netherlands.
+(6)Laboratory of Animal Morphology and Pathology, Center for Studies and Research
+in Wildlife, Universidade Estadual do Norte Fluminense Darcy Ribeiro, Campos do
+Goytacazes, Rio de Janeiro, Brazil.
+(7)Laboratory of Environmental Sciences, Sector of Studies of Ethology,
+Reintroduction and Conservation of Wild Animals, Universidade Estadual do Norte
+Fluminense Darcy Ribeiro, Campos do Goytacazes, Rio de Janeiro, Brazil.
+
+X-chromosome inactivation (XCI) is the epigenetic transcriptional silencing of an
+X-chromosome during the early stages of embryonic development in female eutherian
+mammals. XCI assures monoallelic expression in each cell and compensation for
+dosage-sensitive X-linked genes between females (XX) and males (XY). DNA
+methylation at the carbon-5 position of the cytosine pyrimidine ring in the
+context of a CpG dinucleotide sequence (5meCpG) in promoter regions is a key
+epigenetic marker for transcriptional gene silencing. Using computational
+analysis, we revealed an extragenic tandem GAAA repeat 230-bp from the landmark
+CpG island of the human X-linked retinitis pigmentosa 2 RP2 promoter whose 5meCpG
+status correlates with XCI. We used this RP2 onshore tandem GAAA repeat to
+develop an allele-specific 5meCpG-based PCR assay that is highly concordant with 
+the human androgen receptor (AR) exonic tandem CAG repeat-based standard HUMARA
+assay in discriminating active (Xa) from inactive (Xi) X-chromosomes. The RP2
+onshore tandem GAAA repeat contains neutral features that are lacking in the AR
+disease-linked tandem CAG repeat, is highly polymorphic (heterozygosity rates
+approximately 0.8) and shows minimal variation in the Xa/Xi ratio. The combined
+informativeness of RP2/AR is approximately 0.97, and this assay excels at
+determining the 5meCpG status of alleles at the Xp (RP2) and Xq (AR) chromosome
+arms in a single reaction. These findings are relevant and directly translatable 
+to nonhuman primate models of XCI in which the AR CAG-repeat is monomorphic. We
+conducted the RP2 onshore tandem GAAA repeat assay in the naturally occurring
+chimeric New World monkey marmoset (Callitrichidae) and found it to be
+informative. The RP2 onshore tandem GAAA repeat will facilitate studies on the
+variable phenotypic expression of dominant and recessive X-linked diseases,
+epigenetic changes in twins, the physiology of aging hematopoiesis, the
+pathogenesis of age-related hematopoietic malignancies and the clonality of
+cancers in human and nonhuman primates.
+
+DOI: 10.1371/journal.pone.0103714 
+PMCID: PMC4117532
+PMID: 25078280  [Indexed for MEDLINE]
+

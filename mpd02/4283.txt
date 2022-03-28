@@ -1,0 +1,30 @@
+
+
+4283. J Chromatogr. 1991 Dec 6;572(1-2):277-89.
+
+Use of dabsylation, column switching and chiral separation for the determination 
+of a renin inhibitor in rat, marmoset and human plasma.
+
+Ba B(1), Eckert G, Leube J.
+
+Author information: 
+(1)Pharma Division, F. Hoffmann-La Roche Ltd., Basel, Switzerland.
+
+A high-performance liquid chromatographic method with column switching was
+developed for the determination of the renin inhibitor Ro 42-5892/001,
+(S)-alpha-[(S)-alpha-[(tert.-butylsulphonyl)methyl]hydrocinnama mido]-N-
+[(1S,2R,3S)-1-(cyclohexylmethyl)-3-cylcopropyl-2,
+3-dihydroxypropyl]imidazole-4-propionamide methanesulphonate (1:1), in rat,
+marmoset and human plasma, using a Nucleosil C8 120 (3 microns) stationary phase.
+Since the analyte and the internal standard are optical isomers,
+beta-cyclodextrin was used as a mobile phase constituent for their chiral
+separation. The method took advantage of the characteristics of dabsyl chloride
+derivatives, namely sensitivity, specificity and, particularly, stability,
+providing a quantification limit of 5 ng/ml. The accuracy (range of inaccuracy
+1-13%) and the inter-assay precision (coefficient of variation range 1.8-9.1%)
+were acceptable. The method was successfully applied to toxicokinetic studies in 
+rats and marmosets.
+
+DOI: 10.1016/0378-4347(91)80492-u 
+PMID: 1818062  [Indexed for MEDLINE]
+

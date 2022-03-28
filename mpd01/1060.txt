@@ -1,0 +1,85 @@
+
+
+1060. J Comp Neurol. 2016 Aug 1;524(11):2161-81. doi: 10.1002/cne.24023.
+
+Towards a comprehensive atlas of cortical connections in a primate brain: Mapping
+tracer injection studies of the common marmoset into a reference digital
+template.
+
+Majka P(1)(2)(3)(4), Chaplin TA(1)(2)(4)(5), Yu HH(1)(2)(4)(5), Tolpygo A(6),
+Mitra PP(4)(6), Wójcik DK(3), Rosa MG(1)(2)(4)(5).
+
+Author information: 
+(1)Neuroscience Program, Biomedicine Discovery Institute, Monash University,
+Clayton, VIC, Australia.
+(2)Department of Physiology, Monash University, Clayton, VIC, Australia.
+(3)Nencki Institute of Experimental Biology, Warsaw, Poland.
+(4)Australian Research Council Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, VIC, Australia.
+(5)Monash Vision Group, Monash University, Clayton, VIC, Australia.
+(6)Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, USA.
+
+The marmoset is an emerging animal model for large-scale attempts to understand
+primate brain connectivity, but achieving this aim requires the development and
+validation of procedures for normalization and integration of results from many
+neuroanatomical experiments. Here we describe a computational pipeline for
+coregistration of retrograde tracing data on connections of cortical areas into a
+3D marmoset brain template, generated from Nissl-stained sections. The procedure 
+results in a series of spatial transformations that are applied to the
+coordinates of labeled neurons in the different cases, bringing them into common 
+stereotaxic space. We applied this procedure to 17 injections, placed in the
+frontal lobe of nine marmosets as part of earlier studies. Visualizations of
+cortical patterns of connections revealed by these injections are supplied as
+Supplementary Materials. Comparison between the results of the automated and
+human-based processing of these cases reveals that the centers of injection sites
+can be reconstructed, on average, to within 0.6 mm of coordinates estimated by an
+experienced neuroanatomist. Moreover, cell counts obtained in different areas by 
+the automated approach are highly correlated (r = 0.83) with those obtained by an
+expert, who examined in detail histological sections for each individual. The
+present procedure enables comparison and visualization of large datasets, which
+in turn opens the way for integration and analysis of results from many animals. 
+Its versatility, including applicability to archival materials, may reduce the
+number of additional experiments required to produce the first detailed cortical 
+connectome of a primate brain. J. Comp. Neurol. 524:2161-2181, 2016. © 2016 The
+Authors The Journal of Comparative Neurology Published by Wiley Periodicals, Inc.
+
+© 2016 The Authors The Journal of Comparative Neurology Published by Wiley
+Periodicals, Inc.
+
+DOI: 10.1002/cne.24023 
+PMCID: PMC4892968
+PMID: 27099164  [Indexed for MEDLINE]
+
+
+1061. J Comp Neurol. 2017 Apr 15;525(6):1442-1458. doi: 10.1002/cne.24021. Epub 2016
+May 6.
+
+In situ hybridization analyses of claustrum-enriched genes in marmosets.
+
+Watakabe A.
+
+The claustrum/endopiriform nucleus is a unique structure that sits between the
+striatum and the cerebral cortex. Recent genome-wide mapping of gene expression
+in mice identified various genes concentrated in this structure, suggesting a
+requirement for a special set of genes for its function. In situ hybridization
+histochemistry was performed for such "claustrum-enriched" genes in the marmoset 
+brain. In marmosets, nurr1 and netrinG2 genes exhibited highly concentrated
+expression in the claustrum and endopiriform nucleus, as well as in a
+subpopulation of layer 6 neurons across the entire cortex, consistent with their 
+expression patterns as described in macaques. Cux2 showed enriched expression in 
+the upper layers (layers 2-4) and the claustrum/endopiriform nucleus. GNG2 was
+expressed strongly in the claustrum/endopiriform nucleus, but was abundant across
+cortical areas in a ventral high-dorsal low gradient. Latexin was detected in the
+claustrum and dorsal endopiriform nucleus, but not in cortical regions. GNB4 and 
+Tmem163 genes were both concentrated in the claustrum/endopiriform nucleus, as
+reported in mice, but their cortical expression in the marmoset differed from the
+mouse pattern. Thus, the gene set required for the claustrum appears to be
+broadly conserved across species, despite various differences that suggest
+species-specific differentiation of brain architecture. J. Comp. Neurol.
+525:1442-1458, 2017. © 2016 Wiley Periodicals, Inc.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/cne.24021 
+PMID: 27098836  [Indexed for MEDLINE]
+

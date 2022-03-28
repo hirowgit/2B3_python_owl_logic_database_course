@@ -1,0 +1,79 @@
+
+
+2470. Int Immunopharmacol. 2006 Dec 5;6(12):1755-64. Epub 2006 Sep 1.
+
+Development of methods to measure humoral immune responses against selected
+antigens in the common marmoset (Callithrix jacchus) and the effect of
+pyridostigmine bromide administration.
+
+Griffiths GD(1), Hornby RJ, Jagger CP, Brown AP, Stoten A, Pearce PC, Scott L,
+Pritchard DI.
+
+Author information: 
+(1)Biomedical Sciences, Defence Science and Technology Laboratory, Porton Down,
+Salisbury, UK. gdgriffiths@dstl.gov.uk
+
+This methodological study was carried out in preparation for a major long term
+study, also reported in this volume, which was designed to investigate whether
+the combination of vaccines and pyridostigmine bromide (PB) could have been
+responsible for adverse signs and symptoms reported by a number of veterans of
+the 1990/1991 Gulf conflict. In this context, the marmoset has been used to model
+aspects of the human immune system. The purposes of this methodological study
+were to select appropriate immunochemical reagents to measure humoral responses
+induced in marmosets in response to selected health and hygiene and biological
+warfare vaccines and to initially assess the effects of PB on the responses
+recorded. Vaccines were administered at 1/5th of a human dose, and also
+investigated in combination with the nerve agent pretreatment compound PB. PB
+dosing was selected to induce an inhibition of erythrocyte acetylcholinesterase
+by 30%. In order to assess the functionality of the immune system, antibody
+responses to a neo-antigen (keyhole limpet haemocyanin--KLH), administered some 2
+months following the completion of the vaccination schedule, were measured. The
+present study identified appropriate isotyping reporter reagents which
+cross-reacted with equivalent marmoset immunoglobulins. Robust antibody responses
+were identified against anthrax protective antigen (PA), whole cell pertussis
+vaccine and KLH, while weaker responses were measured against cholera and typhoid
+vaccines. The killed whole cell plague vaccine induced a response which was at
+the limit of detection of the assay. Coadministered PB had no discernable effect 
+on immunological responses in this study.
+
+DOI: 10.1016/j.intimp.2006.08.005 
+PMID: 17052666  [Indexed for MEDLINE]
+
+
+2471. J Neurophysiol. 2007 Feb;97(2):1005-17. Epub 2006 Oct 18.
+
+Neural representations of temporally modulated signals in the auditory thalamus
+of awake primates.
+
+Bartlett EL(1), Wang X.
+
+Author information: 
+(1)Dept. of Biomedical Engineering, Traylor 412, Johns Hopkins University, 720
+Rutland Avenue, Baltimore, MD 21205, USA. ebartle@purdue.edu
+
+In sensory systems, the thalamus has historically been considered a relay
+station. Neural representations of temporal modulations in the auditory system
+undergo considerable changes as they pass from the inferior colliculus (IC) to
+the auditory cortex. We sought to determine in awake primates the extent to which
+auditory thalamic neurons contribute to these transformations. We tested the
+temporal processing capabilities of medial geniculate body (MGB) neurons in awake
+marmoset monkeys using repetitive click stimuli. MGB neurons were able to
+synchronize to periodic clicks at repetition rates significantly higher than
+auditory cortex neurons. Unlike responses in the MGB of anesthetized animals,
+>40% of MGB neurons in awake marmosets displayed nonsynchronized discharges when 
+stimulated by high click rates (short interclick intervals). Such nonsynchronized
+MGB responses typically occurred at higher repetition rates than those observed
+in auditory cortex. In contrast to auditory cortex neurons, many MGB neurons
+exhibited both synchronized and nonsynchronized discharge patterns. In both MGB
+and auditory cortex, synchronized and nonsynchronized responses represented
+complementary ranges of interclick intervals (1/click rate). Furthermore, the
+temporal processing abilities of some MGB neurons were sensitive to the
+spectrotemporal parameters of the click stimuli used. Together, these findings
+suggest that MGB neurons participate in active transformations of the neural
+representations of temporal modulations from IC to auditory cortex. In
+particular, the MGB appears to be the first station in the auditory ascending
+pathway in which substantial nonsynchronized responses emerge.
+
+DOI: 10.1152/jn.00593.2006 
+PMID: 17050830  [Indexed for MEDLINE]
+

@@ -1,0 +1,38 @@
+
+
+3146. J Immunol. 2001 Sep 1;167(5):2942-9.
+
+Prevention of experimental autoimmune encephalomyelitis in the common marmoset
+(Callithrix jacchus) using a chimeric antagonist monoclonal antibody against
+human CD40 is associated with altered B cell responses.
+
+Boon L(1), Brok HP, Bauer J, Ortiz-Buijsse A, Schellekens MM, Ramdien-Murli S,
+Blezer E, van Meurs M, Ceuppens J, de Boer M, 't Hart BA, Laman JD.
+
+Author information: 
+(1)Tanox Pharma B.V., Amsterdam, The Netherlands.
+
+Inhibition of CD40-CD40 ligand interaction is a potentially effective approach
+for treatment of autoimmune diseases, such as multiple sclerosis. We have
+investigated this concept with a chimeric antagonist anti-human CD40 mAb (ch5D12)
+in the marmoset monkey experimental autoimmune encephalomyelitis (EAE) model.
+Marmosets were immunized with recombinant human myelin oligodendrocyte
+glycoprotein (rMOG) and treated from the day before immunization (day -1) until
+day 50 with either ch5D12 (5 mg/kg every 2-4 days) or placebo. On day 41 after
+the induction of EAE, four of four placebo-treated monkeys had developed severe
+clinical EAE, whereas all animals from the ch5D12-treated group were completely
+free of disease symptoms. High serum levels of ch5D12 associated with complete
+coating of CD40 on circulating B cells were found. At necropsy placebo- and
+ch5D12-treated animals showed similar MOG-specific lymphoproliferative responses 
+in vitro, but ch5D12 treatment resulted in strongly reduced anti-MOG IgM Ab
+responses and delayed anti-MOG IgG responses. Most importantly, treatment with
+ch5D12 prevented intramolecular spreading of epitope recognition. Postmortem
+magnetic resonance imaging and immunohistologic analysis of the CNS showed a
+markedly reduced lesion load after ch5D12 treatment. In conclusion, the strong
+reduction of clinical, pathological, and radiological aspects of EAE by ch5D12
+treatment in this preclinical model points to a therapeutic potential of this
+engineered antagonist anti-CD40 mAb for multiple sclerosis.
+
+DOI: 10.4049/jimmunol.167.5.2942 
+PMID: 11509643  [Indexed for MEDLINE]
+

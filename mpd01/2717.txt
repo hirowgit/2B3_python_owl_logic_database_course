@@ -1,0 +1,70 @@
+
+
+2717. Cancer Res. 2005 Feb 15;65(4):1577-86.
+
+Functional characterization of EBV-encoded nuclear antigen 1-specific CD4+ helper
+and regulatory T cells elicited by in vitro peptide stimulation.
+
+Voo KS(1), Peng G, Guo Z, Fu T, Li Y, Frappier L, Wang RF.
+
+Author information: 
+(1)The Center for Cell and Gene Therapy and Department of Immunology, Baylor
+College of Medicine, Houston, Texas, USA.
+
+CD4(+) helper and regulatory T (Treg) cells play important but opposing roles in 
+regulating host immune responses against cancer and other diseases. However, very
+little is known about the antigen specificity of CD4(+) Treg cells. Here we
+describe the generation of a panel of EBV-encoded nuclear antigen 1
+(EBNA1)-specific CD4(+) T-cell lines and clones that recognize naturally
+processed EBNA1-P(607-619) and -P(561-573) peptides in the context of HLA-DQ2 and
+HLA-DR11, -DR12, and -DR13 molecules, respectively. Phenotypic and functional
+analyses of these CD4(+) T cells revealed that they represent EBNA1-specific
+CD4(+) T helper as well as Treg cells. CD4(+) Treg cells do not secrete
+interleukin (IL)-10 and transforming growth factor beta cytokines but express
+CD25, the glucocorticoid-induced tumor necrosis factor receptor-related protein
+(GITR), and Forkhead Box P3 (Foxp3), and are capable of suppressing the
+proliferative responses of naive CD4(+) and CD8(+) T cells to stimulation with
+mitogenic anti-CD3 antibody. The suppressive activity of these CD4(+) Treg cells 
+is mediated via cell-cell contact or in part by a cytokine-dependent manner.
+Importantly, these Treg cells suppress IL-2 secretion by CD4(+) effector T cells 
+specific for either EBNA1 or a melanoma antigen, suggesting that these CD4(+)
+Treg cells induce immune suppression. These observations suggest that the success
+of peptide-based vaccines against EBV-associated cancer and other diseases may
+likely depend upon our ability to identify antigens/peptides that preferentially 
+activate helper T cells and/or to design strategies to regulate the balance
+between CD4(+) helper and Treg cells.
+
+DOI: 10.1158/0008-5472.CAN-04-2552 
+PMID: 15735048  [Indexed for MEDLINE]
+
+
+2718. Am J Trop Med Hyg. 2005 Jan;72(1):13-20.
+
+Experimental leptospirosis in marmoset monkeys (Callithrix jacchus): a new model 
+for studies of severe pulmonary leptospirosis.
+
+Pereira MM(1), Da Silva JJ, Pinto MA, Da Silva MF, Machado MP, Lenzi HL,
+Marchevsky RS.
+
+Author information: 
+(1)Department of Bacteriology, Oswaldo Cruz Institute/FIOCRUZ, Rio de Janeiro,
+Brazil. mpereira@ioc.fiocruz.br
+
+Experimental infection of marmoset monkeys (Callithrix jacchus) with Leptospira
+interrogans serovar Copenhageni showed microscopic patterns of tissue reactions
+comparable to those seen in the severe forms of human leptospirosis, including
+intra-alveolar hemorrhage. The most impressive microscopic changes were seen in
+the lung and kidney of animals killed at days 6 and 12 after inoculation. There
+were extensive and irregular areas of hemorrhage predominating around main
+bronchial branches or diffusely spread to the pulmonary parenchyma, as well as
+severe tubulointerstitial nephritis. Antibody response detected by the
+microscopic agglutination test was quantitatively similar to those seen in humans
+and paralleled severity of tissue lesions. The distribution of leptospires or
+antigenic debris in infected tissues was observed by immunofluorescence and
+confocal laser scanning microscopy. Large numbers of typical leptospires were
+seen in the lumen of proximal renal tubules. Positive reactions showing antigenic
+debris were closely associated with sites of tissue damage.
+
+
+PMID: 15728860  [Indexed for MEDLINE]
+

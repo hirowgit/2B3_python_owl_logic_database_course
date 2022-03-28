@@ -1,0 +1,44 @@
+
+
+2431. Brain. 2007 Mar;130(Pt 3):799-815. Epub 2007 Feb 15.
+
+Long-term consequences of human alpha-synuclein overexpression in the primate
+ventral midbrain.
+
+Eslamboli A(1), Romero-Ramos M, Burger C, Bjorklund T, Muzyczka N, Mandel RJ,
+Baker H, Ridley RM, Kirik D.
+
+Author information: 
+(1)Department of Experimental Psychology, Downing Street, Cambridge, UK.
+
+Overexpression of human alpha-synuclein (alpha-syn) using recombinant
+adeno-associated viral (rAAV) vectors provides a novel tool to study
+neurodegenerative processes seen in Parkinson's disease and other
+synucleinopathies. We used a pseudotyped rAAV2/5 vector to express human
+wild-type (wt) alpha-syn, A53T mutated alpha-syn, or the green fluorescent
+protein (GFP) in the primate ventral midbrain. Twenty-four adult common marmosets
+(Callithrix jacchus) were followed with regular behavioural tests for 1 year
+after transduction. alpha-Syn overexpression affected motor behaviour such that
+all animals remained asymptomatic for at least 9 weeks, then motor bias
+comprising head position bias and full body rotations were seen in wt-alpha-syn
+expressing animals between 15 and 27 weeks; in the later phase, the animals
+overexpressing the A53T alpha -syn, in particular, showed a gradual worsening of 
+motor performance, with increased motor coordination errors. Histological
+analysis from animals overexpressing either the wt or A53T alpha -syn showed
+prominent degeneration of dopaminergic fibres in the striatum. In the ventral
+midbrain, however, the dopaminergic neurodegeneration was more prominent in the
+A53T group than in the WT group suggesting differential toxicity of these two
+proteins in the primate brain. The surviving cell bodies and their processes in
+the substantia nigra were stained by antibodies to the pathological form of
+alpha-syn that is phosphorylated at Ser position 129. Moreover, we found, for the
+first time, ubiquitin containing aggregates after overexpression of alpha-syn in 
+the primate midbrain. There was also a variable loss of oligodendroglial cells in
+the cerebral peduncle. These histological and behavioural data suggest that this 
+model provides unique opportunities to study progressive neurodegeneration in the
+dopaminergic system and deposition of alpha-syn and ubiquitin similar to that
+seen in Parkinson's disease, and to test novel therapeutic targets for
+neuroprotective strategies.
+
+DOI: 10.1093/brain/awl382 
+PMID: 17303591  [Indexed for MEDLINE]
+

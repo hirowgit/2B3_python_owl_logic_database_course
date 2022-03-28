@@ -1,0 +1,102 @@
+
+
+1019. J Med Primatol. 2016 Dec;45(6):290-296. doi: 10.1111/jmp.12227. Epub 2016 Jul 15.
+
+Pharmacokinetics of the MRI contrast agent gadobutrol in common marmoset monkeys 
+(Callithrix jacchus).
+
+Helms G(1)(2), Schlumbohm C(3), Garea-Rodriguez E(3)(4)(5), Dechent P(1), Fuchs
+E(5).
+
+Author information: 
+(1)Department of Cognitive Neurology, Göttingen University Medical Center,
+Göttingen, Germany.
+(2)Department of Medical Radiation Physics, Lund University, Lund, Sweden.
+(3)Encepharm, Göttingen, Germany.
+(4)Department of Neuroanatomy, Albert-Ludwigs-University, Freiburg, Germany.
+(5)Clinical Neurobiology Laboratory, German Primate Center, Göttingen, Germany.
+
+BACKGROUND: This study determined the pharmacokinetics of the contrast agent
+gadobutrol in marmosets by quantitative MRI to derive guidelines for neuroimaging
+protocols.
+METHODS: Local concentrations of gadobutrol were determined from consecutive
+gradient echo-based mapping of the relaxation rate R1 on a clinical 3T MRI
+scanner. Half-time of renal elimination was measured after injection of a triple 
+dose of gadobutrol (0.3 mmol/kg) into the saphenous vein. A first-order
+single-compartment model was fitted to the measured R1 values and verified by
+blood analysis.
+RESULTS: Slow injection (1.5 minutes) resulted in an elimination half-time of
+26±4 minutes. After bolus injection (15 seconds), elimination was much slower
+(62±8 minutes) with 45% larger distribution volumes. Importantly, more gadobutrol
+entered the cerebrospinal fluid.
+CONCLUSIONS: Slow injection and a latency of about 20 minutes are recommended to 
+avoid extravasation. Application of a triple dose of gadobutrol compensates for
+the fast elimination in healthy marmosets.
+
+© 2016 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jmp.12227 
+PMID: 27417149  [Indexed for MEDLINE]
+
+
+1020. J Immunol. 2016 Aug 15;197(4):1074-88. doi: 10.4049/jimmunol.1600124. Epub 2016
+Jul 13.
+
+Lymphocryptovirus Infection of Nonhuman Primate B Cells Converts Destructive into
+Productive Processing of the Pathogenic CD8 T Cell Epitope in Myelin
+Oligodendrocyte Glycoprotein.
+
+Jagessar SA(1), Holtman IR(2), Hofman S(3), Morandi E(4), Heijmans N(3), Laman
+JD(2), Gran B(4), Faber BW(5), van Kasteren SI(6), Eggen BJ(2), 't Hart BA(7).
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Centre, 2288GJ
+Rijswijk, the Netherlands; Department of Immunology, Erasmus University Medical
+Center, 3015CE Rotterdam, the Netherlands; MS Centre ErasMS, 3015CE Rotterdam,
+the Netherlands;
+(2)Department of Neuroscience, University Medical Center, University Groningen,
+9713AV Groningen, the Netherlands;
+(3)Department of Immunobiology, Biomedical Primate Research Centre, 2288GJ
+Rijswijk, the Netherlands;
+(4)Division of Clinical Neuroscience, University of Nottingham School of
+Medicine, NG7 2UH Nottingham, United Kingdom;
+(5)Department of Parasitology, Biomedical Primate Research Centre, 2288GJ
+Rijswijk, the Netherlands; and.
+(6)Leiden Institute of Chemistry and The Institute for Chemical Immunology,
+Leiden University, 2333CC Leiden, the Netherlands.
+(7)Department of Immunobiology, Biomedical Primate Research Centre, 2288GJ
+Rijswijk, the Netherlands; Department of Immunology, Erasmus University Medical
+Center, 3015CE Rotterdam, the Netherlands; Department of Neuroscience, University
+Medical Center, University Groningen, 9713AV Groningen, the Netherlands;
+hart@bprc.nl.
+
+EBV is the major infectious environmental risk factor for multiple sclerosis
+(MS), but the underlying mechanisms remain obscure. Patient studies do not allow 
+manipulation in vivo. We used the experimental autoimmune encephalomyelitis (EAE)
+models in the common marmoset and rhesus monkey to model the association of EBV
+and MS. We report that B cells infected with EBV-related lymphocryptovirus (LCV) 
+are requisite APCs for MHC-E-restricted autoaggressive effector memory CTLs
+specific for the immunodominant epitope 40-48 of myelin oligodendrocyte
+glycoprotein (MOG). These T cells drive the EAE pathogenesis to irreversible
+neurologic deficit. The aim of this study was to determine why LCV infection is
+important for this pathogenic role of B cells. Transcriptome comparison of
+LCV-infected B cells and CD20(+) spleen cells from rhesus monkeys shows increased
+expression of genes encoding elements of the Ag cross-presentation machinery
+(i.e., of proteasome maturation protein and immunoproteasome subunits) and
+enhanced expression of MHC-E and of costimulatory molecules (CD70 and CD80, but
+not CD86). It was also shown that altered expression of endolysosomal proteases
+(cathepsins) mitigates the fast endolysosomal degradation of the MOG40-48 core
+epitope. Finally, LCV infection also induced expression of LC3-II(+) cytosolic
+structures resembling autophagosomes, which seem to form an intracellular
+compartment where the MOG40-48 epitope is protected against proteolytic
+degradation by the endolysosomal serine protease cathepsin G. In conclusion, LCV 
+infection induces a variety of changes in B cells that underlies the conversion
+of destructive processing of the immunodominant MOG40-48 epitope into productive 
+processing and cross-presentation to strongly autoaggressive CTLs.
+
+Copyright © 2016 by The American Association of Immunologists, Inc.
+
+DOI: 10.4049/jimmunol.1600124 
+PMCID: PMC4974490
+PMID: 27412414  [Indexed for MEDLINE]
+

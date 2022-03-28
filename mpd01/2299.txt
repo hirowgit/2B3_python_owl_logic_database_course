@@ -1,0 +1,69 @@
+
+
+2299. J Neurosci. 2008 Mar 26;28(13):3415-26. doi: 10.1523/JNEUROSCI.2743-07.2008.
+
+Level invariant representation of sounds by populations of neurons in primary
+auditory cortex.
+
+Sadagopan S(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Neuroscience, Johns
+Hopkins University School of Medicine, Baltimore, Maryland 21205, USA.
+vatsun@jhu.edu
+
+A fundamental feature of auditory perception is the constancy of sound
+recognition over a large range of intensities. Although this invariance has been 
+described in behavioral studies, the underlying neural mechanism is essentially
+unknown. Here we show a putative level-invariant representation of sounds by
+populations of neurons in primary auditory cortex (A1) that may provide a neural 
+basis for the behavioral observations. Previous studies reported that pure-tone
+frequency tuning of most A1 neurons widens with increasing sound level. In sharp 
+contrast, we found that a large proportion of neurons in A1 of awake marmosets
+were narrowly and separably tuned to both frequency and sound level. Tuning
+characteristics and firing rates of the neural population were preserved across
+all tested sound levels. These response properties lead to a level-invariant
+representation of sounds over the population of A1 neurons. Such a representation
+is an important step for robust feature recognition in natural environments.
+
+DOI: 10.1523/JNEUROSCI.2743-07.2008 
+PMCID: PMC6670591
+PMID: 18367608  [Indexed for MEDLINE]
+
+
+2300. Vet Clin Pathol. 2008 Mar;37(1):73-8. doi: 10.1111/j.1939-165X.2008.00008.x.
+
+Analysis of mouse, rat, dog, marmoset, and human serum proteins by capillary
+electrophoresis: comparison with agarose gel electrophoresis.
+
+Crivellente F(1), Bonato M, Cristofori P.
+
+Author information: 
+(1)Clinical Pathology, Safety Assessment Department, GSK Research Center, Via A. 
+Fleming 4, Verona, Italy. federica.a.crivellente@gsk.com
+
+BACKGROUND: Serum protein analysis in both humans and experimental animal species
+has so far been carried out by labor-intensive techniques, such as agarose gel
+electrophoresis (AGE).
+OBJECTIVE: The objective of this study was to evaluate capillary electrophoresis 
+(CE) as an alternative technique to AGE for the analysis of serum proteins from
+healthy animals.
+METHODS: Blood samples were collected into tubes without anticoagulant from 6
+fasted healthy male mice, rats, dogs, marmosets, and humans. Serum proteins were 
+separated by CE using a technique standardized for the analysis of human
+proteins, and the results (efficiency, resolution, and precision) were compared
+with those obtained through AGE.
+RESULTS: Compared with AGE, CE resulted in narrower peaks and more peaks. The
+efficiency of protein separation by CE was significantly higher for all species, 
+and resolution (R) was significantly higher in samples from dogs. Using rat
+serum, intraday reproducibility was lower for all protein fractions, and interday
+reproducibility was lower for most peaks, compared with AGE.
+CONCLUSIONS: We conclude that CE is a viable alternative to AGE for the
+determination of protein electrophoresis in a routine veterinary clinical
+pathology laboratory. The minimal sample requirement (2 microL), complete
+automation, and quantitative results make CE an especially valuable technique for
+protein analysis in experimental animal models.
+
+DOI: 10.1111/j.1939-165X.2008.00008.x 
+PMID: 18366548  [Indexed for MEDLINE]
+

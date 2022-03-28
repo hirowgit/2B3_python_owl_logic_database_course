@@ -1,0 +1,43 @@
+
+
+960. Neuron. 2016 Nov 2;92(3):582-590. doi: 10.1016/j.neuron.2016.10.018.
+
+Brain/MINDS: A Japanese National Brain Project for Marmoset Neuroscience.
+
+Okano H(1), Sasaki E(2), Yamamori T(3), Iriki A(4), Shimogori T(5), Yamaguchi
+Y(6), Kasai K(7), Miyawaki A(8).
+
+Author information: 
+(1)Laboratory for Marmoset Neural Architecture, RIKEN Brain Science Institute,
+Wako-shi, Saitama, 351-0198, Japan; Department of Physiology, Keio University
+School of Medicine, Shinjuku-ku, Tokyo, 160-8582, Japan. Electronic address:
+hidokano@a2.keio.jp.
+(2)Central Institute for Experimental Animals, Kawasaki, Kanagawa, 210-0821,
+Japan; Advanced Research Center, Keio University, Shinjuku-ku, Tokyo, 160-8582,
+Japan.
+(3)Laboratory for Molecular Analysis of Higher Brain Function, RIKEN Brain
+Science Institute, Wako-shi, Saitama, 351-0198, Japan.
+(4)Laboratory for Symbolic Cognitive Development, RIKEN Brain Science Institute, 
+Wako-shi, Saitama, 351-0198, Japan.
+(5)Laboratory for Molecular Mechanisms of Thalamus Development, RIKEN Brain
+Science Institute, Wako-shi, Saitama, 351-0198, Japan.
+(6)Neuroinformatics Japan Center, RIKEN Brain Science Institute, Wako-shi,
+Saitama, 351-0198, Japan.
+(7)Department of Neuropsychiatry, Graduate School of Medicine, University of
+Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8655, Japan.
+(8)Laboratory for Cell Function Dynamics, RIKEN Brain Science Institute,
+Wako-shi, Saitama, 351-0198, Japan.
+
+Brain/MINDS (Brain Mapping by Integrated Neurotechnologies for Disease Studies)
+is a national brain project started by Japan in 2014. With the goal of developing
+the common marmoset as a model animal for neuroscience, the project aims to build
+a multiscale marmoset brain map, develop new technologies for experimentalists,
+create transgenic lines for brain disease modeling, and integrate translational
+findings from the clinical biomarker landscape. Brain/MINDS will collaborate with
+global brain projects to share technologies and resources.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2016.10.018 
+PMID: 27809998  [Indexed for MEDLINE]
+

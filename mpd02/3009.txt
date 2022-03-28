@@ -1,0 +1,39 @@
+
+
+3009. J Immunol. 2002 Nov 15;169(10):5415-23.
+
+Transfer of central nervous system autoantigens and presentation in secondary
+lymphoid organs.
+
+de Vos AF(1), van Meurs M, Brok HP, Boven LA, Hintzen RQ, van der Valk P, Ravid
+R, Rensing S, Boon L, 't Hart BA, Laman JD.
+
+Author information: 
+(1)Department of Immunology, Erasmus Medical Centre, 3000 DR Rotterdam, The
+Netherlands.
+
+Dendritic cells are thought to regulate tolerance induction vs immunization by
+transferring Ags and peripheral signals to draining lymph nodes (LN). However,
+whether myelin Ag transfer and presentation in LN occurs during demyelinating
+brain disease is unknown. In this study, we demonstrate redistribution of
+autoantigens from brain lesions to cervical LN in monkey experimental autoimmune 
+encephalomyelitis (EAE) and in multiple sclerosis (MS). Immunohistochemical
+analysis revealed significantly more cells containing myelin Ags in cervical LN
+of monkeys with EAE compared with those of healthy control monkeys. Myelin Ags
+were observed in cells expressing dendritic cell/macrophage-specific markers, MHC
+class II, and costimulatory molecules. Moreover, these cells were directly
+juxtaposed to T cells, suggesting that cognate interactions between
+myelin-containing APC and T cells are taking place in brain-draining LN. Indeed, 
+myelin Ag-reactive T cells were observed in cervical LN from marmosets and rhesus
+monkeys. Importantly, these findings were paralleled by our findings in human
+tissue. We observed significantly more myelin Ag-containing cells in LN of
+individuals with MS compared with those of control individuals. These cells
+expressed APC markers, as observed in marmosets and rhesus monkeys. These
+findings suggest that during MS and EAE, modulation of T cell reactivity against 
+brain-derived Ags also takes place in cervical LN and not necessarily inside the 
+brain. A major implication is that novel therapeutic strategies may be targeted
+to peripheral events, thereby circumventing the blood-brain barrier.
+
+DOI: 10.4049/jimmunol.169.10.5415 
+PMID: 12421916  [Indexed for MEDLINE]
+

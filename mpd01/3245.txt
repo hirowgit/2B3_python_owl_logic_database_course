@@ -1,0 +1,70 @@
+
+
+3245. Br J Haematol. 2000 Sep;110(4):985-92.
+
+Chelator-induced iron excretion in iron-overloaded marmosets.
+
+Sergejew T(1), Forgiarini P, Schnebli HP.
+
+Author information: 
+(1)Novartis Pharma AG, Basle, Switzerland. thomas.sergejew@pharma.novartis.com
+
+In order to test new orally active iron chelators in a predictive way, a primate 
+model has been developed. This model makes use of the marmoset monkey (Callithrix
+jacchus) and its overall design is similar to a previously reported monkey model.
+However, this new model enables a higher compound throughput and requires lower
+amounts of test compound because the animals are much easier to handle and have
+much lower body weights. The marmosets were iron-overloaded by three
+intraperitoneal injections of iron (III) hydroxide polyisomaltose. For the
+iron-balance studies, the animals were kept in metabolic cages and were
+maintained on a low-iron diet in order to reduce faecal background. After
+compound administration, the excretion of iron in urine and faeces was followed
+for 2 d. A series of well-known chelators was tested for validation of the model.
+In particular, comparison of the iron-clearing properties of DFO, L1, CP94 and
+HBED in marmosets and humans demonstrated the predictive value of the model and
+justify our expectation that if iron chelators such as CGP65015, ICL670A and
+CGP75254A are active in marmosets, they will be active in humans as well.
+
+DOI: 10.1046/j.1365-2141.2000.02260.x 
+PMID: 11054093  [Indexed for MEDLINE]
+
+
+3246. J Neurosci. 2000 Nov 1;20(21):8209-17.
+
+Dopamine release and uptake dynamics within nonhuman primate striatum in vitro.
+
+Cragg SJ(1), Hille CJ, Greenfield SA.
+
+Author information: 
+(1)University Department of Pharmacology, Oxford, OX1 3QT, United Kingdom.
+stephanie.cragg@pharm.ox.ac.uk
+
+The putamen of the human striatum is a heterogeneous nucleus that contains the
+primary site of loss of dopamine (DA) in Parkinson's disease (PD). Furthermore,
+different functional domains of the putamen are heterogeneously susceptible to DA
+loss, and yet the dynamic regulation of extracellular DA concentration ([DA](o)) 
+and comparison between domains has not been explored in the primate brain. In
+these studies, DA was measured in real time using fast-scan cyclic voltammetry at
+a carbon-fiber microelectrode in vitro in striatal sections from the common
+marmoset (Callithrix jacchus). [DA](o) released by a single stimulus pulse varied
+threefold along a ventromedial-dorsolateral axis. DA uptake was via the DA
+transporter (GBR12909 sensitive, desipramine insensitive). On the basis of data
+modeling with simulations of Michaelis-Menten kinetics, rate maximum, V(max),
+varied with region: both [DA](o) and V(max) were greatest in regions most
+vulnerable in PD. These differences were reflected in part by regional variation 
+in DA content. [DA](o), V(max), and regional variation were two- to threefold
+greater than in rodent caudatoputamen. In addition, steady-state [DA](o) at
+physiological firing rates in primate striatum was controlled by depolarization
+frequency, uptake, and presynaptic autoreceptors. Furthermore, regulation of
+[DA](o) by these mechanisms differed significantly between limbic- and
+motor-associated domains. These data indicate interspecies heterogeneity in
+striatal DA dynamics that must be considered when extrapolating behavioral and
+drug responses from rodent to the primate brain. Moreover, the heterogeneity
+demonstrated within the primate putamen in the availability and dynamic
+regulation of DA may be central to understanding DA function in health, cocaine
+abuse, and disease.
+
+
+PMCID: PMC6772736
+PMID: 11050144  [Indexed for MEDLINE]
+

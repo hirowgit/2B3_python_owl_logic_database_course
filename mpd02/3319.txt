@@ -1,0 +1,44 @@
+
+
+3319. J Med Chem. 2000 Apr 20;43(8):1467-75.
+
+Improving the oral bioavailability of the iron chelator HBED by breaking the
+symmetry of the intramolecular H-bond network.
+
+Faller B(1), Spanka C, Sergejew T, Tschinke V.
+
+Author information: 
+(1)Research Department, Novartis Pharma AG, WKL-122.P.33, CH-4002 Basel,
+Switzerland. bernard.faller@pharma.novartis.com
+
+Physicochemical analysis and Monte Carlo simulations were used to identify
+structural features which prevent oral absorption of HBED, a potent iron
+chelator. In water the dominant conformations of HBED involve the hydrophobic
+collapse of the two aromatic rings. These conformations are favored in polar
+media because they expose the polar phenolic hydroxy groups to the solvent and
+partially shield the nonpolar aromatic rings. In a less polar solvent such as
+chloroform, a symmetrical H-bond network between the carboxylates and the amines 
+dominates the conformational space. This leads to the exposure of the phenolic
+hydroxy groups to the solvent, which is unfavorable for solvation. The low
+solubility of HBED in nonpolar solvents was confirmed experimentally by
+determination of the partition coefficients in octanol, chloroform, and
+cyclohexane and may explain the poor membrane permeability of this compound. The 
+high conformational stability which disfavors partitioning into phospholipids is 
+mainly due to the symmetrical H-bond network. Potentiometric titrations of a
+monoester of HBED in MeOH/water indicate that the protonation sequence was
+changed compared to that of the parent compound, suggesting that the symmetrical 
+H-bond network was disrupted. Conformational analysis in chloroform confirmed
+that, in contrast to HBED, no symmetric interaction between the carboxylate and
+the nitrogen amines is possible in the half-ester and a variety of conformations 
+which allow partial shielding of the polar phenolic OH groups are energetically
+possible. This theoretical model predicting a better solubility of the
+half-esters in nonpolar solvents was supported by the large increase in the
+partition coefficients in octanol, chloroform, and cyclohexane measured
+experimentally. The high absorbability predicted by physicochemical and computer 
+simulation methods was corroborated by in vivo experiments in marmoset monkeys
+where the monoethyl ester derivative of HBED was well-absorbed orally while the
+parent compound was nearly ineffective in the same model.
+
+DOI: 10.1021/jm990261n 
+PMID: 10780902  [Indexed for MEDLINE]
+

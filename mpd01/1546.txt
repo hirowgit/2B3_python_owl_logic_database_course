@@ -1,0 +1,104 @@
+
+
+1546. Chronobiol Int. 2013 Jul;30(6):818-27. doi: 10.3109/07420528.2013.767823. Epub
+2013 Jun 14.
+
+Socially adjusted synchrony in the activity profiles of common marmosets in
+light-dark conditions.
+
+Melo P(1), Gonçalves B, Menezes A, Azevedo C.
+
+Author information: 
+(1)Laboratório de Cronobiologia, Departamento de Fisiologia, Universidade Federal
+do Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil.
+
+Synchronized state of activity and rest might be attained by mechanisms of
+entrainment and masking. Most zeitgebers not only act to entrain but also to mask
+circadian rhythms. Although the light-dark (LD) cycle is the main zeitgeber of
+circadian rhythms in marmosets, social cues can act as weaker zeitgebers.
+Evidence on the effects of social entrainment in marmosets has been collected in 
+isolated animals or in pairs where activity is not individually recorded. To
+characterize the synchronization between the daily activity profiles of
+individuals in groups under LD conditions, the motor activity of animals from
+five groups was continuously monitored using actiwatches for 15 days during the
+5th, 8th, and 11th months of life of juveniles. Families consisting of twins (4
+♂♀/1 ♂♂) and their parents were maintained under controlled lighting (LD
+12:12 h), temperature, and humidity conditions. Synchronization was evaluated
+through the synchrony between the circadian activity profiles obtained from the
+Pearson correlation index between possible pairs of activity profiles in the
+light and dark phases. We also calculated the phase-angle differences between the
+activity onset of one animal in relation to the activity onset of each animal in 
+the group (ψ(on)). A similar procedure was performed for activity offset
+(ψ(off)). By visual analysis, the correlation between the activity profiles of
+individuals within each family was stronger than that of individuals from
+different families. A mixed-model analysis showed that within the group, the
+correlation was stronger between twins than between twins and their parents in
+all families, except for the family in which both juveniles were males. Because a
+twin is an important social partner for juveniles, a sibling is likely to have a 
+stronger influence on its twin's activity rhythm than other family members.
+Considering only the light phase, the second strongest correlation was observed
+between the activity profiles of the individuals in the reproductive pair.
+Regarding the parameters ψ(on) and ψ(off), the juvenile/juvenile dyad had lower
+values than the other dyads, but these differences did not reach statistical
+significance in relation to all dyads. Comparing the results of the ψ(on) and
+ψ(off), and correlation indices, we suggest that the latter could detect
+differences between the animals that were not observed in the results of the
+phase-angle differences. These differences could be related to changes that occur
+during the active phase but not only in a particular phase, such as the temporal 
+changes during the activity phase that characterize unimodal or bimodal patterns.
+Based on the differences in the correlations between individuals subjected to the
+same LD routine, we suggest that social cues modulate the circadian activity
+profiles of marmosets as a result of interactions between the animals within each
+group. Future studies are necessary to characterize the mechanisms of
+synchronization that are involved in this social modulation.
+
+DOI: 10.3109/07420528.2013.767823 
+PMID: 23767997  [Indexed for MEDLINE]
+
+
+1547. BMC Vet Res. 2013 Jun 11;9:113. doi: 10.1186/1746-6148-9-113.
+
+Comparison of three different sedative-anaesthetic protocols (ketamine,
+ketamine-medetomidine and alphaxalone) in common marmosets (Callithrix jacchus).
+
+Bakker J, Uilenreef JJ, Pelt ER, Brok HP, Remarque EJ, Langermans JA.
+
+BACKGROUND: Handling of common marmoset (Callithrix jacchus) usually requires
+chemical restraint. Ketamine has been associated with muscle damage in primates, 
+while common marmosets, compared to other primates, additionally display an
+exceptional high sensitivity to ketamine-associated side-effects. Notably, muscle
+twitching movements of limbs and hands, and a marked increase in salivation are
+observed. We investigated two alternative intramuscular (i.m.) immobilisation
+protocols against ketamine (50 mg/kg; protocol 1) in a double-blind randomised
+crossover study in ten healthy adult common marmosets for use as a safe reliable,
+short-term immobilisation and sedation. These protocols comprised: alphaxalone
+(12 mg/kg; protocol 2) and 25 mg/kg ketamine combined with 0.50 mg/kg
+medetomidine (reversal with 2.5 mg/kg atipamezole; protocol 3A). Following
+completion and unblinding, the project was extended with an additional protocol
+(3B), comprising 25 mg/kg ketamine combined with 0.05 mg/kg medetomidine
+(reversal with 0.25 mg/kg atipamezole, twice with 35 min interval).
+RESULTS: All protocols in this study provided rapid onset (induction times
+<5 min) of immobilisation and sedation. Duration of immobilisation was
+31.23 ± 22.39 min, 53.72 ± 13.08 min, 19.73 ± 5.74 min, and 22.78 ± 22.37 min for
+protocol 1, 2, 3A, and 3B, respectively. Recovery times were 135.84 ± 39.19 min, 
+55.79 ± 11.02 min, 405.46 ± 29.81 min, and 291.91 ± 80.34 min, respectively.
+Regarding the quality, and reliability (judged by pedal withdrawal reflex,
+palpebral reflex and muscle tension) of all protocols, protocol 2 was the most
+optimal. Monitored vital parameters were within clinically acceptable limits
+during all protocols and there were no fatalities. Indication of muscle damage as
+assessed by AST, LDH and CK values was most prominent elevated in protocol 1, 3A,
+and 3B.
+CONCLUSIONS: We conclude that intramuscular administration of 12 mg/kg
+alphaxalone to common marmosets is preferred over other protocols studied.
+Protocol 2 resulted in at least comparable immobilisation quality with acceptable
+and less frequent side effects and superior recovery quality. In all protocols,
+supportive therapy, such as external heat support, remains mandatory. Notably, an
+unacceptable long recovery period in both ketamine/medetomidine protocols
+(subsequently reversed with atipamezole) was observed, showing that α-2
+adrenoreceptor agonists in the used dose and dosing regime is not the first
+choice for sedation in common marmosets in a standard research setting.
+
+DOI: 10.1186/1746-6148-9-113 
+PMCID: PMC3686586
+PMID: 23758836  [Indexed for MEDLINE]
+

@@ -1,0 +1,80 @@
+
+
+801. Nature. 2017 Oct 12;550(7675):275-279. doi: 10.1038/nature24034. Epub 2017 Oct 4.
+
+A viral Sm-class RNA base-pairs with mRNAs and recruits microRNAs to inhibit
+apoptosis.
+
+Gorbea C(1), Mosbruger T(2), Cazalla D(1).
+
+Author information: 
+(1)Department of Biochemistry, University of Utah School of Medicine, Salt Lake
+City, Utah 84112-5650, USA.
+(2)Huntsman Cancer Institute, University of Utah School of Medicine, Salt Lake
+City, Utah 84112-5650, USA.
+
+Viruses express several classes of non-coding RNAs; the functions and mechanisms 
+by which most of these act are unknown. Herpesvirus saimiri, a γ-herpesvirus that
+establishes latency in the T cells of New World primates and has the ability to
+cause aggressive leukaemias and lymphomas in non-natural hosts, expresses seven
+small nuclear uracil-rich non-coding RNAs (called HSURs) in latently infected
+cells. These HSURs associate with Sm proteins, and share biogenesis and
+structural features with cellular Sm-class small nuclear RNAs. One of these HSURs
+(HSUR2) base-pairs with two host cellular microRNAs (miR-142-3p and miR-16) but
+does not affect their abundance or activity, which suggests that its interactions
+with them perform alternative functions. Here we show that HSUR2 also base-pairs 
+with mRNAs in infected cells. We combined in vivo psoralen-mediated RNA-RNA
+crosslinking and high-throughput sequencing to identify the mRNAs targeted by
+HSUR2, which include mRNAs that encode retinoblastoma and factors involved in p53
+signalling and apoptosis. We show that HSUR2 represses the expression of target
+mRNAs and that base-pairing between HSUR2 and miR-142-3p and miR-16 is essential 
+for this repression, suggesting that HSUR2 recruits these two cellular microRNAs 
+to its target mRNAs. Furthermore, we show that HSUR2 uses this mechanism to
+inhibit apoptosis. Our results uncover a role for this viral Sm-class RNA as a
+microRNA adaptor in the regulation of gene expression that follows precursor mRNA
+processing.
+
+DOI: 10.1038/nature24034 
+PMCID: PMC5864290
+PMID: 28976967  [Indexed for MEDLINE]
+
+
+802. Elife. 2017 Oct 3;6. pii: e29738. doi: 10.7554/eLife.29738.
+
+Human and nonhuman primate meninges harbor lymphatic vessels that can be
+visualized noninvasively by MRI.
+
+Absinta M(#)(1), Ha SK(#)(1), Nair G(1), Sati P(1), Luciano NJ(1), Palisoc M(2), 
+Louveau A(3), Zaghloul KA(4), Pittaluga S(2), Kipnis J(3), Reich DS(1).
+
+Author information: 
+(1)Translational Neuroradiology Section, National Institute of Neurological
+Disorders and Stroke, National Institutes of Health, Bethesda, United States.
+(2)Hematopathology Section, Laboratory of Pathology, National Cancer Institute,
+National Institutes of Health, Bethesda, United States.
+(3)Center for Brain Immunology and Glia, Department of Neuroscience, School of
+Medicine, University of Virginia, Charlottesville, United States.
+(4)Surgical Neurology Branch, National Institute of Neurological Disorders and
+Stroke, National Institutes of Health, Bethesda, United States.
+(#)Contributed equally
+
+Comment in
+    J Am Osteopath Assoc. 2018 Jan 1;118(1):53.
+
+Here, we report the existence of meningeal lymphatic vessels in human and
+nonhuman primates (common marmoset monkeys) and the feasibility of noninvasively 
+imaging and mapping them in vivo with high-resolution, clinical MRI. On T2-FLAIR 
+and T1-weighted black-blood imaging, lymphatic vessels enhance with gadobutrol, a
+gadolinium-based contrast agent with high propensity to extravasate across a
+permeable capillary endothelial barrier, but not with gadofosveset, a blood-pool 
+contrast agent. The topography of these vessels, running alongside dural venous
+sinuses, recapitulates the meningeal lymphatic system of rodents. In primates,
+meningeal lymphatics display a typical panel of lymphatic endothelial markers by 
+immunohistochemistry. This discovery holds promise for better understanding the
+normal physiology of lymphatic drainage from the central nervous system and
+potential aberrations in neurological diseases.
+
+DOI: 10.7554/eLife.29738 
+PMCID: PMC5626482
+PMID: 28971799  [Indexed for MEDLINE]
+

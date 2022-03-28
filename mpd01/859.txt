@@ -1,0 +1,86 @@
+
+
+859. J Neurophysiol. 2017 Aug 1;118(2):1344-1354. doi: 10.1152/jn.00259.2017. Epub
+2017 Jun 14.
+
+Diffusion-weighted tractography in the common marmoset monkey at 9.4T.
+
+Schaeffer DJ(1), Adam R(2), Gilbert KM(1), Gati JS(1), Li AX(1), Menon RS(1),
+Everling S(3).
+
+Author information: 
+(1)Robarts Research Institute, University of Western Ontario, London, Ontario,
+Canada; and.
+(2)Graduate Program in Neuroscience, University of Western Ontario, London,
+Ontario, Canada.
+(3)Robarts Research Institute, University of Western Ontario, London, Ontario,
+Canada; and severlin@uwo.ca.
+
+The common marmoset (Callithrix jacchus) is a small New World primate that is
+becoming increasingly popular in the neurosciences as an animal model of
+preclinical human disease. With several major disorders characterized by
+alterations in neural white matter (e.g., multiple sclerosis, Alzheimer's
+disease, schizophrenia), proposed to be transgenically modeled using marmosets,
+the ability to isolate and characterize reliably major white matter fiber tracts 
+with MRI will be of use for evaluating structural brain changes related to
+disease processes and symptomatology. Here, we propose protocols for isolating
+major white matter fiber tracts in the common marmoset using in vivo
+ultrahigh-field MRI (9.4T) diffusion-weighted imaging (DWI) data. With the use of
+a high angular-resolution DWI (256 diffusion-encoding directions) sequence,
+collected on four anesthetized marmosets, we provide guidelines for manually
+drawing fiber-tracking regions of interest, based on easily identified anatomical
+landmarks in DWI native space. These fiber-tract isolation protocols are expected
+to be experimentally useful for visualization and quantification of individual
+white matter fiber tracts in both control and experimental groups of marmosets
+(e.g., transgenic models). As disease models in the marmoset advance, the
+determination of how macroscopic white matter anatomy is altered as a function of
+disease state will be relevant in bridging the existing translational gap between
+preclinical rodent models and human patients.NEW & NOTEWORTHY Although
+significant progress has been made in mapping white matter connections in the
+marmoset brain using ex vivo tracing techniques, the application of in vivo
+virtual dissection of major white matter fiber tracts has been established by few
+studies in the marmoset literature. Here, we demonstrate the feasibility of
+whole-brain diffusion-weighted tractography in anesthetized marmosets at
+ultrahigh-field MRI (9.4T) and propose protocols for isolating nine major white
+matter fiber tracts in the marmoset brain.
+
+Copyright © 2017 the American Physiological Society.
+
+DOI: 10.1152/jn.00259.2017 
+PMCID: PMC5558027
+PMID: 28615334  [Indexed for MEDLINE]
+
+
+860. Neurosci Res. 2017 Nov;124:57-62. doi: 10.1016/j.neures.2017.06.002. Epub 2017
+Jun 9.
+
+Visual discrimination and reversal learning in aged common marmosets (Callithrix 
+jacchus).
+
+Munger EL(1), Takemoto A(2), Raghanti MA(1), Nakamura K(3).
+
+Author information: 
+(1)Department of Anthropology and School of Biomedical Sciences, Kent State
+University, Kent, OH 44242, USA.
+(2)Cognitive Neuroscience Section, Primate Research Institute, Kyoto University, 
+41-2 Kanrin, Inuyama, Aichi 484-8506, Japan.
+(3)Cognitive Neuroscience Section, Primate Research Institute, Kyoto University, 
+41-2 Kanrin, Inuyama, Aichi 484-8506, Japan. Electronic address:
+nakamura.katsuki.4z@kyoto-u.ac.jp.
+
+Common marmosets (Callithrix jacchus) have been suggested as a new model for
+analysis of age-related changes and neurodegenerative diseases. However, the
+effects of age on learning and memory processes are not well defined within this 
+species. Therefore, we employed visual discrimination and reversal learning tasks
+to evaluate learning and memory in four aged common marmosets relative to a
+younger cohort. We found that aged marmosets commit significantly more errors in 
+initial stages of visual discrimination and more perseverative errors in reversal
+learning, indicating prefrontal dysfunction. However, they showed comparable
+performance with younger marmosets in the later stages of both tasks.
+
+Copyright © 2017 Elsevier Ireland Ltd and Japan Neuroscience Society. All rights 
+reserved.
+
+DOI: 10.1016/j.neures.2017.06.002 
+PMID: 28602996  [Indexed for MEDLINE]
+

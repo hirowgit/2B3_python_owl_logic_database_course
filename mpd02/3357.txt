@@ -1,0 +1,35 @@
+
+
+3357. Eur J Pharmacol. 2000 Feb 11;389(1):41-9.
+
+Species selectivity of a small molecule antagonist for the CCR1 chemokine
+receptor.
+
+Liang M(1), Rosser M, Ng HP, May K, Bauman JG, Islam I, Ghannam A, Kretschmer PJ,
+Pu H, Dunning L, Snider RM, Morrissey MM, Hesselgesser J, Perez HD, Horuk R.
+
+Author information: 
+(1)Department of Pharmaceuticals Discovery, Berlex Biosciences, Richmond, CA,
+USA. meina_liang@berlex.com
+
+The species specificity of a small molecule antagonist for the human CCR1
+chemokine receptor, 2-2-diphenyl-5-(4-chlorophenyl)piperidin-1-yl)valeronitrile
+(CCR1 antagonist 1), has been examined using cloned CCR1 receptors from various
+species. The compound was able to bind to rabbit, marmoset, and human CCR1, and
+was able to block the functional activation of these receptors. However, it
+failed to significantly displace radiolabeled macrophage inflammatory
+protein-1alpha (MIP-1alpha) binding to mouse CCR1 at concentrations up to 10
+microM. These data suggested that the antagonist binding site is well-conserved
+in rabbit, marmoset and human CCR1, but not in mouse CCR1. The functional
+selectivity and mechanism of action for CCR1 antagonist 1 were further
+characterized. CCR1 antagonist 1 blocked the increase in intracellular Ca(2+)
+stimulated by CCR1 agonists, but had no effect on N-formyl-Met-Leu-Phe (FMLP),
+monocyte chemotactic protein-1 (MCP-1) and stromal-derived factor 1alpha
+(SDF1alpha)-induced Ca(2+) mobilization, demonstrating functional selectivity for
+CCR1. Since CCR1 antagonist 1 is a functional antagonist of marmoset and rabbit
+CCR1 receptors, it should be possible to test its efficacy in animal models of
+disease.
+
+DOI: 10.1016/s0014-2999(99)00863-8 
+PMID: 10686294  [Indexed for MEDLINE]
+

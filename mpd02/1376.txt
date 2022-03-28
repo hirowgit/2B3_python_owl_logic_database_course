@@ -1,0 +1,47 @@
+
+
+1376. Ann Neurol. 2014 Oct;76(4):594-608. doi: 10.1002/ana.24242. Epub 2014 Aug 21.
+
+The formation of inflammatory demyelinated lesions in cerebral white matter.
+
+Maggi P(1), Macri SM, Gaitán MI, Leibovitch E, Wholer JE, Knight HL, Ellis M, Wu 
+T, Silva AC, Massacesi L, Jacobson S, Westmoreland S, Reich DS.
+
+Author information: 
+(1)National Institute for Neurological Disorders and Stroke, National Institutes 
+of Health, Bethesda, MD, USA; Department of Neurosciences, Drug Research, and
+Child's Health, University of Florence, Florence, Italy.
+
+OBJECTIVE: Vascular permeability and inflammatory demyelination are intimately
+linked in the brain, but what is their temporal relationship? We aimed to
+determine the radiological correlates of the earliest tissue changes accompanying
+demyelination in a primate model of multiple sclerosis (MS), experimental
+autoimmune encephalomyelitis (EAE) in the common marmoset.
+METHODS: By 7T magnetic resonance imaging (MRI), T1 maps, proton density, and
+T2-weighted images were acquired before and after EAE induction in 5 marmosets
+(every other week before lesions appeared, weekly thereafter). From scans before 
+and after intravenous injection of contrast material, we measured the evolution
+of lesional blood-brain barrier (BBB) permeability, comparing in vivo MRI to
+postmortem tissue examination.
+RESULTS: On average, BBB permeability increased 3.5-fold (p < 0.0001) over the 4 
+weeks prior to lesion appearance. Permeability gradually decreased after lesion
+appearance, with attendant changes in the distribution of inflammatory cells
+(predominantly macrophages and microglia) and demyelination. On tissue analysis, 
+we also identified small perivascular foci of microglia and T cells without
+blood-derived macrophages or demyelination. These foci had no visible MRI
+correlates, although permeability within the foci, but not outside, increased in 
+the weeks before the animals died (p < 0.0001).
+INTERPRETATION: This study provides compelling evidence that in marmoset EAE,
+which forms lesions strongly resembling those of MS, early changes in vascular
+permeability are associated with perivascular inflammatory cuffing and
+parenchymal microglial activation but precede the arrival of blood-derived
+monocytes that accompany demyelination. Prospective detection of transient
+permeability changes could afford an opportunity for early intervention to
+forestall tissue damage in newly forming lesions.
+
+© 2014 American Neurological Association.
+
+DOI: 10.1002/ana.24242 
+PMCID: PMC4723108
+PMID: 25088017  [Indexed for MEDLINE]
+

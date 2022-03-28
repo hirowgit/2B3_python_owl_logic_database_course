@@ -1,0 +1,83 @@
+
+
+1091. Genome Res. 2016 May;26(5):649-59. doi: 10.1101/gr.199075.115. Epub 2016 Feb 25.
+
+Discovery of a new repeat family in the Callithrix jacchus genome.
+
+Konkel MK(1), Ullmer B(2), Arceneaux EL(1), Sanampudi S(1), Brantley SA(1),
+Hubley R(3), Smit AF(3), Batzer MA(1).
+
+Author information: 
+(1)Department of Biological Sciences, Louisiana State University, Baton Rouge,
+Louisiana 70803, USA;
+(2)School of Electrical Engineering and Computer Science, Center for Computation 
+and Technology, Louisiana State University, Baton Rouge, Louisiana 70803, USA;
+(3)Institute for Systems Biology, Seattle, Washington 98109-5263, USA.
+
+We identified a novel repeat family, termed Platy-1, in the Callithrix jacchus
+(common marmoset) genome that arose around the time of the divergence of
+platyrrhines and catarrhines and established itself as a repeat family in New
+World monkeys (NWMs). A full-length Platy-1 element is ∼100 bp in length, making 
+it the shortest known short interspersed element (SINE) in primates, and harbors 
+features characteristic of non-LTR retrotransposons. We identified 2268
+full-length Platy-1 elements across 62 subfamilies in the common marmoset genome.
+Our subfamily reconstruction and phylogenetic analyses support Platy-1
+propagation throughout the evolution of NWMs in the lineage leading to C. jacchus
+Platy-1 appears to have reached its amplification peak in the common ancestor of 
+current day marmosets and has since moderately declined. However, identification 
+of more than 200 Platy-1 elements identical to their respective consensus
+sequence, and the presence of polymorphic elements within common marmoset
+populations, suggests ongoing retrotransposition activity. Platy-1, a SINE,
+appears to have originated from an Alu element, and hence is likely derived from 
+7SL RNA. Our analyses illustrate the birth of a new repeat family and its
+propagation dynamics in the lineage leading to the common marmoset over the last 
+40 million years.
+
+© 2016 Konkel et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/gr.199075.115 
+PMCID: PMC4864456
+PMID: 26916108  [Indexed for MEDLINE]
+
+
+1092. Xenobiotica. 2016 Dec;46(12):1049-1055. Epub 2016 Feb 25.
+
+Human plasma concentrations of cytochrome P450 probe cocktails extrapolated from 
+pharmacokinetics in mice transplanted with human hepatocytes and from
+pharmacokinetics in common marmosets using physiologically based pharmacokinetic 
+modeling.
+
+Utoh M(1)(2), Suemizu H(3), Mitsui M(1), Kawano M(1), Toda A(2), Uehara S(1), Uno
+Y(2), Shimizu M(1), Sasaki E(4), Yamazaki H(1).
+
+Author information: 
+(1)a Laboratory of Drug Metabolism and Pharmacokinetics , Showa Pharmaceutical
+University , Machida , Japan.
+(2)b Pharmacokinetics and Bioanalysis Center, Shin Nippon Biomedical
+Laboratories, Ltd , Kainan , Japan.
+(3)c Laboratory of Animal Research Department , and.
+(4)d Marmoset Research Department, Central Institute for Experimental Animals ,
+Kawasaki , Japan.
+
+1. The pharmacokinetic data of cytochrome P450 probes in humans can be
+extrapolated from corresponding data in cynomolgus monkeys, dogs and minipigs
+using simplified physiologically based pharmacokinetic (PBPK) modeling. In this
+study, the modeling methodology was further adapted to estimate human plasma
+concentrations of P450 probes based on data from mice transplanted with human
+hepatocytes or based on data from marmosets. 2. Using known species allometric
+scaling factors, the observed plasma concentrations of caffeine, warfarin,
+omeprazole, metoprolol, and midazolam in chimeric TK-NOG mice with humanized
+liver were scaled to human oral monitoring equivalents. Using the same approach, 
+the previously reported pharmacokinetics of the five P450 probes in marmosets
+were also scaled to reported equivalents in humans using in vitro metabolic
+clearance data. 3. Human plasma concentration profiles of the five P450 probes
+estimated by simplified human PBPK models based on the observed pharmacokinetics 
+in mice with humanized liver and on the reported pharmacokinetics in marmosets
+were consistent with previously published pharmacokinetic data in Caucasians.
+4. These results suggest that mice with humanized liver and/or marmosets could be
+suitable pharmacokinetic models for humans during research into new drugs,
+especially when used in combination with simple PBPK models.
+
+DOI: 10.3109/00498254.2016.1147102 
+PMID: 26916082  [Indexed for MEDLINE]
+

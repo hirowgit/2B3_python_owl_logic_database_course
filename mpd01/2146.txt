@@ -1,0 +1,71 @@
+
+
+2146. Neurosci Res. 2009 May;64(1):128-31. doi: 10.1016/j.neures.2009.02.003. Epub 2009
+Feb 13.
+
+Web-accessible digital brain atlas of the common marmoset (Callithrix jacchus).
+
+Tokuno H(1), Tanaka I, Umitsu Y, Akazawa T, Nakamura Y.
+
+Author information: 
+(1)Department of Brain Structure, Tokyo Metropolitan Institute for Neuroscience, 
+Musashidai 2-6, Fuchu, Tokyo 183-8526, Japan. tokuno-hr@igakuken.or.jp
+
+Here we describe a web-accessible digital brain atlas of the common marmoset
+(Callithrix jacchus) at http://marmoset-brain.org:2008. We prepared the
+histological sections of the marmoset brain using various staining techniques.
+For virtual microscopy, high-resolution digital images of sections were obtained 
+with Aperio Scanscope. The digital images were then converted to Zoomify files
+(zoomable multiresolution image files). Thereby, we could provide the
+multiresolution images of the marmoset brains for fast interactive viewing on the
+web via the Internet. In addition, we describe an automated method to obtain
+drawings of Nissl-stained sections.
+
+DOI: 10.1016/j.neures.2009.02.003 
+PMID: 19428691  [Indexed for MEDLINE]
+
+
+2147. Br J Pharmacol. 2009 Aug;157(7):1157-71. doi: 10.1111/j.1476-5381.2009.00196.x.
+Epub 2009 Apr 27.
+
+Effects of NXY-059 in experimental stroke: an individual animal meta-analysis.
+
+Bath PM(1), Gray LJ, Bath AJ, Buchan A, Miyata T, Green AR; NXY-059 Efficacy
+Meta-analysis in Individual Animals with Stroke Investigators.
+
+Author information: 
+(1)Stroke Trials Unit, University of Nottingham, Clinical Sciences Building, City
+Hospital Campus, Hucknall Road, Nottingham, UK. philip.bath@nottingham.ac.uk
+
+Comment in
+    Br J Pharmacol. 2009 Aug;157(7):1154-6.
+
+BACKGROUND AND PURPOSE: Disodium 2,4-disulphophenyl-N-tert-butylnitrone (NXY-059)
+was neuroprotective in experimental stroke models but ineffective in a large
+clinical trial. This first-ever individual animal meta-analysis was used to
+assess the preclinical studies.
+EXPERIMENTAL APPROACH: Studies were obtained from AstraZeneca and PubMed
+searches. Data for each animal were obtained from the lead author of each study
+and/or AstraZeneca. Published summary data were used if individual data were not 
+available. Infarct volume and motor impairment were standardized to reflect
+different species and scales. Standardized mean difference (SMD), coefficients
+from multilevel models and 95% confidence intervals (95% CI) are presented.
+KEY RESULTS: Fifteen studies (26 conditions, 12 laboratories) involving rats
+(544), mice (9) and marmosets (32) were identified (NXY-059: 332, control: 253)
+with individual data for 442 animals. Four studies were unpublished. Studies
+variably used randomization (40%), blinding of surgeon (53%) and outcome assessor
+(67%). NXY-059 reduced total (SMD -1.17, 95% CI -1.50 to -0.84), cortical (SMD
+-2.17, 95% CI -2.99 to -1.34) and subcortical (-1.43, 95% CI -2.20 to -0.86)
+lesion volume; efficacy was seen in transient, permanent and thrombotic
+ischaemia, up to 180 min post occlusion. NXY-059 reduced motor impairment (SMD
+-1.66, 95% CI -2.18 to -1.14) and neglect. Evidence for performance, attrition
+and publication bias was present.
+CONCLUSIONS AND IMPLICATIONS: NXY-059 was neuroprotective in experimental stroke 
+although bias may have resulted in efficacy being overestimated. Efficacy in
+young, healthy, male animals is a poor predictor of clinical outcome. We suggest 
+the use of preclinical meta-analysis before initiation of future clinical trials.
+
+DOI: 10.1111/j.1476-5381.2009.00196.x 
+PMCID: PMC2743834
+PMID: 19422398  [Indexed for MEDLINE]
+

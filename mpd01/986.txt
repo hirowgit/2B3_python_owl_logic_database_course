@@ -1,0 +1,88 @@
+
+
+986. Endocrinology. 2016 Dec;157(12):4817-4828. Epub 2016 Oct 11.
+
+A Sexually Dimorphic Area of the Dorsal Hypothalamus in Mice and Common
+Marmosets.
+
+Moe Y(1), Kyi-Tha-Thu C(1), Tanaka T(1), Ito H(1), Yahashi S(1), Matsuda KI(1),
+Kawata M(1), Katsuura G(1), Iwashige F(1), Sakata I(1), Akune A(1), Inui A(1),
+Sakai T(1), Ogawa S(1), Tsukahara S(1).
+
+Author information: 
+(1)Division of Life Science (Y.M., C.K.-T.-T., T.T., H.I., I.S., T.S., S.T.),
+Graduate School of Science and Engineering, Saitama University, Sakura-ku,
+Saitama 338-8570, Japan; Drug Safety Research Laboratories (S.Y., F.I., A.A.),
+Shin Nippon Biomedical Laboratories, Ltd, Kagoshima 891-1394, Japan; Department
+of Anatomy and Neurobiology (K.-I.M., M.K.), Kyoto Prefectural University of
+Medicine, Kawaramachi Hirokoji, Kamigyo-ku, Kyoto 602-8566, Japan; Department of 
+Psychosomatic Internal Medicine (G.K., A.I.), Graduate School of Medical and
+Dental Sciences, Kagoshima University, Kagoshima 890-8520, Japan; and Laboratory 
+of Behavioral Neuroendocrinology (S.O.), University of Tsukuba, Tsukuba, Ibaraki 
+305-8577, Japan.
+
+We found a novel sexually dimorphic area (SDA) in the dorsal hypothalamus (DH) of
+mice. The SDA-DH was sandwiched between 2 known male-biased sexually dimorphic
+nuclei, the principal nucleus of the bed nucleus of the stria terminalis and the 
+calbindin-sexually dimorphic nucleus, and exhibited a female-biased sex
+difference in neuronal cell density. The density of neurons in the SDA-DH was
+increased in male mice by orchidectomy on the day of birth and decreased in
+female mice by treatment with testosterone, dihydrotestosterone, or estradiol
+within 5 days after birth. These findings indicate that the SDA-DH is defeminized
+under the influence of testicular testosterone, which acts via both directly by
+binding to the androgen receptor, and indirectly by binding to the estrogen
+receptor after aromatization. We measured the activity of SDA-DH neurons with
+c-Fos, a neuronal activity marker, in female mice during maternal and sexual
+behaviors. The number of c-Fos-expressing neurons in the SDA-DH of female mice
+was negatively correlated with maternal behavior performance. However, the number
+of c-Fos-expressing neurons did not change during female sexual behavior. These
+findings suggest that the SDA-DH contains a neuronal cell population, the
+activity of which decreases in females exhibiting higher performance of maternal 
+behavior, but it may contribute less to female sexual behavior. Additionally, we 
+examined the brain of common marmosets and found an area that appears to be
+homologous with the mouse SDA-DH. The sexually dimorphic structure identified in 
+this study is not specific to mice and may be found in other species.
+
+DOI: 10.1210/en.2016-1428 
+PMID: 27726418  [Indexed for MEDLINE]
+
+
+987. Sci Rep. 2016 Oct 11;6:34931. doi: 10.1038/srep34931.
+
+Generation of transgenic marmosets expressing genetically encoded calcium
+indicators.
+
+Park JE(1), Zhang XF(1), Choi SH(1), Okahara J(2), Sasaki E(2)(3), Silva AC(1).
+
+Author information: 
+(1)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD, USA.
+(2)Department of Applied Developmental Biology, Central Institute for
+Experimental Animals, Tonomachi, Kawasaki, Kanagawa 210-0821, Japan.
+(3)Keio advanced Research Center, Keio University, Shinanomachi, Shinjuku-ku,
+Tokyo 160-8582, Japan.
+
+Chronic monitoring of neuronal activity in the living brain with optical imaging 
+techniques became feasible owing to the continued development of genetically
+encoded calcium indicators (GECIs). Here we report for the first time the
+successful generation of transgenic marmosets (Callithrix jacchus), an important 
+nonhuman primate model in neurophysiological research, which were engineered to
+express the green fluorescent protein (GFP)-based family of GECIs, GCaMP, under
+control of either the CMV or the hSyn promoter. High titer lentiviral vectors
+were produced, and injected into embryos collected from donor females. The
+infected embryos were then transferred to recipient females. Eight transgenic
+animals were born and shown to have stable and functional GCaMP expression in
+several different tissues. Germline transmission of the transgene was confirmed
+in embryos generated from two of the founder transgenic marmosets that reached
+sexual maturity. These embryos were implanted into six recipient females, three
+of which became pregnant and are in advanced stages of gestation. We believe
+these transgenic marmosets will be invaluable non-human primate models in
+neuroscience, allowing chronic in vivo monitoring of neural activity with
+functional confocal and multi-photon optical microscopy imaging of intracellular 
+calcium dynamics.
+
+DOI: 10.1038/srep34931 
+PMCID: PMC5057151
+PMID: 27725685  [Indexed for MEDLINE]
+

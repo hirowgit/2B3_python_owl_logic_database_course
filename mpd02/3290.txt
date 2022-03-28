@@ -1,0 +1,37 @@
+
+
+3290. J Virol. 2000 Aug;74(16):7478-84.
+
+Evasion of host defenses by measles virus: wild-type measles virus infection
+interferes with induction of Alpha/Beta interferon production.
+
+Naniche D(1), Yeh A, Eto D, Manchester M, Friedman RM, Oldstone MB.
+
+Author information: 
+(1)Division of Virology, Department of Neuropharmacology, Scripps Research
+Institute, La Jolla, California 92037, USA. naniche@scripps.edu
+
+Measles is a highly contagious disease currently responsible for over one million
+childhood deaths, particularly in the developing world. Since alpha/beta
+interferons (IFNs) are pivotal players both in nonspecific antiviral immunity and
+in specific cellular responses, their induction or suppression by measles virus
+(MV) could influence the outcome of a viral infection. In this study we compare
+the IFN induction and sensitivity of laboratory-passaged attenuated MV strains
+Edmonston and Moraten with those of recent wild-type viruses isolated and
+passaged solely on human peripheral blood mononuclear cells (PBMC) or on the B958
+marmoset B-cell line. We report that two PBMC-grown wild-type measles isolates
+and two B958-grown strains of MV induce 10- to 80-fold-lower production of IFN by
+phytohemagglutinin-stimulated peripheral blood lymphocytes (PBL) compared to
+Edmonston and Moraten strains of measles. Preinfection of PBL with these
+non-IFN-inducing MV isolates prevents Edmonston-induced but not
+double-stranded-RNA-induced IFN production. This suggests that the wild-type
+viruses can actively inhibit Edmonston-induced IFN synthesis and that this is not
+occurring by double-stranded RNA. Furthermore, the wild-type MV is more sensitive
+than Edmonston MV to the effect of IFN. MV is thus able to suppress the synthesis
+of the earliest mediator of antiviral immunity, IFN-alpha/beta. This could have
+important implications in the virulence and spread of MV.
+
+DOI: 10.1128/jvi.74.16.7478-7484.2000 
+PMCID: PMC112268
+PMID: 10906201  [Indexed for MEDLINE]
+

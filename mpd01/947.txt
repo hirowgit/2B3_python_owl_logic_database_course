@@ -1,0 +1,83 @@
+
+
+947. J Vet Med Sci. 2017 Feb 4;79(2):267-272. doi: 10.1292/jvms.16-0459. Epub 2016 Nov
+26.
+
+Cloning and expression of a novel catechol-O-methyltransferase in common
+marmosets.
+
+Uehara S(1), Uno Y, Inoue T, Sasaki E, Yamazaki H.
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo 194-8543, Japan.
+
+Catechol-O-methyltransferase (COMT) catalyzes the O-methylation of endogenous
+catechol amines and estrogens and exogenous catechol-type of drugs. A Parkinson's
+disease model of common marmoset (Callithrix jacchus) has been widely used in
+preclinical studies to evaluate inhibitory potential of new drug candidates on
+marmoset COMT. Despite COMT inhibitors could potentiate the pharmacological
+action of levodopa on Parkinson's disease in animal models, marmoset COMT cDNA
+has not yet been identified and characterized. In this study, a cDNA highly
+homologous to human COMT was cloned from marmoset livers. This cDNA encoded 268
+amino acids containing a transmembrane region and critical amino acid residues
+for catalytic function. The amino acid sequences of marmoset COMT shared high
+sequence identity (90%) with human COMT. COMT mRNA was expressed in all five
+tissues tested, including brain, lung, liver, kidney and small intestine, and was
+more abundant in marmoset liver and kidney. Membrane-bound COMT was
+immunochemically detected in livers and kidneys, whereas soluble COMT was
+detected in livers, similar to humans. These results indicated that the molecular
+characteristics of marmoset COMT were generally similar to the human ortholog.
+
+DOI: 10.1292/jvms.16-0459 
+PMCID: PMC5326929
+PMID: 27890888  [Indexed for MEDLINE]
+
+
+948. J Immunol Methods. 2017 Feb;441:39-48. doi: 10.1016/j.jim.2016.11.011. Epub 2016 
+Nov 24.
+
+Systematic evaluation of monoclonal antibodies and immunoassays for the detection
+of Interferon-γ and Interleukin-2 in old and new world non-human primates.
+
+Höglind A(1), Areström I(1), Ehrnfelt C(1), Masjedi K(1), Zuber B(2), Giavedoni
+L(3), Ahlborg N(4).
+
+Author information: 
+(1)Mabtech, Box 1233, SE-131 28, Nacka Strand, Sweden.
+(2)Swedish Orphan Biovitrum AB, SE-112 76 Stockholm, Sweden.
+(3)Departments of Virology and Immunology and Southwest National Primate Research
+Center, Texas Biomedical Research Institute, San Antonio, TX 78245-0549, USA.
+(4)Mabtech, Box 1233, SE-131 28, Nacka Strand, Sweden; Department of Immunology, 
+Stockholm University, SE-106 91 Stockholm, Sweden. Electronic address:
+niklas@mabtech.com.
+
+Non-human primates (NHP) provide important animal models for studies on immune
+responses to infections and vaccines. When assessing cellular immunity in NHP,
+cytokines are almost exclusively analyzed utilizing cross-reactive anti-human
+antibodies. The functionality of antibodies has to be empirically established for
+each assay/application as well as NHP species. A rational approach was employed
+to identify monoclonal antibodies (mAb) cross-reactive with many NHP species.
+Panels of new and established mAbs against human Interferon (IFN)-γ and
+Interleukin (IL)-2 were assessed for reactivity with eukaryotically expressed
+recombinant IFN-γ and IL-2, respectively, from Old (rhesus, cynomolgus and
+pigtail macaques, African green monkey, sooty mangabey and baboon) and New World 
+NHP (Ma's night monkey, squirrel monkey and common marmoset). Pan-reactive mAbs, 
+recognizing cytokines from all NHP species, were further analyzed in capture
+assays and flow cytometry with NHP peripheral blood mononuclear cells (PBMC).
+Pan-reactive mAb pairs for IFN-γ well as IL-2 were identified and used in ELISA
+to measure IFN-γ and IL-2, respectively, in Old and New World NHP PBMC
+supernatants. The same mAb pairs displayed high functionality in ELISpot and
+FluoroSpot for the measurement of antigen-specific IFN-γ and IL-2 responses using
+cynomolgus PBMC. Functionality of pan-reactive mAbs in flow cytometry was also
+verified with cynomolgus PBMC. The development of well-defined immunoassays
+functional with a panel of NHP species facilitates improved analyses of cellular 
+immunity and enables inclusion in multiplex cytokine assays intended for a
+variety of NHP.
+
+Copyright © 2016 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jim.2016.11.011 
+PMCID: PMC5563966
+PMID: 27889562  [Indexed for MEDLINE]
+

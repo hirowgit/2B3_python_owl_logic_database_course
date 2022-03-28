@@ -1,0 +1,102 @@
+
+
+575. Sci Rep. 2019 Jan 17;9(1):159. doi: 10.1038/s41598-018-36477-y.
+
+High expression of acidic chitinase and chitin digestibility in the stomach of
+common marmoset (Callithrix jacchus), an insectivorous nonhuman primate.
+
+Tabata E(1)(2), Kashimura A(1), Uehara M(1), Wakita S(1), Sakaguchi M(1),
+Sugahara Y(1), Yurimoto T(3), Sasaki E(3), Matoska V(4), Bauer PO(4)(5), Oyama
+F(6).
+
+Author information: 
+(1)Department of Chemistry and Life Science, Kogakuin University, Hachioji,
+Tokyo, 192-0015, Japan.
+(2)Research Fellow of Japan Society for the Promotion of Science (DC1),
+Koujimachi, Chiyoda-ku, Tokyo, 102-0083, Japan.
+(3)Central Institute for Experimental Animals, Tonomachi, Kawasaki, Kanagawa,
+210-0821, Japan.
+(4)Laboratory of Molecular Diagnostics, Department of Clinical Biochemistry,
+Hematology and Immunology, Homolka Hospital, Roentgenova 37/2, Prague, 150 00,
+Czech Republic.
+(5)Bioinova Ltd., Videnska 1083, Prague, 142 20, Czech Republic.
+(6)Department of Chemistry and Life Science, Kogakuin University, Hachioji,
+Tokyo, 192-0015, Japan. f-oyama@cc.kogakuin.ac.jp.
+
+Chitin is a polymer of N-acetyl-D-glucosamine (GlcNAc) and a main constituent of 
+insects' exoskeleton. Insects are rich in protein with high energy conversion
+efficiency. Recently, we have reported that acidic chitinases (Chia) act as
+digestive enzymes in mouse, pig and chicken (omnivorous) but not in dog
+(carnivorous) and bovine (herbivorous), indicating that feeding behavior affects 
+Chia expression levels, and determines chitin digestibility in the particular
+animals. Common marmoset (Callithrix jacchus) belongs to New World monkey family 
+and provides a potential bridge between mouse models and human diseases. Common
+marmoset is an insectivorous nonhuman primate with unknown expression levels and 
+enzymatic functions of the Chia homologue, CHIA. Here, we report that common
+marmoset highly expresses pepsin-, trypsin- and chymotrypsin-resistant CHIA in
+the stomach. We show that CHIA is most active at pH 2.0 and degrades chitin and
+mealworm shells into GlcNAc dimers under gastrointestinal conditions. Although
+common marmoset and crab-eating monkey (Old World monkey) have two CHIA genes in 
+their genomes, they primarily express one gene in the stomach. Thus, this study
+is the first to investigate expression levels and enzymatic functions of CHIA in 
+a New World primate, contributing to the understanding of dietary adaptation and 
+digestion in this taxon.
+
+DOI: 10.1038/s41598-018-36477-y 
+PMCID: PMC6336882
+PMID: 30655565  [Indexed for MEDLINE]
+
+
+576. J Neurosci. 2019 Mar 6;39(10):1855-1866. doi: 10.1523/JNEUROSCI.2703-18.2019.
+Epub 2019 Jan 16.
+
+Alpha Oscillations Modulate Preparatory Activity in Marmoset Area 8Ad.
+
+Johnston K(1), Ma L(1), Schaeffer L(2), Everling S(3)(2).
+
+Author information: 
+(1)Department of Physiology and Pharmacology, The University of Western Ontario, 
+London, Ontario N6A 3K7, Canada, and.
+(2)Robarts Research Institute, The University of Western Ontario, London, Ontario
+N6A 5B7, Canada.
+(3)Department of Physiology and Pharmacology, The University of Western Ontario, 
+London, Ontario N6A 3K7, Canada, and severlin@uwo.ca.
+
+Cognitive control often requires suppression of prepotent stimulus-driven
+responses in favor of less potent alternatives. Suppression of prepotent saccades
+has been shown to require proactive inhibition in the frontoparietal saccade
+network. Electrophysiological evidence in macaque monkeys has revealed neural
+correlates of such inhibition in this network; however, the interlaminar
+instantiation of inhibitory processes remains poorly understood because these
+areas lie deep within sulci in macaques, rendering them inaccessible to laminar
+recordings. Here, we addressed this gap by exploiting the mostly lissencephalic
+cortex of the common marmoset (Callithrix jacchus). We inserted linear electrode 
+arrays into areas 8Ad-the putative marmoset frontal eye field-and the lateral
+intraparietal area of two male marmosets and recorded neural activity during
+performance of a task comprised of alternating blocks of trials requiring a
+saccade either toward a large, high-luminance stimulus or the inhibition of this 
+prepotent response in favor of a saccade toward a small, low-luminance stimulus. 
+We observed prominent task-dependent activity in both alpha/gamma bands of the
+LFP and discharge rates of single neurons in area 8Ad during a prestimulus task
+epoch in which the animals had been instructed which of these two tasks to
+perform but before peripheral stimulus onset. These data are consistent with a
+model in which rhythmic alpha-band activity in deeper layers inhibits spiking in 
+upper layers to support proactive inhibitory saccade control.SIGNIFICANCE
+STATEMENT Failures to inhibit automatic saccadic responses are a hallmark of many
+neuropsychiatric disorders, but how this process is implemented across the
+cortical layers in the frontoparietal saccade network remains unknown because
+many of the areas are inaccessible to laminar recordings in macaques. Here, we
+investigated laminar neural activity in marmoset monkeys, which have a smooth
+cortex. Monkeys were required either to generate or inhibit a prepotent saccade
+response. In area 8Ad, the putative frontal eye field in marmosets, rhythmic
+alpha-band activity (9-14 Hz) was higher in deeper layers and spiking activity
+was lower in upper layers when the animals were instructed to suppress a saccade 
+toward a peripheral stimulus. Reduced alpha power during task preparation may be 
+the underlying common neural basis of a saccade suppression deficit.
+
+Copyright © 2019 the authors 0270-6474/19/391855-12$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.2703-18.2019 
+PMCID: PMC6407288
+PMID: 30651331  [Indexed for MEDLINE]
+

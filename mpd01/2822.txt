@@ -1,0 +1,77 @@
+
+
+2822. J Biol Chem. 2004 Jul 16;279(29):29944-51. Epub 2004 Apr 29.
+
+An Hsp27-related, dominant-negative-acting intracellular estradiol-binding
+protein.
+
+Chen H(1), Hewison M, Hu B, Sharma M, Sun Z, Adams JS.
+
+Author information: 
+(1)Division of Endocrinology, Diabetes, and Metabolism, Cedars-Sinai Medical
+Center, UCLA School of Medicine, Los Angeles, California 90048, USA.
+
+New World primates (NWPs) exhibit a compensated form of resistance to gonadal
+steroid hormones. We demonstrated recently that estrogen resistance in NWP cells 
+was associated with the overexpression of two proteins, a nonreceptor-related,
+dominant-negative-acting estrogen response element (ERE)-binding protein (ERE-BP)
+and an intracellular estradiol-binding protein (IEBP). Based on the N-terminal
+sequences of tryptic fragments of IEBP isolated from a 17beta-estradiol (E2)
+affinity column we cloned a full-length cDNA for IEBP from the estrogen-resistant
+NWP cell line, B95-8. Subsequent sequence analysis revealed 87% sequence identity
+between the deduced peptide for IEBP and human Hsp27. When hormone-responsive,
+wild-type Old World primate (OWP) cells were transiently transfected with IEBP
+cDNA, E2-directed ERE reporter luciferase activity was reduced by 50% compared
+with vector only-transfected OWP cells (p < 0.0018). When IEBP and ERE-BP were
+cotransfected, ERE promoter-reporter activity was reduced by a further 60% (p <
+0.0001). Electrophoresis mobility shift analyses showed that IEBP neither bound
+to ERE nor competed with the estrogen receptor (ER) for binding to ERE. However, 
+there was evidence of protein-protein interaction of IEBP and ERalpha; IEBP was
+coimmunoprecipitated with anti-ERalpha antibody in wild-type cells stably
+transfected with IEBP. A specific interaction between ERalpha and IEBP was
+confirmed in glutathione S-transferase pull-down and yeast two-hybrid assays.
+Data indicate that the Hsp27-related IEBP interacts with the ligand binding
+domain of the ERalpha. In summary, by inhibiting the ERalpha-E2 interaction, IEBP
+acts to squelch ERalpha-directed ERE-regulated transactivation and promote
+estrogen resistance in NWP cells.
+
+DOI: 10.1074/jbc.M401317200 
+PMID: 15123601  [Indexed for MEDLINE]
+
+
+2823. Mol Cell Biol. 2004 May;24(10):4522-33.
+
+The Herpesvirus saimiri small nuclear RNAs recruit AU-rich element-binding
+proteins but do not alter host AU-rich element-containing mRNA levels in virally 
+transformed T cells.
+
+Cook HL(1), Mischo HE, Steitz JA.
+
+Author information: 
+(1)Department of Molecular Biophysics and Biochemistry, Howard Hughes Medical
+Institute, Yale University, New Haven, Connecticut 06536, USA.
+
+Herpesvirus saimiri (HVS) encodes seven Sm-class small nuclear RNAs, called HSURs
+(for Herpesvirus saimiri U RNAs), that are abundantly expressed in
+HVS-transformed, latently infected marmoset T cells but are of unknown function. 
+HSURs 1, 2, and 5 have highly conserved 5'-end sequences containing the AUUUA
+pentamer characteristic of AU-rich elements (AREs) that regulate the stability of
+many host mRNAs, including those encoding most proto-oncogenes and cytokines. To 
+test whether the ARE-containing HSURs act to sequester host proteins that
+regulate the decay of these mRNAs, we demonstrate their in vivo interaction with 
+the ARE-binding proteins hnRNP D and HuR in HVS-transformed T cells using a new
+cross-linking assay. Comprehensive Northern and microarray analyses revealed,
+however, that the levels of endogenous ARE-containing mRNAs are not altered in T 
+cells latently infected with HVS mutants lacking HSURs 1 and 2. HSUR 1 binds the 
+destabilizing ARE-binding protein tristetraprolin induced following activation of
+HVS-transformed T cells, but even in such stimulated cells, the levels of host
+ARE-containing mRNAs are not altered by deletion of HSURs 1 and 2. Instead, HSUR 
+1 itself is degraded by an ARE-dependent pathway in HVS-transformed T cells,
+suggesting that HVS may take advantage of the host ARE-mediated mRNA decay
+pathway to regulate HSUR expression. This is the first example of
+posttranscriptional regulation of the expression of an Sm small nuclear RNA.
+
+DOI: 10.1128/MCB.24.10.4522-4533.2004 
+PMCID: PMC400482
+PMID: 15121869  [Indexed for MEDLINE]
+

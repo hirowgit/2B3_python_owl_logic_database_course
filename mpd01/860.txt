@@ -1,0 +1,81 @@
+
+
+860. Neurosci Res. 2017 Nov;124:57-62. doi: 10.1016/j.neures.2017.06.002. Epub 2017
+Jun 9.
+
+Visual discrimination and reversal learning in aged common marmosets (Callithrix 
+jacchus).
+
+Munger EL(1), Takemoto A(2), Raghanti MA(1), Nakamura K(3).
+
+Author information: 
+(1)Department of Anthropology and School of Biomedical Sciences, Kent State
+University, Kent, OH 44242, USA.
+(2)Cognitive Neuroscience Section, Primate Research Institute, Kyoto University, 
+41-2 Kanrin, Inuyama, Aichi 484-8506, Japan.
+(3)Cognitive Neuroscience Section, Primate Research Institute, Kyoto University, 
+41-2 Kanrin, Inuyama, Aichi 484-8506, Japan. Electronic address:
+nakamura.katsuki.4z@kyoto-u.ac.jp.
+
+Common marmosets (Callithrix jacchus) have been suggested as a new model for
+analysis of age-related changes and neurodegenerative diseases. However, the
+effects of age on learning and memory processes are not well defined within this 
+species. Therefore, we employed visual discrimination and reversal learning tasks
+to evaluate learning and memory in four aged common marmosets relative to a
+younger cohort. We found that aged marmosets commit significantly more errors in 
+initial stages of visual discrimination and more perseverative errors in reversal
+learning, indicating prefrontal dysfunction. However, they showed comparable
+performance with younger marmosets in the later stages of both tasks.
+
+Copyright © 2017 Elsevier Ireland Ltd and Japan Neuroscience Society. All rights 
+reserved.
+
+DOI: 10.1016/j.neures.2017.06.002 
+PMID: 28602996  [Indexed for MEDLINE]
+
+
+861. Sci Rep. 2017 Jun 6;7(1):2873. doi: 10.1038/s41598-017-03105-0.
+
+Targeted Patching and Dendritic Ca2+ Imaging in Nonhuman Primate Brain in vivo.
+
+Ding R(1)(2), Liao X(2), Li J(2), Zhang J(2), Wang M(2), Guang Y(2), Qin H(2), Li
+X(2), Zhang K(2), Liang S(2), Guan J(2), Lou J(2), Jia H(3), Chen B(4), Shen
+H(5), Chen X(6)(7).
+
+Author information: 
+(1)School of Biomedical Engineering, Tianjin Medical University, Tianjin, China.
+(2)Brain Research Center, Third Military Medical University, Chongqing, China.
+(3)Brain Research Instrument Innovation Center, Suzhou Institute of Biomedical
+Engineering and Technology, Chinese Academy of Sciences, Suzhou, China.
+(4)Laboratory Animal Center, Third Military Medical University, Chongqing, China.
+chenbb81@126.com.
+(5)School of Biomedical Engineering, Tianjin Medical University, Tianjin, China. 
+shenhui@tmu.edu.cn.
+(6)Brain Research Center, Third Military Medical University, Chongqing, China.
+xiaowei_chen@tmmu.edu.cn.
+(7)CAS Center for Excellence in Brain Science and Intelligence Technology,
+Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences,
+Shanghai, China. xiaowei_chen@tmmu.edu.cn.
+
+Nonhuman primates provide an important model not only for understanding human
+brain but also for translational research in neurological and psychiatric
+disorders. However, many high-resolution techniques for recording neural activity
+in vivo that were initially established for rodents have not been yet applied to 
+the nonhuman primate brain. Here, we introduce a combination of two-photon
+targeted patching and dendritic Ca2+ imaging to the neocortex of adult common
+marmoset, an invaluable primate model for neuroscience research. Using targeted
+patching, we show both spontaneous and sensory-evoked intracellular dynamics of
+visually identified neurons in the marmoset cortex. Using two-photon Ca2+ imaging
+and intracellular pharmacological manipulation, we report both
+action-potential-associated global and synaptically-evoked NMDA
+(N-methyl-D-aspartate) receptor-mediated local Ca2+ signals in dendrites and
+spines of the superficial-layer cortical neurons. Therefore, we demonstrate the
+presence of synaptic Ca2+ signals in neuronal dendrites in living nonhuman
+primates. This work represents a proof-of-principle for exploring the primate
+brain functions in vivo by monitoring neural activity and morphology at a
+subcellular resolution.
+
+DOI: 10.1038/s41598-017-03105-0 
+PMCID: PMC5460116
+PMID: 28588297  [Indexed for MEDLINE]
+

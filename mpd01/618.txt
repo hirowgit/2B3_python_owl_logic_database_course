@@ -1,0 +1,94 @@
+
+
+618. J Neurosci Methods. 2019 Jan 1;311:147-155. doi: 10.1016/j.jneumeth.2018.10.023. 
+Epub 2018 Oct 19.
+
+Enhancement of the transduction efficiency of a lentiviral vector for
+neuron-specific retrograde gene delivery through the point mutation of fusion
+glycoprotein type E.
+
+Kato S(1), Sugawara M(1), Kobayashi K(2), Kimura K(3), Inoue KI(4), Takada M(3), 
+Kobayashi K(5).
+
+Author information: 
+(1)Department of Molecular Genetics, Institute of Biomedical Sciences, Fukushima 
+Medical University School of Medicine, Fukushima 960-1295, Japan.
+(2)Section of Viral Vector Development, National Institute for Physiological
+Sciences, Okazaki 444-8585, Japan.
+(3)Systems Neuroscience Primate Research Institute, Kyoto University, Inuyama
+484-8506, Japan.
+(4)Systems Neuroscience Primate Research Institute, Kyoto University, Inuyama
+484-8506, Japan; PRESTO, Japan Science and Technology Agency, Kawaguchi, Saitama 
+332-0012, Japan.
+(5)Department of Molecular Genetics, Institute of Biomedical Sciences, Fukushima 
+Medical University School of Medicine, Fukushima 960-1295, Japan. Electronic
+address: kazuto@fmu.ac.jp.
+
+BACKGROUND: Pseudotyping of a lentiviral vector with fusion glycoproteins
+composed of rabies virus glycoprotein (RVG) and vesicular stomatitis virus
+glycoprotein (VSVG) segments achieves high gene transfer efficiency through
+retrograde transport in the nervous system. In our previous study, we determined 
+the junction of RVG/VSVG segments of glycoproteins that enhances the transduction
+efficiency of the neuron-specific retrograde gene transfer (NeuRet) vector
+(termed fusion glycoprotein type E or FuG-E).
+NEW METHOD: We aimed to optimize the amino acid residue at position 440 in the
+membrane-proximal region of FuG-E to improve the efficiency of retrograde gene
+transfer in the brain.
+RESULTS: We constructed variants of FuG-E with 18 kinds of single amino acid
+substitutions at residue 440 to generate lentiviral vectors pseudotyped with
+these variants, and tested in vivo gene transfer of the vectors in the mouse
+brain. The FuG-E (P440E) variant, in which proline was substituted by glutamate
+at residue 440 in FuG-E, showed the greatest retrograde gene transfer efficiency 
+in the brain, bearing the property of the NeuRet vector. The FuG-E (P440E)
+pseudotype also displayed efficient retrograde gene transfer in the common
+marmoset brain.
+COMPARISON WITH EXISTING METHODS: The NeuRet vector with the FuG-E (P440E)
+variant demonstrated higher retrograde gene transfer efficiency into different
+neural pathways compared with the parental FuG-E vector.
+CONCLUSIONS: The FuG-E (P440E) pseudotype provides a powerful tool to investigate
+neural circuit mechanisms underlying various brain functions and for gene therapy
+trials of neurological and neurodegenerative diseases.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2018.10.023 
+PMID: 30347222  [Indexed for MEDLINE]
+
+
+619. J Med Primatol. 2019 Feb;48(1):32-42. doi: 10.1111/jmp.12388. Epub 2018 Oct 21.
+
+Comparison of semen characteristics and sperm cryopreservation in common marmoset
+(Callithrix jacchus) and black-tufted-ear marmoset (Callithrix penicillata).
+
+Arakaki PR(1), Nichi M(1), Monteiro FOB(2), Muniz JAPC(3), Guimarães MABV(1),
+Valle RDRD(4).
+
+Author information: 
+(1)Department of Animal Reproduction, College of Veterinary Medicine and Animal
+Science, University of São Paulo, São Paulo, SP, Brazil.
+(2)Postgraduate Program in Animal Health and Production in Amazonia, Federal
+Rural University of the Amazon, Belém, PA, Brazil.
+(3)National Primate Center, Health Ministry, Ananindeua, PA, Brazil.
+(4)Institute of Health Sciences, Paulista University, São Paulo, SP, Brazil.
+
+BACKGROUND: The common marmoset (Callithrix jacchus) is one of the most studied
+Neotropical primates regarding reproduction. However, little has been reported on
+the black-tufted-ear marmoset (Callithrix penicillata), which may produce fertile
+hybrids with other Callithrix. This is the first study to evaluate sperm freezing
+from black-tufted-ear marmoset.
+METHODS: Testicles from all animals were measured, and semen was collected by
+penile vibrostimulation. Samples were analyzed after collection, after chilling
+and addition of glycerol, and after thawing.
+RESULTS AND CONCLUSIONS: Fresh semen from both species was similar in many
+aspects. Additionally, there is a relationship between total motility, plasma
+membrane integrity, and acrosome integrity observed in sperm samples from both
+species. We managed to evaluate fresh and thawed sperm with suitable methods for 
+use under zoo or field conditions. However, TEST egg yolk with glycerol at 4% and
+6% concentration was not effective for sperm protection in both species during
+cryopreservation.
+
+© 2018 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jmp.12388 
+PMID: 30345513  [Indexed for MEDLINE]
+

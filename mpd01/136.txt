@@ -1,0 +1,80 @@
+
+
+136. Drug Metab Pharmacokinet. 2021 Aug;39:100398. doi: 10.1016/j.dmpk.2021.100398.
+Epub 2021 Apr 17.
+
+Cloning, sequence analysis, and tissue expression of marmoset paraoxonase 1.
+
+Uehara S(1), Uno Y(2), Shimizu M(1), Yamazaki H(3).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Japan.
+(2)Joint Faculty of Veterinary Medicine, Kagoshima University, Kagoshima-city,
+Japan.
+(3)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Japan. Electronic address: hyamazak@ac.shoyaku.ac.jp.
+
+Paraoxonase (PON) plays roles in the metabolism of organophosphate xenobiotics
+and drugs. Despite the importance of marmosets for research into drug metabolism 
+and pharmacokinetics, marmoset paraoxonase has not yet been fully characterized. 
+Consequently, we identified the PON1 gene in the marmoset genome by sequence
+homology analysis. Marmoset PON1 cDNA containing an open reading frame (1065 bp) 
+was successfully cloned from marmoset liver by reverse transcription-polymerase
+chain reaction. The deduced amino acid sequence (355 amino acids) has
+approximately 93% identity with the human ortholog and contains important amino
+acid residues for substrate binding and calcium ion coordination. According to a 
+phylogenetic tree of PON1 amino acid sequences constructed using data from seven 
+animal species, marmoset PON1 is closer to human PON1 than it is to the PON1
+orthologs of experimental animals such as pigs, rabbits, rats, and mice. Marmoset
+PON1 mRNA was predominantly expressed in liver among the five tissues examined.
+Marmoset PON1 protein secreted into plasma was detected by immunoblotting. The
+paraoxon-hydrolyzing activity in plasma was higher in marmosets than in humans.
+Based on these data, we concluded that marmoset and human PON1 have similar
+characteristics with regard to genomic structure, amino acid sequences, and
+tissue distribution.
+
+Copyright © 2021 The Japanese Society for the Study of Xenobiotics. Published by 
+Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.dmpk.2021.100398 
+PMID: 33992953  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that there are no conflicts of interest.
+
+
+137. ILAR J. 2020 Dec 31;61(2-3):199-217. doi: 10.1093/ilar/ilab012.
+
+Clinical Management of Gastrointestinal Disease in the Common Marmoset
+(Callithrix jacchus).
+
+Fitz C(1), Goodroe A(2), Wierenga L(1)(3), Mejia A(1), Simmons H(1).
+
+Author information: 
+(1)Wisconsin National Primate Research Center at the University of
+Wisconsin-Madison, Madison, Wisconsin, USA.
+(2)Texas Biomedical Research Institute and Southwest National Primate Research
+Center in San Antonio, Texas, USA.
+(3)Research Animal Resources and Compliance at the University of
+Wisconsin-Madison, Madison, Wisconsin, USA.
+
+Gastrointestinal disease is a frequently encountered problem among captive common
+marmoset (Callithrix jacchus) colonies. Management can be challenging due to the 
+number of etiologies responsible for gastrointestinal disease in this species,
+limitations on diagnostic capabilities, and lack of effective treatments.
+Understanding commonly described GI diseases in the captive marmoset can provide 
+insight on the impact these diseases have on research studies and aid in the
+development of appropriate management strategies. A review of commonly
+encountered GI disease processes as well as routinely implicated causes of GI
+disease in the common marmoset are provided. Current strategies in clinical
+management of GI disease in the common marmoset, including approaches to colony
+health, diagnostic testing, and commonly employed treatments are discussed.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the
+National Academies of Sciences, Engineering, and Medicine. All rights reserved.
+For permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/ilar/ilab012 
+PMID: 33989417 
+

@@ -1,0 +1,57 @@
+
+
+1236. PLoS One. 2015 May 4;10(5):e0125295. doi: 10.1371/journal.pone.0125295.
+eCollection 2015.
+
+Preclinical Study of Novel Gene Silencer Pyrrole-Imidazole Polyamide Targeting
+Human TGF-β1 Promoter for Hypertrophic Scars in a Common Marmoset Primate Model.
+
+Igarashi J(1), Fukuda N(2), Inoue T(3), Nakai S(1), Saito K(1), Fujiwara K(1),
+Matsuda H(1), Ueno T(4), Matsumoto Y(5), Watanabe T(6), Nagase H(6), Bando T(7), 
+Sugiyama H(7), Itoh T(3), Soma M(8).
+
+Author information: 
+(1)Department of General Medicine, Nihon University School of Medicine, Tokyo,
+Japan.
+(2)Division of Life Science, Advanced Research Institute for the Sciences and
+Humanities, Nihon University Graduate School, Tokyo, Japan; Division of
+Nephrology Hypertension and Endocrinology, Department of Medicine, Nihon
+University School of Medicine, Tokyo, Japan.
+(3)Marmoset Research Department, Central Institute for Experimental Animals,
+Kanagawa, Japan.
+(4)Division of Nephrology Hypertension and Endocrinology, Department of Medicine,
+Nihon University School of Medicine, Tokyo, Japan.
+(5)Department of Clinical Pharmacokinetics, College of Pharmacy, Nihon
+University, Chiba, Japan.
+(6)Department of Cancer Genetics, Chiba Cancer Center Research Institute, Chiba, 
+Japan.
+(7)Department of Chemistry, Kyoto University Graduate School, Kyoto, Japan.
+(8)Department of General Medicine, Nihon University School of Medicine, Tokyo,
+Japan; Division of Nephrology Hypertension and Endocrinology, Department of
+Medicine, Nihon University School of Medicine, Tokyo, Japan.
+
+We report a preclinical study of a pyrrole-imidazole (PI) polyamide that targets 
+the human transforming growth factor (hTGF)-β1 gene as a novel transcriptional
+gene silencer in a common marmoset primate model. We designed and then
+synthesized PI polyamides to target the hTGF-β1 promoter. We examined effects of 
+seven PI polyamides (GB1101-1107) on the expression of hTGF-β1 mRNA stimulated
+with phorbol 12-myristate 13-acetate (PMA) in human vascular smooth muscle cells.
+GB1101, GB1105 and GB1106 significantly inhibited hTGF-β1 mRNA expression. We
+examined GB1101 as a PI polyamide to hTGF-β1 for hypertrophic scars in marmosets 
+in vivo. Injection of GB1101 completely inhibited hypertrophic scar formation at 
+35 days post-incision and inhibited cellular infiltration, TGF-β1 and vimentin
+staining, and epidermal thickness. Mismatch polyamide did not affect hypertrophic
+scarring or histological changes. Epidermis was significantly thinner with GB1101
+than with water and mismatch PI polyamides. We developed the PI polyamides for
+practical ointment medicines for the treatment of hypertrophic scars.
+FITC-labeled GB1101 with solbase most efficiently distributed in the nuclei of
+epidermal keratinocytes, completely suppressed hypertropic scarring at 42 days
+after incision, and considerably inhibited epidermal thickness and
+vimentin-positive fibroblasts. PI polyamides targeting hTGF-β1 promoter with
+solbase ointment will be practical medicines for treating hypertrophic scars
+after surgical operations and skin burns.
+
+DOI: 10.1371/journal.pone.0125295 
+PMCID: PMC4418757
+PMID: 25938472  [Indexed for MEDLINE]
+

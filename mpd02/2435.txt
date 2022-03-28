@@ -1,0 +1,30 @@
+
+
+2435. Mol Cell Proteomics. 2007 May;6(5):895-907. Epub 2007 Jan 29.
+
+Elongation of axons during regeneration involves retinal crystallin beta b2
+(crybb2).
+
+Liedtke T(1), Schwamborn JC, Schröer U, Thanos S.
+
+Author information: 
+(1)Department of Experimental Ophthalmology, University of Münster, Germany.
+
+Adult retinal ganglion cells (RGCs) can regenerate their axons in vitro. Using
+proteomics, we discovered that the supernatants of cultured retinas contain
+isoforms of crystallins with crystallin beta b2 (crybb2) being clearly
+up-regulated in the regenerating retina. Immunohistochemistry revealed the
+expression of crybb within the retina, including in filopodial protrusions and
+axons of RGCs. Cloning and overexpression of crybb2 in RGCs and hippocampal
+neurons increased axonogenesis, which in turn could be blocked with antibodies
+against beta-crystallin. Conditioned medium from crybb2-transfected cell cultures
+also supported the growth of axons. Finally real time imaging of the uptake of
+green fluorescent protein-tagged crybb2 fusion protein showed that this protein
+becomes internalized. These data are the first to show that axonal regeneration
+is related to crybb2 movement. The results suggest that neuronal crystallins
+constitute a novel class of neurite-promoting factors that likely operate through
+an autocrine mechanism and that they could be used in neurodegenerative diseases.
+
+DOI: 10.1074/mcp.M600245-MCP200 
+PMID: 17264069  [Indexed for MEDLINE]
+

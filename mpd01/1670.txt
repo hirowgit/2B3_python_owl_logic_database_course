@@ -1,0 +1,78 @@
+
+
+1670. Zoo Biol. 2013 Mar;32(2):230-7. doi: 10.1002/zoo.21039. Epub 2012 Aug 13.
+
+Species management benchmarking: outcomes over outputs in a changing operating
+environment.
+
+Hogg CJ(1), Hibbard C, Ford C, Embury A.
+
+Author information: 
+(1)Zoo and Aquarium Association Australasia - Sydney, Australia.
+carolyn@zooaquarium.org.au
+
+Species management has been utilized by the zoo and aquarium industry, since the 
+mid-1990s, to ensure the ongoing genetic and demographic viability of
+populations, which can be difficult to maintain in the ever-changing operating
+environments of zoos. In 2009, the Zoo and Aquarium Association Australasia
+reviewed their species management services, focusing on addressing issues that
+had arisen as a result of the managed programs maturing and operating
+environments evolving. In summary, the project examined resourcing, policies,
+processes, and species to be managed. As a result, a benchmarking tool was
+developed (Health Check Report, HCR), which evaluated the programs against a set 
+of broad criteria. A comparison of managed programs (n = 98), between 2008 and
+2011, was undertaken to ascertain the tool's effectiveness. There was a marked
+decrease in programs that were designated as weak (37 down to 13); and an
+increase in excellent programs (24 up to 49) between the 2 years. Further, there 
+were significant improvements in the administration benchmarking area (submission
+of reports, captive management plan development) across a number of taxon
+advisory groups. This HCR comparison showed that a benchmarking tool enables a
+program's performance to be quickly assessed and any remedial measures applied.
+The increases observed in program health were mainly due to increased management 
+goals being attained. The HCR will be an ongoing program, as the management of
+the programs increases and goals are achieved, criteria will be refined to better
+highlight ongoing issues and ways in which these can be resolved.
+
+© 2012 Wiley Periodicals, Inc.
+
+DOI: 10.1002/zoo.21039 
+PMID: 22890874  [Indexed for MEDLINE]
+
+
+1671. Am J Primatol. 2012 Dec;74(12):1088-96. doi: 10.1002/ajp.22063. Epub 2012 Aug 13.
+
+Contrast imaging ultrasound detects abnormalities in the marmoset ovary.
+
+Hastings JM(1), Morris KD, Allan D, Wilson H, Millar RP, Fraser HM, Moran CM.
+
+Author information: 
+(1)MRC Centre for Reproductive Health, Queen's Medical Research Institute,
+Edinburgh, United Kingdom. juliemhastings@gmail.com
+
+The development of a functional vascular tree within the primate ovary is
+critical for reproductive health. To determine the efficacy of contrast agents to
+image the microvascular environment within the primate ovary, contrast
+ultrasonography was performed in six reproductive-aged female common marmosets
+(Callithrix jacchus) during the late luteal phase of the cycle, following
+injection of Sonovue™. Regions of interest (ROIs), representing the corpus luteum
+(CL) and noncorpus luteum ovarian tissue (NCLOT), were selected during gray-scale
+B-mode ultrasound imaging. The magnitude of backscatter intensity of CL and NCLOT
+ROIs were calculated in XnView, post hoc: subsequent gamma-variate modeling was
+implemented in Matlab to determine perfusion parameters. Histological analysis of
+these ovaries revealed a total of 11 CL, nine of which were identified during
+contrast ultrasonography. The median enhancement ratio was significantly
+increased in the CL (5.54AU; 95% CI -2.21-68.71) compared to the NCLOT (2.82AU;
+95% CI 2.73-15.06; P < 0.05). There was no difference in time parameters between 
+the CL and NCLOT. An additional avascular ROI was identified in the ovary of
+Animal 5, both histologically and by ultrasonography. This cystic ROI displayed a
+markedly lower enhancement ratio (0.79AU) and higher time parameters than mean CL
+and NCLOT, including time to peak and time to wash out. These data demonstrate,
+for the first time, the ability of commercially available contrast agents, to
+differentiate structures within the nonhuman primate ovary. Contrast-enhanced
+ultrasonography has a promising future in reproductive medicine.
+
+© 2012 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajp.22063 
+PMID: 22890799  [Indexed for MEDLINE]
+

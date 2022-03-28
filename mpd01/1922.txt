@@ -1,0 +1,87 @@
+
+
+1922. Nucleic Acids Res. 2011 May;39(9):3710-23. doi: 10.1093/nar/gkq1325. Epub 2011
+Jan 18.
+
+Species-specific microRNA roles elucidated following astrocyte activation.
+
+Mor E(1), Cabilly Y, Goldshmit Y, Zalts H, Modai S, Edry L, Elroy-Stein O,
+Shomron N.
+
+Author information: 
+(1)Department of Cell and Developmental Biology, Sackler Faculty of Medicine,
+George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 69978,
+Israel.
+
+MicroRNAs (miRNAs) are short non-coding RNAs that play a central role in
+regulation of gene expression by binding to target genes. Many miRNAs were
+associated with the function of the central nervous system (CNS) in health and
+disease. Astrocytes are the CNS most abundant glia cells, providing support by
+maintaining homeostasis and by regulating neuronal signaling, survival and
+synaptic plasticity. Astrocytes play a key role in repair of brain insults, as
+part of local immune reactivity triggered by inflammatory or pathological
+conditions. Thus, astrocyte activation, or astrogliosis, is an important outcome 
+of the innate immune response, which can be elicited by endotoxins such as
+lipopolysaccharide (LPS) and cytokines such as interferon-gamma (IFN-γ). The
+involvement of miRNAs in inflammation and stress led us to hypothesize that
+astrogliosis is mediated by miRNA function. In this study, we compared the miRNA 
+regulatory layer expressed in primary cultured astrocyte derived from rodents
+(mice) and primates (marmosets) brains upon exposure to LPS and IFN-γ. We
+identified subsets of differentially expressed miRNAs some of which are shared
+with other immunological related systems while others, surprisingly, are mouse
+and rat specific. Of interest, these specific miRNAs regulate genes involved in
+the tumor necrosis factor-alpha (TNF-α) signaling pathway, indicating a
+miRNA-based species-specific regulation. Our data suggests that miRNA function is
+more significant in the mechanisms governing astrocyte activation in rodents
+compared to primates.
+
+© The Author(s) 2011. Published by Oxford University Press.
+
+DOI: 10.1093/nar/gkq1325 
+PMCID: PMC3089466
+PMID: 21247879  [Indexed for MEDLINE]
+
+
+1923. J Comp Neurol. 2011 Mar 1;519(4):690-713. doi: 10.1002/cne.22543.
+
+Cellular composition and organization of the subventricular zone and rostral
+migratory stream in the adult and neonatal common marmoset brain.
+
+Sawamoto K(1), Hirota Y, Alfaro-Cervello C, Soriano-Navarro M, He X,
+Hayakawa-Yano Y, Yamada M, Hikishima K, Tabata H, Iwanami A, Nakajima K, Toyama
+Y, Itoh T, Alvarez-Buylla A, Garcia-Verdugo JM, Okano H.
+
+Author information: 
+(1)Department of Developmental and Regenerative Biology, Nagoya City University
+Graduate School of Medical Sciences, Nagoya, Aichi 467-8601, Japan.
+sawamoto@med.nagoya-cu.ac.jp
+
+The adult subventricular zone (SVZ) of the lateral ventricle contains neural stem
+cells. In rodents, these cells generate neuroblasts that migrate as chains toward
+the olfactory bulb along the rostral migratory stream (RMS). The neural-stem-cell
+niche at the ventricular wall is conserved in various animal species, including
+primates. However, it is unclear how the SVZ and RMS organization in nonhuman
+primates relates to that of rodents and humans. Here we studied the SVZ and RMS
+of the adult and neonatal common marmoset (Callithrix jacchus), a New World
+primate used widely in neuroscience, by electron microscopy, and
+immunohistochemical detection of cell-type-specific markers. The marmoset SVZ
+contained cells similar to type B, C, and A cells of the rodent SVZ in their
+marker expression and morphology. The adult marmoset SVZ had a three-layer
+organization, as in the human brain, with ependymal, hypocellular, and
+astrocyte-ribbon layers. However, the hypocellular layer was very thin or absent 
+in the adult-anterior and neonatal SVZ. Anti-PSA-NCAM staining of the anterior
+SVZ in whole-mount ventricular wall preparations of adult marmosets revealed an
+extensive network of elongated cell aggregates similar to the neuroblast chains
+in rodents. Time-lapse recordings of marmoset SVZ explants cultured in Matrigel
+showed the neuroblasts migrating in chains, like rodent type A cells. These
+results suggest that some features of neurogenesis and neuronal migration in the 
+SVZ are common to marmosets, humans, and rodents. This basic description of the
+adult and neonatal marmoset SVZ will be useful for future studies on adult
+neurogenesis in primates.
+
+Copyright © 2010 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.22543 
+PMCID: PMC4096931
+PMID: 21246550  [Indexed for MEDLINE]
+

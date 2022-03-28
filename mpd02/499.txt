@@ -1,0 +1,56 @@
+
+
+499. Am J Primatol. 2019 Oct;81(10-11):e983. doi: 10.1002/ajp.22983. Epub 2019 May 6.
+
+Comparative genomics of Bifidobacterium species isolated from marmosets and
+humans.
+
+Brown CJ(1)(2)(3), Mtui D(1), Oswald BP(1)(3), Van Leuven JT(2), Vallender EJ(4),
+Schultz-Darken N(5), Ross CN(6)(7), Tardif SD(6), Austad SN(8), Forney LJ(1)(3).
+
+Author information: 
+(1)Department of Biological Science, University of Idaho, Moscow, Idaho.
+(2)Center for Modeling Complex Interactions, University of Idaho, Moscow, Idaho.
+(3)Institute for Bioinformatics and Evolutionary Studies, University of Idaho,
+Moscow, Idaho.
+(4)New England Primate Research Center, Harvard Medical School, Southborough,
+Massachusetts.
+(5)Wisconsin National Primate Research Center, University of Wisconsin, Madison, 
+Wisconsin.
+(6)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, Texas.
+(7)Department of Science and Mathematics, Texas A&M University, San Antonio,
+Texas.
+(8)Department of Cellular and Structural Biology, University of Texas Health
+Science Center at San Antonio, San Antonio, Texas.
+
+The genus Bifidobacterium is purported to have beneficial consequences for human 
+health and is a major component of many gastrointestinal probiotics. Although
+species of Bifidobacterium are generally at low relative frequency in the adult
+human gastrointestinal tract, they can constitute high proportions of the
+gastrointestinal communities of adult marmosets. To identify genes that might be 
+important for the maintenance of Bifidobacterium in adult marmosets, ten strains 
+of Bifidobacterium were isolated from the feces of seven adult marmosets, and
+their genomes were sequenced. There were six B. reuteri strains, two B.
+callitrichos strains, one B. myosotis sp. nov. and one B. tissieri sp. nov. among
+our isolates. Phylogenetic analysis showed that three of the four species we
+isolated were most closely related to B. bifidum, B. breve and B. longum, which
+are species found in high abundance in human infants. There were 1357 genes that 
+were shared by at least one strain of B. reuteri, B. callitrichos, B. breve, and 
+B. longum, and 987 genes that were found in all strains of the four species.
+There were 106 genes found in B. reuteri and B. callitrichos but not in human
+bifidobacteria, and several of these genes were involved in nutrient uptake.
+These pathways for nutrient uptake appeared to be specific to Bifidobacterium
+from New World monkeys. Additionally, the distribution of Bifidobacterium in
+fecal samples from captive adult marmosets constituted as much as 80% of the gut 
+microbiome, although this was variable between individuals and colonies. We
+suggest that nutrient transporters may be important for the maintenance of
+Bifidobacterium during adulthood in marmosets.
+
+© 2019 The Authors. American Journal of Primatology Published by Wiley
+Periodicals, Inc.
+
+DOI: 10.1002/ajp.22983 
+PMCID: PMC6900142
+PMID: 31062394  [Indexed for MEDLINE]
+

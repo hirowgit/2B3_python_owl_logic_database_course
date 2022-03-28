@@ -1,0 +1,64 @@
+
+
+780. Protein Pept Lett. 2018 Feb 8;24(12):1166-1178. doi:
+10.2174/0929866524666171110093626.
+
+Experimental Autoimmune Encephalomyelitis (EAE) Model of Cynomolgus Macaques
+Induced by Recombinant Human MOG1-125 (rhMOG1-125) Protein and MOG34-56 Peptide.
+
+Peng Z(1), Zhang L(2), Wang H(3), He X(2), Peng X(2), Zhang Q(2), Liu H(2), Rao
+J(2), Wang H(2), Wu J(1), Sun Y(2).
+
+Author information: 
+(1)Minigene Pharmacy Lab, School of Life Science and Technology, China
+Pharmaceutical University, Nanjing, 210009, Jiangsu, China.
+(2)Guangdong Key Laboratory of Animal Conservation and Resource Utilization,
+Guangdong Public Laboratory of Wild Animal Conservation and Utilization,
+Guangdong Institute of Applied Biological Resources, Guangzhou, 510260, China.
+(3)Department of Pharmaceutical Engineering, School of Light Industry and
+Chemical Engineering, Guangdong University of Technology, Guangzhou , 510260,
+China.
+
+BACKGROUND: Experimental autoimmune encephalomyelitis (EAE) induced by
+self-myelin antigen is a widely used in multiple sclerosis (MS) model for
+preclinical studies of new therapeutics and potential pathogenesis. By comparison
+with rodent EAE models, EAE models in primates are more similar to MS. Some
+groups have developed EAE models in primates by using common marmoset (Callithrix
+jacchus). However, this model has some limitations. EAE in cynomolgus monkey
+(Macaque fasciculrais) could overcome these limitations.
+OBJECTIVES: The main objective of this study was to establish an ideal EAE
+cynomolgus monkey model resembling human MS by immunizing human myelin
+oligodendrocyte glycoprotein (MOG) protein.
+METHODS: In this study, six female cynomolgus monkeys were divided into two
+separate experiment groups and one monkey as the control. EAE was induced in
+cynomolgus monkey by immunizing with the recombinant human myelin oligodendrocyte
+glycoprotein extracellular domain (1-125) (rhMOG1-125) and a synthetic peptide,
+representing peptide 34-56 of human myelin oligodendrocyte glycoprotein
+(MOG34-56) in complete Freund's adjuvant (CFA) by subcutaneous multipoint
+immunization in the armpit and inguinal region and in combination with
+intravenous injection of pertussis toxin, and subsequent booster immunizations
+with the same dose of antigen in incomplete Freund's adjuvant (IFA) until the
+animals developed clinically significant EAE (score≥2). The body weight, clinical
+scores, magnetic resonance imaging (MRI), histopathology, antibody, cytokine
+profiling and antigen-specific lymphocyte proliferation were evaluated.
+RESULTS: The results showed that despite the different time intervals between
+onset and significant neurological deficits, all the cynomolgus monkeys immunized
+with rhMOG1-125 or MOG34-56 developed clinically significant acute fulminant or
+mild forms of EAE, with a success rate of 100%. The clinical courses were obvious
+heterogeneity which closely resembles MS. MOG34-56 immunization was much milder
+compared with rhMOG1-125 immunized individuals, at least in cynomolgus monkeys.
+Inflammation and demyelinated lesions were present in the brains and spinal
+cords. Immune profiling revealed high IgG levels associated with early onset of
+EAE but not the course of the disease. Significant antigen-specific T lymphocyte 
+responses against immunodominant epitopes of MOG were also detected.
+CONCLUSION: Our results indicated rhMOG1-125 and MOG34-56 could induce
+successfully EAE models resembling MS in cynomolgus monkeys. The synergistic
+action of anti-myelin T cells and Abs during the pathogenesis of EAE could
+establish a more ideal EAE model.
+
+Copyright© Bentham Science Publishers; For any queries, please email at
+epub@benthamscience.org.
+
+DOI: 10.2174/0929866524666171110093626 
+PMID: 29141529  [Indexed for MEDLINE]
+

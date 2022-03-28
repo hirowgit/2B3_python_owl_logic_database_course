@@ -1,0 +1,55 @@
+
+
+288. Virus Evol. 2020 Jun 30;6(1):veaa036. doi: 10.1093/ve/veaa036. eCollection 2020
+Jan.
+
+The characterization of two novel neotropical primate papillomaviruses supports
+the ancient within-species diversity model.
+
+D'arc M(1), Moreira FRR(1), Dias CA(1), Souza AR(1), Seuánez HN(2), Soares
+MA(1)(2), Tavares MCH(1), Santos AFA(1).
+
+Author information: 
+(1)Laboratório de Diversidade e Doenças Virais, Departamento de Genética,
+Universidade Federal do Rio de Janeiro, Av. Carlos Chagas Filho, Postal Code
+21941-902, Rio de Janeiro, Brazil.
+(2)Programa de Oncovirologia, Instituto Nacional de Câncer, Rua André Cavalcanti,
+Postal Code 20231-050, Rio de Janeiro, Brazil.
+
+Papillomaviruses (PVs) are non-enveloped icosahedral viruses with a circular
+double-stranded DNA genome of ∼8,000 base pairs (bp). More than 200 different PV 
+types have been identified to date in humans, which are distributed in five
+genera, with several strains associated with cancer development. Although widely 
+distributed in vertebrates, Neotropical Primates (NP) PV infection was described 
+for the first time only in 2016. Currently, four complete genomes of NP PVs have 
+been characterized, three from Saimiri sciureus (SscPV1 to SscPV3) and one from
+Alouatta guariba (AgPV1). In this work, we describe two novel PV strains
+infecting Callithrix penicillata (provisionally named CpenPV1 and CpenPV2), using
+anal swab samples from animals residing at the Brasilia Primatology Center and
+next generation sequencing. The genomes of CpenPV1 (7,288 bp; 41.5%
+guanine-cytosine content - GC) and CpenPV2 (7,250 bp; 40.7% GC) contain the
+characteristic open reading frames (ORFs) for the early (E6, E7, E1, E2, and E4) 
+and late (L2 and L1) PV genes. The L1 ORFs, commonly used for phylogenetic
+identification, share 76 per cent similarity with each other and differ 32 per
+cent from any other known PV, indicating that these new strains meet the criteria
+for defining novel species. PV genes phylogenetic variance was analyzed and
+different degrees of saturation revealed similar levels of topological
+heterogeneity, ruling out saturation as primary etiological factor for this
+phenomenon. Interestingly, the two CpenPV strains form a monophyletic clade
+within the Gammapapillomavirus genus (provisionally named gammapapillomavirus
+32). Unlike for other NP PV strains, which grouped into a new sister genus of
+Alphapapillomavirus, this is the first report of NP PV strains grouping into a
+genus previously considered to exclusively comprise Old World Primates (OWP) PVs,
+including human PVs. These findings confirm the existence of a common ancestor
+for Gammapapillomavirus already infecting primates before the split of OWP and NP
+at ∼40 million years ago. Finally, our findings are consistent with an ancient
+within-species diversity model and emphasize the importance of increasing
+sampling to help understanding the PV-primate codivergence dynamics and
+pathogenic potential.
+
+© The Author(s) 2020. Published by Oxford University Press.
+
+DOI: 10.1093/ve/veaa036 
+PMCID: PMC7326299
+PMID: 32665860 
+

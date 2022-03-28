@@ -1,0 +1,39 @@
+
+
+2852. J Comp Neurol. 2004 Feb 16;469(4):494-506.
+
+Synaptic connectivity of the diffuse bipolar cell type DB6 in the inner plexiform
+layer of primate retina.
+
+Jusuf PR(1), Lee SC, Grünert U.
+
+Author information: 
+(1)Department of Physiology F13 and Institute for Biomedical Research, The
+University of Sydney, New South Wales 2006, Australia.
+
+Diffuse bipolar cells in primate retina receive synaptic input from multiple
+cones and provide output to ganglion cells. Diffuse bipolar cells can be
+subdivided into six types (DB1-DB6) according to the stratification of their axon
+terminals in the inner plexiform layer, but their synaptic connectivity in the
+inner plexiform layer is not well understood. Here the stratification and
+synaptic connectivity of DB6 axon terminals were studied in the retinae of New
+World (marmoset) and Old World (macaque) monkeys. Immunohistochemical markers
+were applied to retinal sections. The sections were analyzed by confocal and
+deconvolution light microscopy as well as electron microscopy. The DB6 cells were
+identified with antibodies against CD15; rod bipolar cells were identified with
+antibodies against protein kinase Calpha (PKCalpha); and AII amacrine cells were 
+identified with antibodies against calretinin. The axons of DB6 and rod bipolar
+cells occupy distinct regions in stratum 5 of the inner plexiform layer. The
+distal processes of calretinin-labeled AII cells are usually closely associated
+with rod bipolar axons but sometimes also with DB6 axons. Pre-embedding
+immunoelectron microscopy showed that the vast majority (over 86%) of the
+synaptic output of DB6 cells is onto amacrine cell processes, whereas less than
+14% goes to ganglion cell processes. In double-labeled preparations DB6 axons
+occasionally made output onto calretinin-labeled amacrine processes. Thus it is
+possible that AII cells receive some input from DB6 cells.
+
+Copyright 2004 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.11027 
+PMID: 14755531  [Indexed for MEDLINE]
+

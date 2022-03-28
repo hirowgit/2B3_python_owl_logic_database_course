@@ -1,0 +1,68 @@
+
+
+1537. J Neuroimmune Pharmacol. 2013 Dec;8(5):1251-64. doi: 10.1007/s11481-013-9487-z.
+Epub 2013 Jul 3.
+
+Induction of experimental autoimmune encephalomyelitis with recombinant human
+myelin oligodendrocyte glycoprotein in incomplete Freund's adjuvant in three
+non-human primate species.
+
+Haanstra KG(1), Jagessar SA, Bauchet AL, Doussau M, Fovet CM, Heijmans N, Hofman 
+SO, van Lubeek-Veth J, Bajramovic JJ, Kap YS, Laman JD, Touin H, Watroba L, Bauer
+J, Lachapelle F, Serguera C, 't Hart BA.
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Centre, P.O. Box
+3306, 2280 GH, Rijswijk, The Netherlands.
+
+The experimental autoimmune encephalitis (EAE) model is used for preclinical
+research into the pathogenesis of multiple sclerosis (MS), mostly in inbred,
+specific pathogen free (SPF)-raised laboratory mice. However, the naive state of 
+the laboratory mouse immune system is considered a major hurdle in the
+translation of principles from the EAE model to the MS patient. Non-human
+primates (NHP) have an immune system harboring T- and B-cell memory against
+environmental antigens, similar as in humans. We sought to further refine
+existing NHP EAE models, which may help to bridge the gab between mouse EAE
+models and MS. We report here on new EAE models in three NHP species: rhesus
+monkeys (Macaca mulatta), cynomolgus monkeys (Macaca fascicularis) and common
+marmosets (Callithrix jacchus). EAE was induced with recombinant human myelin
+oligodendrocyte glycoprotein extracellular domain (1-125) (rhMOG) formulated in
+incomplete Freund's adjuvant (IFA). IFA lacks the bacterial antigens that are
+present in complete Freund's adjuvant (CFA), which are notorious for the
+induction of discomforting side effects. Clinically evident EAE could be induced 
+in two out of five rhesus monkeys, six out of six cynomolgus monkeys and six out 
+of six common marmosets. In each of these species, the presence of an early, high
+anti-rhMOG IgM response is correlated with EAE with an earlier onset and more
+severe disease course. Animals without an early high IgM response either did not 
+develop disease (rhesus monkeys) or developed only mild signs of neurological
+deficit (marmoset and cynomolgus monkeys).
+
+DOI: 10.1007/s11481-013-9487-z 
+PMCID: PMC3889224
+PMID: 23821341  [Indexed for MEDLINE]
+
+
+1538. Comput Biol Med. 2013 Sep;43(8):1023-4. doi: 10.1016/j.compbiomed.2013.05.014.
+Epub 2013 May 28.
+
+ExonSuite: algorithmically optimizing alternative gene splicing for the PUF
+proteins.
+
+Ustek D(1), Kohrman A, Krstic B, Fernandez K.
+
+Author information: 
+(1)Grinnell College, Computer Science Department, USA. ustekdil@grinnell.edu
+
+The stability of mRNA and its translation is a vital process necessary for proper
+protein production. The specificity of the regulation is controlled by specific
+RNA motifs and regulatory proteins. Pumilio/fem-3 mRNA-binding factor (PUF)
+proteins are usually used in regulating mRNA stability as well as translation.
+Here, we optimized a PUF protein target finder program to understand the natural 
+diversity of RNA recognition by this family of proteins. ExonSuite is available
+to compile and run at https://github.com/dilanustek/ExonSuite.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2013.05.014 
+PMID: 23816174  [Indexed for MEDLINE]
+

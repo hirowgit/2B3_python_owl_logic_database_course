@@ -1,0 +1,63 @@
+
+
+793. Xenobiotica. 2018 Oct;48(10):1072-1077. doi: 10.1080/00498254.2017.1393121. Epub 
+2017 Nov 10.
+
+Association with polymorphic marmoset cytochrome P450 2C19 of in vivo hepatic
+clearances of chirally separated R-omeprazole and S-warfarin using individual
+marmoset physiologically based pharmacokinetic models.
+
+Kusama T(1), Toda A(2), Shimizu M(1), Uehara S(1), Inoue T(3), Uno Y(2), Utoh
+M(1)(2), Sasaki E(3)(4), Yamazaki H(1).
+
+Author information: 
+(1)a Showa Pharmaceutical University , Machida , Tokyo , Japan.
+(2)b Shin Nippon Biomedical Laboratories Ltd , Kainan , Wakayama , Japan.
+(3)c Department of Marmoset Research , Central Institute for Experimental Animals
+, Kawasaki , Japan , and.
+(4)d Keio Advanced Research Center, Keio University , Minato-ku , Tokyo , Japan.
+
+1. Simulated clearances of R-warfarin and efavirenz were recently reported for
+individual cynomolgus monkeys genotyped for cytochrome P450 2C19 and 2C9,
+respectively. To expand and verify this modeling procedure, simulations of
+R/S-omeprazole and R/S-warfarin clearances after oral administrations in
+individual marmosets were performed using individual simplified physiologically
+based pharmacokinetic (PBPK) modeling consisting of gut, liver and central
+compartments. 2. Pharmacokinetics of R/S-omeprazole were chirally determined
+using the previously reported plasma microsamples in this study. The areas under 
+the plasma concentration/time curves (AUC) of R-omeprazole and S-warfarin, but
+not S-omeprazole and R-warfarin, after oral administrations in the P450 2C19
+homozygous mutant group were significantly higher than those in the wild-type
+group. These modeled hepatic intrinsic clearances were also significantly
+associated with the marmoset P450 2C19 genotypes. Other parameter values, e.g.
+absorption rate constants or systemic circulation volumes, were not likely
+determining factors. 3. The reported individual AUC values measured in 4-6
+marmosets after oral R-omeprazole and S-warfarin administrations were
+significantly correlated with the AUC values predicted using the PBPK models
+after virtual administrations. 4. This study indicates that clearances of
+R-omeprazole, S-warfarin and related medicines associated with polymorphic P450
+2C19 in individual marmosets can be simulated using simplified individual PBPK
+models.
+
+DOI: 10.1080/00498254.2017.1393121 
+PMID: 29034770  [Indexed for MEDLINE]
+
+
+794. J Physiol. 2017 Dec 1;595(23):7013. doi: 10.1113/JP275115. Epub 2017 Nov 2.
+
+Using the common marmoset for neurophysiological studies of neocortical
+functions.
+
+Isa T(1).
+
+Author information: 
+(1)Department of Neuroscience, Graduate School of Medicine, Kyoto University,
+Japan.
+
+Comment on
+    J Physiol. 2017 Dec 1;595(23):7203-7221.
+
+DOI: 10.1113/JP275115 
+PMCID: PMC5709331
+PMID: 29034468  [Indexed for MEDLINE]
+

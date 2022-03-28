@@ -1,0 +1,27 @@
+
+
+3603. Physiol Behav. 1998 Feb 15;63(4):591-9.
+
+Concurrent monitoring of EEG and performance in the common marmoset: a
+methodological approach.
+
+Pearce PC(1), Crofts HS, Muggleton NG, Scott EA.
+
+Author information: 
+(1)Medical Countermeasures Department, CBD Porton Down, Salisbury, Wilts, United 
+Kingdom.
+
+A model has been developed in a nonhuman primate, the common marmoset (Callithrix
+jacchus), which should enable the study of long term effects of compounds with
+potentially psychoactive properties. The technique facilitates concurrent
+monitoring of both behavioral and electrophysiological parameters while animals
+remain in their home cages. Subjects were trained to perform tests from a
+neuropsychological test battery (The Cambridge Neuropsychological Test Automated 
+Battery, CANTAB) in which they learned to discriminate between pairs of stimuli
+presented on a touch sensitive computer screen. Single channel cortical
+electroencephalography (EEG) by radiotelemetry was simultaneously recorded while 
+behavioral testing took place.
+
+DOI: 10.1016/s0031-9384(97)00494-0 
+PMID: 9523903  [Indexed for MEDLINE]
+

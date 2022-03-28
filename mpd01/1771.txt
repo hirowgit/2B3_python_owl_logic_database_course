@@ -1,0 +1,61 @@
+
+
+1771. J Comp Physiol A Neuroethol Sens Neural Behav Physiol. 2012 May;198(5):337-46.
+doi: 10.1007/s00359-012-0712-7. Epub 2012 Jan 26.
+
+Individual recognition during bouts of antiphonal calling in common marmosets.
+
+Miller CT(1), Wren Thomas A.
+
+Author information: 
+(1)Cortical Systems and Behavior Laboratory, Department of Psychology, University
+of California, 9500 Gilman Dr. #0109, La Jolla, San Diego, CA 92093, USA.
+corymiller@ucsd.edu
+
+Many vocalizations are encoded with a diversity of acoustic information about the
+signal producer. Amongst this information content are social categories related
+to the identity of the caller that are important for determining if and how a
+signal receiver may interact with that individual. Here, we employed a novel
+playback method in common marmosets (Callithrix jacchus) to test individual
+recognition during bouts of antiphonal calling. These experiments utilized
+custom, interactive playback software that effectively engaged subjects in
+antiphonal calling using vocalizations produced by a single individual and
+presented 'probe' vocalization stimuli representing a different individual at
+specific points within bouts of calling. The aim here was to test whether
+marmosets would recognize that the probe stimulus was a phee call produced by a
+different individual. Data indicated that marmosets were able to detect the
+change in caller identity; subjects produced significantly fewer antiphonal call 
+responses to probe than control stimuli and, in some conditions, exhibited a
+shorter latency to produce the vocal response. These data suggest that marmosets 
+recognize the identity of the individual during bouts of antiphonal calling.
+Furthermore, these results provide a methodological foundation for implementing
+the probe playback procedure to examine a broader range of social categorization 
+during vocal interactions.
+
+DOI: 10.1007/s00359-012-0712-7 
+PMCID: PMC3799814
+PMID: 22277952  [Indexed for MEDLINE]
+
+
+1772. J Med Chem. 2012 Mar 8;55(5):2469-73. doi: 10.1021/jm201711b. Epub 2012 Feb 23.
+
+Optimization of hydroxybenzothiazoles as novel potent and selective inhibitors of
+17β-HSD1.
+
+Spadaro A(1), Frotscher M, Hartmann RW.
+
+Author information: 
+(1)Pharmaceutical and Medicinal Chemistry, Saarland University, Campus C23,
+D-66123 Saarbrücken, Germany.
+
+17β-HSD1 is a novel target for the treatment of estrogen-dependent diseases, as
+it catalyzes intracellular estradiol formation. Starting from two recently
+described compounds, highly active and selective inhibitors were developed.
+Benzoyl 6 and benzamide 17 are the most selective compounds toward 17β-HSD2
+described so far. They also showed a promising profile regarding activity in
+T47-D cells, selectivity toward ERα and ERβ, inhibition of hepatic CYP enzymes,
+metabolic stability, and inhibition of marmoset 17β-HSD1 and 17β-HSD2.
+
+DOI: 10.1021/jm201711b 
+PMID: 22277094  [Indexed for MEDLINE]
+

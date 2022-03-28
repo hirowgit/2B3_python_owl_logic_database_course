@@ -1,0 +1,47 @@
+
+
+157. J Comp Neurol. 2021 Aug;529(12):3171-3193. doi: 10.1002/cne.25154. Epub 2021 May 
+5.
+
+Expression of cell markers and transcription factors in the avian retina compared
+with that in the marmoset retina.
+
+Haverkamp S(1), Albert L(2), Balaji V(2), Němec P(3), Dedek K(2)(4).
+
+Author information: 
+(1)Department of Computational Neuroethology, Center of Advanced European Studies
+and Research (caesar), Bonn, Germany.
+(2)Animal Navigation/Neurosensorics Group, Institute for Biology and
+Environmental Sciences, University of Oldenburg, Oldenburg, Germany.
+(3)Department of Zoology, Charles University, Prague, Czech Republic.
+(4)Research Center Neurosensory Science, University of Oldenburg, Oldenburg,
+Germany.
+
+In the vertebrate retina, amacrine and ganglion cells represent the most diverse 
+cell classes. They can be classified into different cell types by several
+features, such as morphology, light responses, and gene expression profile.
+Although birds possess high visual acuity (similar to primates that we used here 
+for comparison) and tetrachromatic color vision, data on the expression of
+transcription factors in retinal ganglion cells of birds are largely missing. In 
+this study, we tested various transcription factors, known to label
+subpopulations of cells in mammalian retinae, in two avian species: the common
+buzzard (Buteo buteo), a raptor with exceptional acuity, and the domestic pigeon 
+(Columba livia domestica), a good navigator and widely used model for visual
+cognition. Staining for the transcription factors Foxp2, Satb1 and Satb2 labeled 
+most ganglion cells in the avian ganglion cell layer. CtBP2 was established as
+marker for displaced amacrine cells, which allowed us to reliably distinguish
+ganglion cells from displaced amacrine cells and assess their densities in
+buzzard and pigeon. When we additionally compared the temporal and central fovea 
+of the buzzard with the fovea of primates, we found that the cellular
+organization in the pits was different in primates and raptors. In summary, we
+demonstrate that the expression of transcription factors is a defining feature of
+cell types not only in the retina of mammals but also in the retina of birds. The
+markers, which we have established, may provide useful tools for more detailed
+studies on the retinal circuitry of these highly visual animals.
+
+© 2021 The Authors. The Journal of Comparative Neurology published by Wiley
+Periodicals LLC.
+
+DOI: 10.1002/cne.25154 
+PMID: 33834511  [Indexed for MEDLINE]
+

@@ -1,0 +1,74 @@
+
+
+786. Theriogenology. 2018 Jan 15;106:221-226. doi:
+10.1016/j.theriogenology.2017.10.023. Epub 2017 Oct 22.
+
+Quality of common marmoset (Callithrix jacchus) oocytes collected after ovarian
+stimulation.
+
+Kanda A(1), Nobukiyo A(1), Yoshioka M(1), Hatakeyama T(1), Sotomaru Y(2).
+
+Author information: 
+(1)Natural Science Center for Basic Research and Development, Hiroshima
+University, 1-2-3 Kasumi, Minami-ku, Hiroshima 734-8551, Japan.
+(2)Natural Science Center for Basic Research and Development, Hiroshima
+University, 1-2-3 Kasumi, Minami-ku, Hiroshima 734-8551, Japan. Electronic
+address: sotomaru@hiroshima-u.ac.jp.
+
+The common marmoset (Callithrix jacchus) is an experimental animal that is
+considered suitable for the creation of next-generation human disease models. It 
+has recently been used in the reproductive technology field. Oocytes can be
+effectively collected from female marmosets via ovarian stimulation with
+injections of follicle-stimulating hormone (FSH) and human chorionic gonadotropin
+(hCG). The oocytes, collected about 28 h after the hCG injection, include both
+premature oocytes and postmature (in vivo matured; IVO) oocytes, and the
+premature oocytes can be matured by in vitro culture (in vitro matured; IVM).
+Although IVM and IVO oocytes are equivalent in appearance at the MII stage, it
+remains unclear whether there are differences in their properties. Therefore, we 
+investigated their in vitro fertilization and developmental capacities and
+cytoskeletal statuses. Our findings revealed that the IVM and IVO oocytes had
+similar fertilization rates but that no IVO oocytes could develop to the
+blastocyst stage. Additionally, IVO oocytes showed abnormal cytoskeletal
+formation. It is concluded that IVM oocytes maintain normal function, whereas IVO
+oocytes would be affected by aging and other factors when they remain for a long 
+time in the ovary.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.theriogenology.2017.10.023 
+PMID: 29096269  [Indexed for MEDLINE]
+
+
+787. PLoS Biol. 2017 Nov 1;15(11):e2002459. doi: 10.1371/journal.pbio.2002459.
+eCollection 2017 Nov.
+
+Rate, not selectivity, determines neuronal population coding accuracy in auditory
+cortex.
+
+Sun W(1), Barbour DL(1).
+
+Author information: 
+(1)Department of Biomedical Engineering, Washington University in St. Louis, St. 
+Louis, Missouri, United States of America.
+
+The notion that neurons with higher selectivity carry more information about
+external sensory inputs is widely accepted in neuroscience. High-selectivity
+neurons respond to a narrow range of sensory inputs, and thus would be considered
+highly informative by rejecting a large proportion of possible inputs. In
+auditory cortex, neuronal responses are less selective immediately after the
+onset of a sound and then become highly selective in the following sustained
+response epoch. These 2 temporal response epochs have thus been interpreted to
+encode first the presence and then the content of a sound input. Contrary to
+predictions from that prevailing theory, however, we found that the neural
+population conveys similar information about sound input across the 2 epochs in
+spite of the neuronal selectivity differences. The amount of information encoded 
+turns out to be almost completely dependent upon the total number of population
+spikes in the read-out window for this system. Moreover, inhomogeneous Poisson
+spiking behavior is sufficient to account for this property. These results imply 
+a novel principle of sensory encoding that is potentially shared widely among
+multiple sensory systems.
+
+DOI: 10.1371/journal.pbio.2002459 
+PMCID: PMC5683657
+PMID: 29091725  [Indexed for MEDLINE]
+

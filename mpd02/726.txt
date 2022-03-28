@@ -1,0 +1,50 @@
+
+
+726. Neurol Res. 2018 Apr;40(4):303-311. doi: 10.1080/01616412.2018.1438226. Epub 2018
+Feb 19.
+
+Vocalization development in common marmosets for neurodegenerative translational 
+modeling.
+
+Jones CA(1)(2)(3)(4), Duffy MK(2), Hoffman SA(2), Schultz-Darken NJ(2), Braun
+KM(2), Ciucci MR(1)(3)(4), Emborg ME(1)(2)(5).
+
+Author information: 
+(1)a Neuroscience Training Program, University of Wisconsin-Madison , Madison ,
+WI , USA.
+(2)b Wisconsin National Primate Research Center , University of Wisconsin-Madison
+, Madison , WI , USA.
+(3)c Communication Sciences & Disorders , University of Wisconsin-Madison ,
+Madison , WI , USA.
+(4)d Surgery - Division of Otolaryngology, Head & Neck Surgery , University of
+Wisconsin-Madison , Madison , WI , USA.
+(5)e Medical Physics , University of Wisconsin-Madison , Madison , WI , USA.
+
+Objectives In order to facilitate the study of vocalizations in emerging genetic 
+common marmoset models of neurodegenerative disorders, we aimed to analyze
+call-type changes across age in a translational research environment. We
+hypothesized that acoustic parameters of vocalizations would change with age,
+reflecting growth of the vocal apparatus and a maturation of control needed to
+make adult-like calls. Methods Nineteen developing common marmosets were
+longitudinally video- and audio-recorded between the ages of 1-149 days in a
+naturalistic setting without any vocalization elicitation protocol. Vocalizations
+were coded for call type (cry, tsik, trill, phee, and trill-phee) and analyzed
+for duration (sec), minimum and maximum frequency (Hz), and bandwidth (Hz). Mixed
+model linear regressions were performed to assess the effects of age on call
+parameters listed above for each call type. Results Cries decreased in duration
+(P = 0.038), maximum frequency (P = 0.047), and bandwidth (P = 0.023) with age.
+Tsik calls decreased in duration (P = 0.002) and increased in minimum frequency
+(P = 0.004) and maximum frequency (P = 0.005) with age. Trill calls increased in 
+duration (P = 0.003), and trillphee bandwidth (P = 0.031) decreased with age.
+Discussion Our results demonstrate that development of common marmoset
+vocalizations is call type dependent and that changes in acoustic parameters can 
+be detected without complex vocalization elicitation paradigms or specialized
+audio recording equipment. Thus, we demonstrate the feasibility of a naturalistic
+protocol to collect and objectively analyze marmoset vocalizations
+longitudinally. This approach may be useful for studying vocal communication
+deficits in genetic models of neurodegenerative disorders.
+
+DOI: 10.1080/01616412.2018.1438226 
+PMCID: PMC6083835
+PMID: 29457539  [Indexed for MEDLINE]
+

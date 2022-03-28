@@ -1,0 +1,108 @@
+
+
+926. J Physiol. 2017 Jul 1;595(13):4475-4492. doi: 10.1113/JP273569. Epub 2017 Mar 10.
+
+Relationship between cortical state and spiking activity in the lateral
+geniculate nucleus of marmosets.
+
+Pietersen ANJ(1)(2), Cheong SK(1)(2), Munn B(1)(3), Gong P(1)(3), Martin
+PR(1)(2)(4), Solomon SG(1)(4)(5).
+
+Author information: 
+(1)Australian Research Council Centre of Excellence for Integrative Brain
+Function, University of Sydney, Australia.
+(2)Save Sight Institute, University of Sydney Eye Hospital Campus, Sydney,
+Australia.
+(3)School of Physics, University of Sydney, Sydney, Australia.
+(4)School of Medical Sciences, University of Sydney, Sydney, Australia.
+(5)Department of Experimental Psychology, University College London, UK.
+
+KEY POINTS: How parallel are the primate visual pathways? In the present study,
+we demonstrate that parallel visual pathways in the dorsal lateral geniculate
+nucleus (LGN) show distinct patterns of interaction with rhythmic activity in the
+primary visual cortex (V1). In the V1 of anaesthetized marmosets, the EEG
+frequency spectrum undergoes transient changes that are characterized by
+fluctuations in delta-band EEG power. We show that, on multisecond timescales,
+spiking activity in an evolutionary primitive (koniocellular) LGN pathway is
+specifically linked to these slow EEG spectrum changes. By contrast, on subsecond
+(delta frequency) timescales, cortical oscillations can entrain spiking activity 
+throughout the entire LGN. Our results are consistent with the hypothesis that,
+in waking animals, the koniocellular pathway selectively participates in brain
+circuits controlling vigilance and attention.
+ABSTRACT: The major afferent cortical pathway in the visual system passes through
+the dorsal lateral geniculate nucleus (LGN), where nerve signals originating in
+the eye can first interact with brain circuits regulating visual processing,
+vigilance and attention. In the present study, we investigated how ongoing and
+visually driven activity in magnocellular (M), parvocellular (P) and
+koniocellular (K) layers of the LGN are related to cortical state. We recorded
+extracellular spiking activity in the LGN simultaneously with local field
+potentials (LFP) in primary visual cortex, in sufentanil-anaesthetized marmoset
+monkeys. We found that asynchronous cortical states (marked by low power in
+delta-band LFPs) are linked to high spike rates in K cells (but not P cells or M 
+cells), on multisecond timescales. Cortical asynchrony precedes the increases in 
+K cell spike rates by 1-3 s, implying causality. At subsecond timescales, the
+spiking activity in many cells of all (M, P and K) classes is phase-locked to
+delta waves in the cortical LFP, and more cells are phase-locked during
+synchronous cortical states than during asynchronous cortical states. The switch 
+from low-to-high spike rates in K cells does not degrade their visual signalling 
+capacity. By contrast, during asynchronous cortical states, the fidelity of
+visual signals transmitted by K cells is improved, probably because K cell
+responses become less rectified. Overall, the data show that slow fluctuations in
+cortical state are selectively linked to K pathway spiking activity, whereas
+delta-frequency cortical oscillations entrain spiking activity throughout the
+entire LGN, in anaesthetized marmosets.
+
+© 2017 The Authors. The Journal of Physiology © 2017 The Physiological Society.
+
+DOI: 10.1113/JP273569 
+PMCID: PMC5491878
+PMID: 28116750  [Indexed for MEDLINE]
+
+
+927. Physiol Behav. 2017 May 1;173:79-86. doi: 10.1016/j.physbeh.2017.01.032. Epub
+2017 Jan 20.
+
+Long-term-stability of relationship structure in family groups of common
+marmosets, and its link to proactive prosociality.
+
+Finkenwirth C(1), Burkart JM(2).
+
+Author information: 
+(1)Anthropological Institute and Museum, University of Zurich,
+Winterthurerstrasse 190, 8057 Zurich, Switzerland. Electronic address:
+christa.finkenwirth@uzh.ch.
+(2)Anthropological Institute and Museum, University of Zurich,
+Winterthurerstrasse 190, 8057 Zurich, Switzerland.
+
+Cooperatively breeding, group-living common marmosets show differentiated
+relationships, where more strongly bonded dyads within a group engage more in
+affiliative interactions than less strongly bonded ones. Intriguingly, recent
+results suggest that strong bonds do not only occur between breeding partners but
+between individuals from any sex or status, and that strong-bond partners exhibit
+correlated oxytocin fluctuations (dyadic oxytocin synchrony, OTS) over a period
+of six weeks. To date, it is unclear whether such relationships are stable over
+time and whether they are also reflected in higher partner-specific proactive
+prosociality. To assess the long-term stability of the relationship structure of 
+common marmoset family groups, we investigated whether hormonal and behavioral
+markers of group structure (dyadic OTS, dyadic affiliation, and individual group 
+integration) in common marmoset families remained stable over a period of six
+months. We collected baseline urinary OT and social behavior of 36 dyads from
+three family groups in a non-reproductive period (period A), and again six months
+later, around the birth of new infants (period B). Patterns of dyadic OTS, dyadic
+affiliation, and individual group integration were consistent between the two
+study periods. Oxytocin data from a fourth group (10 dyads), collected in two
+non-reproductive periods separated by a period of more than five years, could
+replicate this finding. Furthermore, OTS was also correlated with proactive
+prosociality that was assessed experimentally for 38 dyads during an earlier
+study. These results suggest that differentiated relationships are stable over
+time, even between group members other than the breeding pair, and that more
+strongly bonded partners also show higher levels of proactive prosociality.
+Future studies are necessary to identify whether these relationships have an
+adaptive function, perhaps with regard to positive consequences on
+cooperativeness.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.physbeh.2017.01.032 
+PMID: 28115225  [Indexed for MEDLINE]
+

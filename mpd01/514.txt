@@ -1,0 +1,119 @@
+
+
+514. Brain Struct Funct. 2019 Jun;224(5):1957-1969. doi: 10.1007/s00429-019-01869-x.
+Epub 2019 Apr 8.
+
+In vivo localization of cortical areas using a 3D computerized atlas of the
+marmoset brain.
+
+Risser L(1), Sadoun A(2), Mescam M(2), Strelnikov K(2), Lebreton S(1), Boucher
+S(2), Girard P(2)(3), Vayssière N(2), Rosa MGP(4)(5), Fonta C(6).
+
+Author information: 
+(1)Institut de Mathématiques de Toulouse, UMR5219, Université de Toulouse, CNRS, 
+UPS IMT, 31062, Toulouse Cedex 9, France.
+(2)Centre de recherche Cerveau et Cognition (CerCo), Université de Toulouse UPS, 
+CNRS, UMR 5549, CHU Purpan, Pavillon Baudot, BP 25202, 31052, Toulouse Cedex 3,
+France.
+(3)INSERM, Toulouse, France.
+(4)Department of Physiology, Biomedicine Discovery Institute, Monash University, 
+26 Innovation Walk, Clayton, VIC, 3800, Australia. marcello.rosa@monash.edu.
+(5)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, VIC, 3800, Australia.
+marcello.rosa@monash.edu.
+(6)Centre de recherche Cerveau et Cognition (CerCo), Université de Toulouse UPS, 
+CNRS, UMR 5549, CHU Purpan, Pavillon Baudot, BP 25202, 31052, Toulouse Cedex 3,
+France. caroline.fonta@cnrs.fr.
+
+We created a volumetric template of the marmoset (Callithrix jacchus) brain,
+which enables localization of the cortical areas defined in the Paxinos et al.
+(The marmoset brain in stereotaxic coordinates. Elsevier Academic Press,
+Cambridge, 2012) marmoset brain atlas, as well as seven broader cortical regions 
+(occipital, temporal, parietal, prefrontal, motor, limbic, insular), different
+brain compartments (white matter, gray matter, cerebro-spinal fluid including
+ventricular spaces), and various other structures (brain stem, cerebellum,
+olfactory bulb, hippocampus). The template was designed from T1-weighted MR
+images acquired using a 3 T MRI scanner. It was based on a single fully segmented
+marmoset brain image, which was transported onto the mean of 13 adult marmoset
+brain images using a diffeomorphic strategy that fully preserves the brain
+topology. In addition, we offer an automatic segmentation pipeline which fully
+exploits the proposed template. The segmentation pipeline was quantitatively
+assessed by comparing the results of manual and automated segmentations. An
+associated program, written in Python, can be used from a command-line interface,
+or used interactively as a module of the 3DSlicer software. This program can be
+applied to the analysis of multimodal images, to map specific cortical areas in
+lesions or to define the seeds for further tractography analyses.
+
+DOI: 10.1007/s00429-019-01869-x 
+PMID: 30963231  [Indexed for MEDLINE]
+
+
+515. Neuroimage. 2019 Jul 15;195:243-251. doi: 10.1016/j.neuroimage.2019.04.006. Epub 
+2019 Apr 3.
+
+Abnormal axon guidance signals and reduced interhemispheric connection via
+anterior commissure in neonates of marmoset ASD model.
+
+Mimura K(1), Oga T(2), Sasaki T(3), Nakagaki K(2), Sato C(4), Sumida K(5),
+Hoshino K(6), Saito K(5), Miyawaki I(6), Suhara T(7), Aoki I(8), Minamimoto T(9),
+Ichinohe N(10).
+
+Author information: 
+(1)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, 4-1-1 Ogawa-Higashi, Kodaira, Tokyo,
+187-8502, Japan; Department of Functional Brain Imaging, National Institute of
+Radiological Sciences, National Institutes for Quantum and Radiological Science
+and Technology (QST), 4-9-1 Anagawa, Inage-ku, Chiba, Chiba, 263-8555, Japan.
+(2)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, 4-1-1 Ogawa-Higashi, Kodaira, Tokyo,
+187-8502, Japan.
+(3)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, 4-1-1 Ogawa-Higashi, Kodaira, Tokyo,
+187-8502, Japan; Department of Anatomy and Neuroscience, Faculty of Medicine,
+University of Tsukuba, Tsukuba, Ibaraki, 305-8577, Japan.
+(4)Department of Molecular Imaging and Theranostics, National Institute of
+Radiological Sciences, QST, Anagawa 4-9-1, Inage, Chiba, 263-8555, Japan.
+(5)Environmental Health Science Laboratory, Sumitomo Chemical Co., Ltd., 3-1-98
+Kasugade-naka, Konohana-ku, Osaka, 554-8558, Japan.
+(6)Preclinical Research Laboratories, Dainippon Sumitomo Pharma Co., Ltd., 3-1-98
+Kasugade-naka, Konohana-ku, Osaka, 554-0022, Japan.
+(7)Department of Functional Brain Imaging, National Institute of Radiological
+Sciences, National Institutes for Quantum and Radiological Science and Technology
+(QST), 4-9-1 Anagawa, Inage-ku, Chiba, Chiba, 263-8555, Japan.
+(8)Department of Molecular Imaging and Theranostics, National Institute of
+Radiological Sciences, QST, Anagawa 4-9-1, Inage, Chiba, 263-8555, Japan; Group
+of Quantum-state Controlled MRI, QST, Anagawa 4-9-1, Inage, Chiba, 263-8555,
+Japan.
+(9)Department of Functional Brain Imaging, National Institute of Radiological
+Sciences, National Institutes for Quantum and Radiological Science and Technology
+(QST), 4-9-1 Anagawa, Inage-ku, Chiba, Chiba, 263-8555, Japan. Electronic
+address: minamimoto.takafumi@qst.go.jp.
+(10)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, 4-1-1 Ogawa-Higashi, Kodaira, Tokyo,
+187-8502, Japan; Ichinohe Group, Laboratory for Molecular Analysis of Higher
+Brain Function, RIKEN Brain Science Institute, 2-1 Hirosawa, Wako, Saitama,
+351-0198, Japan. Electronic address: nichinohe@ncnp.go.jp.
+
+In autism spectrum disorder (ASD), disrupted functional and structural
+connectivity in the social brain has been suggested as the core biological
+mechanism underlying the social recognition deficits of this neurodevelopmental
+disorder. In this study, we aimed to identify genetic and neurostructural
+abnormalities at birth in a non-human primate model of ASD, the common marmoset
+with maternal exposure to valproic acid (VPA), which has been reported to display
+social recognition deficit in adulthood. Using a comprehensive gene expression
+analysis, we found that 20 genes were significantly downregulated in VPA-exposed 
+neonates. Of these, Frizzled3 (FZD3) and PIK3CA were identified in an axon
+guidance signaling pathway. FZD3 is essential for the normal development of the
+anterior commissure (AC) and corpus callosum (CC); hence, we performed diffusion 
+tensor magnetic resonance imaging with a 7-Tesla scanner to measure the
+midsagittal sizes of these structures. We found that the AC size in VPA-exposed
+neonates was significantly smaller than that in age-matched controls, while the
+CC size did not differ. These results suggest that downregulation of the genes
+related to axon guidance and decreased AC size in neonatal primates may be linked
+to social brain dysfunctions that can happen later in life.
+
+Copyright © 2019 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2019.04.006 
+PMID: 30953832  [Indexed for MEDLINE]
+

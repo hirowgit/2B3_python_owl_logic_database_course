@@ -1,0 +1,34 @@
+
+
+2209. Radiology. 2008 Dec;249(3):725-7. doi: 10.1148/radiol.2493081531.
+
+Does diffusion-tensor MR imaging provide accurate tracing of specific white
+matter tracts that correspond to actual anatomic and functional units in the
+central nervous system?
+
+Kim S(1), Melhem ER.
+
+Author information: 
+(1)Department of Radiology, Division of Neuroradiology, Hospital of the
+University of Pennsylvania, Dulles 2 Building, 3400 Market St Philadelphia, PA
+19104, USA.
+
+Comment on
+    Radiology. 2008 Dec;249(3):855-64.
+
+By using healthy common marmoset monkeys, Yamada et al traced the
+retinogeniculate pathways with ultra high-spatial-resolution manganese-enhanced
+magnetic resonance (MR) imaging and diffusion-tensor imaging at 7 T. Both methods
+were compared with morphologic findings described in published histopathologic
+studies. Both methods provided identical tracing of the optic nerve, optic
+chiasm, and optic tracts to the level of the lateral geniculate nucleus (LGN),
+faithfully reproducing the crossing of the nasal portion of the optic nerve at
+the level of the chiasm into the contralateral optic tract. This study strongly
+suggests that diffusion-tensor imaging, a noninvasive method that can be used in 
+human research and clinical practice, has the potential to provide accurate
+tracing of specific white matter tracts that correspond to actual anatomic and
+functional units in the central nervous system.
+
+DOI: 10.1148/radiol.2493081531 
+PMID: 19011176  [Indexed for MEDLINE]
+

@@ -1,0 +1,41 @@
+
+
+896. Endocrinology. 2017 Apr 1;158(4):804-814. doi: 10.1210/en.2016-1920.
+
+Variation in the Insulin-Like Growth Factor 1 Gene in Primates.
+
+Rotwein P(1).
+
+Author information: 
+(1)Department of Biomedical Sciences, Paul L. Foster School of Medicine, Texas
+Tech Health University Health Sciences Center, El Paso, Texas 79905.
+
+Insulin-like growth factor 1 (IGF1) is a multifunctional peptide that is involved
+in a wide range of physiological and pathophysiological processes in many animal 
+species, ranging from somatic growth in children to metabolism and tissue
+regeneration and repair in adults. The IGF1 gene is under multifactorial
+regulation in the few species in which it has been studied, with major control
+being exerted by growth hormone through a gene expression pathway involving
+inducible binding of the STAT5b transcription factor to dispersed enhancer
+elements. In this study, using resources available in public genomic databases,
+genes encoding IGF1 have been analyzed in a cohort of six nonhuman primate
+species representing >60 million years of evolutionary diversification from a
+common ancestor: chimpanzee, gorilla, macaque, olive baboon, marmoset, and mouse 
+lemur. The IGF1 gene has been well conserved among these primates. Similar to
+human IGF1, each gene appears to be composed of six exons and five introns, and
+contains recognizable tandem promoters, each with a unique leader exon. Exon and 
+intron lengths are very similar, and DNA sequence conservation is high, not only 
+in orthologous exons and promoter regions, but also in putative growth
+hormone-activated STAT5b-binding enhancers that are found in analogous locations 
+in IGF1 intron 3 and in 5' distal intergenic DNA. Taken together, the high level 
+of organizational and nucleotide sequence similarity in the IGF1 gene and locus
+among these seven species supports the contention that common regulatory
+paradigms had existed prior to the onset of primate speciation >85 million years 
+ago.
+
+Copyright © 2017 Endocrine Society.
+
+DOI: 10.1210/en.2016-1920 
+PMCID: PMC5460808
+PMID: 28324014  [Indexed for MEDLINE]
+

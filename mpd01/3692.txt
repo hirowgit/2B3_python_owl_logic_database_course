@@ -1,0 +1,61 @@
+
+
+3692. J Mol Med (Berl). 1997 Mar;75(3):187-97.
+
+Creation of a model for multiple sclerosis in Callithrix jacchus marmosets.
+
+Genain CP(1), Hauser SL.
+
+Author information: 
+(1)Department of Neurology S 258, University of California, San Francisco
+94143-0435, USA.
+
+Comment in
+    J Mol Med (Berl). 1997 Mar;75(3):164.
+
+Multiple sclerosis (MS) is an inflammatory disease of the CNS white matter
+characterized pathologically by the accumulation of perivascular and parenchymal 
+T lymphocytes (T cells), and macrophage infiltration associated with myelin
+destruction. MS lesions are also characterized by the death of oligodendrocytes
+(the myelin-producing cells) and proliferation and hypertrophy of astrocytes with
+scar tissue (gliosis) replacing normal myelin. These changes result in the loss
+of axonal conduction for neurons of the CNS and in clinical disability. MS is
+thought to be an autoimmune disease, in particular because of its analogy with
+the disease model of experimental allergic encephalomyelitis (EAE). Despite
+extensive research and the availability of various EAE models in laboratory
+rodents the etiology of human MS has not been identified, and to date no
+effective treatment exists. Phylogenetic differences may limit the usefulness of 
+existing EAE models, and indeed no single form of rodent EAE recapitulates all
+the clinical and pathological features of MS. Here we describe a novel form of
+EAE created in a nonhuman primate, the common marmoset Callithrix jacchus. Active
+immunization of these monkeys with whole myelin produces a primary demyelinating 
+disease with a chronic relapsing-remitting course, characterized pathologically
+by moderate inflammation with prominent and early demyelination and gliosis
+reminiscent of human MS. Adoptive and passive transfer experiments have permitted
+definition of the mechanisms responsible for the MS-like pathology. Production of
+the fully demyelinated lesion requires synergism between encephalitogenic (e.g., 
+disease-inducing) T cells and pathogenic antibody. The antigens of myelin that
+promote encephalitogenic T cell and antibody responses in this system have been
+identified. Because of the similarity between the two conditions and the high
+degree of conservation in immune and nervous system genes between nonhuman
+primates and humans, future studies of marmoset EAE will likely accelerate the
+development of therapies for human MS.
+
+DOI: 10.1007/s001090050103 
+PMID: 9106075  [Indexed for MEDLINE]
+
+
+3693. J Mol Med (Berl). 1997 Mar;75(3):164.
+
+Multiple sclerosis: pathogenesis and models.
+
+Dinter H, Stock G, Perez HD.
+
+Comment on
+    J Mol Med (Berl). 1997 Mar;75(3):165-73.
+    J Mol Med (Berl). 1997 Mar;75(3):174-86.
+    J Mol Med (Berl). 1997 Mar;75(3):187-97.
+
+DOI: 10.1007/s001090050100 
+PMID: 9106072  [Indexed for MEDLINE]
+

@@ -1,0 +1,51 @@
+
+
+873. Neuroimage. 2017 Aug 1;156:78-86. doi: 10.1016/j.neuroimage.2017.05.013. Epub
+2017 May 10.
+
+A geometrically adjustable receive array for imaging marmoset cohorts.
+
+Gilbert KM(1), Gati JS(2), Klassen LM(2), Zeman P(2), Schaeffer DJ(2), Everling
+S(3), Menon RS(4).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, 1151 Richmond St. N, London, Ontario, Canada N6A 5B7. Electronic
+address: kgilbert@robarts.ca.
+(2)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, 1151 Richmond St. N, London, Ontario, Canada N6A 5B7.
+(3)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, 1151 Richmond St. N, London, Ontario, Canada N6A 5B7; Department of
+Physiology and Pharmacology, The University of Western Ontario, London, Ontario, 
+Canada.
+(4)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, 1151 Richmond St. N, London, Ontario, Canada N6A 5B7; Department of
+Medical Biophysics, The University of Western Ontario, London, Ontario, Canada.
+
+The common marmoset (Callithrix jacchus) is an increasingly popular animal model 
+for translational neuroscience studies, during which anatomical and functional
+MRI can be useful investigative tools. To attain the requisite SNR for
+high-resolution acquisitions, the radiofrequency coil must be optimized for the
+marmoset; however, relatively few custom coils have been developed that maximize 
+SNR and are compatible with accelerated acquisitions. For the study of large
+populations of animals, the heterogeneity in animal size reduces the
+effectiveness of a "one size fits all" approach to coil sizing and makes coils
+tailored to individual animals cost and time prohibitive. The approach taken in
+this study was to create an 8-channel phased-array receive coil that was
+adjustable to the width of the marmoset head, thereby negating the need for
+tailored coils while still maintaining high SNR. Two marmosets of different size 
+were imaged on a 9.4-T small-animal scanner. Consistent SNR was achieved in the
+periphery of the brain between head sizes. When compared to a 15-channel, "one
+size fits all" receive coil, the adjustable coil achieved 57% higher SNR in the
+superior frontal and parietal cortices and 29% higher SNR in the centre of the
+brain. The mean geometry factor of the adjustable coil was less than 1.2 for a
+2-fold reduction factor in the left-right and anterior-posterior directions.
+Geometry factors were compared to the 15-channel coil to guide future designs.
+The adjustable coil was shown to be a practical means for anatomical and
+echo-planar imaging of marmoset cohorts.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2017.05.013 
+PMID: 28499849  [Indexed for MEDLINE]
+

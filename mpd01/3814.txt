@@ -1,0 +1,83 @@
+
+
+3814. J Comp Neurol. 1996 Feb 26;366(1):55-75.
+
+Comparison of photoreceptor spatial density and ganglion cell morphology in the
+retina of human, macaque monkey, cat, and the marmoset Callithrix jacchus.
+
+Goodchild AK(1), Ghosh KK, Martin PR.
+
+Author information: 
+(1)Department of Physiology, University of Sydney, New South Wales, Australia.
+
+We studied the relationship between the morphology of ganglion cells and the
+spatial density of photoreceptors in the retina of two Old World primates, human 
+and macaque monkey; the diurnal New World marmoset Callithrix jacchus; and the
+cat. Ganglion cells in macaque and marmoset were labelled by intracellular
+injection with Neurobiotin or by DiI diffusion labelling in fixed tissue. Cone
+photoreceptor densities were measured from the same retinas. Supplemental data
+for macaque and data for human and cat were taken from published studies. For the
+primates studied, the central retina is characterised by a constant numerical
+convergence of cones to ganglion cells. Midget ganglion cells derive their input,
+via a midget bipolar cell, from a single cone. Parasol cells derive their input
+from 40-140 cones. Outside the central retina, the convergence increases with
+eccentricity. The convergence to beta cells in the cat retina is very close to
+that for parasol cells in primate retina. The convergence of rod photoreceptors
+to ganglion cells is similar in human, macaque, and marmoset, with parasol cells 
+receiving input from 10-15 times more rods than midget cells. The low convergence
+of cones to midget cells in human and macaque retinas is associated with
+distinctive dendritic "clusters" in midget cells' dendritic fields. Convergence
+in marmoset is higher, and the clusters are absent. We conclude that the
+complementary changes in photoreceptor density and ganglion cell morphology
+should be considered when forming linking hypotheses between dendritic field,
+receptive field, and psychophysical properties of primate vision.
+
+DOI: 10.1002/(SICI)1096-9861(19960226)366:1<55::AID-CNE5>3.0.CO;2-J 
+PMID: 8866846  [Indexed for MEDLINE]
+
+
+3815. Biochem Pharmacol. 1996 Feb 23;51(4):413-21.
+
+RP 64477: a potent inhibitor of acyl-coenzyme A:cholesterol O-acyltransferase
+with low systemic bioavailability.
+
+Bello AA(1), Bright C, Burton BJ, Bush RC, Casey JH, Dron DI, Facchini V, Joannou
+PP, Parrott DP, Riddell D, Roberts SA, Williams RJ.
+
+Author information: 
+(1)Department of Discovery Drug Disposition, Dagenham Research Centre,
+Rhône-Poulenc Rorer LTD., Essex, U.K.
+
+RP 64477 (N-butyl-3-(p-decyloxybenzamido)-4-(methylthio)benzamide) has been shown
+to be a potent inhibitor of the cholesterol esterifying enzyme Acyl-coenzyme
+A:cholesterol O-acyltransferase (EC 2.3.1.26; ACAT) in intestinal, hepatic,
+adrenal, and arterial tissue preparations obtained from a range of animal
+species. Drug concentrations producing 50% inhibition of enzyme activity (IC50
+values) ranged from 14-283 nM. Inhibition by RP 64477 in a rabbit intestinal
+enzyme preparation was shown to be non-competitive with respect to the substrate 
+oleoyl-CoA. In whole cell assays using human intestinal (CaCo-2), hepatic HepG2) 
+and monocytic (THP-1) cell lines, RP 64477 inhibited ACAT activity with IC50s of 
+113, 503, and 180 nM, respectively. RP 64477 (0.03% w/w by diet) reduced
+significantly cholesterol absorption in cholesterol/cholic acid-fed rats from
+94+/- 8% to 65 +/- 4%. In cholesterol-fed rabbits, cholesterol absorption was
+reduced from 72 +/- 5% to 50 +/-5% and 44 +/- 5% at dose levels of 10 and 30 mg
+kg-1 b.i.d., respectively. Plasma cholesterol levels were reduced
+dose-dependently in both cholesterol/cholic-acid-fed rats and cholesterol-fed
+rabbits. Neither cholesterol absorption nor plasma cholesterol levels were
+reduced significantly in animals maintained on standard laboratory diets.
+Pharmacokinetic studies indicated that RP 64477 were very poorly absorbed
+following oral administration to rats. Plasma levels of drug were < 2 ng mL-1
+following a dose of 2000 mg kg-1 p.o.. When radiolabelled RP 64477 was
+administered orally, limited absorption was indicated by the overwhelming
+elimination of radioactivity in the faces (96.4% of administered material)
+coupled with low renal clearance (0.6% of dose) and biliary excretion (0.05% of
+dose). In conclusion, this work shows that RP 64477 is a potent inhibitor of ACAT
+obtained from a range of animal species and man. Inhibition of cholesterol
+absorption and hypocholesterolaemic activity has been demonstrated in rats and
+rabbits maintained on diets supplemented with cholesterol. Pharmacokinetic
+studies indicate low systemic exposure to RP 64477 as a result of limited
+absorption of this drug.
+
+DOI: 10.1016/0006-2952(95)02186-8 
+PMID: 8619885  [Indexed for MEDLINE]
+

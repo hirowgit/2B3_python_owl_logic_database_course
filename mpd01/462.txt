@@ -1,0 +1,90 @@
+
+
+462. Eur J Neurosci. 2019 Dec;50(12):4004-4017. doi: 10.1111/ejn.14529. Epub 2019 Aug 
+16.
+
+Relation of koniocellular layers of dorsal lateral geniculate to inferior
+pulvinar nuclei in common marmosets.
+
+Huo BX(1)(2), Zeater N(3)(4)(5), Lin MK(1)(2), Takahashi YS(1)(6), Hanada
+M(1)(7), Nagashima J(1)(7), Lee BC(8), Hata J(1), Zaheer A(3)(5), Grünert
+U(3)(4)(5), Miller MI(8), Rosa MGP(9)(10), Okano H(1)(11), Martin PR(3)(4)(5),
+Mitra PP(1)(2).
+
+Author information: 
+(1)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako, Japan.
+(2)Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA.
+(3)Faculty of Medicine and Health, Save Sight Institute, The University of
+Sydney, Sydney, NSW, Australia.
+(4)Australian Research Council Centre of Excellence for Integrative Brain
+Function, Sydney University Node, Sydney, NSW, Australia.
+(5)Faculty of Medicine and Health, School of Medical Sciences, The University of 
+Sydney, Sydney, NSW, Australia.
+(6)Integra Life Science Japan, Minato-Ku, Akasaka, Japan.
+(7)Systems Neuroscience Institute and Center for the Neural Basis of Cognition,
+University of Pittsburgh, Pittsburgh, PA, USA.
+(8)Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD,
+USA.
+(9)Department of Physiology and Biomedicine Research Institute, Monash
+University, Clayton, Vic., Australia.
+(10)Australian Research Council Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, Vic., Australia.
+(11)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+
+Traditionally, the dorsal lateral geniculate nucleus (LGN) and the inferior
+pulvinar (IPul) nucleus are considered as anatomically and functionally distinct 
+thalamic nuclei. However, in several primate species it has also been established
+that the koniocellular (K) layers of LGN and parts of the IPul have a shared
+pattern of immunoreactivity for the calcium-binding protein calbindin. These
+calbindin-rich cells constitute a thalamic matrix system which is implicated in
+thalamocortical synchronisation. Further, the K layers and IPul are both involved
+in visual processing and have similar connections with retina and superior
+colliculus. Here, we confirmed the continuity between calbindin-rich cells in LGN
+K layers and the central lateral division of IPul (IPulCL) in marmoset monkeys.
+By employing a high-throughput neuronal tracing method, we found that both the K 
+layers and IPulCL form comparable patterns of connections with striate and
+extrastriate cortices; these connections are largely different to those of the
+parvocellular and magnocellular laminae of LGN. Retrograde tracer-labelled cells 
+and anterograde tracer-labelled axon terminals merged seamlessly from IPulCL into
+LGN K layers. These results support continuity between LGN K layers and IPulCL,
+providing an anatomical basis for functional congruity of this region of the
+dorsal thalamic matrix and calling into question the traditional segregation
+between LGN and the inferior pulvinar nucleus.
+
+© 2019 Federation of European Neuroscience Societies and John Wiley & Sons Ltd.
+
+DOI: 10.1111/ejn.14529 
+PMCID: PMC6928438
+PMID: 31344282  [Indexed for MEDLINE]
+
+
+463. Front Immunol. 2019 Jul 9;10:1339. doi: 10.3389/fimmu.2019.01339. eCollection
+2019.
+
+The Exaptation of HERV-H: Evolutionary Analyses Reveal the Genomic Features of
+Highly Transcribed Elements.
+
+Gemmell P(1), Hein J(2), Katzourakis A(1).
+
+Author information: 
+(1)Department of Zoology, University of Oxford, Oxford, United Kingdom.
+(2)Department of Statistics, University of Oxford, Oxford, United Kingdom.
+
+HERV-H endogenous retroviruses are thought to be essential to stem cell identity 
+in humans. We embrace several decades of HERV-H research in order to relate the
+transcription of HERV-H loci to their genomic structure. We find that highly
+transcribed HERV-H loci are younger, more fragmented, and less likely to be
+present in other primate genomes. We also show that repeats in HERV-H LTRs are
+correlated to where loci are transcribed: type-I LTRs associate with stem cells
+while type-II repeats associate with embryonic cells. Our findings are generally 
+in line with what is known about endogenous retrovirus biology but we find that
+the presence of the zinc finger motif containing region of gag is positively
+correlated with transcription. This leads us to suggest a possible explanation
+for why an unusually large proportion of HERV-H loci have been preserved in
+non-solo-LTR form.
+
+DOI: 10.3389/fimmu.2019.01339 
+PMCID: PMC6629862
+PMID: 31338090  [Indexed for MEDLINE]
+

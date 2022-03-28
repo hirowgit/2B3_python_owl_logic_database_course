@@ -1,0 +1,103 @@
+
+
+4264. Arch Toxicol. 1992;66(4):250-9.
+
+Polyhalogenated dibenzo-p-dioxins and dibenzofurans and the immune system. 4.
+Effects of multiple-dose treatment with 2,3,7,8-tetrachlorodibenzo-p-dioxin
+(TCDD) on peripheral lymphocyte subpopulations of a non-human primate (Callithrix
+jacchus).
+
+Neubert R(1), Golor G, Stahlmann R, Helge H, Neubert D.
+
+Author information: 
+(1)Institut für Toxikologie und Embryopharmakologie, Freie Universität Berlin,
+Federal Republic of Germany.
+
+Non-human primates (Callithrix jacchus) were treated with
+2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) over a period of 30 weeks, and
+lymphocyte subpopulations of venous blood were monitored using monoclonal
+antibodies and flow cytometry (FACScan). There was no clear-cut change in the
+total lymphocyte population during this study. In the first part of the study the
+new-world monkeys (marmosets) were treated for 24 weeks with a weekly dose of 0.3
+ng TCDD/kg body wt. At the end of this treatment period a level corresponding to 
+an actual cumulative dose of about 2.5-2.7 ng TCDD/kg body wt was expected. The
+percentage and the absolute number of the CD4+CDw29+ cells ("helper inducer" or
+"memory" cells) surmounted the physiologically occurring increase. Concomitantly 
+the percentage of the CD4+CD45RA+ cells ("suppressor-inducer" or "naive" cells)
+decreased. There was, at the same period, no change in the total T cell
+population (CD2+ cells) or in the cells carrying the CD8 or the CD4 epitope. When
+increasing the weekly dose to 1.5 ng TCDD/kg body wt, a transient increase in the
+percentage and the absolute number of the CD8+CD56+ cell population ("cytotoxic T
+cells") was observed 3 weeks after the increase in dosing. At this time the
+expected decrease in the percentage or the absolute number of CD4+CDw29+ cells
+was just detectable and this decline was at its maximum 6 weeks after switching
+to the higher weekly doses. The reduction in the percentage and the absolute
+number of CD4+CDw29+ cells persisted 5 weeks after discontinuation of the dosing,
+but this cell population was again within normal limits 7 weeks later. Because
+the two subpopulations are changed in opposite directions, the ratio
+CD4+CDw29+/CD4+CD45RA+ is a very sensitive measure of the effect induced by TCDD.
+There was a pronounced decrease in the percentage of the CD20+ cells (B1 cells), 
+but their percentage and number rapidly normalized, in contrast to the CD4+CDw29+
+cells, when the dosing was discontinued. At the end of the treatment period the
+apparent body burden was calculated to correspond to an actual dose of about 9-10
+ng TCDD/kg body wt. Such an actual dose level might be assumed to be reached
+under steady-state conditions in chronic experiments with daily doses of about
+135 pg TCDD/kg body wt (assuming a half-life for TCDD in the marmoset of 6-8
+weeks). Extrapolations of the results obtained at higher doses to very low
+exposures is not justified with respect to the effects induced by TCDD on the
+immune system of marmosets. At lower doses the effect is clearly reversed.
+
+DOI: 10.1007/BF02307170 
+PMID: 1514923  [Indexed for MEDLINE]
+
+
+4265. Scand J Immunol Suppl. 1992;11:118-22.
+
+Anti-sperm and anti-ovum vaccines: the selection of candidate antigens and the
+outcome of preclinical studies.
+
+Isahakia MA(1), Bambra CS.
+
+Author information: 
+(1)Institute of Primate Research, National Museums of Kenya, Karen, Nairobi.
+
+A clear conceptual basis for anti-sperm and other modes of immunological birth
+control exists in spite of the limited basic research done on surface antigens of
+sperm or egg. In the normal physiological condition, the immune system does not
+respond to sperm, egg or fetus. Compared with anti-egg or anti-fetus
+immunocontraception, an anti-sperm vaccine has two theoretical advantages. First 
+it would work in both males and females; second, it would not raise problems of
+autoimmunity in the female if a sperm-specific protein is used. However, for the 
+development of such contraceptive vaccines the following scientific questions
+need to be resolved: (1) what surface protein to use as an antigen; (2) what
+adjuvant to use in humans for an anti-fertility vaccine; (3) how to maintain a
+high titre; (4) how the contraceptive effect will be terminated; and (5) what are
+the potential side-effects.
+
+PIP: Certain sperm antigens are auto- or isoimmunogenic, and naturally occurring 
+sperm antibodies have been implicated in 10-15% of unexplained human infertility.
+Thus, efforts to develop an immunocontraceptive for human application have
+targeted sperm antigens. The World Health Organization Task Force on
+Contraceptive Vaccines designated the human sperm SP-10 as a primary vaccine
+candidate. The presence of SP-10 mRNA was demonstrated in baboons and macaques,
+and it is an ideal primate model for evaluating human efficacy. At a workshop on 
+worldwide research on all monoclonal antibodies against sperm, HS-11 and HS-63
+were selected for further evaluation because of their high specificity and
+significant anti-fertility effects. Isoenzyme LDH-C4 is a primary sperm antigen: 
+it provokes antibodies that are absolutely cell specific and do not cross-react
+with somatic LDH isozymes. Immunization of both males and females with purified
+LDH-C4 results in an immune response and antibodies suppress fertility in female 
+mice, rabbits and baboons. The PH-20 protein from guinea pigs has a required
+function in sperm-zona binding, and a 100% effective contraception is obtained
+when either male or female guinea pigs are immunized with purified PH-20.
+Regarding zona pellucida antigens (ZP), the porcine zona pellucida contains the
+major glycoprotein families identified as ZP1, ZP2 and ZP3. In a human in vitro
+fertilization system, only antibodies against ZP3 completely suppressed sperm-egg
+interaction. Passive administration of anti-zona pellucida antibodies results in 
+long-term reversible contraception. The development of antigens capable of
+evoking an immune response, thereby preventing fertility without ovarian
+histopathology, is under way. A zona pellucida contraceptive vaccine containing
+8-cell, but not T-cell, zona pellucida epitopes may prevent ovarian pathology.
+DOI: 10.1111/j.1365-3083.1992.tb01633.x 
+PMID: 1514025  [Indexed for MEDLINE]
+

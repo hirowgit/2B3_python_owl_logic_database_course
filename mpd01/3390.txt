@@ -1,0 +1,41 @@
+
+
+3390. J Anat. 1999 Aug;195 ( Pt 2):311-3.
+
+A Reinke-like inclusion within Leydig cells of the marmoset monkey (Callithrix
+jacchus)
+
+Prince FP, Fraser HM, Mann DR.
+
+DOI: 10.1046/j.1469-7580.1999.19520311.x 
+PMCID: PMC1467996
+PMID: 10529068  [Indexed for MEDLINE]
+
+
+3391. J Neurosci Methods. 1999 Sep 15;91(1-2):115-22.
+
+A new video/computer method to measure the amount of overall movement in
+experimental animals (two-dimensional object-difference method).
+
+Hashimoto T(1), Izawa Y, Yokoyama H, Kato T, Moriizumi T.
+
+Author information: 
+(1)Third Department of Internal Medicine, School of Medicine, Shinshu University,
+Asahi, Matsumoto, Japan.
+
+Evaluation of the amount of overall animal movement is important for
+investigations of motor control mechanisms in the central nervous system. We
+describe a new method to quantify overall free movements of an animal without any
+markers using a video camera and a personal computer equipped with a
+video-capture board. The operating principle is that the amount of overall
+movement of an object can be expressed by the difference in total area occupied
+by the object in two consecutive picture frames. The software for this
+application operates in real-time. Using this method and with proper setting for 
+the cage and recording view, we can estimate three-dimensional movements of
+animals. The major advantages are low cost, easy operation and high sensitivity. 
+The experimental results indicate that this method can be applied to various
+fields of motion analysis.
+
+DOI: 10.1016/s0165-0270(99)00082-5 
+PMID: 10522830  [Indexed for MEDLINE]
+

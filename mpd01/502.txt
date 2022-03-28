@@ -1,0 +1,73 @@
+
+
+502. Int J Syst Evol Microbiol. 2019 Jul;69(7):1941-1946. doi: 10.1099/ijsem.0.003407.
+Epub 2019 Apr 30.
+
+Phascolarctobacterium wakonense sp. nov., isolated from common marmoset
+(Callithrix jacchus) faeces.
+
+Shigeno Y(1), Kitahara M(1), Shime M(1), Benno Y(1).
+
+Author information: 
+(1)Benno Laboratory, RIKEN Baton Zone Program, RIKEN Cluster for Science
+Technology and Innovation Hab, Wako, Saitama 351-0198, Japan.
+
+Two strictly anaerobic strains (MB11T and MB56) were isolated from common
+marmoset (Callithrixjacchus) faeces. Cells of the two strains were
+Gram-stain-negative, pleomorphic short (strain MB11T) or long (strain MB56) rods.
+Phylogenetic analysis based on 16S rRNA gene sequences revealed that both
+isolates were related to the genus Phascolarctobacterium. They had 16S rRNA gene 
+sequences similarities lower than 93 % to previously described species,
+Phascolarctobacterium faecium ACM 3679T and Phascolarctobacterium succinatutens
+YIT 12067T, and 98.7 % between themselves. DNA-DNA hybridization values showed
+that strains MB11T and MB56 were the same species. The genomic DNA G+C content of
+strains MB11T and MB56 were 47.3-47.4 mol% and 47.7-48.0 mol%. The isolates had
+different enzymatic activities compared with P. succinatutens JCM 16074T and
+different major cellular fatty acids compared with P. faecium ACM 3679T.
+Substrate availability revealed that they utilized not only succinate, but also
+pyruvate. With pyruvate supplementation, they produced both propionate and
+acetate, while only propionate production occured with succinate. As suggested by
+the phylogenic and physiological properties of strains MB11T and MB56, we propose
+the name Phascolarctobacteriumwakonense sp. nov. with the type strain MB11T (=JCM
+32899T=DSM 107697T).
+
+DOI: 10.1099/ijsem.0.003407 
+PMID: 31038451  [Indexed for MEDLINE]
+
+
+503. Nat Commun. 2019 Apr 29;10(1):1976. doi: 10.1038/s41467-019-09812-8.
+
+Macroscale cortical organization and a default-like apex transmodal network in
+the marmoset monkey.
+
+Buckner RL(1)(2)(3), Margulies DS(4).
+
+Author information: 
+(1)Department of Psychology and Center for Brain Science, Harvard University,
+Cambridge, MA, 02138, USA. randy_buckner@harvard.edu.
+(2)Department of Psychiatry, Massachusetts General Hospital, Boston, MA, 02114,
+USA. randy_buckner@harvard.edu.
+(3)Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General
+Hospital, Charlestown, MA, 02129, USA. randy_buckner@harvard.edu.
+(4)Centre National de la Recherche Scientifique, CNRS UMR 7225, Institut du
+Cerveau et de la Moelle épinière, Paris, 75013, France.
+
+Networks of widely distributed regions populate human association cortex. One
+network, often called the default network, is positioned at the apex of a
+gradient of sequential networks that radiate outward from primary cortex. Here,
+extensive anatomical data made available through the Marmoset Brain Architecture 
+Project are explored to show a homologue exists in marmoset. Results reveal that 
+a gradient of networks extend outward from primary cortex to progressively
+higher-order transmodal association cortex in both frontal and temporal cortex.
+The apex transmodal network comprises frontopolar and rostral temporal
+association cortex, parahippocampal areas TH / TF, the ventral posterior midline,
+and lateral parietal association cortex. The positioning of this network in the
+gradient and its composition of areas make it a candidate homologue to the human 
+default network. That the marmoset, a physiologically- and genetically-accessible
+primate, might possess a default-network-like candidate creates opportunities for
+study of higher cognitive and social functions.
+
+DOI: 10.1038/s41467-019-09812-8 
+PMCID: PMC6488644
+PMID: 31036823  [Indexed for MEDLINE]
+

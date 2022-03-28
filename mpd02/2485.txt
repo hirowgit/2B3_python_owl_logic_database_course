@@ -1,0 +1,37 @@
+
+
+2485. Neurosci Lett. 2006 Nov 13;408(2):89-93. Epub 2006 Sep 18.
+
+Time-dependent increase in Nogo-A expression after focal cerebral ischemia in
+marmoset monkeys.
+
+Eslamboli A(1), Grundy RI, Irving EA.
+
+Author information: 
+(1)Neurology and GI CEDD, GlaxoSmithKline, New Frontiers Science Park North,
+Third Avenue, Harlow, Essex CM19 5AW, United Kingdom.
+
+Nogo-A is a myelin-associated protein that has been shown to inhibit axonal
+sprouting after lesions to the CNS. Several studies have demonstrated that
+blocking the activity or expression of this inhibitor can induce structural and
+functional recovery after CNS lesions. However, there are limited and
+contradictory data on the expression of Nogo-A after CNS lesions. In the present 
+study, marmoset monkeys received permanent occlusion of the middle cerebral
+artery (MCAo). Two, 3, or 4 months after the onset of injury brain sections were 
+stained for Nogo-A protein. Two sham operated marmosets were included as a
+control. Nogo-A protein expression was quantified in white matter and grey matter
+in the areas adjacent to the lesion (or the equivalent areas in the intact side).
+At 2 months after injury, but not at 3 or 4 months, there was a significant
+increase in the number of oligodendrocytes that were Nogo-A immunopositive. This 
+increase was observed in white matter structures that were adjacent to the lesion
+(e.g. corona radiate (CR)); but not in: white matter structures distal to the
+lesion (e.g. corpus callosum (CC)); cortical regions adjacent to the lesion;
+contralateral regions or in sham operated marmosets. These data suggest that
+Nogo-A levels are significantly increased within oligodendrocytes in areas
+adjacent to the lesion up to 2 months following cerebral ischaemia. Future
+studies will determine whether this offers the opportunity to promote plasticity 
+by targeting Nogo-A weeks or months following stroke.
+
+DOI: 10.1016/j.neulet.2006.08.056 
+PMID: 16982144  [Indexed for MEDLINE]
+

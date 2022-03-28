@@ -1,0 +1,49 @@
+
+
+3668. Exp Brain Res. 1997 Jun;115(1):83-94.
+
+Learning impairment induced by lesion of the CA1 field of the primate
+hippocampus: attempts to ameliorate the impairment by transplantation of fetal
+CA1 tissue.
+
+Ridley RM(1), Pearson C, Kershaw TR, Hodges H, Maclean CJ, Hoyle C, Baker HF.
+
+Author information: 
+(1)MRC Comparative Cognition Team, Department of Experimental Psychology,
+Cambridge, UK.
+
+Monkeys with bilateral excitotoxic lesion of the CA1 field of the hippocampus
+were severely impaired at learning visuospatial conditional tasks. This was not a
+general spatial impairment, because the animals were not impaired on serial
+spatial reversal, which requires response flexibility in the spatial domain; they
+were not impaired at learning to choose the position furthest away from a single 
+stimulus, which requires analysis of spatial layout of the test area, and they
+were not impaired at discriminating between two patterns that differed only in
+orientation. CA1-lesioned monkeys were impaired at learning a visuospatial
+conditional task when trials of the two component types "if AA go left" and "if
+BB go right" were presented according to either a pseudorandom or alternating
+schedule; but they were not impaired if one component type of trial was presented
+until three consecutive correct responses were made, followed by the other type
+of trial, to three consecutive correct responses. In all cases testing continued 
+until a criterion of 27 of 30 consecutive correct responses across both types of 
+trial was achieved. Although this suggests that CA1-lesioned animals are
+particularly prone to interference effects, they had no difficulty in learning
+ten concurrent visual discriminations presented against either a uniform
+background or with each discrimination presented against its own distinctive
+background, a condition that might reduce interference in unoperated monkeys.
+Interference following hippocampal damage might occur at a deeper level than
+stimulus identification such that animals with hippocampal damage may be able to 
+learn about many aspects of different stimuli in parallel but may be unable to
+learn about multiple related aspects of the same subject matter. Monkeys with
+grafts of fetal CA1 tissue in the lesioned CA1 field showed significant
+improvement relative to CA1-lesioned animals on those tasks on which CA1-lesioned
+animals were impaired, although they remained impaired relative to control
+animals. This suggests that the grafts had produced some improvement in
+performance. Grafted monkeys did not differ from unoperated control monkeys or
+from CA1-lesioned monkeys on those tasks that were not sensitive to CA1 damage.
+This demonstrates that the grafts did not have an additional deleterious effect
+on cognitive performance.
+
+DOI: 10.1007/pl00005688 
+PMID: 9224836  [Indexed for MEDLINE]
+

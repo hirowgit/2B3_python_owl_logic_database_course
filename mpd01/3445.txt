@@ -1,0 +1,70 @@
+
+
+3445. Vision Res. 1999 Jan;39(2):177-87.
+
+Normal development of refractive state and ocular component dimensions in the
+marmoset (Callithrix jacchus).
+
+Graham B(1), Judge SJ.
+
+Author information: 
+(1)University Laboratory of Physiology, Oxford, UK.
+
+Refractive state and ocular dimensions were studied longitudinally in nine normal
+marmosets. Animals were anaesthetised and examined (with some exceptions) at 4,
+6, 7, 8, 10, 15, 24 and 39 weeks of age. Cycloplegic retinoscopy showed that
+hyperopia early in life rapidly diminished. Refraction corrected for the artefact
+of retinoscopy stabilised by 8 weeks of age, but at a slightly myopic value,
+rather than at emmetropia. The ocular components continued to change throughout
+the period studied. Corneal radius, measured by photokeratometry, increased
+slightly during development. Anterior segment depth and vitreous chamber depth
+(VCD), measured by A-scan ultrasonography, increased throughout development while
+lens thickness initially increased and then decreased. Data from the eyes of
+these normal animals were compared with that from the contralateral eyes of
+animals which received short periods of monocular deprivation early in life
+(Troilo, D., & Judge S.J. (1993). Ocular development and visual deprivation
+myopia in the common marmoset (Callithrix jacchus jacchus). Vision Research, 33, 
+1311-24); eyes which viewed through no lens or a plano lens (Graham, B. & Judge, 
+S.J. (1999)). The effects of spectacle wear in infancy on eye growth and
+refractive error in the marmoset (Callithrix jacchus). Vision Research, 39,
+189-206), and eyes of normal animals in another colony. There were no significant
+differences between the first two groups and the normal animals in our colony
+while age-matched animals from the other colony were slightly but significantly
+less myopic than our animals.
+
+DOI: 10.1016/s0042-6989(98)00188-6 
+PMID: 10326129  [Indexed for MEDLINE]
+
+
+3446. Gene Ther. 1998 Aug;5(8):1137-47.
+
+High efficiency gene transfer to the central nervous system of rodents and
+primates using herpes virus vectors lacking functional ICP27 and ICP34.5.
+
+Howard MK(1), Kershaw T, Gibb B, Storey N, MacLean AR, Zeng BY, Tel BC, Jenner P,
+Brown SM, Woolf CJ, Anderson PN, Coffin RS, Latchman DS.
+
+Author information: 
+(1)Department of Molecular Pathology, University College London Medical School,
+UK.
+
+The safe and efficient use of herpes simplex virus (HSV)-based vectors to deliver
+genes of potentially therapeutic benefit to the central nervous system will
+require their effective disablement by the inactivation of viral genes required
+for lytic growth. Here we report that viruses lacking functional genes for ICP27 
+(which is required for growth in all cell types) and ICP34.5 (which is required
+for growth in nondividing cell types) can deliver a marker gene to both the
+rodent and primate CNS with high efficiency whilst producing relatively minimal
+damage and having no effect on sodium currents in dorsal root ganglion neurons.
+Such viruses paradoxically deliver genes at much higher efficiency than the less 
+disabled single mutant lacking ICP34.5 alone and also, as expected, produce less 
+damage in vivo. Moreover, unlike the single mutant lacking ICP27 the double
+mutant viruses cannot revert to wild-type by acquistion of complimenting gene
+sequences during growth of virus stocks in vitro on dividing cells expressing
+ICP27 since artificial expression of ICP34.5 in these cells is not required. Such
+ICP27-; ICP34.5- viruses thus offer a platform for the development of vectors
+which are sufficiently safe for ultimate use in human gene therapy.
+
+DOI: 10.1038/sj.gt.3300700 
+PMID: 10326038  [Indexed for MEDLINE]
+

@@ -1,0 +1,73 @@
+
+
+3793. Genomics. 1996 Apr 15;33(2):214-9.
+
+Homologies between human and marmoset (Callithrix jacchus) chromosomes revealed
+by comparative chromosome painting.
+
+Sherlock JK(1), Griffin DK, Delhanty JD, Parrington JM.
+
+Author information: 
+(1)Department of Genetics and Biometry, Galton Laboratory, University College
+London, United Kingdom.
+
+Regions of DNA homology between human and marmoset (Callithrix jacchus)
+chromosomes have been demonstrated using fluorescence in situ hybridization. All 
+24 chromosome paints and two centromere repeat sequences from Homo sapiens (HSA) 
+have been annealed to previously G-banded metaphase spreads of Callithrix
+jacchus. All human paint probes, except Y, successfully hybridized to marmoset
+chromosomes. Fifteen of them hybridized to one region only, seven to two regions,
+and paint 1 to three regions. Homologies proposed from previous banding
+comparisons have been confirmed for HSA 2, 4-6, 10-12, 18, 19, 21 and X and
+partially confirmed for HSA 1 and 3, but were not in agreement for HSA 14 and 17.
+Human centromere repeat sequences for X and 18 did not hybridize to marmoset
+chromosomes. Because, at present, there is the confusion situation of several
+different numbering systems for marmoset chromosomes, we propose a new simpler
+nomenclature based on descending order of chromosome size.
+
+DOI: 10.1006/geno.1996.0186 
+PMID: 8660970  [Indexed for MEDLINE]
+
+
+3794. J Comp Neurol. 1996 Apr 8;367(3):413-30.
+
+Developmental profile of GABAA-receptors in the marmoset monkey: expression of
+distinct subtypes in pre- and postnatal brain.
+
+Hornung JP(1), Fritschy JM.
+
+Author information: 
+(1)Institute of Anatomy, University of Lausanne, Switzerland.
+
+Gamma aminobutyric acid (GABA)A-receptors are expressed in fetal mammalian brain 
+before the onset of synaptic inhibition, suggesting their involvement in brain
+development. In this study, we have analyzed the maturation of the GABAA-receptor
+in the marmoset monkey forebrain to determine whether distinct receptor subtypes 
+are expressed at particular stages of pre- and postnatal ontogeny. The
+distribution of the subunits alpha 1, alpha 2, and beta 2,3 was investigated
+immunohistochemically between embryonic day 100 (6 weeks before birth) and
+adulthood. Prenatally, the alpha 2- and beta 2,3-subunit-immunoreactivity (-IR)
+was prominent throughout the forebrain, whereas the alpha 1-subunit-IR appeared
+in selected regions shortly before birth. The alpha 2-subunit-IR disappeared
+gradually to become restricted to a few regions in adult forebrain. By contrast, 
+the alpha 1-subunit-IR increased dramatically after birth and replaced the alpha 
+2-subunit in the basal forebrain, pallidum, thalamus, and most of the cerebral
+cortex. Staining for the beta 2,3-subunits was ubiquitous at every age examined, 
+indicating their association with either the alpha 1- or the alpha 2-subunit in
+distinct receptor subtypes. In neocortex, the alpha 1 -subunit-IR was first
+located selectively to layers IV and VI of primary somatosensory and visual
+areas. Postnatally, it increased throughout the cortex, with the adult pattern
+being established only during the second year. The switch in expression of the
+alpha 1- and alpha 2- subunits indicates that the subunit composition of major
+GABAA-receptor subtypes changes during ontogeny. This change coincides with
+synaptogenesis, suggesting that the emergence of alpha 1- GABAA-receptors
+parallels the formation of inhibitory circuits. A similar pattern has been
+reported in rat, indicating that the developmental regulation of GABAA-receptors 
+is conserved across species, possibly including man. However, the marmoset brain 
+is more mature than the rat brain at the onset of alpha 1-subunit expression,
+suggesting that alpha 1-GABAA-receptors are largely dispensable in utero, but may
+be required for information processing after birth.
+
+DOI: 10.1002/(SICI)1096-9861(19960408)367:3<413::AID-CNE7>3.0.CO;2-8 
+PMID: 8698901  [Indexed for MEDLINE]
+

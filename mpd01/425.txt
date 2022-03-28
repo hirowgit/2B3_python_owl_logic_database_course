@@ -1,0 +1,102 @@
+
+
+425. J Pharmacol Exp Ther. 2019 Dec;371(3):692-702. doi: 10.1124/jpet.119.260869. Epub
+2019 Oct 2.
+
+A Novel Phosphodiesterase 1 Inhibitor DSR-141562 Exhibits Efficacies in Animal
+Models for Positive, Negative, and Cognitive Symptoms Associated with
+Schizophrenia.
+
+Enomoto T(1), Tatara A(2), Goda M(2), Nishizato Y(2), Nishigori K(2), Kitamura
+A(2), Kamada M(2), Taga S(2), Hashimoto T(2), Ikeda K(2), Fujii Y(2).
+
+Author information: 
+(1)Drug Research Division, Sumitomo Dainippon Pharma, Co., Ltd., Osaka, Japan
+takeshi-enomoto@ds-pharma.co.jp.
+(2)Drug Research Division, Sumitomo Dainippon Pharma, Co., Ltd., Osaka, Japan.
+
+In our drug discovery program, we identified a novel orally available and
+brain-penetrant phosphodiesterase (PDE) 1 inhibitor,
+3-methyl-7-(tetrahydro-2H-pyran-4-yl)-2-{[trans-4-(trifluoromethyl)cyclohexyl]-me
+thoxy}imidazo[5,1-f][1,2,4]triazin-4(3H)-one (DSR-141562). In the present study, 
+we characterized the preclinical profile of DSR-141562. This compound has
+preferential selectivity for predominantly brain-expressed PDE1B over other PDE1 
+family members, and high selectivity for the PDE1 family over other PDE families 
+and 65 other tested biologic targets. Oral administration of DSR-141562 at 10
+mg/kg slightly elevated the cGMP concentration, and it potently enhanced the
+increase of cGMP induced by a dopamine D1 receptor agonist in mouse brains. The
+cGMP level in monkey cerebrospinal fluid was also elevated after treatment with
+DSR-141562 at 30 and 100 mg/kg and could be used as a translational biomarker.
+Since PDE1B is believed to regulate dopaminergic and glutamatergic signal
+transduction, we evaluated the effects of this compound using
+schizophrenia-related behavioral assays. DSR-141562 at 3-30 mg/kg potently
+inhibited methamphetamine-induced locomotor hyperactivity in rats, while it had
+only minimal effects on the spontaneous locomotor activity. Furthermore,
+DSR-141562 at 1-100 mg/kg did not induce any signs of catalepsy in rats.
+DSR-141562 at 0.3-3 mg/kg reversed social interaction and novel object
+recognition deficits induced by repeated treatment with an N-methyl-D-aspartate
+receptor antagonist, phencyclidine, in mice and rats, respectively. In common
+marmosets, DSR-141562 at 3 and 30 mg/kg improved the performance in object
+retrieval with detour tasks. These results suggest that DSR-141562 is a
+therapeutic candidate for positive, negative, and cognitive symptoms in
+schizophrenia. SIGNIFICANCE STATEMENT: This is the first paper showing that a
+phosphodiesterase 1 inhibitor is efficacious in animal models for positive and
+negative symptoms associated with schizophrenia. Furthermore, we demonstrated
+that this compound improved cognitive function in the common marmoset, a nonhuman
+primate.
+
+Copyright © 2019 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/jpet.119.260869 
+PMID: 31578257  [Indexed for MEDLINE]
+
+
+426. Am J Primatol. 2019 Sep;81(9):e23057. doi: 10.1002/ajp.23057. Epub 2019 Sep 30.
+
+Baseline cortisol levels and social behavior differ as a function of handedness
+in marmosets (Callithrix jacchus).
+
+Vaughan E(1), Le A(1), Casey M(2), Workman KP(2), Lacreuse A(2)(3).
+
+Author information: 
+(1)Department of Veterinary and Animal Sciences, University of Massachusetts,
+Amherst, Massachusetts.
+(2)Psychological and Brain Sciences, University of Massachusetts, Amherst,
+Massachusetts.
+(3)Center for Neuroendocrine Studies, University of Massachusetts, Amherst,
+Massachusetts.
+
+Population hand preferences are rare in nonhuman primates, but individual hand
+preferences are consistent over a lifetime and considered to reflect an
+individual's preference to use a particular hemisphere when engaged in a specific
+task. Previous findings in marmosets have indicated that left-handed individuals 
+tend to be more fearful than their right-handed counterparts. Based on these
+findings, we tested the hypotheses that left-handed marmosets are (a) more
+reactive to a social stressor and (b) are slower than right-handed marmosets in
+acquiring a reversal learning task. We examined the hand preference of 27 male
+and female marmosets (ages of 4-7 years old) previously tested in a social
+separation task and a reversal learning task. Hand preference was determined via 
+a simple reaching task. In the social separation task, monkeys were separated
+from their partner and the colony for a single 7-hr session. Urinary cortisol
+levels and behavior were assessed at baseline, during the separation and 24 hr
+postseparation. Hand preferences were equally distributed between left (n = 10), 
+right-handed (n = 10), and ambidextrous (n = 7) individuals. The separation phase
+was associated with an increase in cortisol levels and behavioral changes that
+were similar across handedness groups. However, cortisol levels at baseline were 
+positively correlated with right-handedness, and this relationship was stronger
+in females than in males. In addition, the occurrence of social behaviors (pre-
+and postseparation) was positively correlated with right-handedness in both
+sexes. Baseline cortisol levels did not correlate significantly with social
+behavior. Acquisition of the reversals was poorer in females than males but did
+not differ as a function of handedness. We conclude that (a) both stress
+reactivity and cognitive flexibility are similar across handedness groups and (b)
+left-handers exhibit less social behavior and have lower basal cortisol levels
+than ambidextrous and right-handed subjects. The underlying causes for these
+differences remain to be established.
+
+© 2019 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajp.23057 
+PMID: 31566763  [Indexed for MEDLINE]
+

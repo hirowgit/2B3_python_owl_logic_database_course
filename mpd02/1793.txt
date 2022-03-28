@@ -1,0 +1,41 @@
+
+
+1793. Cereb Cortex. 2012 Feb;22(2):469-81. doi: 10.1093/cercor/bhr301. Epub 2011 Nov
+23.
+
+Abundant occurrence of basal radial glia in the subventricular zone of embryonic 
+neocortex of a lissencephalic primate, the common marmoset Callithrix jacchus.
+
+Kelava I(1), Reillo I, Murayama AY, Kalinka AT, Stenzel D, Tomancak P, Matsuzaki 
+F, Lebrand C, Sasaki E, Schwamborn JC, Okano H, Huttner WB, Borrell V.
+
+Author information: 
+(1)Max-Planck-Institute of Molecular Cell Biology and Genetics, D-01307 Dresden, 
+Germany.
+
+Comment in
+    Cereb Cortex. 2012 Feb;22(2):465-8.
+
+Subventricular zone (SVZ) progenitors are a hallmark of the developing neocortex.
+Recent studies described a novel type of SVZ progenitor that retains a basal
+process at mitosis, sustains expression of radial glial markers, and is capable
+of self-renewal. These progenitors, referred to here as basal radial glia (bRG), 
+occur at high relative abundance in the SVZ of gyrencephalic primates (human) and
+nonprimates (ferret) but not lissencephalic rodents (mouse). Here, we analyzed
+the occurrence of bRG cells in the embryonic neocortex of the common marmoset
+Callithrix jacchus, a near-lissencephalic primate. bRG cells, expressing Pax6,
+Sox2 (but not Tbr2), glutamate aspartate transporter, and glial fibrillary acidic
+protein and retaining a basal process at mitosis, occur at similar relative
+abundance in the marmoset SVZ as in human and ferret. The proportion of
+progenitors in M-phase was lower in embryonic marmoset than developing ferret
+neocortex, raising the possibility of a longer cell cycle. Fitting the
+gyrification indices of 26 anthropoid species to an evolutionary model suggested 
+that the marmoset evolved from a gyrencephalic ancestor. Our results suggest that
+a high relative abundance of bRG cells may be necessary, but is not sufficient,
+for gyrencephaly and that the marmoset's lissencephaly evolved secondarily by
+changing progenitor parameters other than progenitor type.
+
+DOI: 10.1093/cercor/bhr301 
+PMCID: PMC3256412
+PMID: 22114084  [Indexed for MEDLINE]
+

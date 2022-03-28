@@ -1,0 +1,43 @@
+
+
+876. Behav Res Methods. 2018 Apr;50(2):816-825. doi: 10.3758/s13428-017-0906-6.
+
+OBAT: An open-source and low-cost operant box for auditory discriminative tasks.
+
+Ribeiro MW(1)(2)(3), Neto JFR(1)(2), Morya E(1)(2), Brasil FL(1)(2), de Araújo
+MFP(4)(5).
+
+Author information: 
+(1)Graduate Program in Neuroengineering, Edmond and Lily Safra International
+Institute of Neuroscience, Santos Dumont Institute, Rodovia RN 160, Km 3, n.
+3003, Macaiba, RN, 59280-000, Brazil.
+(2)Alberto Santos Dumont Association for Research Support, Macaíba, RN,
+59280-000, Brazil.
+(3)Hospital Israelita Albert Einstein, Av. Albert Einstein, 627, Morumbi, SP,
+05652-900, Brazil.
+(4)Graduate Program in Neuroengineering, Edmond and Lily Safra International
+Institute of Neuroscience, Santos Dumont Institute, Rodovia RN 160, Km 3, n.
+3003, Macaiba, RN, 59280-000, Brazil. mariana@isd.org.br.
+(5)Alberto Santos Dumont Association for Research Support, Macaíba, RN,
+59280-000, Brazil. mariana@isd.org.br.
+
+Operant-conditioning boxes are widely used in animal training, allowing
+researchers to shape specific behaviors through reinforcements and/or
+punishments. Commercially available devices are expensive and run with
+proprietary software and hardware, hampering adaptations for the specific needs
+of an experiment. Therefore, many low-cost and open-source devices have recently 
+been developed, but there are still few options for studying auditory behaviors. 
+To overcome this problem, we developed a device based on a computer and an
+Arduino Mega 2560 board, named OBAT (Operant Box for Auditory Tasks), designed to
+present two different auditory stimuli to small primates. It has three modules:
+sound delivery, response bars, and reward system. We estimate that OBAT is at
+least 4-10 times cheaper than commercially available operant-conditioning boxes. 
+Data from a behavioral pilot test ensured that the device can be used to train a 
+marmoset in an auditory discrimination task. In addition, despite its low cost,
+accuracy tests showed that the OBAT operates with a high temporal precision. All 
+schematics and software source code are available so that other groups can easily
+replicate the experiment or adapt the device to their own needs.
+
+DOI: 10.3758/s13428-017-0906-6 
+PMID: 28488135  [Indexed for MEDLINE]
+

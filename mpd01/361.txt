@@ -1,0 +1,51 @@
+
+
+361. PLoS Comput Biol. 2020 Feb 18;16(2):e1007627. doi: 10.1371/journal.pcbi.1007627. 
+eCollection 2020 Feb.
+
+The role of adaptation in generating monotonic rate codes in auditory cortex.
+
+Lee JH(1)(2), Wang X(1), Bendor D(2).
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland, United States
+of America.
+(2)Institute of Behavioural Neuroscience, Department of Experimental Psychology, 
+University College London, London, United Kingdom.
+
+In primary auditory cortex, slowly repeated acoustic events are represented
+temporally by the stimulus-locked activity of single neurons. Single-unit studies
+in awake marmosets (Callithrix jacchus) have shown that a sub-population of these
+neurons also monotonically increase or decrease their average discharge rate
+during stimulus presentation for higher repetition rates. Building on a
+computational single-neuron model that generates stimulus-locked responses with
+stimulus evoked excitation followed by strong inhibition, we find that
+stimulus-evoked short-term depression is sufficient to produce synchronized
+monotonic positive and negative responses to slowly repeated stimuli. By
+exploring model robustness and comparing it to other models for adaptation to
+such stimuli, we conclude that short-term depression best explains our
+observations in single-unit recordings in awake marmosets. Together, our results 
+show how a simple biophysical mechanism in single neurons can generate
+complementary neural codes for acoustic stimuli.
+
+DOI: 10.1371/journal.pcbi.1007627 
+PMCID: PMC7048304
+PMID: 32069272  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+362. J Physiol. 2020 Apr;598(8):1425-1426. doi: 10.1113/JP279556. Epub 2020 Mar 5.
+
+Fractal brain dynamics: from Mandelbrot to marmosets.
+
+Roisen DA, Shew WL.
+
+Comment on
+    J Physiol. 2020 Apr;598(8):1551-1571.
+
+DOI: 10.1113/JP279556 
+PMID: 32060921  [Indexed for MEDLINE]
+

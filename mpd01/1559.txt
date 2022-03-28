@@ -1,0 +1,79 @@
+
+
+1559. Int J Oncol. 2013 Jul;43(1):29-38. doi: 10.3892/ijo.2013.1949. Epub 2013 May 20.
+
+ROS and ERK1/2-mediated caspase-9 activation increases XAF1 expression in
+dexamethasone-induced apoptosis of EBV-transformed B cells.
+
+Park GB(1), Choi Y, Kim YS, Lee HK, Kim D, Hur DY.
+
+Author information: 
+(1)Department of Anatomy and Research Center for Tumor Immunology, Inje
+University College of Medicine, Busan 614-735, Republic of Korea.
+
+Dexamethasone (Dex) inhibits the growth of diverse types of cancer cells and is
+utilized clinically for the therapy of hematological malignancies. In this study,
+we investigated the molecular mechanisms of Dex action in the apoptosis of
+Epstein-Barr virus (EBV)-transformed B cells. We showed that Dex inhibited the
+proliferation of EBV-transformed B cells and induced apoptosis by activating
+caspase-9, -3 and -8. While activation of caspase-9 was triggered as early as 2 h
+after Dex treatment, cleavage of caspase-8 was deferred and was found 8 h after
+the exposure. Dex-dependent activation of caspase-8 was blocked by the specific
+caspase-9 inhibitor, z-LEHD-fmk. Moreover, Dex significantly increased the
+expression of X-linked inhibitor of apoptosis (XIAP)‑associated factor 1 (XAF1)
+and induced the translocation of XAF1 into the cytosol. Cytosolic XAF1 with Puma 
+induced the translocation of Bax into mitochondria. Dex led to up-regulation of
+reactive oxygen species (ROS) generation and the phosphorylation of ERK1/2 after 
+the exposure. We speculated that ROS generation might be the first event of
+Dex-induced apoptosis because ROS inhibitor NAC abrogated ROS production and
+ERK1/2 activation, but PD98059 did not block ROS production. NAC and PD98059 also
+suppressed the translocation of XAF1, Puma and Bax into mitochondria. These
+results demonstrated that Dex-mediated activation of caspase-9 via ROS generation
+and ERK1/2 pathway activation resulted in the activation of caspase-8 and the
+increment of XAF1, thereby induced apoptosis of EBV-transformed B cells. These
+findings suggest that Dex constitutes a probable therapy for EBV-associated
+hematological malignancies.
+
+DOI: 10.3892/ijo.2013.1949 
+PMCID: PMC3742161
+PMID: 23685456  [Indexed for MEDLINE]
+
+
+1560. J Comp Neurol. 2013 Oct 15;521(15):3451-63. doi: 10.1002/cne.23360.
+
+Patterns of cortical reorganization in the adult marmoset after a cervical spinal
+cord injury.
+
+Bowes C(1), Burish M, Cerkevich C, Kaas J.
+
+Author information: 
+(1)Department of Psychology, Vanderbilt University, Nashville, Tennessee, 37203.
+
+In the present study, we used microelectrode recordings of multiunit responses to
+evaluate patterns of the reactivation of somatosensory cortex after sensory loss 
+produced by spinal cord lesions in the common marmoset (Callithrix jacchus).
+These New World monkeys have become a popular model in studies of cortical
+organization and function. Primary somatosensory cortex and adjoining
+somatosensory areas can become extensively deactivated by lesions of
+somatosensory afferents as they ascend in the dorsal columns of the cervical
+spinal cord. Six to 7 weeks after complete lesions of the cuneate fasciculus
+subserving the forelimb at cervical levels 5-6, the hand region in contralateral 
+areas 3b and 1 was reactivated by inputs from the forelimb, but excluded
+representations of some or all digits. In a similar manner, recording sites from 
+the forelimb region of areas 2-5 responded to parts of the forelimb but not to
+digits after an extensive lesion of the contralateral cuneate fasciculus at
+C5-C6. Lesions that damaged only the gracile fasciculus or a small percentage of 
+the cuneate fasciculus did not produce changes in the gross hand representation
+in contralateral areas 3b, 3a, 1, and 2. Finally, a complete but lower lesion of 
+the cuneate fasciculus at C8 produced some abnormalities in the reactivation, but
+the digits were represented. The results indicate that areas 3a, 3b, 1, and 2-5
+of the somatosensory cortex are extensively reactivated after large, apparently
+complete lesions of the contralateral cuneate fasciculus, but afferents from the 
+digits may not contribute to their reactivation.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/cne.23360 
+PMCID: PMC3977742
+PMID: 23681952  [Indexed for MEDLINE]
+

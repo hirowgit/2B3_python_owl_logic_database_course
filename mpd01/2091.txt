@@ -1,0 +1,77 @@
+
+
+2091. Neurosci Res. 2010 Jan;66(1):62-85. doi: 10.1016/j.neures.2009.09.1709. Epub 2009
+Oct 4.
+
+Gene expression profiles in the common marmoset brain determined using a newly
+developed common marmoset-specific DNA microarray.
+
+Fukuoka T(1), Sumida K, Yamada T, Higuchi C, Nakagaki K, Nakamura K, Kohsaka S,
+Saito K, Oeda K.
+
+Author information: 
+(1)Safety Research Laboratories, Dainippon Sumitomo Pharma Co., Ltd., 3-1-98
+Kasugade-naka, Konohana-ku, Osaka 554-0022, Japan.
+toshifumi-fukuoka@ds-pharma.co.jp
+
+To facilitate common marmoset brain research, we produced a DNA microarray with
+7557 probe sets derived from the common marmoset brain. Gene expression profiles 
+in the frontal lobe, hippocampus, cerebellum and amygdaloid nucleus were then
+analyzed and the top 100 probe sets expressed in each structure were compared.
+The three lists for the frontal lobe, hippocampus and amygdaloid nucleus were
+very similar but the probe sets for the cerebellum demonstrated specific
+differences. Some of the genes specifically expressed in cerebellum were analyzed
+by real-time quantitative PCR to verify the DNA microarray results. Of examined
+genes, 5 showed extremely strong expression in cerebellum in comparison with the 
+other structures. The results of real-time quantitative PCR were well consistent 
+with the microarray findings, validating our newly developed DNA microarray as a 
+useful tool for brain research with the common marmoset.
+
+Copyright 2009 Elsevier Ireland Ltd and the Japan Neuroscience Society. All
+rights reserved.
+
+DOI: 10.1016/j.neures.2009.09.1709 
+PMID: 19808062  [Indexed for MEDLINE]
+
+
+2092. Ann Neurol. 2009 Sep;66(3):343-54. doi: 10.1002/ana.21745.
+
+Human neural stem cells ameliorate autoimmune encephalomyelitis in non-human
+primates.
+
+Pluchino S(1), Gritti A, Blezer E, Amadio S, Brambilla E, Borsellino G, Cossetti 
+C, Del Carro U, Comi G, 't Hart B, Vescovi A, Martino G.
+
+Author information: 
+(1)Neuroimmunology Unit, San Raffaele Scientific Institute, Milan, Italy.
+pluchino.stefano@hsr.it
+
+OBJECTIVE: Transplanted neural stem/precursor cells (NPCs) display peculiar
+therapeutic plasticity in vivo. Although the replacement of cells was first
+expected as the prime therapeutic mechanism of stem cells in regenerative
+medicine, it is now clear that transplanted NPCs simultaneously instruct several 
+therapeutic mechanisms, among which replacement of cells might not necessarily
+prevail. A comprehensive understanding of the mechanism(s) by which NPCs exert
+their therapeutic plasticity is lacking. This study was designed as a preclinical
+approach to test the feasibility of human NPC transplantation in an outbreed
+nonhuman primate experimental autoimmune encephalomyelitis (EAE) model
+approximating the clinical and complex neuropathological situation of human
+multiple sclerosis (MS) more closely than EAE in the standard laboratory rodent.
+METHODS: We examined the safety and efficacy of the intravenous (IV) and
+intrathecal (IT) administration of human NPCs in common marmosets affected by
+human myelin oligodendrocyte glycoprotein 1-125-induced EAE. Treatment commenced 
+upon the occurrence of detectable brain lesions on a 4.7T spectrometer.
+RESULTS: EAE marmosets injected IV or IT with NPCs accumulated lower disability
+and displayed increased survival, as compared with sham-treated controls.
+Transplanted NPCs persisted within the host central nervous system (CNS), but
+were also found in draining lymph nodes, for up to 3 months after transplantation
+and exhibited remarkable immune regulatory capacity in vitro.
+INTERPRETATION: Herein, we provide the first evidence that human CNS stem cells
+ameliorate EAE in nonhuman primates without overt side effects. Immune regulation
+(rather than neural differentiation) is suggested as the major putative mechanism
+by which NPCs ameliorate EAE in vivo. Our findings represent a critical step
+toward the clinical use of human NPCs in MS.
+
+DOI: 10.1002/ana.21745 
+PMID: 19798728  [Indexed for MEDLINE]
+

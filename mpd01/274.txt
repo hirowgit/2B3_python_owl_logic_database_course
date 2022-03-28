@@ -1,0 +1,106 @@
+
+
+274. Proc Natl Acad Sci U S A. 2020 Sep 1;117(35):21681-21689. doi:
+10.1073/pnas.2003181117. Epub 2020 Aug 17.
+
+Divergence of rodent and primate medial frontal cortex functional connectivity.
+
+Schaeffer DJ(1), Hori Y(2), Gilbert KM(2), Gati JS(2), Menon RS(2)(3), Everling
+S(2)(3).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, ON N6A 3K7, Canada; dschaeff@uwo.ca.
+(2)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, ON N6A 3K7, Canada.
+(3)Department of Physiology and Pharmacology, University of Western Ontario,
+London, ON N6A 3K7, Canada.
+
+With the medial frontal cortex (MFC) centrally implicated in several major
+neuropsychiatric disorders, it is critical to understand the extent to which MFC 
+organization is comparable between humans and animals commonly used in
+preclinical research (namely rodents and nonhuman primates). Although the
+cytoarchitectonic structure of the rodent MFC has mostly been conserved in
+humans, it is a long-standing question whether the structural analogies translate
+to functional analogies. Here, we probed this question using ultra high field
+fMRI data to compare rat, marmoset, and human MFC functional connectivity. First,
+we applied hierarchical clustering to intrinsically define the functional
+boundaries of the MFC in all three species, independent of cytoarchitectonic
+definitions. Then, we mapped the functional connectivity "fingerprints" of these 
+regions with a number of different brain areas. Because rats do not share
+cytoarchitectonically defined regions of the lateral frontal cortex (LFC) with
+primates, the fingerprinting method also afforded the unique ability to compare
+the rat MFC and marmoset LFC, which have often been suggested to be functional
+analogs. The results demonstrated remarkably similar intrinsic functional
+organization of the MFC across the species, but clear differences between rodent 
+and primate MFC whole-brain connectivity. Rat MFC patterns of connectivity showed
+greatest similarity with premotor regions in the marmoset, rather than
+dorsolateral prefrontal regions, which are often suggested to be functionally
+comparable. These results corroborate the viability of the marmoset as a
+preclinical model of human MFC dysfunction, and suggest divergence of functional 
+connectivity between rats and primates in both the MFC and LFC.
+
+DOI: 10.1073/pnas.2003181117 
+PMCID: PMC7474619
+PMID: 32817555  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.
+
+
+275. Signal Transduct Target Ther. 2020 Oct 19;5(1):157. doi:
+10.1038/s41392-020-00269-6.
+
+Comparison of nonhuman primates identified the suitable model for COVID-19.
+
+Lu S(#)(1)(2), Zhao Y(#)(1), Yu W(#)(1), Yang Y(#)(1), Gao J(#)(1), Wang J(1),
+Kuang D(1), Yang M(1), Yang J(1), Ma C(1), Xu J(1), Qian X(1), Li H(1), Zhao
+S(1), Li J(1), Wang H(1), Long H(1), Zhou J(1), Luo F(1), Ding K(1), Wu D(1),
+Zhang Y(1), Dong Y(1), Liu Y(2), Zheng Y(1), Lin X(1), Jiao L(1), Zheng H(3), Dai
+Q(1), Sun Q(1), Hu Y(1), Ke C(4), Liu H(5), Peng X(6)(7).
+
+Author information: 
+(1)National Kunming High-level Biosafety Primate Research Center, Institute of
+Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical
+College, Yunnan, China.
+(2)State Key Laboratory of Medical Molecular Biology, Department of Molecular
+Biology and Biochemistry, Institute of Basic Medical Sciences, Medical Primate
+Research Center, Neuroscience Center, Chinese Academy of Medical Sciences, School
+of Basic Medicine, Peking Union Medical College, Beijing, China.
+(3)Medical Key Laboratory for Repository and Application of Pathogenic
+Microbiology, Guangdong Provincial Center for Disease Control and Prevention,
+Guangzhou, China.
+(4)Medical Key Laboratory for Repository and Application of Pathogenic
+Microbiology, Guangdong Provincial Center for Disease Control and Prevention,
+Guangzhou, China. kecw1965@aliyun.com.
+(5)National Kunming High-level Biosafety Primate Research Center, Institute of
+Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical
+College, Yunnan, China. lhq@Imbcams.com.cn.
+(6)National Kunming High-level Biosafety Primate Research Center, Institute of
+Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical
+College, Yunnan, China. pengxiaozhong@pumc.edu.cn.
+(7)State Key Laboratory of Medical Molecular Biology, Department of Molecular
+Biology and Biochemistry, Institute of Basic Medical Sciences, Medical Primate
+Research Center, Neuroscience Center, Chinese Academy of Medical Sciences, School
+of Basic Medicine, Peking Union Medical College, Beijing, China.
+pengxiaozhong@pumc.edu.cn.
+(#)Contributed equally
+
+Identification of a suitable nonhuman primate (NHP) model of COVID-19 remains
+challenging. Here, we characterized severe acute respiratory syndrome coronavirus
+2 (SARS-CoV-2) infection in three NHP species: Old World monkeys Macaca mulatta
+(M. mulatta) and Macaca fascicularis (M. fascicularis) and New World monkey
+Callithrix jacchus (C. jacchus). Infected M. mulatta and M. fascicularis showed
+abnormal chest radiographs, an increased body temperature and a decreased body
+weight. Viral genomes were detected in swab and blood samples from all animals.
+Viral load was detected in the pulmonary tissues of M. mulatta and M.
+fascicularis but not C. jacchus. Furthermore, among the three animal species, M. 
+mulatta showed the strongest response to SARS-CoV-2, including increased
+inflammatory cytokine expression and pathological changes in the pulmonary
+tissues. Collectively, these data revealed the different susceptibilities of Old 
+World and New World monkeys to SARS-CoV-2 and identified M. mulatta as the most
+suitable for modeling COVID-19.
+
+DOI: 10.1038/s41392-020-00269-6 
+PMCID: PMC7434851
+PMID: 32814760  [Indexed for MEDLINE]
+

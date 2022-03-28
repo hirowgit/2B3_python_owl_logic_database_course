@@ -1,0 +1,57 @@
+
+
+35. Biomed Opt Express. 2021 Oct 19;12(11):7009-7023. doi: 10.1364/BOE.432102.
+eCollection 2021 Nov 1.
+
+Label-free imaging of age-related cardiac structural changes in non-human
+primates using multiphoton nonlinear microscopy.
+
+Khan A(1)(2), Ramos-Gomes F(1), Markus A(1), Mietsch M(2)(3), Hinkel R(2)(3)(4), 
+Alves F(1)(2)(5)(6).
+
+Author information: 
+(1)Max-Planck-Institute for Experimental Medicine, Translational Molecular
+Imaging, Göttingen, Germany.
+(2)DZHK (German Center for Cardiovascular Research), Partner site Göttingen,
+37077 Göttingen, Germany.
+(3)Laboratory Animal Science Unit, German Primate Center, Leibniz Institute for
+Primate Research, Göttingen, Germany.
+(4)Stiftung Tierärztliche Hochschule Hannover, Hannover, Germany.
+(5)University Medical Center Göttingen, Institute for Diagnostic and
+Interventional Radiology & Clinic for Hematology and Medical Oncology, Göttingen,
+Germany.
+(6)Cluster of Excellence "Multiscale Bioimaging: from Molecular Machines to
+Networks of Excitable Cells," Göttingen, Germany.
+
+Heart failure is one of the most common causes of morbidity and mortality. Both
+maturational abnormalities and age-associated cardiac pathologies contribute to
+heart failure. Imaging-based assessment to discern detailed cardiac structure at 
+various maturational stages is imperative for understanding mechanisms behind
+cardiac growth and aging. Using multiphoton nonlinear optical microscopy (NLOM)
+based label-free imaging, we investigated cardiac structural composition in a
+human-relevant aging model, the common marmoset monkey (Callithrix jacchus).
+Animals were divided into three different age groups including neonatal, young
+adult and old. By devising a unique strategy for segregating collagen and myosin 
+emitted second harmonic generation (SHG) signals, we performed a volumetric
+assessment of collagen and total scattering tissue (collagen + myosin). Aged
+marmoset hearts exhibited an increase in collagen and total scattering tissue
+volume at the sites of severe tissue remodelling indicating age-related cardiac
+fibrosis. Significantly low scattering tissue volume in neonatal marmoset hearts 
+was attributed to a lack of binding between the myofibrils in maturing cardiac
+tissue. Comprehensive quantitative assessment of structural composition during
+maturation and aging of marmoset hearts revealed significant differences in
+myofibril length, alignment, curvature and angular distribution. In conclusion,
+label-free high-resolution NLOM facilitates visualization and quantification of
+subcellular structural features for understanding vital age-related morphological
+alterations in the marmoset heart.
+
+© 2021 Optical Society of America under the terms of the OSA Open Access
+Publishing Agreement.
+
+DOI: 10.1364/BOE.432102 
+PMCID: PMC8606147
+PMID: 34858695 
+
+Conflict of interest statement: The authors declare that they have no competing
+interests.
+

@@ -1,0 +1,103 @@
+
+
+365. PLoS Negl Trop Dis. 2020 Feb 12;14(2):e0008027. doi:
+10.1371/journal.pntd.0008027. eCollection 2020 Feb.
+
+A high infectious simian adenovirus type 23 vector based vaccine efficiently
+protects common marmosets against Zika virus infection.
+
+Luo S(1), Zhao W(2), Ma X(1), Zhang P(1), Liu B(1), Zhang L(1), Wang W(1), Wang
+Y(3), Fu Y(4), Allain JP(1)(5), Li T(1), Li C(1).
+
+Author information: 
+(1)Department of Transfusion Medicine, School of Laboratory Medicine and
+Biotechnology, Southern Medical University, Guangzhou, China.
+(2)Laboratory of Biosafety, School of Public Health, Southern Medical University,
+Guangzhou, China.
+(3)Experimental Animal Center, Nanfang Hospital, Southern Medical University,
+Guangzhou, China.
+(4)Guangzhou Blood Center, Guangzhou, China.
+(5)Emeritus professor, University of Cambridge, Cambridge, United Kingdom.
+
+Zika virus (ZIKV) has spread in many countries or territories causing severe
+neurologic complications with potential fatal outcomes. The small primate common 
+marmosets are susceptible to ZIKV, mimicking key features of human infection.
+Here, a novel simian adenovirus type 23 vector-based vaccine expressing ZIKV
+pre-membrane-envelope proteins (Sad23L-prM-E) was produced in high infectious
+titer. Due to determination of immunogenicity in mice, a single-dose of 3×108 PFU
+Sad23L-prM-E vaccine was intramuscularly inoculated to marmosets. This vaccine
+raised antibody titers of 104.07 E-specific and 103.13 neutralizing antibody
+(NAb), as well as robust specific IFN-γ secreting T-cell response (1,219 SFCs/106
+cells) to E peptides. The vaccinated marmosets, upon challenge with a high dose
+of ZIKV (105 PFU) six weeks post prime immunization, reduced viremia by more than
+100 folds, and the low level of detectable viral RNA (<103 copies/ml) in blood,
+saliva, urine and feces was promptly eliminated when the secondary NAb (titer
+>103.66) and T-cell response (>726 SFCs/106 PBMCs) were acquired 1-2 weeks post
+exposure to ZIKV, while non-vaccinated control marmosets developed long-term high
+titer of ZIKV (105.73 copies/ml) (P<0.05). No significant pathological lesions
+were observed in marmoset tissues. Sad23L-prM-E vaccine was detectable in spleen,
+liver and PBMCs at least 4 months post challenge. In conclusion, a prime
+immunization with Sad23L-prM-E vaccine was able to protect marmosets against ZIKV
+infection when exposed to a high dose of ZIKV. This Sad23L-prM-E vaccine is a
+promising vaccine candidate for prevention of ZIKV infection in humans.
+
+DOI: 10.1371/journal.pntd.0008027 
+PMCID: PMC7015313
+PMID: 32049958  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+366. Biochem Pharmacol. 2020 Apr;174:113835. doi: 10.1016/j.bcp.2020.113835. Epub 2020
+Feb 4.
+
+Systematic characterization of glutathione S-transferases in common marmosets.
+
+Uno Y(1), Uehara S(2), Tanaka S(2), Murayama N(2), Yamazaki H(3).
+
+Author information: 
+(1)Joint Faculty of Veterinary Medicine, Kagoshima University, Kagoshima-city,
+Kagoshima 890-8580, Japan; Shin Nippon Biomedical Laboratories, Ltd., Kainan,
+Wakayama 642-0017, Japan. Electronic address: unoxx001@vet.kagoshima-u.ac.jp.
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo 194-8543, Japan.
+(3)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo 194-8543, Japan. Electronic address:
+hyamazak@ac.shoyaku.ac.jp.
+
+The common marmoset is an important primate species used in drug metabolism
+studies. However, glutathione S-transferases (GSTs), essential drug-metabolizing 
+enzymes involved in the conjugation of various endogenous and exogenous
+substrates, have not been identified or characterized in this species. In this
+study, 20 GSTs [including 3 microsomal GSTs (MGSTs)] were identified and
+characterized in marmosets. Marmoset GSTs had amino acid sequences highly
+identical (86-99%) to human GSTs, except for GSTA4L, which had lower identities
+(59-62%) with human GSTAs. Phylogenetic analysis revealed that marmoset GSTs were
+closely clustered with their human counterparts. Marmoset GSTs had gene and
+genomic structures generally similar to their human counterparts, with some
+differences in GSTA, GSTM, and GSTT clusters. Marmoset GST mRNAs exhibited
+distinct tissue expression patterns: GSTA1, GSTA3, GSTA4L, GSTK1, GSTT1, GSTZ1,
+and MGST1 mRNAs were expressed most abundantly in liver. Other GST mRNAs were
+expressed most abundantly in small intestine, lung, brain, or kidney. Expression 
+of GSTT4 and GSTT4L mRNAs was detected only in testis. Among all 20 marmoset GST 
+mRNAs, the most abundant mRNAs were GSTA1 mRNA in liver, small intestine, and
+kidney; GSTM3 mRNA in testis; and MSGT3 mRNA in brain and lung. All 20 GSTs
+mediated the conjugation of GST substrates 1-chloro-2,4-dinitrobenzene;
+1,2-epoxy-3-(p-nitrophenoxy)propane; styrene 7,8-oxide; and/or 1-iodohexane, but 
+with different activity levels. Kinetic analyses showed that marmoset GSTM2/GSTM5
+and GSTM5/GSTT1 effectively conjugated styrene 7,8-oxide and 1-iodohexane,
+respectively, with the highest affinity. These results suggest that the 20 newly 
+identified marmoset GSTs were functional drug-metabolizing enzymes able to
+conjugate typical GST substrates.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2020.113835 
+PMID: 32027883  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

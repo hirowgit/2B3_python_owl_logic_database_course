@@ -1,0 +1,43 @@
+
+
+196. Xenobiotica. 2021 Apr;51(4):479-493. doi: 10.1080/00498254.2020.1871113. Epub
+2021 Jan 17.
+
+Human total clearance values and volumes of distribution of typical human
+cytochrome P450 2C9/19 substrates predicted by single-species allometric scaling 
+using pharmacokinetic data sets from common marmosets genotyped for P450 2C19.
+
+Matsumoto S(1), Uehara S(2)(3), Kamimura H(2)(4), Ikeda H(5), Maeda S(6), Hattori
+M(6), Nishiwaki M(7), Kato K(1), Yamazaki H(3).
+
+Author information: 
+(1)Pharmaceutical Research Labs., Meiji Seika Pharma Co., Ltd., Yokohama, Japan.
+(2)Central Institute for Experimental Animals, Kawasaki, Japan.
+(3)Pharmaceutical University, Machida, Tokyo, Japan.
+(4)Business Promotion Dept., CLEA Japan, Inc., Tokyo, Japan.
+(5)Tokyo Animal & Diet Dept., CLEA Japan, Inc., Tokyo, Japan.
+(6)Yaotsu Breeding Center, CLEA Japan, Inc., Gifu, Japan.
+(7)Fuji Technical Service Center, CLEA Japan, Inc.., Shizuoka, Japan.
+
+Common marmosets (Callithrix jacchus) are small non-human primates that
+genetically lack cytochrome P450 2C9 (CYP2C9). Polymorphic marmoset CYP2C19
+compensates by mediating oxidations of typical human CYP2C9/19
+substrates.Twenty-four probe substrates were intravenously administered in
+combinations to marmosets assigned to extensive or poor metaboliser (PM) groups
+by CYP2C19 genotyping. Eliminations from plasma of cilomilast, phenytoin,
+repaglinide, tolbutamide, and S-warfarin in the CYP2C19 PM group were
+significantly slow; these drugs are known substrates of human CYP2C8/9/19.Human
+total clearance values and volumes of distribution of the 24 test compounds were 
+extrapolated using single-species allometric scaling with experimental data from 
+marmosets and found to be mostly comparable with the reported values.Human total 
+clearance values and volumes of distribution of 15 of the 24 test compounds
+similarly extrapolated using reported data sets from cynomolgus or rhesus monkeys
+were comparable to the present predicted results, especially to those based on
+data from PM marmosets.These results suggest that single-species allometric
+scaling using marmosets, being small, has advantages over multiple-species-based 
+allometry and could be applicable for pharmacokinetic predictions at the
+discovery stage of drug development.
+
+DOI: 10.1080/00498254.2020.1871113 
+PMID: 33455494  [Indexed for MEDLINE]
+

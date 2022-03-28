@@ -1,0 +1,51 @@
+
+
+602. Development. 2018 Nov 9;145(21). pii: dev167833. doi: 10.1242/dev.167833.
+
+Single cell transcriptome analysis of human, marmoset and mouse embryos reveals
+common and divergent features of preimplantation development.
+
+Boroviak T(1)(2), Stirparo GG(1), Dietmann S(1), Hernando-Herraez I(3), Mohammed 
+H(3), Reik W(3), Smith A(1)(4), Sasaki E(5), Nichols J(1)(2), Bertone P(6).
+
+Author information: 
+(1)Wellcome Trust - Medical Research Council Stem Cell Institute, University of
+Cambridge, Tennis Court Road, Cambridge CB2 1QR, UK.
+(2)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Tennis Court Road, Cambridge CB2 3EG, UK.
+(3)Epigenetics Programme, Babraham Institute, Cambridge CB22 3AT, UK.
+(4)Department of Biochemistry, University of Cambridge, Tennis Court Road,
+Cambridge CB2 1GA, UK.
+(5)Central Institute for Experimental Animals, Department of Applied
+Developmental Biology, 3-25-12 Tonomachi, Kawasaki-ku, Kawasaki 210-0821, Japan.
+(6)Wellcome Trust - Medical Research Council Stem Cell Institute, University of
+Cambridge, Tennis Court Road, Cambridge CB2 1QR, UK bertone@stemcells.cam.ac.uk.
+
+The mouse embryo is the canonical model for mammalian preimplantation
+development. Recent advances in single cell profiling allow detailed analysis of 
+embryogenesis in other eutherian species, including human, to distinguish
+conserved from divergent regulatory programs and signalling pathways in the
+rodent paradigm. Here, we identify and compare transcriptional features of human,
+marmoset and mouse embryos by single cell RNA-seq. Zygotic genome activation
+correlates with the presence of polycomb repressive complexes in all three
+species, while ribosome biogenesis emerges as a predominant attribute in primate 
+embryos, supporting prolonged translation of maternally deposited RNAs. We find
+that transposable element expression signatures are species, stage and lineage
+specific. The pluripotency network in the primate epiblast lacks certain
+regulators that are operative in mouse, but encompasses WNT components and genes 
+associated with trophoblast specification. Sequential activation of GATA6, SOX17 
+and GATA4 markers of primitive endoderm identity is conserved in primates.
+Unexpectedly, OTX2 is also associated with primitive endoderm specification in
+human and non-human primate blastocysts. Our cross-species analysis demarcates
+both conserved and primate-specific features of preimplantation development, and 
+underscores the molecular adaptability of early mammalian embryogenesis.
+
+© 2018. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/dev.167833 
+PMCID: PMC6240320
+PMID: 30413530  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interestsThe authors declare no
+competing or financial interests.
+

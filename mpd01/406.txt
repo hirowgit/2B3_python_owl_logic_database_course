@@ -1,0 +1,81 @@
+
+
+406. Sci Rep. 2019 Oct 29;9(1):15480. doi: 10.1038/s41598-019-52024-9.
+
+Leu8 and Pro8 oxytocin agonism differs across human, macaque, and marmoset
+vasopressin 1a receptors.
+
+Mustoe A(1)(2), Schulte NA(3), Taylor JH(4)(3), French JA(4), Toews ML(3).
+
+Author information: 
+(1)Department of Psychology, Callitrichid Research Center, University of Nebraska
+at Omaha, Omaha, NE, USA. amustoe@unomaha.edu.
+(2)Department of Pharmacology and Experimental Neuroscience, University of
+Nebraska Medical Center, Omaha, NE, USA. amustoe@unomaha.edu.
+(3)Department of Pharmacology and Experimental Neuroscience, University of
+Nebraska Medical Center, Omaha, NE, USA.
+(4)Department of Psychology, Callitrichid Research Center, University of Nebraska
+at Omaha, Omaha, NE, USA.
+
+Oxytocin (OXT) is an important neuromodulator of social behaviors via activation 
+of both oxytocin receptors (OXTR) and vasopressin (AVP) 1a receptors (AVPR1a).
+Marmosets are neotropical primates with a modified OXT ligand (Pro8-OXT), and
+this ligand shows significant coevolution with traits including social monogamy
+and litter size. Pro8-OXT produces more potent and efficacious responses at
+primate OXTR and stronger behavioral effects than the consensus mammalian OXT
+ligand (Leu8-OXT). Here, we tested whether OXT/AVP ligands show differential
+levels of crosstalk at primate AVPR1a. We measured binding affinities and Ca2+
+signaling responses of AVP, Pro8-OXT and Leu8-OXT at human, macaque, and marmoset
+AVPR1a. We found that AVP binds with higher affinity than OXT across AVPR1a, and 
+marmoset AVPR1a show a 10-fold lower OXT binding affinity compared to human and
+macaque AVPR1a. Both Leu8-OXT and Pro8-OXT produce a less efficacious response
+than AVP at human AVPR1a and higher efficacious response than AVP at marmoset
+AVPR1a. These data suggest that OXT might partially antagonize endogenous human
+AVPR1a signaling and enhance marmoset AVPR1a signaling. These findings aid in
+further understanding inconsistencies observed following systemic intranasal
+administration of OXT and provide important insights into taxon-specific
+differences in nonapeptide ligand/receptor coevolution and behavior.
+
+DOI: 10.1038/s41598-019-52024-9 
+PMCID: PMC6820730
+PMID: 31664130  [Indexed for MEDLINE]
+
+
+407. Proc Natl Acad Sci U S A. 2019 Nov 12;116(46):23326-23331. doi:
+10.1073/pnas.1909799116. Epub 2019 Oct 28.
+
+Retinotopic specializations of cortical and thalamic inputs to area MT.
+
+Mundinano IC(1), Kwan WC(1), Bourne JA(2).
+
+Author information: 
+(1)Australian Regenerative Medicine Institute, Monash University, Clayton, VIC
+3800, Australia.
+(2)Australian Regenerative Medicine Institute, Monash University, Clayton, VIC
+3800, Australia james.bourne@monash.edu.
+
+Retinotopic specializations in the ventral visual stream, especially foveal
+adaptations, provide primates with high-acuity vision in the central visual
+field. However, visual field specializations have not been studied in the dorsal 
+visual stream, dedicated to processing visual motion and visually guided
+behaviors. To investigate this, we injected retrograde neuronal tracers occupying
+the whole visuotopic representation of the middle temporal (MT) visual area in
+marmoset monkeys and studied the distribution and morphology of the afferent
+primary visual cortex (V1) projections. Contrary to previous reports, we found a 
+heterogeneous population of V1-MT projecting neurons distributed in layers 3C and
+6. In layer 3C, spiny stellate neurons were distributed mainly in foveal
+representations, while pyramidal morphologies were characteristic of peripheral
+eccentricities. This primate adaptation of the V1 to MT pathway is arranged in a 
+way that we had not previously understood, with abundant stellate projection
+neurons in the high-resolution foveal portions, suggesting rapid relay of motion 
+information to visual area MT. We also describe that the medial portion of the
+inferior pulvinar (PIm), which is the main thalamic input to area MT, shows a
+retinotopic organization, likely reflecting the importance of this pathway during
+development and the establishment of area MT topography.
+
+DOI: 10.1073/pnas.1909799116 
+PMCID: PMC6859338
+PMID: 31659044  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.
+

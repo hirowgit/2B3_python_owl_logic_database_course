@@ -1,0 +1,90 @@
+
+
+1029. Pathobiol Aging Age Relat Dis. 2016 Jun 23;6:31793. doi: 10.3402/pba.v6.31793.
+eCollection 2016.
+
+Pharmaceutical inhibition of mTOR in the common marmoset: effect of rapamycin on 
+regulators of proteostasis in a non-human primate.
+
+Lelegren M(1)(2), Liu Y(2), Ross C(2)(3)(4)(5), Tardif S(2)(3)(5), Salmon
+AB(1)(2)(6).
+
+Author information: 
+(1)Geriatric Research, Education and Clinical Center, South Texas Veterans Health
+Care System, San Antonio, TX, USA.
+(2)The Sam and Ann Barshop Institute for Longevity and Aging Studies, The
+University of Texas Health Science Center at San Antonio, San Antonio, TX, USA.
+(3)Department of Cellular and Structural Biology, The University of Texas Health 
+Science Center at San Antonio, San Antonio, TX, USA.
+(4)Department of Biology, Texas A&M University at San Antonio, San Antonio, TX,
+USA.
+(5)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX, USA.
+(6)Department of Molecular Medicine, The University of Texas Health Science
+Center at San Antonio, San Antonio, TX, USA; salmona@uthscsa.edu.
+
+BACKGROUND: Inhibition of mechanistic target of rapamycin (mTOR) has emerged as a
+viable means to lengthen lifespan and healthspan in mice, although it is still
+unclear whether these benefits will extend to other mammalian species. We
+previously reported results from a pilot experiment wherein common marmosets
+(Callithrix jacchus) were treated orally with rapamycin to reduce mTOR signaling 
+in vivo in line with previous reports in mice and humans. Further, long-term
+treatment did not significantly alter body weight, daily activity, blood lipid
+concentrations, or glucose metabolism in this cohort.
+METHODS: In this study, we report on the molecular consequences of rapamycin
+treatment in marmosets on mechanisms that regulate protein homeostasis
+(proteostasis) in vivo. There is growing appreciation for the role of
+proteostasis in longevity and for the role that mTOR plays in regulating this
+process. Tissue samples of liver and skeletal muscle from marmosets in our pilot 
+cohort were assessed for expression and activity of components of the
+ubiquitin-proteasome system, macroautophagy, and protein chaperones.
+RESULTS: Rapamycin treatment was associated with increased expression of PSMB5, a
+core subunit of the 20S proteasome, but not PSMB8 which is involved in the
+formation of the immunoproteasome, in the skeletal muscle and liver.
+Surprisingly, proteasome activity measured in these tissues was not affected by
+rapamycin. Rapamycin treatment was associated with an increased expression of
+mitochondria-targeted protein chaperones in skeletal muscle, but not liver.
+Finally, autophagy was increased in skeletal muscle and adipose, but not liver,
+from rapamycin-treated marmosets.
+CONCLUSIONS: Overall, these data show tissue-specific upregulation of some, but
+not all, components of the proteostasis network in common marmosets treated with 
+a pharmaceutical inhibitor of mTOR.
+
+DOI: 10.3402/pba.v6.31793 
+PMCID: PMC4920937
+PMID: 27341957 
+
+
+1030. Neuroreport. 2016 Aug 3;27(11):833-6. doi: 10.1097/WNR.0000000000000624.
+
+Expression pattern of wolframin, the WFS1 (Wolfram syndrome-1 gene) product, in
+common marmoset (Callithrix jacchus) cochlea.
+
+Suzuki N(1), Hosoya M, Oishi N, Okano H, Fujioka M, Ogawa K.
+
+Author information: 
+(1)Departments of aOtorhinolaryngology, Head and Neck Surgery bPhysiology, Keio
+University School of Medicine, Tokyo, Japan.
+
+Wolfram syndrome is an autosomal recessive disorder of the neuroendocrine system,
+known as DIDMOAD (Diabetes Insipidus, Diabetes Mellitus, Optic Atrophy and
+Deafness) syndrome, and considered an endoplasmic reticulum disease. Patients
+show mutations in WFS1, which encodes the 890 amino acid protein wolframin.
+Although Wfs1 knockout mice develop diabetes, their hearing level is completely
+normal. In this study, we examined the expression of wolframin in the cochlea of 
+a nonhuman primate common marmoset (Callithrix jacchus) to elucidate the
+discrepancy in the phenotype between species and the pathophysiology of Wolfram
+syndrome-associated deafness. The marmoset cochlea showed wolframin
+immunoreactivity not only in the spiral ligament type I fibrocytes, spiral
+ganglion neurons, outer hair cells, and supporting cells, but in the stria
+vascularis basal cells, where wolframin expression was not observed in the
+previous mouse study. Considering the absence of the deafness phenotype in Wfs1
+knockout mice, the expression of wolframin in the basal cells of primates may
+play an essential role in the maintenance of hearing. Elucidating the function of
+wolframin protein in the basal cells of primates would be essential for
+understanding the pathogenesis of hearing loss in patients with Wolfram syndrome,
+which may lead to the discovery of new therapeutics.
+
+DOI: 10.1097/WNR.0000000000000624 
+PMID: 27341211  [Indexed for MEDLINE]
+

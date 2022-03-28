@@ -1,0 +1,39 @@
+
+
+951. Sci Rep. 2016 Nov 23;6:37489. doi: 10.1038/srep37489.
+
+Characterization of two distinct early post-entry blocks to HIV-1 in common
+marmoset lymphocytes.
+
+Pacheco B(1)(2), Menéndez-Arias L(1), Sodroski J(2)(3).
+
+Author information: 
+(1)Centro de Biología Molecular Severo Ochoa, Consejo Superior de Investigaciones
+Científicas and Universidad Autónoma de Madrid, Madrid, Spain.
+(2)Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute and
+Department of Microbiology and Immunobiology, Harvard Medical School, Boston, MA,
+USA.
+(3)Department of Immunology and Infectious Diseases, Harvard School of Public
+Health, Boston, MA, USA.
+
+In nature, primate lentiviruses infect humans and several Old World monkeys and
+apes. However, to date, lentiviruses infecting New World monkeys have not been
+described. We studied the susceptibility of common marmoset cells to HIV-1
+infection and observed the presence of post-entry blocks to the early phase of
+HIV-1 infection in peripheral blood lymphocytes (PBLs) and a B lymphocytic cell
+line (B-LCL). The blocks present in these cells are dominant and phenotypically
+different from each other. In PBLs, the block occurs at the level of reverse
+transcription, reducing the accumulation of early and late transcripts, similar
+to the block imposed by TRIM5α. However, we have found that marmoset TRIM5α does 
+not block HIV-1. In contrast, the restriction factor present in B-LCLs blocks
+HIV-1 replication at a later step, after nuclear entry, and inhibits integration.
+Additionally, we have identified an HIV-1 capsid mutant, N74D, that is able to
+escape the restriction in the marmoset B-LCLs. Our results suggest that the
+factors responsible for the blocks present in marmoset PBLs and B-LCLs are
+different. We propose the existence of at least two new restriction factors able 
+to block HIV-1 infection in marmoset lymphocytes.
+
+DOI: 10.1038/srep37489 
+PMCID: PMC5120322
+PMID: 27876849  [Indexed for MEDLINE]
+

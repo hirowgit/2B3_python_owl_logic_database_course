@@ -1,0 +1,50 @@
+
+
+813. Genome Res. 2017 Oct;27(10):1623-1633. doi: 10.1101/gr.218149.116. Epub 2017 Aug 
+30.
+
+Transposable elements are the primary source of novelty in primate gene
+regulation.
+
+Trizzino M(1)(2), Park Y(1)(2), Holsbach-Beltrame M(1), Aracena K(1), Mika K(3), 
+Caliskan M(1)(2), Perry GH(4), Lynch VJ(3), Brown CD(1)(2).
+
+Author information: 
+(1)Department of Genetics, Perelman School of Medicine, University of
+Pennsylvania, Philadelphia, Pennsylvania 19104, USA.
+(2)Institute for Biomedical Informatics, University of Pennsylvania,
+Philadelphia, Pennsylvania 19104, USA.
+(3)Department of Human Genetics, University of Chicago, Chicago, Illinois 60637, 
+USA.
+(4)Departments of Anthropology and Biology, Pennsylvania State University,
+University Park, Pennsylvania 16802, USA.
+
+Gene regulation shapes the evolution of phenotypic diversity. We investigated the
+evolution of liver promoters and enhancers in six primate species using ChIP-seq 
+(H3K27ac and H3K4me1) to profile cis-regulatory elements (CREs) and using RNA-seq
+to characterize gene expression in the same individuals. To quantify regulatory
+divergence, we compared CRE activity across species by testing differential
+ChIP-seq read depths directly measured for orthologous sequences. We show that
+the primate regulatory landscape is largely conserved across the lineage, with
+63% of the tested human liver CREs showing similar activity across species.
+Conserved CRE function is associated with sequence conservation, proximity to
+coding genes, cell-type specificity, and transcription factor binding. Newly
+evolved CREs are enriched in immune response and neurodevelopmental functions. We
+further demonstrate that conserved CREs bind master regulators, suggesting that
+while CREs contribute to species adaptation to the environment, core functions
+remain intact. Newly evolved CREs are enriched in young transposable elements
+(TEs), including Long-Terminal-Repeats (LTRs) and SINE-VNTR-Alus (SVAs), that
+significantly affect gene expression. Conversely, only 16% of conserved CREs
+overlap TEs. We tested the cis-regulatory activity of 69 TE subfamilies by
+luciferase reporter assays, spanning all major TE classes, and showed that 95.6% 
+of tested TEs can function as either transcriptional activators or repressors. In
+conclusion, we demonstrated the critical role of TEs in primate gene regulation
+and illustrated potential mechanisms underlying evolutionary divergence among the
+primate species through the noncoding genome.
+
+© 2017 Trizzino et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/gr.218149.116 
+PMCID: PMC5630026
+PMID: 28855262  [Indexed for MEDLINE]
+

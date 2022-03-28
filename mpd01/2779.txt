@@ -1,0 +1,91 @@
+
+
+2779. Am J Primatol. 2004 Sep;64(1):107-21.
+
+Reproductive output, maternal age, and survivorship in captive common marmoset
+females (Callithrix jacchus).
+
+Smucny DA(1), Abbott DH, Mansfield KG, Schultz-Darken NJ, Yamamoto ME, Alencar
+AI, Tardif SD.
+
+Author information: 
+(1)Southwest National Primate Research Center, San Antonio, Texas 78245-0549,
+USA.
+
+Common marmosets (Callithrix jacchus) demonstrate significant variation in
+reproductive output on both a yearly and lifetime basis in comparison to other
+anthropoid primates. We explore the factors that may be most important in
+determining reproductive variation in captive common marmosets. Studies have
+found that maternal age, maternal condition, and dam survivorship are related to 
+reproductive output; however, these reports are not in agreement and are far from
+conclusive. With the use of a large, multicolony, demographic database pooling
+data across five marmoset colonies, we examined litter information for 1,649
+litters, and reproductive summaries for 400 dams to assess 1) how reproductive
+output variation (total production, total weaned production) is determined by
+litter size, interbirth interval (IBI), age at first birth, and dam survival age;
+2) the relationship between maternal age and reproductive output variables; and
+3) relationship between the reproductive output variables and survival. We used
+stepwise regression procedures to describe the amount of variation in lifetime
+reproductive output among dams, and found that mean litter size accounted for 18%
+of the variance in total production, survival age accounted for 10.6%, age at
+first birth accounted for 8.8%, and mean IBI accounted for 5%. For total
+(nonzero) weaned production, survival age accounted for 7.6% of variance, age at 
+first birth accounted for 7.2%, mean IBI accounted for 2%, and mean litter size
+accounted for 1.6%. We identified significant effects (P<0.05) of maternal age on
+litter size and IBI length, but no effect of dam age on weaned litter size. Cox
+proportional hazards regression analyses revealed significant effects (P<0.01) of
+number of litters, age at first birth, and site on dam survivorship. Dams that
+produced more litters showed higher survivorship. Age at first birth showed a
+positive relationship with dam survivorship, i.e., dams that delayed first
+reproduction had higher survival. Our findings about reproductive variation in
+marmosets may have practical applications for the management of marmoset breeding
+colonies.
+
+DOI: 10.1002/ajp.20065 
+PMID: 15356862  [Indexed for MEDLINE]
+
+
+2780. Am J Primatol. 2004 Sep;64(1):83-93.
+
+Quantitative data on training new world primates to urinate.
+
+Smith TE(1), McCallister JM, Gordon SJ, Whittikar M.
+
+Author information: 
+(1)Biology Department, University College Chester, Chester CB1 4BJ, UK.
+tessa.smith@chester.ac.uk
+
+This study assessed the effectiveness of operant conditioning in training three
+species of captive callitrichid primates (Leontopithecus rosalia, Callithrix
+geoffroyi, and Saguinus imperator) to urinate on demand. There were three goals
+to the study: 1) to develop a system for quantitatively assessing positive
+reinforcement training; 2) to ascertain whether or not positive reinforcement
+techniques can be used to train callitrichid monkeys to urinate on demand, and if
+so, how many training sessions are required; and 3) to determine the effect on
+urination behavior of the trainer entering the cage to collect a urine sample.
+Positive reinforcement with a continuous reinforcement schedule was used to
+capture a natural behavior: urination. Training sessions (30 min each) were
+conducted at dawn thrice weekly during five consecutive phases: habituation,
+control, training (animals were rewarded for urinating), maintenance (animals had
+reached a defined training criteria and continued to be rewarded for urinating), 
+and collection (animals were rewarded for urinating, and the trainer entered the 
+cage to collect the sample). The numbers of 30-min training sessions required to 
+train the three monkey species (L. rosalia, C. geoffroyi, and S. imperator) were 
+five, six, and eight, respectively. For the three species, the mean number of
+urinations per animal was significantly greater during the training, maintenance,
+and collection phases compared to the control phase. However, the three species
+differed significantly in the manner in which the rates of urination changed
+across the five phases. A higher proportion of subjects urinated during the
+training, maintenance, and collection phases compared to the control phase.
+Latency to first urination varied significantly across the five phases, with
+significantly reduced latencies to urinate during the training, maintenance, and 
+collection phases compared to the control phase. The entry of the trainer into
+the cage to collect the urine sample did not appear to alter urination behavior. 
+We demonstrate that operant conditioning techniques, which typically incur
+minimal cost, time investment, and disturbance, can be used to increase the
+quantity of urine samples collected for physiological analysis, the proportion of
+animals that urinate, and the speed of sample collection.
+
+DOI: 10.1002/ajp.20063 
+PMID: 15356860  [Indexed for MEDLINE]
+

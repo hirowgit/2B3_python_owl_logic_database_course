@@ -1,0 +1,292 @@
+
+
+628. J Gerontol A Biol Sci Med Sci. 2019 Feb 15;74(3):315-324. doi:
+10.1093/gerona/gly237.
+
+Marmoset as a Model to Study Kidney Changes Associated With Aging.
+
+Lee HJ(1), Gonzalez O(2), Dick EJ(2), Donati A(1), Feliers D(1), Choudhury
+GG(1)(3), Ross C(4), Venkatachalam M(5), Tardif SD(2)(6), Kasinath BS(1)(3)(6).
+
+Author information: 
+(1)Department of Medicine, University of Texas Health, Long School of Medicine,
+San Antonio.
+(2)Southwest National Primate Research Center, San Antonio, Texas.
+(3)Geriatric Research Education, and Clinical Center (GRECC), South Texas
+Veterans Health Care System, San Antonio.
+(4)Department of Biology, Texas A & M University, San Antonio.
+(5)Department of Pathology, University of Texas Health, Long School of Medicine, 
+San Antonio.
+(6)Barshop Institute for Longevity and Aging Studies, San Antonio, Texas.
+
+Erratum in
+    J Gerontol A Biol Sci Med Sci. 2022 Jan 7;77(1):84.
+
+We evaluated whether the marmoset, a nonhuman primate, can serve as a good model 
+to study aging-related changes in the kidney by employing healthy young and aged 
+marmosets of both sexes. Aging was associated with glomerulosclerosis,
+interstitial fibrosis, and arteriolosclerosis in both sexes; correspondingly, the
+content of matrix proteins was increased. Functionally, aging resulted in an
+increase in urinary albumin and protein excretion. There was a robust correlation
+between markers of fibrosis and functional changes. We explored signaling
+pathways as potential mechanistic events. Aging in males, but not in females, was
+associated with reduced renal cortical activity of AMP-activated protein kinase
+(AMPK) and a trend toward activation of mechanistic target of rapamycin complex 1
+(mTORC1); upstream of AMPK and mTORC1, Akt and IGF-1 receptor were activated. In 
+both sexes, aging promoted kidney activation of transforming growth factor β-1
+signaling pathway. While the expression of cystathionine β-synthase (CBS), an
+enzyme involved hydrogen sulfide (H2S) synthesis, was reduced in both aged males 
+and females, decreased H2S generation was seen in only males. Our studies show
+that the marmoset is a valid model to study kidney aging; some of the signaling
+pathways involved in renal senescence differ between male and female marmosets.
+
+Published by Oxford University Press on behalf of The Gerontological Society of
+America 2018.
+
+DOI: 10.1093/gerona/gly237 
+PMCID: PMC6376089
+PMID: 30321310  [Indexed for MEDLINE]
+
+
+629. Ecology. 2019 Jan;100(1):e02525. doi: 10.1002/ecy.2525. Epub 2018 Nov 16.
+
+ATLANTIC-PRIMATES: a dataset of communities and occurrences of primates in the
+Atlantic Forests of South America.
+
+Culot L(1), Pereira LA(1), Agostini I(2)(3), de Almeida MAB(4)(5), Alves RSC(6), 
+Aximoff I(7), Bager A(8), Baldovino MC(2)(3), Bella TR(9), Bicca-Marques JC(5),
+Braga C(10), Brocardo CR(6), Campelo AKN(11), Canale GR(12), Cardoso JDC(4),
+Carrano E(13), Casanova DC(14), Cassano CR(15), Castro E(8), Cherem JJ(16),
+Chiarello AG(17), Cosenza BAP(18), Costa-Araújo R(19)(20), Silva NCD(21), Di
+Bitetti MS(2)(3)(22), Ferreira AS(15), Ferreira PCR(23), Fialho MS(24), Fuzessy
+LF(1), Garbino GST(25)(26), Garcia FO(27), Gatto CAFR(19), Gestich CC(27),
+Gonçalves PR(10), Gontijo NRC(28), Graipel ME(16)(29), Guidorizzi CE(30),
+Espíndola Hack RO(31), Hass GP(6), Hilário RR(32), Hirsch A(33), Holzmann I(34), 
+Homem DH(14), Júnior HE(35), Júnior GS(36), Kierulff MCM(37), Knogge C(38), Lima 
+F(2)(39), de Lima EF(9)(14), Martins CS(39), de Lima AA(40), Martins A(41),
+Martins WP(42), de Melo FR(43)(44), Melzew R(45), Miranda JMD(46)(47), Miranda
+F(41), Moraes AM(6), Moreira TC(23), de Castro Morini MS(11), Nagy-Reis MB(48),
+Oklander L(2)(49), de Carvalho Oliveira L(15)(50)(51), Paglia AP(52), Pagoto
+A(11), Passamani M(21), de Camargo Passos F(46), Peres CA(53), de Campos Perine
+MS(14), Pinto MP(40), Pontes ARM(54), Port-Carvalho M(55), Prado BHSD(55),
+Regolin AL(6), Rezende GC(1)(39), Rocha A(6)(56), Rocha JDS(57), de Paula Rodarte
+RR(14), Sales LP(58)(59), Santos ED(4), Santos PM(52), Bernardo CSS(23)(60),
+Sartorello R(11), Serra L(36), Setz E(9), de Almeida E Silva AS(1), Silva
+LHD(6)(39), Silva PBED(5), Silveira M(61), Smith RL(62)(63), de Souza SM(42),
+Srbek-Araujo AC(35)(64), Trevelin LC(65), Valladares-Padua C(39), Zago
+L(46)(47)(66), Marques E(67), Ferrari SF(68), Beltrão-Mendes R(68), Henz DJ(69), 
+da Veiga da Costa FE(69), Ribeiro IK(69), Quintilham LLT(69), Dums M(69),
+Lombardi PM(69), Bonikowski RTR(69), Age SG(69), Souza-Alves JP(70), Chagas
+R(71), Cunha RGTD(72), Valença-Montenegro MM(67), Ludwig G(67), Jerusalinsky
+L(67), Buss G(67), de Azevedo RB(67), Filho RF(70), Bufalo F(1), Milhe L(73),
+Santos MMD(1), Sepulvida R(1), Ferraz DDS(18), Faria MB(18), Ribeiro MC(6),
+Galetti M(6).
+
+Author information: 
+(1)Departamento de Zoologia, Instituto de Biociências, Universidade Estadual
+Paulista (UNESP), CP. 199, 13506-900, Rio Claro, São Paulo, Brazil.
+(2)Instituto de Biología Subtropical (IBS), Universidad Nacional de Misiones
+(UNaM) - Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET),
+sede Iguazú, Bertoni 85, CP. 3370, Puerto Iguazú, Misiones, Argentina.
+(3)Asociación Civil Centro de Investigaciones del Bosque Atlántico (CeIBA),
+Puerto Iguazú, Argentina.
+(4)Secretaria da Saúde do Estado do Rio Grande do Sul, Centro Estadual de
+Vigilância em Saúde, Divisão de Vigilância Ambiental em Saúde. R. Domingos
+Crescêncio, 132, 90650-090, Porto Alegre, Rio Grande do Sul, Brazil.
+(5)Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Escola de
+Ciências, Av. Ipiranga, 6681 Pd. 12A, 90619-900, Porto Alegre, Rio Grande do Sul,
+Brazil.
+(6)Departamento de Ecologia, Instituto de Biociências, Universidade Estadual
+Paulista (UNESP), CP. 199, 13506-900, Rio Claro, São Paulo, Brazil.
+(7)Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, Programa de
+Pós-Graduação em Botânica, Escola Nacional de Botânica Tropical, 22460-036, Rio
+de Janeiro, Brazil.
+(8)Centro Brasileiro de Estudos em Ecologia de Estradas (CBEE), Universidade
+Federal de Lavras, 37200-000, Lavras, Minas Gerais, Brazil.
+(9)Mammal Ecology and Behavior Lab, Department of Animal Biology, Institute of
+Biology, University of Campinas (UNICAMP), 13083-862, Campinas, São Paulo,
+Brazil.
+(10)Núcleo em Ecologia e Desenvolvimento Socioambiental de Macaé (NUPEM),
+Universidade Federal do Rio de Janeiro (UFRJ), Campus Macaé, Av. São José do
+Barreto, 764, 27965-045, Macaé, Rio de Janeiro, Brazil.
+(11)Núcleo de Ciências Ambientais (NCA), Laboratório de Mapeamento e Análise da
+Paisagem (LabMAP), Universidade de Mogi das Cruzes (UMC), 08780-911, Mogi das
+Cruzes, São Paulo, Brazil.
+(12)Núcleo de Estudos da Biodiversidade da Amazônia Meridional, Instituto de
+Ciências Naturais, Humanas e Sociais, Universidade Federal de Mato Grosso (UFMT),
+Av. Alexandre Ferronato, 1200, 78557-267, Sinop, Mato Grosso, Brazil.
+(13)Laboratório de Ecologia e Conservação, Curso de Ciências Biológicas, Rua
+Imaculada Conceição, Pontifícia Universidade Católica do Paraná (PUCPR), 1155,
+80215-901, Curitiba, Paraná, Brazil.
+(14)Casa da Floresta Ambiental SS, Av. Joaninha Morganti, Monte Alegre, 289,
+13415-030, Piracicaba, São Paulo, Brazil.
+(15)Laboratório de Ecologia Aplicada à Conservação, Universidade Estadual de
+Santa Cruz (UESC), Km. 16 Rodovia Jorge Amado, 45662-900, Ilhéus, Bahia, Brazil.
+(16)Caipora Cooperativa para a Conservação da Natureza, 88040-400, Florianópolis,
+Santa Catarina, Brazil.
+(17)Departamento de Biologia, Faculdade de Filosofia Ciências e Letras de
+Ribeirão Preto, Universidade de São Paulo (USP), Av. Bandeirantes 3900,
+14040-901, Ribeirão Preto, São Paulo, Brazil.
+(18)Universidade do Estado de Minas Gerais (UEMG), Praça dos Estudantes, 23,
+36800-000, Carangola, Minas Gerais, Brazil.
+(19)Programa de Pós-Graduação em Ecologia, Instituto Nacional de Pesquisas da
+Amazônia (INPA), Av. André Araújo, 2936 Petrópolis, 69067-375, Manaus, Amazonas, 
+Brazil.
+(20)Laboratório de Evolução e Genética Animal, Universidade Federal do Amazonas
+(UFAM), Av. Gal. Rodrigo Otávio J. Ramos 3000, Setor Sul, ICB 02, Sala 09,
+69077-000, Manaus, Amazonas, Brazil.
+(21)Laboratório de Ecologia e Conservação de Mamíferos, Universidade Federal de
+Lavras, 37200-00, Lavras, Minas Gerais, Brazil.
+(22)Facultad de Ciencias Forestales, Universidad Nacional de Misiones (UNaM),
+Eldorado, Misiones, Argentina.
+(23)Programa de Pós-Graduação em Genética, Biodiversidade e Conservação,
+Universidade Estadual do Sudoeste da Bahia (UESB), Av. José Moreira Sobrinho,
+s/n, 45208-091, Jequié, Bahia, Brazil.
+(24)Centro Nacional de Pesquisa e Conservação de Aves Silvestres (CEMAVE/ICMBIO),
+BR 230 - KM 10, Floresta Nacional da Restinga de Cabedelo, 58.108-012, Cabedelo, 
+Paraíba, Brazil.
+(25)Departamento de Zoologia, Programa de Pós Graduação em Zoologia, Instituto de
+Ciências Biológicas, Universidade Federal de Minas Gerais (UFMG), Belo Horizonte,
+Minas Gerais, Brazil.
+(26)Instituto Itapoty: Desenvolvimento Humano e Conservação Ambiental,
+18.690-000, Itatinga, São Paulo, Brazil.
+(27)Centro de Ciências Biológicas e da Saúde, Universidade Federal de São
+Carlos(UFSCar), 13565-905, São Carlos, São Paulo, Brazil.
+(28)Departamento de Ciências Biológicas, Programa de Pós-Graduação em Ciências
+Biológicas (Biologia Animal), Universidade Federal do Espírito Santo (UFES), Av. 
+Fernando Ferrari, 514, Goiabeiras, 29075-910, Vitória, Epírito Santo, Brazil.
+(29)Departamento de Ecologia e Zoologia, Centro de Ciências Biológicas,
+Universidade Federal de Santa Catarina (UFSC), 88040-900, Florianópolis, Santa
+Catarina, Brazil.
+(30)Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), EQSW
+103/104, Bloco C, Complexo Administrativo, 70670-350, Brasilia, Distrito Federal,
+Brazil.
+(31)Departamento de Recursos Ambientais (DPRA), Divisão de Meio Ambiente (DVMA), 
+Instituto de Tecnologia para o Desenvolvimento - Institutos Lactec, Rodovia
+BR-116, km 98, 8813, Jardim das Américas, 81531-980, Curitiba, Paraná, Brazil.
+(32)Laboratório de Ecologia, Universidade Federal do Amapá (Unifap), Rod. JK, Km 
+2, Jardim Marco Zero, 68.903-419, Macapá, Amapá, Brazil.
+(33)Departamento de Ciências Agrárias, Universidade Federal de São João del Rei
+(UFSJ), Campus Sete Lagoas, Rod. MG-424, km 48, 35.701-970, Sete Lagoas, Minas
+Gerais, Brazil.
+(34)Instituto de Bio y Geociencias del Noroeste Argentino (IBIGEO), CONICET.
+(35)Laboratório de Ecologia e Conservação de Biodiversidade, Programa de
+Pós-Graduação em Ecologia de Ecossistemas, Universidade Vila Velha (UVV), R.
+Comissário José Dantas de Melo, 21, Boa Vista, 29102-920, Vila Velha, Epírito
+Santo, Brazil.
+(36)Centre for Virology Research, Ribeirão Preto Medical School, University of
+São Paulo (USP).
+(37)Centro Universitário Norte do Espírito Santo (CEUNES), Programa de
+Pós-graduação em Biodiversidade Tropical, Universidade Federal do Espírito Santo 
+(UFES), Rodovia BR 101 Norte, km 60, Litorâneo, 29932-540, São Mateus, Espírito
+Santo, Brazil.
+(38)R. Esmeralda, 43, CP142, 12960-000, Nazaré Paulista, São Paulo, Brazil.
+(39)Instituto de Pesquisas Ecológicas (IPÊ), CP 47, 12960-000, Nazaré Paulista,
+São Paulo, Brazil.
+(40)Centro de Biociências, Departamento de Ecologia, Universidade Federal do Rio 
+Grande do Norte (UFRN), 59072-970, Natal, Rio Grande do Norte, Brazil.
+(41)Instituto de Pesquisa e Conservação de Tamanduás no Brasil.
+(42)Programa de Pós-Graduação em Biodiversidade e Uso de Recursos Naturais
+(PPG-BURN), Campus Universitário Professor Darcy Ribeiro, Universidade Estadual
+de Montes Claros (UNIMONTES), CP. 126, Vila Mauricéia, 39401-090, Montes Claros, 
+Minas Gerais, Brazil.
+(43)Departamento de Engenharia Florestal, Universidade Federal de Viçosa (UFV),
+Av. Purdue, s/n°, Campus Universitário, Edif. Reinaldo de Jesus Araújo,
+36570-900, Viçosa, Minas Gerais, Brazil.
+(44)Unidade Acadêmica Especial (UAE) de Ciências Biológicas, Universidade Federal
+de Goiás (UFG), Regional Jataí, Br364, km 192, n. 3800, Parque Industrial,
+75801-615, Jataí, Goiás, Brazil.
+(45)Parque Nacional Iguazú, Administracion de Parques Nacionales de Argentina.
+(46)Departamento de Zoologia, Setor de Ciências Biológicas, Universidade Federal 
+do Paraná (UFPR), CP 19020, Jardim das Américas, 81531-980, Curitiba, Paraná,
+Brazil.
+(47)Laboratório de Biodiversidade de Mamíferos do Sul do Brasil, Departamento de 
+Biologia, Universidade Estadual do Centro-Oeste do Paraná, Campus CEDETEG, R.
+Simeão Camargo Varela de Sá, 03, Vila Carli, 85040-080, Guarapuava, Paraná,
+Brazil.
+(48)Department of Biological Sciences, University of Alberta, 116 St. and 85 Ave,
+Edmonton, T6G 2R3, Alberta, Canada.
+(49)Fundación de História Natural Félix de Azara, Argentina.
+(50)Departamento de Ciências, Faculdade de Formação de Professores, Universidade 
+do Estado do Rio de Janeiro (UERJ), 24435-005, Rio de Janeiro, Brazil.
+(51)Bicho do Mato Instituto de Pesquisa, 30360-082, Belo Horizonte, Minas Gerais,
+Brazil.
+(52)Departamento de Biologia Geral, Universidade Federal de Minas Gerais (UFMG), 
+Av. Antonio Carlos, 6627, Belo Horizonte, Minas Gerais, Brazil.
+(53)Centre for Ecology, Evolution and Conservation, School of Environmental
+Sciences, University of East Anglia, Norwich, NR4 7TJ, UK.
+(54)Instituto Nacional de Pesquisas da Amazônia (INPA), Núcleo de Pesquisas de
+Roraima (NPRR), 69.301-150, Boa Vista, Roraima, Brazil.
+(55)Instituto Florestal, Rua do Horto, 931, 02377-000, São Paulo, São Paulo,
+Brazil.
+(56)Amazonian Mammals Research Group (AMRG), Instituto Nacional de Pesquisas da
+Amazônia (INPA), 69067-375, Manaus, Amazonas, Brazil.
+(57)Laboratório de Ecologia, Universidade Estadual do Sudoeste da Bahia, Av. José
+Moreira Sobrinho, s/n, 45208-091, Jequié, Bahia, Brazil.
+(58)Programa de Pós-Graduação em Ecologia e Evolução, Universidade Federal de
+Goiás, 74690-900, Goiânia, Goiás, Brazil.
+(59)Programa de Pós-Graduação em Ecologia (PNPD/CAPES), Universidade Estadual de 
+Campinas.
+(60)Programa de Pós Graduação em Ciências Ambientais, Universidade Estadual de
+Mato Grosso (UNEMAT), Av. Santos Dumont, s/n, Cidade Universitária (Bloco II),
+78280-000, Cáceres, Mato Grosso, Brazil.
+(61)Instituto de Biociências, Universidade Federal de Mato Grosso do Sul (UFMS), 
+79070-900, Campo Grande, Mato Grosso do Sul, Brazil.
+(62)Fundación Para La Tierra, Centro IDEAL, Pilar, Ñeembucú, Paraguay.
+(63)School of Biological Sciences, University of Aberdeen, Aberdeen, UK.
+(64)Instituto SerraDiCal de Pesquisa e Conservação, R. José Hemetério de Andrade,
+570, 30.493-180, Belo Horizonte, Minas Gerais, Brazil.
+(65)Museu Paraense Emílio Goeldi, Programa de Pós-graduação em Zoologia,
+Universidade Federal do Pará (UFPA), Belém, Pará, Brazil.
+(66)Faculdade Guairacá, R. XV de novembro, 7050, Centro, 85.010-000, Guarapuava, 
+Paraná, Brazil.
+(67)Centro Nacional de Pesquisa e Conservação de Primatas Brasileiros (CPB),
+Praça Antenor Navarro, 5, Varadouro Centro Histórico, 58.010-480, João Pessoa,
+Paraíba, Brazil.
+(68)Departamento de Ecologia, Universidade Federal de Sergipe, Av. Marechal
+Rondon, s/n. Rosa Elze, 49.100-000, São Cristóvão, Sergipe, Brazil.
+(69)RUMO S.A Licenciamento Ambiental, Rua Emílio Bertolini, 100, Vila Oficinas,
+82920-030, Curitiba, Paraná, Brazil.
+(70)Departamento de Zoologia, Universidade Federal de Pernambuco, Recife,
+50670-901, Brazil.
+(71)Programa de Pós-graduação em Ciências Biológicas João Pessoa, Universidade
+Federal da Paraíba, 58051-085, João Pessoa, Brazil.
+(72)Programa de Pós-Graduação em Ciências Ambientais, Universidade Federal de
+Alfenas, Alfenas, Minas Gerais, Brazil.
+(73)Institut universitaire et technologique d'Avignon, Université d'Avignon et
+des Pays du Vaucluse, 337 chemin des Meinajaries, BP 1207, 84911, Avignon, cedex 
+9, France.
+
+Primates play an important role in ecosystem functioning and offer critical
+insights into human evolution, biology, behavior, and emerging infectious
+diseases. There are 26 primate species in the Atlantic Forests of South America, 
+19 of them endemic. We compiled a dataset of 5,472 georeferenced locations of 26 
+native and 1 introduced primate species, as hybrids in the genera Callithrix and 
+Alouatta. The dataset includes 700 primate communities, 8,121 single species
+occurrences and 714 estimates of primate population sizes, covering most natural 
+forest types of the tropical and subtropical Atlantic Forest of Brazil, Paraguay 
+and Argentina and some other biomes. On average, primate communities of the
+Atlantic Forest harbor 2 ± 1 species (range = 1-6). However, about 40% of primate
+communities contain only one species. Alouatta guariba (N = 2,188 records) and
+Sapajus nigritus (N = 1,127) were the species with the most records. Callicebus
+barbarabrownae (N = 35), Leontopithecus caissara (N = 38), and Sapajus
+libidinosus (N = 41) were the species with the least records. Recorded primate
+densities varied from 0.004 individuals/km2 (Alouatta guariba at Fragmento do
+Bugre, Paraná, Brazil) to 400 individuals/km2 (Alouatta caraya in Santiago, Rio
+Grande do Sul, Brazil). Our dataset reflects disparity between the numerous
+primate census conducted in the Atlantic Forest, in contrast to the scarcity of
+estimates of population sizes and densities. With these data, researchers can
+develop different macroecological and regional level studies, focusing on
+communities, populations, species co-occurrence and distribution patterns.
+Moreover, the data can also be used to assess the consequences of fragmentation, 
+defaunation, and disease outbreaks on different ecological processes, such as
+trophic cascades, species invasion or extinction, and community dynamics. There
+are no copyright restrictions. Please cite this Data Paper when the data are used
+in publications. We also request that researchers and teachers inform us of how
+they are using the data.
+
+© 2018 by the The Authors. Ecology © 2018 The Ecological Society of America.
+
+DOI: 10.1002/ecy.2525 
+PMID: 30317556 
+

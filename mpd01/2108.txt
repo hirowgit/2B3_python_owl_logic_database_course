@@ -1,0 +1,87 @@
+
+
+2108. Mol Biol Evol. 2009 Dec;26(12):2865-75. doi: 10.1093/molbev/msp197. Epub 2009 Sep
+2.
+
+Evolutionary trajectories of primate genes involved in HIV pathogenesis.
+
+Ortiz M(1), Guex N, Patin E, Martin O, Xenarios I, Ciuffi A, Quintana-Murci L,
+Telenti A.
+
+Author information: 
+(1)Institute of Microbiology, University Hospital Center and University of
+Lausanne, Lausanne, Switzerland.
+
+The current availability of five complete genomes of different primate species
+allows the analysis of genetic divergence over the last 40 million years of
+evolution. We hypothesized that the interspecies differences observed in
+susceptibility to HIV-1 would be influenced by the long-range selective pressures
+on host genes associated with HIV-1 pathogenesis. We established a list of human 
+genes (n = 140) proposed to be involved in HIV-1 biology and pathogenesis and a
+control set of 100 random genes. We retrieved the orthologous genes from the
+genome of humans and of four nonhuman primates (Pan troglodytes, Pongo pygmaeus
+abeli, Macaca mulatta, and Callithrix jacchus) and analyzed the nucleotide
+substitution patterns of this data set using codon-based maximum likelihood
+procedures. In addition, we evaluated whether the candidate genes have been
+targets of recent positive selection in humans by analyzing HapMap Phase 2
+single-nucleotide polymorphisms genotyped in a region centered on each candidate 
+gene. A total of 1,064 sequences were used for the analyses. Similar median
+K(A)/K(S) values were estimated for the set of genes involved in HIV-1
+pathogenesis and for control genes, 0.19 and 0.15, respectively. However, genes
+of the innate immunity had median values of 0.37 (P value = 0.0001, compared with
+control genes), and genes of intrinsic cellular defense had K(A)/K(S) values
+around or greater than 1.0 (P value = 0.0002). Detailed assessment allowed the
+identification of residues under positive selection in 13 proteins: AKT1,
+APOBEC3G, APOBEC3H, CD4, DEFB1, GML, IL4, IL8RA, L-SIGN/CLEC4M, PTPRC/CD45,
+Tetherin/BST2, TLR7, and TRIM5alpha. A number of those residues are relevant for 
+HIV-1 biology. The set of 140 genes involved in HIV-1 pathogenesis did not show a
+significant enrichment in signals of recent positive selection in humans
+(intraspecies selection). However, we identified within or near these genes 24
+polymorphisms showing strong signatures of recent positive selection.
+Interestingly, the DEFB1 gene presented signatures of both interspecies positive 
+selection in primates and intraspecies recent positive selection in humans. The
+systematic assessment of long-acting selective pressures on primate genomes is a 
+useful tool to extend our understanding of genetic variation influencing
+contemporary susceptibility to HIV-1.
+
+DOI: 10.1093/molbev/msp197 
+PMID: 19726537  [Indexed for MEDLINE]
+
+
+2109. J Virol. 2009 Nov;83(22):11635-44. doi: 10.1128/JVI.01483-09. Epub 2009 Sep 2.
+
+General and target-specific RNA binding properties of Epstein-Barr virus SM
+posttranscriptional regulatory protein.
+
+Han Z(1), Verma D, Hilscher C, Dittmer DP, Swaminathan S.
+
+Author information: 
+(1)Division of Infectious Diseases, Department of Medicine, and University of
+Florida Shands Cancer Center, University of Florida, Gainesville, Florida, USA.
+
+Epstein-Barr virus (EBV) SM protein is an essential nuclear shuttling protein
+expressed by EBV early during the lytic phase of replication. SM acts to increase
+EBV lytic gene expression by binding EBV mRNAs and enhancing accumulation of the 
+majority of EBV lytic cycle mRNAs. SM increases target mRNA stability and nuclear
+export, in addition to modulating RNA splicing. SM and its homologs in other
+herpesvirus have been hypothesized to function in part by binding viral RNAs and 
+recruiting cellular export factors. Although activation of gene expression by SM 
+is gene specific, it is unknown whether SM binds to mRNA in a specific manner or 
+whether its RNA binding is target independent. SM-mRNA complexes were isolated
+from EBV-infected B-lymphocyte cell lines induced to permit lytic EBV
+replication, and a quantitative measurement of mRNAs corresponding to all known
+EBV open reading frames was performed by real-time quantitative reverse
+transcription-PCR. The results showed that although SM has broad RNA binding
+properties, there is a clear hierarchy of affinities among EBV mRNAs with respect
+to SM complex formation. In vitro binding assays with two of the most highly
+SM-associated transcripts suggested that SM binds preferentially to specific
+sequences or structures present in noncoding regions of some EBV mRNAs.
+Furthermore, the presence of these sequences conferred responsiveness to SM.
+These data are consistent with a mechanism of action similar to that of hnRNPs,
+which exert sequence-specific effects on gene expression despite having multiple 
+degenerate consensus binding sites common to a large number of RNAs.
+
+DOI: 10.1128/JVI.01483-09 
+PMCID: PMC2772688
+PMID: 19726500  [Indexed for MEDLINE]
+

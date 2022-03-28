@@ -1,0 +1,61 @@
+
+
+1200. Neuroimage. 2015 Oct 15;120:1-11. doi: 10.1016/j.neuroimage.2015.06.090. Epub
+2015 Jul 3.
+
+Functional MRI of visual responses in the awake, behaving marmoset.
+
+Hung CC(1), Yen CC(2), Ciuchta JL(2), Papoti D(2), Bock NA(3), Leopold DA(4),
+Silva AC(5).
+
+Author information: 
+(1)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD, 20892, USA; Section on Cognitive
+Neurophysiology and Imaging, Laboratory of Neuropsychology, National Institute of
+Mental Health, Bethesda, MD, 20892, USA.
+(2)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD, 20892, USA.
+(3)Medical Physics and Applied Radiation Sciences, McMaster University, Hamilton,
+Ontario, L8S 4K1, Canada.
+(4)Section on Cognitive Neurophysiology and Imaging, Laboratory of
+Neuropsychology, National Institute of Mental Health, Bethesda, MD, 20892, USA;
+Neurophysiology Imaging Facility, National Institute of Mental Health, National
+Institute of Neurological Disorders and Stroke, National Eye Institute, Bethesda,
+MD, 20892, USA.
+(5)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD, 20892, USA. Electronic address:
+SilvaA@ninds.nih.gov.
+
+The visual brain is composed of interconnected subcortical and cortical
+structures that receive and process image information originating in the retina. 
+The visual system of nonhuman primates, in particular macaques, has been studied 
+in great detail in order to elucidate principles of human sensation and
+perception. The common marmoset (Callithrix jacchus) is a small New World monkey 
+of growing interest as a primate model for neuroscience. Marmosets have
+advantages over macaques because of their small size, lissencephalic cortex, and 
+growing potential for viral and genetic manipulations. Previous anatomical
+studies and electrophysiological recordings in anesthetized marmosets have shown 
+that this species' cortical visual hierarchy closely resembles that of other
+primates, including humans. Until now, however, there have been no attempts to
+systematically study visual responses throughout the marmoset brain using fMRI.
+Here we show that awake marmosets readily learn to carry out a simple visual task
+inside the bore of an MRI scanner during functional mapping experiments.
+Functional scanning at 500 μm in-plane resolution in a 30 cm horizontal bore at 7
+T revealed robust positive blood oxygenation level-dependent (BOLD) fMRI
+responses to visual stimuli throughout visual cortex and associated subcortical
+areas. Nonvisual sensory areas showed negative contrasts to visual stimuli
+compared to the fixation dot only baseline. Structured images of objects and
+faces led to stronger responses than scrambled control images at stages beyond
+early visual cortex. Our study establishes fMRI mapping of visual responses in
+awake, behaving marmosets as a straightforward and valuable tool for assessing
+the functional organization of the primate brain at high resolution.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.neuroimage.2015.06.090 
+PMCID: PMC4589494
+PMID: 26149609  [Indexed for MEDLINE]
+

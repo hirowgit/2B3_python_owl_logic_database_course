@@ -1,0 +1,101 @@
+
+
+652. PLoS One. 2018 Aug 23;13(8):e0202770. doi: 10.1371/journal.pone.0202770.
+eCollection 2018.
+
+Charting the onset of Parkinson-like motor and non-motor symptoms in nonhuman
+primate model of Parkinson's disease.
+
+Choudhury GR(1), Daadi MM(1)(2).
+
+Author information: 
+(1)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, Texas, United States of America.
+(2)Research Imaging Institute, Departments of Radiology, Cell Systems & Anatomy, 
+University of Texas Health at San Antonio, Texas, United States of America.
+
+Parkinson's disease is a progressive neurodegenerative disease increasingly
+affecting our aging population. Remarkable advances have been made in developing 
+novel therapies to control symptoms, halt or cure the disease, ranging from
+physiotherapy and small molecules to cell and gene therapy. This progress was
+enabled by the existence of reliable animal models. The nonhuman primate model of
+Parkinson's disease emulates the cardinal symptoms of the disease, including
+tremor, rigidity, bradykinesia, postural instability, freezing and cognitive
+impairment. However, this model is established through the specific loss of
+midbrain dopaminergic neurons, while our current knowledge reflects the reality
+of Parkinson's disease as a multisystem disease. Parkinson's disease involves
+both motor and non-motor symptoms, such as sleep disturbance, olfaction,
+gastrointestinal dysfunctions, depression and cognitive deficits. Some of the
+non-motor symptoms emerge earlier at the prodromal phase and worsen with disease 
+progression, yet in basic and translational studies, they are rarely considered
+as endpoints. In this study, we set to characterize an ensemble of less described
+motor and non-motor dysfunctions in the marmoset MPTP
+(1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine) model. We provide evidence that
+this animal model expresses postural head tremor and a progressive worsening of
+fine motor skills, movement coordination and cognitive abilities over a 6-month
+period. We report for the first time a non-invasive approach showing detailed
+analysis of daytime and nighttime sleep and circadian rhythm disturbance
+remarkably similar to Parkinson's disease patients. This study describes the
+incidence of tremors, motor and non-motor dysfunctions in a preclinical model and
+highlights the need for their consideration in translating effective new
+therapeutic approaches for Parkinson's disease.
+
+DOI: 10.1371/journal.pone.0202770 
+PMCID: PMC6107255
+PMID: 30138454  [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Marcel M. Daadi is founder of the biotech
+company NeoNeuron. This does not alter our adherence to PLOS ONE policies on
+sharing data and materials.
+
+
+653. Cell Rep. 2018 Aug 21;24(8):2191-2195.e4. doi: 10.1016/j.celrep.2018.07.057.
+
+Calcium Transient Dynamics of Neural Ensembles in the Primary Motor Cortex of
+Naturally Behaving Monkeys.
+
+Kondo T(1), Saito R(2), Otaka M(2), Yoshino-Saito K(3), Yamanaka A(4), Yamamori
+T(5), Watakabe A(5), Mizukami H(6), Schnitzer MJ(7), Tanaka KF(8), Ushiba J(9),
+Okano H(10).
+
+Author information: 
+(1)Department of Physiology, Keio University School of Medicine, Tokyo, Japan;
+Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan.
+(2)Graduate School of Science and Technology, Keio University, Kanagawa, Japan.
+(3)Department of Physiology, Keio University School of Medicine, Tokyo, Japan;
+Japan Society for the Promotion of Science, Tokyo, Japan.
+(4)Research Institute of Environmental Medicine, Nagoya University, Nagoya,
+Japan.
+(5)Laboratory for Molecular Analysis of Higher Brain Function, RIKEN Center for
+Brain Science, Saitama, Japan.
+(6)Division of Genetic Therapeutics, Center for Molecular Medicine, Jichi Medical
+University, Tochigi, Japan.
+(7)James H. Clark Center for Biomedical Engineering and Sciences, Stanford
+University, Stanford, CA, USA; CNC Program, Stanford University, Stanford, CA,
+USA; Howard Hughes Medical Institute, Stanford University, Stanford, CA, USA.
+(8)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan; Department of Neuropsychiatry, Keio University School of
+Medicine, Tokyo, Japan.
+(9)Department of Biosciences and Informatics, Faculty of Science and Technology, 
+Keio University, Kanagawa, Japan; Keio Institute of Pure and Applied Sciences
+(KiPAS), Kanagawa, Japan. Electronic address: ushiba@brain.bio.keio.ac.jp.
+(10)Department of Physiology, Keio University School of Medicine, Tokyo, Japan;
+Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan. Electronic address: hidokano@a2.keio.jp.
+
+To understand brain circuits of cognitive behaviors under natural conditions, we 
+developed techniques for imaging neuronal activities from large neuronal
+populations in the deep layer cortex of the naturally behaving common marmoset.
+Animals retrieved food pellets or climbed ladders as a miniature fluorescence
+microscope monitored hundreds of calcium indicator-expressing cortical neurons in
+the right primary motor cortex. This technique, which can be adapted to other
+brain regions, can deepen our understanding of brain circuits by facilitating
+longitudinal population analyses of neuronal representation associated with
+cognitive naturalistic behaviors and their pathophysiological processes.
+
+Copyright © 2018 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2018.07.057 
+PMID: 30134178  [Indexed for MEDLINE]
+

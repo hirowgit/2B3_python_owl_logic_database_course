@@ -1,0 +1,81 @@
+
+
+2311. J Comp Neurol. 2008 Apr 10;507(5):1811-30. doi: 10.1002/cne.21652.
+
+Distribution of the protein IMPACT, an inhibitor of GCN2, in the mouse, rat, and 
+marmoset brain.
+
+Bittencourt S(1), Pereira CM, Avedissian M, Delamano A, Mello LE, Castilho BA.
+
+Author information: 
+(1)Department of Physiology, Universidade Federal de São Paulo, São Paulo, SP,
+04023-062, Brazil.
+
+IMPACT is an inhibitor of GCN2, a kinase that phosphorylates the alpha subunit of
+the translation initiation factor 2 (eIF2 alpha). GCN2 has been implicated in
+regulating feeding behavior and learning and memory in mice. IMPACT is highly
+abundant in the brain, suggesting its relevance in the control of GCN2 activation
+in the central nervous system. We describe here the distribution of IMPACT in the
+brain of rodents (mice and rats) and of a primate (marmoset) using highly
+specific antibodies raised against the mouse IMPACT protein. Neurons expressing
+high levels of IMPACT were found in most areas of the brain. In the hippocampal
+formation the lack of IMPACT in the dentate gyrus granule cells was striking. The
+hypothalamus is exceptionally rich in neurons expressing high levels of IMPACT,
+particularly in the suprachiasmatic nucleus. The only exception to this pattern
+was the ventromedial nucleus. The thalamic neurons are mostly devoid of IMPACT,
+with the exception of the paraventricular, reuniens and reticular nuclei, and
+intergeniculate leaf. The brainstem displayed high levels of IMPACT. For the
+marmoset, IMPACT expression in the brain is not as prominent when compared to
+other organs. In the marmoset brain the pattern of IMPACT expression was similar 
+to rodents in most areas, except for the very strong labeling of the Purkinje
+cells, the lack of IMPACT-positive neurons in the nucleus reuniens, and weak
+labeling of interneurons in the hippocampus. GCN1, the activator of GCN2 to which
+IMPACT binds, is widely distributed in all neuronal populations, and all
+IMPACT-positive cells were also GCN1-positive. The data presented herein suggest 
+that IMPACT may be involved in biochemical homeostatic mechanisms that would
+prevent GCN2 activation and therefore ATF4 (CREB-2) synthesis in neurons.
+
+(c) 2008 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.21652 
+PMID: 18260151  [Indexed for MEDLINE]
+
+
+2312. Brain Res. 2008 Mar 10;1198:160-70. doi: 10.1016/j.brainres.2007.12.065. Epub
+2008 Jan 4.
+
+Cerebrospinal fluid to brain transport of manganese in a non-human primate
+revealed by MRI.
+
+Bock NA(1), Paiva FF, Nascimento GC, Newman JD, Silva AC.
+
+Author information: 
+(1)Cerebral Microcirculation Unit, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD 20892-1065, USA. bockn@mail.nih.gov
+
+Manganese overexposure in non-human primates and humans causes a
+neurodegenerative disorder called manganism thought to be related to an
+accumulation of the metal in the basal ganglia. Here, we assess changes in the
+concentration of manganese in regions of the brain of a non-human primate (the
+common marmoset, Callithrix jacchus) following four systemic injections of 30
+mg/kg MnCl2 H2O in the tail vein using T1-weighted magnetic resonance imaging
+(MRI) and compare these to changes in the rat following the same exposure route
+and dose. The doses were spaced 48 h apart and we imaged the animals 48 h after
+the final dose. We find that marmosets have significantly larger T1-weighted
+image enhancements in regions of the brain compared to rats, notably in the basal
+ganglia and the visual cortex. To confirm this difference across species reflects
+actual differences in manganese concentrations and not variations in the MRI
+properties of manganese, we measured the longitudinal relaxivity of manganese
+(chi1) in the in vivo brain and found no significant species' difference. The
+high manganese uptake in the marmoset basal ganglia and visual cortex can be
+explained by CSF-brain transport from the large lateral ventricles and we confirm
+this route of uptake with time-course MRI during a tail-vein infusion of
+manganese. There is also high uptake in the substructures of the hippocampus that
+are adjacent to the ventricles. The large manganese accumulation in these
+structures on overexposure may be common to all primates, including humans.
+
+DOI: 10.1016/j.brainres.2007.12.065 
+PMCID: PMC2276322
+PMID: 18243167  [Indexed for MEDLINE]
+

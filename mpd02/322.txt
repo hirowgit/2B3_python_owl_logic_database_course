@@ -1,0 +1,39 @@
+
+
+322. FEBS J. 2021 Jan;288(1):325-353. doi: 10.1111/febs.15341. Epub 2020 May 15.
+
+The common marmoset as suitable nonhuman alternative for the analysis of primate 
+cochlear development.
+
+Hosoya M(1), Fujioka M(1), Murayama AY(2)(3), Okano H(2)(3), Ogawa K(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Keio University
+School of Medicine, Tokyo, Japan.
+(2)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+(3)Laboratory for Marmoset Neural Architecture, Center for Brain Science, RIKEN, 
+Wako, Japan.
+
+Cochlear development is a complex process with precise spatiotemporal patterns. A
+detailed understanding of this process is important for studies of congenital
+hearing loss and regenerative medicine. However, much of our understanding of
+cochlear development is based on rodent models. Animal models that bridge the gap
+between humans and rodents are needed. In this study, we investigated the
+development of hearing organs in a small New World monkey species, the common
+marmoset (Callithrix jacchus). We describe the general stages of cochlear
+development in comparison with those of humans and mice. Moreover, we examined
+more than 25 proteins involved in cochlear development and found that expression 
+patterns were generally conserved between rodents and primates. However, several 
+proteins involved in supporting cell processes and neuronal development exhibited
+interspecific expression differences. Human fetal samples for studies of
+primate-specific cochlear development are extremely rare, especially for late
+developmental stages. Our results support the use of the common marmoset as an
+effective alternative for analyses of primate cochlear development.
+
+© 2020 The Authors. The FEBS Journal published by John Wiley & Sons Ltd on behalf
+of Federation of European Biochemical Societies.
+
+DOI: 10.1111/febs.15341 
+PMCID: PMC7818239
+PMID: 32323465  [Indexed for MEDLINE]
+

@@ -1,0 +1,75 @@
+
+
+1667. J Comp Neurol. 2013 Apr 1;521(5):1001-19. doi: 10.1002/cne.23215.
+
+Representation of the visual field in the primary visual area of the marmoset
+monkey: magnification factors, point-image size, and proportionality to retinal
+ganglion cell density.
+
+Chaplin TA(1), Yu HH, Rosa MG.
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, VIC 3800, Australia.
+
+The primary visual area (V1) forms a systematic map of the visual field, in which
+adjacent cell clusters represent adjacent points of visual space. A precise
+quantification of this map is key to understanding the anatomical relationships
+between neurons located in different stations of the visual pathway, as well as
+the neural bases of visual performance in different regions of the visual field. 
+We used computational methods to quantify the visual topography of V1 in the
+marmoset (Callithrix jacchus), a small diurnal monkey. The receptive fields of
+neurons throughout V1 were mapped in two anesthetized animals using
+electrophysiological recordings. Following histological reconstruction, precise
+3D reconstructions of the V1 surface and recording sites were generated. We found
+that the areal magnification factor (M(A) ) decreases with eccentricity following
+a function that has the same slope as that observed in larger diurnal primates,
+including macaque, squirrel, and capuchin monkeys, and humans. However, there was
+no systematic relationship between M(A) and polar angle. Despite individual
+variation in the shape of V1, the relationship between M(A) and eccentricity was 
+preserved across cases. Comparison between V1 and the retinal ganglion cell
+density demonstrated preferential magnification of central space in the cortex.
+The size of the cortical compartment activated by a punctiform stimulus decreased
+from the foveal representation towards the peripheral representation.
+Nonetheless, the relationship between the receptive field sizes of V1 cells and
+the density of ganglion cells suggested that each V1 cell receives information
+from a similar number of retinal neurons, throughout the visual field.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+DOI: 10.1002/cne.23215 
+PMID: 22911425  [Indexed for MEDLINE]
+
+
+1668. Methods Mol Biol. 2012;925:21-48. doi: 10.1007/978-1-62703-011-3_2.
+
+Derivation of induced pluripotent stem cells by retroviral gene transduction in
+mammalian species.
+
+Imamura M(1), Okuno H, Tomioka I, Kawamura Y, Lin ZY, Nakajima R, Akamatsu W,
+Okano HJ, Matsuzaki Y, Sasaki E, Okano H.
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan.
+
+Pluripotent stem cells can provide us with an enormous cell source for in vitro
+model systems for development. In 2006, new methodology was designed to generate 
+pluripotent stem cells directly from somatic cells, and these cells were named
+induced pluripotent stem cells (iPSCs). This method consists of technically
+simple procedures: donor cell preparation, gene transduction, and isolation of
+embryonic stem cell-like colonies. The iPSC technology enables cell biologists
+not only to obtain pluripotent stem cells easily but also to study the
+reprogramming events themselves. Here, we describe the protocols to generate
+iPSCs from somatic origins by using conventional viral vectors. Specifically, we 
+state the usage of three mammalian species: mouse, common marmoset, and human. As
+mouse iPSC donors, fibroblasts are easily prepared, while mesenchymal stem cells 
+are expected to give rise to highly reprogrammed iPSCs efficiently. Common
+marmoset (Callithrix jacchus), a nonhuman primate, represents an alternative
+model to the usual laboratory animals. Finally, patient-specific human iPSCs give
+us an opportunity to examine the pathology and mechanisms of dysregulated genomic
+imprinting. The iPSC technology will serve as a valuable method for studying
+genomic imprinting, and conversely, the insights from these studies will offer
+valuable criteria to assess the potential of iPSCs.
+
+DOI: 10.1007/978-1-62703-011-3_2 
+PMID: 22907488  [Indexed for MEDLINE]
+

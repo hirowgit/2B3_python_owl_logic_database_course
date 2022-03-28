@@ -1,0 +1,102 @@
+
+
+444. PLoS One. 2019 Aug 27;14(8):e0221164. doi: 10.1371/journal.pone.0221164.
+eCollection 2019.
+
+A versatile toolbox for knock-in gene targeting based on the Multisite Gateway
+technology.
+
+Yoshimatsu S(1)(2), Sone T(1), Nakajima M(1), Sato T(1), Okochi R(1), Ishikawa
+M(1), Nakamura M(1), Sasaki E(3)(4), Shiozawa S(1), Okano H(1)(4).
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, Shinjuku-ku,
+Tokyo, Japan.
+(2)Laboratory for Proteolytic Neuroscience, RIKEN Center for Brain Science, Wako 
+City, Saitama, Japan.
+(3)Central Institute for Experimental Animals, Kawasaki City, Kanagawa, Japan.
+(4)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako City, Saitama, Japan.
+
+Knock-in (KI) gene targeting can be employed for a wide range of applications in 
+stem cell research. However, vectors for KI require multiple complicated
+processes for construction, including multiple times of digestion/ligation steps 
+and extensive restriction mapping, which has imposed limitations for the robust
+applicability of KI gene targeting. To circumvent this issue, here we introduce
+versatile and systematic methods for generating KI vectors by molecular cloning. 
+In this approach, we employed the Multisite Gateway technology, an efficient in
+vitro DNA recombination system using proprietary sequences and enzymes. KI vector
+construction exploiting these methods requires only efficient steps, such as PCR 
+and recombination, enabling robust KI gene targeting. We show that combinatorial 
+usage of the KI vectors generated using this method and site-specific nucleases
+enabled the precise integration of fluorescent protein genes in multiple loci of 
+human and common marmoset (marmoset; Callithrix jacchus) pluripotent stem cells. 
+The methods described here will facilitate the usage of KI technology and
+ultimately help to accelerate stem cell research.
+
+DOI: 10.1371/journal.pone.0221164 
+PMCID: PMC6711506
+PMID: 31454364  [Indexed for MEDLINE]
+
+Conflict of interest statement: T.S. is currently a paid employee of Takara Bio
+Inc., but all the experiments in this study were performed while he was in Keio
+University, where he had no conflicts of interest with the company. H.O. serves
+as a paid scientific advisor at SanBio Co. Ltd. and K Pharma Inc. The other
+authors declare neither financial nor non-financial competing interests. This
+does not alter the authors' adherence to PLOS ONE policies on sharing data and
+materials.
+
+
+445. J Hum Evol. 2019 Sep;134:102628. doi: 10.1016/j.jhevol.2019.05.016. Epub 2019 Jul
+23.
+
+Parvimico materdei gen. et sp. nov.: A new platyrrhine from the Early Miocene of 
+the Amazon Basin, Peru.
+
+Kay RF(1), Gonzales LA(2), Salenbien W(3), Martinez JN(4), Cooke SB(5), Valdivia 
+LA(4), Rigsby C(6), Baker PA(3).
+
+Author information: 
+(1)Department of Evolutionary Anthropology, Box 90383, Duke University, Durham NC
+27708, USA; Nicholas School of the Environment, Division of Earth and Ocean
+Sciences, Duke University, Durham, NC 27708, USA. Electronic address:
+Richard.kay@duke.edu.
+(2)Biomedical Sciences, University of South Carolina, School of Medicine,
+Greenville, SC 29605, USA.
+(3)Nicholas School of the Environment, Division of Earth and Ocean Sciences, Duke
+University, Durham, NC 27708, USA.
+(4)Instituto de Paleontología, Universidad Nacional de Piura, Campus
+Universitario, Av. Cáceres s/n, Urb. Miraflores, Castilla, Piura, Peru.
+(5)The Center for Functional Anatomy and Evolution, The Johns Hopkins University 
+School of Medicine, Baltimore, MD 21205, USA.
+(6)Department of Geological Sciences, East Carolina University, Greenville, NC,
+USA.
+
+Three field seasons of exploration along the Río Alto Madre de Dios in Peruvian
+Amazonia have yielded a fauna of micromammals from a new locality AMD-45, at
+∼12.8°S. So far we have identified the new primate described here as well as
+small caviomorph rodents, cenolestoid marsupials, interatheriid notoungulates,
+xenarthrans, fish, lizards and invertebrates. The site is in the Bala Formation
+as exposed where the river transects a syncline. U-Pb dates on detrital zircons
+constrain the locality's age at between 17.1 ± 0.7 Ma and 18.9 ± 0.7 Ma, making
+the fauna age-equivalent to that from the Pinturas Formation and the older parts 
+of the Santa Cruz Formation of Patagonian Argentina (Santacrucian). The primate
+specimen is an unworn M1 of exceptionally small size (equivalent in size to the
+extant callitrichine, Callithrix jacchus, among the smallest living platyrrhines 
+and the smallest Eocene-Early Miocene platyrrhine yet recorded). Despite its
+small size it is unlike extant callitrichines in having a prominent cingulum
+hypocone. Based on the moderate development of the buccal crests, this animal
+likely had a diet similar to that of frugivorous callitrichines, and distinctly
+different from the more similarly-sized gummivores, Cebuella and C. jacchus. The 
+phyletic position of the new taxon is uncertain, especially given the
+autapomorphic character of the tooth as a whole. Nevertheless, its unusual
+morphology hints at a wholly original and hitherto unknown Amazonian fauna, and
+reinforces the impression of the geographic separation of the Amazonian tropics
+from the more geographically isolated southerly parts of the continent in Early
+Miocene times.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jhevol.2019.05.016 
+PMID: 31446974  [Indexed for MEDLINE]
+

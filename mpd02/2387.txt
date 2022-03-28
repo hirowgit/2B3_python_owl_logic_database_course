@@ -1,0 +1,35 @@
+
+
+2387. J Immunol. 2007 Jun 1;178(11):7151-61.
+
+Genomics and diversity of the common marmoset monkey NK complex.
+
+Averdam A(1), Kuhl H, Sontag M, Becker T, Hughes AL, Reinhardt R, Walter L.
+
+Author information: 
+(1)Department of Primate Genetics, German Primate Center, Göttingen, Germany.
+
+The common marmoset monkey (Callithrix jacchus) is a New World primate that is
+increasingly used in biomedical research as a model organism. Due to the
+occurrence of natural bone marrow chimerism, it represents a particularly useful 
+primate model in immunological research. In this study, we describe the genomic
+organization of the CD94, NKG2, and LY49L genes in the NK complex (NKC) of the
+common marmoset based on complete sequencing of a bacterial artificial chromosome
+clonal contig. This region of the marmoset NKC is 1.5 times smaller than its
+human counterpart, but the genes are colinear and orthologous. One exception is
+the activating NKG2CE gene, which is probably an ancestral form of the NKG2C- and
+NKG2E-activating receptor genes of humans and great apes. The two completely
+sequenced marmoset bacterial artificial chromosome clones are derived from
+distinct haplotypes, which differ by 200 sites in the overlapping sequence.
+Analyses of NKC genes in nine additional marmoset individuals revealed a moderate
+degree of polymorphism of the CD94, NKG2A, NKG2CE, and NKG2D genes. Furthermore, 
+expression analyses identified several alternatively spliced transcripts,
+particularly of the CD94 gene. Several products of alternative splicing of NKC
+genes are highly conserved among primates. Alternative transcriptional start
+sites were found, but these probably do not lead to a change of the translational
+start site or result in longer or shorter cytoplasmic regions of these type II
+membrane receptors.
+
+DOI: 10.4049/jimmunol.178.11.7151 
+PMID: 17513764  [Indexed for MEDLINE]
+

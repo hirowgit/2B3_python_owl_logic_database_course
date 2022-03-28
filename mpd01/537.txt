@@ -1,0 +1,81 @@
+
+
+537. J Acoust Soc Am. 2019 Feb;145(2):654. doi: 10.1121/1.5087827.
+
+Deep convolutional network for animal sound classification and source attribution
+using dual audio recordings.
+
+Oikarinen T(1), Srinivasan K(1), Meisner O(1), Hyman JB(1), Parmar S(1),
+Fanucci-Kiss A(1), Desimone R(1), Landman R(2), Feng G(1).
+
+Author information: 
+(1)McGovern Institute for Brain Research, Massachusetts Institute of Technology, 
+43 Vassar Street, Cambridge, Massachusetts 02139, USA.
+(2)Stanley Center, Broad Institute, 57 Ames Street, Cambridge, Massachusetts
+02139, USA.
+
+Erratum in
+    J Acoust Soc Am. 2019 Apr;145(4):2209.
+
+This paper introduces an end-to-end feedforward convolutional neural network that
+is able to reliably classify the source and type of animal calls in a noisy
+environment using two streams of audio data after being trained on a dataset of
+modest size and imperfect labels. The data consists of audio recordings from
+captive marmoset monkeys housed in pairs, with several other cages nearby. The
+network in this paper can classify both the call type and which animal made it
+with a single pass through a single network using raw spectrogram images as
+input. The network vastly increases data analysis capacity for researchers
+interested in studying marmoset vocalizations, and allows data collection in the 
+home cage, in group housed animals.
+
+DOI: 10.1121/1.5087827 
+PMCID: PMC6786887
+PMID: 30823820  [Indexed for MEDLINE]
+
+
+538. Int J Mol Sci. 2019 Feb 28;20(5). pii: E1054. doi: 10.3390/ijms20051054.
+
+Application of Hepatocyte Growth Factor for Acute Spinal Cord Injury: The Road
+from Basic Studies to Human Treatment.
+
+Kitamura K(1)(2), Nagoshi N(3), Tsuji O(4), Matsumoto M(5), Okano H(6), Nakamura 
+M(7).
+
+Author information: 
+(1)Department of Orthopedic Surgery, Saiseikai Yokohamashi Tobu Hospital,
+Kanagawa 230-0012, Japan. kazuya@mre.biglobe.ne.jp.
+(2)Department of Orthopedic Surgery, Keio University School of Medicine, Tokyo
+160-8582, Japan. kazuya@mre.biglobe.ne.jp.
+(3)Department of Orthopedic Surgery, Keio University School of Medicine, Tokyo
+160-8582, Japan. nagoshi@2002.jukuin.keio.ac.jp.
+(4)Department of Orthopedic Surgery, Keio University School of Medicine, Tokyo
+160-8582, Japan. osahiko@2003.jukuin.keio.ac.jp.
+(5)Department of Orthopedic Surgery, Keio University School of Medicine, Tokyo
+160-8582, Japan. morio@a5.keio.jp.
+(6)Department of Physiology, Keio University School of Medicine, Tokyo 160-8582, 
+Japan. hidokano@a2.keio.jp.
+(7)Department of Orthopedic Surgery, Keio University School of Medicine, Tokyo
+160-8582, Japan. masa@keio.jp.
+
+Hepatocyte growth factor (HGF) was first identified as a potent mitogen for
+mature hepatocytes, and has also gained attention as a strong neurotrophic factor
+in the central nervous system. We found that during the acute phase of spinal
+cord injury (SCI) in rats, c-Met, the specific receptor for HGF, increases
+sharply, while the endogenous HGF up-regulation is relatively weak. Introducing
+exogenous HGF into the spinal cord by injecting an HGF-expressing viral vector
+significantly increased the neuron and oligodendrocyte survival, angiogenesis,
+and axonal regeneration, to reduce the area of damage and to promote functional
+recovery in rats after SCI. Other recent studies in rodents have shown that
+exogenously administered HGF during the acute phase of SCI reduces astrocyte
+activation to decrease glial scar formation, and exerts anti-inflammatory effects
+to reduce leukocyte infiltration. We also reported that the intrathecal infusion 
+of recombinant human HGF (intrathecal rhHGF) improves neurological hand function 
+after cervical contusive SCI in the common marmoset, a non-human primate. Based
+on these collective results, we conducted a phase I/II clinical trial of
+intrathecal rhHGF for patients with acute cervical SCI who showed a modified
+Frankel grade of A/B1/B2 72 h after injury onset, from June 2014 to May 2018.
+
+DOI: 10.3390/ijms20051054 
+PMCID: PMC6429374
+PMID: 30823442  [Indexed for MEDLINE]
+

@@ -1,0 +1,44 @@
+
+
+2186. Hippocampus. 2009 Aug;19(8):739-52. doi: 10.1002/hipo.20555.
+
+A molecular blueprint of gene expression in hippocampal subregions CA1, CA3, and 
+DG is conserved in the brain of the common marmoset.
+
+Datson NA(1), Morsink MC, Steenbergen PJ, Aubert Y, Schlumbohm C, Fuchs E, de
+Kloet ER.
+
+Author information: 
+(1)Division of Medical Pharmacology, Leiden/Amsterdam Center for Drug Research,
+Leiden University Medical Center, Leiden, The Netherlands.
+datson_n@lacdr.leidenuniv.nl
+
+Recent studies in rodents have shown that there are significant differences in
+gene expression profiles between the hippocampal subregions CA1, CA3, and DG.
+These differences in molecular make-up within the hippocampus most likely
+underlie the differences in morphology, physiology, and vulnerability to insults 
+that exist between the subregions of the hippocampus and are as such part of the 
+basic molecular architecture of the hippocampus. The aim of this study was to
+investigate at large scale whether these subregional differences in gene
+expression are conserved in the hippocampus of a nonhuman primate, the common
+marmoset. This study is very timely, given the recent development of the first
+marmoset-specific DNA microarray, exclusively containing sequences targeting
+transcripts derived from the marmoset hippocampus. Hippocampal subregions CA1,
+CA3, and DG were isolated by laser microdissection and RNA was isolated,
+amplified, and hybridized to the marmoset-specific microarray (EUMAMA) containing
+more than 1,500 transcripts expressed in the adult marmoset hippocampus. Large
+differences in expression were observed in particular between the DG region and
+both pyramidal subregions. Moreover, the subregion-specific patterns of gene
+expression showed a remarkable conservation with the rodent brain both in terms
+of individual genes and degree of differential expression. To our knowledge, this
+is the first study investigating large scale hippocampal gene expression in a
+nonhuman primate. The obtained expression profiles not only provide novel data on
+the expression of more than 1,500 transcripts per hippocampal subregion but also 
+are of potential interest to neuroscientists interested in the role of the
+different subregions in learning and memory in the nonhuman primate brain.
+
+Copyright (c) 2009 Wiley-Liss, Inc.
+
+DOI: 10.1002/hipo.20555 
+PMID: 19156849  [Indexed for MEDLINE]
+

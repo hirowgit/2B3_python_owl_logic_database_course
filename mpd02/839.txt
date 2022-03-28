@@ -1,0 +1,37 @@
+
+
+839. Behav Res Methods. 2018 Jun;50(3):1154-1165. doi: 10.3758/s13428-017-0934-2.
+
+A technological framework for running and analyzing animal head turning
+experiments.
+
+Oh J(1), Hoeschele M(2), Reber SA(2)(3), Šlipogor V(2), Bugnyar T(2), Fitch
+WT(2).
+
+Author information: 
+(1)Department of Cognitive Biology, University of Vienna, Althanstrasse 14, 1090,
+Vienna, Austria. jinook.oh@univie.ac.at.
+(2)Department of Cognitive Biology, University of Vienna, Althanstrasse 14, 1090,
+Vienna, Austria.
+(3)School of Life Sciences, University of Lincoln, Brayford Pool, Lincoln, LN6
+7TS, UK.
+
+Head turning experiments are widely used to test the cognition of both human
+infants and non-human animal species. Monitoring head turns allows researchers to
+non-invasively assess attention to acoustic or visual stimuli. In the majority of
+head turning experiments, the head direction analyses have been accomplished
+manually, which is extremely labor intensive and can be affected by subjectivity 
+or other human errors and limitations. In the current study, we introduce an
+open-source computer program for measuring head directions of freely moving
+animals including common marmoset monkeys (Callithrix jacchus), American
+alligators (Alligator mississippiensis), and Mongolian gerbils (Meriones
+unguiculatus) to reduce human effort and time in video coding. We also illustrate
+an exemplary framework for an animal head turning experiment with common marmoset
+monkeys. This framework incorporates computer-aided processes of data
+acquisition, preprocessing, and analysis using the aforementioned software and
+additional open-source software and hardware.
+
+DOI: 10.3758/s13428-017-0934-2 
+PMCID: PMC5990564
+PMID: 28710717  [Indexed for MEDLINE]
+

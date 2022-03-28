@@ -1,0 +1,41 @@
+
+
+635. Behav Neurosci. 2018 Dec;132(6):526-535. doi: 10.1037/bne0000273. Epub 2018 Oct
+8.
+
+Blockade of dopamine D₁ receptors, but not D₂ receptors, decreases motivation in 
+a novel effort-discounting paradigm in common marmosets.
+
+Enomoto T(1), Konoike N(2), Takemoto A(2), Nakamura K(2), Ikeda K(1).
+
+Author information: 
+(1)Sumitomo Dainippon Pharma Co. Ltd.
+(2)Cognitive Neuroscience Section.
+
+Effort-based decision-making paradigms have recently been used to measure
+motivation in healthy subjects and patients with neuropsychiatric disorders. In
+the present study, we developed a novel effort-discounting paradigm using a
+touch-panel system in common marmosets. Marmosets were trained to choose between 
+a low-reward (a piece of cake) requiring low-effort (one touch response) versus
+high-reward (three pieces of cake) requiring one of three different effort levels
+(one, two, or four touch responses). Because the number of trials per session was
+kept constant, the selection of the high-reward choice was always the optimal
+strategy to receive the maximum number of rewards. Marmosets' high-reward rates
+were reduced as the physical effort requirement was increased, when they were
+tested using effort discounting in either ascending or descending order of effort
+intensity. It indicates that marmosets' decisions could be attributable to
+cost-benefit evaluation, but not to their fatigue or satisfaction with the reward
+during the progression of the paradigm. The high dose of dopamine D₁ receptor
+antagonist SCH-39166 (0.03 mg/kg) reduced the high-reward choice rate, only when 
+more effort was required to obtain the high-reward than the low-reward. On the
+other hand, the D₂ receptor antagonist raclopride (0.01 and 0.03 mg/kg)
+unexpectedly did not affect the high-reward choice rate, but the high dose did
+increase omission rate. Our finding suggests that dopamine D₁ receptor signaling 
+may play a more important role in effort-based decision making than D₂ receptor
+signaling in marmosets. Our novel behavioral paradigm would be useful in
+translational research focused on motivational deficits. (PsycINFO Database
+Record (c) 2018 APA, all rights reserved).
+
+DOI: 10.1037/bne0000273 
+PMID: 30299146  [Indexed for MEDLINE]
+

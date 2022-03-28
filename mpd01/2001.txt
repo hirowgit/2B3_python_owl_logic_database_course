@@ -1,0 +1,75 @@
+
+
+2001. J Neurosci. 2010 May 26;30(21):7314-25. doi: 10.1523/JNEUROSCI.5072-09.2010.
+
+Contribution of inhibition to stimulus selectivity in primary auditory cortex of 
+awake primates.
+
+Sadagopan S(1), Wang X.
+
+Author information: 
+(1)Department of Neuroscience, Johns Hopkins University School of Medicine,
+Baltimore, Maryland 21205, USA.
+
+Recent studies have demonstrated the high selectivity of neurons in primary
+auditory cortex (A1) and a highly sparse representation of sounds by the
+population of A1 neurons in awake animals. However, the underlying receptive
+field structures that confer high selectivity on A1 neurons are poorly
+understood. The sharp tuning of A1 neurons' excitatory receptive fields (RFs)
+provides a partial explanation of the above properties. However, it remains
+unclear how inhibitory components of RFs contribute to the selectivity of A1
+neurons observed in awake animals. To examine the role of the inhibition in
+sharpening stimulus selectivity, we have quantitatively analyzed stimulus-induced
+suppressive effects over populations of single neurons in frequency, amplitude,
+and time in A1 of awake marmosets. In addition to the well documented
+short-latency side-band suppression elicited by masking tones around the best
+frequency (BF) of a neuron, we uncovered long-latency suppressions caused by
+single-tone stimulation. Such long-latency suppressions also included
+monotonically increasing suppression with sound level both on-BF and off-BF, and 
+persistent suppression lasting up to 100 ms after stimulus offset in a
+substantial proportion of A1 neurons. The extent of the suppression depended on
+the shape of a neuron's frequency-response area ("O" or "V" shaped). These
+findings suggest that the excitatory RF of A1 neurons is cocooned by wide-ranging
+inhibition that contributes to the high selectivity in A1 neurons' responses to
+complex stimuli. Population sparseness of the tone-responsive A1 neuron
+population may also be a consequence of this pervasive inhibition.
+
+DOI: 10.1523/JNEUROSCI.5072-09.2010 
+PMCID: PMC3842484
+PMID: 20505098  [Indexed for MEDLINE]
+
+
+2002. J Comp Neurol. 2010 Jul 1;518(13):2633-44. doi: 10.1002/cne.22356.
+
+SPP1 is expressed in corticospinal neurons of the macaque sensorimotor cortex.
+
+Higo N(1), Sato A, Yamamoto T, Nishimura Y, Oishi T, Murata Y, Onoe H,
+Yoshino-Saito K, Tsuboi F, Takahashi M, Isa T, Kojima T.
+
+Author information: 
+(1)Neuroscience Research Institute, National Institute of Advanced Industrial
+Science and Technology (AIST), Umezono, Tsukuba, Ibaraki 305-8568, Japan.
+n.higo@aist.go.jp
+
+The cellular distribution of SPP1, which we recently identified as a gene with
+greater expression in the macaque primary motor cortex than in the premotor or
+prefrontal cortices, was examined in rhesus macaque, common marmoset, and rat
+brains. In situ hybridization histochemistry revealed that SPP1 mRNA was
+expressed specifically in pyramidal neurons in layer V of the sensorimotor cortex
+of the rhesus macaque. These SPP1 mRNA-positive neurons were most abundant in the
+primary motor area, followed by Brodmann area 5 and the supplementary motor area,
+in accordance with the distribution of corticospinal neurons. In addition,
+injection of a retrograde neuroanatomical tracer into the lateral corticospinal
+tract (CST) of the spinal cord caused labeling of SPP1 positive neurons,
+indicating the expression of SPP1 in corticospinal neurons. SPP1 was also
+expressed in the thalamus, brainstem, and spinal ventral horn of the rhesus
+macaque. Although SPP1 was also detected in the brainstem and spinal cord of the 
+marmoset and the rat, it was not detected in their cerebral cortices. Selective
+expression in the corticospinal neurons of the sensorimotor cortex of the rhesus 
+macaque suggests that SPP1 plays a critical role in the functional or structural 
+specialization of highly developed corticospinal systems in certain primate
+species.
+
+DOI: 10.1002/cne.22356 
+PMID: 20503431  [Indexed for MEDLINE]
+

@@ -1,0 +1,37 @@
+
+
+125. Stem Cell Res. 2021 May;53:102380. doi: 10.1016/j.scr.2021.102380. Epub 2021 Apr 
+30.
+
+Establishing an induced pluripotent stem cell line from neonatal common marmoset 
+fibroblasts by an all-in-one episomal vector approach.
+
+Yoshimatsu S(1), Qian E(2), Sato T(2), Yamamoto M(3), Ishikawa M(2), Okano H(4).
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan;
+Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan.
+(2)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan.
+(3)ICLAS Monitoring Center, Central Institute for Experimental Animals, Kanagawa,
+Japan.
+(4)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan;
+Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan. Electronic address: hidokano@keio.jp.
+
+Epstein-Barr virus (EBV)-based episomal vector system enables persistent
+transgene expression, which is advantageous for efficient derivation of
+transgene-free induced pluripotent stem cells (iPSCs) without viral transduction.
+Here, we report establishment of an iPSC line from somatic fibroblasts of a
+neonatal common marmoset monkey (marmoset; Callithrix jacchus) using an
+all-in-one episomal vector that we newly developed. The established iPSC line,
+named NM-iPS, showed standard characteristics of pluripotency such as
+pluripotency-related marker expression, three germ layer differentiation, and
+normal karyotype (2n = 46). The novel iPSC line would be a useful resource for
+stem cell research using non-human primates.
+
+Published by Elsevier B.V.
+
+DOI: 10.1016/j.scr.2021.102380 
+PMID: 34088009  [Indexed for MEDLINE]
+

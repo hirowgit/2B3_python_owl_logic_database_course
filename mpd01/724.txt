@@ -1,0 +1,90 @@
+
+
+724. PLoS Biol. 2018 Feb 20;16(2):e2003933. doi: 10.1371/journal.pbio.2003933.
+eCollection 2018 Feb.
+
+Vocal development through morphological computation.
+
+Zhang YS(1)(2), Ghazanfar AA(1)(2)(3).
+
+Author information: 
+(1)Princeton Neuroscience Institute, Princeton University, Princeton, New Jersey,
+United States of America.
+(2)Department of Psychology, Princeton University, Princeton, New Jersey, United 
+States of America.
+(3)Department of Ecology & Evolutionary Biology, Princeton University, Princeton,
+New Jersey, United States of America.
+
+Comment in
+    PLoS Biol. 2018 Mar 22;16(3):e2005544.
+
+The vocal behavior of infants changes dramatically during early life. Whether or 
+not such a change results from the growth of the body during development-as
+opposed to solely neural changes-has rarely been investigated. In this study of
+vocal development in marmoset monkeys, we tested the putative causal relationship
+between bodily growth and vocal development. During the first two months of life,
+the spontaneous vocalizations of marmosets undergo (1) a gradual disappearance of
+context-inappropriate call types and (2) an elongation in the duration of
+context-appropriate contact calls. We hypothesized that both changes are the
+natural consequences of lung growth and do not require any changes at the neural 
+level. To test this idea, we first present a central pattern generator model of
+marmoset vocal production to demonstrate that lung growth can affect the temporal
+and oscillatory dynamics of neural circuits via sensory feedback from the lungs. 
+Lung growth qualitatively shifted vocal behavior in the direction observed in
+real marmoset monkey vocal development. We then empirically tested this
+hypothesis by placing the marmoset infants in a helium-oxygen (heliox)
+environment in which air is much lighter. This simulated a reversal in
+development by decreasing the effort required to respire, thus increasing the
+respiration rate (as though the lungs were smaller). The heliox manipulation
+increased the proportions of inappropriate call types and decreased the duration 
+of contact calls, consistent with a brief reversal of vocal development. These
+results suggest that bodily growth alone can play a major role in shaping the
+development of vocal behavior.
+
+DOI: 10.1371/journal.pbio.2003933 
+PMCID: PMC5834215
+PMID: 29462148  [Indexed for MEDLINE]
+
+
+725. Mol Reprod Dev. 2018 May;85(5):376-386. doi: 10.1002/mrd.22971. Epub 2018 Mar 23.
+
+Oocyte-activating capacity of fresh and frozen-thawed spermatids in the common
+marmoset (Callithrix jacchus).
+
+Ogonuki N(1), Inoue H(1), Matoba S(1), Kurotaki YK(2), Kassai H(3), Abe Y(3),
+Sasaki E(2)(4), Aiba A(3), Ogura A(1)(3)(5).
+
+Author information: 
+(1)RIKEN BioResource Center, Tsukuba, Ibaraki, Japan.
+(2)Department of Marmoset Research, Central Institute for Experimental Animals,
+Kawasaki, Kanagawa, Japan.
+(3)Center for Disease Biology and Integrative Medicine, Graduate School of
+Medicine, The University of Tokyo, Tokyo, Japan.
+(4)Keio Advanced Research Center, Keio University, Shinjuku-ku, Tokyo, Japan.
+(5)Graduate School of Life and Environmental Science, University of Tsukuba,
+Ibaraki, Japan.
+
+The common marmoset (Callithrix jacchus) represents a promising nonhuman primate 
+model for the study of human diseases because of its small size, ease of
+handling, and availability of gene-modified animals. Here, we aimed to devise
+reproductive technology for marmoset spermatid injection using immature males for
+a possible rapid generational turnover. Spermatids at each step could be
+identified easily by their morphology under differential interference microscopy:
+thus, early round spermatids had a round nucleus with a few nucleolus-like
+structures and abundant cytoplasm, as in other mammals. The spermatids acquired
+oocyte-activating capacity at the late round spermatid stage, as confirmed by the
+resumption of meiosis and Ca2+ oscillations upon injection into mouse oocytes.
+The spermatids could be cryopreserved efficiently with a simple medium containing
+glycerol and CELL BANKER®. Late round or elongated spermatids first appeared at
+10-12 months of age, 6-8 months before sexual maturation. Marmoset oocytes
+microinjected with frozen-thawed late round or elongated spermatids retrieved
+from a 12-month-old male marmoset developed to the 8-cell stage without the need 
+for artificial oocyte activation stimulation. Thus, it might be possible to
+shorten the intergeneration time by spermatid injection, from 2 years (by natural
+mating) to 13-15 months including gestation.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/mrd.22971 
+PMID: 29457675  [Indexed for MEDLINE]
+

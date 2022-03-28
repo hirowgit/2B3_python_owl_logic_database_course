@@ -1,0 +1,79 @@
+
+
+3162. Psychopharmacology (Berl). 2001 May;155(2):135-43.
+
+Clozapine enhances breakpoint in common marmosets responding on a progressive
+ratio schedule.
+
+Cilia J(1), Piper DC, Upton N, Hagan JJ.
+
+Author information: 
+(1)Neuroscience Research, GlaxoSmithKline, Harlow, Essex, UK.
+
+RATIONALE: Motivational effects of psychotropic drugs may contribute to their
+therapeutic profile and progressive ratio (PR) schedules provide a method of
+measuring these effects in animals.
+OBJECTIVE: Determine effects of selected antipsychotic, psychotomimetic,
+anxiolytic and antidepressant drugs on PR performance in common marmosets.
+METHOD: Marmosets were trained to lever press for banana milkshake reinforcement 
+using a PR schedule, in which the number of lever presses to achieve successive
+reinforcements increased by one until responding ceased (breakpoint).
+RESULTS: Clozapine administered intramuscularly (0.01-2 mg/kg IM; 30 min
+pretreatment time (ptt) or by oral gavage (0.1-4 mg/kg PO; 60 min ptt)
+significantly increased the breakpoint. Independent tests of fluid consumption
+failed to show enhanced fluid intake after clozapine pretreatment, suggesting
+this effect was not due to drug induced polydipsia. Neither haloperidol
+(0.005-0.1 mg/kg PO; 60 min ptt) nor risperidone (0.0025-0.05 mg/kg PO; 60 min
+ptt) altered breakpoint. Olanzapine (0.01-1 mg/kg PO; 60 min ptt) significantly
+enhanced the breakpoint at 0.05 mg/kg PO, but the effect was not robust.
+Amphetamine (0.2-2 mg/kg SC; 30 min ptt) significantly reduced the breakpoint at 
+2 mg/kg and fluoxetine (0.1-1 mg/kg PO; 60 min ptt) was without effect. Diazepam 
+significantly increased the breakpoint at 0.5 mg/kg PO. Drug-induced polydipsia
+might play a role in this response as independent tests showed increased fluid
+consumption following diazepam.
+CONCLUSIONS: These results demonstrate that, unlike other antipsychotics,
+clozapine over a wide dose range increased the motivational state of marmosets to
+respond for banana milkshake. This motivational aspect of clozapine's actions may
+contribute to its unique clinical profile and the PR procedure may provide a
+method for detecting novel antipsychotics with a clozapine-like profile.
+
+DOI: 10.1007/s002130100682 
+PMID: 11401001  [Indexed for MEDLINE]
+
+
+3163. J Virol. 2001 Jul;75(13):5842-50.
+
+Morbilliviruses use signaling lymphocyte activation molecules (CD150) as cellular
+receptors.
+
+Tatsuo H(1), Ono N, Yanagi Y.
+
+Author information: 
+(1)Department of Virology, Faculty of Medicine, Kyushu University, Fukuoka
+812-8582, Japan.
+
+Morbilliviruses comprise measles virus, canine distemper virus, rinderpest virus,
+and several other viruses that cause devastating human and animal diseases
+accompanied by severe immunosuppression and lymphopenia. Recently, we have shown 
+that human signaling lymphocyte activation molecule (SLAM) is a cellular receptor
+for measles virus. In this study, we examined whether canine distemper and
+rinderpest viruses also use canine and bovine SLAMs, respectively, as cellular
+receptors. The Onderstepoort vaccine strain and two B95a (marmoset B cell
+line)-isolated strains of canine distemper virus caused extensive cytopathic
+effects in normally resistant CHO (Chinese hamster ovary) cells after expression 
+of canine SLAM. The Ako vaccine strain of rinderpest virus produced strong
+cytopathic effects in bovine SLAM-expressing CHO cells. The data on entry with
+vesicular stomatitis virus pseudotypes bearing measles, canine distemper, or
+rinderpest virus envelope proteins were consistent with development of cytopathic
+effects in SLAM-expressing CHO cell clones after infection with the respective
+viruses, confirming that SLAM acts at the virus entry step (as a cellular
+receptor). Furthermore, most measles, canine distemper, and rinderpest virus
+strains examined could any use of the human, canine, and bovine SLAMs to infect
+cells. Our findings suggest that the use of SLAM as a cellular receptor may be a 
+property common to most, if not all, morbilliviruses and explain the
+lymphotropism and immunosuppressive nature of morbilliviruses.
+
+DOI: 10.1128/JVI.75.13.5842-5850.2001 
+PMCID: PMC114299
+PMID: 11390585  [Indexed for MEDLINE]
+

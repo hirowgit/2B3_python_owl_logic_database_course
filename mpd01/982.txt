@@ -1,0 +1,98 @@
+
+
+982. J Parasitol. 2017 Feb;103(1):14-21. doi: 10.1645/16-1. Epub 2016 Oct 20.
+
+Platynosomum illiciens (Trematoda: Dicrocoeliidae) in Captive Black-Tufted
+Marmoset Callithrix penicillata (Primates: Cebidae) from Brazil: A Morphometric
+Analyses with Taxonomic Comments on Species of Platynosomum from Nonhuman
+Primates.
+
+Pinto HA(1), Mati VL(1), Pujoni DG(1), Melo AL(1).
+
+Author information: 
+(1)Laboratório de Taxonomia e Biologia de Invertebrados, Departamento de
+Parasitologia, Instituto de Ciências Biológicas, Universidade Federal de Minas
+Gerais. P.O. Box 486, 30123-970, Belo Horizonte, Minas Gerais, Brazil.
+
+The trematodes belonging to the genus Platynosomum are biliary parasites of birds
+and mammals (domestic and wildlife) in tropical and subtropical areas of the
+globe. Despite several reports on platynosomosis in captive nonhuman primates,
+mainly in South America, the taxonomy of species of Platynosomum that infect
+these hosts remains confused, and it is not clear whether the species found in
+cats is the same that infects nonhuman primates. Because a detailed morphological
+study of Platynosomum from nonhuman primates is lacking, in this study we
+analyzed specimens of Platynosomum recovered from the biliary system of
+Callithrix penicillata kept in captivity in an animal facility. The helminths
+were submitted to morphological and morphometric analyses in a light microscope
+and measurements of 16 morphological traits were taken. A kernel density
+estimation (KDE) was used to estimate density distributions of the measurements
+obtained as well as the occurrence of overlap with the ranges of the measurements
+known to 2 other species of Platynosomum previously described from South American
+marmosets, Platynosomum amazonensis and Platynosomum marmoseti. A principal
+component analysis (PCA) was also performed in order to evaluate the position of 
+each of the 3 species in the multivariate gradient of morphometric measurements. 
+The occurrence of a growth gradient was also evaluated by analysis of correlation
+between the measurements. Besides a great morphological variability, all
+specimens obtained from marmosets in this study were identified as Platynosomum
+illiciens (Braun, 1901). In addition, the published ranges of the measurements of
+P. amazonensis and P. marmoseti were completely contained within the ranges found
+in this study as revealed by KDE. The PCA did not show the formation of groups,
+and the 3 species were distributed along a growth continuum, also corroborated by
+correlation analysis. Therefore, P. amazonensis and P. marmoseti are here
+synonymized with P. illiciens. The involvement of wildlife hosts to the
+epidemiology of feline platynosomosis and implications for its control are
+briefly discussed.
+
+DOI: 10.1645/16-1 
+PMID: 27762668  [Indexed for MEDLINE]
+
+
+983. Am J Phys Anthropol. 2017 Jan;162(1):157-169. doi: 10.1002/ajpa.23105. Epub 2016 
+Oct 20.
+
+Phylogeny of the jacchus group of Callithrix marmosets based on complete
+mitochondrial genomes.
+
+Malukiewicz J(1), Hepp CM(2), Guschanski K(3), Stone AC(4)(5).
+
+Author information: 
+(1)School of Life Sciences, Arizona State University, Tempe, Arizona, 85287, USA.
+(2)School of Informatics, Computing, and Cyber Systems, Northern Arizona
+University, Flagstaff, AZ 86011, USA.
+(3)Department of Animal Ecology, Evolutionary Biology Centre, Uppsala University,
+Uppsala, Sweden.
+(4)School of Human Evolution and Social Change, Arizona State University, Tempe, 
+AZ 85287, USA.
+(5)Institute of Human Origins, Arizona State University, Tempe, AZ 85287, USA.
+
+OBJECTIVES: Two subgroups make up the marmoset genus Callithrix. The "aurita"
+group is composed of two species, whereas evolutionary relationships among the
+four species of the "jacchus" group remain unclear. To uncover these
+relationships, we first sequenced mitochondrial genomes for C. kuhlii and C.
+penicillata to complement data available for congeners. We then constructed a
+phylogenetic tree based on mtDNA heavy chain protein coding genes from several
+primates to untangle species relationships and estimate divergence times of the
+jacchus group.
+MATERIALS AND METHODS: MtDNA genomes of C. kuhlii and C. penicillata were Sanger 
+sequenced. These Callithrix mitogenomes were combined with other publically
+available primate mtDNA genomes. Phylogenies were produced using maximum
+likelihood and Bayesian inference. Finally, divergence times within the jacchus
+group of marmosets were estimated with Bayesian inference.
+RESULTS: In our phylogenetic tree, C. geoffroyi was the sister to all other
+jacchus group species, followed by C. kuhlii, while C. jacchus and C. penicillata
+diverged most recently. Bayesian inference showed that C. jacchus and C.
+penicillata diverged approximately 0.70 MYA and that the jacchus group radiated
+approximately 1.30 MYA.
+DISCUSSION: Callithrix nuclear and mtDNA phylogenies frequently result in
+polytomies and paraphyly. Here, we present a well-supported phylogenetic tree
+based on mitochondrial genome sequences, which facilitates the understanding of
+the divergence of the jacchus marmosets. Our results demonstrate how
+mitochondrial genomes can enrich Callithrix phylogenetic studies by alleviating
+some of the difficulties faced by previous mtDNA studies and allow formulation of
+hypotheses to test further under larger genomic-scale analyses.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajpa.23105 
+PMID: 27762445  [Indexed for MEDLINE]
+

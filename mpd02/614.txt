@@ -1,0 +1,48 @@
+
+
+614. J Neurosci Methods. 2019 Jan 1;311:186-192. doi: 10.1016/j.jneumeth.2018.10.026. 
+Epub 2018 Oct 21.
+
+Semi-chronic laminar recordings in the brainstem of behaving marmoset monkeys.
+
+Pomberger T(1), Hage SR(2).
+
+Author information: 
+(1)Neurobiology of Vocal Communication, Werner Reichardt Centre for Integrative
+Neuroscience, University of Tübingen, Otfried-Müller-Str. 25, 72076 Tübingen,
+Germany; Graduate School of Neural & Behavioural Sciences - International Max
+Planck Research School, University of Tübingen, Österberg-Str. 3, 72074 Tübingen,
+Germany.
+(2)Neurobiology of Vocal Communication, Werner Reichardt Centre for Integrative
+Neuroscience, University of Tübingen, Otfried-Müller-Str. 25, 72076 Tübingen,
+Germany. Electronic address: steffen.hage@uni-tuebingen.de.
+
+BACKGROUND: Chronic recordings with multi-electrode arrays are widely used to
+study neural networks underlying complex primate behaviors. Most of these systems
+are designed for studying neural activity in the cortical hemispheres resulting
+in a lack of devices being capable of simultaneously recording from ensembles of 
+neurons in deep brainstem structures. However, to fully understand complex
+behavior, it is fundamental to also decipher the intrinsic mechanisms of the
+underlying motor pattern generating circuits in the brainstem.
+NEW METHOD: We report a light-weight system that simultaneously measures
+single-unit activity from a large number of recording sites in the brainstem of
+marmoset monkeys. It includes a base chamber fixed to the animal's skull and a
+removable upper chamber that can be semi-chronically mounted to the base chamber 
+to flexibly position an embedded micro-drive containing a 32-channel laminar
+probe to record from various positions within the brainstem for several weeks.
+RESULTS: The current system is capable of simultaneously recording stable
+single-unit activity from a large number of recording sites in the brainstem of
+vocalizing marmoset monkeys.
+COMPARISON WITH EXISTING METHODS: To the best of our knowledge, chronic systems
+to record from deep brainstem structures with multi-site laminar probes in awake,
+behaving monkeys do not yet exist.
+CONCLUSIONS: The semi-chronic implantation of laminar electrodes into the
+brainstem of behaving marmoset monkeys opens new research possibilities in fully 
+understanding the neural mechanisms underlying complex behaviors in marmoset
+monkeys.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2018.10.026 
+PMID: 30352210  [Indexed for MEDLINE]
+

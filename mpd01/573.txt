@@ -1,0 +1,74 @@
+
+
+573. Methods Mol Biol. 2019;1919:187-197. doi: 10.1007/978-1-4939-9007-8_14.
+
+Optimization of Differentiation of Nonhuman Primate Pluripotent Cells Using a
+Combinatorial Approach.
+
+Farnsworth SL(1), Qiu Z(1), Mishra A(1), Hornsby PJ(2).
+
+Author information: 
+(1)Department of Cellular and Integrative Physiology and Barshop Institute for
+Longevity and Aging Studies, University of Texas Health San Antonio, San Antonio,
+TX, USA.
+(2)Department of Cellular and Integrative Physiology and Barshop Institute for
+Longevity and Aging Studies, University of Texas Health San Antonio, San Antonio,
+TX, USA. hornsby@uthscsa.edu.
+
+The directed differentiation of pluripotent stem cells to a desired lineage often
+involves complex and lengthy protocols. In order to study the requirements for
+differentiation in a systematic way, we present here methodology for an iterative
+approach using combinations of small molecules and biological factors. The
+factors are used in a cyclical process in which the best combination of factors
+and concentrations is selected in one round of testing, followed by a
+modification of the combination and subsequent rounds. While this may produce the
+desired differentiation in the cell population under study, it is also possible
+that other strategies may be needed to optimize the differentiation process.
+These strategies are described in this chapter.
+
+DOI: 10.1007/978-1-4939-9007-8_14 
+PMCID: PMC6719685
+PMID: 30656630  [Indexed for MEDLINE]
+
+
+574. Methods Mol Biol. 2019;1919:175-186. doi: 10.1007/978-1-4939-9007-8_13.
+
+Reference Transcriptome for Deriving Marmoset Induced Pluripotent Stem Cells.
+
+Yang G(1), Hong H(1), Torres A(1), Malloy KE(1)(2), Roy-Choudhury G(1), Kim J(1),
+Daadi MM(3)(4).
+
+Author information: 
+(1)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX, USA.
+(2)Department of Radiology, Research Imaging Institute, Cell Systems and Anatomy,
+Long School of Medicine, University of Texas Health Science Center at San
+Antonio, San Antonio, TX, USA.
+(3)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX, USA. mdaadi@txbiomed.org.
+(4)Department of Radiology, Research Imaging Institute, Cell Systems and Anatomy,
+Long School of Medicine, University of Texas Health Science Center at San
+Antonio, San Antonio, TX, USA. mdaadi@txbiomed.org.
+
+Limited access to primary tissue from various nonhuman primate (NHP) species
+represents a significant unmet need that hampers progress in understanding unique
+cellular diversity and gene regulation of specific tissues and organs in stem
+cell translational research. Most comparative biology studies have been limited
+to using postmortem tissue usually frozen specimens with limited utility for
+research. The generation of induced pluripotent stem cell (iPSC) lines from
+somatic cells, such as adult skin or blood cells, offers an alternative to
+invasive and ethically controversial interventions for acquiring tissue.
+Pluripotent iPSCs have virtually an unlimited capacity to proliferate and
+differentiate into all cell types of the body. We are generating high-quality
+validated NHP iPSC lines to offer to scientific community and facilitate their
+research programs. We use the non-integrative episomal vector system to generate 
+iPSCs from NHP skin biopsies. In this chapter we describe the validation of NHP
+iPSC lines by confirming pluripotency and their propensity to differentiate into 
+all three germ layers ectoderm, mesoderm, and endoderm according to established
+standards and measurable limits for a set of marker genes incorporated into a
+scorecard.
+
+DOI: 10.1007/978-1-4939-9007-8_13 
+PMCID: PMC6605048
+PMID: 30656629  [Indexed for MEDLINE]
+

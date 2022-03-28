@@ -1,0 +1,111 @@
+
+
+847. Comp Immunol Microbiol Infect Dis. 2017 Jun;52:6-13. doi:
+10.1016/j.cimid.2017.05.002. Epub 2017 May 12.
+
+Occurrence of hemotropic mycoplasmas in non-human primates (Alouatta caraya,
+Sapajus nigritus and Callithrix jacchus) of southern Brazil.
+
+Cubilla MP(1), Santos LC(2), de Moraes W(3), Cubas ZS(4), Leutenegger CM(5),
+Estrada M(5), Vieira RFC(2), Soares MJ(6), Lindsay LL(7), Sykes JE(7), Biondo
+AW(8).
+
+Author information: 
+(1)Department of Cell and Molecular Biology, Universidade Federal do Parana, Av. 
+Cel. Francisco H. dos Santos, s/n., Curitiba, PR 81531-980, Brazil; Bela Vista
+Biological Sanctuary, Itaipu Binacional, R. Teresina, 62, Foz do Iguacu, PR
+85866-900, Brazil. Electronic address: micpires@gmail.com.
+(2)Department of Veterinary Medicine, Universidade Federal do Parana, R. dos
+Funcionarios, 1540, Curitiba, PR 80035-050, Brazil.
+(3)Bela Vista Biological Sanctuary, Itaipu Binacional, R. Teresina, 62, Foz do
+Iguacu, PR 85866-900, Brazil; Department of Veterinary Medicine, Universidade
+Federal do Parana, R. dos Funcionarios, 1540, Curitiba, PR 80035-050, Brazil.
+(4)Bela Vista Biological Sanctuary, Itaipu Binacional, R. Teresina, 62, Foz do
+Iguacu, PR 85866-900, Brazil.
+(5)IDEXX Laboratories Inc., 2825 KOVR Drive, West Sacramento, CA 95605, USA.
+(6)Laboratory of Cell Biology, Instituto Carlos Chagas/Fiocruz, Curitiba PR,
+81350-010, Brazil.
+(7)Department of Medicine & Epidemiology, School of Veterinary Medicine,
+University of California, 2108 Tupper Hall, Davis, CA 95616, USA.
+(8)Department of Cell and Molecular Biology, Universidade Federal do Parana, Av. 
+Cel. Francisco H. dos Santos, s/n., Curitiba, PR 81531-980, Brazil; Department of
+Veterinary Medicine, Universidade Federal do Parana, R. dos Funcionarios, 1540,
+Curitiba, PR 80035-050, Brazil.
+
+Hemoplasmas, the erythrocyte-associated mycoplasmas, have been detected in
+several primates, causing mostly subclinical infection. This study aimed to
+determine the prevalence of hemoplasma infection in captive and free-ranging
+monkeys from southern Brazil, as well as factors and hematological abnormalities 
+associated with infection. Blood samples from 40 non-human primates (NHP) were
+tested for hemoplasmas and coinfections. An overall of 10/40 (25.0%) NHP tested
+positive for hemoplasmas using PCR-based assays, including 9/14 (64.3%) black
+howler monkeys (Alouatta caraya) and 1/24 (4.2%) black-horned capuchin (Sapajus
+nigritus). Infection was not statistically associated with anemia, but wild-born 
+monkeys and male black howler monkeys were more likely to be positive when
+compared with captive-born animals and female black howler monkeys, respectively.
+The sequences from the black howler monkey hemoplasma were similar (94% identity)
+to the squirrel monkey hemoplasma ("Candidatus Mycoplasma kahanei") and were
+phylogenetically located in a different cluster when compared to the human
+hemoplasma ("Candidatus Mycoplasma haemohominis").
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cimid.2017.05.002 
+PMID: 28673463  [Indexed for MEDLINE]
+
+
+848. Neuroimage. 2018 Oct 15;180(Pt A):41-67. doi: 10.1016/j.neuroimage.2017.06.068.
+Epub 2017 Jun 27.
+
+Interpreting the dimensions of neural feature representations revealed by
+dimensionality reduction.
+
+Goddard E(1), Klein C(2), Solomon SG(3), Hogendoorn H(4), Carlson TA(5).
+
+Author information: 
+(1)McGill Vision Research, Dept of Ophthalmology, McGill University, Montreal,
+QC, H3G 1A4, Canada; School of Psychology, University of Sydney, Sydney, NSW,
+2006, Australia; ARC Centre of Excellence in Cognition and Its Disorders (CCD),
+Macquarie University, Sydney, NSW, 2109, Australia. Electronic address:
+erin.goddard@mcgill.ca.
+(2)ARC Centre of Excellence in Cognition and Its Disorders (CCD), Macquarie
+University, Sydney, NSW, 2109, Australia; Department of Philosophy, Macquarie
+University, Sydney, NSW, 2109, Australia.
+(3)Department of Experimental Psychology, University College London, Gower
+Street, London, WC1E 6BT, United Kingdom.
+(4)School of Psychology, University of Sydney, Sydney, NSW, 2006, Australia;
+Helmholtz Institute, Neuroscience & Cognition Utrecht, Experimental Psychology
+Division, Utrecht University, Utrecht, The Netherlands.
+(5)School of Psychology, University of Sydney, Sydney, NSW, 2006, Australia; ARC 
+Centre of Excellence in Cognition and Its Disorders (CCD), Macquarie University, 
+Sydney, NSW, 2109, Australia.
+
+Recent progress in understanding the structure of neural representations in the
+cerebral cortex has centred around the application of multivariate classification
+analyses to measurements of brain activity. These analyses have proved a
+sensitive test of whether given brain regions provide information about specific 
+perceptual or cognitive processes. An exciting extension of this approach is to
+infer the structure of this information, thereby drawing conclusions about the
+underlying neural representational space. These approaches rely on exploratory
+data-driven dimensionality reduction to extract the natural dimensions of neural 
+spaces, including natural visual object and scene representations, semantic and
+conceptual knowledge, and working memory. However, the efficacy of these
+exploratory methods is unknown, because they have only been applied to
+representations in brain areas for which we have little or no secondary
+knowledge. One of the best-understood areas of the cerebral cortex is area MT of 
+primate visual cortex, which is known to be important in motion analysis. To
+assess the effectiveness of dimensionality reduction for recovering neural
+representational space we applied several dimensionality reduction methods to
+multielectrode measurements of spiking activity obtained from area MT of marmoset
+monkeys, made while systematically varying the motion direction and speed of
+moving stimuli. Despite robust tuning at individual electrodes, and high
+classifier performance, dimensionality reduction rarely revealed dimensions for
+direction and speed. We use this example to illustrate important limitations of
+these analyses, and suggest a framework for how to best apply such methods to
+data where the structure of the neural representation is unknown.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2017.06.068 
+PMID: 28663068  [Indexed for MEDLINE]
+

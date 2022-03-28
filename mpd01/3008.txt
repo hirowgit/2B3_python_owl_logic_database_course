@@ -1,0 +1,84 @@
+
+
+3008. J Neurophysiol. 2002 Nov;88(5):2684-99.
+
+Temporal coherence sensitivity in auditory cortex.
+
+Barbour DL(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA.
+dbarbour@bme.jhu.edu
+
+Natural sounds often contain energy over a broad spectral range and consequently 
+overlap in frequency when they occur simultaneously; however, such sounds under
+normal circumstances can be distinguished perceptually (e.g., the cocktail party 
+effect). Sound components arising from different sources have distinct (i.e.,
+incoherent) modulations, and incoherence appears to be one important cue used by 
+the auditory system to segregate sounds into separately perceived acoustic
+objects. Here we show that, in the primary auditory cortex of awake marmoset
+monkeys, many neurons responsive to amplitude- or frequency-modulated tones at a 
+particular carrier frequency [the characteristic frequency (CF)] also demonstrate
+sensitivity to the relative modulation phase between two otherwise identically
+modulated tones: one at CF and one at a different carrier frequency. Changes in
+relative modulation phase reflect alterations in temporal coherence between the
+two tones, and the most common neuronal response was found to be a maximum of
+suppression for the coherent condition. Coherence sensitivity was generally found
+in a narrow frequency range in the inhibitory portions of the frequency response 
+areas (FRA), indicating that only some off-CF neuronal inputs into these cortical
+neurons interact with on-CF inputs on the same time scales. Over the population
+of neurons studied, carrier frequencies showing coherence sensitivity were found 
+to coincide with the carrier frequencies of inhibition, implying that inhibitory 
+inputs create the effect. The lack of strong coherence-induced facilitation also 
+supports this interpretation. Coherence sensitivity was found to be greatest for 
+modulation frequencies of 16-128 Hz, which is higher than the phase-locking
+capability of most cortical neurons, implying that subcortical neurons could play
+a role in the phenomenon. Collectively, these results reveal that auditory
+cortical neurons receive some off-CF inputs temporally matched and some
+temporally unmatched to the on-CF input(s) and respond in a fashion that could be
+utilized by the auditory system to segregate natural sounds containing similar
+spectral components (such as vocalizations from multiple conspecifics) based on
+stimulus coherence.
+
+DOI: 10.1152/jn.00253.2002 
+PMID: 12424304  [Indexed for MEDLINE]
+
+
+3009. J Immunol. 2002 Nov 15;169(10):5415-23.
+
+Transfer of central nervous system autoantigens and presentation in secondary
+lymphoid organs.
+
+de Vos AF(1), van Meurs M, Brok HP, Boven LA, Hintzen RQ, van der Valk P, Ravid
+R, Rensing S, Boon L, 't Hart BA, Laman JD.
+
+Author information: 
+(1)Department of Immunology, Erasmus Medical Centre, 3000 DR Rotterdam, The
+Netherlands.
+
+Dendritic cells are thought to regulate tolerance induction vs immunization by
+transferring Ags and peripheral signals to draining lymph nodes (LN). However,
+whether myelin Ag transfer and presentation in LN occurs during demyelinating
+brain disease is unknown. In this study, we demonstrate redistribution of
+autoantigens from brain lesions to cervical LN in monkey experimental autoimmune 
+encephalomyelitis (EAE) and in multiple sclerosis (MS). Immunohistochemical
+analysis revealed significantly more cells containing myelin Ags in cervical LN
+of monkeys with EAE compared with those of healthy control monkeys. Myelin Ags
+were observed in cells expressing dendritic cell/macrophage-specific markers, MHC
+class II, and costimulatory molecules. Moreover, these cells were directly
+juxtaposed to T cells, suggesting that cognate interactions between
+myelin-containing APC and T cells are taking place in brain-draining LN. Indeed, 
+myelin Ag-reactive T cells were observed in cervical LN from marmosets and rhesus
+monkeys. Importantly, these findings were paralleled by our findings in human
+tissue. We observed significantly more myelin Ag-containing cells in LN of
+individuals with MS compared with those of control individuals. These cells
+expressed APC markers, as observed in marmosets and rhesus monkeys. These
+findings suggest that during MS and EAE, modulation of T cell reactivity against 
+brain-derived Ags also takes place in cervical LN and not necessarily inside the 
+brain. A major implication is that novel therapeutic strategies may be targeted
+to peripheral events, thereby circumventing the blood-brain barrier.
+
+DOI: 10.4049/jimmunol.169.10.5415 
+PMID: 12421916  [Indexed for MEDLINE]
+

@@ -1,0 +1,75 @@
+
+
+1937. J Neurosci. 2010 Dec 8;30(49):16741-54. doi: 10.1523/JNEUROSCI.2016-10.2010.
+
+Cortical processing of dynamic sound envelope transitions.
+
+Zhou Y(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+School of Medicine, Johns Hopkins University, Baltimore, Maryland 21205, USA.
+zhouyi@jhu.edu
+
+Slow envelope fluctuations in the range of 2-20 Hz provide important segmental
+cues for processing communication sounds. For a successful segmentation, a neural
+processor must capture envelope features associated with the rise and fall of
+signal energy, a process that is often challenged by the interference of
+background noise. This study investigated the neural representations of slowly
+varying envelopes in quiet and in background noise in the primary auditory cortex
+(A1) of awake marmoset monkeys. We characterized envelope features based on the
+local average and rate of change of sound level in envelope waveforms and
+identified envelope features to which neurons were selective by reverse
+correlation. Our results showed that envelope feature selectivity of A1 neurons
+was correlated with the degree of nonmonotonicity in their static rate-level
+functions. Nonmonotonic neurons exhibited greater feature selectivity than
+monotonic neurons in quiet and in background noise. The diverse envelope feature 
+selectivity decreased spike-timing correlation among A1 neurons in response to
+the same envelope waveforms. As a result, the variability, but not the average,
+of the ensemble responses of A1 neurons represented more faithfully the dynamic
+transitions in low-frequency sound envelopes both in quiet and in background
+noise.
+
+DOI: 10.1523/JNEUROSCI.2016-10.2010 
+PMCID: PMC3358036
+PMID: 21148013  [Indexed for MEDLINE]
+
+
+1938. Hear Res. 2011 May;275(1-2):30-42. doi: 10.1016/j.heares.2010.11.011. Epub 2010
+Dec 9.
+
+Rate-level responses in awake marmoset auditory cortex.
+
+Watkins PV(1), Barbour DL.
+
+Author information: 
+(1)Laboratory of Sensory Neuroscience and Neuroengineering, Department of
+Biomedical Engineering, Washington University, One Brookings Dr., Campus Box
+1097, St. Louis, MO 63130, USA.
+
+Investigations of auditory neuronal firing rate as a function of sound level have
+revealed a wide variety of rate-level function shapes, including neurons with
+nonmonotonic or level-tuned functions. These neurons have an unclear role in
+auditory processing but have been found to be quite common. In the present study 
+of awake marmoset primary auditory cortex (A1) neurons, 56% (305 out of 544),
+when stimulated with tones at the highest sound level tested, exhibited a
+decrement in driven rate of at least 50% from the maximum. These nonmonotonic
+neurons demonstrated significantly lower response thresholds than monotonic
+neurons, although both populations exhibited thresholds skewed toward lower
+values. Nonmonotonic neurons significantly outnumbered monotonic neurons in the
+frequency range 6-13 kHz, which is the frequency range containing most marmoset
+vocalization energy. Spontaneous rate was inversely correlated with threshold in 
+both populations, and spontaneous rates of nonmonotonic neurons had significantly
+lower values than spontaneous rates of monotonic neurons, although distributions 
+of maximum driven rates were not significantly different. Finally, monotonicity
+was found to be organized within electrode penetrations like characteristic
+frequency but with less structure. These findings are consistent with the
+hypothesis that nonmonotonic neurons play a unique role in representing sound
+level, particularly at the lowest sound levels and for complex vocalizations.
+
+Copyright © 2010 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.heares.2010.11.011 
+PMCID: PMC3095711
+PMID: 21145961  [Indexed for MEDLINE]
+

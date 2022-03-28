@@ -1,0 +1,46 @@
+
+
+1147. Xenobiotica. 2016 Jul;46(7):573-578. doi: 10.3109/00498254.2015.1096980. Epub
+2015 Oct 27.
+
+Caffeine 7-N-demethylation and C-8-oxidation mediated by liver microsomal
+cytochrome P450 enzymes in common marmosets.
+
+Uehara S(1), Uno Y(2), Inoue T(3), Suzuki T(1), Utoh M(2), Sasaki E(4)(5),
+Yamazaki H(1).
+
+Author information: 
+(1)a Laboratory of Drug Metabolism and Pharmacokinetics , Showa Pharmaceutical
+University , Machida , Tokyo , Japan.
+(2)b Pharmacokinetics and Bioanalysis Center, Shin Nippon Biomedical
+Laboratories, Ltd. , Kainan , Wakayama , Japan.
+(3)c Department of Applied Developmental Biology , Central Institute for
+Experimental Animals , Kawasaki , Japan.
+(4)d Center of Applied Developmental Biology, Central Institute for Experimental 
+Animals , Kawasaki , Japan , and.
+(5)e Keio Advanced Research Center, Keio University , Minato-Ku, Tokyo , Japan.
+
+1. 3-N-Demethylation of caffeine (1,3,7-trimethylxanthine) is mediated by human
+cytochrome P450 1A2, whereas 7-N-demethylation and C-8-hydroxylation are
+reportedly catalyzed by monkey P450 2C9 and rat P450 1A2, respectively. 2. Roles 
+of marmoset P450 enzymes in caffeine oxidation were investigated using nine
+marmoset liver microsomes and 14 recombinantly expressed marmoset P450 enzymes.
+3. Predominant caffeine 7-N-demethylation and C-8-hydroxylation activities in
+marmoset liver microsomes were moderately (r = 0.78, p < 0.05) and highly
+(r = 0.82, p < 0.01) correlated with midazolam 1'-hydroxylation activities,
+respectively, while the former was not strongly affected by ketoconazole or
+α-naphthoflavone. 4. Caffeine C-8-hydroxylation in liver microsomes was inhibited
+by ketoconazole and activated by α-naphthoflavone, suggesting main involvements
+of P450 3As. 5. Recombinant marmoset P450 3As had high Vmax/Km values for
+C-8-hydroxylation, comparable to Km values for marmoset liver microsomes.
+Marmoset P450 1As efficiently mediated caffeine 3-N-demethylation and
+C-8-hydroxylation with apparently lower Km values than those of liver microsomes.
+6. These results collectively suggest highly active marmoset P450 3A enzymes
+toward caffeine 8-hydorxylaiton and involvement of multiple P450 isoforms
+including P450 1A in caffeine 7-N- and 3-N-demethylations in marmoset livers.
+Marmoset P450s have slightly different properties to human or monkey P450s
+regarding caffeine metabolic pathways.
+
+DOI: 10.3109/00498254.2015.1096980 
+PMID: 26503341 
+

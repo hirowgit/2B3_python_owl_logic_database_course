@@ -1,0 +1,77 @@
+
+
+2236. Mol Vis. 2008 Aug 11;14:1465-79.
+
+Microarray analysis of choroid/RPE gene expression in marmoset eyes undergoing
+changes in ocular growth and refraction.
+
+Shelton L(1), Troilo D, Lerner MR, Gusev Y, Brackett DJ, Rada JS.
+
+Author information: 
+(1)Department of Cell Biology, University of Oklahoma Health Science Center, 940 
+Stanton L. Young Blvd., Oklahoma City, OK 73104, USA.
+
+PURPOSE: Visually guided ocular growth is facilitated by scleral extracellular
+matrix remodeling at the posterior pole of the eye. Coincident with scleral
+remodeling, significant changes in choroidal morphology, blood flow, and protein 
+synthesis have been shown to occur in eyes undergoing ocular growth changes. The 
+current study is designed to identify gene expression changes that may occur in
+the choroid/retinal pigment epithelium (RPE) of marmoset eyes during their
+compensation for hyperopic defocus as compared to eyes compensating for myopic
+defocus.
+METHODS: Total RNA was isolated from choroid/RPE from four common marmosets
+(Callithrix jacchus) undergoing binocular lens treatment using extended wear soft
+contact lenses of equal magnitude but opposite sign (+/-5 diopter [D]). After
+reverse transcription, cDNA was labeled and hybridized to a human oligonucleotide
+microarray and gene transcript expression profiles were determined. Real-time
+polymerase chain reaction (PCR) and western blot analysis were used to confirm
+genes and proteins of interest, respectively.
+RESULTS: Microarray analyses in choroid/RPE indicated 204 genes were
+significantly changed in minus lens-treated as compared with plus lens-treated
+eyes (p<0.05, Student's t-test). Differential choroid/RPE expression of protein
+tyrosine phosphatase, receptor type, B (PTPRB), transforming growth factor
+beta-induced (TGFBI), and basic fibroblast growth factor 2 (FGF-2) were confirmed
+by real-time PCR. TGFBIp was confirmed at the protein level by western blot
+analysis in marmoset and human cornea, choroid/RPE, and sclera.
+CONCLUSIONS: The present study demonstrated that significant gene expression
+changes occur in the marmoset choroid/RPE during visually guided ocular growth.
+The identification of novel candidate genes in choroid/RPE of marmoset eyes
+actively accelerating or decelerating their rates of ocular elongation may
+elucidate the choroidal response during the regulation of postnatal ocular growth
+and may lead to the identification of choroid/RPE signaling molecules that
+participate in scleral remodeling.
+
+
+PMCID: PMC2504533
+PMID: 18698376  [Indexed for MEDLINE]
+
+
+2237. Arch Virol. 2008;153(9):1715-23. doi: 10.1007/s00705-008-0184-9. Epub 2008 Aug
+12.
+
+A new paramyxovirus, Tianjin strain, isolated from common cotton-eared marmoset: 
+genome characterization and structural protein sequence analysis.
+
+Shi LY(1), Li M, Yuan LJ, Wang Q, Li XM.
+
+Author information: 
+(1)Department of Microbiology, The College of Basic Medical Science, Tianjin
+Medical University, No. 22 Qixiangtai Road, Heping District, Tianjin 300070,
+China. shiliying@tijmu.edu.cn
+
+The complete RNA genome sequence of Tianjin strain, isolated from marmoset, has
+been determined. The genome was 15,384 nucleotides (nt) in length, which was
+identical to that of Sendai virus (SeV), and consisted of six genes in the order 
+3'-NP-P/C-M-F-HN-L-5'. The gene junctions contained highly conserved
+transcription start and stop signal sequences and trinucleotide intergenic
+regions (IGR) similar to those of SeV. There was also an overlapping open reading
+frame and a conserved AnGn site (AAAAAGGG) in the P mRNA. Phylogenetic analysis
+based on protein sequences from other members of the family Paramyxoviridae
+showed that Tianjin strain belonged to the genus Respirovirus and was most
+closely related to SeV. Pairwise comparisons of amino acid identities and
+phylogenetic analysis with homologous sequences of known SeVs demonstrated that
+Tianjin strain represented a new evolutionary lineage of SeV.
+
+DOI: 10.1007/s00705-008-0184-9 
+PMID: 18696006  [Indexed for MEDLINE]
+

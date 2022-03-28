@@ -1,0 +1,63 @@
+
+
+2071. Annu Int Conf IEEE Eng Med Biol Soc. 2009;2009:3833-6. doi:
+10.1109/IEMBS.2009.5335132.
+
+Low-cost wireless neural recording system and software.
+
+Gregory JA(1), Borna A, Roy S, Wang X, Lewandowski B, Schmidt M, Najafi K.
+
+Author information: 
+(1)Department of Electrical Engineering and Computer Science, University of
+Michigan, Ann Arbor, USA. jagregor@umich.edu
+
+We describe a flexible wireless neural recording system, which is comprised of a 
+15-channel analog FM transmitter, digital receiver and custom user interface
+software for data acquisition. The analog front-end is constructed from
+commercial off the shelf (COTS) components and weighs 6.3g (including batteries) 
+and is capable of transmitting over 24 hours up to a range over 3m with a
+25microV(rms) in-vivo noise floor. The Software Defined Radio (SDR) and the
+acquisition software provide a data acquisition platform with real time data
+display and can be customized based on the specifications of various experiments.
+The described system was characterized with in-vitro and in-vivo experiments and 
+the results are presented.
+
+DOI: 10.1109/IEMBS.2009.5335132 
+PMCID: PMC4324723
+PMID: 19965244  [Indexed for MEDLINE]
+
+
+2072. Hear Res. 2010 Feb;260(1-2):96-108. doi: 10.1016/j.heares.2009.12.001. Epub 2009 
+Dec 4.
+
+Sound localization cues in the marmoset monkey.
+
+Slee SJ(1), Young ED.
+
+Author information: 
+(1)Biomedical Engineering Dept., Johns Hopkins University, 505 Traylor Research
+Building, Baltimore, MD 21205, USA. sslee1@jhmi.edu
+
+The most important acoustic cues available to the brain for sound localization
+are produced by the interaction of sound with the animal's head and external
+ears. As a first step in understanding the relation between these cues and their 
+neural representation in a vocal new-world primate, we measured head-related
+transfer functions (HRTFs) across frequency for a wide range of sound locations
+in three anesthetized marmoset monkeys. The HRTF magnitude spectrum has a broad
+resonance peak at 6-12 kHz that coincides with the frequency range of the major
+call types of this species. A prominent first spectral notch (FN) in the HRTF
+magnitude above this resonance was observed at most source locations. The center 
+frequency of the FN increased monotonically from approximately 12 to 26 kHz with 
+increases in elevation in the lateral field. In the frontal field FN frequency
+changed in a less orderly fashion with source position. From the HRTFs we derived
+interaural time (ITDs) and level differences (ILDs). ITDs and ILDs (below 12 kHz)
+varied as a function of azimuth between +/-250 micros and +/-20dB, respectively. 
+A reflexive orienting behavioral paradigm was used to confirm that marmosets can 
+orient to sound sources.
+
+Published by Elsevier B.V.
+
+DOI: 10.1016/j.heares.2009.12.001 
+PMCID: PMC2819082
+PMID: 19963054  [Indexed for MEDLINE]
+

@@ -1,0 +1,45 @@
+
+
+3237. Br J Pharmacol. 2000 Dec;131(7):1262-74.
+
+Differential vasoconstrictor activity of human urotensin-II in vascular tissue
+isolated from the rat, mouse, dog, pig, marmoset and cynomolgus monkey.
+
+Douglas SA(1), Sulpizio AC, Piercy V, Sarau HM, Ames RS, Aiyar NV, Ohlstein EH,
+Willette RN.
+
+Author information: 
+(1)Department of Cardiovascular Pharmacology, SmithKline Beecham Pharmaceuticals,
+709 Swedeland Road, King of Prussia, PA 19406-0939, USA.
+steve_douglas-1@sbphrd.com
+
+1. Urotensin-II (U-II) and its G-protein-coupled receptor, GPR14, are expressed
+within mammalian cardiac and peripheral vascular tissue and, as such, may
+regulate mammalian cardiovascular function. The present study details the
+vasoconstrictor profile of this cyclic undecapeptide in different vascular
+tissues isolated from a diverse range of mammalian species (rats, mice, dogs,
+pigs, marmosets and cynomolgus monkeys). 2. The vasoconstrictor activity of human
+U-II was dependent upon the anatomical origin of the vessel studied and the
+species from which it was isolated. In the rat, constrictor responses were most
+pronounced in thoracic aortae and carotid arteries: -log[EC(50)]s 9.09+/-0.19 and
+8.84+/-0.21, R(max)s 143+/-21 and 67+/-26% 60 mM KCl, respectively (compared, for
+example, to -log[EC(50)] 7.90+/-0.11 and R(max) 142+/-12% 60 mM KCl for
+endothelin-1 [ET-1] in thoracic aortae). Responses were, however, absent in mice 
+aortae (-log[EC(50)] <6.50). These findings were further contrasted by the
+observation that U-II was a 'coronary-selective' spasmogen in the dog
+(-log[EC(50)] 9.46+/-0.11, R(max) 109+/-23% 60 mM KCl in LCX coronary artery),
+yet exhibited a broad spectrum of vasoconstrictor activity in arterial tissue
+from Old World monkeys (-log[EC(50)]s range from 8.96+/-0.15 to 9.92+/-0.13,
+R(max)s from 43+/-16 to 527+/-135% 60 mM KCl). Interestingly, significant
+differences in reproducibility and vasoconstrictor efficacy were seen in tissue
+from pigs and New World primates (vessels which responded to noradrenaline,
+phenylephrine, KCl or ET-1 consistently). 3. Thus, human U-II is a potent,
+efficacious vasoconstrictor of a variety of mammalian vascular tissues. Although 
+significant species/anatomical variations exist, the data support the hypothesis 
+that U-II influences the physiological regulation of mammalian cardiovascular
+function.
+
+DOI: 10.1038/sj.bjp.0703690 
+PMCID: PMC1572453
+PMID: 11090097  [Indexed for MEDLINE]
+

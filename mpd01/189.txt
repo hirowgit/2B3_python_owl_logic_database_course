@@ -1,0 +1,88 @@
+
+
+189. Sci Rep. 2021 Jan 27;11(1):2309. doi: 10.1038/s41598-020-80000-1.
+
+Cytotoxic Escherichia coli strains encoding colibactin, cytotoxic necrotizing
+factor, and cytolethal distending toxin colonize laboratory common marmosets
+(Callithrix jacchus).
+
+McCoy CS(1), Mannion AJ(1), Feng Y(1), Madden CM(1), Artim SC(1)(2), Au GG(1),
+Dolan M(1), Haupt JL(1), Burns MA(1), Sheh A(1), Fox JG(3).
+
+Author information: 
+(1)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Building 16-825, 77 Massachusetts Avenue, Cambridge, MA, 02139, USA.
+(2)Merck Research Laboratories, Merck, South San Francisco, CA, 94080, USA.
+(3)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Building 16-825, 77 Massachusetts Avenue, Cambridge, MA, 02139, USA.
+jgfox@mit.edu.
+
+Cyclomodulins are virulence factors that modulate cellular differentiation,
+apoptosis, and proliferation. These include colibactin (pks), cytotoxic
+necrotizing factor (cnf), and cytolethal distending toxin (cdt). Pathogenic pks+,
+cnf+, and cdt+ E. coli strains are associated with inflammatory bowel disease
+(IBD) and colorectal cancer in humans and animals. Captive marmosets are
+frequently afflicted with IBD-like disease, and its association with
+cyclomodulins is unknown. Cyclomodulin-encoding E. coli rectal isolates were
+characterized using PCR-based assays in healthy and clinically affected marmosets
+originating from three different captive sources. 139 E. coli isolates were
+cultured from 122 of 143 marmosets. The pks gene was detected in 56 isolates
+(40%), cnf in 47 isolates (34%), and cdt in 1 isolate (0.7%). The prevalences of 
+pks+ and cnf+ E. coli isolates were significantly different between the three
+marmoset colonies. 98% of cyclomodulin-positive E. coli belonged to phylogenetic 
+group B2. Representative isolates demonstrated cyclomodulin cytotoxicity, and
+serotyping and whole genome sequencing were consistent with pathogenic E. coli
+strains. However, the presence of pks+, cnf+, or cdt+ E. coli did not correlate
+with clinical gastrointestinal disease in marmosets. Cyclomodulin-encoding E.
+coli colonize laboratory common marmosets in a manner dependent on the source,
+potentially impacting reproducibility in marmoset models.
+
+DOI: 10.1038/s41598-020-80000-1 
+PMCID: PMC7841143
+PMID: 33504843  [Indexed for MEDLINE]
+
+
+190. Anim Microbiome. 2021 Jan 5;3(1):1. doi: 10.1186/s42523-020-00062-4.
+
+Changes in the faecal microbiome of pied tamarins (Saguinus bicolor) associated
+with chronic, recurrent diarrhoea and weight loss.
+
+Richards-Rios P(1), Wigley P(2), López J(3), Wormell D(4), Barbón A(4).
+
+Author information: 
+(1)Institute of Veterinary Science, University of Liverpool, Liverpool, UK.
+prich@liverpool.ac.uk.
+(2)Institute of Infection and Global Health, University of Liverpool, Liverpool, 
+UK.
+(3)Chester Zoo, Chester, UK.
+(4)Durrell Wildlife Conservation Trust, Channel Islands, Jersey, France.
+
+BACKGROUND: Chronic recurrent diarrhoea and weight loss is a common problem in
+captive callitrichids. These symptoms are common clinical features of marmoset
+wasting syndrome (MWS), a chronic enteric inflammation of unknown aetiology
+associated with mortality in captive marmosets. The unknown aetiology of the
+condition presents problems for conservation projects where affected colonies
+present higher mortality and lower birth rates. Since a role for the microbiome
+has been established in chronic enteric inflammation of other species it is
+possible that the intestinal microbiome undergoes similar changes during MWS.
+RESULTS: The faecal microbiome of pied tamarins (Saguinus bicolor) at Jersey Zoo 
+was determined using 16S rRNA gene amplicon sequencing to compare the composition
+of the faecal microbiome of tamarins affected by chronic recurrent diarrhoea and 
+weight loss with unaffected individuals. Affected individuals had a higher
+relative abundance of amplicon sequence variants assigned to Lactobacillus and
+Helicobacter jaachi while unaffected individuals had a higher relative abundance 
+of some Lachnospiraceae and Ruminococcaceae.
+CONCLUSIONS: Although Helicobacter has been shown to reside in healthy wild and
+captive marmosets and tamarins and appears to form part of the normal microbiota,
+the results of this study raise the prospect that certain species of Helicobacter
+may be associated with chronic, recurrent diarrhoea in captive callitrichids. The
+presence of Lactobacillus may also play a role in the development of MWS. Since
+depletion of Lachnospiraceae and Ruminococcaceae have been linked to chronic
+gastrointestinal inflammation in humans, this feature of the microbiome of
+affected tamarins provides another avenue of further research in the pathogenesis
+of MWS.
+
+DOI: 10.1186/s42523-020-00062-4 
+PMCID: PMC7934480
+PMID: 33500002 
+

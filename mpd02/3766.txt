@@ -1,0 +1,37 @@
+
+
+3766. J Virol. 1996 Sep;70(9):6012-9.
+
+Regulation of the herpesvirus saimiri oncogene stpC, similar to that of T-cell
+activation genes, in growth-transformed human T lymphocytes.
+
+Fickenscher H(1), Biesinger B, Knappe A, Wittmann S, Fleckenstein B.
+
+Author information: 
+(1)Institut für Klinische und Molekulare Virologie,
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany.
+helmutfr@viro.med.uni-erlangen.de
+
+Herpesvirus saimiri strain C488, a T-cell tumor virus of New World primates,
+transforms human T lymphocytes to stable interleukin-2-dependent growth without
+need for further stimulation by antigen or mitogen. The transformed cell lines
+show the phenotype of activated mature T cells and retain many essential features
+of the primary parental cells, e.g., antigen specificity. In contrast to
+transformed New World monkey T cells, the human lines do not support lytic growth
+of the virus, even after chemical stimulation. Here we show that many viral genes
+remain silent during episomal persistence. However, the viral oncogene stpC is
+predominantly transcribed and translated to a stable cytoplasmic protein of 20
+kDa that is heterogeneously expressed in individual cells. This 1.7-kb mRNA is
+bicistronic, encoding also Tip, a viral protein interacting with the
+T-cell-specific tyrosine kinase Lck. stpC/tip transcripts are heavily induced
+upon stimulation by mitogen or phorbol ester. Block of protein synthesis does not
+abolish transcription: treatment with cycloheximide greatly induces stpC/tip mRNA
+levels. Thus, this gene complex is regulated similarly to early T-cell activation
+genes. Constitutive and induced expression engage different transcription start
+sites. The T-cell regulation of the viral genes stpC and tip may contribute to
+the T-cell tropism of growth transformation by herpesvirus saimiri.
+
+DOI: 10.1128/JVI.70.9.6012-6019.1996 
+PMCID: PMC190621
+PMID: 8709223  [Indexed for MEDLINE]
+

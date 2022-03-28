@@ -1,0 +1,95 @@
+
+
+1145. Neuroreport. 2015 Dec 16;26(18):1133-9. doi: 10.1097/WNR.0000000000000483.
+
+Functional columns in superior temporal sulcus areas of the common marmoset.
+
+Suzuki W(1), Tani T, Banno T, Miyakawa N, Abe H, Ichinohe N.
+
+Author information: 
+(1)aDepartment of Ultrastructural Research, National Center of Neurology and
+Psychiatry, National Institute of Neuroscience, Tokyo bIchinohe Neural System
+Group, Lab for Molecular Analysis of Higher Brain Function, RIKEN Brain Science
+Institute, Saitama, Japan.
+
+Cortical areas in the superior temporal sulcus (STS) of primates have been
+recognized as a part of the 'social brain'. In particular, biological motion
+stimuli elicit neuronal responses in the STS, indicating their roles in the
+ability to understand others' actions. However, the spatial organization of
+functionally identified STS cells is not well understood because it is difficult 
+to identify the precise locations of cells in sulcal regions. Here, using a small
+New World monkey, the common marmoset (Callithrix jacchus) that has a
+lissencephalic brain, we investigated the spatial organization of the cells
+responsive to other's actions in STS. The neural responses to movies showing
+several types of other's actions were recorded with multicontact linear-array
+electrodes that had four shanks (0.4 mm spacing), with eight electrode contacts
+(0.2 mm spacing) for each shank. The four shanks were penetrated perpendicular to
+the cortical surface. We found that STS cells significantly responded to other's 
+goal-directed actions, such as when an actor marmoset was reaching for and
+grasping a piece of food. The response profiles to the movies were more similar
+between the vertically positioned electrodes than horizontally positioned
+electrodes when the distances between electrodes were matched. This indicates
+that there are functional columns in the higher-order visual areas in STS of the 
+common marmoset.
+
+DOI: 10.1097/WNR.0000000000000483 
+PMID: 26512934  [Indexed for MEDLINE]
+
+
+1146. J Virol. 2015 Oct 28;90(2):725-40. doi: 10.1128/JVI.02431-15. Print 2016 Jan 15.
+
+HIV-1 Adapts To Replicate in Cells Expressing Common Marmoset APOBEC3G and BST2.
+
+Fernández-Oliva A(1), Finzi A(2), Haim H(2), Menéndez-Arias L(1), Sodroski J(3), 
+Pacheco B(4).
+
+Author information: 
+(1)Centro de Biología Molecular Severo Ochoa, Consejo Superior de Investigaciones
+Científicas and Universidad Autónoma de Madrid, Madrid, Spain.
+(2)Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute,
+and Department of Microbiology and Immunobiology, Harvard Medical School, Boston,
+Massachusetts, USA.
+(3)Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute,
+and Department of Microbiology and Immunobiology, Harvard Medical School, Boston,
+Massachusetts, USA Department of Immunology and Infectious Diseases, Harvard
+School of Public Health, Boston, Massachusetts, USA.
+(4)Centro de Biología Molecular Severo Ochoa, Consejo Superior de Investigaciones
+Científicas and Universidad Autónoma de Madrid, Madrid, Spain Department of
+Cancer Immunology and Virology, Dana-Farber Cancer Institute, and Department of
+Microbiology and Immunobiology, Harvard Medical School, Boston, Massachusetts,
+USA b.pacheco.phd@hotmail.com.
+
+Previous studies have shown that a major block to HIV-1 replication in common
+marmosets operates at the level of viral entry and that this block can be
+overcome by adaptation of the virus in tissue-cultured cells. However, our
+current studies indicate that HIV-1 encounters additional postentry blocks in
+common marmoset peripheral blood mononuclear cells. Here, we show that the common
+marmoset APOBEC3G (A3G) and BST2 proteins block HIV-1 in cell cultures. Using a
+directed-evolution method that takes advantage of the natural ability of HIV-1 to
+mutate during replication, we have been able to overcome these blocks in
+tissue-cultured cells. In the adapted viruses, specific changes were observed in 
+gag, vif, env, and nef. The contribution of these changes to virus replication in
+the presence of the A3G and BST2 restriction factors was studied. We found that
+certain amino acid changes in Vif and Env that arise during adaptation to
+marmoset A3G and BST2 allow the virus to replicate in the presence of these
+restriction factors. The changes in Vif reduce expression levels and
+encapsidation of marmoset APOBEC3G, while the changes in Env increase viral
+fitness and discretely favor cell-to-cell transmission of the virus, allowing
+viral escape from these restriction factors.IMPORTANCE: HIV-1 can infect only
+humans and chimpanzees. The main reason for this narrow tropism is the presence
+in many species of dominant-acting factors, known as restriction factors, that
+block viral replication in a species-specific way. We have been exploring the
+blocks to HIV-1 in common marmosets, with the ultimate goal of developing a new
+animal model of HIV-1 infection in these monkeys. In this study, we observed that
+common marmoset APOBEC3G and BST2, two known restriction factors, are able to
+block HIV-1 in cell cultures. We have adapted HIV-1 to replicate in the presence 
+of these restriction factors and have characterized the mechanisms of escape.
+These studies can help in the development of a novel animal model for in vivo
+infection of marmosets with HIV-1-like viruses.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.02431-15 
+PMCID: PMC4702673
+PMID: 26512082  [Indexed for MEDLINE]
+

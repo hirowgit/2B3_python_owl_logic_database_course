@@ -1,0 +1,77 @@
+
+
+2479. Biochem Pharmacol. 2006 Dec 15;72(12):1738-48. Epub 2006 Sep 29.
+
+Cloning of a cDNA encoding a novel marmoset CYP2C enzyme, expression in yeast
+cells and characterization of its enzymatic functions.
+
+Narimatsu S(1), Torigoe F, Tsuneto Y, Saito K, Hanioka N, Masuda K, Katsu T,
+Yamamoto S, Yamano S, Baba T, Miyata A.
+
+Author information: 
+(1)Laboratory of Health Chemistry, Graduate School of Medicine, Dentistry and
+Pharmaceutical Sciences, Okayama University, 1-1-1 Tsushima-naka, Okayama
+700-8530, Japan. shizuo@pharm.okayama-u.ac.jp
+
+We cloned a cDNA encoding a novel CYP2C enzyme, called P450 M-2C, from a marmoset
+liver. The deduced amino acid sequence showed high identities to those of human
+CYP2C8 (87%), CYP2C9 (78%) and CYP2C19 (77%). The P450 M-2C enzyme expressed in
+yeast cells catalyzed p-methylhydroxylation of only tolbutamide among four
+substrates tested, paclitaxel as a CYP2C8 substrate, diclofenac and tolbutamide
+as CYP2C9 substrates and S-mephenytoin as a CYP2C19 substrate.
+p-Methylhydroxylation of tolbutamide by marmoset liver microsomes showed
+monophasic kinetics, and the apparent K(m) value (1.2 mM) for the substrate was
+similar to that of the recombinant P450 M-2C (1.8 mM). Although all of the
+recombinant human CYP2C8, CYP2C9 and CYP2C19 expressed in yeast cells catalyzed
+tolbutamide p-methylhydroxylation, the kinetic profile of CYP2C8 was most similar
+to that of P450 M-2C. Tolbutamide oxidation by the marmoset liver microsomes and 
+the recombinant P450 M-2C was inhibited most effectively by quercetin, a CYP2C8
+inhibitor, followed by omeprazole, a CYP2C19 inhibitor, whereas sulfaphenazole, a
+CYP2C9 inhibitor, was less potent under the conditions used. These results
+indicate that P450 M-2C is the major tolbutamide p-methylhydroxylase in the
+marmoset liver.
+
+DOI: 10.1016/j.bcp.2006.08.025 
+PMID: 17010942  [Indexed for MEDLINE]
+
+
+2480. J Mol Evol. 2006 Nov;63(5):591-601. Epub 2006 Sep 26.
+
+Evolution of growth hormone in primates: the GH gene clusters of the New World
+monkeys marmoset (Callithrix jacchus) and white-fronted capuchin (Cebus
+albifrons).
+
+Wallis OC(1), Wallis M.
+
+Author information: 
+(1)Biochemistry Department, School of Life Sciences, University of Sussex,
+Brighton BN1 9QG, UK.
+
+The GH gene cluster in marmoset, Callithrix jacchus, comprises eight GH-like
+genes and pseudogenes and appears to have arisen as a consequence of gene
+duplications occurring independently of those leading to the human GH gene
+cluster. We report here the complete sequence of the marmoset GH gene locus,
+including the intergenic regions and 5' and 3' flanking sequence, and a study of 
+the multiple GH-like genes of an additional New World monkey (NWM), the
+white-fronted capuchin, Cebus albifrons. The marmoset sequence includes 945
+nucleotides (nt) of 5' flanking sequence and 1596 nt of 3' flanking sequence that
+are "unique"; between these are eight repeat units, including the eight GH
+genes/pseudogenes. The breakpoints between these repeats are very similar,
+indicating a regular pattern of gene duplication. These breakpoints do not
+correspond to those found in the much less regular human GH gene cluster. This
+and phylogenetic analysis of the repeat units within the marmoset gene cluster
+strongly support the independent origin of these gene clusters, and the idea that
+the episode of rapid evolution that occurred during GH evolution in primates
+preceded the gene duplications. The marmoset GH gene cluster also differs from
+that of human in having fewer and more evenly distributed Alu sequences (a single
+pair in each repeat unit) and a "P-element" upstream of every gene/pseudogene. In
+human there is no P-element upstream of the gene encoding pituitary GH, and these
+elements have been implicated in placental expression of the other genes of the
+cluster. The GH gene clusters in marmoset and capuchin appear to have arisen as
+the consequence of a single-gene duplication event, but in capuchin there was
+then a remarkable expansion of the GH locus, giving at least 40 GH-like genes and
+pseudogenes. Thus even among NWMs the GH gene cluster is very variable.
+
+DOI: 10.1007/s00239-006-0039-5 
+PMID: 17009125  [Indexed for MEDLINE]
+

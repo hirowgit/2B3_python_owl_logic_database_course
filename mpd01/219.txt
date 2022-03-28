@@ -1,0 +1,65 @@
+
+
+219. Emerg Infect Dis. 2020 Dec;26(12):3039-3043. doi: 10.3201/eid2612.191562.
+
+Hypervirulent Klebsiella pneumoniae as Unexpected Cause of Fatal Outbreak in
+Captive Marmosets, Brazil.
+
+Guerra JM, Fernandes NCCA, Morales Dos Santos AL, Barrel JSP, Petri BSS, Milanelo
+L, Tiba-Casas MR, Liserre AM, Gonçalves CR, Sacchi CT, Catão-Dias JL, Camargo CH.
+
+After the sudden death of captive marmosets in São Paulo, Brazil, we conducted a 
+histologic and microbiologic study. We found hyperacute septicemia caused by
+hypermucoviscous sequence type 86 K2 Klebsiella pneumoniae. We implemented
+prophylactic antimicrobial therapy, selected dedicated staff for marmoset
+interactions, and sanitized the animals' fruit to successfully control this
+outbreak.
+
+DOI: 10.3201/eid2612.191562 
+PMCID: PMC7706955
+PMID: 33219810  [Indexed for MEDLINE]
+
+
+220. Cells. 2020 Nov 17;9(11). pii: E2498. doi: 10.3390/cells9112498.
+
+Proteomic Insights into Senescence of Testicular Peritubular Cells from a
+Nonhuman Primate Model.
+
+Stöckl JB(1), Schmid N(2), Flenkenthaler F(1), Drummer C(3)(4), Behr R(3)(4),
+Mayerhofer A(2), Arnold GJ(1), Fröhlich T(1).
+
+Author information: 
+(1)Laboratory for Functional Genome Analysis LAFUGA, Gene Center, LMU München,
+81377 Munich, Germany.
+(2)LMU München, Biomedical Center (BMC), Anatomy III-Cell Biology, 82152
+Martinsried, Germany.
+(3)Platform Degenerative Diseases, German Primate Center, Leibniz Institute for
+Primate Research, 37077 Göttingen, Germany.
+(4)DZHK (German Center for Cardiovascular Research), Partner Site Göttingen,
+37077 Göttingen, Germany.
+
+Age-related changes in the human testis may include morphological alterations,
+disturbed steroidogenesis, and impaired spermatogenesis. However, the specific
+impact of cell age remains poorly understood and difficult to assess. Testicular 
+peritubular cells fulfill essential functions, including sperm transport,
+contributions to the spermatogonial stem cell niche, and paracrine interactions
+within the testis. To study their role in age-associated decline of testicular
+functions, we performed comprehensive proteome and secretome analyses of
+repeatedly passaged peritubular cells from Callithrix jacchus. This nonhuman
+primate model better reflects the human testicular biology than rodents and
+further gives access to young donors unavailable from humans. Among 5095
+identified proteins, 583 were differentially abundant between samples with low
+and high passage numbers. The alterations indicate a reduced ability of senescent
+peritubular cells to contract and secrete proteins, as well as disturbances in
+nuclear factor (NF)-κB signaling and a reduced capacity to handle reactive oxygen
+species. Since this in vitro model may not exactly mirror all molecular aspects
+of in vivo aging, we investigated the proteomes and secretomes of testicular
+peritubular cells from young and old donors. Even though the age-related
+alterations at the protein level were less pronounced, we found evidence for
+impaired protein secretion, altered NF-κB signaling, and reduced contractility of
+these in vivo aged peritubular cells.
+
+DOI: 10.3390/cells9112498 
+PMCID: PMC7698562
+PMID: 33213088  [Indexed for MEDLINE]
+

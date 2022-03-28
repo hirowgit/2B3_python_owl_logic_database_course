@@ -1,0 +1,35 @@
+
+
+3050. Immunogenetics. 2002 Jul;54(4):230-9. Epub 2002 Jun 20.
+
+Extensive Mhc-DQB variation in humans and non-human primate species.
+
+Otting N(1), de Groot NG, Doxiadis GG, Bontrop RE.
+
+Author information: 
+(1)Biomedical Primate Research Centre, Department of Immunobiology, Lange Kleiweg
+139, 2280 GH Rijswijk, The Netherlands. otting@bprc.nl
+
+Non-human primates are often used in biomedical research, and the application of 
+these animals as a model in immune-related diseases necessitates the
+characterisation of their MHC system. In particular, the MHC class II regions of 
+the chimpanzee (Pan troglodytes), the rhesus macaque (Macaca mulatta)and the
+common marmoset (Callithrix jacchus) have been subject of molecular biological
+studies in recent years. In this study the emphasis was on MHC class II genes of 
+another macaque species, Macaca fascicularis(crab eating macaque or cynomolgous
+monkey). The exon 2 of the Mhc-DQB gene (Mafa-DQB) was sequenced in each of a
+random panel of 60 non-pedigreed cynomolgous monkeys. This resulted in the
+detection of 23 Mafa-DQB1alleles that had not previously been published. In
+addition, unreported alleles were found in chimpanzees, rhesus macaques,
+orang-utans (Pongo pygmaeus) and stump-tailed macaques (Macaca arctoides), of
+which a few individuals were included in this study. Phylogenetic analyses
+confirm the trans-species model of evolution of the MHC-DQBlineages, in which a
+group of major alleles is passed on in the phylogeny, and has led to the sharing 
+of allelic lineages by different species of non-human primates. The sharing of
+alleles is observed only for closely related macaque species. Furthermore, this
+manuscript provides an overview of all published, and whenever necessary
+corrected, non-human primate Mhc-DQB exon 2 alleles.
+
+DOI: 10.1007/s00251-002-0461-9 
+PMID: 12136334  [Indexed for MEDLINE]
+

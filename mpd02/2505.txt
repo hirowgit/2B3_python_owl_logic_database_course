@@ -1,0 +1,42 @@
+
+
+2505. BMC Genomics. 2006 Aug 15;7:209.
+
+Identification of the ancestral killer immunoglobulin-like receptor gene in
+primates.
+
+Sambrook JG(1), Bashirova A, Andersen H, Piatak M, Vernikos GS, Coggill P, Lifson
+JD, Carrington M, Beck S.
+
+Author information: 
+(1)Immunogenomics Laboratory, Wellcome Trust Sanger Institute, Genome Campus,
+Hinxton, Cambridge CB10 ISA, UK.
+
+BACKGROUND: Killer Immunoglobulin-like Receptors (KIR) are essential
+immuno-surveillance molecules. They are expressed on natural killer and T cells, 
+and interact with human leukocyte antigens. KIR genes are highly polymorphic and 
+contribute vital variability to our immune system. Numerous KIR genes, belonging 
+to five distinct lineages, have been identified in all primates examined thus far
+and shown to be rapidly evolving. Since few KIR remain orthologous between
+species, with only one of them, KIR2DL4, shown to be common to human, apes and
+monkeys, the evolution of the KIR gene family in primates remains unclear.
+RESULTS: Using comparative analyses, we have identified the ancestral KIR lineage
+(provisionally named KIR3DL0) in primates. We show KIR3DL0 to be highly conserved
+with the identification of orthologues in human (Homo sapiens), common chimpanzee
+(Pan troglodytes), gorilla (Gorilla gorilla), rhesus monkey (Macaca mulatta) and 
+common marmoset (Callithrix jacchus). We predict KIR3DL0 to encode a functional
+molecule in all primates by demonstrating expression in human, chimpanzee and
+rhesus monkey. Using the rhesus monkey as a model, we further show the expression
+profile to be typical of KIR by quantitative measurement of KIR3DL0 from an
+enriched population of natural killer cells.
+CONCLUSION: One reason why KIR3DL0 may have escaped discovery for so long is
+that, in human, it maps in between two related leukocyte immunoglobulin-like
+receptor clusters outside the known KIR gene cluster on Chromosome 19. Based on
+genomic, cDNA, expression and phylogenetic data, we report a novel lineage of
+immunoglobulin receptors belonging to the KIR family, which is highly conserved
+throughout 50 million years of primate evolution.
+
+DOI: 10.1186/1471-2164-7-209 
+PMCID: PMC1559706
+PMID: 16911775  [Indexed for MEDLINE]
+

@@ -1,0 +1,77 @@
+
+
+2581. Proc Natl Acad Sci U S A. 2006 Feb 28;103(9):3186-91. Epub 2006 Feb 17.
+
+Phylogenetic comparisons suggest that distance from the locus control region
+guides developmental expression of primate beta-type globin genes.
+
+Johnson RM(1), Prychitko T, Gumucio D, Wildman DE, Uddin M, Goodman M.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Wayne State University
+School of Medicine, Detroit, MI 48201, USA.
+
+Phylogenetic inferences drawn from comparative data on mammalian beta-globin gene
+clusters indicate that the ancestral primate cluster contained a locus control
+region (LCR) and five paralogously related beta-type globin loci
+(5'-LCR-epsilon-gamma-psieta-delta-beta-3'), with epsilon and gamma expressed
+solely during embryonic life. A gamma locus tandem duplication
+(5'-gamma(1)-gamma(2)-3') triggered gamma's evolution toward fetal expression but
+by a different trajectory in platyrrhines (New World monkeys) than in catarrhines
+(Old World monkeys and apes, including humans). In platyrrhine (e.g., Cebus)
+fetuses, gamma(1) at the ancestral distance from epsilon is down-regulated,
+whereas gamma(2) at increased distance is up-regulated. Catarrhine gamma(1) and
+gamma(2) acquired longer distances from epsilon (14 and 19 kb, respectively), and
+both are up-regulated throughout fetal life with gamma(1)'s expression
+predominating over gamma(2)'s. On enlarging the platyrrhine expression data, we
+find Aotus gamma is embryonic, Alouatta gamma is inactive at term, and in
+Callithrix, gamma(1) is down-regulated fetally, whereas gamma(2) is up-regulated.
+Of eight mammalian taxa now represented per taxon by embryonic, fetal, and
+postnatal beta-type globin gene expression data, four taxa are primates, and data
+for three of these primates are from this laboratory. Our results support a model
+in which a short distance (<10 kb) between epsilon and the adjacent gamma is a
+plesiomorphic character that allows the LCR to drive embryonic expression of both
+genes, whereas a longer distance (>10 kb) impedes embryonic activation of the
+downstream gene.
+
+DOI: 10.1073/pnas.0511347103 
+PMCID: PMC1413942
+PMID: 16488971  [Indexed for MEDLINE]
+
+
+2582. Neuroimage. 2006 May 15;31(1):76-85. Epub 2006 Feb 17.
+
+Orientation selectivity in the common marmoset (Callithrix jacchus): the
+periodicity of orientation columns in V1 and V2.
+
+McLoughlin N(1), Schiessl I.
+
+Author information: 
+(1)Faculty of Life Sciences, University of Manchester, Manchester M60 1QD, UK.
+niall.mcloughlin@manchester.ac.uk
+
+Orientation selectivity is a ubiquitous property of the primary visual cortex of 
+mammals. Within the primate, orientation selectivity is arranged into vertical
+columns that are organized into a regular patchy pattern. Previous studies, in
+old world primates, have noted an anisotropy in this arrangement that appears to 
+be due to the presence of ocular dominance columns within the same tissue. In
+addition, orientation selective responses appear to be arranged into bands of
+activity within the adjoining extrastriate region V2. Little is known about the
+precise arrangement of orientation columns within V2. In this study, we examined 
+the layout of orientation columns within both V1 and V2 of a new world primate,
+the common marmoset, using optical imaging. New world primates have the advantage
+that, unlike the macaque, V2 exists on the cortical surface, a requirement for
+this form of optical mapping. We found the arrangement of orientation columns to 
+be isotropic within marmoset V1 with an average repeat distance of around 575
+mum, smaller than the repeat distance previously reported for the macaque. We
+found no evidence of ocular dominance within the animals tested supporting the
+claim that ocular dominance columns when present distort the mapping of
+orientation in V1. In V2 we found that orientation columns were larger and as in 
+other primates were represented in discrete bands throughout V2. Orientation
+columns were spaced on average around 1 mm apart. This suggests that, at least in
+the marmoset, the visual system maps orientation at a different scale within V1
+and V2.
+
+DOI: 10.1016/j.neuroimage.2005.12.054 
+PMID: 16487727  [Indexed for MEDLINE]
+

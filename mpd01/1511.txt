@@ -1,0 +1,78 @@
+
+
+1511. Biogerontology. 2013 Oct;14(5):557-67. doi: 10.1007/s10522-013-9464-1. Epub 2013 
+Sep 22.
+
+Hair trace elementary profiles in aging rodents and primates: links to altered
+cell homeodynamics and disease.
+
+Ambeskovic M(1), Fuchs E, Beaumier P, Gerken M, Metz GA.
+
+Author information: 
+(1)Canadian Centre for Behavioural Neuroscience, University of Lethbridge, 4401
+University Drive, Lethbridge, AB, T1K 3M4, Canada, mirela.ambeskovic@uleth.ca.
+
+Aging is associated with an increased incidence of pathological conditions such
+as neurodegeneration, cardiovascular and renal disease, and cancer. These
+conditions are believed to be linked to a disruption in cell homeodynamics, which
+is regulated by essential trace elements. In this study we used hair elementary
+analysis by inductively coupled plasma mass spectrometry (ICPMS) to examine
+age-related profiles of 47 elements in both rats and common marmoset monkeys.
+Hair was collected from young adult (6 months) and aged (18 months) Long-Evans
+male rats, and young adult (2 years), middle-aged (4 years) and aged (>8 years)
+marmosets. The results revealed that aging reduces content levels of cobalt,
+potassium and selenium while content levels of aluminium, arsenic, boron,
+mercury, molybdenum, and titanium were elevated in aged rats. Similarly, aged
+marmosets showed reduced levels of cobalt and elevated levels of aluminium. Case 
+studies in aged rats revealed that myocardial infarction was associated with
+elevated levels of sodium, potassium and cadmium and reduced zinc, while renal
+failure was linked to elevated content of potassium, chloride and boron and
+reduced contents of manganese. Carcinoma was linked to elevated arsenic and
+reduced selenium levels. These findings indicate that hair elementary profiles in
+healthy aging and age-related diseases reflect altered cell and organ metabolic
+functions. Cobalt and aluminium in particular may serve as biomarkers of aging in
+animal models. Thus, elementary deposition in hair may have predictive and
+diagnostic value in age-related pathological conditions, including cardiovascular
+and kidney disease and cancer.
+
+DOI: 10.1007/s10522-013-9464-1 
+PMID: 24057279  [Indexed for MEDLINE]
+
+
+1512. J Neurosci. 2013 Sep 18;33(38):15120-5. doi: 10.1523/JNEUROSCI.2909-13.2013.
+
+A conserved pattern of differential expansion of cortical areas in simian
+primates.
+
+Chaplin TA(1), Yu HH, Soares JG, Gattass R, Rosa MG.
+
+Author information: 
+(1)Department of Physiology and Monash Vision Group, Monash University, Clayton, 
+Victoria, 3800, Australia, and Programa de Neurobiologia, Universidade Federal do
+Rio de Janeiro, Instituto de Biofísica Carlos Chagas Filho, Rio de Janeiro, Rio
+de Janeiro 21941-900, Brazil.
+
+The layout of areas in the cerebral cortex of different primates is quite
+similar, despite significant variations in brain size. However, it is clear that 
+larger brains are not simply scaled up versions of smaller brains: some regions
+of the cortex are disproportionately large in larger species. It is currently
+debated whether these expanded areas arise through natural selection pressures
+for increased cognitive capacity or as a result of the application of a common
+developmental sequence on different scales. Here, we used computational methods
+to map and quantify the expansion of the cortex in simian primates of different
+sizes to investigate whether there is any common pattern of cortical expansion.
+Surface models of the marmoset, capuchin, and macaque monkey cortex were
+registered using the software package CARET and the spherical landmark vector
+difference algorithm. The registration was constrained by the location of
+identified homologous cortical areas. When comparing marmosets with both
+capuchins and macaques, we found a high degree of expansion in the temporal
+parietal junction, the ventrolateral prefrontal cortex, and the dorsal anterior
+cingulate cortex, all of which are high-level association areas typically
+involved in complex cognitive and behavioral functions. These expanded maps
+correlated well with previously published macaque to human registrations,
+suggesting that there is a general pattern of primate cortical scaling.
+
+DOI: 10.1523/JNEUROSCI.2909-13.2013 
+PMCID: PMC6618405
+PMID: 24048842  [Indexed for MEDLINE]
+

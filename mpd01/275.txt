@@ -1,0 +1,120 @@
+
+
+275. Signal Transduct Target Ther. 2020 Oct 19;5(1):157. doi:
+10.1038/s41392-020-00269-6.
+
+Comparison of nonhuman primates identified the suitable model for COVID-19.
+
+Lu S(#)(1)(2), Zhao Y(#)(1), Yu W(#)(1), Yang Y(#)(1), Gao J(#)(1), Wang J(1),
+Kuang D(1), Yang M(1), Yang J(1), Ma C(1), Xu J(1), Qian X(1), Li H(1), Zhao
+S(1), Li J(1), Wang H(1), Long H(1), Zhou J(1), Luo F(1), Ding K(1), Wu D(1),
+Zhang Y(1), Dong Y(1), Liu Y(2), Zheng Y(1), Lin X(1), Jiao L(1), Zheng H(3), Dai
+Q(1), Sun Q(1), Hu Y(1), Ke C(4), Liu H(5), Peng X(6)(7).
+
+Author information: 
+(1)National Kunming High-level Biosafety Primate Research Center, Institute of
+Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical
+College, Yunnan, China.
+(2)State Key Laboratory of Medical Molecular Biology, Department of Molecular
+Biology and Biochemistry, Institute of Basic Medical Sciences, Medical Primate
+Research Center, Neuroscience Center, Chinese Academy of Medical Sciences, School
+of Basic Medicine, Peking Union Medical College, Beijing, China.
+(3)Medical Key Laboratory for Repository and Application of Pathogenic
+Microbiology, Guangdong Provincial Center for Disease Control and Prevention,
+Guangzhou, China.
+(4)Medical Key Laboratory for Repository and Application of Pathogenic
+Microbiology, Guangdong Provincial Center for Disease Control and Prevention,
+Guangzhou, China. kecw1965@aliyun.com.
+(5)National Kunming High-level Biosafety Primate Research Center, Institute of
+Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical
+College, Yunnan, China. lhq@Imbcams.com.cn.
+(6)National Kunming High-level Biosafety Primate Research Center, Institute of
+Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical
+College, Yunnan, China. pengxiaozhong@pumc.edu.cn.
+(7)State Key Laboratory of Medical Molecular Biology, Department of Molecular
+Biology and Biochemistry, Institute of Basic Medical Sciences, Medical Primate
+Research Center, Neuroscience Center, Chinese Academy of Medical Sciences, School
+of Basic Medicine, Peking Union Medical College, Beijing, China.
+pengxiaozhong@pumc.edu.cn.
+(#)Contributed equally
+
+Identification of a suitable nonhuman primate (NHP) model of COVID-19 remains
+challenging. Here, we characterized severe acute respiratory syndrome coronavirus
+2 (SARS-CoV-2) infection in three NHP species: Old World monkeys Macaca mulatta
+(M. mulatta) and Macaca fascicularis (M. fascicularis) and New World monkey
+Callithrix jacchus (C. jacchus). Infected M. mulatta and M. fascicularis showed
+abnormal chest radiographs, an increased body temperature and a decreased body
+weight. Viral genomes were detected in swab and blood samples from all animals.
+Viral load was detected in the pulmonary tissues of M. mulatta and M.
+fascicularis but not C. jacchus. Furthermore, among the three animal species, M. 
+mulatta showed the strongest response to SARS-CoV-2, including increased
+inflammatory cytokine expression and pathological changes in the pulmonary
+tissues. Collectively, these data revealed the different susceptibilities of Old 
+World and New World monkeys to SARS-CoV-2 and identified M. mulatta as the most
+suitable for modeling COVID-19.
+
+DOI: 10.1038/s41392-020-00269-6 
+PMCID: PMC7434851
+PMID: 32814760  [Indexed for MEDLINE]
+
+
+276. Nat Neurosci. 2020 Dec;23(12):1629-1636. doi: 10.1038/s41593-020-0692-9. Epub
+2020 Aug 17.
+
+Viral manipulation of functionally distinct interneurons in mice, non-human
+primates and humans.
+
+Vormstein-Schneider D(#)(1), Lin JD(#)(1), Pelkey KA(2), Chittajallu R(2), Guo
+B(1), Arias-Garcia MA(1), Allaway K(1)(3)(4), Sakopoulos S(1), Schneider G(1),
+Stevenson O(1), Vergara J(1), Sharma J(5), Zhang Q(5), Franken TP(6), Smith J(6),
+Ibrahim LA(1)(3), M Astro KJ(1)(3), Sabri E(7), Huang S(1)(3), Favuzzi E(1)(3),
+Burbridge T(1)(3), Xu Q(8), Guo L(8), Vogel I(1), Sanchez V(1), Saldi GA(1)(3),
+Gorissen BL(1), Yuan X(2), Zaghloul KA(9), Devinsky O(10), Sabatini BL(1)(3),
+Batista-Brito R(7), Reynolds J(6), Feng G(1)(5), Fu Z(1), McBain CJ(2), Fishell
+G(1)(3), Dimidschstein J(11).
+
+Author information: 
+(1)Stanley Center for Psychiatric Research, Broad Institute of Harvard and MIT,
+Cambridge, MA, USA.
+(2)National Institute of Child Health and Human Development, National Institutes 
+of Health, Bethesda, MD, USA.
+(3)Department of Neurobiology, Harvard Medical School, Boston, MA, USA.
+(4)NYU Langone Medical Center, New York University, New York, NY, USA.
+(5)McGovern Institute for Brain Research, Massachusetts Institute of Technology, 
+Cambridge, MA, USA.
+(6)Systems Neurobiology Laboratories, The Salk Institute for Biological Studies, 
+La Jolla, CA, USA.
+(7)Department of Neuroscience, Albert Einstein College of Medicine, Bronx, NY,
+USA.
+(8)Center for Genomics & Systems Biology, New York University, Abu Dhabi, UAE.
+(9)National Institute of Neurological Disorders and Stroke, National Institutes
+of Health, Bethesda, MD, USA.
+(10)Comprehensive Epilepsy Center, New York University School of Medicine, New
+York, NY, USA.
+(11)Stanley Center for Psychiatric Research, Broad Institute of Harvard and MIT, 
+Cambridge, MA, USA. jordane@broadinstitute.org.
+(#)Contributed equally
+
+Comment in
+    Epilepsy Curr. 2021 Jan 7;:1535759720985841.
+
+Recent success in identifying gene-regulatory elements in the context of
+recombinant adeno-associated virus vectors has enabled cell-type-restricted gene 
+expression. However, within the cerebral cortex these tools are largely limited
+to broad classes of neurons. To overcome this limitation, we developed a strategy
+that led to the identification of multiple new enhancers to target functionally
+distinct neuronal subtypes. By investigating the regulatory landscape of the
+disease gene Scn1a, we discovered enhancers selective for parvalbumin (PV) and
+vasoactive intestinal peptide-expressing interneurons. Demonstrating the
+functional utility of these elements, we show that the PV-specific enhancer
+allowed for the selective targeting and manipulation of these neurons across
+vertebrate species, including humans. Finally, we demonstrate that our selection 
+method is generalizable and characterizes additional PV-specific enhancers with
+exquisite specificity within distinct brain regions. Altogether, these viral
+tools can be used for cell-type-specific circuit manipulation and hold
+considerable promise for use in therapeutic interventions.
+
+DOI: 10.1038/s41593-020-0692-9 
+PMCID: PMC8015416
+PMID: 32807948  [Indexed for MEDLINE]
+

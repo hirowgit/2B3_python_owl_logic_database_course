@@ -1,0 +1,31 @@
+
+
+3592. Arch Virol. 1998;143(2):213-25.
+
+The hemagglutinin of recent measles virus isolates induces cell fusion in a
+marmoset cell line, but not in other CD46-positive human and monkey cell lines,
+when expressed together with the F protein.
+
+Tanaka K(1), Xie M, Yanagi Y.
+
+Author information: 
+(1)Department of Virology, Faculty of Medicine, Kyushu University, Fukuoka,
+Japan.
+
+Measles virus (MV) is efficiently isolated from patients with measles by using
+B95a cells, a marmoset B cell line. Recent wild-type MV strains isolated using
+B95a cells did not produce cytopathic effects in any of CD46+ primate cell lines 
+examined (except B95a cells), nor did they induce downregulation of CD46.
+Transfection of the hemagglutinin (H) and fusion (F) genes of the Edmonston
+strain of MV produced syncytia in HeLa, Cos and B95a cells. By contrast, the
+expression of the H gene from the two wild-type strains, together with the F gene
+of the Edmonston strain, resulted in syncytium production in B95a cells, but not 
+in HeLa and Cos cells. Cocultivation of Cos cells expressing the wild-type H
+protein and the Edmonston strain F protein with B95a cells, but not with HeLa,
+Jurkat or BJAB cells, generated large syncytia. The results suggest that these
+recent MV isolates may use a molecule other than CD46 as the cellular receptor or
+require another coreceptor to infect cells.
+
+DOI: 10.1007/s007050050281 
+PMID: 9541608  [Indexed for MEDLINE]
+

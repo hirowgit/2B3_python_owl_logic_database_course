@@ -1,0 +1,42 @@
+
+
+2279. J Virol. 2008 Jul;82(14):7167-79. doi: 10.1128/JVI.02664-07. Epub 2008 May 14.
+
+Characterization of the New World monkey homologues of human poliovirus receptor 
+CD155.
+
+Khan S(1), Peng X, Yin J, Zhang P, Wimmer E.
+
+Author information: 
+(1)Department of Molecular Genetics and Microbiology, Stony Brook University,
+Stony Brook, NY 11794-5222, USA.
+
+In contrast to Old World monkeys, most New World monkeys (NWMs) are not
+susceptible to poliovirus (PV), regardless of the route of infection. We have
+investigated the molecular basis of restricted PV pathogenesis of NWMs with two
+kidney cell lines of NWMs, TMX (tamarin) and NZP-60 (marmoset), and characterized
+their PV receptor homologues. TMX cells were susceptible to infection by PV1
+(Mahoney) and PV3 (Leon) but not by PV2 (Lansing). Binding studies to TMX cells
+indicated that the formation of PV/receptor complexes increased when measured
+first at 4 degrees C and then at 25 degrees C, whereas PV2 did not significantly 
+bind to TMX cells at either temperature. On the other hand, NZP-60 cells were not
+susceptible to infection by any of the PV serotypes. However, a low amount of PV1
+bound to NZP-60 cells at 4 degrees C, but there was no increase of binding at 25 
+degrees C. In contrast, both NWM cell lines supported genome replication and
+virion formation when transfected with viral RNAs of either serotype, an
+observation indicating that infection was blocked in receptor-virus interaction. 
+To overcome the receptor block, we substituted 3 amino acids in the marmoset
+receptor (nCD155), H80Q, N85S, and P87S, found in the human PV receptor, hCD155. 
+Cells expressing the mutant receptor (L-nCD155mt) were now susceptible to
+infection with PV1, which correlated with an increase in PV1-bound receptor
+complexes from 4 degrees C to 25 degrees C. L-nCD155mt cells were, however, still
+resistant to PV2 and PV3. These data show that an increase in the formation of
+PV/receptor complexes, when measured at 4 degrees C and at 25 degrees C,
+correlates with and is an indicator of successful infection at 37 degrees C,
+suggesting that the complex formed at 25 degrees C may be an intermediate in PV
+uptake.
+
+DOI: 10.1128/JVI.02664-07 
+PMCID: PMC2446954
+PMID: 18480448  [Indexed for MEDLINE]
+

@@ -1,0 +1,55 @@
+
+
+576. J Neurosci. 2019 Mar 6;39(10):1855-1866. doi: 10.1523/JNEUROSCI.2703-18.2019.
+Epub 2019 Jan 16.
+
+Alpha Oscillations Modulate Preparatory Activity in Marmoset Area 8Ad.
+
+Johnston K(1), Ma L(1), Schaeffer L(2), Everling S(3)(2).
+
+Author information: 
+(1)Department of Physiology and Pharmacology, The University of Western Ontario, 
+London, Ontario N6A 3K7, Canada, and.
+(2)Robarts Research Institute, The University of Western Ontario, London, Ontario
+N6A 5B7, Canada.
+(3)Department of Physiology and Pharmacology, The University of Western Ontario, 
+London, Ontario N6A 3K7, Canada, and severlin@uwo.ca.
+
+Cognitive control often requires suppression of prepotent stimulus-driven
+responses in favor of less potent alternatives. Suppression of prepotent saccades
+has been shown to require proactive inhibition in the frontoparietal saccade
+network. Electrophysiological evidence in macaque monkeys has revealed neural
+correlates of such inhibition in this network; however, the interlaminar
+instantiation of inhibitory processes remains poorly understood because these
+areas lie deep within sulci in macaques, rendering them inaccessible to laminar
+recordings. Here, we addressed this gap by exploiting the mostly lissencephalic
+cortex of the common marmoset (Callithrix jacchus). We inserted linear electrode 
+arrays into areas 8Ad-the putative marmoset frontal eye field-and the lateral
+intraparietal area of two male marmosets and recorded neural activity during
+performance of a task comprised of alternating blocks of trials requiring a
+saccade either toward a large, high-luminance stimulus or the inhibition of this 
+prepotent response in favor of a saccade toward a small, low-luminance stimulus. 
+We observed prominent task-dependent activity in both alpha/gamma bands of the
+LFP and discharge rates of single neurons in area 8Ad during a prestimulus task
+epoch in which the animals had been instructed which of these two tasks to
+perform but before peripheral stimulus onset. These data are consistent with a
+model in which rhythmic alpha-band activity in deeper layers inhibits spiking in 
+upper layers to support proactive inhibitory saccade control.SIGNIFICANCE
+STATEMENT Failures to inhibit automatic saccadic responses are a hallmark of many
+neuropsychiatric disorders, but how this process is implemented across the
+cortical layers in the frontoparietal saccade network remains unknown because
+many of the areas are inaccessible to laminar recordings in macaques. Here, we
+investigated laminar neural activity in marmoset monkeys, which have a smooth
+cortex. Monkeys were required either to generate or inhibit a prepotent saccade
+response. In area 8Ad, the putative frontal eye field in marmosets, rhythmic
+alpha-band activity (9-14 Hz) was higher in deeper layers and spiking activity
+was lower in upper layers when the animals were instructed to suppress a saccade 
+toward a peripheral stimulus. Reduced alpha power during task preparation may be 
+the underlying common neural basis of a saccade suppression deficit.
+
+Copyright © 2019 the authors 0270-6474/19/391855-12$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.2703-18.2019 
+PMCID: PMC6407288
+PMID: 30651331  [Indexed for MEDLINE]
+

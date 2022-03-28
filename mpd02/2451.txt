@@ -1,0 +1,36 @@
+
+
+2451. Xenobiotica. 2006 Dec;36(12):1210-26.
+
+Marmoset CYP3A21, a model for human CYP3A4: protein expression and functional
+characterization of the promoter.
+
+Koehler SC(1), Von Ahsen N, Schlumbohm C, Asif AR, Goedtel-Armbrust U, Oellerich 
+M, Wojnowski L, Armstrong VW.
+
+Author information: 
+(1)Klinische Chemie, Uni-Klinikum Göttingen, Robert-Koch-Strasse 40, 37075
+Göttingen, Germany. koehler@med.uni-goettingen.de
+
+Due to its small size and the relative evolutionary proximity, the marmoset has
+been proposed as a model for studies of human drug interactions and metabolism.
+The current study investigated the expression and regulation of marmoset CYP3A
+using mass spectrometry and reporter gene techniques. Expression levels of
+hepatic marmoset CYP3A protein range from 51 to 123 pmol mg-1 total protein (mean
+85.2 pmol mg-1, n = 10) and CYP3A21 is the dominant hepatic CYP3A protein in
+marmosets. The sequence similarity between human CYP3A4 and CYP3A21 across the
+first 7.5 kb of the cloned CYP3A21 promoter is 88% within the
+xenobiotic-responsive enhancer module (XREM) and the proximal promoter. Both
+regulatory modules confer transcriptional activation of CYP3A21-luciferase
+reporter gene constructs cotransfected with hPXR in intestinal LS174T cells. The 
+pronounced response to rifampin and the moderate response to dexamethasone were
+similar to those observed with CYP3A4. Taken collectively, these data establish
+substantial similarities in expression and gene regulation between marmoset
+CYP3A21 and human CYP3A4. CYP3A21 may be an equivalent of CYP3A4 in New World
+monkeys, consistent with the phylogenetic relationship between these genes. The
+marmoset, therefore, appears to be a suitable in vivo model to study CYP3A4
+function and regulation.
+
+DOI: 10.1080/00498250600962831 
+PMID: 17162468  [Indexed for MEDLINE]
+

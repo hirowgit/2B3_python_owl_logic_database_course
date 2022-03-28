@@ -1,0 +1,47 @@
+
+
+3836. Antimicrob Agents Chemother. 1996 Jan;40(1):110-4.
+
+Preclinical pharmacokinetics and distribution to tissue of AG1343, an inhibitor
+of human immunodeficiency virus type 1 protease.
+
+Shetty BV(1), Kosa MB, Khalil DA, Webber S.
+
+Author information: 
+(1)Department of Pharmacology, Agouron Pharmaceuticals, Inc., San Diego,
+California 92121, USA. shetty@agouron.com
+
+AG1343, a potent inhibitor of human immunodeficiency virus type 1 (HIV-1)
+protease (Ki = 2 nM), was designed by protein structure-based drug design
+techniques. AG1343 has potent antiviral activity (95% effective dose = 0.04
+microgram/ml) against a number of HIV-1 strains in acute and chronic models of
+infection. As part of its preclinical development, the oral bioavailability of
+AG1343 in rats, dogs, monkeys, and marmosets was determined and its tissue
+distribution in rats was evaluated. There were no major interspecies differences 
+in AG1343 pharmacokinetics. Following intravenous administration, the elimination
+half-life of AG1343 ranged from 1 to 1.4 hr. The total volume of distribution (2 
+to 7 liters/kg) exceeded the volume of total body water, indicating extensive
+tissue distribution. Systemic clearance of AG1343 (1 to 4 liters/kg) in the
+different species corresponded to hepatic blood flow, suggesting possible hepatic
+involvement in the elimination of AG1343. Following oral administration, peak
+levels in plasma ranged from 0.34 microgram/ml after treatment with 10 mg/kg of
+body weight in the dog to 1.7 micrograms/ml after dosing with 50 mg/kg in the
+rat. Because of the slow absorption of AG1343, plasma concentrations of AG1343
+exceeding that required for 95% inhibition of HIV-1 replication were maintained
+for up to 7 h after a single oral dose in all species evaluated. Average oral
+bioavailability of AG1343 ranged from 17% in the marmoset to 47% in the dog.
+Studies of distribution to tissue in the rat after oral administration of
+14C-AG1343 established extensive distribution with concentrations in most tissues
+exceeding that found in plasma. Of particular significance were high levels of
+AG1343 equivalent in mesenteric lymph nodes (32.05 micrograms/g) and spleen
+tissue (9.33 micrograms/g). The major excretory route for AG1343 was via feces,
+with 100% of the dose recovered by 48 h. Results from these studies demonstrate
+that AG1343 is orally bioavailable and that levels in plasma in the therapeutic
+range are achievable and are maintained for prolonged periods in the animal
+models tested. On the basis of these and other findings, AG1343 was developed for
+further testing in human subjects.
+
+DOI: 10.1128/AAC.40.1.110 
+PMCID: PMC163067
+PMID: 8787890  [Indexed for MEDLINE]
+

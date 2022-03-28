@@ -1,0 +1,91 @@
+
+
+150. Aging (Albany NY). 2021 Apr 27;13(9):12587-12606. doi: 10.18632/aging.202936.
+Epub 2021 Apr 27.
+
+Neural presbycusis at ultra-high frequency in aged common marmosets and rhesus
+monkeys.
+
+Sun Z(1)(2)(3), Cheng Z(1)(2)(3), Gong N(4)(5), Xu Z(4)(5), Jin C(1)(2)(3), Wu
+H(1)(2)(3), Tao Y(1)(2)(3).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Shanghai Ninth People's
+Hospital, Shanghai Jiaotong University School of Medicine, Shanghai 200011, P.R. 
+China.
+(2)Ear Institute, Shanghai Jiaotong University School of Medicine, Shanghai
+200011, P.R. China.
+(3)Shanghai Key Laboratory of Translation Medicine on Ear and Nose Disease,
+Shanghai 200011, P.R. China.
+(4)Institute of Neuroscience, Key Laboratory of Primate Neurobiology, CAS Center 
+for Excellence in Brain Science and Intelligence Technology, Chinese Academy of
+Sciences, Shanghai 200031, P.R. China.
+(5)University of Chinese Academy of Sciences, Beijing 100049, P.R. China.
+
+The aging of the population and environmental noise have contributed to high
+rates of presbycusis, also known as age-related hearing loss (ARHL). Because mice
+have a relatively short life span, murine models have not been suitable for
+determining the mechanism of presbycusis development and methods of diagnosis.
+Although the common marmoset, a non-human primate (NHP), is an ideal animal model
+for studying age-related diseases, its auditory spectrum has not been
+systematically studied. Auditory brainstem responses (ABRs) from 38 marmosets of 
+different ages demonstrated that auditory function correlated with age. Hearing
+loss in geriatric common marmosets started at ultra-high frequency (>16 kHz),
+then extended to lower frequencies. Despite age-related deterioration of ABR
+threshold and amplitude in marmosets, outer hair cell (OHC) function remained
+stable at all ages. Spiral ganglion neurons (SGNs), which are the first auditory 
+neurons in the auditory system, were found to degenerate distinctly in aged
+common marmosets, indicating that neural degeneration caused presbycusis in these
+animals. Similarly, age-associated ABR deterioration without loss of OHC function
+was observed in another NHP, rhesus monkeys. Audiometry results from these two
+species of NHP suggested that NHPs were ideal for studying ARHL and that neural
+presbycusis at high frequency may be prevalent in primates.
+
+DOI: 10.18632/aging.202936 
+PMCID: PMC8148503
+PMID: 33909598  [Indexed for MEDLINE]
+
+
+151. Proc Natl Acad Sci U S A. 2021 May 4;118(18). pii: e2020125118. doi:
+10.1073/pnas.2020125118.
+
+Cellular-resolution gene expression profiling in the neonatal marmoset brain
+reveals dynamic species- and region-specific differences.
+
+Kita Y(1), Nishibe H(1), Wang Y(1), Hashikawa T(1), Kikuchi SS(1), U M(1),
+Yoshida AC(1), Yoshida C(1), Kawase T(2), Ishii S(2), Skibbe H(3), Shimogori
+T(4).
+
+Author information: 
+(1)Laboratory for Molecular Mechanisms of Brain Development, Center for Brain
+Science, RIKEN, Saitama 351-0198, Japan.
+(2)Integrated Systems Biology Laboratory, Department of Systems Science, Graduate
+School of Informatics, Kyoto University, Kyoto 606-8501, Japan.
+(3)Brain Image Analysis Unit, Center for Brain Science, RIKEN, Saitama 351-0198, 
+Japan.
+(4)Laboratory for Molecular Mechanisms of Brain Development, Center for Brain
+Science, RIKEN, Saitama 351-0198, Japan; tomomi.shimogori@riken.jp.
+
+Precise spatiotemporal control of gene expression in the developing brain is
+critical for neural circuit formation, and comprehensive expression mapping in
+the developing primate brain is crucial to understand brain function in health
+and disease. Here, we developed an unbiased, automated, large-scale,
+cellular-resolution in situ hybridization (ISH)-based gene expression profiling
+system (GePS) and companion analysis to reveal gene expression patterns in the
+neonatal New World marmoset cortex, thalamus, and striatum that are distinct from
+those in mice. Gene-ontology analysis of marmoset-specific genes revealed
+associations with catalytic activity in the visual cortex and neuropsychiatric
+disorders in the thalamus. Cortically expressed genes with clear area boundaries 
+were used in a three-dimensional cortical surface mapping algorithm to delineate 
+higher-order cortical areas not evident in two-dimensional ISH data. GePS
+provides a powerful platform to elucidate the molecular mechanisms underlying
+primate neurobiology and developmental psychiatric and neurological disorders.
+
+Copyright © 2021 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.2020125118 
+PMCID: PMC8106353
+PMID: 33903237  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.
+

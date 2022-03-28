@@ -1,0 +1,52 @@
+
+
+4171. Eur J Pharmacol. 1992 Dec 15;229(2-3):203-9.
+
+A-77636: a potent and selective dopamine D1 receptor agonist with
+antiparkinsonian activity in marmosets.
+
+Kebabian JW(1), Britton DR, DeNinno MP, Perner R, Smith L, Jenner P, Schoenleber 
+R, Williams M.
+
+Author information: 
+(1)Pharmaceutical Products Division, Abbott Laboratories, Abbott Park, IL 60064.
+
+A-77636, ((1R,3S)
+3-(1'-adamantyl)-1-aminomethyl-3,4-dihydro-5,6-dihydroxy-1H-2-benz opyran
+hydrochloride), is a selective dopamine D1 receptor agonist. In a battery of
+receptor binding assays, A-77636 shows the highest affinity (pKi = 7.40 +/- 0.09;
+Ki = 39.8 nM) for the dopamine D1 receptor. A-77636 is an agonist at the dopamine
+D1 receptors in the fish retina (pEC50 = 8.13; EC50 = 1.1 nM; intrinsic activity 
+= 102% of dopamine) and the rat caudate-putamen (pEC50 = 8.97; intrinsic activity
+= 134% of dopamine). The compound is functionally inactive at dopamine D2
+receptors (EC50 > 10 microM). In rats with unilateral 6-OHDA (6-hydroxydopamine) 
+lesions of the nigro-striatal dopaminergic pathway, A-77636 elicits prolonged (> 
+20 h) contralateral turning that is blocked by SCH 23390, a D1 receptor
+antagonist, but not by haloperidol at doses selective for the dopamine D2
+receptor. Higher doses of A-77636 produce forelimb clonus in rats and mice. When 
+tested in marmosets treated with MPTP to induce a parkinsonian-like state,
+A-77636 increases locomotor activity and decreases the severity of the
+parkinsonian-like symptoms: the compound is active after either subcutaneous or
+oral administration. A-77641, the optical antipode of A-77636, has a lower
+affinity towards the dopamine D1 receptor (pKi = 5.14, Ki = 7200 nM), is less
+potent as a dopamine D1 receptor agonist (pEC50 = 5.65; EC50 = 2200 nM), fails to
+elicit turning in the 6-OHDA-lesioned rat, and lacks antiparkinsonian efficacy in
+the MPTP-treated marmoset.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+DOI: 10.1016/0014-2999(92)90556-j 
+PMID: 1362704  [Indexed for MEDLINE]
+
+
+4172. Thromb Res. 1992 Dec 15;68(6):501-4.
+
+Factor VIII and tissue plasminogen activator in monkeys after administration of
+DDAVP analogues.
+
+Vilhardt H(1), Barth T.
+
+Author information: 
+(1)Department of Medical Physiology, University of Copenhagen, Denmark.
+
+DOI: 10.1016/0049-3848(92)90064-h 
+PMID: 1341062  [Indexed for MEDLINE]
+

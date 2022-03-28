@@ -1,0 +1,97 @@
+
+
+487. Int J Syst Evol Microbiol. 2019 Aug;69(8):2477-2485. doi: 10.1099/ijsem.0.003518.
+Epub 2019 Jun 10.
+
+Bifidobacterium jacchi sp. nov., isolated from the faeces of a baby common
+marmoset (Callithrix jacchus).
+
+Modesto M(1), Watanabe K(2)(3), Arita M(4)(5), Satti M(4), Oki K(6), Sciavilla
+P(1), Patavino C(7), Cammà C(7), Michelini S(1)(8), Sgorbati B(1)(9), Mattarelli 
+P(1).
+
+Author information: 
+(1)Department of Agricultural and Food Sciences, University of Bologna, Italy.
+(2)Department of Animal Science and Technology, National Taiwan University,
+Taipei, Taiwan, ROC.
+(3)Bioresource Collection and Research Center, Food Industry Research and
+Development Institute, Hsinchu, Taiwan, ROC.
+(4)Department of Genetics, SOKENDAI University (National Institute of Genetics), 
+Yata 1111, Mishima, Shizuoka 411-8540, Japan.
+(5)RIKEN Center for Sustainable Resource Science, 1-7-22 Suehiro, Tsurumi,
+Yokohama, Kanagawa 230-0045, Japan.
+(6)Yakult Honsha European Research Center for Microbiology ESV, Technologiepark
+94, 9052 Zwijnaarde, Belgium.
+(7)National Reference Center for Whole Genome Sequencing of microbial pathogens: 
+database and bioinformatic analysis, Istituto Zooprofilattico Sperimentale
+dell'Abruzzo e del Molise, Campo Boario, 64100, Teramo, Italy.
+(8)The Microsoft Research - University of Trento Centre for Computational and
+Systems Biology Piazza della Manifattura 1, 38068 Rovereto (TN), Italy.
+(9)School of Pharmacy, Biotechnology and Sport Science, 40100 Bologna, Italy.
+
+A novel Bifidobacterium strain, MRM 9.3T, was isolated from a faecal sample of a 
+baby common marmoset (Callithrixjacchus). Cells were Gram-stain-positive,
+non-motile, non-sporulating, non-haemolytic, facultatively anaerobic and fructose
+6-phosphate phosphoketolase-positive. Phylogenetic analyses based on 16S rRNA
+genes as well as multilocus sequences (representing hsp60, rpoB, clpC, dnaJ and
+dnaG genes) and the core genomes revealed that strain MRM 9.3T exhibited
+phylogenetic relatedness to Bifidobacterium myosotis DSM 100196T. Comparative
+analysis of 16S rRNA gene sequences confirmed the phylogenetic results showing
+the highest gene sequence identity with strain B.ifidobacterium myosotis DSM
+100196T (95.6 %). The average nucleotide identity, amino acid average identity
+and in silico DNA-DNA hybridization values between MRM 9.3T and DSM 100196T were 
+79.9, 72.1 and 28.5 %, respectively. Phenotypic and genotypic features clearly
+showed that the strain MRM 9.3T represents a novel species, for which the name
+Bifidobacterium jacchi sp. nov. is proposed. The type strain is MRM 9.3T (=DSM
+103362T =JCM 31788T).
+
+DOI: 10.1099/ijsem.0.003518 
+PMID: 31180316  [Indexed for MEDLINE]
+
+
+488. Biochem Biophys Res Commun. 2019 Aug 6;515(4):593-599. doi:
+10.1016/j.bbrc.2019.05.175. Epub 2019 Jun 6.
+
+Establishment of induced pluripotent stem cells from common marmoset fibroblasts 
+by RNA-based reprogramming.
+
+Nakajima M(1), Yoshimatsu S(2), Sato T(1), Nakamura M(1), Okahara J(3), Sasaki
+E(3), Shiozawa S(4), Okano H(5).
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan.
+(2)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan;
+Laboratory for Proteolytic Neuroscience, RIKEN Center for Brain Science, Saitama,
+Japan.
+(3)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan; Department of Marmoset Biology and Medicine, Central Institute
+for Experimental Animals, Kanagawa, Japan.
+(4)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan.
+Electronic address: shiozawa@a7.keio.jp.
+(5)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan;
+Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan. Electronic address: hidokano@a2.keio.jp.
+
+The common marmoset (marmoset; Callithrix jacchus) shows anatomical and
+physiological features that are in common with humans. Establishing induced
+pluripotent stem cells (iPSCs) from marmosets holds promise for enhancing the
+utility of the animal model for biomedical and preclinical studies. However, in
+spite of the presence of some previous reports on marmoset iPSCs, the
+reprogramming technology in marmosets is still under development. In particular, 
+the efficacy of RNA-based reprogramming has not been thoroughly investigated. In 
+this study, we attempted RNA-based reprogramming for deriving iPSCs from marmoset
+fibroblasts. Although we failed to derive iPSC colonies from marmoset fibroblasts
+by using a conventional RNA-based reprogramming method previously validated in
+human fibroblasts, we succeeded in deriving colony-forming cells with a modified 
+induction medium supplemented with a novel set of small molecules. Importantly,
+following one-week culture of the colony-forming cells in conventional embryonic 
+stem cell (ESC) medium, we obtained iPSCs which express endogenous pluripotent
+markers and show a differentiation potential into all three germ layers. Taken
+together, our results indicate that RNA-based reprogramming, which is valuable
+for deriving transgene-free iPSCs, is applicable to marmosets.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2019.05.175 
+PMID: 31178141  [Indexed for MEDLINE]
+

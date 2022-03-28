@@ -1,0 +1,25 @@
+
+
+3928. Biochem Biophys Res Commun. 1995 Feb 6;207(1):467-75.
+
+Polymorphic tandem repeats in dopamine D4 receptor are spread over primate
+species.
+
+Matsumoto M(1), Hidaka K, Tada S, Tasaki Y, Yamaguchi T.
+
+Author information: 
+(1)Neuroscience & Gastrointestinal Research Lab., Institute for Drug Discovery
+Research, Yamanouchi Pharmaceutical Co. Ltd., Ibaraki, Japan.
+
+The human dopamine D4 receptor has polymorphic tandem repeats in the third
+cytoplasmic loop. However, these repeats are not present in the rat counterpart. 
+To determine whether the tandem repeats are specific to humans or not, we
+analyzed genomic DNA sequences for the D4 receptor of six primate species (human,
+chimpanzee, gorilla, orangutan, macaque, marmoset). Sequencing data revealed that
+all primates have the 48-bp tandem repeats in the D4 receptor gene. This finding 
+suggests that these repeats originated before the separation of the New World
+monkey lineage from the Old World monkey and ape-human lineages.
+
+DOI: 10.1006/bbrc.1995.1211 
+PMID: 7857303  [Indexed for MEDLINE]
+

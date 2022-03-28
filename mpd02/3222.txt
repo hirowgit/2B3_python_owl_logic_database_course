@@ -1,0 +1,38 @@
+
+
+3222. J Neurophysiol. 2001 Jan;85(1):235-46.
+
+Influence of contrast on the responses of marmoset lateral geniculate cells to
+drifting gratings.
+
+Kremers J(1), Silveira LC, Kilavik BE.
+
+Author information: 
+(1)Department of Experimental Ophthalmology, University of Tübingen Eye Hospital,
+D-72076 Tubingen, Germany. jan.kremers@uni-tuebingen.de
+
+The responses of lateral geniculate nucleus (LGN) cells in the common marmoset
+(Callithrix jacchus) to drifting luminance or cone isolating gratings of
+different spatial frequencies and contrasts were measured. The response noise,
+defined as the variability of the responses to single sweeps in the complex
+plane, was independent of stimulus contrast and spatial frequency but increased
+with increasing overall responsiveness of the cell. The signal-to-noise ratio of 
+parvocellular (PC) cells was smaller than of magnocellular (MC) cells. At each
+contrast, the response amplitude as a function of spatial frequency could be
+described with a difference of Gaussians model. With this model, the sizes and
+the peak sensitivities of the receptive field centers and surrounds were
+estimated. It was found that receptive field center and surround sizes of LGN
+cells decrease slightly with increasing contrast. Further, the peak sensitivity
+decreases with increasing contrast. The two factors are involved in a decrease in
+responsivity (the response per unit contrast) with increasing contrast which is
+compatible to response saturation for low spatial frequency stimuli. PC cells did
+not saturate as much to luminance stimuli although some saturation was found with
+cone isolating gratings. We found that the response phase lag of both PC and MC
+cells decreased with increasing contrast, which cannot be explained on the basis 
+of linear response behavior. Apparently the phase of LGN cell responses to
+drifting gratings is altered in comparison with the retinal inputs by additional 
+nonlinearities.
+
+DOI: 10.1152/jn.2001.85.1.235 
+PMID: 11152723  [Indexed for MEDLINE]
+

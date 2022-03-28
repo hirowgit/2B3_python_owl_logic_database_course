@@ -1,0 +1,26 @@
+
+
+3020. Neuron. 2002 Sep 26;36(1):139-42.
+
+Predicting functional properties of visual cortex from an evolutionary scaling
+law.
+
+Stevens CF(1).
+
+Author information: 
+(1)Howard Hughes Medical Institute, Molecular Neurobiology Laboratory, The Salk
+Institute, La Jolla, CA 92037, USA. stevens@salk.edu
+
+The number of neurons in the primary visual cortex (V1) is, across primate
+species, related to the number of neurons in the visual thalamus (the lateral
+geniculate nucleus [LGN]) by a power law with an exponent of 3/2. This
+evolutionary scaling law is explained by a simple relation according to which the
+fineness of resolution in cortex is related to the number of neurons in the area 
+of cortex used to process the information from a single point of light (the
+point-spread area). The same theory provides a link between two functional
+properties of the visual cortex, the areal cortical magnification factor (ACMF)
+and the receptive field (RF) area.
+
+DOI: 10.1016/s0896-6273(02)00902-9 
+PMID: 12367512  [Indexed for MEDLINE]
+

@@ -1,0 +1,94 @@
+
+
+1134. PLoS One. 2015 Nov 18;10(11):e0142916. doi: 10.1371/journal.pone.0142916.
+eCollection 2015.
+
+Metabolic Characterization of the Common Marmoset (Callithrix jacchus).
+
+Go YM(1), Liang Y(1), Uppal K(1), Soltow QA(1), Promislow DE(2), Wachtman LM(3), 
+Jones DP(1).
+
+Author information: 
+(1)Division of Pulmonary, Allergy and Critical Care Medicine, Department of
+Medicine, Clinical Biomarkers Laboratory, Emory University, Atlanta, Georgia,
+30322, United States of America.
+(2)Department of Pathology and Department of Biology, University of Washington,
+Seattle, Washington, 98195, United States of America.
+(3)New England Primate Research Center, Harvard University, Southborough,
+Massachusetts, 01772, United States of America.
+
+Erratum in
+    PLoS One. 2016;11(1):e0147880.
+
+High-resolution metabolomics has created opportunity to integrate nutrition and
+metabolism into genetic studies to improve understanding of the diverse radiation
+of primate species. At present, however, there is very little information to help
+guide experimental design for study of wild populations. In a previous
+non-targeted metabolomics study of common marmosets (Callithrix jacchus), Rhesus 
+macaques, humans, and four non-primate mammalian species, we found that essential
+amino acids (AA) and other central metabolites had interspecies variation similar
+to intraspecies variation while non-essential AA, environmental chemicals and
+catabolic waste products had greater interspecies variation. The present study
+was designed to test whether 55 plasma metabolites, including both nutritionally 
+essential and non-essential metabolites and catabolic products, differ in
+concentration in common marmosets and humans. Significant differences were
+present for more than half of the metabolites analyzed and included AA, vitamins 
+and central lipid metabolites, as well as for catabolic products of AA,
+nucleotides, energy metabolism and heme. Three environmental chemicals were
+present at low nanomolar concentrations but did not differ between species. Sex
+and age differences in marmosets were present for AA and nucleotide metabolism
+and warrant additional study. Overall, the results suggest that quantitative,
+targeted metabolomics can provide a useful complement to non-targeted
+metabolomics for studies of diet and environment interactions in primate
+evolution.
+
+DOI: 10.1371/journal.pone.0142916 
+PMCID: PMC4651467
+PMID: 26581102  [Indexed for MEDLINE]
+
+
+1135. PLoS Negl Trop Dis. 2015 Nov 16;9(11):e0004198. doi:
+10.1371/journal.pntd.0004198. eCollection 2015 Nov.
+
+Validation of qPCR Methods for the Detection of Mycobacterium in New World Animal
+Reservoirs.
+
+Housman G(1), Malukiewicz J(1)(2), Boere V(2), Grativol AD(3), Pereira LC(4),
+Silva Ide O(5), Ruiz-Miranda CR(3), Truman R(6), Stone AC(1).
+
+Author information: 
+(1)School of Human Evolution and Social Change, Arizona State University, Tempe, 
+Arizona, United States of America.
+(2)Departamento de Bioquímica e Biologia Molecular, Universidade Federal de
+Viçosa, Viçosa, Minas Gerais, Brazil.
+(3)Laboratório de Ciências Ambientias, Centro de Biociências e Biotecnologia,
+Universidade Estadual do Norte Fluminense, Campos dos Goytacazes, Rio de Janeiro,
+Brazil.
+(4)Centro de Conservação e Manejo de Fauna da Caatinga, Universidade Federal do
+Vale do São Francisco, Petrolina, Pernambuco, Brazil.
+(5)Departamento de Biologia Animal, Universidade Federal de Viçosa, Viçosa, Minas
+Gerais, Brazil.
+(6)HHS\HRSA\HSB National Hansen's Disease Program-NIAID IAA-2646, Baton Rouge,
+Louisiana, United States of America.
+
+Erratum in
+    PLoS Negl Trop Dis. 2016 May;10(5):e0004756.
+
+Zoonotic pathogens that cause leprosy (Mycobacterium leprae) and tuberculosis
+(Mycobacterium tuberculosis complex, MTBC) continue to impact modern human
+populations. Therefore, methods able to survey mycobacterial infection in
+potential animal hosts are necessary for proper evaluation of human exposure
+threats. Here we tested for mycobacterial-specific single- and multi-copy loci
+using qPCR. In a trial study in which armadillos were artificially infected with 
+M. leprae, these techniques were specific and sensitive to pathogen detection,
+while more traditional ELISAs were only specific. These assays were then employed
+in a case study to detect M. leprae as well as MTBC in wild marmosets. All
+marmosets were negative for M. leprae DNA, but 14 were positive for the
+mycobacterial rpoB gene assay. Targeted capture and sequencing of rpoB and other 
+MTBC genes validated the presence of mycobacterial DNA in these samples and
+revealed that qPCR is useful for identifying mycobacterial-infected animal hosts.
+
+DOI: 10.1371/journal.pntd.0004198 
+PMCID: PMC4646627
+PMID: 26571269  [Indexed for MEDLINE]
+

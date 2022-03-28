@@ -1,0 +1,46 @@
+
+
+717. J Neural Eng. 2018 Jun;15(3):036019. doi: 10.1088/1741-2552/aab307. Epub 2018 Mar
+1.
+
+Accurate motor mapping in awake common marmosets using
+micro-electrocorticographical stimulation and stochastic threshold estimation.
+
+Kosugi A(1), Takemi M, Tia B, Castagnola E, Ansaldo A, Sato K, Awiszus F, Seki K,
+Ricci D, Fadiga L, Iriki A, Ushiba J.
+
+Author information: 
+(1)Graduate School of Science and Technology, Keio University, Kanagawa, Japan.
+Laboratory for Symbolic Cognitive Development, RIKEN Brain Science Institute,
+Saitama, Japan. Department of Neurophysiology, National Institute of
+Neuroscience, Tokyo, Japan.
+
+OBJECTIVE: Motor map has been widely used as an indicator of motor skills and
+learning, cortical injury, plasticity, and functional recovery. Cortical
+stimulation mapping using epidural electrodes is recently adopted for animal
+studies. However, several technical limitations still remain. Test-retest
+reliability of epidural cortical stimulation (ECS) mapping has not been examined 
+in detail. Many previous studies defined evoked movements and motor thresholds by
+visual inspection, and thus, lacked quantitative measurements. A reliable and
+quantitative motor map is important to elucidate the mechanisms of motor cortical
+reorganization. The objective of the current study was to perform reliable ECS
+mapping of motor representations based on the motor thresholds, which were
+stochastically estimated by motor evoked potentials and chronically implanted
+micro-electrocorticographical (µECoG) electrode arrays, in common marmosets.
+APPROACH: ECS was applied using the implanted µECoG electrode arrays in three
+adult common marmosets under awake conditions. Motor evoked potentials were
+recorded through electromyographical electrodes implanted in upper limb muscles. 
+The motor threshold was calculated through a modified maximum likelihood
+threshold-hunting algorithm fitted with the recorded data from marmosets.
+Further, a computer simulation confirmed reliability of the algorithm.
+MAIN RESULTS: Computer simulation suggested that the modified maximum likelihood 
+threshold-hunting algorithm enabled to estimate motor threshold with acceptable
+precision. In vivo ECS mapping showed high test-retest reliability with respect
+to the excitability and location of the cortical forelimb motor representations.
+SIGNIFICANCE: Using implanted µECoG electrode arrays and a modified motor
+threshold-hunting algorithm, we were able to achieve reliable motor mapping in
+common marmosets with the ECS system.
+
+DOI: 10.1088/1741-2552/aab307 
+PMID: 29491189  [Indexed for MEDLINE]
+

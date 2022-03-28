@@ -1,0 +1,59 @@
+
+
+89. Neuropharmacology. 2021 Oct 15;198:108755. doi: 10.1016/j.neuropharm.2021.108755.
+Epub 2021 Aug 17.
+
+Neuron-specific responses to acetylcholine within the spinal dorsal horn circuits
+of rodent and primate.
+
+Sykes MJ(1), Kekesi OS(1), Wong YT(2), Zhao FY(3), Spanswick D(4), Imlach WL(5).
+
+Author information: 
+(1)Department of Physiology, Monash University, Melbourne, VIC, 3800, Australia; 
+Monash Biomedicine Discovery Institute, Melbourne, VIC, 3800, Australia.
+(2)Department of Physiology, Monash University, Melbourne, VIC, 3800, Australia; 
+Monash Biomedicine Discovery Institute, Melbourne, VIC, 3800, Australia;
+Department of Electrical and Computer Systems Engineering, Melbourne, VIC, 3800, 
+Australia.
+(3)NeuroSolutions Ltd, Coventry, CV4 7AL, United Kingdom.
+(4)Department of Physiology, Monash University, Melbourne, VIC, 3800, Australia; 
+Monash Biomedicine Discovery Institute, Melbourne, VIC, 3800, Australia;
+University of Warwick, Warwick Medical School, Coventry, CV4 7AL, United Kingdom.
+(5)Department of Physiology, Monash University, Melbourne, VIC, 3800, Australia; 
+Monash Biomedicine Discovery Institute, Melbourne, VIC, 3800, Australia.
+Electronic address: wendy.imlach@monash.edu.
+
+Excitatory and inhibitory neurotransmission within the spinal dorsal horn is
+tightly controlled to regulate transmission of nociceptive signals to the brain. 
+One aspect of this control is modulation of neuronal activity through cholinergic
+signaling. Nociceptive neurons in the dorsal horn express both nicotinic and
+muscarinic cholinergic receptors and activation of these receptors reduces pain
+in humans, while inhibition leads to nociceptive hypersensitivity. At a cellular 
+level, acetylcholine (ACh) has diverse effects on excitability which is dependent
+on the receptor and neuronal subtypes involved. In the present study we sought to
+characterize the electrophysiological responses of specific subsets of lamina II 
+interneurons from rat and marmoset spinal cord. Neurons were grouped by
+morphology and by action potential firing properties. Whole-cell voltage-clamp
+recordings from lamina II dorsal horn neurons of adult rats showed that bath
+applied acetylcholine increased, decreased or had no effect on spontaneous
+synaptic current activity in a cell-type specific manner. ACh modulated
+inhibitory synaptic activity in 80% of neurons, whereas excitatory synaptic
+activity was affected in less than 50% of neurons. In whole-cell current clamp
+recordings, brief somatic application of ACh induced cell-type specific responses
+in 79% of rat lamina II neurons, which included: depolarization and action
+potential firing, subthreshold membrane depolarization, biphasic responses
+characterized by transient depolarization followed by hyperpolarization and
+membrane hyperpolarization alone. Similar responses were seen in marmoset lamina 
+II neurons and the properties of each neuron group were consistent across
+species. ACh-induced hyperpolarization was blocked by the muscarinic antagonist
+atropine and all forms of acetylcholine-induced depolarization were blocked by
+the nicotinic antagonist mecamylamine. The cholinergic system plays an important 
+role in regulating nociception and this study contributes to our understanding of
+how circuit activity is controlled by ACh at a cellular level in primate and
+rodent spinal cord.
+
+Copyright © 2021 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.neuropharm.2021.108755 
+PMID: 34416268  [Indexed for MEDLINE]
+

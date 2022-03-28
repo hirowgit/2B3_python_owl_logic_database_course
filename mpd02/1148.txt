@@ -1,0 +1,44 @@
+
+
+1148. Drug Metab Dispos. 2016 Jan;44(1):8-15. doi: 10.1124/dmd.115.067561. Epub 2015
+Oct 26.
+
+Molecular Cloning, Tissue Distribution, and Functional Characterization of
+Marmoset Cytochrome P450 1A1, 1A2, and 1B1.
+
+Uehara S, Uno Y, Inoue T, Sasaki E, Yamazaki H.
+
+Erratum in
+    Drug Metab Dispos. 2017 Aug;45(8):956.
+
+The common marmoset (Callithrix jacchus), a New World monkey, has potential to be
+an animal model for drug metabolism studies. In this study, we identified and
+characterized cytochrome P450 (P450) 1A1 and 1B1 in addition to the known P450
+1A2 in marmosets. Marmoset P450 1A1 and 1B1 cDNA contained open reading frames
+encoding 512 and 543 amino acids, respectively, with high sequence identities
+(90%-93%) to other primate P450 1A1s and 1B1s. A phylogenetic tree based on amino
+acid sequences showed close evolutionary relationships among marmoset, macaque,
+and human P450 1A and 1B enzymes. By mRNA quantification and immunoblot analyses 
+in five marmoset tissues, P450 1A1 was mainly expressed in lungs and small
+intestines, and P450 1A2 was expressed predominantly in livers. In contrast, P450
+1B1 was expressed in all tissues tested. Marmoset P450 1A1, 1A2, and 1B1
+heterologously expressed in Escherichia coli catalyzed 7-ethoxyresorufin
+O-deethylation, 7-ethoxycoumarin O-deethylation, and phenacetin O-deethylation,
+similar to those of humans and cynomolgus monkeys. Notably, marmoset P450 1A1 and
+1A2 more efficiently catalyzed 7-ethoxyresorufin O-deethylation than those of the
+human homologs, but were comparable to those of the cynomolgus monkey homologs.
+Additionally, marmoset P450 1B1 preferentially catalyzed estradiol
+4-hydroxylation; however, rat P450 1B1 more favorably catalyzed estradiol
+2-hydroxylation, indicating that the estradiol hydroxylation specificity of
+marmoset P450 1B1 was similar to those of human and cynomolgus monkey P450 1B1.
+These results indicated that marmoset P450 1A and 1B enzymes had functional
+characteristics similar to those of humans and cynomolgus monkeys, suggesting
+that P450 1A and 1B-dependent metabolism was similar among marmosets, cynomolgus 
+monkeys, and humans.
+
+Copyright © 2015 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/dmd.115.067561 
+PMID: 26502772  [Indexed for MEDLINE]
+

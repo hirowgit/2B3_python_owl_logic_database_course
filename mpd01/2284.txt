@@ -1,0 +1,81 @@
+
+
+2284. Anal Chem. 2008 Jun 1;80(11):4200-7. doi: 10.1021/ac800205s. Epub 2008 May 9.
+
+Towards absolute quantification of therapeutic monoclonal antibody in serum by
+LC-MS/MS using isotope-labeled antibody standard and protein cleavage isotope
+dilution mass spectrometry.
+
+Heudi O(1), Barteau S, Zimmer D, Schmidt J, Bill K, Lehmann N, Bauer C, Kretz O.
+
+Author information: 
+(1)DMPK/Bioanalytics, and Biotechnology Development, Novartis Pharma AG, CH-4002 
+Basel, Switzerland. Olivier.heudi@novartis.com
+
+Although LC-MS methods are increasingly used for the absolute quantification of
+proteins, the lack of appropriate internal standard (IS) hinders the development 
+of rapid and standardized analytical methods for both in vitro and in vivo
+studies. Here, we have developed a novel method for the absolute quantification
+of a therapeutic protein, which is monoclonal antibody (mAb). The method combines
+liquid chromatography tandem mass spectrometry (LC-MS/MS) and protein cleavage
+isotope dilution mass spectrometry with the isotope-labeled mAb as IS. The latter
+was identical to the analyzed mAb with the exception that each threonine contains
+four (13)C atoms and one (15)N atom. Serum samples were spiked with IS prior to
+the overnight trypsin digestion and subsequent sample cleanup. Sample extracts
+were analyzed on a C18 ACE column (150 mm x 4.6 mm) using an LC gradient time of 
+11 min. Endogenous mAb concentrations were determined by calculating the peak
+height ratio of its signature peptide to the corresponding isotope-labeled
+peptide. The linear dynamic range was established between 5.00 and 1000 microg/mL
+mAb with accuracy and precision within +/-15% at all concentrations and below
++/-20% at the LLOQ (lower limit of quantification). The overall method recovery
+in terms of mAb was 14%. The losses due to sample preparation (digestion and
+purification) were 72% from which about 32% was due to the first step of the
+method, the sample digestion. This huge loss during sample preparation strongly
+emphasizes the necessity to employ an IS right from the beginning. Our method was
+successfully applied to the mAb quantification in marmoset serum study samples,
+and the precision obtained on duplicate samples was, in most cases, below 20%.
+The comparison with enzyme-linked immunosorbent assay (ELISA) showed higher
+exposure in terms of AUC and Cmax with the LC-MS/MS method. Possible reasons for 
+this discrepancy are discussed in this study. The results of this study indicate 
+that our LC-MS/MS method is a simple, rapid, and precise approach for the
+therapeutic mAb quantification to support preclinical and clinical studies.
+
+DOI: 10.1021/ac800205s 
+PMID: 18465883  [Indexed for MEDLINE]
+
+
+2285. Nucleic Acids Res. 2008 Jul 1;36(Web Server issue):W140-4. doi:
+10.1093/nar/gkn253. Epub 2008 May 7.
+
+OREST: the online resource for EST analysis.
+
+Waegele B(1), Schmidt T, Mewes HW, Ruepp A.
+
+Author information: 
+(1)Institute for Bioinformatics and Systems Biology (MIPS), Helmholtz Zentrum
+München - German Research Center for Environmental Health (GmbH), Ingolstädter
+Landstrasse 1, D-85764 Neuherberg, Germany.
+brigitte.waegele@helmholtz-muenchen.de
+
+The generation of expressed sequence tag (EST) libraries offers an affordable
+approach to investigate organisms, if no genome sequence is available. OREST
+(http://mips.gsf.de/genre/proj/orest/index.html) is a server-based EST analysis
+pipeline, which allows the rapid analysis of large amounts of ESTs or cDNAs from 
+mammalia and fungi. In order to assign the ESTs to genes or proteins OREST maps
+DNA sequences to reference datasets of gene products and in a second step to
+complete genome sequences. Mapping against genome sequences recovers additional
+13% of EST data, which otherwise would escape further analysis. To enable
+functional analysis of the datasets, ESTs are functionally annotated using the
+hierarchical FunCat annotation scheme as well as GO annotation terms. OREST also 
+allows to predict the association of gene products and diseases by Morbid Map
+(OMIM) classification. A statistical analysis of the results of the dataset is
+possible with the included PROMPT software, which provides information about
+enrichment and depletion of functional and disease annotation terms. OREST was
+successfully applied for the identification and functional characterization of
+more than 3000 EST sequences of the common marmoset monkey (Callithrix jacchus)
+as part of an international collaboration.
+
+DOI: 10.1093/nar/gkn253 
+PMCID: PMC2447738
+PMID: 18463135  [Indexed for MEDLINE]
+

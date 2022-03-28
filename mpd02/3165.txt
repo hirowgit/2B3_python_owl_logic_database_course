@@ -1,0 +1,42 @@
+
+
+3165. J Physiol. 2001 Jun 1;533(Pt 2):519-35.
+
+Spatial properties of koniocellular cells in the lateral geniculate nucleus of
+the marmoset Callithrix jacchus.
+
+White AJ(1), Solomon SG, Martin PR.
+
+Author information: 
+(1)Department of Physiology and Institute for Biomedical Research, University of 
+Sydney, NSW 2006, Australia.
+
+1. The receptive field dimensions, contrast sensitivity and linearity of spatial 
+summation of koniocellular (KC), parvocellular (PC) and magnocellular (MC) cells 
+in the lateral geniculate nucleus (LGN) of 11 adult marmosets were measured using
+achromatic sinusoidal gratings. 2. The receptive field centre diameter of cells
+in each (PC, KC and MC) class increases with distance from the fovea. There is
+substantial overlap in centre size between the three cell classes at any
+eccentricity, but the PC cells have, on average, the smallest centres and the KC 
+cells have the largest. Some PC and KC cells did not respond at all to the
+grating stimulus. 3. The contrast sensitivity of the receptive field centre
+mechanism in KC cells decreases in proportion to the centre area. A similar trend
+was seen for the surround mechanism. These characteristics are common to PC and
+MC cells, suggesting that they originate at an early stage of visual processing
+in the retina. 4. The KC cells showed, in general, lower peak evoked discharge
+rates than PC or MC cells. The spontaneous discharge rate of KC cells was lower
+than that of PC cells and similar to that of MC cells. 5. The majority of cells
+in all divisions of the LGN show linear spatial summation. A few cells did show
+non-linear spatial summation; these cells were predominantly located in the MC
+and ventral KC layers. 6. The ventral KC layers below and between the MC layers
+contain cells with larger and more transiently responding receptive fields than
+cells in the more dorsal KC layers. 7. We conclude that many of the
+contrast-dependent spatial properties of cells in the marmoset LGN are common to 
+PC, MC and KC cells. The main difference between KC cells and the other two
+classes is that there is more variability in their response properties, and they 
+are less responsive to high spatial frequencies.
+
+DOI: 10.1111/j.1469-7793.2001.0519a.x 
+PMCID: PMC2278639
+PMID: 11389209  [Indexed for MEDLINE]
+

@@ -1,0 +1,47 @@
+
+
+1827. Physiol Behav. 2012 Jan 18;105(2):510-21. doi: 10.1016/j.physbeh.2011.09.004.
+Epub 2011 Sep 14.
+
+Simultaneous measurement of endogenous steroid hormones and their metabolites
+with LC-MS/MS in faeces of a New World primate species, Cebus capucinus.
+
+Weltring A(1), Schaebs FS, Perry SE, Deschner T.
+
+Author information: 
+(1)Max Planck Institute for Evolutionary Anthropology, Department of Primatology,
+Deutscher Platz 6, 04103 Leipzig, Germany. anja_weltring@eva.mpg.de
+
+We developed and validated a method to measure steroid hormones with liquid
+chromatography-tandem mass spectrometry (LC-MS/MS) in faecal samples of
+white-faced capuchins. The method includes the measurement of adrenal and gonadal
+hormones such as cortisol, testosterone, estrone, progesterone and a number of
+their faecal metabolites. This method can be used for simultaneous routine
+measurements of steroids in faecal samples and provides a reference method for
+the validation of new immunoassays in this matrix. The optimised method consists 
+of an extraction of the dried faecal samples with 80% methanol followed by
+purification of the extracts by solid phase extraction, solvolytic cleavage of
+conjugates and liquid-liquid extraction. Extracts were measured by LC-MS/MS with 
+an electrospray interface in positive ionisation mode. Out of 19 steroids spiked 
+into methanol extracts, 14 showed a recovery of 79.8-118.5% with an intra-day
+precision of 2.5-13.0% and an inter-day precision of 7.2-15.1%. Detection limits 
+for these steroids ranged from 0.3 to 27.0 ng/mL of extract. Five steroids did
+not fulfil our requirements concerning precision and accuracy and we therefore
+considered these to not be reliably measurable with this method. While there was 
+no indication of considerable amounts of conjugated forms for most metabolites,
+87% of the testosterone was found in the solvolysis fraction, which indicates
+that the majority of testosterone was conjugated. Therefore, solvolysis turned
+out to be crucial, especially for the quantification of the total amount of
+testosterone. The physiological validation of this LC-MS/MS method confirmed
+known physiologically caused differences in faecal steroid concentrations. This
+indicates the usefulness of the method in investigating variation in the levels
+of major steroid hormones in faeces of white-faced capuchins. The possibility to 
+simultaneously measure hormones of the hypothalamic-pituitary-adrenal (HPA) axis 
+and the hypothalamic-pituitary-gonadal (HPG) axis makes this method suitable for 
+dealing with questions concerning the cross talk between those axes.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.physbeh.2011.09.004 
+PMID: 21945370  [Indexed for MEDLINE]
+

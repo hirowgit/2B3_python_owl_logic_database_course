@@ -1,0 +1,78 @@
+
+
+1725. Anim Cogn. 2012 Sep;15(5):1021-30. doi: 10.1007/s10071-012-0511-0. Epub 2012 May 
+11.
+
+Performance on patterned string problems by common marmosets (Callithrix
+jacchus).
+
+Gagne M(1), Levesque K, Nutile L, Locurto C.
+
+Author information: 
+(1)Department of Psychology, College of the Holy Cross, 1 College Street, P.O.
+Box 75A, Worcester, MA 01610, USA.
+
+This experiment examined the performance of common marmosets (Callithrix jacchus)
+on a series of patterned string problems to assess the marmosets' understanding
+of means-ends relationships. One marmoset, Jet, was exposed to a series of
+problems that were ordered in terms of perceived difficulty during two testings
+that were separated by 1 year. In the second testing, Jet received problems that 
+had been used during the first testing along with three new problems. Each of the
+new problems was designed to be an exemplar of the type of problem that Jet had
+experienced difficulty with in the first testing. A second marmoset, Peaches, was
+tested on the same set of problems given to Jet in the second testing. Results
+indicated that the marmosets' performance on these problems fell into three
+categories. In one category, some problems were solved without evidence of
+trial-and-error learning. In a second category, there were problems in which the 
+marmosets responded at chance levels initially but evidenced improvement as a
+function of extended testing. In a third category, some problems appeared to be
+virtually unsolvable even with extended testing. Taken together, these results
+indicate that the marmosets were able to learn the means-ends connection between 
+pulling a string and obtaining food. This learning was best characterized as a
+trial-and-error process for some problem forms, while for others there appeared
+to be rapid learning that did not require extensive practice. The instances of
+rapid learning may be the result of the application of a simple spatial proximity
+rule in which the marmosets chose the string that was closest to an imaginary
+line drawn between the marmoset and the reinforcer.
+
+DOI: 10.1007/s10071-012-0511-0 
+PMCID: PMC3425667
+PMID: 22576582  [Indexed for MEDLINE]
+
+
+1726. PLoS One. 2012;7(5):e37477. doi: 10.1371/journal.pone.0037477. Epub 2012 May 4.
+
+Co-evolution of primate SAMHD1 and lentivirus Vpx leads to the loss of the vpx
+gene in HIV-1 ancestor.
+
+Zhang C(1), de Silva S, Wang JH, Wu L.
+
+Author information: 
+(1)Institute of Life Sciences, Jiangsu University, Zhenjiang, Jiangsu, China.
+zhangcy1999@ips.ac.cn
+
+Cross-species transmission and adaptation of simian immunodeficiency viruses
+(SIVs) to humans have given rise to human immunodeficiency viruses (HIVs). HIV
+type 1 (HIV-1) and type 2 (HIV-2) were derived from SIVs that infected chimpanzee
+(SIVcpz) and sooty mangabey (SIVsm), respectively. The HIV-1 restriction factor
+SAMHD1 inhibits HIV-1 infection in human myeloid cells and can be counteracted by
+the Vpx protein of HIV-2 and the SIVsm lineage. However, HIV-1 and its ancestor
+SIVcpz do not encode a Vpx protein and HIV-1 has not evolved a mechanism to
+overcome SAMHD1-mediated restriction. Here we show that the co-evolution of
+primate SAMHD1 and lentivirus Vpx leads to the loss of the vpx gene in SIVcpz and
+HIV-1. We found evidence for positive selection of SAMHD1 in orangutan, gibbon,
+rhesus macaque, and marmoset, but not in human, chimpanzee and gorilla that are
+natural hosts of Vpx-negative HIV-1, SIVcpz and SIVgor, respectively, indicating 
+that vpx drives the evolution of primate SAMHD1. Ancestral host state
+reconstruction and temporal dynamic analyses suggest that the most recent common 
+ancestor of SIVrcm, SIVmnd, SIVcpz, SIVgor and HIV-1 was a SIV that had a vpx
+gene; however, the vpx gene of SIVcpz was lost approximately 3643 to 2969 years
+ago during the infection of chimpanzees. Thus, HIV-1 could not inherit the lost
+vpx gene from its ancestor SIVcpz. The lack of Vpx in HIV-1 results in restricted
+infection in myeloid cells that are important for antiviral immunity, which could
+contribute to the AIDS pandemic by escaping the immune responses.
+
+DOI: 10.1371/journal.pone.0037477 
+PMCID: PMC3345027
+PMID: 22574228  [Indexed for MEDLINE]
+

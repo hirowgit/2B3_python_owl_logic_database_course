@@ -1,0 +1,81 @@
+
+
+543. Am J Primatol. 2019 Feb;81(2):e22960. doi: 10.1002/ajp.22960. Epub 2019 Feb 25.
+
+Age-related changes in the marmoset gut microbiome.
+
+Reveles KR(1)(2), Patel S(1)(2), Forney L(3), Ross CN(4)(5)(6).
+
+Author information: 
+(1)Phamacotherapy Division, College of Pharmacy, The University of Texas at
+Austin, Austin, Texas.
+(2)Pharmacotherapy Education & Research Center, University of Texas Health San
+Antonio, San Antonio, Texas.
+(3)Department of Biological Sciences, University of Idaho, Moscow, Idaho.
+(4)Department of Science and Mathematics, Texas A&M University San Antonio, San
+Antonio, Texas.
+(5)Barshop Institute for Longevity and Aging Research, University of Texas Health
+San Antonio, San Antonio, Texas.
+(6)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, Texas.
+
+The gut microbiome is known to play a significant role in human health but its
+role in aging remains unclear. The objective of this study was to compare the gut
+microbiome composition between young adult and geriatric non-human primates
+(marmosets) as a model of human health and disease. Stool samples were collected 
+from geriatric (8+ years) and young adult males (2-5 years). Stool 16S ribosomal 
+RNA V4 sequences were amplified and sequenced on the Illumina MiSeq platform.
+Sequences were clustered into operational taxonomic units and classified via
+Mothur's Bayesian classifier referenced against the Greengenes database. A total 
+of 10 young adult and 10 geriatric marmosets were included. Geriatric marmosets
+had a lower mean Shannon diversity compared with young marmosets (3.15 vs. 3.46; 
+p = 0.0191). Geriatric marmosets had a significantly higher mean abundance of
+Proteobacteria (0.22 vs. 0.09; p = 0.0233) and lower abundance of Firmicutes
+(0.15 vs. 0.19; p = 0.0032) compared with young marmosets. Geriatric marmosets
+had a significantly higher abundance of Succinivibrionaceae (0.16 vs. 0.01;
+p = 0.0191) and lower abundance of Porphyromonadaceae (0.07 vs. 0.11;
+p = 0.0494). In summary, geriatric marmosets had significantly altered microbiome
+diversity and composition compared with young adult marmosets. Further studies
+are needed to test microbiome-targeted therapies to improve healthspan and
+lifespan.
+
+© 2019 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajp.22960 
+PMCID: PMC6414241
+PMID: 30802990  [Indexed for MEDLINE]
+
+
+544. Am J Vet Res. 2019 Mar;80(3):259-264. doi: 10.2460/ajvr.80.3.259.
+
+Development and analytic validation of a sandwich ELISA for the measurement of
+α1-proteinase inhibitor concentrations in serum and feces of common marmosets
+(Callithrix jacchus).
+
+Parambeth JC, Lidbury JA, Suchodolski JS, Steiner JM.
+
+OBJECTIVE To develop and validate a sandwich ELISA for the measurement of
+α1-proteinase inhibitor (α1-PI) concentrations in serum and fecal samples
+obtained from common marmosets (Callithrix jacchus). SAMPLE Leftover serum (n =
+42) and fecal (23) samples submitted for diagnostic testing; paired serum and
+fecal samples obtained from 30 common marmosets at 2 research colonies.
+PROCEDURES A sandwich ELISA was developed and analytically validated by
+determining the lower limit of detection, linearity, accuracy, precision, and
+reproducibility. Reference intervals for α1-PI concentrations in serum and feces 
+of common marmosets were calculated. RESULTS The standard curve was generated for
+concentrations between 1 and 100 ng/mL. Mean ± SD observed-to-expected ratio for 
+serial dilutions of serum and fecal samples was 117.1 ± 5.6% (range, 112.2% to
+123.0%) and 106.1 ± 19.7% (range, 82.6% to 130.2%), respectively. Mean
+observed-to-expected ratio for spiking recovery of serum and fecal samples was
+102.9 ± 12.1% (range, 86.8% to 115.8%) and 97.9 ± 19.0% (range, 83.0% to 125.1%),
+respectively. Reference interval for serum concentrations of α1-PI was 1,254 to
+1,813 μg/mL, for 3-day mean fecal concentrations was 11.5 to 42.2 μg/g of feces, 
+and for 3-day maximum fecal concentrations was 13.2 to 51.2 μg/g of feces.
+CONCLUSIONS AND CLINICAL RELEVANCE The ELISA was linear, accurate, precise, and
+reproducible for quantification of α1-PI concentrations in serum and feces of
+common marmosets. However, the ELISA had limited linearity and accuracy for
+spiking recovery of fecal samples.
+
+DOI: 10.2460/ajvr.80.3.259 
+PMID: 30801206  [Indexed for MEDLINE]
+

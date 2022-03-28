@@ -1,0 +1,53 @@
+
+
+2930. ScientificWorldJournal. 2002 Jun 26;2:1762-73.
+
+Embryonic stem cell lines of nonhuman primates.
+
+Nakatsuji N(1), Suemori H.
+
+Author information: 
+(1)Department of Development and Differentiation, Institute for Frontier Medical 
+Sciences, Kyoto University, 53 Kawaharacho, Shogoin, Sakyo-ku, Kyoto 606-8507,
+Japan. nnakatsu@frontier.kyoto-u.ac.jp
+
+Human embryonic stem (ES) cell lines have opened great potential and expectation 
+for cell therapy and regenerative medicine. Monkey and human ES cell lines, which
+are very similar to each other, have been established from monkey blastocysts and
+surplus human blastocysts from fertility clinics. Nonhuman primate ES cell lines 
+provide important research tools for basic and applicative research. Firstly,
+they provide wider aspects of investigation of the regulative mechanisms of stem 
+cells and cell differentiation among primate species. Secondly, their usage does 
+not need clearance or permission from the regulative rules in many countries that
+are associated with the ethical aspects of human ES cells, although human and
+nonhuman embryos and fetuses are very similar to each other. Lastly and most
+importantly, they are indispensable for animal models of cell therapy to test
+effectiveness, safety, and immunological reaction of the allogenic
+transplantation in a setting similar to the treatment of human diseases. So far, 
+ES cell lines have been established from rhesus monkey (Macaca mulatta), common
+marmoset (Callithrix jacchus), and cynomolgus monkey (Macaca fascicularis), using
+blastocysts produced naturally or by in vitro fertilization (IVF) and
+intracytoplasmic sperm injection (ICSI). These cell lines seem to have very
+similar characteristics. They express alkaline phosphatase activity and
+stage-specific embryonic antigen (SSEA)-4 and, in most cases, SSEA-3. Their
+pluripotency was confirmed by the formation of embryoid bodies and
+differentiation into various cell types in culture and also by the formation of
+teratomas that contained many types of differentiated tissues including
+derivatives of three germ layers after transplantation into the severe combined
+immunodeficiency (SCID) mice. The noneffectiveness of the leukemia inhibitory
+factor (LIF) signal makes culture of primate and human ES cell lines prone to
+undergo spontaneous differentiation and thus it is difficult to maintain these
+stem cell colonies. Also, these ES cells are more susceptible to various
+stresses, causing difficulty with subculturing using enzymatic treatment and
+cloning from single cells. However, with various improvements in culture methods,
+it is now possible to maintain stable colonies of monkey ES cells using a
+serum-free medium and subculturing with trypsin treatment. Under such conditions,
+cynomolgus monkey ES cell lines can be maintained in an undifferentiated state
+with a normal karyotype and pluripotency even after prolonged periods of culture 
+over 1 year. Such progress should facilitate many aspects of stem cell research
+using both nonhuman primate and human ES cell lines.
+
+DOI: 10.1100/tsw.2002.829 
+PMCID: PMC6009524
+PMID: 12806169  [Indexed for MEDLINE]
+

@@ -1,0 +1,54 @@
+
+
+1120. Tissue Eng Regen Med. 2015 Dec 28;13(1):100-109. doi: 10.1007/s13770-015-0106-3. 
+eCollection 2016 Feb.
+
+Behavior, PET and histology in novel regimen of MPTP marmoset model of
+Parkinson's disease for long-term stem cell therapy.
+
+Yun JW(1), Ahn JB(1)(2), Kwon E(1), Ahn JH(1)(2), Park HW(3), Heo H(4), Park
+JS(5), Kim H(4)(6), Paek SH(3), Kang BC(1)(2)(7).
+
+Author information: 
+(1)1Department of Experimental Animal Research, Biomedical Research Institute,
+Seoul National University Hospital, Seoul, Korea.
+(2)2Graduate School of Translational Medicine, Seoul National University College 
+of Medicine, Seoul, Korea.
+(3)3Department of Neurosurgery, Seoul National University College of Medicine,
+Seoul, Korea.
+(4)4Department of Biomedical Sciences, Seoul National University, Seoul, Korea.
+(5)5Department of Neurogenetics, Kolling Institute of Medical Research, Royal
+North Shore Hospital and the University of Sydney, St. Leonards, New South Wales,
+Australia.
+(6)6Department of Radiology, Seoul National University Hospital, Seoul, Korea.
+(7)7Designed Animal and Transplantation Research Institute, Institute of GreenBio
+Science Technology, Seoul National University, Pyeongchang, Korea.
+
+Stem cell technologies are particularly attractive in Parkinson's disease (PD)
+research although they occasionally need long-term treatment for
+anti-parkinsonian activity. Unfortunately,
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) widely used as a model for PD
+has several limitations, including the risk of dose-dependent mortality and the
+difficulty of maintenance of PD symptoms during the whole experiment period.
+Therefore, we tested if our novel MPTP regimen protocol (2 mg/kg for 2
+consecutive days and 1 mg/kg for next 3 consecutive days) can be maintained
+stable parkinsonism without mortality for long-term stem cell therapy. For this, 
+we used small-bodied common marmoset monkeys (Callithrix jacchus) among several
+nonhuman primates showing high anatomical, functional, and behavioral
+similarities to humans. Along with no mortality, the behavioral changes involved 
+in PD symptoms were maintained for 32 weeks. Also, the loss of jumping ability of
+the MPTP-treated marmosets in the Tower test was not recovered by 32 weeks.
+Positron emission tomography (PET) analysis revealed that remarkable decreases of
+bindings of 18F-FP-CIT were observed at the striatum of the brains of the
+marmosets received MPTP during the full period of the experiment for 32 weeks. In
+the substantia nigra of the marmosets, the loss of tyrosine hydroxylase (TH)
+immunoreactivity was also observed at 32 weeks following the MPTP treatment. In
+conclusion, our low-dose MPTP regimen protocol was found to be stable
+parkinsonism without mortality as evidenced by behavior, PET, and TH
+immunohistochemistry. This result will be useful for evaluation of possible
+long-term stem cell therapy for anti-parkinsonian activity.
+
+DOI: 10.1007/s13770-015-0106-3 
+PMCID: PMC6170997
+PMID: 30603390 
+

@@ -1,0 +1,46 @@
+
+
+1757. Toxicology. 2012 May 16;295(1-3):47-55. doi: 10.1016/j.tox.2012.02.007. Epub 2012
+Mar 1.
+
+High-performance metabolic profiling of plasma from seven mammalian species for
+simultaneous environmental chemical surveillance and bioeffect monitoring.
+
+Park YH(1), Lee K, Soltow QA, Strobel FH, Brigham KL, Parker RE, Wilson ME,
+Sutliff RL, Mansfield KG, Wachtman LM, Ziegler TR, Jones DP.
+
+Author information: 
+(1)Clinical Biomarkers Laboratory, Department of Medicine, Emory University,
+Atlanta, GA 30322, USA.
+
+High-performance metabolic profiling (HPMP) by Fourier-transform mass
+spectrometry coupled to liquid chromatography gives relative quantification of
+thousands of chemicals in biologic samples but has had little development for use
+in toxicology research. In principle, the approach could be useful to detect
+complex metabolic response patterns to toxicologic exposures and to detect
+unusual abundances or patterns of potentially toxic chemicals. As an initial
+study to develop these possible uses, we applied HPMP and bioinformatics analysis
+to plasma of humans, rhesus macaques, marmosets, pigs, sheep, rats and mice to
+determine: (1) whether more chemicals are detected in humans living in a less
+controlled environment than captive species and (2) whether a subset of plasma
+chemicals with similar inter-species and intra-species variation could be
+identified for use in comparative toxicology. Results show that the number of
+chemicals detected was similar in humans (3221) and other species (range
+2537-3373). Metabolite patterns were most similar within species and separated
+samples according to family and order. A total of 1485 chemicals were common to
+all species; 37% of these matched chemicals in human metabolomic databases and
+included chemicals in 137 out of 146 human metabolic pathways. Probability-based 
+modularity clustering separated 644 chemicals, including many endogenous
+metabolites, with inter-species variation similar to intra-species variation. The
+remaining chemicals had greater inter-species variation and included
+environmental chemicals as well as GSH and methionine. Together, the data suggest
+that HPMP provides a platform that can be useful within human populations and
+controlled animal studies to simultaneously evaluate environmental exposures and 
+biological responses to such exposures.
+
+Copyright © 2012 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.tox.2012.02.007 
+PMCID: PMC3332037
+PMID: 22387982  [Indexed for MEDLINE]
+

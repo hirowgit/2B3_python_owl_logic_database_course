@@ -1,0 +1,39 @@
+
+
+3590. J Virol. 1998 May;72(5):3698-704.
+
+Substitution of ras for the herpesvirus saimiri STP oncogene in lymphocyte
+transformation.
+
+Guo J(1), Williams K, Duboise SM, Alexander L, Veazey R, Jung JU.
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, New England Regional
+Primate Research Center, Harvard Medical School, Southborough, Massachusetts
+01772-9102, USA.
+
+STP-C488 (STP of herpesvirus saimiri [HVS] group C strain 488 [C488]) is the only
+virus-encoded protein found to associate with cellular ras and activate ras
+signal transduction pathways. To investigate an important role for ras signal
+transduction in STP-dependent growth transformation, we constructed recombinant
+strains of HVS C488 in which the STP-C488 oncogene was replaced with cellular
+normal ras (c-ras) or viral oncogenic ras (v-ras). Recombinant HVS deltaSTP/v-ras
+immortalized primary common marmoset T lymphocytes to interleukin-2-independent
+growth as efficiently as wild-type HVS C488 (wt HVS), while recombinant HVS
+deltaSTP/c-ras did so with low efficiency. Whereas wt HVS immortalized CD4- CD8+ 
+single-positive T lymphocytes, HVS deltaSTP/c-ras- and HVS
+deltaSTP/v-ras-immortalized cells were principally CD4+ CD8+ double-positive T
+lymphocytes. In addition, HVS deltaSTP/v-ras-immortalized T cells showed a high
+level of ras expression and exhibited an adherent macrophage-like morphology.
+These phenotypes were likely caused by the drastic activation of AP-1
+transcriptional factor activity. Finally, HVS deltaSTP/v-ras and HVS
+deltaSTP/c-ras each induced lymphoma in one of two common marmosets, although
+onset of disease was more rapid with the v-ras virus. These results demonstrate
+that ras can substitute for the STP oncogene of HVS C488 to allow immortalized
+growth of primary lymphoid cells and that an activated form of ras does so more
+efficiently than the normal cellular form of ras.
+
+DOI: 10.1128/JVI.72.5.3698-3704.1998 
+PMCID: PMC109591
+PMID: 9557651  [Indexed for MEDLINE]
+

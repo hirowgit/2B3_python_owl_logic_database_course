@@ -1,0 +1,53 @@
+
+
+4. Sci Rep. 2022 Mar 15;12(1):4430. doi: 10.1038/s41598-022-08255-4.
+
+Analysis of gut microbiome profiles in common marmosets (Callithrix jacchus) in
+health and intestinal disease.
+
+Sheh A(#)(1), Artim SC(#)(2)(3), Burns MA(2), Molina-Mora JA(4), Lee MA(2)(5),
+Dzink-Fox J(2), Muthupalani S(2), Fox JG(6).
+
+Author information: 
+(1)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, MA, USA. alexsheh@mit.edu.
+(2)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, MA, USA.
+(3)Merck Research Laboratories, Merck, South San Francisco, CA, USA.
+(4)Centro de Investigación en Enfermedades Tropicales (CIET), Universidad de
+Costa Rica, San José, Costa Rica.
+(5)Department of Biological Sciences, Wellesley College, Wellesley, MA, USA.
+(6)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, MA, USA. jgfox@mit.edu.
+(#)Contributed equally
+
+Chronic gastrointestinal (GI) diseases are the most common diseases in captive
+common marmosets. To understand the role of the microbiome in GI diseases, we
+characterized the gut microbiome of 91 healthy marmosets (303 samples) and 59
+marmosets diagnosed with inflammatory bowel disease (IBD) (200 samples). Healthy 
+marmosets exhibited "humanized," Bacteroidetes-dominant microbiomes. After up to 
+2 years of standardized diet, housing and husbandry, marmoset microbiomes could
+be classified into four distinct marmoset sources based on Prevotella and
+Bacteroides levels. Using a random forest (RF) model, marmosets were classified
+by source with an accuracy of 93% with 100% sensitivity and 95% specificity using
+abundance data from 4 Prevotellaceae amplicon sequence variants (ASVs), as well
+as single ASVs from Coprobacter, Parabacteroides, Paraprevotella,
+Phascolarctobacterium, Oribacterium and Fusobacterium. A single dysbiotic IBD
+state was not found across all marmoset sources, but IBD was associated with
+lower alpha diversity and a lower Bacteroides:Prevotella copri ratio within each 
+source. IBD was highest in a Prevotella-dominant cohort, and consistent with
+Prevotella-linked diseases, pro-inflammatory genes in the jejunum were
+upregulated. RF analysis of serum biomarkers identified serum calcium, hemoglobin
+and red blood cell (RBC) counts as potential biomarkers for marmoset IBD. This
+study characterizes the microbiome of healthy captive common marmosets and
+demonstrates that source-specific microbiomes can be retained despite
+standardized diets and husbandry practices. Marmosets with IBD had decreased
+alpha diversity and a shift in the ratio of Bacteroides:Prevotella copri compared
+to healthy marmosets.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-022-08255-4 
+PMCID: PMC8924212
+PMID: 35292670 
+

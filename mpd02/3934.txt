@@ -1,0 +1,44 @@
+
+
+3934. Psychopharmacology (Berl). 1995 Feb;117(4):403-12.
+
+Selective dopamine antagonist pretreatment on the antiparkinsonian effects of
+benzazepine D1 dopamine agonists in rodent and primate models of Parkinson's
+disease--the differential effects of D1 dopamine antagonists in the primate.
+
+Gnanalingham KK(1), Hunter AJ, Jenner P, Marsden CD.
+
+Author information: 
+(1)Parkinson's Disease Society Experimental Research Laboratories, King's
+College, London, UK.
+
+In rats with unilateral 6-hydroxydopamine (6-OHDA) lesions of the medial
+forebrain bundle, pretreatment with the D1 DA antagonists, SCH 23390
+(7-chloro-8-hydroxy-2,3,4,5-tetrahydro-3-methyl-1-phenyl-1H-3-benzazepin e) and
+A66359 (1- 2-bromo-4,5-dimethoxybenzyl]-7-hydroxy-6-methoxy-2-methyl- 1,2,3,4
+tetrahydroisoquinoline), but not the D2 DA antagonist raclopride inhibited the
+contralateral circling induced by the benzazepine D1 DA agonists SKF 38393 (7-H, 
+3-H analogue of SCH 23390), SKF 80723 (7-H, 3-H, 6-Br analogue) and SKF 83959
+(7-H, 6-Cl, 3'-CH3 analogue). In MPTP
+(1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine) treated common marmosets,
+administration of SKF 80723 and SKF 83959 increased locomotor activity and
+reversed the motor disability. Grooming and oral activities were also increased. 
+Pretreatment with SCH 23390 and A66359 inhibited all the behavioural changes
+induced by both D1 DA agonists. In general, higher doses of A66359 and more
+especially SCH 23390 were needed to inhibit SKF 83959 and SKF 80723 induced
+increases in oral activity and grooming than locomotor activity. Raclopride
+pretreatment did not affect SKF 83959 and SKF 80723 induced oral activity and
+grooming, though it reduced the duration of the locomotor changes induced by the 
+D1 DA agonists. These findings demonstrate that the behavioural effects of
+benzazepine D1 DA agonists in the 6-OHDA lesioned rat and MPTP-treated marmoset
+are mediated by D1 DA receptor sites, although in the primate, stimulation of D2 
+DA receptors by endogenous DA may be necessary in facilitating the
+antiparkinsonian effects of D1 DA agonists. The differential sensitivities of
+locomotor/motor disability and oral/grooming behaviours to antagonism by D1 DA
+antagonists may indicate the involvement of multiple D1 DA receptor subtypes in
+mediating benzazepine D1 DA agonist induced behaviours in the MPTP-treated
+marmoset.
+
+DOI: 10.1007/BF02246211 
+PMID: 7604140  [Indexed for MEDLINE]
+

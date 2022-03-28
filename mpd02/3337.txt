@@ -1,0 +1,34 @@
+
+
+3337. Int Immunol. 2000 Apr;12(4):555-62.
+
+A novel murine anti-human Fas mAb which mitigates lymphadenopathy without
+hepatotoxicity.
+
+Ichikawa K(1), Yoshida-Kato H, Ohtsuki M, Ohsumi J, Yamaguchi J, Takahashi S,
+Tani Y, Watanabe M, Shiraishi A, Nishioka K, Yonehara S, Serizawa N.
+
+Author information: 
+(1)Biomedical Research Laboratories, Sankyo Co., Ltd, Tokyo 140-8710, Japan.
+
+Defects in Fas-mediated apoptosis are implicated in autoimmune diseases including
+rheumatoid arthritis (RA). Although induction of Fas-mediated apoptosis could
+have therapeutic effects on these diseases, it might cause deleterious effects in
+liver as Fas ligand or an agonistic anti-murine Fas antibody Jo2 causes severe
+hepatic injury in mice. We report here on the interesting characteristics of the 
+newly obtained anti-Fas mAb, HFE7A, which cross-reacts with the Fas molecules of 
+various species ranging from human to mouse and mitigates autoimmune symptoms
+without hepatotoxicity in mice. The administration of HFE7A to mice induced
+apoptosis in the thymocytes, although administration of HFE7A to mice or to
+marmosets did not induce any sign of hepatitis. The effect of HFE7A on liver is
+different from that of anti-murine Fas antibody Jo2, which causes acute and
+lethal hepatic injury to mice. Administration of HFE7A reduced lymphadenopathy
+and abnormal T cells in MRL-gld/gld mice. HFE7A induced apoptosis in synovial
+cells prepared from RA patients. Surprisingly, HFE7A protected mice from
+fulminant hepatitis induced by Jo2. Therefore, HFE7A is a potential therapeutic
+antibody not only for autoimmune diseases including RA but also for fulminant
+hepatitis.
+
+DOI: 10.1093/intimm/12.4.555 
+PMID: 10744657  [Indexed for MEDLINE]
+

@@ -1,0 +1,79 @@
+
+
+4220. Biochem Pharmacol. 1992 May 28;43(10):2129-34.
+
+Identification of the proximate peroxisome proliferator(s) derived from di
+(2-ethylhexyl) adipate and species differences in response.
+
+Cornu MC(1), Lhuguenot JC, Brady AM, Moore R, Elcombe CR.
+
+Author information: 
+(1)Département de Biochimie et Toxicologie Alimentaires, ENS.BANA, Campus
+Universitaire, Dijon, France.
+
+Identification of the proximate peroxisome proliferator(s) derived from di
+(2-ethylhexyl) adipate (DEHA) has been achieved using primary hepatocyte cultures
+derived from different species and cyanide-insensitive fatty acyl CoA oxidase
+(PCO) as a marker enzyme for peroxisome proliferation. In rat and mouse
+hepatocytes, the parent compound (DEHA) had no effect on peroxisomal
+beta-oxidation, but primary metabolites of DEHA, mono (2-ethylhexyl) adipate
+(MEHA) and 2-ethylhexanol (EH), were approximately equipotent in PCO induction
+(5-fold at 0.5 mM final concentration). The secondary metabolite of DEHA,
+2-ethylhexanoic acid (EHA), was in both species the most potent peroxisome
+proliferator (25- and 9-fold induction in mice and rats, respectively, at 1 mM
+final concentration). At 2 mM final concentration a tertiary metabolite of DEHA, 
+2-ethyl-5-hydroxyhexan-1-oic acid, was less effective in mouse and rat
+hepatocytes at inducing PCO (15- and 5-fold, respectively).
+2-Ethyl-5-oxohexan-1-oic acid and 2-ethylhexan-1,6-dioic acid had little effect
+(2-3-fold in both rat and mouse hepatocytes). Thus, EHA was identified as the
+proximate peroxisome proliferator of DEHA and mouse hepatocytes were
+approximately twice as sensitive as rat hepatocytes to peroxisome proliferation
+due to MEHA, EH and EHA. We investigated further species differences in response 
+to peroxisome proliferators by using guinea pig and marmoset primary hepatocyte
+culture. None of the chemicals studied stimulated peroxisomal beta-oxidation in
+these species up to a final concentration of 2 mM. Higher concentrations lead to 
+cytotoxicity. This lack of sensitivity of guinea pig and marmoset hepatocytes is 
+in agreement with previous studies with di (2-ethylhexyl) phthalate metabolites, 
+suggesting the absence of a threat of hepatocarcinogenic damage to these species 
+and confirming that primary hepatocytes cultures are useful models for
+investigating the phenomenon of peroxisome proliferation.
+
+DOI: 10.1016/0006-2952(92)90171-e 
+PMID: 1599500  [Indexed for MEDLINE]
+
+
+4221. Cell Tissue Res. 1992 May;268(2):369-76.
+
+Intercellular communication between cultured granulosa cells of the marmoset
+(Callithrix jacchus).
+
+Rune GM(1), Pretzer D, Beuthe W, Merker HJ.
+
+Author information: 
+(1)Institut für Anatomie, Berlin, Federal Republic of Germany.
+
+The influence of follicle-stimulating hormone, forskolin, insulin-like growth
+factor type I, epidermal growth factor, and 12-tetradecanoyl-phorbol-13-acetate
+on marmoset granulosa cell communication via gap junctions was investigated by
+morphological means and microinjection of carboxyfluorescein. Gap junctions
+between neighbouring granulosa cells were present in all groups. The number, but 
+not length, of gap junctions between marmoset granulosa cells increased when the 
+cells had been treated with follicle-stimulating hormone, insulin-like growth
+factor type I, and follicle-stimulating hormone plus insulin-like growth factor
+type I. No effect on gap junctions was seen, after exposure of the cells to the
+other three substances. Carboxyfluorescein and counting of the surrounding
+labelled cells showed that supplementation with follicle-stimulating hormone,
+forskolin, insulin-like growth factor type I and epidermal growth factor from the
+beginning of cultivation led to an increase in stained cells after 48 h. When
+treatment was started in 48 h cultures the substances reached their maximal
+activity within 30 min (forskolin and epidermal growth factor) or 3 h
+(follicle-stimulating hormone and insulin-like growth factor type I). Spreading
+of the fluorescent dye was inhibited when the medium was supplemented with
+12-tetradecanoyl-phorbol-13-acetate. This effect was maximal after 30 min.
+Additive effects regarding the coupling of the cells were seen by combining of
+epidermal growth factor with follicle-stimulating hormone, but not with
+insulin-like growth factor type I or forskolin plus follicle-stimulating hormone.
+
+DOI: 10.1007/BF00318805 
+PMID: 1617703  [Indexed for MEDLINE]
+

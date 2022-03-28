@@ -1,0 +1,108 @@
+
+
+828. J Physiol. 2017 Dec 1;595(23):7203-7221. doi: 10.1113/JP274629. Epub 2017 Sep 2.
+
+Cortical control of object-specific grasp relies on adjustments of both activity 
+and effective connectivity: a common marmoset study.
+
+Tia B(1)(2), Takemi M(1)(3)(4), Kosugi A(1)(3), Castagnola E(2), Ansaldo A(5),
+Nakamura T(1)(3), Ricci D(2), Ushiba J(6)(7), Fadiga L(2), Iriki A(1).
+
+Author information: 
+(1)Laboratory for Symbolic Cognitive Development, RIKEN Brain Science Institute, 
+Saitama, Japan.
+(2)Center for Translational Neurophysiology of Speech and Communication, Istituto
+Italiano di Tecnologia, Ferrara, Italy.
+(3)Graduate School of Science and Technology, Keio University, Kanagawa, Japan.
+(4)Danish Research Centre for Magnetic Resonance, Copenhagen University Hospital 
+Hvidovre, Hvidovre, Denmark.
+(5)Graphene Labs, Istituto Italiano di Tecnologia, Genoa, Italy.
+(6)Department of Biosciences and Informatics, Faculty of Science and Technology, 
+Keio University, Kanagawa, Japan.
+(7)Keio Institute of Pure and Applied Sciences (KiPAS), Keio University,
+Kanagawa, Japan.
+
+Comment in
+    J Physiol. 2017 Dec 1;595(23):7013.
+
+KEY POINTS: The cortical mechanisms of grasping have been extensively studied in 
+macaques and humans; here, we investigated whether common marmosets could rely on
+similar mechanisms despite strong differences in hand morphology and grip
+diversity. We recorded electrocorticographic activity over the sensorimotor
+cortex of two common marmosets during the execution of different grip types,
+which allowed us to study cortical activity (power spectrum) and physiologically 
+inferred connectivity (phase-slope index). Analyses were performed in beta
+(16-35 Hz) and gamma (75-100 Hz) frequency bands and our results showed that beta
+power varied depending on grip type, whereas gamma power displayed clear
+epoch-related modulation. Strength and direction of inter-area connectivity
+varied depending on grip type and epoch. These findings suggest that fundamental 
+control mechanisms are conserved across primates and, in future research,
+marmosets could represent an adequate model to investigate primate brain
+mechanisms.
+ABSTRACT: The cortical mechanisms of grasping have been extensively studied in
+macaques and humans. Here, we investigated whether common marmosets could rely on
+similar mechanisms despite striking differences in manual dexterity. Two common
+marmosets were trained to grasp-and-pull three objects eliciting different hand
+configurations: whole-hand, finger and scissor grips. The animals were then
+chronically implanted with 64-channel electrocorticogram arrays positioned over
+the left premotor, primary motor and somatosensory cortex. Power spectra,
+reflecting predominantly cortical activity, and phase-slope index, reflecting the
+direction of information flux, were studied in beta (16-35 Hz) and gamma
+(75-100 Hz) bands. Differences related to grip type, epoch (reach, grasp) and
+cortical area were statistically assessed. Results showed that whole-hand and
+scissor grips triggered stronger beta desynchronization than finger grip. Task
+epochs clearly modulated gamma power, especially for finger and scissor grips.
+Considering effective connectivity, finger and scissor grips evoked stronger
+outflow from primary motor to premotor cortex, whereas whole-hand grip displayed 
+the opposite pattern. These findings suggest that fundamental control mechanisms,
+relying on adjustments of cortical activity and connectivity, are conserved
+across primates. Consistently, marmosets could represent a good model to
+investigate primate brain mechanisms.
+
+© 2017 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd 
+on behalf of The Physiological Society.
+
+DOI: 10.1113/JP274629 
+PMCID: PMC5709338
+PMID: 28791721  [Indexed for MEDLINE]
+
+
+829. Dev Psychobiol. 2017 Nov;59(7):807-821. doi: 10.1002/dev.21545. Epub 2017 Aug 1.
+
+Cross-species comparison of behavioral neurodevelopmental milestones in the
+common marmoset monkey and human child.
+
+Ausderau KK(1)(2), Dammann C(1), McManus K(3), Schneider M(1)(4), Emborg
+ME(3)(5), Schultz-Darken N(3).
+
+Author information: 
+(1)Occupational Therapy Program, Department of Kinesiology, University of
+Wisconsin, Madison, Wisconsin.
+(2)Waisman Center, University of Wisconsin, Madison, Wisconsin.
+(3)Wisconsin National Primate Research Center, University of Wisconsin, Madison, 
+Wisconsin.
+(4)Harlow Center for Biological Psychology, University of Wisconsin, Madison,
+Wisconsin.
+(5)Department of Medical Physics, University of Wisconsin, Madison, Wisconsin.
+
+The common marmoset (Callithrix jacchus) is an increasingly popular non-human
+primate species for developing transgenic and genomic edited models of
+neurological disorders. These models present an opportunity to assess from birth 
+the impact of genetic mutations and to identify candidate predictive biomarkers
+of early disease onset. In order to apply findings from marmosets to humans, a
+cross-species comparison of typical development is essential. Aiming to identify 
+similarities, differences, and gaps in knowledge of neurodevelopment, we
+evaluated peer-reviewed literature focused on the first 6 months of life of
+marmosets and compared to humans. Five major developmental constructs, including 
+reflexes and reactions, motor, feeding, self-help, and social, were compared.
+Numerous similarities were identified in the developmental sequences with
+differences often influenced by the purpose of the behavior, specifically for
+marmoset survival. The lack of detailed knowledge of marmoset development was
+exposed as related to the vast resources for humans.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/dev.21545 
+PMCID: PMC5630497
+PMID: 28763098  [Indexed for MEDLINE]
+

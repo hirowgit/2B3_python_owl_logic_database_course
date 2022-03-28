@@ -1,0 +1,78 @@
+
+
+2123. Chem Biol Drug Des. 2009 Jun;73(6):637-43. doi: 10.1111/j.1747-0285.2009.00810.x.
+
+Interaction of follicle-stimulating hormone (FSH) receptor binding inhibitor-8: a
+novel FSH-binding inhibitor, with FSH and its receptor.
+
+Chitnis SS(1), Selvaakumar C, Jagtap DD, Barnwal RP, Chary KV, Mahale SD,
+Nandedkar TD.
+
+Author information: 
+(1)National Institute for Research in Reproductive Health, Indian Council of
+Medical Research, Mumbai, India.
+
+Follicle-stimulating hormone (FSH) receptor binding inhibitor (FRBI-8) is a novel
+octapeptide purified from human ovarian follicular fluid. In vitro, it inhibits
+the binding of FSH to granulosa cells and in vivo, it induces atresia in
+developing follicles in rodents. This peptide, when administered to marmosets and
+bonnet monkeys, altered the circulating progesterone levels. This study was
+carried out to elucidate structure of the FRBI-8 and understand its mechanism of 
+inhibiting interaction of FSH to its receptors. Homology modeling predicted that 
+the FRBI-8 adopts a turn and random coil. This is further confirmed by circular
+dichroism and NMR. Docking studies of the FRBI-8 with reported FSH-FSHR hormone
+binding (FSHR(HB)) domain complex using ZDOCK algorithm revealed that the FRBI-8 
+binds to FSHbetaL2-FSHR(HB) binding interface which is otherwise known to be
+crucial for activation of signal transduction cascade. FRBI-8 analogs were
+designed by replacing the acidic amino acid residues at positions 2, 5 and 6 with
+Ala, individually. Docking studies revealed that D6A mutant (FRBI-8(D6A)) had a
+higher binding affinity than the native FRBI-8. In vitro radioreceptor assay with
+FRBI-8(D6A) showed 50% lower IC(50) compared with the FRBI-8, confirming the in
+silico observations. Thus, the study reveals that both FRBI-8 and FRBI-8(D6A)
+interfered with the binding of FSH to its receptor.
+
+DOI: 10.1111/j.1747-0285.2009.00810.x 
+PMID: 19635055  [Indexed for MEDLINE]
+
+
+2124. Exp Neurol. 2009 Oct;219(2):533-42. doi: 10.1016/j.expneurol.2009.07.011. Epub
+2009 Jul 18.
+
+Continuous administration of rotigotine to MPTP-treated common marmosets enhances
+anti-parkinsonian activity and reduces dyskinesia induction.
+
+Stockwell KA(1), Scheller D, Rose S, Jackson MJ, Tayarani-Binazir K, Iravani MM, 
+Smith LA, Olanow CW, Jenner P.
+
+Author information: 
+(1)Neurodegenerative Disease Research Group, School of Health and Biomedical
+Sciences, King's College, London, London, SE1 1UL, UK.
+
+Rotigotine is a novel, non-ergoline dopamine D(3)/D(2)/D(1)-receptor agonist for 
+the treatment of Parkinson's disease that can be continuously delivered by the
+transdermal route to provide stable plasma levels. Continuous drug delivery
+should reduce the risk of dyskinesia induction in comparison to pulsatile
+dopaminergic treatment. Thus the aim of the study was to compare the reversal of 
+motor disability and induction of dyskinesia produced by continuous compared to
+pulsatile rotigotine administration in MPTP-treated common marmosets. The study
+also investigated whether pulsatile or continuous rotigotine administration in
+combination with l-DOPA prevented l-DOPA-induced dyskinesia. Animals were treated
+for 28 days with vehicle or pulsatile (twice daily) or continuous delivery of
+rotigotine (via an osmotic minipump). Subsequently, l-DOPA was then
+co-administered for a further 28 days. Animals were assessed for locomotor
+activity, motor disability and dyskinesia induction. The study showed that both
+continuous and pulsatile administration of rotigotine improved motor deficits and
+normalized motor function in MPTP-treated monkeys. However, continuous rotigotine
+delivery reduced dyskinesia expression compared to pulsatile treatment. Both
+pulsatile and continuous rotigotine administration produced less dyskinesia than 
+administration of l-DOPA alone. The addition of l-DOPA to either pulsatile or
+continuous rotigotine treatment resulted in the induction of marked dyskinesia
+similar to that produced by treatment with l-DOPA alone. These data further
+support the hypothesis that continuous delivery of a dopaminergic agent reduces
+the risk of dyskinesia induction. However, continuous rotigotine administration
+did not prevent l-DOPA from inducing dyskinesia suggesting that l-DOPA may induce
+dyskinesia by mechanisms different from dopamine agonist drugs.
+
+DOI: 10.1016/j.expneurol.2009.07.011 
+PMID: 19619533  [Indexed for MEDLINE]
+

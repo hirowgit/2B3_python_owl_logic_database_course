@@ -1,0 +1,77 @@
+
+
+103. J Am Assoc Lab Anim Sci. 2021 Sep 1;60(5):568-575. doi:
+10.30802/AALAS-JAALAS-20-000151. Epub 2021 Jul 19.
+
+Pharmacokinetics of Single-Dose Intramuscular and Subcutaneous Injections of
+Buprenorphine in Common Marmosets (Callithrix jacchus).
+
+Fabian NJ(1), Moody DE(2), Averin O(2), Fang WB(2), Jamiel M(3), Fox JG(3), Burns
+MA(3), Haupt JL(3).
+
+Author information: 
+(1)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, Massachusetts;, Email: nfabian@mit.edu.
+(2)Center for Human Toxicology, University of Utah, Salt Lake City, Utah.
+(3)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, Massachusetts.
+
+Although buprenorphine is the most frequently used opioid analgesic in common
+marmosets (Callithrix jacchus), there is limited information in the literature
+supporting current dosing regimens used for this species. The purpose of this
+study was to determine the pharmacokinetic profiles of single-dose buprenorphine 
+HCl administered intramuscularly (IM) at 0.01 mg/kg in 6 adult marmosets (1.8 to 
+12.8 y old; 2 males, 4 females) and subcutaneously (SQ) at 0.01 mg/kg in 6 adult 
+marmo- sets (2.3-4.4 y old; 3 males, 3 females) by mass spectrometry. Blood was
+collected at multiple time points from 0.25 to 24 h from unsedated animals
+following a hybrid sparse-serial sampling design. The maximal observed plasma
+concentration of buprenorphine (Cmax ) administered IM (2.57 ± 0.95 ng/mL) was
+significantly higher than administered SQ (1.47 ± 0.61 ng/mL). However, the time 
+to Cmax (Tmax) was not statistically different between routes (17.4 ± 6 min for
+IM and 19.8 ± 7.8 min for SQ). The time of the last quantifiable concentration of
+buprenorphine was 5 ± 1.67 h for IM compared with 6.33 ± 1.51 h for SQ, which was
+not statistically different. The mean buprenorphine plasma concentration-time
+curves were used to propose a dosing frequency of 4 to 6 h for buprenorphine at
+0.01 mg/kg IM or SQ based on a theoretical therapeutic plasma concentration
+threshold of 0.1 ng/mL. Based on the mean pharmacokinetic parameters and
+plasma-concentration time curves, both IM and SQ routes of buprenorphine at this 
+dose provide a rapid increase in the plasma concentration of buprenorphine above 
+the therapeutic threshold, and may be more effective for acute rather than
+long-lasting analgesia. Further studies are needed to examine repeated dosing
+regimens and the efficacy of buprenorphine in common marmosets.
+
+DOI: 10.30802/AALAS-JAALAS-20-000151 
+PMCID: PMC8603367
+PMID: 34281629  [Indexed for MEDLINE]
+
+
+104. Curr Opin Pharmacol. 2021 Oct;60:11-16. doi: 10.1016/j.coph.2021.06.004. Epub
+2021 Jul 16.
+
+Functional visualization and manipulation in the marmoset brain using viral
+vectors.
+
+Yamamori T(1).
+
+Author information: 
+(1)Center for Brain Science, Laboratory for Molecular Analysis of Higher Brain
+Function, RIKEN, 2-1 Hirosawa, Wako, 351-0198, Japan. Electronic address:
+tetsuo.yamamori@riken.jp.
+
+The common marmoset, a New World monkey, has a primate-specific cortex with
+approximately 40 Brodmann areas. Genetically encoded calcium indicator (GECI)
+techniques have been applied to study the functional organization of the marmoset
+cortex. The success of GCaMP (a green fluorescent of GECI) imaging and other
+advances, including optogenetic approaches, provide an interesting and exciting
+opportunity to study the primate brain at the molecular and cellular levels,
+leading to an understanding of primate neural circuits. These approaches will
+help advance our knowledge on cognition in primates, including humans, and
+therapy for human neurological and psychiatric disorders.
+
+Copyright © 2021 The Author. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.coph.2021.06.004 
+PMID: 34280704  [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest statement Nothing declared.
+

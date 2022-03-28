@@ -1,0 +1,39 @@
+
+
+3387. Arch Biochem Biophys. 1999 Dec 1;372(1):189-96.
+
+Molecular cloning, expression, and characterization of CYP2D17 from cynomolgus
+monkey liver.
+
+Mankowski DC(1), Laddison KJ, Christopherson PA, Ekins S, Tweedie DJ, Lawton MP.
+
+Author information: 
+(1)Pfizer Central Research, Eastern Point Road, Groton, Connecticut, 06340, USA.
+
+The cynomolgus monkey is a species used in drug-safety evaluation and
+biotransformation studies by the pharmaceutical industry. Relatively little is
+known, however, about the catalytic activities and specificities of cytochromes
+P450 (CYP) in this species. As a first step in characterizing monkey CYPs, a cDNA
+was cloned by reverse-transcriptase PCR from cynomolgus monkey liver mRNA using
+oligonucleotide primers based on the human CYP2D6 sequence. The full-length cDNA 
+(called CYP2D17) encoded a 497-amino-acid protein that is 93% identical to human 
+CYP2D6 and 90% identical to marmoset CYP2D19. The CYP2D17 cDNA was cloned into a 
+baculovirus expression vector, and microsomes prepared from CYP2D17-infected
+insect cells were used to determine the catalytic properties of the recombinant
+enzyme. The recombinant CYP2D17 results were compared to data generated with
+monkey liver microsomes, human liver microsomes, and recombinant CYP2D6 and
+demonstrated catalytic similarity using probe substrates and inhibitors.
+Recombinant CYP2D17 catalyzed the oxidation of bufuralol to 1'-hydroxybufuralol
+and dextromethorphan to dextrorphan, reactions shown to be mediated by CYP2D6 in 
+humans; the apparent K(m) values for bufuralol and dextromethorphan were 1 and
+0.8 microM, respectively. Moreover, both of these reactions were more strongly
+inhibited by quinidine than by quinine. A more complete understanding of the
+substrate specificities and activities of monkey CYPs will be advantageous in
+delineating species differences in metabolite profiles and metabolic activation
+of new chemical entities in the pharmaceutical industry.
+
+Copyright 1999 Academic Press.
+
+DOI: 10.1006/abbi.1999.1506 
+PMID: 10562433  [Indexed for MEDLINE]
+

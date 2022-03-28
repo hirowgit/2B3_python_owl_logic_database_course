@@ -1,0 +1,122 @@
+
+
+1109. Parasit Vectors. 2016 Jan 26;9:39. doi: 10.1186/s13071-016-1334-7.
+
+Vector-borne transmission of Trypanosoma cruzi among captive Neotropical primates
+in a Brazilian zoo.
+
+Minuzzi-Souza TT(1), Nitz N(2), Knox MB(3), Reis F(4), Hagström L(5), Cuba CA(6),
+Hecht MM(7), Gurgel-Gonçalves R(8).
+
+Author information: 
+(1)Laboratório de Parasitologia Médica e Biologia de Vetores, Área de Patologia, 
+Faculdade de Medicina, Universidade de Brasília, Campus Universitário Darcy
+Ribeiro, Asa Norte, Brasília, 70910-900, Distrito Federal, Brazil.
+thaistam@yahoo.com.br.
+(2)Laboratório Interdisciplinar de Biociências, Faculdade de Medicina,
+Universidade de Brasília, Brasília, Federal District, Brazil. nnitz@unb.br.
+(3)Diretoria de Vigilância Ambiental do Distrito Federal, Secretaria de Saúde,
+Brasília, Federal District, Brazil. monaknox@gmail.com.
+(4)Fundação Jardim Zoológico de Brasília, Brasília, Federal District, Brazil.
+filipereisbio@gmail.com.
+(5)Laboratório Interdisciplinar de Biociências, Faculdade de Medicina,
+Universidade de Brasília, Brasília, Federal District, Brazil. loubex@hotmail.com.
+(6)Laboratório de Parasitologia Médica e Biologia de Vetores, Área de Patologia, 
+Faculdade de Medicina, Universidade de Brasília, Campus Universitário Darcy
+Ribeiro, Asa Norte, Brasília, 70910-900, Distrito Federal, Brazil.
+cesarcuba@hotmail.com.
+(7)Laboratório Interdisciplinar de Biociências, Faculdade de Medicina,
+Universidade de Brasília, Brasília, Federal District, Brazil.
+marianahecht@gmail.com.
+(8)Laboratório de Parasitologia Médica e Biologia de Vetores, Área de Patologia, 
+Faculdade de Medicina, Universidade de Brasília, Campus Universitário Darcy
+Ribeiro, Asa Norte, Brasília, 70910-900, Distrito Federal, Brazil.
+gurgelrg@hotmail.com.
+
+BACKGROUND: Neotropical primates are important sylvatic hosts of Trypanosoma
+cruzi, the etiological agent of Chagas disease. Infection is often subclinical,
+but severe disease has been described in both free-ranging and captive primates. 
+Panstrongylus megistus, a major T. cruzi vector, was found infesting a
+small-primate unit at Brasília zoo (ZooB), Brazil. ZooB lies close to a
+gallery-forest patch where T. cruzi circulates naturally. Here, we combine
+parasitological and molecular methods to investigate a focus of T. cruzi
+infection involving triatomine bugs and Neotropical primates at a zoo located in 
+the Brazilian Savannah.
+METHODS: We assessed T. cruzi infection in vectors using optical microscopy
+(n = 34) and nested PCR (n = 50). We used quantitative PCR (qPCR) to examine
+blood samples from 26 primates and necropsy samples from two primates that died
+during the study. We determined parasite lineages in five vectors and two
+primates by comparing glucose-6-phosphate isomerase (G6pi) gene sequences.
+RESULTS: Trypanosoma cruzi was found in 44 vectors and 17 primates (six genera
+and eight species); one Mico chrysoleucus and one Saguinus niger had high
+parasitaemias. Trypanosoma cruzi DNA was detected in three primates born to
+qPCR-negative mothers at ZooB and in the two dead specimens. One Callithrix
+geoffroyi became qPCR-positive over a two-year follow-up. All G6pi sequences
+matched T. cruzi lineage TcI.
+CONCLUSIONS: Our findings strongly suggest vector-borne T. cruzi transmission
+within a small-primate unit at ZooB - with vectors, and perhaps also parasites,
+presumably coming from nearby gallery forest. Periodic checks for vectors and
+parasites would help eliminate T. cruzi transmission foci in captive-animal
+facilities. This should be of special importance for captive-breeding programs
+involving endangered mammals, and would reduce the risk of accidental T. cruzi
+transmission to keepers and veterinarians.
+
+DOI: 10.1186/s13071-016-1334-7 
+PMCID: PMC4727406
+PMID: 26813657  [Indexed for MEDLINE]
+
+
+1110. Exp Gerontol. 2016 Apr;76:17-24. doi: 10.1016/j.exger.2016.01.007. Epub 2016 Jan 
+21.
+
+A longitudinal analysis of the effects of age on the blood plasma metabolome in
+the common marmoset, Callithrix jacchus.
+
+Hoffman JM(1), Tran V(2), Wachtman LM(3), Green CL(4), Jones DP(2), Promislow
+DE(5).
+
+Author information: 
+(1)Department of Genetics, University of Georgia, 120 Green Street, Athens, GA
+30602, USA. Electronic address: jmhoffm@uab.edu.
+(2)Division of Pulmonary Allergy and Critical Care, Department of Medicine, Emory
+University, 615 Michael Street, Suite 225, Atlanta, GA 30322,USA; Clinical
+Biomarkers Laboratory, Department of Medicine, Emory University, 615 Michael
+Street, Suite 225, Atlanta, GA 30322,USA.
+(3)New England Primate Research Center, Harvard University, 1 Pinehill Rd,
+Southborough, MA 10772, USA.
+(4)Institute of Biological and Environmental Sciences, University of Aberdeen,
+Tillydrone Avenue, Aberdeen, Scotland, UK.
+(5)Department of Pathology, University of Washington, 1959 NE Pacific Street,
+Seattle, WA 98195, USA; Department of Biology, University of Washington, 1959 NE 
+Pacific Street, Seattle, WA 98195, USA.
+
+Primates tend to be long-lived for their size with humans being the longest lived
+of all primates. There are compelling reasons to understand the underlying
+age-related processes that shape human lifespan. But the very fact of our long
+lifespan that makes it so compelling, also makes it especially difficult to
+study. Thus, in studies of aging, researchers have turned to non-human primate
+models, including chimpanzees, baboons, and rhesus macaques. More recently, the
+common marmoset, Callithrix jacchus, has been recognized as a particularly
+valuable model in studies of aging, given its small size, ease of housing in
+captivity, and relatively short lifespan. However, little is known about the
+physiological changes that occur as marmosets age. To begin to fill in this gap, 
+we utilized high sensitivity metabolomics to define the longitudinal biochemical 
+changes associated with age in the common marmoset. We measured 2104 metabolites 
+from blood plasma at three separate time points over a 17-month period, and we
+completed both a cross-sectional and longitudinal analysis of the metabolome. We 
+discovered hundreds of metabolites associated with age and body weight in both
+male and female animals. Our longitudinal analysis identified age-associated
+metabolic pathways that were not found in our cross-sectional analysis. Pathways 
+enriched for age-associated metabolites included tryptophan, nucleotide, and
+xenobiotic metabolism, suggesting these biochemical pathways might play an
+important role in the basic mechanisms of aging in primates. Moreover, we found
+that many metabolic pathways associated with age were sex specific. Our work
+illustrates the power of longitudinal approaches, even in a short time frame, to 
+discover novel biochemical changes that occur with age.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.exger.2016.01.007 
+PMCID: PMC4775367
+PMID: 26805607  [Indexed for MEDLINE]
+

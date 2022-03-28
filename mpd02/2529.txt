@@ -1,0 +1,39 @@
+
+
+2529. Microbes Infect. 2006 Jul;8(8):2130-7. Epub 2006 Jun 2.
+
+Immunogenicity of a recombinant protein containing the Plasmodium vivax vaccine
+candidate MSP1(19) and two human CD4+ T-cell epitopes administered to non-human
+primates (Callithrix jacchus jacchus).
+
+Rosa DS(1), Iwai LK, Tzelepis F, Bargieri DY, Medeiros MA, Soares IS, Sidney J,
+Sette A, Kalil J, Mello LE, Cunha-Neto E, Rodrigues MM.
+
+Author information: 
+(1)CINTERGEN, Departamento de Microbiologia, Imunologia e Parasitologia,
+Universidade Federal de São Paulo-Escola Paulista de Medicina, Rua Botucatu 862, 
+6th floor, São Paulo, SP 04023-062, Brazil.
+
+One of the most promising vaccine candidates against the erythrocytic forms of
+malaria is the 19 kDa C-terminal region of the merozoite surface protein 1
+(MSP1(19)). As part of our studies aimed at the development of a Plasmodium vivax
+malaria vaccine, we characterized the immunogenic properties of a new bacterial
+recombinant protein containing the P. vivax MSP1(19) and two helper T-cell
+epitopes, the synthetic universal pan allelic DR epitope (PADRE) and a new
+internal MSP1 P. vivax epitope (DYDVVYLKPLAGMYK). We found that the recognition
+of His6MSP1(19)-DYDVVYLKPLAGMYK-PADRE was as good as the recognition of
+His6MSP1(19) indicating that the presence of the T-cell epitopes PADRE and
+DYDVVYLKPLAGMYK did not modify the MSP1(19) epitopes recognized by human IgG. The
+recombinant protein His6MSP1(19)-DYDVVYLKPLAGMYK-PADRE proved to be highly
+immunogenic in marmosets (Callithrix jacchus jacchus) when administered in
+incomplete Freund's adjuvant. However, when administered in other adjuvant
+formulations such as Quil A, CpG ODN 2006 or MPL/TDM, antibody titers to MSP1(19)
+were significantly lower. Among these three adjuvants, Quil A proved to be the
+most efficient one generating antibody titers significantly higher than the
+others. These results indicated that under the circumstances evaluated, adjuvants
+were key for the immunogenicity of the recombinant protein
+His6MSP1(19)-DYDVVYLKPLAGMYK-PADRE.
+
+DOI: 10.1016/j.micinf.2006.03.012 
+PMID: 16797207  [Indexed for MEDLINE]
+

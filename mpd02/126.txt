@@ -1,0 +1,72 @@
+
+
+126. Front Mol Biosci. 2021 May 17;8:660959. doi: 10.3389/fmolb.2021.660959.
+eCollection 2021.
+
+Alternative Animal Models of Aging Research.
+
+Holtze S(1), Gorshkova E(2)(3), Braude S(4), Cellerino A(5)(6), Dammann P(7)(8), 
+Hildebrandt TB(1)(9), Hoeflich A(10), Hoffmann S(11), Koch P(12), Terzibasi
+Tozzini E(13), Skulachev M(14), Skulachev VP(14), Sahm A(11).
+
+Author information: 
+(1)Department of Reproduction Management, Leibniz Institute for Zoo and Wildlife 
+Research, Berlin, Germany.
+(2)Center for Precision Genome Editing and Genetic Technologies for Biomedicine, 
+Engelhardt Institute of Molecular Biology, Russian Academy of Sciences, Moscow,
+Russia.
+(3)Faculty of Biology, Lomonosov Moscow State University, Moscow, Russia.
+(4)Department of Biology, Washington University in St. Louis, St. Louis, MO,
+United States.
+(5)Biology Laboratory, Scuola Normale Superiore, Pisa, Italy.
+(6)Leibniz Institute on Aging - Fritz Lipmann Institute, Jena, Germany.
+(7)Department of General Zoology, Faculty of Biology, University of
+Duisburg-Essen, Essen, Germany.
+(8)Central Animal Laboratory, University Hospital Essen, Essen, Germany.
+(9)Faculty of Veterinary Medicine, Free University of Berlin, Berlin, Germany.
+(10)Division Signal Transduction, Institute for Genome Biology, Leibniz Institute
+for Farm Animal Biology, Dummerstorf, Germany.
+(11)Computational Biology Group, Leibniz Institute on Aging - Fritz Lipmann
+Institute, Jena, Germany.
+(12)Core Facility Life Science Computing, Leibniz Institute on Aging - Fritz
+Lipmann Institute, Jena, Germany.
+(13)Department of Biology and Evolution of Marine Organisms, Stazione Zoologica
+Anton Dohrn, Naples, Italy.
+(14)Belozersky Institute of Physico-Chemical Biology, Lomonosov Moscow State
+University, Moscow, Russia.
+
+Most research on mechanisms of aging is being conducted in a very limited number 
+of classical model species, i.e., laboratory mouse (Mus musculus), rat (Rattus
+norvegicus domestica), the common fruit fly (Drosophila melanogaster) and
+roundworm (Caenorhabditis elegans). The obvious advantages of using these models 
+are access to resources such as strains with known genetic properties,
+high-quality genomic and transcriptomic sequencing data, versatile experimental
+manipulation capabilities including well-established genome editing tools, as
+well as extensive experience in husbandry. However, this approach may introduce
+interpretation biases due to the specific characteristics of the investigated
+species, which may lead to inappropriate, or even false, generalization. For
+example, it is still unclear to what extent knowledge of aging mechanisms gained 
+in short-lived model organisms is transferable to long-lived species such as
+humans. In addition, other specific adaptations favoring a long and healthy life 
+from the immense evolutionary toolbox may be entirely missed. In this review, we 
+summarize the specific characteristics of emerging animal models that have
+attracted the attention of gerontologists, we provide an overview of the
+available data and resources related to these models, and we summarize important 
+insights gained from them in recent years. The models presented include
+short-lived ones such as killifish (Nothobranchius furzeri), long-lived ones such
+as primates (Callithrix jacchus, Cebus imitator, Macaca mulatta), bathyergid
+mole-rats (Heterocephalus glaber, Fukomys spp.), bats (Myotis spp.), birds, olms 
+(Proteus anguinus), turtles, greenland sharks, bivalves (Arctica islandica), and 
+potentially non-aging ones such as Hydra and Planaria.
+
+Copyright © 2021 Holtze, Gorshkova, Braude, Cellerino, Dammann, Hildebrandt,
+Hoeflich, Hoffmann, Koch, Terzibasi Tozzini, Skulachev, Skulachev and Sahm.
+
+DOI: 10.3389/fmolb.2021.660959 
+PMCID: PMC8166319
+PMID: 34079817 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

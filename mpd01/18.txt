@@ -1,0 +1,101 @@
+
+
+18. Front Neural Circuits. 2022 Jan 5;15:786740. doi: 10.3389/fncir.2021.786740.
+eCollection 2021.
+
+Effects of Cortical Cooling on Sound Processing in Auditory Cortex and Thalamus
+of Awake Marmosets.
+
+Jeschke M(1)(2)(3), Ohl FW(2)(4)(5), Wang X(1).
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD, United States.
+(2)Department Systems Physiology of Learning, Leibniz Institute for Neurobiology,
+Magdeburg, Germany.
+(3)Auditory Neuroscience and Optogenetics Group, Cognitive Hearing in Primates
+Laboratory, German Primate Center-Leibniz Institute for Primate Research,
+Göttingen, Germany.
+(4)Institute of Biology, Otto-von-Guericke-University Magdeburg, Magdeburg,
+Germany.
+(5)Center for Behavioral Brain Sciences (CBBS), Magdeburg, Germany.
+
+The auditory thalamus is the central nexus of bottom-up connections from the
+inferior colliculus and top-down connections from auditory cortical areas. While 
+considerable efforts have been made to investigate feedforward processing of
+sounds in the auditory thalamus (medial geniculate body, MGB) of non-human
+primates, little is known about the role of corticofugal feedback in the MGB of
+awake non-human primates. Therefore, we developed a small, repositionable cooling
+probe to manipulate corticofugal feedback and studied neural responses in both
+auditory cortex and thalamus to sounds under conditions of normal and reduced
+cortical temperature. Cooling-induced increases in the width of extracellularly
+recorded spikes in auditory cortex were observed over the distance of several
+hundred micrometers away from the cooling probe. Cortical neurons displayed
+reduction in both spontaneous and stimulus driven firing rates with decreased
+cortical temperatures. In thalamus, cortical cooling led to increased spontaneous
+firing and either increased or decreased stimulus driven activity. Furthermore,
+response tuning to modulation frequencies of temporally modulated sounds and
+spatial tuning to sound source location could be altered (increased or decreased)
+by cortical cooling. Specifically, best modulation frequencies of individual MGB 
+neurons could shift either toward higher or lower frequencies based on the vector
+strength or the firing rate. The tuning of MGB neurons for spatial location could
+both sharpen or widen. Elevation preference could shift toward higher or lower
+elevations and azimuth tuning could move toward ipsilateral or contralateral
+locations. Such bidirectional changes were observed in many parameters which
+suggests that the auditory thalamus acts as a filter that could be adjusted
+according to behaviorally driven signals from auditory cortex. Future work will
+have to delineate the circuit elements responsible for the observed effects.
+
+Copyright © 2022 Jeschke, Ohl and Wang.
+
+DOI: 10.3389/fncir.2021.786740 
+PMCID: PMC8766342
+PMID: 35069125  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+19. Sci Rep. 2022 Jan 20;12(1):1103. doi: 10.1038/s41598-022-05053-w.
+
+Cerebral cortical processing time is elongated in human brain evolution.
+
+Itoh K(1), Konoike N(2), Nejime M(2)(3), Iwaoki H(2), Igarashi H(4), Hirata S(5),
+Nakamura K(2).
+
+Author information: 
+(1)Center for Integrated Human Brain Science, Brain Research Institute, Niigata
+University, Niigata, Japan. itoh@bri.niigata-u.ac.jp.
+(2)Cognitive Neuroscience Section, Primate Research Institute, Kyoto University, 
+Inuyama, Aichi, 951-8585, Japan.
+(3)Division of Biomedical Science, Faculty of Medicine, University of Tsukuba,
+Tsukuba, Japan.
+(4)Center for Integrated Human Brain Science, Brain Research Institute, Niigata
+University, Niigata, Japan.
+(5)Wildlife Research Center, Kyoto University, Kyoto, Japan.
+
+An increase in number of neurons is presumed to underlie the enhancement of
+cognitive abilities in brain evolution. The evolution of human cognition is then 
+expected to have accompanied a prolongation of net neural-processing time due to 
+the accumulation of processing time of individual neurons over an expanded number
+of neurons. Here, we confirmed this prediction and quantified the amount of
+prolongation in vivo, using noninvasive measurements of brain responses to sounds
+in unanesthetized human and nonhuman primates. Latencies of the N1 component of
+auditory-evoked potentials recorded from the scalp were approximately 40, 50, 60,
+and 100 ms for the common marmoset, rhesus monkey, chimpanzee, and human,
+respectively. Importantly, the prominent increase in human N1 latency could not
+be explained by the physical lengthening of the auditory pathway, and therefore
+reflected an extended dwell time for auditory cortical processing. A longer time 
+window for auditory cortical processing is advantageous for analyzing
+time-varying acoustic stimuli, such as those important for speech perception. A
+novel hypothesis concerning human brain evolution then emerges: the increase in
+cortical neuronal number widened the timescale of sensory cortical processing,
+the benefits of which outweighed the disadvantage of slow cognition and reaction.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-022-05053-w 
+PMCID: PMC8776799
+PMID: 35058509  [Indexed for MEDLINE]
+

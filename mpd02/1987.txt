@@ -1,0 +1,37 @@
+
+
+1987. Genes Cells. 2010 Sep 1;15(9):959-69. doi: 10.1111/j.1365-2443.2010.01437.x. Epub
+2010 Jul 28.
+
+Generating induced pluripotent stem cells from common marmoset (Callithrix
+jacchus) fetal liver cells using defined factors, including Lin28.
+
+Tomioka I(1), Maeda T, Shimada H, Kawai K, Okada Y, Igarashi H, Oiwa R, Iwasaki
+T, Aoki M, Kimura T, Shiozawa S, Shinohara H, Suemizu H, Sasaki E, Okano H.
+
+Author information: 
+(1)Central Institute for Experimental Animals, Kanagawa, Japan.
+
+Although embryonic stem (ES) cell-like induced pluripotent stem (iPS) cells have 
+potential therapeutic applications in humans, they are also useful for creating
+genetically modified human disease models in nonhuman primates. In this study, we
+generated common marmoset iPS cells from fetal liver cells via the
+retrovirus-mediated introduction of six human transcription factors: Oct-3/4,
+Sox2, Klf4, c-Myc, Nanog, and Lin28. Four to five weeks after introduction,
+several colonies resembling marmoset ES cells were observed and picked for
+further expansion in ES cell medium. Eight cell lines were established, and
+validation analyses of the marmoset iPS cells followed. We detected the
+expression of ES cell-specific surface markers. Reverse transcription-PCR showed 
+that these iPS cells expressed endogenous Oct-3/4, Sox2, Klf4, c-Myc, Nanog and
+Lin28 genes, whereas all of the transgenes were silenced. Karyotype analysis
+showed that two of three iPS cell lines retained a normal karyotype after a
+2-month culture. Both embryoid body and teratoma formation showed that marmoset
+iPS cells had the developmental potential to give rise to differentiated
+derivatives of all three primary germ layers. In summary, we generated marmoset
+iPS cells via the transduction of six transcription factors; this provides a
+powerful preclinical model for studies in regenerative medicine.
+
+DOI: 10.1111/j.1365-2443.2010.01437.x 
+PMCID: PMC2970909
+PMID: 20670273  [Indexed for MEDLINE]
+

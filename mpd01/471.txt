@@ -1,0 +1,109 @@
+
+
+471. Proc Natl Acad Sci U S A. 2019 Jul 16;116(29):14761-14768. doi:
+10.1073/pnas.1902087116. Epub 2019 Jul 2.
+
+Insula serotonin 2A receptor binding and gene expression contribute to serotonin 
+transporter polymorphism anxious phenotype in primates.
+
+Santangelo AM(1)(2), Sawiak SJ(3)(2)(4), Fryer T(4), Hong Y(4), Shiba Y(3),
+Clarke HF(3)(2), Riss PJ(4), Ferrari V(4), Tait R(2), Suckling J(4), Aigbirhio
+FI(4), Roberts AC(3)(2).
+
+Author information: 
+(1)Department of Physiology, Development and Neuroscience, University of
+Cambridge, CB2 3DY Cambridge, United Kingdom; as966@cam.ac.uk.
+(2)Behavioural and Clinical Neuroscience Institute, University of Cambridge, CB2 
+3EB Cambridge, United Kingdom.
+(3)Department of Physiology, Development and Neuroscience, University of
+Cambridge, CB2 3DY Cambridge, United Kingdom.
+(4)Department of Clinical Neuroscience, Wolfson Brain Imaging Centre, University 
+of Cambridge, CB2 0QQ, United Kingdom.
+
+Genetic variation in the serotonin transporter gene (SLC6A4) is associated with
+vulnerability to affective disorders and pharmacotherapy efficacy. We recently
+identified sequence polymorphisms in the common marmoset SLC6A4 repeat region
+(AC/C/G and CT/T/C) associated with individual differences in anxiety-like trait,
+gene expression, and response to antidepressants. The mechanisms underlying the
+effects of these polymorphisms are unknown, but a key mediator of serotonin
+action is the serotonin 2A receptor (5HT2A). Thus, we correlated 5HT2A binding
+potential (BP) and RNA gene expression in 16 SLC6A4 genotyped marmosets with
+responsivity to 5HT2A antagonism during the human intruder test of anxiety.
+Voxel-based analysis and RNA measurements showed a reduction in 5HT2A BP and gene
+expression specifically in the right posterior insula of individuals homozygous
+for the anxiety-related variant AC/C/G. These same marmosets displayed an
+anxiogenic, dose-dependent response to the human intruder after 5HT2A
+pharmacological antagonism, while CT/T/C individuals showed no effect. A
+voxel-based correlation analysis, independent of SLC6A4 genotype, revealed that
+5HT2A BP in the adjacent right anterior insula and insula proisocortex was
+negatively correlated with trait anxiety scores. Moreover, 5HT2A BP in both
+regions was a good predictor of the size and direction of the acute emotional
+response to the human intruder threat after 5HT2A antagonism. Our findings
+suggest that genetic variation in the SLC6A4 repeat region may contribute to the 
+trait anxious phenotype via neurochemical changes in brain areas implicated in
+interoceptive and emotional processing, with a critical role for the right insula
+5HT2A in the regulation of affective responses to threat.
+
+DOI: 10.1073/pnas.1902087116 
+PMCID: PMC6642374
+PMID: 31266890  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+472. eNeuro. 2019 Jul 25;6(4). pii: ENEURO.0154-19.2019. doi:
+10.1523/ENEURO.0154-19.2019. Print 2019 Jul/Aug.
+
+Sex Differences in Cognitive Flexibility and Resting Brain Networks in
+Middle-Aged Marmosets.
+
+LaClair M(1)(2), Febo M(3), Nephew B(4)(5), Gervais NJ(6)(7), Poirier G(5),
+Workman K(7), Chumachenko S(5), Payne L(5), Moore MC(5), King JA(4)(5), Lacreuse 
+A(1)(6)(7).
+
+Author information: 
+(1)Neuroscience and Behavior Program, University of Massachusetts, Amherst, MA
+01003 mlaclair@fairfield.edu alacreuse@psych.umass.edu.
+(2)Department of Psychology, Fairfield University, Fairfield, CT 06824.
+(3)Department of Psychiatry, University of Florida, Gainsville, FL 32610.
+(4)Worcester Polytechnic Institute, University of Massachusetts Medical School,
+Worcester, MA 01655.
+(5)Center for Comparative Neuroimaging, University of Massachusetts Medical
+School, Worcester, MA 01655.
+(6)Center for Neuroendocrine Studies, University of Massachusetts, Amherst, MA
+01003.
+(7)Psychological and Brain Sciences, University of Massachusetts, Amherst, MA
+01003.
+
+Sex differences in human cognitive performance are well characterized. However,
+the neural correlates of these differences remain elusive. This issue may be
+clarified using nonhuman primates, for which sociocultural influences are
+minimized. We used the marmoset (Callithrix jacchus) to investigate sex
+differences in two aspects of executive function: reversal learning and
+intradimensional/extradimensional (ID/ED) set shifting. Stress reactivity and
+motor function were also assessed. In agreement with human literature, females
+needed more trials than males to acquire the reversals. No sex differences in ED 
+set shifting or motivational measures were observed. The findings suggest
+enhanced habit formation in females, perhaps due to striatal estrogenic effects. 
+Both sexes showed increased urinary cortisol during social separation stressor,
+but females showed an earlier increase in cortisol and a greater increase in
+agitated locomotion, possibly indicating enhanced stress reactivity. Independent 
+of sex, basal cortisol predicted cognitive performance. No sex differences were
+found in motor performance. Associations between brain networks and reversal
+learning performance were investigated using resting state fMRI. Resting state
+functional connectivity (rsFC) analyses revealed sex differences in cognitive
+networks, with differences in overall neural network metrics and specific
+regions, including the prefrontal cortex, caudate, putamen, and nucleus
+accumbens. Correlations between cognitive flexibility and neural connectivity
+indicate that sex differences in cognitive flexibility are related to
+sex-dependent patterns of resting brain networks. Overall, our findings reveal
+sex differences in reversal learning, brain networks, and their relationship in
+the marmoset, positioning this species as an excellent model to investigate the
+biological basis of cognitive sex differences.
+
+Copyright © 2019 LaClair et al.
+
+DOI: 10.1523/ENEURO.0154-19.2019 
+PMCID: PMC6658914
+PMID: 31262949  [Indexed for MEDLINE]
+

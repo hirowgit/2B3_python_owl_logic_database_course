@@ -1,0 +1,98 @@
+
+
+796. Nature. 2017 Oct 19;550(7676):411-414. doi: 10.1038/nature24055. Epub 2017 Oct
+11.
+
+Cryo-electron microscopy structure of the lysosomal calcium-permeable channel
+TRPML3.
+
+Hirschi M(1), Herzik MA Jr(2), Wie J(3), Suo Y(1), Borschel WF(1), Ren D(3),
+Lander GC(2), Lee SY(1).
+
+Author information: 
+(1)Department of Biochemistry, Duke University School of Medicine, Durham, North 
+Carolina 27710, USA.
+(2)Department of Integrative Structural and Computational Biology, The Scripps
+Research Institute, La Jolla, California 92037, USA.
+(3)Department of Biology, University of Pennsylvania, Philadelphia, Pennsylvania 
+19104, USA.
+
+The modulation of ion channel activity by lipids is increasingly recognized as a 
+fundamental component of cellular signalling. The transient receptor potential
+mucolipin (TRPML) channel family belongs to the TRP superfamily and is composed
+of three members: TRPML1-TRPML3. TRPMLs are the major Ca2+-permeable channels on 
+late endosomes and lysosomes (LEL). They regulate the release of Ca2+ from
+organelles, which is important for various physiological processes, including
+organelle trafficking and fusion. Loss-of-function mutations in the MCOLN1 gene, 
+which encodes TRPML1, cause the neurodegenerative lysosomal storage disorder
+mucolipidosis type IV, and a gain-of-function mutation (Ala419Pro) in TRPML3
+gives rise to the varitint-waddler (Va) mouse phenotype. Notably, TRPML channels 
+are activated by the low-abundance and LEL-enriched signalling lipid
+phosphatidylinositol-3,5-bisphosphate (PtdIns(3,5)P2), whereas other
+phosphoinositides such as PtdIns(4,5)P2, which is enriched in plasma membranes,
+inhibit TRPMLs. Conserved basic residues at the N terminus of the channel are
+important for activation by PtdIns(3,5)P2 and inhibition by PtdIns(4,5)P2.
+However, owing to a lack of structural information, the mechanism by which TRPML 
+channels recognize PtdIns(3,5)P2 and increase their Ca2+ conductance remains
+unclear. Here we present the cryo-electron microscopy (cryo-EM) structure of a
+full-length TRPML3 channel from the common marmoset (Callithrix jacchus) at an
+overall resolution of 2.9 Å. Our structure reveals not only the molecular basis
+of ion conduction but also the unique architecture of TRPMLs, wherein the voltage
+sensor-like domain is linked to the pore via a cytosolic domain that we term the 
+mucolipin domain. Combined with functional studies, these data suggest that the
+mucolipin domain is responsible for PtdIns(3,5)P2 binding and subsequent channel 
+activation, and that it acts as a 'gating pulley' for lipid-dependent TRPML
+gating.
+
+DOI: 10.1038/nature24055 
+PMCID: PMC5762132
+PMID: 29019979  [Indexed for MEDLINE]
+
+
+797. Mol Phylogenet Evol. 2018 Jan;118:156-171. doi: 10.1016/j.ympev.2017.10.002. Epub
+2017 Oct 6.
+
+Phenotypic evolution in marmoset and tamarin monkeys (Cebidae, Callitrichinae)
+and a revised genus-level classification.
+
+Garbino GST(1), Martins-Junior AMG(2).
+
+Author information: 
+(1)PPG-Zoologia, Departamento de Zoologia, Instituto de Ciências Biológicas,
+Universidade Federal de Minas Gerais, Belo Horizonte, Brazil. Electronic address:
+antonio_mgmartins@hotmail.com.
+(2)Laboratório de Genética e Evolução, Instituto Federal do Pará, Campus de
+Tucuruí, Brazil; Centro de Genômica e Biologia de Sistemas, Universidade Federal 
+do Pará, Belém, Brazil.
+
+Marmosets and tamarins (Cebidae, Callitrichinae) constitute the most species-rich
+subfamily of New World monkeys and one of the most diverse phenotypically.
+Despite the profusion of molecular phylogenies of the group, the evolution of
+phenotypic characters under the rapidly-emerging consensual phylogeny of the
+subfamily has been little studied, resulting in taxonomic proposals that have
+limited support from other datasets. We examined the evolution of 18 phenotypic
+traits (5 continuous and 13 discrete), including pelage, skull, dentition,
+postcrania, life-history and vocalization variables in a robust molecular
+phylogeny of marmoset and tamarin monkeys, quantifying their phylogenetic signal 
+and correlations among some of the traits. At the family level, our resulting
+topology supports owl monkeys (Aotinae) as sister group of Callitrichinae. The
+topology of the callitrichine tree was congruent with previous studies except for
+the position of the midas group of Saguinus tamarins, which placement as sister
+of the bicolor group did not receive significant statistical support in both
+Maximum Parsimony and Bayesian Inference analyses. Our results showed that the
+highest value of phylogenetic signal among continuous traits was displayed by the
+long call character and the lowest was exhibited in the home range, intermediate 
+values were found in characters related to osteology and skull size. Among
+discrete traits, pelage and osteology had similar phylogenetic signal. Based on
+genetic, osteological, pelage and vocalization data, we present an updated
+genus-level taxonomy of Callitrichinae, which recognizes six genera in the
+subfamily: Callimico, Callithrix, Cebuella, Mico, Leontopithecus and Saguinus. To
+reflect their phenotypic distinctiveness and to avoid the use of the informal
+"species group", we subdivided Saguinus in the subgenera Leontocebus, Saguinus
+and Tamarinus (revalidated here).
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ympev.2017.10.002 
+PMID: 28989098  [Indexed for MEDLINE]
+

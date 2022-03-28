@@ -1,0 +1,44 @@
+
+
+2145. Mol Biol Evol. 2009 Aug;26(8):1889-900. doi: 10.1093/molbev/msp101. Epub 2009 May
+8.
+
+New insights into centromere organization and evolution from the white-cheeked
+gibbon and marmoset.
+
+Cellamare A(1), Catacchio CR, Alkan C, Giannuzzi G, Antonacci F, Cardone MF,
+Della Valle G, Malig M, Rocchi M, Eichler EE, Ventura M.
+
+Author information: 
+(1)Department of Genetics and Microbiology, University of Bari, Bari, Italy.
+
+The evolutionary history of alpha-satellite DNA, the major component of primate
+centromeres, is hardly defined because of the difficulty in its sequence assembly
+and its rapid evolution when compared with most genomic sequences. By using
+several approaches, we have cloned, sequenced, and characterized alpha-satellite 
+sequences from two species representing critical nodes in the primate phylogeny: 
+the white-cheeked gibbon, a lesser ape, and marmoset, a New World monkey.
+Sequence analyses demonstrate that white-cheeked gibbon and marmoset
+alpha-satellite sequences are formed by units of approximately 171 and
+approximately 342 bp, respectively, and they both lack the high-order structure
+found in humans and great apes. Fluorescent in situ hybridization
+characterization shows a broad dispersal of alpha-satellite in the white-cheeked 
+gibbon genome including centromeric, telomeric, and chromosomal interstitial
+localizations. On the other hand, centromeres in marmoset appear organized in
+highly divergent dimers roughly of 342 bp that show a similarity between monomers
+much lower than previously reported dimers, thus representing an ancient dimeric 
+structure. All these data shed light on the evolution of the centromeric
+sequences in Primates. Our results suggest radical differences in the structure, 
+organization, and evolution of alpha-satellite DNA among different primate
+species, supporting the notion that 1) all the centromeric sequence in Primates
+evolved by genomic amplification, unequal crossover, and sequence homogenization 
+using a 171 bp monomer as the basic seeding unit and 2) centromeric function is
+linked to relatively short repeated elements, more than higher-order structure.
+Moreover, our data indicate that complex higher-order repeat structures are a
+peculiarity of the hominid lineage, showing the more complex organization in
+humans.
+
+DOI: 10.1093/molbev/msp101 
+PMCID: PMC2734153
+PMID: 19429672  [Indexed for MEDLINE]
+

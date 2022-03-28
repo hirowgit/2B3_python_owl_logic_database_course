@@ -1,0 +1,52 @@
+
+
+601. Neuroimage. 2019 Feb 1;186:301-307. doi: 10.1016/j.neuroimage.2018.11.005. Epub
+2018 Nov 10.
+
+Intrinsic functional clustering of anterior cingulate cortex in the common
+marmoset.
+
+Schaeffer DJ(1), Gilbert KM(1), Ghahremani M(1), Gati JS(1), Menon RS(2),
+Everling S(3).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada.
+(2)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada; Department of Physiology 
+and Pharmacology, University of Western Ontario, London, Ontario, Canada.
+(3)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada; Department of Physiology 
+and Pharmacology, University of Western Ontario, London, Ontario, Canada.
+Electronic address: severlin@uwo.ca.
+
+The common marmoset (Callithrix jacchus) has garnered recent attention as a
+potentially powerful preclinical model and complement to other canonical
+mammalian models of human brain diseases (e.g., rodents and Old World non-human
+primates). With a granular frontal cortex and the advent of transgenic
+modifications, marmosets are well positioned to serve as neuropsychiatric models 
+of prefrontal cortex dysfunction. A critical step in the development of marmosets
+for such models is to characterize functional network topologies of frontal
+cortex in healthy, normally functioning marmosets. Here, we sought to
+characterize the intrinsic functional connectivity of anterior cingulate cortex
+(ACC) in marmosets using resting state functional magnetic resonance imaging
+(RS-fMRI). Seven lightly anesthetized marmosets were imaged at ultra-high field
+(9.4 T) and hierarchical clustering was employed to extract functional clusters
+of ACC from the RS-fMRI data. The data demonstrated three functionally discrete
+clusters within ACC. The functional connectivity between these clusters with the 
+rest of the brain was also found to be distinct, supporting the hypothesis that
+ACC subregions serve different circuits and their concomitant functions. In a
+separate seed-based analysis, we also sought to delineate finer-grained patterns 
+of ACC connectivity between marmoset primary motor area 4ab and putative eye
+movement areas (8aD and 8aV). This analysis demonstrated distinct patterns of ACC
+functional connectivity between motor and eye movement regions that overlapped
+well with what has been shown in humans and macaques. Overall, these results
+demonstrate that marmosets have a network topology of ACC that resembles that of 
+Old World primates, giving further credence to the use of marmosets for
+preclinical studies of intractable human brain diseases.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2018.11.005 
+PMID: 30419289  [Indexed for MEDLINE]
+

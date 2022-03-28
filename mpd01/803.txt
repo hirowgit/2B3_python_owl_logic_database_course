@@ -1,0 +1,82 @@
+
+
+803. Front Neurosci. 2017 Sep 15;11:514. doi: 10.3389/fnins.2017.00514. eCollection
+2017.
+
+A Chronically Implantable Bidirectional Neural Interface for Non-human Primates.
+
+Komatsu M(1), Sugano E(2), Tomita H(2), Fujii N(3).
+
+Author information: 
+(1)Ichinohe Group, Laboratory for Molecular Analysis of Higher Brain Function,
+RIKEN Brain Science InstituteSaitama, Japan.
+(2)Department of Chemistry and Biological Sciences, Iwate UniversityIwate, Japan.
+(3)Laboratory for Adaptive Intelligence, RIKEN Brain Science InstituteSaitama,
+Japan.
+
+Optogenetics has potential applications in the study of epilepsy and
+neuroprostheses, and for studies on neural circuit dynamics. However, to achieve 
+translation to clinical usage, optogenetic interfaces that are capable of chronic
+stimulation and monitoring with minimal brain trauma are required. We aimed to
+develop a chronically implantable device for photostimulation of the brain of
+non-human primates. We used a micro-light-emitting diode (LED) array with a
+flexible polyimide film. The array was combined with a whole-cortex
+electrocorticographic (ECoG) electrode array for simultaneous photostimulation
+and recording. Channelrhodopsin-2 (ChR2) was virally transduced into the cerebral
+cortex of common marmosets, and then the device was epidurally implanted into
+their brains. We recorded the neural activity during photostimulation of the
+awake monkeys for 4 months. The neural responses gradually increased after the
+virus injection for ~8 weeks and remained constant for another 8 weeks. The
+micro-LED and ECoG arrays allowed semi-invasive simultaneous stimulation and
+recording during long-term implantation in the brains of non-human primates. The 
+development of this device represents substantial progress in the field of
+optogenetic applications.
+
+DOI: 10.3389/fnins.2017.00514 
+PMCID: PMC5605616
+PMID: 28966573 
+
+
+804. PLoS One. 2017 Sep 28;12(9):e0185695. doi: 10.1371/journal.pone.0185695.
+eCollection 2017.
+
+Fathering style influences health outcome in common marmoset (Callithrix jacchus)
+offspring.
+
+Ziegler TE(1), Sosa ME(1), Colman RJ(1)(2).
+
+Author information: 
+(1)Wisconsin National Primate Research Center, University of Wisconsin, Madison, 
+Wisconsin, United States of America.
+(2)Department of Cell and Regenerative Medicine, School of Medicine and Public
+Health, University of Wisconsin, Madison, Wisconsin, United States of America.
+
+In the cooperative breeding common marmoset monkey, Callithrix jacchus, fathers
+share the care responsibility and energetic load with their mate from the time
+their infants are born. However, not all fathers show the same level of
+participation in direct infant care. Here we present the first results
+demonstrating that fathering style can improve both survival and growth
+trajectory of a male's offspring during the first 30 weeks of life and that these
+infant outcomes are consistent within a father throughout successive births.
+Twenty-four marmoset fathers were tested for their responsiveness to an infant
+distress call when their infants were approximately two weeks old. These fathers 
+were categorized as either responsive (RS) or nonresponsive (NRS) based on their 
+response to the calls. Survival past 1 month was then determined and bi-monthly
+weights of current infants through 30 weeks of age were taken. Infant survival to
+the first month was significantly higher with RS fathers than with NRS fathers
+during this critical time period. Infants from RS fathers also had a higher
+growth trajectory with significant differences in body weight in the 28th and
+30th week after birth. Only the RS fathers showed a significant increase in serum
+testosterone in response to infant cries suggesting a physiological role of
+testosterone in the motivation to search for the infant. Furthermore, all
+offspring born to RS fathers from subsequent births also showed a significantly
+higher survival rate and higher growth trajectory than for offspring of NRS
+fathers. These results suggest that fathering style is a consistent trait and
+responsive fathers improve infant survival rate and growth during the first 30
+weeks. Such fathering style traits may be passed on to the male offspring due to 
+environmental or genetic factors.
+
+DOI: 10.1371/journal.pone.0185695 
+PMCID: PMC5619809
+PMID: 28957433  [Indexed for MEDLINE]
+

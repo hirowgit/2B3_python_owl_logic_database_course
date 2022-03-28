@@ -1,0 +1,47 @@
+
+
+346. Stem Cell Res. 2020 Apr;44:101740. doi: 10.1016/j.scr.2020.101740. Epub 2020 Feb 
+21.
+
+Generation of a male common marmoset embryonic stem cell line DSY127-BV8VT1
+carrying double reporters specific for the germ cell linage using the CRISPR-Cas9
+and PiggyBac transposase systems.
+
+Yoshimatsu S(1), Sato T(2), Yamamoto M(3), Sasaki E(4), Nakajima M(2), Nakamura
+M(2), Shiozawa S(2), Noce T(5), Okano H(6).
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan;
+Laboratory for Proteolytic Neuroscience, RIKEN Center for Brain Science, Saitama,
+Japan. Electronic address: yoshima@a7.keio.jp.
+(2)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan.
+(3)ICLAS Monitoring Center, Central Institute for Experimental Animals, Kanagawa,
+Japan.
+(4)Department of Marmoset Biology and Medicine, Central Institute for
+Experimental Animals, Kanagawa, Japan.
+(5)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan.
+(6)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan;
+Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan. Electronic address: hidokano@a2.keio.jp.
+
+BLIMP1 (PRDM1) and VASA (DDX4) play pivotal roles in the development of the germ 
+cell linage. Importantly, these genes are specifically expressed in germ cells;
+BLIMP1 in primordial germ cells (PGCs) to early-stage gonocytes, and VASA in
+migration-stage PGCs to mature gametes. The high reproductive efficiency of
+common marmosets (marmosets; Callithrix jacchus) makes them advantageous for use 
+in germ cell research. We herein report the generation of a male marmoset
+embryonic stem cell (ESC) line harboring BLIMP1 and DDX4 double reporters. This
+ESC line will be a useful tool for investigating male gametogenesis in non-human 
+primates.
+
+Copyright © 2020 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scr.2020.101740 
+PMID: 32151954  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing Interest H.O. serves as 
+a paid scientific advisor at SanBio Co. Ltd. and K Pharma Inc. Rest of the
+authors declare there are no financial or non-financial competing interests with 
+regard to this work.
+

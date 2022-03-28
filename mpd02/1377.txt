@@ -1,0 +1,64 @@
+
+
+1377. PLoS One. 2014 Jul 31;9(7):e103714. doi: 10.1371/journal.pone.0103714.
+eCollection 2014.
+
+5meCpG epigenetic marks neighboring a primate-conserved core promoter short
+tandem repeat indicate X-chromosome inactivation.
+
+Machado FB(1), Machado FB(2), Faria MA(2), Lovatel VL(2), Alves da Silva AF(3),
+Radic CP(4), De Brasi CD(4), Rios ÁF(2), de Sousa Lopes SM(5), da Silveira LS(6),
+Ruiz-Miranda CR(7), Ramos ES(1), Medina-Acosta E(3).
+
+Author information: 
+(1)Department of Genetics, School of Medicine, University of São Paulo, Ribeirão 
+Preto, São Paulo, Brazil.
+(2)Laboratory of Biotechnology, Universidade Estadual do Norte Fluminense Darcy
+Ribeiro, Campos do Goytacazes, Rio de Janeiro, Brazil.
+(3)Laboratory of Biotechnology, Universidade Estadual do Norte Fluminense Darcy
+Ribeiro, Campos do Goytacazes, Rio de Janeiro, Brazil; Molecular Identification
+and Diagnostics Unit, Hospital Escola Álvaro Alvim, Campos dos Goytacazes, Rio de
+Janeiro, Brazil.
+(4)Laboratory of Molecular Genetics of Hemophilia, Institute of Experimental
+Medicine, National Academy of Medicine, Buenos Aires, Argentina.
+(5)Department of Anatomy and Embryology, Leiden University Medical Center,
+Leiden, South Holland, the Netherlands.
+(6)Laboratory of Animal Morphology and Pathology, Center for Studies and Research
+in Wildlife, Universidade Estadual do Norte Fluminense Darcy Ribeiro, Campos do
+Goytacazes, Rio de Janeiro, Brazil.
+(7)Laboratory of Environmental Sciences, Sector of Studies of Ethology,
+Reintroduction and Conservation of Wild Animals, Universidade Estadual do Norte
+Fluminense Darcy Ribeiro, Campos do Goytacazes, Rio de Janeiro, Brazil.
+
+X-chromosome inactivation (XCI) is the epigenetic transcriptional silencing of an
+X-chromosome during the early stages of embryonic development in female eutherian
+mammals. XCI assures monoallelic expression in each cell and compensation for
+dosage-sensitive X-linked genes between females (XX) and males (XY). DNA
+methylation at the carbon-5 position of the cytosine pyrimidine ring in the
+context of a CpG dinucleotide sequence (5meCpG) in promoter regions is a key
+epigenetic marker for transcriptional gene silencing. Using computational
+analysis, we revealed an extragenic tandem GAAA repeat 230-bp from the landmark
+CpG island of the human X-linked retinitis pigmentosa 2 RP2 promoter whose 5meCpG
+status correlates with XCI. We used this RP2 onshore tandem GAAA repeat to
+develop an allele-specific 5meCpG-based PCR assay that is highly concordant with 
+the human androgen receptor (AR) exonic tandem CAG repeat-based standard HUMARA
+assay in discriminating active (Xa) from inactive (Xi) X-chromosomes. The RP2
+onshore tandem GAAA repeat contains neutral features that are lacking in the AR
+disease-linked tandem CAG repeat, is highly polymorphic (heterozygosity rates
+approximately 0.8) and shows minimal variation in the Xa/Xi ratio. The combined
+informativeness of RP2/AR is approximately 0.97, and this assay excels at
+determining the 5meCpG status of alleles at the Xp (RP2) and Xq (AR) chromosome
+arms in a single reaction. These findings are relevant and directly translatable 
+to nonhuman primate models of XCI in which the AR CAG-repeat is monomorphic. We
+conducted the RP2 onshore tandem GAAA repeat assay in the naturally occurring
+chimeric New World monkey marmoset (Callitrichidae) and found it to be
+informative. The RP2 onshore tandem GAAA repeat will facilitate studies on the
+variable phenotypic expression of dominant and recessive X-linked diseases,
+epigenetic changes in twins, the physiology of aging hematopoiesis, the
+pathogenesis of age-related hematopoietic malignancies and the clonality of
+cancers in human and nonhuman primates.
+
+DOI: 10.1371/journal.pone.0103714 
+PMCID: PMC4117532
+PMID: 25078280  [Indexed for MEDLINE]
+

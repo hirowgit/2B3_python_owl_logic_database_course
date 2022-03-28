@@ -1,0 +1,34 @@
+
+
+2452. Proc Natl Acad Sci U S A. 2006 Dec 19;103(51):19512-7. Epub 2006 Dec 7.
+
+Geniculocortical relay of blue-off signals in the primate visual system.
+
+Szmajda BA(1), Buzás P, Fitzgibbon T, Martin PR.
+
+Author information: 
+(1)National Vision Research Institute of Australia, University of Melbourne,
+Carlton VIC 3053, Australia.
+
+A fundamental dichotomy in the subcortical visual system exists between on- and
+off-type neurons, which respectively signal increases and decreases of light
+intensity in the visual environment. In primates, signals for red-green color
+vision are carried by both on- and off-type neurons in the parvocellular division
+of the subcortical pathway. It is thought that on-type signals for blue-yellow
+color vision are carried by cells in a distinct, diffusely projecting
+(koniocellular) pathway, but the pathway taken by blue-off signals is not known. 
+Here, we measured blue-off responses in the subcortical visual pathway of
+marmoset monkeys. We found that the cells exhibiting blue-off responses are
+largely segregated to the koniocellular pathway. The blue-off cells show
+relatively large receptive fields, sluggish responses to maintained contrast,
+little sign of an inhibitory receptive-field surround mechanism, and negligible
+functional input from an intrinsic (melanopsin-based) phototransductive
+mechanism. These properties are consistent with input from koniocellular or
+"W-like" ganglion cells in the retina and suggest that blue-off cells, as
+previously shown for blue-on cells, could contribute to cortical mechanisms for
+visual perception via the koniocellular pathway.
+
+DOI: 10.1073/pnas.0606970103 
+PMCID: PMC1748257
+PMID: 17158219  [Indexed for MEDLINE]
+

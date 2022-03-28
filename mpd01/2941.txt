@@ -1,0 +1,85 @@
+
+
+2941. Mov Disord. 2003 May;18(5):487-95.
+
+Effect of pulsatile administration of levodopa on dyskinesia induction in
+drug-naïve MPTP-treated common marmosets: effect of dose, frequency of
+administration, and brain exposure.
+
+Smith LA(1), Jackson MJ, Hansard MJ, Maratos E, Jenner P.
+
+Author information: 
+(1)Division of Pharmacology and Therapeutics, Guy's, King's, and St Thomas'
+School of Biomedical Sciences, King's College, London, United Kingdom.
+
+Levodopa (L-dopa) consistently primes basal ganglia for the appearance of
+dyskinesia in parkinsonian patients and
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine hydrochloride (MPTP) -treated
+primates. This finding may reflect its relatively short duration of effects
+resulting in pulsatile stimulation of postsynaptic dopamine receptors in the
+striatum. We have compared the relationship between L-dopa dose and frequency of 
+administration on dyskinesia initiation in drug-naïve, MPTP-treated common
+marmosets. We have also studied the effect of increased brain exposure to
+pulsatile administration by combining a low-dose of L-dopa with the peripheral
+catechol-O-methyltransferase inhibitor (COMT-I), entacapone. Pulsatile
+administration of a low (dose range, 5.0-7.5 mg/kg p.o.) or a high (12.5 mg/kg)
+dose of L-dopa plus carbidopa b.i.d. produced a dose-related reversal of motor
+deficits. Repeated administration of low and high doses of L-dopa for 26 days to 
+drug-naïve, MPTP-treated animals also caused a dose-related induction of
+peak-dose dyskinesia. Repeated administration of high-dose L-dopa b.i.d. compared
+to once daily caused a frequency-related improvement of motor symptoms, resulting
+in a more rapid and initially more intense appearance of peak-dose dyskinesia.
+Administration of low-dose L-dopa b.i.d. for 26 days in combination with
+entacapone enhanced the increase in locomotor activity and reversal of disability
+produced by L-dopa alone, but with no obvious change in duration of L-dopa's
+effect. However, combining entacapone with L-dopa resulted in the more rapid
+appearance of dyskinesia, which was initially more severe than occurred with
+L-dopa alone. Importantly, increasing pulsatile exposure of brain to L-dopa by
+preventing its peripheral breakdown also increases dyskinesia induction.
+
+Copyright 2003 Movement Disorder Society
+
+DOI: 10.1002/mds.10394 
+PMID: 12722161  [Indexed for MEDLINE]
+
+
+2942. J Neurophysiol. 2003 Aug;90(2):930-7. Epub 2003 Apr 23.
+
+The nature of V1 neural responses to 2D moving patterns depends on
+receptive-field structure in the marmoset monkey.
+
+Tinsley CJ(1), Webb BS, Barraclough NE, Vincent CJ, Parker A, Derrington AM.
+
+Author information: 
+(1)School of Psychology, University of Nottingham, University Park, Nottingham
+NG7 2RD, United Kingdom.
+
+Erratum in
+    J Neurophysiol. 2004 Aug;92(2):1263.
+
+A plaid pattern is formed when two sinusoidal gratings of different orientations 
+are added together. Previous work has shown that V1 neurons selectively encode
+the direction and orientation of the component gratings in a moving plaid but not
+the direction of the plaid itself (Movshon et al. 1985). We recorded the
+responses of 49 direction-selective neurons to moving gratings and plaid patterns
+in area V1 of the anesthetized marmoset monkey (Callithrix jacchus). The
+responses of V1 neurons to rectangular patches of varying lengths and widths
+containing gratings of optimal spatial frequency were used to measure size and
+aspect ratio of the receptive-field subunits. We measured responses to plaid
+patterns moving in different directions and graded the magnitude of the response 
+to the direction of motion of the plaid and the response to the direction of
+motion of the component gratings. We found significant correlations between
+receptive-field structure and the type and strength of its response to moving
+plaid patterns. The strength of pattern and component responses was significantly
+correlated with the interrelated properties of direction tuning width (Spearman's
+r = 0.82, P < 0.001), and receptive-field subunit aspect ratio (Spearman's r =
+-0.79, P < 0.001). Neurons with broad direction tuning and short, wide
+receptive-field subunits gave their greatest response when the plaid moved in
+their preferred direction. Conversely, neurons with narrow direction tuning and
+long, narrow receptive-field subunits gave their greatest responses when the
+plaid moved in a direction such that one of its components moved in the preferred
+direction.
+
+DOI: 10.1152/jn.00708.2002 
+PMID: 12711710  [Indexed for MEDLINE]
+

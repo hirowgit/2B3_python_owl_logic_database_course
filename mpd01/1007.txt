@@ -1,0 +1,109 @@
+
+
+1007. Sci Rep. 2016 Aug 8;6:31084. doi: 10.1038/srep31084.
+
+Neural changes in the primate brain correlated with the evolution of complex
+motor skills.
+
+Yamazaki Y(1)(2), Hikishima K(3)(4), Saiki M(2), Inada M(2), Sasaki E(3)(4),
+Lemon RN(5), Price CJ(6), Okano H(3)(7), Iriki A(2).
+
+Author information: 
+(1)Advanced Research Centers, Keio University, 35 Shinanomachi, Shinjuku-ku,
+Tokyo 160-8582, Japan.
+(2)Laboratory for Symbolic Cognitive Development, RIKEN Brain Science Institute, 
+2-1 Hirosawa, Wako, Saitama 351-0198, Japan.
+(3)Department of Physiology, Keio University School of Medicine, 35 Shinanomachi,
+Shinjuku-ku, Tokyo 160-8582, Japan.
+(4)Central Institute for Experimental Animals, 3-25-12 Tonomachi, Kawasaki-ku,
+Kawasaki, Kanagawa 210-0821, Japan.
+(5)Sobell Department of Motor Neuroscience and Movement Disorders, UCL Institute 
+of Neurology, London WC1N 3BG, UK.
+(6)Wellcome Trust Centre for Neuroimaging, University College London, London
+WC1N3BG, UK.
+(7)Laboratory for Marmoset Neural Architecture, RIKEN Brain Science Institute,
+2-1 Hirosawa, Wako, Saitama 351-0198, Japan.
+
+Complex motor skills of eventual benefit can be learned after considerable trial 
+and error. What do structural brain changes that accompany such effortful
+long-term learning tell us about the mechanisms for developing innovative
+behavior? Using MRI, we monitored brain structure before, during and after four
+marmosets learnt to use a rake, over a long period of 10-13 months. Throughout
+learning, improvements in dexterity and visuo-motor co-ordination correlated with
+increased volume in the lateral extrastriate cortex. During late learning, when
+the most complex behavior was maintained by sustained motivation to acquire the
+skill, the volume of the nucleus accumbens increased. These findings reflect the 
+motivational state required to learn, and show accelerated function in higher
+visual cortex that is consistent with neurocognitive divergence across a spectrum
+of primate species.
+
+DOI: 10.1038/srep31084 
+PMCID: PMC4976342
+PMID: 27498966  [Indexed for MEDLINE]
+
+
+1008. J Virol. 2016 Sep 29;90(20):9153-62. doi: 10.1128/JVI.01051-16. Print 2016 Oct
+15.
+
+Acute Liver Damage Associated with Innate Immune Activation in a Small Nonhuman
+Primate Model of Hepacivirus Infection.
+
+Manickam C(1), Rajakumar P(2), Wachtman L(3), Kramer JA(3), Martinot AJ(1),
+Varner V(1), Giavedoni LD(4), Reeves RK(5).
+
+Author information: 
+(1)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, Massachusetts, USA.
+(2)Yerkes National Primate Research Center, Emory University, Atlanta, Georgia,
+USA.
+(3)New England Primate Research Center, Harvard Medical School, Southborough
+Campus, Southborough, Massachusetts, USA.
+(4)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, Texas, USA.
+(5)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, Massachusetts, USA New England Primate Research Center, Harvard
+Medical School, Southborough Campus, Southborough, Massachusetts, USA
+rreeves@bidmc.harvard.edu.
+
+Despite its importance in shaping adaptive immune responses, viral clearance, and
+immune-based inflammation, tissue-specific innate immunity remains poorly
+characterized for hepatitis C virus (HCV) infection due to the lack of access to 
+acutely infected tissues. In this study, we evaluated the impact of natural
+killer (NK) cells and myeloid (mDCs) and plasmacytoid (pDCs) dendritic cells on
+control of virus replication and virus-induced pathology caused by another, more 
+rapidly resolving hepacivirus, GB virus B (GBV-B), in infections of common
+marmosets. High plasma and liver viral loads and robust hepatitis characterized
+acute GBV-B infection, and while viremia was generally cleared by 2 to 3 months
+postinfection, hepatitis and liver fibrosis persisted after clearance. Coinciding
+with peak viral loads and liver pathology, the levels of NK cells, mDCs, and pDCs
+in the liver increased up to 3-fold. Although no obvious numerical changes in
+peripheral innate cells occurred, circulating NK cells exhibited increased
+perforin and Ki67 expression levels and increased surface expression of CXCR3.
+These data suggested that increased NK cell arming and proliferation as well as
+tissue trafficking may be associated with influx into the liver during acute
+infection. Indeed, NK cell frequencies in the liver positively correlated with
+plasma (R = 0.698; P = 0.015) and liver (R = 0.567; P = 0.057) viral loads.
+Finally, soluble factors associated with NK cells and DCs, including gamma
+interferon (IFN-γ) and RANTES, were increased in acute infection and also were
+associated with viral loads and hepatitis. Collectively, the findings showed that
+mobilization of local and circulating innate immune responses was linked to acute
+virus-induced hepatitis, and potentially to resolution of GBV-B infection, and
+our results may provide insight into similar mechanisms in HCV
+infection.IMPORTANCE: Hepatitis C virus (HCV) infection has created a global
+health crisis, and despite new effective antivirals, it is still a leading cause 
+of liver disease and death worldwide. Recent evidence suggests that innate
+immunity may be a potential therapeutic target for HCV, but it may also be a
+correlate of increased disease. Due to a lack of access to human tissues with
+acute HCV infection, in this study we evaluated the role of innate immunity in
+resolving infection with a hepacivirus, GBV-B, in common marmosets. Collectively,
+our data suggest that NK cell and DC mobilization in acute hepacivirus infection 
+can dampen virus replication but also regulate acute and chronic liver damage.
+How these two opposing effects on the host may be modulated in future therapeutic
+and vaccine approaches warrants further study.
+
+Copyright © 2016, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.01051-16 
+PMCID: PMC5044824
+PMID: 27489267  [Indexed for MEDLINE]
+

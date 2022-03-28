@@ -1,0 +1,37 @@
+
+
+1759. Virus Res. 2012 May;165(2):179-89. doi: 10.1016/j.virusres.2012.02.014. Epub 2012
+Feb 25.
+
+Species restriction of Herpesvirus saimiri and Herpesvirus ateles: human
+lymphocyte transformation correlates with distinct signaling properties of viral 
+oncoproteins.
+
+Katsch K(1), de Jong SJ, Schmidt M, Müller-Fleckenstein I, Fleckenstein B,
+Albrecht JC, Biesinger B.
+
+Author information: 
+(1)Institut für Klinische und Molekulare Virologie,
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany.
+
+The potential of Herpesvirus saimiri (HVS) subgroups A, B and C and Herpesvirus
+ateles (HVA) to transform primary T cells to permanent growth in vitro is
+restricted by the primate host species and by viral variability represented by
+distinct viral oncoproteins. We now addressed the relation between the
+transforming potential of the different viruses and the signaling pathways
+activated by transiently expressed oncoproteins. Marmoset lymphocytes were
+transformed by all HVS subgroups as well as HVA, while transformation of human
+cells was restricted to HVS-C and, unexpectedly, HVA. NF-κB and Src-family kinase
+(SFK) activity was required for survival of all transformed lymphocytes.
+Accordingly, NF-κB was induced by oncoproteins of all viruses. In contrast,
+SFK-related signaling was detectable only for oncoproteins of HVS-C and HVA.
+Thus, the restricted transformation of human lymphocytes likely correlates with
+the specific SFK targeting by these oncoproteins. These results will enable
+further studies into novel SFK effector mechanisms relevant for T-cell
+proliferation.
+
+Copyright © 2012 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.virusres.2012.02.014 
+PMID: 22374337  [Indexed for MEDLINE]
+

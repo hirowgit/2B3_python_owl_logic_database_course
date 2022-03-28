@@ -1,0 +1,35 @@
+
+
+3685. J Cereb Blood Flow Metab. 1997 Apr;17(4):421-9.
+
+The effects of SB 206284A, a novel neuronal calcium-channel antagonist, in models
+of cerebral ischemia.
+
+Wood NI(1), Barone FC, Benham CD, Brown TH, Campbell CA, Cooper DG, Evans ML,
+Feuerstein GZ, Hamilton TC, Harries MH, King PD, Meakin JE, Murkitt KL, Patel SR,
+Price WJ, Roberts JC, Rothaul AL, Samson NA, Smith SJ, Hunter AJ.
+
+Author information: 
+(1)SmithKline Beecham Pharmaceuticals, Harlow, Essex, United Kingdom.
+
+The effects of SB 206284A, 1-[7-(4-benzyloxyphenoxy)heptyl] piperidine
+hydrochloride, have been investigated in vitro on calcium and sodium currents in 
+rat-cultured dorsal root ganglion (DRG) neurones and potassium-mediated calcium
+influx in rat synaptosomes. Cardiovascular hemodynamic effects in both
+anesthetized and conscious rats, and neuroprotective activity in in vivo cerebral
+ischemia models were also investigated. In the rat DRG cells, SB 206284A caused
+almost complete block of the sustained inward Ca2+ current (IC50 = 2.4 microM),
+suggesting that the compound is an effective blocker of slowly inactivating,
+high-voltage calcium current. SB 206284A reduced locomotor hyperactivity in the
+gerbil bilateral carotid artery occlusion model without affecting
+ischemia-induced damage in the hippocampal CA1 region. In the rat middle cerebral
+artery occlusion model, SB 206284A reduced lesion volume in the posterior
+forebrain, and in the rat photochemical cortical lesion model, lesion volume was 
+reduced even when treatment was delayed until 4 hours after occlusion. At
+neuroprotective doses, SB 206284A had no cardiovascular effects. These findings
+show that SB 206284A is a novel calcium channel antagonist that shows
+neuroprotective properties.
+
+DOI: 10.1097/00004647-199704000-00007 
+PMID: 9143224  [Indexed for MEDLINE]
+

@@ -1,0 +1,74 @@
+
+
+2288. Nature. 2008 Jun 19;453(7198):1102-6. doi: 10.1038/nature06910. Epub 2008 May 4.
+
+Neural substrates of vocalization feedback monitoring in primate auditory cortex.
+
+Eliades SJ(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA.
+seliades@jhu.edu
+
+Vocal communication involves both speaking and hearing, often taking place
+concurrently. Vocal production, including human speech and animal vocalization,
+poses a number of unique challenges for the auditory system. It is important for 
+the auditory system to monitor external sounds continuously from the acoustic
+environment during speaking despite the potential for sensory masking by
+self-generated sounds. It is also essential for the auditory system to monitor
+feedback of one's own voice. This self-monitoring may play a part in
+distinguishing between self-generated or externally generatedauditory inputs and 
+in detecting errors in our vocal production. Previous work in humans and other
+animals has demonstrated that the auditory cortex is largely suppressed during
+speaking or vocalizing. Despite the importance of self-monitoring, the underlying
+neural mechanisms in the mammalian brain, in particular the role of
+vocalization-induced suppression, remain virtually unknown. Here we show that
+neurons in the auditory cortex of marmoset monkeys (Callithrix jacchus) are
+sensitive to auditory feedback during vocal production, and that changes in the
+feedback alter the coding properties of these neurons. Furthermore, we found that
+the previously described cortical suppression during vocalization actually
+increased the sensitivity of these neurons to vocal feedback. This heightened
+sensitivity to vocal feedback suggests that these neurons may have an important
+role in auditory self-monitoring.
+
+DOI: 10.1038/nature06910 
+PMID: 18454135  [Indexed for MEDLINE]
+
+
+2289. Invest Ophthalmol Vis Sci. 2008 Aug;49(8):3707-14. doi: 10.1167/iovs.08-1896.
+Epub 2008 Apr 30.
+
+Autoimmune optic neuritis in the common marmoset monkey: comparison of visual
+evoked potentials with MRI and histopathology.
+
+Diem R(1), Demmer I, Boretius S, Merkler D, Schmelting B, Williams SK, Sättler
+MB, Bähr M, Michaelis T, Frahm J, Brück W, Fuchs E.
+
+Author information: 
+(1)Neurologische Klinik der Universität des Saarlandes, Homburg, Saar, Germany.
+ricarda.diem@uniklinikum-saarland.de
+
+PURPOSE: To assess the use of visual evoked potentials (VEPs) for the in vivo
+detection of impaired visual function in a marmoset model of multiple sclerosis. 
+The sensitivity of the VEP recordings was determined by comparison with magnetic 
+resonance imaging (MRI) and histopathology.
+METHODS: Baseline VEPs were recorded in six healthy marmoset monkeys in response 
+to light-flash stimulation. Experimental autoimmune encephalomyelitis (EAE) was
+induced in four of the six monkeys. Clinical scores were assessed daily, and VEPs
+were recorded every second week. In vivo MRI and subsequent histopathology of the
+brains and optic nerves were performed at the end of the study.
+RESULTS: After induction of EAE, all four marmosets exhibited clinical signs
+between day 26 and 38 after immunization. VEPs were normal during the induction
+phase of the disease, but deteriorated in amplitude with the occurrence of
+clinical symptoms in all animals. MRI revealed bilateral optic neuritis and
+signal alterations in the optic tracts and occipital subcortical white matter in 
+two of the animals. In the remaining two animals, MRI detected signal alterations
+in the occipital subcortical white matter. Histopathologic results were
+concordant with the MRI findings.
+CONCLUSIONS: VEPs are an easily accessible noninvasive tool for measuring visual 
+function and diagnosing impairment of the visual pathway in a marmoset EAE model.
+
+DOI: 10.1167/iovs.08-1896 
+PMID: 18450589  [Indexed for MEDLINE]
+

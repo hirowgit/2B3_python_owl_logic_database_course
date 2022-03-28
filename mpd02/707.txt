@@ -1,0 +1,64 @@
+
+
+707. Virol J. 2018 Mar 27;15(1):51. doi: 10.1186/s12985-018-0967-x.
+
+Genotype-specific and cross-reactive neutralizing antibodies induced by dengue
+virus infection: detection of antibodies with different levels of neutralizing
+activities against homologous and heterologous genotypes of dengue virus type 2
+in common marmosets (Callithrix jacchus).
+
+Azami NAM(1)(2), Moi ML(1)(3), Ami Y(4), Suzaki Y(4), Lim CK(1), Taniguchi S(1), 
+Saijo M(1), Takasaki T(5), Kurane I(6).
+
+Author information: 
+(1)Department of Virology 1, National Institute of Infectious Diseases, Tokyo,
+Japan.
+(2)Graduate School of Comprehensive Human Sciences, University of Tsukuba,
+Ibaraki, Japan.
+(3)Institute of Tropical Medicine, Nagasaki University, Nagasaki, Japan.
+(4)Division of Experimental Animal Research, National Institute of Infectious
+Diseases, Tokyo, Japan.
+(5)Kanagawa Prefectural Institute of Public Health, Kanagawa, Japan.
+(6)National Institute of Infectious Diseases, 1-23-1 Toyama, Shinjuku, Tokyo,
+162-8640, Japan. kurane@nih.go.jp.
+
+BACKGROUND: A vaccine against all four dengue virus (DENV) serotypes includes the
+formulation of one genotype of each serotype. Although genetic similarities among
+genotypes within a serotype are higher as compared to those among serotypes,
+differences in the immunogenicity of the included genotypes would be a critical
+issue in maximizing successful dengue vaccine development. Thus, we determined
+the neutralizing antibody responses against three genotypes of dengue virus
+serotype 2 (DENV-2), namely Cosmopolitan, Asian I, and Asian/American, after
+primary and secondary inoculation with DENV-2 in a dengue animal model, the
+common marmoset (Callithrix jacchus).
+METHODS: A total of fifty-four plasma samples were obtained from thirty-four
+marmosets that were inoculated with clinically-isolated DENV strains or DENV
+candidate vaccines, were used in this study. Plasma samples were obtained from
+marmosets after primary inoculation with DENV-2 infection, secondary inoculation 
+with homologous or heterologous genotypes, and tertiary inoculation with
+heterologous DENV. Neutralizing antibody titers against DENV-2 (Cosmopolitan,
+Asian I, and Asian/American genotypes) and DENV-1 were determined using a
+conventional plaque reduction neutralization assay.
+RESULTS: In marmosets that were inoculated with the Cosmopolitan genotype in
+primary infection, neutralizing antibody neutralized 3 genotypes, and the titers 
+to Asian I genotype were significantly higher than those to homologous
+Cosmopolitan genotype. After secondary DENV-2 infection with heterologous
+genotype (Asian I in primary and Asian/American in secondary), neutralizing
+antibody titers to Asian/American genotype was significantly higher than those
+against Cosmopolitan and Asian I genotypes. Following tertiary infection with
+DENV-1 following DENV-2 Asian I and Cosmopolitan genotypes, neutralizing antibody
+titers to Asian/American were also significantly higher than those against
+Cosmopolitan and Asian I genotypes.
+CONCLUSION: The present study demonstrated that different levels of neutralizing 
+antibodies were induced against variable DENV-2 genotypes after primary,
+secondary and tertiary infections, and that neutralizing antibody titers to some 
+heterologous genotypes were higher than those to homologous genotypes within a
+serotype. The results indicate that heterogeneity and homogeneity of infecting
+genotypes influence the levels and cross-reactivity of neutralizing antibodies
+induced in following infections. The results also suggest that certain genotypes 
+may possess advantage in terms of breakthrough infections against vaccination.
+
+DOI: 10.1186/s12985-018-0967-x 
+PMCID: PMC5870686
+PMID: 29587780  [Indexed for MEDLINE]
+

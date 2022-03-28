@@ -1,0 +1,108 @@
+
+
+1395. RNA. 2014 Aug;20(8):1223-37. doi: 10.1261/rna.045310.114. Epub 2014 Jun 9.
+
+Small RNA profiling and characterization of piRNA clusters in the adult testes of
+the common marmoset, a model primate.
+
+Hirano T(1), Iwasaki YW(1), Lin ZY(2), Imamura M(3), Seki NM(4), Sasaki E(5),
+Saito K(1), Okano H(2), Siomi MC(6), Siomi H(1).
+
+Author information: 
+(1)Department of Molecular Biology, Keio University School of Medicine,
+Shinjuku-ku, Tokyo 160-8582, Japan.
+(2)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan.
+(3)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan Molecular Biology Section, Department of Cellular and
+Molecular Biology, Primate Research Institute, Kyoto University, Inuyama, Aichi
+484-8506, Japan.
+(4)Department of Molecular Biology, Keio University School of Medicine,
+Shinjuku-ku, Tokyo 160-8582, Japan Graduate School of Science, The University of 
+Tokyo, Bunkyo-ku, Tokyo 113-0032, Japan.
+(5)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan Central Institute for Experimental Animals, Kawasaki,
+Kanagawa 210-0821, Japan.
+(6)Graduate School of Science, The University of Tokyo, Bunkyo-ku, Tokyo
+113-0032, Japan.
+
+Small RNAs mediate gene silencing by binding Argonaute/Piwi proteins to regulate 
+target RNAs. Here, we describe small RNA profiling of the adult testes of
+Callithrix jacchus, the common marmoset. The most abundant class of small RNAs in
+the adult testis was piRNAs, although 353 novel miRNAs but few endo-siRNAs were
+also identified. MARWI, a marmoset homolog of mouse MIWI and a very abundant PIWI
+in adult testes, associates with piRNAs that show characteristics of mouse
+pachytene piRNAs. As in other mammals, most marmoset piRNAs are derived from
+conserved clustered regions in the genome, which are annotated as intergenic
+regions. However, unlike in mice, marmoset piRNA clusters are also found on the X
+chromosome, suggesting escape from meiotic sex chromosome inactivation by the
+X-linked clusters. Some of the piRNA clusters identified contain
+antisense-orientated pseudogenes, suggesting the possibility that
+pseudogene-derived piRNAs may regulate parental functional protein-coding genes. 
+More piRNAs map to transposable element (TE) subfamilies when they have copies in
+piRNA clusters. In addition, the strand bias observed for piRNAs mapped to each
+TE subfamily correlates with the polarity of copies inserted in clusters. These
+findings suggest that pachytene piRNA clusters determine the abundance and
+strand-bias of TE-derived piRNAs, may regulate protein-coding genes via
+pseudogene-derived piRNAs, and may even play roles in meiosis in the adult
+marmoset testis.
+
+© 2014 Hirano et al.; Published by Cold Spring Harbor Laboratory Press for the
+RNA Society.
+
+DOI: 10.1261/rna.045310.114 
+PMCID: PMC4105748
+PMID: 24914035  [Indexed for MEDLINE]
+
+
+1396. Vet Pathol. 2015 Mar;52(2):404-13. doi: 10.1177/0300985814537839. Epub 2014 Jun
+9.
+
+The common marmoset as a model for the study of nonalcoholic fatty liver disease 
+and nonalcoholic steatohepatitis.
+
+Kramer JA(1), Grindley J(2), Crowell AM(3), Makaron L(1), Kohli R(4), Kirby M(4),
+Mansfield KG(5), Wachtman LM(6).
+
+Author information: 
+(1)Department of Veterinary Resources, New England Primate Research Center,
+Southborough, MA, USA.
+(2)Cummings School of Veterinary Medicine, Tufts University, N. Grafton, MA, USA.
+(3)University of Notre Dame, South Bend, IN, USA.
+(4)Division of Gastroentrology, Hepatology, and Nutrition, Cincinnati Children's 
+Hospital Medical Center, Cincinnati, OH, USA.
+(5)Novartis Institute for Biomedical Research, Cambridge, MA, USA.
+(6)Department of Veterinary Resources, New England Primate Research Center,
+Southborough, MA, USA Lynn_wachtman@hms.harvard.edu.
+
+Nonalcoholic fatty liver disease (NAFLD) is considered the hepatic manifestation 
+of metabolic syndrome. The more clinically concerning form of the disease,
+nonalcoholic steatohepatitis (NASH), is characterized by steatosis, lobular
+inflammation, and ballooning degeneration. Here we describe a naturally occurring
+syndrome in the common marmoset that recapitulates the pathologic findings
+associated with NAFLD/NASH in humans. Hepatomegaly determined to result from
+NAFLD was observed in 33 of 183 marmosets. A comprehensive histopathologic
+assessment performed in 31 marmosets demonstrated that NAFLD was characterized by
+variably sized, Oil Red O staining cytoplasmic vacuoles and observed primarily in
+animals with evidence of obesity and insulin resistance. A subset of marmosets
+(16 of 31) also demonstrated evidence of NASH characterized by multifocal
+inflammation combined with ballooning hepatocellular degeneration. Marmosets with
+NASH demonstrated an increase in immunostaining with an antibody targeted against
+the human leukocyte antigens (HLA)-DP, HLA-DQ, and HLA-DR compared with marmosets
+without NASH (38.89 cells/10× field vs 12.05 cells/10× field, P = .05). In
+addition, marmosets with NASH demonstrated increased Ki-67 immunopositive
+cellular proliferation compared with those without (5.95 cells/10× field vs 1.53 
+cells/10× field, P = .0002). Finally, animals with NASH demonstrated
+significantly increased mean circulating serum iron levels (160.47 μg/dl, P =
+.008) and an increase in numbers of Prussian blue-positive Kupffer cells (9.28
+cells/40× field, P = .005) relative to marmosets without NASH (97.75 μg/dl and
+1.87 cells/40×, respectively). This study further characterizes the
+histopathology of NAFLD/NASH and suggests that the marmoset may be a valuable
+animal model with which to investigate the host and environmental factors
+contributing to the progression of NAFLD/ NASH.
+
+© The Author(s) 2014.
+
+DOI: 10.1177/0300985814537839 
+PMID: 24913270  [Indexed for MEDLINE]
+

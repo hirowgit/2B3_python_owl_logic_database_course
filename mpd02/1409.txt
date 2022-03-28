@@ -1,0 +1,45 @@
+
+
+1409. Mol Phylogenet Evol. 2015 Jan;82 Pt B:413-25. doi: 10.1016/j.ympev.2014.04.031.
+Epub 2014 May 20.
+
+Biogeography of the marmosets and tamarins (Callitrichidae).
+
+Buckner JC(1), Lynch Alfaro JW(2), Rylands AB(3), Alfaro ME(4).
+
+Author information: 
+(1)Department of Ecology and Evolutionary Biology, University of California, Los 
+Angeles, CA 90095, USA. Electronic address: jcharrayb@ucla.edu.
+(2)Institute for Society and Genetics, University of California, Los Angeles, CA 
+90095, USA; Department of Anthropology, University of California, Los Angeles, CA
+90095, USA.
+(3)Conservation International, Arlington, VA 22202, USA.
+(4)Department of Ecology and Evolutionary Biology, University of California, Los 
+Angeles, CA 90095, USA.
+
+The marmosets and tamarins, Family Callitrichidae, are Neotropical primates with 
+over 60 species and subspecies that inhabit much of South America. Although
+callitrichids exhibit a remarkable widespread distribution, attempts to unravel
+their biogeographic history have been limited by taxonomic confusion and the lack
+of an appropriate statistical biogeographic framework. Here, we construct a
+time-calibrated multi-locus phylogeny from GenBank data and the callitrichid
+literature for 38 taxa. We use this framework to conduct statistical
+biogeographic analyses of callitrichids using BioGeoBEARS. The DIVAj model is the
+best supported reconstruction of biogeographic history among our analyses and
+suggests that the most recent common ancestor to the callitrichids was widespread
+across forested regions c. 14 Ma. There is also support for multiple
+colonizations of the Atlantic forest region from the Amazon basin, first by
+Leontopithecus c. 11 Ma and later by Callithrix c. 5 Ma. Our results show support
+for a 9 million year old split between a small-bodied group and large-bodied
+group of tamarins. These phylogenetic data, in concert with the consistent
+difference in body size between the two groups and geographical patterns
+(small-bodied tamarins and large-bodied tamarins have an unusually high degree of
+geographic overlap for congeners) lend support to our suggestion to split
+Saguinus into two genera, and we propose the use of distinct generic names;
+Leontocebus and Saguinus, respectively.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ympev.2014.04.031 
+PMID: 24857784  [Indexed for MEDLINE]
+

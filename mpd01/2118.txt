@@ -1,0 +1,66 @@
+
+
+2118. Eur J Neurosci. 2009 Aug;30(4):578-92. doi: 10.1111/j.1460-9568.2009.06846.x.
+Epub 2009 Aug 3.
+
+Connections of the marmoset rostrotemporal auditory area: express pathways for
+analysis of affective content in hearing.
+
+Reser DH(1), Burman KJ, Richardson KE, Spitzer MW, Rosa MG.
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, VIC, Australia.
+David.Reser@med.monash.edu.au
+
+The current hierarchical model of primate auditory cortical processing proposes a
+core of 'primary-like' areas, which is surrounded by secondary (belt) and
+tertiary (parabelt) regions. The rostrotemporal auditory cortical area (RT)
+remains the least well characterized of the three proposed core areas, and its
+functional organization has only recently come under scrutiny. Here we used
+injections of anterograde and retrograde tracers in the common marmoset
+(Callithrix jacchus) to examine the connectivity of RT and its adjacent areas. As
+expected from the current model, RT exhibited dense core-like reciprocal
+connectivity with the ventral division of the medial geniculate body, the rostral
+core area and the auditory belt, but had weaker connections with the parabelt.
+However, RT also projected to the ipsilateral rostromedial prefrontal cortex
+(area 10), the dorsal temporal pole and the ventral caudate nucleus, as well as
+bilaterally to the lateral nucleus of the amygdala. Thus, RT has connectivity
+with limbic structures previously believed to connect only with higher-order
+auditory association cortices, and is probably functionally distinct from the
+other core areas. While this view is consistent with a proposed role of RT in
+temporal integration, our results also indicate that RT could provide an
+anatomical 'shortcut' for processing affective content in auditory information.
+
+DOI: 10.1111/j.1460-9568.2009.06846.x 
+PMID: 19663937  [Indexed for MEDLINE]
+
+
+2119. Comput Biol Med. 2009 Oct;39(10):853-9. doi: 10.1016/j.compbiomed.2009.05.009.
+Epub 2009 Aug 3.
+
+New developmental stages for common marmosets (Callithrix jacchus) using mass and
+age variables obtained by K-means algorithm and self-organizing maps (SOM).
+
+de Castro Leão A(1), Duarte Dória Neto A, de Sousa MB.
+
+Author information: 
+(1)Laboratório de Endocrinologia Comportamental, Universidade Federal do Rio
+Grande do Norte, RN, Brazil. adrianocl@hotmail.com
+
+This study proposes new developmental stages for Callithrix jacchus, using
+K-Means algorithm and an artificial neural network-self-organising maps (SOM) as 
+computational tools, based on weight and age. Eight developmental stages are
+proposed: Infant I, II and III, Juvenile I and II, Sub adult, Young adult and
+Older adult. This classification is consistent with the first appearance of
+several behavioural and physiological characteristics and thus may have
+generality in defining critical developmental periods. It also reveals
+differences in male and female development and establishes a stage for the onset 
+of the final adult life cycle. This classification is also important to
+understanding the biology of the ontogenetic development of common marmosets,
+providing new insights for the management and care of captive animals and
+improving age estimate indicators when specimens are captured in long term
+monitoring of free ranging groups.
+
+DOI: 10.1016/j.compbiomed.2009.05.009 
+PMID: 19651403  [Indexed for MEDLINE]
+

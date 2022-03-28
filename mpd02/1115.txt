@@ -1,0 +1,26 @@
+
+
+1115. Bull Exp Biol Med. 2016 Jan;160(3):368-71. doi: 10.1007/s10517-016-3173-0. Epub
+2016 Jan 11.
+
+Simulation of Viral Hepatitis E in Marmosets.
+
+Kyuregyan KK(1), Poleshchuk VF(2), Gordeichuk IV(2), Gulyaeva TV(2), Isaeva
+OV(2), Morozov IA(2), Mikhailov MI(2).
+
+Author information: 
+(1)M. P. Chumakov Institute of Poliomyelitis and Viral Encephalitides, Russian
+Academy of Medical Sciences, Moscow, Russia. karen-kyuregyan@yandex.ru.
+(2)M. P. Chumakov Institute of Poliomyelitis and Viral Encephalitides, Russian
+Academy of Medical Sciences, Moscow, Russia.
+
+We developed a model of hepatitis E virus infection in common marmosets
+(Callithrix jacchus) and determined optimal route of infection, duration,
+clinical and virological characteristics of infection in laboratory animals.
+Using this model, we demonstrated that replication of hepatitis E virus primarily
+occurs in the liver, while virus replication presumed to take place in the
+intestine was not confirmed in this experiment.
+
+DOI: 10.1007/s10517-016-3173-0 
+PMID: 26750931  [Indexed for MEDLINE]
+

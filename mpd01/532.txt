@@ -1,0 +1,87 @@
+
+
+532. Int J Mol Sci. 2019 Mar 6;20(5). pii: E1133. doi: 10.3390/ijms20051133.
+
+Expression of Transcripts in Marmoset Oocytes Retrieved during Follicle Isolation
+Without Gonadotropin Induction.
+
+Kim YY(1), Kang BC(2), Yun JW(3), Ahn JH(4), Kim YJ(5), Kim H(6), Rosenwaks Z(7),
+Ku SY(8).
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Seoul National University Hospital,
+Seoul National University College of Medicine, 28 Yonkeun-dong, Chongno-gu, Seoul
+110-744, Korea. yoonykim96@gmail.com.
+(2)Biomedical Research Institute, Seoul National University Hospital, Seoul
+03080, Korea. bckang@snu.ac.kr.
+(3)Department of Biotechnology, The Catholic University, Bucheon 14662, Korea.
+jwyun@catholic.ac.kr.
+(4)Biomedical Research Institute, Seoul National University Hospital, Seoul
+03080, Korea. ajphd@snu.ac.kr.
+(5)Department of Obstetrics and Gynecology, Korea University Guro Hospital, Seoul
+08308, Korea. zinigo@gmail.com.
+(6)Department of Obstetrics and Gynecology, Seoul National University Hospital,
+Seoul National University College of Medicine, 28 Yonkeun-dong, Chongno-gu, Seoul
+110-744, Korea. obgyhoon@gmail.com.
+(7)Center for Reproductive Medicine, Weill Cornell Medical College, New York, NY 
+10021, USA. zrosenw@med.cornell.edu.
+(8)Department of Obstetrics and Gynecology, Seoul National University Hospital,
+Seoul National University College of Medicine, 28 Yonkeun-dong, Chongno-gu, Seoul
+110-744, Korea. jyhsyk@snu.ac.kr.
+
+The in vitro maturation of oocytes is frequently used as an assisted reproductive
+technique (ART), and has been successfully established in humans and rodents. To 
+overcome the limitations of ART, novel procedures for the in vitro maturation of 
+early follicles are emerging. During the follicle isolation procedure, the
+unintended rupture of each follicle leads to a release of extra oocytes. Such
+oocytes, which are obtained during follicle isolation from marmosets, can be used
+for early maturation studies. Marmoset (Callithrix jacchus), which is classified 
+as a new-world monkey, is a novel model that has been employed in reproductive
+biomedical research, as its reproductive physiology is similar to that of humans 
+in several aspects. The ovaries of female marmosets were collected, and the
+excess oocytes present during follicle isolation were retrieved without
+pre-gonadotropin induction. Each oocyte was matured in vitro for 48 h in the
+presence of various concentrations of human chorionic gonadotropin (hCG) and
+epidermal growth factor (EGF), and the maturity of oocytes and optimal maturation
+conditions were evaluated. Each oocyte was individually reverse-transcribed, and 
+the expression of mRNAs and microRNAs (miRs) were analyzed. Concentrations of hCG
+significantly affected the maturation rate of oocytes [the number of metaphase II
+(MII) oocytes]. The expression of BMP15 and ZP1 was highest when the oocytes were
+matured using 100 IU/L of hCG without pre-treatment with gonadotropins, and that 
+of Cja-mir-27a was highest when cultured with follicle stimulating hormone. These
+results suggest that these up-regulated miRs affect the maturation of oocytes.
+Interactions with other protein networks were analyzed, and a strong association 
+of BMP15 and ZP1 with sperm binding receptor (ACR), anti-Müllerian hormone (AMH),
+and AMH receptor was demonstrated, which is related to the proliferation of
+granulosa cells. Collectively, on the basis of these results, the authors propose
+optimal maturation conditions of excess oocytes of marmoset without in vivo
+gonadotropin treatment, and demonstrated the roles of miRs in early oocyte
+maturation at the single-cell level in marmosets.
+
+DOI: 10.3390/ijms20051133 
+PMCID: PMC6429203
+PMID: 30845640  [Indexed for MEDLINE]
+
+
+533. Mol Ther. 2019 Apr 10;27(4):700-704. doi: 10.1016/j.ymthe.2019.02.016. Epub 2019 
+Feb 28.
+
+Neurotropic Properties of AAV-PHP.B Are Shared among Diverse Inbred Strains of
+Mice.
+
+Matsuzaki Y(1), Tanaka M(1), Hakoda S(1), Masuda T(1), Miyata R(1), Konno A(1),
+Hirai H(2).
+
+Author information: 
+(1)Department of Neurophysiology & Neural Repair, Gunma University Graduate
+School of Medicine, Maebashi, Gunma 371-8511, Japan.
+(2)Department of Neurophysiology & Neural Repair, Gunma University Graduate
+School of Medicine, Maebashi, Gunma 371-8511, Japan; Research Program for Neural 
+Signaling, Division of Endocrinology, Metabolism and Signal Research, Gunma
+University Initiative for Advanced Research, Gunma, Japan. Electronic address:
+hirai@gunma-u.ac.jp.
+
+DOI: 10.1016/j.ymthe.2019.02.016 
+PMCID: PMC6453512
+PMID: 30842039  [Indexed for MEDLINE]
+

@@ -1,0 +1,32 @@
+
+
+3069. J Toxicol Sci. 2002 May;27(2):123-30.
+
+Development of telemetry system in the common marmoset--cardiovascular effects of
+astemizole and nicardipine.
+
+Horii I(1), Kito G, Hamada T, Jikuzono T, Kobayashi K, Hashimoto K.
+
+Author information: 
+(1)Nippon Roche Research Center, 200 Kajiwara, Kamakura, Kanagawa 247-8530,
+Japan.
+
+The purpose of this study was to evaluate a telemetry system for examining the
+cardiovascular system in the conscious common marmoset. Parameters obtained were 
+blood pressure, heart rate, respiratory rate, ECG, body temperature and locomotor
+activity, and these were continuously recorded on a data recorder via the
+telemetry system and then processed by a computerized system. Diurnal rhythms of 
+blood pressure, heart rate, body temperature and locomotor activity were observed
+in this system. We studied the effects of astemizole (antihistamine) and
+nicardipine (Ca2+ channel blocker) on cardiovascular parameters. Astemizole at 30
+mg/kg (p.o.) and at 1 to 3 mg/kg (i.v.), prolonged QT interval and induced
+ventricular extrasystole. Torsades de pointes occurred in one of three cases at 3
+mg/kg (i.v.) and 30 mg/kg (p.o.), while it did not affect the blood pressure,
+respiratory rate and body temperature. Nicardipine at 30 mg/kg (p.o.) caused
+sustained hypotension and tachycardia. These results demonstrate the usefulness
+of the telemetry system using the common marmoset for evaluating the
+cardiovascular effects of drugs under physiological conditions.
+
+DOI: 10.2131/jts.27.123 
+PMID: 12058448  [Indexed for MEDLINE]
+

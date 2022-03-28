@@ -1,0 +1,36 @@
+
+
+2479. Biochem Pharmacol. 2006 Dec 15;72(12):1738-48. Epub 2006 Sep 29.
+
+Cloning of a cDNA encoding a novel marmoset CYP2C enzyme, expression in yeast
+cells and characterization of its enzymatic functions.
+
+Narimatsu S(1), Torigoe F, Tsuneto Y, Saito K, Hanioka N, Masuda K, Katsu T,
+Yamamoto S, Yamano S, Baba T, Miyata A.
+
+Author information: 
+(1)Laboratory of Health Chemistry, Graduate School of Medicine, Dentistry and
+Pharmaceutical Sciences, Okayama University, 1-1-1 Tsushima-naka, Okayama
+700-8530, Japan. shizuo@pharm.okayama-u.ac.jp
+
+We cloned a cDNA encoding a novel CYP2C enzyme, called P450 M-2C, from a marmoset
+liver. The deduced amino acid sequence showed high identities to those of human
+CYP2C8 (87%), CYP2C9 (78%) and CYP2C19 (77%). The P450 M-2C enzyme expressed in
+yeast cells catalyzed p-methylhydroxylation of only tolbutamide among four
+substrates tested, paclitaxel as a CYP2C8 substrate, diclofenac and tolbutamide
+as CYP2C9 substrates and S-mephenytoin as a CYP2C19 substrate.
+p-Methylhydroxylation of tolbutamide by marmoset liver microsomes showed
+monophasic kinetics, and the apparent K(m) value (1.2 mM) for the substrate was
+similar to that of the recombinant P450 M-2C (1.8 mM). Although all of the
+recombinant human CYP2C8, CYP2C9 and CYP2C19 expressed in yeast cells catalyzed
+tolbutamide p-methylhydroxylation, the kinetic profile of CYP2C8 was most similar
+to that of P450 M-2C. Tolbutamide oxidation by the marmoset liver microsomes and 
+the recombinant P450 M-2C was inhibited most effectively by quercetin, a CYP2C8
+inhibitor, followed by omeprazole, a CYP2C19 inhibitor, whereas sulfaphenazole, a
+CYP2C9 inhibitor, was less potent under the conditions used. These results
+indicate that P450 M-2C is the major tolbutamide p-methylhydroxylase in the
+marmoset liver.
+
+DOI: 10.1016/j.bcp.2006.08.025 
+PMID: 17010942  [Indexed for MEDLINE]
+

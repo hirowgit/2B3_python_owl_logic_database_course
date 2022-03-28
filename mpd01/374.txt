@@ -1,0 +1,87 @@
+
+
+374. J Neurophysiol. 2020 Mar 1;123(3):896-911. doi: 10.1152/jn.00614.2019. Epub 2020 
+Jan 22.
+
+Single-unit activity in marmoset posterior parietal cortex in a gap saccade task.
+
+Ma L(1), Selvanayagam J(2), Ghahremani M(2), Hayrynen LK(1), Johnston KD(3),
+Everling S(1)(2)(3)(4).
+
+Author information: 
+(1)Robarts Research Institute, University of Western Ontario, London, Ontario,
+Canada.
+(2)Graduate Program in Neuroscience, University of Western Ontario, London,
+Ontario, Canada.
+(3)Departments of Physiology and Pharmacology, University of Western Ontario,
+London, Ontario, Canada.
+(4)Brain and Mind Institute, University of Western Ontario, London, Ontario,
+Canada.
+
+Abnormal saccadic eye movements can serve as biomarkers for patients with several
+neuropsychiatric disorders. The common marmoset (Callithrix jacchus) is becoming 
+increasingly popular as a nonhuman primate model to investigate the cortical
+mechanisms of saccadic control. Recently, our group demonstrated that
+microstimulation in the posterior parietal cortex (PPC) of marmosets elicits
+contralateral saccades. Here we recorded single-unit activity in the PPC of the
+same two marmosets using chronic microelectrode arrays while the monkeys
+performed a saccadic task with gap trials (target onset lagged fixation point
+offset by 200 ms) interleaved with step trials (fixation point disappeared when
+the peripheral target appeared). Both marmosets showed a gap effect, shorter
+saccadic reaction times (SRTs) in gap vs. step trials. On average, stronger
+gap-period responses across the entire neuronal population preceded shorter SRTs 
+on trials with contralateral targets although this correlation was stronger among
+the 15% "gap neurons," which responded significantly during the gap. We also
+found 39% "target neurons" with significant saccadic target-related responses,
+which were stronger in gap trials and correlated with the SRTs better than the
+remaining neurons. Compared with saccades with relatively long SRTs, short-SRT
+saccades were preceded by both stronger gap-related and target-related responses 
+in all PPC neurons, regardless of whether such response reached significance. Our
+findings suggest that the PPC in the marmoset contains an area that is involved
+in the modulation of saccadic preparation.NEW & NOTEWORTHY As a primate model in 
+systems neuroscience, the marmoset is a great complement to the macaque monkey
+because of its unique advantages. To identify oculomotor networks in the
+marmoset, we recorded from the marmoset posterior parietal cortex during a
+saccadic task and found single-unit activities consistent with a role in saccadic
+modulation. This finding supports the marmoset as a valuable model for studying
+oculomotor control.
+
+DOI: 10.1152/jn.00614.2019 
+PMID: 31967927  [Indexed for MEDLINE]
+
+
+375. Trends Neurosci. 2020 Feb;43(2):115-126. doi: 10.1016/j.tins.2019.12.006. Epub
+2020 Jan 16.
+
+A Hierarchy of Autonomous Systems for Vocal Production.
+
+Zhang YS(1), Ghazanfar AA(2).
+
+Author information: 
+(1)Princeton Neuroscience Institute, Princeton University, Princeton, NJ 08544,
+USA. Electronic address: yz9@princeton.edu.
+(2)Princeton Neuroscience Institute, Princeton University, Princeton, NJ 08544,
+USA; Department of Psychology, Princeton University, Princeton, NJ 08544, USA;
+Department of Ecology & Evolutionary Biology, Princeton University, Princeton, NJ
+08544, USA. Electronic address: asifg@princeton.edu.
+
+Vocal production is hierarchical in the time domain. These hierarchies build upon
+biomechanical and neural dynamics across various timescales. We review studies in
+marmoset monkeys, songbirds, and other vertebrates. To organize these data in an 
+accessible and across-species framework, we interpret the different timescales of
+vocal production as belonging to different levels of an autonomous systems
+hierarchy. The first level accounts for vocal acoustics produced on short
+timescales; subsequent levels account for longer timescales of vocal output. The 
+hierarchy of autonomous systems that we put forth accounts for vocal patterning, 
+sequence generation, dyadic interactions, and context dependence by sequentially 
+incorporating central pattern generators, intrinsic drives, and sensory signals
+from the environment. We then show the framework's utility by providing an
+integrative explanation of infant vocal production learning in which social
+feedback modulates infant vocal acoustics through the tuning of a drive signal.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tins.2019.12.006 
+PMCID: PMC7213988
+PMID: 31955902  [Indexed for MEDLINE]
+

@@ -1,0 +1,37 @@
+
+
+3814. J Comp Neurol. 1996 Feb 26;366(1):55-75.
+
+Comparison of photoreceptor spatial density and ganglion cell morphology in the
+retina of human, macaque monkey, cat, and the marmoset Callithrix jacchus.
+
+Goodchild AK(1), Ghosh KK, Martin PR.
+
+Author information: 
+(1)Department of Physiology, University of Sydney, New South Wales, Australia.
+
+We studied the relationship between the morphology of ganglion cells and the
+spatial density of photoreceptors in the retina of two Old World primates, human 
+and macaque monkey; the diurnal New World marmoset Callithrix jacchus; and the
+cat. Ganglion cells in macaque and marmoset were labelled by intracellular
+injection with Neurobiotin or by DiI diffusion labelling in fixed tissue. Cone
+photoreceptor densities were measured from the same retinas. Supplemental data
+for macaque and data for human and cat were taken from published studies. For the
+primates studied, the central retina is characterised by a constant numerical
+convergence of cones to ganglion cells. Midget ganglion cells derive their input,
+via a midget bipolar cell, from a single cone. Parasol cells derive their input
+from 40-140 cones. Outside the central retina, the convergence increases with
+eccentricity. The convergence to beta cells in the cat retina is very close to
+that for parasol cells in primate retina. The convergence of rod photoreceptors
+to ganglion cells is similar in human, macaque, and marmoset, with parasol cells 
+receiving input from 10-15 times more rods than midget cells. The low convergence
+of cones to midget cells in human and macaque retinas is associated with
+distinctive dendritic "clusters" in midget cells' dendritic fields. Convergence
+in marmoset is higher, and the clusters are absent. We conclude that the
+complementary changes in photoreceptor density and ganglion cell morphology
+should be considered when forming linking hypotheses between dendritic field,
+receptive field, and psychophysical properties of primate vision.
+
+DOI: 10.1002/(SICI)1096-9861(19960226)366:1<55::AID-CNE5>3.0.CO;2-J 
+PMID: 8866846  [Indexed for MEDLINE]
+

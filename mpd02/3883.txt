@@ -1,0 +1,38 @@
+
+
+3883. Hum Genet. 1995 Aug;96(2):188-92.
+
+Distribution of human endogenous retrovirus HERV-K genomes in humans and
+different primates.
+
+Steinhuber S(1), Brack M, Hunsmann G, Schwelberger H, Dierich MP, Vogetseder W.
+
+Author information: 
+(1)Institut für Hygiene, Leopold-Franzens-Universität, Innsbruck, Austria.
+
+The distribution of the human endogenous retrovirus (HERV)-K genome was
+investigated by Southern-blot analyses using a HERV-K-env DNA probe. With the
+exception of one DNA-sample, obtained from a Chinese individual in whom an
+amplification of HERV-K was detected, Southern-blot analyses yielded identical
+hybridization patterns with DNA from peripheral blood lymphocytes of 37 normal
+healthy blood donors, with DNA from six tumor cell lines, or with 23 DNA samples 
+prepared from various carcinoma tissues. To elucidate whether the integration of 
+HERV-K genomes into the primate lineage occurred as a single event or as an
+integration with later expansion, we further examined the evolutionary history of
+HERV-K by Southern blot analyses with DNA samples from different primate species.
+We detected HERV-K genomes in Macaca mulatta and Macaca silenus, which represent 
+Old World monkeys, but not in prosimians (Galago demidovii) and New World
+monkeys, represented by Saguinus fuscicollis, Saguinus oedipus, and Callithrix
+iacchus. Thus, we assume that the infection of the primate lineage with HERV-K
+had occurred after the divergence of New World and Old World monkeys, but before 
+the evolutionary expansion of large hominoids. In contrast to the apparent lack
+of HERV-K-env sequences in DNA from tissue of the New World monkey Saguinus
+oedipus (cotton-top marmoset), we found HERV-K-DNA in the B95-8 cell-line, which 
+is a Saguinus oedipus leukocyte cell-line, immortalized in vitro by Epstein-Barr 
+virus (EBV) and cultivated in human cells. It may be speculated that HERV-K-DNA
+or HERV-K-particles were introduced into these cells during in vitro
+transformation with EBV.
+
+DOI: 10.1007/BF00207377 
+PMID: 7635468  [Indexed for MEDLINE]
+

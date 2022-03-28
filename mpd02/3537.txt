@@ -1,0 +1,37 @@
+
+
+3537. J Virol. 1998 Nov;72(11):8690-6.
+
+Measles virus attenuation associated with transcriptional impediment and a few
+amino acid changes in the polymerase and accessory proteins.
+
+Takeda M(1), Kato A, Kobune F, Sakata H, Li Y, Shioda T, Sakai Y, Asakawa M,
+Nagai Y.
+
+Author information: 
+(1)Department of Viral Infection, Institute of Medical Science, University of
+Tokyo, Shirokanedai 4-6-1, Minato-ku, Tokyo 108-8639, USA.
+
+Measles virus (MV) isolated in B95a cells, a marmoset B-cell line, retains full
+pathogenicity for cynomolgus monkeys, while its derivative obtained by adaptation
+to the growth in Vero cells, a monkey kidney cell line, loses the pathogenic
+potential (F. Kobune, H. Sakata, and A. Sugiura, J. Virol. 64:700-705, 1990).
+Here, we show with a pair of strains, a fresh isolate (9301B) in B95a cells and
+its Vero cell-adapted form (9301V), that the in vivo attenuation parallels the
+decrease of replication and syncytium-inducing capabilities in the original B95a 
+cells and that these in vitro phenotypes are attributable to impediment of
+transcription, which is already obvious at the level of primary transcription
+catalyzed by the virion-associated RNA polymerase. On the other hand, cell fusion
+assays detected no functional difference between the glycoproteins of the two
+viruses. Essentially the same transcriptional impediment with reduced syncytium
+induction following Vero cell adaptation was found with two other pairs of
+strains that had been similarly prepared. Nucleotide sequence comparison between 
+the 9301B and 9301V viruses revealed that a few (at most five) amino acid
+changes, which sporadically took place in the polymerase (L and P proteins)
+and/or accessory V and C proteins, were responsible for the in vitro and in vivo 
+attenuation through adaptation to growth in Vero cells.
+
+DOI: 10.1128/JVI.72.11.8690-8696.1998 
+PMCID: PMC110282
+PMID: 9765410  [Indexed for MEDLINE]
+

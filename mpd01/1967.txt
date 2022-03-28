@@ -1,0 +1,77 @@
+
+
+1967. J Zoo Wildl Med. 2010 Sep;41(3):389-94.
+
+Comparison of racemic ketamine versus (S+) ketamine when combined with midazolam 
+for anesthesia of Callithrix jacchus and Callithrix penicillata.
+
+Furtado MM(1), Nunes AL, Intelizano TR, Teixeira RH, Cortopassi SR.
+
+Author information: 
+(1)Departamento de Medicina Veterinária Preventiva e Saúde Animal, Faculdade de
+Medicina Veterinária e Zootecnia, Universidade de São Paulo, Brazil.
+marianafurtado@jaguar.org.br
+
+Ten common marmosets (Callithrix jacchus) and 10 black-tufted marmosets
+(Callithrix penicillata) were immobilized to compare the anesthetic effects of
+racemic ketamine and (S+) ketamine in combination with midazolam. The animals
+were distributed into four groups: five common marmosets (group CJR) and five
+black-tufted marmosets (group CPR) received 9.8 +/- 1.4 mg/kg of racemic
+ketamine, and five common marmosets (group CJS) and five black-tufted marmosets
+(group CPS) received 10.4 +/- 1.6 mg/kg of (S+) ketamine. All groups received
+similar dosages of midazolam (1.0 +/- 0.15 mg/kg). During immobilization, heart
+rates, respiratory rates, rectal temperatures, and muscle relaxation scores were 
+recorded at 5, 10, and 20 min after initial injection. Quality of induction and
+quality of recovery were evaluated in each marmoset by recording physical
+reactions including withdrawal reflexes, involuntary movements, salivation,
+compulsive licking, catalepsy, and ataxia. There were no significant differences 
+in the induction, immobilization, and recovery times between the four groups.
+Similarly, there were no significant differences between groups in heart rates,
+respiratory rates, or body temperatures, although there was a significant
+decrease in respiratory rates over time in group CPR. In addition, the CJR and
+CPS groups showed significant decreases over time in rectal temperature. Muscle
+relaxation was more profound in the CPR group than in the other groups.
+Compulsive licking, involuntary movements, salivation, and withdrawal reflexes
+were observed more frequently in animals given S(+) ketamine; but in general,
+racemic ketamine and S(+) ketamine had similar effects in all callitrichines.
+Further studies are required to confirm that S(+) ketamine has different potency 
+in these species.
+
+DOI: 10.1638/2008-0016.1 
+PMID: 20945634  [Indexed for MEDLINE]
+
+
+1968. J Vis. 2010 Jul 1;10(8):1. doi: 10.1167/10.8.1.
+
+Receptive field asymmetries produce color-dependent direction selectivity in
+primate lateral geniculate nucleus.
+
+Tailby C(1), Dobbie WJ, Solomon SG, Szmajda BA, Hashemi-Nezhad M, Forte JD,
+Martin PR.
+
+Author information: 
+(1)Save Sight Institute and ARC Centre of Excellence in Vision Science,
+University of Sydney, Sydney, NSW, Australia. ctailby@unimelb.edu.au
+
+Blue-on receptive fields recorded in primate retina and lateral geniculate
+nucleus are customarily described as showing overlapping blue-on and yellow-off
+receptive field components. However, the retinal pathways feeding the blue-on and
+yellow-off subfields arise from spatially discrete receptor populations, and
+recent studies have given contradictory accounts of receptive field structure of 
+blue-on cells. Here we analyzed responses of blue-on cells to drifting gratings, 
+in single-cell extracellular recordings from the dorsal lateral geniculate
+nucleus in marmosets. We show that most blue-on cells exhibit selectivity for the
+drift direction of achromatic gratings. The standard concentric
+difference-of-Gaussians (DOG) model thus cannot account for responses of these
+cells. We apply a simple, anatomically plausible, extension of the DOG model. The
+model incorporates temporally offset elliptical two-dimensional Gaussian
+subfields. The model can predict color-contingent direction and spatial tuning.
+Because direction tuning in blue-on cells depends on stimulus chromaticity,
+spatial frequency, and temporal frequency, this property is of little value as a 
+general mechanism for image movement detection. It is possible that anatomical
+wiring for color selectivity has constrained the capacity of blue-on cells to
+contribute to spatial and motion vision.
+
+DOI: 10.1167/10.8.1 
+PMID: 20884576  [Indexed for MEDLINE]
+

@@ -1,0 +1,93 @@
+
+
+317. Front Cell Infect Microbiol. 2020 Apr 21;10:135. doi: 10.3389/fcimb.2020.00135.
+eCollection 2020.
+
+Marmoset Viral Hepatic Inflammation Induced by Hepatitis C Virus Core Protein via
+IL-32.
+
+Liu B(1), Ma X(1), Wang Q(1), Luo S(1), Zhang L(1), Wang W(1), Fu Y(2), Allain
+JP(3), Li C(1), Li T(1).
+
+Author information: 
+(1)Department of Transfusion Medicine, School of Laboratory Medicine and
+Biotechnology, Southern Medical University, Guangzhou, China.
+(2)Guangzhou Blood Center, Guangzhou, China.
+(3)Emeritus Professor of Transfusion Medicine, University of Cambridge,
+Cambridge, United Kingdom.
+
+Common marmosets infected with GB virus-B (GBV-B) chimeras containing hepatitis C
+virus (HCV) core and envelope proteins (CE1E2p7) developed more severe hepatitis 
+than those infected with HCV envelope proteins (E1E2p7), suggesting that HCV core
+protein might be involved in the pathogenesis of viral hepatitis. The potential
+role of HCV core in hepatic inflammation was investigated. Six individual cDNA
+libraries of liver tissues from HCV CE1E2p7 or E1E2p7 chimera-infected marmosets 
+(three animals per group) were constructed and sequenced. By differential
+expression gene analysis, 30 of 632 mRNA transcripts were correlated with the
+immune system process, which might be associated with hepatitis. A
+protein-protein interaction network was constituted by STRING database based on
+these 30 differentially expressed genes (DEGs), showing that IL-32 might play a
+central regulatory role in HCV core-related hepatitis. To investigate the effect 
+of HCV core protein on IL-32 production, HCV core expressing and mock constructs 
+were transfected into Huh7 cells. IL-32 mRNA and secretion protein were detected 
+at significantly higher levels in cells expressing HCV core protein than in those
+without HCV core expression (P < 0.01 and P < 0.001, respectively). By KEGG
+enrichment analysis and using the specific signaling pathway inhibitor LY294002
+for inhibition of PI3K, IL-32 expression was significantly reduced (P < 0.001).
+In conclusion, HCV core protein induces an increase of IL-32 expression via the
+PI3K pathway in hepatic cells, which played a major role in development of
+HCV-related severe hepatitis.
+
+Copyright © 2020 Liu, Ma, Wang, Luo, Zhang, Wang, Fu, Allain, Li and Li.
+
+DOI: 10.3389/fcimb.2020.00135 
+PMCID: PMC7186372
+PMID: 32373543  [Indexed for MEDLINE]
+
+
+318. Brain Struct Funct. 2020 May;225(4):1225-1243. doi: 10.1007/s00429-020-02073-y.
+Epub 2020 May 4.
+
+The NanoZoomer artificial intelligence connectomics pipeline for tracer injection
+studies of the marmoset brain.
+
+Woodward A(1), Gong R(2), Abe H(3), Nakae K(4), Hata J(5), Skibbe H(6), Yamaguchi
+Y(7), Ishii S(4), Okano H(5), Yamamori T(3), Ichinohe N(3).
+
+Author information: 
+(1)Connectome Analysis Unit, RIKEN Center for Brain Science, 2-1 Hirosawa, Wako, 
+Saitama, 351-0198, Japan. alexander.woodward@riken.jp.
+(2)Connectome Analysis Unit, RIKEN Center for Brain Science, 2-1 Hirosawa, Wako, 
+Saitama, 351-0198, Japan.
+(3)Laboratory for Molecular Analysis of Higher Brain Function, RIKEN Center for
+Brain Science, 2-1 Hirosawa, Wako, Saitama, 351-0198, Japan.
+(4)Integrated Systems Biology Laboratory, Department of Systems Science, Graduate
+School of Informatics, Kyoto University, 36-1 Yoshida-Honmachi, Sakyo, Kyoto,
+606-8501, Japan.
+(5)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+2-1 Hirosawa, Wako, Saitama, 351-0198, Japan.
+(6)Brain Image Analysis Unit, RIKEN Center for Brain Science, 2-1 Hirosawa, Wako,
+Saitama, 351-0198, Japan.
+(7)Laboratory for Cognitive Brain Mapping, RIKEN Center for Brain Science, 2-1
+Hirosawa, Wako, Saitama, 351-0198, Japan.
+
+We describe our connectomics pipeline for processing anterograde tracer injection
+data for the brain of the common marmoset (Callithrix jacchus). Brain sections
+were imaged using a batch slide scanner (NanoZoomer 2.0-HT) and we used
+artificial intelligence to precisely segment the tracer signal from the
+background in the fluorescence images. The shape of each brain was reconstructed 
+by reference to a block-face and all data were mapped into a common 3D brain
+space with atlas and 2D cortical flat map. To overcome the effect of using a
+single template atlas to specify cortical boundaries, brains were cyto- and
+myelo-architectonically annotated to create individual 3D atlases. Registration
+between the individual and common brain cortical boundaries in the flat map space
+was done to absorb the variation of each brain and precisely map all tracer
+injection data into one cortical brain space. We describe the methodology of our 
+pipeline and analyze the accuracy of our tracer segmentation and brain
+registration approaches. Results show our pipeline can successfully process and
+normalize tracer injection experiments into a common space, making it suitable
+for large-scale connectomics studies with a focus on the cerebral cortex.
+
+DOI: 10.1007/s00429-020-02073-y 
+PMID: 32367264  [Indexed for MEDLINE]
+

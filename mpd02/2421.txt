@@ -1,0 +1,36 @@
+
+
+2421. J Comp Neurol. 2007 May 1;502(1):126-40.
+
+Connections of diffuse bipolar cells in primate retina are biased against
+S-cones.
+
+Lee SC(1), Grünert U.
+
+Author information: 
+(1)National Vision Research Institute of Australia, Carlton, VIC 3053, Australia.
+
+In mammalian retina, each diffuse bipolar type stratifies in a distinct layer of 
+the inner plexiform layer. Thus, different types of bipolar cells provide output 
+to distinct visual pathways. Here, the question of whether diffuse bipolar cell
+types differ with respect to their contacts with short wavelength-sensitive (S-) 
+cones was investigated in the retinas of a New World monkey, Callithrix jacchus, 
+and an Old World monkey, Macaca fascicularis. Subpopulations of OFF bipolar cells
+were labeled with antibodies to the glutamate transporter Glt-1 and ON bipolar
+cells were labeled with antibodies to the alpha subunit of the Go protein
+(Goalpha). Two types of diffuse ON bipolar cells, DB4 and DB6, were identified
+with antibodies to protein kinase Calpha and CD15, respectively. Cone pedicles
+were labeled either with peanut agglutinin coupled to fluorescein or with
+antibodies to the ribbon protein, C-terminus binding protein 2. We found that
+immunoreactivity for Glt-1 (OFF bipolar cells) is reduced at S-cones in
+comparison to medium/long wavelength-sensitive (M/L-) cones. Immunoreactivity for
+Goalpha (ON bipolar cells) is comparable at all cone types. Nearly all M/L-cone
+pedicles contact the diffuse ON bipolar types DB4 and DB6, but only between 60%
+and 75% of the S-cone pedicles make contact. Furthermore, the number of dendritic
+tips of DB4 and DB6 cells at S-cone pedicles is lower than that at M/L-cone
+pedicles. These results suggest that there is a bias in the S-cone connectivity
+of diffuse bipolar cells.
+
+DOI: 10.1002/cne.21284 
+PMID: 17335043  [Indexed for MEDLINE]
+

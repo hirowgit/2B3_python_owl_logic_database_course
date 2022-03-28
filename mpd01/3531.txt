@@ -1,0 +1,61 @@
+
+
+3531. Mol Ecol. 1998 Oct;7(10):1432-4.
+
+Microsatellite primers for genotyping common marmosets (Callithrix jacchus) and
+other callitrichids.
+
+Nievergelt CM(1), Mundy NI, Woodruff DS.
+
+Author information: 
+(1)Department of Biology, University of California, San Diego, La Jolla
+92093-0116, USA. cniever@biomail.ucsd.edu
+
+
+PMID: 9787452  [Indexed for MEDLINE]
+
+
+3532. Mol Cell Endocrinol. 1998 Jul 25;142(1-2):165-74.
+
+The unique exon 10 of the human luteinizing hormone receptor is necessary for
+expression of the receptor protein at the plasma membrane in the human
+luteinizing hormone receptor, but deleterious when inserted into the human
+follicle-stimulating hormone receptor.
+
+Zhang FP(1), Kero J, Huhtaniemi I.
+
+Author information: 
+(1)Department of Physiology, University of Turku, Finland.
+
+The LH receptor (LHR) is a member of the family of G protein-coupled seven-times 
+plasma membrane transversing receptors. Its gene consists of 11 exons, the last
+one encoding the transmembrane and intracellular domains of the receptor. The
+FSHR, and its gene, resemble structurally those of the LHR, with the exception
+that the sequences corresponding to exon 10 in LHR are missing in FSHR, which is 
+thus encoded by a total of ten exons. Our recent studies on the marmoset monkey
+testis LHR cDNA indicated that an 81 bp nucleotide sequence, encoding the
+complete exon 10 of the LHR gene in other mammalian species, is absent in this
+species without affecting the LHR function. To study further the role of the exon
+10 encoded sequences of the LHR in the gonadotropin receptor function, a deletion
+of exon 10 from the human LHR (hLHdeltaexon10R), and a chimeric hFSHR with exon
+10 from hLHR inserted (hFSHLHexon10R), were constructed in expression vectors.
+The results presented here demonstrate that 293 cells transfected with the
+hLHdeltaexon10R display a decrease in the proportion of the receptor binding at
+the cell surface, compared with cells transfected with wild-type hLHR. However,
+the cells expressing hLHdeltaexon10R showed similar high affinity binding of
+[125I]iodo-hCG as those transfected with wild-type hLHR, in either intact cells
+or their detergent extracts. In addition, cells expressing the hLHdeltaexon10R
+and wild-type hLHR displayed similar dose-response of cAMP production to hCG
+stimulation. Cells transfected with chimeric hFSHLHexon10R showed barely
+detectable [125I]iodo-FSH binding in intact cells compared with those transfected
+with wild-type hFSHR. The FSH binding detected in cellular detergent extracts
+displayed 10-fold lower binding activity than wild-type receptors, in spite of
+similar level of immunoreactive FSHR protein expression in the transfected cells.
+The hFSHLHexon10R had a modest 5-fold lower binding affinity for FSH as compared 
+with wild-type hFSHR. In conclusion, the present study indicates that the
+sequences encoding exon 10 of the hLHR are essential for the LHR expression at
+the plasma membrane, but deleterious for function if inserted into the hFSHR.
+
+DOI: 10.1016/s0303-7207(98)00108-7 
+PMID: 9783912  [Indexed for MEDLINE]
+

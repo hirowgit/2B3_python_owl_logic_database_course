@@ -1,0 +1,68 @@
+
+
+1144. Retrovirology. 2015 Oct 29;12:89. doi: 10.1186/s12977-015-0214-0.
+
+Wide distribution and ancient evolutionary history of simian foamy viruses in New
+World primates.
+
+Ghersi BM(1), Jia H(2), Aiewsakun P(3), Katzourakis A(4), Mendoza P(5), Bausch
+DG(6)(7), Kasper MR(8), Montgomery JM(9)(10), Switzer WM(11).
+
+Author information: 
+(1)U.S. Naval Medical Research Unit No. 6, Lima, Peru. bghersi@tulane.edu.
+(2)Laboratory Branch, Division of HIV/AIDS Prevention, National Center for
+HIV/AIDS, Viral Hepatitis, STD, and TB Prevention, Centers for Disease Control
+and Prevention, 1600 Clifton Rd., MS G-45, Atlanta, GA, 30329, USA. hjia@cdc.gov.
+(3)Department of Zoology, University of Oxford, Oxford, OX1 3PS, UK.
+pakorn.aiewsakun@zoo.ox.ac.uk.
+(4)Department of Zoology, University of Oxford, Oxford, OX1 3PS, UK.
+aris.katzourakis@zoo.ox.ac.uk.
+(5)Wildlife Conservation Society, Lima, Peru. pmendoza@wcs.org.
+(6)U.S. Naval Medical Research Unit No. 6, Lima, Peru. dbausch@tulane.edu.
+(7)Tulane School of Public Health and Tropical Hygiene, New Orleans, LA, USA.
+dbausch@tulane.edu.
+(8)U.S. Naval Medical Research Unit No. 6, Lima, Peru.
+matthew.r.kasper2.mil@mail.mil.
+(9)U.S. Naval Medical Research Unit No. 6, Lima, Peru. jmontgomery@cdc.gov.
+(10)Centers for Disease Control and Prevention, Atlanta, GA, 30333, USA.
+jmontgomery@cdc.gov.
+(11)Laboratory Branch, Division of HIV/AIDS Prevention, National Center for
+HIV/AIDS, Viral Hepatitis, STD, and TB Prevention, Centers for Disease Control
+and Prevention, 1600 Clifton Rd., MS G-45, Atlanta, GA, 30329, USA. bis3@cdc.gov.
+
+BACKGROUND: Although simian foamy viruses (SFV) are the only exogenous
+retroviruses to infect New World monkeys (NWMs), little is known about their
+evolutionary history and epidemiology. Previous reports show distinct SFVs among 
+NWMs but were limited to small numbers of captive or wild monkeys from five
+(Cebus, Saimiri, Ateles, Alouatta, and Callithrix) of the 15 NWM genera. Other
+studies also used only PCR testing or serological assays with limited validation 
+and may have missed infection in some species. We developed and validated new
+serological and PCR assays to determine the prevalence of SFV in blood specimens 
+from a large number of captive NWMs in the US (n = 274) and in captive and
+wild-caught NWMs (n = 236) in Peruvian zoos, rescue centers, and illegal trade
+markets. Phylogenetic and co-speciation reconciliation analyses of new SFV
+polymerase (pol) and host mitochondrial cytochrome B sequences, were performed to
+infer SFV and host co-evolutionary histories.
+RESULTS: 124/274 (45.2 %) of NWMs captive in the US and 59/157 (37.5 %) of
+captive and wild-caught NWMs in Peru were SFV WB-positive representing 11
+different genera (Alouatta, Aotus, Ateles, Cacajao, Callithrix, Cebus, Lagothrix,
+Leontopithecus, Pithecia, Saguinus and Saimiri). Seroprevalences were lower at
+rescue centers (10/53, 18.9 %) compared to zoos (46/97, 47.4 %) and illegal trade
+markets (3/7, 8/19, 42.9 %) in Peru. Analyses showed that the trees of NWM hosts 
+and SFVs have remarkably similar topologies at the level of species and
+sub-populations suggestive of co-speciation. Phylogenetic reconciliation
+confirmed 12 co-speciation events (p < 0.002) which was further supported by
+obtaining highly similar divergence dates for SFV and host genera and correlated 
+SFV-host branch times. However, four ancient cross-genus transmission events were
+also inferred for Pitheciinae to Atelidae, Cacajao to ancestral Callithrix or
+Cebus monkeys, between Callithrix and Cebus monkeys, and Lagothrix to Alouatta.
+CONCLUSIONS: We demonstrate a broad distribution and stable co-speciation history
+of SFV in NWMs at the species level. Additional studies are necessary to further 
+explore the epidemiology and natural history of SFV infection of NWMs and to
+determine the zoonotic potential for persons exposed to infected monkeys in
+captivity and in the wild.
+
+DOI: 10.1186/s12977-015-0214-0 
+PMCID: PMC4627628
+PMID: 26514626  [Indexed for MEDLINE]
+

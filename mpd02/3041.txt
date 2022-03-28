@@ -1,0 +1,33 @@
+
+
+3041. J Immunol Methods. 2002 Jun 1;264(1-2):19-28.
+
+Cell surface phenotyping and cytokine production of Epstein-Barr Virus
+(EBV)-transformed lymphoblastoid cell lines (LCLs).
+
+Wroblewski JM(1), Copple A, Batson LP, Landers CD, Yannelli JR.
+
+Author information: 
+(1)Division of Hematology and Oncology, College of Medicine, University of
+Kentucky, Lexington, KY 40536, USA.
+
+Epstein-Barr Virus-transformed B lymphoblastoid cell lines (EBV-LCLs) are
+routinely used for the in vitro expansion of T cells. However, these cell lines
+are reported to produce the cytokine IL-10, which is inhibitory for T cells. We, 
+therefore, characterized a panel of 37 EBV-LCLs for a variety of cell surface
+markers, for secretion of various cytokines including IL-10 and for
+immunoglobulin production. These cell lines were derived from normal donors or
+patients with nonsmall cell lung cancer, acute myelogenous leukemia, melanoma or 
+colon cancer. Overall, 26 lines were positive for CD19 and CD20, and 11 were
+negative for both. All of the lines were strongly HLA-DR+, while CD40 expression 
+was variable. Twenty-four (65%) were both CD23+ and secreted immunoglobulin, and 
+33 expressed kappa and/or lambda light chains. Additionally, all of the EBV-LCLs 
+were negative for T cell (CD3), NK cell (CD16, CD56), monocyte (CD14) and
+granulocyte (CD66b) surface markers. Some level of IL-10, IL-6, IL-12p40 and
+TNF-alpha cytokine production was detected in 33, 18, 19 and 12 EBV-LCLs,
+respectively. Together, these data reflect the heterogeneity of EBV-LCLs, which
+cautions their use nondiscriminately in various immunologic assays.
+
+DOI: 10.1016/s0022-1759(01)00565-8 
+PMID: 12191505  [Indexed for MEDLINE]
+

@@ -1,0 +1,79 @@
+
+
+1960. J Med Chem. 2010 Nov 25;53(22):8104-15. doi: 10.1021/jm100971t. Epub 2010 Oct 25.
+
+In vivo characterization of a dual adenosine A2A/A1 receptor antagonist in animal
+models of Parkinson's disease.
+
+Shook BC(1), Rassnick S, Osborne MC, Davis S, Westover L, Boulet J, Hall D,
+Rupert KC, Heintzelman GR, Hansen K, Chakravarty D, Bullington JL, Russell R,
+Branum S, Wells KM, Damon S, Youells S, Li X, Beauchamp DA, Palmer D, Reyes M,
+Demarest K, Tang Y, Rhodes K, Jackson PF.
+
+Author information: 
+(1)Johnson & Johnson Pharmaceutical Research and Development, L.L.C., Welsh and
+McKean Roads, P.O. Box 776, Spring House, Pennsylvania 19477, USA.
+bshook@its.jnj.com
+
+The in vivo characterization of a dual adenosine A(2A)/A(1) receptor antagonist
+in several animal models of Parkinson's disease is described. Discovery and
+scale-up syntheses of compound 1 are described in detail, highlighting
+optimization steps that increased the overall yield of 1 from 10.0% to 30.5%.
+Compound 1 is a potent A(2A)/A(1) receptor antagonist in vitro (A(2A) K(i) = 4.1 
+nM; A(1) K(i) = 17.0 nM) that has excellent activity, after oral administration, 
+across a number of animal models of Parkinson's disease including mouse and rat
+models of haloperidol-induced catalepsy, mouse model of reserpine-induced
+akinesia, rat 6-hydroxydopamine (6-OHDA) lesion model of drug-induced rotation,
+and MPTP-treated non-human primate model.
+
+DOI: 10.1021/jm100971t 
+PMID: 20973483  [Indexed for MEDLINE]
+
+
+1961. J Pharmacol Exp Ther. 2011 Feb;336(2):423-30. doi: 10.1124/jpet.110.169532. Epub 
+2010 Oct 21.
+
+Fatty acid amide hydrolase (FAAH) inhibition reduces
+L-3,4-dihydroxyphenylalanine-induced hyperactivity in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-lesioned non-human primate model of 
+Parkinson's disease.
+
+Johnston TH(1), Huot P, Fox SH, Wakefield JD, Sykes KA, Bartolini WP, Milne GT,
+Pearson JP, Brotchie JM.
+
+Author information: 
+(1)Toronto Western Research Institute, University Health Network, Toronto,
+Ontario, Canada.
+
+Dopaminergic therapies remain the most efficacious symptomatic treatments for
+Parkinson's disease (PD) but are associated with motor complications, including
+dyskinesia, and nonmotor complications, such as psychosis, impulse control
+disorders (ICD), and dopamine dysregulation syndrome (DDS). Nondopaminergic
+neurotransmitter systems, including the endocannabinoid system, are probably
+critical to the development of these complications. The role of fatty acid amide 
+hydrolase (FAAH) in mediating l-3,4-dihydroxyphenylalanine (L-DOPA)-induced
+behaviors was explored in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-lesioned marmoset model of PD.
+Pharmacodynamic and locomotor effects of the selective FAAH inhibitor
+[3-(3-carbamoylphenyl)phenyl] N-cyclohexylcarbamate (URB597) were assessed via
+bioanalytical (liquid chromatography-tandem mass spectrometry) and behavioral
+observation approaches. URB597 (3, 10, 30, or 60 mg/kg p.o.) increased plasma
+levels of the FAAH substrates N-arachidonoyl ethanolamide (anandamide), N-oleoyl 
+ethanolamide, and N-palmitoyl ethanolamide by 10.3 ± 0.3-, 7.8 ± 0.2-, and 1.8 ± 
+0.1-fold (mean of URB597 groups ± S.E.M.), respectively, compared with vehicle
+(all p < 0.001) 4 h after administration. Treatment with L-DOPA (20 mg/kg s.c.)
+alleviated parkinsonism but elicited dyskinesia, psychosis-like-behaviors and
+hyperactivity, a potential correlate of ICD and DDS. During the 2 to 4 h after
+L-DOPA, corresponding to 4 to 6 h after URB597 administration, URB597 reduced
+total L-DOPA-induced activity and the magnitude of hyperactivity by 32 and 52%,
+respectively, to levels equivalent to those seen in normal animals. Treatment
+with URB597 (10 mg/kg p.o.) did not modify the antiparkinsonian actions of L-DOPA
+or L-DOPA-induced dyskinesia and psychosis. URB597 did not alter plasma L-DOPA
+levels and was without behavioral effects when administered alone. Inhibition of 
+FAAH may represent a novel approach to reducing L-DOPA-induced side effects, such
+as ICD and DDS, while maintaining the antiparkinsonian benefits of L-DOPA
+treatment.
+
+DOI: 10.1124/jpet.110.169532 
+PMID: 20966038  [Indexed for MEDLINE]
+

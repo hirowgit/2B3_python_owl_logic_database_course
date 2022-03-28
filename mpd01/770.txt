@@ -1,0 +1,98 @@
+
+
+770. Brain Struct Funct. 2018 May;223(4):1599-1614. doi: 10.1007/s00429-017-1574-0.
+Epub 2017 Nov 28.
+
+Organization of auditory areas in the superior temporal gyrus of marmoset monkeys
+revealed by real-time optical imaging.
+
+Nishimura M(1), Takemoto M(1), Song WJ(2)(3).
+
+Author information: 
+(1)Department of Sensory and Cognitive Physiology, Graduate School of Medical
+Sciences, Kumamoto University, Kumamoto, 860-8556, Japan.
+(2)Department of Sensory and Cognitive Physiology, Graduate School of Medical
+Sciences, Kumamoto University, Kumamoto, 860-8556, Japan. song@kumamoto-u.ac.jp.
+(3)Program for Leading Graduate Schools HIGO Program, Kumamoto University,
+Kumamoto, 860-8556, Japan. song@kumamoto-u.ac.jp.
+
+The prevailing model of the primate auditory cortex proposes a core-belt-parabelt
+structure. The model proposes three auditory areas in the lateral belt region;
+however, it may contain more, as this region has been mapped only at a limited
+spatial resolution. To explore this possibility, we examined the auditory areas
+in the lateral belt region of the marmoset using a high-resolution optical
+imaging technique. Based on responses to pure tones, we identified multiple areas
+in the superior temporal gyrus. The three areas in the core region, the primary
+area (A1), the rostral area (R), and the rostrotemporal area, were readily
+identified from their frequency gradients and positions immediately ventral to
+the lateral sulcus. Three belt areas were identified with frequency gradients and
+relative positions to A1 and R that were in agreement with previous studies: the 
+caudolateral area, the middle lateral area, and the anterolateral area (AL).
+Situated between R and AL, however, we identified two additional areas. The first
+was located caudoventral to R with a frequency gradient in the ventrocaudal
+direction, which we named the medial anterolateral (MAL) area. The second was a
+small area with no obvious tonotopy (NT), positioned between the MAL and AL
+areas. Both the MAL and NT areas responded to a wide range of frequencies (at
+least 2-24 kHz). Our results suggest that the belt region caudoventral to R is
+more complex than previously proposed, and we thus call for a refinement of the
+current primate auditory cortex model.
+
+DOI: 10.1007/s00429-017-1574-0 
+PMID: 29185107  [Indexed for MEDLINE]
+
+
+771. Viruses. 2017 Nov 28;9(12). pii: E363. doi: 10.3390/v9120363.
+
+Dynamics of Pathological and Virological Findings During Experimental Calpox
+Virus Infection of Common Marmosets (Callithrix jacchus).
+
+Schmitt A(1), Gan LL(2), Abd El Wahed A(3), Shi T(4), Ellerbrok H(5), Kaup FJ(6),
+Stahl-Hennig C(7), Mätz-Rensing K(8).
+
+Author information: 
+(1)Pathology Unit, German Primate Center (DPZ), Kellnerweg 4, 37077 Göttingen,
+Germany. Anne.Schmitt@bfr.bund.de.
+(2)Unit of Infection Models, German Primate Center (DPZ), Kellnerweg 4, 37077
+Göttingen, Germany. LGan@dpz.eu.
+(3)Division of Microbiology and Animal Hygiene, Department of Animal Sciences,
+University of Göttingen, Burckhardtweg 2, 37077 Göttingen, Germany.
+abdelwahed@gwdg.de.
+(4)Unit of Infection Models, German Primate Center (DPZ), Kellnerweg 4, 37077
+Göttingen, Germany. qinqin99413@googlemail.com.
+(5)Robert Koch-Institute, Centre for Biological Threats and Special Pathogens,
+Highly Pathogenic Viruses (ZBS1), Seestr. 10, 13353 Berlin, Germany.
+EllerbrokH@rki.de.
+(6)Pathology Unit, German Primate Center (DPZ), Kellnerweg 4, 37077 Göttingen,
+Germany. fkaup@gwdg.de.
+(7)Unit of Infection Models, German Primate Center (DPZ), Kellnerweg 4, 37077
+Göttingen, Germany. stahlh@dpz.eu.
+(8)Pathology Unit, German Primate Center (DPZ), Kellnerweg 4, 37077 Göttingen,
+Germany. kmaetz@dpz.eu.
+
+Experimental intranasal infection of marmosets (Callithrix jacchus) with calpox
+virus results in fatal disease. Route and dose used for viral inoculation of the 
+test animals mimics the natural transmission of smallpox, thus representing a
+suitable model to study pathogenesis and to evaluate new vaccines against
+orthopoxvirus infection. However, the pathogenic mechanisms leading to death are 
+still unclear. Therefore, our study aimed at investigating the kinetics of
+pathological alterations to clarify the pathogenesis in calpox virus infection.
+Following intranasal inoculation with two different viral doses, common marmosets
+were sacrificed on days 3, 5, 7, 10 and 12 post inoculation. Collected tissue was
+screened using histopathology, immunohistochemistry, transmission electron
+microscopy, and virological assays. Our data suggest that primary replication
+took place in nasal and bronchial epithelia followed by secondary replication in 
+submandibular lymph nodes and spleen. Parallel to viremia at day 7, virus was
+detectable in many organs, mainly located in epithelial cells and macrophages, as
+well as in endothelial cells. Based on the onset of clinical signs, the
+histological and ultrastructural lesions and the immunohistochemical distribution
+pattern of the virus, the incubation period was defined to last 11 days, which
+resembles human smallpox. In conclusion, the data indicate that the calpox model 
+is highly suitable for studying orthopoxvirus-induced disease.
+
+DOI: 10.3390/v9120363 
+PMCID: PMC5744138
+PMID: 29182537  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interests with
+respect to research, authorship, and/or publication of this article.
+

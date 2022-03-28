@@ -1,0 +1,65 @@
+
+
+3936. Behav Brain Res. 1995 Jan 23;66(1-2):13-20.
+
+Structural dynamics of synapses and synaptic components.
+
+Wolff JR(1), Laskawi R, Spatz WB, Missler M.
+
+Author information: 
+(1)Department of Anatomy, University of Göttingen, Germany.
+
+Learning and memory formation are apparently based on cascades of molecular and
+cellular processes with increasing time constants (ms to days and weeks), but
+even the most long-lasting effects are transient. Memory traces may permanently
+modify the behavior (activity patterns, gene expression) of neurons and neuronal 
+networks. Therefore the question is raised whether our current view on the
+stability of synapses under normal conditions is tenable. Evidence is reviewed
+suggesting that as direct or indirect effects of modifications in bioelectrical
+activity and chemical trophicity, synapses may be remodeled and removed within
+days and weeks, and possibly within hours. Accordingly, species-specific
+connectivity patterns are not restricted to the standard architecture of the CNS,
+but (morpho-)genetics allow for a considerable number of alternative wiring
+patterns, which appear under unusual conditions during ontogenesis and in
+adulthood. Our present knowledge suggests that, rather than the formation of
+synapses, they are a selective process. Until now there is no direct method of
+measuring either synaptic reorganization or the average life span of synapses.
+Specific cases, however, allow to estimate synapse turnover during ontogenesis,
+at its lowest possible level. Such data suggest that each synapse is on average
+remodeled or replaced several to many times during normal developmental, e.g. in 
+the cerebral cortex of Marmoset monkeys at the very least 5 to 10 times
+(corresponding to 250 million synapses eliminated per hour in area 17!). It is
+discussed how the consequences of synapse turnover could be utilized by learning 
+processes. Conclusions are followed by an outlook.
+
+DOI: 10.1016/0166-4328(94)00118-y 
+PMID: 7755883  [Indexed for MEDLINE]
+
+
+3937. Int J Cancer. 1995 Jan 3;60(1):65-72.
+
+Burkitt's lymphoma cells are resistant to programmed cell death in the presence
+of the Epstein-Barr virus latent antigen EBNA-4.
+
+Silins SL(1), Sculley TB.
+
+Author information: 
+(1)Bancroft Centre, Queensland Institute of Medical Research, Brisbane,
+Australia.
+
+Group I Epstein-Barr virus (EBV)-positive Burkitt's lymphoma (BL) cells display a
+surface phenotype characteristic of germinal centre B cells and readily undergo
+apoptosis in response to a variety of stimuli, including serum deprivation.
+Activation of EBV latent gene expression has been shown to increase the survival 
+of these tumour cells by blocking programmed cell death. To investigate the
+nature of this protection, we assessed the function of the EBV latent EBNA-4 gene
+in a group I lymphoma line, dG75. Group I BL cells induced to undergo apoptosis
+in response to serum starvation were protected in the presence of EBNA-4 protein.
+A possible factor underlying this EBNA-4-associated survival was increased
+expression of the oncoprotein bcl-2, a known repressor of cell death. Together
+these data suggest that EBNA-4 plays an important role in the regulation of
+programmed cell death in BL tumour cells.
+
+DOI: 10.1002/ijc.2910600110 
+PMID: 7814154  [Indexed for MEDLINE]
+

@@ -1,0 +1,82 @@
+
+
+511. Neural Netw. 2019 Aug;116:25-34. doi: 10.1016/j.neunet.2019.03.014. Epub 2019 Apr
+1.
+
+Semi-supervised deep learning of brain tissue segmentation.
+
+Ito R(1), Nakae K(1), Hata J(2), Okano H(2), Ishii S(3).
+
+Author information: 
+(1)Graduate School of Informatics, Kyoto University, Yoshida-honmachi, Kyoto,
+606-8501, Japan.
+(2)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo, 160-8582, Japan; Laboratory for Marmoset Neural Architecture, RIKEN Center
+for Brain Science, Wako-shi, Saitama, 351-0198, Japan.
+(3)Graduate School of Informatics, Kyoto University, Yoshida-honmachi, Kyoto,
+606-8501, Japan. Electronic address: ishii@i.kyoto-u.ac.jp.
+
+Brain image segmentation is of great importance not only for clinical use but
+also for neuroscience research. Recent developments in deep neural networks
+(DNNs) have led to the application of DNNs to brain image segmentation, which
+required extensive human annotations of whole brain images. Annotating
+three-dimensional brain images requires laborious efforts by expert anatomists
+because of the differences among images in terms of their dimensionality, noise, 
+contrast, or ambiguous boundaries that even prevent these experts from
+necessarily attaining consistency. This paper proposes a semi-supervised learning
+framework to train a DNN based on a relatively small number of annotated
+(labeled) images, named atlases, but also a relatively large number of unlabeled 
+images by leveraging image registration to attach pseudo-labels to images that
+were originally unlabeled. We applied our proposed method to two different
+datasets: open human brain images and our original marmoset brain images. When
+provided with the same number of atlases for training, we found our method
+achieved superior and more stable segmentation results than those by existing
+registration-based and DNN-based methods.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neunet.2019.03.014 
+PMID: 30986724  [Indexed for MEDLINE]
+
+
+512. J Comp Psychol. 2019 Nov;133(4):474-487. doi: 10.1037/com0000169. Epub 2019 Apr
+15.
+
+Food sharing patterns in three species of callitrichid monkeys (Callithrix
+jacchus, Leontopithecus chrysomelas, Saguinus midas): Individual and species
+differences.
+
+Guerreiro Martins EM(1), Moura ACA(2), Finkenwirth C(1), Griesser M(3), Burkart
+JM(1).
+
+Author information: 
+(1)Department of Anthropology.
+(2)Departamento de Engenharia e Meio Ambiente.
+(3)Department of Evolutionary Biology and Environmental Studies.
+
+Food sharing (FS) in cooperatively breeding callitrichids is unusual among
+nonhuman primates because they regularly share significant amounts of preferred
+food with immatures and engage in proactive FS. However, it is still unclear
+which classes of individuals (males or females, breeders or helpers) engage most 
+in FS, and whether differences exist among callitrichid species. In the first
+part of this study, we characterized general FS patterns in common marmosets
+(Callithrix jacchus). We found substantial adult-immature FS, and female breeders
+shared the least with immatures. This conflicts with previously published
+studies, where data were collected with the prevailing standard method of
+providing a food bowl to the entire group. In the second part, a comparison of
+our access-bias-free method and the standard method suggested that previous
+findings are likely the result of access bias. In the third part, we investigated
+species differences in adult-adult FS among common marmosets, golden-headed lion 
+tamarins (Leontopithecus chrysomelas), and red-handed tamarins (Saguinus midas). 
+As common marmosets show lower levels of interdependence within groups, we
+expected more adult-adult FS in tamarins compared with marmosets. Adult-adult FS 
+was indeed more prevalent in tamarins and not exclusively directed from male
+breeders to female breeders. Therefore, our results suggest that adult-adult FS
+in marmosets mostly reflects the high energetic demands of female breeders,
+whereas in the more interdependent tamarins, it may be used to reinforce
+cooperative bonds between adult group members. (PsycINFO Database Record (c) 2019
+APA, all rights reserved).
+
+DOI: 10.1037/com0000169 
+PMID: 30985161  [Indexed for MEDLINE]
+

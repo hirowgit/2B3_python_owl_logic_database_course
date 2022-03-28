@@ -1,0 +1,86 @@
+
+
+4150. Int Rev Exp Pathol. 1993;34 Pt B:73-101.
+
+Comparative pathology of recombinant murine interferon-gamma in mice and
+recombinant human interferon-gamma in cynomolgus monkeys.
+
+Terrell TG(1), Green JD.
+
+Author information: 
+(1)Department of Safety Evaluation Genentech, Inc., South San Francisco,
+California 94080.
+
+Interferon-gamma is a highly species-specific cytokine and has the most
+restricted host range of activity of the interferons. Recombinant human IFN-gamma
+was one of the first species-specific recombinant proteins to be thoroughly
+assessed in conventional safety models used for xenobiotics. Acute single-dose
+intravenous toxicity studies with rHuIFN-gamma were performed in rats, marmosets,
+and squirrel monkeys with no indications of toxicity. A complete series of
+subchronic toxicity studies and segment I and II reproductive studies in the rat 
+revealed no evidence of toxicity at any of the doses tested. These results
+suggested that studies conducted in pharmacologically nonresponsive species may
+not be predictive of clinical toxicity. Human IFN-gamma is active on nonhuman
+primate cells, though not at the same level as on human cells. Multidose studies 
+in cynomolgus monkeys with rHuIFN-gamma for 28 or 90 days were predictive of many
+of the dose-limiting clinical toxicities. Qualitative similarity was observed
+between toxicity studies employing rHuIFN-gamma in the cynomolgus monkey and
+rMuIFN-gamma in the mouse. The adverse effects seen in toxicity studies with
+cytokines and growth factors are often exaggerated pharmacological effects of the
+molecules, and therefore can only be studied in a responsive species. In
+situations in which a high degree of species specificity is encountered, studies 
+employing a recombinant protein in a homologous species may provide a useful test
+system for preclinical safety assessment.
+
+DOI: 10.1016/b978-0-12-364935-5.50011-0 
+PMID: 8458720  [Indexed for MEDLINE]
+
+
+4151. Arch Toxicol. 1993;67(1):1-17.
+
+Thalidomide derivatives and the immune system. I. Changes in the pattern of
+integrin receptors and other surface markers on T lymphocyte subpopulations of
+marmoset blood.
+
+Neubert R(1), Nogueira AC, Neubert D.
+
+Author information: 
+(1)Kinderklinik (Kaiserin-Auguste-Victoria Haus, Freie Universität Berlin,
+Federal Republic of Germany.
+
+Treatment of marmosets (Callithrix jacchus) with thalidomide (Thd) or its
+derivative EM12 (which is also teratogenic, but more stable to hydrolysis)
+resulted in the lack of reaction of adhesion surface receptors (integrins) on T
+lymphocytes in venous blood. Lymphocyte subsets appeared, for example CD4+CD2-,
+which are not found under normal conditions. (a) There was no clear effect of the
+treatments on the total number of leukocytes or lymphocytes or on the total
+number of CD4+ or CD8+ T lymphocytes. (b) A decrease in the percentage of the
+cytotoxic T cells carrying the CDw29 marker (CD8+CD56+CDw29+) at a dose as low as
+5 mg EM12/kg bw, and an increase in the percentage of suppressor cells carrying
+the CDw29 marker (CD8+CD56-CDw29+) at 10 mg EM12/kg bw were found. Similar
+effects were induced by Thd at somewhat higher doses, while supidimide (Sup) was 
+less active even at the very high dose of 100 mg/kg bw. Especially at the lower
+doses these effects occurred with a lag phase and persisted after discontinuation
+of the dosing. Alterations induced in helper T cell subpopulations by Thd or EM12
+were less impressive (no significant effect was observed with 5 mg EM12/kg bw).
+Some changes were observed at higher dose levels in the CD4+CD45RA+CDw29+ cells
+and the CD4+CD45RACDw29+ cells. (c) The most significant effect, reduction in the
+reactivity of CD2+, was detectable subsequent to daily oral doses as low as 10 mg
+Thd/kg or 1 mg EM12/kg bw. Peak plasma concentrations to be expected under these 
+experimental conditions are less than 1 micrograms/ml. (d) The surface receptors 
+found to be affected include among others: CD2 (LFA-2) and CD11a (LFA-1 alpha)
+and CD18 (LFA-1 beta). Clearly, CD4+ cells were found to be more susceptible to
+the loss of the integrin receptors than CD8+ cells. (e) The effect persisted for 
+several weeks subsequent to the discontinuation of the dosing. (f) A rough
+estimate of the relative potency to reduce the CD2 receptor in the marmoset
+suggests EM12 to be five to ten times more potent than Thd. Sup, a Thd derivative
+reported to exhibit no or a low teratogenic potency, was found to be at least
+five times less potent than Thd. (g) The alterations of surface adhesion
+receptors by the substances studied in this investigation were not confined to T 
+lymphocytes. We also observed similar effects on B lymphocytes, monocytes, and
+neutrophils, and many other cell types carrying such receptors might be
+affected.(ABSTRACT TRUNCATED AT 400 WORDS)
+
+DOI: 10.1007/BF02072029 
+PMID: 8452474  [Indexed for MEDLINE]
+

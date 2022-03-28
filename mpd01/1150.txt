@@ -1,0 +1,93 @@
+
+
+1150. Brain Struct Funct. 2016 Nov;221(8):3903-3925. Epub 2015 Oct 26.
+
+Expression and distribution of peroxiredoxins in the retina and optic nerve.
+
+Chidlow G(1)(2), Wood JP(3)(4), Knoops B(5), Casson RJ(3)(4).
+
+Author information: 
+(1)Ophthalmic Research Laboratories, South Australian Institute of Ophthalmology,
+Hanson Institute Centre for Neurological Diseases, Frome Rd, Adelaide, SA, 5000, 
+Australia. glyn.chidlow@health.sa.gov.au.
+(2)Department of Ophthalmology and Visual Sciences, University of Adelaide, Frome
+Rd, Adelaide, SA, 5000, Australia. glyn.chidlow@health.sa.gov.au.
+(3)Ophthalmic Research Laboratories, South Australian Institute of Ophthalmology,
+Hanson Institute Centre for Neurological Diseases, Frome Rd, Adelaide, SA, 5000, 
+Australia.
+(4)Department of Ophthalmology and Visual Sciences, University of Adelaide, Frome
+Rd, Adelaide, SA, 5000, Australia.
+(5)Group of Animal Molecular and Cellular Biology, Institut des Sciences de la
+Vie (ISV), Université catholique de Louvain, 1348, Louvain-la-Neuve, Belgium.
+
+Oxidative stress is implicated in various pathological conditions of the retina
+and optic nerve. Peroxiredoxins (Prdxs) comprise a recently characterized family 
+of antioxidant enzymes. To date, little information exists regarding the
+distribution of Prdxs in the eye. Herein, we employed a combination of qRT-PCR,
+immunohistochemistry and Western blotting to determine the level of expression
+and distribution of the six Prdx isoforms in the retina and optic nerve of the
+rat. In addition, we performed some parallel analyses on the common marmoset
+(Callithrix Jacchus). In the rat, all of the Prdx transcripts were expressed in
+relatively high amounts in both retina and optic nerve, with abundances ranging
+from approximately 3-50 % of the level of the housekeeping gene cyclophilin. With
+regard to protein expression, each isoform was detected in the retina and optic
+nerve by either Western blotting and/or immunohistochemistry. Excepting Prdx4,
+there was a good correspondence between the rodent and primate results. In the
+retina, Prdx1 and Prdx2 were principally localized to neurons in the inner
+nuclear layer and cone photoreceptors, Prdx3 and Prdx5 displayed characteristic
+mitochondrial immunolabeling, while Prdx6 was associated with astrocytes and
+Müller cells. In the optic nerve, Prdx1 was robustly expressed by
+oligodendrocytes, Prdx3 and Prdx5 were observed in axons, and Prdx6 was
+restricted to astrocytes. The present findings augment our understanding of the
+distribution and expression of the Prdxs in the retina and optic nerve of rodents
+and primates and lay the foundation for subsequent analysis of their involvement 
+in relevant blinding diseases.
+
+DOI: 10.1007/s00429-015-1135-3 
+PMCID: PMC5065902
+PMID: 26501408  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial
+interests.
+
+
+1151. Front Psychol. 2015 Oct 7;6:1519. doi: 10.3389/fpsyg.2015.01519. eCollection
+2015.
+
+Can vocal conditioning trigger a semiotic ratchet in marmosets?
+
+Turesson HK(1), Ribeiro S(1).
+
+Author information: 
+(1)Brain Institute, Federal University of Rio Grande do Norte , Natal, Brazil.
+
+The complexity of human communication has often been taken as evidence that our
+language reflects a true evolutionary leap, bearing little resemblance to any
+other animal communication system. The putative uniqueness of the human language 
+poses serious evolutionary and ethological challenges to a rational explanation
+of human communication. Here we review ethological, anatomical, molecular, and
+computational results across several species to set boundaries for these
+challenges. Results from animal behavior, cognitive psychology, neurobiology, and
+semiotics indicate that human language shares multiple features with other
+primate communication systems, such as specialized brain circuits for
+sensorimotor processing, the capability for indexical (pointing) and symbolic
+(referential) signaling, the importance of shared intentionality for associative 
+learning, affective conditioning and parental scaffolding of vocal production.
+The most substantial differences lie in the higher human capacity for symbolic
+compositionality, fast vertical transmission of new symbols across generations,
+and irreversible accumulation of novel adaptive behaviors (cultural ratchet). We 
+hypothesize that increasingly-complex vocal conditioning of an appropriate animal
+model may be sufficient to trigger a semiotic ratchet, evidenced by progressive
+sign complexification, as spontaneous contact calls become indexes, then symbols 
+and finally arguments (strings of symbols). To test this hypothesis, we outline a
+series of conditioning experiments in the common marmoset (Callithrix jacchus).
+The experiments are designed to probe the limits of vocal communication in a
+prosocial, highly vocal primate 35 million years far from the human lineage, so
+as to shed light on the mechanisms of semiotic complexification and cultural
+transmission, and serve as a naturalistic behavioral setting for the
+investigation of language disorders.
+
+DOI: 10.3389/fpsyg.2015.01519 
+PMCID: PMC4596241
+PMID: 26500583 
+

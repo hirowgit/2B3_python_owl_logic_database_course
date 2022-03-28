@@ -1,0 +1,80 @@
+
+
+509. Evol Hum Behav. 2019 Mar;40(2):214-221. doi: 10.1016/j.evolhumbehav.2018.11.006.
+
+Common marmosets are sensitive to simple dependencies at variable distances in an
+artificial grammar.
+
+Reber SA(1)(2), Šlipogor V(1), Oh J(1), Ravignani A(3), Hoeschele M(1)(4),
+Bugnyar T(1), Fitch WT(1).
+
+Author information: 
+(1)Department of Cognitive Biology, University of Vienna, Althanstrasse 14, 1090 
+Vienna, Austria.
+(2)Department of Philosophy, Lund University, Helgonavägen 3, 22 100 Lund,
+Sweden.
+(3)Artificial Intelligence Lab, Vrije Universiteit Brussel, Pleinlaan 2, 1050
+Brussels, Belgium.
+(4)Acoustics Research Institute, Austrian Academy of Sciences, Wohllebengasse
+12-14, 1040 Vienna, Austria.
+
+Recognizing that two elements within a sequence of variable length depend on each
+other is a key ability in understanding the structure of language and music.
+Perception of such interdependencies has previously been documented in
+chimpanzees in the visual domain and in human infants and common squirrel monkeys
+with auditory playback experiments, but it remains unclear whether it typifies
+primates in general. Here, we investigated the ability of common marmosets
+(Callithrix jacchus) to recognize and respond to such dependencies. We tested
+subjects in a familiarization-discrimination playback experiment using stimuli
+composed of pure tones that either conformed or did not conform to a grammatical 
+rule. After familiarization to sequences with dependencies, marmosets
+spontaneously discriminated between sequences containing and lacking dependencies
+('consistent' and 'inconsistent', respectively), independent of stimulus length. 
+Marmosets looked more often to the sound source when hearing sequences consistent
+with the familiarization stimuli, as previously found in human infants.
+Crucially, looks were coded automatically by computer software, avoiding human
+bias. Our results support the hypothesis that the ability to perceive
+dependencies at variable distances was already present in the common ancestor of 
+all anthropoid primates (Simiiformes).
+
+DOI: 10.1016/j.evolhumbehav.2018.11.006 
+PMCID: PMC6472617
+PMID: 31007503 
+
+
+510. Magn Reson Imaging. 2019 Dec;64:21-27. doi: 10.1016/j.mri.2019.04.009. Epub 2019 
+Apr 17.
+
+Open-source pipeline for multi-class segmentation of the spinal cord with deep
+learning.
+
+Paugam F(1), Lefeuvre J(2), Perone CS(3), Gros C(3), Reich DS(2), Sati P(2),
+Cohen-Adad J(4).
+
+Author information: 
+(1)École Centrale de Lyon, Lyon, France; NeuroPoly Lab, Institute of Biomedical
+Engineering, Polytechnique Montreal, Montreal, QC, Canada. Electronic address:
+francois.paugam@laposte.net.
+(2)Translational Neuroradiology Section, National Institute of Neurological
+Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA.
+(3)NeuroPoly Lab, Institute of Biomedical Engineering, Polytechnique Montreal,
+Montreal, QC, Canada.
+(4)NeuroPoly Lab, Institute of Biomedical Engineering, Polytechnique Montreal,
+Montreal, QC, Canada; Functional Neuroimaging Unit, CRIUGM, Université de
+Montréal, Montreal, QC, Canada. Electronic address: jcohen@polymtl.ca.
+
+This paper presents an open-source pipeline to train neural networks to segment
+structures of interest from MRI data. The pipeline is tailored towards
+homogeneous datasets and requires relatively low amounts of manual segmentations 
+(few dozen, or less depending on the homogeneity of the dataset). Two use-case
+scenarios for segmenting the spinal cord white and grey matter are presented: one
+in marmosets with variable numbers of lesions, and the other in the publicly
+available human grey matter segmentation challenge [1]. The pipeline is freely
+available at: https://github.com/neuropoly/multiclass-segmentation.
+
+Copyright © 2019. Published by Elsevier Inc.
+
+DOI: 10.1016/j.mri.2019.04.009 
+PMCID: PMC6800813
+PMID: 31004711  [Indexed for MEDLINE]
+

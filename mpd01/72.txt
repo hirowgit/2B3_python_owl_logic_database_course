@@ -1,0 +1,91 @@
+
+
+72. Dev Neurobiol. 2021 Nov;81(8):905-938. doi: 10.1002/dneu.22850. Epub 2021 Oct 22.
+
+Neuronal development in the cochlea of a nonhuman primate model, the common
+marmoset.
+
+Hosoya M(1), Fujioka M(1), Murayama AY(2)(3), Ozawa H(1), Okano H(2)(3), Ogawa
+K(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Keio University
+School of Medicine, Tokyo, Japan.
+(2)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+(3)Laboratory for Marmoset Neural Architecture, Center for Brain Science, RIKEN, 
+Wako, Japan.
+
+Precise cochlear neuronal development is vital to hearing ability. Understanding 
+the developmental process of the spiral ganglion is useful for studying hearing
+loss aimed at aging or regenerative therapy. Although interspecies differences
+have been reported between rodents and humans, to date, most of our knowledge
+about the development of cochlear neuronal development has been obtained from
+rodent models because of the difficulty in using human fetal samples in this
+field. In this study, we investigated cochlear neuronal development in a small
+New World monkey species, the common marmoset (Callithrix jacchus). We examined
+more than 25 genes involved in the neuronal development of the cochlea and
+described the critical developmental steps of these neurons. We also revealed
+similarities and differences between previously reported rodent models and this
+primate animal model. Our results clarified that this animal model of cochlear
+neuronal development is more similar to humans than rodents and is suitable as an
+alternative for the analysis of human cochlear development. The time course
+established in this report will be a useful tool for studying primate-specific
+neuronal biology of the inner ear, which could eventually lead to new treatment
+strategies for human hearing loss.
+
+© 2021 The Authors. Developmental Neurobiology published by Wiley Periodicals
+LLC.
+
+DOI: 10.1002/dneu.22850 
+PMID: 34545999 
+
+
+73. Nat Commun. 2021 Sep 15;12(1):5388. doi: 10.1038/s41467-021-25487-6.
+
+Functional and molecular characterization of a non-human primate model of autism 
+spectrum disorder shows similarity with the human disease.
+
+Watanabe S(1), Kurotani T(2), Oga T(2), Noguchi J(2), Isoda R(2), Nakagami
+A(2)(3), Sakai K(2), Nakagaki K(2), Sumida K(4), Hoshino K(5), Saito K(4),
+Miyawaki I(5), Sekiguchi M(6), Wada K(6), Minamimoto T(7), Ichinohe N(8).
+
+Author information: 
+(1)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Kodaira, Tokyo, Japan.
+s-watanabe@ncnp.go.jp.
+(2)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Kodaira, Tokyo, Japan.
+(3)Department of Psychology, Japan Women's University, Kawasaki, Kanagawa, Japan.
+(4)Environmental Health Science Laboratory, Sumitomo Chemical Co., Ltd.,
+Konohana-ku, Osaka, Japan.
+(5)Preclinical Research Laboratories, Sumitomo Dainippon Pharma Co., Ltd.,
+Konohana-ku, Osaka, Japan.
+(6)Department of Degenerative Neurological Diseases, National Institute of
+Neuroscience, National Center of Neurology and Psychiatry, Kodaira, Tokyo, Japan.
+(7)Department of Functional Brain Imaging, National Institutes for Quantum and
+Radiological Science and Technology, Chiba, Chiba, Japan.
+(8)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Kodaira, Tokyo, Japan.
+nichino@ncnp.go.jp.
+
+Autism spectrum disorder (ASD) is a multifactorial disorder with characteristic
+synaptic and gene expression changes. Early intervention during childhood is
+thought to benefit prognosis. Here, we examined the changes in cortical
+synaptogenesis, synaptic function, and gene expression from birth to the juvenile
+stage in a marmoset model of ASD induced by valproic acid (VPA) treatment. Early 
+postnatally, synaptogenesis was reduced in this model, while juvenile-age
+VPA-treated marmosets showed increased synaptogenesis, similar to observations in
+human tissue. During infancy, synaptic plasticity transiently increased and was
+associated with altered vocalization. Synaptogenesis-related genes were
+downregulated early postnatally. At three months of age, the differentially
+expressed genes were associated with circuit remodeling, similar to the
+expression changes observed in humans. In summary, we provide a functional and
+molecular characterization of a non-human primate model of ASD, highlighting its 
+similarity to features observed in human ASD.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41467-021-25487-6 
+PMCID: PMC8443557
+PMID: 34526497  [Indexed for MEDLINE]
+

@@ -1,0 +1,38 @@
+
+
+3163. J Virol. 2001 Jul;75(13):5842-50.
+
+Morbilliviruses use signaling lymphocyte activation molecules (CD150) as cellular
+receptors.
+
+Tatsuo H(1), Ono N, Yanagi Y.
+
+Author information: 
+(1)Department of Virology, Faculty of Medicine, Kyushu University, Fukuoka
+812-8582, Japan.
+
+Morbilliviruses comprise measles virus, canine distemper virus, rinderpest virus,
+and several other viruses that cause devastating human and animal diseases
+accompanied by severe immunosuppression and lymphopenia. Recently, we have shown 
+that human signaling lymphocyte activation molecule (SLAM) is a cellular receptor
+for measles virus. In this study, we examined whether canine distemper and
+rinderpest viruses also use canine and bovine SLAMs, respectively, as cellular
+receptors. The Onderstepoort vaccine strain and two B95a (marmoset B cell
+line)-isolated strains of canine distemper virus caused extensive cytopathic
+effects in normally resistant CHO (Chinese hamster ovary) cells after expression 
+of canine SLAM. The Ako vaccine strain of rinderpest virus produced strong
+cytopathic effects in bovine SLAM-expressing CHO cells. The data on entry with
+vesicular stomatitis virus pseudotypes bearing measles, canine distemper, or
+rinderpest virus envelope proteins were consistent with development of cytopathic
+effects in SLAM-expressing CHO cell clones after infection with the respective
+viruses, confirming that SLAM acts at the virus entry step (as a cellular
+receptor). Furthermore, most measles, canine distemper, and rinderpest virus
+strains examined could any use of the human, canine, and bovine SLAMs to infect
+cells. Our findings suggest that the use of SLAM as a cellular receptor may be a 
+property common to most, if not all, morbilliviruses and explain the
+lymphotropism and immunosuppressive nature of morbilliviruses.
+
+DOI: 10.1128/JVI.75.13.5842-5850.2001 
+PMCID: PMC114299
+PMID: 11390585  [Indexed for MEDLINE]
+

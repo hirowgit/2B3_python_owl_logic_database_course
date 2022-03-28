@@ -1,0 +1,90 @@
+
+
+3465. Psychopharmacology (Berl). 1999 Feb;142(1):51-60.
+
+Actions of the D1 agonists A-77636 and A-86929 on locomotion and dyskinesia in
+MPTP-treated L-dopa-primed common marmosets.
+
+Pearce RK(1), Jackson M, Britton DR, Shiosaki K, Jenner P, Marsden CD.
+
+Author information: 
+(1)University Department of Clinical Neurology, Institute of Neurology, The
+National Hospital for Neurology and Neurosurgery, London, UK.
+
+Common marmosets show parkinsonian motor deficits following
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) administration and develop
+dyskinesias during chronic L-dopa exposure. The D1 agonists A-77636 [(1R, 3S)
+3-(1'-adamantyl)-1-aminomethyl-3, 4-dihydro-5, 6-dihydroxy-1H-2-benzopyran HCl]
+and A-86929 [(-)-trans 9, 10-hydroxy-2-propyl-4, 5, 5a, 6, 7,
+11b-hexahydro-3-thia-5-azacyclopent-1-ena[c]phenanthrene hydrochloride] possess
+potent antiparkinsonian activity in the MPTP-treated marmoset and we now assess
+their influence on L-dopa-induced dyskinesias. MPTP-treated marmosets with stable
+motor deficits were treated with L-dopa plus carbidopa for 28 days to induce
+dyskinesias. Subsequently, they received A-86929 for 10 days, initially at 0.5
+micromol/kg and then at 1.0 micromol/kg for a further 5 days. Several months
+later, L-dopa 12.5 mg/kg plus carbidopa 12.5 mg/kg was given orally twice daily
+for 7 days, followed by A-77636 1 micromol/kg for 10 days, and then both A-77636 
+and L-dopa plus carbidopa were given concurrently for 3 further days. In these
+L-dopa-primed animals, A-86929 effectively reversed akinesia and produced
+dose-dependent dyskinesias which were significantly less intense than those
+produced by L-dopa administration. A degree of behavioral tolerance was
+encountered, but antiparkinsonian activity was preserved and elicited behaviour
+was free of hyperkinesis and stereotypy and more naturalistic than that seen with
+L-dopa. After a week of twice-daily L-dopa dosing, administration of the
+long-acting D1 agonist A-77636 initially dramatically enhanced locomotion and
+reproduced dyskinesia with prominent dystonia, but after repeated administration 
+of A-77636, dyskinesia and in particular chorea, gradually disappeared. Tolerance
+to locomotor stimulation greater than with A-86929 occurred, although activity
+remained significantly above baseline levels. There was a marked reduction in
+L-dopa-induced climbing, stereotypy and hyperkinesis and behaviour more closely
+resembled that of normal unlesioned marmosets. Upon reintroduction of L-dopa
+concurrently with continued A-77636 administration, dystonic, but virtually no
+choreic dyskinesias appeared and behaviour was once again free of stereotypy and 
+hyperkinesis, contrasting dramatically with the presence of these behaviours
+along with abundant chorea when L-dopa is given alone. These results show a
+lesser liability of A-86929 and A-77636 to reproduce dyskinesia in L-dopa-primed 
+MPTP-lesioned subjects while maintaining effective antiparkinsonian activity and 
+producing a more naturalistic motor response. The differential effects of A-77636
+on chorea and dystonia, with suppression of chorea and stereotypy on
+co-administration with L-dopa, may reflect an altered balance of activity in the 
+direct and indirect striatofugal pathways. These results suggest a possible role 
+for D1 agonists in the treatment of Parkinson's disease.
+
+DOI: 10.1007/s002130050861 
+PMID: 10102782  [Indexed for MEDLINE]
+
+
+3466. J Comp Neurol. 1999 Mar 29;406(1):1-14.
+
+Analysis of the short wavelength-sensitive ("blue") cone mosaic in the primate
+retina: comparison of New World and Old World monkeys.
+
+Martin PR(1), Grünert U.
+
+Author information: 
+(1)Department of Physiology and Institute for Biomedical Research, The University
+of Sydney, New South Wales, Australia. paulm@physiol.usyd.edu.au
+
+The distribution of short wavelength-sensitive (SWS or "blue") cone
+photoreceptors was compared in primates with dichromatic ("red-green colour
+blind") and trichromatic colour vision. We compared a New World species, the
+marmoset (Callithrix jacchus), with an Old World species, the macaque monkey
+(Macaca nemestrina). The SWS cones were identified by their immunoreactivity to
+an antiserum against the human SWS cone opsin. A single retina from a male
+capuchin monkey (Cebus apella) also was studied. The SWS cones make up less than 
+10% of all cone photoreceptors throughout the retina of all animals studied. In
+marmoset, the peak spatial density of SWS cones is close to 10,000/mm2 at the
+foveola. In macaque, the peak spatial density of SWS cones, close to 6,000/mm2,
+is at the fovea, but SWS cones are absent within 50 microm of the centre of the
+foveola. In both species, the density of SWS cones is higher on the nasal retinal
+axis than at corresponding eccentricities on the other retinal axes. The SWS
+cones in macaque are arranged in a semiregular array, but they are distributed
+randomly in marmoset. There is no difference in the spatial density or local
+arrangement of SWS cones between dichromatic and trichromatic marmosets. The
+results suggest that the SWS cone photoreceptor system is subject to different
+developmental and evolutionary constraints than those that have led to the
+formation of the red-green photoreceptor systems in primate vision.
+
+DOI: 10.1002/(sici)1096-9861(19990329)406:1<1::aid-cne1>3.0.co;2-1 
+PMID: 10100889  [Indexed for MEDLINE]
+

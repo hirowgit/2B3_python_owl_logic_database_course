@@ -1,0 +1,77 @@
+
+
+1716. J Physiol. 2012 Aug 15;590(16):4061-77. doi: 10.1113/jphysiol.2012.230409. Epub
+2012 Jun 11.
+
+Colour and pattern selectivity of receptive fields in superior colliculus of
+marmoset monkeys.
+
+Tailby C(1), Cheong SK, Pietersen AN, Solomon SG, Martin PR.
+
+Author information: 
+(1)Save Sight Institute C09, University of Sydney, NSW 2006, Australia.
+
+The main subcortical visual targets of retinal output neurones (ganglion cells)
+are the parvocellular and magnocellular layers of the dorsal lateral geniculate
+nucleus (LGN) in the thalamus. In addition, a small and heterogeneous collection 
+of ganglion cell axons projects to the koniocellular layers of the LGN, to the
+superior colliculus (SC), and to other subcortical targets. The functional
+(receptive field) properties and target specificity of these non-parvocellular,
+non-magnocellular populations remain poorly understood. It is known that one
+population of koniocellular layer cells in the LGN (blue-On cells) receives
+dominant functional input from short-wavelength sensitive (S or ‘blue') cones.
+Here we asked whether SC neurones also receive S cone inputs. We made
+extracellular recordings from single neurones (n = 38) in the SC of anaesthetised
+marmoset monkeys. Responses to drifting and flashed gratings providing defined
+levels of cone contrast were measured. The SC receptive fields we recorded were
+often binocular, showed ‘complex cell' like responses (On–Off responses), strong 
+bandpass spatial frequency tuning, direction selectivity, and many showed strong 
+and rapid habituation to repeatedly presented stimuli. We found no evidence for
+dominant S cone input to any SC neurone recorded. These data suggest that S cone 
+signals may reach cortical pathways for colour vision exclusively through the
+koniocellular division of the lateral geniculate nucleus.
+
+DOI: 10.1113/jphysiol.2012.230409 
+PMCID: PMC3476648
+PMID: 22687612  [Indexed for MEDLINE]
+
+
+1717. J Neurosci. 2012 Jun 6;32(23):7881-94. doi: 10.1523/JNEUROSCI.4832-11.2012.
+
+Color blobs in cortical areas V1 and V2 of the new world monkey Callithrix
+jacchus, revealed by non-differential optical imaging.
+
+Valverde Salzmann MF(1), Bartels A, Logothetis NK, Schüz A.
+
+Author information: 
+(1)Department of Physiology of Cognitive Processes, Max Planck Institute for
+Biological Cybernetics, D-72076 Tübingen, Germany.
+matthias.valverde@tuebingen.mpg.de
+
+Color vision is reserved to only few mammals, such as Old World monkeys and
+humans. Most Old World monkeys are trichromats. Among them, macaques were shown
+to exhibit functional domains of color-selectivity, in areas V1 and V2 of the
+visual cortex. Such color domains have not yet been shown in New World monkeys.
+In marmosets a sex-linked dichotomy results in dichromatic and trichromatic
+genotypes, rendering most male marmosets color-blind. Here we used trichromatic
+female marmosets to examine the intrinsic signal response in V1 and V2 to
+chromatic and achromatic stimuli, using optical imaging. To activate the
+subsystems individually, we used spatially homogeneous isoluminant color opponent
+(red/green, blue/yellow) and hue versus achromatic flicker (red/gray, green/gray,
+blue/gray, yellow/gray), as well as achromatic luminance flicker. In contrast to 
+previous optical imaging studies in marmosets, we find clearly segregated color
+domains, similar to those seen in macaques. Red/green and red/gray flicker were
+found to be the appropriate stimulus for revealing color domains in
+single-condition maps. Blue/gray and blue/yellow flicker stimuli resulted in
+faint patch-patterns. A recently described multimodal vessel mapping approach
+allowed for an accurate alignment of the functional and anatomical datasets.
+Color domains were tightly colocalized with cytochrome oxidase blobs in V1 and
+with thin stripes in V2. Thus, our findings are in accord with 2-Deoxy-D-glucose 
+studies performed in V1 of macaques and studies on color representation in V2.
+Our results suggest a similar organization of early cortical color processing in 
+trichromats of both Old World and New World monkeys.
+
+DOI: 10.1523/JNEUROSCI.4832-11.2012 
+PMCID: PMC6620961
+PMID: 22674264  [Indexed for MEDLINE]
+

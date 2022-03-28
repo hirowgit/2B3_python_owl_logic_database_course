@@ -1,0 +1,80 @@
+
+
+1556. J Virol. 2013 Jul;87(14):8179-94. doi: 10.1128/JVI.00443-13. Epub 2013 May 22.
+
+Epstein-Barr virus transcytosis through polarized oral epithelial cells.
+
+Tugizov SM(1), Herrera R, Palefsky JM.
+
+Author information: 
+(1)Department of Medicine, University of California San Francisco, San Francisco,
+California, USA. sharof.tugizov@ucsf.edu
+
+Although Epstein-Barr virus (EBV) is an orally transmitted virus, viral
+transmission through the oropharyngeal mucosal epithelium is not well understood.
+In this study, we investigated how EBV traverses polarized human oral epithelial 
+cells without causing productive infection. We found that EBV may be transcytosed
+through oral epithelial cells bidirectionally, from both the apical to the
+basolateral membranes and the basolateral to the apical membranes. Apical to
+basolateral EBV transcytosis was substantially reduced by amiloride, an inhibitor
+of macropinocytosis. Electron microscopy showed that virions were surrounded by
+apical surface protrusions and that virus was present in subapical vesicles.
+Inactivation of signaling molecules critical for macropinocytosis, including
+phosphatidylinositol 3-kinases, myosin light-chain kinase, Ras-related C3
+botulinum toxin substrate 1, p21-activated kinase 1, ADP-ribosylation factor 6,
+and cell division control protein 42 homolog, led to significant reduction in EBV
+apical to basolateral transcytosis. In contrast, basolateral to apical EBV
+transcytosis was substantially reduced by nystatin, an inhibitor of
+caveolin-mediated virus entry. Caveolae were detected in the basolateral
+membranes of polarized human oral epithelial cells, and virions were detected in 
+caveosome-like endosomes. Methyl β-cyclodextrin, an inhibitor of caveola
+formation, reduced EBV basolateral entry. EBV virions transcytosed in either
+direction were able to infect B lymphocytes. Together, these data show that EBV
+transmigrates across oral epithelial cells by (i) apical to basolateral
+transcytosis, potentially contributing to initial EBV penetration that leads to
+systemic infection, and (ii) basolateral to apical transcytosis, which may enable
+EBV secretion into saliva in EBV-infected individuals.
+
+DOI: 10.1128/JVI.00443-13 
+PMCID: PMC3700193
+PMID: 23698302  [Indexed for MEDLINE]
+
+
+1557. NMR Biomed. 2013 Nov;26(11):1395-402. doi: 10.1002/nbm.2965. Epub 2013 May 22.
+
+An embedded four-channel receive-only RF coil array for fMRI experiments of the
+somatosensory pathway in conscious awake marmosets.
+
+Papoti D(1), Yen CC, Mackel JB, Merkle H, Silva AC.
+
+Author information: 
+(1)Cerebral Microcirculation Unit, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD, USA.
+
+fMRI has established itself as the main research tool in neuroscience and brain
+cognitive research. The common marmoset (Callithrix jacchus) is a non-human
+primate model of increasing interest in biomedical research. However, commercial 
+MRI coils for marmosets are not generally available. The present work describes
+the design and construction of a four-channel receive-only surface RF coil array 
+with excellent signal-to-noise ratio (SNR) specifically optimized for fMRI
+experiments in awake marmosets in response to somatosensory stimulation. The
+array was designed as part of a helmet-based head restraint system used to
+prevent motion during the scans. High SNR was obtained by building the coil array
+using a thin and flexible substrate glued to the inner surface of the restraint
+helmet, so as to minimize the distance between the array elements and the
+somatosensory cortex. Decoupling between coil elements was achieved by partial
+geometrical overlapping and by connecting them to home-built low-input-impedance 
+preamplifiers. In vivo images show excellent coverage of the brain cortical
+surface with high sensitivity near the somatosensory cortex. Embedding the coil
+elements within the restraint helmet allowed fMRI data in response to
+somatosensory stimulation to be collected with high sensitivity and
+reproducibility in conscious, awake marmosets.
+
+Published 2013. This article is a U.S. Government work and is in the public
+domain in the USA.
+
+DOI: 10.1002/nbm.2965 
+PMCID: PMC4200535
+PMID: 23696219  [Indexed for MEDLINE]
+

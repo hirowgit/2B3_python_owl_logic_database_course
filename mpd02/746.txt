@@ -1,0 +1,36 @@
+
+
+746. Biosci Trends. 2018 Mar 18;12(1):94-101. doi: 10.5582/bst.2017.01219. Epub 2018
+Jan 15.
+
+The response of common marmoset immunity against cedar pollen extract.
+
+Kametani Y(1), Yamada Y(1), Takabayashi S(1)(2), Kato H(3), Ishiwata K(4),
+Watanabe N(4), Sasaki E(2), Habu S(5).
+
+Author information: 
+(1)Department of Molecular Life Science, Tokai University School of Medicine.
+(2)Central Institute for Experimental Animals.
+(3)Hamamatsu University School of Medicine.
+(4)Department of Tropical Medicine, Jikei University School of Medicine.
+(5)Department of Immunology, Juntendo University School of Medicine.
+
+The in vivo model of pollinosis has been established using rodents, but the model
+cannot completely mimic human pollinosis. We used Callithrix jacchus, the common 
+marmoset (CM), to establish a pollinosis animal model using intranasal weekly
+administration of cedar pollen extract with cholera toxin adjuvant. Some of the
+treated CMs exhibited the symptoms of snitching, excess nasal mucus and/or
+sneezing, but the period was very short, and the symptoms disappeared after
+several weeks. The CD4+CD25+ cell ratio in the peripheral blood increased in CMs 
+quickly after the nasal administration of cedar pollen extract, but the timing
+was not parallel with the symptoms. IL-10 mRNA was enhanced in the peripheral
+blood mononuclear cells (PBMCs), suggesting CM-induced tolerance for cedar pollen
+administration. Similarly, Foxp3 mRNA was also detected in the PBMC. Additive
+sensitization of these CMs with Ascaris egg administration did not enhance
+chronic inflammation of type 1 allergy to induce the symptoms. These results
+suggest that the environmental immune cells develop transient allergic symptoms
+and subsequent immune-tolerance in the intranasally sensitized CMs.
+
+DOI: 10.5582/bst.2017.01219 
+PMID: 29332927  [Indexed for MEDLINE]
+

@@ -1,0 +1,95 @@
+
+
+1307. Prog Neuropsychopharmacol Biol Psychiatry. 2015 Apr 3;58:71-80. doi:
+10.1016/j.pnpbp.2014.11.008. Epub 2014 Dec 24.
+
+High fat diet decreases beneficial effects of estrogen on serotonin-related gene 
+expression in marmosets.
+
+Bethea CL(1), Reddy AP(2), Flowers M(3), Shapiro RA(3), Colman RJ(4), Abbott
+DH(5), Levine JE(3).
+
+Author information: 
+(1)Division of Reproductive and Developmental Sciences, Oregon National Primate
+Research Center, Beaverton, OR 97006, USA; Division of Neuroscience, Oregon
+National Primate Research Center, Beaverton, OR 97006, USA; Department of
+Obstetrics and Gynecology, Oregon Health and Science University, Portland, OR
+97201, USA. Electronic address: betheac@ohsu.edu.
+(2)Division of Reproductive and Developmental Sciences, Oregon National Primate
+Research Center, Beaverton, OR 97006, USA.
+(3)Department of Neuroscience, University of Wisconsin-Madison, Madison, WI, USA;
+Wisconsin National Primate Research Center, Madison, WI, USA.
+(4)Wisconsin National Primate Research Center, Madison, WI, USA.
+(5)Department of Obstetrics and Gynecology, University of Wisconsin-Madison,
+Madison, WI, USA; Wisconsin National Primate Research Center, Madison, WI, USA.
+
+The administration of estradiol-17β (E) to animal models after loss of ovarian
+steroid production has many beneficial effects on neural functions, particularly 
+in the serotonin system in nonhuman primates (NHPs). E also has anorexic effects,
+although the mechanism of action is not well defined. In the US, obesity has
+reached epidemic proportions, and blame is partially directed at the Western
+style diet, which is high in fat and sugar. This study examined the interaction
+of E and diet in surgically menopausal nonhuman primates with a 2×2 block design.
+Marmosets (Callithrix jacchus; n=4/group) were placed on control-low fat diet
+(LFD; 14%kcal from fat) or high fat diet (HFD; 28%kcal from fat) 1month prior to 
+ovariectomy (Ovx). Empty (placebo) or E-filled Silastic capsules were implanted
+immediately following Ovx surgery. Treatments extended 6months. The established
+groups were: placebo+LFD, E+LFD, placebo+HFD, or E+HFD. At necropsy, the brain
+was flushed with saline and harvested. The midbrain was dissected and a small
+block containing the dorsal raphe nucleus was processed for qRT-PCR using
+Evagreen (Biotinum). Genes previously found to impact serotonin neural functions 
+were examined. Results were compared with 2-way ANOVA followed by Bonferroni
+post-hoc tests or Cohen's D analysis. There was a significant effect of treatment
+on tryptophan hydroxylase 2 (TPH2) across the groups (p=0.019). E stimulated TPH2
+expression and HFD prevented E-stimulated TPH2 expression (p<0.01). Treatment
+differentially affected monoamine oxidase B (MAO-B) across the groups (p=0.05). E
+increased MAO-B with LFD, and this stimulatory effect was prevented by HFD
+(p<0.05). There was a significant difference between treatments in corticotrophin
+releasing factor-receptor 2 (CRF-R2) expression (p=0.012). E increased CRF-R2 and
+this stimulatory effect was blocked by HFD (p<0.01). Regardless of diet, E
+increased Fev mRNA (p=0.028) and decreased CRF-receptor 1 (CRF-R1) mRNA (p=0.04).
+HFD suppressed urocortin 1 (UCN1; stresscopin) expression (p=0.045) but E
+treatment had no effect. Monoamine oxidase A (MAO-A) was different due to
+treatment across the groups (p=0.028). MAO-A was increased in the E+HFD group
+(p<0.01) whereas previous studies showed E suppressed MAO-A in macaques. The
+serotonin reuptake transporter (SERT), the serotonin 1A receptor (5HT1A),
+estrogen receptor beta (ERβ) and progestin receptor (PR) expressions were not
+different between groups. Estrogen receptor alpha (ERα) was undetectable. In
+summary, the data indicate that important actions of hormone therapy in the
+serotonin system may be lost in the context of a HFD.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pnpbp.2014.11.008 
+PMCID: PMC4339406
+PMID: 25542371  [Indexed for MEDLINE]
+
+
+1308. Methods Mol Biol. 2016;1357:183-93. doi: 10.1007/7651_2014_159.
+
+Induced Pluripotent Stem Cells from Nonhuman Primates.
+
+Mishra A(1), Qiu Z(1), Farnsworth SL(1), Hemmi JJ(1), Li M(1), Pickering AV(1),
+Hornsby PJ(2).
+
+Author information: 
+(1)South Texas Veterans Health Care System, University of Texas Health Science
+Center, San Antonio, TX, USA.
+(2)South Texas Veterans Health Care System, University of Texas Health Science
+Center, San Antonio, TX, USA. hornsby@uthscsa.edu.
+
+Induced pluripotent stem cells from nonhuman primates (NHPs) have unique roles in
+cell biology and regenerative medicine. Because of the relatedness of NHPs to
+humans, NHP iPS cells can serve as a source of differentiated derivatives that
+can be used to address important questions in the comparative biology of
+primates. Additionally, when used as a source of cells for regenerative medicine,
+NHP iPS cells serve an invaluable role in translational experiments in cell
+therapy. Reprogramming of NHP somatic cells requires the same conditions as
+previously established for human cells. However, throughout the process, a
+variety of modifications to the human cell protocols must be made to accommodate 
+significant species differences.
+
+DOI: 10.1007/7651_2014_159 
+PMCID: PMC4483148
+PMID: 25540117  [Indexed for MEDLINE]
+

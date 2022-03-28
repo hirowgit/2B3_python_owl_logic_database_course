@@ -1,0 +1,39 @@
+
+
+3630. J Virol. 1997 Dec;71(12):9124-33.
+
+The superantigen-homologous viral immediate-early gene ie14/vsag in herpesvirus
+saimiri-transformed human T cells.
+
+Knappe A(1), Hiller C, Thurau M, Wittmann S, Hofmann H, Fleckenstein B,
+Fickenscher H.
+
+Author information: 
+(1)Institut für Klinische und Molekulare Virologie,
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany.
+
+Herpesvirus saimiri C488 transforms human T lymphocytes to stable growth in
+culture. The growth-transformed human T cells harbor the viral genome in a
+nonintegrated episomal form without production of virus particles. In these
+cells, virus gene expression was previously found to be confined to the
+transforming genes stpC and tip. In order to analyze virus gene expression in
+more detail, we applied a subtractive hybridization technique and compared
+stimulated virus-transformed cells with uninfected parental T cells of the same
+donor. A number of known T-cell activation genes were isolated. Viral stpC/tip
+cDNAs were enriched after subtraction. In addition, the viral immediate-early,
+superantigen-homologous gene ie14/vsag was represented by numerous cDNA clones
+that comprised the entire spliced transcript. Whereas a weak basal expression of 
+ie14/vsag was detected by reverse transcription-PCR only, the phorbol
+ester-induced transcripts were readily shown by Northern blotting. ie14/vsag,
+which before had been classified as a major immediate-early gene of herpesvirus
+saimiri, is localized within a highly conserved region with extensive homologies 
+to the cellular genome. Mutant viruses without the ie14/vsag gene are replication
+competent and fully capable of transforming human and marmoset T cells. Since
+ie14/vsag is transiently expressed after stimulation, it may increase T-cell
+proliferation in an activation-dependent and superantigen-like but apparently
+Vbeta-independent way.
+
+DOI: 10.1128/JVI.71.12.9124-9133.1997 
+PMCID: PMC230213
+PMID: 9371569  [Indexed for MEDLINE]
+

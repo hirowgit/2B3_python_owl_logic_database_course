@@ -1,0 +1,38 @@
+
+
+3745. Biol Pharm Bull. 1996 Nov;19(11):1429-33.
+
+Stereoselectivity in bunitrolol 4-hydroxylation in liver microsomes from
+marmosets and Japanese monkeys.
+
+Narimatsu S(1), Gotoh M, Masubuchi Y, Horie T, Ohmori S, Kitada M, Kageyama T,
+Asaoka K, Yamamoto I, Suzuki T.
+
+Author information: 
+(1)Laboratory of Biopharmaceutics, Faculty of Pharmaceutical Sciences, Chiba
+University, Japan.
+
+The stereoselectivity in 4-hydroxylation of bunitrolol (BTL), a
+beta-adrenoreceptor blocking agent, was examined in liver microsomes from monkeys
+(marmosets and Japanese monkeys) and compared with the results of human liver
+microsomes. The formation of (+)-4-OH-BTL from (+)-BTL from (+)-BTL was
+significantly higher than that of (-)-4-OH-BTL from (-)-BTL in the liver
+microsomal fractions from the two kinds of monkeys. The 4-OH-BTL-forming activity
+from racemic BTL was significantly lower than from enantiomeric BTL, indicating a
+possible metabolic interaction between BTL enantiomers. The in vitro profiles
+observed in the monkeys were very similar to those in humans, but the
+stereoselectivity in BTL metabolism [(+)-BTL > (-)-BTL] in the primates was found
+to be reverse to that in rats [S. Narimatsu et al., Anal. Biochem., 222, 256-261 
+(1994)]. The 4-OH-BTL-forming activity from BTL enantiomers was significantly
+suppressed by quinidine and quinine, while the former was more potent than the
+latter, and also by alpha-naphthoflavone. Furthermore, the activity was also
+suppressed by antisera against rat cytochromes P450-2D2 and -1A2 in
+concentration-dependent manners. However, kinetics showed that enantiomeric BTL
+4-hydroxylation was monophasic in liver microsomes from marmosets of both genders
+and from male Japanese monkeys. These results suggest that cytochrome P450-2D and
+-1A enzymes with similar Km values are involved in BTL 4-hydroxylation in monkey 
+liver microsomes.
+
+DOI: 10.1248/bpb.19.1429 
+PMID: 8951158  [Indexed for MEDLINE]
+

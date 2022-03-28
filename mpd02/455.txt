@@ -1,0 +1,71 @@
+
+
+455. Am J Primatol. 2019 Sep;81(9):e23038. doi: 10.1002/ajp.23038. Epub 2019 Aug 6.
+
+A comparative study of litter size and sex composition in a large dataset of
+callitrichine monkeys.
+
+McCoy DE(1), Frye BM(2), Kotler J(1)(3), Burkart JM(4), Burns M(5), Embury A(6), 
+Eyre S(7), Galbusera P(8), Hooper J(7), Idoe A(9), Goya AL(10), Mickelberg J(11),
+Quesada MP(10), Stevenson M(12), Sullivan S(13), Warneke M(14), Wojciechowski
+S(13), Wormell D(15), Haig D(1), Tardif SD(16).
+
+Author information: 
+(1)Department of Organismic and Evolutionary Biology, Harvard University,
+Cambridge, Massachusetts.
+(2)Department of Biological Sciences, Clemson University, Clemson, South
+Carolina.
+(3)Department of Psychology, Harvard University, Cambridge, Massachusetts.
+(4)Department of Anthropology, University of Zurich, Zürich, Switzerland.
+(5)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, Massachusetts.
+(6)Department of Wildlife Conservation and Science, Zoos Victoria, Parkville,
+Victoria.
+(7)Wellington Zoo, Newtown, Wellington, New Zealand.
+(8)Centre for Research and Conservation (CRC), Royal Zoological Society of
+Antwerp (RZSA), Antwerp, Belgium.
+(9)Apenheul Primate Park, Apeldoorn, The Netherlands.
+(10)Zoology Department, Faunia-Parques Reunidos, Madrid, Spain.
+(11)Animal Collections Department, Zoo Atlanta, Atlanta, Georgia.
+(12)Bristol Zoological Society, Bristol, UK.
+(13)Primate Department, Chicago Zoological Society, Brookfield, Illinois.
+(14)Department of Animal Health, Chicago Zoological Society, Brookfield,
+Illinois.
+(15)Mammal Department, Durrell Wildlife Conservation Trust, Channel Islands, UK.
+(16)Southwest National Primate Research Center, San Antonio, Texas.
+
+In many birds and mammals, the size and sex composition of litters can have
+important downstream effects for individual offspring. Primates are model
+organisms for questions of cooperation and conflict, but the factors shaping
+interactions among same-age siblings have been less-studied in primates because
+most species bear single young. However, callitrichines (marmosets, tamarins, and
+lion tamarins) frequently bear litters of two or more, thereby providing the
+opportunity to ask whether variation in the size and sex composition of litters
+affects development, survival, and reproduction. To investigate these questions, 
+we compiled a large dataset of nine species of callitrichines (n = 27,080
+individuals; Callithrix geoffroyi, Callithrix jacchus, Cebuella pygmaea, Saguinus
+imperator, Saguinus oedipus, Leontopithecus chrysomelas, Leontopithecus
+chrysopygus, Leontopithecus rosalia, and Callimico goeldii) from zoo and
+laboratory populations spanning 80 years (1938-2018). Through this comparative
+approach, we found several lines of evidence that litter size and sex composition
+may impact fitness. Singletons have higher survivorship than litter-born peers
+and they significantly outperform litter-born individuals on two measures of
+reproductive performance. Further, for some species, individuals born in a
+mixed-sex litter outperform isosexually-born individuals (i.e., those born in
+all-male or all-female litters), suggesting that same-sex competition may limit
+reproductive performance. We also document several interesting demographic
+trends. All but one species (C. pygmaea) has a male-biased birth sex ratio with
+higher survivorship from birth to sexual maturity among females (although this
+was significant in only two species). Isosexual litters occurred at the expected 
+frequency (with one exception: C. pygmaea), unlike other animals, where isosexual
+litters are typically overrepresented. Taken together, our results indicate a
+modest negative effect of same-age sibling competition on reproductive output in 
+captive callitrichines. This study also serves to illustrate the value of zoo and
+laboratory records for biological inquiry.
+
+© 2019 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajp.23038 
+PMCID: PMC6949018
+PMID: 31389057  [Indexed for MEDLINE]
+

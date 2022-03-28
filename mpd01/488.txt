@@ -1,0 +1,106 @@
+
+
+488. Biochem Biophys Res Commun. 2019 Aug 6;515(4):593-599. doi:
+10.1016/j.bbrc.2019.05.175. Epub 2019 Jun 6.
+
+Establishment of induced pluripotent stem cells from common marmoset fibroblasts 
+by RNA-based reprogramming.
+
+Nakajima M(1), Yoshimatsu S(2), Sato T(1), Nakamura M(1), Okahara J(3), Sasaki
+E(3), Shiozawa S(4), Okano H(5).
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan.
+(2)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan;
+Laboratory for Proteolytic Neuroscience, RIKEN Center for Brain Science, Saitama,
+Japan.
+(3)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan; Department of Marmoset Biology and Medicine, Central Institute
+for Experimental Animals, Kanagawa, Japan.
+(4)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan.
+Electronic address: shiozawa@a7.keio.jp.
+(5)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan;
+Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan. Electronic address: hidokano@a2.keio.jp.
+
+The common marmoset (marmoset; Callithrix jacchus) shows anatomical and
+physiological features that are in common with humans. Establishing induced
+pluripotent stem cells (iPSCs) from marmosets holds promise for enhancing the
+utility of the animal model for biomedical and preclinical studies. However, in
+spite of the presence of some previous reports on marmoset iPSCs, the
+reprogramming technology in marmosets is still under development. In particular, 
+the efficacy of RNA-based reprogramming has not been thoroughly investigated. In 
+this study, we attempted RNA-based reprogramming for deriving iPSCs from marmoset
+fibroblasts. Although we failed to derive iPSC colonies from marmoset fibroblasts
+by using a conventional RNA-based reprogramming method previously validated in
+human fibroblasts, we succeeded in deriving colony-forming cells with a modified 
+induction medium supplemented with a novel set of small molecules. Importantly,
+following one-week culture of the colony-forming cells in conventional embryonic 
+stem cell (ESC) medium, we obtained iPSCs which express endogenous pluripotent
+markers and show a differentiation potential into all three germ layers. Taken
+together, our results indicate that RNA-based reprogramming, which is valuable
+for deriving transgene-free iPSCs, is applicable to marmosets.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2019.05.175 
+PMID: 31178141  [Indexed for MEDLINE]
+
+
+489. J Biol Chem. 2019 Jul 26;294(30):11433-11444. doi: 10.1074/jbc.RA119.008415. Epub
+2019 Jun 5.
+
+Tau isoform expression and phosphorylation in marmoset brains.
+
+Sharma G(1), Huo A(1), Kimura T(1)(2), Shiozawa S(3), Kobayashi R(3)(4), Sahara
+N(2), Ishibashi M(5), Ishigaki S(5), Saito T(1), Ando K(1), Murayama S(6),
+Hasegawa M(7), Sobue G(5), Okano H(3)(4), Hisanaga SI(8)(7).
+
+Author information: 
+(1)Laboratory of Molecular Neuroscience, Faculty of Sciences, Tokyo Metropolitan 
+University, Minami-osawa, Hachioji, Tokyo 192-0397, Japan.
+(2)Department of Functional Brain Imaging Research, National Institute of
+Radiological Sciences, 4-9-1 Anagawa, Inage, Chiba, Chiba 263-8555, Japan.
+(3)Department of Physiology, School of Medicine, Keio University, Shinjuku,
+Tokyo, 160-8582, Japan.
+(4)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako, Saitama 351-0198, Japan.
+(5)Research Division of Dementia and Neurodegenerative Disease, Nagoya University
+Graduate School of Medicine, Nagoya, Aichi 466-8550, Japan.
+(6)Tokyo Metropolitan Institute of Gerontology, Itabashi, Tokyo 173-0015, Japan.
+(7)Tokyo Metropolitan Institute of Medical Science, Setagaya, Tokyo 156-8506,
+Japan.
+(8)Laboratory of Molecular Neuroscience, Faculty of Sciences, Tokyo Metropolitan 
+University, Minami-osawa, Hachioji, Tokyo 192-0397, Japan
+hisanaga-shinichi@tmu.ac.jp.
+
+Tau is a microtubule-associated protein expressed in neuronal axons.
+Hyperphosphorylated tau is a major component of neurofibrillary tangles, a
+pathological hallmark of Alzheimer's disease (AD). Hyperphosphorylated tau
+aggregates are also found in many neurodegenerative diseases, collectively
+referred to as "tauopathies," and tau mutations are associated with familial
+frontotemporal lobar degeneration (FTLD). Previous studies have generated
+transgenic mice with mutant tau as tauopathy models, but nonhuman primates, which
+are more similar to humans, may be a better model to study tauopathies. For
+example, the common marmoset is poised as a nonhuman primate model for
+investigating the etiology of age-related neurodegenerative diseases. However, no
+biochemical studies of tau have been conducted in marmoset brains. Here, we
+investigated several important aspects of tau, including expression of different 
+tau isoforms and its phosphorylation status, in the marmoset brain. We found that
+marmoset tau does not possess the "primate-unique motif" in its N-terminal
+domain. We also discovered that the tau isoform expression pattern in marmosets
+is more similar to that of mice than that of humans, with adult marmoset brains
+expressing only four-repeat tau isoforms as in adult mice but unlike in adult
+human brains. Of note, tau in brains of marmoset newborns was phosphorylated at
+several sites associated with AD pathology. However, in adult marmoset brains,
+much of this phosphorylation was lost, except for Ser-202 and Ser-404
+phosphorylation. These results reveal key features of tau expression and
+phosphorylation in the marmoset brain, a potentially useful nonhuman primate
+model of neurodegenerative diseases.
+
+© 2019 Sharma et al.
+
+DOI: 10.1074/jbc.RA119.008415 
+PMCID: PMC6663862
+PMID: 31171723  [Indexed for MEDLINE]
+

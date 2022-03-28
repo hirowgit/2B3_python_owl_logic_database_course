@@ -1,0 +1,33 @@
+
+
+3583. Biochem J. 1998 Mar 15;330 ( Pt 3):1351-9.
+
+Molecular cloning of membrane cofactor protein (MCP; CD46) on B95a cell, an
+Epstein-Barr virus-transformed marmoset B cell line: B95a-MCP is susceptible to
+infection by the CAM, but not the Nagahata strain of the measles virus.
+
+Murakami Y(1), Seya T, Kurita M, Fukui A, Ueda S, Nagasawa S.
+
+Author information: 
+(1)Faculty of Pharmaceutical Sciences, Hokkaido University, Kita-ku Sapporo 060, 
+Japan.
+
+Measles virus (MV) infects not only human beings but also some simian species.
+The MV receptor on Vero cells (a cell line established from African Green monkey 
+kidney cells) and human cells has been shown to be the membrane cofactor protein 
+MCP/CD46, which is an inhibitor of autologous complement (C) activation. B95a, an
+Epstein-Barr virus (EBV)-transformed marmoset B cell line, is a simian cell line 
+used for MV selection and is much more susceptible to MV than Vero cells. In the 
+present study, we isolated cDNAs encoding MCP homologues from B95a cDNA library
+and assessed whether B95a-MCP is responsible for the high susceptibility of B95a 
+to MV. The deduced amino acid sequence of the cDNA of B95a-MCP was 76% identical 
+to that of human-MCP, and the recombinant B95a-MCP exerts C inhibitor activity.
+Although CAM, a vaccine strain of MV, infected Chinese hamster ovary (CHO) cells 
+expressing B95a-MCP, Nagahata strain, a wild type of MV, failed to infect the CHO
+transfectants, suggesting that additional membrane molecules of B95a are
+responsible for the high susceptibility of B95a to the Nagahata strain.
+
+DOI: 10.1042/bj3301351 
+PMCID: PMC1219282
+PMID: 9494106  [Indexed for MEDLINE]
+

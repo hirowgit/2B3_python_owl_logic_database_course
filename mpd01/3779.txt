@@ -1,0 +1,74 @@
+
+
+3779. Biochem Pharmacol. 1996 Jun 14;51(11):1489-501.
+
+Inhibition of squalene synthase in vitro by 3-(biphenyl-4-yl)-quinuclidine.
+
+Ward WH(1), Holdgate GA, Freeman S, McTaggart F, Girdwood PA, Davidson RG,
+Mallion KB, Brown GR, Eakin MA.
+
+Author information: 
+(1)ZENECA Pharmaceuticals, Macclesfield, Cheshire, U.K.
+
+Squalene synthase (SQS) catalyses a step following the final branch in the
+pathway of cholesterol biosynthesis. Inhibition of this enzyme, therefore, is an 
+approach for the treatment of atherosclerosis with the potential for low side
+effects. We have characterised the inhibition of rat liver microsomal SQS by
+3-(biphenyl-4-yl)quinuclidine (BPQ). BPQ follows slow binding kinetics in that
+the rate of accumulation of product decreases with time if the inhibitor is added
+when the assay is started. Preincubation of BPQ and SQS leads to a biphasic
+dose-response where accumulation of product is linear with time only for the
+sensitive phase. When the farnesyl pyrophosphate (FPP) substrate is present at
+19.6 microM, approximately 77% of the SQS activity is sensitive to the inhibitor 
+(vOs) and the remainder is insensitive (vOi). The apparent inhibition constants
+(K'i values) are respectively K'is = 4.5 nM and K'ii = 1300 nM. Similar biphasic 
+behaviour is exhibited by other inhibitors and in microsomes prepared from human 
+and marmoset liver. As the concentration of FPP is reduced below 19.6 microM,
+there is a decrease in the relative contribution from vOi. Conversely, the value 
+of K'is for BPQ remains constant when the FPP concentration is changed, showing
+noncompetitive kinetics with respect to this substrate. Possible causes of the
+observed kinetics are discussed. Inhibition by BPQ is said to follow tight
+binding kinetics because the value of K'is is similar to the concentration of
+inhibitor binding sites. Thus, to avoid an artefactual variation in potency when 
+the enzyme concentration is varied, it is necessary to allow for the effects of
+depletion of free inhibitor. Furthermore, estimates of potency that average
+activity across the two phases are influenced by the relative contributions of
+each phase. These contributions differ according to the FPP concentration and the
+species used as the source of microsomes. Thus, it is necessary to separate the
+phases to compare measurements made in different experiments. Our observations
+indicate that careful experimental design and data analysis are required to
+characterise the kinetics of SQS inhibitors.
+
+DOI: 10.1016/0006-2952(96)00090-1 
+PMID: 8630090  [Indexed for MEDLINE]
+
+
+3780. Nature. 1996 Jun 13;381(6583):610-3.
+
+Primary cortical representation of sounds by the coordination of action-potential
+timing.
+
+deCharms RC(1), Merzenich MM.
+
+Author information: 
+(1)Keck Center for Integrative Neuroscience, University of California, San
+Francisco 94143, USA.
+
+Cortical population coding could in principle rely on either the mean rate of
+neuronal action potentials, or the relative timing of action potentials, or both.
+When a single sensory stimulus drives many neurons to fire at elevated rates, the
+spikes of these neurons become tightly synchronized, which could be involved in
+'binding' together individual firing-rate feature representations into a unified 
+object percept. Here we demonstrate that the relative timing of cortical action
+potentials can signal stimulus features themselves, a function even more basic
+than feature grouping. Populations of neurons in the primary auditory cortex can 
+coordinate the relative timing of their action potentials such that spikes occur 
+closer together in time during continuous stimuli. In this way cortical neurons
+can signal stimuli even when their firing rates do not change. Population coding 
+based on relative spike timing can systemically signal stimulus features, it is
+topographically mapped, and it follows the stimulus time course even where mean
+firing rate does not.
+
+DOI: 10.1038/381610a0 
+PMID: 8637597  [Indexed for MEDLINE]
+

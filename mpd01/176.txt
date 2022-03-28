@@ -1,0 +1,102 @@
+
+
+176. Int J Obes (Lond). 2021 Jun;45(6):1229-1239. doi: 10.1038/s41366-021-00786-6.
+Epub 2021 Mar 2.
+
+Protective effects of the imidazoline-like drug lnp599 in a marmoset model of
+obesity-induced metabolic disorders.
+
+Weiss M(#)(1), Fellmann L(#)(2), Regnard P(2), Bousquet P(1), Monassier L(1),
+Niederhoffer N(3).
+
+Author information: 
+(1)Laboratoire de Pharmacologie et Toxicologie NeuroCardiovasculaire - UR7296,
+Fédération de Médecine Translationnelle de Strasbourg, Faculté de Médecine,
+Université de Strasbourg, Strasbourg, France.
+(2)SILABE, Université de Strasbourg, Fort Foch, Niederhausbergen, Strasbourg,
+France.
+(3)Laboratoire de Pharmacologie et Toxicologie NeuroCardiovasculaire - UR7296,
+Fédération de Médecine Translationnelle de Strasbourg, Faculté de Médecine,
+Université de Strasbourg, Strasbourg, France. nathalie.niederhoffer@unistra.fr.
+(#)Contributed equally
+
+BACKGROUND/OBJECTIVES: Overweight and obesity are undoubtable risk factors for
+type 2 diabetes and cardiovascular diseases and significantly contribute to the
+global morbi-mortality. We previoulsy reported that LNP599, a pharmacological
+imidazoline-like activator of hepatic AMPK/adiponectin signaling, protects
+against the development of adiposity and obesity and the associated
+cardio-metabolic disorders, suggesting that it may be a suitable drug candidate
+for a therapeutic approach targeting the development of obesity at very early
+stages. The objective of the present study was to evaluate the metabolic effects 
+of LNP599 in a model of diet-induced overweight and metabolic disorders in a
+nonhuman primate, the common marmoset (Callithrix jacchus), and more particularly
+to establish the impact of the compound on cholesterol homeostasis, i.e., HDL and
+LDL/VLDL lipoproteins.
+METHODS: Marmosets were fed normal (NC) or hypercaloric (HC) chow during 16
+weeks. Diet-induced changes in body weight and metabolism were assessed. Effects 
+of LNP599 were evaluated in a subset of HC animals (HC-LNP) receiving the
+compound at a daily dose of 10 mg/kg over the 16 weeks.
+RESULTS: HC-feeding induced significant overweight associated with a marked
+dyslipidemia (hypertriglyceridemia, hypercholesterolemia, and reduced HDL over
+LDL/VLDL cholesterol ratio). LNP599 blunted the diet-induced body weight gain and
+largely protected against the development of hypertriglyceridemia. Total
+cholesterol was unchanged but the ratio of HDL over LDL/VLDL cholesterol was more
+than doubled.
+CONCLUSIONS: The profile of metabolic troubles obtained upon enriched diet
+mimicked the disorders associated with spontaneous obesity in marmosets. HC
+marmosets represent an experimental model of high clinical relevance to study the
+pathophysiology of obesity and related dyslipidemia and to evaluate the effects
+of emerging therapies targeting these disorders. Our data confirm the preventing 
+effects of LNP599 in a nonhuman primate model and demonstrate for the first time 
+the high potency of this drug in promoting HDL-cholesterol.
+
+DOI: 10.1038/s41366-021-00786-6 
+PMID: 33654274  [Indexed for MEDLINE]
+
+
+177. ILAR J. 2020 Dec 31;61(2-3):274-285. doi: 10.1093/ilar/ilaa029.
+
+Magnetic Resonance Imaging of Marmoset Monkeys.
+
+Schaeffer DJ(1), Liu C(2), Silva AC(1), Everling S(3).
+
+Author information: 
+(1)Department of Neurobiology, University of Pittsburgh, Pittsburgh,
+Pennsylvania, USA.
+(2)Institute of Neuroscience, Center for Excellence in Brain Science and
+Intelligence Technology, Chinese Academy of Sciences, Shanghai, China.
+(3)Department of Physiology and Pharmacology, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada.
+
+The use of the common marmoset monkey (Callithrix jacchus) for neuroscientific
+research has grown markedly in the last decade. Magnetic resonance imaging (MRI) 
+has played a significant role in establishing the extent of comparability of
+marmoset brain architecture with the human brain and brains of other preclinical 
+species (eg, macaques and rodents). As a non-invasive technique, MRI allows for
+the flexible acquisition of the same sequences across different species in vivo, 
+including imaging of whole-brain functional topologies not possible with more
+invasive techniques. Being one of the smallest New World primates, the marmoset
+may be an ideal nonhuman primate species to study with MRI. As primates,
+marmosets have an elaborated frontal cortex with features analogous to the human 
+brain, while also having a small enough body size to fit into powerful small-bore
+MRI systems typically employed for rodent imaging; these systems offer superior
+signal strength and resolution. Further, marmosets have a rich behavioral
+repertoire uniquely paired with a lissencephalic cortex (like rodents). This
+smooth cortical surface lends itself well to MRI and also other invasive
+methodologies. With the advent of transgenic modification techniques, marmosets
+have gained significant traction as a powerful complement to canonical mammalian 
+modelling species. Marmosets are poised to make major contributions to
+preclinical investigations of the pathophysiology of human brain disorders as
+well as more basic mechanistic explorations of the brain. The goal of this
+article is to provide an overview of the practical aspects of implementing MRI
+and fMRI in marmosets (both under anesthesia and fully awake) and discuss the
+development of resources recently made available for marmoset imaging.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the
+National Academies of Sciences, Engineering, and Medicine. All rights reserved.
+For permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/ilar/ilaa029 
+PMCID: PMC8918195
+PMID: 33631015 
+

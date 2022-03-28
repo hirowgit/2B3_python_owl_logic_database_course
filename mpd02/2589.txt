@@ -1,0 +1,35 @@
+
+
+2589. Cancer Lett. 2006 Feb 8;232(2):189-98.
+
+siRNA targeting LMP1-induced apoptosis in EBV-positive lymphoma cells is
+associated with inhibition of telomerase activity and expression.
+
+Mei YP(1), Zhu XF, Zhou JM, Huang H, Deng R, Zeng YX.
+
+Author information: 
+(1)Department of Experimental Research, State Key Laboratory of Oncology in
+Southern China, Cancer Center, Sun Yat-sen University, 651 DongFeng Road East,
+GuangZhou 510060, China.
+
+Epstein-Barr Virus (EBV) is closely associated with B cell malignancies. However,
+whether EBV appears to be absolutely required for cell proliferation and survival
+in lymphoma cells is still unknown. In this study, small interfering RNA (siRNA) 
+targeting LMP1 was employed to investigate the effect of LMP1 on cell
+proliferation in EBV-positive lymphoblastoid B-cell line. A plasmid stable
+encoding 21-nt small RNA specifically and efficiently interfering LMP1 was
+constructed, resulting in a substantial loss of LMP1 mRNA and a significantly
+decreased LMP1 protein expression. Our data demonstrated that cell proliferation 
+was completely inhibited and apoptosis was induced after knockdown of LMP1 gene
+in lymphoblastoid B-cell line. Also, we found that suppression of LMP1 caused
+downregulation of telomerase protein expression and decreased telomerase activity
+in lymphoma cells. In EBV-negative NPC cell line, transfection of plasmid
+expressing LMP1 greatly enhanced telomerase protein expression. Our results
+suggested that siRNA targeting LMP1 can induce apoptosis in EBV-positive lymphoma
+cells and is associated with inhibition of telomerase activity and expression.
+siRNA-directed LMP1 silencing may be of the therapeutic value for preventing and 
+treating those EBV-associated tumors.
+
+DOI: 10.1016/j.canlet.2005.02.010 
+PMID: 16458115  [Indexed for MEDLINE]
+

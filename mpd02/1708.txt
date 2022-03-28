@@ -1,0 +1,32 @@
+
+
+1708. Bioorg Med Chem Lett. 2012 Jul 15;22(14):4723-7. doi: 10.1016/j.bmcl.2012.05.074.
+Epub 2012 Jun 1.
+
+The synthesis and SAR of calcitonin gene-related peptide (CGRP) receptor
+antagonists derived from tyrosine surrogates. Part 1.
+
+Han X(1), Civiello RL, Conway CM, Cook DA, Davis CD, Macci R, Pin SS, Ren SX,
+Schartman R, Signor LJ, Thalody G, Widmann KA, Xu C, Chaturvedula PV, Macor JE,
+Dubowchik GM.
+
+Author information: 
+(1)Department of Molecular Sciences and Candidate Optimization (MSCO),
+Bristol-Myers Squibb Research & Development, 5 Research Parkway, Wallingford, CT 
+06492, USA. xiaojun.han@bms.com
+
+We have systematically studied the effects of varying the central unnatural amino
+acid moiety on CGRP receptor antagonist potency and CYP inhibition in a series of
+ureidoamides. In this Letter, we report the discovery of compound 23, a potent
+CGRP receptor antagonist with only weak CYP3A4 inhibition. Unlike the triptans,
+compound 23 did not cause active constriction of ex vivo human cerebral arteries.
+At doses of 0.3-1 mg/kg (s.c.), 23 showed robust inhibition of CGRP-induced
+increases in marmoset facial blood flow, a validated migraine model. Ureidoamide 
+23 derives from a novel amino acid, 1H-indazol-5-yl substituted alanine as a
+tyrosine surrogate.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.bmcl.2012.05.074 
+PMID: 22727645  [Indexed for MEDLINE]
+

@@ -1,0 +1,69 @@
+
+
+1508. Mol Biol Rep. 2013 Dec;40(12):6747-55. doi: 10.1007/s11033-013-2791-0. Epub 2013 
+Sep 26.
+
+Selection of suitable reference genes for mRNA quantification studies using
+common marmoset tissues.
+
+Shimamoto Y(1), Kitamura H, Niimi K, Yoshikawa Y, Hoshi F, Ishizuka M, Takahashi 
+E.
+
+Author information: 
+(1)Department of Veterinary Teaching Hospital, School of Veterinary Medicine,
+Kitasato University, Towada, Aomori, 034-8628, Japan.
+
+The common marmoset (Callithrix jacchus) is increasingly being used as a
+non-human primate animal model in biomedical research. To perform accurate
+quantitative analysis of gene expression by quantitative reverse transcription
+polymerase chain reaction, reliable reference genes should be selected. In this
+study, we evaluated the expressions of 11 widely used reference genes: ACTB,
+ATP5F1, B2M, GAPDH, HPRT1, PGK1, PPIA, RN18S1, RPLP0, TBP and UBC in 12 tissues
+and five brain areas of healthy common marmosets. NormFinder and geNorm indicated
+that the most suitable reference genes for cross-sectional studies of the 17
+tissues were RN18S1 and RPLP0. Conversely, ACTB and PPIA were the most suitable
+for analyzing brain samples; however, the expression of PGK1 fluctuated among
+brain areas. These results indicate that suitable reference genes differ between 
+the tissues examined. This study provides fundamental information for gene
+expression studies of the common marmoset and highlights the importance of
+validating reference genes before quantification of target mRNAs.
+
+DOI: 10.1007/s11033-013-2791-0 
+PMID: 24068436  [Indexed for MEDLINE]
+
+
+1509. J Comp Pathol. 2014 Jan;150(1):71-4. doi: 10.1016/j.jcpa.2013.07.001. Epub 2013
+Sep 21.
+
+Thyroid follicular adenoma with accumulation of collagen type IV in a common
+marmoset (Callithrix jacchus).
+
+Kawasako K(1), Doi T(2), Kanno T(2), Wako Y(2), Hamamura M(2), Tsuchitani M(2).
+
+Author information: 
+(1)Pathology Department, Nonclinical Research Center, Drug Development Service
+Segment, Mitsubishi Chemical Medicine Corporation, 14-1 Sunayama, Kamisu, Ibaraki
+314-0225, Japan. Electronic address: kawasako.kazufumi@mx.medience.co.jp.
+(2)Pathology Department, Nonclinical Research Center, Drug Development Service
+Segment, Mitsubishi Chemical Medicine Corporation, 14-1 Sunayama, Kamisu, Ibaraki
+314-0225, Japan.
+
+A thyroid tumour was identified in a 10-year-old male common marmoset (Callithrix
+jacchus). The tumour was encapsulated by fibrous connective tissue and compressed
+the adjacent normal thyroid. The tumour was composed of variably sized and
+irregularly shaped thyroid follicles lined by a single layer of columnar
+epithelial cells. Eosinophilic material at the base of the neoplastic cells
+stained black with periodic acid-methenamine silver and red with periodic
+acid-Schiff. Immunohistochemistry confirmed that this eosinophilic material was
+collagen type IV. Ultrastructurally, highly dense and amorphous material was
+observed at the base of the neoplastic cells. Small vesicles in the basolateral
+cytoplasm of the neoplastic cells contained similar material to that at the base 
+of the cells. The tumour was diagnosed as a thyroid follicular adenoma with
+accumulation of collagen type IV. This is the first description of an endocrine
+tumour with accumulation of collagen type IV in animals.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jcpa.2013.07.001 
+PMID: 24060155  [Indexed for MEDLINE]
+

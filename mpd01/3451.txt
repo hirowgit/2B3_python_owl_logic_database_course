@@ -1,0 +1,77 @@
+
+
+3451. Chronobiol Int. 1999 Mar;16(2):149-61.
+
+Effect of ambient temperature on the circadian activity rhythm in common
+marmosets, Callithrix j. jacchus (primates).
+
+Pálková M(1), Sigmund L, Erkert HG.
+
+Author information: 
+(1)Department of Zoology, Faculty of Sciences, Charles University, Prague 2,
+Czech Republic.
+
+Whereas the (zeitgeber) effect of ambient temperature Ta and temperature cycles
+TaC's on circadian rhythmicity has been well documented for heterothermic
+mammals, inconsistent results have been obtained for strictly homeothermic
+species. Hence, it might be inferred that the susceptibility of the mammalian
+circadian timing system (CTS) to Ta and TaC's depends on the range of the
+animals' core and/or brain temperature rhythm. This hypothesis was tested in the 
+common marmoset (Callithrix j. jacchus, n = 12), a small diurnal primate with an 
+amplitude in body temperature rhythm that is larger than for other homeothermic
+primates studied so far. Within the range 20-30 degrees C, no systematic effects 
+of constant Ta on most parameters of the marmosets' light-dark (LD)-entrained and
+free-running circadian activity rhythm (CAR) were found. Significant differences 
+could be established in the average amount of activity per circadian cycle. It
+was highest at Ta 25 degrees C (LD) and 20 degrees C (light-light, LL) and most
+probably reflected a temperature-induced masking effect. A 24 h trapezoidal TaC
+of 20:30 degrees C entrained the free-running CAR in two of six marmosets and
+produced relative coordination in all others. Accordingly, in all animals tested,
+it had an effect on the CTS. In marmosets free running in LL at a Ta of 20
+degrees C or 30 degrees C, 3 h warm and cold pulses of 30 degrees C and 20
+degrees C, respectively, produced neither systematic phase responses nor period
+responses of the CAR. So, there is no evidence of a phase-response mechanism
+underlying circadian entrainment. The results show that large-amplitude TaC's
+function as a weak zeitgeber for the marmosets' CTS. Since this zeitgeber effect 
+is significantly larger than that found in owl monkeys, the results are
+consistent with the starting hypothesis that the zeitgeber effect of a given TaC 
+on the mammalian CTS may be related to the amplitude of the species' core and/or 
+brain temperature cycle.
+
+DOI: 10.3109/07420529909019082 
+PMID: 10219487  [Indexed for MEDLINE]
+
+
+3452. Free Radic Biol Med. 1999 Mar;26(5-6):495-500.
+
+Positive correlation between mammalian life span and cellular resistance to
+stress.
+
+Kapahi P(1), Boulton ME, Kirkwood TB.
+
+Author information: 
+(1)Department of Geriatric Medicine and The School of Biological Sciences,
+University of Manchester, UK.
+
+Identifying the mechanisms determining species-specific life spans is a central
+challenge in understanding the biology of aging. Cellular stresses produce
+damage, that may accumulate and cause aging. Evolution theory predicts that
+long-lived species secure their longevity through investment in a more durable
+soma, including enhanced cellular resistance to stress. To investigate whether
+cells from long-lived species have better mechanisms to cope with oxidative and
+non-oxidative stress, we compared cellular resistance of primary skin fibroblasts
+from eight mammalian species with a range of life spans. Cell survival was
+measured by the thymidine incorporation assay following stresses induced by
+paraquat, hydrogen peroxide, tert-butyl hydroperoxide, sodium arsenite and
+alkaline pH (sodium hydroxide). Significant positive correlations between cell
+LD90 and maximum life span were found for all these stresses. Similar results
+were obtained when cell survival was measured by the MTT assay, and when
+lymphocytes from different species were compared. Cellular resistance to a
+variety of oxidative and non-oxidative stresses was positively correlated with
+mammalian longevity. Our results support the concept that the gene network
+regulating the cellular response to stress is functionally important in aging and
+longevity.
+
+DOI: 10.1016/s0891-5849(98)00323-2 
+PMID: 10218637  [Indexed for MEDLINE]
+

@@ -1,0 +1,39 @@
+
+
+4009. Hypertension. 1994 Jun;23(6 Pt 2):857-60.
+
+Vasoconstrictor action of angiotensin I-convertase and the synthetic substrate
+(Pro11,D-Ala12)-angiotensin I.
+
+Mangiapane ML(1), Rauch AL, MacAndrew JT, Ellery SS, Hoover KW, Knight DR,
+Johnson HA, Magee WP, Cushing DJ, Buchholz RA.
+
+Author information: 
+(1)Department of Cardiovascular and Metabolic Diseases, Pfizer Inc, Groton, CT
+06340.
+
+A chymase (also referred to as angiotensin I-convertase) specific for the
+conversion of angiotensin (Ang) I to Ang II has been identified in human heart.
+This serine protease is also present in dog and marmoset vasculature. We examined
+the vasoconstrictor effects of Ang II putatively generated from an
+angiotensin-converting enzyme (ACE)-resistant convertase synthetic substrate
+(SUB) in vivo and in vitro. In marmosets, SUB (7 to 700 micrograms/kg i.v.) or
+Ang I (0.1 to 30 micrograms/kg) caused similar dose-dependent increases in mean
+arterial pressure (10 to 100 mm Hg) and decreases in heart rate. Pressor effects 
+of SUB were slightly attenuated at low (but not high) doses by captopril (CAP, 1 
+mg/kg i.v.) and blocked by losartan (5 mg/kg i.v.); in contrast Ang I pressor
+effects were substantially blocked by both. In isolated canine superior
+mesenteric artery, Ang I-induced contraction was eliminated by losartan and
+reduced but not eliminated by 10 mumol/L CAP. When combined with the serine
+protease inhibitor chymostatin, CAP eliminated Ang I-induced contraction, but
+chymostatin alone had no effect. SUB-induced contraction was not blocked by CAP
+but was equally blocked by chymostatin (25 mumol/L) alone or by the combination
+of CAP (10 mumol/L) and chymostatin (25 mumol/L); losartan (10 mumol/L)
+eliminated SUB-induced responses. Previous studies have suggested that Ang
+I-convertase is important for production of Ang II in the heart. Our results are 
+consistent with a potential role for Ang I-convertase in the production of Ang II
+in the vasculature, resulting in Ang II-mediated vasoconstriction.
+
+DOI: 10.1161/01.hyp.23.6.857 
+PMID: 8206618  [Indexed for MEDLINE]
+

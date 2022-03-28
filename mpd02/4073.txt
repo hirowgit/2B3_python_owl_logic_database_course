@@ -1,0 +1,34 @@
+
+
+4073. Biochem Pharmacol. 1993 Oct 19;46(8):1413-9.
+
+Hydrolysis and binding of a toxic stereoisomer of soman in plasma and tissue
+homogenates from rat, guinea pig and marmoset, and in human plasma.
+
+de Jong LP(1), van Dijk C, Berhitoe D, Benschop HP.
+
+Author information: 
+(1)Prins Maurits Laboratory TNO, Rijswijk, The Netherlands.
+
+The fallen concentration of one of the two isomers of soman
+(1,2,2-trimethylpropyl methylphosphonofluoridate), i.e., C(+)P(-)-soman, was
+investigated in plasma and in homogenates of brain, lung, liver, kidney,
+diaphragm, skeletal muscle and mucosa of small intestines from rat, guinea pig
+and marmoset, and in human plasma (pH 7.5, 37 degrees). The decrease of the
+isomer concentration was followed by gas chromatographic determination of the
+residual concentration and proceeded in two phases due to a very rapid saturation
+of covalent binding sites for the isomer followed by catalysed hydrolysis.
+Estimates for the concentrations of covalent binding sites were obtained, which
+were relatively high in liver and kidney. Time periods for the hydrolysis of the 
+isomer from a concentration of 40 ng/mL to 20 ng/mL were evaluated from the
+second reaction phase. It is concluded that the spontaneous and enzyme-catalyzed 
+hydrolytic activities found for degradation of C(+)P(-)-soman in organs
+participating in central elimination are sufficiently high to account for the
+terminal half-life times of the isomer found in our toxicokinetic studies for the
+blood concentration after intoxication with 2-6 LD50 C(+/-)P(+/-)-soman. The
+hydrolytic activities are lower in the target organs for toxic action of soman,
+e.g., diaphragm and brain, especially for guinea pigs and marmosets.
+
+DOI: 10.1016/0006-2952(93)90106-7 
+PMID: 8240390  [Indexed for MEDLINE]
+

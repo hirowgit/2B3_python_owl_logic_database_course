@@ -1,0 +1,78 @@
+
+
+375. Trends Neurosci. 2020 Feb;43(2):115-126. doi: 10.1016/j.tins.2019.12.006. Epub
+2020 Jan 16.
+
+A Hierarchy of Autonomous Systems for Vocal Production.
+
+Zhang YS(1), Ghazanfar AA(2).
+
+Author information: 
+(1)Princeton Neuroscience Institute, Princeton University, Princeton, NJ 08544,
+USA. Electronic address: yz9@princeton.edu.
+(2)Princeton Neuroscience Institute, Princeton University, Princeton, NJ 08544,
+USA; Department of Psychology, Princeton University, Princeton, NJ 08544, USA;
+Department of Ecology & Evolutionary Biology, Princeton University, Princeton, NJ
+08544, USA. Electronic address: asifg@princeton.edu.
+
+Vocal production is hierarchical in the time domain. These hierarchies build upon
+biomechanical and neural dynamics across various timescales. We review studies in
+marmoset monkeys, songbirds, and other vertebrates. To organize these data in an 
+accessible and across-species framework, we interpret the different timescales of
+vocal production as belonging to different levels of an autonomous systems
+hierarchy. The first level accounts for vocal acoustics produced on short
+timescales; subsequent levels account for longer timescales of vocal output. The 
+hierarchy of autonomous systems that we put forth accounts for vocal patterning, 
+sequence generation, dyadic interactions, and context dependence by sequentially 
+incorporating central pattern generators, intrinsic drives, and sensory signals
+from the environment. We then show the framework's utility by providing an
+integrative explanation of infant vocal production learning in which social
+feedback modulates infant vocal acoustics through the tuning of a drive signal.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tins.2019.12.006 
+PMCID: PMC7213988
+PMID: 31955902  [Indexed for MEDLINE]
+
+
+376. Nat Commun. 2020 Jan 16;11(1):301. doi: 10.1038/s41467-019-14269-w.
+
+Hominin-specific regulatory elements selectively emerged in oligodendrocytes and 
+are disrupted in autism patients.
+
+Castelijns B(1), Baak ML(1), Timpanaro IS(1), Wiggers CRM(1)(2), Vermunt MW(1),
+Shang P(1), Kondova I(3), Geeven G(1), Bianchi V(1), de Laat W(1), Geijsen N(1), 
+Creyghton MP(4)(5).
+
+Author information: 
+(1)Hubrecht Institute-KNAW & University Medical Center Utrecht, Uppsalalaan 8,
+3584 CT, Utrecht, The Netherlands.
+(2)Division of Pediatrics, University Medical Center Utrecht, Heidelberglaan 100,
+3584 XC, Utrecht, The Netherlands.
+(3)Biomedical Primate Research Center, Lange Kleiweg 161, 2288 GJ, Rijswijk, The 
+Netherlands.
+(4)Hubrecht Institute-KNAW & University Medical Center Utrecht, Uppsalalaan 8,
+3584 CT, Utrecht, The Netherlands. m.creyghton@erasmusmc.nl.
+(5)Department of Developmental Biology, Erasmus University Medical Center,
+Wytemaweg 80, 3015 CN, Rotterdam, The Netherlands. m.creyghton@erasmusmc.nl.
+
+Speciation is associated with substantial rewiring of the regulatory circuitry
+underlying the expression of genes. Determining which changes are relevant and
+underlie the emergence of the human brain or its unique susceptibility to neural 
+disease has been challenging. Here we annotate changes to gene regulatory
+elements (GREs) at cell type resolution in the brains of multiple primate species
+spanning most of primate evolution. We identify a unique set of regulatory
+elements that emerged in hominins prior to the separation of humans and
+chimpanzees. We demonstrate that these hominin gains perferentially affect
+oligodendrocyte function postnatally and are preferentially affected in the
+brains of autism patients. This preference is also observed for human-specific
+GREs suggesting this system is under continued selective pressure. Our data
+provide a roadmap of regulatory rewiring across primate evolution providing
+insight into the genomic changes that underlie the emergence of the brain and its
+susceptibility to neural disease.
+
+DOI: 10.1038/s41467-019-14269-w 
+PMCID: PMC6965079
+PMID: 31949148  [Indexed for MEDLINE]
+

@@ -1,0 +1,108 @@
+
+
+551. Mol Pharmacol. 2019 Apr;95(4):376-385. doi: 10.1124/mol.118.114744. Epub 2019 Feb
+9.
+
+A Comparison of the Ability of Leu8- and Pro8-Oxytocin to Regulate Intracellular 
+Ca2+ and Ca2+-Activated K+ Channels at Human and Marmoset Oxytocin Receptors.
+
+Pierce ML(1), Mehrotra S(1), Mustoe AC(1), French JA(1), Murray TF(2).
+
+Author information: 
+(1)Department of Pharmacology, Creighton University School of Medicine, Omaha,
+Nebraska (M.L.P., S.M., T.F.M.); and Department of Psychology, University of
+Nebraska, Omaha, Nebraska (A.C.M., J.A.F.).
+(2)Department of Pharmacology, Creighton University School of Medicine, Omaha,
+Nebraska (M.L.P., S.M., T.F.M.); and Department of Psychology, University of
+Nebraska, Omaha, Nebraska (A.C.M., J.A.F.) tfmurray@creighton.edu.
+
+The neurohypophyseal hormone oxytocin (OT) regulates biologic functions in both
+peripheral tissues and the central nervous system. In the central nervous system,
+OT influences social processes, including peer relationships, maternal-infant
+bonding, and affiliative social relationships. In mammals, the nonapeptide OT
+structure is highly conserved with leucine in the eighth position (Leu8-OT). In
+marmosets (Callithrix), a nonsynonymous nucleotide substitution in the OXT gene
+codes for proline in the eighth residue position (Pro8-OT). OT binds to its
+cognate G protein-coupled receptor (OTR) and exerts diverse effects, including
+stimulation (Gs) or inhibition (Gi/o) of adenylyl cyclase, stimulation of
+potassium channel currents (Gi), and activation of phospholipase C (Gq). Chinese 
+hamster ovary cells expressing marmoset or human oxytocin receptors (mOTRs or
+hOTRs, respectively) were used to characterize OT signaling. At the mOTR, Pro8-OT
+was more efficacious than Leu8-OT in measures of Gq activation, with both
+peptides displaying subnanomolar potencies. At the hOTR, neither the potency nor 
+efficacy of Pro8-OT and Leu8-OT differed with respect to Gq signaling. In both
+mOTR- and hOTR-expressing cells, Leu8-OT was more potent and modestly more
+efficacious than Pro8-OT in inducing hyperpolarization. In mOTR cells,
+Leu8-OT-induced hyperpolarization was modestly inhibited by pretreatment with
+pertussis toxin (PTX), consistent with a minor role for Gi/o activation; however,
+the Pro8-OT response in mOTR and hOTR cells was PTX insensitive. These findings
+are consistent with membrane hyperpolarization being largely mediated by a Gq
+signaling mechanism leading to Ca2+-dependent activation of K+ channels.
+Evaluation of the influence of apamin, charybdotoxin, paxilline, and TRAM-34
+demonstrated involvement of both intermediate and large conductance
+Ca2+-activated K+ channels.
+
+Copyright © 2019 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/mol.118.114744 
+PMCID: PMC6402416
+PMID: 30739093  [Indexed for MEDLINE]
+
+
+552. PLoS One. 2019 Feb 7;14(2):e0207560. doi: 10.1371/journal.pone.0207560.
+eCollection 2019.
+
+Characterization of oral microbiota in marmosets: Feasibility of using the
+marmoset as a human oral disease model.
+
+Takehara S(1)(2), Zeredo JL(3), Kumei Y(4), Kagiyama K(5), Fukasawa K(5), Oshiro 
+A(2), Ueno M(2)(6), Kojimahara N(1), Minakuchi S(7), Kawaguchi Y(2).
+
+Author information: 
+(1)Department of Public Health, Tokyo Women's Medical University, Tokyo, Japan.
+(2)Department of Oral Health Promotion, Graduate School of Medical and Dental
+Sciences, Tokyo Medical and Dental University, Tokyo, Japan.
+(3)Graduate Program in Health Sciences and Technology, University of Brasilia,
+Brasilia, Brazil.
+(4)Department of Biochemistry, Graduate School of Medical and Dental Sciences,
+Tokyo Medical and Dental University, Tokyo, Japan.
+(5)Clea Japan Inc., Gifu, Japan.
+(6)Department of Health Sciences, Saitama Prefectural University, Saitama, Japan.
+(7)Gerodontology and Oral Rehabilitation, Graduate School of Medical and Dental
+Sciences, Tokyo Medical and Dental University, Tokyo, Japan.
+
+With rapid aging of the world's population, the demand for research, for a better
+understanding of aging and aging-related disorders, is increasing. Ideally, such 
+research should be conducted on human subjects. However, due to ethical
+considerations, animals such as rodents and monkeys are used as alternatives.
+Among these alternative models, non-human primates are preferred because of their
+similarities with humans. The small South American common marmoset (Callithrix
+jacchus) may offer several advantages over other non-human primates in terms of
+its smaller size, shorter life-span, and dental anatomy identical to humans. The 
+purpose of this study was to determine the viability of using the marmoset as a
+human oral disease model. We collected saliva samples from eight marmosets and
+eight human subjects. Prokaryotic DNA was extracted from the saliva samples, and 
+16S bacterial rRNA gene sequencing was performed on each of the samples. Our
+results indicated that the types of oral microbiomes detected among human and
+marmoset samples were nearly indistinguishable. In contrast, the oral microbiomes
+of our human and marmoset subjects were distinctly different from those reported 
+for rats and dogs, which are currently popular research animals. The oral
+microbiomes of marmosets showed greater diversity than those of humans. However, 
+the oral microbiota of marmosets exhibited less variation than those of humans,
+which may be attributed to the fact that the marmoset subjects were kept in a
+controlled environment with identical lifestyles. The characteristics of its oral
+microbiota, combined with other technical advantages, suggest that the marmoset
+may provide the best animal model thus far for the study of oral health. This
+study characterized the oral microbes of the marmoset, thereby providing
+information to support future application of the marmoset as a model for
+age-related oral disease.
+
+DOI: 10.1371/journal.pone.0207560 
+PMCID: PMC6366748
+PMID: 30730898  [Indexed for MEDLINE]
+
+Conflict of interest statement: The following authors are affiliated with CLEA
+Japan, Inc.: KK and KF. The commercial affiliation with CLEA Japan, Inc. does not
+alter our adherence to PLOS ONE policies on sharing data and materials.
+

@@ -1,0 +1,32 @@
+
+
+2478. Antiviral Res. 2007 Feb;73(2):101-11. Epub 2006 Sep 5.
+
+Immunogenicity of a chimeric hepatitis A virus (HAV) carrying the HIV gp41
+epitope 2F5.
+
+Kusov YY(1), Zamjatina NA, Poleschuk VF, Michailov MI, Morace G, Eberle J,
+Gauss-Müller V.
+
+Author information: 
+(1)Institute of Medical Molecular Biology, University of Lübeck, Ratzeburger
+Allee 160, D-23538 Lübeck, Germany. koussov@molbio.uni-luebeck.de
+
+Its stable particle structure combined with its high immunogenicity makes the
+hepatitis A virus (HAV) a perfect carrier to expose foreign epitopes to the host 
+immune system. In an earlier report [Beneduce, F., Kusov, Y., Klinger, M.,
+Gauss-Müller, V., Morace, G., 2002. Chimeric hepatitis A virus particles
+presenting a foreign epitope (HIV gp41) at their surface. Antiviral Res. 55,
+369-377] chimeric virus-like particles (HAV-gp41) were described that carried at 
+their surface the dominant gp41 epitope 2F5 (2F5e) of the human immunodeficiency 
+virus HIV-1. Extending this work, we now report that chimeric virus HAV-gp41
+replicates in HAV-susceptible cells as well as in non-human primates. Infected
+marmosets developed both an anti-HAV and anti-2F5 epitope immune response.
+Furthermore, an HIV-neutralizing antibody response was elicited in guinea pigs
+immunized with HAV-gp41 chimeric particles. The results demonstrate that the
+replication-competent chimeric HAV-gp41 can serve as either a live or a subunit
+vaccine for eliciting of antibodies directed against a foreign antigenic epitope.
+
+DOI: 10.1016/j.antiviral.2006.08.003 
+PMID: 17014915  [Indexed for MEDLINE]
+

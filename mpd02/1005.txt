@@ -1,0 +1,46 @@
+
+
+1005. Magn Reson Med. 2017 Jul;78(1):387-398. doi: 10.1002/mrm.26339. Epub 2016 Aug 8.
+
+Design and implementation of embedded 8-channel receive-only arrays for
+whole-brain MRI and fMRI of conscious awake marmosets.
+
+Papoti D(1), Yen CC(1), Hung CC(1)(2), Ciuchta J(1), Leopold DA(2), Silva AC(1).
+
+Author information: 
+(1)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, Maryland, USA.
+(2)Section on Cognitive Neurophysiology and Imaging, Laboratory of
+Neuropsychology, National Institute of Mental Health, National Institutes of
+Health, Bethesda, Maryland, USA.
+
+PURPOSE: The common marmoset (Callithrix jacchus) is a New World primate of
+increasing interest to neuroscience and in translational brain research. The
+present work describes the design and implementation of individualized 8-channel 
+receive-only radiofrequency (RF) coil arrays that provide whole-brain coverage
+and allow anatomical and functional MRI experiments in conscious, awake
+marmosets.
+METHODS: The coil arrays were designed with their elements embedded inside
+individualized restraint helmets. The size, geometry, and arrangement of the coil
+elements were optimized to allow whole-brain coverage. Coil-to-coil decoupling
+was achieved by a combination of geometric decoupling and low input impedance
+preamplifiers. The performance of the embedded arrays was compared against that
+of one 8-channel receive-only array built to fit the external surface of the
+helmets.
+RESULTS: Three individualized helmets with embedded coil arrays were built for
+three marmosets. Whole-brain coverage was achieved with high sensitivity
+extending over the entire cortex. Visual stimulation of conscious awake marmosets
+elicited robust BOLD fMRI responses in both primary and higher order visual areas
+of the occipitotemporal cortex.
+CONCLUSION: The high sensitivity provided by embedded receive-only coil arrays
+allows both anatomical and functional MRI data to be obtained with high spatial
+resolution in conscious, awake marmosets. Magn Reson Med 78:387-398, 2017. © 2016
+International Society for Magnetic Resonance in Medicine.
+
+© 2016 International Society for Magnetic Resonance in Medicine.
+
+DOI: 10.1002/mrm.26339 
+PMCID: PMC5298952
+PMID: 27501382  [Indexed for MEDLINE]
+

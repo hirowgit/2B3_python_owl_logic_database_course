@@ -1,0 +1,99 @@
+
+
+116. Neuron. 2021 Aug 4;109(15):2485-2498.e5. doi: 10.1016/j.neuron.2021.06.003. Epub 
+2021 Jun 24.
+
+Controlling one's world: Identification of sub-regions of primate PFC underlying 
+goal-directed behavior.
+
+Duan LY(1), Horst NK(2), Cranmore SAW(2), Horiguchi N(2), Cardinal RN(3), Roberts
+AC(4), Robbins TW(2).
+
+Author information: 
+(1)Department of Psychology, University of Cambridge, Downing Street, Cambridge
+CB2 3EB, UK; Behavioural and Clinical Neuroscience Institute, Downing Street,
+University of Cambridge, Cambridge CB2 3EB, UK. Electronic address:
+lisaduan33@gmail.com.
+(2)Department of Psychology, University of Cambridge, Downing Street, Cambridge
+CB2 3EB, UK; Behavioural and Clinical Neuroscience Institute, Downing Street,
+University of Cambridge, Cambridge CB2 3EB, UK.
+(3)Department of Psychiatry, University of Cambridge, Herchel Smith Building for 
+Brain & Mind Sciences, Forvie Site, Robinson Way, Cambridge CB2 0SZ, UK;
+Behavioural and Clinical Neuroscience Institute, Downing Street, University of
+Cambridge, Cambridge CB2 3EB, UK; Cambridgeshire and Peterborough NHS Foundation 
+Trust, Liaison Psychiatry Service, Box 190, Cambridge Biomedical Campus,
+Cambridge CB2 0QQ, UK.
+(4)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Downing Street, Cambridge CB2 3DY, UK; Behavioural and Clinical
+Neuroscience Institute, Downing Street, University of Cambridge, Cambridge CB2
+3EB, UK.
+
+Comment in
+    Neuron. 2021 Aug 4;109(15):2370-2373.
+
+Impaired detection of causal relationships between actions and their outcomes can
+lead to maladaptive behavior. However, causal roles of specific prefrontal cortex
+(PFC) sub-regions and the caudate nucleus in mediating such relationships in
+primates are unclear. We inactivated and overactivated five PFC sub-regions,
+reversibly and pharmacologically: areas 24 (perigenual anterior cingulate
+cortex), 32 (medial PFC), 11 (anterior orbitofrontal cortex, OFC), 14 (rostral
+ventromedial PFC/medial OFC), and 14-25 (caudal ventromedial PFC) and the
+anteromedial caudate to examine their role in expressing learned action-outcome
+contingencies using a contingency degradation paradigm in marmoset monkeys. Area 
+24 or caudate inactivation impaired the response to contingency change, while
+area 11 inactivation enhanced it, and inactivation of areas 14, 32, or 14-25 had 
+no effect. Overactivation of areas 11 and 24 impaired this response. These
+findings demonstrate the distinct roles of PFC sub-regions in goal-directed
+behavior and illuminate the candidate neurobehavioral substrates of psychiatric
+disorders, including obsessive-compulsive disorder.
+
+Copyright © 2021 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2021.06.003 
+PMCID: PMC8346232
+PMID: 34171290  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no
+competing interests.
+
+
+117. Magn Reson Med. 2021 Nov;86(5):2766-2779. doi: 10.1002/mrm.28881. Epub 2021 Jun
+25.
+
+Marmoset brain segmentation from deconvolved magnetic resonance images and
+estimated label maps.
+
+Bazzi F(1)(2)(3), Mescam M(2), Diab A(3), Falou O(3), Amoud H(3), Basarab A(1),
+Kouamé D(1).
+
+Author information: 
+(1)Computer Science Research Institute of Toulouse (IRIT), Toulouse University
+UPS, CNRS, UMR, Toulouse, France.
+(2)Centre de Recherche Cerveau et Cognition (CerCo), Université de Toulouse UPS, 
+CNRS, UMR, Toulouse, France.
+(3)Doctoral School of Sciences and Technology, AZM Center for Research in
+Biotechnology and Its Applications, Lebanese University, Beirut, Lebanon.
+
+PURPOSE: The proposed method aims to create label maps that can be used for the
+segmentation of animal brain MR images without the need of a brain template. This
+is achieved by performing a joint deconvolution and segmentation of the brain MR 
+images.
+METHODS: It is based on modeling locally the image statistics using a generalized
+Gaussian distribution (GGD) and couples the deconvolved image and its
+corresponding labels map using the GGD-Potts model. Because of the complexity of 
+the resulting Bayesian estimators of the unknown model parameters, a Gibbs
+sampler is used to generate samples following the desired posterior probability.
+RESULTS: The performance of the proposed algorithm is assessed on simulated and
+real MR images by the segmentation of enhanced marmoset brain images into its
+main compartments using the corresponding label maps created. Quantitative
+assessment showed that this method presents results that are comparable to those 
+obtained with the classical method-registering the volumes to a brain template.
+CONCLUSION: The proposed method of using labels as prior information for brain
+segmentation provides a similar or a slightly better performance compared with
+the classical reference method based on a dedicated template.
+
+© 2021 International Society for Magnetic Resonance in Medicine.
+
+DOI: 10.1002/mrm.28881 
+PMID: 34170032  [Indexed for MEDLINE]
+

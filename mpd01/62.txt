@@ -1,0 +1,91 @@
+
+
+62. Sci Rep. 2021 Oct 12;11(1):20234. doi: 10.1038/s41598-021-99656-4.
+
+Efficient marmoset genome engineering by autologous embryo transfer and
+CRISPR/Cas9 technology.
+
+Abe Y(1), Nakao H(1), Goto M(1), Tamano M(1), Koebis M(1), Nakao K(2)(3), Aiba
+A(4).
+
+Author information: 
+(1)Section of Animal Research and Laboratory of Animal Resources, Center for
+Disease Biology and Integrative Medicine, Graduate School of Medicine, The
+University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-0033, Japan.
+(2)Section of Animal Research and Laboratory of Animal Resources, Center for
+Disease Biology and Integrative Medicine, Graduate School of Medicine, The
+University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-0033, Japan.
+k_nakao@iexas.med.osaka-u.ac.jp.
+(3)Institute of Experimental Animal Sciences, Graduate School of Medicine, Osaka 
+University, 2-2 Yamadaoka, Suita, Osaka, 565-0871, Japan.
+k_nakao@iexas.med.osaka-u.ac.jp.
+(4)Section of Animal Research and Laboratory of Animal Resources, Center for
+Disease Biology and Integrative Medicine, Graduate School of Medicine, The
+University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-0033, Japan.
+aiba@m.u-tokyo.ac.jp.
+
+Genetic engineering of non-human primates, which are most closely related to
+humans, has been expected to generate ideal animal models for human genetic
+diseases. The common marmoset (Callithrix jacchus) is a non-human primate species
+adequate for the production of genetically modified animals because of their
+small body size and high reproductive capacity. Autologous embryo transfer (AET) 
+is routinely utilized in assisted reproductive technologies for humans but not
+for experimental animals. This study has developed a novel method for efficiently
+producing mutant marmosets using AET and CRISPR/Cas9 systems. The embryos were
+recovered from oviducts of naturally mated females, injected with Cas9/guide RNA,
+and transferred into the oviducts of the donors. This AET method can reduce the
+time for in vitro culture of embryos to less than 30 min. This method uses an
+embryo donor as the recipient, thus reducing the number of animals and allowing
+for "Reduction" in the 3R principles of humane experimental technique.
+Furthermore, this method can utilize nulliparous females as well as parous
+females. We applied our novel method and generated the 6 marmosets carrying
+mutations in the fragile X mental retardation 1 (FMR1) gene using only 18 females
+including 14 nulliparous females.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-99656-4 
+PMCID: PMC8511084
+PMID: 34642413  [Indexed for MEDLINE]
+
+
+63. Mol Cell Endocrinol. 2022 Jan 1;539:111488. doi: 10.1016/j.mce.2021.111488. Epub 
+2021 Oct 9.
+
+Limited spermatogenic differentiation of testicular tissue from prepubertal
+marmosets (Callithrix jacchus) in an in vitro organ culture system.
+
+Sharma S(1), Klaverkamp RS(1), Wistuba J(1), Schlatt S(2).
+
+Author information: 
+(1)Centre of Reproductive Medicine and Andrology, Institute of Reproductive and
+Regenerative Biology, Albert-Schweitzer Campus 1, Building D11, 48149, Münster,
+Germany.
+(2)Centre of Reproductive Medicine and Andrology, Institute of Reproductive and
+Regenerative Biology, Albert-Schweitzer Campus 1, Building D11, 48149, Münster,
+Germany. Electronic address: stefan.schlatt@ukmuenster.de.
+
+PURPOSE: of the research: To achieve male fertility preservation and restoration,
+experimental strategies for in vitro germ cell differentiation are required. The 
+effects of two different culture conditions on in vitro maintenance and
+differentiation of non-human primate germ cells was studied. Three testes from
+three 6-month-old marmosets were cultured using a gas-liquid interphase system
+for 12 days. Testicular maturation in pre-culture control and samples cultured in
+gonadotropin and serum supplemented and non-supplemented culture samples was
+evaluated using Periodic Acid-Schiff (PAS) and immunohistochemical stainings.
+PRINCIPLE RESULTS: Gonadotropins and serum-supplemented tissues demonstrate up to
+meiotic differentiation (BOULE + Pachytene spermatocyte) and advanced
+localization of germ cells (MAGEA4+). Moreover, complex (with gonadotropin and
+marmoset monkey serum) conditions induced progression in somatic cell maturation 
+with advanced seminiferous epithelial organization, maintenance of encapsulation 
+of cultured fragments with peritubular-myoid cells, preservation of tubular
+structural integrity and architecture.
+MAJOR CONCLUSIONS: We report stimulation-dependent in vitro meiotic transition in
+non-human primate testes. This model represents a novel ex vivo approach to
+obtain crucial developmental progression.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.mce.2021.111488 
+PMID: 34637880 
+

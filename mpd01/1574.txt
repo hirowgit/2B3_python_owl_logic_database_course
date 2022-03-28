@@ -1,0 +1,86 @@
+
+
+1574. J Sex Med. 2013 Jun;10(6):1461-75. doi: 10.1111/jsm.12131. Epub 2013 Apr 2.
+
+Brain region-specific transcriptomic markers of serotonin-1A receptor agonist
+action mediating sexual rejection and aggression in female marmoset monkeys.
+
+Aubert Y(1), Allers KA, Sommer B, de Kloet ER, Abbott DH, Datson NA.
+
+Author information: 
+(1)Division of Medical Pharmacology, Leiden/Amsterdam Center for Drug Research,
+Leiden University Medical Center, Leiden, The Netherlands. yvesaubert@gmail.com
+
+INTRODUCTION: In a marmoset model of hypoactive female sexual function, we have
+shown that repeated administration of the serotonin (5-HT)-1A agonist
+R-(+)-8-hydroxy-2-(di-N-propylamino)tetralin (8-OH-DPAT) inhibits sexual
+receptivity in female marmoset monkeys and increases aggression toward the male
+pairmate.
+AIM: The aims of this study are to investigate gene expression changes induced by
+8-OH-DPAT in laser-microdissected brain areas that regulate female sexual
+function and to identify genes, functional gene classes, and pathways associated 
+with 8-OH-DPAT-mediated inhibition of female sexual receptivity.
+METHODS: Gene expression was measured in the medial prefrontal cortex (mPFC),
+medial preoptic area (mPOA), cornu ammonis-1 (CA1) area of the hippocampus (CA1),
+and dorsal raphé nucleus (DRN) of four 8-OH-DPAT-treated (0.1 mg/kg; daily
+administration for 16 weeks) and four vehicle-treated female marmosets using a
+marmoset-specific microarray (European Marmoset Microarray [EUMAMA]) and
+validated by real-time quantitative polymerase chain reaction (RTqPCR). Enriched 
+functional gene classes were determined. In a parallel candidate gene approach,
+the expression of serotonergic candidate genes, i.e., the 5-HT1A, 5-HT2A, and
+5-HT7 receptors and the 5-HT transporter (5-HTT), was measured by RTqPCR.
+MAIN OUTCOME MEASURES: The main outcome is the differential expression of genes
+between 8-OH-DPAT- and vehicle-treated marmosets.
+RESULTS: 8-OH-DPAT affected the gene classes important to neural development
+(mPFC, mPOA, and DRN), neurotransmission (mPOA), energy production (mPFC and
+mPOA), learning and memory (CA1), and intracellular signal transduction (DRN).
+Oxytocin (OXT) in the mPOA and 5-HTT in the DRN were strongly increased by
+8-OH-DPAT. 5-HT1A tended to increase in the mPFC, while 5-HT7 was decreased in
+the CA1.
+CONCLUSIONS: Brain region-specific alterations of gene expression regulating
+neural circuitries, energy demands, and learning processes are associated with
+8-OH-DPAT-induced decrease in female sexual receptivity and increase in pairmate 
+aggression. The role of OXT in the serotonergic regulation of female sexual
+behavior and partner interactions warrants attention in future studies.
+
+© 2013 International Society for Sexual Medicine.
+
+DOI: 10.1111/jsm.12131 
+PMID: 23551660  [Indexed for MEDLINE]
+
+
+1575. DNA Res. 2013 Jun;20(3):255-62. doi: 10.1093/dnares/dst007. Epub 2013 Mar 29.
+
+Development and characterization of cDNA resources for the common marmoset: one
+of the experimental primate models.
+
+Tatsumoto S(1), Adati N, Tohtoki Y, Sakaki Y, Boroviak T, Habu S, Okano H,
+Suemizu H, Sasaki E, Satake M.
+
+Author information: 
+(1)RIKEN Genomic Sciences Center, Suehiro-cho 1-7-22, Tsurumi-ku, Yokohama
+230-0045, Japan.
+
+The common marmoset is a new world monkey, which has become a valuable
+experimental animal for biomedical research. This study developed cDNA libraries 
+for the common marmoset from five different tissues. A total of 290 426
+high-quality EST sequences were obtained, where 251 587 sequences (86.5%) had
+homology (1E(-100)) with the Refseqs of six different primate species, including 
+human and marmoset. In parallel, 270 673 sequences (93.2%) were aligned to the
+human genome. When 247 090 sequences were assembled into 17 232 contigs, most of 
+the sequences (218 857 or 15 089 contigs) were located in exonic regions,
+indicating that these genes are expressed in human and marmoset. The other 5578
+sequences (or 808 contigs) mapping to the human genome were not located in exonic
+regions, suggesting that they are not expressed in human. Furthermore, a
+different set of 118 potential coding sequences were not similar to any Refseqs
+in any species, and, thus, may represent unknown genes. The cDNA libraries
+developed in this study are available through RIKEN Bio Resource Center. A Web
+server for the marmoset cDNAs is available at
+http://marmoset.nig.ac.jp/index.html, where each marmoset EST sequence has been
+annotated by reference to the human genome. These new libraries will be a useful 
+genetic resource to facilitate research in the common marmoset.
+
+DOI: 10.1093/dnares/dst007 
+PMCID: PMC3686431
+PMID: 23543116  [Indexed for MEDLINE]
+

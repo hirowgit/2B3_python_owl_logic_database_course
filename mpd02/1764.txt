@@ -1,0 +1,42 @@
+
+
+1764. Endocrinology. 2012 Apr;153(4):1972-83. doi: 10.1210/en.2011-1688. Epub 2012 Feb 
+14.
+
+Inhibition of delta-like ligand 4 induces luteal hypervascularization followed by
+functional and structural luteolysis in the primate ovary.
+
+Fraser HM(1), Hastings JM, Allan D, Morris KD, Rudge JS, Wiegand SJ.
+
+Author information: 
+(1)Room C1.04, The Queen's Medical Research Institute, 47 Little France Crescent,
+Edinburgh EH16 4TJ, Scotland, United Kingdom. HandA@Skyenomore.co.uk
+
+Using specific inhibitors established that angiogenesis in the ovarian follicle
+and corpus luteum is driven by vascular endothelial growth factor. Recently, it
+has been demonstrated that the Notch ligand, delta-like ligand 4 (Dll4)
+negatively regulates vascular endothelial growth factor-mediated vessel sprouting
+and branching. To investigate the role of Dll4 in regulation of the ovarian
+vasculature, we administered a neutralizing antibody to Dll4 to marmosets at the 
+periovulatory period. The vasculature was examined on luteal d 3 or d 10:
+angiogenesis was determined by incorporation of bromodeoxyuridine, staining for
+CD31 and cell death by staining for activated caspase-3. Ovulatory progesterone
+rises were monitored to determine effects of treatment on luteal function and
+time to recover normal cycles in a separate group of animals. Additionally,
+animals were treated in the follicular or midluteal phase to determine effects of
+Dll4 inhibition on follicular development and luteal function. Controls were
+treated with human IgG (Fc). Corpora lutea from marmosets treated during the
+periovulatory period exhibited increased angiogenesis and increased vascular
+density on luteal d 3, but plasma progesterone was significantly suppressed. By
+luteal d 10, corpora lutea in treated ovaries were significantly reduced in size,
+with involution of luteal cells, increased cell death, and suppressed plasma
+progesterone concentrations. In contrast, initiation of anti-Dll4 treatment
+during the midluteal phase produced only a slight suppression of progesterone for
+the remainder of the cycle. Moreover, Dll4 inhibition had no appreciable effect
+on follicular development. These results show that Dll4 has a specific and
+critical role in the development of the normal luteal vasculature.
+
+DOI: 10.1210/en.2011-1688 
+PMCID: PMC3413503
+PMID: 22334711  [Indexed for MEDLINE]
+

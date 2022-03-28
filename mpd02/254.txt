@@ -1,0 +1,39 @@
+
+
+254. Nat Commun. 2020 Sep 25;11(1):4856. doi: 10.1038/s41467-020-18692-2.
+
+Face selective patches in marmoset frontal cortex.
+
+Schaeffer DJ(1), Selvanayagam J(2), Johnston KD(2), Menon RS(3), Freiwald
+WA(4)(5), Everling S(3)(2).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, ON, N6A 5K8, Canada. dschaeff@uwo.ca.
+(2)Department of Physiology and Pharmacology, University of Western Ontario,
+London, ON, N6A 5K8, Canada.
+(3)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, ON, N6A 5K8, Canada.
+(4)Laboratory of Neural Systems, The Rockefeller University, New York, NY, 10065,
+USA.
+(5)The Center for Brains, Minds and Machines, MIT, Cambridge, MA, 02139, USA.
+
+In humans and macaque monkeys, socially relevant face processing is accomplished 
+via a distributed functional network that includes specialized patches in frontal
+cortex. It is unclear whether a similar network exists in New World primates, who
+diverged ~35 million years from Old World primates. The common marmoset is a New 
+World primate species ideally placed to address this question given their complex
+social repertoire. Here, we demonstrate the existence of a putative high-level
+face processing network in marmosets. Like Old World primates, marmosets show
+differential activation in anterior cingulate and lateral prefrontal cortices
+while they view socially relevant videos of marmoset faces. We corroborate the
+locations of these frontal regions by demonstrating functional and structural
+connectivity between these regions and temporal lobe face patches. Given the
+evolutionary separation between macaques and marmosets, our results suggest this 
+frontal network specialized for social face processing predates the separation
+between Platyrrhini and Catarrhini.
+
+DOI: 10.1038/s41467-020-18692-2 
+PMCID: PMC7519082
+PMID: 32978385  [Indexed for MEDLINE]
+

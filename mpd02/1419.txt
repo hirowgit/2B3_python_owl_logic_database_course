@@ -1,0 +1,40 @@
+
+
+1419. Neurosci Res. 2014 Jun;83:33-42. doi: 10.1016/j.neures.2014.04.002. Epub 2014 Apr
+21.
+
+Motor learning in common marmosets: vestibulo-ocular reflex adaptation and its
+sensitivity to inhibitors of Purkinje cell long-term depression.
+
+Anzai M(1), Nagao S(2).
+
+Author information: 
+(1)Laboratory for Motor Learning Control, RIKEN Brain Science Institute, Hirosawa
+2-1, Wako, Saitama 351-0198, Japan.
+(2)Laboratory for Motor Learning Control, RIKEN Brain Science Institute, Hirosawa
+2-1, Wako, Saitama 351-0198, Japan. Electronic address: nagaos@brain.riken.jp.
+
+Adaptation of the horizontal vestibulo-ocular reflex (HVOR) provides an
+experimental model for cerebellum-dependent motor learning. We developed an eye
+movement measuring system and a paradigm for induction of HVOR adaptation for the
+common marmoset. The HVOR gain in dark measured by 10° (peak-to-peak amplitude)
+and 0.11-0.5Hz turntable oscillation was around unity. The gain-up and gain-down 
+HVOR adaptation was induced by 1h of sustained out-of-phase and in-phase
+10°-0.33Hz combined turntable-screen oscillation in the light, respectively. To
+examine the role of long-term depression (LTD) of parallel fiber-Purkinje cell
+synapses, we intraperitonially applied T-588 or nimesulide, which block the
+induction of LTD in vitro or in vivo preparations, 1h before the test of HVOR
+adaptation. T-588 (3 and 5mg/kg body weight) did not affect nonadapted HVOR
+gains, and impaired both gain-up and gain-down HVOR adaptation. Nimesulide (3 and
+6mg/kg) did not affect nonadapted HVOR gains, and impaired gain-up HVOR
+adaptation dose-dependently; however, it very little affected gain-down HVOR
+adaptation. These findings are consistent with the results of our study of
+nimesulide on the adaptation of horizontal optokinetic response in mice (Le et
+al., 2010), and support the view that LTD underlies HVOR adaptation.
+
+Copyright © 2014 Elsevier Ireland Ltd and the Japan Neuroscience Society. All
+rights reserved.
+
+DOI: 10.1016/j.neures.2014.04.002 
+PMID: 24768746  [Indexed for MEDLINE]
+

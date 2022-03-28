@@ -1,0 +1,36 @@
+
+
+2639. J Circadian Rhythms. 2005 Sep 6;3:10.
+
+Light-dark cycle synchronization of circadian rhythm in blind primates.
+
+Silva MM(1), Albuquerque AM, Araujo JF.
+
+Author information: 
+(1)Departamento de Fisiologia, CB/UFRN, Natal, Brazil. mmytzi@yahoo.com.br
+
+BACKGROUND: Recently, several papers have shown that a small subset of retinal
+ganglion cells (RGCs), which project to the suprachiasmatic nucleus (SCN) and
+contain a new photopigment called melanopsin, are the photoreceptors involved in 
+light-dark entrainment in rodents. In our primate colony, we found a couple of
+common marmosets (Callithrix jacchus) that had developed progressive and
+spontaneous visual deficiency, most likely because of retinal degeneration of
+cones and/or rods. In this study, we evaluated the photoresponsiveness of the
+circadian system of these blind marmosets.
+METHODS: Two blind and two normal marmosets were kept in cages with a controlled 
+light-dark cycle (LD) to study photoentrainment, masking, and phase response to a
+dark pulse.
+RESULTS: Blind marmosets were entrained with the new LD cycle when light onsets
+were delayed and advanced by 6 hours. In constant light conditions, blind
+marmosets free-ran with a period of 23.2 hours, while normal animals free-ran
+with a period of 23.6 hours. All marmosets responded to dark pulses in the early 
+subjective day with phase delays and with phase advances in the late subjective
+day.
+CONCLUSION: Our results demonstrate that light can synchronize circadian rhythms 
+of blind marmosets and consequently, that this species could be a good primate
+model for circadian photoreception studies.
+
+DOI: 10.1186/1740-3391-3-10 
+PMCID: PMC1208936
+PMID: 16144547 
+

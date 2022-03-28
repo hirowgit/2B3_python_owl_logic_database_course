@@ -1,0 +1,88 @@
+
+
+1017. Xenobiotica. 2017 Jul;47(7):553-561. doi: 10.1080/00498254.2016.1206673. Epub
+2016 Jul 20.
+
+Marmoset cytochrome P450 4A11, a novel arachidonic acid and lauric acid
+ω-hydroxylase expressed in liver and kidney tissues.
+
+Uehara S(1), Uno Y(2), Ishii S(1), Inoue T(3), Sasaki E(3)(4), Yamazaki H(1).
+
+Author information: 
+(1)a Laboratory of Drug Metabolism and Pharmacokinetics , Showa Pharmaceutical
+University , Machida , Tokyo , Japan.
+(2)b Pharmacokinetics and Bioanalysis Center, Shin Nippon Biomedical
+Laboratories, Ltd , Kainan , Wakayama , Japan.
+(3)c Central Institute for Experimental Animals , Kawasaki , Japan , and.
+(4)d Keio Advanced Research Center, Keio University , Minato-ku, Tokyo , Japan.
+
+1. A cDNA encoding novel cytochrome P450 (P450) 4A enzyme was cloned from
+marmoset livers by reverse transcription (RT)-polymerase chain reaction (PCR)
+based on the marmoset genome sequences. The amino acid sequence deduced from P450
+4A11 cDNA contained consensus sequences of six substrate recognition sites and
+one heme-binding domain. 2. Marmoset P450 4A11, highly identical (85-88%) to
+cynomolgus monkey and human P450 4A enzymes, was grouped into the same cluster as
+cynomolgus monkey and human P450 4A enzymes by phylogenetic analysis. 3. The
+tissue distribution analyses by real-time RT PCR and immunoblotting demonstrated 
+that marmoset P450 4A11 mRNA and proteins were expressed in kidneys and livers.
+Marmoset P450 4A11 enzyme heterologously expressed in Escherichia coli
+preferentially catalyzed the ω-hydroxylation of arachidonic acid and lauric acid,
+similar to cynomolgus monkey and human P450 4A11 enzymes. However, lauric acid
+ω-hydroxylation activity of marmoset P450 4A11 was low compared with those of
+marmoset liver microsomes. 4. These results indicated that novel marmoset P450
+4A11 was also a fatty acid ω-hydroxylase expressed in kidneys and livers, with
+the same regioselectivity (at ω-position of fatty acid) as cynomolgus monkey and 
+human P450 4A enzymes.
+
+DOI: 10.1080/00498254.2016.1206673 
+PMID: 27435360  [Indexed for MEDLINE]
+
+
+1018. Epilepsy Res. 2016 Oct;126:16-25. doi: 10.1016/j.eplepsyres.2016.06.012. Epub
+2016 Jun 27.
+
+Seizures triggered by pentylenetetrazol in marmosets made chronically epileptic
+with pilocarpine show greater refractoriness to treatment.
+
+Pontes JC(1), Lima TZ(2), Queiroz CM(3), Cinini SM(1), Blanco MM(1), Mello LE(4).
+
+Author information: 
+(1)Departamento de Fisiologia, Universidade Federal de São Paulo, Rua Pedro de
+Toledo 669, 3 andar, São Paulo, SP 04039-032, Brazil.
+(2)Hospital Israelita Albert Einstein, Avenida Albert Einstein, 627, São Paulo,
+SP 05652-000, Brazil.
+(3)Brain Institute, Universidade Federal do Rio Grande do Norte, Avenida
+Nascimento de Castro, 2155, Natal, RN 59056-450, Brazil.
+(4)Departamento de Fisiologia, Universidade Federal de São Paulo, Rua Pedro de
+Toledo 669, 3 andar, São Paulo, SP 04039-032, Brazil. Electronic address:
+lemello@unifesp.br.
+
+The efficiency of most of the new antiepileptic drugs (AEDs) on clinical trials
+still falls short the success reported in pre-clinical studies, possibly because 
+the validity of the animal models is insufficient to fully represent the human
+pathology. To improve the translational value for testing AEDs, we propose the
+use of non-human primates. Here, we suggest that triggering limbic seizures with 
+low doses of PTZ in pilocarpine-treated marmosets might provide a more effective 
+basis for the development of AED. Marmosets with epileptic background were more
+susceptible to seizures induced by PTZ, which were at least 3 times longer and
+more severe (about 6 times greater frequency of generalized seizures) in
+comparison to naïve peers. Accordingly, PTZ-induced seizures were remarkably less
+attenuated by AEDs in epileptic than naïve marmosets. While phenobarbital
+(40mg/kg) virtually abolished seizures regardless of the animal's background,
+carbamazepine (120mg/kg) and valproic acid (400mg/kg) could not prevent
+PTZ-induced seizures in epileptic animals with the same efficiency as observed in
+naïve peers. VPA was less effective regarding the duration of individual seizures
+in epileptic animals, as assessed in ECoG (p=0.05). Similarly following CBZ
+treatment, the behavioral manifestation of generalized seizures lasted longer in 
+epileptic (p<0.05), which were also more frequent than in the naïve group
+(p<0.05). As expected, epileptic marmosets experiencing stronger seizures showed 
+more NPY- and ΔFosB-immunostained neurons in a number of brain areas associated
+with the generation and spread of limbic seizures. Our results suggest that PTZ
+induced seizures over an already existing epileptic background constitutes a
+reliable and controllable mean for the screening of new AEDs.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.eplepsyres.2016.06.012 
+PMID: 27421091  [Indexed for MEDLINE]
+

@@ -1,0 +1,35 @@
+
+
+1694. J Neuropathol Exp Neurol. 2012 Aug;71(8):716-28.
+
+B-cell depletion abrogates T cell-mediated demyelination in an
+antibody-nondependent common marmoset experimental autoimmune encephalomyelitis
+model.
+
+Jagessar SA(1), Heijmans N, Bauer J, Blezer EL, Laman JD, Hellings N, 't Hart BA.
+
+Author information: 
+(1)Department Immunobiology, Biomedical Primate Research Centre, Rijswijk, the
+Netherlands.
+
+CD20-positive B-cell depletion is a highly promising treatment for multiple
+sclerosis (MS), but the mechanisms underlying therapeutic effects are poorly
+understood. B cells are thought to contribute to MS pathogenesis by producing
+autoantibodies that amplify demyelination via opsonization of myelin. To analyze 
+autoantibody-nondependent functions of B cells in an animal model of MS, we used 
+a novel T cell-driven experimental autoimmune encephalomyelitis (EAE) model in
+marmoset monkeys (Callithrix jacchus). In this model, demyelination of brain and 
+spinal cord white and gray matter and the ensuing neurological deficits are
+induced by immunization with peptide 34 to 56 of myelin/oligodendrocyte
+glycoprotein (MOG34-56) in incomplete Freund's adjuvant. Although autoantibodies 
+do not have a detectable pathogeniccontribution in the model, depletion of B
+cells with monoclonal antibody 7D8, a human IgG1κ monoclonal antibody against
+human CD20, suppressed clinical and pathological EAE. In B cell-depleted monkeys,
+the activation of peptide-specific Th17-producing and cytotoxic T cells, which in
+previous studies were found to play an essential role in disease induction, was
+impaired. Thus, we demonstrate a critical antibody-nondependent role for B cells 
+in EAE, that is, the activation of pathogenic T cells.
+
+DOI: 10.1097/NEN.0b013e3182622691 
+PMID: 22805775  [Indexed for MEDLINE]
+

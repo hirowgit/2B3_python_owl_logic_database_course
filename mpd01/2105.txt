@@ -1,0 +1,81 @@
+
+
+2105. Reprod Biol Endocrinol. 2009 Sep 9;7:96. doi: 10.1186/1477-7827-7-96.
+
+Rapidly evolving marmoset MSMB genes are differently expressed in the male
+genital tract.
+
+Lundwall A(1), Larne O, Nayudu PL, Ceder Y, Valtonen-André C.
+
+Author information: 
+(1)Lund University, Department of Laboratory Medicine, Division of Clinical
+Chemistry, University Hospital MAS, Malmö, Sweden. ake.lundwall@med.lu.se
+
+BACKGROUND: Beta-microseminoprotein, an abundant component in prostatic fluid, is
+encoded by the potential tumor suppressor gene MSMB. Some New World monkeys carry
+several copies of this gene, in contrast to most mammals, including humans, which
+have one only. Here we have investigated the background for the species
+difference by analyzing the chromosomal organization and expression of MSMB in
+the common marmoset (Callithrix jacchus).
+METHODS: Genes were identified in the Callithrix jacchus genome database using
+bioinformatics and transcripts were analyzed by RT-PCR and quantified by real
+time PCR in the presence of SYBR green.
+RESULTS: The common marmoset has five MSMB: one processed pseudogene and four
+functional genes. The latter encompass homologous genomic regions of 32-35 kb,
+containing the genes of 12-14 kb and conserved upstream and downstream regions of
+14-19 kb and 3-4 kb. One gene, MSMB1, occupies the same position on the
+chromosome as the single human gene. On the same chromosome, but several Mb away,
+is another MSMB locus situated with MSMB2, MSMB3 and MSMB4 arranged in tandem.
+Measurements of transcripts demonstrated that all functional genes are expressed 
+in the male genital tract, generating very high transcript levels in the
+prostate. The transcript levels in seminal vesicles and testis are two and four
+orders of magnitude lower. A single gene, MSMB3, accounts for more than 90% of
+MSMB transcripts in both the prostate and the seminal vesicles, whereas in the
+testis around half of the transcripts originate from MSMB2. These genes display
+rapid evolution with a skewed distribution of mutated nucleotides; in MSMB2 they 
+affect nucleotides encoding the N-terminal Greek key domain, whereas in MSMB3 it 
+is the C-terminal MSMB-unique domain that is affected.
+CONCLUSION: Callitrichide monkeys have four functional MSMB that are all
+expressed in the male genital tract, but the product from one gene, MSMB3, will
+predominate in seminal plasma. This gene and MSMB2, the predominating testicular 
+gene, have accumulated mutations that affect different parts of the translation
+products, suggesting an ongoing molecular specialization that presumably yields
+functional differences in accessory sex glands and testis.
+
+DOI: 10.1186/1477-7827-7-96 
+PMCID: PMC2746217
+PMID: 19737427  [Indexed for MEDLINE]
+
+
+2106. Gene. 2010 Jan 1;449(1-2):95-102. doi: 10.1016/j.gene.2009.08.014. Epub 2009 Sep 
+3.
+
+Alpha-fetoprotein related gene (ARG): a new member of the albumin gene family
+that is no longer functional in primates.
+
+Naidu S(1), Peterson ML, Spear BT.
+
+Author information: 
+(1)Department of Microbiology, Immunology & Molecular Genetics, University of
+Kentucky College of Medicine, 800 Lexington, KY 40536-0298, USA.
+
+The serum albumin gene family is comprised of albumin, alpha-fetoprotein,
+alpha-albumin (afamin), and the more distantly related Vitamin D binding protein.
+These genes arose from a common ancestor through a series of duplication events, 
+are expressed primarily in the liver and tightly linked in all species where this
+has been investigated. Here, we describe a fifth member of the albumin gene
+family that we have named Alpha-fetoprotein Related Gene (ARG) since it exhibits 
+greatest similarity to this family member. ARG is activated in the liver
+perinatally, but is expressed at very low levels. The ARG gene is present and
+intact in the mouse, rat, dog and horse genomes. In contrast, the ARG gene in
+human, chimpanzee, rhesus monkey, and marmoset contains a number of mutations
+common to all four species, indicating that this gene has been an inactive
+pseudogene in primates for at least 40 million years. Low expression and aberrant
+splicing of the ARG gene in the mouse liver suggests that ARG may have less
+functional significance than other members of the serum albumin gene family even 
+in species where it is still intact.
+
+DOI: 10.1016/j.gene.2009.08.014 
+PMCID: PMC2799041
+PMID: 19733224  [Indexed for MEDLINE]
+

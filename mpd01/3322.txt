@@ -1,0 +1,68 @@
+
+
+3322. Exp Toxicol Pathol. 2000 Mar;52(1):3-10.
+
+Inducible nitric oxide synthase (iNOS) expression in liver and splenic T
+lymphocyte rise are associated with liver histological damage during experimental
+hepatitis A virus (HAV) infection in Callithrix jacchus.
+
+Pinto MA(1), Marchevsky RS, Pelajo-Machado M, Santiago MA, Pissurno JW, França
+MS, Baptista ML, Gouvea AS, Santana AA, Bertho AL, Schatzmayr HG, Gaspar AM,
+Kubelka CF.
+
+Author information: 
+(1)Department of Virology, IOC/FIOCRUZ, Rio de Janeiro, Brazil.
+marcelo@gene.dbbm.fiocruz.br
+
+Callithrix jacchus is considered a reliable animal model for hepatitis A virus
+(HAV) infection. All three HAV orally inoculated marmosets developed hepatitis - 
+the infection was monitored by continuous virus shedding, high levels of serum
+enzyme alanine aminotransferase, specific antibody and seroconversion 3-6 weeks
+after HAV inoculation. HAV antigen was detected in liver by immunofluorescence 4 
+days post inoculation (PI) and onwards. To gain insight into the biological role 
+of inducible nitric oxide synthase (iNOS) during immune-related acute liver
+injury the enzyme was searched in frozen biopsies: immunofluorescent labeling was
+found in the cytoplasm of liver cells mainly Kupffer's cells and spleen
+macrophages (CD68+) starting 11 days PI with maximum intensity on the fifth to
+sixth week PI. Necroinflammatory liver lesions characteristic of viral hepatitis 
+were also observed at 10 days PI with maximum severity at 4 to 6 weeks PI.
+Furthermore, T lymphocytes (CD2+) were raised at this time point. No difference
+was evident in the frequency of B lymphocytes (CD20+). Therefore, iNOS expression
+preceded necroinflammatory liver lesion and maximal immunofluorescence reaction
+was coincident with tissue injury, supporting the hypothesis that NO contributes 
+to hepatic cytotoxic mechanism but also to virus clearance. The concomitant rise 
+in T-lymphocyte population may suggest a role for these cells in this and/or
+other independent HAV-induced pathological changes.
+
+DOI: 10.1016/S0940-2993(00)80006-8 
+PMID: 10779146  [Indexed for MEDLINE]
+
+
+3323. J Chromatogr B Biomed Sci Appl. 2000 Jan 28;738(1):129-36.
+
+Automated quantitative determination of the new renin inhibitor CGP 60536 by
+high-performance liquid chromatography.
+
+Lefèvre G(1), Gauron S.
+
+Author information: 
+(1)Novartis Pharma AG, Basle, Switzerland. gilbert.lefevre@pharma.novartis.com
+
+A fully automated high-performance liquid chromatography method with fluorescence
+detection for the determination of the renin inhibitor CGP 60536 in animal and
+human plasma and urine has been developed and validated. After addition of an
+internal standard, the compounds were automatically extracted from 400 microl of 
+plasma or urine with methyl alcohol-acetic acid (99:1, v/v) on 100-mg Bond-Elut
+CN cartridges using the Gilson ASPEC system. The on-line chromatographic
+separation was performed on a LiChrospher 100 RP8 5-microm particle size packed
+analytical column (25x0.4 cm I.D.). The mobile phase consisted of
+acetonitrile-0.01 M potassium dihydrogenphosphate (65:35, v/v) at a flow-rate of 
+0.8 ml/min. The analytes were detected using a fluorescence detector at
+excitation and emission wavelengths of 280 and 330 nm, respectively. The limit of
+quantitation was established at 4.5 ng/ml in plasma (accuracy 106% and precision 
+1%), and 9.0 ng/ml in urine (accuracy 101% and precision 13%). The method was
+applied to the investigation of the pharmacokinetics of CGP 60536.
+
+DOI: 10.1016/s0378-4347(99)00509-5 
+PMID: 10778934  [Indexed for MEDLINE]
+

@@ -1,0 +1,31 @@
+
+
+4083. J Neurochem. 1993 Sep;61(3):804-11.
+
+Antibodies raised against synthetic peptides react with choline acetyltransferase
+in various immunoassays and in immunohistochemistry.
+
+Benecke S(1), Ostermann-Latif C, Mäder M, Schmidt B, Unger JW, Westarp ME,
+Felgenhauer K.
+
+Author information: 
+(1)Neurologische Klinik, Universität Göttingen, F.R.G.
+
+Antisera were raised in rabbits against five synthetic peptides. These peptides
+have been identified as potentially antigenic epitopes from the sequence of
+porcine choline acetyltransferase (ChAT) using primary and secondary structure
+analysis. All five antisera recognized immunoaffinity-purified antigen from
+porcine brain in an ELISA and on western blots. Four antisera recognized ChAT on 
+dot blots, and another four antisera reacted with native and degraded enzyme in a
+sandwich ELISA using monoclonal antibodies as the capture antibody. One peptide
+antiserum was of similar avidity in this sandwich ELISA as a polyclonal antibody 
+raised against immunoaffinity-purified ChAT. The same antiserum reacted with the 
+enzyme from human placenta in an ELISA and on western and dot blots and
+recognized ChAT in rat, primate, and human neurons. Thus, a single peptide (amino
+acids 168-189) provides the means for easy, reliable, and reproducible generation
+of antibodies against ChAT suitable for replacing conventional polyclonal and
+monoclonal antibodies.
+
+DOI: 10.1111/j.1471-4159.1993.tb03590.x 
+PMID: 8360685  [Indexed for MEDLINE]
+

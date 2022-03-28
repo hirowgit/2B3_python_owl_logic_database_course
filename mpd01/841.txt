@@ -1,0 +1,99 @@
+
+
+841. Parasitol Res. 2017 Sep;116(9):2479-2488. doi: 10.1007/s00436-017-5552-5. Epub
+2017 Jul 13.
+
+Morphological, ultrastructural, and molecular characterization of intestinal
+tetratrichomonads isolated from non-human primates in southeastern Brazil.
+
+Dos Santos CS(1), de Jesus VLT(2), McIntosh D(3), Carreiro CC(4), Batista LCO(4),
+do Bomfim Lopes B(5), Neves DM(6), Lopes CWG(3).
+
+Author information: 
+(1)Programa de Pós-Graduação em Ciências Veterinárias, Anexo 1, Instituto de
+Veterinária (IV), Universidade Federal Rural do Rio de Janeiro (UFRRJ), BR-465 Km
+7, Seropédica, RJ, 23897-970, Brazil. carolinespitz@yahoo.com.br.
+(2)Departamento de Avaliação e Reprodução Animal, Instituto de Zootecnia, UFRRJ, 
+BR-465 Km 7, Seropédica, RJ, 23897-970, Brazil.
+(3)Departamento de Parasitologia Animal, IV, UFRRJ, BR-465 Km 7, Seropédica, RJ, 
+23897-970, Brazil.
+(4)Programa de Pós-Graduação em Ciências Veterinárias, Anexo 1, Instituto de
+Veterinária (IV), Universidade Federal Rural do Rio de Janeiro (UFRRJ), BR-465 Km
+7, Seropédica, RJ, 23897-970, Brazil.
+(5)Programa de Pós-Graduação em Ciência, Tecnologia e Inovação Agropecuária,
+Anexo 1, Instituto de Veterinária (IV), Universidade Federal Rural do Rio de
+Janeiro (UFRRJ), BR-465 Km 7, Seropédica, RJ, 23897-970, Brazil.
+(6)Horto Florestal Mário Xavier, Centro de Triagem de Animais Silvestres,
+Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais
+Renováveis/IBAMA/Ministério do Meio Ambiente e Recursos Renováveis, Seropédica,
+RJ, 23835-400, Brazil.
+
+Non-human primates are our closest relatives and represent an interesting model
+for comparative parasitological studies. However, research on this topic
+particularly in relation to intestinal parasites has been fragmentary and limited
+mainly to animals held in captivity. Thus, our knowledge of host-parasite
+relationships in this species-rich group of mammals could be considered
+rudimentary. The current study combined morphological, ultrastructural, and
+molecular analyses to characterize isolates of intestinal tetratrichomonads
+recovered from the feces of three species of South American, non-human primates. 
+Fecal samples were collected from 16 animals, representing 12 distinct species.
+Parabasalid-like organisms were evident in five samples (31%) of feces: two from 
+Alouatta sara, two from Callithrix penicillata, and one from Sapajus apella. The 
+five samples presented morphologies consistent with the description of
+Tetratrichomonas sp., with four anterior flagella of unequal length, a
+well-developed undulating membrane, and a long recurrent flagellum. Sequencing of
+the ITS1-5.8S rRNA-ITS2 region demonstrated that the isolates from A. sara, and
+C. penicillata were closely related and highly similar to isolates of
+Tetratrichomonas brumpti, recovered previously from tortoises (Geochelone sp.).
+The flagellate recovered from S. apella demonstrated a similar morphology to
+those of the other isolates, however, sequence analysis showed it to be identical
+to an isolate of Tetratrichomonas sp. recovered from white-lipped peccaries
+(Tayassu pecari). The findings of this study extend and enhance our knowledge of 
+parasitism of non-human primates by members of the genus Tetratrichomonas and
+indicate that the host range of these parasites is broader than previously
+believed.
+
+DOI: 10.1007/s00436-017-5552-5 
+PMID: 28702802  [Indexed for MEDLINE]
+
+
+842. J Neurophysiol. 2017 Oct 1;118(4):2024-2033. doi: 10.1152/jn.00670.2016. Epub
+2017 Jul 12.
+
+Decoding sound level in the marmoset primary auditory cortex.
+
+Sun W(1), Marongelli EN(1), Watkins PV(1), Barbour DL(2).
+
+Author information: 
+(1)Department of Biomedical Engineering, Washington University in St. Louis, St. 
+Louis, Missouri.
+(2)Department of Biomedical Engineering, Washington University in St. Louis, St. 
+Louis, Missouri dbarbour@wustl.edu.
+
+Neurons that respond favorably to a particular sound level have been observed
+throughout the central auditory system, becoming steadily more common at higher
+processing areas. One theory about the role of these level-tuned or nonmonotonic 
+neurons is the level-invariant encoding of sounds. To investigate this theory, we
+simulated various subpopulations of neurons by drawing from real primary auditory
+cortex (A1) neuron responses and surveyed their performance in forming different 
+sound level representations. Pure nonmonotonic subpopulations did not provide the
+best level-invariant decoding; instead, mixtures of monotonic and nonmonotonic
+neurons provided the most accurate decoding. For level-fidelity decoding, the
+inclusion of nonmonotonic neurons slightly improved or did not change decoding
+accuracy until they constituted a high proportion. These results indicate that
+nonmonotonic neurons fill an encoding role complementary to, rather than
+alternate to, monotonic neurons.NEW & NOTEWORTHY Neurons with nonmonotonic
+rate-level functions are unique to the central auditory system. These level-tuned
+neurons have been proposed to account for invariant sound perception across sound
+levels. Through systematic simulations based on real neuron responses, this study
+shows that neuron populations perform sound encoding optimally when containing
+both monotonic and nonmonotonic neurons. The results indicate that instead of
+working independently, nonmonotonic neurons complement the function of monotonic 
+neurons in different sound-encoding contexts.
+
+Copyright © 2017 the American Physiological Society.
+
+DOI: 10.1152/jn.00670.2016 
+PMCID: PMC5626894
+PMID: 28701545  [Indexed for MEDLINE]
+

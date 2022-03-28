@@ -1,0 +1,33 @@
+
+
+1508. Mol Biol Rep. 2013 Dec;40(12):6747-55. doi: 10.1007/s11033-013-2791-0. Epub 2013 
+Sep 26.
+
+Selection of suitable reference genes for mRNA quantification studies using
+common marmoset tissues.
+
+Shimamoto Y(1), Kitamura H, Niimi K, Yoshikawa Y, Hoshi F, Ishizuka M, Takahashi 
+E.
+
+Author information: 
+(1)Department of Veterinary Teaching Hospital, School of Veterinary Medicine,
+Kitasato University, Towada, Aomori, 034-8628, Japan.
+
+The common marmoset (Callithrix jacchus) is increasingly being used as a
+non-human primate animal model in biomedical research. To perform accurate
+quantitative analysis of gene expression by quantitative reverse transcription
+polymerase chain reaction, reliable reference genes should be selected. In this
+study, we evaluated the expressions of 11 widely used reference genes: ACTB,
+ATP5F1, B2M, GAPDH, HPRT1, PGK1, PPIA, RN18S1, RPLP0, TBP and UBC in 12 tissues
+and five brain areas of healthy common marmosets. NormFinder and geNorm indicated
+that the most suitable reference genes for cross-sectional studies of the 17
+tissues were RN18S1 and RPLP0. Conversely, ACTB and PPIA were the most suitable
+for analyzing brain samples; however, the expression of PGK1 fluctuated among
+brain areas. These results indicate that suitable reference genes differ between 
+the tissues examined. This study provides fundamental information for gene
+expression studies of the common marmoset and highlights the importance of
+validating reference genes before quantification of target mRNAs.
+
+DOI: 10.1007/s11033-013-2791-0 
+PMID: 24068436  [Indexed for MEDLINE]
+

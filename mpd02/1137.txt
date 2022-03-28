@@ -1,0 +1,48 @@
+
+
+1137. J Comp Neurol. 2016 Jun 15;524(9):1839-58. doi: 10.1002/cne.23925. Epub 2015 Nov 
+24.
+
+Connectivity between the OFF bipolar type DB3a and six types of ganglion cell in 
+the marmoset retina.
+
+Masri RA(1), Percival KA(1), Koizumi A(2), Martin PR(1)(3)(4), Grünert
+U(1)(3)(4).
+
+Author information: 
+(1)Department of Ophthalmology and Save Sight Institute, The University of
+Sydney, Sydney, New South Wales, 2000, Australia.
+(2)National Institutes of Natural Sciences, Tokyo, Japan.
+(3)Australian Research Council Centre of Excellence for Integrative Brain
+Function, The University of Sydney, Sydney, New South Wales, 2000, Australia.
+(4)School of Medical Sciences, The University of Sydney, Sydney, New South Wales,
+2000, Australia.
+
+Erratum in
+    J Comp Neurol. 2017 Mar 1;525(4):1055.
+
+Parallel visual pathways originate at the first synapse in the retina, where
+cones make connections with cone bipolar cells that in turn contact ganglion
+cells. There are more ganglion cell types than bipolar types, suggesting that
+there must be divergence from bipolar to ganglion cells. Here we analyze the
+contacts between an OFF bipolar type (DB3a) and six ganglion cell types in the
+retina of the marmoset monkey (Callithrix jacchus). Ganglion cells were
+transfected via particle-mediated gene transfer of an expression plasmid for the 
+postsynaptic density 95-green fluorescent protein (PSD95-GFP), and DB3a cells
+were labeled via immunohistochemistry. Ganglion cell types that fully or
+partially costratified with DB3a cells included OFF parasol, OFF midget, broad
+thorny, recursive bistratified, small bistratified, and large bistratified cells.
+On average, the number of DB3a contacts to parasol cells (18 contacts per axon
+terminal) is higher than that to other ganglion cell types (between four and
+seven contacts). We estimate that the DB3a output to OFF parasol cells accounts
+for at least 30% of the total DB3a output. Furthermore, we found that OFF parasol
+cells receive approximately 20% of their total bipolar input from DB3a cells,
+suggesting that other diffuse bipolar types also provide input to OFF parasol
+cells. We conclude that DB3a cells preferentially contact OFF parasol cells but
+also provide input to other ganglion cell types.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/cne.23925 
+PMID: 26559914  [Indexed for MEDLINE]
+

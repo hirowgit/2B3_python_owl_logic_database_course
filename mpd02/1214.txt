@@ -1,0 +1,44 @@
+
+
+1214. Growth Horm IGF Res. 2015 Aug;25(4):158-67. doi: 10.1016/j.ghir.2015.06.004. Epub
+2015 Jun 6.
+
+Coevolution of insulin-like growth factors, insulin and their receptors and
+binding proteins in New World Monkeys.
+
+Wallis M(1).
+
+Author information: 
+(1)Biochemistry and Biomedicine Group, School of Life Sciences, University of
+Sussex, Falmer, Brighton BN1 9QG, UK. Electronic address: M.Wallis@sussex.ac.uk.
+
+Previous work has shown that the evolution of both insulin-like growth factor 1
+(IGF1) and insulin shows an episode of accelerated change on the branch leading
+to New World Monkeys (NWM). Here the possibility that this is accompanied by a
+corresponding episode of accelerated evolution of IGF1 receptor (IGF1R), insulin 
+receptor (IR) and/or IGF binding proteins (IGFBPs) was investigated. Analysis of 
+receptor sequences from a range of primates and some non-primate mammals showed
+that accelerated evolution did indeed occur on this branch in the case of IGF1R
+and IR, but not for the similar insulin receptor-related receptor (IRRR) which
+does not bind insulin or IGF1. Marked accelerated evolution on this branch was
+also seen for some IGFBPs, but not the mannose 6-phosphate/IGF2 receptor or
+epidermal growth factor receptor. The rate of evolution slowed before divergence 
+of the lineages leading to the NWM for which sequences are available (Callithrix 
+and Saimiri). For the IGF1R and IR, the accelerated evolution was most marked for
+the extracellular domains (ectodomains). Application of the branch-site method
+showed dN/dS ratios significantly greater than 1.0 for both receptor ectodomains 
+and for IGFBP1, and allowed identification of residues likely to have been
+subject to selection. These residues were concentrated in the N-terminal half of 
+the IGF1R ectodomain but the C-terminal half of the IR ectodomain, which could
+have implications for the formation of hybrid receptors. Overall the results
+suggest that adaptive coevolution of IGF1, insulin and their receptors and some
+IGFBPs occurred during the evolution of NWM. For the most part, the residues that
+change on this branch could not be associated with specific functional aspects
+(ligand binding, receptor dimerization, glycosylation) and the physiological
+significance of this coevolution remains to be established.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ghir.2015.06.004 
+PMID: 26072449  [Indexed for MEDLINE]
+

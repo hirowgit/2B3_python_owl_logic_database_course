@@ -1,0 +1,31 @@
+
+
+1960. J Med Chem. 2010 Nov 25;53(22):8104-15. doi: 10.1021/jm100971t. Epub 2010 Oct 25.
+
+In vivo characterization of a dual adenosine A2A/A1 receptor antagonist in animal
+models of Parkinson's disease.
+
+Shook BC(1), Rassnick S, Osborne MC, Davis S, Westover L, Boulet J, Hall D,
+Rupert KC, Heintzelman GR, Hansen K, Chakravarty D, Bullington JL, Russell R,
+Branum S, Wells KM, Damon S, Youells S, Li X, Beauchamp DA, Palmer D, Reyes M,
+Demarest K, Tang Y, Rhodes K, Jackson PF.
+
+Author information: 
+(1)Johnson & Johnson Pharmaceutical Research and Development, L.L.C., Welsh and
+McKean Roads, P.O. Box 776, Spring House, Pennsylvania 19477, USA.
+bshook@its.jnj.com
+
+The in vivo characterization of a dual adenosine A(2A)/A(1) receptor antagonist
+in several animal models of Parkinson's disease is described. Discovery and
+scale-up syntheses of compound 1 are described in detail, highlighting
+optimization steps that increased the overall yield of 1 from 10.0% to 30.5%.
+Compound 1 is a potent A(2A)/A(1) receptor antagonist in vitro (A(2A) K(i) = 4.1 
+nM; A(1) K(i) = 17.0 nM) that has excellent activity, after oral administration, 
+across a number of animal models of Parkinson's disease including mouse and rat
+models of haloperidol-induced catalepsy, mouse model of reserpine-induced
+akinesia, rat 6-hydroxydopamine (6-OHDA) lesion model of drug-induced rotation,
+and MPTP-treated non-human primate model.
+
+DOI: 10.1021/jm100971t 
+PMID: 20973483  [Indexed for MEDLINE]
+

@@ -1,0 +1,42 @@
+
+
+2483. ChemMedChem. 2006 Nov;1(11):1237-48.
+
+Protein-structure-based prediction of animal model suitability for
+pharmacodynamic studies of subtype-selective estrogens.
+
+Toschi L(1), Hilbig J, Wintermantel T, Engelhaupt A, Walter A, Fritzemeier KH,
+Hillisch A.
+
+Author information: 
+(1)Department of Genomics and Bioinformatics, Schering AG, Müllerstrasse 170-178,
+13342 Berlin, Germany. luisella.toschi@schering.de
+
+Subtype-selective estrogens are of increasing importance as tools used to unravel
+physiological roles of the estrogen receptors, ERalpha and ERbeta, in various
+species. Although human ERalpha and ERbeta differ by only two amino acids within 
+the binding pockets, we and others recently succeeded in generating
+subtype-selective agonists. We have proposed that the selectivity of the
+steroidal compounds 16alpha-lactone-estradiol (16alpha-LE(2), hERalpha selective)
+and 8beta-vinyl-estradiol (8beta-VE(2), hERbeta selective) is based on the
+interaction of certain substituents of these compounds with essentially one amino
+acid in the respective ER binding pockets. For in vitro and ex vivo
+pharmacological experiments with these compounds we intended to use bovine
+tissues available from slaughterhouses in larger quantities. Using homology
+modeling techniques we determined that the amino acid conferring high
+hERbeta-selectivity to 8beta-VE(2) is not exchanged between human and bovine
+ERalpha and bovine ERbeta. Thus, we predicted our steroidal hERbeta-selective
+compound to exhibit only weak agonistic activity at bERbeta and that bovine
+tissue is therefore not suited for investigation of ERbeta functions. The
+situation is presumably identical for pig, sheep, and the common marmoset,
+whereas rats, mice, and rhesus macaques are appropriate animal models to study
+pharmacological effects of 8beta-VE(2) in vivo. This prediction was confirmed in 
+transactivation studies assessing estradiol (E(2)) and the two subtype-selective 
+ligands on bovine ERbeta and on a series of hERalpha and hERbeta with mutations
+in their respective ligand-binding pockets. We have shown that the detailed
+understanding of the interactions of a compound with its target protein enables
+the identification of relevant species for pharmacological studies.
+
+DOI: 10.1002/cmdc.200600183 
+PMID: 17001712  [Indexed for MEDLINE]
+

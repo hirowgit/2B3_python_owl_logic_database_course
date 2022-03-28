@@ -1,0 +1,49 @@
+
+
+797. Mol Phylogenet Evol. 2018 Jan;118:156-171. doi: 10.1016/j.ympev.2017.10.002. Epub
+2017 Oct 6.
+
+Phenotypic evolution in marmoset and tamarin monkeys (Cebidae, Callitrichinae)
+and a revised genus-level classification.
+
+Garbino GST(1), Martins-Junior AMG(2).
+
+Author information: 
+(1)PPG-Zoologia, Departamento de Zoologia, Instituto de Ciências Biológicas,
+Universidade Federal de Minas Gerais, Belo Horizonte, Brazil. Electronic address:
+antonio_mgmartins@hotmail.com.
+(2)Laboratório de Genética e Evolução, Instituto Federal do Pará, Campus de
+Tucuruí, Brazil; Centro de Genômica e Biologia de Sistemas, Universidade Federal 
+do Pará, Belém, Brazil.
+
+Marmosets and tamarins (Cebidae, Callitrichinae) constitute the most species-rich
+subfamily of New World monkeys and one of the most diverse phenotypically.
+Despite the profusion of molecular phylogenies of the group, the evolution of
+phenotypic characters under the rapidly-emerging consensual phylogeny of the
+subfamily has been little studied, resulting in taxonomic proposals that have
+limited support from other datasets. We examined the evolution of 18 phenotypic
+traits (5 continuous and 13 discrete), including pelage, skull, dentition,
+postcrania, life-history and vocalization variables in a robust molecular
+phylogeny of marmoset and tamarin monkeys, quantifying their phylogenetic signal 
+and correlations among some of the traits. At the family level, our resulting
+topology supports owl monkeys (Aotinae) as sister group of Callitrichinae. The
+topology of the callitrichine tree was congruent with previous studies except for
+the position of the midas group of Saguinus tamarins, which placement as sister
+of the bicolor group did not receive significant statistical support in both
+Maximum Parsimony and Bayesian Inference analyses. Our results showed that the
+highest value of phylogenetic signal among continuous traits was displayed by the
+long call character and the lowest was exhibited in the home range, intermediate 
+values were found in characters related to osteology and skull size. Among
+discrete traits, pelage and osteology had similar phylogenetic signal. Based on
+genetic, osteological, pelage and vocalization data, we present an updated
+genus-level taxonomy of Callitrichinae, which recognizes six genera in the
+subfamily: Callimico, Callithrix, Cebuella, Mico, Leontopithecus and Saguinus. To
+reflect their phenotypic distinctiveness and to avoid the use of the informal
+"species group", we subdivided Saguinus in the subgenera Leontocebus, Saguinus
+and Tamarinus (revalidated here).
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ympev.2017.10.002 
+PMID: 28989098  [Indexed for MEDLINE]
+

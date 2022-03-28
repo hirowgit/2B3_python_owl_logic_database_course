@@ -1,0 +1,40 @@
+
+
+703. Front Behav Neurosci. 2018 Mar 16;12:46. doi: 10.3389/fnbeh.2018.00046.
+eCollection 2018.
+
+A Method to Train Marmosets in Visual Working Memory Task and Their Performance.
+
+Nakamura K(1), Koba R(1), Miwa M(1), Yamaguchi C(1), Suzuki H(1), Takemoto A(1).
+
+Author information: 
+(1)Cognitive Neuroscience Section, Primate Research Institute, Kyoto University, 
+Inuyama, Japan.
+
+Learning and memory processes are similarly organized in humans and monkeys;
+therefore, monkeys can be ideal models for analyzing human aging processes and
+neurodegenerative diseases such as Alzheimer's disease. With the development of
+novel gene modification methods, common marmosets (Callithrix jacchus) have been 
+suggested as an animal model for neurodegenerative diseases. Furthermore, the
+common marmoset's lifespan is relatively short, which makes it a practical animal
+model for aging. Working memory deficits are a prominent symptom of both dementia
+and aging, but no data are currently available for visual working memory in
+common marmosets. The delayed matching-to-sample task is a powerful tool for
+evaluating visual working memory in humans and monkeys; therefore, we developed a
+novel procedure for training common marmosets in such a task. Using visual
+discrimination and reversal tasks to direct the marmosets' attention to the
+physical properties of visual stimuli, we successfully trained 11 out of 13
+marmosets in the initial stage of the delayed matching-to-sample task and
+provided the first available data on visual working memory in common marmosets.
+We found that the marmosets required many trials to initially learn the task
+(median: 1316 trials), but once the task was learned, the animals needed fewer
+trials to learn the task with novel stimuli (476 trials or fewer, with the
+exception of one marmoset). The marmosets could retain visual information for up 
+to 16 s. Our novel training procedure could enable us to use the common marmoset 
+as a useful non-human primate model for studying visual working memory deficits
+in neurodegenerative diseases and aging.
+
+DOI: 10.3389/fnbeh.2018.00046 
+PMCID: PMC5864906
+PMID: 29615876 
+

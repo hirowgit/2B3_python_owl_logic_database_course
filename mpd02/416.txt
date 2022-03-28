@@ -1,0 +1,40 @@
+
+
+416. J Vis Exp. 2019 Sep 29;(151). doi: 10.3791/60240.
+
+Stereotaxic Surgery for Implantation of Microelectrode Arrays in the Common
+Marmoset (Callithrix jacchus).
+
+Budoff SA(#)(1), Rodrigues Neto JF(#)(2), Arboés V(2), Nascimento MSL(2), Kunicki
+CB(2), Araújo MFP(3).
+
+Author information: 
+(1)Edmond and Lily Safra International Institute of Neuroscience, Santos Dumont
+Institute; Neuroscience Program, University of Colorado Anschutz Medical Campus.
+(2)Edmond and Lily Safra International Institute of Neuroscience, Santos Dumont
+Institute.
+(3)Edmond and Lily Safra International Institute of Neuroscience, Santos Dumont
+Institute; Department of Physiological Sciences, Health Sciences Center, Federal 
+University of Espírito Santo; mfparaujo@gmail.com.
+(#)Contributed equally
+
+Marmosets (Callithrix jacchus) are small non-human primates that are gaining
+popularity in biomedical and preclinical research, including the neurosciences.
+Phylogenetically, these animals are much closer to humans than rodents. They also
+display complex behaviors, including a wide range of vocalizations and social
+interactions. Here, an effective stereotaxic neurosurgical procedure for
+implantation of recording electrode arrays in the common marmoset is described.
+This protocol also details the pre- and postoperative steps of animal care that
+are required to successfully perform such a surgery. Finally, this protocol shows
+an example of local field potential and spike activity recordings in a freely
+behaving marmoset 1 week after the surgical procedure. Overall, this method
+provides an opportunity to study the brain function in awake and freely behaving 
+marmosets. The same protocol can be readily used by researchers working with
+other small primates. In addition, it can be easily modified to allow other
+studies requiring implants, such as stimulating electrodes, microinjections,
+implantation of optrodes or guide cannulas, or ablation of discrete tissue
+regions.
+
+DOI: 10.3791/60240 
+PMID: 31609344  [Indexed for MEDLINE]
+

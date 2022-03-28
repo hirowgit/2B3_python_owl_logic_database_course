@@ -1,0 +1,40 @@
+
+
+1897. J Comp Neurol. 2011 Jun 15;519(9):1816-27. doi: 10.1002/cne.22605.
+
+Distribution, level, pharmacology, regulation, and signaling of 5-HT6 receptors
+in rats and marmosets with special reference to an experimental model of
+parkinsonism.
+
+Zhang X(1), Andren PE, Glennon RA, Svenningsson P.
+
+Author information: 
+(1)Translational Neuropharmacology, Department of Clinical Neuroscience, Center
+for Molecular Medicine, Karolinska Institute, 171 76 Stockholm, Sweden.
+
+Serotonin 5-HT(6) receptors have been implicated in the regulation of cognition, 
+locomotion, and mood, but the elucidation of their functions is complicated by
+conflicting data using various animal models. Here, a systematic evaluation
+showed that autoradiographic binding with the selective 5-HT(6) receptor
+antagonist [(125) I]SB-258585 was similar in marmosets and rats. In both species,
+[(125) I]SB-258585 binding was enriched in the caudate-putamen. Various recently 
+developed agonists and antagonists toward 5-HT(6) receptors exhibited
+similarities in their abilities to displace [(125) I]SB-258585 binding in
+marmosets and rats. The rank order of pEC50 values were as follows: (+)EMDT-CR = 
+EMD386088>MS-245 = 5-HT>EMDT>>(-)EMDT-CR; and (+)EMDT-CR = EMD386088>5-HT =
+MS-245 = EMDT>>(-)EMDT-CR, in marmosets and rats, respectively. Unilateral
+6-hydroxydopamine lesioning of dopaminergic axons caused a significant decrease
+of [(125) I]SB-258585 binding in the caudate-putamen of both marmosets and rats. 
+Nonetheless, acute administration of the 5-HT(6) receptor agonist EMDT to
+unilaterally 6-hydroxydopamine-lesioned rats, caused an induction of egr-1,
+homer, and enkephalin mRNAs in the dopamine-depleted hemisphere, indicating a
+supersensitization of 5-HT(6) receptors following dopamine depletion. In
+conclusion, this study provides evidence for significant similarities in the
+distribution, level, pharmacology, and regulation of 5-HT(6) receptors between
+rats and marmosets.
+
+Copyright © 2011 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.22605 
+PMID: 21452237  [Indexed for MEDLINE]
+

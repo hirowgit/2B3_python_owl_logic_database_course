@@ -1,0 +1,78 @@
+
+
+2812. Exp Neurol. 2004 Jul;188(1):128-38.
+
+Selective blockade of D(3) dopamine receptors enhances the anti-parkinsonian
+properties of ropinirole and levodopa in the MPTP-lesioned primate.
+
+Silverdale MA(1), Nicholson SL, Ravenscroft P, Crossman AR, Millan MJ, Brotchie
+JM.
+
+Author information: 
+(1)Manchester Movement Disorder Laboratory, School of Biological Sciences,
+University of Manchester, Oxford Road, Manchester M13 9PT, UK.
+
+To date, the lack of highly selective antagonists at the dopamine D(3) receptor
+has hampered clarification of their involvement in the actions of currently used 
+therapies in Parkinson's disease. However, the novel benzopyranopyrrole, S33084, 
+displays greater than 100-fold selectivity as an antagonist for D(3) versus D(2) 
+receptors and all other sites tested. S33084 was administered to
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned marmosets previously
+primed with levodopa to elicit dyskinesia. Administered alone, S33084 exerted a
+modest, but significant, anti-parkinsonian effect without provoking dyskinesia.
+At low D(3)-selective doses (0.16 and 0.64 mg/kg), S33084 potentiated, though to 
+different extents and in qualitatively different ways, the anti-parkinsonian
+actions of both ropinirole and levodopa. At these doses, S33084 did not
+significantly modify levodopa-induced or ropinirole-induced dyskinesia. These
+data suggest that ropinirole and levodopa do not exert their anti-parkinsonian or
+pro-dyskinetic actions via D(3) receptor stimulation. Indeed, stimulation of D(3)
+receptors may be detrimental to the anti-parkinsonian properties of D(2)/D(3)
+agonists. Selectivity for stimulation of D(2), over D(3), receptors may therefore
+be a beneficial property of dopamine receptor agonists in management of motor
+symptoms of Parkinson's disease patients with established dyskinesia.
+
+DOI: 10.1016/j.expneurol.2004.03.022 
+PMID: 15191809  [Indexed for MEDLINE]
+
+
+2813. Biochem Pharmacol. 2004 Jul 1;68(1):165-75.
+
+Cloning and functional expression of a novel marmoset cytochrome P450 2D enzyme, 
+CYP2D30: comparison with the known marmoset CYP2D19.
+
+Hichiya H(1), Kuramoto S, Yamamoto S, Shinoda S, Hanioka N, Narimatsu S, Asaoka
+K, Miyata A, Iwata S, Nomoto M, Satoh T, Kiryu K, Ueda N, Naito S, Tucker GT,
+Ellis SW.
+
+Author information: 
+(1)Laboratory of Health Chemistry, Faculty of Pharmaceutical Sciences, Okayama
+University, 1-1-1 Tsushima-naka, Okayama 700-8530, Japan.
+
+Using a primer set designed on the cDNA encoding the known marmoset cytochrome
+P450 2D19 (CYP2D19), a cDNA encoding a novel CYP2D enzyme (CYP2D30) was cloned
+from the liver of a female marmoset bred at Kyoto University (KYU). In addition, 
+a cDNA encoding CYP2D19 was cloned from the liver of a female marmoset bred at
+Kagoshima University (KAU). CYP2D30 and CYP2D19 showed homologies of 93.6 and
+93.4% in their nucleotide and amino acid sequences, respectively. Reverse
+transcription polymerase chain reaction (RT-PCR) and digestion with NdeI
+demonstrated that the KYU-marmoset liver contained mainly mRNA for CYP2D30, while
+the KAU-marmoset liver contained mainly mRNA for CYP2D19. Marmoset CYP2D30, like 
+human CYP2D6, exhibited high debrisoquine (DB) 4-hydroxylase activity and
+relatively low DB 5-, 6-, 7- and 8-hydroxylase activities, whereas CYP2D19 lacked
+DB 4-hydroxylase but exhibited marked 5-, 6-, 7- and 8-hydroxylase activities.
+The two marmoset recombinant enzymes showed enantioselective bufuralol (BF)
+1"-hydroxylase activities, similar to CYP2D6. BF 1"-hydroxylation by CYP2D30
+exhibited product-enantioselectivity of (1"R-OH-BF << 1"S-OH-BF), similar to that
+observed with human CYP2D6, whereas CYP2D19 showed a reversed selectivity of
+(1"R-OH-BF > or = 1"S-OH-BF). BF 1"-hydroxylation in marmoset liver microsomes
+from both sources was inhibited by antibodies raised against rat CYP2D1 in a
+concentration-dependent manner. A known inhibitor of CYP2D6, quinidine,
+effectively inhibited the BF 1"-hydroxylation activities in liver microsomal
+fractions prepared from KYU- and KAU-marmosets. These results suggest that
+CYP2D19 and CYP2D30 proteins can be expressed as functional enzymes in marmoset
+livers, although it is unresolved whether both enzymes coexist in the same
+marmoset liver.
+
+DOI: 10.1016/j.bcp.2004.03.018 
+PMID: 15183128  [Indexed for MEDLINE]
+

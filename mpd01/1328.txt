@@ -1,0 +1,79 @@
+
+
+1328. Oncol Rep. 2015 Feb;33(2):958-66. doi: 10.3892/or.2014.3625. Epub 2014 Nov 25.
+
+The V-val subtype Epstein-Barr virus nuclear antigen 1 promotes cell survival
+after serum withdrawal.
+
+Chao M(1), Wang HN(1), Lu YJ(1), Chang YS(1), Yu JS(2).
+
+Author information: 
+(1)Division of Microbiology, Graduate Institute of Biomedical Sciences, Chang
+Gung University, Kwei-Shan, Tao-Yang 333, Taiwan R.O.C.
+(2)Molecular Medicine Research Center, College of Medicine, Chang Gung
+University, Kwei-Shan, Tao-Yang 333, Taiwan R.O.C.
+
+Epstein-Barr virus (EBV) can establish latent infection and has been associated
+with various human cancers. Epstein-Barr nuclear antigen 1 (EBNA1) is the only
+viral protein that is expressed in all EBV-associated malignant tissues. The N-
+and C-terminal domains of EBNA1, which are connected by internal
+glycine/alanine-rich short repeat sequences of various sizes, show sequence
+divergence across EBV strains isolated from around the world. At least five
+subtypes have been described, according to the amino acid at residue 487: P-ala, 
+P-thr, V-val, V-pro, and V-leu. Whether the variations of EBNA-1 contribute to
+the pathogenesis of EBV or simply reflect the geographical distribution of EBV
+remain to be investigated. Furthermore, the cell effects conferred by EBNA1
+subtypes that differ from that of the B95.8 prototype, which belongs to the P-ala
+subtype, remain to be elucidated. In this study, PCR was amplified with the
+full-length V-val EBNA1 gene from the CG3 cell line, an EBV-carrying
+lymphoblastoid cell line derived from a Taiwanese chronic myeloid leukemia
+patient. Plasmids expressing His-tagged EBNA1 fusion proteins in E. coli were
+constructed and used to raise antibodies in rabbit. The V-val EBNA1 gene was then
+cloned into a eukaryotic expression vector and successfully expressed in the
+transfected cultured cells. Expression of V-val EBNA1 rendered 293 cells able to 
+undergo serum‑independent cell proliferation, providing them with anti-apoptotic 
+abilities, which are two characteristics of cancer cells. These data suggested
+that use of EBNA1 originally derived from tumor cells, rather than the more
+commonly utilized prototype, when investigating the potential role of EBNA1 in
+the oncogenesis of EBV-associated malignancies, is crucial.
+
+DOI: 10.3892/or.2014.3625 
+PMID: 25434292  [Indexed for MEDLINE]
+
+
+1329. Neurosci Res. 2015 Apr;93:176-8. doi: 10.1016/j.neures.2014.10.019. Epub 2014 Nov
+26.
+
+On-going elucidation of mechanisms of primate specific synaptic spine development
+using the common marmoset (Callithrix jacchus).
+
+Ichinohe N(1).
+
+Author information: 
+(1)Laboratory for Ultrastructural Research, National Institute of Neuroscience,
+National Institute of Neurology and Psychiatry (NCNP), 4-1-1 Ogawa-Higashi,
+Kodaira, Tokyo 187-8502, Japan; Ichinohe Neural System Group, Lab for Molecular
+Analysis of Higher Cognitive Function, RIKEN Brain Science Institute, Hirosawa
+2-1, Wako, Saitama 351-0198, Japan. Electronic address: nichino@ncnp.go.jp.
+
+Recently, pathophysiology of human psychiatry originates from abnormal numbers of
+synapses/spines. There are generally two-types of development of spines from
+birth depending on species. One is, after birth, synaptogenesis occurs, and there
+is a clear peak of spines, and then rapidly pruning occurring, which are called
+"overshoot-type" of development of synapses/spines. Primates including human
+belong to this type. In other type including rodents, even after a peak, general 
+number of spines does not decrease so much. Although these differences, most of
+human psychiatric models have been genetic modified rodents. Now, transgenic
+primate (the common marmoset) became available. In near future, we can, examine
+pathophysiology of psychiatric disorders using this animal model, which is closer
+to human being. To begin with this endeavor, we should know how synapses/spines
+of normal marmosets developed, and molecular mechanisms of "overshoot-type" of
+spine development, which human being also shows. Here, we will present our recent
+effort to explore these questions, and future experiments will be discussed.
+
+Copyright © 2014 Elsevier Ireland Ltd and the Japan Neuroscience Society. All
+rights reserved.
+
+DOI: 10.1016/j.neures.2014.10.019 
+PMID: 25433092  [Indexed for MEDLINE]
+

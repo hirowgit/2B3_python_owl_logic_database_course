@@ -1,0 +1,44 @@
+
+
+427. RNA Biol. 2020 Jan;17(1):125-134. doi: 10.1080/15476286.2019.1670038. Epub 2019
+Sep 29.
+
+Functional heritage: the evolution of chimeric RNA into a gene.
+
+Wu H(1)(2), Singh S(2), Shi X(3), Xie Z(2), Lin E(2), Li X(1), Li H(2)(3).
+
+Author information: 
+(1)Department of Gastrointestinal Surgery, The Third Xiangya Hospital of Central 
+South University, Changsha, Hunan, China.
+(2)Department of Pathology, School of Medicine, University of Virginia,
+Charlottesville, VA, USA.
+(3)Department of Biochemistry and Molecular Genetics, School of Medicine,
+University of Virginia, Charlottesville, VA, USA.
+
+Once believed to be unique features of neoplasia, chimeric RNAs are now being
+discovered in normal physiology. We speculated that some chimeric RNAs may be
+functional precursors of genes, and that forming chimeric RNA at the
+transcriptional level may be a 'trial' mechanism before the functional element is
+fixed into the genome. Supporting this idea, we identified a chimeric RNA,
+HNRNPA1L2-SUGT1 (H-S), whose sequence is highly similar to that of a 'pseudogene'
+MRPS31P5. Sequence analysis revealed that MRPS31P5 transcript is more similar to 
+H-S chimeric RNA than its 'parent' gene, MRPS31. Evolutionarily, H-S precedes
+MRPS31P5, as it can be detected bioinformatically and experimentally in
+marmosets, which do not yet possess MRPS31P5 in their genome. Conversely, H-S is 
+minimally expressed in humans, while instead, MRPS31P5 is abundantly expressed.
+Silencing H-S in marmoset cells resulted in similar phenotype as silencing
+MRPS31P5 in human cells. In addition, whole transcriptome analysis and candidate 
+downstream target validation revealed common signalling pathways shared by the
+two transcripts. Interestingly, H-S failed to rescue the phenotype caused by
+silencing MPRS31P5 in human and rhesus cells, whereas MRPS31P5 can at least
+partially rescue the phenotype caused by silencing H-S in marmoset cells,
+suggesting that MRPS31P5 may have further evolved into a distinct entity. Thus,
+multiple lines of evidence support that MRPS31P5 is not truly a pseudogene of
+MRPS31, but a likely functional descendent of H-S chimera. Instead being a gene
+fusion product, H-S is a product of cis-splicing between adjacent genes, while
+MRPS31P5 is likely produced by genome rearrangement.
+
+DOI: 10.1080/15476286.2019.1670038 
+PMCID: PMC6948976
+PMID: 31566065  [Indexed for MEDLINE]
+

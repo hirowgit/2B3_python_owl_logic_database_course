@@ -1,0 +1,35 @@
+
+
+2499. J Clin Virol. 2006 Oct;37(2):98-103. Epub 2006 Aug 22.
+
+Hypoxia can contribute to the induction of the Epstein-Barr virus (EBV) lytic
+cycle.
+
+Jiang JH(1), Wang N, Li A, Liao WT, Pan ZG, Mai SJ, Li DJ, Zeng MS, Wen JM, Zeng 
+YX.
+
+Author information: 
+(1)Department of Pathology, The First Affiliated Hospital, Sun Yat-sen
+University, 651 Dong-Feng Road East, Guangzhou 510080, China.
+
+BACKGROUND: Like other herpes viruses, latent Epstein-Barr virus (EBV) infection 
+can be reactivated to lytic replication. Reactivation can be achieved by
+treatment with various reagents, including tetradecanoyl phorbol acetate (TPA)
+and Ca2+ ionophores. Relatively little is known about the physiological factors
+related to reactivation of EBV. Previous studies have demonstrated that G0/G1
+cell cycle arrest is associated with EBV activation, and that hypoxic conditions 
+can induce cell cycle arrest. In the present study we investigated the effect of 
+hypoxia on reactivation of EBV.
+OBJECTIVE AND METHODS: Hypoxic culture conditions were established and the
+expression of Zta protein and the number of EBV DNA copies were measured in B95-8
+cells maintained under these conditions.
+RESULTS: Hypoxia treatment not only increased the expression of the EBV
+immediate-early protein Zta (which mediates the switch between the latent and
+lytic form of infection), but also increased the number of EBV DNA copies in
+B95-8 cells.
+CONCLUSIONS: EBV in latent infection can be activated to lytic infection by
+hypoxia treatment.
+
+DOI: 10.1016/j.jcv.2006.06.013 
+PMID: 16931136  [Indexed for MEDLINE]
+

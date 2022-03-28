@@ -1,0 +1,94 @@
+
+
+554. Sci Rep. 2019 Feb 6;9(1):1528. doi: 10.1038/s41598-018-37990-w.
+
+Robust and efficient knock-in in embryonic stem cells and early-stage embryos of 
+the common marmoset using the CRISPR-Cas9 system.
+
+Yoshimatsu S(1)(2), Okahara J(3)(4), Sone T(1), Takeda Y(3), Nakamura M(1),
+Sasaki E(4), Kishi N(3), Shiozawa S(5)(6), Okano H(7)(8).
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, Shinjuku-ku,
+Tokyo, 160-8582, Japan.
+(2)Laboratory for Proteolytic Neuroscience, RIKEN Center for Brain Science, Wako 
+City, Saitama, 351-0198, Japan.
+(3)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako City, Saitama, 351-0198, Japan.
+(4)Central Institute for Experimental Animals, Kawasaki, Kanagawa, 210-0821,
+Japan.
+(5)Department of Physiology, School of Medicine, Keio University, Shinjuku-ku,
+Tokyo, 160-8582, Japan. shiozawa@a7.keio.jp.
+(6)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako City, Saitama, 351-0198, Japan. shiozawa@a7.keio.jp.
+(7)Department of Physiology, School of Medicine, Keio University, Shinjuku-ku,
+Tokyo, 160-8582, Japan. hidokano@a2.keio.jp.
+(8)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako City, Saitama, 351-0198, Japan. hidokano@a2.keio.jp.
+
+Genome editing technology greatly facilitates the genetic modification of various
+cells and animals. The common marmoset (Callithrix jacchus), a small non-human
+primate which exhibits high reproductive efficiency, is a widely used animal
+model in biomedical research. Developing genome editing techniques in the common 
+marmoset will further enhance its utility. Here, we report the successful
+establishment of a knock-in (KI) method for marmoset embryonic stem cells (ESCs),
+which is based on the CRISPR-Cas9 system. The use of CRISPR-Cas9, mediated by
+homologous recombination (HR), enhanced the KI efficiency in marmoset ESCs.
+Furthermore, we succeeded in performing KI in early-stage marmoset embryos. In
+the course of the experiments, we found that HR in the marmoset ESCs is innately 
+highly efficient. This suggested that the marmoset possesses a repair mechanism
+for DNA double-strand breaks. The current study will facilitate the generation of
+genetically modified marmosets and gene function analysis in the marmoset.
+
+DOI: 10.1038/s41598-018-37990-w 
+PMCID: PMC6365532
+PMID: 30728412  [Indexed for MEDLINE]
+
+
+555. Magn Reson Med Sci. 2019 Oct 15;18(4):253-259. doi: 10.2463/mrms.mp.2018-0086.
+Epub 2019 Feb 7.
+
+MR Imaging Properties of ex vivo Common Marmoset Brain after Formaldehyde
+Fixation.
+
+Haga Y(1)(2)(3), Hata J(2)(3)(4), Uematsu A(2)(3)(4), Seki F(2)(3)(4), Komaki
+Y(2)(4), Mizumura M(1)(3), Nishio M(1)(4), Kaneko T(2)(3), Kishi N(2)(3), Okano
+H(2)(3), Furukawa A(1).
+
+Author information: 
+(1)Department of Radiological Sciences, Human Health Sciences, Tokyo Metropolitan
+University Graduate School.
+(2)Department of Physiology, Keio University School of Medicine.
+(3)Laboratory for Marmoset Neural Architecture, Center for Brain Science, RIKEN.
+(4)Live Imaging Center, Central Institute for Experimental Animals.
+
+PURPOSE: Ex vivo brains have different MRI properties than in vivo brains because
+of chemical changes caused by fixative solutions, which change the signal
+intensity and/or tissue contrast on MR images. In this study, we investigated and
+compared the MRI properties of in vivo and ex vivo brains.
+METHODS: Using a Bruker 9.4T experimental scanner unit for animals (Biospin GmbH,
+Ettlingen, Germany), we performed this study on the common marmoset. We measured 
+the relaxation and diffusion values in the white matter and cortex of common
+marmosets and compared these values between in vivo brains (n = 20) and ex vivo
+brains (n = 20). Additionally, we observed the relationship between the tissue
+fixation duration and MRI properties by imaging a brain that underwent long-term 
+fixation in a preliminary examination (n = 1).
+RESULTS: The T1 values of ex vivo brains were decreased compared with those of in
+vivo brains; however, there were no significant difference in the T2 and T2*
+values of in vivo and ex vivo brains. Axial, radial, and mean diffusivity values 
+of ex vivo brains decreased to approximately 65% and 52% of those of in vivo
+brains in the cortex and white matter, respectively. Conversely, fractional
+anisotropy values were not significantly different between in vivo and ex vivo
+brains.
+CONCLUSION: The T1 values and diffusion coefficient values of the ex vivo brains 
+were strikingly different than those of the in vivo brains. Conversely, there
+were no significant changes in the T2, T2* or fractional anisotropy values.
+Altogether, the dehydration caused by tissue fixation and the reduction in brain 
+temperature were involved in changing the relaxation and diffusion coefficient
+values. Here, it was difficult to specify all factors causing these changes.
+Further detailed study is needed to examine changes in MRI properties.
+
+DOI: 10.2463/mrms.mp.2018-0086 
+PMCID: PMC6883083
+PMID: 30726800  [Indexed for MEDLINE]
+

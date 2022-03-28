@@ -1,0 +1,70 @@
+
+
+1514. Redox Biol. 2013 Jul 18;1:387-93. doi: 10.1016/j.redox.2013.06.003. eCollection
+2013.
+
+Characterization of plasma thiol redox potential in a common marmoset model of
+aging.
+
+Roede JR(1), Uppal K, Liang Y, Promislow DE, Wachtman LM, Jones DP.
+
+Author information: 
+(1)Department of Medicine, Division of Pulmonary, Allergy and Critical Care
+Medicine, Emory University, Atlanta, GA, USA.
+
+Due to its short lifespan, ease of use and age-related pathologies that mirror
+those observed in humans, the common marmoset (Callithrix jacchus) is poised to
+become a standard nonhuman primate model of aging. Blood and extracellular fluid 
+possess two major thiol-dependent redox nodes involving cysteine (Cys), cystine
+(CySS), glutathione (GSH) and glutathione disulfide (GSSG). Alteration in these
+plasma redox nodes significantly affects cellular physiology, and oxidation of
+the plasma Cys/CySS redox potential (E hCySS) is associated with aging and
+disease risk in humans. The purpose of this study was to determine age-related
+changes in plasma redox metabolites and corresponding redox potentials (E h) to
+further validate the marmoset as a nonhuman primate model of aging. We measured
+plasma thiol redox states in marmosets and used existing human data with
+multivariate adaptive regression splines (MARS) to model the relationships
+between age and redox metabolites. A classification accuracy of 70.2% and an AUC 
+of 0.703 were achieved using the MARS model built from the marmoset redox data to
+classify the human samples as young or old. These results show that common
+marmosets provide a useful model for thiol redox biology of aging.
+
+DOI: 10.1016/j.redox.2013.06.003 
+PMCID: PMC3757708
+PMID: 24024176  [Indexed for MEDLINE]
+
+
+1515. Sci Rep. 2013;3:2630. doi: 10.1038/srep02630.
+
+A cross-species socio-emotional behaviour development revealed by a multivariate 
+analysis.
+
+Koshiba M(1), Senoo A, Mimura K, Shirakawa Y, Karino G, Obara S, Ozawa S,
+Sekihara H, Fukushima Y, Ueda T, Kishino H, Tanaka T, Ishibashi H, Yamanouchi H, 
+Yui K, Nakamura S.
+
+Author information: 
+(1)1] Tokyo University of Agriculture and Technology, Tokyo, Japan [2] National
+Institute of Neuroscience, NCNP, Tokyo, Japan [3] Saitama Medical University,
+Saitama, Japan.
+
+Recent progress in affective neuroscience and social neurobiology has been
+propelled by neuro-imaging technology and epigenetic approach in neurobiology of 
+animal behaviour. However, quantitative measurements of socio-emotional
+development remains lacking, though sensory-motor development has been
+extensively studied in terms of digitised imaging analysis. Here, we developed a 
+method for socio-emotional behaviour measurement that is based on the video
+recordings under well-defined social context using animal models with variously
+social sensory interaction during development. The behaviour features digitized
+from the video recordings were visualised in a multivariate statistic space using
+principal component analysis. The clustering of the behaviour parameters
+suggested the existence of species- and stage-specific as well as cross-species
+behaviour modules. These modules were used to characterise the behaviour of
+children with or without autism spectrum disorders (ASDs). We found that
+socio-emotional behaviour is highly dependent on social context and the
+cross-species behaviour modules may predict neurobiological basis of ASDs.
+
+DOI: 10.1038/srep02630 
+PMCID: PMC6505395
+PMID: 24022241  [Indexed for MEDLINE]
+

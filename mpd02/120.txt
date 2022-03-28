@@ -1,0 +1,46 @@
+
+
+120. Commun Biol. 2021 Jun 15;4(1):739. doi: 10.1038/s42003-021-02256-1.
+
+Lévy walk dynamics explain gamma burst patterns in primate cerebral cortex.
+
+Liu Y(#)(1)(2), Long X(#)(1)(2), Martin PR(2)(3)(4), Solomon SG(5), Gong P(6)(7).
+
+Author information: 
+(1)School of Physics, University of Sydney, Sydney, NSW, Australia.
+(2)ARC Centre of Excellence for Integrative Brain Function, University of Sydney,
+Sydney, NSW, Australia.
+(3)Discipline of Physiology, University of Sydney, Sydney, NSW, Australia.
+(4)Save Sight Institute, University of Sydney, Sydney, NSW, Australia.
+(5)Department of Experimental Psychology, University College London, London, UK.
+(6)School of Physics, University of Sydney, Sydney, NSW, Australia.
+pulin.gong@sydney.edu.au.
+(7)ARC Centre of Excellence for Integrative Brain Function, University of Sydney,
+Sydney, NSW, Australia. pulin.gong@sydney.edu.au.
+(#)Contributed equally
+
+Lévy walks describe patterns of intermittent motion with variable step sizes. In 
+complex biological systems, Lévy walks (non-Brownian, superdiffusive random
+walks) are associated with behaviors such as search patterns of animals foraging 
+for food. Here we show that Lévy walks also describe patterns of oscillatory
+activity in primate cerebral cortex. We used a combination of empirical
+observation and modeling to investigate high-frequency (gamma band) local field
+potential activity in visual motion-processing cortical area MT of marmoset
+monkeys. We found that gamma activity is organized as localized burst patterns
+that propagate across the cortical surface with Lévy walk dynamics. Lévy walks
+are fundamentally different from either global synchronization, or regular
+propagating waves, because they include large steps that enable activity patterns
+to move rapidly over cortical modules. The presence of Lévy walk dynamics
+therefore represents a previously undiscovered mode of brain activity, and
+implies a novel way for the cortex to compute. We apply a biophysically realistic
+circuit model to explain that the Lévy walk dynamics arise from critical-state
+transitions between asynchronous and localized propagating wave states, and that 
+these dynamics yield optimal spatial sampling of the cortical sheet. We
+hypothesise that Lévy walk dynamics could help the cortex to efficiently process 
+variable inputs, and to find links in patterns of activity among sparsely spiking
+populations of neurons.
+
+DOI: 10.1038/s42003-021-02256-1 
+PMCID: PMC8206356
+PMID: 34131276  [Indexed for MEDLINE]
+

@@ -1,0 +1,50 @@
+
+
+636. Eur J Drug Metab Pharmacokinet. 2019 Apr;44(2):261-274. doi:
+10.1007/s13318-018-0516-4.
+
+Comparison of In Vitro Stereoselective Metabolism of Bupropion in Human, Monkey, 
+Rat, and Mouse Liver Microsomes.
+
+Bhattacharya C(1)(2), Kirby D(3), Van Stipdonk M(3), Stratford RE(4)(5)(6).
+
+Author information: 
+(1)Graduate School of Pharmaceutical Sciences, Duquesne University, 600 Forbes
+Avenue, Pittsburgh, PA, 15282, USA.
+(2)Department of Pharmacy Practice, Purdue University, Indianapolis, IN, 46202,
+USA.
+(3)Department of Chemistry and Biochemistry, Duquesne University, 600 Forbes
+Avenue, Pittsburgh, PA, 15282, USA.
+(4)Graduate School of Pharmaceutical Sciences, Duquesne University, 600 Forbes
+Avenue, Pittsburgh, PA, 15282, USA. robstrat@iu.edu.
+(5)Indiana University School of Medicine, Research II, Suite 480, 950 W. Walnut
+St, Indianapolis, IN, 46202-5188, USA. robstrat@iu.edu.
+(6)Division of Clinical Pharmacology, Department of Medicine, Indiana University 
+School of Medicine, Indianapolis, IN, 46202, USA. robstrat@iu.edu.
+
+BACKGROUND AND OBJECTIVES: Bupropion is an atypical antidepressant and smoking
+cessation aid associated with wide intersubject variability. This study compared 
+the formation kinetics of three phase I metabolites (hydroxybupropion,
+threohydrobupropion, and erythrohydrobupropion) in human, marmoset, rat, and
+mouse liver microsomes. The objective was to establish suitability and
+limitations  for subsequent use of nonclinical species to model bupropion central
+nervous system (CNS) disposition in humans.
+METHODS: Hepatic microsomal incubations were conducted separately for the R- and 
+S-bupropion enantiomers, and the formation of enantiomer-specific metabolites was
+determined using LC-MS/MS. Intrinsic formation clearance (CLint) of metabolites
+across the four species was determined from the formation rate versus substrate
+concentration relationship.
+RESULTS: The total clearance of S-bupropion was higher than that of R-bupropion
+in monkey and human liver microsomes. The contribution of hydroxybupropion to the
+total racemic bupropion clearance was 38%, 62%, 17%, and 96% in human, monkey,
+rat, and mouse, respectively.  In the same species order, threohydrobupropion
+contributed 53%, 23%, 17%, and 3%, and erythrohydrobupropion contributed 9%, 14%,
+66%, and 1.3%, respectively, to racemic bupropion clearance.
+CONCLUSION: The results demonstrate that phase I metabolism in monkeys best
+approximates that observed in humans, and support the preferred use of this
+species to investigate possible pharmacokinetic factors that influence the CNS
+disposition of bupropion and contribute to its high intersubject variability.
+
+DOI: 10.1007/s13318-018-0516-4 
+PMID: 30298475  [Indexed for MEDLINE]
+

@@ -1,0 +1,135 @@
+
+
+696. Brain. 2018 Jun 1;141(6):1637-1649. doi: 10.1093/brain/awy082.
+
+Spatiotemporal distribution of fibrinogen in marmoset and human inflammatory
+demyelination.
+
+Lee NJ(1)(2), Ha SK(1), Sati P(1), Absinta M(1), Luciano NJ(1), Lefeuvre JA(1),
+Schindler MK(1), Leibovitch EC(3), Ryu JK(4), Petersen MA(4)(5), Silva AC(6),
+Jacobson S(3), Akassoglou K(4)(7), Reich DS(1).
+
+Author information: 
+(1)Translational Neuroradiology Section, National Institute of Neurological
+Disorders and Stroke, National Institutes of Health, Bethesda, MD 20892, USA.
+(2)Department of Neuroscience, Georgetown University Medical Center, Georgetown
+University, Washington, DC 20007, USA.
+(3)Viral Immunology Section, National Institute of Neurological Disorders and
+Stroke, National Institutes of Health, Bethesda, MD 20892, USA.
+(4)Gladstone Institutes, San Francisco, CA 94158, USA.
+(5)Department of Pediatrics, University of California San Francisco, San
+Francisco, CA 94158, USA.
+(6)Cerebral Microcirculation Section, National Institute of Neurological
+Disorders and Stroke, National Institutes of Health, Bethesda, MD 20892, USA.
+(7)Department of Neurology, University of California San Francisco, San
+Francisco, CA 94158, USA.
+
+Multiple sclerosis is an inflammatory demyelinating disease of the central
+nervous system. Although it has been extensively studied, the proximate trigger
+of the immune response remains uncertain. Experimental autoimmune
+encephalomyelitis in the common marmoset recapitulates many radiological and
+pathological features of focal multiple sclerosis lesions in the cerebral white
+matter, unlike traditional experimental autoimmune encephalomyelitis in rodents. 
+This provides an opportunity to investigate how lesions form as well as the
+relative timing of factors involved in lesion pathogenesis, especially during
+early stages of the disease. We used MRI to track experimental autoimmune
+encephalomyelitis lesions in vivo to determine their age, stage of development,
+and location, and we assessed the corresponding histopathology post-mortem. We
+focused on the plasma protein fibrinogen-a marker for blood-brain barrier leakage
+that has also been linked to a pathogenic role in inflammatory demyelinating
+lesion development. We show that fibrinogen has a specific spatiotemporal
+deposition pattern, apparently deriving from the central vein in early
+experimental autoimmune encephalomyelitis lesions <6 weeks old, and preceding
+both demyelination and visible gadolinium enhancement on MRI. Thus, fibrinogen
+leakage is one of the earliest detectable events in lesion pathogenesis. In
+slightly older lesions, fibrinogen is found inside microglia/macrophages,
+suggesting rapid phagocytosis. Quantification demonstrates positive correlation
+of fibrinogen deposition with accumulation of inflammatory cells, including
+microglia/macrophages and T cells. The peak of fibrinogen deposition coincides
+with the onset of demyelination and axonal loss. In samples from chronic multiple
+sclerosis cases, fibrinogen was found at the edge of chronic active lesions,
+which have ongoing demyelination and inflammation, but not in inactive lesions,
+suggesting that fibrinogen may play a role in sustained inflammation even in the 
+chronic setting. In summary, our data support the notion that fibrinogen is a key
+player in the early pathogenesis, as well as sustained inflammation, of
+inflammatory demyelinating lesions.
+
+DOI: 10.1093/brain/awy082 
+PMCID: PMC5972667
+PMID: 29688408  [Indexed for MEDLINE]
+
+
+697. Mol Hum Reprod. 2018 Jun 1;24(6):299-309. doi: 10.1093/molehr/gay017.
+
+Spermatogonial behavior in marmoset: a new generation, their kinetics and niche.
+
+Caldeira-Brant AL(1), Eras-Garcia L(1), Alves-Freitas D(1), Almeida FRCL(1),
+Chiarini-Garcia H(1).
+
+Author information: 
+(1)Laboratório de Biologia Estrutural e Reprodução, Departamento de Morfologia,
+Instituto de Ciências Biológicas-ICB, Universidade Federal de Minas Gerais-UFMG, 
+31.270-901 Belo Horizonte, MG, Brazil.
+
+STUDY QUESTION: Could a more detailed evaluation of marmoset spermatogonial
+morphology, kinetics and niches using high-resolution light microscopy (HRLM)
+lead to new findings?
+SUMMARY ANSWER: Three subtypes of marmoset undifferentiated spermatogonia, which 
+were not evenly distributed in terms of number and position along the basal
+membrane, and an extra premeiotic cell division not present in humans were
+identified using HRLM.
+WHAT IS KNOWN ALREADY: The seminiferous epithelium cycle (SEC) of marmosets is
+divided into nine stages when based on the acrosome system, and several
+spermatogenic stages can usually be recognized within the same tubular
+cross-section. Three spermatogonial generations have been previously described in
+marmosets: types Adark, Apale and B spermatogonia.
+STUDY DESIGN, SIZE, DURATION: Testes from five adult Callithrix penicillata were 
+fixed by glutaraldehyde perfusion via the cardiac route and embedded in Araldite 
+plastic resin for HRLM evaluation. Semi-thin sections (1 μm) were analyzed
+morphologically and morphometrically to evaluate spermatogonial morphology and
+kinetics (number, mitosis and apoptosis), spermatogenesis efficiency and the
+spermatogonial niche.
+PARTICIPANTS/MATERIALS, SETTING, METHODS: Shape and nuclear diameter, the
+presence and distribution of heterochromatin, the granularity of the euchromatin,
+as well as the number, morphology and degree of nucleolar compaction were
+observed for morphological characterization. Kinetics analyses were performed for
+all spermatogonial subtypes and preleptotene spermatocytes, and their mitosis and
+apoptosis indexes determined across all SEC stages. Spermatogenesis parameters
+(mitotic, meiotic, Sertoli cell workload and general spermatogenesis efficiency) 
+were determined through the counting of Adark and Apale spermatogonia,
+preleptotene and pachytene primary spermatocytes, round spermatids, and Sertoli
+cells at stage IV of the SEC.
+MAIN RESULTS AND THE ROLE OF CHANCE: This is the first time that a study in
+marmosets demonstrates: the existence of a new spermatogonial generation (B2);
+the presence of two subtypes of Adark spermatogonia with (AdVac) and without
+(AdNoVac) nuclear rarefaction zones; the peculiar behavior of AdVac spermatogonia
+across the stages of the SEC, suggesting that they are quiescent stem
+spermatogonia; and that AdVac spermatogonia are located close to areas in which
+blood vessels, Leydig cells and macrophages are concentrated, suggesting a niche 
+area for these cells.
+LARGE SCALE DATA: Not applicable.
+LIMITATIONS, REASONS FOR CAUTION: The C. penicillata spermatogonial kinetics
+evaluated here consider spermatogonial number across the SEC and their mitotic
+and apoptotic figures identified in HRLM sections. Therefore, caution is required
+when comparing absolute values between species. Although morphometric evaluation 
+has suggested that AdVac spermatogonia are stem cells, a functional proof of this
+is still missing. It is known that parameters of the spermatogenic process in C. 
+penicillata have similarities with those of the common marmoset C. jacchus,
+however, a detailed study of spermatogonial morphology, kinetics and niche has
+not yet been performed in C. jacchus, and a full comparison of the two species is
+not possible.
+WIDER IMPLICATIONS OF THE FINDINGS: Our findings in C. penicillata contribute to 
+a better understanding of the spermatogonial behavior and spermatogenesis
+efficiency in non-human primates. Given the phylogenetic closeness of the
+marmoset to the human species, similar processes might occur in humans.
+Therefore, marmosets may be an excellent model for studies regarding human
+testicular biology, fertility and related disorders.
+STUDY FUNDING/COMPETING INTEREST(S): Experiments were partially supported by
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), Fundação de 
+Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG) and Conselho Nacional de
+Desenvolvimento Cientifico e Tecnológico (CNPq). The authors declare that there
+are no conflicts of interest.
+
+DOI: 10.1093/molehr/gay017 
+PMID: 29660000  [Indexed for MEDLINE]
+

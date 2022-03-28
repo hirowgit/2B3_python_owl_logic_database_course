@@ -1,0 +1,86 @@
+
+
+1649. PLoS One. 2012;7(10):e47344. doi: 10.1371/journal.pone.0047344. Epub 2012 Oct 9.
+
+Neurally mediated airway constriction in human and other species: a comparative
+study using precision-cut lung slices (PCLS).
+
+Schlepütz M(1), Rieg AD, Seehase S, Spillner J, Perez-Bouza A, Braunschweig T,
+Schroeder T, Bernau M, Lambermont V, Schlumbohm C, Sewald K, Autschbach R, Braun 
+A, Kramer BW, Uhlig S, Martin C.
+
+Author information: 
+(1)Institute of Pharmacology and Toxicology, RWTH Aachen University, Germany.
+
+The peripheral airway innervation of the lower respiratory tract of mammals is
+not completely functionally characterized. Recently, we have shown in rats that
+precision-cut lung slices (PCLS) respond to electric field stimulation (EFS) and 
+provide a useful model to study neural airway responses in distal airways. Since 
+airway responses are known to exhibit considerable species differences, here we
+examined the neural responses of PCLS prepared from mice, rats, guinea pigs,
+sheep, marmosets and humans. Peripheral neurons were activated either by EFS or
+by capsaicin. Bronchoconstriction in response to identical EFS conditions varied 
+between species in magnitude. Frequency response curves did reveal further
+species-dependent differences of nerve activation in PCLS. Atropine antagonized
+the EFS-induced bronchoconstriction in human, guinea pig, sheep, rat and marmoset
+PCLS, showing cholinergic responses. Capsaicin (10 µM) caused bronchoconstriction
+in human (4 from 7) and guinea pig lungs only, indicating excitatory
+non-adrenergic non-cholinergic responses (eNANC). However, this effect was
+notably smaller in human responder (30 ± 7.1%) than in guinea pig (79 ± 5.1%)
+PCLS. The transient receptor potential (TRP) channel blockers SKF96365 and
+ruthenium red antagonized airway contractions after exposure to EFS or capsaicin 
+in guinea pigs. In conclusion, the different species show distinct patterns of
+nerve-mediated bronchoconstriction. In the most common experimental animals, i.e.
+in mice and rats, these responses differ considerably from those in humans. On
+the other hand, guinea pig and marmoset monkey mimic human responses well and may
+thus serve as clinically relevant models to study neural airway responses.
+
+DOI: 10.1371/journal.pone.0047344 
+PMCID: PMC3467211
+PMID: 23056631  [Indexed for MEDLINE]
+
+
+1650. PLoS One. 2012;7(10):e46371. doi: 10.1371/journal.pone.0046371. Epub 2012 Oct 8.
+
+PET analysis of dopaminergic neurodegeneration in relation to immobility in the
+MPTP-treated common marmoset, a model for Parkinson's disease.
+
+Ando K(1), Obayashi S, Nagai Y, Oh-Nishi A, Minamimoto T, Higuchi M, Inoue T,
+Itoh T, Suhara T.
+
+Author information: 
+(1)Central Institute for Experimental Animals, Kawasakiku, Kawasaki, Kanagawa,
+Japan. ando@ciea.or.jp
+
+BACKGROUND: Positron Emission Tomography (PET) measurement was applied to the
+brain of the common marmoset, a small primate species, treated with
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP). The marmoset shows prominent
+Parkinson's disease (PD) signs due to dopaminergic neural degeneration. Recently,
+the transgenic marmoset (TG) carrying human PD genes is developing. For
+phenotypic evaluations of TG, non-invasive PET measurement is considered to be
+substantially significant. As a reference control for TG, the brain of the
+MPTP-marmoset as an established and valid model was scanned by PET. Behavioral
+analysis was also performed by recording locomotion of the MPTP-marmoset, as an
+objective measure of PD signs.
+METHODOLOGY/PRINCIPAL FINDINGS: MARMOSETS RECEIVED SEVERAL MPTP REGIMENS (SINGLE 
+MPTP REGIMEN: 2 mg/kg, s.c., per day for 3 consecutive days) were used for PET
+measurement and behavioral observation. To measure immobility as a central PD
+sign, locomotion of marmosets in their individual living cages were recorded
+daily by infrared sensors. Daily locomotion counts decreased drastically after
+MPTP regimens and remained diminished for several months or more. PET scan of the
+brain, using [(11)C]PE2I as a ligand of the dopamine (DA) transporter, was
+performed once several months after the last MPTP regimen. The mean binding
+potential (BP(ND)) in the striatum (putamen and caudate) of the MPTP-marmoset
+group was significantly lower than that of the MPTP-free control group (n=5 for
+each group). In the MPTP-marmosets, the decrease of BP(ND) in the striatum
+closely correlated with the decrease in locomotion counts (r=0.98 in putamen and 
+0.91 in caudate).
+CONCLUSION/SIGNIFICANCE: The present characterization of neural degeneration
+using non-invasive PET imaging and of behavioral manifestation in the MPTP
+marmoset mimics typical PD characteristics and can be useful in evaluating the
+phenotype of TG marmosets being developed.
+
+DOI: 10.1371/journal.pone.0046371 
+PMCID: PMC3466292
+PMID: 23056291  [Indexed for MEDLINE]
+

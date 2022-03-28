@@ -1,0 +1,106 @@
+
+
+873. Neuroimage. 2017 Aug 1;156:78-86. doi: 10.1016/j.neuroimage.2017.05.013. Epub
+2017 May 10.
+
+A geometrically adjustable receive array for imaging marmoset cohorts.
+
+Gilbert KM(1), Gati JS(2), Klassen LM(2), Zeman P(2), Schaeffer DJ(2), Everling
+S(3), Menon RS(4).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, 1151 Richmond St. N, London, Ontario, Canada N6A 5B7. Electronic
+address: kgilbert@robarts.ca.
+(2)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, 1151 Richmond St. N, London, Ontario, Canada N6A 5B7.
+(3)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, 1151 Richmond St. N, London, Ontario, Canada N6A 5B7; Department of
+Physiology and Pharmacology, The University of Western Ontario, London, Ontario, 
+Canada.
+(4)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, 1151 Richmond St. N, London, Ontario, Canada N6A 5B7; Department of
+Medical Biophysics, The University of Western Ontario, London, Ontario, Canada.
+
+The common marmoset (Callithrix jacchus) is an increasingly popular animal model 
+for translational neuroscience studies, during which anatomical and functional
+MRI can be useful investigative tools. To attain the requisite SNR for
+high-resolution acquisitions, the radiofrequency coil must be optimized for the
+marmoset; however, relatively few custom coils have been developed that maximize 
+SNR and are compatible with accelerated acquisitions. For the study of large
+populations of animals, the heterogeneity in animal size reduces the
+effectiveness of a "one size fits all" approach to coil sizing and makes coils
+tailored to individual animals cost and time prohibitive. The approach taken in
+this study was to create an 8-channel phased-array receive coil that was
+adjustable to the width of the marmoset head, thereby negating the need for
+tailored coils while still maintaining high SNR. Two marmosets of different size 
+were imaged on a 9.4-T small-animal scanner. Consistent SNR was achieved in the
+periphery of the brain between head sizes. When compared to a 15-channel, "one
+size fits all" receive coil, the adjustable coil achieved 57% higher SNR in the
+superior frontal and parietal cortices and 29% higher SNR in the centre of the
+brain. The mean geometry factor of the adjustable coil was less than 1.2 for a
+2-fold reduction factor in the left-right and anterior-posterior directions.
+Geometry factors were compared to the 15-channel coil to guide future designs.
+The adjustable coil was shown to be a practical means for anatomical and
+echo-planar imaging of marmoset cohorts.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2017.05.013 
+PMID: 28499849  [Indexed for MEDLINE]
+
+
+874. Drug Metab Dispos. 2017 Aug;45(8):896-899. doi: 10.1124/dmd.117.075630. Epub 2017
+May 11.
+
+Regio- and Stereo-Selective Oxidation of a Cardiovascular Drug, Metoprolol,
+Mediated by Cytochrome P450 2D and 3A Enzymes in Marmoset Livers.
+
+Uehara S(1), Ishii S(1), Uno Y(1), Inoue T(1), Sasaki E(1), Yamazaki H(2).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., S.I., H.Y.); Pharmacokinetics and
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology (T.I.) and Center of
+Applied Developmental Biology (E.S.), Central Institute for Experimental Animals,
+Kawasaki, Japan; and Keio Advanced Research Center, Keio University, Minato-ku,
+Tokyo, Japan (E.S.).
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., S.I., H.Y.); Pharmacokinetics and
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology (T.I.) and Center of
+Applied Developmental Biology (E.S.), Central Institute for Experimental Animals,
+Kawasaki, Japan; and Keio Advanced Research Center, Keio University, Minato-ku,
+Tokyo, Japan (E.S.) hyamazak@ac.shoyaku.ac.jp.
+
+A β-blocker, metoprolol, is one of the in vivo probes for human cytochrome P450
+(P450) 2D6. Investigation of nonhuman primate P450 enzymes helps to improve the
+accuracy of the extrapolation of pharmacokinetic data from animals into humans.
+Common marmosets (Callithrix jacchus) are a potential primate model for
+preclinical research, but the detailed roles of marmoset P450 enzymes in
+metoprolol oxidation remain unknown. In this study, regio- and stereo-selectivity
+of metoprolol oxidations by a variety of P450 enzymes in marmoset and human
+livers were investigated in vitro. Although liver microsomes from cynomolgus
+monkeys and rats preferentially mediated S-metoprolol O-demethylation and
+R-metoprolol α-hydroxylation, respectively, those from humans, marmosets,
+minipigs, and dogs preferentially mediated R-metoprolol O-demethylation, in
+contrast to the slow rates of R- and S-metoprolol oxidation in mouse liver
+microsomes. R- and S-metoprolol O-demethylation activities in marmoset livers
+were strongly inhibited by quinidine and ketoconazole, and were significantly
+correlated with bufuralol 1'-hydroxylation and midazolam 1'-hydroxylation
+activities and also with P450 2D and 3A4 contents, which is different from the
+case in human livers that did not have any correlations with P450 3A-mediated
+midazolam 1'-hydroxylation. Recombinant human P450 2D6 enzyme and marmoset P450
+2D6/3A4 enzymes effectively catalyzed R-metoprolol O-demethylation, comparable to
+the activities of human and marmoset liver microsomes, respectively. These
+results indicated that the major roles of P450 2D enzymes for the regio- and
+stereo-selectivity of metoprolol oxidation were similar between human and
+marmoset livers, but the minor roles of P450 3A enzymes were unique to marmosets.
+
+Copyright © 2017 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/dmd.117.075630 
+PMID: 28495902  [Indexed for MEDLINE]
+

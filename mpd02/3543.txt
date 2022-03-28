@@ -1,0 +1,29 @@
+
+
+3543. Neuroreport. 1998 Aug 24;9(12):2857-60.
+
+Adenosine A2A receptors modify motor function in MPTP-treated common marmosets.
+
+Kanda T(1), Tashiro T, Kuwana Y, Jenner P.
+
+Author information: 
+(1)Pharmaceutical Research Institute, Kyowa Hakko Kogyo Co Ltd, Shizuoka, Japan.
+
+Both adenosine A1 and A2 receptor populations are located in the striatum and can
+modify locomotor activity, and they may form a therapeutic target for Parkinson's
+disease (PD). Administration of the selective adenosine A2A antagonist
+(E)-1,3-diethyl-8-(3,4-dimethoxystyryl)-7-methyl-3,7-dihydro-1H-pu rine-2,6-dione
+(KW-6002) to MPTP-treated common marmosets increased locomotor activity. In
+contrast, administration of the selective A1 receptor antagonist
+1,3-dipropyl-8-cyclopentylxantine (DPCPX) had no effect on locomotion.
+Administration of the adenosine A2A receptor agonist 2-[p-[2-(2-aminoethylamino) 
+carbonylethyl] phenethyl amino]-5'-N-ethylcarboxamidoadenosine (APEC) dose
+dependently suppressed basal locomotor activity. A minimally effective dose of
+APEC (0.62 mg/kg, i.p) completely reversed the increase in locomotor activity
+produced by administration of KW-6002. The adenosine A2A receptor appears to be
+an important target for the treatment of basal ganglia disorders, particularly
+PD.
+
+DOI: 10.1097/00001756-199808240-00032 
+PMID: 9760134  [Indexed for MEDLINE]
+

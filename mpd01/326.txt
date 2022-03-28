@@ -1,0 +1,74 @@
+
+
+326. Neuroimage. 2020 Jul 15;215:116815. doi: 10.1016/j.neuroimage.2020.116815. Epub
+2020 Apr 9.
+
+Looming and receding visual networks in awake marmosets investigated with fMRI.
+
+Cléry JC(1), Schaeffer DJ(2), Hori Y(2), Gilbert KM(2), Hayrynen LK(2), Gati
+JS(2), Menon RS(2), Everling S(3).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Ontario, N6A 5B7, Canada. Electronic
+address: jclery@uwo.ca.
+(2)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Ontario, N6A 5B7, Canada.
+(3)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Ontario, N6A 5B7, Canada; Department of
+Physiology and Pharmacology, The University of Western Ontario, London, Ontario, 
+N6A 5C1, Canada. Electronic address: severlin@uwo.ca.
+
+An object that is looming toward a subject or receding away contains important
+information for determining if this object is dangerous, beneficial or harmless. 
+This information (motion, direction, identity, time-to-collision, size, velocity)
+is analyzed by the brain in order to execute the appropriate behavioral responses
+depending on the context: fleeing, freezing, grasping, eating, exploring. In the 
+current study, we performed ultra-high-field functional MRI (fMRI) at 9.4T in
+awake marmosets to explore the patterns of brain activation elicited by visual
+stimuli looming toward or receding away from the monkey. We found that looming
+and receding visual stimuli activated a large cortical network in frontal,
+parietal, temporal and occipital cortex in areas involved in the analysis of
+motion, shape, identity and features of the objects. Looming stimuli strongly
+activated a network composed of portions of the pulvinar, superior colliculus,
+putamen, parietal, prefrontal and temporal cortical areas. These activations
+suggest the existence of a network that processes visual stimuli looming toward
+peripersonal space to predict the consequence of these stimuli. Together with
+previous studies in macaque monkeys, these findings indicate that this network is
+preserved across Old and New World primates.
+
+Copyright © 2020 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2020.116815 
+PMID: 32278898  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare no conflict of interest.
+
+
+327. Microbiol Resour Announc. 2020 Apr 9;9(15). pii: e00146-20. doi:
+10.1128/MRA.00146-20.
+
+Draft Genome Sequences of Novel Campylobacter Species Isolated from Nonhuman
+Primates.
+
+Mannion A(1), Shen Z(1), Sheh A(1), Fox JG(2).
+
+Author information: 
+(1)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, Massachusetts, USA.
+(2)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, Massachusetts, USA jgfox@mit.edu.
+
+Campylobacter species are being increasingly isolated and associated with disease
+in humans and animals. Here, we describe four draft genome sequences of
+Campylobacter species from nonhuman primates. These include Campylobacter
+troglodytis, isolated from wild chimpanzees, and two likely new Campylobacter
+species isolated from a lemur, common marmoset, and cotton-top tamarin.
+
+Copyright © 2020 Mannion et al.
+
+DOI: 10.1128/MRA.00146-20 
+PMCID: PMC7380529
+PMID: 32273357 
+

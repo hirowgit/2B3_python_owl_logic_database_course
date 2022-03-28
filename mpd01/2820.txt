@@ -1,0 +1,60 @@
+
+
+2820. Science. 2004 May 7;304(5672):878-80.
+
+Cognitive inflexibility after prefrontal serotonin depletion.
+
+Clarke HF(1), Dalley JW, Crofts HS, Robbins TW, Roberts AC.
+
+Author information: 
+(1)Department of Experimental Psychology, University of Cambridge, Downing
+Street, Cambridge, UK.
+
+Serotonergic dysregulation within the prefrontal cortex (PFC) is implicated in
+many neuropsychiatric disorders, but the precise role of serotonin within the PFC
+is poorly understood. Using a serial discrimination reversal paradigm, we showed 
+that upon reversal, selective serotonin depletion of the marmoset PFC produced
+perseverative responding to the previously rewarded stimulus without any
+significant effects on either retention of a discrimination learned
+preoperatively or acquisition of a novel discrimination postoperatively. These
+results highlight the importance of prefrontal serotonin in behavioral
+flexibility and are highly relevant to obsessive-compulsive disorder,
+schizophrenia, and the cognitive sequelae of drug abuse in which perseveration is
+prominent.
+
+DOI: 10.1126/science.1094987 
+PMID: 15131308  [Indexed for MEDLINE]
+
+
+2821. J Neurosci Methods. 2004 Jun 15;136(1):77-85.
+
+Multivariate receptive field mapping in marmoset auditory cortex.
+
+Luczak A(1), Hackett TA, Kajikawa Y, Laubach M.
+
+Author information: 
+(1)The John B. Pierce Laboratory, New Haven, CT, USA.
+
+We describe a novel method for estimation of multivariate neuronal receptive
+fields that is based on least-squares (LS) regression. The method is shown to
+account for the relationship between the spike train of a given neuron, the
+activity of other neurons that are recorded simultaneously, and a variety of
+time-varying features of acoustic stimuli, e.g. spectral content, amplitude, and 
+sound source direction. Vocalization-evoked neuronal responses from the marmoset 
+auditory cortex are used to illustrate the method. Optimal predictions of
+single-unit activity were obtained by using the recent-time history of the target
+neuron and the concurrent activity of other simultaneously recorded neurons (R:
+0.82 +/- 0.01, approximately 67% of variance). Predictions based on ensemble
+activity alone (R: 0.63 +/- 0.18) were equivalent to those based on the
+combination of ensemble activity and spectral features of the vocal calls (R:
+0.61 +/- 0.24). This result suggests that all information derived from the
+spectrogram is embodied in ensemble activity and that there is a high level of
+redundancy in the marmoset auditory cortex. We also illustrate that the method
+allows for quantification of relative and shared contributions of each variable
+(spike train, spectral feature) to predictions of neuronal activity and describe 
+a novel "neurolet" transform that arises from the method and that may serve as a 
+tool for computationally efficient processing of natural sounds.
+
+DOI: 10.1016/j.jneumeth.2003.12.019 
+PMID: 15126048  [Indexed for MEDLINE]
+

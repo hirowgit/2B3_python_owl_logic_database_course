@@ -1,0 +1,32 @@
+
+
+152. How Might We Get from Genes to Circuits to Disease?.
+
+Kaiser T, Mei Y, Feng G.
+In: Nikolich K, Hyman SE, editors. Translational Neuroscience: Toward New
+Therapies [Internet]. Cambridge (MA): MIT Press; 2015. Chapter 8.
+
+Recent advances in the identification of risk genes for psychiatric disorders
+have set the stage for functional interrogation of disease related-circuits and
+underlying mechanisms of pathophysiology. Still, investigators face significant
+challenges: (a) hundreds of genes may contribute to pathogenesis of a given
+disorder (polygenicity and genetic heterogeneity), (b) risk alleles may only
+cause the disease in combination with other factors (reduced penetrance), and (c)
+commonly used rodent models may have significant limitations in studying
+psychiatric disorders, due to differences in brain structure and function between
+rodents and humans. To address these challenges, high-throughput functional
+assays should be developed in combination with induced pluripotent stem cells
+(iPSC) technology and novel genome-engineering technologies, as these will help
+identify common pathways and mechanisms onto which multiple risk genes may
+converge. To overcome limitations of current animal models in psychiatric
+research, novel genome-editing technologies provide an opportunity to generate
+better animal models (e.g., the common marmoset) to dissect disease-relevant
+circuit dysfunction. Finally, powerful new tools (e.g., CLARITY, dense neural
+circuit reconstruction, and optogenetics) may help identify and test the
+relationship between distinct circuit defects and abnormal behaviors observed in 
+these animal models. Such approaches are needed to span the gap between emerging 
+genetic information and the symptomatic description of neuropsychiatric
+disorders.
+
+PMID: 33886215 
+

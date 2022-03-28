@@ -1,0 +1,75 @@
+
+
+1577. Neuroimage. 2013 Aug 15;77:268-78. doi: 10.1016/j.neuroimage.2013.03.005. Epub
+2013 Mar 22.
+
+Micro-compartment specific T2* relaxation in the brain.
+
+Sati P(1), van Gelderen P, Silva AC, Reich DS, Merkle H, de Zwart JA, Duyn JH.
+
+Author information: 
+(1)Translational Neuroradiology Unit, Neuroimmunology Branch, National Institute 
+of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD
+20892, USA.
+
+MRI at high field can be sensitized to the magnetic properties of tissues, which 
+introduces a signal dependence on the orientation of white matter (WM) fiber
+bundles relative to the magnetic field. In addition, study of the NMR relaxation 
+properties of this signal has indicated contributions from compartmentalized
+water environments inside and outside the myelin sheath that may be separable.
+Here we further investigated the effects of water compartmentalization on the MRI
+signal with the goal of extracting compartment-specific information. By comparing
+MRI measurements of human and marmoset brain at 7T with magnetic field modeling, 
+we show that: (1) water between the myelin lipid bilayers, in the axonal, and in 
+the interstitial space each experience characteristic magnetic field effects that
+depend on fiber orientation (2) these field effects result in characteristic
+relaxation properties and frequency shifts for these compartments; and (3)
+compartmental contributions may be separated by multi-component fitting of the
+MRI signal relaxation (i.e. decay) curve. We further show the potential
+application of these findings to the direct mapping of myelin content and
+assessment of WM fiber integrity with high field MRI.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.neuroimage.2013.03.005 
+PMCID: PMC3816634
+PMID: 23528924  [Indexed for MEDLINE]
+
+
+1578. Exp Eye Res. 2013 Jun;111:1-8. doi: 10.1016/j.exer.2013.03.010. Epub 2013 Mar 22.
+
+Establishment of the ocular hypertension model using the common marmoset.
+
+Shimazawa M(1), Nakamura S, Miwa M, Tsuruma K, Aihara M, Nakamura K, Hara H.
+
+Author information: 
+(1)Molecular Pharmacology, Department of Biofunctional Evaluation, Gifu
+Pharmaceutical University, 1-25-4 Daigaku-nishi, Gifu 501-1196, Japan.
+
+The purpose of this study was to establish an experimental glaucoma model in the 
+common marmoset (Callithrix jacchus). Chronic intraocular pressure (IOP)
+elevation was induced by laser trabeculoplasty twice at 2-week intervals in the
+left eyes of 4 common marmosets. IOP was measured before and at 4, 7, 8, 11, 13
+weeks after first laser treatment, and ophthalmoscopic examinations were also
+performed. At 13 weeks after laser treatment, each eye was enucleated, and
+retinal cross-sections and optic nerve were prepared for histological
+examination. Mean IOP values measured at the above 5 time points were over 40
+mmHg in laser-treated eyes in 3 marmosets, but IOP in one marmoset was
+transiently increased to 26.6 mmHg at 7 weeks and then declined to the baseline
+level. In ophthalmoscopy, deepened and enlarged optic disc cupping, depending on 
+the extent of IOP elevation and duration, were observed in laser-treated eyes of 
+3 marmosets with persistent IOP elevation, but there was no apparent change in
+the optic disc in the laser-treated eye of one marmoset with transient IOP
+elevation. Histological examination showed marked atrophy with deepened and
+enlarged cupping of optic disc, thinning of retinal nerve fiber layer and retinal
+ganglion loss in the retina, and axonal atrophy and loss in the optic nerve,
+depending on the extent of IOP elevation and duration. In conclusion, we
+succeeded in producing an experimental glaucoma model in the common marmoset, and
+this model may be useful in elucidating the pathophysiological mechanism for
+glaucoma.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.exer.2013.03.010 
+PMID: 23528536  [Indexed for MEDLINE]
+

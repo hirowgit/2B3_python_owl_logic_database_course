@@ -1,0 +1,41 @@
+
+
+4369. Immunology. 1990 Apr;69(4):616-21.
+
+Immunoregulation in the common marmoset, Calithrix jaccus: functional properties 
+of T and B lymphocytes and their response to human interleukins 2 and 4.
+
+Quint DJ(1), Buckham SP, Bolton EJ, Solari R, Champion BR, Zanders ED.
+
+Author information: 
+(1)Biochemistry Department, Glaxo Group Research Ltd, Greenford, Middlesex, U.K.
+
+Non-human primates have been used to study immune function to a much lesser
+extent than readily available strains of inbred rodents. Nevertheless, in
+situations where it might be desirable, but impossible, to study human immune
+responses in vivo, lower primates could provide an acceptable alternative. In
+order to extent the knowledge of T- and B-lymphocyte function in lower primates, 
+the common marmoset Callithrix jaccus was used as an experimental model. The
+functional similarities between this species and humans at the level of T-B
+co-operation in the antibody response were examined, and xenoreactive
+T-lymphocyte clones were obtained from marmoset spleen cells using Epstein-Barr
+virus (EBV)-transformed human B cells as stimulators. These clones could act as
+helper cells when co-cultured with human B lymphocytes, inducing the secretion of
+both IgM and IgG. Lymphokine production by mitogen-stimulated marmoset T-cell
+clones was also examined. Interleukins (IL) 2 and 4 activities were detected in
+clone supernatants using bioassays and interferon-gamma (IFN-gamma) was detected 
+using a solid-phase ELISA system. However, SDS-PAGE analysis of biosynthetically 
+labelled marmoset and human T-cell clone supernatant proteins revealed major
+differences between the soluble T-cell products of the two species. The
+proliferative responses of marmoset T and B cells to recombinant human IL-2 and
+IL-4 were also examined. Stimulation of [3H]thymidine uptake was detected in both
+T cell- and anti-IgM-stimulated B-cell cultures with both of the lymphokines.
+These results suggests that the key components of the antibody response are
+functionally conserved between lower primates and man and that the common
+marmoset may be useful as an in vivo model of immune function, particularly with 
+regard to the role of interleukins such as IL-2 and IL-4.
+
+
+PMCID: PMC1385638
+PMID: 2110549  [Indexed for MEDLINE]
+

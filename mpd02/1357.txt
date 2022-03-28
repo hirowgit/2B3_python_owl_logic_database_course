@@ -1,0 +1,50 @@
+
+
+1357. Neurosci Res. 2015 Apr;93:47-61. doi: 10.1016/j.neures.2014.09.004. Epub 2014 Sep
+19.
+
+Representation of central and peripheral vision in the primate cerebral cortex:
+Insights from studies of the marmoset brain.
+
+Yu HH(1), Chaplin TA(2), Rosa MG(3).
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, VIC 3800, Australia;
+Australian Research Council Centre of Excellence for Integrative Brain Function, 
+Monash University Node, Clayton, VIC 3800, Australia. Electronic address:
+hsin-hao.yu@monash.edu.
+(2)Department of Physiology, Monash University, Clayton, VIC 3800, Australia;
+Monash Vision Group, Monash University, Clayton, VIC 3800, Australia.
+(3)Department of Physiology, Monash University, Clayton, VIC 3800, Australia;
+Australian Research Council Centre of Excellence for Integrative Brain Function, 
+Monash University Node, Clayton, VIC 3800, Australia; Monash Vision Group, Monash
+University, Clayton, VIC 3800, Australia.
+
+How the visual field is represented by neurons in the cerebral cortex is one of
+the most basic questions in visual neuroscience. However, research to date has
+focused heavily on the small part of the visual field within, and immediately
+surrounding the fovea. Studies on the cortical representation of the full visual 
+field in the primate brain are still scarce. We have been investigating this
+issue with electrophysiological and anatomical methods, taking advantage of the
+small and lissencephalic marmoset brain, which allows easy access to the
+representation of the full visual field in many cortical areas. This review
+summarizes our main findings to date, and relates the results to a broader
+question: is the peripheral visual field processed in a similar manner to the
+central visual field, but with lower spatial acuity? Given the organization of
+the visual cortex, the issue can be addressed by asking: (1) Is visual
+information processed in the same way within a single cortical area? and (2) Are 
+different cortical areas specialized for different parts of the visual field? The
+electrophysiological data from the primary visual cortex indicate that many
+aspects of spatiotemporal computation are remarkably similar across the visual
+field, although subtle variations are detectable. Our anatomical and
+electrophysiological studies of the extrastriate cortex, on the other hand,
+suggest that visual processing in the far peripheral visual field is likely to
+involve a distinct network of specialized cortical areas, located in the depths
+of the calcarine sulcus and interhemispheric fissure.
+
+Copyright © 2014 Elsevier Ireland Ltd and the Japan Neuroscience Society. All
+rights reserved.
+
+DOI: 10.1016/j.neures.2014.09.004 
+PMID: 25242578  [Indexed for MEDLINE]
+

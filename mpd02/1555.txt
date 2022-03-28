@@ -1,0 +1,40 @@
+
+
+1555. J Neurosci. 2013 May 22;33(21):9161-8. doi: 10.1523/JNEUROSCI.0066-13.2013.
+
+The role of harmonic resolvability in pitch perception in a vocal nonhuman
+primate, the common marmoset (Callithrix jacchus).
+
+Osmanski MS(1), Song X, Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA.
+
+Pitch is one of the most fundamental percepts in the auditory system and can be
+extracted using either spectral or temporal information in an acoustic signal.
+Although pitch perception has been extensively studied in human subjects, it is
+far less clear how nonhuman primates perceive pitch. We have addressed this
+question in a series of behavioral studies in which marmosets, a vocal nonhuman
+primate species, were trained to discriminate complex harmonic tones differing in
+either spectral (fundamental frequency [f0]) or temporal envelope (repetition
+rate) cues. We found that marmosets used temporal envelope information to
+discriminate pitch for acoustic stimuli with higher-order harmonics and lower f0 
+values and spectral information for acoustic stimuli with lower-order harmonics
+and higher f0 values. We further measured frequency resolution in marmosets using
+a psychophysical task in which pure tone thresholds were measured as a function
+of notched noise masker bandwidth. Results show that only the first four
+harmonics are resolved at low f0 values and up to 16 harmonics are resolved at
+higher f0 values. Resolvability in marmosets is different from that in humans,
+where the first five to nine harmonics are consistently resolved across most f0
+values, and is likely the result of a smaller marmoset cochlea. In sum, these
+results show that marmosets use two mechanisms to extract pitch (harmonic
+templates [spectral] for resolved harmonics, and envelope extraction [temporal]
+for unresolved harmonics) and that species differences in stimulus resolvability 
+need to be taken into account when investigating and comparing mechanisms of
+pitch perception across animals.
+
+DOI: 10.1523/JNEUROSCI.0066-13.2013 
+PMCID: PMC3694575
+PMID: 23699526  [Indexed for MEDLINE]
+

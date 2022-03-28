@@ -1,0 +1,78 @@
+
+
+3855. Glycobiology. 1995 Dec;5(8):775-82.
+
+alpha-galactosyl (Galalpha1-3Galbeta1-4GlcNAc-R) epitopes on human cells:
+synthesis of the epitope on human red cells by recombinant primate
+alpha1,3galactosyltransferase expressed in E.coli.
+
+Galili U(1), Anaraki F.
+
+Author information: 
+(1)Department of Microbiology and Immunology, The Medical College of
+Pennsylvania, Philadelphia, USA.
+
+Developing methods for in vitro synthesis of the carbohydrate structure
+Galalpha1-3Galbeta1-4GlcNAc-R (termed the alpha-galactosyl epitope) on human
+tumour cells may be of potential clinical significance in cancer immunotherapy.
+Tumour vaccines with this epitope would be opsonized in vivo by the natural
+anti-Gal antibody, which is present in large amounts in humans, and which
+interacts specifically with alpha-galactosyl epitopes. Binding of anti-Gal to
+alpha-galactosyl epitopes on tumour cell membranes is likely to increase uptake
+of the cell membranes by antigen-presenting cells, such as macrophages, via the
+adhesion of the Fc portion of anti-Gal to Fc receptors on these cells. This, in
+turn, may increase processing and presentation of tumour-associated antigens by
+antigen-presenting cells, and induce an effective immune response against tumour 
+cells with these antigens. The present study describes a method for the synthesis
+of alpha-galactosyl epitopes on human cells (red cells used as a model) by
+recombinant alpha1,3galactosyltransferase (rec. alpha1,3GT) expressed in
+bacteria. Escherichia coli was transformed with cDNA of the luminal portion of
+New World monkey rec. alpha1,3GT linked to six histidines (His)6 at the
+N-terminus. The enzyme produced by the bacteria was isolated from bacterial
+lysates on a nickel-Sepharose column and eluted with imidazole. This recombinant 
+enzyme displayed acceptor specificity similar to that of rec. alpha1,3GT produced
+in COS cells. Red cells were pre-treated with sialidase for exposure of
+N-acetyllactosamine acceptors, then subjected to rec. alpha1,3GT activity. This
+enzyme synthesized at least 4 x 10(4) alpha-galactosyl epitopes/red cell. These
+epitopes were found to be accessible for binding of anti-Gal, as well as
+Bandeiraea simplicifolia IB4 lectin. It is argued that the method presented can
+be used for the synthesis of alpha-galactosyl epitopes on membranes of autologous
+tumour vaccines in humans.
+
+DOI: 10.1093/glycob/5.8.775 
+PMID: 8720075  [Indexed for MEDLINE]
+
+
+3856. J Clin Invest. 1995 Dec;96(6):2966-74.
+
+Antibody facilitation of multiple sclerosis-like lesions in a nonhuman primate.
+
+Genain CP(1), Nguyen MH, Letvin NL, Pearl R, Davis RL, Adelman M, Lees MB,
+Linington C, Hauser SL.
+
+Author information: 
+(1)Department of Neurology, University of California, San Francisco 94143, USA.
+
+In the human disease multiple sclerosis (MS), the immune mechanisms responsible
+for selective destruction of central nervous system myelin are unknown. In the
+common marmoset Callithrix jacchus, a unique demyelinating form of experimental
+allergic encephalomyelitis resembling MS can be induced by immunization with
+whole myelin. Here we show that the MS-like lesion can be reproduced by
+immunization against the extracellular domain of a single myelin protein,
+myelin/oligodendrocyte glycoprotein (MOG). By contrast, immunization against the 
+quantitatively major myelin proteins myelin basic protein or proteolipid protein 
+results in inflammation but little or no demyelination. Furthermore, in the
+presence of encephalitogenic (e.g., disease-inducing) T cells, the fully
+demyelinated lesion is reconstructed by systemic administration of IgG purified
+from whole myelin-, or MOG-immunized animals, and equally by a monoclonal
+antibody against MOG, but not by control IgG. Encephalitogenic T cells may
+contribute to the MS-like lesion through disruption of the blood-brain barrier
+that permits access of demyelinating antibody into the nervous system. The
+identification of MOG as a major target antigen for autoimmune demyelination in a
+nonhuman primate should facilitate development of specific immunotherapies for
+human MS.
+
+DOI: 10.1172/JCI118368 
+PMCID: PMC186008
+PMID: 8675668  [Indexed for MEDLINE]
+

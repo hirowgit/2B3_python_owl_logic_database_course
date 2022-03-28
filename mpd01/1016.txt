@@ -1,0 +1,86 @@
+
+
+1016. Heliyon. 2015 Nov 24;1(3):e00042. doi: 10.1016/j.heliyon.2015.e00042. eCollection
+2015 Nov.
+
+Comprehensive characterization of evolutionary conserved breakpoints in four New 
+World Monkey karyotypes compared to Chlorocebus aethiops and Homo sapiens.
+
+Fan X(1), Supiwong W(2), Weise A(1), Mrasek K(1), Kosyakova N(1), Tanomtong A(2),
+Pinthong K(2), Trifonov VA(3), Cioffi Mde B(4), Grothmann P(5), Liehr T(1),
+Oliveira EH(6).
+
+Author information: 
+(1)Jena University Hospital, Friedrich Schiller University, Institute of Human
+Genetics, Kollegiengasse 10, D-07743 Jena, Germany.
+(2)Department of Biology Faculty of Science, KhonKaen University, 123 Moo 16
+Mittapap Rd., Muang District, KhonKaen 40002, Thailand.
+(3)Institute of Molecular and Cellular Biology SB RAS, Novosibirsk, Russia.
+(4)Departamento de Genética e Evolução, Universidade Federal de São Carlos, São
+Carlos, SP, Brazil.
+(5)Serengeti-Park Hodenhagen GmbH, Am Safaripark 1, 29693, Hodenhagen, Germany.
+(6)Faculdade de Ciências Naturais, ICEN, Universidade Federal do Pará, Campus
+Universitário do Guamá, 66075-110 Belém-PA, Brazil.
+
+Comparative cytogenetic analysis in New World Monkeys (NWMs) using human
+multicolor banding (MCB) probe sets were not previously done. Here we report on
+an MCB based FISH-banding study complemented with selected locus-specific and
+heterochromatin specific probes in four NWMs and one Old World Monkey (OWM)
+species, i.e. in Alouatta caraya (ACA), Callithrix jacchus (CJA), Cebus apella
+(CAP), Saimiri sciureus (SSC), and Chlorocebus aethiops (CAE), respectively. 107 
+individual evolutionary conserved breakpoints (ECBs) among those species were
+identified and compared with those of other species in previous reports.
+Especially for chromosomal regions being syntenic to human chromosomes 6, 8, 9,
+10, 11, 12 and 16 previously cryptic rearrangements could be observed. 50.4%
+(54/107) NWM-ECBs were colocalized with those of OWMs, 62.6% (62/99) NWM-ECBs
+were related with those of Hylobates lar (HLA) and 66.3% (71/107) NWM-ECBs
+corresponded with those known from other mammalians. Furthermore, human fragile
+sites were aligned with the ECBs found in the five studied species and
+interestingly 66.3% ECBs colocalized with those fragile sites (FS). Overall, this
+study presents detailed chromosomal maps of one OWM and four NWM species. This
+data will be helpful to further investigation on chromosome evolution in NWM and 
+hominoids in general and is prerequisite for correct interpretation of future
+sequencing based genomic studies in those species.
+
+DOI: 10.1016/j.heliyon.2015.e00042 
+PMCID: PMC4945616
+PMID: 27441227 
+
+
+1017. Xenobiotica. 2017 Jul;47(7):553-561. doi: 10.1080/00498254.2016.1206673. Epub
+2016 Jul 20.
+
+Marmoset cytochrome P450 4A11, a novel arachidonic acid and lauric acid
+ω-hydroxylase expressed in liver and kidney tissues.
+
+Uehara S(1), Uno Y(2), Ishii S(1), Inoue T(3), Sasaki E(3)(4), Yamazaki H(1).
+
+Author information: 
+(1)a Laboratory of Drug Metabolism and Pharmacokinetics , Showa Pharmaceutical
+University , Machida , Tokyo , Japan.
+(2)b Pharmacokinetics and Bioanalysis Center, Shin Nippon Biomedical
+Laboratories, Ltd , Kainan , Wakayama , Japan.
+(3)c Central Institute for Experimental Animals , Kawasaki , Japan , and.
+(4)d Keio Advanced Research Center, Keio University , Minato-ku, Tokyo , Japan.
+
+1. A cDNA encoding novel cytochrome P450 (P450) 4A enzyme was cloned from
+marmoset livers by reverse transcription (RT)-polymerase chain reaction (PCR)
+based on the marmoset genome sequences. The amino acid sequence deduced from P450
+4A11 cDNA contained consensus sequences of six substrate recognition sites and
+one heme-binding domain. 2. Marmoset P450 4A11, highly identical (85-88%) to
+cynomolgus monkey and human P450 4A enzymes, was grouped into the same cluster as
+cynomolgus monkey and human P450 4A enzymes by phylogenetic analysis. 3. The
+tissue distribution analyses by real-time RT PCR and immunoblotting demonstrated 
+that marmoset P450 4A11 mRNA and proteins were expressed in kidneys and livers.
+Marmoset P450 4A11 enzyme heterologously expressed in Escherichia coli
+preferentially catalyzed the ω-hydroxylation of arachidonic acid and lauric acid,
+similar to cynomolgus monkey and human P450 4A11 enzymes. However, lauric acid
+ω-hydroxylation activity of marmoset P450 4A11 was low compared with those of
+marmoset liver microsomes. 4. These results indicated that novel marmoset P450
+4A11 was also a fatty acid ω-hydroxylase expressed in kidneys and livers, with
+the same regioselectivity (at ω-position of fatty acid) as cynomolgus monkey and 
+human P450 4A enzymes.
+
+DOI: 10.1080/00498254.2016.1206673 
+PMID: 27435360  [Indexed for MEDLINE]
+

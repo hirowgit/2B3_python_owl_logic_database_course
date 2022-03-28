@@ -1,0 +1,85 @@
+
+
+1661. PLoS One. 2012;7(8):e43709. doi: 10.1371/journal.pone.0043709. Epub 2012 Aug 28.
+
+LPS-induced lung inflammation in marmoset monkeys - an acute model for
+anti-inflammatory drug testing.
+
+Seehase S(1), Lauenstein HD, Schlumbohm C, Switalla S, Neuhaus V, Förster C,
+Fieguth HG, Pfennig O, Fuchs E, Kaup FJ, Bleyer M, Hohlfeld JM, Braun A, Sewald
+K, Knauf S.
+
+Author information: 
+(1)Airway Research, Fraunhofer Institute for Toxicology and Experimental
+Medicine, Hannover, Germany.
+
+Increasing incidence and substantial morbidity and mortality of respiratory
+diseases requires the development of new human-specific anti-inflammatory and
+disease-modifying therapeutics. Therefore, new predictive animal models that
+closely reflect human lung pathology are needed. In the current study, a tiered
+acute lipopolysaccharide (LPS)-induced inflammation model was established in
+marmoset monkeys (Callithrix jacchus) to reflect crucial features of inflammatory
+lung diseases. Firstly, in an ex vivo approach marmoset and, for the purposes of 
+comparison, human precision-cut lung slices (PCLS) were stimulated with LPS in
+the presence or absence of the phosphodiesterase-4 (PDE4) inhibitor roflumilast. 
+Pro-inflammatory cytokines including tumor necrosis factor-alpha (TNF-α) and
+macrophage inflammatory protein-1 beta (MIP-1β) were measured. The corticosteroid
+dexamethasone was used as treatment control. Secondly, in an in vivo approach
+marmosets were pre-treated with roflumilast or dexamethasone and unilaterally
+challenged with LPS. Ipsilateral bronchoalveolar lavage (BAL) was conducted 18
+hours after LPS challenge. BAL fluid was processed and analyzed for neutrophils, 
+TNF-α, and MIP-1β. TNF-α release in marmoset PCLS correlated significantly with
+human PCLS. Roflumilast treatment significantly reduced TNF-α secretion ex vivo
+in both species, with comparable half maximal inhibitory concentration (IC(50)). 
+LPS instillation into marmoset lungs caused a profound inflammation as shown by
+neutrophilic influx and increased TNF-α and MIP-1β levels in BAL fluid. This
+inflammatory response was significantly suppressed by roflumilast and
+dexamethasone. The close similarity of marmoset and human lungs regarding
+LPS-induced inflammation and the significant anti-inflammatory effect of approved
+pharmaceuticals assess the suitability of marmoset monkeys to serve as a
+promising model for studying anti-inflammatory drugs.
+
+DOI: 10.1371/journal.pone.0043709 
+PMCID: PMC3429492
+PMID: 22952743  [Indexed for MEDLINE]
+
+
+1662. Mol Hum Reprod. 2012 Dec;18(12):605-12. doi: 10.1093/molehr/gas032. Epub 2012 Aug
+29.
+
+False-positive antibody signals for the pluripotency factor OCT4A (POU5F1) in
+testis-derived cells may lead to erroneous data and misinterpretations.
+
+Warthemann R(1), Eildermann K, Debowski K, Behr R.
+
+Author information: 
+(1)Stem Cell Biology Unit, German Primate Center, Leibniz Institute for Primate
+Research, Kellnerweg 4, D-37077 Göttingen, Germany.
+
+Octamer-binding protein 4 (OCT4) is a key player in pluripotent embryonic stem
+(ES) cells and is essential for the generation of induced pluripotent stem cells.
+Recently, several reports indicated the spontaneous recovery of pluripotency in
+cultured adult human testis-derived cells. This was evidenced also by the
+detection of OCT4 using antibodies. However, the soundness of some data was
+recently put into question. During our attempts to derive pluripotent cells from 
+the common marmoset monkey (Callithrix jacchus) testis, we obtained inconsistent 
+data which prompted us to analyze deeper the characteristics of three independent
+OCT4 antibodies that were used in numerous published studies that received
+greatest attention. All antibodies detected OCT4 by immunofluorescence (IF) in a 
+marmoset monkey ES cell line. Two of the three OCT4 antibodies also gave robust
+nuclear signals in testis-derived cells. However, the latter cells expressed no
+OCT4 mRNA as revealed by quantitative RT-PCR and turned out to be mesenchymal
+cells. When tested in western blot analyses, all antibodies detected
+heterologously expressed marmoset monkey OCT4 protein. But, importantly, those
+antibodies that resulted in non-specific signals in IF also showed additional
+non-specific bands in western blots. In summary, some commercially available OCT4
+antibodies result in false-positive signals which may provoke erroneous
+conclusions when used in studies aiming at the generation of pluripotent cells in
+vitro. We conclude that (i) antibodies must be carefully characterized before use
+to prevent misleading observations and (ii) OCT4 expression must be monitored by 
+a second antibody-independent method.
+
+DOI: 10.1093/molehr/gas032 
+PMCID: PMC3497886
+PMID: 22933709  [Indexed for MEDLINE]
+

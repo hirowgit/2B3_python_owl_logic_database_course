@@ -1,0 +1,33 @@
+
+
+2634. Cell Immunol. 2005 Jul-Aug;236(1-2):115-22. Epub 2005 Sep 12.
+
+Cross-reactivity of anti-human chemokine receptor and anti-TNF family antibodies 
+with common marmoset (Callithrix jacchus) leukocytes.
+
+Kireta S(1), Zola H, Gilchrist RB, Coates PT.
+
+Author information: 
+(1)Transplantation Immunology Laboratory and Department of Medicine, University
+of Adelaide, The Queen Elizabeth Hospital Campus, 28 Woodville Rd, Adelaide, SA
+5011, Australia.
+
+The common marmoset (Callithrix jacchus) is a New World primate species
+frequently employed for immunological models of human disease. We used flow
+cytometry to screen a panel of new anti-human antibodies from the HLDA8 workshop 
+to establish cross-reactivity with marmoset peripheral blood mononuclear cells.
+Seventy-seven antibodies were screened of which nine antibodies showed binding.
+Cross-reactivity of anti-human monoclonal antibodies with CC and CXC chemokine
+receptors CCR3, CCR6, CCR7, and CCR8 was demonstrated on untreated marmoset
+mononuclear cells. Stimulation of marmoset mononuclear cells with ConA and/or
+PMA-ionomycin resulted in an up-regulated expression of CXCR1, CXCR3, and CXCR4. 
+The expression of TNF-family related molecules TACI and APRIL on marmoset
+mononuclear cells was also identified. These studies extend the range of
+cross-reactive antibodies to now include anti-chemokine and anti-TNF family
+antibodies for this important pre-clinical model species and should provide
+useful tools for investigation of immunological processes in marmoset monkey
+models.
+
+DOI: 10.1016/j.cellimm.2005.08.017 
+PMID: 16165115  [Indexed for MEDLINE]
+

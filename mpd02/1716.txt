@@ -1,0 +1,37 @@
+
+
+1716. J Physiol. 2012 Aug 15;590(16):4061-77. doi: 10.1113/jphysiol.2012.230409. Epub
+2012 Jun 11.
+
+Colour and pattern selectivity of receptive fields in superior colliculus of
+marmoset monkeys.
+
+Tailby C(1), Cheong SK, Pietersen AN, Solomon SG, Martin PR.
+
+Author information: 
+(1)Save Sight Institute C09, University of Sydney, NSW 2006, Australia.
+
+The main subcortical visual targets of retinal output neurones (ganglion cells)
+are the parvocellular and magnocellular layers of the dorsal lateral geniculate
+nucleus (LGN) in the thalamus. In addition, a small and heterogeneous collection 
+of ganglion cell axons projects to the koniocellular layers of the LGN, to the
+superior colliculus (SC), and to other subcortical targets. The functional
+(receptive field) properties and target specificity of these non-parvocellular,
+non-magnocellular populations remain poorly understood. It is known that one
+population of koniocellular layer cells in the LGN (blue-On cells) receives
+dominant functional input from short-wavelength sensitive (S or ‘blue') cones.
+Here we asked whether SC neurones also receive S cone inputs. We made
+extracellular recordings from single neurones (n = 38) in the SC of anaesthetised
+marmoset monkeys. Responses to drifting and flashed gratings providing defined
+levels of cone contrast were measured. The SC receptive fields we recorded were
+often binocular, showed ‘complex cell' like responses (On–Off responses), strong 
+bandpass spatial frequency tuning, direction selectivity, and many showed strong 
+and rapid habituation to repeatedly presented stimuli. We found no evidence for
+dominant S cone input to any SC neurone recorded. These data suggest that S cone 
+signals may reach cortical pathways for colour vision exclusively through the
+koniocellular division of the lateral geniculate nucleus.
+
+DOI: 10.1113/jphysiol.2012.230409 
+PMCID: PMC3476648
+PMID: 22687612  [Indexed for MEDLINE]
+

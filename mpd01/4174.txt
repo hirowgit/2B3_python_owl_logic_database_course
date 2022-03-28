@@ -1,0 +1,91 @@
+
+
+4174. J Clin Endocrinol Metab. 1992 Dec;75(6):1556-61.
+
+Relative effects of activin and inhibin on steroid hormone synthesis in primate
+granulosa cells.
+
+Miró F(1), Hillier SG.
+
+Author information: 
+(1)Department of Obstetrics and Gynaecology, University of Edinburgh, Scotland.
+
+Ovarian granulosa cells produce inhibin and activin, structurally related
+proteins with potentials to directly modulate follicular steroidogenesis. The aim
+of the present study was to compare development-related effects of inhibin-A and 
+activin-A on steroidogenesis in marmoset monkey (Callithrix jacchus) granulosa
+cells. Granulosa cells from "immature" (< 1.0 mm diameter) and "mature" (> 2 mm
+diameter) follicles were incubated in serum-free culture medium for 96 h with and
+without peptide (1-100 ng/mL), in the presence and absence of gonadotropins
+[human (h) FSH or hLH] (10 ng/mL). Spent medium was collected and stored frozen
+for progesterone assay. Aromatase activity was determined by incubating cells for
+a further 6 h in the presence of 1 mumol testosterone and assaying accumulation
+of oestradiol. Granulosa cells from immature follicles showed characteristically 
+low basal rates of steroid synthesis that were unaffected by treatment alone with
+either inhibin or activin. Treatment with hFSH stimulated both progesterone
+production and aromatase activity. Cotreatment with activin and hFSH further
+enhanced aromatase activity by up to 4-fold. The progesterone response to activin
+plus hFSH was related to the effect of hFSH in the absence of activin: high-level
+responsiveness to hFSH was suppressed by activin while low-level responsiveness
+was enhanced. Inhibin had no significant effect on FSH-responsive progesterone
+production, but at high concentrations (> 10 ng/mL) it caused slight (up to 30%) 
+reduction in FSH-induced aromatase activity. Granulosa cells from mature
+follicles showed relatively high basal rates of steroidogenesis, and treatment
+with inhibin did not influence either basal or gonadotropin responsive
+steroidogenesis. Treatment with activin had divergent effects on aromatase
+activity and progesterone synthesis in that it increased both basal and
+hLH-responsive aromatase activity (up to 11-fold), had no effect on basal
+progesterone production, and markedly suppressed (by more than 50%) the
+progesterone response to hLH. These data reveal development-dependent effects of 
+inhibin and activin on granulosa cell steroidogenesis that are likely to have
+physiological relevance to ovarian function in vivo.
+
+DOI: 10.1210/jcem.75.6.1464664 
+PMID: 1464664  [Indexed for MEDLINE]
+
+
+4175. Endocrinology. 1992 Dec;131(6):2581-7.
+
+Specificity of steroid binding in New World primate B95-8 cells with a vitamin
+D-resistant phenotype.
+
+Gacad MA(1), Adams JS.
+
+Author information: 
+(1)Division of Endocrinology and Metabolism, Cedars-Sinai Medical Center,
+University of California School of Medicine, Los Angeles 90049.
+
+We recently described the existence of a competitive binding component in vitamin
+D-resistant New World primate cells that has a relatively low affinity (Kd,
+approximately 10(-8) M) but high capacity for 1,25-dihydroxyvitamin D3
+[1,25-(OH)2D3] compared to that possessed by the vitamin D receptor (VDR). Here
+we show that this binding component is capable of binding a vitamin D3 metabolite
+other than 1,25-(OH)2D3 as well as steroid hormones structurally disparate from
+vitamin D3 sterols. We studied the binding of [3H]1,25-(OH)2D3 and
+[3H]25-hydroxyvitamin D3 ([3H]25OHD3) in extracts of the vitamin D-resistant
+marmoset lymphoblastic cell line B95-8 in the presence and absence of potential
+competitive ligands, including 25OHD3, 1,25-(OH)2D3, 17 beta-estradiol,
+testosterone, and progesterone, at concentrations ranging from 1-100 nM. Compared
+to extracts containing the authentic VDR, extracts of B95-8 cells bound 180% more
+1,25-(OH)2D3 and 12-fold more 25OHD3 on a weight basis. The affinity of this
+binder for 25OHD3 was 2.2 times as great as its affinity for 1,25-(OH)2D3.
+Further, at concentrations approaching the Kd of this binder for 1,25-(OH)2D3,
+25OHD3 was 3 times more effective than 1,25-(OH)2D3 in competing with
+[3H]1,25-(OH)2D3 for binding. This binder eluted from a Sephadex G-100 column
+with an apparent mol wt of 58 kilodaltons, and pooled elution fractions from the 
+column encompassing this mol wt range were capable of inhibiting binding of
+1,25-(OH)2D3 to the VDR by 65%. Competitive steroid binding analyses showed
+estradiol to be at least as effective as 1,25-(OH)2D3 in inhibition of
+[3H]1,25-(OH)2D3 binding; homologous binding studies with 17 beta-estradiol as
+labeled and competitive ligand demonstrated that concentrations of the gonadal
+steroid that successfully displaced [3H]1,25-(OH)2D3 also displaced 17 beta-[3H] 
+estradiol. Using [3H]25OHD3 as the labeled ligand and a more extensive array of
+competitive ligands, the rank order of steroid binding was 25OHD3 > 1,25-(OH)2D3 
+> or = estradiol = progesterone = testosterone. These results suggest that the
+phenotype of steroid hormone resistance in New World primates may result from the
+overexpression of an intracellular 58-kilodalton protein(s) that interferes with 
+the steroid-receptor interaction by competing for ligand binding.
+
+DOI: 10.1210/endo.131.6.1446602 
+PMID: 1446602  [Indexed for MEDLINE]
+

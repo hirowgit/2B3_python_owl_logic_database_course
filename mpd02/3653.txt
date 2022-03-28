@@ -1,0 +1,34 @@
+
+
+3653. J Virol. 1997 Aug;71(8):6136-43.
+
+Sp1 binds to the precise locus of end processing within the terminal repeats of
+Epstein-Barr virus DNA.
+
+Sun R(1), Spain TA, Lin SF, Miller G.
+
+Author information: 
+(1)Department of Molecular Biophysics and Biochemistry, Yale University School of
+Medicine, New Haven, Connecticut 06520-8064, USA.
+
+Interconversion between the linear genome of Epstein-Barr virus (EBV) present in 
+virions and intracellular circular EBV DNA is a novel DNA recombination process. 
+A previously characterized DNA binding activity called terminal repeat or tandem 
+repeat binding protein (TRBP) was found to recognize several G-rich
+recombinogenic sequences in the EBV genome and in cellular DNA. TRBP was also
+found to be an autoantigen recognized by sera from certain patients with
+undifferentiated connective-tissue disorders. Here the transcription factor Sp1
+has been identified as a component of TRBP and has been shown to be an
+autoantigen. Sp1 bound to recombination junctions of EBV DNA, such as those in
+the terminal repeats and in the large internal repeats, as well as to
+recombinogenic regions of cellular DNA, such as variable-number tandem repeats
+and switch regions of the immunoglobulin genes. We defined the ends of the linear
+EBV genome present in virions and showed that Sp1 binds to the sequence
+(GGGGTGGGGCATGGG) within EBV terminal repeats at the precise locus of
+interconversion of linear and circular viral DNA. Sp1 may be involved in DNA
+recombination.
+
+DOI: 10.1128/JVI.71.8.6136-6143.1997 
+PMCID: PMC191874
+PMID: 9223508  [Indexed for MEDLINE]
+

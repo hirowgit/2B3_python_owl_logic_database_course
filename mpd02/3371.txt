@@ -1,0 +1,27 @@
+
+
+3371. Genome Res. 1999 Dec;9(12):1184-8.
+
+Centromere repositioning.
+
+Montefalcone G(1), Tempesta S, Rocchi M, Archidiacono N.
+
+Author information: 
+(1)Istituto di Genetica, 70126 Bari, Italy.
+
+Primate pericentromeric regions recently have been shown to exhibit extraordinary
+evolutionary plasticity. In this paper we report an additional peculiar feature
+of these regions that we discovered while analyzing, by FISH, the evolutionary
+conservation of primate phylogenetic chromosome IX. If the position of the
+centromere is not taken into account, a relatively small number of rearrangements
+must be invoked to account for interspecific differences. Conversely, if the
+centromere is included, a paradox emerges: The position of the centromere seems
+to have undergone, in some species, an evolutionary history independent from the 
+surrounding markers. A significant number of additional rearrangements must be
+proposed to reconcile the order of the markers with centromere position.
+Alternatively, the evolutionary emergence of neocentromeres can be postulated.
+
+DOI: 10.1101/gr.9.12.1184 
+PMCID: PMC311001
+PMID: 10613840  [Indexed for MEDLINE]
+

@@ -1,0 +1,90 @@
+
+
+521. J Neurophysiol. 2019 May 1;121(5):1924-1937. doi: 10.1152/jn.00504.2018. Epub
+2019 Mar 27.
+
+Weighting neurons by selectivity produces near-optimal population codes.
+
+Zavitz E(1)(2)(3), Price NSC(1)(2)(3).
+
+Author information: 
+(1)Department of Physiology, Monash University , Clayton, Victoria , Australia.
+(2)Biomedicine Discovery Institute, Monash University , Clayton, Victoria ,
+Australia.
+(3)Australian Research Council Centre of Excellence for Integrative Brain
+Function, Monash University , Clayton, Victoria , Australia.
+
+Perception is produced by "reading out" the representation of a sensory stimulus 
+contained in the activity of a population of neurons. To examine experimentally
+how populations code information, a common approach is to decode a linearly
+weighted sum of the neurons' spike counts. This approach is popular because of
+the biological plausibility of weighted, nonlinear integration. For neurons
+recorded in vivo, weights are highly variable when derived through optimization
+methods, but it is unclear how the variability affects decoding performance in
+practice. To address this, we recorded from neurons in the middle temporal area
+(MT) of anesthetized marmosets (Callithrix jacchus) viewing stimuli comprising a 
+sheet of dots that moved coherently in 1 of 12 different directions. We found
+that high peak response and direction selectivity both predicted that a neuron
+would be weighted more highly in an optimized decoding model. Although learned
+weights differed markedly from weights chosen according to a priori rules based
+on a neuron's tuning profile, decoding performance was only marginally better for
+the learned weights. In the models with a priori rules, selectivity is the best
+predictor of weighting, and defining weights according to a neuron's preferred
+direction and selectivity improves decoding performance to very near the maximum 
+level possible, as defined by the learned weights. NEW & NOTEWORTHY We examined
+which aspects of a neuron's tuning account for its contribution to sensory
+coding. Strongly direction-selective neurons are weighted most highly by optimal 
+decoders trained to discriminate motion direction. Models with predefined
+decoding weights demonstrate that this weighting scheme causally improved
+direction representation by a neuronal population. Optimizing decoders (using a
+generalized linear model or Fisher's linear discriminant) led to only marginally 
+better performance than decoders based purely on a neuron's preferred direction
+and selectivity.
+
+DOI: 10.1152/jn.00504.2018 
+PMID: 30917063  [Indexed for MEDLINE]
+
+
+522. J Endocrinol. 2019 Jun 1;241(3):175-187. doi: 10.1530/JOE-18-0574.
+
+Irisin in the primate hypothalamus and its effect on GnRH in vitro.
+
+Wahab F(1), Khan IU(2), Polo IR(1)(3), Zubair H(2), Drummer C(1)(3), Shahab M(2),
+Behr R(1)(3).
+
+Author information: 
+(1)Platform Degenerative Diseases, German Primate Center, Leibniz Institute for
+Primate Research, Göttingen, Germany.
+(2)Department of Animal Sciences, Faculty of Biological Sciences, Quaid-i-Azam
+University, Islamabad, Pakistan.
+(3)DZHK (German Center for Cardiovascular Research), Partner Site Göttingen,
+Göttingen, Germany.
+
+Irisin, encoded by the FNDC5 gene, is a recently discovered endocrine factor
+mainly secreted as a myokine and adipokine. However, irisin/FNDC5 expression has 
+also been reported in different other organs including components of the
+reproductive axis. Yet, there is the scarcity of data on FNDC5/irisin expression,
+regulation and its reproductive effects, particularly in primates. Here, we
+report the expression of FNDC5/irisin, along with PGC1A (peroxisome
+proliferator-activated receptor gamma coactivator 1-alpha) and ERRA
+(estrogen-related receptor alpha), in components of the reproductive axis of
+marmoset monkeys. Hypothalamic FNDC5 and ERRA transcript levels are
+developmentally regulated in both male and female. We further uncovered
+sex-specific differences in FNDC5, ERRA and PGC1A expression in muscle and the
+reproductive axis. Moreover, irisin and ERRα co-localize in the marmoset
+hypothalamus. Additionally, in the arcuate nucleus of rhesus monkeys, the number 
+of irisin+ cells was significantly increased in short-term fasted monkeys as
+compared to ad libitum-fed monkeys. More importantly, we observed putative
+interaction of irisin-immunoreactive fibers and few GnRH-immunoreactive cell
+bodies in the mediobasal hypothalamus of the rhesus monkeys. Functionally, we
+noted a stimulatory effect of irisin on GnRH synthesis and release in mouse
+hypothalamic neuronal GT1-7 cells. In summary, our findings show that FNDC5 and
+irisin are developmentally, metabolic-status dependently and sex-specifically
+expressed in the primate hypothalamic-pituitary-gonadal axis and exert a
+stimulatory effect on GnRH expression and release in mouse hypothalamic cells.
+Further studies are required to confirm the reproductive effects of irisin in
+vivo and to illuminate the mechanisms of its regulation.
+
+DOI: 10.1530/JOE-18-0574 
+PMID: 30913538  [Indexed for MEDLINE]
+

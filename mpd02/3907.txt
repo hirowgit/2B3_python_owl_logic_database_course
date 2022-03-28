@@ -1,0 +1,27 @@
+
+
+3907. Chromosome Res. 1995 Jun;3(4):207-13.
+
+Recently amplified satellite DNA in Callithrix argentata (primates, Platyrrhini).
+
+Alves G(1), Canavez F, Seuánez H, Fanning T.
+
+Author information: 
+(1)Genetics Section, National Cancer Institute, Rio de Janeiro, Brazil.
+
+A satellite DNA has been cloned from the neotropical primate Callithrix argentata
+and designated CarB. The presence of the satellite was assayed in New and Old
+World primates by blot hybridization: CarB is highly amplified in the genomes of 
+all three species belonging to the C. argentata species group (C. argentata, C.
+emiliae, C. humeralifer), but is either absent, or present in only minor amounts,
+in other primates, including the closely related species, C. jacchus. A
+completely sequenced CarB monomeric unit was 1528 bp in length and mapped to the 
+telomeric C-band-positive regions of many C. argentata species group chromosomes.
+Sequence data from eight CarB clones indicated an average difference of 3.5% when
+base substitutions alone were counted. The hybridization and sequence data
+suggest that this satellite underwent a period of amplification and dispersal in 
+the genome of a recent ancestor of the C. argentata species group.
+
+DOI: 10.1007/BF00713044 
+PMID: 7606357  [Indexed for MEDLINE]
+

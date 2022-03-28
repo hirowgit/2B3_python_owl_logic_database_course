@@ -1,0 +1,77 @@
+
+
+2249. Behav Brain Res. 2008 Dec 12;194(2):152-61. doi: 10.1016/j.bbr.2008.06.035. Epub 
+2008 Jul 6.
+
+A novel adenosine A(1) and A(2A) receptor antagonist ASP5854 ameliorates motor
+impairment in MPTP-treated marmosets: comparison with existing anti-Parkinson's
+disease drugs.
+
+Mihara T(1), Iwashita A, Matsuoka N.
+
+Author information: 
+(1)Department of Neuroscience, Pharmacology Research Labs, Astellas Pharma Inc., 
+21 Miyukigaoka, Tsukuba, Ibaraki 305-8585, Japan. takuma.mihara@jp.astellas.com
+
+Recent evidence indicates that adenosine A(2A) receptor antagonists hold
+therapeutic potential for the treatment of Parkinson's disease (PD). A study on
+the novel adenosine A(1) and A(2A) receptor dual antagonist
+5-[5-amino-3-(4-fluorophenyl)pyrazin-2-yl]-1-isopropylpyridine-2(1H)-one
+(ASP5854) showed it to be effective in various rodents models of PD and
+cognition. In the present study, we further investigated the potential of ASP5854
+as an anti-PD drug using 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(MPTP)-treated common marmosets, which is a highly predictive model of clinical
+efficacy in PD, and compared its effect with those of existing anti-PD drugs.
+ASP5854 significantly and dose-dependently improved the total motor disability
+score for 7h at doses higher than 1mg/kg, and significantly increased total
+locomotor activity at doses higher than 0.1mg/kg without adverse effects.
+l-3,4-Dihydroxyphenylalanine+benserazide and bromocriptine also significantly
+improved the motor disability score and the hypolocomotion caused by MPTP
+treatment in a dose-dependent fashion. This amelioration was significant at 32+8 
+and 10-32 mg/kg, respectively, although bromocriptine induced severe emesis.
+Trihexiphenidyl also significantly improved the total motor disability score at
+doses of 10-32 mg/kg; however, while a significant increase in the total
+locomotor activity was observed at 10mg/kg, the drug induced ataxia-like behavior
+at 32 mg/kg. On the other hand, neither selegiline nor amantadine improved the
+total motor disability and hypolocomotion. These data substantiate the evidence
+that the novel adenosine antagonist ASP5854 exerts comparable anti-PD activity
+with existing anti-PD drugs, which indicates that ASP5854 might have potential to
+ameliorate motor deficits in PD.
+
+DOI: 10.1016/j.bbr.2008.06.035 
+PMID: 18657577  [Indexed for MEDLINE]
+
+
+2250. Neurobiol Dis. 2008 Oct;32(1):66-80. doi: 10.1016/j.nbd.2008.06.014. Epub 2008
+Jul 3.
+
+PACAP prevents toxicity induced by cisplatin in rat and primate neurons but not
+in proliferating ovary cells: involvement of the mitochondrial apoptotic pathway.
+
+Aubert N(1), Vaudry D, Falluel-Morel A, Desfeux A, Fisch C, Ancian P, de Jouffrey
+S, Le Bigot JF, Couvineau A, Laburthe M, Fournier A, Laudenbach V, Vaudry H,
+Gonzalez BJ.
+
+Author information: 
+(1)INSERM U413, Laboratory of Cellular and Molecular Neuroendocrinology, European
+Institute for Peptide Research (IFRMP 23), University of Rouen,
+Mont-Saint-Aignan, France.
+
+Cisplatin is a chemotherapeutic agent whose use is limited by side effects
+including neuropathies. In proliferating cells, toxic action of cisplatin is
+based on DNA interactions, while, in quiescent cells, it can induce apoptosis by 
+interacting with proteins. In the present study, we compared cytotoxic mechanisms
+activated by cisplatin in primate and rodent neurons and in ovary cells in order 
+to determine whether the anti-apoptotic peptide PACAP could selectively reduce
+neurotoxicity. In quiescent neurons, JNK and sphingomyelinase inhibitors blocked 
+cisplatin-induced cell death. Toxicity was associated with DNA laddering,
+caspase-3 and -9 activations and Bax induction. These effects were prevented by
+PACAP. In proliferating cells, cisplatin activated caspase-8 but had no effect on
+caspase-9. PACAP exerted no protective effect. These data indicate that cisplatin
+activates distinct apoptotic pathways in quiescent neurons and proliferating
+cells and that PACAP may reduce neurotoxicity of cisplatin without affecting its 
+chemotherapeutic efficacy.
+
+DOI: 10.1016/j.nbd.2008.06.014 
+PMID: 18652895  [Indexed for MEDLINE]
+

@@ -1,0 +1,85 @@
+
+
+943. J Neurosci. 2016 Dec 7;36(49):12468-12484.
+
+Selective Neuronal Activation by Cochlear Implant Stimulation in Auditory Cortex 
+of Awake Primate.
+
+Johnson LA(1), Della Santina CC(1)(2), Wang X(3).
+
+Author information: 
+(1)Departments of Biomedical Engineering and.
+(2)Otolaryngology-Head and Neck Surgery, Johns Hopkins University School of
+Medicine, Baltimore, Maryland 21025.
+(3)Departments of Biomedical Engineering and xiaoqin.wang@jhu.edu.
+
+Comment in
+    eNeuro. 2017 Jun 27;4(3):null.
+
+Despite the success of cochlear implants (CIs) in human populations, most users
+perform poorly in noisy environments and music and tonal language perception. How
+CI devices engage the brain at the single neuron level has remained largely
+unknown, in particular in the primate brain. By comparing neuronal responses with
+acoustic and CI stimulation in marmoset monkeys unilaterally implanted with a CI 
+electrode array, we discovered that CI stimulation was surprisingly ineffective
+at activating many neurons in auditory cortex, particularly in the hemisphere
+ipsilateral to the CI. Further analyses revealed that the CI-nonresponsive
+neurons were narrowly tuned to frequency and sound level when probed with
+acoustic stimuli; such neurons likely play a role in perceptual behaviors
+requiring fine frequency and level discrimination, tasks that CI users find
+especially challenging. These findings suggest potential deficits in central
+auditory processing of CI stimulation and provide important insights into factors
+responsible for poor CI user performance in a wide range of perceptual
+tasks.SIGNIFICANCE STATEMENT: The cochlear implant (CI) is the most successful
+neural prosthetic device to date and has restored hearing in hundreds of
+thousands of deaf individuals worldwide. However, despite its huge successes, CI 
+users still face many perceptual limitations, and the brain mechanisms involved
+in hearing through CI devices remain poorly understood. By directly comparing
+single-neuron responses to acoustic and CI stimulation in auditory cortex of
+awake marmoset monkeys, we discovered that neurons unresponsive to CI stimulation
+were sharply tuned to frequency and sound level. Our results point out a major
+deficit in central auditory processing of CI stimulation and provide important
+insights into mechanisms underlying the poor CI user performance in a wide range 
+of perceptual tasks.
+
+Copyright © 2016 the authors 0270-6474/16/3612468-17$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.1699-16.2016 
+PMCID: PMC5148231
+PMID: 27927962  [Indexed for MEDLINE]
+
+
+944. Behav Pharmacol. 2017 Jun;28(4):313-317. doi: 10.1097/FBP.0000000000000275.
+
+Effects of the 5-HT1A receptor agonists buspirone and 8-OH-DPAT on pupil size in 
+common marmosets.
+
+Kotani M(1), Urushino N, Natsutani I, Ogi Y, Ikeda K.
+
+Author information: 
+(1)aHigher Brain Function Research bBiomarker Group, Drug Development Research
+Laboratories cDMPK Group I, Preclinical Research Laboratories, Drug Research
+Division, Sumitomo Dainippon Pharma Co Ltd., Osaka, Japan.
+
+As pupil size is affected by psychotropic drugs in all mammals, it has been used 
+as a well-established clinical indicator for the preclinical and clinical
+development of novel drugs. It has been reported that activation of the serotonin
+(5-HT)1A receptor differently affects pupil response in rodents (mydriasis) and
+humans (miosis). Thus, it is important to establish a quantitative system for
+measuring pupil size using other species, such as nonhuman primates. Common
+marmosets have recently attracted a great deal of attention as suitable
+experimental animals in the psychoneurological field because of handling ease
+compared with other nonhuman primates and the requirement for small amounts of
+test drugs. In this study, we constructed a system for measuring changes in pupil
+size using an infrared eye-tracking camera and evaluated the effects on pupil
+size of the 5-HT1A receptor agonists buspirone, 8-OH-DPAT and buspirone active
+metabolite 1-(2-pyrimidinyl) piperazine. Our results show that both buspirone and
+8-OH-DPAT significantly decrease pupil size in a dose-dependent manner. The
+5-HT1A receptor antagonist WAY 100635 completely blocked both buspirone and
+8-OH-DPAT-induced miosis, whereas 1-(2-pyrimidinyl) piperazine had no effect on
+pupil size. These results suggest that measurement of pupil size may be a useful 
+biomarker for predicting the pharmacodynamics of new 5-HT1A receptor agonists.
+
+DOI: 10.1097/FBP.0000000000000275 
+PMID: 27922541  [Indexed for MEDLINE]
+

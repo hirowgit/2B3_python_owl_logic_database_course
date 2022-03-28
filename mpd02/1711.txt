@@ -1,0 +1,39 @@
+
+
+1711. Mol Ecol Resour. 2012 Sep;12(5):950-5. doi: 10.1111/j.1755-0998.2012.03162.x.
+Epub 2012 Jun 21.
+
+Development and annotation of shotgun sequence libraries from New World monkeys.
+
+Jameson NM(1), Xu K, Yi SV, Wildman DE.
+
+Author information: 
+(1)Center for Molecular Medicine and Genetics, Wayne State University School of
+Medicine, 540 East Canfield, Detroit, MI 48021, USA.
+
+The draft genome sequences of several primates are available, providing insights 
+into evolutionary and anthropological research. However, genomic resources from
+New World monkeys are conspicuously lacking. To date, the genomes of only two
+platyrrhine species, the common marmoset and the Bolivian squirrel monkey, have
+been fully sequenced. This is especially limiting for comparative genomics
+research, considering that New World monkeys are the most speciose primate group,
+and platyrrhine genetic diversity is comparable to that of the catarrhines (i.e. 
+apes and Old World monkeys). Here, we present the generation and annotation of
+numerous sequence reads from the genomes of Spider monkey (Ateles belzebuth), Owl
+monkey (Aotus lemurinus) and Uakari (Cacajao calvus), representing the three
+platyrrhine families, Atelidae, Cebidae and Pitheciidae, respectively. These
+sequencing reads were developed from gDNA shotgun libraries containing over 3000 
+individual sequences with an average length of 726 bps. Of these sequences, 1220 
+contain <20% repeats, and thus are potentially highly useful phylogenetic markers
+for other platyrrhine species. Among them, a large number of sequencing reads
+were found to match unique regions within the human (2462 sequences) and the
+marmoset (2829 sequences) genomes. In particular, the majority of these
+sequencing reads are from putatively neutrally evolving intergenic regions. Thus,
+they are likely to be highly informative for inferring neutral evolutionary
+patterns and genomic evolution for other New World monkeys.
+
+© 2012 Blackwell Publishing Ltd.
+
+DOI: 10.1111/j.1755-0998.2012.03162.x 
+PMID: 22715851  [Indexed for MEDLINE]
+

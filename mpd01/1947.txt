@@ -1,0 +1,76 @@
+
+
+1947. Proc Biol Sci. 2011 Jun 7;278(1712):1626-32. doi: 10.1098/rspb.2010.1890. Epub
+2010 Nov 24.
+
+Canaries in the coal mine: a cross-species analysis of the plurality of obesity
+epidemics.
+
+Klimentidis YC(1), Beasley TM, Lin HY, Murati G, Glass GE, Guyton M, Newton W,
+Jorgensen M, Heymsfield SB, Kemnitz J, Fairbanks L, Allison DB.
+
+Author information: 
+(1)Department of Biostatistics, University of Alabama, Birmingham, AL, USA.
+
+A dramatic rise in obesity has occurred among humans within the last several
+decades. Little is known about whether similar increases in obesity have occurred
+in animals inhabiting human-influenced environments. We examined samples
+collectively consisting of over 20 000 animals from 24 populations (12 divided
+separately into males and females) of animals representing eight species living
+with or around humans in industrialized societies. In all populations, the
+estimated coefficient for the trend of body weight over time was positive (i.e.
+increasing). The probability of all trends being in the same direction by chance 
+is 1.2 × 10(-7). Surprisingly, we find that over the past several decades,
+average mid-life body weights have risen among primates and rodents living in
+research colonies, as well as among feral rodents and domestic dogs and cats. The
+consistency of these findings among animals living in varying environments,
+suggests the intriguing possibility that the aetiology of increasing body weight 
+may involve several as-of-yet unidentified and/or poorly understood factors (e.g.
+viral pathogens, epigenetic factors). This finding may eventually enhance the
+discovery and fuller elucidation of other factors that have contributed to the
+recent rise in obesity rates.
+
+DOI: 10.1098/rspb.2010.1890 
+PMCID: PMC3081766
+PMID: 21106594  [Indexed for MEDLINE]
+
+
+1948. J Immunol. 2010 Dec 15;185(12):7274-84. doi: 10.4049/jimmunol.1001547. Epub 2010 
+Nov 15.
+
+Endoplasmic reticulum stress-mediated apoptosis of EBV-transformed B cells by
+cross-linking of CD70 is dependent upon generation of reactive oxygen species and
+activation of p38 MAPK and JNK pathway.
+
+Park GB(1), Kim YS, Lee HK, Song H, Cho DH, Lee WJ, Hur DY.
+
+Author information: 
+(1)Department of Anatomy and Research Center for Tumor Immunology, Inje
+University College of Medicine, Busan, Korea.
+
+CD70 is expressed in normal activated immune cells as well as in several types of
+tumors. It has been established that anti-CD70 mAb induces complement-dependent
+death of CD70(+) tumor cells, but how anti-CD70 mAb affects the intrinsic
+signaling is poorly defined. In this report, we show that ligation of CD70
+expressed on EBV-transformed B cells using anti-CD70 mAb induced production of
+reactive oxygen species (ROS) and subsequent apoptosis. We observed an early
+expression of endoplasmic reticulum (ER) stress response genes that preceded the 
+release of apoptotic molecules from the mitochondria and the cleavage of
+caspases. CD70-induced apoptosis was inhibited by pretreatment with the ER stress
+inhibitor salubrinal, ROS quencher N-acetylcysteine, and Ca(2+) chelator BAPTA.
+We supposed that ROS generation might be the first event of CD70-induced
+apoptosis because N-acetylcysteine blocked increases of ROS and Ca(2+), but BAPTA
+did not block ROS generation. We also found that CD70 stimulation activated JNK
+and p38 MAPK. JNK inhibitor SP600125 and p38 inhibitor SB203580 effectively
+blocked upregulation of ER stress-related genes and cleavage of caspases.
+Inhibition of ROS generation completely blocked phosphorylation of JNK and p38
+MAPK and induction of ER stress-related genes. Taken together, we concluded that 
+cross-linking of CD70 on EBV-transformed B cells triggered ER stress-mediated
+apoptosis via ROS generation and JNK and p38 MAPK pathway activation. Our report 
+reveals alternate mechanisms of direct apoptosis through CD70 signaling and
+provides data supporting CD70 as a viable target for an Ab-based therapy against 
+EBV-related tumors.
+
+DOI: 10.4049/jimmunol.1001547 
+PMID: 21078900  [Indexed for MEDLINE]
+

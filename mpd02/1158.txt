@@ -1,0 +1,36 @@
+
+
+1158. Sci Rep. 2015 Oct 12;5:15006. doi: 10.1038/srep15006.
+
+Mismatch negativity in common marmosets: Whole-cortical recordings with
+multi-channel electrocorticograms.
+
+Komatsu M(1), Takaura K(1), Fujii N(1).
+
+Author information: 
+(1)Laboratory for Adaptive Intelligence, RIKEN Brain Science Institute, 2-1
+Hirosawa, Wako, Saitama 351-0198, Japan.
+
+Mismatch negativity (MMN) is a component of event-related potentials (ERPs)
+evoked by violations of regularity in sensory stimulus-series in humans.
+Recently, the MMN has received attention as a clinical and translatable biomarker
+of psychiatric disorders such as schizophrenia, and for the development animal
+models of these psychiatric disorders. In this study, we investigated the
+generation of MMN in common marmosets, which are an important non-human primate
+model with genetic manipulability. We recorded the electrocorticograms (ECoGs)
+from two common marmosets with epidurally implanted electrodes covering a wide
+range of cortical regions. ECoG recordings were conducted in a passive listening 
+condition with a roving oddball paradigm. We compared the ERPs evoked by
+repeatedly presented standard stimuli and those evoked by the deviant stimuli.
+Significant differences in the ERPs were observed in several cortical areas. In
+particular, deviant stimuli elicited larger negative activity than standard
+stimuli in the temporal area. In addition, the latency and polarity of the
+activity were comparable to human MMNs. This is thus the first report of MMN-like
+activity in common marmosets. Our findings have the potential to advance future
+gene-manipulation studies that aim to establish non-human primate models of
+schizophrenia.
+
+DOI: 10.1038/srep15006 
+PMCID: PMC4601015
+PMID: 26456147  [Indexed for MEDLINE]
+

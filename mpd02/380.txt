@@ -1,0 +1,44 @@
+
+
+380. J Med Primatol. 2020 Apr;49(2):86-94. doi: 10.1111/jmp.12454. Epub 2020 Jan 12.
+
+A pilot study to establish human T-cell leukemia virus type 1 (HTLV-1) carrier
+model using common marmoset (Callithrix jacchus).
+
+Hirose L(1), Hiramoto T(1), Tian Y(1), Kohara H(1), Kobayashi S(2), Nagai E(3),
+Denda T(3), Tanaka Y(3), Ota Y(3), Jiyuan L(1), Miyamoto S(1), Miura Y(1),
+Hijikata Y(1), Soda Y(1), Inoue T(4), Okahara N(4), Itoh T(4), Sasaki E(4), Tojo 
+A(2), Uchimaru K(5), Tani K(1).
+
+Author information: 
+(1)Project Division of ALA Advanced Medical Research, The Institute of Medical
+Science, The University of Tokyo, Tokyo, Japan.
+(2)Division of Molecular Therapy, The Institute of Medical Science, The
+University of Tokyo, Tokyo, Japan.
+(3)Department of Pathology, Research Hospital, The Institute of Medical Science, 
+The University of Tokyo, Tokyo, Japan.
+(4)Central Institute for Experimental Animals, Kawasaki, Japan.
+(5)Department of Computational Biology and Medical Science, The Tokyo University,
+Tokyo, Japan.
+
+BACKGROUND: For the diagnosis and treatment of adult T-cell leukemia/lymphoma
+(ATLL) caused by human T-lymphotropic virus type 1 (HTLV-1) are required
+therapeutic modalities urgently. Non-human primate models for ATLL would provide 
+a valuable information for clinical studies. We did a pilot study to establish an
+ATLL non-human primate model using common marmosets (Callithrix jacchus).
+METHODS: We inoculated HTLV-1-producing MT-2 cells into 9-month-old marmosets,
+either intraperitoneally or intravenously. We next administrated MT-2 cells into 
+13-month-old marmosets under cyclosporine A (CsA) treatment to promote infection.
+HTLV-1 infection was determined by measuring HTLV-1 antibody titer in the common 
+marmosets.
+RESULTS: The HTLV-1 antibody titer increased in the intraperitoneally inoculated 
+marmoset with or without CsA treatment, and it kept over five 5 years though
+proviral copy number (proviral load, PVL) remained low throughout the study.
+CONCLUSION: We obtained HTLV-1 asymptomatic carriers of common marmosets by
+inoculating MT-2 cells.
+
+© 2020 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jmp.12454 
+PMID: 31930552  [Indexed for MEDLINE]
+

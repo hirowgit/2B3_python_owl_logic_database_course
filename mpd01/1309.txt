@@ -1,0 +1,72 @@
+
+
+1309. Emerg Infect Dis. 2015 Jan;21(1):48-57. doi: 10.3201/eid2101.140766.
+
+Protocol for metagenomic virus detection in clinical specimens.
+
+Kohl C, Brinkmann A, Dabrowski PW, Radonić A, Nitsche A, Kurth A.
+
+Sixty percent of emerging viruses have a zoonotic origin, making transmission
+from animals a major threat to public health. Prompt identification and analysis 
+of these pathogens are indispensable to taking action toward prevention and
+protection of the affected population. We quantifiably compared classical and
+modern approaches of virus purification and enrichment in theory and experiments.
+Eventually, we established an unbiased protocol for detection of known and novel 
+emerging viruses from organ tissues (tissue-based universal virus detection for
+viral metagenomics [TUViD-VM]). The final TUViD-VM protocol was extensively
+validated by using real-time PCR and next-generation sequencing. We could
+increase the amount of detectable virus nucleic acids and improved the detection 
+of viruses <75,000-fold compared with other tested approaches. This TUViD-VM
+protocol can be used in metagenomic and virome studies to increase the likelihood
+of detecting viruses from any biological source.
+
+DOI: 10.3201/eid2101.140766 
+PMCID: PMC4285256
+PMID: 25532973  [Indexed for MEDLINE]
+
+
+1310. Gene. 2015 Feb 25;557(2):182-7. doi: 10.1016/j.gene.2014.12.033. Epub 2014 Dec
+16.
+
+Relationship between amino acid usage and amino acid evolution in primates.
+
+Liu H(1), Xie Z(1), Tan S(1), Zhang X(2), Yang S(3).
+
+Author information: 
+(1)State Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences,
+Nanjing University, Nanjing 210093, China.
+(2)State Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences,
+Nanjing University, Nanjing 210093, China. Electronic address:
+xiaohuizhang@nju.edu.cn.
+(3)State Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences,
+Nanjing University, Nanjing 210093, China. Electronic address:
+sihaiyang@nju.edu.cn.
+
+Amino acid usage varies from species to species. A previous study has found a
+universal trend in amino acid gain and loss in many taxa and a one-way model of
+amino acid evolution in which the number of new amino acids increases as the
+number of old amino acids decreases was proposed. Later studies showed that this 
+pattern of amino acid gain and loss is likely to be compatible with the neutral
+theory. The present work aimed to further study this problem by investigating the
+evolutionary patterns of amino acids in 8 primates (the nucleotide and protein
+alignments are available online http://gattaca.nju.edu.cn/pub_data.html). First, 
+the number of amino acids gained and lost was calculated and the evolution trend 
+of each amino acid was inferred. These values were found to be closely related to
+the usage of each amino acid. Then we analyzed the mutational trend of amino acid
+substitution in human using SNPs, this trend is highly correlated with fixation
+trend only with greater variance. Finally, the trends in the evolution of 20
+amino acids were evaluated in human on different time scales, and the increasing 
+rate of 5 significantly increasing amino acids was found to decrease as a
+function of time elapsed since divergence, and the dS/dN ratio also found to
+increase as a function of time elapsed since divergence. These results suggested 
+that the observed amino acid substitution pattern is influenced by mutation and
+purifying selection. In conclusion, the present study shows that usage of amino
+acids is an important factor capable of influencing the observed pattern of amino
+acid evolution, and also presented evidences suggesting that the observed
+universal trend of amino acid gain and loss is compatible with neutral evolution.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.gene.2014.12.033 
+PMID: 25527119  [Indexed for MEDLINE]
+

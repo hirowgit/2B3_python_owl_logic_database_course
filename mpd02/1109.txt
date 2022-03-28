@@ -1,0 +1,67 @@
+
+
+1109. Parasit Vectors. 2016 Jan 26;9:39. doi: 10.1186/s13071-016-1334-7.
+
+Vector-borne transmission of Trypanosoma cruzi among captive Neotropical primates
+in a Brazilian zoo.
+
+Minuzzi-Souza TT(1), Nitz N(2), Knox MB(3), Reis F(4), Hagström L(5), Cuba CA(6),
+Hecht MM(7), Gurgel-Gonçalves R(8).
+
+Author information: 
+(1)Laboratório de Parasitologia Médica e Biologia de Vetores, Área de Patologia, 
+Faculdade de Medicina, Universidade de Brasília, Campus Universitário Darcy
+Ribeiro, Asa Norte, Brasília, 70910-900, Distrito Federal, Brazil.
+thaistam@yahoo.com.br.
+(2)Laboratório Interdisciplinar de Biociências, Faculdade de Medicina,
+Universidade de Brasília, Brasília, Federal District, Brazil. nnitz@unb.br.
+(3)Diretoria de Vigilância Ambiental do Distrito Federal, Secretaria de Saúde,
+Brasília, Federal District, Brazil. monaknox@gmail.com.
+(4)Fundação Jardim Zoológico de Brasília, Brasília, Federal District, Brazil.
+filipereisbio@gmail.com.
+(5)Laboratório Interdisciplinar de Biociências, Faculdade de Medicina,
+Universidade de Brasília, Brasília, Federal District, Brazil. loubex@hotmail.com.
+(6)Laboratório de Parasitologia Médica e Biologia de Vetores, Área de Patologia, 
+Faculdade de Medicina, Universidade de Brasília, Campus Universitário Darcy
+Ribeiro, Asa Norte, Brasília, 70910-900, Distrito Federal, Brazil.
+cesarcuba@hotmail.com.
+(7)Laboratório Interdisciplinar de Biociências, Faculdade de Medicina,
+Universidade de Brasília, Brasília, Federal District, Brazil.
+marianahecht@gmail.com.
+(8)Laboratório de Parasitologia Médica e Biologia de Vetores, Área de Patologia, 
+Faculdade de Medicina, Universidade de Brasília, Campus Universitário Darcy
+Ribeiro, Asa Norte, Brasília, 70910-900, Distrito Federal, Brazil.
+gurgelrg@hotmail.com.
+
+BACKGROUND: Neotropical primates are important sylvatic hosts of Trypanosoma
+cruzi, the etiological agent of Chagas disease. Infection is often subclinical,
+but severe disease has been described in both free-ranging and captive primates. 
+Panstrongylus megistus, a major T. cruzi vector, was found infesting a
+small-primate unit at Brasília zoo (ZooB), Brazil. ZooB lies close to a
+gallery-forest patch where T. cruzi circulates naturally. Here, we combine
+parasitological and molecular methods to investigate a focus of T. cruzi
+infection involving triatomine bugs and Neotropical primates at a zoo located in 
+the Brazilian Savannah.
+METHODS: We assessed T. cruzi infection in vectors using optical microscopy
+(n = 34) and nested PCR (n = 50). We used quantitative PCR (qPCR) to examine
+blood samples from 26 primates and necropsy samples from two primates that died
+during the study. We determined parasite lineages in five vectors and two
+primates by comparing glucose-6-phosphate isomerase (G6pi) gene sequences.
+RESULTS: Trypanosoma cruzi was found in 44 vectors and 17 primates (six genera
+and eight species); one Mico chrysoleucus and one Saguinus niger had high
+parasitaemias. Trypanosoma cruzi DNA was detected in three primates born to
+qPCR-negative mothers at ZooB and in the two dead specimens. One Callithrix
+geoffroyi became qPCR-positive over a two-year follow-up. All G6pi sequences
+matched T. cruzi lineage TcI.
+CONCLUSIONS: Our findings strongly suggest vector-borne T. cruzi transmission
+within a small-primate unit at ZooB - with vectors, and perhaps also parasites,
+presumably coming from nearby gallery forest. Periodic checks for vectors and
+parasites would help eliminate T. cruzi transmission foci in captive-animal
+facilities. This should be of special importance for captive-breeding programs
+involving endangered mammals, and would reduce the risk of accidental T. cruzi
+transmission to keepers and veterinarians.
+
+DOI: 10.1186/s13071-016-1334-7 
+PMCID: PMC4727406
+PMID: 26813657  [Indexed for MEDLINE]
+

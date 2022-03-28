@@ -1,0 +1,115 @@
+
+
+697. Mol Hum Reprod. 2018 Jun 1;24(6):299-309. doi: 10.1093/molehr/gay017.
+
+Spermatogonial behavior in marmoset: a new generation, their kinetics and niche.
+
+Caldeira-Brant AL(1), Eras-Garcia L(1), Alves-Freitas D(1), Almeida FRCL(1),
+Chiarini-Garcia H(1).
+
+Author information: 
+(1)Laboratório de Biologia Estrutural e Reprodução, Departamento de Morfologia,
+Instituto de Ciências Biológicas-ICB, Universidade Federal de Minas Gerais-UFMG, 
+31.270-901 Belo Horizonte, MG, Brazil.
+
+STUDY QUESTION: Could a more detailed evaluation of marmoset spermatogonial
+morphology, kinetics and niches using high-resolution light microscopy (HRLM)
+lead to new findings?
+SUMMARY ANSWER: Three subtypes of marmoset undifferentiated spermatogonia, which 
+were not evenly distributed in terms of number and position along the basal
+membrane, and an extra premeiotic cell division not present in humans were
+identified using HRLM.
+WHAT IS KNOWN ALREADY: The seminiferous epithelium cycle (SEC) of marmosets is
+divided into nine stages when based on the acrosome system, and several
+spermatogenic stages can usually be recognized within the same tubular
+cross-section. Three spermatogonial generations have been previously described in
+marmosets: types Adark, Apale and B spermatogonia.
+STUDY DESIGN, SIZE, DURATION: Testes from five adult Callithrix penicillata were 
+fixed by glutaraldehyde perfusion via the cardiac route and embedded in Araldite 
+plastic resin for HRLM evaluation. Semi-thin sections (1 μm) were analyzed
+morphologically and morphometrically to evaluate spermatogonial morphology and
+kinetics (number, mitosis and apoptosis), spermatogenesis efficiency and the
+spermatogonial niche.
+PARTICIPANTS/MATERIALS, SETTING, METHODS: Shape and nuclear diameter, the
+presence and distribution of heterochromatin, the granularity of the euchromatin,
+as well as the number, morphology and degree of nucleolar compaction were
+observed for morphological characterization. Kinetics analyses were performed for
+all spermatogonial subtypes and preleptotene spermatocytes, and their mitosis and
+apoptosis indexes determined across all SEC stages. Spermatogenesis parameters
+(mitotic, meiotic, Sertoli cell workload and general spermatogenesis efficiency) 
+were determined through the counting of Adark and Apale spermatogonia,
+preleptotene and pachytene primary spermatocytes, round spermatids, and Sertoli
+cells at stage IV of the SEC.
+MAIN RESULTS AND THE ROLE OF CHANCE: This is the first time that a study in
+marmosets demonstrates: the existence of a new spermatogonial generation (B2);
+the presence of two subtypes of Adark spermatogonia with (AdVac) and without
+(AdNoVac) nuclear rarefaction zones; the peculiar behavior of AdVac spermatogonia
+across the stages of the SEC, suggesting that they are quiescent stem
+spermatogonia; and that AdVac spermatogonia are located close to areas in which
+blood vessels, Leydig cells and macrophages are concentrated, suggesting a niche 
+area for these cells.
+LARGE SCALE DATA: Not applicable.
+LIMITATIONS, REASONS FOR CAUTION: The C. penicillata spermatogonial kinetics
+evaluated here consider spermatogonial number across the SEC and their mitotic
+and apoptotic figures identified in HRLM sections. Therefore, caution is required
+when comparing absolute values between species. Although morphometric evaluation 
+has suggested that AdVac spermatogonia are stem cells, a functional proof of this
+is still missing. It is known that parameters of the spermatogenic process in C. 
+penicillata have similarities with those of the common marmoset C. jacchus,
+however, a detailed study of spermatogonial morphology, kinetics and niche has
+not yet been performed in C. jacchus, and a full comparison of the two species is
+not possible.
+WIDER IMPLICATIONS OF THE FINDINGS: Our findings in C. penicillata contribute to 
+a better understanding of the spermatogonial behavior and spermatogenesis
+efficiency in non-human primates. Given the phylogenetic closeness of the
+marmoset to the human species, similar processes might occur in humans.
+Therefore, marmosets may be an excellent model for studies regarding human
+testicular biology, fertility and related disorders.
+STUDY FUNDING/COMPETING INTEREST(S): Experiments were partially supported by
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), Fundação de 
+Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG) and Conselho Nacional de
+Desenvolvimento Cientifico e Tecnológico (CNPq). The authors declare that there
+are no conflicts of interest.
+
+DOI: 10.1093/molehr/gay017 
+PMID: 29660000  [Indexed for MEDLINE]
+
+
+698. Sci Adv. 2018 Apr 11;4(4):eaar4012. doi: 10.1126/sciadv.aar4012. eCollection 2018
+Apr.
+
+Limiting parental interaction during vocal development affects acoustic call
+structure in marmoset monkeys.
+
+Gultekin YB(1), Hage SR(1).
+
+Author information: 
+(1)Neurobiology of Vocal Communication, Werner Reichardt Centre for Integrative
+Neuroscience, University of Tübingen, Germany.
+
+Human vocal development is dependent on learning by imitation through social
+feedback between infants and caregivers. Recent studies have revealed that vocal 
+development is also influenced by parental feedback in marmoset monkeys,
+suggesting vocal learning mechanisms in nonhuman primates. Marmoset infants that 
+experience more contingent vocal feedback than their littermates develop
+vocalizations more rapidly, and infant marmosets with limited parental
+interaction exhibit immature vocal behavior beyond infancy. However, it is yet
+unclear whether direct parental interaction is an obligate requirement for proper
+vocal development because all monkeys in the aforementioned studies were able to 
+produce the adult call repertoire after infancy. Using quantitative measures to
+compare distinct call parameters and vocal sequence structure, we show that
+social interaction has a direct impact not only on the maturation of the vocal
+behavior but also on acoustic call structures during vocal development. Monkeys
+with limited parental interaction during development show systematic differences 
+in call entropy, a measure for maturity, compared with their normally raised
+siblings. In addition, different call types were occasionally uttered in
+motif-like sequences similar to those exhibited by vocal learners, such as birds 
+and humans, in early vocal development. These results indicate that a lack of
+parental interaction leads to long-term disturbances in the acoustic structure of
+marmoset vocalizations, suggesting an imperative role for social interaction in
+proper primate vocal development.
+
+DOI: 10.1126/sciadv.aar4012 
+PMCID: PMC5895450
+PMID: 29651461  [Indexed for MEDLINE]
+

@@ -1,0 +1,93 @@
+
+
+426. Am J Primatol. 2019 Sep;81(9):e23057. doi: 10.1002/ajp.23057. Epub 2019 Sep 30.
+
+Baseline cortisol levels and social behavior differ as a function of handedness
+in marmosets (Callithrix jacchus).
+
+Vaughan E(1), Le A(1), Casey M(2), Workman KP(2), Lacreuse A(2)(3).
+
+Author information: 
+(1)Department of Veterinary and Animal Sciences, University of Massachusetts,
+Amherst, Massachusetts.
+(2)Psychological and Brain Sciences, University of Massachusetts, Amherst,
+Massachusetts.
+(3)Center for Neuroendocrine Studies, University of Massachusetts, Amherst,
+Massachusetts.
+
+Population hand preferences are rare in nonhuman primates, but individual hand
+preferences are consistent over a lifetime and considered to reflect an
+individual's preference to use a particular hemisphere when engaged in a specific
+task. Previous findings in marmosets have indicated that left-handed individuals 
+tend to be more fearful than their right-handed counterparts. Based on these
+findings, we tested the hypotheses that left-handed marmosets are (a) more
+reactive to a social stressor and (b) are slower than right-handed marmosets in
+acquiring a reversal learning task. We examined the hand preference of 27 male
+and female marmosets (ages of 4-7 years old) previously tested in a social
+separation task and a reversal learning task. Hand preference was determined via 
+a simple reaching task. In the social separation task, monkeys were separated
+from their partner and the colony for a single 7-hr session. Urinary cortisol
+levels and behavior were assessed at baseline, during the separation and 24 hr
+postseparation. Hand preferences were equally distributed between left (n = 10), 
+right-handed (n = 10), and ambidextrous (n = 7) individuals. The separation phase
+was associated with an increase in cortisol levels and behavioral changes that
+were similar across handedness groups. However, cortisol levels at baseline were 
+positively correlated with right-handedness, and this relationship was stronger
+in females than in males. In addition, the occurrence of social behaviors (pre-
+and postseparation) was positively correlated with right-handedness in both
+sexes. Baseline cortisol levels did not correlate significantly with social
+behavior. Acquisition of the reversals was poorer in females than males but did
+not differ as a function of handedness. We conclude that (a) both stress
+reactivity and cognitive flexibility are similar across handedness groups and (b)
+left-handers exhibit less social behavior and have lower basal cortisol levels
+than ambidextrous and right-handed subjects. The underlying causes for these
+differences remain to be established.
+
+© 2019 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajp.23057 
+PMID: 31566763  [Indexed for MEDLINE]
+
+
+427. RNA Biol. 2020 Jan;17(1):125-134. doi: 10.1080/15476286.2019.1670038. Epub 2019
+Sep 29.
+
+Functional heritage: the evolution of chimeric RNA into a gene.
+
+Wu H(1)(2), Singh S(2), Shi X(3), Xie Z(2), Lin E(2), Li X(1), Li H(2)(3).
+
+Author information: 
+(1)Department of Gastrointestinal Surgery, The Third Xiangya Hospital of Central 
+South University, Changsha, Hunan, China.
+(2)Department of Pathology, School of Medicine, University of Virginia,
+Charlottesville, VA, USA.
+(3)Department of Biochemistry and Molecular Genetics, School of Medicine,
+University of Virginia, Charlottesville, VA, USA.
+
+Once believed to be unique features of neoplasia, chimeric RNAs are now being
+discovered in normal physiology. We speculated that some chimeric RNAs may be
+functional precursors of genes, and that forming chimeric RNA at the
+transcriptional level may be a 'trial' mechanism before the functional element is
+fixed into the genome. Supporting this idea, we identified a chimeric RNA,
+HNRNPA1L2-SUGT1 (H-S), whose sequence is highly similar to that of a 'pseudogene'
+MRPS31P5. Sequence analysis revealed that MRPS31P5 transcript is more similar to 
+H-S chimeric RNA than its 'parent' gene, MRPS31. Evolutionarily, H-S precedes
+MRPS31P5, as it can be detected bioinformatically and experimentally in
+marmosets, which do not yet possess MRPS31P5 in their genome. Conversely, H-S is 
+minimally expressed in humans, while instead, MRPS31P5 is abundantly expressed.
+Silencing H-S in marmoset cells resulted in similar phenotype as silencing
+MRPS31P5 in human cells. In addition, whole transcriptome analysis and candidate 
+downstream target validation revealed common signalling pathways shared by the
+two transcripts. Interestingly, H-S failed to rescue the phenotype caused by
+silencing MPRS31P5 in human and rhesus cells, whereas MRPS31P5 can at least
+partially rescue the phenotype caused by silencing H-S in marmoset cells,
+suggesting that MRPS31P5 may have further evolved into a distinct entity. Thus,
+multiple lines of evidence support that MRPS31P5 is not truly a pseudogene of
+MRPS31, but a likely functional descendent of H-S chimera. Instead being a gene
+fusion product, H-S is a product of cis-splicing between adjacent genes, while
+MRPS31P5 is likely produced by genome rearrangement.
+
+DOI: 10.1080/15476286.2019.1670038 
+PMCID: PMC6948976
+PMID: 31566065  [Indexed for MEDLINE]
+

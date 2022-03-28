@@ -1,0 +1,82 @@
+
+
+1124. Chromosoma. 2016 Sep;125(4):747-56. doi: 10.1007/s00412-015-0565-2. Epub 2015 Dec
+14.
+
+The 14/15 association as a paradigmatic example of tracing karyotype evolution in
+New World monkeys.
+
+Capozzi O(1), Archidiacono N(1), Lorusso N(1), Stanyon R(2), Rocchi M(3).
+
+Author information: 
+(1)Department of Biology, University of Bari, Bari, Italy.
+(2)Department of Biology, University of Florence, Florence, Italy.
+roscoe.stanyon@unifi.it.
+(3)Department of Biology, University of Bari, Bari, Italy.
+rocchi@biologia.uniba.it.
+
+Fluorescence in situ hybridization (FISH), especially chromosome painting, has
+been extensively exploited in the phylogenetic reconstruction of primate
+evolution. Although chromosome painting is a key method to map translocations, it
+is not effective in detecting chromosome inversions, which may be up to four
+times more frequent than other chromosomal rearrangements. BAC-FISH instead can
+economically delineate marker order and reveal intrachromosomal rearrangements.
+However, up to now, BAC-FISH was rarely used to study the chromosomes of New
+World monkeys partly due to technical difficulties. In this paper, we used
+BAC-FISH to disentangle the complex evolutionary history of the ancestral 14/15
+association in NWMs, beginning from the squirrel monkey (Saimiri boliviensis). To
+improve the hybridization efficiency of BAC-FISH in NWMs, we "translated" the
+human BACs into Callithrix jacchus (CJA) BACs, which yielded much higher
+hybridization efficiencies on other NWM species than human BACs. Our results
+disclosed 14 synteny blocks in squirrel monkeys, 7 more than with chromosome
+painting. We then applied a subset of CJA BACs on six other NWM species. The
+comparison of the hybridization pattern of these species contained phylogenetic
+information to discriminate evolutionary relationships. Notably Aotus was found
+to share an inversion with Callithrix, thus definitely assigning the genus Aotus 
+to Cebidae. The present study can be seen as a paradigmatic approach to
+investigate the phylogenetics of NWMs by molecular cytogenetics.
+
+DOI: 10.1007/s00412-015-0565-2 
+PMID: 26667930  [Indexed for MEDLINE]
+
+
+1125. Stem Cells Int. 2016;2016:2480298. doi: 10.1155/2016/2480298. Epub 2015 Nov 9.
+
+Long-Term Oocyte-Like Cell Development in Cultures Derived from Neonatal Marmoset
+Monkey Ovary.
+
+Fereydouni B(1), Salinas-Riester G(2), Heistermann M(3), Dressel R(4), Lewerich
+L(1), Drummer C(1), Behr R(1).
+
+Author information: 
+(1)Stem Cell Biology Unit, German Primate Center-Leibniz Institute for Primate
+Research, Kellnerweg 4, 37077 Göttingen, Germany.
+(2)Microarray and Deep-Sequencing Core Facility, University Medical Center
+Göttingen (UMG), Justus-von-Liebig-Weg 11, 37077 Göttingen, Germany.
+(3)Endocrinology Laboratory, German Primate Center-Leibniz Institute for Primate 
+Research, Kellnerweg 4, 37077 Göttingen, Germany.
+(4)Department of Cellular and Molecular Immunology, University of Göttingen,
+Humboldtallee 34, 37073 Göttingen, Germany.
+
+We use the common marmoset monkey (Callithrix jacchus) as a preclinical nonhuman 
+primate model to study reproductive and stem cell biology. The neonatal marmoset 
+monkey ovary contains numerous primitive premeiotic germ cells (oogonia)
+expressing pluripotent stem cell markers including OCT4A (POU5F1). This is a
+peculiarity compared to neonatal human and rodent ovaries. Here, we aimed at
+culturing marmoset oogonia from neonatal ovaries. We established a culture system
+being stable for more than 20 passages and 5 months. Importantly, comparative
+transcriptome analysis of the cultured cells with neonatal ovary, embryonic stem 
+cells, and fibroblasts revealed a lack of germ cell and pluripotency genes
+indicating the complete loss of oogonia upon initiation of the culture. From
+passage 4 onwards, however, the cultured cells produced large spherical,
+free-floating cells resembling oocyte-like cells (OLCs). OLCs strongly expressed 
+several germ cell genes and may derive from the ovarian surface epithelium. In
+summary, our novel primate ovarian cell culture initially lacked detectable germ 
+cells but then produced OLCs over a long period of time. This culture system may 
+allow a deeper analysis of early phases of female primate germ cell development
+and-after significant refinement-possibly also the production of monkey oocytes.
+
+DOI: 10.1155/2016/2480298 
+PMCID: PMC4655298
+PMID: 26664406 
+

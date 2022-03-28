@@ -1,0 +1,82 @@
+
+
+3. Emerg Infect Dis. 2022 Apr;28(4):802-811. doi: 10.3201/eid2804.212334.
+
+Fatal Human Alphaherpesvirus 1 Infection in Free-Ranging Black-Tufted Marmosets
+in Anthropized Environments, Brazil, 2012-2019.
+
+Wilson TM, Ritter JM, Martines RB, Bullock HA, Fair P, Radford KW, Macêdo IL,
+Sousa DER, Gonçalves AAB, Romano AP, Passsos PHO, Ramos DG, Costa GRT, Cavalcante
+KRLJ, de Melo CB, Zaki SR, Castro MB.
+
+Human alphaherpesvirus 1 (HuAHV1) causes fatal neurologic infections in captive
+New World primates. To determine risks for interspecies transmission, we examined
+data for 13 free-ranging, black-tufted marmosets (Callithrix penicillata) that
+died of HuAHV1 infection and had been in close contact with humans in anthropized
+areas in Brazil during 2012-2019. We evaluated pathologic changes in the
+marmosets, localized virus and antigen, and assessed epidemiologic features. The 
+main clinical findings were neurologic signs, necrotizing meningoencephalitis,
+and ulcerative glossitis; 1 animal had necrotizing hepatitis. Transmission
+electron microscopy revealed intranuclear herpetic inclusions, and immunostaining
+revealed HuAHV1 and herpesvirus particles in neurons, glial cells, tongue mucosal
+epithelium, and hepatocytes. PCR confirmed HuAHV1 infection. These findings
+illustrate how disruption of the One Health equilibrium in anthropized
+environments poses risks for interspecies virus transmission with potential
+spillover not only from animals to humans but also from humans to free-ranging
+nonhuman primates or other animals.
+
+DOI: 10.3201/eid2804.212334 
+PMID: 35318916 
+
+
+4. Sci Rep. 2022 Mar 15;12(1):4430. doi: 10.1038/s41598-022-08255-4.
+
+Analysis of gut microbiome profiles in common marmosets (Callithrix jacchus) in
+health and intestinal disease.
+
+Sheh A(#)(1), Artim SC(#)(2)(3), Burns MA(2), Molina-Mora JA(4), Lee MA(2)(5),
+Dzink-Fox J(2), Muthupalani S(2), Fox JG(6).
+
+Author information: 
+(1)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, MA, USA. alexsheh@mit.edu.
+(2)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, MA, USA.
+(3)Merck Research Laboratories, Merck, South San Francisco, CA, USA.
+(4)Centro de Investigación en Enfermedades Tropicales (CIET), Universidad de
+Costa Rica, San José, Costa Rica.
+(5)Department of Biological Sciences, Wellesley College, Wellesley, MA, USA.
+(6)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, MA, USA. jgfox@mit.edu.
+(#)Contributed equally
+
+Chronic gastrointestinal (GI) diseases are the most common diseases in captive
+common marmosets. To understand the role of the microbiome in GI diseases, we
+characterized the gut microbiome of 91 healthy marmosets (303 samples) and 59
+marmosets diagnosed with inflammatory bowel disease (IBD) (200 samples). Healthy 
+marmosets exhibited "humanized," Bacteroidetes-dominant microbiomes. After up to 
+2 years of standardized diet, housing and husbandry, marmoset microbiomes could
+be classified into four distinct marmoset sources based on Prevotella and
+Bacteroides levels. Using a random forest (RF) model, marmosets were classified
+by source with an accuracy of 93% with 100% sensitivity and 95% specificity using
+abundance data from 4 Prevotellaceae amplicon sequence variants (ASVs), as well
+as single ASVs from Coprobacter, Parabacteroides, Paraprevotella,
+Phascolarctobacterium, Oribacterium and Fusobacterium. A single dysbiotic IBD
+state was not found across all marmoset sources, but IBD was associated with
+lower alpha diversity and a lower Bacteroides:Prevotella copri ratio within each 
+source. IBD was highest in a Prevotella-dominant cohort, and consistent with
+Prevotella-linked diseases, pro-inflammatory genes in the jejunum were
+upregulated. RF analysis of serum biomarkers identified serum calcium, hemoglobin
+and red blood cell (RBC) counts as potential biomarkers for marmoset IBD. This
+study characterizes the microbiome of healthy captive common marmosets and
+demonstrates that source-specific microbiomes can be retained despite
+standardized diets and husbandry practices. Marmosets with IBD had decreased
+alpha diversity and a shift in the ratio of Bacteroides:Prevotella copri compared
+to healthy marmosets.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-022-08255-4 
+PMCID: PMC8924212
+PMID: 35292670 
+

@@ -1,0 +1,40 @@
+
+
+3728. J Gen Virol. 1997 Jan;78 ( Pt 1):97-106.
+
+Sequence divergence of measles virus haemagglutinin during natural evolution and 
+adaptation to cell culture.
+
+Rima BK(1), Earle JA, Baczko K, ter Meulen V, Liebert UG, Carstens C, Carabaña J,
+Caballero M, Celma ML, Fernandez-Muñoz R.
+
+Author information: 
+(1)School of Biology and Biochemistry, The Queen's University of Belfast, UK.
+b.rima@qub.ac.uk
+
+Phylogenetic analysis of the sequence of the H gene of 75 measles virus (MV)
+strains (32 published and 43 new sequences) was carried out. The lineage groups
+described from comparison of the nucleotide sequences encoding the C-terminal
+regions of the N protein of MV were the same as those derived from the H gene
+sequences in almost all cases. The databases document a number of distinct
+genotype switches that have occurred in Madrid (Spain). Well-documented is the
+complete replacement of lineage group C2, the common European genotype at that
+time, with that of group D3 around the autumn of 1993. No further isolations of
+group C2 took place in Madrid after this time. The rate of mutation of the H gene
+sequences of MV genotype D3 circulating in Madrid from 1993 to 1996 was very low 
+(5 x 10(-4) per annum for a given nucleotide position). This is an order of
+magnitude lower than the rates of mutation observed in the HN genes of human
+influenza A viruses. The ratio of expressed over silent mutations indicated that 
+the divergence was not driven by immune selection in this gene. Variations in
+amino acid 117 of the H protein (F or L) may be related to the ability of some
+strains to haemagglutinate only in the presence of salt. Adaptation of MV to
+different primate cell types was associated with very small numbers of mutations 
+in the H gene. The changes could not be predicted when virus previously grown in 
+human B cell lines was adapted to monkey Vero cells. In contrast, rodent
+brain-adapted viruses displayed a lot of amino acid sequence variation from
+normal MV strains. There was no convincing evidence for recombination between MV 
+genotypes.
+
+DOI: 10.1099/0022-1317-78-1-97 
+PMID: 9010291  [Indexed for MEDLINE]
+

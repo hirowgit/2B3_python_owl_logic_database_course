@@ -1,0 +1,40 @@
+
+
+1938. Hear Res. 2011 May;275(1-2):30-42. doi: 10.1016/j.heares.2010.11.011. Epub 2010
+Dec 9.
+
+Rate-level responses in awake marmoset auditory cortex.
+
+Watkins PV(1), Barbour DL.
+
+Author information: 
+(1)Laboratory of Sensory Neuroscience and Neuroengineering, Department of
+Biomedical Engineering, Washington University, One Brookings Dr., Campus Box
+1097, St. Louis, MO 63130, USA.
+
+Investigations of auditory neuronal firing rate as a function of sound level have
+revealed a wide variety of rate-level function shapes, including neurons with
+nonmonotonic or level-tuned functions. These neurons have an unclear role in
+auditory processing but have been found to be quite common. In the present study 
+of awake marmoset primary auditory cortex (A1) neurons, 56% (305 out of 544),
+when stimulated with tones at the highest sound level tested, exhibited a
+decrement in driven rate of at least 50% from the maximum. These nonmonotonic
+neurons demonstrated significantly lower response thresholds than monotonic
+neurons, although both populations exhibited thresholds skewed toward lower
+values. Nonmonotonic neurons significantly outnumbered monotonic neurons in the
+frequency range 6-13 kHz, which is the frequency range containing most marmoset
+vocalization energy. Spontaneous rate was inversely correlated with threshold in 
+both populations, and spontaneous rates of nonmonotonic neurons had significantly
+lower values than spontaneous rates of monotonic neurons, although distributions 
+of maximum driven rates were not significantly different. Finally, monotonicity
+was found to be organized within electrode penetrations like characteristic
+frequency but with less structure. These findings are consistent with the
+hypothesis that nonmonotonic neurons play a unique role in representing sound
+level, particularly at the lowest sound levels and for complex vocalizations.
+
+Copyright © 2010 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.heares.2010.11.011 
+PMCID: PMC3095711
+PMID: 21145961  [Indexed for MEDLINE]
+

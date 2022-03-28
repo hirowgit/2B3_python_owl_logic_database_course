@@ -1,0 +1,32 @@
+
+
+2074. Microbiol Immunol. 2009 Dec;53(12):667-74. doi: 10.1111/j.1348-0421.2009.00176.x.
+
+Epitope mapping of Canine distemper virus phosphoprotein by monoclonal
+antibodies.
+
+Sugai A(1), Kooriyama T, Sato H, Yoneda M, Kai C.
+
+Author information: 
+(1)Laboratory Animal Research Center, The Institute of Medical Science, The
+University of Tokyo, Minato-ku, Tokyo, Japan.
+
+The gene for phosphoprotein (P) of CDV encodes three different proteins, P, V,
+and C. The P protein is involved in viral gene transcription and replication. In 
+the present study, we produced MAbs against a unique domain of the CDV-P protein,
+from aa 232 to 507, and determined their antigenic sites. By immunizing BALB/c
+mice with the recombinant P protein-specific fragment, we obtained six MAbs.
+Competitive binding inhibition assays revealed that they recognized two distinct 
+regions of the P protein. Western blot analysis and immunofluorescence assays
+using deletion mutants of the unique C-terminus of the CDV-P protein revealed
+that all MAbs recognized a central short region (aa 233-303) of the CDV-P
+protein. In addition, linear and conformational epitopes have been determined,
+and at least four antigenic sites exist in the P protein central region.
+Furthermore, four of the MAbs were found to react with the P protein of recent
+Japanese field isolates but not with that of the older CDV strains, including a
+vaccine strain. Thus, these MAbs could be clinically useful for quick diagnosis
+during the CDV outbreaks.
+
+DOI: 10.1111/j.1348-0421.2009.00176.x 
+PMID: 19954454  [Indexed for MEDLINE]
+

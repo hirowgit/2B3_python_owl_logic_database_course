@@ -1,0 +1,83 @@
+
+
+2665. J Mol Evol. 2005 May;60(5):606-14.
+
+Molecular evolution of prolactin in primates.
+
+Wallis OC(1), Mac-Kwashie AO, Makri G, Wallis M.
+
+Author information: 
+(1)Biochemistry Department, School of Life Sciences, University of Sussex,
+Brighton, UK. C.Wallis@sussex.ac.uk
+
+Pituitary prolactin, like growth hormone (GH) and several other protein hormones,
+shows an episodic pattern of molecular evolution in which sustained bursts of
+rapid change contrast with long periods of slow evolution. A period of rapid
+change occurred in the evolution of prolactin in primates, leading to marked
+sequence differences between human prolactin and that of nonprimate mammals. We
+have defined this burst more precisely by sequencing the coding regions of
+prolactin genes for a prosimian, the slow loris (Nycticebus pygmaeus), and a New 
+World monkey, the marmoset (Callithrix jacchus). Slow loris prolactin is very
+similar in sequence to pig prolactin, so the episode of rapid change occurred
+during primate evolution, after the separation of lines leading to prosimians and
+higher primates. Marmoset prolactin is similar in sequence to human prolactin, so
+the accelerated evolution occurred before divergence of New World monkeys and Old
+World monkeys/apes. The burst of change was confined largely to coding sequence
+(nonsynonymous sites) for mature prolactin and is not marked in other components 
+of the gene sequence. This and the observations that (1) there was no apparent
+loss of function during the episode of rapid evolution, (2) the rate of evolution
+slowed toward the basal rate after this burst, and (3) the distribution of
+substitutions in the prolactin molecule is very uneven support the idea that this
+episode of rapid change was due to positive adaptive selection. In the slow loris
+and marmoset there is no evidence for duplication of the prolactin gene, and
+evidence from another New World monkey (Cebus albifrons) and from the chimpanzee 
+and human genome sequences, suggests that this is the general position in
+primates, contrasting with the situation for GH genes. The chimpanzee prolactin
+sequence differs from that of human at two residues and comparison of human and
+chimpanzee prolactin gene sequences suggests that noncoding regions associated
+with regulating expression may be evolving differently from other noncoding
+regions.
+
+DOI: 10.1007/s00239-004-0239-9 
+PMID: 15983870  [Indexed for MEDLINE]
+
+
+2666. Environ Mol Mutagen. 2005 Dec;46(4):253-9.
+
+Micronucleated erythrocyte frequencies in old and new world primates: measurement
+of micronucleated erythrocyte frequencies in peripheral blood of Callithrix
+jacchus as a model for evaluating genotoxicity in primates.
+
+Zúñiga-González GM(1), Gómez-Meda BC, Zamora-Perez AL, Ramos-Ibarra ML,
+Batista-González CM, Lemus-Varela ML, Rodríguez-Avila JL, Gallegos-Arreola MP.
+
+Author information: 
+(1)Laboratorio de Mutagénesis, Centro de Investigación Biomédica de Occidente,
+Instituto Mexicano del Seguro Social, Guadalajara, Jalisco, México.
+
+Nonhuman primates are of particular relevance in evaluating the potential
+toxicity of drugs and environmental agents. We have used previously published
+information and data from the present study to establish a relationship for New
+World (NW) and Old World (OW) primates on the basis of the frequency of
+spontaneous micronucleated erythrocytes (MNEs) observed in peripheral blood. Data
+on spontaneous MNEs in peripheral blood from 15 species of primates, including
+humans, indicate that NW primates have significantly (P < 0.01) higher MNE
+frequencies (group mean, 9.5 +/- 7.3 MNEs/10,000 erythrocytes; range,
+0.7-20.5/10,000 erythrocytes) than OW primates (group mean, 1.0 +/- 0.9
+MNEs/10,000 erythrocytes; range, 0.0-2.6 MNEs/10,000 erythrocytes). Humans are
+believed to have developed in the OW, and human MNE frequencies were similar to
+those described for OW primate species. We selected the common marmoset
+(Callithrix jacchus), a NW primate, to determine whether therapeutic pediatric
+doses of Metotrexate (MTX; 2.5 mg/kg), Cyclophosphamide (CP; 5 mg/kg),
+Cytosine-arabinoside (Ara-C; 3 mg/kg), or 5-Fluorouracil (5-FU; 10 mg/kg),
+administered daily for two consecutive days, increase the frequency of
+micronuclei. Micronucleated polychromatic erythrocyte frequencies were increased 
+significantly in groups receiving MTX, CP and Ara-C, while MNE frequencies were
+increased by the Ara-C treatment. The results of this study indicate that NW
+primates have higher spontaneous MNE frequencies than OW primates, and because of
+this, NW primates like the common marmoset, may be suitable for evaluating the
+genotoxicity of chemical agents.
+
+DOI: 10.1002/em.20154 
+PMID: 15971258  [Indexed for MEDLINE]
+

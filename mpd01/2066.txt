@@ -1,0 +1,66 @@
+
+
+2066. Cloning Stem Cells. 2009 Dec;11(4):575-83. doi: 10.1089/clo.2009.0005.
+
+Preimplantation development of somatic cell cloned embryos in the common marmoset
+(Callithrix jacchus).
+
+Sotomaru Y(1), Hirakawa R, Shimada A, Shiozawa S, Sugawara A, Oiwa R, Nobukiyo A,
+Okano H, Tamaoki N, Nomura T, Hiyama E, Sasaki E.
+
+Author information: 
+(1)Natural Science Center for Basic Research and Development, Hiroshima
+University, Hiroshima, Hiroshima, Japan. sotomaru@hiroshima-u.ac.jp
+
+The somatic cell nuclear transfer technique has been applied to various mammals
+to produce cloned animals; however, a standardized method is not applicable to
+all species. We aimed here to develop optimum procedures for somatic cell cloning
+in nonhuman primates, using common marmosets. First, we confirmed that
+parthenogenetic activation of in vitro matured oocytes was successfully induced
+by electrical stimulation (three cycles of 150 V/mm, 50 microsec x 2, 20 min
+intervals), and this condition was applied to the egg activation procedure in the
+subsequent experiments. Next, nuclear transfer to recipient enucleated oocytes
+was performed 1 h before, immediately after, or 1 h after egg activation
+treatment. The highest developmental rate was observed when nuclear transfer was 
+performed 1 h before activation, but none of the cloned embryos developed beyond 
+the eight-cell stage. To investigate the causes of the low developmental
+potential of cloned embryos, a study was performed to determine whether the
+presence of metaphase II (MII) chromosome in recipient ooplasm has an effect on
+developmental potential. As a result, only tetraploid cloned embryos produced by 
+transferring a donor cell into a recipient bearing the MII chromosome developed
+into blastocysts (66.7%). In contrast, neither parthenogenetic embryos nor cloned
+embryos (whether diploid or tetraploid) produced using enucleated oocytes
+developed past the eight-cell stage. These results suggest that MII chromosome,
+or cytoplasm proximal to the MII chromosome, plays a major role in the
+development of cloned embryos in common marmosets.
+
+DOI: 10.1089/clo.2009.0005 
+PMID: 20025525  [Indexed for MEDLINE]
+
+
+2067. Birth Defects Res B Dev Reprod Toxicol. 2009 Dec;86(6):446-62. doi:
+10.1002/bdrb.20216.
+
+Developmental and reproductive toxicology studies in nonhuman primates.
+
+Chellman GJ(1), Bussiere JL, Makori N, Martin PL, Ooshima Y, Weinbauer GF.
+
+Author information: 
+(1)Charles River Preclinical Services, Reno, Nevada 89511, USA.
+gary.chellman@crl.com
+
+Developmental and reproductive toxicology testing in nonhuman primates (NHPs) has
+become more common due to the increasing number of biopharmaceuticals in drug
+development, since NHPs are frequently the only species to express pharmacologic 
+responses similar to humans. NHPs may also be used to help resolve issues
+associated with small-molecule reproductive toxicology in traditional species
+(rodents and rabbits). Adequate designs in NHP are presented for developmental
+toxicity (embryo-fetal development, pre-postnatal development, enhanced
+pre-postnatal development), reproductive toxicity (male and female), and juvenile
+toxicity studies. Optional parameters that may be included in these studies are
+discussed, as are new study designs that consolidate multiple aspects of the
+reproductive assessment and thereby conserve the limited supply of sexually
+mature NHPs available for testing. The details described will assist scientists
+in pharmaceutical, regulatory, and contract research organizations who are
+involved in conducting these unique studies to optimize their design based on
+case-by-case considerations.

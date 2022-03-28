@@ -1,0 +1,99 @@
+
+
+1304. Am J Trop Med Hyg. 2015 Feb;92(2):370-6. doi: 10.4269/ajtmh.14-0455. Epub 2014
+Dec 29.
+
+Formation of infectious dengue virus-antibody immune complex in vivo in marmosets
+(Callithrix jacchus) after passive transfer of anti-dengue virus monoclonal
+antibodies and infection with dengue virus.
+
+Moi ML(1), Ami Y(1), Shirai K(1), Lim CK(1), Suzaki Y(1), Saito Y(1), Kitaura
+K(1), Saijo M(1), Suzuki R(1), Kurane I(2), Takasaki T(2).
+
+Author information: 
+(1)Department of Virology 1, National Institute of Infectious Diseases, Tokyo,
+Japan; Division of Experimental Animal Research, National Institute of Infectious
+Diseases, Musashimurayama, Tokyo, Japan; Department of Rheumatology and Clinical 
+Immunology, Clinical Research Center for Allergy and Rheumatology, Sagamihara
+National Hospital, National Hospital Organization, Kanagawa, Japan; College of
+Bioresource Sciences, Nihon University, Fujisawa, Kanagawa, Japan; National
+Institute of Infectious Diseases, Tokyo, Japan.
+(2)Department of Virology 1, National Institute of Infectious Diseases, Tokyo,
+Japan; Division of Experimental Animal Research, National Institute of Infectious
+Diseases, Musashimurayama, Tokyo, Japan; Department of Rheumatology and Clinical 
+Immunology, Clinical Research Center for Allergy and Rheumatology, Sagamihara
+National Hospital, National Hospital Organization, Kanagawa, Japan; College of
+Bioresource Sciences, Nihon University, Fujisawa, Kanagawa, Japan; National
+Institute of Infectious Diseases, Tokyo, Japan kurane@nih.go.jp
+takasaki@nih.go.jp.
+
+Infection with a dengue virus (DENV) serotype induces cross-reactive, weakly
+neutralizing antibodies to different dengue serotypes. It has been postulated
+that cross-reactive antibodies form a virus-antibody immune complex and enhance
+DENV infection of Fc gamma receptor (FcγR)-bearing cells. We determined whether
+infectious DENV-antibody immune complex is formed in vivo in marmosets after
+passive transfer of DENV-specific monoclonal antibody (mAb) and DENV inoculation 
+and whether infectious DENV-antibody immune complex is detectable using
+FcγR-expressing cells. Marmosets showed that DENV-antibody immune complex was
+exclusively infectious to FcγR-expressing cells on days 2, 4, and 7 after passive
+transfer of each of the mAbs (mAb 4G2 and mAb 6B6C) and DENV inoculation.
+Although DENV-antibody immune complex was detected, contribution of the passively
+transferred antibody to overall viremia levels was limited in this study. The
+results indicate that DENV cross-reactive antibodies form DENV-antibody immune
+complex in vivo, which is infectious to FcγR-bearing cells but not FcγR-negative 
+cells.
+
+© The American Society of Tropical Medicine and Hygiene.
+
+DOI: 10.4269/ajtmh.14-0455 
+PMCID: PMC4347344
+PMID: 25548383  [Indexed for MEDLINE]
+
+
+1305. Toxicol Rep. 2014 Dec 31;2:165-174. doi: 10.1016/j.toxrep.2014.11.016.
+eCollection 2015.
+
+Non-human primate and rodent embryonic stem cells are differentially sensitive to
+embryotoxic compounds.
+
+Walker L(1)(2), Baumgartner L(3), Keller KC(1), Ast J(3), Trettner S(3), Zur
+Nieden NI(1)(2)(3).
+
+Author information: 
+(1)Department of Cell Biology & Neuroscience and Stem Cell Center, College of
+Natural and Agricultural Sciences, University of California Riverside, Riverside,
+CA 92521, USA.
+(2)Environmental Toxicology Graduate Program, College of Natural and Agricultural
+Sciences, University of California Riverside, Riverside, CA 92521, USA.
+(3)Fraunhofer Institute for Cell Therapy & Immunology, Perlickstrasse 1, 04103
+Leipzig, Germany.
+
+Many industrial chemicals and their respective by-products need to be
+comprehensively evaluated for toxicity using reliable and efficient assays. In
+terms of teratogenicity evaluations, the murine-based embryonic stem cell test
+(EST) offers a promising solution to screen for multiple tissue endpoints.
+However, use of a mouse model in the EST can yield only a limited understanding
+of human development, anatomy, and physiology. Non-human primate or human in
+vitro models have been suggested to be a pharmacologically and
+pathophysiologically desirable alternative to murine in vitro models. Here, we
+comparatively evaluated the sensitivity of embryonic stem cells (ESCs) of a
+non-human primate to skeletal teratogens with mouse ESCs hypothesizing that
+inclusion of non-human primate cells in in vitro tests would increase the
+reliability of safety predictions for humans. First, osteogenic capacity was
+compared between ESCs from the mouse and a New World monkey, the common marmoset.
+Then, cells were treated with compounds that have been previously reported to
+induce bone teratogenicity. Calcification and MTT assays evaluated effects on
+osteogenesis and cell viability, respectively. Our data indicated that marmoset
+ESCs responded differently than mouse ESCs in such embryotoxicity screens with no
+obvious dependency on chemical or compound classes and thus suggest that
+embryotoxicity screening results could be affected by species-driven response
+variation. In addition, ESCs derived from rhesus monkey, an Old World monkey, and
+phylogenetically closer to humans than the marmoset, were observed to respond
+differently to test compounds than marmoset ESCs. Together these results indicate
+that there are significant differences in the responses of non-human primate and 
+mouse ESC to embryotoxic agents.
+
+DOI: 10.1016/j.toxrep.2014.11.016 
+PMCID: PMC5598278
+PMID: 28962348 
+

@@ -1,0 +1,43 @@
+
+
+3454. Blood. 1999 May 1;93(9):2839-48.
+
+The common marmoset as a target preclinical primate model for cytokine and gene
+therapy studies.
+
+Hibino H(1), Tani K, Ikebuchi K, Wu MS, Sugiyama H, Nakazaki Y, Tanabe T,
+Takahashi S, Tojo A, Suzuki S, Tanioka Y, Sugimoto Y, Nakahata T, Asano S.
+
+Author information: 
+(1)Departments of Hematology/Oncology and Clinical Oncology, The Institute of
+Medical Science, The University of Tokyo, Tokyo, Japan.
+
+Nonhuman primate models are useful to evaluate the safety and efficacy of new
+therapeutic modalities, including gene therapy, before the inititation of
+clinical trials in humans. With the aim of establishing safe and effective
+approaches to therapeutic gene transfer, we have been focusing on a small New
+World monkey, the common marmoset, as a target preclinical model. This animal is 
+relatively inexpensive and easy to breed in limited space. First, we
+characterized marmoset blood and bone marrow progenitor cells (BMPCs) and showed 
+that human cytokines were effective to maintain and stimulate in culture. We then
+examined their susceptibility to transduction by retroviral vectors. In a mixed
+culture system containing both marmoset stromal cells and retroviral producer
+cells, the transduction efficiency into BMPCs and peripheral blood progenitor
+cells (PBPCs) was 12% to 24%. A series of marmosets then underwent
+transplantation with autologous PBPCs transduced with a retroviral vector
+carrying the multidrug resistance 1 gene (MDR1) and were followed for the
+persistence of these cells in vivo. Proviral DNA was detectable by polymerase
+chain reaction (PCR) in peripheral blood granulocytes and lymphocytes in the
+recipients of gene transduced progenitors up to 400 days posttransplantation. To 
+examine the function of the MDR1 gene in vivo, recipient maromsets were
+challenged with docetaxel, an MDR effluxed drug, yet the overall level of gene
+transfer attained in vivo (<1% in peripheral blood granulocytes) was not
+sufficient to prevent the neutropenia induced by docetaxel treatment. Using this 
+model, we safely and easily performed a series of in vivo studies in our small
+animal center. Our results show that this small nonhuman primate, the common
+marmoset, is a useful model for the evaluation of gene transfer methods targeting
+hematopoietic stem cells.
+
+
+PMID: 10216078  [Indexed for MEDLINE]
+

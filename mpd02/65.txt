@@ -1,0 +1,45 @@
+
+
+65. J Comp Neurol. 2022 Apr;530(6):923-940. doi: 10.1002/cne.25258. Epub 2021 Oct 23.
+
+Satb1 expression in retinal ganglion cells of marmosets, macaques, and humans.
+
+Nasir-Ahmad S(1)(2), Vanstone KA(1), Novelli M(1), Lee SCS(1)(2), Do MTH(3),
+Martin PR(1)(2), Grünert U(1)(2).
+
+Author information: 
+(1)Faculty of Medicine and Health, Save Sight Institute, and Discipline of
+Ophthalmology, The University of Sydney, Sydney, Australia.
+(2)Australian Research Council Centre of Excellence for Integrative Brain
+Function, Sydney Node, The University of Sydney, Sydney, Australia.
+(3)F.M. Kirby Neurobiology Center and Department of Neurology, Boston Children's 
+Hospital and Harvard Medical School, Boston, Massachusetts, USA.
+
+Recent advances in single-cell RNA sequencing have enabled the molecular
+distinction of ganglion cell populations in mammalian retinas. Here we used
+antibodies against the transcription factor special AT-rich binding protein 1
+(Satb1, a protein which is expressed by on-off direction-selective ganglion cells
+in mouse retina) to study Satb1 expression in the retina of marmosets (Callithrix
+jacchus), macaques (Macaca fascicularis), and humans. In all species, Satb1 was
+exclusively expressed in retinal ganglion cells. The Satb1 cells made up ∼2% of
+the ganglion cell population in the central retina of all species, rising to a
+maximum ∼7% in peripheral marmoset retina. Intracellular injections in marmoset
+and macaque retinas revealed that most Satb1 expressing ganglion cells are
+widefield ganglion cells. In marmoset, Satb1 cells have a densely branching
+dendritic tree and include broad and narrow thorny, recursive bistratified, and
+parasol cells, all of which show some costratification with the outer or inner
+cholinergic amacrine cells. The recursive bistratified cells showed the strongest
+costratification but did not show extensive cofasciculation as reported for
+on-off direction-selective ganglion cells in rabbit and rodent retinas. In
+macaque, Satb1 was not expressed in recursive bistratified cells, but in large
+sparsely branching cells. Our findings further support the idea that the
+expression of transcription factors in retinal ganglion cells is not conserved
+across Old World (human and macaque) and New World (marmoset) primates and
+provides a further step to link a molecular marker with specific cell types.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1002/cne.25258 
+PMCID: PMC8831458 [Available on 2023-04-01]
+PMID: 34622958 
+

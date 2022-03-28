@@ -1,0 +1,100 @@
+
+
+948. J Immunol Methods. 2017 Feb;441:39-48. doi: 10.1016/j.jim.2016.11.011. Epub 2016 
+Nov 24.
+
+Systematic evaluation of monoclonal antibodies and immunoassays for the detection
+of Interferon-γ and Interleukin-2 in old and new world non-human primates.
+
+Höglind A(1), Areström I(1), Ehrnfelt C(1), Masjedi K(1), Zuber B(2), Giavedoni
+L(3), Ahlborg N(4).
+
+Author information: 
+(1)Mabtech, Box 1233, SE-131 28, Nacka Strand, Sweden.
+(2)Swedish Orphan Biovitrum AB, SE-112 76 Stockholm, Sweden.
+(3)Departments of Virology and Immunology and Southwest National Primate Research
+Center, Texas Biomedical Research Institute, San Antonio, TX 78245-0549, USA.
+(4)Mabtech, Box 1233, SE-131 28, Nacka Strand, Sweden; Department of Immunology, 
+Stockholm University, SE-106 91 Stockholm, Sweden. Electronic address:
+niklas@mabtech.com.
+
+Non-human primates (NHP) provide important animal models for studies on immune
+responses to infections and vaccines. When assessing cellular immunity in NHP,
+cytokines are almost exclusively analyzed utilizing cross-reactive anti-human
+antibodies. The functionality of antibodies has to be empirically established for
+each assay/application as well as NHP species. A rational approach was employed
+to identify monoclonal antibodies (mAb) cross-reactive with many NHP species.
+Panels of new and established mAbs against human Interferon (IFN)-γ and
+Interleukin (IL)-2 were assessed for reactivity with eukaryotically expressed
+recombinant IFN-γ and IL-2, respectively, from Old (rhesus, cynomolgus and
+pigtail macaques, African green monkey, sooty mangabey and baboon) and New World 
+NHP (Ma's night monkey, squirrel monkey and common marmoset). Pan-reactive mAbs, 
+recognizing cytokines from all NHP species, were further analyzed in capture
+assays and flow cytometry with NHP peripheral blood mononuclear cells (PBMC).
+Pan-reactive mAb pairs for IFN-γ well as IL-2 were identified and used in ELISA
+to measure IFN-γ and IL-2, respectively, in Old and New World NHP PBMC
+supernatants. The same mAb pairs displayed high functionality in ELISpot and
+FluoroSpot for the measurement of antigen-specific IFN-γ and IL-2 responses using
+cynomolgus PBMC. Functionality of pan-reactive mAbs in flow cytometry was also
+verified with cynomolgus PBMC. The development of well-defined immunoassays
+functional with a panel of NHP species facilitates improved analyses of cellular 
+immunity and enables inclusion in multiplex cytokine assays intended for a
+variety of NHP.
+
+Copyright © 2016 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jim.2016.11.011 
+PMCID: PMC5563966
+PMID: 27889562  [Indexed for MEDLINE]
+
+
+949. Transfusion. 2017 Jan;57(1):60-69. doi: 10.1111/trf.13909. Epub 2016 Nov 25.
+
+Differentiation of induced pluripotent stem cell-derived neutrophil granulocytes 
+from common marmoset monkey (Callithrix jacchus).
+
+Schrimpf C(1), Wrede C(2)(3), Glage S(4), Hegermann J(2)(3), Backhaus S(1),
+Blasczyk R(1), Heuft HG(1), Müller T(1)(3)(5).
+
+Author information: 
+(1)Institute for Transfusion Medicine, REBIRTH Cluster of Excellence, Hannover.
+(2)Institute of Functional and Applied Anatomy, REBIRTH Cluster of Excellence,
+Hannover.
+(3)REBIRTH Cluster of Excellence, Hannover, Germany.
+(4)Institute for Laboratory Animal Science and Central Animal Facility, Hannover 
+Medical School, Hannover, Germany.
+(5)Synlab Medical Care Centre Weiden Ltd, Weiden, Germany.
+
+BACKGROUND: Inherited and acquired marrow failure syndromes most commonly lead to
+defect in myeloid and/or neutrophil differentiation and/or function. Besides
+this, neutropenia induced by cancer-adjusted chemotherapy is a frequent clinical 
+problem. In both cases, cell replacement therapy is a well-established, but due
+to necessity of donors limited and perilous procedure. Therefore, autologous cell
+replacement from patients' own marrow-derived cells lowers risk and bares new
+possibilities for therapy. Since the immune system of the marmoset monkey is
+known to show high similarity to humans, preclinical studies with these animals
+bare high hopes for immunologic research and cell replacement therapy.
+STUDY DESIGN AND METHODS: Marmoset-induced pluripotent stem (iPS) cells (cj-iPSC)
+were first cultivated on mouse embryonic feeder cells in medium containing
+recombinant human vascular endothelial growth factor. After 13 days,
+CD34+/vascular endothelial growth factor receptor-2 (VEGFR2)- cells were sorted, 
+treated with interleukin (IL-3), thrombopoietin, and stem cell factor for 20 days
+and further cultivated with granulocyte-colony-stimulating factor (G-CSF) and
+IL-3 for 10 days.
+RESULTS: CD34+/VEGFR2- cells could be generated in high amounts (39.65 ± 6.01%;
+2.31 × 105 cells). Afterward, these hematopoietic progenitors could be
+successfully differentiated into mature cj-iPSC-derived neutrophils showing
+similar morphology, specific surface antigens, and neutrophil-specific gene
+products and in vitro phagocytic activity.
+CONCLUSION: cj-iPSC-derived neutrophils bare high hopes in hematologic cell
+replacement therapy. They exhibit high morphologic similarity to native
+neutrophils and present neutrophil-specific surface antigens, antimicrobial
+proteins, and gene products yielding an auspicious approach for continuative
+experiments including tests in living animals.
+
+© 2016 The Authors Transfusion published by Wiley Periodicals, Inc. on behalf of 
+AABB.
+
+DOI: 10.1111/trf.13909 
+PMID: 27888517  [Indexed for MEDLINE]
+

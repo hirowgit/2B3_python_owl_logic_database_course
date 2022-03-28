@@ -1,0 +1,82 @@
+
+
+1898. J Comp Neurol. 2011 Aug 1;519(11):2135-53. doi: 10.1002/cne.22586.
+
+Synaptic inputs to two types of koniocellular pathway ganglion cells in marmoset 
+retina.
+
+Percival KA(1), Martin PR, Grünert U.
+
+Author information: 
+(1)Department of Ophthalmology, Save Sight Institute, University of Sydney,
+Australia.
+
+The retinal connectivity of the diverse group of cells contributing to
+koniocellular visual pathways (widefield ganglion cells) is largely unexplored.
+Here we examined the synaptic inputs onto two koniocellular-projecting ganglion
+cell types named large sparse and broad thorny cells. Ganglion cells were labeled
+by retrograde tracer injections targeted to koniocellular layer K3 in the lateral
+geniculate nucleus in marmosets (Callithrix jacchus) and subsequently
+photofilled. Retinal preparations were processed with antibodies against the
+C-terminal binding protein 2, the AMPA receptor subunit GluR4, and against CD15
+to identify bipolar (excitatory) and/or antibodies against gephyrin to identify
+amacrine (inhibitory) input. Large sparse cells are narrowly stratified close to 
+the ganglion cell layer. Broad thorny ganglion cells are broadly stratified in
+the center of the inner plexiform layer. Bipolar input to large sparse cells
+derives from DB6 and maybe other ON bipolar types, whereas that to broad thorny
+cells derives from ON and OFF bipolar cell types. The total number of putative
+synapses on broad thorny cells is higher than the number on large sparse cells
+but the density of inputs (between 2 and 5 synapses per 100 μm(2) dendritic area)
+is similar for the two cell types, indicating that the larger number of synapses 
+on broad thorny cells is attributable to the larger membrane surface area of this
+cell type. Synaptic input density is comparable to previous values for
+midget-parvocellular and parasol-magnocellular pathway cells. This suggests
+functional differences between koniocellular, parvocellular, and magnocellular
+pathways do not arise from variation in synaptic input densities.
+
+Copyright © 2011 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.22586 
+PMID: 21452222  [Indexed for MEDLINE]
+
+
+1899. Stroke. 2011 May;42(5):1412-9. doi: 10.1161/STROKEAHA.110.596650. Epub 2011 Mar
+24.
+
+Diffusion tensor MRI reveals chronic alterations in white matter despite the
+absence of a visible ischemic lesion on conventional MRI: a nonhuman primate
+study.
+
+Bihel E(1), Roussel S, Toutain J, Bernaudin M, Touzani O.
+
+Author information: 
+(1)CERVOxy, Hypoxia and Cerebrovascular Pathophysiology, CI-NAPS UMR-6232,
+University of Caen, 59, Boulevard Henri Becquerel BP5229, Caen, France 14074.
+
+BACKGROUND AND PURPOSE: The impact of stroke on white matter is poorly described 
+in preclinical investigations mainly based on rodents with a low white (WM)/gray 
+matter ratio. Using diffusion tensor imaging, we evaluated WM alterations and
+correlated them with sensorimotor deficits after stroke in the marmoset, a
+nonhuman primate that displays a WM/gray matter ratio close to that of humans.
+METHODS: Marmosets underwent a transient brain ischemia (3-hour). Eight serial
+MRI examinations were made during ischemia and up to 45 days after reperfusion.
+The sensorimotor deficits were evaluated weekly over 45 days. To assess WM
+alterations, the SD of the angle of the first eigenvector projection was
+calculated in the cortex and in the internal and external capsules. The
+fiber-tracking approach was used to measure the number and the length of bundles.
+RESULTS: Changes in the apparent diffusion coefficient and the fractional
+anisotropy values were similar during the temporal evolution of the lesion in the
+marmoset model of ischemia to that reported in patients with stroke. Despite an
+absence of visible lesions on T2-MRI and diffusion tensor imaging at the chronic 
+stage, diffusion tensor MRI evidenced alterations in WM by the increase in the
+standard deviation of the angle of the first eigenvector projection in the
+cortex, internal and external capsules, and the decrease in the number of bundles
+of fibers tracked. The disruption of WM was strongly correlated with the chronic 
+sensorimotor deficits.
+CONCLUSIONS: Despite an absence of a visible ischemic lesion at the chronic
+stage, diffusion tensor MRI revealed disorganization of WM, which probably
+underlies the persistence of functional deficits.
+
+DOI: 10.1161/STROKEAHA.110.596650 
+PMID: 21441158  [Indexed for MEDLINE]
+

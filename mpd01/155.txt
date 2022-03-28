@@ -1,0 +1,88 @@
+
+
+155. Cereb Cortex. 2021 Jul 29;31(9):4220-4232. doi: 10.1093/cercor/bhab080.
+
+The Brain Circuits and Dynamics of Curiosity-Driven Behavior in Naturally Curious
+Marmosets.
+
+Tian X(1)(2), Silva AC(1)(2), Liu C(1)(2)(3)(4).
+
+Author information: 
+(1)Department of Neurobiology, University of Pittsburgh Brain Institute,
+University of Pittsburgh, Pittsburgh PA 15261, USA.
+(2)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda MD 20892, USA.
+(3)Institute of Neuroscience, Center for Excellence in Brain Science and
+Intelligence Technology, Chinese Academy of Sciences, Shanghai 200031, China.
+(4)Shanghai Center for Brain Science and Brain-Inspired Intelligence Technology, 
+Shanghai 201210, China.
+
+Curiosity is a fundamental nature of animals for adapting to changing
+environments, but its underlying brain circuits and mechanisms remain poorly
+understood. One main barrier is that existing studies use rewards to train
+animals and motivate their engagement in behavioral tasks. As such, the rewards
+become significant confounders in interpreting curiosity. Here, we overcame this 
+problem by studying research-naïve and naturally curious marmosets that can
+proactively and persistently participate in a visual choice task without external
+rewards. When performing the task, the marmosets manifested a strong innate
+preference towards acquiring new information, associated with faster behavioral
+responses. Longitudinally functional magnetic resonance imaging revealed
+behavior-relevant brain states that reflected choice preferences and engaged
+several brain regions, including the cerebellum, the hippocampus, and cortical
+areas 19DI, 25, and 46D, with the cerebellum being the most prominent. These
+results unveil the essential brain circuits and dynamics underlying
+curiosity-driven activity.
+
+© The Author(s) 2021. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhab080 
+PMCID: PMC8485152 [Available on 2022-04-12]
+PMID: 33839768  [Indexed for MEDLINE]
+
+
+156. Hear Res. 2021 Jun;405:108229. doi: 10.1016/j.heares.2021.108229. Epub 2021 Mar
+27.
+
+Noninvasive scalp recording of the middle latency responses and cortical auditory
+evoked potentials in the alert common marmoset.
+
+Itoh K(1), Iwaoki H(2), Konoike N(2), Igarashi H(3), Nakamura K(2).
+
+Author information: 
+(1)Center for Integrated Human Brain Science, Brain Research Institute, Niigata
+University, 1-757 Asahimachi, Niigata, 951-8585, Japan. Electronic address:
+itoh@bri.niigata-u.ac.jp.
+(2)Cognitive Neuroscience Section, Primate Research Institute, Kyoto University, 
+41-2, Kanrin, Inuyama, Aichi, 484-8506, Japan.
+(3)Center for Integrated Human Brain Science, Brain Research Institute, Niigata
+University, 1-757 Asahimachi, Niigata, 951-8585, Japan.
+
+The common marmoset (Callithrix jacchus), a New World monkey, serves as a useful 
+animal model in clinical and basic neuroscience. The present study recorded scalp
+auditory evoked potentials (AEP) in non-sedated common marmoset monkeys (n = 4)
+using a noninvasive method similar to that used in humans, and aimed to identify 
+nonhuman primate correlates of the human AEP components. A pure tone stimulus was
+presented while electroencephalograms were recorded using up to 16 disk
+electrodes placed on the scalp and earlobes. Candidate homologues of two
+categories of the human AEP, namely, the middle latency responses (MLR; Na, Pa,
+Nb, and Pb) and the cortical auditory evoked potentials (CAEP; P1, N1, P2, N2,
+and the sustained potential, SP) were identified in the marmoset. These waves
+were labeled as CjNa, CjPa, CjNb, CjPb, CjP1, CjN1, CjP2, CjN2, and CjSP, where
+Cj stands for Callithrix jacchus. The last MLR component, CjPb, was identical to 
+the first CAEP component, CjP1, similar to the relationship between Pb and P1 in 
+humans. The peak latencies of the marmoset MLR and CAEP were generally shorter
+than in humans, which suggests a shorter integration time in neural processing.
+To our knowledge, the present study represents the first scalp recorded MLR and
+CAEP in the alert common marmoset. Further use of these recording methods would
+enable valid species comparisons of homologous brain indices between humans and
+animals.
+
+Copyright © 2021. Published by Elsevier B.V.
+
+DOI: 10.1016/j.heares.2021.108229 
+PMID: 33836489  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations of Competing Interest None.
+

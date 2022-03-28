@@ -1,0 +1,35 @@
+
+
+961. Sci Rep. 2016 Nov 2;6:35809. doi: 10.1038/srep35809.
+
+Distinct roles for primate caudate dopamine D1 and D2 receptors in visual
+discrimination learning revealed using shRNA knockdown.
+
+Takaji M(1), Takemoto A(2), Yokoyama C(3), Watakabe A(1), Mizukami H(4), Ozawa
+K(4), Onoe H(3), Nakamura K(2), Yamamori T(1).
+
+Author information: 
+(1)RIKEN, Brain Science Institute, Saitama, Japan.
+(2)Primate Research Institute, Kyoto University, Aichi, Japan.
+(3)RIKEN, Center for Life Science Technologies, Hyogo, Japan.
+(4)Jichi Medical University, Tochigi, Japan.
+
+The striatum plays important motor, associative and cognitive roles in brain
+functions. However, the rodent dorsolateral (the primate putamen) and dorsomedial
+(the primate caudate nucleus) striatum are not anatomically separated, making it 
+difficult to distinguish their functions. By contrast, anatomical separation
+exists between the caudate nucleus and putamen in primates. Here, we successfully
+decreased dopamine D1 receptor (D1R) or D2R mRNA expression levels selectively in
+the marmoset caudate using shRNA knockdown techniques, as determined using
+positron emission tomography imaging with specific D1R and D2R ligands and
+postmortem in situ hybridization analysis. We then conducted a voxel-based
+correlation analysis between binding potential values of PET imaging and visual
+discrimination learning task performance in these genetically modified marmosets 
+to find a critical role for the caudate D2R but no apparent role for the caudate 
+D1R. This latter finding challenges the current understanding of the mechanisms
+underlying D1R activation in the caudate.
+
+DOI: 10.1038/srep35809 
+PMCID: PMC5090965
+PMID: 27805010  [Indexed for MEDLINE]
+

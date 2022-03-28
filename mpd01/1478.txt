@@ -1,0 +1,81 @@
+
+
+1478. J Neurosci. 2013 Nov 27;33(48):18825-35. doi: 10.1523/JNEUROSCI.2414-13.2013.
+
+Auditory artificial grammar learning in macaque and marmoset monkeys.
+
+Wilson B(1), Slater H, Kikuchi Y, Milne AE, Marslen-Wilson WD, Smith K, Petkov
+CI.
+
+Author information: 
+(1)Institute of Neuroscience, and Centre for Behaviour and Evolution, Newcastle
+University, Newcastle upon Tyne, NE2 4HH, United Kingdom, Department of
+Psychology, University of Cambridge, Cambridge, CB2 3EB, United Kingdom, and
+School of Philosophy, Psychology and Language Sciences, University of Edinburgh, 
+Edinburgh, EH8 9AD, United Kingdom.
+
+Artificial grammars (AG) are designed to emulate aspects of the structure of
+language, and AG learning (AGL) paradigms can be used to study the extent of
+nonhuman animals' structure-learning capabilities. However, different AG
+structures have been used with nonhuman animals and are difficult to compare
+across studies and species. We developed a simple quantitative parameter space,
+which we used to summarize previous nonhuman animal AGL results. This was used to
+highlight an under-studied AG with a forward-branching structure, designed to
+model certain aspects of the nondeterministic nature of word transitions in
+natural language and animal song. We tested whether two monkey species could
+learn aspects of this auditory AG. After habituating the monkeys to the AG,
+analysis of video recordings showed that common marmosets (New World monkeys)
+differentiated between well formed, correct testing sequences and those violating
+the AG structure based primarily on simple learning strategies. By comparison,
+Rhesus macaques (Old World monkeys) showed evidence for deeper levels of AGL. A
+novel eye-tracking approach confirmed this result in the macaques and
+demonstrated evidence for more complex AGL. This study provides evidence for a
+previously unknown level of AGL complexity in Old World monkeys that seems less
+evident in New World monkeys, which are more distant evolutionary relatives to
+humans. The findings allow for the development of both marmosets and macaques as 
+neurobiological model systems to study different aspects of AGL at the neuronal
+level.
+
+DOI: 10.1523/JNEUROSCI.2414-13.2013 
+PMCID: PMC3841451
+PMID: 24285889  [Indexed for MEDLINE]
+
+
+1479. PLoS One. 2013 Nov 25;8(11):e81502. doi: 10.1371/journal.pone.0081502.
+eCollection 2013.
+
+The origin of the RB1 imprint.
+
+Kanber D(1), Buiting K, Roos C, Gromoll J, Kaya S, Horsthemke B, Lohmann D.
+
+Author information: 
+(1)Institut für Humangenetik, Universitätsklinikum Essen, Essen, Germany.
+
+The human RB1 gene is imprinted due to a differentially methylated CpG island in 
+intron 2. This CpG island is part of PPP1R26P1, a truncated retrocopy of PPP1R26,
+and serves as a promoter for an alternative RB1 transcript. We show here by in
+silico analyses that the parental PPP1R26 gene is present in the analysed members
+of Haplorrhini, which comprise Catarrhini (Old World Monkeys, Small apes, Great
+Apes and Human), Platyrrhini (New World Monkeys) and tarsier, and Strepsirrhini
+(galago). Interestingly, we detected the retrocopy, PPP1R26P1, in all
+Anthropoidea (Catarrhini and Platyrrhini) that we studied but not in tarsier or
+galago. Additional retrocopies are present in human and chimpanzee on chromosome 
+22, but their distinct composition indicates that they are the result of
+independent retrotransposition events. Chimpanzee and marmoset have further
+retrocopies on chromosome 8 and chromosome 4, respectively. To examine the origin
+of the RB1 imprint, we compared the methylation patterns of the parental PPP1R26 
+gene and its retrocopies in different primates (human, chimpanzee, orangutan,
+rhesus macaque, marmoset and galago). Methylation analysis by deep bisulfite
+sequencing showed that PPP1R26 is methylated whereas the retrocopy in RB1 intron 
+2 is differentially methylated in all primates studied. All other retrocopies are
+fully methylated, except for the additional retrocopy on marmoset chromosome 4,
+which is also differentially methylated. Using an informative SNP for the
+methylation analysis in marmoset, we could show that the differential methylation
+pattern of the retrocopy on chromosome 4 is allele-specific. We conclude that the
+epigenetic fate of a PPP1R26 retrocopy after integration depends on the DNA
+sequence and selective forces at the integration site.
+
+DOI: 10.1371/journal.pone.0081502 
+PMCID: PMC3839921
+PMID: 24282601  [Indexed for MEDLINE]
+

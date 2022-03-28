@@ -1,0 +1,89 @@
+
+
+2301. Hear Res. 2008 May;239(1-2):107-25. doi: 10.1016/j.heares.2008.01.015. Epub 2008 
+Feb 8.
+
+Coding of FM sweep trains and twitter calls in area CM of marmoset auditory
+cortex.
+
+Kajikawa Y(1), de la Mothe LA, Blumell S, Sterbing-D'Angelo SJ, D'Angelo W,
+Camalier CR, Hackett TA.
+
+Author information: 
+(1)Department of Psychology, Vanderbilt University, United States.
+
+The primate auditory cortex contains three interconnected regions (core, belt,
+parabelt), which are further subdivided into discrete areas. The caudomedial area
+(CM) is one of about seven areas in the belt region that has been the subject of 
+recent anatomical and physiological studies conducted to define the functional
+organization of auditory cortex. The main goal of the present study was to
+examine temporal coding in area CM of marmoset monkeys using two related classes 
+of acoustic stimuli: (1) marmoset twitter calls; and (2) frequency-modulated (FM)
+sweep trains modeled after the twitter call. The FM sweep trains were presented
+at repetition rates between 1 and 24 Hz, overlapping the natural phrase frequency
+of the twitter call (6-8 Hz). Multiunit recordings in CM revealed robust
+phase-locked responses to twitter calls and FM sweep trains. For the latter,
+phase-locking quantified by vector strength (VS) was best at repetition rates
+between 2 and 8 Hz, with a mean of about 5 Hz. Temporal response patterns were
+not strictly phase-locked, but exhibited dynamic features that varied with the
+repetition rate. To examine these properties, classification of the repetition
+rate from the temporal response pattern evoked by twitter calls and FM sweep
+trains was examined by Fisher's linear discrimination analysis (LDA). Response
+classification by LDA revealed that information was encoded not only by
+phase-locking, but also other components of the temporal response pattern. For FM
+sweep trains, classification was best for repetition rates from 2 to 8 Hz. Thus, 
+the majority of neurons in CM can accurately encode the envelopes of temporally
+complex stimuli over the behaviorally-relevant range of the twitter call. This
+suggests that CM could be engaged in processing that requires relatively precise 
+temporal envelope discrimination, and supports the hypothesis that CM is
+positioned at an early stage of processing in the auditory cortex of primates.
+
+DOI: 10.1016/j.heares.2008.01.015 
+PMCID: PMC2581800
+PMID: 18342463  [Indexed for MEDLINE]
+
+
+2302. J Virol. 2008 May;82(10):4706-19. doi: 10.1128/JVI.00116-08. Epub 2008 Mar 12.
+
+Histone hyperacetylation occurs on promoters of lytic cycle regulatory genes in
+Epstein-Barr virus-infected cell lines which are refractory to disruption of
+latency by histone deacetylase inhibitors.
+
+Countryman JK(1), Gradoville L, Miller G.
+
+Author information: 
+(1)Department of Molecular Biophysics and Biochemistry, Yale University School of
+Medicine, New Haven, CT 06520, USA.
+
+Activation of the Epstein-Barr virus (EBV) lytic cycle is mediated through the
+combined actions of ZEBRA and Rta, the products of the viral BZLF1 and BRLF1
+genes. During latency, these two genes are tightly repressed. Histone deacetylase
+inhibitors (HDACi) can activate viral lytic gene expression. Therefore, a widely 
+held hypothesis is that Zp and Rp, the promoters for BZLF1 and BRLF1, are
+repressed by chromatin and that hyperacetylation of histone tails, by allowing
+the access of positively acting factors, leads to transcription of BZLF1 and
+BRLF1. To investigate this hypothesis, we used chromatin immunoprecipitation
+(ChIP) to examine the acetylation and phosphorylation states of histones H3 and
+H4 on Zp and Rp in three cell lines, Raji, B95-8, and HH514-16, which differ in
+their response to EBV lytic induction by HDACi. We studied the effects of three
+HDACi, sodium butyrate (NaB), trichostatin A (TSA), and valproic acid (VPA). We
+also examined the effects of tetradecanoyl phorbol acetate (TPA) and
+5-aza-2'-deoxycytidine, a DNA methyltransferase inhibitor, on histone
+modification. In Raji cells, TPA and NaB act synergistically to activate the EBV 
+lytic cycle and promote an increase in histone H3 and H4 acetylation and
+phosphorylation at Zp and Rp. Surprisingly, however, when Raji cells were treated
+with NaB or TSA, neither of which is sufficient to activate the lytic cycle, an
+increase of comparable magnitude of hyperacetylated and phosphorylated histone H3
+at Zp and Rp was observed. In B95-8 cells, NaB inhibited lytic induction by TPA, 
+yet NaB promoted hyperacetylation of H3 and H4. In HH514-16 cells, NaB and TSA
+strongly activated the EBV lytic cycle and caused hyperacetylation of histone H3 
+on Zp and Rp. However, when HH514-16 cells were treated with VPA, lytic cycle
+mRNAs or proteins were not induced, although histone H3 was hyperacetylated as
+measured by immunoblotting or by ChIP on Zp and Rp. Taken together, our data
+suggest that open chromatin at EBV BZLF1 and BRLF1 promoters is not sufficient to
+activate EBV lytic cycle gene expression.
+
+DOI: 10.1128/JVI.00116-08 
+PMCID: PMC2346723
+PMID: 18337569  [Indexed for MEDLINE]
+

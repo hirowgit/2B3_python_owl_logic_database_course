@@ -1,0 +1,49 @@
+
+
+1461. Mater Sci Eng C Mater Biol Appl. 2014 Mar 1;36:77-83. doi:
+10.1016/j.msec.2013.11.048. Epub 2013 Dec 7.
+
+Process engineering of high voltage alginate encapsulation of mesenchymal stem
+cells.
+
+Gryshkov O(1), Pogozhykh D(2), Zernetsch H(3), Hofmann N(4), Mueller T(5),
+Glasmacher B(6).
+
+Author information: 
+(1)Institute for Multiphase Processes, Leibniz University Hannover, D-30167
+Hannover, Germany. Electronic address: gryshkov@imp.uni-hannover.de.
+(2)Institute for Multiphase Processes, Leibniz University Hannover, D-30167
+Hannover, Germany. Electronic address: pogozhykh@imp.uni-hannover.de.
+(3)Institute for Multiphase Processes, Leibniz University Hannover, D-30167
+Hannover, Germany. Electronic address: zernetsch@imp.uni-hannover.de.
+(4)Institute for Multiphase Processes, Leibniz University Hannover, D-30167
+Hannover, Germany. Electronic address: hofmann@imp.uni-hannover.de.
+(5)Institute for Transfusion Medicine, Medical School Hannover, D-30625 Hannover,
+Germany. Electronic address: mueller.thomas@mh-hannover.de.
+(6)Institute for Multiphase Processes, Leibniz University Hannover, D-30167
+Hannover, Germany. Electronic address: glasmacher@imp.uni-hannover.de.
+
+Encapsulation of stem cells in alginate beads is promising as a sophisticated
+drug delivery system in treatment of a wide range of acute and chronic diseases. 
+However, common use of air flow encapsulation of cells in alginate beads fails to
+produce beads with narrow size distribution, intact spherical structure and
+controllable sizes that can be scaled up. Here we show that high voltage
+encapsulation (≥ 15 kV) can be used to reproducibly generate spherical alginate
+beads (200-400 μm) with narrow size distribution (± 5-7%) in a controlled manner 
+under optimized process parameters. Flow rate of alginate solution ranged from
+0.5 to 10 ml/h allowed producing alginate beads with a size of 320 and 350 μm
+respectively, suggesting that this approach can be scaled up. Moreover, we found 
+that applied voltages (15-25 kV) did not alter the viability and proliferation of
+encapsulated mesenchymal stem cells post-encapsulation and cryopreservation as
+compared to air flow. We are the first who employed a comparative analysis of
+electro-spraying and air flow encapsulation to study the effect of high voltage
+on alginate encapsulated cells. This report provides background in application of
+high voltage to encapsulate living cells for further medical purposes. Long-term 
+comparison and work on alginate-cell interaction within these structures will be 
+forthcoming.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.msec.2013.11.048 
+PMID: 24433889  [Indexed for MEDLINE]
+

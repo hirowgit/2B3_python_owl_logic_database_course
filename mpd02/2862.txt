@@ -1,0 +1,38 @@
+
+
+2862. Biochim Biophys Acta. 2004 Jan 20;1688(1):10-7.
+
+Role of lipid interactions in autoimmune demyelination.
+
+Ohler B(1), Graf K, Bragg R, Lemons T, Coe R, Genain C, Israelachvili J, Husted
+C.
+
+Author information: 
+(1)Center for the Study of Neurodegenerative Disorders, Neuroscience Research
+Institute, Biological Sciences 2, University of California, Santa Barbara, CA
+93106-5060, USA.
+
+A morphological transformation involving loss of adhesion between myelin lamellae
+and formation of myelin vesicles has been described as a mechanism for
+demyelination in multiple sclerosis and marmoset experimental allergic
+encephalomyelitis (EAE). Although protein interactions are involved in
+maintaining normal myelin structure, we describe here how lipids contribute to
+myelin stability and how lipid changes in EAE, including increases in lipid
+polyunsaturation and negatively charged phosphatidylserine (PS), promote
+demyelination. Three physico-chemical techniques were used to identify these
+changes: (1) Langmuir monolayer isotherms indicated that EAE white matter lipids 
+were significantly more "expanded" (fluid) than controls. (2) NMR spectroscopy
+indicated that EAE myelin lipids were more polyunsaturated than controls. (3)
+High-performance liquid chromatography (HPLC) with an evaporative light
+scattering detector indicated increased PS in EAE compared to controls, while
+sphingomyelin (SM), sulfatides and phosphatidylcholine (PC) were decreased. We
+present a physical model considering electrostatic, van der Waals and undulation 
+forces to quantify the effect of these changes on myelin adhesion at the
+extracellular interface. Taken together, the isotherm, NMR, HPLC and modeling
+results support a mechanism for autoimmune demyelination whereby the composition 
+of myelin lipids is altered in a manner that increases myelin fluidity, decreases
+myelin adhesion, increases membrane curvature, and promotes vesiculation.
+
+DOI: 10.1016/j.bbadis.2003.10.001 
+PMID: 14732476  [Indexed for MEDLINE]
+

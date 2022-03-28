@@ -1,0 +1,114 @@
+
+
+37. Vaccine. 2022 Jan 3;40(1):89-99. doi: 10.1016/j.vaccine.2021.11.042. Epub 2021
+Nov 24.
+
+Immunization with recombinant ORF2 p551 protein protects common marmosets
+(Callithrix jacchus) against homologous and heterologous hepatitis E virus
+challenge.
+
+Gordeychuk I(1), Kyuregyan K(2), Kondrashova A(3), Bayurova E(4), Gulyaev S(5),
+Gulyaeva T(6), Potemkin I(7), Karlsen A(8), Isaeva O(9), Belyakova A(10),
+Lyashenko A(11), Sorokin A(12), Chumakov A(3), Morozov I(13), Isaguliants M(14), 
+Ishmukhametov A(15), Mikhailov M(16).
+
+Author information: 
+(1)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, Moscow 108819,
+Russia; Institute for Translational Medicine and Biotechnology, Sechenov First
+Moscow State Medical University, Moscow 127994, Russia. Electronic address:
+gordeychuk_iv@chumakovs.su.
+(2)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, Moscow 108819,
+Russia; I.I. Mechnikov Research Institute of Vaccines and Sera, Moscow 105064,
+Russia; Russian Medical Academy of Continuous Professional Education, Moscow
+125993, Russia. Electronic address: karen-kyuregyan@yandex.ru.
+(3)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, Moscow 108819,
+Russia; Institute for Translational Medicine and Biotechnology, Sechenov First
+Moscow State Medical University, Moscow 127994, Russia.
+(4)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, Moscow 108819,
+Russia. Electronic address: bayurova_eo@chumakovs.su.
+(5)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, Moscow 108819,
+Russia. Electronic address: gulyaev_sa@chumakovs.su.
+(6)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, Moscow 108819,
+Russia. Electronic address: gulyaeva_tv@chumakovs.su.
+(7)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, Moscow 108819,
+Russia; I.I. Mechnikov Research Institute of Vaccines and Sera, Moscow 105064,
+Russia; Russian Medical Academy of Continuous Professional Education, Moscow
+125993, Russia. Electronic address: axi0ma@mail.ru.
+(8)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, Moscow 108819,
+Russia; I.I. Mechnikov Research Institute of Vaccines and Sera, Moscow 105064,
+Russia; Russian Medical Academy of Continuous Professional Education, Moscow
+125993, Russia; N.F. Gamaleya Federal Research Center for Epidemiology &
+Microbiology, Moscow 123098, Russia.
+(9)I.I. Mechnikov Research Institute of Vaccines and Sera, Moscow 105064, Russia;
+Russian Medical Academy of Continuous Professional Education, Moscow 125993,
+Russia. Electronic address: isaeva.06@mail.ru.
+(10)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, Moscow 108819,
+Russia. Electronic address: belyakova_av@chumakovs.su.
+(11)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, Moscow 108819,
+Russia. Electronic address: annalyashen@yandex.ru.
+(12)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, Moscow 108819,
+Russia.
+(13)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, Moscow 108819,
+Russia. Electronic address: morozov_ia@chumakovs.su.
+(14)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, Moscow 108819,
+Russia; N.F. Gamaleya Federal Research Center for Epidemiology & Microbiology,
+Moscow 123098, Russia; Department of Microbiology, Tumor and Cell Biology,
+Karolinska Institutet, 17177 Stockholm, Sweden. Electronic address:
+Maria.Issagouliantis@ki.se.
+(15)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, Moscow 108819,
+Russia; Institute for Translational Medicine and Biotechnology, Sechenov First
+Moscow State Medical University, Moscow 127994, Russia. Electronic address:
+ishmukhametov@chumakovs.su.
+(16)I.I. Mechnikov Research Institute of Vaccines and Sera, Moscow 105064,
+Russia; Russian Medical Academy of Continuous Professional Education, Moscow
+125993, Russia. Electronic address: michmich2@yandex.ru.
+
+BACKGROUND: Hepatitis E virus (HEV) is a major causative agent of acute hepatitis
+worldwide, prompting continuous HEV vaccine efforts. Vaccine development is
+hampered by the lack of convenient animal models susceptible to infection with
+different HEV genotypes. We produced recombinant open reading frame 2 protein
+(pORF2; p551) of HEV genotype (GT) 3 and assessed its immunogenicity and
+protectivity against HEV challenge in common marmosets (Callithrix jacchus, CM).
+METHODS: p551 with consensus sequence corresponding to amino acid residues
+110-660 of HEV GT3 pORF2 was expressed in E. coli and purified by affinity
+chromatography. CMs were immunized intramuscularly with 20 μg of p551 VLPs with
+alum adjuvant (n = 4) or adjuvant alone (n = 2) at weeks 0, 3, 7 and 19. At week 
+27, p551-immunized and control animals were challenged with HEV GT1 or GT3 and
+thereafter longitudinally screened for markers of liver function, anti-HEV IgG
+and HEV RNA in feces and sera.
+RESULTS: Purified p551 formed VLPs with particle size of 27.71 ± 2.42 nm. Two
+immunizations with p551 induced anti-HEV IgG mean titer of 1:1810. Immunized CMs 
+challenged with homologous and heterologous HEV genotype did not develop HEV
+infection during the follow-up. Control CMs infected with both HEV GT1 and GT3
+demonstrated signs of HEV infection with virus shedding and elevation of the
+levels of liver enzymes. High levels of anti-HEV IgG persisted in vaccinated CMs 
+and control CMs that resolved HEV infection, for up to two years post challenge.
+CONCLUSIONS: CMs are shown to be a convenient laboratory animal model susceptible
+to infection with HEV GT1 and GT3. Immunization with HEV GT3 ORF2/p551 triggers
+potent anti-HEV antibody response protecting CMs from homologous and heterologous
+HEV challenge. This advances p551 in VLPs as a prototype vaccine against HEV.
+
+Copyright © 2021. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.vaccine.2021.11.042 
+PMID: 34836660  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

@@ -1,0 +1,33 @@
+
+
+170. Methods Mol Biol. 2021 Mar 18. doi: 10.1007/7651_2021_381. [Epub ahead of print]
+
+Generation of Marmoset Monkey iPSCs with Self-Replicating VEE-mRNAs in
+Feeder-Free Conditions.
+
+Petkov SG(1)(2), Behr R(3)(4).
+
+Author information: 
+(1)Platform Degenerative Diseases, German Primate Center, GmbH, Leibniz Institute
+for Primate Research, Göttingen, Germany. SPetkov@dpz.eu.
+(2)German Center for Cardiovascular Research (DZHK), Partner Site Göttingen,
+Göttingen, Germany. SPetkov@dpz.eu.
+(3)Platform Degenerative Diseases, German Primate Center, GmbH, Leibniz Institute
+for Primate Research, Göttingen, Germany.
+(4)German Center for Cardiovascular Research (DZHK), Partner Site Göttingen,
+Göttingen, Germany.
+
+The generation and culture of transgene-free induced pluripotent stem cells
+(iPSCs) from the common marmoset (Callithrix jacchus) present unique challenges
+due to the fact that the protocols developed for culture of human or mouse
+pluripotent cells are not sufficiently optimized for this particular monkey
+species. Here, we describe the procedures for the reprogramming of marmoset fetal
+fibroblasts to pluripotency with self-replicating mRNAs using a two-step
+approach, where intermediate primary colonies generated in the first
+reprogramming step are converted in the second step to iPSCs with customized
+marmoset culture medium. The resulting iPSCs are free of transgenes and can be
+maintained in long-term culture in feeder-free conditions.
+
+DOI: 10.1007/7651_2021_381 
+PMID: 33733393 
+

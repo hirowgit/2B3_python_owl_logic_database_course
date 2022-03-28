@@ -1,0 +1,45 @@
+
+
+2284. Anal Chem. 2008 Jun 1;80(11):4200-7. doi: 10.1021/ac800205s. Epub 2008 May 9.
+
+Towards absolute quantification of therapeutic monoclonal antibody in serum by
+LC-MS/MS using isotope-labeled antibody standard and protein cleavage isotope
+dilution mass spectrometry.
+
+Heudi O(1), Barteau S, Zimmer D, Schmidt J, Bill K, Lehmann N, Bauer C, Kretz O.
+
+Author information: 
+(1)DMPK/Bioanalytics, and Biotechnology Development, Novartis Pharma AG, CH-4002 
+Basel, Switzerland. Olivier.heudi@novartis.com
+
+Although LC-MS methods are increasingly used for the absolute quantification of
+proteins, the lack of appropriate internal standard (IS) hinders the development 
+of rapid and standardized analytical methods for both in vitro and in vivo
+studies. Here, we have developed a novel method for the absolute quantification
+of a therapeutic protein, which is monoclonal antibody (mAb). The method combines
+liquid chromatography tandem mass spectrometry (LC-MS/MS) and protein cleavage
+isotope dilution mass spectrometry with the isotope-labeled mAb as IS. The latter
+was identical to the analyzed mAb with the exception that each threonine contains
+four (13)C atoms and one (15)N atom. Serum samples were spiked with IS prior to
+the overnight trypsin digestion and subsequent sample cleanup. Sample extracts
+were analyzed on a C18 ACE column (150 mm x 4.6 mm) using an LC gradient time of 
+11 min. Endogenous mAb concentrations were determined by calculating the peak
+height ratio of its signature peptide to the corresponding isotope-labeled
+peptide. The linear dynamic range was established between 5.00 and 1000 microg/mL
+mAb with accuracy and precision within +/-15% at all concentrations and below
++/-20% at the LLOQ (lower limit of quantification). The overall method recovery
+in terms of mAb was 14%. The losses due to sample preparation (digestion and
+purification) were 72% from which about 32% was due to the first step of the
+method, the sample digestion. This huge loss during sample preparation strongly
+emphasizes the necessity to employ an IS right from the beginning. Our method was
+successfully applied to the mAb quantification in marmoset serum study samples,
+and the precision obtained on duplicate samples was, in most cases, below 20%.
+The comparison with enzyme-linked immunosorbent assay (ELISA) showed higher
+exposure in terms of AUC and Cmax with the LC-MS/MS method. Possible reasons for 
+this discrepancy are discussed in this study. The results of this study indicate 
+that our LC-MS/MS method is a simple, rapid, and precise approach for the
+therapeutic mAb quantification to support preclinical and clinical studies.
+
+DOI: 10.1021/ac800205s 
+PMID: 18465883  [Indexed for MEDLINE]
+

@@ -1,0 +1,109 @@
+
+
+819. PLoS One. 2017 Aug 24;12(8):e0183766. doi: 10.1371/journal.pone.0183766.
+eCollection 2017.
+
+Tetrodotoxin-insensitive electrical field stimulation-induced contractions on
+Crotalus durissus terrificus corpus cavernosum.
+
+Campos R(1), Mónica FZ(1), Rodrigues RL(1), Rojas-Moscoso JA(1), Moreno RA(2),
+Cogo JC(3), de Oliveira MA(1), Antunes E(1), De Nucci G(1)(3)(4).
+
+Author information: 
+(1)Faculty of Medical Sciences, Department of Pharmacology, University of
+Campinas (UNICAMP), Campinas, Brazil.
+(2)Faculty of Health Sciences, Department of Pharmacology, FACISB, Barretos,
+Brazil.
+(3)Faculty of Medical Sciences, Brazil University, Fernandópolis, Brazil.
+(4)Institute of Biomedical Sciences, University of São Paulo (USP), São Paulo,
+Brazil.
+
+Reptiles are the first amniotes to develop an intromitent penis, however until
+now the mechanisms involved in the electrical field stimulation-induced
+contraction on corpora cavernosa isolated from Crotalus durissus terrificus were 
+not investigated. Crotalus and rabbit corpora cavernosa were mounted in 10 mL
+organ baths for isometric tension recording. Electrical field stimulation
+(EFS)-induced contractions were performed in presence/absence of phentolamine (10
+μM), guanethidine (30 μM), tetrodotoxin (1 μM and 1mM), A-803467 (10 μM),
+3-iodo-L-Tyrosine (1 mM), salsolinol (3 μM) and a modified Krebs solution
+(equimolar substitution of NaCl by N-methyl-D-glucamine). Immuno-histochemistry
+for tyrosine hydroxylase was also performed. Electrical field stimulation (EFS; 8
+Hz and 16 Hz) caused contractions in both Crotalus and rabbit corpora cavernosa. 
+The contractions were abolished by previous incubation with either phentolamine
+or guanethidine. Tetrodotoxin (1 μM) also abolished the EFS-induced contractions 
+of rabbit CC, but did not affect EFS-induced contractions of Crotalus CC.
+Addition of A-803467 (10 μM) did not change the EFS-induced contractions of
+Crotalus CC but abolished rabbit CC contractions. 3-iodo-L-Tyrosine and
+salsolinol had no effect on EFS-induced contractions of Crotalus CC and Rabbit
+CC. Replacement of NaCl by N- Methyl-D-glucamine (NMDG) abolished EFS-induced
+contractions of rabbit CC, but did not affect Crotalus CC. The presence of
+tyrosine hydroxylase was identified in endothelial cells only of Crotalus CC.
+Since the EFS-induced contractions of Crotalus CC is dependent on catecholamine
+release, insensitive to TTX, insensitive to A803467 and to NaCl replacement, it
+indicates that the source of cathecolamine is unlikely to be from adrenergic
+terminals. The finding that tyrosine hydroxylase is present in endothelial cells 
+suggests that these cells can modulate Crotalus CC tone.
+
+DOI: 10.1371/journal.pone.0183766 
+PMCID: PMC5570490
+PMID: 28837636  [Indexed for MEDLINE]
+
+
+820. Neuroimage. 2017 Nov 15;162:86-92. doi: 10.1016/j.neuroimage.2017.08.052. Epub
+2017 Aug 19.
+
+Functional magnetic resonance imaging of auditory cortical fields in awake
+marmosets.
+
+Toarmino CR(1), Yen CCC(2), Papoti D(2), Bock NA(3), Leopold DA(4), Miller CT(1),
+Silva AC(5).
+
+Author information: 
+(1)Cortical Systems and Behavior Laboratory, Department of Psychology and
+Neurosciences Graduate Program, The University of California at San Diego, La
+Jolla, CA, 92093-0109, USA.
+(2)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, Bethesda, MD,
+20892-4478, USA.
+(3)Department of Psychology, Neuroscience and Behaviour, McMaster University,
+Hamilton, Ontario, L8S 4K1, Canada.
+(4)Section on Cognitive Neurophysiology and Imaging, Laboratory of
+Neuropsychology, National Institute of Mental Health, Bethesda, MD, 20892-4400,
+USA.
+(5)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, Bethesda, MD,
+20892-4478, USA. Electronic address: SilvaA@ninds.nih.gov.
+
+The primate auditory cortex is organized into a network of anatomically and
+functionally distinct processing fields. Because of its tonotopic properties, the
+auditory core has been the main target of neurophysiological studies ranging from
+sensory encoding to perceptual decision-making. By comparison, the auditory belt 
+has been less extensively studied, in part due to the fact that neurons in the
+belt areas prefer more complex stimuli and integrate over a wider frequency range
+than neurons in the core, which prefer pure tones of a single frequency.
+Complementary approaches, such as functional magnetic resonance imaging (fMRI),
+allow the anatomical identification of both the auditory core and belt and
+facilitate their functional characterization by rapidly testing a range of
+stimuli across multiple brain areas simultaneously that can be used to guide
+subsequent neural recordings. Bridging these technologies in primates will serve 
+to further expand our understanding of primate audition. Here, we developed a
+novel preparation to test whether different areas of the auditory cortex could be
+identified using fMRI in common marmosets (Callithrix jacchus), a powerful model 
+of the primate auditory system. We used two types of stimulation, band pass noise
+and pure tones, to parse apart the auditory core from surrounding secondary belt 
+fields. In contrast to most auditory fMRI experiments in primates, we employed a 
+continuous sampling paradigm to rapidly collect data with little deleterious
+effects. Here we found robust bilateral auditory cortex activation in two
+marmosets and unilateral activation in a third utilizing this preparation.
+Furthermore, we confirmed results previously reported in electrophysiology
+experiments, such as the tonotopic organization of the auditory core and regions 
+activating preferentially to complex over simple stimuli. Overall, these data
+establish a key preparation for future research to investigate various functional
+properties of marmoset auditory cortex.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.neuroimage.2017.08.052 
+PMCID: PMC5705576
+PMID: 28830766  [Indexed for MEDLINE]
+

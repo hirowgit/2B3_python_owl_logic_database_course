@@ -1,0 +1,96 @@
+
+
+534. Cell Rep. 2019 Mar 5;26(10):2818-2832.e8. doi: 10.1016/j.celrep.2019.02.011.
+
+Functional Access to Neuron Subclasses in Rodent and Primate Forebrain.
+
+Mehta P(1), Kreeger L(1), Wylie DC(2), Pattadkal JJ(3), Lusignan T(1), Davis
+MJ(1), Turi GF(4), Li WK(4), Whitmire MP(5), Chen Y(5), Kajs BL(1), Seidemann
+E(5), Priebe NJ(3), Losonczy A(4), Zemelman BV(6).
+
+Author information: 
+(1)Center for Learning and Memory, University of Texas, Austin, TX 78712, USA;
+Department of Neuroscience, University of Texas, Austin, TX 78712, USA.
+(2)Center for Computational Biology and Bioinformatics, University of Texas,
+Austin, TX 78712, USA.
+(3)Center for Learning and Memory, University of Texas, Austin, TX 78712, USA;
+Center for Perceptual Systems, University of Texas, Austin, TX 78712, USA;
+Department of Neuroscience, University of Texas, Austin, TX 78712, USA.
+(4)Kavli Institute for Brain Science, Columbia University, New York, NY 10027,
+USA; Department of Neuroscience, Columbia University, New York, NY 10027, USA.
+(5)Center for Perceptual Systems, University of Texas, Austin, TX 78712, USA;
+Department of Neuroscience, University of Texas, Austin, TX 78712, USA;
+Department of Psychology, University of Texas, Austin, TX 78712, USA.
+(6)Center for Learning and Memory, University of Texas, Austin, TX 78712, USA;
+Department of Neuroscience, University of Texas, Austin, TX 78712, USA.
+Electronic address: zemelmanb@mail.clm.utexas.edu.
+
+Comment in
+    Neurosci Insights. 2020 Feb 27;15:2633105520908537.
+
+Viral vectors enable foreign proteins to be expressed in brains of non-genetic
+species, including non-human primates. However, viruses targeting specific neuron
+classes have proved elusive. Here we describe viral promoters and strategies for 
+accessing GABAergic interneurons and their molecularly defined subsets in the
+rodent and primate. Using a set intersection approach, which relies on two
+co-active promoters, we can restrict heterologous protein expression to cortical 
+and hippocampal somatostatin-positive and parvalbumin-positive interneurons. With
+an orthogonal set difference method, we can enrich for subclasses of
+neuropeptide-Y-positive GABAergic interneurons by effectively subtracting the
+expression pattern of one promoter from that of another. These methods harness
+the complexity of gene expression patterns in the brain and significantly expand 
+the number of genetically tractable neuron classes across mammals.
+
+Copyright © 2019 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2019.02.011 
+PMCID: PMC6509701
+PMID: 30840900  [Indexed for MEDLINE]
+
+
+535. Sci Rep. 2019 Mar 5;9(1):3567. doi: 10.1038/s41598-019-39535-1.
+
+A note on retrograde gene transfer efficiency and inflammatory response of
+lentiviral vectors pseudotyped with FuG-E vs. FuG-B2 glycoproteins.
+
+Tanabe S(1), Uezono S(1), Tsuge H(1), Fujiwara M(1), Miwa M(2), Kato S(3),
+Nakamura K(2), Kobayashi K(3), Inoue KI(4)(5), Takada M(6).
+
+Author information: 
+(1)Systems Neuroscience Section, Department of Neuroscience, Primate Research
+Institute, Kyoto University, Inuyama, Aichi, 484-8506, Japan.
+(2)Cognitive Neuroscience Section, Department of Neuroscience, Primate Research
+Institute, Kyoto University, Inuyama, Aichi, 484-8506, Japan.
+(3)Department of Molecular Genetics, Institute of Biomedical Sciences, Fukushima 
+Medical University School of Medicine, Fukushima, Fukushima, 960-1295, Japan.
+(4)Systems Neuroscience Section, Department of Neuroscience, Primate Research
+Institute, Kyoto University, Inuyama, Aichi, 484-8506, Japan.
+inoue.kenichi.6z@kyoto-u.ac.jp.
+(5)PRESTO, Japan Science and Technology Agency, Kawaguchi, Saitama, 332-0012,
+Japan. inoue.kenichi.6z@kyoto-u.ac.jp.
+(6)Systems Neuroscience Section, Department of Neuroscience, Primate Research
+Institute, Kyoto University, Inuyama, Aichi, 484-8506, Japan.
+takada.masahiko.7x@kyoto-u.ac.jp.
+
+Pseudotyped lentiviral vectors give access to pathway-selective gene manipulation
+via retrograde transfer. Two types of such lentiviral vectors have been
+developed. One is the so-called NeuRet vector pseudotyped with fusion
+glycoprotein type E, which preferentially transduces neurons. The other is the
+so-called HiRet vector pseudotyped with fusion glycoprotein type B2, which
+permits gene transfer into both neurons and glial cells at the injection site.
+Although these vectors have been applied in many studies investigating neural
+network functions, it remains unclear which vector is more appropriate for
+retrograde gene delivery in the brain. To compare the gene transfer efficiency
+and inflammatory response of the NeuRet vs. HiRet vectors, each vector was
+injected into the striatum in macaque monkeys, common marmosets, and rats. It was
+revealed that retrograde gene delivery of the NeuRet vector was equal to or
+greater than that of the HiRet vector. Furthermore, inflammation characterized by
+microglial and lymphocytic infiltration occurred when the HiRet vector, but not
+the NeuRet vector, was injected into the primate brain. The present results
+indicate that the NeuRet vector is more suitable than the HiRet vector for
+retrograde gene transfer in the primate and rodent brains.
+
+DOI: 10.1038/s41598-019-39535-1 
+PMCID: PMC6400974
+PMID: 30837514  [Indexed for MEDLINE]
+

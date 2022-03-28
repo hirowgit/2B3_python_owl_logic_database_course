@@ -1,0 +1,46 @@
+
+
+980. J Neurophysiol. 2016 Dec 1;116(6):2789-2798. doi: 10.1152/jn.00474.2016. Epub
+2016 Oct 5.
+
+Spontaneous activity is correlated with coding density in primary auditory
+cortex.
+
+Bender DA(1)(2), Ni R(1), Barbour DL(3).
+
+Author information: 
+(1)Laboratory of Sensory Neuroscience and Neuroengineering, Department of
+Biomedical Engineering, Washington University in St. Louis, St. Louis, Missouri; 
+and.
+(2)Department of Biology, Washington University in St. Louis, St. Louis,
+Missouri.
+(3)Laboratory of Sensory Neuroscience and Neuroengineering, Department of
+Biomedical Engineering, Washington University in St. Louis, St. Louis, Missouri; 
+and dbarbour@biomed.wustl.edu.
+
+Sensory neurons across sensory modalities and specific processing areas have
+diverse levels of spontaneous firing rates (SFRs) in the absence of sensory
+stimuli. However, the functional significance of this spontaneous activity is not
+well-understood. Previous studies in the auditory system have demonstrated that
+different levels of spontaneous activity are correlated with a variety of
+physiological and anatomic properties, suggesting that neurons with differing
+SFRs make unique contributions to the encoding of auditory stimuli. Additionally,
+altered SFRs are a correlate of tinnitus, arising in several auditory areas after
+exposure to ototoxic substances and noise trauma. In this study, we recorded
+single-unit activity from primary auditory cortex of awake marmoset monkeys while
+delivering wide-band random-spectrum stimuli and white Gaussian noise (WGN) to
+examine any divergences in stimulus encoding properties across SFR classes. We
+found that higher levels of spontaneous activity were associated with both higher
+levels of activation relative to suppression across a variety of wide-band
+stimuli and higher driven rates in response to WGN. Moreover, response latencies 
+to WGN were negatively correlated with the level of activation in response to
+both stimulus types. These findings are consistent with a novel view of the role 
+spontaneous spiking may play during normal stimulus processing in primary
+auditory cortex and how it may malfunction in cases of tinnitus.
+
+Copyright © 2016 the American Physiological Society.
+
+DOI: 10.1152/jn.00474.2016 
+PMCID: PMC5155035
+PMID: 27707812  [Indexed for MEDLINE]
+

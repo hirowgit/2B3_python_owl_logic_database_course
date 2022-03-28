@@ -1,0 +1,46 @@
+
+
+411. Behav Pharmacol. 2020 Feb;31(1):45-60. doi: 10.1097/FBP.0000000000000509.
+
+Measurement of baseline locomotion and other behavioral traits in a common
+marmoset model of Parkinson's disease established by a single administration
+regimen of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine: providing reference data
+for efficacious preclinical evaluations.
+
+Ando K(1), Inoue T(1), Hikishima K(1)(2), Komaki Y(1), Kawai K(1), Inoue R(1),
+Nishime C(1), Nishinaka E(1), Urano K(1), Okano H(3)(4).
+
+Author information: 
+(1)Central Institute for Experimental Animals (CIEA), Kawasakiku, Kawasaki.
+(2)Okinawa Institute of Science and Technology, Graduate University, Kunigami,
+Okinawa.
+(3)Keio University, School of Medicine, Shinjukuku, Tokyo.
+(4)Laboratory for Marmoset Neural Architecture, RIKEN Brain Science Institute,
+Wakoshi, Saitama, Japan.
+
+Baseline locomotion and behavioral traits in the common marmoset Parkinson's
+disease model were examined to provide basic information for preclinical
+evaluations of medical treatments. A single regimen of
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine at a cumulative dose of 5 mg/kg as
+the free base over three consecutive days was administered subcutaneously to 10
+marmosets. Data obtained from these marmosets were compared to
+pre-1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine levels or
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine free marmosets. After the single
+regimen, reduced daily locomotion, a measure of immobility (a primary sign of
+Parkinsonism), was observed for more than a year. A moving tremor was also
+observed by visual inspection during this period. When apomorphine (0.13 mg/kg,
+s.c.) was administered, either right or left circling behavior was observed in a 
+cylindrical chamber in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine marmosets,
+suggestive of unequal neural damage between the two brain hemispheres to
+different extents. MRI revealed that T1 relaxation time in the right substantia
+nigra correlated with right circling in
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine marmosets. Histology was supportive 
+of dopaminergic neural loss in the striatum. These results increase our
+understanding of the utility and limitations of the Parkinson's disease model in 
+marmosets with a single 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine regimen, and
+provide reference data for efficacious preclinical evaluations.
+
+DOI: 10.1097/FBP.0000000000000509 
+PMCID: PMC6964884
+PMID: 31625972  [Indexed for MEDLINE]
+

@@ -1,0 +1,39 @@
+
+
+166. Elife. 2021 Mar 31;10. pii: e65012. doi: 10.7554/eLife.65012.
+
+Neural network of social interaction observation in marmosets.
+
+Cléry JC(1), Hori Y(1), Schaeffer DJ(1)(2), Menon RS(1)(3), Everling S(1)(3).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Canada.
+(2)University of Pittsburgh, Department of Neurobiology, Pittsburgh, United
+States.
+(3)Department of Physiology and Pharmacology, The University of Western Ontario, 
+London, Canada.
+
+A crucial component of social cognition is to observe and understand the social
+interactions of other individuals. A promising nonhuman primate model for
+investigating the neural basis of social interaction observation is the common
+marmoset (Callithrix jacchus), a small New World primate that shares a rich
+social repertoire with humans. Here, we used functional magnetic resonance
+imaging acquired at 9.4 T to map the brain areas activated by social interaction 
+observation in awake marmosets. We discovered a network of subcortical and
+cortical areas, predominately in the anterior lateral frontal and medial frontal 
+cortex, that was specifically activated by social interaction observation. This
+network resembled that recently identified in Old World macaque monkeys. Our
+findings suggest that this network is largely conserved between New and Old World
+primates and support the use of marmosets for studying the neural basis of social
+cognition.
+
+© 2021, Cléry et al.
+
+DOI: 10.7554/eLife.65012 
+PMCID: PMC8024015
+PMID: 33787492  [Indexed for MEDLINE]
+
+Conflict of interest statement: JC, YH, DS, RM, SE No competing interests
+declared
+

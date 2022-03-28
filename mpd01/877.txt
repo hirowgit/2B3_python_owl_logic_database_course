@@ -1,0 +1,108 @@
+
+
+877. Drug Metab Dispos. 2017 Aug;45(8):883-886. doi: 10.1124/dmd.117.076042. Epub 2017
+May 9.
+
+Molecular Cloning and Characterization of Marmoset Aldehyde Oxidase.
+
+Uehara S(1), Uno Y(1), Okamoto E(1), Inoue T(1), Sasaki E(1), Yamazaki H(2).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., E.O., H.Y.); Pharmacokinetics and
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology (T.I.) and Center of
+Applied Developmental Biology (E.S.), Central Institute for Experimental Animals,
+Kawasaki, Japan; and Keio Advanced Research Center, Keio University, Tokyo, Japan
+(E.S.).
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., E.O., H.Y.); Pharmacokinetics and
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology (T.I.) and Center of
+Applied Developmental Biology (E.S.), Central Institute for Experimental Animals,
+Kawasaki, Japan; and Keio Advanced Research Center, Keio University, Tokyo, Japan
+(E.S.) hyamazak@ac.shoyaku.ac.jp.
+
+Common marmosets (Callithrix jacchus), New World monkeys, are a promising primate
+model for preclinical drug metabolism studies because of the similarities of
+cytochrome P450 (P450) enzyme function to those of humans. Despite an increasing 
+number of drug candidates catalyzed by non-P450 enzymes, drug metabolizing
+enzymes other than P450s have been hardly identified or characterized in
+marmosets. In this study, we identified aldehyde oxidase (AOX) 1 gene by marmoset
+genome analysis. AOX1 cDNA was cloned from marmoset livers by reverse
+transcription-polymerase chain reaction. Deduced amino acid sequences of AOX1
+cDNA showed high sequence identities (92-93%) with primate AOX1s. Phylogenetic
+analysis showed that marmoset AOX1 was closely clustered with primate AOX1s,
+unlike nonprimate animal model AOX1s of pig, rabbit, rat, and mouse used in drug 
+metabolism. The tissue expression analyses by real-time reverse-transcription
+polymerase chain reaction and immunoblotting showed that marmoset AOX1 mRNA and
+protein were abundantly expressed in livers, similar to cynomolgus monkeys and
+humans. Marmoset AOX1 heterologously expressed in Escherichia coli catalyzed the 
+oxidation of carbazeran and phthalazine, typical AOX1 substrates, similar to
+cynomolgus monkey and human AOX1s. Human and marmoset AOX1 effectively catalyzed 
+phthalazine oxidation when assessed with Michaelis-Menten kinetics, but
+cynomolgus monkey AOX1 catalyzed this reaction with cooperative kinetics with
+high capacity. These results indicated that tissue distribution and enzymatic
+function of AOX1 enzyme is similar between marmosets and humans, suggesting that 
+marmosets are a suitable primate model for AOX-dependent drug metabolism in
+preclinical studies.
+
+Copyright © 2017 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/dmd.117.076042 
+PMID: 28487309  [Indexed for MEDLINE]
+
+
+878. Primates. 2017 Jul;58(3):461-472. doi: 10.1007/s10329-017-0608-9. Epub 2017 May
+8.
+
+Muscle architectural properties in the common marmoset (Callithrix jacchus).
+
+Ogihara N(1), Oishi M(2), Kanai R(3), Shimada H(3), Kondo T(4), Yoshino-Saito
+K(4), Ushiba J(5), Okano H(4).
+
+Author information: 
+(1)Department of Mechanical Engineering, Faculty of Science and Technology, Keio 
+University, 3-14-1, Hiyoshi, Kohoku-ku, Yokohama, 223-8522, Japan.
+ogihara@mech.keio.ac.jp.
+(2)Laboratory of Anatomy 1, School of Veterinary Medicine, Azabu University,
+Sagamihara, 252-5201, Japan.
+(3)Department of Mechanical Engineering, Faculty of Science and Technology, Keio 
+University, 3-14-1, Hiyoshi, Kohoku-ku, Yokohama, 223-8522, Japan.
+(4)Department of Biosciences and Informatics, Faculty of Science and Technology, 
+Keio University, Yokohama, 223-8522, Japan.
+(5)Department of Physiology, Keio University School of Medicine, Shinjuku, Tokyo,
+160-8582, Japan.
+
+The common marmoset, Callithrix jacchus, is a small New World monkey that has
+recently gained attention as an important experimental animal model in the field 
+of neuroscience as well in rehabilitative and regenerative medicine. This
+attention reflects the closer phylogenetic relationship between humans and common
+marmosets compared to that between humans and other experimental animals. When
+studying the neuronal mechanism behind various types of neurological motor
+disorders using the common marmoset, possible differences in muscle parameters
+(e.g., the force-generating capacity of each of the muscles) between the common
+marmoset and other animals must be taken into account to permit accurate
+interpretation of observed motor behavior. Differences in the muscle
+architectural properties are expected to affect biomechanics, and hence to affect
+neuronal control of body movements. Therefore, we dissected the forelimbs and
+hind limbs of two common marmosets, including systematic analysis of the muscle
+mass, fascicle length, and physiological cross-sectional area (PCSA). Comparisons
+of the mass fractions and PCSA fractions of the forelimb and hind limb
+musculature among the common marmoset, human, Japanese macaque, and domestic cat 
+demonstrated that the overall muscle architectural properties of the forelimbs
+and hind limbs in the common marmoset are very similar to those of the Japanese
+macaque, a typical quadrupedal primate. However, muscle architectural properties 
+of the common marmoset differ from those of the domestic cat, which has
+relatively larger hamstrings and pedal digital flexor muscles. Compared to
+humans, the common marmoset exhibits relatively smaller shoulder protractor,
+retractor, and abductor muscles and larger elbow extensor and rotator-cuff
+muscles in the forelimb, and smaller plantarflexor muscles in the hind limb.
+These differences in the muscle architectural properties must be taken into
+account when interpreting motor behaviors such as locomotion and arm-reaching
+movements in the common marmoset.
+
+DOI: 10.1007/s10329-017-0608-9 
+PMID: 28484857  [Indexed for MEDLINE]
+

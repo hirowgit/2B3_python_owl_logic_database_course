@@ -1,0 +1,85 @@
+
+
+3420. Electrophoresis. 1999 Jun;20(7):1527-32.
+
+Simultaneous analysis of endogenous neurotransmitters and neuropeptides in brain 
+tissue using capillary electrophoresis--microelectrospray-tandem mass
+spectrometry.
+
+Jäverfalk-Hoyes EM(1), Bondesson U, Westerlund D, Andrén PE.
+
+Author information: 
+(1)Department of Chemistry, National Veterinary Institute, Uppsala, Sweden.
+
+Capillary electrophoresis was combined with highly sensitive
+microelectrospray-tandem mass spectrometry to simultaneously detect classical
+small molecule neurotransmitters as well as neuropeptides from discrete regions
+of the marmoset brain. A mixture of four classical neurotransmitters (glutamate, 
+gamma-aminobutyric acid, acetylcholine, dopamine) and four neuropeptides
+(neurotensin, methionine-enkephalin, leucine-enkephalin and substance P 1-7) was 
+studied to optimize the capillary electrophoresis conditions for separation,
+injection volume, and analysis time. Gamma-aminopropyltriethoxysilane-coated
+capillaries and acetic acid electrolytes were used to avoid interactions between 
+the sample and the capillary surface and to obtain a high anodic electroosmotic
+flow, which resulted in a short analysis time. Detection was performed using
+tandem mass spectrometry in the selected reaction monitoring mode using a triple 
+quadrupole mass spectrometer. Samples were dissolved in ammonium acetate to
+achieve a transient-isotachophoretic concentration step at the beginning of the
+separation and to make it possible to inject larger sample volumes, up to 140 nL.
+Small amounts of tissue from specific regions of the marmoset monkey brain were
+pretreated using solid-phase extraction as a clean-up and concentrating step. In 
+the striatum we could detect endogenous glutamate, gamma-aminobutyric acid
+(GABA), acetylcholine and dopamine, as well as the neuropeptides
+methionine-enkephalin and substance P 1-7 in the same analysis, using only 58 mm3
+of brain tissue.
+
+DOI: 10.1002/(SICI)1522-2683(19990601)20:7<1527::AID-ELPS1527>3.0.CO;2-9 
+PMID: 10424476  [Indexed for MEDLINE]
+
+
+3421. Lab Invest. 1999 Jul;79(7):823-35.
+
+Cyno-EBV (EBV-related herpesvirus from cynomolgus macaques) induces rabbit
+malignant lymphomas and their tumor cell lines frequently show specific
+chromosomal abnormalities.
+
+Hayashi K(1), Chen HL, Yanai H, Koirala TR, Ohara N, Teramoto N, Oka T, Yoshino
+T, Takahashi K, Miyamoto K, Fujimoto K, Yoshikawa Y, Akagi T.
+
+Author information: 
+(1)Second Department of Pathology, Okayama University Medical School,
+Okayama-city, Japan. kazuhaya@med.okayama-u.ac.jp
+
+Malignant lymphoma (ML) induction in rabbits by Epstein-Barr virus (EBV)-related 
+herpesvirus of cynomolgus (Cyno-EBV) is reported. Twenty-seven of 30 (90%)
+rabbits inoculated intravenously with Cyno-EBV-producing simian (cynomolgus)
+lymphocyte cell line (Ts-B6) cells developed ML between 45 and 115 days after
+inoculation. The peroral inoculation of Ts-B6 cells induced ML in only 2 of 10
+(20%) rabbits (75 to 85 days). Five of 6 (83%) rabbits injected with cell-free
+pellets from Ts-B6 cultures also developed ML (27 to 122 days). Antibody response
+to the viral capsid antigen of EBV was also detected in sera from rabbits
+inoculated with Ts-B6. ML of the large cell or mixed type infiltrated diffusely
+in many organs, frequently involving the spleen, liver, kidneys, heart, and less 
+frequently the lungs, lymph nodes, brain, eyes, gastrointestinal tract, thymus,
+and bone marrow. A chromosomal analysis of five lymphoma cell lines established
+from tumor-bearing rabbits revealed the rabbit karyotype. Three of these cell
+lines showed the chromosomal abnormalities with 12q- or t (7p+:12q-). EBV-encoded
+small RNA-1 and EBV-associated nuclear antigen 1 were expressed in Ts-B6 cells,
+the tumor tissues, and all rabbit cell lines by in situ hybridization and by
+immunofluorescence tests, respectively. EBV DNA was also detected in Ts-B6 cells 
+and rabbit lymphoma cell lines by polymerase chain reaction and Southern blot
+analysis. The Southern blots of EBV termini revealed oligoclonal bands in the
+Cyno-EBV-induced rabbit lymphomas. No lymphoma was induced by the inoculation of 
+B95-8 (EBV-producing cells) or peripheral leukocytes from normal cynomolgus
+(controls). These data suggest that the high rate of lymphoma induction in
+rabbits may be caused not by human EBV (B95-8) but by Cyno-EBV from Ts-B6 cells. 
+A sequence analysis of the IR1 (BamHIW) region of Cyno-EBV revealed that this
+region is quite similar to that of herpesvirus Macaca fascicularis 1, which is a 
+causative agent for a monkey model of AIDS-related lymphomas. The present rabbit 
+model of lymphoma with specific chromosomal abnormalities is very useful to
+clarify the role of EBV in human EBV-associated lymphoma and provides a means for
+studying prophylactic and therapeutic regimens.
+
+
+PMID: 10418823  [Indexed for MEDLINE]
+

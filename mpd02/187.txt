@@ -1,0 +1,46 @@
+
+
+187. Elife. 2021 Feb 1;10. pii: e59272. doi: 10.7554/eLife.59272.
+
+Dual midbrain and forebrain origins of thalamic inhibitory interneurons.
+
+Jager P(1), Moore G(2)(3), Calpin P(4), Durmishi X(1), Salgarella I(1), Menage
+L(1), Kita Y(5), Wang Y(5), Kim DW(6), Blackshaw S(6), Schultz SR(2), Brickley
+S(3), Shimogori T(5), Delogu A(1).
+
+Author information: 
+(1)Department of Basic and Clinical Neuroscience, Institute of Psychiatry,
+Psychology and Neuroscience, King's College London, London, United Kingdom.
+(2)Department of Bioengineering, Imperial College London, London, United Kingdom.
+(3)Department of Life Sciences and Centre for Neurotechnology, Imperial College
+London, London, United Kingdom.
+(4)Department of Physics and Astronomy, University College London, London, United
+Kingdom.
+(5)RIKEN, Center for Brain Science (CBS), Saitama, Japan.
+(6)The Solomon H. Snyder Department of Neuroscience, School of Medicine, Johns
+Hopkins University, Baltimore, United States.
+
+The ubiquitous presence of inhibitory interneurons in the thalamus of primates
+contrasts with the sparsity of interneurons reported in mice. Here, we identify a
+larger than expected complexity and distribution of interneurons across the mouse
+thalamus, where all thalamic interneurons can be traced back to two developmental
+programmes: one specified in the midbrain and the other in the forebrain.
+Interneurons migrate to functionally distinct thalamocortical nuclei depending on
+their origin: the abundant, midbrain-derived class populates the first and higher
+order sensory thalamus while the rarer, forebrain-generated class is restricted
+to some higher order associative regions. We also observe that markers for the
+midbrain-born class are abundantly expressed throughout the thalamus of the New
+World monkey marmoset. These data therefore reveal that, despite the broad
+variability in interneuron density across mammalian species, the blueprint of the
+ontogenetic organisation of thalamic interneurons of larger-brained mammals
+exists and can be studied in mice.
+
+© 2021, Jager et al.
+
+DOI: 10.7554/eLife.59272 
+PMCID: PMC7906600
+PMID: 33522480  [Indexed for MEDLINE]
+
+Conflict of interest statement: PJ, GM, PC, XD, IS, LM, YK, YW, DK, SB, SS, SB,
+TS, AD No competing interests declared
+

@@ -1,0 +1,37 @@
+
+
+1634. Development. 2012 Dec;139(24):4514-23. doi: 10.1242/dev.083279.
+
+Importance of the pluripotency factor LIN28 in the mammalian nucleolus during
+early embryonic development.
+
+Vogt EJ(1), Meglicki M, Hartung KI, Borsuk E, Behr R.
+
+Author information: 
+(1)German Primate Center, Stem Cell Biology Unit, Kellnerweg 4, 37077 Goettingen,
+Germany. evogt@gwdg.de
+
+The maternal nucleolus is required for proper activation of the embryonic genome 
+(EGA) and early embryonic development. Nucleologenesis is characterized by the
+transformation of a nucleolar precursor body (NPB) to a mature nucleolus during
+preimplantation development. However, the function of NPBs and the involved
+molecular factors are unknown. We uncover a novel role for the pluripotency
+factor LIN28, the biological significance of which was previously demonstrated in
+the reprogramming of human somatic cells to induced pluripotent stem (iPS) cells.
+Here, we show that LIN28 accumulates at the NPB and the mature nucleolus in mouse
+preimplantation embryos and embryonic stem cells (ESCs), where it colocalizes
+with the nucleolar marker B23 (nucleophosmin 1). LIN28 has nucleolar localization
+in non-human primate (NHP) preimplantation embryos, but is cytoplasmic in NHP
+ESCs. Lin28 transcripts show a striking decline before mouse EGA, whereas LIN28
+protein localizes to NPBs at the time of EGA. Following knockdown with a Lin28
+morpholino, the majority of embryos arrest between the 2- and 4-cell stages and
+never develop to morula or blastocyst. Lin28 morpholino-injected embryos arrested
+at the 2-cell stage were not enriched with nucleophosmin at presumptive NPB
+sites, indicating that functional NPBs were not assembled. Based on these
+results, we propose that LIN28 is an essential factor of nucleologenesis during
+early embryonic development.
+
+DOI: 10.1242/dev.083279 
+PMCID: PMC3912245
+PMID: 23172912  [Indexed for MEDLINE]
+

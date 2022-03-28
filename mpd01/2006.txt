@@ -1,0 +1,80 @@
+
+
+2006. J Neurosci. 2010 May 12;30(19):6577-87. doi: 10.1523/JNEUROSCI.0277-10.2010.
+
+Neural correlates of context-dependent perceptual enhancement in the inferior
+colliculus.
+
+Nelson PC(1), Young ED.
+
+Author information: 
+(1)Center for Hearing and Balance, Department of Biomedical Engineering, Johns
+Hopkins University, Baltimore, Maryland 21205, USA. pcnelson@jhu.edu
+
+In certain situations, preceding auditory stimulation can actually result in
+heightened sensitivity to subsequent sounds. Many of these phenomena appear to be
+generated in the brain as reflections of central computations. One example is the
+robust perceptual enhancement (or "pop out") of a probe signal within a broadband
+sound whose onset time is delayed relative to the remainder of a mixture of
+tones. Here we show that the neural representation of such stimuli undergoes a
+dramatic transformation as the pathway is ascended, from an implicit and
+distributed peripheral code to explicitly facilitated single-neuron responses at 
+the level of the inferior colliculus (IC) of two awake and passively listening
+female marmoset monkeys (Callithrix jacchus). Many key features of the IC
+responses directly parallel psychophysical measures of enhancement, including the
+dependence on the width of a spectral notch surrounding the probe, the overall
+level of the complex, and the duration of the preceding sound (referred to as the
+conditioner). Neural detection thresholds for the probe with and without the
+conditioner were also in qualitative agreement with analogous psychoacoustic
+measures. Response characteristics during the conditioners were predictive of the
+enhancement or suppression of the ensuing probe response: buildup responses were 
+associated with enhancement, whereas adapting conditioner responses were more
+likely to result in suppression. These data can be primarily explained by a
+phenomenological computational model using dynamic (adapting) inhibition as a
+necessary ingredient in the generation of neural enhancement.
+
+DOI: 10.1523/JNEUROSCI.0277-10.2010 
+PMCID: PMC2882180
+PMID: 20463220  [Indexed for MEDLINE]
+
+
+2007. Vet Pathol. 2010 Sep;47(5):969-76. doi: 10.1177/0300985810369905. Epub 2010 May
+11.
+
+Small intestinal adenocarcinoma in common marmosets (Callithrix jacchus).
+
+Miller AD(1), Kramer JA, Lin KC, Knight H, Martinot A, Mansfield KG.
+
+Author information: 
+(1)New England Regional Primate Research Center, Harvard Medical School, One Pine
+Hill Drive, Southborough, MA 01760, USA. Andrew_Miller@hms.harvard.edu
+
+Small intestinal adenocarcinomas are uncommon neoplasms that are rarely reported 
+in nonhuman primates. These neoplasms are also rare in humans, although they are 
+thought to share a similar pathogenesis with the more common colorectal
+carcinoma. Herein the authors report the clinical, histologic,
+immunohistochemical, and molecular characteristics of small intestinal
+adenocarcinoma in 10 common marmosets (Callithrix jacchus). Retrospective
+analysis of necropsy records revealed small intestinal carcinoma to be the most
+common neoplastic cause of morbidity and mortality in aged common marmosets. The 
+average age of affected animals was 6.6 years old, and there was no sex
+predilection. Nine of 10 (90%) tumors arose within the proximal small intestine
+near the interface with the duodenum. All cases were characterized by
+disorganization, loss of polarity, and proliferation of neoplastic epithelial
+cells along the crypt to midvillous interface. Two of 10 (20%) were defined as
+carcinoma in situ. Eight of 10 (80%) had some degree of invasion, with lymphatic 
+invasion and lymph node metastasis present in 6 of 10 (60%) animals.
+Immunohistochemically, 10 of 10 (100%) expressed cytokeratin; 7 of 9 (77%)
+expressed E-cadherin; and 8 of 9 (88%) expressed beta-catenin. The expression of 
+E-cadherin and beta-catenin was decreased in the cell membrane and increased in
+the cytoplasm. No Helicobacter-like bacteria were observed via silver stain, and 
+callitrichine herpesvirus 3 was detected by polymerase chain reaction with equal 
+frequency from neoplastic and nonneoplastic intestinal sections. The tumors
+described in this population illustrate comparable features to human cases of
+small intestine carcinoma and may serve as a potential animal model for small
+intestinal carcinomas.
+
+DOI: 10.1177/0300985810369905 
+PMCID: PMC2955325
+PMID: 20460447  [Indexed for MEDLINE]
+

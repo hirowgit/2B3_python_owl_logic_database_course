@@ -1,0 +1,39 @@
+
+
+1749. Cytogenet Genome Res. 2012;136(4):278-87. doi: 10.1159/000337298. Epub 2012 Mar
+24.
+
+Methylation and expression analyses of the 7q autism susceptibility locus genes
+MEST , COPG2, and TSGA14 in human and anthropoid primate cortices.
+
+Schneider E(1), Mayer S, El Hajj N, Jensen LR, Kuss AW, Zischler H, Kondova I,
+Bontrop RE, Navarro B, Fuchs E, Zechner U, Haaf T.
+
+Author information: 
+(1)Institute of Human Genetics, Julius Maximilians University, Würzburg, Germany.
+
+The autism susceptibility locus on human chromosome 7q32 contains the maternally 
+imprinted MEST and the non-imprinted COPG2 and TSGA14 genes. Autism is a disorder
+of the 'social brain' that has been proposed to be due to an overbalance of
+paternally expressed genes. To study regulation of the 7q32 locus during
+anthropoid primate evolution, we analyzed the methylation and expression patterns
+of MEST, COPG2, and TSGA14 in human, chimpanzee, Old World monkey (baboon and
+rhesus macaque), and New World monkey (marmoset) cortices. In all human and
+anthropoid primate cortices, the MEST promoter was hemimethylated, as expected
+for a differentially methylated imprinting control region, whereas the COPG2 and 
+TSGA14 promoters were completely demethylated, typical for transcriptionally
+active non-imprinted genes. The MEST gene also showed comparable mRNA expression 
+levels in all analyzed species. In contrast, COPG2 expression was downregulated
+in the human cortex compared to chimpanzee, Old and New World monkeys. TSGA14
+either showed no differential regulation in the human brain compared to
+chimpanzee and marmoset or a slight upregulation compared to baboon. The
+human-specific downregulation supports a role for COPG2 in the development of a
+'social brain'. Promoter methylation patterns appear to be more stable during
+evolution than gene expression patterns, suggesting that other mechanisms may be 
+more important for inter-primate differences in gene expression.
+
+Copyright © 2012 S. Karger AG, Basel.
+
+DOI: 10.1159/000337298 
+PMID: 22456293  [Indexed for MEDLINE]
+

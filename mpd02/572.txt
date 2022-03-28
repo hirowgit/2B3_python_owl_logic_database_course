@@ -1,0 +1,32 @@
+
+
+572. Methods Mol Biol. 2019;1919:199-204. doi: 10.1007/978-1-4939-9007-8_15.
+
+Isolation and Differentiation of Self-Renewable Neural Stem Cells from
+Marmoset-Induced Pluripotent Stem Cells.
+
+Hong H(1), Roy-Choudhury G(1), Kim J(1), Daadi MM(2)(3).
+
+Author information: 
+(1)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX, USA.
+(2)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX, USA. mdaadi@txbiomed.org.
+(3)Department of Radiology, Research Imaging Institute, Cell Systems and Anatomy,
+Long School of Medicine, University of Texas Health Science Center at San
+Antonio, San Antonio, TX, USA. mdaadi@txbiomed.org.
+
+Neural stem cells (NSCs) are multipotent and self-renewing precursor cells that
+give rise to all cell types of the central nervous system (CNS). They can be used
+for modeling CNS in vitro, for developmental studies and for cell replacement
+therapies. NSCs can be derived from pluripotent stem cells through
+differentiation using specific growth factors. Nonhuman primates (NHP) are
+critical preclinical models for translational research. Induced pluripotent stem 
+cells (iPSCs) can be generated from NHP for the purposes of allogenic or
+autologous cell replacement studies. Here, we describe the derivation of NSCs
+from NHP iPSCs.
+
+DOI: 10.1007/978-1-4939-9007-8_15 
+PMCID: PMC6605034
+PMID: 30656631  [Indexed for MEDLINE]
+

@@ -1,0 +1,76 @@
+
+
+2790. Biol Reprod. 2004 Dec;71(6):2087-91. Epub 2004 Aug 18.
+
+Cografting of hamster (Phodopus sungorus) and marmoset (Callithrix jacchus)
+testicular tissues into nude mice does not overcome blockade of early
+spermatogenic differentiation in primate grafts.
+
+Wistuba J(1), Mundry M, Luetjens CM, Schlatt S.
+
+Author information: 
+(1)Institute of Reproductive Medicine, University Münster, 48129 Münster,
+Germany.
+
+The ectopic xenotransplantation of testicular tissues into nude mice is a tool to
+generate sperm from immature testes. Immunodeficient mice as recipients of
+xenografts offered an appropriate microenvironment for differentiation of
+testicular tissue from hamsters, goats, pigs, and macaques. One exception is the 
+neotropical primate Callithrix jacchus. Spermatogenesis in testicular grafts from
+marmosets does not proceed beyond the spermatogonial stage. The most likely cause
+for the poor graft development of marmosets is a deletion of exon 10 in the
+luteinizing hormone-receptor (LHR) gene, which renders this species insensitive
+to LH but responsive to chorionic gonadotropin (CG). We investigated whether
+cografting of testicular tissue from Djungarian hamsters would overcome the
+blockade in marmoset graft development. We also tested if exogenous
+administration of human CG (hCG) to the recipient would stimulate development of 
+the marmoset tissue. No difference in graft survival was noted between hamster
+and monkey tissue. Seminiferous lumina were present in marmoset and hamster
+grafts but were significantly larger in hamster grafts. In the hamster grafts, a 
+high proportion of the tubules contained meiotic and postmeiotic germ cells. In
+contrast, the marmoset tubules were populated with gonocytes and premeiotic
+spermatogonia. These results indicate that neither normal serum androgen levels
+nor the high local testosterone levels were sufficient to initiate marmoset
+spermatogenesis, nor was administration of hCG successful in overcoming the
+developmental blockade in marmoset tissue. Our results indicate that the
+conditions needed for initiation of spermatogenesis in the marmoset are
+remarkably different from those present in most other mammals.
+
+DOI: 10.1095/biolreprod.104.033431 
+PMID: 15317690  [Indexed for MEDLINE]
+
+
+2791. J Biol Chem. 2004 Oct 22;279(43):44442-59. Epub 2004 Aug 9.
+
+Model of glycoprotein hormone receptor ligand binding and signaling.
+
+Moyle WR(1), Xing Y, Lin W, Cao D, Myers RV, Kerrigan JE, Bernard MP.
+
+Author information: 
+(1)Department of OB-GYN, Robert Wood Johnson (Rutgers) Medical School,
+Piscataway, New Jersey 08854, USA. moyle@umdnj.edu
+
+Studies described here were initiated to develop a model of glycoprotein hormone 
+receptor structure and function. We found that the region that links the lutropin
+receptor leucine-rich repeat domain (LRD) to its transmembrane domain (TMD) has
+substantial roles in ligand binding and signaling, hence we term it the signaling
+specificity domain (SSD). Theoretical considerations indicated the short SSDs in 
+marmoset lutropin and salmon follitropin receptors have KH domain folds. We
+assembled models of lutropin, follitropin, and thyrotropin receptors by aligning 
+models of their LRD, TMD, and shortened SSD in a manner that explains how
+substitutions in follitropin and thyrotropin receptors distant from their
+apparent ligand binding sites enable them to recognize lutropins. In these
+models, the SSD is parallel to the concave surface of the LRD and makes extensive
+contacts with TMD outer loops 1 and 2. The LRD appears to contact TMD outer loop 
+3 and a few residues in helices 1, 5, 6, and 7. We propose that signaling results
+from contacts of the ligands with the SSD and LRD that alter the LRD, which then 
+moves TMD helices 6 and 7. The positions of the LRD and SSD support the notion
+that the receptor can be activated by hormones that dock with these domains in
+either of two different orientations. This would account for the abilities of
+some ligands and ligand chimeras to bind multiple receptors and for some
+receptors to bind multiple ligands. This property of the receptor may have
+contributed significantly to ligand-receptor co-evolution.
+
+DOI: 10.1074/jbc.M406948200 
+PMID: 15304493  [Indexed for MEDLINE]
+

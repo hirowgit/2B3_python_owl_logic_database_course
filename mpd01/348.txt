@@ -1,0 +1,85 @@
+
+
+348. J Neurophysiol. 2020 Apr 1;123(4):1420-1426. doi: 10.1152/jn.00300.2019. Epub
+2020 Mar 4.
+
+A platform for semiautomated voluntary training of common marmosets for
+behavioral neuroscience.
+
+Walker JD(1)(2), Pirschel F(2), Gidmark N(3), MacLean JN(1)(4)(5), Hatsopoulos
+NG(1)(2)(5).
+
+Author information: 
+(1)Committee on Computational Neuroscience, University of Chicago, Chicago,
+Illinois.
+(2)Department of Organismal Biology and Anatomy, University of Chicago, Chicago, 
+Illinois.
+(3)Biology Department, Knox College, Galesburg, Illinois.
+(4)Department of Neurobiology, University of Chicago, Chicago, Illinois.
+(5)Grossman Institute for Neuroscience, Quantitative Biology and Human Behavior, 
+University of Chicago, Chicago, Illinois.
+
+Generally behavioral neuroscience studies of the common marmoset employ
+adaptations of well-established training methods used with macaque monkeys.
+However, in many cases these approaches do not readily generalize to marmosets
+indicating a need for alternatives. Here we present the development of one such
+alternate: a platform for semiautomated, voluntary in-home cage behavioral
+training that allows for the study of naturalistic behaviors. We describe the
+design and production of a modular behavioral training apparatus using CAD
+software and digital fabrication. We demonstrate that this apparatus permits
+voluntary behavioral training and data collection throughout the marmoset's
+waking hours with little experimenter intervention. Furthermore, we demonstrate
+the use of this apparatus to reconstruct the kinematics of the marmoset's upper
+limb movement during natural foraging behavior.NEW & NOTEWORTHY The study of
+marmosets in neuroscience has grown rapidly and presents unique challenges. We
+address those challenges with an innovative platform for semiautomated, voluntary
+training that allows marmosets to train throughout their waking hours with
+minimal experimenter intervention. We describe the use of this platform to
+capture upper limb kinematics during foraging and to expand the opportunities for
+behavioral training beyond the limits of traditional training sessions. This
+flexible platform can easily incorporate other tasks.
+
+DOI: 10.1152/jn.00300.2019 
+PMCID: PMC7191516
+PMID: 32130092  [Indexed for MEDLINE]
+
+
+349. Sci Rep. 2020 Mar 2;10(1):3793. doi: 10.1038/s41598-020-60398-4.
+
+Novel gastrointestinal disease in common marmosets characterised by duodenal
+dilation: a clinical and pathological study.
+
+Mineshige T(1), Inoue T(2), Yasuda M(3), Yurimoto T(1), Kawai K(3), Sasaki E(1).
+
+Author information: 
+(1)Department of Marmoset Biology and Medicine, Central Institute for
+Experimental Animals, Kawasaki, 210-0821, Japan.
+(2)Department of Marmoset Biology and Medicine, Central Institute for
+Experimental Animals, Kawasaki, 210-0821, Japan. inoue-t@ciea.or.jp.
+(3)Pathology Analysis Center, Central Institute for Experimental Animals,
+Kawasaki, 210-0821, Japan.
+
+Common marmosets (Callithrix jacchus) are frequently used for biomedical research
+but gastrointestinal diseases have been major health problems to maintain captive
+marmosets. We have diagnosed a novel gastrointestinal disease in marmosets, as
+which we propose to call 'marmoset duodenal dilation syndrome'; this disease is
+characterised by proximal duodenal obstruction and dilation. This study aimed to 
+reveal the clinical and pathological findings of this syndrome and establish
+appropriate diagnostic imaging methods. Animals with the syndrome comprised 21.9%
+of the necropsy cases at the Central Institute for Experimental Animals in
+Kawasaki, Japan. The syndrome is characterised by clinical signs included
+vomiting, bloating, and weight loss. Grossly, all diseased animals exhibited
+significant dilation of the descending part of the duodenum, which contained a
+mixture of gas and fluid. The duodenal dilations were definitively diagnosed by
+contrast radiography. Moreover, a combination of plain radiography and
+ultrasonography was found to be a viable screening method for diagnosing duodenal
+dilation. The animals with duodenal dilation characteristically showed adhesions 
+between the descending duodenum and ascending colon with chronic peritonitis. The
+cause of marmoset duodenal dilation syndrome remains unknown, but was likely
+multifactorial, including peritoneal adhesion, chronic ulcer, and feeding
+conditions in this study.
+
+DOI: 10.1038/s41598-020-60398-4 
+PMCID: PMC7052236
+PMID: 32123196  [Indexed for MEDLINE]
+

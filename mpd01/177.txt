@@ -1,0 +1,89 @@
+
+
+177. ILAR J. 2020 Dec 31;61(2-3):274-285. doi: 10.1093/ilar/ilaa029.
+
+Magnetic Resonance Imaging of Marmoset Monkeys.
+
+Schaeffer DJ(1), Liu C(2), Silva AC(1), Everling S(3).
+
+Author information: 
+(1)Department of Neurobiology, University of Pittsburgh, Pittsburgh,
+Pennsylvania, USA.
+(2)Institute of Neuroscience, Center for Excellence in Brain Science and
+Intelligence Technology, Chinese Academy of Sciences, Shanghai, China.
+(3)Department of Physiology and Pharmacology, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada.
+
+The use of the common marmoset monkey (Callithrix jacchus) for neuroscientific
+research has grown markedly in the last decade. Magnetic resonance imaging (MRI) 
+has played a significant role in establishing the extent of comparability of
+marmoset brain architecture with the human brain and brains of other preclinical 
+species (eg, macaques and rodents). As a non-invasive technique, MRI allows for
+the flexible acquisition of the same sequences across different species in vivo, 
+including imaging of whole-brain functional topologies not possible with more
+invasive techniques. Being one of the smallest New World primates, the marmoset
+may be an ideal nonhuman primate species to study with MRI. As primates,
+marmosets have an elaborated frontal cortex with features analogous to the human 
+brain, while also having a small enough body size to fit into powerful small-bore
+MRI systems typically employed for rodent imaging; these systems offer superior
+signal strength and resolution. Further, marmosets have a rich behavioral
+repertoire uniquely paired with a lissencephalic cortex (like rodents). This
+smooth cortical surface lends itself well to MRI and also other invasive
+methodologies. With the advent of transgenic modification techniques, marmosets
+have gained significant traction as a powerful complement to canonical mammalian 
+modelling species. Marmosets are poised to make major contributions to
+preclinical investigations of the pathophysiology of human brain disorders as
+well as more basic mechanistic explorations of the brain. The goal of this
+article is to provide an overview of the practical aspects of implementing MRI
+and fMRI in marmosets (both under anesthesia and fully awake) and discuss the
+development of resources recently made available for marmoset imaging.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the
+National Academies of Sciences, Engineering, and Medicine. All rights reserved.
+For permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/ilar/ilaa029 
+PMCID: PMC8918195
+PMID: 33631015 
+
+
+178. J Toxicol Pathol. 2021 Jan;34(1):83-88. doi: 10.1293/tox.2020-0056. Epub 2020 Nov
+21.
+
+Morphological analyses of nephrin expression in progressive glomerulonephropathy 
+of common marmosets.
+
+Yamada N(1), Doi T(1), Sato J(1), Inoue T(2), Tsuchitani M(1), Kobayashi Y(3).
+
+Author information: 
+(1)Pathology Department, Kashima Laboratories, LSIM Safety Institute Corporation,
+14-1 Sunayama, Kamisu-shi, Ibaraki, 314-0255, Japan.
+(2)Marmoset Research Department, Central Institute for Experimental Animals,
+3-25-12 Tonomachi, Kawasaki-ku, Kawasaki-shi, Kanagawa, 210-0821, Japan.
+(3)Laboratory of Veterinary Pathology, Division of Pathological Science,
+Department of Basic Veterinary Medicine, Obihiro University of Agriculture and
+Veterinary Medicine, 2-11 Inada-cho, Obihiro, Hokkaido 080-8555, Japan.
+
+In this study, we focused on nephrin, one of the key molecules within the slit
+diaphragm of podocytes, as although there have been reports on its expression in 
+humans and rats, their presence in common marmosets has not been reported. We
+investigated nephrin expression and changes in glomeruli, depending on the
+development of spontaneous progressive glomerulonephropathy in common marmosets. 
+Nineteen common marmosets at two to ten years of age were evaluated. The kidney
+was examined by microscopy with hematoxylin and eosin and immunohistochemical
+staining for nephrin. The lesions were classified into three grades according to 
+a renal lesion grading system reported previously. The nephrin-positive area was 
+measured by morphometric analysis, and the nephrin-positive ratio was calculated.
+Nephrin expression was observed along the glomerular capillary loop in a
+continuous linear pattern in renal lesion grades 0 to 2 and either discontinuous 
+linear or coarse granular pattern in grade 3. Nephrin expression tended to
+decrease significantly depending on the grade of renal lesions. Alteration in
+nephrin expression has been suggested to play an important role in the
+progression of renal lesions.
+
+©2021 The Japanese Society of Toxicologic Pathology.
+
+DOI: 10.1293/tox.2020-0056 
+PMCID: PMC7890167
+PMID: 33627947 
+

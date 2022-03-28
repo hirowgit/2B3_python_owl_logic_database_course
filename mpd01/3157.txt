@@ -1,0 +1,69 @@
+
+
+3157. Chem Senses. 2001 Jun;26(5):449-58.
+
+Female marmoset monkeys (Callithrix jacchus) can be identified from the chemical 
+composition of their scent marks.
+
+Smith TE(1), Tomlinson AJ, Mlotkiewicz JA, Abbott DH.
+
+Author information: 
+(1)School of Biology and Biochemistry, Queen's University of Belfast, Medical
+Biology Centre, Belfast, UK. t.smith@qub.ac.uk
+
+The present study analyzed 42 organic solvent extracts of scent mark pools from
+five dominant female common marmosets by gas chromatography (GC) and combined GC 
+and mass spectrometry. We determined whether there were qualitative or
+quantitative differences between the chemical composition of scent marks from
+individual females. Gas chromatography and mass spectral analysis detected the
+same 162 chemicals in 86% (36/42) of scent mark pools from five dominant females.
+This near identical chemical composition of scent marks suggested there were few,
+if any, qualitative differences between the chemical composition of scent marks
+from individual females. Instead, quantitative differences in scent may provide
+the key factor distinguishing individual females. Using the relative
+concentration of highly volatile chemicals detected by GC in scent marks, linear 
+discriminant analysis classified scent mark pools to their correct donor
+approximately 91% of the time. Such highly reliable statistical matching of scent
+to donor suggested that each individual female common marmoset has a unique ratio
+of highly volatile chemicals in their scent marks which may permit individual
+identification of females from odors in their scent alone.
+
+DOI: 10.1093/chemse/26.5.449 
+PMID: 11418490  [Indexed for MEDLINE]
+
+
+3158. Vis Neurosci. 2001 Mar-Apr;18(2):209-18.
+
+Long-range interactions in the lateral geniculate nucleus of the New-World
+monkey, Callithrix jacchus.
+
+Felisberti F(1), Derrington AM.
+
+Author information: 
+(1)Applied Vision Research Centre, Department of Optometry & Visual Science, City
+University, London, UK. F.Felisberti@city.ac.uk
+
+Visual stimulation of zones extending beyond the classical receptive field can
+modulate the contrast gain of neurons in the lateral geniculate nucleus (LGN) of 
+cats, but little is known about the effect of extra-classical visual stimulation 
+on the LGN of primates. Hence, we compare the effect of long-range interactions
+in parvocellular and magnocellular LGN layers of the marmoset monkey Callithrix
+jacchus using optimal, incremental spots flashed on the classical receptive field
+either alone or simultaneously with the shift of a grating (98% contrast; 0.1
+cycles/deg) confined to a peripheral annulus (radii: 5-15 deg). The contrast
+required to drive the response halfway to saturation (c50) of most LGN neurons
+was raised by remote pattern shifts. The c50 ratio [(shift+spot)/spot] in
+OFF-center magnocellular neurons was significantly higher than in OFF-center
+parvocellular neurons. OFF-center magnocellular neurons closer to the fovea (<10 
+deg eccentricity) tended to have a higher c50 ratio than in more peripheral
+neurons. A significant drop in visual sensitivity to 25% contrast spots was
+observed during remote motion: d' fell from 1.8 to 1.4 in parvocellular neurons
+and from 2.2 to 1.7 in magnocellular neurons. Such long-range interactions
+produce a reduction in visual sensitivity by changing the gain of the geniculate 
+relay and point to an inhibitory, motion-sensitive extra-classical receptive
+field in both parvocellular and magnocellular pathways, which may be involved in 
+saccadic suppression and attentional mechanisms in early vision.
+
+DOI: 10.1017/s0952523801182064 
+PMID: 11417796  [Indexed for MEDLINE]
+

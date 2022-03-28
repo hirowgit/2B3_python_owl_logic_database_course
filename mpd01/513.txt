@@ -1,0 +1,93 @@
+
+
+513. Front Neuroanat. 2019 Mar 27;13:36. doi: 10.3389/fnana.2019.00036. eCollection
+2019.
+
+Cyto- and Myelo-Architecture of the Amygdaloid Complex of the Common Marmoset
+Monkey (Callithrix jacchus).
+
+Araújo Góis Morais PL(1)(2), García-Amado M(2), Lima RRM(1), Córdoba-Claros A(2),
+Souza Cavalcante J(3), Clascá F(2), Nascimento ES Jr(1).
+
+Author information: 
+(1)Department of Morphology, Universidade Federal do Rio Grande do Norte, Natal, 
+Brazil.
+(2)Department of Anatomy & Neuroscience, School of Medicine, Autonoma de Madrid
+University, Madrid, Spain.
+(3)Department of Physiology, Universidade Federal do Rio Grande do Norte, Natal, 
+Brazil.
+
+The amygdaloid complex (AC) is a heterogeneous aggregate of nuclei located in the
+rostromedial region of the temporal lobe. In addition to being partly connected
+among themselves, the AC nuclei are strongly interconnected with the cerebral
+cortex, striatum, basal forebrain, hypothalamus and brainstem. Animal and human
+functional studies have established that the AC is a central hub of the neuronal 
+networks supporting emotional responsivity, particularly its negative/aversive
+components. Dysfunction of AC circuits in humans has been implicated in anxiety, 
+depression, schizophrenia and bipolar disorder. The small New-World marmoset
+monkey (Callithrix jacchus) has recently become a key model for neuroscience
+research. However, the nuclear and fiber tract organization of marmoset AC has
+not been examined in detail. Thus, the extent to which it can be compared to the 
+AC of Old-World (human and macaque) primates is yet unclear. Here, using Nissl
+and acetylcholinesterase (AChE) histochemical stains as a reference, we analyzed 
+the cytoarchitecture and nuclear parcellation of the marmoset AC. In addition,
+given the increasing relevance of tractographic localization for high-resolution 
+in vivo imaging studies in non-human primates, we also identified the myelin
+fiber tracts present within and around the AC as revealed by the Gallyas method. 
+The present study provides a detailed atlas of marmoset AC. Moreover, it reveals 
+that, despite phylogenetic distance and brain size differences, every nucleus and
+myelinated axon bundle described in human and macaque studies can be confidently 
+recognized in marmosets.
+
+DOI: 10.3389/fnana.2019.00036 
+PMCID: PMC6446959
+PMID: 30971903 
+
+
+514. Brain Struct Funct. 2019 Jun;224(5):1957-1969. doi: 10.1007/s00429-019-01869-x.
+Epub 2019 Apr 8.
+
+In vivo localization of cortical areas using a 3D computerized atlas of the
+marmoset brain.
+
+Risser L(1), Sadoun A(2), Mescam M(2), Strelnikov K(2), Lebreton S(1), Boucher
+S(2), Girard P(2)(3), Vayssière N(2), Rosa MGP(4)(5), Fonta C(6).
+
+Author information: 
+(1)Institut de Mathématiques de Toulouse, UMR5219, Université de Toulouse, CNRS, 
+UPS IMT, 31062, Toulouse Cedex 9, France.
+(2)Centre de recherche Cerveau et Cognition (CerCo), Université de Toulouse UPS, 
+CNRS, UMR 5549, CHU Purpan, Pavillon Baudot, BP 25202, 31052, Toulouse Cedex 3,
+France.
+(3)INSERM, Toulouse, France.
+(4)Department of Physiology, Biomedicine Discovery Institute, Monash University, 
+26 Innovation Walk, Clayton, VIC, 3800, Australia. marcello.rosa@monash.edu.
+(5)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, VIC, 3800, Australia.
+marcello.rosa@monash.edu.
+(6)Centre de recherche Cerveau et Cognition (CerCo), Université de Toulouse UPS, 
+CNRS, UMR 5549, CHU Purpan, Pavillon Baudot, BP 25202, 31052, Toulouse Cedex 3,
+France. caroline.fonta@cnrs.fr.
+
+We created a volumetric template of the marmoset (Callithrix jacchus) brain,
+which enables localization of the cortical areas defined in the Paxinos et al.
+(The marmoset brain in stereotaxic coordinates. Elsevier Academic Press,
+Cambridge, 2012) marmoset brain atlas, as well as seven broader cortical regions 
+(occipital, temporal, parietal, prefrontal, motor, limbic, insular), different
+brain compartments (white matter, gray matter, cerebro-spinal fluid including
+ventricular spaces), and various other structures (brain stem, cerebellum,
+olfactory bulb, hippocampus). The template was designed from T1-weighted MR
+images acquired using a 3 T MRI scanner. It was based on a single fully segmented
+marmoset brain image, which was transported onto the mean of 13 adult marmoset
+brain images using a diffeomorphic strategy that fully preserves the brain
+topology. In addition, we offer an automatic segmentation pipeline which fully
+exploits the proposed template. The segmentation pipeline was quantitatively
+assessed by comparing the results of manual and automated segmentations. An
+associated program, written in Python, can be used from a command-line interface,
+or used interactively as a module of the 3DSlicer software. This program can be
+applied to the analysis of multimodal images, to map specific cortical areas in
+lesions or to define the seeds for further tractography analyses.
+
+DOI: 10.1007/s00429-019-01869-x 
+PMID: 30963231  [Indexed for MEDLINE]
+

@@ -1,0 +1,51 @@
+
+
+302. Chronobiol Int. 2020 Jul;37(7):980-992. doi: 10.1080/07420528.2020.1773495. Epub 
+2020 Jun 23.
+
+Aging-related changes on social synchronization of circadian activity rhythm in a
+diurnal primate (Callithrix jacchus).
+
+Gonçalves FB(1), Gonçalves BSB(2), Cavalcante JS(3), Azevedo CVM(4).
+
+Author information: 
+(1)Escola Multicampi de Ciências Médicas do Rio Grande do Norte, Universidade
+Federal do Rio Grande do Norte , Caicó, RN, Brazil.
+(2)Escola de Artes, Ciências e Humanidades, Universidade de São Paulo , São
+Paulo, SP, Brazil.
+(3)Laboratório de Estudos Neuroquímicos, Departamento de Fisiologia e
+Comportamento, Universidade Federal do Rio Grande do Norte , Natal, RN, Brazil.
+(4)Laboratório de Cronobiologia, Departamento de Fisiologia e Comportamento,
+Universidade Federal do Rio Grande do Norte , Natal, RN, Brazil.
+
+The input of environmental time cues and expression of circadian activity rhythms
+may change with aging. Among nonphotic zeitgebers, social cues from conspecific
+vocalizations may contribute to the stability and survival of individuals of
+social species, such as nonhuman primates. We evaluated aging-related changes on 
+social synchronization of the circadian activity rhythm (CAR) in a social diurnal
+primate, the common marmoset. The activity of 18 male marmosets was recorded by
+actiwatches in two conditions. (1) Experimental - 4 young adult (5 ± 2 yrs of
+age) and 4 older (10 ± 2 yrs of age) animals maintained under LD 12/12 h and LL
+in a room with full insulation for light but only partial insulation for sound
+from vocalizations of conspecifics maintained outdoors in the colony; and (2)
+Control - 10 young adult animals maintained outdoors in the colony (5 animals as 
+a control per age group). In LL, the CAR of young adults showed more stable
+synchronization with controls. Among the aged marmosets, two free-ran with
+τ > 24 h, whereas the other two showed relative coordination during the first
+30 days in LL, but free-ran thereafter. These differences were reflected in the
+"social" phase angles (ψon and ψoff ) between rhythms of experimental and control
+animal groups. Moreover, the activity patterns of aged animals showed lower
+social synchrony with controls compared to young adults, with the time lags of
+the time series between each experimental group and control group being negative 
+in aged and positive in young adult animals (t-test, p < 0.05). The index of
+stability of the CAR showed no differences according to age, while the intradaily
+variability of the CAR was higher in the aged animals during
+LD-resynchronization, who took additional days to resynchronize. Thus, the social
+modulation on CAR may vary with age in marmosets. In the aged group, there was a 
+lower effect of social synchronization, which may be associated with
+aging-related changes in the synchronization and generation of the CAR as well as
+in system outputs.
+
+DOI: 10.1080/07420528.2020.1773495 
+PMID: 32573282  [Indexed for MEDLINE]
+

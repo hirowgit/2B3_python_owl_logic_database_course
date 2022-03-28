@@ -1,0 +1,93 @@
+
+
+1393. J Neurophysiol. 2014 Sep 15;112(6):1421-38. doi: 10.1152/jn.00077.2014. Epub 2014
+Jun 11.
+
+Temporal response properties of koniocellular (blue-on and blue-off) cells in
+marmoset lateral geniculate nucleus.
+
+Pietersen AN(1), Cheong SK(1), Solomon SG(2), Tailby C(3), Martin PR(4).
+
+Author information: 
+(1)Australian Research Council Centre of Excellence for Integrative Brain
+Function, University of Sydney, Sydney, Australia; Save Sight Institute,
+University of Sydney, Sydney, Australia;
+(2)School of Medical Sciences, University of Sydney, Sydney, Australia;
+Department of Experimental Psychology, University College London, London, United 
+Kingdom; and.
+(3)School of Medical Sciences, University of Sydney, Sydney, Australia; Florey
+Institute of Neuroscience and Mental Health, Heidelberg, Australia.
+(4)Australian Research Council Centre of Excellence for Integrative Brain
+Function, University of Sydney, Sydney, Australia; Save Sight Institute,
+University of Sydney, Sydney, Australia; School of Medical Sciences, University
+of Sydney, Sydney, Australia; prmartin@physiol.usyd.edu.au.
+
+Visual perception requires integrating signals arriving at different times from
+parallel visual streams. For example, signals carried on the phasic-magnocellular
+(MC) pathway reach the cerebral cortex pathways some tens of milliseconds before 
+signals traveling on the tonic-parvocellular (PC) pathway. Visual latencies of
+cells in the koniocellular (KC) pathway have not been specifically studied in
+simian primates. Here we compared MC and PC cells to "blue-on" (BON) and
+"blue-off" (BOF) KC cells; these cells carry visual signals originating in
+short-wavelength-sensitive (S) cones. We made extracellular recordings in the
+lateral geniculate nucleus (LGN) of anesthetized marmosets. We found that BON
+visual latencies are 10-20 ms longer than those of PC or MC cells. A small number
+of recorded BOF cells (n = 7) had latencies 10-20 ms longer than those of BON
+cells. Within all cell groups, latencies of foveal receptive fields (<10°
+eccentricity) were longer (by 3-8 ms) than latencies of peripheral receptive
+fields (>10°). Latencies of yellow-off inputs to BON cells lagged the blue-on
+inputs by up to 30 ms, but no differences in visual latency were seen on
+comparing marmosets expressing dichromatic ("red-green color-blind") or
+trichromatic color vision phenotype. We conclude that S-cone signals leaving the 
+LGN on KC pathways are delayed with respect to signals traveling on PC and MC
+pathways. Cortical circuits serving color vision must therefore integrate across 
+delays in (red-green) chromatic signals carried by PC cells and (blue-yellow)
+signals carried by KC cells.
+
+Copyright © 2014 the American Physiological Society.
+
+DOI: 10.1152/jn.00077.2014 
+PMID: 24920024  [Indexed for MEDLINE]
+
+
+1394. J Gen Virol. 2014 Sep;95(Pt 9):1892-1899. doi: 10.1099/vir.0.066746-0. Epub 2014 
+Jun 9.
+
+Evolutionary genetics of genotype H1 measles viruses in China from 1993 to 2012.
+
+Xu S(1), Zhang Y(1), Rivailler P(2), Wang H(1), Ji Y(1), Zhen Z(1), Mao N(1), Li 
+C(3), Bellini WJ(2), Xu W(1), Rota PA(2).
+
+Author information: 
+(1)WHO Regional Reference Laboratory for Measles for the Western Pacific Region, 
+National Institute for Viral Disease Control and Prevention, China Center for
+Disease Control and Prevention, Beijing 102206, PR China.
+(2)Division of Viral Diseases, Centers for Disease Control and Prevention,
+Atlanta, GA, USA.
+(3)Shanghai Center for Disease Control and Prevention, Shanghai City, PR China.
+
+Virologic surveillance is a critical component of measles management. One of the 
+criteria for verification of elimination of endemic measles is genetic analysis
+of wild-type viruses to demonstrate lack of an indigenous genotype. Measles is
+yet to be eliminated in China, and genotype H1 has been detected continuously
+since virologic surveillance was initiated in 1993. Virologic surveillance has
+been very active in China, providing a unique opportunity to conduct a detailed
+study of the evolution of a single, endemic genotype over a timespan of nearly
+two decades. Phylogenetic analysis performed on the 450 nt coding sequence for
+the C-terminal 150 amino acids of the nucleoprotein (N-450), fusion (F) gene and 
+haemagglutinin (H) gene confirmed the continued circulation of genotype H1
+viruses for 19 years. No evidence of selective pressure for the H protein was
+found. The substitution rates ranged from 0.75×10(-3) substitutions site(-1)
+year(-1) for H to 1.65×10(-3) substitutions site(-1) year(-1) for N-450. The time
+of most recent common ancestor (TMRCA) for genotype H1 was estimated as
+approximately 1985 (95 % highest probability density, 1979-1989). Finally, the
+overall diversity of measles sequences from China decreased from 2005 to 2012,
+coincident with a substantial decrease in measles cases. The results suggest that
+detailed evolutionary analyses should facilitate the documentation of eventual
+measles elimination in China. Moreover, the molecular approaches used in this
+study can be applied in other countries approaching measles elimination.
+
+DOI: 10.1099/vir.0.066746-0 
+PMCID: PMC4135087
+PMID: 24914068  [Indexed for MEDLINE]
+

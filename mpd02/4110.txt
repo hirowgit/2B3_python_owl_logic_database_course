@@ -1,0 +1,35 @@
+
+
+4110. Physiol Behav. 1993 Jun;53(6):1067-76.
+
+Sound levels in rooms housing laboratory animals: an uncontrolled daily variable.
+
+Milligan SR(1), Sales GD, Khirnykh K.
+
+Author information: 
+(1)Division of Biomedical Sciences, King's College, Strand, London, UK.
+
+High sound levels are known to have adverse effects on the behaviour and
+physiology of laboratory animals, yet their acoustic environment is rarely
+monitored. In particular, high-frequency sounds that are above the limit of human
+hearing, but are well within the limits of many laboratory species (i.e.,
+ultrasounds), are usually ignored. In this study, the acoustic environment of
+laboratory animals was investigated in a variety of different animal facilities. 
+Sound pressure levels (dB SPL) were monitored for periods up to 24 h over two
+frequency ranges: a relatively low range (0.01-12.5 kHz), and a high range
+(12.5-70 kHz). While background sound levels in undisturbed situations were
+generally low (i.e., below 50 dB SPL), marked increases in sound levels often
+occurred during the working day, producing characteristic daily variations in the
+sound profile. Peak SPLs commonly reached values of 80-95 dB in the low-frequency
+range and 50-75 dB in the higher range. In most cases, sound levels were low over
+weekends. The results suggested that human activities were a very important
+source of sound in most animal facilities. In a few situations (e.g., rabbits,
+marmosets, dogs), the animals themselves provided a significant contribution to
+the acoustic environment. It is clear that the acoustic environment of laboratory
+animals is a daily variable that is usually uncontrolled and that may have
+important implications for behavioural and physiological experiments and for
+animal welfare.
+
+DOI: 10.1016/0031-9384(93)90361-i 
+PMID: 8346289  [Indexed for MEDLINE]
+

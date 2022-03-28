@@ -1,0 +1,116 @@
+
+
+827. PLoS One. 2017 Aug 10;12(8):e0182905. doi: 10.1371/journal.pone.0182905.
+eCollection 2017.
+
+Identification of Plasmodium spp. in Neotropical primates of Maranhense Amazon in
+Northeast Brazil.
+
+Figueiredo MAP(1), Di Santi SM(2), Manrique WG(3), André MR(1), Machado RZ(1).
+
+Author information: 
+(1)Laboratory of Immunoparasitology, School of Agrarian and Veterinary Sciences
+(FCAV), UNESP, Jaboticabal Campus, Jaboticabal, São Paulo, Brazil.
+(2)Center for Malaria Studies, Superintendency for Endemic Disease Control
+(SUCEN), Department of Health of the State of São Paulo/ Institute of Tropical
+Medicine of Sao Paulo (IMTSP), USP, Sao Paulo, São Paulo, Brazil.
+(3)Laboratory of Veterinary Pathology, Brazil University, Descalvado Campus,
+Descalvado, São Paulo, Brazil.
+
+In the Brazilian Amazon region, malaria caused by Plasmodium malariae is
+considered to be a zoonosis because of cross-transfer of the parasite between
+humans and Neotropical primates. To contribute information on this issue, we
+investigated occurrences of natural infection with Plasmodium sp. among
+Neotropical primates in the Maranhense Amazon (Amazon region of the state of
+Maranhão), in the northeastern region of Brazil. Blood samples were collected
+from 161 Neotropical primates of six species that were caught in an environmental
+reserve (Sítio Aguahy) and from captive primates (CETAS-Wildlife Screening
+Center, municipality of São Luís), in Maranhão. Plasmodium sp. was diagnosed
+based on light microscopy, PCR, qPCR and LAMP for amplification of the 18S rRNA
+gene. Serum samples were also assayed by means of indirect immunofluorescence for
+IgG antibodies against P. malariae/P. brasilianum, P. falciparum and P. berghei. 
+Parasites were detected through light microscopy on five slides from captive
+primates (four Sapajus spp. and one Callithrix jacchus). In the molecular tests, 
+34.16% (55/161) and 29.81% (48/161) of the animals sampled were positive in the
+qPCR and PCR assays, respectively. In the PCR, 47/48 animals were positive for P.
+malariae/P. brasilianum; of these, eight were free-living primates and 39 from
+CETAS, São Luís. One sample showed a band in the genus-specific reaction, but not
+in the second PCR reaction. Anti-P. malariae/P. brasilianum IgG antibodies were
+detected in four serum samples from Sapajus spp. in captivity. In this study,
+circulation of P. malariae/P. brasilianum in Neotropical primates was confirmed, 
+with low levels of parasitemia and low levels of antibodies. The importance of
+these animals as reservoirs of human malaria in the region studied is still
+unknown. This scenario has an impact on control and elimination of malaria in
+this region.
+
+DOI: 10.1371/journal.pone.0182905 
+PMCID: PMC5552124
+PMID: 28796820  [Indexed for MEDLINE]
+
+
+828. J Physiol. 2017 Dec 1;595(23):7203-7221. doi: 10.1113/JP274629. Epub 2017 Sep 2.
+
+Cortical control of object-specific grasp relies on adjustments of both activity 
+and effective connectivity: a common marmoset study.
+
+Tia B(1)(2), Takemi M(1)(3)(4), Kosugi A(1)(3), Castagnola E(2), Ansaldo A(5),
+Nakamura T(1)(3), Ricci D(2), Ushiba J(6)(7), Fadiga L(2), Iriki A(1).
+
+Author information: 
+(1)Laboratory for Symbolic Cognitive Development, RIKEN Brain Science Institute, 
+Saitama, Japan.
+(2)Center for Translational Neurophysiology of Speech and Communication, Istituto
+Italiano di Tecnologia, Ferrara, Italy.
+(3)Graduate School of Science and Technology, Keio University, Kanagawa, Japan.
+(4)Danish Research Centre for Magnetic Resonance, Copenhagen University Hospital 
+Hvidovre, Hvidovre, Denmark.
+(5)Graphene Labs, Istituto Italiano di Tecnologia, Genoa, Italy.
+(6)Department of Biosciences and Informatics, Faculty of Science and Technology, 
+Keio University, Kanagawa, Japan.
+(7)Keio Institute of Pure and Applied Sciences (KiPAS), Keio University,
+Kanagawa, Japan.
+
+Comment in
+    J Physiol. 2017 Dec 1;595(23):7013.
+
+KEY POINTS: The cortical mechanisms of grasping have been extensively studied in 
+macaques and humans; here, we investigated whether common marmosets could rely on
+similar mechanisms despite strong differences in hand morphology and grip
+diversity. We recorded electrocorticographic activity over the sensorimotor
+cortex of two common marmosets during the execution of different grip types,
+which allowed us to study cortical activity (power spectrum) and physiologically 
+inferred connectivity (phase-slope index). Analyses were performed in beta
+(16-35 Hz) and gamma (75-100 Hz) frequency bands and our results showed that beta
+power varied depending on grip type, whereas gamma power displayed clear
+epoch-related modulation. Strength and direction of inter-area connectivity
+varied depending on grip type and epoch. These findings suggest that fundamental 
+control mechanisms are conserved across primates and, in future research,
+marmosets could represent an adequate model to investigate primate brain
+mechanisms.
+ABSTRACT: The cortical mechanisms of grasping have been extensively studied in
+macaques and humans. Here, we investigated whether common marmosets could rely on
+similar mechanisms despite striking differences in manual dexterity. Two common
+marmosets were trained to grasp-and-pull three objects eliciting different hand
+configurations: whole-hand, finger and scissor grips. The animals were then
+chronically implanted with 64-channel electrocorticogram arrays positioned over
+the left premotor, primary motor and somatosensory cortex. Power spectra,
+reflecting predominantly cortical activity, and phase-slope index, reflecting the
+direction of information flux, were studied in beta (16-35 Hz) and gamma
+(75-100 Hz) bands. Differences related to grip type, epoch (reach, grasp) and
+cortical area were statistically assessed. Results showed that whole-hand and
+scissor grips triggered stronger beta desynchronization than finger grip. Task
+epochs clearly modulated gamma power, especially for finger and scissor grips.
+Considering effective connectivity, finger and scissor grips evoked stronger
+outflow from primary motor to premotor cortex, whereas whole-hand grip displayed 
+the opposite pattern. These findings suggest that fundamental control mechanisms,
+relying on adjustments of cortical activity and connectivity, are conserved
+across primates. Consistently, marmosets could represent a good model to
+investigate primate brain mechanisms.
+
+© 2017 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd 
+on behalf of The Physiological Society.
+
+DOI: 10.1113/JP274629 
+PMCID: PMC5709338
+PMID: 28791721  [Indexed for MEDLINE]
+

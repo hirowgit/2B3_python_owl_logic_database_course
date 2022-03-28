@@ -1,0 +1,79 @@
+
+
+2263. Eur J Pharmacol. 2008 Jul 28;589(1-3):8-13. doi: 10.1016/j.ejphar.2008.04.025.
+Epub 2008 Apr 16.
+
+Aspirin induces lytic cytotoxicity in Epstein-Barr virus-positive cells.
+
+Liu SF(1), Wang H, Li ZJ, Deng XY, Xiang H, Tao YG, Li W, Tang M, Cao Y.
+
+Author information: 
+(1)Cancer Research Institute, Xiangya School of Medicine, Central South
+University, Changsha, Hunan, PR China.
+
+Epstein-Barr virus (EBV) infection in tumor cells is generally restricted to the 
+latent forms of viral infection. Switching the latent form of viral infection
+into the lytic form may induce tumor cell death. High levels of nuclear factor
+(NF)-kappaB can inhibit EBV lytic replication, and aspirin has the ability to
+inhibit NF-kappaB activity. The aims of the current study were to determine the
+effects of aspirin on inducing EBV lytic infection, and thus to reveal the
+possibility of targeting EBV-positive cancer cells by aspirin. Our results showed
+that aspirin depleted NF-kappaB (p65) in the nucleus and reactivated EBV into
+lytic replication. Cells exhibited decreased viability in a dose- and
+time-dependent manner when incubated with aspirin. When ganciclovir was used in
+combination with aspirin to treat EBV-positive B95.8 cells and Raji cells, the
+cytotoxic effect of aspirin was amplified. We demonstrated that aspirin reduced
+the viability of EBV-positive B lymphocytes due to its ability to induce EBV
+lytic replication.
+
+DOI: 10.1016/j.ejphar.2008.04.025 
+PMID: 18571159  [Indexed for MEDLINE]
+
+
+2264. PLoS Genet. 2008 Jun 20;4(6):e1000100. doi: 10.1371/journal.pgen.1000100.
+
+An evolutionarily conserved sexual signature in the primate brain.
+
+Reinius B(1), Saetre P, Leonard JA, Blekhman R, Merino-Martinez R, Gilad Y, Jazin
+E.
+
+Author information: 
+(1)Department of Development and Genetics, Uppsala University, Uppsala, Sweden.
+
+The question of a potential biological sexual signature in the human brain is a
+heavily disputed subject. In order to provide further insight into this issue, we
+used an evolutionary approach to identify genes with sex differences in brain
+expression level among primates. We reasoned that expression patterns important
+to uphold key male and female characteristics may be conserved during evolution. 
+We selected cortex for our studies because this specific brain region is
+responsible for many higher behavioral functions. We compared gene expression
+profiles in the occipital cortex of male and female humans (Homo sapiens, a great
+ape) and cynomolgus macaques (Macaca fascicularis, an old world monkey), two
+catarrhine species that show abundant morphological sexual dimorphism, as well as
+in common marmosets (Callithrix Jacchus, a new world monkey) which are relatively
+sexually monomorphic. We identified hundreds of genes with sex-biased expression 
+patterns in humans and macaques, while fewer than ten were differentially
+expressed between the sexes in marmosets. In primates, a general rule is that
+many of the morphological and behavioral sexual dimorphisms seen in polygamous
+species, such as macaques, are typically less pronounced in monogamous species
+such as the marmosets. Our observations suggest that this correlation may also be
+reflected in the extent of sex-biased gene expression in the brain. We identified
+85 genes with common sex-biased expression, in both human and macaque and 2
+genes, X inactivation-specific transcript (XIST) and Heat shock factor binding
+protein 1 (HSBP1), that were consistently sex-biased in the female direction in
+human, macaque, and marmoset. These observations imply a conserved signature of
+sexual gene expression dimorphism in cortex of primates. Further, we found that
+the coding region of female-biased genes is more evolutionarily constrained
+compared to the coding region of both male-biased and non sex-biased brain
+expressed genes. We found genes with conserved sexual gene expression dimorphism 
+in the occipital cortex of humans, cynomolgus macaques, and common marmosets.
+Genes within sexual expression profiles may underlie important functional
+differences between the sexes, with possible importance during primate evolution.
+
+DOI: 10.1371/journal.pgen.1000100 
+PMCID: PMC2413013
+PMID: 18566661  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

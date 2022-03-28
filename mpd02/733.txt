@@ -1,0 +1,41 @@
+
+
+733. Xenobiotica. 2019 Mar;49(3):265-269. doi: 10.1080/00498254.2018.1439204. Epub
+2018 Feb 21.
+
+Marmoset cytochrome P450 2B6, a propofol hydroxylase expressed in liver.
+
+Oshio T(1), Uehara S(1), Uno Y(2), Inoue T(3), Sasaki E(4)(5), Yamazaki H(1).
+
+Author information: 
+(1)a Laboratory of Drug Metabolism and Pharmacokinetics , Showa Pharmaceutical
+University , Machida , Tokyo , Japan.
+(2)b Shin Nippon Biomedical Laboratories, Ltd , Kainan Wakayama , Japan.
+(3)c Department of Applied Developmental Biology , Central Institute for
+Experimental Animals , Kawasaki , Japan.
+(4)d Center of Applied Developmental Biology, Central Institute for Experimental 
+Animals , Kawasaki , Japan.
+(5)e Keio Advanced Research Center , Keio University , Minato-ku , Tokyo , Japan.
+
+The common marmoset (Callithrix jacchus) is a useful experimental animal to
+evaluate the pharmacokinetics of drug candidates. Cytochrome P450 (P450) 2B
+enzyme in marmoset livers has been identified; however, only limited information 
+on the enzymatic properties and distribution has been available. Marmoset P450
+2B6 amino acids showed high sequence identities (>86%) with those of primates
+including humans and cynomolgus monkeys. Phylogenetic analysis using amino acid
+sequences indicated that marmoset P450 2B6 was closer to human and cynomolgus
+monkey P450 2B6 than to P450 2B orthologs of other species, including pigs, dogs,
+rabbits and rodents. Quantitative polymerase chain reaction analysis using
+specific primers showed P450 2B6 mRNA predominantly expressed in livers among the
+five marmoset tissues, similar to those of humans and cynomolgus monkeys.
+Marmoset P450 2B6 heterologously expressed in Escherichia coli membranes oxidized
+7-ethoxycoumarin, pentoxyresorufin, propofol and testosterone, at roughly similar
+rates to those of humans and/or cynomolgus monkeys. A high capacity of marmoset
+P450 2B6 with propofol 4-hydroxylation (at low ionic strength conditions) with a 
+low Km value was relatively comparable to that for marmoset livers. These results
+collectively indicated a high propofol 4-hydroxylation activity of P450 2B6
+expressed in marmoset livers.
+
+DOI: 10.1080/00498254.2018.1439204 
+PMID: 29417863  [Indexed for MEDLINE]
+

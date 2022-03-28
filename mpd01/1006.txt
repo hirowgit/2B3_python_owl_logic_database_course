@@ -1,0 +1,90 @@
+
+
+1006. PLoS One. 2016 Aug 8;11(8):e0160116. doi: 10.1371/journal.pone.0160116.
+eCollection 2016.
+
+Survey and Experimental Infection of Enteropathogenic Escherichia coli in Common 
+Marmosets (Callithrix jacchus).
+
+Hayashimoto N(1), Inoue T(2), Morita H(1), Yasuda M(3), Ueno M(1), Kawai K(3),
+Itoh T(2).
+
+Author information: 
+(1)ICLAS Monitoring Center, Central Institute for Experimental Animals, 3-25-12
+Tonomachi, Kawasaki-ku, Kawasaki, Japan.
+(2)Marmoset Research Department, Central Institute for Experimental Animals,
+3-25-12 Tonomachi, Kawasaki-ku, Kawasaki, Japan.
+(3)Pathological Analysis Center, Central Institute for Experimental Animals,
+3-25-12 Tonomachi, Kawasaki-ku, Kawasaki, Japan.
+
+Common marmosets (Callithrix jacchus) are frequently used for biomedical research
+but can be afflicted with diarrhea-a serious and potentially lethal health
+problem. Enteropathogenic Escherichia coli (EPEC) is thought to be the causative 
+pathogen of hemorrhagic typhlocolitis in common marmosets, but the actual
+incidence of the disease and the relationship between EPEC and hematochezia are
+unknown. This study investigated the prevalence of EPEC infection in common
+marmosets and the association between EPEC and hematochezia. A total of 230 stool
+or rectal swab samples were collected from 230 common marmosets (98 clinically
+healthy, 85 diarrhea, and 47 bloody stool samples) and tested by culture-based
+detection and PCR amplification of VT1, VT2, LT, ST, eae, and bfp genes. Healthy 
+animals were divided into three groups (n = 4 each for high and low concentration
+groups and n = 2 as negative control), and those in the experimental groups were 
+perorally inoculated with a 2-ml of suspension of EPEC R811 strain adjusted to 5 
+× 108 (high concentration) and 5 × 104 (low concentration) CFU/ ml. Two animals
+in each group were examined 3 and 14 days post-inoculation (DPI). EPEC was
+detected in 10 of 98 clinically healthy samples (10.2%), 17 of 85 diarrhea
+samples (20%), and all 47 bloody stool samples (100%), with a significant
+difference detected between presence of EPEC and sample status (P < 0.01). Acute 
+hematochezia was observed in all animals of the high-concentration group but not 
+in other groups at 1 or 2 DPI. A histopathological examination revealed the
+attachment of gram-negative bacilli to epithelial apical membranes and
+desquamated epithelial cells in the cecum of animals in the high-concentration
+group at 3 DPI. These findings suggest that EPEC is a causative agent of
+hemorrhagic typhlocolitis in common marmosets.
+
+DOI: 10.1371/journal.pone.0160116 
+PMCID: PMC4976964
+PMID: 27501144  [Indexed for MEDLINE]
+
+
+1007. Sci Rep. 2016 Aug 8;6:31084. doi: 10.1038/srep31084.
+
+Neural changes in the primate brain correlated with the evolution of complex
+motor skills.
+
+Yamazaki Y(1)(2), Hikishima K(3)(4), Saiki M(2), Inada M(2), Sasaki E(3)(4),
+Lemon RN(5), Price CJ(6), Okano H(3)(7), Iriki A(2).
+
+Author information: 
+(1)Advanced Research Centers, Keio University, 35 Shinanomachi, Shinjuku-ku,
+Tokyo 160-8582, Japan.
+(2)Laboratory for Symbolic Cognitive Development, RIKEN Brain Science Institute, 
+2-1 Hirosawa, Wako, Saitama 351-0198, Japan.
+(3)Department of Physiology, Keio University School of Medicine, 35 Shinanomachi,
+Shinjuku-ku, Tokyo 160-8582, Japan.
+(4)Central Institute for Experimental Animals, 3-25-12 Tonomachi, Kawasaki-ku,
+Kawasaki, Kanagawa 210-0821, Japan.
+(5)Sobell Department of Motor Neuroscience and Movement Disorders, UCL Institute 
+of Neurology, London WC1N 3BG, UK.
+(6)Wellcome Trust Centre for Neuroimaging, University College London, London
+WC1N3BG, UK.
+(7)Laboratory for Marmoset Neural Architecture, RIKEN Brain Science Institute,
+2-1 Hirosawa, Wako, Saitama 351-0198, Japan.
+
+Complex motor skills of eventual benefit can be learned after considerable trial 
+and error. What do structural brain changes that accompany such effortful
+long-term learning tell us about the mechanisms for developing innovative
+behavior? Using MRI, we monitored brain structure before, during and after four
+marmosets learnt to use a rake, over a long period of 10-13 months. Throughout
+learning, improvements in dexterity and visuo-motor co-ordination correlated with
+increased volume in the lateral extrastriate cortex. During late learning, when
+the most complex behavior was maintained by sustained motivation to acquire the
+skill, the volume of the nucleus accumbens increased. These findings reflect the 
+motivational state required to learn, and show accelerated function in higher
+visual cortex that is consistent with neurocognitive divergence across a spectrum
+of primate species.
+
+DOI: 10.1038/srep31084 
+PMCID: PMC4976342
+PMID: 27498966  [Indexed for MEDLINE]
+

@@ -1,0 +1,82 @@
+
+
+3686. Pharmacol Biochem Behav. 1997 Apr;56(4):763-80.
+
+Cognitive deficits induced by global cerebral ischaemia: prospects for transplant
+therapy.
+
+Hodges H(1), Nelson A, Virley D, Kershaw TR, Sinden JD.
+
+Author information: 
+(1)Department of Psychology, Institute of Psychiatry, London, UK.
+
+Global ischaemia induced by interruption of cerebral blood flow results in damage
+to vulnerable cells, notably in the CA1 and hilar hippocampal fields, and is
+frequently associated with memory deficits. This review examines cognitive
+deficits that occur in animal models of global ischaemia in rats and monkeys, the
+extent to which these deficits are associated with CA1 cell loss, and the
+evidence for functional recovery following transplants of foetal CA1 cells and
+grafts of conditionally immortalised precursor cells. In rats, impairments are
+seen most consistently in tasks of spatial learning and spatial working memory
+dependent on use of allocentric environmental cues. In monkeys, ischaemic
+deficits have been shown to a moderate extent in delayed object recognition
+tasks, but animals with a selective excitotoxic CA1 lesion show a profound
+impairment in conditional discrimination tasks, suggesting that these may be a
+more sensitive measure of ischaemic impairments. Several studies have reported
+correlational links between the extent of CA1 cell loss following two or four
+vessel occlusion (2 VO, 4 VO) in rats and behavioural impairments, but recent
+findings indicate that at intermediate levels of damage these relationships are
+weak and variable, and emerge clearly only when animals with maximal CA1 cell
+loss are included, suggesting that the deficits involve more than damage to the
+CA1 field. Nevertheless, ischaemic rats and CA1-lesioned marmosets with grafts of
+foetal CA1 cells show substantial improvements; in rats these are not found with 
+grafts from other hippocampal fields. Conditionally immortalised cell lines and
+trophic grafts are currently being assessed for their functional potential in
+animal models, because clinical use of foetal cells will not be practicable.
+Recent findings suggest that an expanded population of neuroepithelial cells
+derived from the conditionally immortalised H-2Kb-tsA58 transgenic mouse improve 
+spatial learning as effectively as CA1 foetal grafts in rats subjected to 4 VO,
+and clonal lines from the same source show similar promise. Lines derived from
+precursor cells have the potential to develop into different types of cell
+(neuronal or glial) depending on signals from the host brain. These cell lines
+may therefore have the capacity to repair damaged host circuits more precisely
+than is possible with foetal grafts, and offer a promising, approach both to
+functional recovery and to elucidating graft-host interactions.
+
+DOI: 10.1016/s0091-3057(96)00424-8 
+PMID: 9130304  [Indexed for MEDLINE]
+
+
+3687. Magn Reson Med. 1997 Apr;37(4):530-6.
+
+Hepatic hemosiderosis in non-human primates: quantification of liver iron using
+different field strengths.
+
+Bulte JW(1), Miller GF, Vymazal J, Brooks RA, Frank JA.
+
+Author information: 
+(1)Laboratory of Diagnostic Radiology Research, National Institutes of Health,
+Bethesda, MD 20892-1074, USA.
+
+Using a non-human primate model of idiopathic hemochromatosis,
+hemosiderin-induced T2 shortening of the liver was assessed at nine different
+field strengths over a range of 0.05 to 1.5 Tesla. The 1/T2 values increased
+linearly with field strength, with all specimens having approximately the same
+zero-field intercept. The slope of the field increase, termed "field-dependent T2
+proton relaxation enhancement (PRE)", appeared to be proportional to the
+chemically determined tissue iron content, viz. 10.8 s-1T-1(mg Fe/g wet
+tissue)-1. The correlation between iron content and field-dependent T2 PRE (r =
+0.94) was better than the correlation between iron content and 1/T2 values
+obtained at single field strengths. For livers containing > or = 2 mg Fe/g wet
+weight, biexponential T2 relaxation behavior emerged at higher field strengths,
+with the short T2 component (intracellular water) exhibiting a linear dependence 
+of 1/T2 on field, while T2 of the long component (extracellular/sinusoidal water)
+was nearly field-independent. After maceration of the specimens, all T2
+relaxation curves became monoexponential, including those for high iron content
+at high field strengths. The present data suggest that the use of double-field MR
+imaging to assess the field-dependent T2 PRE has potential for specific
+quantification of (liver) tissue iron stores.
+
+DOI: 10.1002/mrm.1910370409 
+PMID: 9094074  [Indexed for MEDLINE]
+

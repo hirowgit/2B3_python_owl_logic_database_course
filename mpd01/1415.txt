@@ -1,0 +1,133 @@
+
+
+1415. J Pharmacol Exp Ther. 2014 Jul;350(1):153-63. doi: 10.1124/jpet.114.214155. Epub 
+2014 Apr 30.
+
+GSK356278, a potent, selective, brain-penetrant phosphodiesterase 4 inhibitor
+that demonstrates anxiolytic and cognition-enhancing effects without inducing
+side effects in preclinical species.
+
+Rutter AR(1), Poffe A(2), Cavallini P(2), Davis TG(2), Schneck J(2), Negri M(2), 
+Vicentini E(2), Montanari D(2), Arban R(2), Gray FA(2), Davies CH(2), Wren PB(2).
+
+Author information: 
+(1)GlaxoSmithKline, Discovery Medicine, Stevenage, Herts, United Kingdom (F.A.G.,
+P.B.W.); GlaxoSmithKline, Neural Pathways Discovery Performance Unit, Biopolis,
+Singapore (A.R.R., C.H.D.); GlaxoSmithKline, Neurosciences Centre of Excellence
+for Drug Discovery, Verona, Italy (A.P., P.C., M.N., E.V., D.M., R.A.);
+GlaxoSmithKline, Molecular Discovery Research, Collegeville, Pennsylvania (J.S.);
+and GlaxoSmithKline, Respiratory Centre of Excellence for Drug Discovery, King of
+Prussia, Pennsylvania (T.G.D.) Richard.a.rutter@gsk.com.
+(2)GlaxoSmithKline, Discovery Medicine, Stevenage, Herts, United Kingdom (F.A.G.,
+P.B.W.); GlaxoSmithKline, Neural Pathways Discovery Performance Unit, Biopolis,
+Singapore (A.R.R., C.H.D.); GlaxoSmithKline, Neurosciences Centre of Excellence
+for Drug Discovery, Verona, Italy (A.P., P.C., M.N., E.V., D.M., R.A.);
+GlaxoSmithKline, Molecular Discovery Research, Collegeville, Pennsylvania (J.S.);
+and GlaxoSmithKline, Respiratory Centre of Excellence for Drug Discovery, King of
+Prussia, Pennsylvania (T.G.D.).
+
+Small molecule phosphodiesterase (PDE) 4 inhibitors have long been known to show 
+therapeutic benefit in various preclinical models of psychiatric and neurologic
+diseases because of their ability to elevate cAMP in various cell types of the
+central nervous system. Despite the registration of the first PDE4 inhibitor,
+roflumilast, for the treatment of chronic obstructive pulmonary disease, the
+therapeutic potential of PDE4 inhibitors in neurologic diseases has never been
+fulfilled in the clinic due to severe dose-limiting side effects such as nausea
+and vomiting. In this study, we describe the detailed pharmacological
+characterization of GSK356278
+[5-(5-((2,4-dimethylthiazol-5-yl)methyl)-1,3,4-oxadiazol-2-yl)-1-ethyl-N-(tetrahy
+dro-2H-pyran-4-yl)-1H-pyrazolo[3,4-b]pyridin-4-amine], a potent, selective, and
+brain-penetrant PDE4 inhibitor that shows a superior therapeutic index to both
+rolipram and roflumilast in various preclinical species and has potential for
+further development in the clinic for the treatment of psychiatric and neurologic
+diseases. GSK356278 inhibited PDE4B enzyme activity with a pIC50 of 8.8 and bound
+to the high-affinity rolipram binding site with a pIC50 of 8.6. In preclinical
+models, the therapeutic index as defined in a rodent lung inflammation model
+versus rat pica feeding was >150 compared with 0.5 and 6.4 for rolipram and
+roflumilast, respectively. In a model of anxiety in common marmosets, the
+therapeutic index for GSK356278 was >10 versus <1 for rolipram. We also
+demonstrate that GSK356278 enhances performance in a model of executive function 
+in cynomolgus macaques with no adverse effects, a therapeutic profile that
+supports further evaluation of GSK356278 in a clinical setting.
+
+Copyright © 2014 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/jpet.114.214155 
+PMID: 24784567  [Indexed for MEDLINE]
+
+
+1416. Mol Ther. 2014 Jul;22(7):1299-1309. doi: 10.1038/mt.2014.68. Epub 2014 Apr 30.
+
+Global CNS transduction of adult mice by intravenously delivered rAAVrh.8 and
+rAAVrh.10 and nonhuman primates by rAAVrh.10.
+
+Yang B(1), Li S(2), Wang H(3), Guo Y(4), Gessler DJ(5), Cao C(6), Su Q(7), Kramer
+J(8), Zhong L(9), Ahmed SS(2), Zhang H(10), He R(7), Desrosiers RC(8), Brown
+R(11), Xu Z(12), Gao G(13).
+
+Author information: 
+(1)Department of Biochemistry & Molecular Pharmacology, University of
+Massachusetts, Worcester, Massachusetts, USA; Division of Biology, California
+Institute of Technology, Pasadena, California, USA.
+(2)Gene Therapy Center, University of Massachusetts, Worcester, Massachusetts,
+USA; Department of Microbiology & Physiology Systems, University of
+Massachusetts, Worcester, Massachusetts, USA.
+(3)Department of Biochemistry & Molecular Pharmacology, University of
+Massachusetts, Worcester, Massachusetts, USA.
+(4)Department of Biochemistry & Molecular Pharmacology, University of
+Massachusetts, Worcester, Massachusetts, USA; Department of Neurology, the Second
+Hospital of Hebei Medical University, Shijiazhuang, People's Republic of China.
+(5)Gene Therapy Center, University of Massachusetts, Worcester, Massachusetts,
+USA; Department of Microbiology & Physiology Systems, University of
+Massachusetts, Worcester, Massachusetts, USA; University of Heidelberg, Medical
+School, Heidelberg, Germany.
+(6)Gene Therapy Center, University of Massachusetts, Worcester, Massachusetts,
+USA; Department of Physiology, Tongji Medical School, Tongji University,
+Shanghai, People's Republic of China.
+(7)Gene Therapy Center, University of Massachusetts, Worcester, Massachusetts,
+USA.
+(8)New England Primate Research Center and Harvard Medical School, Southborough, 
+Massachusetts, USA.
+(9)Gene Therapy Center, University of Massachusetts, Worcester, Massachusetts,
+USA; Department of Pediatrics, University of Massachusetts, Worcester,
+Massachusetts, USA.
+(10)Gene Therapy Center, University of Massachusetts, Worcester, Massachusetts,
+USA; Department of Microbiology & Physiology Systems, University of
+Massachusetts, Worcester, Massachusetts, USA; Department of Pharmaceutical
+Sciences, South Dakota State University, Brookings, South Dakota, USA.
+(11)Department of Neurology, University of Massachusetts, Worcester,
+Massachusetts, USA.
+(12)Department of Biochemistry & Molecular Pharmacology, University of
+Massachusetts, Worcester, Massachusetts, USA. Electronic address:
+zuoshang.xu@umassmed.edu.
+(13)Gene Therapy Center, University of Massachusetts, Worcester, Massachusetts,
+USA; Department of Microbiology & Physiology Systems, University of
+Massachusetts, Worcester, Massachusetts, USA; State Key Laboratory of Biotherapy,
+West China Hospital, Sichuan University, Chengdu, People's Republic of China.
+Electronic address: guangping.gao@umassmed.edu.
+
+Some recombinant adeno-associated viruses (rAAVs) can cross the neonatal
+blood-brain barrier (BBB) and efficiently transduce cells of the central nervous 
+system (CNS). However, in the adult CNS, transduction levels by systemically
+delivered rAAVs are significantly reduced, limiting their potential for CNS gene 
+therapy. Here, we characterized 12 different rAAVEGFPs in the adult mouse CNS
+following intravenous delivery. We show that the capability of crossing the adult
+BBB and achieving widespread CNS transduction is a common character of AAV
+serotypes tested. Of note, rAAVrh.8 is the leading vector for robust global
+transduction of glial and neuronal cell types in regions of clinical importance
+such as cortex, caudate-putamen, hippocampus, corpus callosum, and substantia
+nigra. It also displays reduced peripheral tissue tropism compared to other
+leading vectors. Additionally, we evaluated rAAVrh.10 with and without microRNA
+(miRNA)-regulated expressional detargeting from peripheral tissues for systemic
+gene delivery to the CNS in marmosets. Our results indicate that rAAVrh.8, along 
+with rh.10 and 9, hold the best promise for developing novel therapeutic
+strategies to treat neurological diseases in the adult patient population.
+Additionally, systemically delivered rAAVrh.10 can transduce the CNS efficiently,
+and its transgene expression can be limited in the periphery by endogenous miRNAs
+in adult marmosets.
+
+DOI: 10.1038/mt.2014.68 
+PMCID: PMC4089005
+PMID: 24781136  [Indexed for MEDLINE]
+

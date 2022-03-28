@@ -1,0 +1,40 @@
+
+
+286. Sci Rep. 2020 Jul 28;10(1):12625. doi: 10.1038/s41598-020-69690-9.
+
+Induction of macrophage-like immunosuppressive cells from common marmoset ES
+cells by stepwise differentiation with DZNep.
+
+Tsuji H(#)(1), Otsuka R(#)(1), Wada H(1), Murata T(1), Sasaki A(1), Itoh M(1),
+Baghdadi M(1), Sasaki E(2), Seino KI(3).
+
+Author information: 
+(1)Division of Immunobiology, Institute for Genetic Medicine, Hokkaido
+University, Kita-15 Nishi-7, Sapporo, 060-0815, Japan.
+(2)Central Institute for Experimental Animals, 3-25-12 Tonomachi, Kawasaki,
+Kanagawa, 21-0821, Japan.
+(3)Division of Immunobiology, Institute for Genetic Medicine, Hokkaido
+University, Kita-15 Nishi-7, Sapporo, 060-0815, Japan. seino@igm.hokudai.ac.jp.
+(#)Contributed equally
+
+Recent progress in regenerative medicine has enabled the utilization of
+pluripotent stem cells (PSCs) as the resource of therapeutic cells/tissue.
+However, immune suppression is still needed when the donor-recipient combination 
+is allogeneic. We have reported previously that mouse PSCs-derived
+immunosuppressive cells contribute to prolonged survival of grafts derived from
+the same mouse PSCs in allogeneic recipients. For its clinical application, a
+preclinical study using non-human primates such as common marmoset must be
+performed. In this study, we established the induction protocol of
+immunosuppressive cells from common marmoset ES cells. Although similar
+immunosuppressive macrophages could not be induced by same protocol as that for
+mouse PSCs, we employed an inhibitor for histone methyltransferase, DZNep, and
+succeeded to induce them. The DZNep-treated macrophage-like cells expressed
+several immunosuppressive molecules and significantly inhibited allogeneic mixed 
+lymphocyte reaction. The immunosuppressive cells from non-human primate ESCs will
+help to establish an immunoregulating strategy in regenerative medicine using
+PSCs.
+
+DOI: 10.1038/s41598-020-69690-9 
+PMCID: PMC7387549
+PMID: 32724084  [Indexed for MEDLINE]
+

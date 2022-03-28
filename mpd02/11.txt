@@ -1,0 +1,31 @@
+
+
+11. Cells. 2022 Jan 21;11(3). pii: 360. doi: 10.3390/cells11030360.
+
+Homologous Recombination-Enhancing Factors Identified by Comparative
+Transcriptomic Analyses of Pluripotent Stem Cell of Human and Common Marmoset.
+
+Yoshimatsu S(1)(2), Nakajima M(1), Qian E(1), Sanosaka T(1), Sato T(1), Okano
+H(1)(2).
+
+Author information: 
+(1)Department of Physiology, Keio University School of Medicine, Tokyo 160-8582, 
+Japan.
+(2)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama 351-0198, Japan.
+
+A previous study assessing the efficiency of the genome editing technology
+CRISPR-Cas9 for knock-in gene targeting in common marmoset (marmoset; Callithrix 
+jacchus) embryonic stem cells (ESCs) unexpectedly identified innately enhanced
+homologous recombination activity in marmoset ESCs. Here, we compared gene
+expression in marmoset and human pluripotent stem cells using transcriptomic and 
+quantitative PCR analyses and found that five HR-related genes (BRCA1, BRCA2,
+RAD51C, RAD51D, and RAD51) were upregulated in marmoset cells. A total of four of
+these upregulated genes enhanced HR efficiency with CRISPR-Cas9 in human
+pluripotent stem cells. Thus, the present study provides a novel insight into
+species-specific mechanisms for the choice of DNA repair pathways.
+
+DOI: 10.3390/cells11030360 
+PMCID: PMC8834151
+PMID: 35159172 
+

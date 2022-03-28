@@ -1,0 +1,36 @@
+
+
+1968. J Vis. 2010 Jul 1;10(8):1. doi: 10.1167/10.8.1.
+
+Receptive field asymmetries produce color-dependent direction selectivity in
+primate lateral geniculate nucleus.
+
+Tailby C(1), Dobbie WJ, Solomon SG, Szmajda BA, Hashemi-Nezhad M, Forte JD,
+Martin PR.
+
+Author information: 
+(1)Save Sight Institute and ARC Centre of Excellence in Vision Science,
+University of Sydney, Sydney, NSW, Australia. ctailby@unimelb.edu.au
+
+Blue-on receptive fields recorded in primate retina and lateral geniculate
+nucleus are customarily described as showing overlapping blue-on and yellow-off
+receptive field components. However, the retinal pathways feeding the blue-on and
+yellow-off subfields arise from spatially discrete receptor populations, and
+recent studies have given contradictory accounts of receptive field structure of 
+blue-on cells. Here we analyzed responses of blue-on cells to drifting gratings, 
+in single-cell extracellular recordings from the dorsal lateral geniculate
+nucleus in marmosets. We show that most blue-on cells exhibit selectivity for the
+drift direction of achromatic gratings. The standard concentric
+difference-of-Gaussians (DOG) model thus cannot account for responses of these
+cells. We apply a simple, anatomically plausible, extension of the DOG model. The
+model incorporates temporally offset elliptical two-dimensional Gaussian
+subfields. The model can predict color-contingent direction and spatial tuning.
+Because direction tuning in blue-on cells depends on stimulus chromaticity,
+spatial frequency, and temporal frequency, this property is of little value as a 
+general mechanism for image movement detection. It is possible that anatomical
+wiring for color selectivity has constrained the capacity of blue-on cells to
+contribute to spatial and motion vision.
+
+DOI: 10.1167/10.8.1 
+PMID: 20884576  [Indexed for MEDLINE]
+

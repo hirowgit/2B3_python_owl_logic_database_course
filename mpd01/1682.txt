@@ -1,0 +1,65 @@
+
+
+1682. J Neurosci. 2012 Aug 1;32(31):10737-48. doi: 10.1523/JNEUROSCI.3448-11.2012.
+
+Neural correlates of the lombard effect in primate auditory cortex.
+
+Eliades SJ(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland 21025, USA.
+
+Speaking is a sensory-motor process that involves constant self-monitoring to
+ensure accurate vocal production. Self-monitoring of vocal feedback allows rapid 
+adjustment to correct perceived differences between intended and produced
+vocalizations. One important behavior in vocal feedback control is a compensatory
+increase in vocal intensity in response to noise masking during vocal production,
+commonly referred to as the Lombard effect. This behavior requires mechanisms for
+continuously monitoring auditory feedback during speaking. However, the
+underlying neural mechanisms are poorly understood. Here we show that when
+marmoset monkeys vocalize in the presence of masking noise that disrupts vocal
+feedback, the compensatory increase in vocal intensity is accompanied by a shift 
+in auditory cortex activity toward neural response patterns seen during
+vocalizations under normal feedback condition. Furthermore, we show that neural
+activity in auditory cortex during a vocalization phrase predicts vocal intensity
+compensation in subsequent phrases. These observations demonstrate that the
+auditory cortex participates in self-monitoring during the Lombard effect, and
+may play a role in the compensation of noise masking during feedback-mediated
+vocal control.
+
+DOI: 10.1523/JNEUROSCI.3448-11.2012 
+PMCID: PMC3752069
+PMID: 22855821  [Indexed for MEDLINE]
+
+
+1683. Folia Primatol (Basel). 2012;83(1):47-55. doi: 10.1159/000339805. Epub 2012 Aug
+1.
+
+Can roads be used as transects for primate population surveys?.
+
+Hilário RR(1), Rodrigues FH, Chiarello AG, Mourthé I.
+
+Author information: 
+(1)Department of General Biology, Universidade Federal de Minas Gerais, Belo
+Horizonte, Brazil. renatohilario@gmail.com
+
+Line transect distance sampling (LTDS) can be applied to either trails or roads. 
+However, it is likely that sampling along roads might result in biased density
+estimates. In this paper, we compared the results obtained with LTDS applied on
+trails and roads for two primate species (Callithrix penicillata and Callicebus
+nigrifrons) to clarify whether roads are appropriate transects to estimate
+densities. We performed standard LTDS surveys in two nature reserves in
+south-eastern Brazil. Effective strip width and population density were different
+between trails and roads for C. penicillata, but not for C. nigrifrons. The
+results suggest that roads are not appropriate for use as transects in primate
+surveys, at least for some species. Further work is required to fully understand 
+this issue, but in the meantime we recommend that researchers avoid using roads
+as transects or treat roads and trails as covariates when sampling on roads is
+unavoidable.
+
+Copyright © 2012 S. Karger AG, Basel.
+
+DOI: 10.1159/000339805 
+PMID: 22854794  [Indexed for MEDLINE]
+

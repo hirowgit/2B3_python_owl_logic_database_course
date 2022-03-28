@@ -1,0 +1,39 @@
+
+
+2907. J Virol. 2003 Sep;77(18):9943-50.
+
+Efficient isolation of wild strains of canine distemper virus in Vero cells
+expressing canine SLAM (CD150) and their adaptability to marmoset B95a cells.
+
+Seki F(1), Ono N, Yamaguchi R, Yanagi Y.
+
+Author information: 
+(1)Department of Virology, Faculty of Medicine, Kyushu University, Fukuoka
+812-8582, Japan.
+
+We have previously shown that canine signaling lymphocyte activation molecule
+(SLAM; also known as CD150) acts as a cellular receptor for canine distemper
+virus (CDV). In this study, we established Vero cells stably expressing canine
+SLAM (Vero.DogSLAMtag cells). Viruses were isolated in Vero.DogSLAMtag cells one 
+day after inoculation with spleen samples from five out of seven dogs with
+distemper. By contrast, virus isolation with reportedly sensitive marmoset B95a
+cells was only successful from three diseased animals at 7 to 10 days after
+inoculation, and no virus was recovered from any dogs when Vero cells were used
+for isolation. The CDV strain isolated in Vero.DogSLAMtag cells did not cause
+cytopathic effects in B95a and human SLAM-expressing Vero cells, whereas the
+strain isolated in B95a cells from the same dog did so in canine or human
+SLAM-expressing Vero cells as well as B95a cells. There were two amino acid
+differences in the hemagglutinin sequence between these strains. Cell fusion
+analysis after expression of envelope proteins and vesicular stomatitis virus
+pseudotype assay showed that their hemagglutinins were responsible for the
+difference in cell tropism between them. Site-directed mutagenesis indicated that
+glutamic acid to lysine substitution at position 530 of the hemagglutinin was
+required for the adaptation to the usage of marmoset SLAM. Our results indicate
+that Vero cells stably expressing canine SLAM are highly sensitive to CDV in
+clinical specimens and that only a single amino acid substitution in the
+hemagglutinin can allow the virus to adapt to marmoset SLAM.
+
+DOI: 10.1128/jvi.77.18.9943-9950.2003 
+PMCID: PMC224612
+PMID: 12941904  [Indexed for MEDLINE]
+

@@ -1,0 +1,83 @@
+
+
+879. Biopharm Drug Dispos. 2017 Sep;38(6):394-397. doi: 10.1002/bdd.2080. Epub 2017
+Jun 28.
+
+Functional characterization and tissue expression of marmoset cytochrome P450
+2E1.
+
+Uehara S(1), Uno Y(2), Tomioka E(1), Inoue T(3), Sasaki E(3)(4), Yamazaki H(1).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, 194-8543, Japan.
+(2)Pharmacokinetics and Bioanalysis Center, Shin Nippon Biomedical Laboratories, 
+Ltd., Kainan, Wakayama, Japan.
+(3)Department of marmoset research, Central Institute for Experimental Animals,
+Kawasaki, Japan.
+(4)Keio Advanced Research Center, Keio University, Minato-ku, Tokyo, Japan.
+
+Common marmosets (Callithrix jacchus) have attracted increasing attention as a
+useful small non-human primate model in preclinical research. However, studies on
+marmoset cytochrome P450 (P450) 2E enzyme have scarcely been conducted. In this
+study, the full-length cDNA encoding P450 2E1 enzyme was isolated from marmoset
+livers by reverse transcription (RT)-polymerase chain reaction (PCR). Marmoset
+P450 2E1 amino acid sequences were highly identical (>88%) to those of cynomolgus
+monkey and human P450 2E1 enzymes. Phylogenetic analysis indicated a close
+evolutionary relationship among marmoset, cynomolgus monkey, and human P450 2E1
+enzymes. The tissue expression pattern analyzed by real-time RT-PCR and
+immunoblotting demonstrated that marmoset P450 2E1 mRNA and proteins were
+predominantly expressed in livers. Marmoset P450 2E1 enzyme heterologously
+expressed in Escherichia coli catalyzed the hydroxylation of p-nitrophenol,
+chlorzoxazone, and theophylline, similar to cynomolgus monkey and human P450 2E1 
+enzymes. By kinetic analyses, those P450 2E1 enzymes catalyzed p-nitrophenol
+hydroxylation with similar affinities and relatively high intrinsic clearance
+efficiencies. These results indicated that tissue distribution and
+enzyme-substrate specificity of marmoset P450 2E1 were similar to cynomolgus
+monkey and human P450 2E1 enzymes, suggesting that marmosets are a suitable
+primate model for P450 2E1-dependent drug and xenobiotic metabolism.
+
+Copyright © 2017 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/bdd.2080 
+PMID: 28474789  [Indexed for MEDLINE]
+
+
+880. J Infect Dis. 2017 Jun 15;215(12):1807-1815. doi: 10.1093/infdis/jix209.
+
+Human Neutralizing Monoclonal Antibody Inhibition of Middle East Respiratory
+Syndrome Coronavirus Replication in the Common Marmoset.
+
+Chen Z(1), Bao L(2), Chen C(1), Zou T(3), Xue Y(1), Li F(2), Lv Q(2), Gu S(2),
+Gao X(1), Cui S(1), Wang J(1), Qin C(2), Jin Q(1)(4).
+
+Author information: 
+(1)MOH Key Laboratory of Systems Biology of Pathogens, Institute of Pathogen
+Biology, Chinese Academy of Medical Sciences & Peking Union Medical College.
+(2)Institute of Laboratory Animal Sciences, Chinese Academy of Medical Sciences &
+Peking Union Medical College, Key Laboratory of Human Disease Comparative
+Medicine, Ministry of Health, Beijing Key Laboratory for Animal Models of
+Emerging and Remerging Infectious Diseases.
+(3)College of Life Sciences and Technology, Huazhong Agricultural University,
+Wuhan.
+(4)Collaborative Innovation Center for Diagnosis and Treatment of Infectious
+Diseases, Hangzhou, China.
+
+Middle East respiratory syndrome coronavirus (MERS-CoV) infection in humans is
+highly lethal, with a fatality rate of 35%. New prophylactic and therapeutic
+strategies to combat human infections are urgently needed. We isolated a fully
+human neutralizing antibody, MCA1, from a human survivor. The antibody recognizes
+the receptor-binding domain of MERS-CoV S glycoprotein and interferes with the
+interaction between viral S and the human cellular receptor human dipeptidyl
+peptidase 4 (DPP4). To our knowledge, this study is the first to report a human
+neutralizing monoclonal antibody that completely inhibits MERS-CoV replication in
+common marmosets. Monotherapy with MCA1 represents a potential alternative
+treatment for human infections with MERS-CoV worthy of evaluation in clinical
+settings.
+
+© Crown copyright 2017.
+
+DOI: 10.1093/infdis/jix209 
+PMCID: PMC7107363
+PMID: 28472421  [Indexed for MEDLINE]
+

@@ -1,0 +1,94 @@
+
+
+309. Reproduction. 2020 Aug;160(2):259-268. doi: 10.1530/REP-20-0100.
+
+A translational cellular model for the study of peritubular cells of the testis.
+
+Schmid N(1), Missel A(1), Petkov S(2)(3), Stöckl JB(4), Flenkenthaler F(4),
+Arnold GJ(4), Fröhlich T(4), Behr R(2)(3), Mayerhofer A(1).
+
+Author information: 
+(1)LMU München, Biomedical Center (BMC), Anatomy III - Cell Biology, Martinsried,
+Germany.
+(2)Platform Degenerative Diseases, German Primate Center, Göttingen, Germany.
+(3)DZHK (German Center for Cardiovascular Research), Partner Site Göttingen,
+Göttingen, Germany.
+(4)Laboratory for Functional Genome Analysis LAFUGA, Gene Center, LMU München,
+München, Germany.
+
+Testicular peritubular cells (TPCs) are smooth muscle-like cells, which form a
+compartment surrounding the seminiferous tubules. Previous studies employing
+isolated human testicular peritubular cells (HTPCs) indicated that their roles in
+the testis go beyond sperm transport and include paracrine and immunological
+contributions. Peritubular cells from a non-human primate (MKTPCs), the common
+marmoset monkey, Callithrix jacchus, share a high degree of homology with HTPCs. 
+However, like their human counterparts these cells age in vitro and replicative
+senescence limits in-depth functional or mechanistic studies. Therefore, a stable
+cellular model was established. MKTPCs of a young adult animal were immortalized 
+by piggyBac transposition of human telomerase (hTERT), that is, without the
+expression of viral oncogenes. Immortalized MKTPCs (iMKTPCs) grew without
+discernable changes for more than 50 passages. An initial characterization
+revealed typical genes expressed by peritubular cells (androgen receptor (AR),
+smooth-muscle actin (ACTA2), calponin (CNN1)). A proteome analysis of the primary
+MKTPCs and the derived immortalized cell line confirmed that the cells almost
+completely retained their phenotype. To test whether they respond in a similar
+way as HTPCs, iMKTPCs were challenged with forskolin (FSK) and ATP. As HTPCs,
+they showed increased expression level of the StAR protein (StAR) after FSK
+stimulation, indicating steroidogenic capacity. ATP increased the expression of
+pro-inflammatory factors (e.g. IL1B; CCL7), as it is the case in HTPCs. Finally, 
+we confirmed that iMKTPCs can efficiently be transfected. Therefore, they
+represent a highly relevant translational model, which allows mechanistic studies
+for further exploration of the roles of testicular peritubular cells.
+
+DOI: 10.1530/REP-20-0100 
+PMID: 32449695  [Indexed for MEDLINE]
+
+
+310. Primates. 2020 Sep;61(5):707-716. doi: 10.1007/s10329-020-00824-3. Epub 2020 May 
+14.
+
+Callitrichid responses to dead and dying infants: the effects of paternal bonding
+and cause of death.
+
+Thompson CL(1), Hrit R(2), Melo LCO(3), Vinyard CJ(4), Bottenberg KN(2), de
+Oliveira MAB(3).
+
+Author information: 
+(1)Department of Biomedical Sciences, Grand Valley State University, Allendale,
+MI, USA. thompscy@gvsu.edu.
+(2)Department of Biomedical Sciences, Grand Valley State University, Allendale,
+MI, USA.
+(3)Departamento de Morfologia e Fisiologia Animal, Universidade Federal Rural de 
+Pernambuco, Recife, Pernambuco, Brazil.
+(4)Department of Anatomy and Neurobiology, Northeast Ohio Medical University,
+Rootstown, OH, USA.
+
+Many primates show responses to dead infants, yet testing explanations for these 
+behaviors has been difficult. Callitrichids present a unique opportunity to
+delineate between hypotheses, since unlike most species, male caretakers form
+closer social bonds with infants than mothers. Callitrichids are also known to
+commit infanticide, leaving obvious wounds that may enable them to more readily
+recognize death. We present: (1) a case study of a wild common marmoset
+(Callithrix jacchus) group responding to an infant's natural death, and (2) a
+review of published infant deaths across callitrichids (N = 16), testing for
+trends in the sex of reacting individuals and cause of death. In our case study, 
+several group members frequently interacted with the dead infant, attempting to
+carry it. However, the strongest response was from a male that remained with the 
+corpse for ~ 3 h, despite his group leaving the area. Across callitrichid
+species, corpse interactions were significantly sex-biased: 100% (N = 6) of
+accidental deaths involved corpse interaction by males (p = 0.007), compared to
+60% (N = 3 of 5) by females (p = 0.095). Cause of death also played a significant
+role, with individuals attempting to carry dead infants in 100% (N = 6) of
+accidental deaths, but only 11.1% (N = 1 of 9) of infanticides (p = 0.001).
+Although the available literature is small and potentially subject to publication
+biases, these data support the idea that visually obvious wounds may influence
+callitrichids' perception of dead conspecifics. Additionally, male-biased
+patterns of corpse interaction in callitrichids indicate that social bonds likely
+shape reactions to the dead, in addition to kinship. While published data on
+primate thanatology are limited, this study demonstrates quantitative approaches 
+that can provide empirical insights into primates' responses to dead
+conspecifics.
+
+DOI: 10.1007/s10329-020-00824-3 
+PMID: 32409994  [Indexed for MEDLINE]
+

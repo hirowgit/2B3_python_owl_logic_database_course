@@ -1,0 +1,75 @@
+
+
+398. Vis Neurosci. 2019 Nov 13;36:E012. doi: 10.1017/S0952523819000099.
+
+Binocular summation in marmoset lateral geniculate nucleus.
+
+Belluccini E(1)(2)(3), Zeater N(1)(2)(3), Pietersen ANJ(1)(2)(3), Eiber
+CD(1)(2)(3), Martin PR(1)(2)(3).
+
+Author information: 
+(1)ARC Centre of Excellence for Integrative Brain Function, University of Sydney,
+Sydney 2000, Australia.
+(2)Save Sight Institute, University of Sydney, Sydney 2000, Australia.
+(3)School of Medical Sciences, University of Sydney, Sydney 2000, Australia.
+
+In primates and carnivores, the main laminae of the dorsal lateral geniculate
+nucleus (LGN) receive monocular excitatory input in an eye-alternating fashion.
+There is also evidence that nondominant eye stimulation can reduce responses to
+dominant eye stimulation and that a subset of LGN cells in the koniocellular (K) 
+layers receives convergent binocular excitatory input from both eyes. What is not
+known is how the two eye inputs summate in the K layers of LGN. Here, we aimed to
+answer this question by making extracellular array electrode recordings targeted 
+to K layers in the marmoset (Callithrix jacchus) LGN, as visual stimuli (flashed 
+200 ms temporal square-wave pulses or drifting gratings) were presented to each
+eye independently or to both eyes simultaneously. We found that when the flashed 
+stimulus was presented to both eyes, compared to the dominant eye, the peak
+firing rate of most cells (61%, 14/23) was reduced. The remainder showed response
+facilitation (17%) or partial summation (22%). A greater degree of facilitation
+was seen when the total number of spikes across the stimulus time window (200 ms)
+rather than peak firing rates was measured. A similar pattern of results was seen
+for contrast-varying gratings and for small numbers of parvocellular (n = 12) and
+magnocellular (n = 3) cells recorded. Our findings show that binocular summation 
+in the marmoset LGN is weak and predominantly sublinear in nature.
+
+DOI: 10.1017/S0952523819000099 
+PMID: 31718727  [Indexed for MEDLINE]
+
+
+399. Cereb Cortex. 2020 Mar 14;30(3):1797-1812. doi: 10.1093/cercor/bhz203.
+
+Extensive Connectivity Between the Medial Pulvinar and the Cortex Revealed in the
+Marmoset Monkey.
+
+Homman-Ludiye J(1), Mundinano IC(1), Kwan WC(1), Bourne JA(1).
+
+Author information: 
+(1)Australian Regenerative Medicine Institute, Monash University, Clayton, VIC
+3800, Australia.
+
+The medial pulvinar (PM) is a multimodal associative thalamic nucleus, recently
+evolved in primates. PM participates in integrative and modulatory functions,
+including directed attention, and consistently exhibits alterations in disorders 
+such as schizophrenia and autism. Despite essential cognitive functions, the
+cortical inputs to the PM have not been systematically investigated. To date,
+less than 20 cortices have been demonstrated to project to PM. The goal of this
+study was to establish a comprehensive map of the cortical afferents to PM in the
+marmoset monkey. Using a magnetic resonance imaging-guided injection approach, we
+reveal 62 discrete cortices projecting to the adult marmoset PM. We confirmed
+previously reported connections and identified further projections from discrete 
+cortices across the temporal, parietal, retrosplenial-cingulate, prefrontal, and 
+orbital lobes. These regions encompass areas recipient of PM efferents,
+demonstrating the reciprocity of the PM-cortical connectivity. Moreover, our
+results indicate that PM neurones projecting to distinct cortices are
+intermingled and form multimodal cell clusters. This microunit organization,
+believed to facilitate cross-modal integration, contrasts with the large
+functional subdivisions usually observed in thalamic nuclei. Altogether, we
+provide the first comprehensive map of PM cortical afferents, an essential
+stepping stone in expanding our knowledge of PM and its function.
+
+© The Author(s) 2019. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhz203 
+PMID: 31711181  [Indexed for MEDLINE]
+

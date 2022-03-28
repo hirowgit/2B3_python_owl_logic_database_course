@@ -1,0 +1,49 @@
+
+
+600. Front Neuroanat. 2018 Oct 30;12:89. doi: 10.3389/fnana.2018.00089. eCollection
+2018.
+
+Axonal Projections From the Middle Temporal Area in the Common Marmoset.
+
+Abe H(1), Tani T(1), Mashiko H(1), Kitamura N(1), Hayami T(2), Watanabe S(2),
+Sakai K(2), Suzuki W(2), Mizukami H(3), Watakabe A(4), Yamamori T(4), Ichinohe
+N(1)(2).
+
+Author information: 
+(1)Ichinohe Group, Laboratory for Molecular Analysis of Higher Brain Function,
+Center for Brain Science, RIKEN, Saitama, Japan.
+(2)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Tokyo, Japan.
+(3)Division of Genetic Therapeutics, Center for Molecular Medicine, Jichi Medical
+University, Tochigi, Japan.
+(4)Laboratory for Molecular Analysis of Higher Brain Function, Center for Brain
+Science, RIKEN, Saitama, Japan.
+
+Neural activity in the middle temporal (MT) area is modulated by the direction
+and speed of motion of visual stimuli. The area is buried in a sulcus in the
+macaque, but exposed to the cortical surface in the marmoset, making the marmoset
+an ideal animal model for studying MT function. To better understand the details 
+of the roles of this area in cognition, underlying anatomical connections need to
+be clarified. Because most anatomical tracing studies in marmosets have used
+retrograde tracers, the axonal projections remain uncharacterized. In order to
+examine axonal projections from MT, we utilized adeno-associated viral (AAV)
+tracers, which work as anterograde tracers by expressing either green or red
+fluorescent protein in infected neurons. AAV tracers were injected into three
+sites in MT based on retinotopy maps obtained via in vivo optical intrinsic
+signal imaging. Brains were sectioned and divided into three series, one for
+fluorescent image scanning and two for myelin and Nissl substance staining to
+identify specific brain areas. Overall projection patterns were similar across
+the injections. MT projected to occipital visual areas V1, V2, V3 (VLP) and V4
+(VLA) and surrounding areas in the temporal cortex including MTC (V4T), MST, FST,
+FSTv (PGa/IPa) and TE3. There were also projections to the dorsal visual pathway,
+V3A (DA), V6 (DM) and V6A, the intraparietal areas AIP, LIP, MIP, frontal A4ab
+and the prefrontal cortex, A8aV and A8C. There was a visuotopic relationship with
+occipital visual areas. In a marmoset in which two tracer injections were made,
+the projection targets did not overlap in A8aV and AIP, suggesting topographic
+projections from different parts of MT. Most of these areas are known to send
+projections back to MT, suggesting that they are reciprocally connected with it.
+
+DOI: 10.3389/fnana.2018.00089 
+PMCID: PMC6218423
+PMID: 30425625 
+

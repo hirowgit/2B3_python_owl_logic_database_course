@@ -1,0 +1,97 @@
+
+
+755. J Comp Neurol. 2019 Feb 15;527(3):558-576. doi: 10.1002/cne.24387. Epub 2018 Jan 
+13.
+
+Unravelling the subcortical and retinal circuitry of the primate inferior
+pulvinar.
+
+Kwan WC(1), Mundinano IC(1), de Souza MJ(1), Lee SCS(2)(3), Martin PR(2)(3)(4),
+Grünert U(2)(3)(4), Bourne JA(1).
+
+Author information: 
+(1)Australian Regenerative Medicine Institute, Monash University, Clayton,
+Victoria, Australia.
+(2)Save Sight Institute and Department of Clinical Ophthalmology, The University 
+of Sydney, Sydney, New South Wales, Australia.
+(3)Australian Research Council Centre of Excellence for Integrative Brain
+Function, Sydney Node, The University of Sydney, Sydney, New South Wales,
+Australia.
+(4)School of Medical Sciences, The University of Sydney, Sydney, New South Wales,
+Australia.
+
+The primate visual brain possesses a myriad of pathways, whereby visual
+information originating at the retina is transmitted to multiple subcortical
+areas in parallel, before being relayed onto the visual cortex. The dominant
+retinogeniculostriate pathway has been an area of extensive study, and Vivien
+Casagrande's work in examining the once overlooked koniocellular pathway of the
+lateral geniculate nucleus has generated interest in how alternate subcortical
+pathways can contribute to visual perception. Another subcortical visual relay
+center is the inferior pulvinar (PI), which has four subdivisions and numerous
+connections with other subcortical and cortical areas and is directly recipient
+of retinal afferents. The complexity of subcortical connections associated with
+the PI subdivisions has led to differing results from various groups. A
+particular challenge in determining the exact connectivity pattern has been in
+accurately targeting the subdivisions of the PI with neural tracers. Therefore,
+in the present study, we used a magnetic resonance imaging (MRI)-guided
+stereotaxic injection system to inject bidirectional tracers in the separate
+subdivisions of the PI, the superior layers of the superior colliculus, the
+retina, and the lateral geniculate nucleus. Our results have determined for the
+first time that the medial inferior pulvinar (PIm) is innervated by widefield
+retinal ganglion cells (RGCs), and this pathway is not a collateral branch of the
+geniculate and collicular projecting RGCs. Furthermore, our tracing data shows no
+evidence of collicular terminations in the PIm, which are confined to the
+centromedial and posterior PI.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/cne.24387 
+PMID: 29292493  [Indexed for MEDLINE]
+
+
+756. NMR Biomed. 2018 Mar;31(3). doi: 10.1002/nbm.3864. Epub 2017 Dec 29.
+
+Investigation of the BOLD and CBV fMRI responses to somatosensory stimulation in 
+awake marmosets (Callithrix jacchus).
+
+Hirano Y(1), Yen CC(1), Liu JV(1), Mackel JB(1), Merkle H(1), Nascimento GC(1),
+Stefanovic B(1), Silva AC(1).
+
+Author information: 
+(1)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD, USA.
+
+Understanding the spatiotemporal features of the hemodynamic response function
+(HRF) to brain stimulation is essential for the correct application of
+neuroimaging methods to study brain function. Here, we investigated the
+spatiotemporal evolution of the blood oxygen level-dependent (BOLD) and cerebral 
+blood volume (CBV) HRF in conscious, awake marmosets (Callithrix jacchus), a New 
+World non-human primate with a lissencephalic brain and with growing use in
+biomedical research. The marmosets were acclimatized to head fixation and placed 
+in a 7-T magnetic resonance imaging (MRI) scanner. Somatosensory stimulation
+(333-μs pulses; amplitude, 2 mA; 64 Hz) was delivered bilaterally via pairs of
+contact electrodes. A block design paradigm was used in which the stimulus
+duration increased in pseudo-random order from a single pulse up to 256
+electrical pulses (4 s). For CBV measurements, 30 mg/kg of ultrasmall
+superparamagnetic ironoxide particles (USPIO) injected intravenously, were used. 
+Robust BOLD and CBV HRFs were obtained in the primary somatosensory cortex (S1), 
+secondary somatosensory cortex (S2) and caudate at all stimulus conditions. In
+particular, BOLD and CBV responses to a single 333-μs-long stimulus were reliably
+measured, and the CBV HRF presented shorter onset time and time to peak than the 
+BOLD HRF. Both the size of the regions of activation and the peak amplitude of
+the HRFs grew quickly with increasing stimulus duration, and saturated for
+stimulus durations greater than 1 s. Onset times in S1 and S2 were faster than in
+caudate. Finally, the fine spatiotemporal features of the HRF in awake marmosets 
+were similar to those obtained in humans, indicating that the continued
+refinement of awake non-human primate models is essential to maximize the
+applicability of animal functional MRI studies to the investigation of human
+brain function.
+
+Published 2017. This article is a U.S. Government work and is in the public
+domain in the USA.
+
+DOI: 10.1002/nbm.3864 
+PMCID: PMC5841465
+PMID: 29285809  [Indexed for MEDLINE]
+

@@ -1,0 +1,40 @@
+
+
+446. Nat Commun. 2019 Aug 22;10(1):3796. doi: 10.1038/s41467-019-11714-8.
+
+Cognitive control of complex motor behavior in marmoset monkeys.
+
+Pomberger T(1)(2), Risueno-Segovia C(1)(2), Gultekin YB(1)(2), Dohmen D(1)(2),
+Hage SR(3).
+
+Author information: 
+(1)Neurobiology of Vocal Communication, Werner Reichardt Centre for Integrative
+Neuroscience, University of Tübingen, Otfried-Müller-Str. 25, 72076, Tübingen,
+Germany.
+(2)Graduate School of Neural & Behavioural Sciences, International Max Planck
+Research School, University of Tübingen, Österberg-Str. 3, 72074, Tübingen,
+Germany.
+(3)Neurobiology of Vocal Communication, Werner Reichardt Centre for Integrative
+Neuroscience, University of Tübingen, Otfried-Müller-Str. 25, 72076, Tübingen,
+Germany. steffen.hage@uni-tuebingen.de.
+
+Erratum in
+    Nat Commun. 2019 Sep 26;10(1):4446.
+
+Marmosets have attracted significant interest in the life sciences. Similarities 
+with human brain anatomy and physiology, such as the granular frontal cortex, as 
+well as the development of transgenic lines and potential for transferring rodent
+neuroscientific techniques to small primates make them a promising
+neurodegenerative and neuropsychiatric model system. However, whether marmosets
+can exhibit complex motor tasks in highly controlled experimental designs-one of 
+the prerequisites for investigating higher-order control mechanisms underlying
+cognitive motor behavior-has not been demonstrated. We show that marmosets can be
+trained to perform vocal behavior in response to arbitrary visual cues in
+controlled operant conditioning tasks. Our results emphasize the marmoset as a
+suitable model to study complex motor behavior and the evolution of cognitive
+control underlying speech.
+
+DOI: 10.1038/s41467-019-11714-8 
+PMCID: PMC6706403
+PMID: 31439849  [Indexed for MEDLINE]
+

@@ -1,0 +1,85 @@
+
+
+2174. PLoS One. 2009;4(3):e4781. doi: 10.1371/journal.pone.0004781. Epub 2009 Mar 10.
+
+Contrast adaptation contributes to contrast-invariance of orientation tuning of
+primate V1 cells.
+
+Nowak LG(1), Barone P.
+
+Author information: 
+(1)Centre de Recherche Cerveau et Cognition, Université Toulouse 3-CNRS,
+Toulouse, France. Lionel.Nowak@cerco.ups-tlse.fr
+
+BACKGROUND: Studies in rodents and carnivores have shown that orientation tuning 
+width of single neurons does not change when stimulus contrast is modified.
+However, in these studies, stimuli were presented for a relatively long duration 
+(e. g., 4 seconds), making it possible that contrast adaptation contributed to
+contrast-invariance of orientation tuning. Our first purpose was to determine, in
+marmoset area V1, whether orientation tuning is still contrast-invariant with the
+stimulation duration is comparable to that of a visual fixation.
+METHODOLOGY/PRINCIPAL FINDINGS: We performed extracellular recordings and
+examined orientation tuning of single-units using static sine-wave gratings that 
+were flashed for 200 msec. Sixteen orientations and three contrast levels,
+representing low, medium and high values in the range of effective contrasts for 
+each neuron, were randomly intermixed. Contrast adaptation being a slow
+phenomenon, cells did not have enough time to adapt to each contrast
+individually. With this stimulation protocol, we found that the tuning width
+obtained at intermediate contrast was reduced to 89% (median), and that at low
+contrast to 76%, of that obtained at high contrast. Therefore, when probed with
+briefly flashed stimuli, orientation tuning is not contrast-invariant in marmoset
+V1. Our second purpose was to determine whether contrast adaptation contributes
+to contrast-invariance of orientation tuning. Stationary gratings were presented,
+as previously, for 200 msec with randomly varying orientations, but the contrast 
+was kept constant within stimulation blocks lasting >20 sec, allowing for
+adaptation to the single contrast in use. In these conditions, tuning widths
+obtained at low contrast were still significantly less than at high contrast
+(median 85%). However, tuning widths obtained with medium and high contrast
+stimuli no longer differed significantly.
+CONCLUSIONS/SIGNIFICANCE: Orientation tuning does not appear to be
+contrast-invariant when briefly flashed stimuli vary in both contrast and
+orientation, but contrast adaptation partially restores contrast-invariance of
+orientation tuning.
+
+DOI: 10.1371/journal.pone.0004781 
+PMCID: PMC2652072
+PMID: 19274097  [Indexed for MEDLINE]
+
+
+2175. J Comp Neurol. 2009 May 1;514(1):11-29. doi: 10.1002/cne.21976.
+
+Architectural subdivisions of medial and orbital frontal cortices in the marmoset
+monkey (Callithrix jacchus).
+
+Burman KJ(1), Rosa MG.
+
+Author information: 
+(1)Department of Physiology, Monash University, Victoria, Australia.
+kathleen.burman@med.monash.edu.au
+
+Although the common marmoset has become a model for the study of several
+neurological conditions that affect the frontal lobe, knowledge of the boundaries
+of the areas located in the orbital and medial frontal regions has remained
+incomplete. Here we examined histological sections stained for myelin, Nissl
+substance, and cytochrome oxidase, allowing identification of likely homologues
+of most of the architectural fields defined in Old World monkeys. Ventrally, we
+identified three granular fields at or near the frontal pole (area 10, and the
+medial and lateral subregions of area 11), and two granular fields along the
+lateral margin of the orbitofrontal cortex (medial and orbital subdivisions of
+area 12). More caudal and medially, dysgranular and agranular cortices included
+four subdivisions of area 13 as well as rostral and caudal subdivisions of area
+14 (at the ventromedial convexity). The ventral frontotemporal transition
+encompassed at least two subdivisions of agranular insular cortex, as well as the
+likely homologues of the gustatory cortices. Most of the medial surface was
+encompassed by area 10 (which projected a caudomedial finger-like extension
+toward the subgenual cortex), together with a relatively large dysgranular area
+32 and an agranular area 25 (in subgenual cortex). Finally, the caudal limit of
+the medial frontal cortex included two fields of agranular cingulate cortex
+(areas 24a and 24b). These findings enhance our understanding of the
+architectural organization of the marmoset frontal cortex and highlight a highly 
+conserved basic organization across simian primates, allowing the informed
+interpretation of experimental neurological studies.
+
+DOI: 10.1002/cne.21976 
+PMID: 19260047  [Indexed for MEDLINE]
+

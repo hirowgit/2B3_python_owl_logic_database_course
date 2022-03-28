@@ -1,0 +1,77 @@
+
+
+1948. J Immunol. 2010 Dec 15;185(12):7274-84. doi: 10.4049/jimmunol.1001547. Epub 2010 
+Nov 15.
+
+Endoplasmic reticulum stress-mediated apoptosis of EBV-transformed B cells by
+cross-linking of CD70 is dependent upon generation of reactive oxygen species and
+activation of p38 MAPK and JNK pathway.
+
+Park GB(1), Kim YS, Lee HK, Song H, Cho DH, Lee WJ, Hur DY.
+
+Author information: 
+(1)Department of Anatomy and Research Center for Tumor Immunology, Inje
+University College of Medicine, Busan, Korea.
+
+CD70 is expressed in normal activated immune cells as well as in several types of
+tumors. It has been established that anti-CD70 mAb induces complement-dependent
+death of CD70(+) tumor cells, but how anti-CD70 mAb affects the intrinsic
+signaling is poorly defined. In this report, we show that ligation of CD70
+expressed on EBV-transformed B cells using anti-CD70 mAb induced production of
+reactive oxygen species (ROS) and subsequent apoptosis. We observed an early
+expression of endoplasmic reticulum (ER) stress response genes that preceded the 
+release of apoptotic molecules from the mitochondria and the cleavage of
+caspases. CD70-induced apoptosis was inhibited by pretreatment with the ER stress
+inhibitor salubrinal, ROS quencher N-acetylcysteine, and Ca(2+) chelator BAPTA.
+We supposed that ROS generation might be the first event of CD70-induced
+apoptosis because N-acetylcysteine blocked increases of ROS and Ca(2+), but BAPTA
+did not block ROS generation. We also found that CD70 stimulation activated JNK
+and p38 MAPK. JNK inhibitor SP600125 and p38 inhibitor SB203580 effectively
+blocked upregulation of ER stress-related genes and cleavage of caspases.
+Inhibition of ROS generation completely blocked phosphorylation of JNK and p38
+MAPK and induction of ER stress-related genes. Taken together, we concluded that 
+cross-linking of CD70 on EBV-transformed B cells triggered ER stress-mediated
+apoptosis via ROS generation and JNK and p38 MAPK pathway activation. Our report 
+reveals alternate mechanisms of direct apoptosis through CD70 signaling and
+provides data supporting CD70 as a viable target for an Ab-based therapy against 
+EBV-related tumors.
+
+DOI: 10.4049/jimmunol.1001547 
+PMID: 21078900  [Indexed for MEDLINE]
+
+
+1949. Contraception. 2010 Dec;82(6):572-8. doi: 10.1016/j.contraception.2010.04.020.
+Epub 2010 Jun 3.
+
+Inhibition of vascular endothelial growth factor during the postovulatory period 
+prevents pregnancy in the marmoset.
+
+Fraser HM(1), Morris KD, Wiegand SJ, Wilson H.
+
+Author information: 
+(1)Medical Research Council Human Reproductive Sciences Unit, The Queen's Medical
+Research Institute, EH16 4TJ Edinburgh, UK. h.fraser@hrsu.mrc.ac.uk
+
+BACKGROUND: This study investigated the effects of inhibition of vascular
+endothelial growth factor (VEGF) during the first postpartum cycle in marmosets
+housed with a fertile male where a 90% fertility rate is normal.
+METHODS: On resumption of mating, females were treated with either 25 mg/kg
+aflibercept, a potent VEGF inhibitor, or control Fc protein (n=6 per group) at
+the time of ovulation. Effects on timing of pregnancy were monitored by measuring
+plasma progesterone, chorionic gonadotropin (CG) and uterine palpation.
+RESULTS: In five of six Fc-treated controls, the postpartum rise in progesterone 
+was maintained and followed by a sustained rise in CG by Day 30 posttreatment
+indicating pregnancy. In all six aflibercept-treated animals, progesterone
+secretion was suppressed in the treatment cycle and a CG rise did not occur by
+Day 30. Pregnancy was delayed to the next cycle, significantly extending
+interbirth interval compared to controls. Posttreatment deliveries and infant
+development were normal.
+CONCLUSION: These results show that stringent pharmacological inhibition of VEGF 
+suppresses luteal progesterone and prevents the successful establishment of
+pregnancy.
+
+Crown Copyright © 2010. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.contraception.2010.04.020 
+PMID: 21074022  [Indexed for MEDLINE]
+

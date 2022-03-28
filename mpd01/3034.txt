@@ -1,0 +1,70 @@
+
+
+3034. J Comp Neurol. 2002 Sep 2;450(4):366-81.
+
+Striate cortex in dichromatic and trichromatic marmosets: neurochemical
+compartmentalization and geniculate input.
+
+Solomon SG(1).
+
+Author information: 
+(1)Department of Physiology and Institute for Biomedical Research, University of 
+Sydney, NSW 2006, Australia. samuels@cns.nyu.edu
+
+The superficial layers of primate striate cortex (V1) contain a regular pattern
+of dense staining for cytochrome oxidase (CO) reactivity ("blobs") that receive
+direct input from the koniocellular layers of the lateral geniculate nucleus. It 
+has been suggested that the blob regions are dedicated to processing color
+information. Here, the neurochemical compartmentalization of blobs and their
+input from the lateral geniculate nucleus (LGN) was measured in marmosets
+(Callithrix jacchus) identified as having either dichromatic or trichromatic
+color vision. In all animals, layer III of V1 showed a patchy distribution of CO.
+The spatial density of CO blobs (mean, 4.6 blobs/mm(2); range, 3.9-5.5), blob
+diameter, and the proportion of cortical area within blobs was not significantly 
+different in dichromats and trichromats. The LGN input was studied by injecting
+retrograde tracer into V1. The koniocellular layers of the LGN contribute 11% of 
+all relay cells, and form the only geniculate input to upper layer III of V1.
+Only half of all relay cells in the KC layers express calbindin. There is no
+obvious difference between dichromats and trichromats in the pattern of the
+geniculate projection to V1. It is concluded that the trichromatic phenotype is
+not associated with changes in the gross anatomy, neurochemistry, or organization
+of the geniculate afferents to the superficial layers of V1.
+
+Copyright 2002 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.10327 
+PMID: 12209849  [Indexed for MEDLINE]
+
+
+3035. Eur J Immunol. 2002 Aug;32(8):2218-28.
+
+Protection of marmoset monkeys against EAE by treatment with a murine antibody
+blocking CD40 (mu5D12).
+
+Laman JD(1), 't Hart BA, Brok H, Meurs Mv, Schellekens MM, Kasran A, Boon L,
+Bauer J, Boer Md, Ceuppens J.
+
+Author information: 
+(1)Department of Immunology, Erasmus MC, Rotterdam, The Netherlands.
+Laman@immu.fgg.eur.nl
+
+CD40-CD40 ligand interactions are crucial to cognate interactions between T
+cells, B cells and antigen-presenting cells (APC), and contribute to
+non-antigen-specific effector functions of APC in inflammatory disorders. Here we
+demonstrate that functional blockade of CD40 with an antagonist mouse anti-human 
+CD40 monoclonal antibody (mAb mu5D12) effectively prevents clinical expression of
+chronic demyelinating experimental autoimmune encephalomyelitis (EAE) in outbred 
+marmoset monkeys, a preclinical model of multiple sclerosis. Anti-CD40 mAb
+interfered with development of clinical symptoms of marmoset EAE during the
+treatment period, even when treatment was started several weeks after T cell
+priming. Magnetic resonance imaging demonstrated inflammatory activity in the
+brain at initiation of antibody treatment, confirming that treatment interfered
+with the disease process. Access of therapeutic anti-CD40 to potential sites of
+action, the secondary lymphoid organs and the brain white matter lesions, was
+visualized in situ. The present data are the first to demonstrate the clinical
+potential of blocking APC and effector cell functions using murine antagonist
+anti-CD40 mAb in the treatment of chronic inflammatory diseases.
+
+DOI: 10.1002/1521-4141(200208)32:8<2218::AID-IMMU2218>3.0.CO;2-0 
+PMID: 12209634  [Indexed for MEDLINE]
+

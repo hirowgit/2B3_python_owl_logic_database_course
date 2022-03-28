@@ -1,0 +1,69 @@
+
+
+2451. Xenobiotica. 2006 Dec;36(12):1210-26.
+
+Marmoset CYP3A21, a model for human CYP3A4: protein expression and functional
+characterization of the promoter.
+
+Koehler SC(1), Von Ahsen N, Schlumbohm C, Asif AR, Goedtel-Armbrust U, Oellerich 
+M, Wojnowski L, Armstrong VW.
+
+Author information: 
+(1)Klinische Chemie, Uni-Klinikum Göttingen, Robert-Koch-Strasse 40, 37075
+Göttingen, Germany. koehler@med.uni-goettingen.de
+
+Due to its small size and the relative evolutionary proximity, the marmoset has
+been proposed as a model for studies of human drug interactions and metabolism.
+The current study investigated the expression and regulation of marmoset CYP3A
+using mass spectrometry and reporter gene techniques. Expression levels of
+hepatic marmoset CYP3A protein range from 51 to 123 pmol mg-1 total protein (mean
+85.2 pmol mg-1, n = 10) and CYP3A21 is the dominant hepatic CYP3A protein in
+marmosets. The sequence similarity between human CYP3A4 and CYP3A21 across the
+first 7.5 kb of the cloned CYP3A21 promoter is 88% within the
+xenobiotic-responsive enhancer module (XREM) and the proximal promoter. Both
+regulatory modules confer transcriptional activation of CYP3A21-luciferase
+reporter gene constructs cotransfected with hPXR in intestinal LS174T cells. The 
+pronounced response to rifampin and the moderate response to dexamethasone were
+similar to those observed with CYP3A4. Taken collectively, these data establish
+substantial similarities in expression and gene regulation between marmoset
+CYP3A21 and human CYP3A4. CYP3A21 may be an equivalent of CYP3A4 in New World
+monkeys, consistent with the phylogenetic relationship between these genes. The
+marmoset, therefore, appears to be a suitable in vivo model to study CYP3A4
+function and regulation.
+
+DOI: 10.1080/00498250600962831 
+PMID: 17162468  [Indexed for MEDLINE]
+
+
+2452. Proc Natl Acad Sci U S A. 2006 Dec 19;103(51):19512-7. Epub 2006 Dec 7.
+
+Geniculocortical relay of blue-off signals in the primate visual system.
+
+Szmajda BA(1), Buzás P, Fitzgibbon T, Martin PR.
+
+Author information: 
+(1)National Vision Research Institute of Australia, University of Melbourne,
+Carlton VIC 3053, Australia.
+
+A fundamental dichotomy in the subcortical visual system exists between on- and
+off-type neurons, which respectively signal increases and decreases of light
+intensity in the visual environment. In primates, signals for red-green color
+vision are carried by both on- and off-type neurons in the parvocellular division
+of the subcortical pathway. It is thought that on-type signals for blue-yellow
+color vision are carried by cells in a distinct, diffusely projecting
+(koniocellular) pathway, but the pathway taken by blue-off signals is not known. 
+Here, we measured blue-off responses in the subcortical visual pathway of
+marmoset monkeys. We found that the cells exhibiting blue-off responses are
+largely segregated to the koniocellular pathway. The blue-off cells show
+relatively large receptive fields, sluggish responses to maintained contrast,
+little sign of an inhibitory receptive-field surround mechanism, and negligible
+functional input from an intrinsic (melanopsin-based) phototransductive
+mechanism. These properties are consistent with input from koniocellular or
+"W-like" ganglion cells in the retina and suggest that blue-off cells, as
+previously shown for blue-on cells, could contribute to cortical mechanisms for
+visual perception via the koniocellular pathway.
+
+DOI: 10.1073/pnas.0606970103 
+PMCID: PMC1748257
+PMID: 17158219  [Indexed for MEDLINE]
+

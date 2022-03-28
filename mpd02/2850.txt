@@ -1,0 +1,51 @@
+
+
+2850. J Pharmacol Exp Ther. 2004 Jun;309(3):921-35. Epub 2004 Feb 20.
+
+S32504, a novel naphtoxazine agonist at dopamine D3/D2 receptors: II. Actions in 
+rodent, primate, and cellular models of antiparkinsonian activity in comparison
+to ropinirole.
+
+Millan MJ(1), Di Cara B, Hill M, Jackson M, Joyce JN, Brotchie J, McGuire S,
+Crossman A, Smith L, Jenner P, Gobert A, Peglion JL, Brocco M.
+
+Author information: 
+(1)Institut de Recherches Servier, Centre de Recherches de Croissy,
+Psychopharmacology Department, Paris, France. mark.millan@fr.netgrs.com
+
+These studies evaluated the potential antiparkinsonian properties of the novel
+dopamine D(3)/D(2) receptor agonist S32504 [(+)-trans-3,4,4a,5,6,
+10b-hexahydro-9-carbamoyl-4-propyl-2H-naphth[1,2-b]-1,4-oxazine] in comparison
+with those of the clinically employed agonist ropinirole. In rats with a
+unilateral, 6-hydroxydopamine lesion of the substantia nigra, S32504 (0.0025-0.04
+mg/kg, s.c.) more potently elicited contralateral rotation than S32601
+[(-)-trans-3,4,4a,5,6,
+10b-hexahydro-9-carbamoyl-4-propyl-2H-naphth-[1,2-b]-1,4-oxazine (its less active
+enantiomer)], ropinirole, and l-3,4-dihydroxyphenylalanine (l-DOPA). Rotation
+elicited by S32504 was blocked by the D(2)/D(3) receptor antagonists haloperidol 
+and raclopride and by the D(2) antagonist L741,626
+[4-(4-chlorophenyl)-1-(1H-indol-3-ylmethyl)piperidin-4-ol], but not by the D(3)
+antagonist S33084
+[(3aR,9bS)-N-[4-(8-cyano-1,3a,4,9b-tetrahydro-3H-benzopyrano[3,4-c]pyrrole-2-yl)-
+butyl]-(4-phenyl)benzamide]. As assessed by dialysis in both lesioned and
+nonlesioned animals, S32504 (0.04-2.5 mg/kg, s.c.) reduced striatal levels of
+acetylcholine. This effect was blocked by raclopride, haloperidol, and L741,626
+but not S33084. In rats treated with reserpine, hypolocomotion was reversed by
+S32504 and, less potently, by ropinirole. In "unprimed" marmosets treated with
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine, both s.c. (0.01-0.04 mg/kg) and
+p.o. (0.04-1.25 mg/kg) administration of S32504 dose-dependently and rapidly
+(within 10 min) increased locomotor activity and reduced disability. Furthermore,
+S32504 dose-dependently reversed bradykinesia and improved posture in
+"L-DOPA-primed" animals, whereas eliciting less pronounced dyskinesia than
+l-DOPA. Finally, in terminally differentiated SH-SY5Y cells presenting a
+dopaminergic phenotype, S32504, but not S32601, abrogated the neurotoxic effects 
+of 1-methyl-4-phenylpyridinium, an action inhibited by raclopride and S33084 but 
+not L741,626. Ropinirole was weakly neuroprotective in this model. In conclusion,
+S32504 displays potent and stereospecific activity in rodent, primate, and
+cellular models of antiparkinsonian properties. Although activation of D(2)
+receptors is crucial to the motor actions of S32504, engagement of D(3) receptors
+contributes to its neuroprotective properties.
+
+DOI: 10.1124/jpet.103.062414 
+PMID: 14978195  [Indexed for MEDLINE]
+

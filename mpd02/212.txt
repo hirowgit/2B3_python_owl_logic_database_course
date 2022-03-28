@@ -1,0 +1,47 @@
+
+
+212. J Neurophysiol. 2021 Jan 1;125(1):296-304. doi: 10.1152/jn.00581.2020. Epub 2020 
+Dec 16.
+
+Visual responses in the dorsolateral frontal cortex of marmoset monkeys.
+
+Feizpour A(1)(2), Majka P(1)(3), Chaplin TA(1)(2), Rowley D(1)(2), Yu HH(1)(2),
+Zavitz E(1)(2), Price NSC(1)(2), Rosa MGP(1)(2), Hagan MA(1)(2).
+
+Author information: 
+(1)Department of Physiology and Neuroscience Program, Biomedicine Discovery
+Institute, Monash University, Clayton, Victoria, Australia.
+(2)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University, Clayton, Victoria, Australia.
+(3)Laboratory of Neuroinformatics, Nencki Institute of Experimental Biology of
+the Polish Academy of Sciences, Warsaw, Poland.
+
+The marmoset monkey (Callithrix jacchus) has gained attention in neurophysiology 
+research as a new primate model for visual processing and behavior. In
+particular, marmosets have a lissencephalic cortex, making multielectrode,
+optogenetic, and calcium-imaging techniques more accessible than other primate
+models. However, the degree of homology of brain circuits for visual behavior
+with those identified in macaques and humans is still being ascertained. For
+example, whereas the location of the frontal eye fields (FEF) within the
+dorsolateral frontal cortex has been proposed, it remains unclear whether neurons
+in the corresponding areas show visual responses-an important characteristic of
+FEF neurons in other species. Here, we provide the first description of receptive
+field properties and neural response latencies in the marmoset dorsolateral
+frontal cortex, based on recordings using Utah arrays in anesthetized animals. We
+find brisk visual responses in specific regions of the dorsolateral prefrontal
+cortex, particularly in areas 8aV, 8C, and 6DR. As in macaque FEF, the receptive 
+fields were typically large (10°-30° in diameter) and the median responses
+latency was brisk (60 ms). These results constrain the possible interpretations
+about the location of the marmoset FEF and suggest that the marmoset model's
+significant advantages for the use of physiological techniques may be leveraged
+in the study of visuomotor cognition.NEW & NOTEWORTHY Behavior and cognition in
+humans and other primates rely on networks of brain areas guided by the frontal
+cortex. The marmoset offers exciting new opportunities to study links between
+brain physiology and behavior, but the functions of frontal cortex areas are
+still being identified in this species. Here, we provide the first evidence of
+visual receptive fields in the marmoset dorsolateral frontal cortex, an important
+step toward future studies of visual cognitive behavior.
+
+DOI: 10.1152/jn.00581.2020 
+PMID: 33326337  [Indexed for MEDLINE]
+

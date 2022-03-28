@@ -1,0 +1,97 @@
+
+
+861. Sci Rep. 2017 Jun 6;7(1):2873. doi: 10.1038/s41598-017-03105-0.
+
+Targeted Patching and Dendritic Ca2+ Imaging in Nonhuman Primate Brain in vivo.
+
+Ding R(1)(2), Liao X(2), Li J(2), Zhang J(2), Wang M(2), Guang Y(2), Qin H(2), Li
+X(2), Zhang K(2), Liang S(2), Guan J(2), Lou J(2), Jia H(3), Chen B(4), Shen
+H(5), Chen X(6)(7).
+
+Author information: 
+(1)School of Biomedical Engineering, Tianjin Medical University, Tianjin, China.
+(2)Brain Research Center, Third Military Medical University, Chongqing, China.
+(3)Brain Research Instrument Innovation Center, Suzhou Institute of Biomedical
+Engineering and Technology, Chinese Academy of Sciences, Suzhou, China.
+(4)Laboratory Animal Center, Third Military Medical University, Chongqing, China.
+chenbb81@126.com.
+(5)School of Biomedical Engineering, Tianjin Medical University, Tianjin, China. 
+shenhui@tmu.edu.cn.
+(6)Brain Research Center, Third Military Medical University, Chongqing, China.
+xiaowei_chen@tmmu.edu.cn.
+(7)CAS Center for Excellence in Brain Science and Intelligence Technology,
+Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences,
+Shanghai, China. xiaowei_chen@tmmu.edu.cn.
+
+Nonhuman primates provide an important model not only for understanding human
+brain but also for translational research in neurological and psychiatric
+disorders. However, many high-resolution techniques for recording neural activity
+in vivo that were initially established for rodents have not been yet applied to 
+the nonhuman primate brain. Here, we introduce a combination of two-photon
+targeted patching and dendritic Ca2+ imaging to the neocortex of adult common
+marmoset, an invaluable primate model for neuroscience research. Using targeted
+patching, we show both spontaneous and sensory-evoked intracellular dynamics of
+visually identified neurons in the marmoset cortex. Using two-photon Ca2+ imaging
+and intracellular pharmacological manipulation, we report both
+action-potential-associated global and synaptically-evoked NMDA
+(N-methyl-D-aspartate) receptor-mediated local Ca2+ signals in dendrites and
+spines of the superficial-layer cortical neurons. Therefore, we demonstrate the
+presence of synaptic Ca2+ signals in neuronal dendrites in living nonhuman
+primates. This work represents a proof-of-principle for exploring the primate
+brain functions in vivo by monitoring neural activity and morphology at a
+subcellular resolution.
+
+DOI: 10.1038/s41598-017-03105-0 
+PMCID: PMC5460116
+PMID: 28588297  [Indexed for MEDLINE]
+
+
+862. Psychoneuroendocrinology. 2017 Sep;83:42-48. doi: 10.1016/j.psyneuen.2017.05.009.
+Epub 2017 May 10.
+
+An eye tracking system for monitoring face scanning patterns reveals the
+enhancing effect of oxytocin on eye contact in common marmosets.
+
+Kotani M(1), Shimono K(2), Yoneyama T(3), Nakako T(1), Matsumoto K(1), Ogi Y(1), 
+Konoike N(4), Nakamura K(4), Ikeda K(5).
+
+Author information: 
+(1)Higher Brain Function Research, Sumitomo Dainippon Pharma, Co., Ltd., 33-94
+Enoki-cho, Suita, Osaka, 564-0053, Japan.
+(2)Molecular Pathophysiology Research, Drug Research Division, Sumitomo Dainippon
+Pharma, Co., Ltd., 3-1-98 Kasugadenaka, Konohana-ku, Osaka, 554-0022, Japan.
+(3)Omics Group, Genomic Science Laboratories, Drug Research Division, Sumitomo
+Dainippon Pharma, Co., Ltd., 3-1-98 Kasugadenaka, Konohana-ku, Osaka, 554-0022,
+Japan.
+(4)Department of Neuroscience, Primate Research Institute, Kyoto University, 41-2
+Kanrin, Inuyama, Aichi, 484-8506, Japan.
+(5)Higher Brain Function Research, Sumitomo Dainippon Pharma, Co., Ltd., 33-94
+Enoki-cho, Suita, Osaka, 564-0053, Japan. Electronic address:
+kazuhito-ikeda@ds-pharma.co.jp.
+
+Eye tracking systems are used to investigate eyes position and gaze patterns
+presumed as eye contact in humans. Eye contact is a useful biomarker of social
+communication and known to be deficient in patients with autism spectrum
+disorders (ASDs). Interestingly, the same eye tracking systems have been used to 
+directly compare face scanning patterns in some non-human primates to those in
+human. Thus, eye tracking is expected to be a useful translational technique for 
+investigating not only social attention and visual interest, but also the effects
+of psychiatric drugs, such as oxytocin, a neuropeptide that regulates social
+behavior. In this study, we report on a newly established method for eye tracking
+in common marmosets as unique New World primates that, like humans, use eye
+contact as a mean of communication. Our investigation was aimed at characterizing
+these primates face scanning patterns and evaluating the effects of oxytocin on
+their eye contact behavior. We found that normal common marmosets spend more time
+viewing the eyes region in common marmoset's picture than the mouth region or a
+scrambled picture. In oxytocin experiment, the change in eyes/face ratio was
+significantly greater in the oxytocin group than in the vehicle group. Moreover, 
+oxytocin-induced increase in the change in eyes/face ratio was completely blocked
+by the oxytocin receptor antagonist L-368,899. These results indicate that eye
+tracking in common marmosets may be useful for evaluating drug candidates
+targeting psychiatric conditions, especially ASDs.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.psyneuen.2017.05.009 
+PMID: 28586711  [Indexed for MEDLINE]
+

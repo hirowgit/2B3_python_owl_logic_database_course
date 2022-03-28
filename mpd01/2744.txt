@@ -1,0 +1,73 @@
+
+
+2744. Glia. 2005 Mar;49(4):520-41.
+
+Glial glutamate transporter expression patterns in brains from multiple mammalian
+species.
+
+Williams SM(1), Sullivan RK, Scott HL, Finkelstein DI, Colditz PB, Lingwood BE,
+Dodd PR, Pow DV.
+
+Author information: 
+(1)Department of Physiology and Pharmacology, School of Biomedical Sciences,
+University of Queensland, Brisbane, Australia.
+
+It is generally assumed that rodent brains can be used as representative models
+of neurochemical function in other species, such as humans. We have compared the 
+distributions of the predominant glial glutamate transporters in rodents,
+rabbits, cats, pigs, monkeys, and humans. We identify similarities but also
+significant differences between species. GLT-1v, which is abundantly expressed by
+rodent astrocytes, is expressed only in a rare subset of astrocytes of cats and
+humans, and appears to be absent from brains of rabbits and monkeys. Conversely, 
+in the pig brain GLT-1v is expressed only by oligodendrocytes. GLAST and
+GLT-1alpha expression differed significantly between species; while rodents and
+rabbits exhibited uniform expression patterns in cortex, higher species,
+including cats, pigs, monkeys, and humans, exhibited heterogeneities in cortical 
+and hippocampal expression. Patches devoid of labeling intermingling with patches
+of strong labeling were evident in areas such as temporal cortex and frontal
+cortex. In addition, we noted that in human motor cortex, there were
+inconsistencies in labeling for the C-terminal of GLT-1alpha and common domains
+of GLT-1, suggesting that the C-terminal region may be missing or that an
+unidentified splicing is present in many human astrocytes. Collectively our data 
+suggest that assumptions as to the roles of glutamate transporters in any species
+may need to be tested empirically.
+
+DOI: 10.1002/glia.20139 
+PMID: 15578656  [Indexed for MEDLINE]
+
+
+2745. Exp Clin Endocrinol Diabetes. 2004 Nov;112(10):574-9.
+
+The carboxyterminal peptide of chorionic gonadotropin facilitates activation of
+the marmoset LH receptor.
+
+Müller T(1), Gromoll J, Simula AP, Norman R, Sandhowe-Klaverkamp R, Simoni M.
+
+Author information: 
+(1)Institute of Reproductive Medicine of the University of Münster, Münster,
+Germany.
+
+Luteinizing hormone (LH) and chorionic gonadotropin (CG) are heterodimeric
+glycoprotein hormones acting on the luteinizing hormone receptor (LHR). In the
+LHR, which is genomically encoded by eleven exons, exon 10 encodes for the hinge 
+region and its elimination impairs LH action, while CG maintains normal activity.
+The two gonadotropins differ in the carboxyterminal peptide (CTP) present in CG
+but absent in LH. Since the marmoset monkey (Callithrix jacchus) LHR naturally
+lacks exon 10 (LHR type II), we generated two recombinant marmoset gonadotropin
+preparations, one consisting of the wild type CG and one of truncated CG lacking 
+the CTP (CG (-CTP)). After calibration in a mouse Leydig cell bioassay against
+the WHO LH80/522 standard, the ED (50) of the CG preparation on a COS7 cell line 
+permanently expressing the marmoset LHR was 4.25 +/- 0.21 IU/L (n = 3).
+Stimulation of the COS7 cell line with equipotent concentrations of CG and CG
+(-CTP) resulted in significantly different formation of cAMP (two-way ANOVA, p < 
+0.001). In particular, cAMP production stimulated by CG (-CTP) was 3 - 4 times
+lower compared to CG at the saturating CG concentration (8 IU/L). We conclude,
+supplementing one current model of LHR activation, that exon 10 might play a
+permissive role in releasing the constraint of the receptor upon hormone binding,
+resulting in receptor activation. We speculate that, when exon 10 is lacking, the
+CTP can overcome its absence and facilitates the opening of the receptor,
+resulting in normal activation.
+
+DOI: 10.1055/s-2004-830409 
+PMID: 15578332  [Indexed for MEDLINE]
+

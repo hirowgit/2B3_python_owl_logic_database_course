@@ -1,0 +1,103 @@
+
+
+31. Aging Pathobiol Ther. 2021;3(1):14-16. doi: 10.31491/apt.2021.03.052.
+
+Hepatic steatosis, a lesion reported in captive aged common marmosets.
+
+Franco-Mahecha OL(1), Carrasco SE(1).
+
+Author information: 
+(1)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, MA 02139, USA.
+
+Hepatic steatosis, also known as fatty liver, is a spontaneous lesion caused by
+the abnormal accumulation of triglycerides within hepatocytes that has been
+described in different laboratory-housed nonhuman primate species. Aging is
+considered a risk factor in the progression of this lesion in humans and captive 
+rhesus macaques. Hepatic steatosis has been reported in sexually mature adult and
+aged-adult captive common marmosets. Macroscopic changes in the liver may be
+evident in advanced stages of this condition and are characterized by
+hepatomegaly with multifocal to coalescing to regionally extensive pale-tan to
+yellow, soft foci throughout the hepatic lobes. Biochemical abnormalities in
+these cases include significantly increased levels in triglycerides, insulin, and
+γ-glutamyltransferase (GGT). Definitive diagnosis is by histopathology and
+demonstration of lipid accumulation within hepatocytes. Histopathology is
+characterized by large coalescing areas of periacinar to periportal
+microvesicular steatosis mixed with clusters of macrovesicular steatosis, and
+variable degrees of lobular inflammation. Vacuolated hepatocytes containing
+intracytoplasmic lipid material is demonstrated by positive staining to Sudan IV 
+and/or Oil red-O.
+
+DOI: 10.31491/apt.2021.03.052 
+PMCID: PMC8654022
+PMID: 34888546 
+
+Conflict of interest statement: Conflict of interest: The authors declare no
+conflict of interest.
+
+
+32. Nat Neurosci. 2022 Jan;25(1):106-115. doi: 10.1038/s41593-021-00969-4. Epub 2021 
+Dec 9.
+
+AAV capsid variants with brain-wide transgene expression and decreased liver
+targeting after intravenous delivery in mouse and marmoset.
+
+Goertsen D(#)(1), Flytzanis NC(#)(1), Goeden N(#)(1), Chuapoco MR(1), Cummins
+A(2), Chen Y(3), Fan Y(3), Zhang Q(4)(5), Sharma J(4)(6)(7)(8), Duan Y(9), Wang
+L(3), Feng G(4)(5), Chen Y(3)(10), Ip NY(9)(11)(10), Pickel J(2), Gradinaru
+V(12).
+
+Author information: 
+(1)Division of Biology and Biological Engineering, California Institute of
+Technology, Pasadena, CA, USA.
+(2)National Institute of Mental Health, National Institutes of Health, Bethesda, 
+MD, USA.
+(3)Chinese Academy of Sciences Key Laboratory of Brain Connectome and
+Manipulation, Shenzhen Key Laboratory of Translational Research for Brain
+Diseases, The Brain Cognition and Brain Disease Institute, Shenzhen Institute of 
+Advanced Technology, Chinese Academy of Sciences; Shenzhen-Hong Kong Institute of
+Brain Science-Shenzhen Fundamental Research Institutions, Shenzhen, China.
+(4)McGovern Institute for Brain Research, Department of Brain and Cognitive
+Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA.
+(5)Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard,
+Cambridge, MA, USA.
+(6)Picower Institute of Learning and Memory, Massachusetts Institute of
+Technology, Cambridge, MA, USA.
+(7)Tan & Yang Center for Autism Research, McGovern Institute of Brain Research,
+Massachusetts Institute of Technology, Cambridge, MA, USA.
+(8)Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, 
+Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.
+(9)Division of Life Science, State Key Laboratory of Molecular Neuroscience and
+Molecular Neuroscience Center, Hong Kong University of Science and Technology,
+Clear Water Bay, Kowloon, Hong Kong, China.
+(10)Guangdong Provincial Key Laboratory of Brain Science, Disease and Drug
+Development, Shenzhen-Hong Kong Institute of Brain Science, HKUST Shenzhen
+Research Institute, Shenzhen, Guangdong, China.
+(11)Hong Kong Center for Neurodegenerative Diseases, Hong Kong Science Park, Hong
+Kong, China.
+(12)Division of Biology and Biological Engineering, California Institute of
+Technology, Pasadena, CA, USA. viviana@caltech.edu.
+(#)Contributed equally
+
+Genetic intervention is increasingly being explored as a therapeutic option for
+debilitating disorders of the central nervous system. The safety and efficacy of 
+gene therapies rely upon expressing a transgene in affected cells while
+minimizing off-target expression. Here we show organ-specific targeting of
+adeno-associated virus (AAV) capsids after intravenous delivery, which we
+achieved by employing a Cre-transgenic-based screening platform and sequential
+engineering of AAV-PHP.eB between the surface-exposed AA452 and AA460 of VP3.
+From this selection, we identified capsid variants that were enriched in the
+brain and targeted away from the liver in C57BL/6J mice. This tropism extends to 
+marmoset (Callithrix jacchus), enabling robust, non-invasive gene delivery to the
+marmoset brain after intravenous administration. Notably, the capsids identified 
+result in distinct transgene expression profiles within the brain, with one
+exhibiting high specificity to neurons. The ability to cross the blood-brain
+barrier with neuronal specificity in rodents and non-human primates enables new
+avenues for basic research and therapeutic possibilities unattainable with
+naturally occurring serotypes.
+
+© 2021. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s41593-021-00969-4 
+PMID: 34887588 
+

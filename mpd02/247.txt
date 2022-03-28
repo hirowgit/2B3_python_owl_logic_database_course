@@ -1,0 +1,46 @@
+
+
+247. Nature. 2020 Nov;587(7834):432-436. doi: 10.1038/s41586-020-2802-y. Epub 2020 Oct
+7.
+
+Spontaneous travelling cortical waves gate perception in behaving primates.
+
+Davis ZW(#)(1), Muller L(#)(2)(3)(4)(5), Martinez-Trujillo J(4)(6)(7), Sejnowski 
+T(2), Reynolds JH(8).
+
+Author information: 
+(1)The Salk Institute for Biological Studies, La Jolla, CA, USA. zdavis@salk.edu.
+(2)The Salk Institute for Biological Studies, La Jolla, CA, USA.
+(3)Department of Applied Mathematics, Western University, London, Ontario,
+Canada.
+(4)Robarts Research and Brain and Mind Institute, Western University, London,
+Ontario, Canada.
+(5)Institut de Neurosciences de la Timone (INT), UMR7289, CNRS, Aix-Marseille
+Université, Marseille, France.
+(6)Department of Physiology and Pharmacology, Schulich School of Medicine and
+Dentistry, Western University, London, Ontario, Canada.
+(7)Department of Psychiatry, Schulich School of Medicine and Dentistry, Western
+University, London, Ontario, Canada.
+(8)The Salk Institute for Biological Studies, La Jolla, CA, USA.
+reynolds@salk.edu.
+(#)Contributed equally
+
+Perceptual sensitivity varies from moment to moment. One potential source of this
+variability is spontaneous fluctuations in cortical activity that can travel as
+waves1. Spontaneous travelling waves have been reported during anaesthesia2-7,
+but it is not known whether they have a role during waking perception. Here,
+using newly developed analytic techniques to characterize the moment-to-moment
+dynamics of noisy multielectrode data, we identify spontaneous waves of activity 
+in the extrastriate visual cortex of awake, behaving marmosets (Callithrix
+jacchus). In monkeys trained to detect faint visual targets, the timing and
+position of spontaneous travelling waves before target onset predicted the
+magnitude of target-evoked activity and the likelihood of target detection. By
+contrast, spatially disorganized fluctuations of neural activity were much less
+predictive. These results reveal an important role for spontaneous travelling
+waves in sensory processing through the modulation of neural and perceptual
+sensitivity.
+
+DOI: 10.1038/s41586-020-2802-y 
+PMCID: PMC7677221
+PMID: 33029013  [Indexed for MEDLINE]
+

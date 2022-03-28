@@ -1,0 +1,36 @@
+
+
+3436. Virology. 1999 Jun 5;258(2):375-81.
+
+Nitric oxide down-regulates Epstein-Barr virus reactivation in epithelial cell
+lines.
+
+Gao X(1), Tajima M, Sairenji T.
+
+Author information: 
+(1)School of Life Science, Faculty of Medicine, Tottori University,
+Nishimachi-86, Yonago, 683-8505, Japan.
+
+Nitric oxide (NO), a mediator of biological functions, has an antimicrobial
+activity against a variety of pathogens including viruses. In this study, we
+found that a constitutive, low level of inducible NO synthase (iNOS) mRNA was
+expressed in the EBV-infected gastric tissue-derived GT38 and GT39 cell lines, by
+analysis with the reverse transcription-polymerase chain reaction (RT-PCR) and
+Southern blotting. Treatment of these cells with a specific NOS inhibitor,
+NG-monomethyl-L-arginine (L-NMMA), induced the immediate-early, EBV
+transactivator gene BZLF1 protein ZEBRA, suggesting a significant increase in EBV
+reactivation by L-NMMA. Northern blotting demonstrated that BZLF1 and BRLF1
+transcripts were also induced by 12-O-tetradecanoylphorbol-13 acetate (TPA).
+Meanwhile, constitutive expression of iNOS mRNA was inhibited by TPA. L-NMMA also
+enhanced TPA-induced expression of the BZLF1 gene. On the other hand, a NO donor,
+S-nitroso-N-acetylpenicillamine (SNAP), which releases NO in an aqueous solution,
+inhibited the TPA-induced BZLF1 gene expression in a dose-dependent manner at
+both mRNA and protein levels. These results demonstrated that NO is a regulatory 
+factor in maintaining virus latency via inhibiting EBV reactivation in the
+infected epithelial cells.
+
+Copyright 1999 Academic Press.
+
+DOI: 10.1006/viro.1999.9748 
+PMID: 10366574  [Indexed for MEDLINE]
+

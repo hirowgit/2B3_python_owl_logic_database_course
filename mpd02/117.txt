@@ -1,0 +1,42 @@
+
+
+117. Magn Reson Med. 2021 Nov;86(5):2766-2779. doi: 10.1002/mrm.28881. Epub 2021 Jun
+25.
+
+Marmoset brain segmentation from deconvolved magnetic resonance images and
+estimated label maps.
+
+Bazzi F(1)(2)(3), Mescam M(2), Diab A(3), Falou O(3), Amoud H(3), Basarab A(1),
+Kouamé D(1).
+
+Author information: 
+(1)Computer Science Research Institute of Toulouse (IRIT), Toulouse University
+UPS, CNRS, UMR, Toulouse, France.
+(2)Centre de Recherche Cerveau et Cognition (CerCo), Université de Toulouse UPS, 
+CNRS, UMR, Toulouse, France.
+(3)Doctoral School of Sciences and Technology, AZM Center for Research in
+Biotechnology and Its Applications, Lebanese University, Beirut, Lebanon.
+
+PURPOSE: The proposed method aims to create label maps that can be used for the
+segmentation of animal brain MR images without the need of a brain template. This
+is achieved by performing a joint deconvolution and segmentation of the brain MR 
+images.
+METHODS: It is based on modeling locally the image statistics using a generalized
+Gaussian distribution (GGD) and couples the deconvolved image and its
+corresponding labels map using the GGD-Potts model. Because of the complexity of 
+the resulting Bayesian estimators of the unknown model parameters, a Gibbs
+sampler is used to generate samples following the desired posterior probability.
+RESULTS: The performance of the proposed algorithm is assessed on simulated and
+real MR images by the segmentation of enhanced marmoset brain images into its
+main compartments using the corresponding label maps created. Quantitative
+assessment showed that this method presents results that are comparable to those 
+obtained with the classical method-registering the volumes to a brain template.
+CONCLUSION: The proposed method of using labels as prior information for brain
+segmentation provides a similar or a slightly better performance compared with
+the classical reference method based on a dedicated template.
+
+© 2021 International Society for Magnetic Resonance in Medicine.
+
+DOI: 10.1002/mrm.28881 
+PMID: 34170032  [Indexed for MEDLINE]
+

@@ -1,0 +1,31 @@
+
+
+2631. Perception. 2005;34(8):967-74.
+
+A continuous smooth map of space in the primary visual cortex of the common
+marmoset.
+
+McLoughlin N(1), Cotton P, Schiessl I.
+
+Author information: 
+(1)Department of Optometry and Neuroscience, University of Manchester Institute
+of Science and Technology, PO Box 88, Manchester M60 1QD, UK.
+n.mcloughlin@umist.ac.uk
+
+We examined the fine-scale mapping of the visual world within the primary visual 
+cortex of the marmoset monkey (Callithrix jacchus) using differential optical
+imaging. We stimulated two sets of complementary stripe-like locations in turn,
+subtracting them to generate the cortical representations of continuous bands of 
+visual space. Rotating this stimulus configuration makes it possible to map
+different spatial axes within the primary visual cortex. In a similar manner,
+shifting the stimulated locations between trials makes it possible to map
+retinotopy at an even finer scale. Using these methods we found no evidence of
+any local anisotropies or distortions in the cortical representation of visual
+space. This is despite the fact that orientation preference is mapped in a
+discontinuous manner across the surface of marmoset V1. Overall, our results
+indicate that space is mapped in a continuous and smooth manner in the primary
+visual cortex of the common marmoset.
+
+DOI: 10.1068/p5198 
+PMID: 16178151  [Indexed for MEDLINE]
+

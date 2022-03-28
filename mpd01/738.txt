@@ -1,0 +1,109 @@
+
+
+738. PLoS One. 2018 Jan 31;13(1):e0192095. doi: 10.1371/journal.pone.0192095.
+eCollection 2018.
+
+Noninvasive measurement of dynamic brain signals using light penetrating the
+brain.
+
+Hiwaki O(1), Miyaguchi H(2).
+
+Author information: 
+(1)Graduate School of Information Sciences, Hiroshima City University, Hiroshima,
+Japan.
+(2)Graduate School of Biomedical and Health Sciences, Hiroshima University,
+Hiroshima, Japan.
+
+Conventional techniques for the noninvasive measurement of brain activity involve
+critical limitations in spatial or temporal resolution. Here, we propose the
+method for noninvasive brain function measurement with high spatiotemporal
+resolution using optical signals. We verified that diffused near-infrared light
+penetrating through the upper jaw and into the skull, which we term as
+optoencephalography (OEG), leads to the detection of dynamic brain signals that
+vary concurrently with the electrophysiological neural activity. We measured the 
+OEG signals following the stimulation of the median nerve in common marmosets.
+The OEG signal response was tightly coupled with the electrophysiological
+response represented by the somatosensory evoked potential (SSEP). The OEG
+measurement is also shown to offer rather clear discrimination of brain signals.
+
+DOI: 10.1371/journal.pone.0192095 
+PMCID: PMC5791992
+PMID: 29385211  [Indexed for MEDLINE]
+
+
+739. Stroke. 2018 Mar;49(3):700-709. doi: 10.1161/STROKEAHA.117.019136. Epub 2018 Jan 
+30.
+
+Acute or Delayed Systemic Administration of Human Amnion Epithelial Cells
+Improves Outcomes in Experimental Stroke.
+
+Evans MA(1), Lim R(1), Kim HA(1), Chu HX(1), Gardiner-Mann CV(1), Taylor KWE(1), 
+Chan CT(1), Brait VH(1), Lee S(1), Dinh QN(1), Vinh A(1), Phan TG(1), Srikanth
+VK(1), Ma H(1), Arumugam TV(1), Fann DY(1), Poh L(1), Hunt CPJ(1), Pouton CW(1), 
+Haynes JM(1), Selemidis S(1), Kwan W(1), Teo L(1), Bourne JA(1), Neumann S(1),
+Young S(1), Gowing EK(1), Drummond GR(1), Clarkson AN(1), Wallace EM(1), Sobey
+CG(2), Broughton BRS(1).
+
+Author information: 
+(1)From the Departments of Pharmacology (M.A.E., H.A.K., H.X.C., C.V.G.-M.,
+K.W.E.T., C.T.C., V.H.B., S.L., Q.N.D., A.V., G.R.D., C.G.S., B.R.S.B.),
+Obstetrics and Gynaecology (R.L., E.M.W.), Surgery (A.V., G.R.D., C.G.S.), and
+Medicine (T.G.P., V.K.S.), Australian Regenerative Medicine Institute (W.K.,
+L.T., J.A.B.), and Monash Institute of Pharmaceutical Sciences (C.P.J.H., C.W.P.,
+J.M.H.), Monash University, Victoria, Australia; Department of Physiology,
+Anatomy and Microbiology, La Trobe University, Victoria, Australia (M.A.E.,
+H.A.K., Q.N.D., A.V., G.R.D., C.G.S.); The Ritchie Centre, Hudson Institute of
+Medical Research, Victoria, Australia (R.L., E.M.W.); Stroke Unit (T.G.P.,
+V.K.S., H.M.) and Monash Women's Services (E.M.W.), Monash Health, Victoria,
+Australia; Menzies Research Institute, Tasmania, Australia (V.K.S.); Department
+of Physiology, Yong Loo Lin School of Medicine, National University of Singapore 
+(T.V.A., D.Y.F., L.P.); School of Pharmacy, Sungkyunkwan University, Seoul, South
+Korea (T.V.A.); School of Health and Biomedical Sciences, RMIT University,
+Victoria, Australia (S.S.); Department of Anatomy, Brain Health Research Centre
+and Brain Research New Zealand (S.N., E.K.G., A.N.C.) and Department of Pathology
+(S.N.;S.Y.;A.N.C.), University of Otago, Dunedin, New Zealand; and Faculty of
+Pharmacy, University of Sydney, NSW, Australia (A.N.C.).
+(2)From the Departments of Pharmacology (M.A.E., H.A.K., H.X.C., C.V.G.-M.,
+K.W.E.T., C.T.C., V.H.B., S.L., Q.N.D., A.V., G.R.D., C.G.S., B.R.S.B.),
+Obstetrics and Gynaecology (R.L., E.M.W.), Surgery (A.V., G.R.D., C.G.S.), and
+Medicine (T.G.P., V.K.S.), Australian Regenerative Medicine Institute (W.K.,
+L.T., J.A.B.), and Monash Institute of Pharmaceutical Sciences (C.P.J.H., C.W.P.,
+J.M.H.), Monash University, Victoria, Australia; Department of Physiology,
+Anatomy and Microbiology, La Trobe University, Victoria, Australia (M.A.E.,
+H.A.K., Q.N.D., A.V., G.R.D., C.G.S.); The Ritchie Centre, Hudson Institute of
+Medical Research, Victoria, Australia (R.L., E.M.W.); Stroke Unit (T.G.P.,
+V.K.S., H.M.) and Monash Women's Services (E.M.W.), Monash Health, Victoria,
+Australia; Menzies Research Institute, Tasmania, Australia (V.K.S.); Department
+of Physiology, Yong Loo Lin School of Medicine, National University of Singapore 
+(T.V.A., D.Y.F., L.P.); School of Pharmacy, Sungkyunkwan University, Seoul, South
+Korea (T.V.A.); School of Health and Biomedical Sciences, RMIT University,
+Victoria, Australia (S.S.); Department of Anatomy, Brain Health Research Centre
+and Brain Research New Zealand (S.N., E.K.G., A.N.C.) and Department of Pathology
+(S.N.;S.Y.;A.N.C.), University of Otago, Dunedin, New Zealand; and Faculty of
+Pharmacy, University of Sydney, NSW, Australia (A.N.C.). c.sobey@latrobe.edu.au.
+
+BACKGROUND AND PURPOSE: Human amnion epithelial cells (hAECs) are nonimmunogenic,
+nontumorigenic, anti-inflammatory cells normally discarded with placental tissue.
+We reasoned that their profile of biological features, wide availability, and the
+lack of ethical barriers to their use could make these cells useful as a therapy 
+in ischemic stroke.
+METHODS: We tested the efficacy of acute (1.5 hours) or delayed (1-3 days)
+poststroke intravenous injection of hAECs in 4 established animal models of
+cerebral ischemia. Animals included young (7-14 weeks) and aged mice (20-22
+months) of both sexes, as well as adult marmosets of either sex.
+RESULTS: We found that hAECs administered 1.5 hours after stroke in mice migrated
+to the ischemic brain via a CXC chemokine receptor type 4-dependent mechanism and
+reduced brain inflammation, infarct development, and functional deficits.
+Furthermore, if hAECs administration was delayed until 1 or 3 days poststroke,
+long-term functional recovery was still augmented in young and aged mice of both 
+sexes. We also showed proof-of-principle evidence in marmosets that acute
+intravenous injection of hAECs prevented infarct development from day 1 to day 10
+after stroke.
+CONCLUSIONS: Systemic poststroke administration of hAECs elicits marked
+neuroprotection and facilitates mechanisms of repair and recovery.
+
+© 2018 American Heart Association, Inc.
+
+DOI: 10.1161/STROKEAHA.117.019136 
+PMID: 29382802  [Indexed for MEDLINE]
+

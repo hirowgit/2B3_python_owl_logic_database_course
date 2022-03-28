@@ -1,0 +1,96 @@
+
+
+4106. Circulation. 1993 Jun;87(6):1979-89.
+
+Specific IK1 blockade: a new antiarrhythmic mechanism? Effect of RP58866 on
+ventricular arrhythmias in rat, rabbit, and primate.
+
+Rees SA(1), Curtis MJ.
+
+Author information: 
+(1)Department of Pharmacology, King's College, University of London, U.K.
+
+BACKGROUND: The effectiveness of blockade of the inwardly rectifying K+ current
+(IK1) in prevention of arrhythmias is unknown. We have examined the
+antiarrhythmic potential of a new selective IK1 blocker, RP58866, in rat, rabbit,
+and primate (marmoset) isolated hearts in the settings of acute ischemia and
+reperfusion.
+METHODS AND RESULTS: In concentration-response studies (n = 12 per group), the
+drug reduced ischemia-induced ventricular fibrillation (VF) in rat from control
+incidence of 100 to 50%, 17% (p < 0.05), and 0% (p < 0.05) at 1, 3, and 10
+mumol/L, respectively. RP58866 produced significant bradycardia at the 3- and
+10-mumol/L concentrations and significant QT interval widening at all three
+concentrations (p < 0.05). When rat hearts (n = 12 per group) were paced (5 Hz)
+via the left atrium to prevent bradycardia, the antiarrhythmic effects of
+10-mumol/L RP58866 were unmodified (ischemia-induced VF incidence was reduced by 
+drug from 83% in control hearts to 8%; p < 0.05). Similarly, pacing did not
+prevent the drug's QT-widening activity at 90% repolarization (QT90 was 64 +/- 3 
+msec in control hearts versus 128 +/- 17 msec in the presence of 10 mumol/L of
+drug after 10 minutes of ischemia; p < 0.05). These values are similar to
+equivalent values in unpaced hearts (65 +/- 3 msec in control hearts versus 159
++/- 15 msec with 10 mumol/L of drug; p < 0.05). In separate groups of rat hearts 
+(n = 10 per group) subjected to 10 minutes of ischemia, reperfusion-induced VF
+incidence was reduced from 90% in control hearts to 10% (p < 0.05), 0% (p <
+0.05), and 0% (p < 0.05) by 1-, 3-, and 10-mumol/L RP58866. To examine whether
+drug actions were species-specific, we performed further studies in rabbit and
+primate using the middle concentration of RP58866 (3 mumol/L). Ischemia-induced
+VF incidence was too low in these species to assess the effects of the drug.
+However, RP58866 widened QT interval (p < 0.05), slowed heart rate (p < 0.05),
+and reduced the incidence of reperfusion-induced VF from 67% to 8% (p < 0.05) in 
+rabbit. Furthermore, in the more clinically relevant primate species (marmoset; n
+= 9-12 per group), RP58866 (3 mumol/L) abolished ischemia-induced VT (36%
+incidence in control hearts; p < 0.05) and significantly reduced the incidence of
+ischemia-induced ventricular premature beats from 91% to 33% (p < 0.05). The drug
+was also effective against reperfusion VF in primates (incidence reduced from 64%
+in control hearts to 11%; p < 0.05). As in rat and rabbit, RP58866 significantly 
+widened QT interval in primate and caused bradycardia before and during ischemia.
+RP58866 had no significant influence on coronary flow in any species. Finally, in
+further studies on rat, QT widening by RP58866 was found to persist relatively
+unmodified in nonischemic hearts perfused with solution containing K+ elevated to
+8 mmol/L to mimic the early ischemic milieu.
+CONCLUSIONS: RP58866, a selective IK1 blocker, is a potent and efficacious new
+antiarrhythmic drug in ischemia and reperfusion in rat, rabbit, and primate. When
+tested in rat, pharmacological activity was undiminished by cardiac pacing or
+elevation of extracellular K+.
+
+DOI: 10.1161/01.cir.87.6.1979 
+PMID: 8504513  [Indexed for MEDLINE]
+
+
+4107. Hypertension. 1993 Jun;21(6 Pt 1):827-35.
+
+Gene expression and tissue localization of the two isoforms of angiotensin I
+converting enzyme.
+
+Sibony M(1), Gasc JM, Soubrier F, Alhenc-Gelas F, Corvol P.
+
+Author information: 
+(1)INSERM U 36, Paris, France.
+
+Angiotensin converting enzyme exists in two different isoforms, somatic and
+germinal, whose respective distributions and intracellular localizations have not
+been precisely determined. The differing biochemical and molecular
+characteristics of the two isozymes allowed the preparation of antibodies
+specific for each of the two angiotensin converting enzyme isoforms and of two
+nucleic acid probes, one of which was specific for the germinal isoform.
+Immunohistochemistry and in situ hybridization were used to determine the cell
+distribution of, respectively, the two isoforms and their corresponding messenger
+RNAs in the classically studied tissues of male adult humans and marmosets.
+Results provided by the two different methods were always concordant and were
+identical in the two species. The somatic angiotensin converting enzyme form was 
+expressed uniquely in somatic tissues (vascular endothelial cells and at the
+brush border of renal proximal convoluted tubule, jejunal villus, and epididymal 
+duct epithelia), and the germinal form was expressed uniquely in germinal cells
+with a precise stage-specific pattern, starting in round spermatids and finishing
+in spermatozoa. In situ hybridization documented the presence of somatic
+angiotensin converting enzyme messenger RNA in renal tubule epithelium, jejunal
+enterocytes, and epididymal epithelium and demonstrated that there was no direct 
+correlation between the levels of angiotensin converting enzyme messenger RNA and
+the enzyme it encodes for, i.e., angiotensin converting enzyme, in a given
+epithelium. The significance of the ultraselective expression of germinal
+angiotensin converting enzyme and of its specific messenger RNA at a very precise
+stage of spermatogenesis remains uncertain.
+
+DOI: 10.1161/01.hyp.21.6.827 
+PMID: 8388857  [Indexed for MEDLINE]
+

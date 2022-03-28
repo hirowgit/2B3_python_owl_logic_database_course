@@ -1,0 +1,39 @@
+
+
+2339. J Cereb Blood Flow Metab. 2008 Apr;28(4):786-96. Epub 2007 Nov 14.
+
+Intraluminal thread model of focal stroke in the non-human primate.
+
+Freret T(1), Bouet V, Toutain J, Saulnier R, Pro-Sistiaga P, Bihel E, Mackenzie
+ET, Roussel S, Schumann-Bard P, Touzani O.
+
+Author information: 
+(1)University of Caen, CNRS-UMR 6185, Cyceron, Caen, France.
+
+The common marmoset (Callithrix jacchus), a New World monkey, has recently been
+used as a model of focal cerebral ischaemia. Here, we sought to develop a stroke 
+model in this species using an intraluminal approach to occlude the middle
+cerebral artery (MCA). This technically simple procedure allows both transient
+and permanent ischaemia with minimal morbidity. Ten common marmosets underwent
+either transient (3 h) or permanent ischaemia by the insertion of a nylon
+filament through the external carotid artery up to the origin of the MCA.
+Cerebral blood flow (CBF) was monitored by the laser-Doppler flowmetry technique.
+Sensorimotor functions were regularly evaluated, and histologic,
+immunohistochemical, and magnetic resonance imaging analyses were performed 8
+days after the occlusion. The surgical procedure was achieved straightforwardly
+without postoperative mortality or cerebral haemorrhage. All animals displayed a 
+consistent decrease in CBF that remained stable over 3 h. Infarction affected
+both cortical and subcortical structures. Although not statistically significant,
+the volume of infarction was smaller in marmosets subjected to transient
+ischaemia compared to those permanently occluded (237+/-139 and 358+/-118 mm3,
+respectively). In all the behavioural tests used, reperfused marmosets exhibited 
+fewer neurologic and functional impairments compared to permanently occluded
+ones. We show the feasibility of the induction of permanent or transient focal
+cerebral ischaemia in the marmoset using an intraluminal approach with minimal
+invasion. This model could be suitable as an advanced screening for potential
+stroke therapies in which behavioural, imaging, and histologic analyses can be
+compared.
+
+DOI: 10.1038/sj.jcbfm.9600575 
+PMID: 18000514  [Indexed for MEDLINE]
+

@@ -1,0 +1,69 @@
+
+
+137. ILAR J. 2020 Dec 31;61(2-3):199-217. doi: 10.1093/ilar/ilab012.
+
+Clinical Management of Gastrointestinal Disease in the Common Marmoset
+(Callithrix jacchus).
+
+Fitz C(1), Goodroe A(2), Wierenga L(1)(3), Mejia A(1), Simmons H(1).
+
+Author information: 
+(1)Wisconsin National Primate Research Center at the University of
+Wisconsin-Madison, Madison, Wisconsin, USA.
+(2)Texas Biomedical Research Institute and Southwest National Primate Research
+Center in San Antonio, Texas, USA.
+(3)Research Animal Resources and Compliance at the University of
+Wisconsin-Madison, Madison, Wisconsin, USA.
+
+Gastrointestinal disease is a frequently encountered problem among captive common
+marmoset (Callithrix jacchus) colonies. Management can be challenging due to the 
+number of etiologies responsible for gastrointestinal disease in this species,
+limitations on diagnostic capabilities, and lack of effective treatments.
+Understanding commonly described GI diseases in the captive marmoset can provide 
+insight on the impact these diseases have on research studies and aid in the
+development of appropriate management strategies. A review of commonly
+encountered GI disease processes as well as routinely implicated causes of GI
+disease in the common marmoset are provided. Current strategies in clinical
+management of GI disease in the common marmoset, including approaches to colony
+health, diagnostic testing, and commonly employed treatments are discussed.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the
+National Academies of Sciences, Engineering, and Medicine. All rights reserved.
+For permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/ilar/ilab012 
+PMID: 33989417 
+
+
+138. STAR Protoc. 2021 Apr 17;2(2):100454. doi: 10.1016/j.xpro.2021.100454.
+eCollection 2021 Jun 18.
+
+Quantifying anhedonia-like symptoms in marmosets using appetitive Pavlovian
+conditioning.
+
+Alexander L(1)(2), Banai-Tizkar R(1)(2), Wood CM(1)(2), Roberts AC(1)(2).
+
+Author information: 
+(1)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Cambridge CB2 3DY, UK.
+(2)Behavioural and Clinical Neuroscience Institute, University of Cambridge,
+Cambridge CB2 3EB, UK.
+
+Blunted reward responsivity is associated with anhedonia in humans and is a core 
+feature of depression. This protocol describes how to train the common marmoset, 
+Callithrix jacchus, on an appetitive Pavlovian conditioning paradigm to measure
+behavioral and cardiovascular correlates of anticipatory and consummatory phases 
+of reward processing. We describe how to use intracerebral infusions to
+manipulate brain regions whose activity is relevant to impaired reward processing
+in depression and how the paradigm can be used to test antidepressant efficacy.
+For complete details on the use and execution of this protocol, please refer to
+Alexander et al. (2019).
+
+Crown Copyright © 2021.
+
+DOI: 10.1016/j.xpro.2021.100454 
+PMCID: PMC8082163
+PMID: 33982011  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+

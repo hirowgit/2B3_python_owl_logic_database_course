@@ -1,0 +1,89 @@
+
+
+4. Sci Rep. 2022 Mar 15;12(1):4430. doi: 10.1038/s41598-022-08255-4.
+
+Analysis of gut microbiome profiles in common marmosets (Callithrix jacchus) in
+health and intestinal disease.
+
+Sheh A(#)(1), Artim SC(#)(2)(3), Burns MA(2), Molina-Mora JA(4), Lee MA(2)(5),
+Dzink-Fox J(2), Muthupalani S(2), Fox JG(6).
+
+Author information: 
+(1)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, MA, USA. alexsheh@mit.edu.
+(2)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, MA, USA.
+(3)Merck Research Laboratories, Merck, South San Francisco, CA, USA.
+(4)Centro de Investigación en Enfermedades Tropicales (CIET), Universidad de
+Costa Rica, San José, Costa Rica.
+(5)Department of Biological Sciences, Wellesley College, Wellesley, MA, USA.
+(6)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, MA, USA. jgfox@mit.edu.
+(#)Contributed equally
+
+Chronic gastrointestinal (GI) diseases are the most common diseases in captive
+common marmosets. To understand the role of the microbiome in GI diseases, we
+characterized the gut microbiome of 91 healthy marmosets (303 samples) and 59
+marmosets diagnosed with inflammatory bowel disease (IBD) (200 samples). Healthy 
+marmosets exhibited "humanized," Bacteroidetes-dominant microbiomes. After up to 
+2 years of standardized diet, housing and husbandry, marmoset microbiomes could
+be classified into four distinct marmoset sources based on Prevotella and
+Bacteroides levels. Using a random forest (RF) model, marmosets were classified
+by source with an accuracy of 93% with 100% sensitivity and 95% specificity using
+abundance data from 4 Prevotellaceae amplicon sequence variants (ASVs), as well
+as single ASVs from Coprobacter, Parabacteroides, Paraprevotella,
+Phascolarctobacterium, Oribacterium and Fusobacterium. A single dysbiotic IBD
+state was not found across all marmoset sources, but IBD was associated with
+lower alpha diversity and a lower Bacteroides:Prevotella copri ratio within each 
+source. IBD was highest in a Prevotella-dominant cohort, and consistent with
+Prevotella-linked diseases, pro-inflammatory genes in the jejunum were
+upregulated. RF analysis of serum biomarkers identified serum calcium, hemoglobin
+and red blood cell (RBC) counts as potential biomarkers for marmoset IBD. This
+study characterizes the microbiome of healthy captive common marmosets and
+demonstrates that source-specific microbiomes can be retained despite
+standardized diets and husbandry practices. Marmosets with IBD had decreased
+alpha diversity and a shift in the ratio of Bacteroides:Prevotella copri compared
+to healthy marmosets.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-022-08255-4 
+PMCID: PMC8924212
+PMID: 35292670 
+
+
+5. J Med Primatol. 2022 Mar 9. doi: 10.1111/jmp.12576. [Epub ahead of print]
+
+Diagnosis of thrombotic microangiopathy in preeclampsia in the common marmoset
+(Callithrix jacchus) and treatment by cesarean section.
+
+Kim JM(1)(2), Kwak J(2)(3), Kim JI(2)(3), Kim D(2), Kang BC(2)(3)(4)(5).
+
+Author information: 
+(1)Xenotransplantation Research Center, Seoul National University College of
+Medicine, Seoul, Korea.
+(2)Department of Experimental Animal Research, Biomedical Research Institute,
+Seoul National University Hospital, Seoul, Korea.
+(3)Graduate School of Translational Medicine, Seoul National University College
+of Medicine, Seoul, Korea.
+(4)Biomedical Center for Animal Resource and Development, Seoul National
+University College of Medicine, Seoul, Korea.
+(5)Designed Animal Resource Center, Institute of GreenBio Science Technology,
+Seoul National University, Seoul, Korea.
+
+A pregnant common marmoset (Callithrix jacchus) showed tachypnea, hypothermia,
+and anorexia at close to the expected delivery date. Severe anemia and
+thrombocytopenia, schistocytes, and high levels of LDH and D-dimer were observed.
+Three days after the onset of clinical signs, a cesarean section was conducted
+due to stillbirth. Marmoset immediately recovered after surgery, and the abnormal
+CBC and blood chemistry parameters before surgery returned to the normal ranges. 
+Diagnosis of pregnancy-associated thrombotic microangiopathy was made because
+removal of infant and placenta is curative. To the best of our knowledge, this is
+the first case report of thrombotic microangiopathy in a marmoset with
+preeclampsia.
+
+© 2022 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jmp.12576 
+PMID: 35266161 
+

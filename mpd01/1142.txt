@@ -1,0 +1,93 @@
+
+
+1142. Virology. 2016 Jan;487:141-9. doi: 10.1016/j.virol.2015.10.004. Epub 2015 Nov 2.
+
+Amino acid substitutions in the heptad repeat A and C regions of the F protein
+responsible for neurovirulence of measles virus Osaka-1 strain from a patient
+with subacute sclerosing panencephalitis.
+
+Ayata M(1), Tanaka M(2), Kameoka K(3), Kuwamura M(2), Takeuchi K(4), Takeda M(5),
+Kanou K(6), Ogura H(3).
+
+Author information: 
+(1)Department of Virology, Graduate School of Medicine, Osaka City University,
+Osaka 545-8585, Japan. Electronic address: maverick@med.osaka-cu.ac.jp.
+(2)Laboratory of Veterinary Pathology, Osaka Prefecture University, Osaka
+598-8531, Japan.
+(3)Department of Virology, Graduate School of Medicine, Osaka City University,
+Osaka 545-8585, Japan.
+(4)Laboratory of Environmental Microbiology, Division of Biomedical Science,
+Faculty of Medicine, University of Tsukuba, Ibaraki 305-8575, Japan.
+(5)Department of Virology 3, National Institute of Infectious Diseases, Tokyo
+208-0011, Japan.
+(6)Infectious Disease Surveillance Center, National Institute of Infectious
+Diseases, Tokyo 208-0011, Japan.
+
+Measles virus (MV) is the causative agent of subacute sclerosing panencephalitis 
+(SSPE). We previously reported that the F gene of the SSPE Osaka-2 strain is the 
+major determinant of MV neurovirulence. Because the sites and extents of
+mutations differ among SSPE strains, it is necessary to determine the mutations
+responsible for the SSPE-specific phenotypes of individual viral strain. In this 
+study, recombinant viruses containing the envelope-associated genes from the SSPE
+Osaka-1 strain were generated in the IC323 wild-type MV background. Hamsters
+inoculated with MV containing the H gene of the Osaka-1 strain displayed
+hyperactivity and seizures, but usually recovered and survived. Hamsters
+inoculated with MV containing the F gene of the Osaka-1 strain displayed severe
+neurologic signs and died. Amino acid substitutions in the heptad repeat A and C 
+regions of the F protein, including a methionine-to-valine substitution at amino 
+acid 94, play major roles in neurovirulence.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2015.10.004 
+PMID: 26524513  [Indexed for MEDLINE]
+
+
+1143. Int J Syst Evol Microbiol. 2016 Jan;66(1):255-265. doi: 10.1099/ijsem.0.000708.
+Epub 2015 Oct 28.
+
+Bifidobacterium myosotis sp. nov., Bifidobacterium tissieri sp. nov. and
+Bifidobacterium hapali sp. nov., isolated from faeces of baby common marmosets
+(Callithrix jacchus L.).
+
+Michelini S(1), Oki K(2), Yanokura E(3), Shimakawa Y(3), Modesto M(1), Mattarelli
+P(1), Biavati B(4), Watanabe K(5).
+
+Author information: 
+(1)Department of Agricultural Sciences, University of Bologna, Bologna, Italy.
+(2)Yakult Honsha European Research Center for Microbiology ESV, Technologie Park 
+4, 9052 Zwijnaarde, Belgium.
+(3)Yakult Central Institute, 5-11 Izumi, Kunitachi, Tokyo 186-8650, Japan.
+(4)Institute of Earth Systems, Division of Rural Sciences & Food Systems,
+University of Malta, Msida, Malta.
+(5)Department of Animal Science and Technology, National Taiwan University, No.
+50, Lane 155, Sec. 3, Keelung Rd, Taipei 10673, Taiwan ROC.
+
+In a previous study on bifidobacterial distribution in New World monkeys, six
+strains belonging to the Bifidobacteriaceae were isolated from faecal samples of 
+baby common marmosets (Callithrix jacchus L.). All the isolates were
+Gram-positive-staining, anaerobic, asporogenous and fructose-6-phosphate
+phosphoketolase-positive. Comparative analysis of 16S rRNA gene sequences
+revealed relatively low levels of similarity (maximum identity 96 %) to members
+of the genus Bifidobacterium, and placed the isolates in three independent
+clusters: strains of cluster I (MRM_5.9T and MRM_5.10) and cluster III (MRM_5.18T
+and MRM_9.02) respectively showed 96.4 and 96.7 % 16S rRNA gene sequence
+similarity to Bifidobacterium callitrichos DSM 23973T, while strains of cluster
+II (MRM_8.14T and MRM_9.14) showed 95.4 % similarity to Bifidobacterium
+stellenboschense DSM 23968T. Phylogenetic analysis of partial hsp60 and clpC gene
+sequences supported an independent phylogenetic position of each cluster from
+each other and from the related type strains B. callitrichos DSM 23973T and B.
+stellenboschense DSM 23968T. Clusters I, II and III respectively showed DNA G+C
+contents of 64.9-65.1, 56.4-56.7 and 63.1-63.7 mol%. The major cellular fatty
+acids of MRM_5.9T were C14 : 0, C16 : 0 and C18 : 1ω9c dimethylacetal, while
+C16 : 0 was prominent in strains MRM_5.18T and MRM_8.14T, followed by C18 : 1ω9c 
+and C14 : 0. Biochemical profiles and growth parameters were recorded for all the
+isolates. Based on the data provided, the clusters represent three novel species,
+for which the names Bifidobacterium myosotis sp. nov. (type strain MRM_5.9T = DSM
+100196T = JCM 30796T), Bifidobacterium hapali sp. nov. (type strain
+MRM_8.14T = DSM 100202T = JCM 30799T) and Bifidobacterium tissieri sp. nov. (type
+strain MRM_5.18T = DSM 100201T = JCM 30798T) are proposed.
+
+DOI: 10.1099/ijsem.0.000708 
+PMID: 26515885  [Indexed for MEDLINE]
+

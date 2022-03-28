@@ -1,0 +1,47 @@
+
+
+546. Int J Syst Evol Microbiol. 2019 May;69(5):1288-1298. doi: 10.1099/ijsem.0.003306.
+Epub 2019 Feb 21.
+
+Characterization of the phylogenetic diversity of five novel species belonging to
+the genus Bifidobacterium: Bifidobacterium castoris sp. nov., Bifidobacterium
+callimiconis sp. nov., Bifidobacterium goeldii sp. nov., Bifidobacterium samirii 
+sp. nov. and Bifidobacterium dolichotidis sp. nov.
+
+Duranti S(1), Lugli GA(1), Napoli S(1), Anzalone R(1), Milani C(1), Mancabelli
+L(1), Alessandri G(2), Turroni F(1), Ossiprandi MC(2), van Sinderen D(2)(3),
+Ventura M(1).
+
+Author information: 
+(1)1​Laboratory of Probiogenomics, Department of Chemistry, Life Sciences and
+Environmental Sustainability, University of Parma, Parma, Italy.
+(2)2​Department of Veterinary Medical Science, University of Parma, Parma, Italy.
+(3)3​APC Microbiome Institute and School of Microbiology, National University of 
+Ireland, Cork, Ireland.
+
+Five Bifidobacterium strains, i.e. 2020BT, 2028BT, 2033BT, 2034BT and 2036BT,
+were isolated from European beaver (Castor fiber), Goeldi's marmoset
+(Callimicogoeldii), black-capped squirrel monkey (Saimiriboliviensissubsp.
+peruviensis) and Patagonian mara (Dolichotispatagonum). All of these isolates
+were shown to be Gram-positive, facultative anaerobic, d-fructose 6-phosphate
+phosphoketolase-positive, non-motile and non-sporulating. Phylogenetic analyses
+based on 16S rRNA gene sequences, multilocus sequences (including hsp60, rpoB,
+dnaJ, dnaG and clpC genes) and the core genome revealed that bifidobacterial
+strains 2020BT, 2028BT, 2033BT, 2034BT and 2036BT exhibit close phylogenetic
+relatedness to Bifidobacterium biavatii DSM 23969T, Bifidobacterium bifidum LMG
+11041T, Bifidobacterium choerinum LMG 10510T, Bifidobacterium gallicum LMG
+11596T, Bifidobacterium imperatoris LMG 30297T, Bifidobacterium italicum LMG
+30187T and Bifidobacterium vansinderenii LMG 30126T, respectively. Further
+genotyping based on the genome sequence of the isolated strains combined with
+phenotypic analyses, clearly show that these strains are distinct from each of
+the type strains of the so far recognized Bifidobacterium species. Thus,
+Bifidobacterium castoris sp. nov. (2020BT=LMG 30937T=CCUG 72816T),
+Bifidobacterium callimiconis sp. nov. (2028BT=LMG 30938T=CCUG 72814T),
+Bifidobacterium samirii sp. nov. (2033BT=LMG 30940T=CCUG 72817T), Bifidobacterium
+goeldii sp. nov. (2034BT=LMG 30939T=CCUG 72815T) and Bifidobacterium dolichotidis
+sp. nov. (2036BT=LMG 30941T=CCUG 72818T) are proposed as novel Bifidobacterium
+species.
+
+DOI: 10.1099/ijsem.0.003306 
+PMID: 30789326  [Indexed for MEDLINE]
+

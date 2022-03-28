@@ -1,0 +1,36 @@
+
+
+3980. Chronobiol Int. 1994 Oct;11(5):275-84.
+
+Characteristics of the light-induced phase response of circadian activity rhythms
+in common marmosets, Callithrix j. jacchus [primates-Cebidae].
+
+Wechselberger E(1), Erkert HG.
+
+Author information: 
+(1)Zoologisches Institut/Tierphysiologie, Universität Tübingen, Germany.
+
+Phase-response experiments using 1-h light pulses (LPs) of 1,100 lux applied
+under constant dim light of 0.3 lux were conducted with common marmosets,
+Callithrix j. jacchus, in order to obtain a complete phase-response curve
+established according to the common experimental procedure in a diurnal primate. 
+Maximal phase delays of the free-running circadian activity rhythm (-90 min) were
+induced by LPs delivered at circadian time (CT) 12; e.g., during the beginning of
+the marmosets' rest time, maximal advances (+25 min) were elicited by pulses
+administered during the late subjective night at CT 21. In contrast to rodents,
+neither regular transient cycles nor regular period responses resulted from LP
+applications at different phases. To check whether the underlying period length
+affects the phase response in primates as well, the marmosets' circadian timing
+system was entrained to 25 h by a light:dark (LD) cycle of 12.5:12.5 h. The 1-h
+LPs were delivered during the first circadian cycle produced under constant dim
+light after the entraining LD periods. Here, LPs applied at CT 21 led to phase
+advances exceeding those measured during the steady-state free run. At CT 12,
+minor or no phase delays could be elicited. These findings show that the
+phase-shifting effect of LPs on the circadian system of marmosets is similar to
+that observed in other diurnal mammals. Some of the results indicate that in this
+diurnal primate, LP-induced phase shifts may be mediated in part by a
+light-induced increase in locomotor activity (arousal).
+
+DOI: 10.3109/07420529409057243 
+PMID: 7828210  [Indexed for MEDLINE]
+

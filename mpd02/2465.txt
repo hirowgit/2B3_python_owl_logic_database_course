@@ -1,0 +1,33 @@
+
+
+2465. Virology. 2007 Mar 15;359(2):382-96. Epub 2006 Nov 1.
+
+Characterization of the Epstein-Barr virus glycoprotein BMRF-2.
+
+Xiao J(1), Palefsky JM, Herrera R, Tugizov SM.
+
+Author information: 
+(1)Department of Medicine, University of California, San Francisco, USA.
+
+Epstein-Barr virus (EBV) BMRF-2 protein interaction with the beta1 family of
+integrins plays an important role in EBV infection of polarized oral epithelial
+cells. In this work, we characterized BMRF-2 protein expression in EBV-infected B
+lymphoblastoid and polarized oral epithelial cells, and in hairy leukoplakia (HL)
+epithelium. BMRF-2 expression in B cells and polarized oral epithelial cells was 
+associated with the EBV lytic infection. In these cells, BMRF-2 is efficiently
+transported to the cell membrane and its integrin binding Arg-Gly-Asp (RGD) motif
+is exposed on the cell surface. BMRF-2 is highly expressed in HL epithelium and
+accumulates at the lateral border of oral keratinocytes. In EBV-infected
+polarized oral epithelial cells, this protein is transported to the basolateral
+membranes and co-localized with beta1 integrin. These data suggest that BMRF-2
+may play an important role in cell-to-cell spread of EBV within the oral
+epithelium. BMRF-2 is glycosylated through O-linked oligosaccharides; it forms
+oligomers and is associated with the virion envelope. Its C-terminal tail is
+localized in the cytoplasm. We found that beta1, alpha5, and alpha3 integrins are
+present in purified EBV virions. We show that BMRF-2 is a ligand for beta1,
+alpha5, alpha3, and alphav integrins and our data are consistent with a role for 
+BMRF-2 in viral lytic infection.
+
+DOI: 10.1016/j.virol.2006.09.047 
+PMID: 17081581  [Indexed for MEDLINE]
+

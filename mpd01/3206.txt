@@ -1,0 +1,69 @@
+
+
+3206. Hum Immunol. 2001 Feb;62(2):125-32.
+
+Quantitation of HLA-A*0201 bound tumor associated antigens on a peptide pulsed B 
+cell line.
+
+Wataya H(1), Kamikawaji N, Nakanishi Y, Takayama K, Hara N, Sasazuki T.
+
+Author information: 
+(1)Department of Genetics, CREST (Core Research for Evolutional Science and
+Technology), Kyushu University, 812-8582, Fukuoka, Japan.
+
+CTLs recognize 8- to 10-mer peptides on MHC class I molecules. Recent studies
+have shown that human CTLs kill autologous tumor cells in an HLA-restricted and
+peptide-specific manner, and that artificial pep- tides can stimulate
+tumor-specific CTLs both in vitro and in vivo. Accordingly, several human
+clinical trials using such peptides are ongoing worldwide. In such methods, the
+amount of peptide-MHC complexes that remain on the cell surface of APCs after
+peptide administration is crucial, because CTL activation depends on the number
+of ligated TCRs and co-stimulation. However, it remains uncertain how many
+peptide-MHC complexes are reconstituted and remain on live cells after peptide
+administration. We herein examined the binding affinities of five HLA-A*0201
+restricted peptides-four TAAs and one HIV antigen-to HLA-A*0201 molecules and
+their decay rates on a live B cell line using tandem mass spectrometry. Our
+experiments showed that nearly 10(5) peptide-MHC complexes per cell could be
+reconstituted on a cell surface by pulsing a high dose of peptide even if the
+binding affinities were intermediate or low. However, the decay rates observed
+for these pep- tide-MHC complexes on a B cell line were faster than previously
+estimated.
+
+DOI: 10.1016/s0198-8859(00)00251-2 
+PMID: 11182221  [Indexed for MEDLINE]
+
+
+3207. Eur J Immunol. 2001 Feb;31(2):474-9.
+
+Characterization of the response to myelin basic protein in a non human primate
+model for multiple sclerosis.
+
+Uccelli A(1), Giunti D, Mancardi G, Caroli F, Fiorone M, Seri M, Hauser SL,
+Genain CP.
+
+Author information: 
+(1)Department of Neurological Sciences and Vision, Gaslini Institute, University 
+of Genoa, Italy. auccelli@neurologia.unige.it
+
+The common marmoset Callithrix jacchus (C. jacchus) is an outbred species
+characterized by a naturally occurring bone marrow chimerism and susceptibility
+to a form of experimental autoimmune encephalomyelitis (EAE) resembling multiple 
+sclerosis (MS). T cell clones specific for the myelin antigen, myelin basic
+protein (MBP), can be derived from both naive and immunized marmosets and can
+adoptively transfer EAE to compatible chimeric siblings. Here, we demonstrate
+that several different antigenic determinants of MBP are recognized by these
+encephalitogenic T cell clones. Furthermore, PCR-based analysis of TCR Vbeta
+families does not show the preferential usage of any gene segment.
+Characterization of third complementarity determining regions (CDR3) fails to
+demonstrate a recurring motif characteristic of the T cell immune response to MBP
+in this species. Nevertheless, brief amino acid motifs are shared among marmoset 
+clones and CDR3 sequences from MS samples. These data suggest that, due to its
+outbred condition, the C. jacchus marmoset mounts a diverse pathogenic response
+to MBP. However, the findings that certain CDR3 sequences are identically
+expressed in different animals, or by different T cell clones, suggest that
+MBP-specific T cell populations may be clonally expanded following chronic
+antigenic stimulation in vivo.
+
+DOI: 10.1002/1521-4141(200102)31:2&#60;474::aid-immu474&#62;3.0.co;2-9 
+PMID: 11180112  [Indexed for MEDLINE]
+

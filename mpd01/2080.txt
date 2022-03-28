@@ -1,0 +1,70 @@
+
+
+2080. Am J Physiol Regul Integr Comp Physiol. 2010 Jan;298(1):R70-8. doi:
+10.1152/ajpregu.00193.2009. Epub 2009 Nov 4.
+
+Pulsatile gonadotropin-releasing hormone release from hypothalamic explants of
+male marmoset monkeys compared with male rats.
+
+Woller MJ(1), Tannenbaum PL, Schultz-Darken NJ, Eshelman BD, Abbott DH.
+
+Author information: 
+(1)Biological Sciences, Univ. of Wisconsin-Whitewater, Whitewater, WI 53190-1790,
+USA. wollerm@uww.edu
+
+The present study was conducted to quantify in vitro gonadotropin-releasing
+hormone (GnRH) release parameters in the male marmoset. We established primary
+cultures of marmoset hypothalamic tissues for approximately 2 days (marmosets) to
+assess GnRH release profiles in vitro in hypothalamic explants from testis-intact
+and gonadectomized males. Pulsatile GnRH release profiles were readily
+demonstrated from in vitro hypothalamic explants isolated from adult male
+marmoset monkeys. Gonadectomy of male marmosets resulted in elevated mean GnRH
+and pulse amplitude from hypothalamic explants on the 1st day of culture (day 0).
+GnRH pulse amplitude increased by day 2 in approximately 67% of hypothalamic
+explants from testis-intact marmosets, suggesting release from an endogenous
+regulator of GnRH. We also measured GnRH release profiles in vitro in
+hypothalamic explants from testis-intact and gonadectomized rats. Male rats
+showed no changes in any concentration or frequency release parameters for GnRH
+following gonadectomy or during successive days in culture. The present study
+represents a unique examination of GnRH release from male marmoset monkey
+hypothalamic tissue and compares release dynamics directly with those obtained
+from male rat, suggesting a species difference in feedback regulation of GnRH
+release.
+
+DOI: 10.1152/ajpregu.00193.2009 
+PMCID: PMC2806204
+PMID: 19889867  [Indexed for MEDLINE]
+
+
+2081. Anim Behav. 2009 Nov;78(5):1195-1203.
+
+Motor planning for vocal production in common marmosets.
+
+Miller CT(1), Eliades SJ, Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University, School of Medicine.
+
+The vocal motor plan is one of the most fundamental and poorly understood
+elements of primate vocal production. Here we tested whether a single vocal motor
+plan comprises the full length of a vocalization. We hypothesized that if a
+single motor plan was determined at vocal onset, the acoustic features early in
+the call should be predictive of the subsequent call structure. Analyses were
+performed on two classes of features in marmoset phee calls: continuous and
+discrete. We first generated correlation matrices of all the continuous features 
+of phee calls. Results showed that the start frequency of a phee's first pulse
+significantly correlated with all subsequent spectral features. Moreover,
+significant correlations were evident within the spectral features as well as
+within the temporal features, but there was little relationship between these
+measures. Using a discrete feature, 'the number of pulses in the phee call', a
+discriminant function was able to correctly classify the number of pulses in the 
+calls well above chance based solely on the acoustic structure of the call's
+first pulse. Together, these data suggest that a vocal motor plan for the
+complete call structure is established at call onset. These findings provide a
+key insight into the mechanisms underlying vocal production in nonhuman primates.
+
+DOI: 10.1016/j.anbehav.2009.07.038 
+PMCID: PMC3755634
+PMID: 23997242 
+

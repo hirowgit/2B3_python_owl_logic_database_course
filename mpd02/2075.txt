@@ -1,0 +1,34 @@
+
+
+2075. Nat Methods. 2010 Jan;7(1):61-6. doi: 10.1038/nmeth.1403. Epub 2009 Nov 29.
+
+Nongenetic method for purifying stem cell-derived cardiomyocytes.
+
+Hattori F(1), Chen H, Yamashita H, Tohyama S, Satoh YS, Yuasa S, Li W, Yamakawa
+H, Tanaka T, Onitsuka T, Shimoji K, Ohno Y, Egashira T, Kaneda R, Murata M,
+Hidaka K, Morisaki T, Sasaki E, Suzuki T, Sano M, Makino S, Oikawa S, Fukuda K.
+
+Author information: 
+(1)Department of Regenerative Medicine and Advanced Cardiac Therapeutics, Keio
+University School of Medicine, Tokyo, Japan.
+
+Comment in
+    Nat Methods. 2010 Jan;7(1):40-2.
+
+Several applications of pluripotent stem cell (PSC)-derived cardiomyocytes
+require elimination of undifferentiated cells. A major limitation for
+cardiomyocyte purification is the lack of easy and specific cell marking
+techniques. We found that a fluorescent dye that labels mitochondria,
+tetramethylrhodamine methyl ester perchlorate, could be used to selectively mark 
+embryonic and neonatal rat cardiomyocytes, as well as mouse, marmoset and human
+PSC-derived cardiomyocytes, and that the cells could subsequently be enriched
+(>99% purity) by fluorescence-activated cell sorting. Purified cardiomyocytes
+transplanted into testes did not induce teratoma formation. Moreover, aggregate
+formation of PSC-derived cardiomyocytes through homophilic cell-cell adhesion
+improved their survival in the immunodeficient mouse heart. Our approaches will
+aid in the future success of using PSC-derived cardiomyocytes for basic and
+clinical applications.
+
+DOI: 10.1038/nmeth.1403 
+PMID: 19946277  [Indexed for MEDLINE]
+

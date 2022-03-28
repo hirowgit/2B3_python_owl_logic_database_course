@@ -1,0 +1,86 @@
+
+
+3642. J Comp Neurol. 1997 Sep 15;386(1):149-60.
+
+Brain-derived neurotrophic factor/neurotrophin-4 receptor TrkB is localized on
+ganglion cells and dopaminergic amacrine cells in the vertebrate retina.
+
+Cellerino A(1), Kohler K.
+
+Author information: 
+(1)Experimental Ophthalmology, University Eye Hospital, Tübingen, Germany.
+alessandro.cellerino@uni-tuebingen.de
+
+The tyrosine kinase TrkB is a receptor for the neurotrophic factors brain-derived
+neurotrophic factor (BDNF) and neurotrophin-4 (NT-4). Retinal ganglion cells are 
+responsive to BDNF, and TrkB has been localized in ganglion cells as well as in a
+subpopulation of amacrine cells in the retina of the chicken and the rat. In the 
+present paper, we analyzed the distribution of TrkB immunoreactivity in the
+retina of marmoset monkeys, ferrets, rabbits, rats, mice, chickens, pigeons, barn
+owls, Pseudemys turtles, Xenopus frogs, goldfishes, and carps. TrkB antibodies
+gave a positive reaction in all of these vertebrates. TrkB immunoreactivity was
+detected in the majority of retinal ganglion cells. Some amacrine cells also
+contained TrkB immunoreactivity; they were located mainly at the vitreal border
+of the inner nuclear layer, and their relative abundance varied in the different 
+species. Until now, no information has been available concerning the
+neurochemical identity of the amacrine neurons containing TrkB. In some species
+(marmoset monkeys, rats, pigeons), we observed that the morphology and location
+of TrkB-immunoreactive amacrine cells was reminiscent of that of the
+well-described dopaminergic cells. To determine whether dopaminergic amacrine
+cells contained TrkB immunoreactivity, we therefore performed double-labelling
+immunohistochemistry by using tyrosine hydroxylase (TH) antibodies in combination
+with TrkB antibodies in marmoset monkeys, rats, pigeons, Pseudemys turtles, and
+goldfishes. The most novel finding of the present paper is that, in all of these 
+species, the majority of dopaminergic neurons were found to contain TrkB
+immunoreactivity. Dopaminergic neurons, on the other hand, represented only a
+fraction of the TrkB+ amacrine cells. Our data suggest that BDNF and/or NT-4
+might modulate expression of TH in the retina and may therefore influence the
+retinal dopaminergic system. Whatever the action of TrkB ligands on the retinal
+dopaminergic system, it was conserved during vertebrate evolution.
+
+
+PMID: 9303531  [Indexed for MEDLINE]
+
+
+3643. Neuroscience. 1997 Nov;81(2):331-43.
+
+Learning impairments following injection of a selective cholinergic immunotoxin, 
+ME20.4 IgG-saporin, into the basal nucleus of Meynert in monkeys.
+
+Fine A(1), Hoyle C, Maclean CJ, Levatte TL, Baker HF, Ridley RM.
+
+Author information: 
+(1)MRC Comparative Cognition Team, Department of Experimental Psychology,
+University of Cambridge, U.K.
+
+Four groups of monkeys (Callithrix jacchus) were injected with saline or
+increasing amounts of the immunotoxin, ME20.4 IgG-saporin, directly into the
+basal nucleus of Meynert via a frontal trajectory which avoided damage to the
+overlying basal ganglia. ME20.4 IgG binds to the primate p75 low-affinity
+neurotrophin receptor, when the saporin derivitized antibody is injected into the
+basal forebrain, it selectively destroys the magnocellular neurons of the basal
+nucleus of Meynert which are the cells of origin of the cholinergic projection to
+the neocortex. The highest dose of ME20.4 IgG-saporin produced a significant
+impairment on acquisition of a perceptually difficult visual discrimination.
+There was no significant effect on retention of tasks learnt before or after
+surgery, nor on concurrent acquisition of several perceptually easy
+discriminations or serial reversal of an easy discrimination. These results
+suggest that the impairment is not due to visual, motor or motivational
+difficulties and does not consist of difficulties with the formation of reward
+associations. Rather the impairment is largely confined to acquisition of
+perceptual discriminations. There was a significant correlation between the
+density of ME20.4 immunostaining in the basal nucleus of Meynert and the density 
+of acetylcholinesterase histochemical staining in the frontal and temporal cortex
+and an inverse correlation between both of these and the degree of learning
+impairment in the animals. Lesioned animals also showed significant impairment on
+acquisition and reversal of perceptually easy discriminations when treated with a
+dose of scopolamine which did not impair performance in control animals. These
+results provide further evidence that cortical cholinergic neurotransmission
+contributes to certain forms of learning. The availability of a selective
+cholinergic immunotoxin effective in primates provides an important new tool for 
+the study of cholinergic function and its involvement in ageing, Alzheimer's
+disease and other pathological states.
+
+DOI: 10.1016/s0306-4522(97)00208-x 
+PMID: 9300425  [Indexed for MEDLINE]
+

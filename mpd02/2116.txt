@@ -1,0 +1,27 @@
+
+
+2116. Neurosci Res. 2009 Nov;65(3):312-5. doi: 10.1016/j.neures.2009.08.004. Epub 2009 
+Aug 12.
+
+Stereo Navi 2.0: software for stereotaxic surgery of the common marmoset
+(Callithrix jacchus).
+
+Tokuno H(1), Tanaka I, Umitsu Y, Nakamura Y.
+
+Author information: 
+(1)Department of Brain Structure, Tokyo Metropolitan Institute for Neuroscience, 
+Fuchu, Tokyo 183-8526, Japan. tokuno-hr@igakuken.or.jp
+
+Recently, we reported our web-accessible digital brain atlas of the common
+marmoset (Callithrix jacchus) at http://marmoset-brain.org:2008. Using digital
+images obtained during construction of this website, we developed stand-alone
+software for navigation of electrodes or injection needles for stereotaxic
+electrophysiological or anatomical experiments in vivo. This software enables us 
+to draw lines on exchangeable section images, measure the length and angle of
+lines, superimpose a stereotaxic reference grid on the image, and send the image 
+to the system clipboard. The software, Stereo Navi 2.0, is freely available at
+our brain atlas website.
+
+DOI: 10.1016/j.neures.2009.08.004 
+PMID: 19682507  [Indexed for MEDLINE]
+

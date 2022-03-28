@@ -1,0 +1,108 @@
+
+
+779. Vet Pathol. 2018 Mar;55(2):258-267. doi: 10.1177/0300985817736113. Epub 2017 Nov 
+16.
+
+Use of Immunohistochemistry to Demonstrate In Vivo Expression of the Burkholderia
+mallei Virulence Factor BpaB During Experimental Glanders.
+
+Zimmerman SM(1), Long ME(2), Dyke JS(1), Jelesijevic TP(1), Michel F(3),
+Lafontaine ER(1), Hogan RJ(1)(3).
+
+Author information: 
+(1)1 Department of Infectious Diseases, University of Georgia College of
+Veterinary Medicine, Athens, GA, USA.
+(2)2 Veterinary Teaching Hospital, University of Georgia College of Veterinary
+Medicine, Athens, GA, USA.
+(3)3 Department of Veterinary Biosciences and Diagnostic Imaging, University of
+Georgia College of Veterinary Medicine, Athens, GA, USA.
+
+Burkholderia mallei causes the highly contagious and debilitating zoonosis
+glanders, which infects via inhalation or percutaneous inoculation and often
+culminates in life-threatening pneumonia and sepsis. In humans, glanders is
+difficult to diagnose and requires prolonged antibiotic therapy with low success 
+rates. No vaccine exists to protect against B. mallei, and there is concern
+regarding its use as a bioweapon. The authors previously identified the protein
+BpaB as a potential target for devising therapies due to its role in adherence to
+host cells and the formation of biofilms in vitro and its contribution to
+pathogenicity in a mouse model of glanders. In the present study, the authors
+developed an immunostaining approach to probe tissues of experimentally infected 
+animals and demonstrated that BpaB is produced exclusively in vivo by wild-type
+B. mallei in target organs from mice and marmosets. They detected the expression 
+of BpaB by B. mallei both extracellularly and within macrophages, neutrophils,
+and epithelial cells in respiratory tissues (7/10 marmoset; 2/2 mouse). The
+authors also noted the intracellular expression of BpaB by B. mallei in
+macrophages in the regional lymph nodes of mice (2/2 tissues) and MALT of
+marmosets (4/5 tissues). It is interesting that B. mallei bacteria infecting
+distal organs did not express BpaB (2/2 mice; 3/3 marmosets), suggesting that the
+protein is not necessary for bacterial fitness in these anatomic locations. These
+findings underscore the value of BpaB as a target for developing medical
+countermeasures and provide insight into its role in pathogenesis.
+
+DOI: 10.1177/0300985817736113 
+PMCID: PMC7063225
+PMID: 29145795  [Indexed for MEDLINE]
+
+
+780. Protein Pept Lett. 2018 Feb 8;24(12):1166-1178. doi:
+10.2174/0929866524666171110093626.
+
+Experimental Autoimmune Encephalomyelitis (EAE) Model of Cynomolgus Macaques
+Induced by Recombinant Human MOG1-125 (rhMOG1-125) Protein and MOG34-56 Peptide.
+
+Peng Z(1), Zhang L(2), Wang H(3), He X(2), Peng X(2), Zhang Q(2), Liu H(2), Rao
+J(2), Wang H(2), Wu J(1), Sun Y(2).
+
+Author information: 
+(1)Minigene Pharmacy Lab, School of Life Science and Technology, China
+Pharmaceutical University, Nanjing, 210009, Jiangsu, China.
+(2)Guangdong Key Laboratory of Animal Conservation and Resource Utilization,
+Guangdong Public Laboratory of Wild Animal Conservation and Utilization,
+Guangdong Institute of Applied Biological Resources, Guangzhou, 510260, China.
+(3)Department of Pharmaceutical Engineering, School of Light Industry and
+Chemical Engineering, Guangdong University of Technology, Guangzhou , 510260,
+China.
+
+BACKGROUND: Experimental autoimmune encephalomyelitis (EAE) induced by
+self-myelin antigen is a widely used in multiple sclerosis (MS) model for
+preclinical studies of new therapeutics and potential pathogenesis. By comparison
+with rodent EAE models, EAE models in primates are more similar to MS. Some
+groups have developed EAE models in primates by using common marmoset (Callithrix
+jacchus). However, this model has some limitations. EAE in cynomolgus monkey
+(Macaque fasciculrais) could overcome these limitations.
+OBJECTIVES: The main objective of this study was to establish an ideal EAE
+cynomolgus monkey model resembling human MS by immunizing human myelin
+oligodendrocyte glycoprotein (MOG) protein.
+METHODS: In this study, six female cynomolgus monkeys were divided into two
+separate experiment groups and one monkey as the control. EAE was induced in
+cynomolgus monkey by immunizing with the recombinant human myelin oligodendrocyte
+glycoprotein extracellular domain (1-125) (rhMOG1-125) and a synthetic peptide,
+representing peptide 34-56 of human myelin oligodendrocyte glycoprotein
+(MOG34-56) in complete Freund's adjuvant (CFA) by subcutaneous multipoint
+immunization in the armpit and inguinal region and in combination with
+intravenous injection of pertussis toxin, and subsequent booster immunizations
+with the same dose of antigen in incomplete Freund's adjuvant (IFA) until the
+animals developed clinically significant EAE (score≥2). The body weight, clinical
+scores, magnetic resonance imaging (MRI), histopathology, antibody, cytokine
+profiling and antigen-specific lymphocyte proliferation were evaluated.
+RESULTS: The results showed that despite the different time intervals between
+onset and significant neurological deficits, all the cynomolgus monkeys immunized
+with rhMOG1-125 or MOG34-56 developed clinically significant acute fulminant or
+mild forms of EAE, with a success rate of 100%. The clinical courses were obvious
+heterogeneity which closely resembles MS. MOG34-56 immunization was much milder
+compared with rhMOG1-125 immunized individuals, at least in cynomolgus monkeys.
+Inflammation and demyelinated lesions were present in the brains and spinal
+cords. Immune profiling revealed high IgG levels associated with early onset of
+EAE but not the course of the disease. Significant antigen-specific T lymphocyte 
+responses against immunodominant epitopes of MOG were also detected.
+CONCLUSION: Our results indicated rhMOG1-125 and MOG34-56 could induce
+successfully EAE models resembling MS in cynomolgus monkeys. The synergistic
+action of anti-myelin T cells and Abs during the pathogenesis of EAE could
+establish a more ideal EAE model.
+
+Copyright© Bentham Science Publishers; For any queries, please email at
+epub@benthamscience.org.
+
+DOI: 10.2174/0929866524666171110093626 
+PMID: 29141529  [Indexed for MEDLINE]
+

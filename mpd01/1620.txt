@@ -1,0 +1,80 @@
+
+
+1620. PLoS One. 2012;7(12):e52787. doi: 10.1371/journal.pone.0052787. Epub 2012 Dec 27.
+
+Pre-evaluated safe human iPSC-derived neural stem cells promote functional
+recovery after spinal cord injury in common marmoset without tumorigenicity.
+
+Kobayashi Y(1), Okada Y, Itakura G, Iwai H, Nishimura S, Yasuda A, Nori S,
+Hikishima K, Konomi T, Fujiyoshi K, Tsuji O, Toyama Y, Yamanaka S, Nakamura M,
+Okano H.
+
+Author information: 
+(1)Department of Orthopedic Surgery, School of Medicine, Keio University, Tokyo, 
+Japan.
+
+Murine and human iPSC-NS/PCs (induced pluripotent stem cell-derived neural
+stem/progenitor cells) promote functional recovery following transplantation into
+the injured spinal cord in rodents. However, for clinical applicability, it is
+critical to obtain proof of the concept regarding the efficacy of grafted human
+iPSC-NS/PCs (hiPSC-NS/PCs) for the repair of spinal cord injury (SCI) in a
+non-human primate model. This study used a pre-evaluated "safe" hiPSC-NS/PC clone
+and an adult common marmoset (Callithrix jacchus) model of contusive SCI. SCI was
+induced at the fifth cervical level (C5), followed by transplantation of
+hiPSC-NS/PCs at 9 days after injury. Behavioral analyses were performed from the 
+time of the initial injury until 12 weeks after SCI. Grafted hiPSC-NS/PCs
+survived and differentiated into all three neural lineages. Furthermore,
+transplantation of hiPSC-NS/PCs enhanced axonal sparing/regrowth and
+angiogenesis, and prevented the demyelination after SCI compared with that in
+vehicle control animals. Notably, no tumor formation occurred for at least 12
+weeks after transplantation. Quantitative RT-PCR showed that mRNA expression
+levels of human neurotrophic factors were significantly higher in cultured
+hiPSC-NS/PCs than in human dermal fibroblasts (hDFs). Finally, behavioral tests
+showed that hiPSC-NS/PCs promoted functional recovery after SCI in the common
+marmoset. Taken together, these results indicate that pre-evaluated safe
+hiPSC-NS/PCs are a potential source of cells for the treatment of SCI in the
+clinic.
+
+DOI: 10.1371/journal.pone.0052787 
+PMCID: PMC3531369
+PMID: 23300777  [Indexed for MEDLINE]
+
+
+1621. PLoS One. 2012;7(12):e53357. doi: 10.1371/journal.pone.0053357. Epub 2012 Dec 28.
+
+Responses of retinal ganglion cells to extracellular electrical stimulation, from
+single cell to population: model-based analysis.
+
+Tsai D(1), Chen S, Protti DA, Morley JW, Suaning GJ, Lovell NH.
+
+Author information: 
+(1)Graduate School of Biomedical Engineering, University of New South Wales,
+Sydney, New South Wales, Australia.
+
+Retinal ganglion cells (RGCs), which survive in large numbers following
+neurodegenerative diseases, could be stimulated with extracellular electric
+pulses to elicit artificial percepts. How do the RGCs respond to electrical
+stimulation at the sub-cellular level under different stimulus configurations,
+and how does this influence the whole-cell response? At the population level, why
+have experiments yielded conflicting evidence regarding the extent of passing
+axon activation? We addressed these questions through simulations of
+morphologically and biophysically detailed computational RGC models on high
+performance computing clusters. We conducted the analyses on both large-field
+RGCs and small-field midget RGCs. The latter neurons are unique to primates. We
+found that at the single cell level the electric potential gradient in
+conjunction with neuronal element excitability, rather than the electrode center 
+location per se, determined the response threshold and latency. In addition,
+stimulus positioning strongly influenced the location of RGC response initiation 
+and subsequent activity propagation through the cellular structure. These
+findings were robust with respect to inhomogeneous tissue resistivity
+perpendicular to the electrode plane. At the population level, RGC cellular
+structures gave rise to low threshold hotspots, which limited axonal and
+multi-cell activation with threshold stimuli. Finally, due to variations in
+neuronal element excitability over space, following supra-threshold stimulation
+some locations favored localized activation of multiple cells, while others
+favored axonal activation of cells over extended space.
+
+DOI: 10.1371/journal.pone.0053357 
+PMCID: PMC3532448
+PMID: 23285287  [Indexed for MEDLINE]
+

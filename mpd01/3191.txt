@@ -1,0 +1,78 @@
+
+
+3191. J Neurochem. 2001 Mar;76(6):1879-86.
+
+Steroidogenic factor-1 expression in marmoset and rat hippocampus:
+co-localization with StAR and aromatase.
+
+Wehrenberg U(1), Prange-Kiel J, Rune GM.
+
+Author information: 
+(1)Institute of Anatomy, EMA University, Greifswald, Germany.
+wehrenbe@mail.uni-greifswald.de
+
+Steroidogenic factor-1 (SF-1), an orphan nuclear receptor, was studied with
+respect to the expression of steroidogenic enzymes in the hippocampus of rat and 
+marmoset, since SF-1 is a regulator of steroid biosynthesis in the gonads. We
+used the steroidogenic acute regulatory protein (StAR) as a marker of the first
+step in the cascade of oestrogen synthesis and aromatase as a marker of the last.
+StAR transports cholesterol to the inner mitochondrial membrane where it is
+converted by the cytochrome P-450 enzyme complex. This is the rate-limiting step 
+in steroid biosynthesis. Aromatase metabolizes testosterone to oestrogen. Using
+an anti-SF-1 antibody we show that SF-1 is highly expressed in neuronal cells of 
+the pyramidal layer (CA1--CA3) and in the dentate gyrus of rat and marmoset
+hippocampi. Binding of the antibody was seen in more than 60% of all cells in the
+pyramidal layer and in the fascia dentata. In situ hybridization studies revealed
+the same expression pattern for StAR and aromatase. StAR and aromatase-positive
+cells were strictly correlated with SF-1 as shown by computer-assisted confocal
+microscopy in double labelling experiments (immunohistochemistry and in situ
+hybridization). This coexpression may imply SF-1 as a possible regulator of
+steroidogenesis in the hippocampus. However, a few interneurones express solely
+SF-1 and aromatase but are negative for StAR. Since the expression of StAR
+represents the first step in steroidogenesis its expression is suggestive for a
+de novo synthesis of steroids. A small population of interneurones must import
+precursors for oestrogen synthesis from other sources. Responsive cells, as
+evidenced by the presence of oestrogen receptor transcripts, were also found in
+the pyramidal layer and dentate gyrus. In conclusion, (1) SF-1 could play a
+regulatory role in steroidogenesis in the hippocampus of marmoset and rat and (2)
+with respect to the capacity of steroidogenesis two populations of hippocampal
+neurones coexist.
+
+DOI: 10.1046/j.1471-4159.2001.00207.x 
+PMID: 11259506  [Indexed for MEDLINE]
+
+
+3192. Biochim Biophys Acta. 2001 Mar 9;1546(1):143-55.
+
+Assessment of P450 induction in the marmoset monkey using targeted anti-peptide
+antibodies.
+
+Schulz TG(1), Thiel R, Neubert D, Brassil PJ, Schulz-Utermoehl T, Boobis AR,
+Edwards RJ.
+
+Author information: 
+(1)Section on Clinical Pharmacology, Division of Medicine, Imperial College
+School of Medicine, Hammersmith Hospital, Du Cane Road, London W12 0NN, UK.
+
+The identity and expression of hepatic P450 enzymes in marmosets was investigated
+using a panel of anti-peptide antibodies originally targeted against human P450
+enzymes. In immunoblotting, of 12 antibodies examined, 10 bound specifically to
+bands in marmoset liver microsomal fraction corresponding to P450 enzymes. It is 
+proposed that these represent marmoset CYP1A1, CYP1A2, CYP2A, CYP2B, CYP2C forms 
+(CYP2C-1 and CYP2C-2), CYP2D19, CYP3A21 and another CYP3A form (CYP3A-m). The
+antibodies, together with an anti-marmoset CYP2E1 antibody, were used to
+investigate the expression of 10 P450 enzymes in marmosets treated with
+P450-inducing chemicals. Treatment with phenobarbitone caused CYP2B, CYP2C-2 and 
+CYP3A21 levels to increase, rifampicin caused increases in CYP2B and CYP2C-1 and 
+a decrease in CYP3A21 levels, whereas dioxin caused CYP1A1 and CYP1A2 levels to
+increase and CYP2E1 levels to decrease. Clofibric acid did not induce any P450.
+P450 enzyme activities were assessed using 8 different substrates and increases
+were found after treatment with phenobarbitone, rifampicin, and dioxin. However, 
+due to species differences in substrate selectivity, it proved difficult to
+ascribe these changes to individual P450 enzymes. Thus, the use of anti-peptide
+antibodies provides a more informative way of assessing the levels of specific
+P450 enzymes than enzyme activity measurements.
+
+DOI: 10.1016/s0167-4838(01)00134-0 
+PMID: 11257517  [Indexed for MEDLINE]
+

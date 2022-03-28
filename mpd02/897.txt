@@ -1,0 +1,38 @@
+
+
+897. IEEE Trans Ultrason Ferroelectr Freq Control. 2017 May;64(5):798-810. doi:
+10.1109/TUFFC.2017.2681695. Epub 2017 Mar 13.
+
+Targeting Effects on the Volume of the Focused Ultrasound-Induced Blood-Brain
+Barrier Opening in Nonhuman Primates In Vivo.
+
+Karakatsani MEM, Samiotaki GM, Downs ME, Ferrera VP, Konofagou EE.
+
+Drug delivery to subcortical regions is susceptible to the blood-brain barrier
+(BBB) impeding the molecular exchange between the blood stream and the brain
+parenchyma. Focused ultrasound (FUS) coupled with the administration of
+microbubbles has been proved to open the BBB locally, transiently, and
+noninvasively both in rodents and in nonhuman-primates (NHPs). The development of
+this disruption technique independent of MRI monitoring is of primordial
+importance yet restrained to the targeting optimization. This paper establishes
+the linear relationship of the incidence angle with the volume of BBB opening (
+VBBB ) and the peak negative pressure when sonicating the caudate nucleus and the
+putamen region of five NHPs. In addition, the effect of central nervous system
+structures on the opening morphology is evaluated by identification of the
+gray-to-white-matter ratio at the opening site. Finally, the targeting accuracy
+is assessed through the estimation of the geometric and angle shift of the
+opening from the targeted region. Interestingly, results prove a monotonic
+increase of the opening volume with close to normal incidence angles. Moreover,
+80.35% of the opening lies on gray-matter regions compared with only 19.41%
+attributed to the white matter. The opening was found to be shifted axially,
+toward the transducer, and laterally with an average angle shift of 4.5°.
+Finally, we were capable of showing reproducibility of targeting accuracy with
+the same stereotactic and ultrasonic parameters. This paper documents the a
+priori prediction of the opening volume through manipulation of the angle and
+pressure as well as establishing the predictability, accuracy, and safety of
+FUS-induced BBB opening in NHPs.
+
+DOI: 10.1109/TUFFC.2017.2681695 
+PMCID: PMC5542068
+PMID: 28320656  [Indexed for MEDLINE]
+

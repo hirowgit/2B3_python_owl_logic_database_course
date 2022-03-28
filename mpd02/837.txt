@@ -1,0 +1,44 @@
+
+
+837. Neurophotonics. 2017 Oct;4(4):041502. doi: 10.1117/1.NPh.4.4.041502. Epub 2017
+Jul 12.
+
+Utah optrode array customization using stereotactic brain atlases and 3-D CAD
+modeling for optogenetic neocortical interrogation in small rodents and nonhuman 
+primates.
+
+Boutte RW(1)(2), Merlin S(3), Yona G(4), Griffiths B(2), Angelucci A(3), Kahn
+I(4), Shoham S(4), Blair S(1).
+
+Author information: 
+(1)University of Utah, Department of Electrical and Computer Engineering, Salt
+Lake City, Utah, United States.
+(2)Northrop Grumman Corporation, Salt Lake City, Utah, United States.
+(3)University of Utah, Moran Eye Institute, Department of Ophthalmology, Salt
+Lake City, Utah, United States.
+(4)Technion-Israel Institute of Technology, Haifa, Israel.
+
+As the optogenetic field expands, the need for precise targeting of neocortical
+circuits only grows more crucial. This work demonstrates a technique for using
+Solidworks® computer-aided design (CAD) and readily available stereotactic brain 
+atlases to create a three-dimensional (3-D) model of the dorsal region of area
+visual cortex 4 (V4D) of the macaque monkey (Macaca fascicularis) visual cortex. 
+The 3-D CAD model of the brain was used to customize an [Formula: see text] Utah 
+optrode array (UOA) after it was determined that a high-density ([Formula: see
+text]) UOA caused extensive damage to marmoset (Callithrix jacchus) primary
+visual cortex as assessed by electrophysiological recording of spiking activity
+through a 1.5-mm-diameter through glass via. The [Formula: see text] UOA was
+customized for optrode length ([Formula: see text]), optrode width ([Formula: see
+text]), optrode pitch ([Formula: see text]), backplane thickness ([Formula: see
+text]), and overall form factor ([Formula: see text]). Two [Formula: see text]
+UOAs were inserted into layer VI of macaque V4D cortices with minimal damage as
+assessed in fixed tissue cytochrome oxidase staining in nonrecoverable surgeries.
+Additionally, two [Formula: see text] arrays were implanted in mice (Mus
+musculus) motor cortices, providing early evidence for long-term tolerability
+(over 6 months), and for the ability to integrate the UOA with a Holobundle light
+delivery system toward patterned optogenetic stimulation of cortical networks.
+
+DOI: 10.1117/1.NPh.4.4.041502 
+PMCID: PMC5506344
+PMID: 28721358 
+

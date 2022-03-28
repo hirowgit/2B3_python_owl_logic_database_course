@@ -1,0 +1,49 @@
+
+
+3748. Eur J Biochem. 1996 Oct 15;241(2):374-85.
+
+Molecular basis of the variable mitochondrial and peroxisomal localisation of
+alanine-glyoxylate aminotransferase.
+
+Oatey PB(1), Lumb MJ, Danpure CJ.
+
+Author information: 
+(1)MRC Laboratory for Molecular Cell Biology, University College London, UK.
+
+The molecular basis of the variable species-specific peroxisomal and/or
+mitochondrial targeting of the enzyme alanine-glyoxylate aminotransferase 1 (AGT)
+has been studied in human fibroblasts by confocal immunofluorescence microscopy
+after intranuclear microinjection of various human, rabbit, marmoset, and feline 
+AGT cDNA constructs. The expression of full-length human and rabbit AGT cDNA led 
+to an exclusively peroxisomal distribution of AGT. However, the distribution of
+feline and marmoset AGT depended on the cDNA construct injected. In both species,
+injection of the short cDNAs (from transcripts that occur naturally in marmoset
+liver but not in feline liver) led to an exclusively peroxisomal distribution.
+However, injection of the long cDNAs (from transcripts that occur naturally in
+both species) led to most of the AGT being targeted to the mitochondria and only 
+a small, yet significant, fraction to the peroxisomes. Reintroduction of the
+'ancestral' first potential translation initiation site into human AGT cDNA led
+to an 'ancestral' distribution of AGT (i.e. both mitochondrial and peroxisomal). 
+Deletion of the second potential translation start site from the long feline cDNA
+led to a distribution that was almost entirely mitochondrial, which suggests that
+most peroxisomal AGT encoded by the long cDNA results from internal translation
+initiation from this site with the consequent loss of the N-terminal
+mitochondrial targeting sequence. Expression of rabbit cDNA and the short
+marmoset and feline cDNAs in cells selectively deficient in the import of
+peroxisomal matrix proteins showed that peroxisomal AGT in all these species is
+imported via the peroxisomal targeting sequence type 1 (PTS1) import pathway. The
+almost complete functional dominance of the N-terminal mitochondrial targeting
+sequence over the C-terminal PTS. which was not due to any direct interference of
+the former with peroxisomal import, was maintained even when the unusual PTS1 of 
+AGT (KKL in human) was replaced by the prototypical PTS1 SKL. The results
+demonstrate that the major determinant of alanine-glyoxylate aminotransferase
+subcellular distribution in mammals is the presence or absence of the
+mitochondrial targeting sequence rather than the peroxisomal targeting sequence. 
+Various strategies have arisen during the evolution of mammals to enable the
+exclusion of the mitochondrial targeting sequence from the newly synthesised
+polypeptide, all of which involve the use of alternative transcription and/or
+translation initiation sites.
+
+DOI: 10.1111/j.1432-1033.1996.00374.x 
+PMID: 8917433  [Indexed for MEDLINE]
+

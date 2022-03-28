@@ -1,0 +1,22 @@
+
+
+4028. Pharmacol Biochem Behav. 1994 Apr;47(4):879-81.
+
+A simple automated test to measure exploratory and motor activity of marmosets.
+
+Wolthuis OL(1), Groen B, Philippens IH.
+
+Author information: 
+(1)Medical Biological Laboratory TNO, Rijswijk, The Netherlands.
+
+An automated device is described to test the exploratory and motor activity of
+common marmosets (Callithrix jacchus). The device consists of four boxes
+interconnected by PVC tubes. The presence of an animal in a box is detected by a 
+photocell. Calibration takes place with an electric model train. Movements of the
+animal from one box to another are detected by disappearance from one and
+appearance in another box. The apparatus is linked to a PC. The effects of two
+doses of methamphetamine and of pentobarbital are shown.
+
+DOI: 10.1016/0091-3057(94)90291-7 
+PMID: 8029258  [Indexed for MEDLINE]
+

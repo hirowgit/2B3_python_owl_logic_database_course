@@ -1,0 +1,82 @@
+
+
+2372. J Mol Endocrinol. 2007 Aug;39(2):91-104.
+
+Gene structure and promoter functional analysis of the marmoset type II GnRH
+receptor.
+
+Faurholm B(1), Cochrane S, Millar RR, Katz AA.
+
+Author information: 
+(1)MRC/UCT Research Group for Receptor Biology, Institute of Infectious Disease
+and Molecular Medicine, Faculty of Health Sciences, University of Cape Town, Cape
+Town, Observatory 7925, South Africa.
+
+The marmoset type II GnRH receptor (GnRH-R) gene has the same structure and
+genomic organisation as the human and other type II GnRH-R genes. The gene
+consists of three exons and two introns and overlaps in the antisense orientation
+on its 5' end with peroxisomal membrane protein 11beta and on its 3' end with the
+RNA-binding motif protein 8A. However, these genes occur only at one locus in the
+marmoset genome, while in the human at two loci. Employing 5' rapid amplification
+of cDNA ends demonstrated that the marmoset type II GnRH-R gene has two
+transcriptional start sites at -341 and -567 nucleotides relative to the
+translational start codon and both start sites lack TATA and CAAT consensus
+sequences. A luciferase reporter construct with a 2.3 kb 5' flanking region of
+the type II GnRH-R gene was active in a wide variety of cell lines tested,
+consistent with the wide tissue expression of the receptor. Progressive 5' and 3'
+deletions were employed to identify sequences required for basal expression of
+the type II GnRH-R gene. This analysis identified negative regulatory elements in
+the regions -2342/-1995, -1679/-1084 and -458/-1 and positive regulatory elements
+in the regions -1995/-1679, -1084/-458 and -458/-1 relative to the translational 
+start site. The strongest of the positive regions located between -766/-665 has
+enhancer activity when cloned in front of a heterologous minimal promoter and is 
+critical for basal expression of the type II GnRH-R.
+
+DOI: 10.1677/JME-06-0064 
+PMID: 17693609  [Indexed for MEDLINE]
+
+
+2373. J Comp Neurol. 2007 Oct 1;504(4):427-39.
+
+Molecular, cellular, and functional characterizations of pituitary adenylate
+cyclase-activating polypeptide and its receptors in the cerebellum of New and Old
+World monkeys.
+
+Aubert N(1), Basille M, Falluel-Morel A, Vaudry D, Bucharles C, Jolivel V, Fisch 
+C, De Jouffrey S, Le Bigot JF, Fournier A, Vaudry H, Gonzalez BJ.
+
+Author information: 
+(1)Institut National de la Santé et de la Recherche Médicale (INSERM) U413,
+Laboratory of Cellular and Molecular Neuroendocrinology, European Institute for
+Peptide Research (IFRMP 23), University of Rouen, 76821 Mont-Saint-Aignan,
+France.
+
+The neuropeptide pituitary adenylate cyclase-activating polypeptide (PACAP)
+exerts trophic activities during cerebellar development, and a neuroprotective
+effect of PACAP has been demonstrated in pathological conditions such as stroke. 
+However, all these data have been obtained in rodents, and neuroprotective
+effects of PACAP in primates remain unknown. Because of their evolutionary
+relationships with humans, monkeys represent powerful models for validating the
+therapeutic interest in PACAP. The objective of the present study was to
+characterize PACAP and its receptors in the cerebellum of two nonhuman primates. 
+RT-PCR and in situ hybridization experiments revealed that PACAP is expressed in 
+the cerebellum by Purkinje cells. Via immunohistochemistry, PACAP was detected in
+Purkinje cells and radial glial fibers. With regard to PACAP receptors, PAC1-R
+and VPAC1-R were detected by RT-PCR. In situ hybridization revealed a strong
+expression of PAC1-R and VPAC1-R in the granule cell layer (GCL), and VPAC1-R was
+also expressed in the Purkinje cell layer. A high density of PACAP binding sites 
+was visualized in the GCL and the Purkinje cell layer. Competition studies
+indicated that, in the GCL, PACAP induced complete displacement of
+[(125)I]PACAP27 binding, whereas vasoactive intestinal polypeptide (VIP) was a
+weak competitor. In contrast, in the Purkinje cell layer, both PACAP and VIP
+displaced [(125)I]PACAP27 binding. Measurement of cAMP levels showed that PACAP
+is a powerful activator of adenylyl cyclase, whereas VIP is about 100-fold less
+potent. Altogether, these observations constitute the first demonstration of a
+functional PACAPergic system in monkey cerebellum. They strongly suggest that
+neuroprotective effects of PACAP can be transposed to primates, including human.
+
+(c) 2007 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.21451 
+PMID: 17663433  [Indexed for MEDLINE]
+

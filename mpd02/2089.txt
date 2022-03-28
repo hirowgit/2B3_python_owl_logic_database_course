@@ -1,0 +1,37 @@
+
+
+2089. Eur J Neurosci. 2009 Oct;30(8):1517-26. doi: 10.1111/j.1460-9568.2009.06939.x.
+Epub 2009 Oct 12.
+
+Segregation of short-wavelength-sensitive (S) cone signals in the macaque dorsal 
+lateral geniculate nucleus.
+
+Roy S(1), Jayakumar J, Martin PR, Dreher B, Saalmann YB, Hu D, Vidyasagar TR.
+
+Author information: 
+(1)Department of Optometry & Vision Sciences, University of Melbourne, Carlton,
+Vic. 3053, Australia.
+
+An important problem in the study of the mammalian visual system is whether
+functionally different retinal ganglion cell types are anatomically segregated
+further up along the central visual pathway. It was previously demonstrated that,
+in a New World diurnal monkey (marmoset), the neurones carrying signals from the 
+short-wavelength-sensitive (S) cones [blue-yellow (B/Y)-opponent cells] are
+predominantly located in the koniocellular layers of the dorsal lateral
+geniculate nucleus (LGN), whereas the red-green (R/G)-opponent cells carrying
+signals from the medium- and long-wavelength-sensitive cones are segregated in
+the parvocellular layers. Here, we used extracellular single-unit recordings
+followed by histological reconstruction to investigate the distribution of
+color-selective cells in the LGN of the macaque, an Old World diurnal monkey.
+Cells were classified using cone-isolating stimuli to identify their cone inputs.
+Our results indicate that the majority of cells carrying signals from S-cones are
+located either in the koniocellular layers or in the 'koniocellular bridges' that
+fully or partially span the parvocellular layers. By contrast, the R/G-opponent
+cells are located in the parvocellular layers. We conclude that anatomical
+segregation of B/Y- and R/G-opponent afferent signals for color vision is common 
+to the LGNs of New World and Old World diurnal monkeys.
+
+DOI: 10.1111/j.1460-9568.2009.06939.x 
+PMCID: PMC2777259
+PMID: 19821840  [Indexed for MEDLINE]
+

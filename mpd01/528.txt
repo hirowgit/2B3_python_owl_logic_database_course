@@ -1,0 +1,88 @@
+
+
+528. Neuroimage. 2019 Jun;193:126-138. doi: 10.1016/j.neuroimage.2019.03.023. Epub
+2019 Mar 15.
+
+Integrated radiofrequency array and animal holder design for minimizing head
+motion during awake marmoset functional magnetic resonance imaging.
+
+Schaeffer DJ(1), Gilbert KM(1), Hori Y(1), Gati JS(1), Menon RS(2), Everling
+S(3).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada.
+(2)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada; Department of Physiology 
+and Pharmacology, University of Western Ontario, London, Ontario, Canada.
+(3)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada; Department of Physiology 
+and Pharmacology, University of Western Ontario, London, Ontario, Canada.
+Electronic address: severlin@uwo.ca.
+
+Marmosets are small New World primates that are posited to become an important
+preclinical animal model for studying intractable human brain diseases. A
+critical step in the development of marmosets as a viable model for human brain
+dysfunction is to characterize brain networks that are homologous with human
+network topologies. In this regard, the use of functional magnetic resonance
+imaging (fMRI) holds tremendous potential for functional brain mapping in
+marmosets. Although possible, implementation of hardware for fMRI in awake
+marmosets (free of the confounding effects of anesthesia) is not trivial due to
+the technical challenges associated with developing specialized imaging hardware.
+Here, we describe the design and implementation of a marmoset holder and
+head-fixation system with an integrated receive coil for awake marmoset fMRI.
+This design minimized head motion, with less than 100  μm of translation and 0.5 
+degrees of rotation over 15 consecutive resting state fMRI runs (at 15 min each) 
+across 3 different marmosets. The fMRI data was of sufficient quality to reliably
+extract 8 resting state networks from each animal with only 60-90 min of resting 
+state fMRI acquisition per animal. The restraint system proved to be an efficient
+and practical solution for securing an awake marmoset and positioning a receive
+array within minutes, limiting stress to the animal. This design is also amenable
+for multimodal imaging, allowing for electrode or lens placement above the skull 
+via the open chamber design. All computer-aided-design (CAD) files and
+engineering drawings are provided as an open resource, with the majority of the
+parts designed to be 3D printed.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2019.03.023 
+PMID: 30879997  [Indexed for MEDLINE]
+
+
+529. Mol Ther. 2019 Apr 10;27(4):878-889. doi: 10.1016/j.ymthe.2019.03.001. Epub 2019 
+Mar 6.
+
+Improved Efficacy in a Fabry Disease Model Using a Systemic mRNA Liver Depot
+System as Compared to Enzyme Replacement Therapy.
+
+DeRosa F(1), Smith L(1), Shen Y(2), Huang Y(2), Pan J(2), Xie H(2), Yahalom B(3),
+Heartlein MW(4).
+
+Author information: 
+(1)Translate Bio, Lexington, MA 02141, USA.
+(2)Shire Pharmaceuticals, Lexington, MA 02141, USA.
+(3)Biomere, Worcester, MA 01608, USA.
+(4)Translate Bio, Lexington, MA 02141, USA. Electronic address:
+mheartlein@translate.bio.
+
+Fabry disease is a lysosomal storage disorder caused by the deficiency of
+α-galactosidase A. Enzyme deficiency results in a progressive decline in renal
+and cardiac function, leading to cardiomyopathy and end-stage renal disease.
+Current treatments available, including enzyme replacement therapies, have
+provided significant benefit to patients; however, unmet medical needs remain.
+mRNA therapy, with drug-like properties, has the unique ability to produce
+therapeutic proteins endogenously. Here we describe the sustained delivery of
+therapeutic human α-galactosidase protein in vivo via nanoparticle-formulated
+mRNA in mouse and non-human primate, with a demonstration of efficacy through
+clinically relevant biomarker reduction in a mouse Fabry disease model.
+Multi-component nanoparticles formulated with lipids and lipid-like materials
+were developed for the delivery of mRNA encoding human α-galactosidase protein.
+Upon delivery of human GLA mRNA to mice, serum GLA protein levels reached as high
+as ∼1,330-fold over normal physiological values.
+
+Copyright © 2019 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ymthe.2019.03.001 
+PMCID: PMC6453518
+PMID: 30879951  [Indexed for MEDLINE]
+

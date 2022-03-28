@@ -1,0 +1,43 @@
+
+
+789. Biopharm Drug Dispos. 2018 Jan;39(1):59-63. doi: 10.1002/bdd.2111. Epub 2017 Dec 
+11.
+
+Molecular cloning and tissue distribution of a novel marmoset ABC transporter.
+
+Uehara S(1), Uno Y(2), Inoue T(3), Sasaki E(3)(4), Yamazaki H(1).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, 194-8543, Japan.
+(2)Pharmacokinetics and Bioanalysis Center, Shin Nippon Biomedical Laboratories, 
+Ltd, Kainan, Wakayama, Japan.
+(3)Department of Marmoset Research, Central Institute for Experimental Animals,
+Kawasaki, Japan.
+(4)Keio Advanced Research Center, Keio University, Minato-ku, Tokyo, Japan.
+
+Common marmosets (Callithrix jacchus) have been recognized as a useful small
+non-human primate model in preclinical testing for drug development. In this
+study, a cDNA of novel ATP-dependent efflux transporter ABCB1 was cloned from
+marmoset liver tissue. Marmoset ABCB1 cDNA encodes a protein of 1279 amino acid
+residues (MW = 141.4 kDa) containing characteristic regions of an ATP-binding
+cassette (ABC) protein, two hydrophobic transmembrane regions and two cytoplasmic
+nucleotide-binding regions, similar to human ABCB1. The deduced amino acid
+sequences were more highly identical (95%) to those of human ABCB1 compared with 
+non-primate species such as dogs, pigs and rodents (79-90%). A close evolutionary
+relationship of ABCB1 among marmosets, cynomolgus and rhesus monkeys and humans
+was evident from a phylogenetic analysis using ABCB1 amino acid sequences from
+primates, dogs, pigs and rodents. Tissue distribution analyses by quantitative
+reverse transcription-polymerase chain reaction indicated that marmoset ABCB1
+mRNA was most abundant in kidneys, followed by small intestines and livers,
+similar to human ABCB1, and marmoset ABCB1 proteins in these tissues were also
+detected by immunoblotting. These results indicated that the primary structure
+and tissue distribution of ABCB1 in marmosets were similar to those of humans,
+suggesting similar molecular characteristics of ABCB1 between marmosets and
+humans.
+
+Copyright © 2017 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/bdd.2111 
+PMID: 29059459  [Indexed for MEDLINE]
+

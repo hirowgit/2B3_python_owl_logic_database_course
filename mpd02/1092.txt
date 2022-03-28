@@ -1,0 +1,43 @@
+
+
+1092. Xenobiotica. 2016 Dec;46(12):1049-1055. Epub 2016 Feb 25.
+
+Human plasma concentrations of cytochrome P450 probe cocktails extrapolated from 
+pharmacokinetics in mice transplanted with human hepatocytes and from
+pharmacokinetics in common marmosets using physiologically based pharmacokinetic 
+modeling.
+
+Utoh M(1)(2), Suemizu H(3), Mitsui M(1), Kawano M(1), Toda A(2), Uehara S(1), Uno
+Y(2), Shimizu M(1), Sasaki E(4), Yamazaki H(1).
+
+Author information: 
+(1)a Laboratory of Drug Metabolism and Pharmacokinetics , Showa Pharmaceutical
+University , Machida , Japan.
+(2)b Pharmacokinetics and Bioanalysis Center, Shin Nippon Biomedical
+Laboratories, Ltd , Kainan , Japan.
+(3)c Laboratory of Animal Research Department , and.
+(4)d Marmoset Research Department, Central Institute for Experimental Animals ,
+Kawasaki , Japan.
+
+1. The pharmacokinetic data of cytochrome P450 probes in humans can be
+extrapolated from corresponding data in cynomolgus monkeys, dogs and minipigs
+using simplified physiologically based pharmacokinetic (PBPK) modeling. In this
+study, the modeling methodology was further adapted to estimate human plasma
+concentrations of P450 probes based on data from mice transplanted with human
+hepatocytes or based on data from marmosets. 2. Using known species allometric
+scaling factors, the observed plasma concentrations of caffeine, warfarin,
+omeprazole, metoprolol, and midazolam in chimeric TK-NOG mice with humanized
+liver were scaled to human oral monitoring equivalents. Using the same approach, 
+the previously reported pharmacokinetics of the five P450 probes in marmosets
+were also scaled to reported equivalents in humans using in vitro metabolic
+clearance data. 3. Human plasma concentration profiles of the five P450 probes
+estimated by simplified human PBPK models based on the observed pharmacokinetics 
+in mice with humanized liver and on the reported pharmacokinetics in marmosets
+were consistent with previously published pharmacokinetic data in Caucasians.
+4. These results suggest that mice with humanized liver and/or marmosets could be
+suitable pharmacokinetic models for humans during research into new drugs,
+especially when used in combination with simple PBPK models.
+
+DOI: 10.3109/00498254.2016.1147102 
+PMID: 26916082  [Indexed for MEDLINE]
+

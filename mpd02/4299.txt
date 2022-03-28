@@ -1,0 +1,24 @@
+
+
+4299. J Chromatogr. 1991 Aug 21;554(1-2):175-80.
+
+Thermospray liquid chromatography-mass spectrometry for the characterisation of
+sulphate ester conjugates.
+
+Bowers GD(1), Higton DM, Manchee GR, Oxford J, Saynor DA.
+
+Author information: 
+(1)Department of Biochemical Pharmacology, Glaxo Group Research Limited,
+Hertfordshire, UK.
+
+Formation of polar conjugates is a well documented metabolic pathway for
+xenobiotics containing phenolic hydroxyl groups. This paper describes the
+analysis of two sulphate ester conjugates by fast atom bombardment mass
+spectrometry and thermospray liquid chromatography-mass spectrometry. Thermospray
+liquid chromatography-mass spectrometry proved the more successful technique for 
+obtaining the molecular weight of the intact conjugate, but only by removal of
+the buffer from the high-performance liquid chromatography eluent.
+
+DOI: 10.1016/s0021-9673(01)88447-8 
+PMID: 1839028  [Indexed for MEDLINE]
+

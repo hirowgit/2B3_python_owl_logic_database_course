@@ -1,0 +1,85 @@
+
+
+988. Zoolog Sci. 2016 Oct;33(5):497-504.
+
+Molecular Cloning of Ghrelin and Characteristics of Ghrelin-Producing Cells in
+the Gastrointestinal Tract of the Common Marmoset (Callithrix jacchus).
+
+Takemi S(1), Sakata I(1), Apu AS(1), Tsukahara S(2), Yahashi S(3), Katsuura G(4),
+Iwashige F(3), Akune A(3), Inui A(4), Sakai T(2).
+
+Author information: 
+(1)1 Area of Regulatory Biology, Division of Life Science, Graduate School of
+Science and Engineering,Saitama University, 255 Shimo-okubo, Sakura-ku, Saitama
+338-8570, Japan.
+(2)2 Area of Life-NanoBio, Division of Strategy Research, Graduate School of
+Science and Engineering,Saitama University, 255 Shimo-okubo, Sakura-ku, Saitama
+338-8570, Japan.
+(3)3 Drug Safety Research Laboratories, Shin Nippon Biomedical Laboratories, Ltd.
+(SNBL DSR),2438 Miyanoura, Kagoshima 891-1394, Japan.
+(4)4 Graduate School of Medical and Dental Sciences, Kagoshima
+University,Kagoshima 890-8544, Japan.
+
+Ghrelin was first isolated from human and rat as an endogenous ligand for the
+growth hormone secretagogue receptor (GHS-R). In the present study, we determined
+the ghrelin cDNA sequence of the common marmoset (Callithrix jacchus), a
+small-bodied New World monkey, and investigated the distribution of
+ghrelin-producing cells in the gastrointestinal tract and localization profiles
+with somatostatin-producing cells. The marmoset ghrelin cDNA coding region was
+354 base pairs, and showed high homology to that in human, rhesus monkey, and
+mouse. Marmoset ghrelin consists of 28 amino acids, and the N-terminal region is 
+highly conserved as found in other mammalian species. Marmoset preproghrelin and 
+mature ghrelin have 86.3% and 92.9% homology, respectively, to their human
+counterparts. Quantitative RT-PCR analysis showed that marmoset ghrelin mRNA is
+highly expressed in the stomach, but it is not detected in other tissues of the
+gastrointestinal tract. In addition, a large number of ghrelin mRNA-expressing
+cells and ghrelin-immunopositive cells were detected in the mucosal layer of the 
+stomach, but not in the myenteric plexus. Moreover, all the ghrelin cells
+examined in the stomach were observed to be closed-type. Double staining showed
+that somatostatin-immunopositive cells were not co-localized with
+ghrelin-producing cells; however, a subset of somatostatin-immunopositive cells
+is directly adjacent to ghrelin-immunopositive cells. These findings suggest that
+the distribution of ghrelin cells in marmoset differs from that in rodents, and
+thus the marmoset may be a more useful model for the translational study of
+ghrelin in primates. In conclusion, we have clarified the expression and cell
+distribution of ghrelin in marmoset, which may represent a useful model in
+translational study.
+
+DOI: 10.2108/zs160020 
+PMID: 27715422  [Indexed for MEDLINE]
+
+
+989. Sci Rep. 2016 Oct 6;6:34543. doi: 10.1038/srep34543.
+
+ERK/c-Jun Recruits Tet1 to Induce Zta Expression and Epstein-Barr Virus
+Reactivation through DNA Demethylation.
+
+Zhang W(1), Han D(1), Wan P(1), Pan P(1), Cao Y(1), Liu Y(1), Wu K(1), Wu J(1).
+
+Author information: 
+(1)State Key Laboratory of Virology and College of Life Sciences, Wuhan
+University, Wuhan 430072, China.
+
+DNA demethylation plays an essential role in the reactivation of Epstein-Barr
+virus (EBV) from latency infection. However, it is unclear how epigenetic
+modification is initiated in responding to stimuli. Here, we demonstrate that
+ERK/c-Jun signaling is involved in DNA demethylation of EBV immediate early (IE) 
+gene Zta in response to 12-O-Tetradecanoylphorbol-13-acetate (TPA) stimulation.
+Remarkably, Ser73 phosphorylation of c-Jun facilitates Zta promoter demethylation
+and EBV reactivation, whereas knockdown of c-Jun attenuates Zta demethylation and
+viral reactivation. More importantly, we reveal for the first time that c-Jun
+interacts with DNA dioxygenase Tet1 and facilitates Tet1 to bind to Zta promoter.
+The binding of c-Jun and Tet1 to Zta enhances promoter demethylation, resulting
+in the activation of Zta, the stimulation of BHRF1 (a lytic early gene) and
+gp350/220 (a lytic late gene), and ultimately the reactivation of EBV. Knockdown 
+of Tet1 attenuates TPA-induced Zta demethylation and EBV reactivation. Thus, TPA 
+activates ERK/c-Jun signaling, which subsequently facilitates Tet1 to bind to Zta
+promoter, leading to DNA demethylation, gene expression, and EBV reactivation.
+This study reveals important roles of ERK/c-Jun signaling and Tet1 dioxygenase in
+epigenetic modification, and provides new insights into the mechanism underlying 
+the regulation of virus latent and lytic infection.
+
+DOI: 10.1038/srep34543 
+PMCID: PMC5052586
+PMID: 27708396  [Indexed for MEDLINE]
+

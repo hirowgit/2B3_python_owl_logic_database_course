@@ -1,0 +1,78 @@
+
+
+2831. J Neurophysiol. 2004 Aug;92(2):1067-76. Epub 2004 Apr 7.
+
+Sense of taste in a New World monkey, the common marmoset. II. Link between
+behavior and nerve activity.
+
+Danilova V(1), Hellekant G.
+
+Author information: 
+(1)Dept. of Animal Health and Biomedical Sciences, University of
+Wisconsin-Madison, 1655 Linden Drive, Madison, WI 53706, USA.
+
+In a previous study, we characterized the gustatory system of a New World monkey 
+the common marmoset, Callithrix jacchus jacchus, with electrophysiological
+techniques by recording from taste fibers of the chorda tympani proper (CT) and
+glossopharyngeal (NG) nerves. Hierarchical cluster analysis identified three
+clusters of taste fibers: S fibers, responding predominantly to sweeteners, Q
+fibers, responding predominantly to bitter stimuli, and H fibers, responding
+predominantly to acids. In this study, we employed two behavioral techniques, the
+two-bottle preference (TBP) and conditioned taste aversion (CTA), to study the
+taste of the compounds used in the previous electrophysiological study. The
+results showed that compounds that did not stimulate any taste fibers were
+neither preferred nor rejected. Compounds that activated only S fibers were
+always preferred over water. When aversion to sucrose was created by the CTA
+method, these compounds were rejected. Compounds that activated Q fibers were
+rejected and consumed less than water. We studied the relationship between intake
+and net response from S and Q fibers in the CT and NG nerves. Intake was measured
+as a preference ratio in TBP test. The net response was defined as: (S(CT) +
+S(NG)) - (Q(CT) + Q(NG)), where S(CT) + S(NG) denotes the sum of the responses in
+S fibers of the CT and NG nerves. Similarly, Q(CT) + Q(NG) represents the sum of 
+the responses in Q fibers of the CT and NG nerves. The relationship between
+intake and the Net response was linear with a Pearson correlation coefficient
+0.85. This study supports our hypothesis that intake is influenced by S and Q
+fibers, where S fibers serve as a hedonically positive input and Q fibers as a
+hedonically negative input.
+
+DOI: 10.1152/jn.01183.2003 
+PMID: 15071088  [Indexed for MEDLINE]
+
+
+2832. Anim Cogn. 2004 Apr;7(2):77-85. Epub 2003 Sep 16.
+
+Testing for social learning and imitation in common marmosets, Callithrix
+jacchus, using an artificial fruit.
+
+Caldwell CA(1), Whiten A.
+
+Author information: 
+(1)Centre for Social Learning and Cognitive Evolution and Scottish Primate
+Research Group, University of St Andrews, KY16 9JU, St Andrews, Fife, Scotland.
+C.A.Caldwell@exeter.ac.uk
+
+We tested for social learning and imitation in common marmosets using an
+artificial foraging task and trained conspecific demonstrators. We trained a
+demonstrator marmoset to open an artificial fruit, providing a full demonstration
+of the task to be learned. Another marmoset provided a partial demonstration,
+controlling for stimulus enhancement effects, by eating food from the outside of 
+the apparatus. We thus compared three observer groups, each consisting of four
+animals: those that received the full demonstration, those that received the
+partial demonstration, and a control group that saw no demonstration prior to
+testing. Although none of the observer marmosets succeeded in opening the
+artificial fruit during the test periods, there were clear effects of
+demonstration type. Those that saw the full demonstration manipulated the
+apparatus more overall, whereas those from the control group manipulated it the
+least of the three groups. Those from the full-demonstration group also contacted
+the particular parts of the artificial fruit that they had seen touched
+(localised stimulus enhancement) to a greater extent than the other two groups.
+There was also an interaction between the number of hand and mouth touches made
+to the artificial fruit for the full- and partial-demonstration groups. Whether
+or not these data represent evidence for imitation is discussed. We also propose 
+that the clear differences between the groups suggest that social learning
+mechanisms provide real benefits to these animals in terms of developing novel
+food-processing skills analogous to the one presented here.
+
+DOI: 10.1007/s10071-003-0192-9 
+PMID: 15069606  [Indexed for MEDLINE]
+

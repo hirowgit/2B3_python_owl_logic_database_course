@@ -1,0 +1,106 @@
+
+
+1453. Folia Histochem Cytobiol. 2013;51(4):292-9. doi: 10.5603/FHC.2013.0040.
+
+Characterization of common marmoset (Callithrix jacchus) bone marrow-derived
+mesenchymal stem cells.
+
+Kanda A, Sotomaru Y(1), Nobukiyo A, Yamaoka E, Hiyama E.
+
+Author information: 
+(1)Natural Science Center for Basic Research and Development, Hiroshima
+University, Hiroshima, Japan. yusuke@hiroshima-u.ac.jp.
+
+Mesenchymal stem cells (MSCs) could be useful for regenerative medicine because
+they can beharvested easily from the bone marrow of living donors and the cells
+can be differentiated into adipogenic, osteogenic, and chondrogenic lineages in
+vitro. To apply MSCs for the medical treatment of human diseases as regenerative 
+medicine, detailed experimental characterization of the cells is required.
+Recently, a New World primate, the common marmoset (Callithrix jacchus), has been
+widely used as a new human disease model because of its ease of handling and
+breeding. Although common marmoset MSCs have been established and will be used in
+preclinical studies of regenerative medicine, the characteristics of these cells 
+remain unclear. Aiming to characterize common marmoset MSCs further, we harvested
+common marmoset bone marrow-derived cells (cmBMDCs) from the femurs of newborn
+males. We revealed that the morphology of the cells was similar to common
+marmoset fibroblasts, and extracellular matrix components, such as gelatin and
+fibronectin, were effective for their proliferation and formation of
+colony-forming unit fibroblasts. Furthermore, we were able to differentiate
+cmBMDCs into adipocytes, osteocytes, and chondrocytes in vitro, and they
+expressed the MSCmarkers CD44, CD73, CD90, and CD105, but their expression
+decreased with increasing passage number. The data demonstrate that cmBMDCs
+exhibit characteristics of MSCs and thus it would be beneficial to use these
+cells in preclinical studies.
+
+DOI: 10.5603/FHC.2013.0040 
+PMID: 24497134  [Indexed for MEDLINE]
+
+
+1454. Biochem Biophys Res Commun. 2014 Feb 14;444(3):302-6. doi:
+10.1016/j.bbrc.2014.01.024. Epub 2014 Jan 30.
+
+Developmental expression profiles of axon guidance signaling and the immune
+system in the marmoset cortex: potential molecular mechanisms of pruning of
+dendritic spines during primate synapse formation in late infancy and prepuberty 
+(I).
+
+Sasaki T(1), Oga T(2), Nakagaki K(1), Sakai K(1), Sumida K(3), Hoshino K(4),
+Miyawaki I(4), Saito K(3), Suto F(1), Ichinohe N(5).
+
+Author information: 
+(1)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, 4-1-1 Ogawa-Higashi, Kodaira, Tokyo 
+187-8502, Japan.
+(2)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, 4-1-1 Ogawa-Higashi, Kodaira, Tokyo 
+187-8502, Japan; Graduate School of Frontier Biosciences, Osaka University,
+Toyonaka, Osaka 560-8531, Japan.
+(3)Environmental Health Science Laboratory, Sumitomo Chemical Co., Ltd., 3-1-98
+Kasugade-naka, Konohana-ku, Osaka 554-8558, Japan.
+(4)Preclinical Research Laboratories, Dainippon Sumitomo Pharma Co., Ltd., 3-1-98
+Kasugade-naka, Konohana-ku, Osaka 554-0022, Japan.
+(5)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, 4-1-1 Ogawa-Higashi, Kodaira, Tokyo 
+187-8502, Japan. Electronic address: nichino@ncnp.go.jp.
+
+The synapse number and the related dendritic spine number in the cerebral cortex 
+of primates shows a rapid increase after birth. Depending on the brain region and
+species, the number of synapses reaches a peak before adulthood, and pruning
+takes place after this peak (overshoot-type synaptic formation). Human mental
+disorders, such as autism and schizophrenia, are hypothesized to be a result of
+either too weak or excessive pruning after the peak is reached. Thus, it is
+important to study the molecular mechanisms underlying overshoot-type synaptic
+formation, particularly the pruning phase. To examine the molecular mechanisms,
+we used common marmosets (Callithrix jacchus). Microarray analysis of the
+marmoset cortex was performed in the ventrolateral prefrontal, inferior temporal,
+and primary visual cortices, where changes in the number of dendritic spines have
+been observed. The spine number of all the brain regions above showed a peak at 3
+months (3 M) after birth and gradually decreased (e.g., at 6 M and in adults). In
+this study, we focused on genes that showed differential expression between ages 
+of 3 M and 6 M and on the differences whose fold change (FC) was greater than
+1.2. The selected genes were subjected to canonical pathway analysis, and in this
+study, we describe axon guidance signaling, which had high plausibility. The
+results showed a large number of genes belonging to subsystems within the axon
+guidance signaling pathway, macrophages/immune system, glutamate system, and
+others. We divided the data and discussion of these results into 2 papers, and
+this is the first paper, which deals with the axon guidance signaling and
+macrophage/immune system. Other systems will be described in the next paper. Many
+components of subsystems within the axon guidance signaling underwent changes in 
+gene expression from 3 M to 6 M so that the synapse/dendritic spine number would 
+decrease at 6 M. Thus, axon guidance signaling probably contributes to the
+decrease in synapse/dendritic spine number at 6 M, the phenomenon that fits the
+overshoot-type synaptic formation in primates. Microglial activity (evaluated by 
+quantifying AIF1 expression) and gene expression of molecules that modulate
+microglia, decreased at 6 M, just like the synapse/dendritic spine number. Thus, 
+although microglial activity is believed to be related to phagocytosis of
+synapses/dendritic spines, microglial activity alone cannot explain how pruning
+was accelerated in the pruning phase. On the other hand, expression of molecules 
+that tag synapses/dendritic spines as a target of phagocytosis by microglia
+(e.g., complement components) increased at 6 M, suggesting that these tagging
+proteins may be involved in the acceleration of pruning during the pruning phase.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2014.01.024 
+PMID: 24485715  [Indexed for MEDLINE]
+

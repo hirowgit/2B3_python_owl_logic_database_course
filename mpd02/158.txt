@@ -1,0 +1,69 @@
+
+
+158. Mol Brain. 2021 Apr 8;14(1):66. doi: 10.1186/s13041-021-00755-0.
+
+Phosphorylation of GAP-43 T172 is a molecular marker of growing axons in a wide
+range of mammals including primates.
+
+Okada M(1)(2)(3), Kawagoe Y(3), Sato Y(3)(4), Nozumi M(3), Ishikawa Y(3)(5),
+Tamada A(3)(6), Yamazaki H(7), Sekino Y(8), Kanemura Y(9), Shinmyo Y(10),
+Kawasaki H(10), Kaneko N(11), Sawamoto K(11)(12), Fujii Y(1)(2), Igarashi M(13).
+
+Author information: 
+(1)Department of Neurosurgery, Brain Research Institute, School of Medicine and
+Graduate School of Medical/Dental Sciences, Niigata University, Niigata, Japan.
+(2)Medical and Dental Hospital, School of Medicine and Graduate School of
+Medical/Dental Sciences, Niigata University, Niigata, Japan.
+(3)Departments of Neurochemistry and Molecular Cell Biology, School of Medicine
+and Graduate School of Medical/Dental Sciences, Niigata University, Niigata,
+951-8510, Japan.
+(4)Department of Chemistry, Faculty of Science, Hokkaido University, Sapporo,
+060-0810, Japan.
+(5)Department of Orthopedic Surgery, School of Medicine and Graduate School of
+Medical/Dental Sciences, Niigata University, Niigata, Japan.
+(6)Department of iPS Cell Applied Medicine, Faculty of Medicine, Kansai Medical
+University, Hirakata, Osaka, 573-1010, Japan.
+(7)Department of Neurobiology and Behavior, Gunma University Graduate School of
+Medicine, Maebashi, Japan.
+(8)Laboratory of Chemical Pharmacology, Graduate School of Pharmaceutical
+Sciences, University of Tokyo, Tokyo, Japan.
+(9)Division of Regenerative Medicine, Department of Biomedical Research and
+Innovation, Institute for Clinical Research, National Hospital Organization Osaka
+National Hospital, Osaka, Japan.
+(10)Department of Medical Neuroscience, Graduate School of Medical Sciences,
+Kanazawa University, Kanazawa, Japan.
+(11)Department of Developmental and Regenerative Neurobiology, Institute of Brain
+Science, Nagoya City University Graduate School of Medical Sciences, Nagoya,
+Japan.
+(12)Division of Neural Development and Regeneration, National Institute for
+Physiological Sciences, Okazaki, Japan.
+(13)Departments of Neurochemistry and Molecular Cell Biology, School of Medicine 
+and Graduate School of Medical/Dental Sciences, Niigata University, Niigata,
+951-8510, Japan. tarokaja@med.niigata-u.ac.jp.
+
+GAP-43 is a vertebrate neuron-specific protein and that is strongly related to
+axon growth and regeneration; thus, this protein has been utilized as a classical
+molecular marker of these events and growth cones. Although GAP-43 was
+biochemically characterized more than a quarter century ago, how this protein is 
+related to these events is still not clear. Recently, we identified many
+phosphorylation sites in the growth cone membrane proteins of rodent brains. Two 
+phosphorylation sites of GAP-43, S96 and T172, were found within the top 10 hit
+sites among all proteins. S96 has already been characterized (Kawasaki et al.,
+2018), and here, phosphorylation of T172 was characterized. In vitro (cultured
+neurons) and in vivo, an antibody specific to phosphorylated T172 (pT172
+antibody) specifically recognized cultured growth cones and growing axons in
+developing mouse neurons, respectively. Immunoblotting showed that pT172 antigens
+were more rapidly downregulated throughout development than those of pS96
+antibody. From the primary structure, this phosphorylation site was predicted to 
+be conserved in a wide range of animals including primates. In the developing
+marmoset brainstem and in differentiated neurons derived from human induced
+pluripotent stem cells, immunoreactivity with pT172 antibody revealed patterns
+similar to those in mice. pT172 antibody also labeled regenerating axons
+following sciatic nerve injury. Taken together, the T172 residue is widely
+conserved in a wide range of mammals including primates, and pT172 is a new
+candidate molecular marker for growing axons.
+
+DOI: 10.1186/s13041-021-00755-0 
+PMCID: PMC8034164
+PMID: 33832520  [Indexed for MEDLINE]
+

@@ -1,0 +1,85 @@
+
+
+21. Infect Immun. 2022 Mar 17;90(3):e0055021. doi: 10.1128/IAI.00550-21. Epub 2022
+Jan 18.
+
+The Innate Immune Response in the Marmoset during the Acute Pneumonic Disease
+Caused by Burkholderia pseudomallei.
+
+Ngugi S(1), Laws T(1), Simpson AJ(1)(2)(3), Nelson M(1).
+
+Author information: 
+(1)CBR division, DSTL Porton Down, Salisbury, Wiltshire, United Kingdom.
+(2)Lao-Oxford-Mahosot Hospital-Wellcome Trust Research Unit (LOMWRU), Mahosot
+Hospital, Vientiane, Lao People's Democratic Republic.
+(3)Centre for Tropical Medicine and Global Health, Nuffield Department of
+Medicine, University of Oxford, Oxford, United Kingdom.
+
+Burkholderia pseudomallei is the causative agent of melioidosis, a severe human
+infection that is difficult to treat with antibiotics and for which there is no
+effective vaccine. Development of novel treatments rely upon appropriately
+characterized animal models. The common marmoset (Callithrix jacchus) has been
+established at Defense Science and Technology laboratories (DSTL) as a model of
+melioidosis. Further analysis was performed on samples generated in these studies
+to provide a description of the innate immune response. Many of the immunological
+features described, (migration/activation of neutrophils and macrophages,
+activation of T cells, elevation of key cytokines IFNγ, TNF-α, IL-6, and IL-1β)
+have been observed in acute melioidosis human cases and correlated with
+prognosis. Expression of the MHCII marker (HLA-DR) on neutrophils showed
+potential as a diagnostic with 80% accuracy when comparing pre- and postchallenge
+levels in paired blood samples. Discriminant analysis of cell surface, activation
+markers on neutrophils combined with levels of key cytokines, differentiated
+between disease states from single blood samples with 78% accuracy. These key
+markers have utility as a prototype postexposure, presymptomatic diagnostic.
+Ultimately, these data further validate the use of the marmoset as a suitable
+model for determining efficacy of medical countermeasures against B.
+pseudomallei.
+
+DOI: 10.1128/IAI.00550-21 
+PMCID: PMC8929355
+PMID: 35041487 
+
+
+22. J Comp Neurol. 2022 Jan 14. doi: 10.1002/cne.25292. [Epub ahead of print]
+
+Retinal ganglion cells expressing CaM kinase II in human and nonhuman primates.
+
+Baldicano AK(1), Nasir-Ahmad S(1)(2), Novelli M(1), Lee SCS(1)(2), Do MTH(3),
+Martin PR(1)(2), Grünert U(1)(2).
+
+Author information: 
+(1)Save Sight Institute and Discipline of Ophthalmology, Faculty of Medicine and 
+Health, The University of Sydney, Sydney, NSW, Australia.
+(2)Australian Research Council Centre of Excellence for Integrative Brain
+Function, The University of Sydney, Sydney, NSW, 2000, Australia.
+(3)F.M. Kirby Neurobiology Center and Department of Neurology, Boston Children's 
+Hospital and Harvard Medical School, Boston, Massachusetts, USA.
+
+Immunoreactivity for calcium-/calmodulin-dependent protein kinase II (CaMKII) in 
+the primate dorsal lateral geniculate nucleus (dLGN) has been attributed to
+geniculocortical relay neurons and has also been suggested to arise from
+terminals of retinal ganglion cells. Here, we combined immunostaining with
+single-cell injections to investigate the expression of CaMKII in retinal
+ganglion cells of three primate species: macaque (Macaca fascicularis, M.
+nemestrina), human, and marmoset (Callithrix jacchus). We found that in all
+species, about 2%-10% of the total ganglion cell population expressed CaMKII. In 
+all species, CaMKII was expressed by multiple types of wide-field ganglion cell
+including large sparse, giant sparse (melanopsin-expressing), broad thorny, and
+narrow thorny cells. Three other ganglion cells types, namely, inner and outer
+stratifying maze cells in macaque and tufted cells in marmoset were also found.
+Double labeling experiments showed that CaMKII-expressing cells included inner
+and outer stratifying melanopsin cells. Nearly all CaMKII-expressing ganglion
+cell types identified here are known to project to the koniocellular layers of
+the dLGN as well as to the superior colliculus. The best characterized
+koniocellular projecting cell type-the small bistratified (blue ON/yellow OFF)
+cell-was, however, not CaMKII-positive in any species. Our results indicate that 
+the pattern of CaMKII expression in retinal ganglion cells is largely conserved
+across different species of primate suggesting a common functional role. But the 
+results also show that CaMKII is not a marker for all koniocellular projecting
+retinal ganglion cells.
+
+© 2022 Wiley Periodicals LLC.
+
+DOI: 10.1002/cne.25292 
+PMID: 35029299 
+

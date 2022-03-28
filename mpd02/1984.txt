@@ -1,0 +1,48 @@
+
+
+1984. J Chromatogr B Analyt Technol Biomed Life Sci. 2010 Sep 1;878(25):2299-306. doi: 
+10.1016/j.jchromb.2010.06.018. Epub 2010 Jun 25.
+
+Determination of ticagrelor and two metabolites in plasma samples by liquid
+chromatography and mass spectrometry.
+
+Sillén H(1), Cook M, Davis P.
+
+Author information: 
+(1)AstraZeneca R&D, Mölndal, Sweden. Henrik.Sillen@astrazeneca.com
+
+Rapid and sensitive analytical methods using liquid chromatography with tandem
+mass spectrometry (LC/MS/MS) were developed for the determination of ticagrelor, 
+the first reversible oral platelet P2Y(12) receptor inhibitor, and its
+metabolites AR-C124910XX and AR-C133913XX in human plasma. Ticagrelor and its
+metabolites were extracted using protein precipitation with acetonitrile.
+Chromatographic separations were performed on reversed phase columns and
+detection using atmospheric pressure chemical ionization (APCI). Ticagrelor and
+AR-C124910XX were analyzed in the same assay, with the internal standard,
+d7-ZD6140, on a C18 column using negative ionization; AR-C133913XX analyzed
+separately on a phenyl column using positive ionization. Full validation of the
+methods was performed including selectivity, lower limit of quantification,
+accuracy, precision stability and incurred sample reproducibility and incurred
+sample stability. Total analytical run time was short (2 min). Calibration curves
+were established in the range 5-5000ng/mL for ticagrelor, 2.5-2500 ng/mL for
+AR-C124910XX and 2-1000 ng/mL for AR-C133913XX. Lower limits of quantification
+for ticagrelor, AR-C124910XX and AR-C133913XX were determined to be 5, 2.5 and
+2.0 ng/mL, respectively from 100 microL of human plasma. For ticagrelor,
+AR-C124910XX and AR-C133913XX, mean intra-batch accuracy was 91.9-109.0%,
+86.8-109.2% and 100.5-112.0%, respectively; intra-batch precision was 4.0-8.4%,
+5.2-16.9% and 3.9-12.3%, respectively. The methods were also applied to
+quantification of ticagrelor, AR-C124910XX and AR-C133913XX in rabbit, rat, mouse
+and marmoset, using 25 microL of animal plasma. A modified methodology was
+developed to quantify ticagrelor and AR-C124910XX in plasma from dog and
+cynomolgus monkey. Human incurred samples were found to generate consistent
+reproducibility and stability results. This method was successfully applied to
+determine plasma concentrations following administration of ticagrelor in human
+volunteers and patients, and animal safety evaluation studies. This validated
+methods has the advantages of being straightforward, robust and allows a fast
+throughput of samples.
+
+2010 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jchromb.2010.06.018 
+PMID: 20688583  [Indexed for MEDLINE]
+

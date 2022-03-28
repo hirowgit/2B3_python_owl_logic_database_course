@@ -1,0 +1,90 @@
+
+
+2565. Eur J Pharmacol. 2006 Apr 24;536(1-2):54-61. Epub 2006 Feb 28.
+
+SB-649915, a novel, potent 5-HT1A and 5-HT1B autoreceptor antagonist and 5-HT
+re-uptake inhibitor in native tissue.
+
+Scott C(1), Soffin EM, Hill M, Atkinson PJ, Langmead CJ, Wren PB, Faedo S, Gordon
+LJ, Price GW, Bromidge S, Johnson CN, Hagan JJ, Watson J.
+
+Author information: 
+(1)Psychiatry and Neurology and GI Centres of Excellence for Drug Discovery,
+GlaxoSmithKline, New Frontiers Science Park, Third Avenue, Harlow, Essex, CM19
+5AW and Via Fleming 4, Verona, Italy.
+
+An increase in brain 5-HT levels is thought to be the key mechanism of action
+which results in an antidepressant response. It has been proven that selective
+serotonin re-uptake inhibitors are effective antidepressants but the delay to
+therapeutic onset of these agents is thought to be due to the time required for
+5-HT1A, and possibly 5-HT1B, autoreceptor desensitisation. Therefore an agent
+incorporating 5-HT re-uptake inhibition coupled with 5-HT1A and/or 5-HT1B
+autoreceptor antagonism may provide a fast acting clinical agent. The current
+studies describe the in vitro profile of SB-649915
+(6-[(1-{2-[(2-methylquinolin-5-yl)oxy]ethyl}piperidin-4-yl)methyl]-2H-1,4-benzoxa
+zin-3(4H)-one), a novel compound which has high affinity for human recombinant
+5-HT1A, 5-HT1B and 5-HT1D receptors (pKi values of 8.6, 8.0, 8.8, respectively)
+and the human recombinant 5-HT transporter (pKi value of 9.3). SB-649915 also
+displays high affinity for rat, guinea pig, mouse and marmoset native tissue
+5-HT1A, 5-HT1B and 5-HT1D receptors and rat native tissue 5-HT transporters (pKi 
+values>or=7.5). In functional [35S]GTPgammaS binding studies, SB-649915 (up to 1 
+microM) does not display intrinsic activity in HEK293 cells expressing human
+recombinant 5-HT1A receptors but acts as a partial agonist at human recombinant
+5-HT1B and 5-HT1D receptors with intrinsic activity values of 0.3 and 0.7,
+respectively, as compared to the full agonist 5-HT. From Schild analysis,
+SB-649915 caused a concentration-dependent, rightward shift of 5-HT-induced
+stimulation of basal [35S]GTPgammaS binding in cells expressing human recombinant
+5-HT1A or 5-HT1B receptors to yield pA2 values of 9.0 and 7.9, respectively. In
+electrophysiological studies in rat dorsal raphe nucleus, SB-649915 did not
+affect the cell firing rate up to 1 microM but attenuated
+(+)8-hydroxy-2-(di-n-propylamino) tetralin-induced inhibition of cell firing with
+an apparent pKb value of 9.5. SB-649915 (1 microM) significantly attenuated
+exogenous 5-HT-induced inhibition of electrically-stimulated [3H]5-HT release
+from guinea pig cortex. In studies designed to enhance endogenous 5-HT levels,
+and therefore increase tone at 5-HT1B autoreceptors, SB-649915 significantly
+potentiated [3H]5-HT release at 100 and 1000 nM. In LLCPK cells expressing human 
+recombinant 5-HT transporters and in rat cortical synaptosomes, SB-649915
+inhibited [3H]5-HT re-uptake with pIC50 values of 7.9 and 9.7, respectively. In
+summary, SB-649915 is a novel, potent 5-HT1A/1B autoreceptor antagonist and 5-HT 
+re-uptake inhibitor in native tissue systems and represents a novel mechanism
+that could offer fast acting antidepressant action.
+
+DOI: 10.1016/j.ejphar.2006.02.042 
+PMID: 16571351  [Indexed for MEDLINE]
+
+
+2566. Psychopharmacology (Berl). 2006 May;185(4):433-40. Epub 2006 Mar 21.
+
+Behavioral effects of modafinil in marmoset monkeys.
+
+van Vliet SA(1), Jongsma MJ, Vanwersch RA, Olivier B, Philippens IH.
+
+Author information: 
+(1)Department of Diagnosis and Therapy, TNO Defence, Security and Safety, Lange
+Kleiweg 137, 2288 GJ, Rijswijk, The Netherlands. vliet_s@pml.tno.nl
+
+RATIONALE: Modafinil is increasingly used in sleep disturbances in general and in
+neurodegenerative diseases and is recently being used in healthy people for
+attention control. However, the application of modafinil is possibly not only
+restricted to alertness enhancing effects. More insight in this compound may lead
+to new applications. Not all behavioral aspects have been studied sufficiently;
+therefore, more detailed investigations on modafinil's positive and aversive
+behavioral effects are addressed in this paper.
+OBJECTIVES: Determination of effects of modafinil in marmoset monkeys with
+observational methods and with behavioral tests measuring locomotor activity,
+hand-eye coordination, response to a threat situation and startle response.
+MATERIALS AND METHODS: Two hours after oral administration of modafinil in doses 
+of 50, 100, 150, and 225 mg/kg, animals were observed and tested in the
+behavioral test systems.
+RESULTS: Locomotor activity was increased after 100 mg/kg modafinil in the
+Bungalow test and after 100, 150, and 225 mg/kg, as found in the movement
+parameters of the human threat test. Moreover, modafinil showed anxiolytic-like
+effects in the human threat test. No other side effects were observed, nor were
+the hand-eye coordination and startle response affected.
+CONCLUSIONS: Besides psychostimulation, modafinil has no aversive effects in the 
+doses used in the domains measured. The potential anxiolytic-like effects of
+modafinil may create new possibilities for the therapeutic use of modafinil.
+
+DOI: 10.1007/s00213-006-0340-4 
+PMID: 16550386  [Indexed for MEDLINE]
+

@@ -1,0 +1,73 @@
+
+
+2589. Cancer Lett. 2006 Feb 8;232(2):189-98.
+
+siRNA targeting LMP1-induced apoptosis in EBV-positive lymphoma cells is
+associated with inhibition of telomerase activity and expression.
+
+Mei YP(1), Zhu XF, Zhou JM, Huang H, Deng R, Zeng YX.
+
+Author information: 
+(1)Department of Experimental Research, State Key Laboratory of Oncology in
+Southern China, Cancer Center, Sun Yat-sen University, 651 DongFeng Road East,
+GuangZhou 510060, China.
+
+Epstein-Barr Virus (EBV) is closely associated with B cell malignancies. However,
+whether EBV appears to be absolutely required for cell proliferation and survival
+in lymphoma cells is still unknown. In this study, small interfering RNA (siRNA) 
+targeting LMP1 was employed to investigate the effect of LMP1 on cell
+proliferation in EBV-positive lymphoblastoid B-cell line. A plasmid stable
+encoding 21-nt small RNA specifically and efficiently interfering LMP1 was
+constructed, resulting in a substantial loss of LMP1 mRNA and a significantly
+decreased LMP1 protein expression. Our data demonstrated that cell proliferation 
+was completely inhibited and apoptosis was induced after knockdown of LMP1 gene
+in lymphoblastoid B-cell line. Also, we found that suppression of LMP1 caused
+downregulation of telomerase protein expression and decreased telomerase activity
+in lymphoma cells. In EBV-negative NPC cell line, transfection of plasmid
+expressing LMP1 greatly enhanced telomerase protein expression. Our results
+suggested that siRNA targeting LMP1 can induce apoptosis in EBV-positive lymphoma
+cells and is associated with inhibition of telomerase activity and expression.
+siRNA-directed LMP1 silencing may be of the therapeutic value for preventing and 
+treating those EBV-associated tumors.
+
+DOI: 10.1016/j.canlet.2005.02.010 
+PMID: 16458115  [Indexed for MEDLINE]
+
+
+2590. Neuroscience. 2006;138(4):1397-406. Epub 2006 Jan 30.
+
+Primary visual cortex neurons that contribute to resolve the aperture problem.
+
+Guo K(1), Robertson R, Nevado A, Pulgarin M, Mahmoodi S, Young MP.
+
+Author information: 
+(1)Institute for Neuroscience and Psychology, Brain and Behaviour Group, School
+of Biology, Henry Wellcome Building for Neuroecology, University of Newcastle,
+Newcastle upon Tyne NE2 4HH, UK. kguo@lincoln.ac.uk
+
+It is traditional to believe that neurons in primary visual cortex are sensitive 
+only or principally to stimulation within a spatially restricted receptive field 
+(classical receptive field). It follows from this that they should only be
+capable of encoding the direction of stimulus movement orthogonal to the local
+contour, since this is the only information available in their classical
+receptive field "aperture." This direction is not necessarily the same as the
+motion of the entire object, as the direction cue within an aperture is ambiguous
+to the global direction of motion, which can only be derived by integrating with 
+unambiguous components of the object. Recent results, however, show that primary 
+visual cortex neurons can integrate spatially and temporally distributed cues
+outside the classical receptive field, and so we reexamined whether primary
+visual cortex neurons suffer the "aperture problem." With the stimulation of an
+optimally oriented bar drifting across the classical receptive field in different
+global directions, here we show that a subpopulation of primary visual cortex
+neurons (25/81) recorded from anesthetized and paralyzed marmosets is capable of 
+integrating informative unambiguous direction cues presented by the bar ends,
+well outside their classical receptive fields, to encode global motion direction.
+Although the stimuli within the classical receptive field were identical, their
+directional responses were significantly modulated according to the global
+direction of stimulus movement. Hence, some primary visual cortex neurons are not
+local motion energy filters, but may encode signals that contribute directly to
+global motion processing.
+
+DOI: 10.1016/j.neuroscience.2005.12.016 
+PMID: 16446037  [Indexed for MEDLINE]
+

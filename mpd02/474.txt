@@ -1,0 +1,49 @@
+
+
+474. Anat Rec (Hoboken). 2019 Nov;302(11):1891-1900. doi: 10.1002/ar.24212. Epub 2019 
+Jul 12.
+
+Visualization and Quantification of Digitally Dissected Muscle Fascicles in the
+Masticatory Muscles of Callithrix jacchus Using Nondestructive DiceCT.
+
+Dickinson E(1), Basham C(2), Rana A(3), Hartstone-Rose A(1).
+
+Author information: 
+(1)Department of Biological Sciences, North Carolina State University, Raleigh,
+North Carolina.
+(2)Department of Mechanical, Aerospace, and Biomedical Engineering, University of
+Tennessee, Knoxville, Tennessee.
+(3)Stryker Orthopaedics, Kalamazoo, Michigan.
+
+The organization and length of a muscle's fascicles imparts its contractile
+properties. Longer fascicles permit increased muscle excursion, whereas changes
+in fascicle orientation relate to the overall vector of contractile force.
+Collecting data on fascicle architecture has traditionally involved destructive
+and irreversible gross dissection. In recent years, however, new imaging
+modalities have permitted muscles and their fascicles to be visualized
+nondestructively. Here, we present data from a primate (Callithrix jacchus), in
+which, for the first time, individual muscle fascicles are digitally "dissected" 
+(segmented and reconstructed) using nondestructive, high-resolution diffusible
+iodine-based contrast-enhanced computed tomography (DiceCT) techniques. We also
+present quantitative data on the length and orientation of these fascicles within
+10 muscle divisions of the jaw adductor and abductor musculature (superficial,
+deep, and zygomatic portions of temporalis and masseter; medial and lateral
+pterygoid; anterior and posterior digastric) and compare these digitally measured
+lengths to fascicular lengths measured using traditional gross and chemical
+dissection. Digitally derived fascicle lengths correspond well to their
+dissection-derived counterparts. Moreover, our analyses of changes in fascicle
+orientation across the adductor complex enable us to visualize previously
+uncharacterized levels of detail and highlight significant variation between
+adjacent muscle layers within muscle groups (e.g., between superficial, deep, and
+zygomatic portions of masseter and temporalis). We conclude that this technique
+offers great potential to future research, particularly for questions centered
+around the visualization and quantification of obscured and often-overlooked
+muscles such as the pterygoid and digastric muscles, and for deriving more
+accurate models of the masticatory system as a whole. Anat Rec, 302:1891-1900,
+2019. © 2019 American Association for Anatomy.
+
+© 2019 American Association for Anatomy.
+
+DOI: 10.1002/ar.24212 
+PMID: 31251450  [Indexed for MEDLINE]
+

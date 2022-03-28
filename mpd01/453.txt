@@ -1,0 +1,89 @@
+
+
+453. Sci Rep. 2019 Aug 7;9(1):11459. doi: 10.1038/s41598-019-48009-3.
+
+Short Interruptions of Imposed Hyperopic Defocus Earlier in Treatment are More
+Effective at Preventing Myopia Development.
+
+Benavente-Perez A(1), Nour A(2), Troilo D(2).
+
+Author information: 
+(1)SUNY College of Optometry, New York, NY, USA. abenavente@sunyopt.edu.
+(2)SUNY College of Optometry, New York, NY, USA.
+
+The purpose of this study was to evaluate the effect of interrupting negative
+lens wear for short periods early or late during the development of lens-induced 
+myopia in marmosets. Sixteen marmosets were reared with a -5D contact lens on
+their right eye (plano on contralateral eye) for 8 weeks. Eight marmosets had
+lenses removed for 30 mins twice/day during the first four weeks (early
+interruption) and eight during the last four weeks (late interruption). Data were
+compared to treated controls that wore lenses continuously (N = 12) and untreated
+controls (N = 10). Interocular differences (IOD) in vitreous chamber (VC) depth
+and central and peripheral mean spherical refractive error (MSE) were measured at
+baseline and after four (T4) and eight (T8) weeks of treatment. Visual experience
+during the interruptions was monitored by measuring refraction while marmosets
+were seated at the center of a 1 m radius viewing cylinder. At T4 the eyes that
+were interrupted early were not different from untreated controls (p = 0.10) and 
+at T8 had grown less and were less myopic than those interrupted later (IOD
+change from baseline, VC: +0.07 ± 0.04 mm vs +0.20 ± 0.03 mm, p < 0.05; MSE:
+-1.59 ± 0.26D vs -2.63 ± 0.60D, p = 0.13). Eyes interrupted later were not
+different from treated controls (MSE, p = 0.99; VC, p = 0.60) and grew at the
+same rate as during the first four weeks of uninterrupted lens wear (T4 - T0:
+3.67 ± 1.1 µm/day, T8 - T4: 3.56 ± 1.3 µm/day p = 0.96). Peripheral refraction
+was a predictive factor for the amount of myopia developed only when the
+interruption was not effective. In summary, interrupting hyperopic defocus with
+short periods of myopic defocus before compensation occurs prevents axial myopia 
+from developing. After myopia develops, interruption is less effective.
+
+DOI: 10.1038/s41598-019-48009-3 
+PMCID: PMC6685965
+PMID: 31391523  [Indexed for MEDLINE]
+
+
+454. J Neurophysiol. 2019 Oct 1;122(4):1502-1517. doi: 10.1152/jn.00389.2019. Epub
+2019 Aug 7.
+
+Behavioral training of marmosets and electrophysiological recording from the
+cerebellum.
+
+Sedaghat-Nejad E(1), Herzfeld DJ(1), Hage P(1), Karbasi K(1), Palin T(1), Wang
+X(2), Shadmehr R(1).
+
+Author information: 
+(1)Laboratory for Computational Motor Control, Department of Biomedical
+Engineering Johns Hopkins School of Medicine, Baltimore, Maryland.
+(2)Laboratory for Auditory Neurophysiology Department of Biomedical Engineering
+Johns Hopkins School of Medicine, Baltimore, Maryland.
+
+The common marmoset (Callithrix jacchus) is a promising new model for study of
+neurophysiological basis of behavior in primates. Like other primates, it relies 
+on saccadic eye movements to monitor and explore its environment. Previous
+reports have demonstrated some success in training marmosets to produce
+goal-directed actions in the laboratory. However, the number of trials per
+session has been relatively small, thus limiting the utility of marmosets as a
+model for behavioral and neurophysiological studies. In this article, we report
+the results of a series of new behavioral training and neurophysiological
+protocols aimed at increasing the number of trials per session while recording
+from the cerebellum. To improve the training efficacy, we designed a precisely
+calibrated food regulation regime that motivates the subjects to perform saccade 
+tasks, resulting in ~1,000 reward-driven trials on a daily basis. We then
+developed a multichannel recording system that uses imaging to target a desired
+region of the cerebellum, allowing for simultaneous isolation of multiple
+Purkinje cells in the vermis. In this report, we describe 1) the design and
+surgical implantation of a computer tomography (CT)-guided, subject-specific head
+post, 2) the design of a CT- and MRI-guided alignment tool for trajectory
+guidance of electrodes mounted on an absolute encoder microdrive, 3) development 
+of a protocol for behavioral training of subjects, and 4) simultaneous recordings
+from pairs of Purkinje cells during a saccade task.NEW & NOTEWORTHY Marmosets
+present the opportunity to investigate genetically based neurological disease in 
+primates, in particular, diseases that affect social behaviors, vocal
+communication, and eye movements. All of these behaviors depend on the integrity 
+of the cerebellum. We present training methods that better motivate the subjects,
+allowing for improved performance, and we also present electrophysiological
+techniques that precisely target the subject's cerebellum, allowing for
+simultaneous isolation of multiple Purkinje cells.
+
+DOI: 10.1152/jn.00389.2019 
+PMCID: PMC6843097
+PMID: 31389752  [Indexed for MEDLINE]
+

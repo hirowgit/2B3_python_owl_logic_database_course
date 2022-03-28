@@ -1,0 +1,39 @@
+
+
+2389. Mol Endocrinol. 2007 Aug;21(8):1984-96. Epub 2007 May 15.
+
+Genomic checkpoints for exon 10 usage in the luteinizing hormone receptor type 1 
+and type 2.
+
+Gromoll J(1), Lahrmann L, Godmann M, Müller T, Michel C, Stamm S, Simoni M.
+
+Author information: 
+(1)Institute of Reproductive Medicine, University Hospital, D-48129 Münster,
+Germany. Joerg.Gromoll@ukmuenster.de
+
+Alternative splicing is a hallmark of glycoprotein hormone receptor gene
+regulation, but its molecular mechanism is unknown. The LH receptor (LHR) gene
+possesses 11 exons, but exon 10 is constitutively skipped in the New World monkey
+lineage (LHR type 2), whereas it is constitutively spliced in the human (LHR type
+1). This study identifies the regulatory elements of exon 10 usage. Sequencing of
+genomic marmoset DNA revealed that the cryptic LHR exon 10 is highly homologous
+to exon 10 from other species and displays intact splice sites. Functional
+studies using a minigene approach excluded the contribution of intronic,
+marmoset-specific long interspersed nucleotide-1 elements to exon 10 skipping.
+Sequencing of the genomic regions surrounding exon 10 from several primate
+lineages, sequence comparisons including the human and mouse LHR gene, revealed
+the presence of unique nucleotides at 3'-intronic position -19 and -10 and at
+position +26 within exon 10 of the marmoset LHR. Exon trap experiments and in
+vitro mutagenesis of these nucleotides resulted in the identification of a
+composite regulatory element of splicing consisting of cis-acting elements
+represented by two polypyrimidine tracts and a trans-acting element within exon
+10, which affect the secondary RNA structure. Changes within this complex
+resulted either in constitutive exon inclusion, constitutive skipping, or
+alternative splicing of exon 10. This work delineates the molecular pathway
+leading to intronization of exon 10 in the LHR type 2 and reveals, for the first 
+time, the essential function of regulatory and structural elements involved in
+glycoprotein hormone receptor splicing.
+
+DOI: 10.1210/me.2006-0506 
+PMID: 17505059  [Indexed for MEDLINE]
+

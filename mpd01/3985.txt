@@ -1,0 +1,70 @@
+
+
+3985. J Gen Virol. 1994 Sep;75 ( Pt 9):2403-8.
+
+The biological characterization of field isolates of canine distemper virus from 
+Japan.
+
+Mori T(1), Shin YS, Okita M, Hirayama N, Miyashita N, Gemma T, Kai C, Mikami T.
+
+Author information: 
+(1)Department of Veterinary Microbiology, Faculty of Agriculture, University of
+Tokyo, Japan.
+
+Erratum in
+    J Gen Virol 1994 Nov;75(Pt 11):3285.
+
+Eight isolates of canine distemper virus (CDV) were obtained from seven dogs
+suffering from distemper by co-cultivation of their mononuclear cells with a
+marmoset B lymphoblastoid cell line, B95a. Six of the seven dogs had received one
+or more vaccinations. All of the isolates readily proliferated in B95a cells, but
+were not completely neutralized by anti-CDV canine plasma, which had high
+neutralizing activity against the Onderstepoort laboratory strain of CDV.
+Furthermore, different reactivities of monoclonal antibodies (MAbs) against CDV
+were observed between the field isolates and laboratory or vaccine strains of CDV
+in immunofluorescence studies. Immunoprecipitation analysis using MAbs detected
+the haemagglutinin protein of each new field isolate as 69K, 75K and 155K forms, 
+and the fusion protein as 64K and 65K forms; the corresponding proteins of the
+Onderstepoort strain were detected as 75K and 61K proteins respectively. It is
+apparent from these results that the new field isolates of CDV have very
+different antigenic properties from the Onderstepoort vaccine strain.
+
+DOI: 10.1099/0022-1317-75-9-2403 
+PMID: 8077940  [Indexed for MEDLINE]
+
+
+3986. J Mol Evol. 1994 Sep;39(3):255-67.
+
+Molecular evolution of interleukin-3.
+
+Burger H(1), Wagemaker G, Leunissen JA, Dorssers LC.
+
+Author information: 
+(1)Department of Medical Oncology, Dr. Daniel den Hoed Cancer Center/Dijkzigt,
+University Hospital Rotterdam, The Netherlands.
+
+Chimpanzee, tamarin, and marmoset interleukin-3 (IL-3) genes were cloned,
+sequenced, and expressed. Western blot analysis demonstrated that functional
+genes were isolated. IL-3 sequences were compared with those of mouse, rat,
+rhesus monkey, gibbon, and man. Multiple alignment of the IL-3 coding regions
+showed that only a few regions had been conserved during mammalian evolution,
+which are likely associated with functional domains of the IL-3 protein.
+Substitution rates for the various lineages were calculated and the numbers of
+synonymous and nonsynonymous substitutions were estimated separately. Distance
+matrices of the IL-3 coding regions were used to construct phylogenetic trees
+which revealed large differences in IL-3 evolution rate as well as a more rapid
+substitution rate for rodents and a rate slowdown during hominoid evolution.
+Extremes were rhesus monkey IL-3, which accumulated few synonymous substitutions,
+and gibbon IL-3, which had almost exclusively synonymous substitutions. In rhesus
+monkey IL-3, nonsynonymous substitutions outnumbered synonymous substitutions,
+which could not be readily explained by a random process of substitutions. We
+assume that during evolution of IL-3, the majority of the amino acid replacements
+and the impaired interspecies functional cross-reactivity originate from
+selection mechanisms with the most likely selective force being the structure of 
+the heterodimeric IL.3 cell-surface receptor. Insight into IL-3 architecture and 
+structural analysis of the IL-3 receptor are needed to analyze the unusually fast
+evolution of IL-3 in more detail.
+
+DOI: 10.1007/BF00160149 
+PMID: 7932787  [Indexed for MEDLINE]
+

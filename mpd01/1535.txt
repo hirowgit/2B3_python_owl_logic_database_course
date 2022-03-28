@@ -1,0 +1,74 @@
+
+
+1535. Biol Lett. 2013 Jul 10;9(4):20130409. doi: 10.1098/rsbl.2013.0409. Print 2013 Aug
+23.
+
+Expression of taste signal transduction molecules in the caecum of common
+marmosets.
+
+Gonda S(1), Matsumura S, Saito S, Go Y, Imai H.
+
+Author information: 
+(1)Faculty of Applied Biological Sciences, Gifu University, , 1-1 Yanagido, Gifu,
+Gifu 501-1193, Japan.
+
+The extraoral presence of taste signal transduction proteins has recently been
+reported in rodents and humans. Here, we report for the first time the presence
+of these signal transduction proteins in the caecum of a non-human primate, the
+common marmoset. Quantitative RT-PCR data on the gene expression of taste signal 
+transduction molecules (gustducin and TRPM5) in common marmosets suggested high
+expression in the caecum, which was not observed in other non-human primates.
+Immunohistochemical analysis confirmed the specific presence of gustducin and
+taste receptors in marmoset caecal cells. These results may relate to the
+specific feeding behaviour of marmosets, which consume plant exudates, primarily 
+gums.
+
+DOI: 10.1098/rsbl.2013.0409 
+PMCID: PMC3730651
+PMID: 23843216  [Indexed for MEDLINE]
+
+
+1536. PLoS One. 2013 Jun 28;8(6):e68276. doi: 10.1371/journal.pone.0068276. Print 2013.
+
+Relationship between size summation properties, contrast sensitivity and response
+latency in the dorsomedial and middle temporal areas of the primate extrastriate 
+cortex.
+
+Lui LL(1), Bourne JA, Rosa MG.
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, Victoria, Australia.
+Leo.Lui@monash.edu
+
+Analysis of the physiological properties of single neurons in visual cortex has
+demonstrated that both the extent of their receptive fields and the latency of
+their responses depend on stimulus contrast. Here, we explore the question of
+whether there are also systematic relationships between these response properties
+across different cells in a neuronal population. Single unit recordings were
+obtained from the middle temporal (MT) and dorsomedial (DM) extrastriate areas of
+anaesthetized marmoset monkeys. For each cell, spatial integration properties
+(length and width summation, as well as the presence of end- and side-inhibition 
+within 15° of the receptive field centre) were determined using gratings of
+optimal direction of motion and spatial and temporal frequencies, at 60%
+contrast. Following this, contrast sensitivity was assessed using gratings of
+near-optimal length and width. In both areas, we found a relationship between
+spatial integration and contrast sensitivity properties: cells that summated over
+smaller areas of the visual field, and cells that displayed response inhibition
+at larger stimulus sizes, tended to show higher contrast sensitivity. In a sample
+of MT neurons, we found that cells showing longer latency responses also tended
+to summate over larger expanses of visual space in comparison with neurons that
+had shorter latencies. In addition, longer-latency neurons also tended to show
+less obvious surround inhibition. Interestingly, all of these effects were
+stronger and more consistent with respect to the selectivity for stimulus width
+and strength of side-inhibition than for length selectivity and end-inhibition.
+The results are partially consistent with a hierarchical model whereby more
+extensive receptive fields require convergence of information from larger pools
+of "feedforward" afferent neurons to reach near-optimal responses. They also
+suggest that a common gain normalization mechanism within MT and DM is involved, 
+the spatial extent of which is more evident along the cell's preferred axis of
+motion.
+
+DOI: 10.1371/journal.pone.0068276 
+PMCID: PMC3695924
+PMID: 23840842  [Indexed for MEDLINE]
+

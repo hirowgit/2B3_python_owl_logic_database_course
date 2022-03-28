@@ -1,0 +1,39 @@
+
+
+3778. Exp Cell Res. 1996 Jun 15;225(2):257-67.
+
+Functional reconstitution of oxidase activity in X-linked chronic granulomatous
+disease by retrovirus-mediated gene transfer.
+
+Zentilin L(1), Tafuro S, Grassi G, Garcia R, Ventura A, Baralle F, Falaschi A,
+Giacca M.
+
+Author information: 
+(1)International Centre for Genetic Engineering and Biotechnology, Trieste,
+Italy.
+
+The feasibility of correction of the disease phenotype by gene gene transfer was 
+investigated in cells of four patients with X-linked chronic granulomatous
+disease. These patients carry point mutations of the gp91-phox gene, encoding for
+the large subunit of the catalytic core of the phagocytic cell NADPH oxidase. A
+retroviral vector expressing the gp91-phox protein was constructed and used to
+transduce lymphoblastoid cell lines established from the patients. Several
+transduced lymphoblastoid cell clones were investigated for mRNA and protein
+expression, and for functional reconstitution of oxidase activity. Although
+extensive quantitative variability was detected among different clones,
+functional reconstitution of O2- production was obtained in most cases, with
+oxidase function within the same range as in B cell lines derived from normal
+individuals. The same vector was also used for transduction of hematopoietic
+precursors from bone marrow or peripheral blood either with or without enrichment
+for CD34+ cells. A comprehensive analysis was performed on differentiated myeloid
+colonies, to evaluate the efficiency of transduction, the levels of gp91-phox
+expression, and the extent of functional reconstitution of oxidase activity. A
+high efficiency of transduction was obtained in most experiments, with 60-100% of
+colonies containing proviral DNA. Among the transduced colonies, an extensive
+variability in the levels of expression of the transduced gene and of functional 
+restoration of NADPH oxidase activity was observed. These results represent a
+step toward the development of a gene therapy protocol for these patients.
+
+DOI: 10.1006/excr.1996.0175 
+PMID: 8660913  [Indexed for MEDLINE]
+

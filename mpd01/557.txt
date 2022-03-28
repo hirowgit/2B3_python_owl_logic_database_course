@@ -1,0 +1,96 @@
+
+
+557. Elife. 2019 Feb 5;8. pii: e40042. doi: 10.7554/eLife.40042.
+
+A high-throughput neurohistological pipeline for brain-wide mesoscale
+connectivity mapping of the common marmoset.
+
+Lin MK(1), Takahashi YS(1), Huo BX(1), Hanada M(1), Nagashima J(1), Hata J(1),
+Tolpygo AS(2), Ram K(3), Lee BC(4), Miller MI(4), Rosa MG(5)(6), Sasaki E(7),
+Iriki A(8), Okano H(1)(9), Mitra P(1)(2).
+
+Author information: 
+(1)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako, Japan.
+(2)Cold Spring Harbor Laboratory, Cold Spring Harbor, United States.
+(3)Indian Institute of Technologies, Madras, India.
+(4)Center for Imaging Science, Johns Hopkins University, Maryland, United States.
+(5)Department of Physiology and Biomedicine, Discovery Institute, Monash
+University, Melbourne, Australia.
+(6)Australian Research Council Centre of Excellence for Integrative Brain
+Function, Clayton, Australia.
+(7)Central Institute for Experimental Animals, Kawasaki, Japan.
+(8)Laboratory for Symbolic Cognitive Development, RIKEN Center for Brain Science,
+Wako, Japan.
+(9)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+
+Comment in
+    Nat Methods. 2019 Apr;16(4):285.
+
+Understanding the connectivity architecture of entire vertebrate brains is a
+fundamental but difficult task. Here we present an integrated neuro-histological 
+pipeline as well as a grid-based tracer injection strategy for systematic
+mesoscale connectivity mapping in the common marmoset (Callithrix jacchus).
+Individual brains are sectioned into ~1700 20 µm sections using the tape transfer
+technique, permitting high quality 3D reconstruction of a series of histochemical
+stains (Nissl, myelin) interleaved with tracer labeled sections. Systematic
+in-vivo MRI of the individual animals facilitates injection placement into
+reference-atlas defined anatomical compartments. Further, by combining the
+resulting 3D volumes, containing informative cytoarchitectonic markers, with
+in-vivo and ex-vivo MRI, and using an integrated computational pipeline, we are
+able to accurately map individual brains into a common reference atlas despite
+the significant individual variation. This approach will facilitate the
+systematic assembly of a mesoscale connectivity matrix together with
+unprecedented 3D reconstructions of brain-wide projection patterns in a primate
+brain.
+
+© 2019, Lin et al.
+
+DOI: 10.7554/eLife.40042 
+PMCID: PMC6384052
+PMID: 30720427  [Indexed for MEDLINE]
+
+Conflict of interest statement: ML, YT, BH, MH, JN, JH, AT, KR, BL, MM, MR, ES,
+AI, HO, PM No competing interests declared
+
+
+558. Proc Natl Acad Sci U S A. 2019 Feb 19;116(8):3239-3244. doi:
+10.1073/pnas.1816653116. Epub 2019 Feb 4.
+
+Local homogeneity of tonotopic organization in the primary auditory cortex of
+marmosets.
+
+Zeng HH(1)(2), Huang JF(1)(2), Chen M(1), Wen YQ(1), Shen ZM(3), Poo MM(3).
+
+Author information: 
+(1)Institute of Neuroscience, State Key Laboratory of Neuroscience, Key
+Laboratory of Primate Neurobiology, Center for Excellence in Brain Science and
+Intelligence Technology, Chinese Academy of Sciences, Shanghai 200031, People's
+Republic of China.
+(2)University of Chinese Academy of Sciences, Beijing 100049, People's Republic
+of China.
+(3)Institute of Neuroscience, State Key Laboratory of Neuroscience, Key
+Laboratory of Primate Neurobiology, Center for Excellence in Brain Science and
+Intelligence Technology, Chinese Academy of Sciences, Shanghai 200031, People's
+Republic of China; zmshen@ion.ac.cn mpoo@ion.ac.cn.
+
+Marmoset has emerged as a useful nonhuman primate species for studying brain
+structure and function. Previous studies on the mouse primary auditory cortex
+(A1) showed that neurons with preferential frequency-tuning responses are mixed
+within local cortical regions, despite a large-scale tonotopic organization. Here
+we found that frequency-tuning properties of marmoset A1 neurons are highly
+uniform within local cortical regions. We first defined the tonotopic map of A1
+using intrinsic optical imaging and then used in vivo two-photon calcium imaging 
+of large neuronal populations to examine the tonotopic preference at the
+single-cell level. We found that tuning preferences of layer 2/3 neurons were
+highly homogeneous over hundreds of micrometers in both horizontal and vertical
+directions. Thus, marmoset A1 neurons are distributed in a tonotopic manner at
+both macro- and microscopic levels. Such organization is likely to be important
+for the organization of auditory circuits in the primate brain.
+
+DOI: 10.1073/pnas.1816653116 
+PMCID: PMC6386663
+PMID: 30718428  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

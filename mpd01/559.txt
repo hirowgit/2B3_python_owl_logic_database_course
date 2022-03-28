@@ -1,0 +1,108 @@
+
+
+559. J Neurosci. 2019 Apr 17;39(16):3094-3107. doi: 10.1523/JNEUROSCI.2451-18.2018.
+Epub 2019 Feb 4.
+
+Glutamate Within the Marmoset Anterior Hippocampus Interacts with Area 25 to
+Regulate the Behavioral and Cardiovascular Correlates of High-Trait Anxiety.
+
+Zeredo JL(1)(2), Quah SKL(2), Wallis CU(2), Alexander L(2), Cockcroft GJ(2),
+Santangelo AM(2), Xia J(3), Shiba Y(2), Dalley JW(3)(4), Cardinal RN(4)(5),
+Roberts AC(2), Clarke HF(6).
+
+Author information: 
+(1)Graduate Program in Health Science and Technology, University of Brasilia,
+Brasilia, Brazil.
+(2)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Cambridge CB2 3DY, United Kingdom.
+(3)Department of Psychology, University of Cambridge, Cambridge, CB2 3EB, United 
+Kingdom.
+(4)Department of Psychiatry, and.
+(5)Liaison Psychiatry Service, Cambridge and Peterborough NHS Foundation Trust,
+Cambridge Biomedical Campus, Cambridg, CB2 OQQ, United Kingdom.
+(6)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Cambridge CB2 3DY, United Kingdom, hfc23@cam.ac.uk.
+
+High-trait anxiety is a risk factor for the development of affective disorders
+and has been associated with decreased cardiovascular and behavioral responsivity
+to acute stressors in humans that may increase the risk of developing
+cardiovascular disease. Although human neuroimaging studies of high-trait anxiety
+reveals dysregulation in primate cingulate areas 25 and 32 and the anterior
+hippocampus (aHipp) and rodent studies reveal the importance of aHipp
+glutamatergic hypofunction, the causal involvement of aHipp glutamate and its
+interaction with these areas in the primate brain is unknown. Accordingly, we
+correlated marmoset trait anxiety scores to their postmortem aHipp glutamate
+levels and showed that low glutamate in the right aHipp is associated with
+high-trait anxiety in marmosets. Moreover, pharmacologically increasing aHipp
+glutamate reduced anxiety levels in highly anxious marmosets in two
+uncertainty-based tests of anxiety: exposure to a human intruder with uncertain
+intent and unpredictable loud noise. In the human intruder test, increasing aHipp
+glutamate decreased anxiety by increasing approach to the intruder. In the
+unpredictable threat test, animals showed blunted behavioral and cardiovascular
+responsivity after control infusions, which was normalized by increasing aHipp
+glutamate. However, this aHipp-mediated anxiolytic effect was blocked by
+simultaneous pharmacological inactivation of area 25, but not area 32, areas
+which when inactivated independently reduced and had no effect on anxiety,
+respectively. These findings provide causal evidence in male and female primates 
+that aHipp glutamatergic hypofunction and its regulation by area 25 contribute to
+the behavioral and cardiovascular symptoms of endogenous high-trait
+anxiety.SIGNIFICANCE STATEMENT High-trait anxiety predisposes sufferers to the
+development of anxiety and depression. Although neuroimaging of these disorders
+and rodent modeling implicate dysregulation in hippocampal glutamate and the
+subgenual/perigenual cingulate cortices (areas 25/32), the causal involvement of 
+these structures in endogenous high-trait anxiety and their interaction are
+unknown. Here, we demonstrate that increased trait anxiety in marmoset monkeys
+correlates with reduced hippocampal glutamate and that increasing hippocampal
+glutamate release in high-trait-anxious monkeys normalizes the aberrant
+behavioral and cardiovascular responsivity to potential threats. This
+normalization was blocked by simultaneous inactivation of area 25, but not area
+32. These findings provide casual evidence in primates that hippocampal
+glutamatergic hypofunction regulates endogenous high-trait anxiety and the
+hippocampal-area 25 circuit is a potential therapeutic target.
+
+Copyright © 2019 Zeredo et al.
+
+DOI: 10.1523/JNEUROSCI.2451-18.2018 
+PMCID: PMC6468106
+PMID: 30718320  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial
+interests.
+
+
+560. Behav Processes. 2019 May;162:55-63. doi: 10.1016/j.beproc.2019.01.014. Epub 2019
+Feb 1.
+
+Auditory sequence perception in common marmosets (Callithrix jacchus).
+
+Wakita M(1).
+
+Author information: 
+(1)Cognitive Neuroscience Section, Primate Research Institute, Kyoto University, 
+Kanrin 41-2, Inuyama, Aichi, 484-8506, Japan. Electronic address:
+wakita.masumi.2e@kyoto-u.ac.jp.
+
+One of the essential linguistic and musical faculties of humans is the ability to
+recognize the structure of sound configurations and to extract words and melodies
+from continuous sound sequences. However, monkeys' ability to process the
+temporal structure of sounds is controversial. Here, to investigate whether
+monkeys can analyze the temporal structure of auditory patterns, two common
+marmosets were trained to discriminate auditory patterns in three experiments. In
+Experiment 1, the marmosets were able to discriminate trains of either 0.5- or
+2-kHz tones repeated in either 50- or 200-ms intervals. However, the marmosets
+were not able to discriminate ABAB from AABB patterns consisting of A
+(0.5-kHz/50-ms pulse) and B (2-kHz/200-ms pulse) elements in Experiment 2, and A 
+(0.5-kHz/50-ms pulse) and B (0.5-kHz/200-ms pulse) [or A (0.5-kHz/200-ms pulse)
+and B (2-kHz/200-ms pulse)] in Experiment 3. Consequently, the results indicated 
+that the marmosets could not perceive tonal structures in terms of the temporal
+configuration of discrete sounds, whereas they could recognize the acoustic
+features of the stimuli. The present findings were supported by cognitive and
+brain studies that indicated a limited ability to process sound sequences.
+However, more studies are needed to confirm the ability of auditory sequence
+perception in common marmosets.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.beproc.2019.01.014 
+PMID: 30716383  [Indexed for MEDLINE]
+

@@ -1,0 +1,73 @@
+
+
+3234. Virology. 2000 Dec 20;278(2):445-55.
+
+Herpesvirus saimiri pathogenicity enhanced by thymidine kinase of herpes simplex 
+virus.
+
+Hiller C(1), Tamgüney G, Stolte N, Mätz-Rensing K, Lorenzen D, Hör S, Thurau M,
+Wittmann S, Slavin S, Fickenscher H.
+
+Author information: 
+(1)Institut für Klinische und Molekulare Virologie,
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Schlossgarten 4, Erlangen,
+D-91054, Germany.
+
+Herpesvirus saimiri can be used as an efficient gene expression vector for human 
+T lymphocytes and thus may allow applications in experimental leukemia therapy.
+We constructed recombinant viruses for the functional expression of the thymidine
+kinase (TK) of herpes simplex virus type 1 (HSV) as a suicide gene. These viruses
+reliably allowed the targeted elimination of transduced nonpermissive human T
+cells in vitro after the administration of ganciclovir. To test the reliability
+of this function under the most stringent permissive conditions, in this study we
+analyzed the influence of the prodrugs ganciclovir and acyclovir in common
+marmosets on the acute leukemogenesis induced by either wild-type herpesvirus
+saimiri C488 or by a recombinant derivative expressing TK of HSV. Antiviral drug 
+treatment did not influence the rapid development of acute disease. In contrast, 
+the presence of the HSV tk gene resulted in a faster disease progression. In
+addition, HSV TK-expressing viruses showed faster replication than wild-type
+virus in culture at low serum concentrations. Thus, HSV TK accelerates the
+replication of herpesvirus saimiri and enhances its pathogenicity. This should be
+generally considered when HSV TK is applied as a transgene in
+replication-competent DNA virus vectors for gene therapy.
+
+Copyright 2000 Academic Press.
+
+DOI: 10.1006/viro.2000.0665 
+PMID: 11118367  [Indexed for MEDLINE]
+
+
+3235. Pharmacol Biochem Behav. 2000 Sep;67(1):121-9.
+
+Effects of ropinirole on motor behavior in MPTP-treated common marmosets.
+
+Fukuzaki K(1), Kamenosono T, Kitazumi K, Nagata R.
+
+Author information: 
+(1)Shin Nippon Biomedical Laboratories Ltd., 2438 Miyanoura, 891-1394, Kagoshima,
+Japan.
+
+The effects of ropinirole (4-[2-(dipropylamino)ethyl]-2-indolinone
+monohydrochloride), a nonergoline dopamine receptor agonist with a high affinity 
+for native dopamine D(2)-like receptors, on Parkinsonism induced by
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP), 2.5 mg/animal in common
+marmosets were examined and compared to the effects of bromocriptine. Ropinirole 
+(0.1-3 mg/kg, PO) increased motor activity dose dependently and reversed akinesia
+or uncoordinated movement in MPTP-treated marmosets. The activities for
+ropinirole were very similar to those of bromocriptine. Ropinirole had, however, 
+several properties that differed from those of bromocriptine. Ropinirole caused a
+more rapid onset of anti-Parkinsonian activity compared to bromocriptine, and had
+a potency more than five times greater than that of bromocriptine in the
+improvement of motor deficits. The combination of ropinirole and L-DOPA increased
+the effectiveness of ropinirole or L-DOPA alone, and produced a more marked
+additive effect on motor activity than did bromocriptine and L-DOPA. Chronic
+administration of ropinirole for 21 days produced a statistically significant
+increase in motor activity compared to the initial administration, and akinesia
+scores, measured through rating the quality of movements, were also improved
+without obvious dyskinesia. This study suggests that ropinirole is a dopamine
+D(2)-like receptor agonistic drug of potential use in the treatment of
+Parkinson's disease.
+
+DOI: 10.1016/s0091-3057(00)00305-1 
+PMID: 11113491  [Indexed for MEDLINE]
+

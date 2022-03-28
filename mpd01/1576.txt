@@ -1,0 +1,68 @@
+
+
+1576. Biol Reprod. 2013 May 9;88(5):115. doi: 10.1095/biolreprod.113.109165. Print 2013
+May.
+
+Efficient embryo transfer in the common marmoset monkey (Callithrix jacchus) with
+a reduced transfer volume: a non-surgical approach with cryopreserved late-stage 
+embryos.
+
+Ishibashi H(1), Motohashi HH, Kumon M, Yamamoto K, Okada H, Okada T, Seki K.
+
+Author information: 
+(1)Department of Neurophysiology, National Institute of Neuroscience, National
+Center of Neurology and Psychiatry, Tokyo, Japan. ishiba@ncnp.go.jp
+
+Among primates, the common marmoset is suitable for primate embryology research. 
+Its small body size, however, has delayed the technical development of efficient 
+embryo transfer. Furthermore, three factors have been determined to adversely
+affect the performance of marmoset embryo transfer: nonsurgical approaches, the
+use of cryopreserved embryos, and the use of late-stage embryos. Here we
+performed embryo transfer under conditions that included the above three factors 
+and using either a small (1 μl or less) or a large volume (2-3 μl) of medium. The
+pregnancy and birth rates were 50% (5/10) and 27% (3/11), respectively, when
+using the large volume, and 80% (8/10) and 75% (9/12), respectively, when using
+the small volume. The latter scores exceed those of previous reports using
+comparable conditions. Thus, it appears that these three previously considered
+factors could be overcome, and we propose that reducing the transfer volume to 1 
+μl or less is essential for successful marmoset embryo transfer.
+
+DOI: 10.1095/biolreprod.113.109165 
+PMID: 23536374  [Indexed for MEDLINE]
+
+
+1577. Neuroimage. 2013 Aug 15;77:268-78. doi: 10.1016/j.neuroimage.2013.03.005. Epub
+2013 Mar 22.
+
+Micro-compartment specific T2* relaxation in the brain.
+
+Sati P(1), van Gelderen P, Silva AC, Reich DS, Merkle H, de Zwart JA, Duyn JH.
+
+Author information: 
+(1)Translational Neuroradiology Unit, Neuroimmunology Branch, National Institute 
+of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD
+20892, USA.
+
+MRI at high field can be sensitized to the magnetic properties of tissues, which 
+introduces a signal dependence on the orientation of white matter (WM) fiber
+bundles relative to the magnetic field. In addition, study of the NMR relaxation 
+properties of this signal has indicated contributions from compartmentalized
+water environments inside and outside the myelin sheath that may be separable.
+Here we further investigated the effects of water compartmentalization on the MRI
+signal with the goal of extracting compartment-specific information. By comparing
+MRI measurements of human and marmoset brain at 7T with magnetic field modeling, 
+we show that: (1) water between the myelin lipid bilayers, in the axonal, and in 
+the interstitial space each experience characteristic magnetic field effects that
+depend on fiber orientation (2) these field effects result in characteristic
+relaxation properties and frequency shifts for these compartments; and (3)
+compartmental contributions may be separated by multi-component fitting of the
+MRI signal relaxation (i.e. decay) curve. We further show the potential
+application of these findings to the direct mapping of myelin content and
+assessment of WM fiber integrity with high field MRI.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.neuroimage.2013.03.005 
+PMCID: PMC3816634
+PMID: 23528924  [Indexed for MEDLINE]
+

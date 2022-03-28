@@ -1,0 +1,44 @@
+
+
+2871. J Cereb Blood Flow Metab. 2004 Jan;24(1):24-41.
+
+A new primate model of focal stroke: endothelin-1-induced middle cerebral artery 
+occlusion and reperfusion in the common marmoset.
+
+Virley D(1), Hadingham SJ, Roberts JC, Farnfield B, Elliott H, Whelan G, Golder
+J, David C, Parsons AA, Hunter AJ.
+
+Author information: 
+(1)Neurology and GI CEDD, GlaxoSmithKline Pharmaceuticals, Harlow, Essex, United 
+Kingdom. David_J_Virley@gsk.com
+
+The purpose of the present set of studies was to develop a new primate model of
+focal ischemia with reperfusion for long-term functional assessment in the common
+marmoset. Initially, the cerebral vascular anatomy of the marmoset was
+interrogated by Araldite-cast and ink-perfusion methods to determine the
+feasibility of an intravascular surgical approach. The methods showed that the
+internal carotid artery was highly tortuous in its passage, precluding the
+development of an extracranial method of inducing temporary middle cerebral
+artery occlusion in the marmoset. A pilot dose-response study investigated an
+intracranial approach of topically applying endothelin-1 (ET-1) to the M2 portion
+of the middle cerebral artery in a small sample of marmosets for up to 6 hours (n
+= 2 or 3 per group). Dose-dependent reductions in middle cerebral artery vessel
+caliber followed by gradual reperfusion were inversely related to increases in
+corrected lesion volume after ET-1 treatment, relative to vehicle control
+application. Finally, the functional consequences of ET-1-induced lesions to the 
+M2 vascular territory were assessed up to 24 hours after surgery using the
+optimal dose established in the pilot study (2.5 nmol/25 microL). ET-1-treated
+marmosets (n = 4) showed marked contralateral motor deficits in grip strength and
+retrieval of food rewards and contralateral sensory/motor neglect towards tactile
+stimulation, relative to their ipsilateral side and vehicle-treated marmosets (n 
+= 4). Strong correlations were shown between contralateral impairments and
+histopathologic parameters, which revealed unilateral putamen and cortical damage
+to the middle cerebral artery territory. No deficits were shown on general
+mobility, and self-care was promptly resumed in ET-1 marmosets after surgery.
+These results show that this novel model of ischemia with reperfusion in the
+marmoset has the potential to assess long-term function and to gauge the efficacy
+of novel therapeutic strategies targeted for clinical stroke.
+
+DOI: 10.1097/01.WCB.0000095801.98378.4A 
+PMID: 14688614  [Indexed for MEDLINE]
+

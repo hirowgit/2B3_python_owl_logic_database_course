@@ -1,0 +1,36 @@
+
+
+3142. J Virol Methods. 2001 Jul;96(1):93-6.
+
+Efficient isolation of mumps virus from a community outbreak using the marmoset
+lymphoblastoid cell line B95a.
+
+Knowles WA(1), Cohen BJ.
+
+Author information: 
+(1)Enteric Respiratory and Neurological Virus Laboratory, Virus Reference
+Division, Central Public Health Laboratory, 61 Colindale Avenue, London NW9 5HT, 
+UK. wknowles@phls.org.uk
+
+The incidence of mumps infection in the UK was reduced greatly by vaccination as 
+a component of MMR vaccine, but cases and outbreaks continue to occur. Although
+in specialised laboratories RT-PCR is available for detection of mumps virus RNA 
+in clinical samples, in routine laboratories virus isolation remains a standard
+method for diagnosing mumps virus infection. Furthermore, isolation of mumps
+virus strains circulating currently is important for monitoring the ability of
+vaccine-induced antibody to neutralise any genotypes recognised recently and to
+detect any changes in phenotype. In this study we compared rhesus monkey kidney
+(RMK) cells with the cell line B95a for mumps virus isolation from twenty throat 
+swabs collected during a mumps outbreak in a religious community with low MMR
+coverage. Mumps virus was isolated from eight cases (40%), six were positive in
+both cell cultures and two in only one, all positive samples being collected
+within 2 days of onset. Virus growth in B95a cells was detected by the production
+of a syncytial cytopathic effect, and confirmed by an indirect fluorescent
+antibody test using a mumps monoclonal antibody. The B95a cell line was found to 
+be equally as sensitive for mumps isolation as RMK cells, which are regarded as
+the 'gold standard', thus providing an alternative to the use of primary animal
+cell culture.
+
+DOI: 10.1016/s0166-0934(01)00326-3 
+PMID: 11516492  [Indexed for MEDLINE]
+

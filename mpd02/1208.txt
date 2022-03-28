@@ -1,0 +1,49 @@
+
+
+1208. Monoclon Antib Immunodiagn Immunother. 2015 Jun;34(3):181-90. doi:
+10.1089/mab.2014.0072.
+
+Production of a High-affinity Monoclonal Antibody Reactive with Folate Receptors 
+Alpha and Beta.
+
+Nagai T(1), Furusho Y(1), Li H(1), Hasui K(1), Matsukita S(2), Sueyoshi K(3),
+Yanagi M(4), Hatae M(5), Takao S(6), Matsuyama T(6).
+
+Author information: 
+(1)1 Department of Immunology, Graduate School of Medical and Dental Sciences,
+Kagoshima University , Kagoshima, Japan .
+(2)2 Department of Clinical Pathology, Kagoshima Kousei-Ren Hospital , Kagoshima,
+Japan .
+(3)3 Department of Clinical Pathology, Kagoshima City Hospital , Kagoshima, Japan
+.
+(4)4 Department of Surgery, Kagoshima City Hospital , Kagoshima, Japan .
+(5)5 Department of Obstetrics, Kagoshima City Hospital , Kagoshima, Japan .
+(6)6 The Center for Advanced Biomedical Sciences and Swine Research, Kagoshima
+University , Kagoshima, Japan .
+
+Folate receptors α (FRα) and β (FRβ) are two isoforms of the cell surface
+glycoprotein that binds folate. The expression of FRα is rare in normal cells and
+elevated in cancer cells. Thus, FRα-based tumor-targeted therapy has been a focus
+area of laboratory research and clinical trials. Recently, it was shown that a
+significant fraction of tumor-associated macrophages expresses FRβ and that these
+cells can enhance tumor growth. Although FRα and FRβ share 70% identity in their 
+deduced amino acid sequence, a monoclonal antibody (MAb) reactive with both
+receptors has not been developed. A MAb that can target both FRα-expressing
+cancer cells and FRβ-expressing tumor-associated macrophages may provide a more
+potent therapeutic tool for cancer than individual anti-FRα or anti-FRβ MAbs. In 
+this study, we developed a MAb that recognizes both FRα and FRβ (anti-FRαβ). The 
+anti-FRαβ specifically stained trophoblasts and macrophages from human placenta, 
+synovial macrophages from rheumatoid arthritis patient, liver macrophages from
+cynomolgus monkey and common marmoset, and cancer cells and tumor-associated
+macrophages from ovary and lung carcinomas. Surface plasmon resonance showed that
+the anti-FRαβ bound to soluble forms of the FRα and FRβ proteins with high
+affinity (KD=6.26×10(-9) M and 4.33×10(-9) M, respectively). In vitro functional 
+analysis of the anti-FRαβ showed that this MAb mediates complement-dependent
+cytotoxicity, antibody-dependent cellular cytotoxicity, and antibody-dependent
+cellular phagocytosis of FRα-expressing and FRβ-expressing cell lines. The
+anti-FRαβ MAb is a promising therapeutic candidate for cancers in which
+macrophages promote tumor progression.
+
+DOI: 10.1089/mab.2014.0072 
+PMID: 26090596  [Indexed for MEDLINE]
+

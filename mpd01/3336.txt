@@ -1,0 +1,71 @@
+
+
+3336. J Biol Chem. 2000 Apr 7;275(14):10648-54.
+
+Characterization of a human angiotensinogen cleaved in its reactive center loop
+by a proteolytic activity from Chinese hamster ovary cells.
+
+Célérier J(1), Schmid G, Le Caer JP, Gimenez-Roqueplo AP, Bur D, Friedlein A,
+Langen H, Corvol P, Jeunemaitre X.
+
+Author information: 
+(1)INSERM U36-Pathologie Vasculaire et Endocrinologie Rénale, Collège de
+France-Chaire de Médecine Expérimentale et d'Endocrinologie Rénale 3, rue d'Ulm
+75005 Paris, France. jerome.celerier@college-de-france.fr
+
+Angiotensinogen, the renin (E.C. 3.4.23.15) substrate, belongs to the serpins
+superfamily and has been classified as a noninhibitory serpin. Using mass
+spectroscopy, angiotensinogen purified from Chinese hamster ovary cell
+supernatant shows a broad spectrum. The absence of protease inhibitors throughout
+the purification leads to an angiotensinogen cleaved within the reactive center
+loop. This cleavage does not affect the Ang I generation because kinetic
+parameters are similar to the values of the full-length angiotensinogen. Although
+cleavage is complete, the cleaved angiotensinogen migrates after deglycosylation 
+on SDS-polyacrylamide gel electrophoresis as a doublet differing by 4 kDa. To
+test whether the circulating angiotensinogen is cleaved in the reactive center
+loop, it was purified from a pool of human plasma and was shown to be uncleaved. 
+Its migration was obviously slower than of cleaved angiotensinogen but also
+consisted of two bands pointing to a so far unexplained residual heterogeneity.
+We then compared the heat-induced polymerization of full-length- and reactive
+center loop-cleaved angiotensinogens. Both monomers were able to aggregate,
+revealing a particular behavior of angiotensinogen distinct from that of reactive
+center loop-cleaved serpins. Lacking the three-dimensional structure of
+angiotensinogen, we propose and discuss a structural model of the serpin fold
+within the renin substrate.
+
+DOI: 10.1074/jbc.275.14.10648 
+PMID: 10744761  [Indexed for MEDLINE]
+
+
+3337. Int Immunol. 2000 Apr;12(4):555-62.
+
+A novel murine anti-human Fas mAb which mitigates lymphadenopathy without
+hepatotoxicity.
+
+Ichikawa K(1), Yoshida-Kato H, Ohtsuki M, Ohsumi J, Yamaguchi J, Takahashi S,
+Tani Y, Watanabe M, Shiraishi A, Nishioka K, Yonehara S, Serizawa N.
+
+Author information: 
+(1)Biomedical Research Laboratories, Sankyo Co., Ltd, Tokyo 140-8710, Japan.
+
+Defects in Fas-mediated apoptosis are implicated in autoimmune diseases including
+rheumatoid arthritis (RA). Although induction of Fas-mediated apoptosis could
+have therapeutic effects on these diseases, it might cause deleterious effects in
+liver as Fas ligand or an agonistic anti-murine Fas antibody Jo2 causes severe
+hepatic injury in mice. We report here on the interesting characteristics of the 
+newly obtained anti-Fas mAb, HFE7A, which cross-reacts with the Fas molecules of 
+various species ranging from human to mouse and mitigates autoimmune symptoms
+without hepatotoxicity in mice. The administration of HFE7A to mice induced
+apoptosis in the thymocytes, although administration of HFE7A to mice or to
+marmosets did not induce any sign of hepatitis. The effect of HFE7A on liver is
+different from that of anti-murine Fas antibody Jo2, which causes acute and
+lethal hepatic injury to mice. Administration of HFE7A reduced lymphadenopathy
+and abnormal T cells in MRL-gld/gld mice. HFE7A induced apoptosis in synovial
+cells prepared from RA patients. Surprisingly, HFE7A protected mice from
+fulminant hepatitis induced by Jo2. Therefore, HFE7A is a potential therapeutic
+antibody not only for autoimmune diseases including RA but also for fulminant
+hepatitis.
+
+DOI: 10.1093/intimm/12.4.555 
+PMID: 10744657  [Indexed for MEDLINE]
+

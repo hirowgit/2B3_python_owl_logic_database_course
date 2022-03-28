@@ -1,0 +1,78 @@
+
+
+3430. Am J Primatol. 1999;48(3):225-36.
+
+Phylogenetic relationships of the Callitrichinae (Platyrrhini, primates) based on
+beta2-microglobulin DNA sequences.
+
+Canavez FC(1), Moreira MA, Simon F, Parham P, Seuánez HN.
+
+Author information: 
+(1)Department of Structural Biology, Stanford University School of Medicine,
+California 94305-5126, USA. fcanavez@cmgm.stanford.edu
+
+The phylogenetic relationships of callitrichine primates have been determined by 
+DNA sequence analyses of exons 1, 2, and 3 of the beta2-microglobulin gene.
+Parsimony, distance, and maximum likelihood analyses of ca. 900 base pairs of 21 
+taxa, representing all callitrichine genera, indicated that Saguinus was the most
+basal offshoot. Within Saguinus, S. fuscicollis appeared as the first divergent
+lineage followed by an unresolved trichotomy formed by S. mystax/S. imperator, S.
+midas/S. bicolor, and S. oedipus. A second callitrichine lineage was formed by
+Leontopithecus; each of the three species studied showed identical nucleotide
+sequences. Callimico appeared as the sister taxon of Callithrix/Cebuella. Genetic
+distances within this latter group were very small, although a stronger
+association between Cebuella and species of the Callithrix argentata group was
+observed. The inclusion of Cebuella in the genus Callithrix is suggested. These
+studies indicated that tamarins are more plesiomorphic than marmosets in
+agreement with the phyletic dwarfism hypothesis.
+
+DOI: 10.1002/(SICI)1098-2345(1999)48:3<225::AID-AJP4>3.0.CO;2-4 
+PMID: 10380996  [Indexed for MEDLINE]
+
+
+3431. Exp Anim. 1999 Apr;48(2):107-14.
+
+Leukocyte differential analysis in multiple laboratory species by a laser
+multi-angle polarized light scattering separation method.
+
+Suzuki S(1), Eguchi N.
+
+Author information: 
+(1)Central Institute for Experimental Animals, Kawasaki-Shi, Japan.
+
+Leukocyte differential analysis was performed in various species, particularly
+laboratory animals, by the laser multi-angle polarized light scattering
+separation method. Venous blood specimens were drawn from the following subjects:
+healthy adult men and women ("humans"); cynomolgus monkeys ("monkeys"); common
+marmosets ("marmosets"); beagle dogs ("dogs"); miniature potbelly pigs ("swine");
+Japanese white rabbits ("rabbits"); Hartley guinea pigs ("guinea pigs"); and
+Sprague-Dawley rats ("rats"). 90 degrees/10 degrees scatter plot: Basophils and
+mononuclear-polymorphonuclear cells were separated in all subjects, but
+individual 10 degrees and 90 degrees scatter plots overlapped in dogs and guinea 
+pigs, respectively. 90 degrees depolarized /90 degrees scatter plot: Neutrophils 
+and eosinophils were clearly separated in human, monkey, guinea pig, swine and
+rat subjects. The eosinophil cluster was not clearly plotted in marmoset, dog, or
+rabbit. 0 degree/10 degrees scatter plot: Regarding this plot for monocytes and
+lymphocytes, cells were plotted in the following order in all subjects:
+lymphocytes < basophils < or = monocytes in the 0 degree (size) scatter; and
+lymphocytes [symbol: see text] monocytes < or = basophils in the 10 degrees
+(complexity) scatter. Compared to other species, the rat scatter showed a
+tendency to overlapping plots in both the 0 degree and 10 degrees scatters in the
+monocyte and lymphocyte clusters. In both dog and guinea pig, the monocyte and
+neutrophil plots overlapped in the 0 degree and 10 degrees scatters. Basobox: In 
+the human and rabbit subjects, the basophil cluster was plotted within the
+established basobox, but no clear cell cluster was plotted in the other subjects.
+As a result of comparing the percentage values for leukocytes in various species 
+obtained by using the CD3500 apparatus versus the corresponding values obtained
+manually, good correspondence was found in the monkey, and eosinophils in the
+marmoset were lower with CD3500 than manually. In the rabbit, the mean measured
+value for basophils matched in the manual and CD3500 findings. In the guinea pig,
+the CD3500 values were lower than the manual values for lymphocytes, but higher
+for monocytes and neutrophils. The above findings suggest that the laser
+multi-angle polarized light scattering separation method is indeed capable of
+analyzing leukocytes from various species based on cell size and cell complexity,
+i.e., the presence or absence of nuclei, granules and cell enclosures.
+
+DOI: 10.1538/expanim.48.107 
+PMID: 10374072  [Indexed for MEDLINE]
+

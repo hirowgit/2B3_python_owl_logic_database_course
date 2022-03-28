@@ -1,0 +1,42 @@
+
+
+525. Nat Commun. 2019 Mar 21;10(1):1302. doi: 10.1038/s41467-019-09115-y.
+
+Optimal features for auditory categorization.
+
+Liu ST(1), Montes-Lourido P(2), Wang X(3), Sadagopan S(4)(5)(6).
+
+Author information: 
+(1)Department of Bioengineering, University of Pittsburgh, Pittsburgh, 15213, PA,
+USA.
+(2)Department of Neurobiology, University of Pittsburgh, Pittsburgh, 15213, PA,
+USA.
+(3)Department of Biomedical Engineering, Johns Hopkins University, Baltimore,
+21205, MD, USA.
+(4)Department of Bioengineering, University of Pittsburgh, Pittsburgh, 15213, PA,
+USA. vatsun@pitt.edu.
+(5)Department of Neurobiology, University of Pittsburgh, Pittsburgh, 15213, PA,
+USA. vatsun@pitt.edu.
+(6)Department of Otolaryngology, University of Pittsburgh, Pittsburgh, 15213, PA,
+USA. vatsun@pitt.edu.
+
+Humans and vocal animals use vocalizations to communicate with members of their
+species. A necessary function of auditory perception is to generalize across the 
+high variability inherent in vocalization production and classify them into
+behaviorally distinct categories ('words' or 'call types'). Here, we demonstrate 
+that detecting mid-level features in calls achieves production-invariant
+classification. Starting from randomly chosen marmoset call features, we use a
+greedy search algorithm to determine the most informative and least redundant
+features necessary for call classification. High classification performance is
+achieved using only 10-20 features per call type. Predictions of tuning
+properties of putative feature-selective neurons accurately match some observed
+auditory cortical responses. This feature-based approach also succeeds for call
+categorization in other species, and for other complex classification tasks such 
+as caller identification. Our results suggest that high-level neural
+representations of sounds are based on task-dependent features optimized for
+specific computational goals.
+
+DOI: 10.1038/s41467-019-09115-y 
+PMCID: PMC6428858
+PMID: 30899018  [Indexed for MEDLINE]
+

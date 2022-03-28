@@ -1,0 +1,38 @@
+
+
+3234. Virology. 2000 Dec 20;278(2):445-55.
+
+Herpesvirus saimiri pathogenicity enhanced by thymidine kinase of herpes simplex 
+virus.
+
+Hiller C(1), Tamgüney G, Stolte N, Mätz-Rensing K, Lorenzen D, Hör S, Thurau M,
+Wittmann S, Slavin S, Fickenscher H.
+
+Author information: 
+(1)Institut für Klinische und Molekulare Virologie,
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Schlossgarten 4, Erlangen,
+D-91054, Germany.
+
+Herpesvirus saimiri can be used as an efficient gene expression vector for human 
+T lymphocytes and thus may allow applications in experimental leukemia therapy.
+We constructed recombinant viruses for the functional expression of the thymidine
+kinase (TK) of herpes simplex virus type 1 (HSV) as a suicide gene. These viruses
+reliably allowed the targeted elimination of transduced nonpermissive human T
+cells in vitro after the administration of ganciclovir. To test the reliability
+of this function under the most stringent permissive conditions, in this study we
+analyzed the influence of the prodrugs ganciclovir and acyclovir in common
+marmosets on the acute leukemogenesis induced by either wild-type herpesvirus
+saimiri C488 or by a recombinant derivative expressing TK of HSV. Antiviral drug 
+treatment did not influence the rapid development of acute disease. In contrast, 
+the presence of the HSV tk gene resulted in a faster disease progression. In
+addition, HSV TK-expressing viruses showed faster replication than wild-type
+virus in culture at low serum concentrations. Thus, HSV TK accelerates the
+replication of herpesvirus saimiri and enhances its pathogenicity. This should be
+generally considered when HSV TK is applied as a transgene in
+replication-competent DNA virus vectors for gene therapy.
+
+Copyright 2000 Academic Press.
+
+DOI: 10.1006/viro.2000.0665 
+PMID: 11118367  [Indexed for MEDLINE]
+

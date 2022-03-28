@@ -1,0 +1,44 @@
+
+
+581. Methods Mol Biol. 2019;1938:85-95. doi: 10.1007/978-1-4939-9068-9_6.
+
+A Specialized Method to Resolve Fine 3D Features of Astrocytes in Nonhuman
+Primate (Marmoset, Callithrix jacchus) and Human Fixed Brain Samples.
+
+Quesseveur G(1), Fouquier d'Hérouël A(2), Murai KK(3), Bouvier DS(4).
+
+Author information: 
+(1)Department of Neurology and Neurosurgery, Centre for Research in Neuroscience,
+The Research Institute of the McGill University Health Centre, Montreal General
+Hospital, Montreal, QC, Canada.
+(2)Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, 
+Luxembourg.
+(3)Department of Neurology and Neurosurgery, Centre for Research in Neuroscience,
+The Research Institute of the McGill University Health Centre, Montreal General
+Hospital, Montreal, QC, Canada. keith.murai@mcgill.ca.
+(4)Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, 
+Luxembourg. david.bouvier@uni.lu.
+
+Astrocytes are among the most numerous cells in the brain and fulfill diverse
+functions in homeostasis and regulation of neuronal activity. Astrocytes also
+dramatically change their properties in response to brain injury or disease, a
+process called reactive gliosis. Precisely how astrocytes contribute to healthy
+brain function and play differential roles in brain pathology and regeneration
+remain important areas of investigation. To better understand the properties of
+astrocytes, more sophisticated approaches for probing their rich and complex
+anatomical and molecular features are needed to fully determine their
+contribution to brain physiology. Here we present an efficient and
+straightforward immunolabeling protocol to obtain high-resolution
+fluorescence-based images from fixed nonhuman primate (common marmoset Callithrix
+jacchus) and human brain samples. Importantly, the protocol is useful for
+obtaining images from samples that have been stored in fixative solutions (such
+as formalin) for years. This approach is especially useful for three-dimensional,
+multichannel confocal microscopy and can be optimized for super-resolution
+techniques such as stimulated emission depletion (STED) microscopy. We also
+present a strategy for using specific combinations of markers to define the
+phenotypic variations and cellular/subcellular properties of astrocytes to better
+predict the function of these cells on their surrounding brain microenvironment.
+
+DOI: 10.1007/978-1-4939-9068-9_6 
+PMID: 30617974  [Indexed for MEDLINE]
+

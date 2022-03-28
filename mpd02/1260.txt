@@ -1,0 +1,34 @@
+
+
+1260. Appl Biochem Biotechnol. 2015 May;176(2):399-411. doi: 10.1007/s12010-015-1583-5.
+Epub 2015 Mar 26.
+
+Expression of Bioactive Callithrix jacchus Follicle-Stimulating Hormone in Pichia
+pastoris.
+
+Kutteyil SS(1), Pathak BR, Dighe RR, Mahale SD.
+
+Author information: 
+(1)Division of Structural Biology, National Institute for Research in
+Reproductive Health (Indian Council of Medical Research), Jehangir Merwanji
+Street, Parel, Mumbai, 400 012, India.
+
+Callithrix jacchus (common marmoset) is a New World primate monkey, used as an
+animal model in biomedical research. Marmoset-specific follicle-stimulating
+hormone (FSH) preparation is required to improve superovulation protocols and to 
+develop homologous FSH monitoring assays in these monkeys. In this study, we
+document the large-scale expression of recombinant marmoset FSH in methylotropic 
+yeast, Pichia pastoris. The recombinant preparation was found to be
+immunologically active in Western blotting and radioimmunoassay. The preparation 
+displayed receptor binding ability in radioreceptor assay. Based on the receptor 
+binding ability, the yield of fermentation was estimated to be 7.2 mg/L.
+FSH-induced cAMP assay and estradiol assay revealed that the recombinant hormone 
+is able to induce signal transduction. Both immunological and in vitro biological
+activity of marmoset FSH was found to be comparable to purified human pituitary
+FSH, which served as reference hormone for these assays. Thus, the study suggests
+that a Pichia expression system can be used for large-scale expression of
+bioactive recombinant marmoset FSH.
+
+DOI: 10.1007/s12010-015-1583-5 
+PMID: 25805018  [Indexed for MEDLINE]
+

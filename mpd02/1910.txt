@@ -1,0 +1,44 @@
+
+
+1910. Neuroimage. 2011 Jun 1;56(3):1154-63. doi: 10.1016/j.neuroimage.2011.02.075. Epub
+2011 Mar 3.
+
+Rapid high-resolution three-dimensional mapping of T1 and age-dependent
+variations in the non-human primate brain using magnetization-prepared rapid
+gradient-echo (MPRAGE) sequence.
+
+Liu JV(1), Bock NA, Silva AC.
+
+Author information: 
+(1)Cerebral Microcirculation Unit, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD 20892-1065, USA. liu@junjie.com
+
+The use of quantitative T(1) mapping in neuroscience and neurology has raised
+strong interest in the development of T(1)-mapping techniques that can measure
+T(1) in the whole brain, with high accuracy and precision and within short
+imaging and computation times. Here, we present a new inversion-recovery (IR)
+based T(1)-mapping method using a standard 3D magnetization-prepared rapid
+gradient-echo (MPRAGE) sequence. By varying only the inversion time (TI), but
+keeping other parameters constant, MPRAGE image signals become linear to
+exp(-TI/T(1)), allowing for accurate T(1) estimation without flip angle
+correction. We also show that acquiring data at just 3 TIs, with the three
+different TI values optimized, gives maximum T(1) precision per unit time,
+allowing for new efficient approaches to measure and compute T(1). We demonstrate
+the use of our method at 7 T to obtain 3D T(1) maps of the whole brain in common 
+marmosets at 0.60mm resolution and within 11 min. T(1) maps from the same
+individuals were highly reproducible across different days. Across subjects, the 
+peak of cerebral gray matter T(1) distribution was 1735±52 ms, and the lower edge
+of cerebral white matter T(1) distribution was 1270±43 ms. We found a significant
+decrease of T(1) in both gray and white matter of the marmoset brain with age
+over a span of 14 years, in agreement with previous human studies. This
+application illustrates that MPRAGE-based 3D T(1) mapping is rapid, accurate and 
+precise, and can facilitate high-resolution anatomical studies in neuroscience
+and neurological diseases.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.neuroimage.2011.02.075 
+PMCID: PMC3085577
+PMID: 21376814  [Indexed for MEDLINE]
+

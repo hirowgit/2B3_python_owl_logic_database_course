@@ -1,0 +1,70 @@
+
+
+211. Nat Microbiol. 2021 Jan;6(1):73-86. doi: 10.1038/s41564-020-00841-4. Epub 2020
+Dec 18.
+
+Responses to acute infection with SARS-CoV-2 in the lungs of rhesus macaques,
+baboons and marmosets.
+
+Singh DK(1)(2), Singh B(1)(2), Ganatra SR(1)(2), Gazi M(2), Cole J(1)(2),
+Thippeshappa R(1)(2), Alfson KJ(2), Clemmons E(1)(2), Gonzalez O(1)(2), Escobedo 
+R(1)(2), Lee TH(1)(2), Chatterjee A(1)(2), Goez-Gazi Y(2), Sharan R(1)(2), Gough 
+M(1)(2), Alvarez C(1)(2), Blakley A(1)(2), Ferdin J(1)(2), Bartley C(1)(2),
+Staples H(1)(2), Parodi L(1)(2), Callery J(1)(2), Mannino A(1)(2), Klaffke B(2), 
+Escareno P(2), Platt RN 2nd(2), Hodara V(1)(2), Scordo J(2), Gautam S(2),
+Vilanova AG(2), Olmo-Fontanez A(2), Schami A(2), Oyejide A(3), Ajithdoss DK(3),
+Copin R(3), Baum A(3), Kyratsous C(3), Alvarez X(1)(2), Ahmed M(4), Rosa B(4),
+Goodroe A(1)(2), Dutton J(1)(2), Hall-Ursone S(1)(2), Frost PA(1)(2), Voges
+AK(1)(2)(5), Ross CN(1)(2), Sayers K(1)(2), Chen C(1)(2), Hallam C(2), Khader
+SA(4), Mitreva M(4), Anderson TJC(2), Martinez-Sobrido L(2), Patterson JL(2),
+Turner J(2), Torrelles JB(2), Dick EJ Jr(1)(2), Brasky K(1)(2), Schlesinger
+LS(1)(2), Giavedoni LD(6)(7), Carrion R Jr(8)(9), Kaushal D(10)(11).
+
+Author information: 
+(1)Southwest National Primate Research Center, San Antonio, TX, USA.
+(2)Texas Biomedical Research Institute, San Antonio, TX, USA.
+(3)Regeneron Pharmaceuticals Inc., Tarrytown, NY, USA.
+(4)Washington University School of Medicine in St Louis, St Louis, MO, USA.
+(5)Veterinary Imaging Consulting of South Texas, San Antonio, TX, USA.
+(6)Southwest National Primate Research Center, San Antonio, TX, USA.
+lgiavedoni@txbiomed.org.
+(7)Texas Biomedical Research Institute, San Antonio, TX, USA.
+lgiavedoni@txbiomed.org.
+(8)Southwest National Primate Research Center, San Antonio, TX, USA.
+rcarrion@txbiomed.org.
+(9)Texas Biomedical Research Institute, San Antonio, TX, USA.
+rcarrion@txbiomed.org.
+(10)Southwest National Primate Research Center, San Antonio, TX, USA.
+dkaushal@txbiomed.org.
+(11)Texas Biomedical Research Institute, San Antonio, TX, USA.
+dkaushal@txbiomed.org.
+
+Erratum in
+    Nat Microbiol. 2021 Mar;6(3):413.
+
+Comment in
+    Lab Anim (NY). 2021 Feb;50(2):44.
+
+Non-human primate models will expedite therapeutics and vaccines for coronavirus 
+disease 2019 (COVID-19) to clinical trials. Here, we compare acute severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2) infection in young and old rhesus
+macaques, baboons and old marmosets. Macaques had clinical signs of viral
+infection, mild to moderate pneumonitis and extra-pulmonary pathologies, and both
+age groups recovered in two weeks. Baboons had prolonged viral RNA shedding and
+substantially more lung inflammation compared with macaques. Inflammation in
+bronchoalveolar lavage was increased in old versus young baboons. Using
+techniques including computed tomography imaging, immunophenotyping, and
+alveolar/peripheral cytokine response and immunohistochemical analyses, we
+delineated cellular immune responses to SARS-CoV-2 infection in macaque and
+baboon lungs, including innate and adaptive immune cells and a prominent type-I
+interferon response. Macaques developed T-cell memory phenotypes/responses and
+bystander cytokine production. Old macaques had lower titres of
+SARS-CoV-2-specific IgG antibody levels compared with young macaques. Acute
+respiratory distress in macaques and baboons recapitulates the progression of
+COVID-19 in humans, making them suitable as models to test vaccines and
+therapies.
+
+DOI: 10.1038/s41564-020-00841-4 
+PMCID: PMC7890948
+PMID: 33340034  [Indexed for MEDLINE]
+

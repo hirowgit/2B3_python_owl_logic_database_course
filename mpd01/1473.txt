@@ -1,0 +1,83 @@
+
+
+1473. J Virol. 2014 Mar;88(6):3058-66. doi: 10.1128/JVI.03035-13. Epub 2013 Dec 11.
+
+Genetic variation in vitro and in vivo of an attenuated Lassa vaccine candidate.
+
+Zapata JC(1), Goicochea M, Nadai Y, Eyzaguirre LM, Carr JK, Tallon LJ, Sadzewicz 
+L, Myers G, Fraser CM, Su Q, Djavani M, Lukashevich IS, Salvato MS.
+
+Author information: 
+(1)Institute of Human Virology, University of Maryland School of Medicine,
+Baltimore, Maryland, USA.
+
+The attenuated Lassa vaccine candidate ML29 is a laboratory-produced reassortant 
+between Lassa and Mopeia viruses, two Old World arenaviruses that differ by 40%
+in nucleic acid sequence. In our previous studies, ML29 elicited sterilizing
+immunity against Lassa virus challenge in guinea pigs and marmosets and
+virus-specific cell-mediated immunity in both simian immunodeficiency virus
+(SIV)-infected and uninfected rhesus macaques. Here, we show that ML29 is stable 
+after 12 passages in vitro without losing its plaque morphology or its attenuated
+phenotype in suckling mice. Additionally, we used deep sequencing to characterize
+the viral population comprising the original stock of ML29, the stock of ML29
+after 12 passages in Vero cells, and the ML29 isolates obtained from vaccinated
+animals. Twenty-seven isolates bore approximately 77 mutations that exceeded 20% 
+of the single-nucleotide polymorphism (SNP) changes at any single locus. Of these
+77 mutations, 5 appeared to be host specific, for example, appearing in mice but 
+not in primates. None of these mutations were reversions of ML29 to the sequences
+of the parental Lassa and Mopeia viruses. The host-specific mutations indicate
+viral adaptations to virus-host interactions, and such interactions make
+reasonable targets for antiviral approaches. Variants capable of chronic
+infection did not emerge from any of the primate infections, even in
+immune-deficient animals, indicating that the ML29 reassortant is reasonably
+stable in vivo. In conclusion, the preclinical studies of ML29 as a Lassa virus
+vaccine candidate have been advanced, showing high levels of protection in
+nonhuman primates and acceptable stability both in vitro and in vivo.
+
+DOI: 10.1128/JVI.03035-13 
+PMCID: PMC3957910
+PMID: 24335292  [Indexed for MEDLINE]
+
+
+1474. PLoS One. 2013 Dec 6;8(12):e82747. doi: 10.1371/journal.pone.0082747. eCollection
+2013.
+
+Serum albumin and body weight as biomarkers for the antemortem identification of 
+bone and gastrointestinal disease in the common marmoset.
+
+Baxter VK(1), Shaw GC, Sotuyo NP, Carlson CS, Olson EJ, Zink MC, Mankowski JL,
+Adams RJ, Hutchinson EK, Metcalf Pate KA.
+
+Author information: 
+(1)Department of Molecular and Comparative Pathobiology, The Johns Hopkins
+University School of Medicine, Baltimore, Maryland, United States of America.
+
+The increasing use of the common marmoset (Callithrix jacchus) in research makes 
+it important to diagnose spontaneous disease that may confound experimental
+studies. Bone disease and gastrointestinal disease are two major causes of
+morbidity and mortality in captive marmosets, but currently no effective
+antemortem tests are available to identify affected animals prior to the terminal
+stage of disease. In this study we propose that bone disease and gastrointestinal
+disease are associated disease entities in marmosets and aim to establish the
+efficacy of several economical antemortem tests in identifying and predicting
+disease. Tissues from marmosets were examined to define affected animals and
+unaffected controls. Complete blood count, serum chemistry values, body weight,
+quantitative radiographs, and tissue-specific biochemical markers were evaluated 
+as candidate biomarkers for disease. Bone and gastrointestinal disease were
+associated, with marmosets being over seven times more likely to have either
+concurrent bone and gastrointestinal disease or neither disease as opposed to
+lesions in only one organ system. When used in tandem, serum albumin <3.5 g/dL
+and body weight <325 g identified 100% of the marmosets affected with concurrent 
+bone and gastrointestinal disease. Progressive body weight loss of 0.05% of peak 
+body weight per day predicted which marmosets would develop disease prior to the 
+terminal stage. Bone tissue-specific tests, such as quantitative analysis of
+radiographs and serum parathyroid hormone levels, were effective for
+distinguishing between marmosets with bone disease and those without. These
+results provide an avenue for making informed decisions regarding the removal of 
+affected marmosets from studies in a timely manner, preserving the integrity of
+research results.
+
+DOI: 10.1371/journal.pone.0082747 
+PMCID: PMC3855796
+PMID: 24324827  [Indexed for MEDLINE]
+

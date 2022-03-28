@@ -1,0 +1,73 @@
+
+
+1832. Neuroimage. 2012 Jan 16;59(2):979-85. doi: 10.1016/j.neuroimage.2011.08.064. Epub
+2011 Aug 27.
+
+In vivo quantification of T₂ anisotropy in white matter fibers in marmoset
+monkeys.
+
+Sati P(1), Silva AC, van Gelderen P, Gaitan MI, Wohler JE, Jacobson S, Duyn JH,
+Reich DS.
+
+Author information: 
+(1)Translational Neuroradiology Unit, Neuroimmunology Branch, National Institute 
+of Neurological Disorders and Stroke, National Institutes of Health, Bethesda,
+Maryland, USA. satip@ninds.nih.gov
+
+T₂-weighted MRI at high field is a promising approach for studying noninvasively 
+the tissue structure and composition of the brain. However, the biophysical
+origin of T₂ contrast, especially in white matter, remains poorly understood.
+Recent work has shown that R₂ (=1/T₂) may depend on the tissue's orientation
+relative to the static magnetic field (B(0)) and suggested that this dependence
+could be attributed to local anisotropy in the magnetic properties of brain
+tissue. In the present work, we analyzed high-resolution, multi-gradient-echo
+images of in vivo marmoset brains at 7T, and compared them with ex vivo diffusion
+tensor images, to show that R₂ relaxation in white matter is highly sensitive to 
+the fiber orientation relative to the main field. We directly demonstrate this
+orientation dependence by performing in vivo multi-gradient-echo experiments in
+two orthogonal brain positions, uncovering a nearly 50% change in the R₂
+relaxation rate constant of the optic radiations. We attribute this substantial
+R₂ anisotropy to local subvoxel susceptibility effects arising from the highly
+ordered and anisotropic structure of the myelin sheath.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.neuroimage.2011.08.064 
+PMCID: PMC3230780
+PMID: 21906687  [Indexed for MEDLINE]
+
+
+1833. Microsc Res Tech. 2012 Mar;75(3):282-4. doi: 10.1002/jemt.21055. Epub 2011 Sep 2.
+
+Ultrastructural aspects of Callithrix penicillata lingual papillae.
+
+Branco E(1), Pereira WL, De Lima AR, Franciolli AL, Rici RE, Miglino MA, Muniz
+JA, Imbeloni A.
+
+Author information: 
+(1)Institute of Animal Health and Production-ISPA Faculty of Veterinary Medicine,
+Federal Rural University of Amazonia, Belem, Brazil. ebranco.ufra@gmail.com
+
+Callithrix penicillata belongs to the family Callitrichidae, Callithrix genus.
+They are basically insectivorous, but they consume fruits. The mucosa of the
+tongue is composed of some papillary types, revealing different levels of
+expertise. The present study attempted to describe the morphological and
+ultrastructural aspects of the dorsal surface of the C. penicillata, describing
+the characteristics and distribution of papillae found. Five tongues of C.
+penicillata (two females and three males), obtained from breeding colonies of
+CENP-Ananindeua-PA, died from natural causes. The material was fixed partly in a 
+buffer solution paraformaldehyde 10% and partly in modified Karnovsky solution,
+divided into apex, body, and root, and then the fragments were used in light
+microscopy and scanning electron microscopy. The average length of the tongue of 
+the females was 22 mm and for males 20.5 mm. Three types of papillae were
+described: filiform (along all tissue extension with 154 μm of diameter),
+fungiform (along all tissue extension with 275 μm of diameter), and vallate (just
+three units in caudal (dorsal) portion with 672 μm of diameter). Data analysis
+indicates that the distribution and ultrastructural morphology of the C.
+penicillata lingual papillae are some similar to other primates.
+
+Copyright © 2011 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jemt.21055 
+PMID: 21898663  [Indexed for MEDLINE]
+

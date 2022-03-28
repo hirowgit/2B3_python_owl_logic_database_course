@@ -1,0 +1,34 @@
+
+
+4295. Anticancer Res. 1991 Sep-Oct;11(5):1711-7.
+
+Phorbol ester promotes growth and transformation of carcinogen-exposed nonhuman
+primate cells in vitro.
+
+Marczynska B(1), Khoobyarian N, Chao TS, Tao M.
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of Illinois, College of 
+Medicine, Chicago 60612.
+
+Kidney cells established in vitro from a white-lipped marmoset (106) were exposed
+to N-methyl-N'-nitro-N-nitrosoguanidine (MNNG) alone or in combination with
+12-O-tetradecanoyl-phorbol-13-acetate (TPA). Low (0.1 micrograms/ml, 4 times),
+intermediate (1 microgram/ml) and high (1 microgram/ml, 4 times) doses of MNNG
+resulted in 100%, 50% and 2.8% of cell survival, respectively. High and low doses
+of MNNG had no effect on cell transformation. Upon exposure of cells to an
+intermediate dose of MNNG, 106 cells ecquired immortality and evolved into
+permanent cell line, 106-1M. However, the cells retained normal morphology and
+anchorage dependence. Chronic applications of TPA (0.1 micrograms/ml, 13 times)
+promoted 106-1M cells to morphological transformation and anchorage-independent
+growth but not to tumorigenicity in nude mice (106-1MT cell line). Chromosome
+analysis revealed only numerical changes in 106 cells and both numerical and
+structural aberrations in transformed 106-1MT cells. These changes in marmoset
+cells usually reflected cell culture instability leading to either senescence or 
+to longer survival of cells in vitro. Chronic treatment with TPA did not result
+in downregulation of protein kinase C (PKC) in transformed 106-1MT cells.
+Instead, an additional species of PKC appeared in these cells.
+
+
+PMID: 1768041  [Indexed for MEDLINE]
+

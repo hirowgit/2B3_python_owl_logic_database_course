@@ -1,0 +1,68 @@
+
+
+516. J Neurosci Methods. 2019 Jul 1;322:23-33. doi: 10.1016/j.jneumeth.2019.03.016.
+Epub 2019 Apr 1.
+
+MarmoDetector: A novel 3D automated system for the quantitative assessment of
+marmoset behavior.
+
+Yabumoto T(1), Yoshida F(2), Miyauchi H(3), Baba K(4), Tsuda H(1), Ikenaka K(1), 
+Hayakawa H(1), Koyabu N(5), Hamanaka H(6), Papa SM(7), Hirata M(8), Mochizuki
+H(9).
+
+Author information: 
+(1)Department of Neurology, Graduate School of Medicine, Osaka University, Suita,
+Osaka, Japan.
+(2)Department of Neurological Diagnosis and Restoration, Graduat School of
+Medicine, Osaka University, Suita, Osaka, Japan; Department of Neurosurgery,
+Osaka University Medical School, Suita, Osaka, Japan; Department of Anatomy &
+Physiology, Faculty of Medicine, Saga University, Saga, Japan; Japan Science and 
+Technology Agency, PRESTO, Japan.
+(3)COCOSNET Ltd., Fukuoka, Japan.
+(4)Department of Neurology, Graduate School of Medicine, Osaka University, Suita,
+Osaka, Japan; Department of Advanced Hybrid Medicine, Graduate School of
+Medicine, Osaka University, Suita, Osaka, Japan.
+(5)The Institute of Large Laboratory Animal Sciences, Center of Medical
+Innovation and Translational Research, Graduate School of Medicine, Osaka
+University, Suita, Osaka, Japan.
+(6)Department of Neurological Diagnosis and Restoration, Graduat School of
+Medicine, Osaka University, Suita, Osaka, Japan.
+(7)Yerkes National Primate Research Center, Emory University, Atlanta, GA, USA;
+Department of Neurology, Emory University School of Medicine, Atlanta, GA, USA.
+(8)Department of Neurological Diagnosis and Restoration, Graduat School of
+Medicine, Osaka University, Suita, Osaka, Japan; Department of Neurosurgery,
+Osaka University Medical School, Suita, Osaka, Japan; Center for Information and 
+Neural Networks, National Institute of Information and Communications Technology 
+and Osaka University, Osaka, Japan. Electronic address:
+mhirata@cne.mei.osaka-u.ac.jp.
+(9)Department of Neurology, Graduate School of Medicine, Osaka University, Suita,
+Osaka, Japan. Electronic address: hmochizuki@neurol.med.osaka-u.ac.jp.
+
+BACKGROUND: Callithrix jacchus, generally known as the common marmoset, has
+recently garnered interest as an experimental primate model for better
+understanding the basis of human social behavior, architecture and function.
+Modelling human neurological and psychological diseases in marmosets can enhance 
+the knowledge obtained from rodent research for future pre-clinical studies.
+Hence, comprehensive and quantitative assessments of marmoset behaviors are
+crucial. However, systems for monitoring and analyzing marmoset behaviors have
+yet to be established.
+NEW METHOD: In this paper, we present a novel multimodal system, MarmoDetector,
+for the automated 3D analysis of marmoset behavior under freely moving
+conditions. MarmoDetector allows the quantitative assessment of marmoset
+behaviors using computerised tracking analysis techniques that are based on a
+Kinect system equipped with video recordings, infrared images and depth analysis.
+RESULTS: Using MarmoDetector, we assessed behavioral circadian rhythms
+continuously over several days in home cages. In addition, MarmoDetector detected
+acute, transient complex behaviors of alcohol injected marmosets.
+COMPARISON TO EXISTING METHOD: Compared to 2D recording, MarmoDetector detects
+activities more precisely and is very sensitive as we could detect behavioral
+defects specifically induced by alcohol administration.
+CONCLUSION: MarmoDetector facilitates the rapid and accurate analysis of marmoset
+behavior and will enhance research on the neural basis of brain disorders.
+
+Copyright © 2019. Published by Elsevier B.V.
+
+DOI: 10.1016/j.jneumeth.2019.03.016 
+PMCID: PMC8014948
+PMID: 30946879  [Indexed for MEDLINE]
+

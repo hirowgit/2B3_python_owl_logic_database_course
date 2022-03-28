@@ -1,0 +1,41 @@
+
+
+1556. J Virol. 2013 Jul;87(14):8179-94. doi: 10.1128/JVI.00443-13. Epub 2013 May 22.
+
+Epstein-Barr virus transcytosis through polarized oral epithelial cells.
+
+Tugizov SM(1), Herrera R, Palefsky JM.
+
+Author information: 
+(1)Department of Medicine, University of California San Francisco, San Francisco,
+California, USA. sharof.tugizov@ucsf.edu
+
+Although Epstein-Barr virus (EBV) is an orally transmitted virus, viral
+transmission through the oropharyngeal mucosal epithelium is not well understood.
+In this study, we investigated how EBV traverses polarized human oral epithelial 
+cells without causing productive infection. We found that EBV may be transcytosed
+through oral epithelial cells bidirectionally, from both the apical to the
+basolateral membranes and the basolateral to the apical membranes. Apical to
+basolateral EBV transcytosis was substantially reduced by amiloride, an inhibitor
+of macropinocytosis. Electron microscopy showed that virions were surrounded by
+apical surface protrusions and that virus was present in subapical vesicles.
+Inactivation of signaling molecules critical for macropinocytosis, including
+phosphatidylinositol 3-kinases, myosin light-chain kinase, Ras-related C3
+botulinum toxin substrate 1, p21-activated kinase 1, ADP-ribosylation factor 6,
+and cell division control protein 42 homolog, led to significant reduction in EBV
+apical to basolateral transcytosis. In contrast, basolateral to apical EBV
+transcytosis was substantially reduced by nystatin, an inhibitor of
+caveolin-mediated virus entry. Caveolae were detected in the basolateral
+membranes of polarized human oral epithelial cells, and virions were detected in 
+caveosome-like endosomes. Methyl β-cyclodextrin, an inhibitor of caveola
+formation, reduced EBV basolateral entry. EBV virions transcytosed in either
+direction were able to infect B lymphocytes. Together, these data show that EBV
+transmigrates across oral epithelial cells by (i) apical to basolateral
+transcytosis, potentially contributing to initial EBV penetration that leads to
+systemic infection, and (ii) basolateral to apical transcytosis, which may enable
+EBV secretion into saliva in EBV-infected individuals.
+
+DOI: 10.1128/JVI.00443-13 
+PMCID: PMC3700193
+PMID: 23698302  [Indexed for MEDLINE]
+

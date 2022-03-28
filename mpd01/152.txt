@@ -1,0 +1,72 @@
+
+
+152. How Might We Get from Genes to Circuits to Disease?.
+
+Kaiser T, Mei Y, Feng G.
+In: Nikolich K, Hyman SE, editors. Translational Neuroscience: Toward New
+Therapies [Internet]. Cambridge (MA): MIT Press; 2015. Chapter 8.
+
+Recent advances in the identification of risk genes for psychiatric disorders
+have set the stage for functional interrogation of disease related-circuits and
+underlying mechanisms of pathophysiology. Still, investigators face significant
+challenges: (a) hundreds of genes may contribute to pathogenesis of a given
+disorder (polygenicity and genetic heterogeneity), (b) risk alleles may only
+cause the disease in combination with other factors (reduced penetrance), and (c)
+commonly used rodent models may have significant limitations in studying
+psychiatric disorders, due to differences in brain structure and function between
+rodents and humans. To address these challenges, high-throughput functional
+assays should be developed in combination with induced pluripotent stem cells
+(iPSC) technology and novel genome-engineering technologies, as these will help
+identify common pathways and mechanisms onto which multiple risk genes may
+converge. To overcome limitations of current animal models in psychiatric
+research, novel genome-editing technologies provide an opportunity to generate
+better animal models (e.g., the common marmoset) to dissect disease-relevant
+circuit dysfunction. Finally, powerful new tools (e.g., CLARITY, dense neural
+circuit reconstruction, and optogenetics) may help identify and test the
+relationship between distinct circuit defects and abnormal behaviors observed in 
+these animal models. Such approaches are needed to span the gap between emerging 
+genetic information and the symptomatic description of neuropsychiatric
+disorders.
+
+PMID: 33886215 
+
+
+153. Anat Rec (Hoboken). 2021 Jun;304(6):1275-1279. doi: 10.1002/ar.24632. Epub 2021
+Apr 19.
+
+Collagen quantification in the ventricular walls of the heart of the common
+marmoset (Callithrix jacchus).
+
+Senos R(1)(2), Gomes Benedicto H(3), Macedo Del Rio do Valle C(2), Del Rio do
+Valle R(2), L Nayudu P(4), Roberto-Rodrigues M(3), Bombonato PP(2).
+
+Author information: 
+(1)Department of Biomedical Sciences, Cummings School of Veterinary Medicine,
+Tufts University (Tufts), North Grafton, Massachusetts, USA.
+(2)Anatomy of the Domestic and Wild Animals Sector of Universidade de São Paulo
+(USP), São Paulo, Brazil.
+(3)Department of Morphology, Universidade Federal Fluminense (UFF), Niteroi,
+Brazil.
+(4)Deutsches Primatenzentrum (DPZ), Göttingen, Germany.
+
+The excellent adaptability of Callithrix jacchus to life in captivity presents
+advantages in comparison to other nonhuman primates that are used in experimental
+models for biomedical research, which explains the increasing scientific interest
+in investigating the anatomical characteristics of this species. Owing to the
+relative scarcity of publications on the descriptive morphology of the heart of
+C. jacchus, the aim of this study was to quantify the presence of collagen in the
+left and right ventricular myocardium using modified picrosirius red and acid
+fuchsine colorimetric assays. The myocardium of the right ventricle presented a
+higher percentage of collagen than that of the left ventricle. No sex-related
+differences were observed between the groups. Interestingly, the absolute values 
+of collagen were different depending on the method used for quantification
+(modified picrosirius red vs. acid fuchsine). The level of collagen
+quantification observed in the ventricular myocardium of C. jacchus was similar
+to that seen in other nonhuman primates traditionally used in experimental models
+of cardiac diseases.
+
+© 2021 American Association for Anatomy.
+
+DOI: 10.1002/ar.24632 
+PMID: 33876561  [Indexed for MEDLINE]
+

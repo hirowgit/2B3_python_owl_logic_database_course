@@ -1,0 +1,58 @@
+
+
+1292. Int J Neuropsychopharmacol. 2014 Oct 31;18(2). pii: pyu030. doi:
+10.1093/ijnp/pyu030.
+
+Quantification of central substance P receptor occupancy by aprepitant using
+small animal positron emission tomography.
+
+Endo T(1), Saijo T(1), Haneda E(1), Maeda J(1), Tokunaga M(1), Zhang MR(1),
+Kannami A(1), Asai H(1), Suzuki M(1), Suhara T(1), Higuchi M(2).
+
+Author information: 
+(1)Molecular Imaging Center, National Institute of Radiological Sciences, Chiba, 
+Japan (Drs Endo, Saijo, Haneda, Maeda, Tokunaga, Zhang, Suhara, Higuchi);
+Department of Molecular Neuroimaging, Tohoku University Graduate School of
+Medicine, Sendai, Japan (Drs Endo, Saijo, Suhara, and Higuchi); DMPK Research
+Laboratory, Mitsubishi Tanabe Pharma Corporation, Kisarazu, Japan (Drs Endo,
+Saijo, and Kannami); Clinical & Research Quality Assurance Department, Mitsubishi
+Tanabe Pharma Corporation, Tokyo, Japan (Dr Asai); Clinical Pharmacology
+Department, Mitsubishi Tanabe Pharma Corporation, Tokyo, Japan (Dr Suzuki).
+(2)Molecular Imaging Center, National Institute of Radiological Sciences, Chiba, 
+Japan (Drs Endo, Saijo, Haneda, Maeda, Tokunaga, Zhang, Suhara, Higuchi);
+Department of Molecular Neuroimaging, Tohoku University Graduate School of
+Medicine, Sendai, Japan (Drs Endo, Saijo, Suhara, and Higuchi); DMPK Research
+Laboratory, Mitsubishi Tanabe Pharma Corporation, Kisarazu, Japan (Drs Endo,
+Saijo, and Kannami); Clinical & Research Quality Assurance Department, Mitsubishi
+Tanabe Pharma Corporation, Tokyo, Japan (Dr Asai); Clinical Pharmacology
+Department, Mitsubishi Tanabe Pharma Corporation, Tokyo, Japan (Dr Suzuki).
+mhiguchi@nirs.go.jp.
+
+BACKGROUND: Central substance P receptors, termed NK-1 receptors, have been
+considered as therapeutic targets in the development of drugs against diverse
+conditions, including emesis, overactive bladder, and depression.
+METHODS: Here, we applied small animal positron emission tomography (PET) and a
+radioligand for NK-1 receptors ([(18)F]FE-SPA-RQ) for measuring occupancies of
+these receptors by a selective antagonist (aprepitant) in order to examine the
+validity of this in vivo imaging system for preclinical characterization of
+candidate agents acting on NK-1 receptors, and as a tool for predicting optimal
+doses in humans.
+RESULTS: PET in gerbils depicted high uptake in the striatum and dose-dependent
+displacement with increasing doses of aprepitant. Occupancies increased as a
+function of aprepitant plasma concentrations according to a one-site competition 
+model, which agrees with reported occupancy-concentration relationships in
+clinical studies after correction for species differences in plasma
+protein-unbound aprepitant fractions. These occupancy data were further supported
+by ex vivo autoradiography of brain samples from aprepitant-treated gerbils. In a
+pilot study of a marmoset, we obtained more accurate determinations of NK-1
+receptor occupancy, less affected by spillover of signals from extracranial
+tissues than in gerbil experiments.
+CONCLUSIONS: These findings support the utility of small animals and quantitative
+PET in the development of drugs targeting NK-1 receptors.
+
+© The Author 2015. Published by Oxford University Press on behalf of CINP.
+
+DOI: 10.1093/ijnp/pyu030 
+PMCID: PMC4368889
+PMID: 25609595  [Indexed for MEDLINE]
+

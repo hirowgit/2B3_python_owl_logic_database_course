@@ -1,0 +1,106 @@
+
+
+712. Sci Rep. 2018 Mar 21;8(1):4922. doi: 10.1038/s41598-018-23144-5.
+
+Propagation-based phase-contrast x-ray tomography of cochlea using a compact
+synchrotron source.
+
+Töpperwien M(1)(2), Gradl R(3)(4)(5), Keppeler D(6), Vassholz M(1), Meyer A(7),
+Hessler R(8), Achterhold K(3)(5), Gleich B(5), Dierolf M(3)(5), Pfeiffer
+F(3)(4)(5)(9), Moser T(2)(6)(10), Salditt T(11)(12).
+
+Author information: 
+(1)Institute for X-Ray Physics, University of Göttingen, Göttingen, Germany.
+(2)Center for Nanoscopy and Molecular Physiology of the Brain, Göttingen,
+Germany.
+(3)Chair of Biomedical Physics, Department of Physics, Technical University of
+Munich, Garching, Germany.
+(4)Institute for Advanced Study, Technical University of Munich, Garching,
+Germany.
+(5)Munich School of BioEngineering, Technical University of Munich, Garching,
+Germany.
+(6)Institute for Auditory Neuroscience and InnerEarLab, University Medical Center
+Göttingen, Göttingen, Germany.
+(7)InnerEarLab, Department of Otolaryngology, University Medical Center
+Göttingen, Göttingen, Germany.
+(8)MED-EL Company, Innsbruck, Austria.
+(9)Department of Diagnostic and Interventional Radiology, Klinikum rechts der
+Isar, Technical University of Munich, München, Germany.
+(10)Bernstein Focus for Neurotechnology, University of Göttingen, Göttingen,
+Germany.
+(11)Institute for X-Ray Physics, University of Göttingen, Göttingen, Germany.
+tsaldit@gwdg.de.
+(12)Center for Nanoscopy and Molecular Physiology of the Brain, Göttingen,
+Germany. tsaldit@gwdg.de.
+
+We demonstrate that phase retrieval and tomographic imaging at the organ level of
+small animals can be advantageously carried out using the monochromatic radiation
+emitted by a compact x-ray light source, without further optical elements apart
+from source and detector. This approach allows to carry out microtomography
+experiments which - due to the large performance gap with respect to conventional
+laboratory instruments - so far were usually limited to synchrotron sources. We
+demonstrate the potential by mapping the functional soft tissue within the guinea
+pig and marmoset cochlea, including in the latter case an electrical cochlear
+implant. We show how 3d microanatomical studies without dissection or microscopic
+imaging can enhance future research on cochlear implants.
+
+DOI: 10.1038/s41598-018-23144-5 
+PMCID: PMC5862924
+PMID: 29563553  [Indexed for MEDLINE]
+
+
+713. J Neurosci. 2018 Apr 18;38(16):3955-3970. doi: 10.1523/JNEUROSCI.0188-18.2018.
+Epub 2018 Mar 19.
+
+Robust Visual Responses and Normal Retinotopy in Primate Lateral Geniculate
+Nucleus following Long-term Lesions of Striate Cortex.
+
+Yu HH(1)(2), Atapour N(3)(2), Chaplin TA(3)(2), Worthy KH(3)(2), Rosa MGP(3)(2).
+
+Author information: 
+(1)Department of Physiology and Biomedicine Research Institute, Monash
+University, Clayton, 3800 Victoria, Australia and hsin-hao.yu@monash.edu.
+(2)Australian Research Council Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, 3800 Victoria, Australia.
+(3)Department of Physiology and Biomedicine Research Institute, Monash
+University, Clayton, 3800 Victoria, Australia and.
+
+Lesions of striate cortex (V1) trigger massive retrograde degeneration of neurons
+in the LGN. In primates, these lesions also lead to scotomas, within which
+conscious vision is abolished. Mediation of residual visual capacity within these
+regions (blindsight) has been traditionally attributed to an indirect visual
+pathway to the extrastriate cortex, which involves the superior colliculus and
+pulvinar complex. However, recent studies have suggested that preservation of the
+LGN is critical for behavioral evidence of blindsight, raising the question of
+what type of visual information is channeled by remaining neurons in this
+structure. A possible contribution of LGN neurons to blindsight is predicated on 
+two conditions: that the neurons that survive degeneration remain visually
+responsive, and that their receptive fields continue to represent the region of
+the visual field inside the scotoma. We tested these conditions in male and
+female marmoset monkeys (Callithrix jacchus) with partial V1 lesions at three
+developmental stages (early postnatal life, young adulthood, old age), followed
+by long recovery periods. In all cases, recordings from the degenerated LGN
+revealed neurons with well-formed receptive fields throughout the scotoma. The
+responses were consistent and robust, and followed the expected eye dominance and
+retinotopy observed in the normal LGN. The responses had short latencies and
+preceded those of neurons recorded in the extrastriate middle temporal area.
+These findings suggest that the pathway that links LGN neurons to the
+extrastriate cortex is physiologically viable and can support residual vision in 
+animals with V1 lesions incurred at various ages.SIGNIFICANCE STATEMENT Patients 
+with a lesion of the primary visual cortex (V1) can retain certain visually
+mediated behaviors, particularly if the lesion occurs early in life. This
+phenomenon ("blindsight") not only sheds light on the nature of consciousness,
+but also has implications for studies of brain circuitry, development, and
+plasticity. However, the pathways that mediate blindsight have been the subject
+of debate. Recent studies suggest that projections from the LGN might be
+critical, but this finding is puzzling given that the lesions causes severe cell 
+death in the LGN. Here we demonstrate in monkeys that the surviving LGN neurons
+retain a remarkable level of visual function and could therefore be the source of
+the visual information that supports blindsight.
+
+Copyright © 2018 the authors 0270-6474/18/383955-16$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.0188-18.2018 
+PMCID: PMC6705928
+PMID: 29555856  [Indexed for MEDLINE]
+

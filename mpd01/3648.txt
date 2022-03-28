@@ -1,0 +1,59 @@
+
+
+3648. Vision Res. 1997 Aug;37(16):2171-81.
+
+Receptive field dimensions of lateral geniculate cells in the common marmoset
+(Callithrix jacchus).
+
+Kremers J(1), Weiss S.
+
+Author information: 
+(1)Department of Experimental Ophthalmology, University of Tübingen Eye Hospital,
+Germany. jan.kremers@uni-tuebingen.de
+
+We measured the spatial receptive field dimensions of cells in the lateral
+geniculate nucleus (LGN) of the common marmoset (Callithrix jacchus) using a
+bipartite field stimulus in which the two halves of the field were modulated
+identically but in counterphase. Horizontal and vertical edges between the two
+fields were positioned at different locations in the receptive field. By assuming
+that centers and surrounds have gaussian profiles, we were able to obtain a
+satisfactory mathematical description of the data. Receptive field centers were
+about a factor 1.6 larger than those of macaque LGN cells, in accordance with the
+smaller marmoset eye. There was a limited correspondence with dendritic tree
+dimensions of marmoset retinal ganglion cells. We further found that center and
+surround gaussians were not always concentric, and that the centers of some cells
+were elongated. This might allow some direction or orientation biases in LGN
+cells.
+
+DOI: 10.1016/s0042-6989(97)00041-2 
+PMID: 9578900  [Indexed for MEDLINE]
+
+
+3649. Virus Res. 1997 Aug;50(2):139-49.
+
+Antigenic variation of the Epstein-Barr virus nuclear antigen EBNA1 as revealed
+by monoclonal antibodies.
+
+Iwakiri D(1), Nakamura H, Ono Y, Fujiwara S.
+
+Author information: 
+(1)Department of Microbiology, Nihon University School of Medicine, Tokyo, Japan.
+
+The Epstein Barr virus (EBV) nuclear antigen EBNA1 plays an essential role in the
+replication of EBV episomes in latently infected cells and is the only viral
+protein that is consistently expressed in all programs of latent EBV gene
+expression. In this study, four monoclonal antibodies (MoAbs) directed to a
+region (amino acid residues 442-530) of EBNA1 were generated. Competitive
+enzyme-linked immunosorbent assay (ELISA) experiments using biotinylated MoAbs
+showed that they recognized distinct epitopes. Reactivity of these MoAbs with
+various laboratory EBV strains and field EBV isolates was shown to be
+heterogeneous in that EBNA1 from certain strains (isolates) was recognized and
+that from others was not. All four MoAbs showed such heterogeneous reactivity,
+and moreover, each MoAb showed a distinct spectrum of reactivity with these EBV
+strains (isolates). These results demonstrate an extensive structural variation
+in this region of EBNA1 as predicted by previous sequencing studies. These MoAbs 
+will be useful as probes to dissect this structural heterogeneity of EBNA1.
+
+DOI: 10.1016/s0168-1702(97)00065-8 
+PMID: 9282779  [Indexed for MEDLINE]
+

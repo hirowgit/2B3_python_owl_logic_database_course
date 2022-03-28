@@ -1,0 +1,96 @@
+
+
+325. Anim Sci J. 2020 Jan-Dec;91(1):e13366. doi: 10.1111/asj.13366.
+
+Comparison of the fecal microbiota of two monogastric herbivorous and five
+omnivorous mammals.
+
+Kobayashi R(1), Nagaoka K(2), Nishimura N(3), Koike S(4), Takahashi E(5), Niimi
+K(5), Murase H(6), Kinjo T(7), Tsukahara T(8), Inoue R(1).
+
+Author information: 
+(1)Laboratory of Animal Science, Kyoto Prefectural University, Kyoto, Japan.
+(2)Laboratory of Veterinary Physiology, Tokyo University of Agriculture and
+Technology, Fuchu, Japan.
+(3)College of Agriculture, Academic Institute, Shizuoka University, Shizuoka,
+Japan.
+(4)Research Faculty of Agriculture, Hokkaido University, Sapporo, Japan.
+(5)Research Resources Division, RIKEN Center for Brain Science, Wako, Japan.
+(6)Japan Racing Association, Hidaka Training and Research Center, Urakawa-cho,
+Japan.
+(7)Okinawa Zoo and Museum, Okinawa Zoo Animal Hospital, Okinawa, Japan.
+(8)Kyoto Institute of Nutrition and Pathology, Ujitawara-cho, Japan.
+
+Fecal microbiota in seven different monogastric animal species, elephant, horse, 
+human, marmoset, mouse, pig and, rat were compared using the same analytical
+protocol of 16S rRNA metagenome. Fecal microbiota in herbivores showed higher
+alpha diversity than omnivores except for pigs. Additionally, principal
+coordinate analysis based on weighted UniFrac distance demonstrated that
+herbivores and pigs clustered together, whereas other animal species were
+separately aggregated. In view of butyrate- and lactate-producing bacteria,
+predominant genera were different depending on animal species. For example, the
+abundance of Faecalibacterium, a known butyrate producer, was 8.02% ± 3.22% in
+human while it was less than 1% in other animal species. Additionally,
+Bifidobacterium was a predominant lactate producer in human and marmoset, while
+it was rarely detected in other omnivores. The abundance of lactate-producing
+bacteria in herbivores was notably lower than omnivores. On the other hand,
+herbivores as well as pig possess Fibrobacter, a cellulolytic bacterium. This
+study demonstrated that fecal microbiota in herbivorous animals is similar,
+sharing some common features such as higher alpha diversity and higher abundance 
+of cellulolytic bacterium. On the other hand, omnivorous animals seem to possess 
+unique fecal microbiota. It is of interest that pigs, although omnivore, have
+fecal microbiota showing some common features with herbivores.
+
+© 2020 The Authors. Animal Science Journal published by John Wiley & Sons
+Australia, Ltd on behalf of Japanese Society of Animal Science.
+
+DOI: 10.1111/asj.13366 
+PMCID: PMC7216987
+PMID: 32285557  [Indexed for MEDLINE]
+
+
+326. Neuroimage. 2020 Jul 15;215:116815. doi: 10.1016/j.neuroimage.2020.116815. Epub
+2020 Apr 9.
+
+Looming and receding visual networks in awake marmosets investigated with fMRI.
+
+Cléry JC(1), Schaeffer DJ(2), Hori Y(2), Gilbert KM(2), Hayrynen LK(2), Gati
+JS(2), Menon RS(2), Everling S(3).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Ontario, N6A 5B7, Canada. Electronic
+address: jclery@uwo.ca.
+(2)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Ontario, N6A 5B7, Canada.
+(3)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Ontario, N6A 5B7, Canada; Department of
+Physiology and Pharmacology, The University of Western Ontario, London, Ontario, 
+N6A 5C1, Canada. Electronic address: severlin@uwo.ca.
+
+An object that is looming toward a subject or receding away contains important
+information for determining if this object is dangerous, beneficial or harmless. 
+This information (motion, direction, identity, time-to-collision, size, velocity)
+is analyzed by the brain in order to execute the appropriate behavioral responses
+depending on the context: fleeing, freezing, grasping, eating, exploring. In the 
+current study, we performed ultra-high-field functional MRI (fMRI) at 9.4T in
+awake marmosets to explore the patterns of brain activation elicited by visual
+stimuli looming toward or receding away from the monkey. We found that looming
+and receding visual stimuli activated a large cortical network in frontal,
+parietal, temporal and occipital cortex in areas involved in the analysis of
+motion, shape, identity and features of the objects. Looming stimuli strongly
+activated a network composed of portions of the pulvinar, superior colliculus,
+putamen, parietal, prefrontal and temporal cortical areas. These activations
+suggest the existence of a network that processes visual stimuli looming toward
+peripersonal space to predict the consequence of these stimuli. Together with
+previous studies in macaque monkeys, these findings indicate that this network is
+preserved across Old and New World primates.
+
+Copyright © 2020 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2020.116815 
+PMID: 32278898  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare no conflict of interest.
+

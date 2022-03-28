@@ -1,0 +1,72 @@
+
+
+2122. Am J Primatol. 2009 Nov;71(11):912-8. doi: 10.1002/ajp.20729.
+
+Development of microsatellite DNA markers and their chromosome assignment in the 
+common marmoset.
+
+Katoh H(1), Takabayashi S, Itoh T.
+
+Author information: 
+(1)Institute for Experimental Animals, Hamamatsu University School of Medicine,
+Hamamatsu, Japan. hideki-k@hama-med.ac.jp
+
+This study was performed to develop microsatellite DNA markers, which are useful 
+for linkage analyses, gene mapping and blood chimera analyses in the common
+marmoset (Callithrix jacchus). We searched 153 of 295 bacterial artificial clone 
+DNA sequences of the common marmoset that were archived in the NCBI database in
+2004. On the basis of the search, we designed 186 PCR primer sets. When tested
+using 5 unrelated individuals, we successfully detected 154 markers with PCR
+products, of which 80 (52%) were polymorphic and 74 (48%) were monomorphic. We
+assigned each of the 154 markers to a human chromosome based on BLAST searches,
+which was achieved by searching the entire human genome sequences using an
+approximately 3 kb section of each forward primer sequence, including
+approximately 1.5 kb of the upstream and approximately 1.5 kb of the downstream
+sequences. Combining our assignment data and the chromosome painting-assisted
+karyotype of the common marmoset [Sherlock et al., Genomics 33:214-219, 1996], we
+prepared a list of 154 microsatellite DNA markers that were assigned to human
+chromosomes, except for the Y chromosome, which is equivalent to a chromosome
+map. Using five microsatellite DNA markers, we have established a fragment
+analysis method with a sequencer, which can be routinely used for blood chimera
+analysis, parentage diagnosis and individual identification.
+
+Copyright 2009 Wiley-Liss, Inc.
+
+DOI: 10.1002/ajp.20729 
+PMID: 19637280  [Indexed for MEDLINE]
+
+
+2123. Chem Biol Drug Des. 2009 Jun;73(6):637-43. doi: 10.1111/j.1747-0285.2009.00810.x.
+
+Interaction of follicle-stimulating hormone (FSH) receptor binding inhibitor-8: a
+novel FSH-binding inhibitor, with FSH and its receptor.
+
+Chitnis SS(1), Selvaakumar C, Jagtap DD, Barnwal RP, Chary KV, Mahale SD,
+Nandedkar TD.
+
+Author information: 
+(1)National Institute for Research in Reproductive Health, Indian Council of
+Medical Research, Mumbai, India.
+
+Follicle-stimulating hormone (FSH) receptor binding inhibitor (FRBI-8) is a novel
+octapeptide purified from human ovarian follicular fluid. In vitro, it inhibits
+the binding of FSH to granulosa cells and in vivo, it induces atresia in
+developing follicles in rodents. This peptide, when administered to marmosets and
+bonnet monkeys, altered the circulating progesterone levels. This study was
+carried out to elucidate structure of the FRBI-8 and understand its mechanism of 
+inhibiting interaction of FSH to its receptors. Homology modeling predicted that 
+the FRBI-8 adopts a turn and random coil. This is further confirmed by circular
+dichroism and NMR. Docking studies of the FRBI-8 with reported FSH-FSHR hormone
+binding (FSHR(HB)) domain complex using ZDOCK algorithm revealed that the FRBI-8 
+binds to FSHbetaL2-FSHR(HB) binding interface which is otherwise known to be
+crucial for activation of signal transduction cascade. FRBI-8 analogs were
+designed by replacing the acidic amino acid residues at positions 2, 5 and 6 with
+Ala, individually. Docking studies revealed that D6A mutant (FRBI-8(D6A)) had a
+higher binding affinity than the native FRBI-8. In vitro radioreceptor assay with
+FRBI-8(D6A) showed 50% lower IC(50) compared with the FRBI-8, confirming the in
+silico observations. Thus, the study reveals that both FRBI-8 and FRBI-8(D6A)
+interfered with the binding of FSH to its receptor.
+
+DOI: 10.1111/j.1747-0285.2009.00810.x 
+PMID: 19635055  [Indexed for MEDLINE]
+

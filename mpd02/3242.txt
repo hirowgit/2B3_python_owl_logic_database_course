@@ -1,0 +1,35 @@
+
+
+3242. J Virol Methods. 2000 Nov;90(2):193-204.
+
+Production monitoring and purification of EBV encoded latent membrane protein 1
+expressed and secreted by recombinant baculovirus infected insect cells.
+
+Meij P(1), Vervoort MB, Meijer CJ, Bloemena E, Middeldorp JM.
+
+Author information: 
+(1)Department of Pathology, University Hospital Vrije Universiteit, Amsterdam,
+The Netherlands. p.meij@azvu.nl
+
+Epstein-Barr virus (EBV) encoded latent membrane protein 1 (LMP1) is expressed in
+malignancies with latency type II and III and is an important transforming
+protein. To further study this protein LMP1 was expressed by and purified from
+recombinant baculovirus infected Sf9 cells. Expression levels of LMP1 in EBV
+transformed B cell lines and Sf9 cells were analyzed using a newly developed
+quantitative LMP1-capture ELISA. Highest expression was found in the cell line
+X50/7 (6.2 ng/10(7) cells), whereas expression levels of recombinant LMP1 (bLMP1)
+in Sf9 cells reached 506 ng/10(7) cells. Surprisingly bLMP1 could also be
+detected in the culture medium as a stable full-length protein. Highest
+expression in Sf9 cells (506 ng/10(7) cells) was observed at 48 h post infection 
+and in the culture medium (1590 ng/ml) at 96 h post infection. Before
+purification bLMP1 was solubilised using 0.22 m octyl-beta-glucoside at pH 6.0.
+Purification of bLMP1 using Q-Sepharose FF yielded 10-80 times enriched bLMP1
+fractions, indicating that Q-Sepharose can be used for pre-purification. A
+one-step monoclonal antibody based immunoaffinity chromatography yielded highly
+purified bLMP1. Although the overall yields (20 microg purified LMP1 from 100 ml 
+culture supernatant) and protein concentrations were low, higher concentrations
+of >95% purified BLMP1 could be reached after freeze drying.
+
+DOI: 10.1016/s0166-0934(00)00233-0 
+PMID: 11064119  [Indexed for MEDLINE]
+

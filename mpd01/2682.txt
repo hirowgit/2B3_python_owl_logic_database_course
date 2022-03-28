@@ -1,0 +1,68 @@
+
+
+2682. J Comp Neurol. 2005 Jul 11;487(4):391-406.
+
+Functional organization and hemispheric comparison of primary auditory cortex in 
+the common marmoset (Callithrix jacchus).
+
+Philibert B(1), Beitel RE, Nagarajan SS, Bonham BH, Schreiner CE, Cheung SW.
+
+Author information: 
+(1)Coleman Memorial Laboratory and W.M. Keck Center for Integrative Neuroscience,
+Department of Otolaryngology-Head and Neck Surgery, University of California, San
+Francisco, San Francisco, California 94143-0732, USA.
+
+Hemispheric fine-grain maps of primary auditory cortex (AI) were derived from
+microelectrode penetrations in the temporal gyrus of the common marmoset
+(Callithrix jacchus) to 1) compare the functional organization of AI in the
+marmoset with other mammalian species and 2) compare the right and left AI maps
+in individual monkeys. Frequency receptive fields (FRFs) were recorded with pure 
+tones. Five FRF parameters were analyzed: characteristic frequency, threshold,
+sharpness of tuning 10 dB and 40 dB above threshold, and minimum response
+latency. The present study confirms that the functional organization of AI is
+characterized by a robust tonotopic frequency gradient overlaid with spatially
+clustered distributions of other FRF parameters. Globally, this functional
+organization of AI in the common marmoset is similar to that in other mammalian
+species. With respect to within-subject hemispheric comparisons of the five FRF
+parameters, a coherent pattern of asymmetry is not evident in marmoset AI. The
+overall results indicate that the basic functional organization between
+hemispheres is similar but not identical.
+
+(c) 2005 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.20581 
+PMID: 15906314  [Indexed for MEDLINE]
+
+
+2683. Nature. 2005 May 19;435(7040):341-6.
+
+Sustained firing in auditory cortex evoked by preferred stimuli.
+
+Wang X(1), Lu T, Snider RK, Liang L.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA.
+xwang@bme.jhu.edu
+
+It has been well documented that neurons in the auditory cortex of anaesthetized 
+animals generally display transient responses to acoustic stimulation, and
+typically respond to a brief stimulus with one or fewer action potentials. The
+number of action potentials evoked by each stimulus usually does not increase
+with increasing stimulus duration. Such observations have long puzzled
+researchers across disciplines and raised serious questions regarding the role of
+the auditory cortex in encoding ongoing acoustic signals. Contrary to these
+long-held views, here we show that single neurons in both primary (area A1) and
+lateral belt areas of the auditory cortex of awake marmoset monkeys (Callithrix
+jacchus) are capable of firing in a sustained manner over a prolonged period of
+time, especially when they are driven by their preferred stimuli. In contrast,
+responses become more transient or phasic when auditory cortex neurons respond to
+non-preferred stimuli. These findings suggest that when the auditory cortex is
+stimulated by a sound, a particular population of neurons fire maximally
+throughout the duration of the sound. Responses of other, less optimally driven
+neurons fade away quickly after stimulus onset. This results in a selective
+representation of the sound across both neuronal population and time.
+
+DOI: 10.1038/nature03565 
+PMID: 15902257  [Indexed for MEDLINE]
+

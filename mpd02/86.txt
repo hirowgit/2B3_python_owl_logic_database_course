@@ -1,0 +1,51 @@
+
+
+86. J Neurophysiol. 2021 Oct 1;126(4):1055-1075. doi: 10.1152/jn.00172.2021. Epub
+2021 Aug 25.
+
+P-sort: an open-source software for cerebellar neurophysiology.
+
+Sedaghat-Nejad E(1), Fakharian MA(1)(2), Pi J(1), Hage P(1), Kojima Y(3),
+Soetedjo R(4), Ohmae S(5), Medina JF(5), Shadmehr R(1).
+
+Author information: 
+(1)Laboratory for Computational Motor Control, Department of Biomedical
+Engineering, Johns Hopkins School of Medicine, Baltimore, Maryland.
+(2)School of Cognitive Sciences, Institute for Research in Fundamental Sciences, 
+Tehran, Iran.
+(3)Department of Otolaryngology-Head and Neck Surgery, Washington National
+Primate Center, University of Washington, Seattle, Washington.
+(4)Department of Physiology and Biophysics, Washington National Primate Center,
+University of Washington, Seattle, Washington.
+(5)Memory and Brain Research Center, Dept. of Neuroscience, Baylor College of
+Medicine, Houston, Texas.
+
+Analysis of electrophysiological data from Purkinje cells (P-cells) of the
+cerebellum presents unique challenges to spike sorting. Complex spikes have
+waveforms that vary significantly from one event to the next, raising the problem
+of misidentification. Even when complex spikes are detected correctly, the simple
+spikes may belong to a different P-cell, raising the danger of misattribution. To
+address these identification and attribution problems, we wrote an open-source,
+semiautomated software called P-sort, and then tested it by analyzing data from
+P-cells recorded in three species: marmosets, macaques, and mice. Like other
+sorting software, P-sort relies on nonlinear dimensionality reduction to cluster 
+spikes. However, it also uses the statistical relationship between simple and
+complex spikes to merge disparate clusters and split a single cluster. In
+comparison with expert manual curation, occasionally P-sort identified
+significantly more complex spikes, as well as prevented misattribution of
+clusters. Three existing automatic sorters performed less well, particularly for 
+identification of complex spikes. To improve the development of analysis tools
+for the cerebellum, we provide labeled data for 313 recording sessions, as well
+as statistical characteristics of waveforms and firing patterns of P-cells in
+three species.NEW & NOTEWORTHY Algorithms that perform spike sorting depend on
+waveforms to cluster spikes. However, a cerebellar Purkinje-cell produces two
+types of spikes; simple and complex spikes. A complex spike coincides with the
+suppression of generating simple spikes. Here, we recorded neurophysiological
+data from three species and developed a spike analysis software named P-sort that
+relies on this statistical property to improve both the detection and the
+attribution of simple and complex spikes in the cerebellum.
+
+DOI: 10.1152/jn.00172.2021 
+PMCID: PMC8560425 [Available on 2022-10-01]
+PMID: 34432996  [Indexed for MEDLINE]
+

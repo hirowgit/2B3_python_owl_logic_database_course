@@ -1,0 +1,40 @@
+
+
+1443. Am J Primatol. 2014 Aug;76(8):747-56. doi: 10.1002/ajp.22266. Epub 2014 Feb 21.
+
+Exceptional expansion and conservation of a CT-repeat complex in the core
+promoter of PAXBP1 in primates.
+
+Mohammadparast S(1), Bayat H, Biglarian A, Ohadi M.
+
+Author information: 
+(1)Genetics Research Center, University of Social Welfare and Rehabilitation
+Sciences, Tehran, Iran.
+
+Adaptive evolution may be linked with the genomic distribution and function of
+short tandem repeats (STRs). Proximity of the core promoter STRs to the +1
+transcription start site (TSS), and their mutable nature are characteristics that
+highlight those STRs as a novel source of interspecies variation. The PAXBP1 gene
+(alternatively known as GCFC1) core promoter contains the longest STR identified 
+in a Homo sapiens gene core promoter. Indeed, this core promoter is a stretch of 
+four consecutive CT-STRs. In the current study, we used the Ensembl, NCBI, and
+UCSC databases to analyze the evolutionary trend and functional implication of
+this CT-STR complex in six major lineages across vertebrates, including primates,
+non-primate mammals, birds, reptiles, amphibians, and fish. We observed
+exceptional expansion (≥4-repeats) and conservation of this CT-STR complex across
+primates, except prosimians, Microcebus murinus and Otolemur garnettii (Fisher
+exact P<4.1×10(-7)). H. sapiens has the most complex STR formula, and longest
+repeats. Macaca mulatta and Callithrix jacchus monkeys have the simplest STR
+formulas, and shortest repeat numbers. CT≥4-repeats were not detected in
+non-primate lineages. Different length alleles across the PAXBP1 core promoter
+CT-STRs significantly altered gene expression in vitro (P<0.001, t-test). PAXBP1 
+has a crucial role in craniofacial development, myogenesis, and spine
+morphogenesis, properties that have been diverged between primates and
+non-primates. To our knowledge, this is the first instance of expansion and
+conservation of a STR complex co-occurring specifically with the primate lineage.
+
+© 2014 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajp.22266 
+PMID: 24573656  [Indexed for MEDLINE]
+

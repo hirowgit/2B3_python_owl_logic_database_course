@@ -1,0 +1,86 @@
+
+
+1630. Cell Reprogram. 2012 Dec;14(6):485-96. doi: 10.1089/cell.2012.0036.
+
+Induced pluripotent stem cells generated from adult bone marrow-derived cells of 
+the nonhuman primate (Callithrix jacchus) using a novel quad-cistronic and
+excisable lentiviral vector.
+
+Wiedemann A(1), Hemmer K, Bernemann I, Göhring G, Pogozhykh O, Figueiredo C,
+Glage S, Schambach A, Schwamborn JC, Blasczyk R, Müller T.
+
+Author information: 
+(1)Institute for Transfusion Medicine, Hannover Medical School, Hannover,
+Germany.
+
+Erratum in
+    Cell Reprogram. 2013 Aug;15(4):337.
+
+Regenerative medicine is in need of solid, large animal models as a link between 
+rodents and humans to evaluate the functionality, immunogenicity, and clinical
+safety of stem cell-derived cell types. The common marmoset (Callithrix jacchus) 
+is an excellent large animal model, genetically close to humans and readily used 
+worldwide in clinical research. Until now, only two groups showed the generation 
+of induced pluripotent stem cells (iPSCs) from the common marmoset using
+integrating retroviral vectors. Therefore, we reprogrammed bone marrow-derived
+mesenchymal cells (MSCs) of adult marmosets in the presence of TAV, SB431542,
+PD0325901, and ascorbic acid via a novel, excisable lentiviral spleen
+focus-forming virus (SFFV)-driven quad-cistronic vector system (OCT3/4, KLF4,
+SOX2, C-MYC). Endogenous pluripotency markers like OCT3/4, KLF4, SOX2, C-MYC,
+LIN28, NANOG, and strong alkaline phosphatase signals were detected. Exogenous
+genes were silenced and additionally the cassette was removed with a retroviral
+Gag precursor system. The cell line could be cultured in absence of leukemia
+inhibitory factor (LIF) and basic fibroblast growth factor (bFGF) and could be
+successfully differentiated into embryoid bodies and teratomas with presence of
+all three germ layers. Directed differentiation generated neural progenitors,
+megakaryocytes, adipocytes, chondrocytes, and osteogenic cells. Thus, all
+criteria for fully reprogrammed bone marrow-MSCs of a nonhuman primate with a
+genetically sophisticated construct could be demonstrated. These cells will be a 
+promising tool for future autologous transplantations.
+
+DOI: 10.1089/cell.2012.0036 
+PMID: 23194452  [Indexed for MEDLINE]
+
+
+1631. Clin Exp Optom. 2013 May;96(3):259-66. doi: 10.1111/j.1444-0938.2012.00819.x.
+Epub 2012 Nov 27.
+
+Tracking blue cone signals in the primate brain.
+
+Jayakumar J(1), Dreher B, Vidyasagar TR.
+
+Author information: 
+(1)Department of Optometry & Vision Sciences and Melbourne Brain Centre, The
+University of Melbourne, Parkville, Victoria, Australia.
+
+In this paper, we review the path taken by signals originating from the short
+wavelength sensitive cones (S-cones) in Old World and New World primates. Two
+types of retinal ganglion cells (RGCs) carrying S-cone signals (blue-On and
+blue-Off cells) project to the dorsal lateral geniculate nucleus (dLGN) in the
+thalamus. In all primates, these S-cone signals are relayed through the
+'dust-like' (konis in classical Greek) dLGN cells. In New World primates such as 
+common marmoset, these very small cells are known to form distinct and spatially 
+extensive, koniocellular layers. Although in Old World primates, such as
+macaques, koniocellular layers tend to be very thin, the adjacent parvocellular
+layers contain distinct koniocellular extensions. It appears that all S-cone
+signals are relayed through such konio cells, whether they are in the main
+koniocellular layers or in their colonies within the parvocellular layers of the 
+dLGN. In the primary visual cortex, these signals begin to merge with the signals
+carried by the other two principal parallel channels, namely the magnocellular
+and parvocellular channels. This article will also review the possible routes
+taken by the S-cone signals to reach one of the topographically organised
+extrastriate visual cortical areas, the middle temporal area (area MT). This area
+is the major conduit for signals reaching the parietal cortex. Alternative visual
+inputs to area MT not relayed via the primary visual cortex area (V1) may provide
+the neurological basis for the phenomenon of 'blindsight' observed in human and
+non-human primates, who have partial or complete damage to the primary visual
+cortex. Short wavelength sensitive cone (S-cone) signals to area MT may also play
+a role in directing visual attention with possible implications for understanding
+the pathology in dyslexia and some of its treatment options.
+
+© 2012 The Authors. Clinical and Experimental Optometry © 2012 Optometrists
+Association Australia.
+
+DOI: 10.1111/j.1444-0938.2012.00819.x 
+PMID: 23186138  [Indexed for MEDLINE]
+

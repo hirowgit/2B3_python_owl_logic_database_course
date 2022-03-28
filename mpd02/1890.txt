@@ -1,0 +1,42 @@
+
+
+1890. Immunogenetics. 2011 Aug;63(8):485-99. doi: 10.1007/s00251-011-0526-8. Epub 2011 
+Apr 20.
+
+Comparative genome analysis of the major histocompatibility complex (MHC) class I
+B/C segments in primates elucidated by genomic sequencing in common marmoset
+(Callithrix jacchus).
+
+Shiina T(1), Kono A, Westphal N, Suzuki S, Hosomichi K, Kita YF, Roos C, Inoko H,
+Walter L.
+
+Author information: 
+(1)Department of Molecular Life Science, Division of Basic Medical Science and
+Molecular Medicine, Tokai University School of Medicine, Shimokasuya, Isehara,
+Kanagawa, Japan, tshiina@is.icc.u-tokai.ac.jp
+
+Common marmoset monkeys (Callithrix jacchus) have emerged as important animal
+models for biomedical research, necessitating a more extensive characterization
+of their major histocompatibility complex (MHC) region. However, the genomic
+information of the marmoset MHC (Caja) is still lacking. The MHC-B/C segment
+represents the most diverse MHC region among primates. Therefore, in this paper, 
+to elucidate the detailed gene organization and evolutionary processes of the
+Caja class I B (Caja-B) segment, we determined two parts of the Caja-B sequences 
+with 1,079 kb in total, ranging from H6orf15 to BAT1 and compared the structure
+and phylogeny with that of other primates. This segment contains 54 genes in
+total, nine Caja-B genes (Caja-B1 to Caja-B9), two MIC genes (MIC1 and MIC2),
+eight non-MHC genes, two non-coding genes, and 33 non-MHC pseudogenes that have
+not been observed in other primate MHC-B/C segments. Caja-B3, Caja-B4, and
+Caja-B7 encode proper MHC class I proteins according to amino acid structural
+characteristics. Phylogenetic relationships based on 48 MHC-I nucleotide
+sequences in primates suggested (1) species-specific divergence for Caja, Mamu,
+and HLA/Patr/Gogo lineages, (2) independent generation of the "seven coding exon"
+type MHC-B genes in Mamu and HLA/Patr/Gogo lineages from an ancestral "eight
+coding exon" type MHC-I gene, (3) parallel correlation with the long and short
+segmental duplication unit length in Caja and Mamu lineages. These findings
+indicate that the MHC-B/C segment has been under permanent selective pressure in 
+the evolution of primates.
+
+DOI: 10.1007/s00251-011-0526-8 
+PMID: 21505866  [Indexed for MEDLINE]
+

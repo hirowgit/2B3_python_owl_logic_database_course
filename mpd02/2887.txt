@@ -1,0 +1,41 @@
+
+
+2887. J Virol. 2003 Dec;77(23):12494-506.
+
+ORF73 of herpesvirus Saimiri strain C488 tethers the viral genome to metaphase
+chromosomes and binds to cis-acting DNA sequences in the terminal repeats.
+
+Verma SC(1), Robertson ES.
+
+Author information: 
+(1)Department of Microbiology. Tumor Virology Program, Abramson Comprehensive
+Cancer Center, School of Medicine, University of Pennsylvania, Philadelphia,
+Pennsylvania 19104, USA.
+
+Kaposi's sarcoma (KS)-associated herpesvirus (KSHV), a human oncogenic
+gamma-2-herpesvirus, transforms human endothelial cells and establishes latent
+infection at a low efficiency in vitro. During latent infection, only a limited
+number of genes are expressed, and the circularized viral genome is maintained as
+a multicopy episome. Latency-associated nuclear antigen (LANA), exclusively
+expressed during latency, has been shown to have a multifunctional role in KS
+pathogenesis. LANA tethers the viral episome to the host chromosome, thus
+ensuring efficient persistence of the viral genome during successive rounds of
+cell division. Besides episome maintenance, LANA modulates the expression of
+genes of various cellular and viral pathways, including those of retinoblastoma
+protein and p53. Herpesvirus saimiri (HVS), another gamma-2-herpesvirus,
+primarily infects New World primates. Orf73, encoding the nuclear antigen of HVS,
+is the positional homolog of the LANA gene, and the ORF73 protein has some
+sequence homology to KSHV LANA. However, the function of ORF73 of HVS has not
+been thoroughly investigated. In this report, we show that HVS ORF73 may be
+important for episome persistence and colocalizes with the HVS genomic DNA on
+metaphase chromosomes. Furthermore, HVS terminal repeats (TRs) contain a
+cis-acting sequence similar to that in KSHV TRs, suggesting that the LANA binding
+sequence is conserved between these two viruses. This cis-acting element is
+sufficient to bind HVS ORF73 from strains C488 and A11, and plasmids containing
+the HVS C488 TR element are maintained and replicate in HVS C488 ORF73-expressing
+cells.
+
+DOI: 10.1128/jvi.77.23.12494-12506.2003 
+PMCID: PMC262571
+PMID: 14610173  [Indexed for MEDLINE]
+

@@ -1,0 +1,46 @@
+
+
+421. Neuroimage. 2020 Jan 1;204:116241. doi: 10.1016/j.neuroimage.2019.116241. Epub
+2019 Oct 3.
+
+Comparison of resting-state functional connectivity in marmosets with
+tracer-based cellular connectivity.
+
+Hori Y(1), Schaeffer DJ(2), Gilbert KM(2), Hayrynen LK(2), Cléry JC(2), Gati
+JS(2), Menon RS(2), Everling S(3).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Ontario, N6A 5B7, Canada. Electronic
+address: yhori@uwo.ca.
+(2)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Ontario, N6A 5B7, Canada.
+(3)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Ontario, N6A 5B7, Canada; Department of
+Physiology and Pharmacology, The University of Western Ontario, London, Ontario, 
+N6A 5C1, Canada. Electronic address: severlin@uwo.ca.
+
+Resting-state functional MRI (RS-fMRI) is widely used to assess how strongly
+different brain areas are connected. However, this connection obtained by
+RS-fMRI, which is called functional connectivity (FC), simply refers to the
+correlation of blood oxygen level-dependent (BOLD) signals across time it has yet
+to be quantified how accurately FC reflects cellular connectivity (CC). In this
+study, we elucidated this relationship using RS-fMRI and quantitative tracer data
+in marmosets. In addition, we also elucidated the effects of distance between two
+brain regions on the relationship between FC and CC across seed region. To
+calculate FC, we used full correlation approach that is considered to reflect not
+only direct (monosynaptic connections) but also indirect pathways (polysynaptic
+connections). Our main findings are that: (1) overall FC obtained by RS-fMRI was 
+highly correlated with tracer-based CC, but correlation coefficients varied
+remarkably across seed regions; (2) the strength of FC decreased with increase in
+the distance between two regions; (3) correlation coefficients between FC and CC 
+after regressing out the effects of the distance between two regions still varied
+across seed regions, but some regions have strong correlations. These findings
+suggest that although FC reflects the strength of monosynaptic pathways, it is
+strongly affected by the distance between regions.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2019.116241 
+PMID: 31586676  [Indexed for MEDLINE]
+

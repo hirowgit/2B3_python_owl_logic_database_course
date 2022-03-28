@@ -1,0 +1,71 @@
+
+
+1901. J Neurosci. 2011 Feb 23;31(8):2965-73. doi: 10.1523/JNEUROSCI.4920-10.2011.
+
+Altered neural responses to sounds in primate primary auditory cortex during
+slow-wave sleep.
+
+Issa EB(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland 21025, USA.
+
+How sounds are processed by the brain during sleep is an important question for
+understanding how we perceive the sensory environment in this unique behavioral
+state. While human behavioral data have indicated selective impairments of sound 
+processing during sleep, brain imaging and neurophysiology studies have reported 
+that overall neural activity in auditory cortex during sleep is surprisingly
+similar to that during wakefulness. This responsiveness to external stimuli
+leaves open the question of how neural responses during sleep differ, if at all, 
+from wakefulness. Using extracellular neural recordings in the primary auditory
+cortex of naturally sleeping common marmosets, we show that slow-wave sleep (SWS)
+alters neural responses in the primate auditory cortex in two specific ways. SWS 
+reduced the sensitivity of auditory cortex such that quiet sounds elicited weak
+responses in SWS compared with wakefulness, while loud sounds evoked similar
+responses in SWS and wakefulness. Furthermore, SWS reduced the extent of
+sound-evoked response suppression. This pattern of alterations was not observed
+during rapid eye movement sleep and could not be easily explained by the presence
+of slow rhythms in SWS. The alteration of excitatory and inhibitory responses
+during SWS suggests limitations in auditory processing and provides novel
+insights for understanding why certain sounds are processed while others are
+missed during deep sleep.
+
+DOI: 10.1523/JNEUROSCI.4920-10.2011 
+PMCID: PMC3758555
+PMID: 21414918  [Indexed for MEDLINE]
+
+
+1902. Biochem Biophys Res Commun. 2011 Apr 15;407(3):491-4. doi:
+10.1016/j.bbrc.2011.03.044. Epub 2011 Mar 23.
+
+Telomerase inhibition promotes an initial step of cell differentiation of primate
+embryonic stem cell.
+
+Maeda T(1), Kurita R, Yokoo T, Tani K, Makino N.
+
+Author information: 
+(1)The Division of Clinical Gerontology, The Department of Molecular and Cellular
+Biology, Medical Institute of Bioregulation, Kyushu University, Japan.
+maedat@beppu.kyushu-u.ac.jp
+
+Embryonic stem (ES) cell is well known as a totipotent cell, which is derived
+from a blastcyst and has potential to differentiate into every kind of somatic
+cell. ES cell bears self-renewal characteristic as well as differentiation
+potential. ES cell bears telomerase activity to avoid telomere shortening, which 
+is a characteristic of differentiated somatic cells. As the differentiation of ES
+cells proceeds, their telomerase activity is losing. However, it has not been
+convinced whether suppression of the telomerase activity promotes progression of 
+ES cell differentiation. The effect of telomerase inhibitor on the
+differentiation potential of marmoset ES cell was assessed, counting cells
+expressing embryonic markers (alkaline phosphatase and TPA-1-60) under existence 
+of a telomerase inhibitor. Telomerase inhibitor showed a promotional effect for
+the marmoset ES cell differentiation. This result suggests that exogenous
+inhibition of telomerase activity leads to induction of an early differentiation 
+of primate ES cell.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2011.03.044 
+PMID: 21414297  [Indexed for MEDLINE]
+

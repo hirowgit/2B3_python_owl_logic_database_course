@@ -1,0 +1,81 @@
+
+
+2807. Cytogenet Genome Res. 2004;105(1):54-6.
+
+The evolutionary conservation of the human chitotriosidase gene in rodents and
+primates.
+
+Gianfrancesco F(1), Musumeci S.
+
+Author information: 
+(1)Institute of Population Genetics, CNR, Alghero, Italy.
+F.Gianfrancesco@igm.ss.cnr.it
+
+Chitinases have been identified in a variety of organisms ranging from
+prokaryotes to eukaryotes, known to specifically degrade chitin, an abundant
+polymer of N-acetylglucosamine. Recently a human chitinolytic enzyme called CHIT1
+was discovered. CHIT1 is expressed by activated macrophages and hydrolyzes
+artificial chitotrioside substrates, but its specific function in humans is
+unknown, since it is generally believed that man completely lacks endogenous
+chitin and endogenous substrates for chitinases. An intriguing question is
+whether the chitotriosidase activity is just an evolutionary remnant or it has a 
+physiological function in man. To test these hypotheses we utilized a
+"phylogenomic" approach performing accurate sequence analyses of this gene,
+coding for CHIT1, in rodents and primates. Inspecting the sequences available in 
+public databases, we determined that this gene is conserved in rodents (mouse and
+rat) and primates (chimpanzee, gorilla, orangutan, gibbon, baboon, a common
+marmoset and black macaque). Moreover we found that a 24-base pair duplication
+that determines an enzymatically inactive human protein is not present in
+primates, suggesting that this polymorphism was created during human evolution.
+These results indicate that chitotriosidase is conserved across the evolutionary 
+scale. Such conservation of the CHIT1 gene argues in favour of an important
+biological role.
+
+Copyright 2003 S. Karger AG, Basel
+
+DOI: 10.1159/000078009 
+PMID: 15218258  [Indexed for MEDLINE]
+
+
+2808. Endocrinology. 2004 Oct;145(10):4480-8. Epub 2004 Jun 17.
+
+Serine residues 338 and 339 in the carboxyl-terminal tail of the type II
+gonadotropin-releasing hormone receptor are critical for
+beta-arrestin-independent internalization.
+
+Ronacher K(1), Matsiliza N, Nkwanyana N, Pawson AJ, Adam T, Flanagan CA, Millar
+RP, Katz AA.
+
+Author information: 
+(1)Medical Research Council Research Group for Receptor Biology, Division of
+Medical Biochemistry, Faculty of Health Sciences, University of Cape Town, Anzio 
+Road, Observatory 7925, South Africa.
+
+Cloned mammalian type II GnRH receptors have a carboxyl-terminal tail in contrast
+to the mammalian type I GnRH receptors, which uniquely lack a carboxyl-terminal
+tail. Because this domain mediates internalization of many serpentine receptors, 
+the internalization pathway of the marmoset monkey type II GnRH receptor and the 
+functional role of the carboxyl-terminal tail in internalization was studied. The
+internalization pathway of the type II GnRH receptor was investigated in COS-1
+cells by coexpressing G protein-coupled receptor kinases (GRKs), dynamin-1, and
+beta-arrestins. Internalization of the receptor requires GRKs and dynamin but
+does not require beta-arrestin. The type II GnRH receptor can also internalize
+via beta-arrestin in the presence of exogenous beta-arrestins, suggesting that
+the receptor can use two distinct internalization pathways. Receptor
+internalization appears to occur via clathrin-coated pits and caveolae because
+disruption of either structure inhibits internalization. Progressive truncations 
+of the carboxyl-terminal tail identified a region containing serine residues 338 
+and 339 as critical for receptor internalization. Substitution of these serine
+residues with alanine residues inhibited internalization, whereas substitutions
+with glutamic acid residues rescued internalization. Furthermore, a
+dominant-negative GRK2 did not inhibit internalization of receptors having these 
+serine substitutions, although it inhibited internalization of the wild-type
+receptor. These results together identify serine residues 338 and 339 in the
+carboxyl-terminal tail as critical for internalization of the type II GnRH
+receptor and suggest that these residues undergo phosphorylation by GRKs.
+However, neither of these residues, nor the carboxyl-terminal tail, is required
+for beta-arrestin-dependent internalization.
+
+DOI: 10.1210/en.2004-0075 
+PMID: 15205374  [Indexed for MEDLINE]
+

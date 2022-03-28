@@ -1,0 +1,68 @@
+
+
+2787. J Vis. 2004 Aug 9;4(7):643-63.
+
+Lateral interactions in the perception of flicker and in the physiology of the
+lateral geniculate nucleus.
+
+Kremers J(1), Kozyrev V, Silveira LC, Kilavik BE.
+
+Author information: 
+(1)Department of Experimental Ophthalmology, University of Tübingen Eye Hospital,
+Tübingen, Germany. jan.kremers@uni-tuebingen.de
+
+The perception of flicker strength in a center stimulus can be affected by the
+presence of a surrounding stimulus. We correlated this effect with the
+interactions between centers and surrounds of the receptive fields (RFs) of
+neurons in the retino-geniculate pathways. The responses of cells in the lateral 
+geniculate nucleus (LGN) of two New World monkey species, the common marmoset
+(Callithrix jacchus), and the owl monkey (Aotus azarae) were measured to two
+spatially non-overlapping sinusoidally modulating luminance stimuli of equal
+temporal frequency, one of which mainly stimulated the RF center, the other the
+RF surround. The relative temporal phase between the center and surround stimuli 
+was varied. The response amplitude as a function of relative phase between the
+center and surround stimuli can be described by a simple model where the RF
+center and surround responses are vector-added. A minimal response was reached
+for stimuli in which the surround stimulus led the center stimulus, indicating
+that the RF surround response lagged the center response. The flicker strength in
+the center stimulus perceived by human observers was measured psychophysically.
+It was found that the perceived flicker strength could be described by the same
+function as was used for the cell data. There were qualitative similarities
+between the physiological and the psychophysical data, suggesting that the
+physiological basis of the psychophysically measured spatial interactions is
+present as early as the LGN. The data indicated the presence of a nonlinearity in
+center-surround interactions that is influenced by the stimulus contrast. The
+possible source of this nonlinearity was studied by comparing the center and the 
+surround responses with those in which they were selectively stimulated.
+
+DOI: 10.1167/4.7.10 
+PMID: 15330708  [Indexed for MEDLINE]
+
+
+2788. Rev Soc Bras Med Trop. 2004 May-Jun;37(3):222-8.
+
+Experimental schistosomiasis in the common marmoset Callithrix jacchus.
+
+de Oliveira AL(1), Malagueño E, Telles AM, Madruga MH, de Santana JV.
+
+Author information: 
+(1)Departamento de Biofisica e Radiobiologia da Universidade Federal de
+Pernambuco, Recife, PE. lunadeoliveira@hotmail.com
+
+In order to evaluate Callithrix jacchus as an animal model for mansoni
+schistosomiasis, a group of 10 male animals were once percutaneously exposed to
+250 cercariae of the Schistosoma mansoni SLM (São Lourenço da Mata) strain.
+Animals were periodically bled for measuring serum level of enzymes and proteins 
+and for blood cell counting. When comparing pre-infection to post-infection
+values, a significant increase was found for alkaline phosphatase at 15 to 120
+days p.i., differential counts of eosinophil at 45 and 60 days, and total protein
+and global eosinophil counts at 120 days. No Schistosoma mansoni eggs were found 
+in stools. Adult worms of small size were recovered from five animals. At day
+120, the number of Schistosoma mansoni eggs/g of tissue was 0-289.7 (liver),
+0-30.1 (large intestine) and 0-171.4 (small intestine). These findings lead us to
+classify Callithrix jacchus as a non-permissive host to the SLM strain of
+Schistosoma mansoni.
+
+DOI: 10.1590/s0037-86822004000300006 
+PMID: 15330061  [Indexed for MEDLINE]
+

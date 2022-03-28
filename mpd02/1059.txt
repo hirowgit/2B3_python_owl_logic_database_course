@@ -1,0 +1,56 @@
+
+
+1059. Neuron. 2016 Apr 20;90(2):219-33. doi: 10.1016/j.neuron.2016.03.018.
+
+Marmosets: A Neuroscientific Model of Human Social Behavior.
+
+Miller CT(1), Freiwald WA(2), Leopold DA(3), Mitchell JF(4), Silva AC(5), Wang
+X(6).
+
+Author information: 
+(1)Cortical Systems and Behavior Laboratory, University of California, San Diego,
+9500 Gilman Dr., La Jolla, CA 92093, USA. Electronic address:
+corymiller@ucsd.edu.
+(2)Laboratory of Neural Systems, The Rockefeller University, 1230 York Ave., New 
+York, NY 10065, USA.
+(3)Section on Cognitive Neurophysiology and Imaging, Laboratory of
+Neuropsychology, National Institute of Mental Health, National Institutes of
+Health, 6001 Executive Blvd., Bethesda, MD 20892, USA.
+(4)Department of Brain and Cognitive Sciences, University of Rochester, 358
+Meliora Hall, Rochester, NY 14627, USA.
+(5)Section on Cerebral Microcirculation, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, 6001 Executive Blvd., Bethesda, MD 20892, USA.
+(6)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, 720 Rutland Ave., Baltimore, MD
+21205, USA.
+
+The common marmoset (Callithrix jacchus) has garnered interest recently as a
+powerful model for the future of neuroscience research. Much of this excitement
+has centered on the species' reproductive biology and compatibility with gene
+editing techniques, which together have provided a path for transgenic marmosets 
+to contribute to the study of disease as well as basic brain mechanisms. In step 
+with technical advances is the need to establish experimental paradigms that
+optimally tap into the marmosets' behavioral and cognitive capacities. While
+conditioned task performance of a marmoset can compare unfavorably with rhesus
+monkey performance on conventional testing paradigms, marmosets' social behavior 
+and cognition are more similar to that of humans. For example, marmosets are
+among only a handful of primates that, like humans, routinely pair bond and care 
+cooperatively for their young. They are also notably pro-social and exhibit
+social cognitive abilities, such as imitation, that are rare outside of the Apes.
+In this Primer, we describe key facets of marmoset natural social behavior and
+demonstrate that emerging behavioral paradigms are well suited to isolate
+components of marmoset cognition that are highly relevant to humans. These
+approaches generally embrace natural behavior, which has been rare in
+conventional primate testing, and thus allow for a new consideration of neural
+mechanisms underlying primate social cognition and signaling. We anticipate that 
+through parallel technical and paradigmatic advances, marmosets will become an
+essential model of human social behavior, including its dysfunction in
+neuropsychiatric disorders.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2016.03.018 
+PMCID: PMC4840471
+PMID: 27100195  [Indexed for MEDLINE]
+

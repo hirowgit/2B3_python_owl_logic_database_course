@@ -1,0 +1,91 @@
+
+
+1126. Genome Announc. 2015 Dec 10;3(6). pii: e01463-15. doi: 10.1128/genomeA.01463-15.
+
+Draft Genome Sequence of Bifidobacterium aesculapii DSM 26737T, Isolated from
+Feces of Baby Common Marmoset.
+
+Toh H(1), Yamazaki Y(2), Tashiro K(3), Kawarai S(4), Oshima K(5), Nakano A(6),
+Kim CN(7), Mimura I(7), Arakawa K(7), Iriki A(2), Kikusui T(4), Morita H(8).
+
+Author information: 
+(1)Medical Institute of Bioregulation, Kyushu University, Fukuoka, Japan.
+(2)Riken Brain Science Institute, Wako, Japan.
+(3)Graduate School of Systems Life Sciences, Kyushu University, Fukuoka, Japan.
+(4)School of Veterinary Medicine, Azabu University, Sagamihara, Kanagawa, Japan.
+(5)Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Chiba,
+Japan.
+(6)Department of Microbiology and Infectious Diseases, Nara Medical University,
+Kashihara, Nara, Japan.
+(7)Graduate School of Environmental and Life Science, Okayama University,
+Okayama, Japan.
+(8)Graduate School of Environmental and Life Science, Okayama University,
+Okayama, Japan hidetoshi-morita@okayama-u.ac.jp.
+
+Bifidobacterium aesculapii DSM 26737(T) was isolated from feces of baby common
+marmoset. Here, we report the draft genome sequence of this organism. This paper 
+is the first published report of the genomic sequence of B. aesculapii.
+
+Copyright © 2015 Toh et al.
+
+DOI: 10.1128/genomeA.01463-15 
+PMCID: PMC4675957
+PMID: 26659692 
+
+
+1127. Cell Rep. 2015 Dec 1;13(9):1989-99. doi: 10.1016/j.celrep.2015.10.050. Epub 2015 
+Nov 19.
+
+Long-Term Two-Photon Calcium Imaging of Neuronal Populations with Subcellular
+Resolution in Adult Non-human Primates.
+
+Sadakane O(1), Masamizu Y(2), Watakabe A(1), Terada S(3), Ohtsuka M(4), Takaji
+M(4), Mizukami H(5), Ozawa K(5), Kawasaki H(6), Matsuzaki M(7), Yamamori T(8).
+
+Author information: 
+(1)Division of Brain Biology, National Institute for Basic Biology, Aichi
+444-8585, Japan; Department of Basic Biology, The Graduate University for
+Advanced Studies (Sokendai), Aichi 444-8585, Japan; Laboratory for Molecular
+Analysis of Higher Brain Function, RIKEN Brain Science Institute, Saitama
+351-0198, Japan.
+(2)Department of Basic Biology, The Graduate University for Advanced Studies
+(Sokendai), Aichi 444-8585, Japan; Division of Brain Circuits, National Institute
+for Basic Biology, Aichi 444-8585, Japan.
+(3)Division of Brain Circuits, National Institute for Basic Biology, Aichi
+444-8585, Japan; Laboratory of Cell Recognition and Pattern Formation, Graduate
+School of Biostudies, Kyoto University, Kyoto 606-8501, Japan.
+(4)Division of Brain Biology, National Institute for Basic Biology, Aichi
+444-8585, Japan; Laboratory for Molecular Analysis of Higher Brain Function,
+RIKEN Brain Science Institute, Saitama 351-0198, Japan.
+(5)Division of Genetic Therapeutics, Center for Molecular Medicine, Jichi Medical
+University, Tochigi 329-0498, Japan.
+(6)Department of Medical Neuroscience, Graduate School of Medicine, Kanazawa
+University, Ishikawa 920-8640, Japan.
+(7)Department of Basic Biology, The Graduate University for Advanced Studies
+(Sokendai), Aichi 444-8585, Japan; Division of Brain Circuits, National Institute
+for Basic Biology, Aichi 444-8585, Japan. Electronic address: mzakim@nibb.ac.jp.
+(8)Division of Brain Biology, National Institute for Basic Biology, Aichi
+444-8585, Japan; Department of Basic Biology, The Graduate University for
+Advanced Studies (Sokendai), Aichi 444-8585, Japan; Laboratory for Molecular
+Analysis of Higher Brain Function, RIKEN Brain Science Institute, Saitama
+351-0198, Japan. Electronic address: tetsuo.yamamori@riken.jp.
+
+Two-photon imaging with genetically encoded calcium indicators (GECIs) enables
+long-term observation of neuronal activity in vivo. However, there are very few
+studies of GECIs in primates. Here, we report a method for long-term imaging of a
+GECI, GCaMP6f, expressed from adeno-associated virus vectors in cortical neurons 
+of the adult common marmoset (Callithrix jacchus), a small New World primate. We 
+used a tetracycline-inducible expression system to robustly amplify neuronal
+GCaMP6f expression and up- and downregulate it for more than 100 days. We
+succeeded in monitoring spontaneous activity not only from hundreds of neurons
+three-dimensionally distributed in layers 2 and 3 but also from single dendrites 
+and axons in layer 1. Furthermore, we detected selective activities from somata, 
+dendrites, and axons in the somatosensory cortex responding to specific tactile
+stimuli. Our results provide a way to investigate the organization and plasticity
+of cortical microcircuits at subcellular resolution in non-human primates.
+
+Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2015.10.050 
+PMID: 26655910  [Indexed for MEDLINE]
+

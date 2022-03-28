@@ -1,0 +1,28 @@
+
+
+199. Biomed Phys Eng Express. 2020 Jul 7;6(4):045022. doi: 10.1088/2057-1976/ab8d97.
+
+Design and construction of a gradient coil for high resolution marmoset imaging.
+
+Handler WB(1), Bindseil G, Chaddock R, Dalrymple B, Gati JS, Gilbert KM, Harris
+CT, Klassen ML, Peterson J, Van Sas F, Chronik BA.
+
+Author information: 
+(1)xMR lab, Physics and Astronomy Department, Western University, London,
+Ontario, Canada.
+
+A gradient coil with integrated second and third order shims has been designed
+and constructed for use inside an actively shielded 310 mm horizontal bore 9.4 T 
+small animal MRI. An extension of the boundary element method, to minimise the
+power deposited in conducting surfaces, was used to design the gradients, and a
+boundary element method with a constraint on mutual inductance was used to design
+the shims. The gradient coil allows for improved imaging performance and was
+optimized for an imaging region appropriate for marmoset imaging studies.
+Efficiencies of 1.5 mT m-1 A-1 were achieved in a 15 cm wide bore while
+maintaining gradient uniformity ≤5% over the 8 cm region of interest. Two new
+cooling methods were implemented which allowed the gradient coil to operate at
+100 A RMS, 25 % of max current with a temperature rise below 30 C.
+
+DOI: 10.1088/2057-1976/ab8d97 
+PMID: 33444282  [Indexed for MEDLINE]
+

@@ -1,0 +1,73 @@
+
+
+1813. J Neuroimmune Pharmacol. 2012 Mar;7(1):253-65. doi: 10.1007/s11481-011-9320-5.
+Epub 2011 Oct 20.
+
+Discrepant effects of human interferon-gamma on clinical and immunological
+disease parameters in a novel marmoset model for multiple sclerosis.
+
+Jagessar SA(1), Gran B, Heijmans N, Bauer J, Laman JD, 't Hart BA, Constantinescu
+CS.
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Centre, Rijswijk, The
+Netherlands.
+
+The core pathogenic process in the common marmoset model of multiple sclerosis
+(MS) is the activation of memory-like T cells specific for peptide 34 to 56
+derived from the extracellular domain of myelin/oligodendrocyte glycoprotein
+(MOG(34-56)). Immunization with MOG(34-56) in incomplete Freund's adjuvant is a
+sufficient stimulus for in vivo activation of these T cells, together with the
+induction of MS-like disease and CNS pathology. Ex vivo functional
+characteristics of MOG(34-56) specific T cells are specific cytolysis of peptide 
+pulsed target cells and high IL-17A production. To indentify possible functions
+in this new model of T helper 1 cells, which play a central pathogenic role in MS
+models induced with complete Freund's adjuvant, we tested the effect of human
+interferon-γ (IFNγ) administration during disease initiation of the disease (day 
+0-25) and around the time of disease expression (psd 56-81). The results show a
+clear modulatory effect of early IFNγ treatment on humoral and cellular
+autoimmune parameters, but no generalized mitigating effect on the disease
+course. These results argue against a prominent pathogenic role of T helper 1
+cells in this new marmoset EAE model.
+
+DOI: 10.1007/s11481-011-9320-5 
+PMCID: PMC3280389
+PMID: 22012268  [Indexed for MEDLINE]
+
+
+1814. J Neuropathol Exp Neurol. 2011 Nov;70(11):992-1005. doi:
+10.1097/NEN.0b013e318234d421.
+
+B-cell depletion attenuates white and gray matter pathology in marmoset
+experimental autoimmune encephalomyelitis.
+
+Kap YS(1), Bauer J, Driel Nv, Bleeker WK, Parren PW, Kooi EJ, Geurts JJ, Laman
+JD, Craigen JL, Blezer E, 't Hart BA.
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Centre, Rijswijk.
+kap@bprc.nl
+
+This study investigated the effect of CD20-positive B-cell depletion on central
+nervous system (CNS) white and gray matter pathology in experimental autoimmune
+encephalomyelitis in common marmosets, a relevant preclinical model of multiple
+sclerosis. Experimental autoimmune encephalomyelitis was induced in 14 marmosets 
+by immunization with recombinant human myelin oligodendrocyte glycoprotein in
+complete Freund adjuvant. At 21 days after immunization, B-cell depletion was
+achieved by weekly intravenous injections of HuMab 7D8, a human-anti-human CD20
+antibody that cross-reacts with marmoset CD20. In vivo magnetic resonance imaging
+showed widespread brain white matter demyelination in control marmosets that was 
+absent in CD20 antibody-treated marmosets. High-contrast postmortem magnetic
+resonance imaging showed white matter lesions in 4of the 7 antibody-treated
+marmosets, but these were significantly smaller than those in controls. The same 
+technique revealed gray matter lesions in 5 control marmosets, but none in
+antibody-treated marmosets. Histologic analysis confirmed that inflammation,
+demyelination, and axonal damage were substantially reduced in brain, spinal
+cord, and optic nerves of CD20 antibody-treated marmosets. In conclusion,
+CD20-postive B-cell depletion by HuMab 7D8 profoundly reduced the development of 
+both white and gray matter lesions in the marmoset CNS. These data underline the 
+central role of B cells in CNS inflammatory-demyelinating disease.
+
+DOI: 10.1097/NEN.0b013e318234d421 
+PMID: 22002426  [Indexed for MEDLINE]
+

@@ -1,0 +1,53 @@
+
+
+975. Biochem Pharmacol. 2016 Nov 15;120:56-62. doi: 10.1016/j.bcp.2016.09.010. Epub
+2016 Sep 21.
+
+Oxidation of R- and S-omeprazole stereoselectively mediated by liver microsomal
+cytochrome P450 2C19 enzymes from cynomolgus monkeys and common marmosets.
+
+Uehara S(1), Kawano M(1), Murayama N(1), Uno Y(2), Utoh M(2), Inoue T(3), Sasaki 
+E(4), Yamazaki H(5).
+
+Author information: 
+(1)Showa Pharmaceutical University, Machida, Tokyo, Japan.
+(2)Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, Japan.
+(3)Central Institute for Experimental Animals, Kawasaki, Japan.
+(4)Central Institute for Experimental Animals, Kawasaki, Japan; Keio Advanced
+Research Center, Keio University, Minato-ku, Tokyo, Japan.
+(5)Showa Pharmaceutical University, Machida, Tokyo, Japan. Electronic address:
+hyamazak@ac.shoyaku.ac.jp.
+
+Racemic omeprazole has been used for clinically treating gastric acid-related
+diseases and also as a typical human cytochrome P450 (P450) 2C19 probe substrate 
+in preclinical studies. S-Omeprazole has been developed as a single enantiomer
+medicine, which has been reported not to be associated with polymorphic human
+P450 2C19 phenotypes. In this study, 5-hydroxylation and sulfoxidation
+activities, with respect to stereoselective R- and S-omeprazole oxidations by
+liver microsomes from experimental animals including non-human primates and
+humans, were investigated in vitro. Liver microsomes from humans, cynomolgus
+monkeys, and mice preferentially mediated R-omeprazole 5-hydroxylations, however 
+those from marmosets, minipigs, dogs, and rats preferentially mediated
+S-omeprazole 5-hydroxylations. High catalytic activities were observed for
+recombinant human P450 2C19 in R-omeprazole 5-hydroxlations, cynomolgus monkey
+P450 2C19 in both R- and S-omeprazole 5-hydroxlations, and marmoset P450 2C19 in 
+S-omeprazole 5-hydroxlations. On the other hand, human, cynomolgus monkey, and
+marmoset P450 3A enzymes preferentially mediated S-omeprazole sulfoxidations.
+Correlation and kinetic analyses revealed a high affinity of polymorphic
+cynomolgus monkey and marmoset liver microsomal P450 2C19 enzymes with respect to
+R- and S-omeprazole 5-hydroxylations, respectively, and a high capacity of
+cynomolgus monkey and marmoset liver microsomal P450 3A4 for omeprazole
+5-hydroxylations and sulfoxidations. R-and S-omeprazole 5-hydroxylation
+activities in cynomolgus monkey and marmoset liver microsomes were significantly 
+different among wild-type, heterozygous, and homozygous animals genotyped for
+cynomolgus monkey P450 2C19 p.[(Phe100Asn; Ala103Val; Ile112Leu)] and for
+marmoset P450 2C19 p.[(Phe7Leu; Ser254Leu; Ile469Thr)], respectively. The results
+of this study demonstrate polymorphic cynomolgus monkey and marmoset P450
+2C19-dependent omeprazole oxidation activities with individual variations similar
+to humans.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2016.09.010 
+PMID: 27641812  [Indexed for MEDLINE]
+

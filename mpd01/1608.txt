@@ -1,0 +1,84 @@
+
+
+1608. Biochem Pharmacol. 2013 Apr 15;85(8):1182-94. doi: 10.1016/j.bcp.2013.01.024.
+Epub 2013 Feb 5.
+
+Characterization of marmoset CYP2B6: cDNA cloning, protein expression and
+enzymatic functions.
+
+Mayumi K(1), Hanioka N, Masuda K, Koeda A, Naito S, Miyata A, Narimatsu S.
+
+Author information: 
+(1)Laboratory of Health Chemistry, Graduate School of Medicine, Dentistry and
+Pharmaceutical Sciences, Okayama University, Okayama, Japan.
+
+The common marmoset is a promising species for evaluating the safety of drug
+candidates. To further understand the capacity for drug metabolism in marmosets, 
+a cDNA encoding a CYP2B enzyme was cloned from the total RNA fraction of marmoset
+liver by 3'- and 5'-RACE methods. Nucleotide and deduced amino acid sequences
+showed 90.8 and 86.2% identity, respectively, with human CYP2B6. The marmoset
+CYP2B6 (marCYP2B6) protein was expressed in insect cells, and its enzymatic
+properties were compared with those of human (humCYP2B6) and cynomolgus monkey
+(cynCYP2B6) orthologs in liver and insect cell microsomes. Enzymatic functions
+were examined for the oxidation of 7-ethoxy-4-(trifluoromethyl)coumarin (7-ETC), 
+bupropion (BUP) and efavirenz (EFV). The kinetic profiles for the oxidation of
+the three substrates by liver microsomal fractions were similar between humans
+and cynomolgus monkeys (biphasic for 7-ETC and monophasic for BUP and EFV), but
+that of marmosets was unique (monophasic for 7-ETC and biphasic for BUP and EFV).
+Recombinant enzymes, humCYP2B6 and cynCYP2B6, also yielded similar kinetic
+profiles for the oxidation of the three substrates, whereas marCYP2B6 showed
+activity only for 7-ETC hydroxylation. In silico docking simulations suggested
+that two amino acid residues, Val-114 and Leu-367, affect the activity of
+marCYP2B6. In fact, a marCYP2B6 mutant with substitutions V114I and L367V
+exhibited BUP hydroxylase activity that was 4-fold higher than that of humCYP2B6,
+while its EFV 8-hydroxylase activity was only 10% that of the human enzyme. These
+results indicate that the amino acids at positions 114 and 367 affect the
+enzymatic capacity of marmoset CYP2B6.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2013.01.024 
+PMID: 23395694  [Indexed for MEDLINE]
+
+
+1609. PLoS Pathog. 2013 Jan;9(1):e1003138. doi: 10.1371/journal.ppat.1003138. Epub 2013
+Jan 31.
+
+Novel marmoset (Callithrix jacchus) model of human Herpesvirus 6A and 6B
+infections: immunologic, virologic and radiologic characterization.
+
+Leibovitch E(1), Wohler JE, Cummings Macri SM, Motanic K, Harberts E, Gaitán MI, 
+Maggi P, Ellis M, Westmoreland S, Silva A, Reich DS, Jacobson S.
+
+Author information: 
+(1)Viral Immunology Section, Neuroimmunology Branch, NINDS/NIH, Bethesda,
+Maryland, United States of America.
+
+Human Herpesvirus 6 (HHV-6) is a ubiquitous virus with an estimated
+seroprevalence of 95% in the adult population. HHV-6 is associated with several
+neurologic disorders, including multiple sclerosis, an inflammatory demyelinating
+disease affecting the CNS. Animal models of HHV-6 infection would help clarify
+its role in human disease but have been slow to develop because rodents lack
+CD46, the receptor for cellular entry. Therefore, we investigated the effects of 
+HHV-6 infections in a non-human primate, the common marmoset Callithrix jacchus. 
+We inoculated a total of 12 marmosets with HHV-6A and HHV-6B intravenously and
+HHV-6A intranasally. Animals were monitored for 25 weeks post-inoculation
+clinically, immunologically and by MRI. Marmosets inoculated with HHV-6A
+intravenously exhibited neurologic symptoms and generated virus-specific antibody
+responses, while those inoculated intravenously with HHV-6B were asymptomatic and
+generated comparatively lower antibody responses. Viral DNA was detected at a low
+frequency in paraffin-embedded CNS tissue of a subset of marmosets inoculated
+with HHV-6A and HHV-6B intravenously. When different routes of HHV-6A inoculation
+were compared, intravenous inoculation resulted in virus-specific antibody
+responses and infrequent detection of viral DNA in the periphery, while
+intranasal inoculation resulted in negligible virus-specific antibody responses
+and frequent detection of viral DNA in the periphery. Moreover, marmosets
+inoculated with HHV-6A intravenously exhibited neurologic symptoms, while
+marmosets inoculated with HHV-6A intranasally were asymptomatic. We demonstrate
+that a marmoset model of HHV-6 infection can serve to further define the
+contribution of this ubiquitous virus to human neurologic disorders.
+
+DOI: 10.1371/journal.ppat.1003138 
+PMCID: PMC3561285
+PMID: 23382677  [Indexed for MEDLINE]
+

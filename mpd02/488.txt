@@ -1,0 +1,48 @@
+
+
+488. Biochem Biophys Res Commun. 2019 Aug 6;515(4):593-599. doi:
+10.1016/j.bbrc.2019.05.175. Epub 2019 Jun 6.
+
+Establishment of induced pluripotent stem cells from common marmoset fibroblasts 
+by RNA-based reprogramming.
+
+Nakajima M(1), Yoshimatsu S(2), Sato T(1), Nakamura M(1), Okahara J(3), Sasaki
+E(3), Shiozawa S(4), Okano H(5).
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan.
+(2)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan;
+Laboratory for Proteolytic Neuroscience, RIKEN Center for Brain Science, Saitama,
+Japan.
+(3)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan; Department of Marmoset Biology and Medicine, Central Institute
+for Experimental Animals, Kanagawa, Japan.
+(4)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan.
+Electronic address: shiozawa@a7.keio.jp.
+(5)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan;
+Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan. Electronic address: hidokano@a2.keio.jp.
+
+The common marmoset (marmoset; Callithrix jacchus) shows anatomical and
+physiological features that are in common with humans. Establishing induced
+pluripotent stem cells (iPSCs) from marmosets holds promise for enhancing the
+utility of the animal model for biomedical and preclinical studies. However, in
+spite of the presence of some previous reports on marmoset iPSCs, the
+reprogramming technology in marmosets is still under development. In particular, 
+the efficacy of RNA-based reprogramming has not been thoroughly investigated. In 
+this study, we attempted RNA-based reprogramming for deriving iPSCs from marmoset
+fibroblasts. Although we failed to derive iPSC colonies from marmoset fibroblasts
+by using a conventional RNA-based reprogramming method previously validated in
+human fibroblasts, we succeeded in deriving colony-forming cells with a modified 
+induction medium supplemented with a novel set of small molecules. Importantly,
+following one-week culture of the colony-forming cells in conventional embryonic 
+stem cell (ESC) medium, we obtained iPSCs which express endogenous pluripotent
+markers and show a differentiation potential into all three germ layers. Taken
+together, our results indicate that RNA-based reprogramming, which is valuable
+for deriving transgene-free iPSCs, is applicable to marmosets.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2019.05.175 
+PMID: 31178141  [Indexed for MEDLINE]
+

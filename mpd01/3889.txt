@@ -1,0 +1,70 @@
+
+
+3889. Acta Histochem. 1995 Jul;97(3):321-31.
+
+Demonstration of nitric oxide synthase (NOS) in marmosets by NADPH diaphorase
+(NADPH-d) histochemistry and NOS immunoreactivity.
+
+Grozdanovic Z(1), Nakos G, Christova T, Nikolova Z, Mayer B, Gossrau R.
+
+Author information: 
+(1)Department of Anatomy, Free University of Berlin, Germany.
+
+Since species interdiversity often prevents the extrapolation of laboratory
+rodent data to man and similar problems may exist for nitric oxide synthase
+(NOS), NADPH-d activity and immunohistochemistry of NOS were investigated in the 
+New World monkey Callithrix jacchus (marmoset), which has been shown to be close 
+to the human situation in many respects. Using the NADPHd reaction with
+beta-NADPH and nitroblue tetrazolium (NBT) on acetone-chloroform pretreated
+cryosections, NBT formazan was found in many neural and non-neural (e.g. diverse 
+epithelia, striated muscle fibers, vascular endothelium) cells in numerous
+tissues and organs. Prefixation with formaldehyde lowered the number of NADPH-d
+active sites and the amount of formazan with the exception of neuronal NADPH-d as
+did incubation of fresh or acetone-chloroform-pretreated sections for NADPH-d in 
+the presence of 0.5% formaldehyde. When 1% formaldehyde or 0.5 mM permanganate
+were used significant amounts of formazan appeared only in central and peripheral
+neurons, vasal endothelial cells, small intestinal enterocytes, plasma membrane
+region of striated muscle fibers as well as arteriolar cells in the kidney;
+except for enterocytes, these observations were confirmed by
+NOS-immunohistochemistry which revealed in addition reactive cells in the thymus 
+and intestinal lamina propria.
+
+DOI: 10.1016/S0065-1281(11)80197-2 
+PMID: 8525791  [Indexed for MEDLINE]
+
+
+3890. Acta Histochem. 1995 Jul;97(3):313-20.
+
+Alpha-NADPH appears to be primarily oxidized by the NADPH-diaphorase activity of 
+nitric oxide synthase (NOS).
+
+Grozdanovic Z(1), Gossrau R.
+
+Author information: 
+(1)Department of Anatomy, Free University of Berlin, Germany.
+
+Biochemical studies have shown that the NADPH-diaphorase (NADPH-d) activity of
+nitric oxide synthase (NOS) represents only a part of the total cellular
+diaphorase pool. Histochemically, NADPH-d activity can be demonstrated in cells
+expressing no constitutive NOS. Therefore, attempts aimed to improve the
+specificity of the NADPH-d reaction are currently being undertaken. In this
+study, the effect of replacing the natural and common diaphorase substrate
+beta-NADPH with the artificial stereoisomer alpha-NADPH on the extent of NADPH-d 
+staining was examined. When beta-NADPH served as the substrate, discrete
+populations of central and peripheral neurons as well as numerous non-neural
+cells in many organs of common laboratory rodents (mouse, rat, gerbil, hamster,
+guinea pig) and marmosets were found to generate formazan. Substitution of
+alpha-NADPH for beta-NADPH resulted in reduced staining intensity of nerve cells 
+and muscle fibers. Furthermore, alpha-NADPH-d staining of macula densa cells,
+enterocytes and granulocytes varied according to the species examined. No
+reaction was observed in most other cells which stained positively for
+beta-NADPH-d activity. Examination of adjacent sections, incubated for the
+demonstration of NOS-immunoreactivity, revealed that alpha-NADPH-d activity and
+NOS immunostaining are strictly colocalized in neurons, striated muscle fibers
+and, species-dependently, in macula densa cells. It can thus be concluded that,
+with the exception of gut granulocytes, alpha-NADPH is primarily metabolized by
+the reductase activity of NOS.
+
+DOI: 10.1016/s0065-1281(11)80196-0 
+PMID: 8525790  [Indexed for MEDLINE]
+

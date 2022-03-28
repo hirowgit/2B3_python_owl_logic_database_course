@@ -1,0 +1,74 @@
+
+
+2597. Mol Cell Endocrinol. 2006 Feb 26;246(1-2):107-13. Epub 2006 Jan 6.
+
+Expression of steroid hormone receptors, proliferation and apoptotic markers in
+primate endometrium.
+
+Narkar M(1), Kholkute S, Chitlange S, Nandedkar T.
+
+Author information: 
+(1)Cell Biology Division, National Institute for Research in Reproductive Health 
+(ICMR), J.M. Street, Parel, Mumbai 400 012, India.
+
+In humans, circulating levels of steroid hormones vary during the menstrual
+cycle, with oestrogen elevated in the proliferative phase and progesterone
+increased during the secretory phase. In humans, oestrogen levels also increased 
+during the mid-secretory phase, but this is not observed in non-human primates.
+In marmosets, the New World monkeys, plasma oestrogen and progesterone levels
+exhibit similar profiles as those found in Old World monkeys, however, these
+animals do not menstruate. Proliferative and apoptotic changes occur at specific 
+phases of the menstrual cycle, suggesting regulation by steroid hormones. It was,
+therefore, of interest to compare expression of steroid hormone receptors,
+proliferation and apoptotic markers in the uterine endometrium of marmosets and
+humans. Localization of oestrogen receptor-alpha (ER-alpha) was observed in
+glandular epithelial cells during the proliferative phase in marmosets and in
+human endometria. A decrease in ER-alpha and progesterone receptor (PR-A) was
+observed during the mid luteal phase in both species although a postovulatory
+oestradiol peak is observed in human but not in marmoset. A decrease in PR-A in
+the late secretory phase was seen in marmoset as well as in human endometria. The
+proliferation marker PCNA was enhanced in the proliferative phase in both
+species, but it was increased in late secretory phase only in marmosets.
+Apoptosis as revealed by a TUNEL assay was moderate in early stage in both
+species. Surprisingly, apoptosis, as well as the localization of the
+pro-apoptotic Bcl-2 family member, Bax, was optimal in marmosets during the
+mid-secretory phase when plasma progesterone levels were high. On the other hand,
+in the human, apoptosis was maximal by TUNEL assay in late secretory phase, but
+Bax protein was highest in the mid-secretory phase. Thus, Bax may be initiating
+apoptosis in the endometrial glands as well as in the stroma. Although the
+pattern of steroid receptor expression in endometria of marmosets and humans are 
+similar, proliferation and apoptosis markers appear to be regulated by other
+factors along with steroid hormones.
+
+DOI: 10.1016/j.mce.2005.11.029 
+PMID: 16406267  [Indexed for MEDLINE]
+
+
+2598. Acta Virol. 2005;49(4):227-34.
+
+Inhibition of Measles virus multiplication in cell culture by RNA interference.
+
+Hu L(1), Wang Z, Hu C, Liu X, Yao L, Li W, Qi Y.
+
+Author information: 
+(1)National Key Laboratory of Virology, College of Life Science, Wuhan
+University, Wuhan 430072, P.R. China.
+
+Measles takes a toll of one million people a year worldwide, especially in
+developing countries. As the so far applied vaccines were not able to control
+this disease, novel approaches to this problem are needed. In this study, we
+investigated the possibility of inhibition of Measles virus (MV) infection
+through RNA interference (RNAi), namely the interference with the second but main
+receptor of MV, signaling lymphocyte activation molecule (SLAM), in an
+Epstein-Barr virus (EBV)-transformed marmoset B cell line B95-8. Three potential 
+target sequences in the SLAM gene were chosen and cloned into the pSilencer
+3.0-H1 vector. The vector constructs were used for transfection of B95-8 cells in
+which SLAM was then detected by flow cytometry, Western blot analysis and RT-PCR 
+both at transcription and expression levels. One of the vector constructs was
+found to block effectively the SLAM expression as well as MV infection. These
+results suggest that RNAi could silence SLAM expression and inhibit the MV
+infection of host cells.
+
+
+PMID: 16402679  [Indexed for MEDLINE]
+

@@ -1,0 +1,100 @@
+
+
+938. NMR Biomed. 2017 Feb;30(2). doi: 10.1002/nbm.3686. Epub 2016 Dec 28.
+
+Neurometabolic profiles of the substantia nigra and striatum of MPTP-intoxicated 
+common marmosets: An in vivo proton MRS study at 9.4 T.
+
+Heo H(1), Ahn JB(2)(3), Lee HH(1), Kwon E(2), Yun JW(2), Kim H(1)(2)(4)(5), Kang 
+BC(2)(3)(6).
+
+Author information: 
+(1)Department of Biomedical Sciences, Seoul National University, Seoul, South
+Korea.
+(2)Department of Experimental Animal Research, Biomedical Research Institute,
+Seoul National University Hospital, Seoul, South Korea.
+(3)Graduate School of Translational Medicine, Seoul National University College
+of Medicine, Seoul, South Korea.
+(4)Department of Radiology, Seoul National University Hospital, Seoul, South
+Korea.
+(5)Institute of Radiation Medicine, Seoul National University Medical Research
+Center, Seoul, South Korea.
+(6)Designed Animal and Transplantation Research Institute, Institute of GreenBio 
+Science and Technology, Seoul National University, Pyeongchang, South Korea.
+
+Given the strong coupling between the substantia nigra (SN) and striatum (STR) in
+the early stage of Parkinson's disease (PD), yet only a few studies reported to
+date that have simultaneously investigated the neurochemistry of these two brain 
+regions in vivo, we performed longitudinal metabolic profiling in the SN and STR 
+of 1-methyl-1,2,3,6-tetrahydropyridine (MPTP)-intoxicated common marmoset monkey 
+models of PD (n = 10) by using proton MRS (1 H-MRS) at 9.4 T. T2 relaxometry was 
+also performed in the SN by using MRI. Data were classified into control,
+MPTP_2weeks, and MPTP_6-10 weeks groups according to the treatment duration. In
+the SN, T2 of the MPTP_6-10 weeks group was lower than that of the control group 
+(44.33 ± 1.75 versus 47.21 ± 2.47 ms, p < 0.05). The N-acetylaspartate to total
+creatine ratio (NAA/tCr) and γ-aminobutyric acid to tCr ratio (GABA/tCr) of the
+MPTP_6-10 weeks group were lower than those of the control group (0.41 ± 0.04
+versus 0.54 ± 0.08 (p < 0.01) and 0.19 ± 0.03 versus 0.30 ± 0.09 (p < 0.05),
+respectively). The glutathione to tCr ratio (GSH/tCr) was correlated with T2 for 
+the MPTP_6-10 weeks group (r = 0.83, p = 0.04). In the STR, however, GABA/tCr of 
+the MPTP_6-10 weeks group was higher than that of the control group (0.25 ± 0.10 
+versus 0.16 ± 0.05, p < 0.05). These findings may be an in vivo depiction of the 
+altered basal ganglion circuit in PD brain resulting from the degeneration of
+nigral dopaminergic neurons and disruption of nigrostriatal dopaminergic
+projections. Given the important role of non-human primates in translational
+studies, our findings provide better understanding of the complicated evolution
+of PD.
+
+Copyright © 2016 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/nbm.3686 
+PMID: 28028868  [Indexed for MEDLINE]
+
+
+939. PLoS Pathog. 2016 Dec 27;12(12):e1006066. doi: 10.1371/journal.ppat.1006066.
+eCollection 2016 Dec.
+
+Non-human Primate Schlafen11 Inhibits Production of Both Host and Viral Proteins.
+
+Stabell AC(1), Hawkins J(2), Li M(3), Gao X(3), David M(3), Press WH(2)(4),
+Sawyer SL(1).
+
+Author information: 
+(1)BioFrontiers Institute, University of Colorado Boulder, Boulder, CO, United
+States of America.
+(2)Institute for Computational Engineering and Sciences, University of Texas at
+Austin, TX, United States of America.
+(3)Division of Biological Sciences, UCSD Moores Cancer Center, University of
+California San Diego, La Jolla, CA, United States of America.
+(4)Department of Integrative Biology, University of Texas at Austin, Austin, TX, 
+United States of America.
+
+Schlafen11 (encoded by the SLFN11 gene) has been shown to inhibit the
+accumulation of HIV-1 proteins. We show that the SLFN11 gene is under positive
+selection in simian primates and is species-specific in its activity against
+HIV-1. The activity of human Schlafen11 is relatively weak compared to that of
+some other primate versions of this protein, with the versions encoded by
+chimpanzee, orangutan, gibbon, and marmoset being particularly potent inhibitors 
+of HIV-1 protein production. Interestingly, we find that Schlafen11 is functional
+in the absence of infection and reduces protein production from certain non-viral
+(GFP) and even host (Vinculin and GAPDH) transcripts. This suggests that
+Schlafen11 may just generally block protein production from non-codon optimized
+transcripts. Because Schlafen11 is an interferon-stimulated gene with a broad
+ability to inhibit protein production from many host and viral transcripts, its
+role may be to create a general antiviral state in the cell. Interestingly, the
+strong inhibitors such as marmoset Schlafen11 consistently block protein
+production better than weak primate Schlafen11 proteins, regardless of the virus 
+or host target being analyzed. Further, we show that the residues to which
+species-specific differences in Schlafen11 potency map are distinct from residues
+that have been targeted by positive selection. We speculate that the positive
+selection of SLFN11 could have been driven by a number of different factors,
+including interaction with one or more viral antagonists that have yet to be
+identified.
+
+DOI: 10.1371/journal.ppat.1006066 
+PMCID: PMC5189954
+PMID: 28027315  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

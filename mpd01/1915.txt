@@ -1,0 +1,77 @@
+
+
+1915. Hear Res. 2011 Jul;277(1-2):127-33. doi: 10.1016/j.heares.2011.02.001. Epub 2011 
+Feb 12.
+
+Measurement of absolute auditory thresholds in the common marmoset (Callithrix
+jacchus).
+
+Osmanski MS(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+The Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+michael.osmanski@jhu.edu
+
+The common marmoset is a small, arboreal, New World primate that has emerged as a
+promising non-human model system in auditory neuroscience. A complete
+understanding of the neuroethology of auditory processing in marmosets will
+include behavioral work examining how sounds are perceived by these animals.
+However, there have been few studies of the marmoset's hearing and perceptual
+abilities and the audiogram of this species has not been measured using modern
+psychophysical methods. The present experiment pairs psychophysics with an
+operant conditioning technique to examine perception of pure tone stimuli by
+marmosets using an active behavioral paradigm. Subjects were trained to lick at a
+feeding tube when they detected a sound. Correct responses provided access to a
+food reward. Pure tones of varying intensities were presented to subjects using
+the method of constant stimuli. Behavioral thresholds were calculated for each
+animal based on hit rate--threshold was defined by the tone intensity that the
+animal correctly identified 50% of the time. Results show that marmoset hearing
+is comparable to that of other New World monkeys, with a hearing range extending 
+from about 125 Hz up to 36 kHz and a sensitivity peak around 7 kHz.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.heares.2011.02.001 
+PMCID: PMC3123402
+PMID: 21303689  [Indexed for MEDLINE]
+
+
+1916. Drug Metab Rev. 2011 Aug;43(3):346-61. doi: 10.3109/03602532.2010.549492. Epub
+2011 Feb 9.
+
+Macaque cytochromes P450: nomenclature, transcript, gene, genomic structure, and 
+function.
+
+Uno Y(1), Iwasaki K, Yamazaki H, Nelson DR.
+
+Author information: 
+(1)Pharmacokinetics and Bioanalysis Center, Shin Nippon Biomedical Laboratories, 
+Ltd., Kainan, Japan. uno-yasuhiro@snbl.co.jp
+
+Monkeys, especially macaques, including cynomolgus (Macaca fascicularis) and
+rhesus monkeys (Macaca mulatta), are frequently used in drug metabolism studies
+due to their evolutionary closeness to humans. Recently, numerous cytochrome P450
+(P450 or CYP) cDNAs have been identified and characterized in cynomolgus and
+rhesus monkeys and were named by the P450 Nomenclature Committee. However, recent
+advances in genome analysis of cynomolgus and rhesus monkeys revealed that some
+monkey P450s are apparently orthologous to human P450s and thus need to be
+renamed corresponding to their human orthologs. In this review, we focus on the
+P450s identified in cynomolgus and rhesus monkeys and present an overview of the 
+identity and functional characteristics of each P450 cDNA in the CYP1-4 families.
+Information on the Japanese monkey (Macaca fuscata), African green monkey
+(Cercopithecus aethiops), and marmoset (Callithrix jacchus), primate species used
+in some drug metabolism studies, are also included. We compared the genomic
+structure of the macaque P450 genes to those of human and rat P450 genes in the
+CYP1-4 families. Based on sequence identity, phylogeny, and genomic organization 
+of monkey P450s, we determined orthologous relationships of monkey P450s and, in 
+this article, propose a revised nomenclature: CYP2B17/CYP2B30 to CYP2B6,
+CYP2C20/CYP2C74 to CYP2C8, CYP2C43/CYP2C83 to CYP2C9, CYP2C75 to CYP2C19, CYP2F6 
+to CYP2F1, CYP3A8/CYP3A21/CYP3A64 to CYP3A4, CYP3A66 to CYP3A5, and CYP4F45 to
+CYP4F2. The information presented in this review is expected to promote a better 
+understanding of monkey P450 genes through comparative genomics and thereby make 
+it more feasible to use monkeys in drug metabolism studies.
+
+DOI: 10.3109/03602532.2010.549492 
+PMID: 21303270  [Indexed for MEDLINE]
+

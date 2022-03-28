@@ -1,0 +1,32 @@
+
+
+2690. J Neuroimmunol. 2005 Jun;163(1-2):31-9. Epub 2005 Apr 9.
+
+Treatment with chimeric anti-human CD40 antibody suppresses MRI-detectable
+inflammation and enlargement of pre-existing brain lesions in common marmosets
+affected by MOG-induced EAE.
+
+'t Hart BA(1), Blezer EL, Brok HP, Boon L, de Boer M, Bauer J, Laman JD.
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Center, Rijswijk, The
+Netherlands. hart@bprc.nl
+
+Common marmosets, a Neotropical monkey species, are protected against clinical
+and neuropathological consequences of experimentally induced autoimmune
+encephalomyelitis (EAE) by prophylactic treatment with ch5D12, a humanized
+antagonist antibody against human CD40. In the current study we have tested
+whether ch5D12 acts therapeutically against the enlargement and inflammatory
+activity of existing (brain) white matter lesions using serial magnetic resonance
+imaging (MRI). The results show in all PBS treated monkeys (n=4) a rapid
+enlargement of T2 lesions together with an increment of the T2 signal intensity
+due to inflammatory edema. Treatment with ch5D12 delayed the enlargement of T2
+lesions in 2 out of 3 tested monkeys while in 3 out of 3 monkeys the T2 signal
+increment of lesions was suppressed. In conjunction with previously published
+data on the clinical benefit of anti-CD40 treatment in the marmoset EAE model,
+the current findings support antibody-mediated blockade of CD40 interaction with 
+its ligand CD154 as a potential treatment of MS.
+
+DOI: 10.1016/j.jneuroim.2005.02.005 
+PMID: 15885306  [Indexed for MEDLINE]
+

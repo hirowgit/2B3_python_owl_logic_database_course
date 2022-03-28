@@ -1,0 +1,89 @@
+
+
+162. Animals (Basel). 2021 Mar 30;11(4). pii: 963. doi: 10.3390/ani11040963.
+
+Retrospective Analysis of the Effectiveness and Reversibility of Long-Acting
+Contraception Etonogestrel (Implanon®) inCommon Marmosets (Callithrix jacchus).
+
+Roubos S(1), Louwerse AL(1), Langermans JAM(1)(2), Bakker J(1).
+
+Author information: 
+(1)Animal Science Department, Biomedical Primate Research Centre, Lange Kleiweg
+161, 2288GJ Rijswijk, The Netherlands.
+(2)Department Population Health Sciences, Animals in Science and Society, Faculty
+of Veterinary Medicine, Utrecht University, 3584 CM Utrecht, The Netherlands.
+
+Contraception is an important population control method for the colony management
+of primates housed in captivity. Etonogestrel (ENG) implants (i.e., Implanon®)
+are a widely used progestin-based contraceptive in common marmosets (Callithrix
+jacchus) with the theoretical advantages of being reversible and long-acting.
+However, no dose and efficacy data are available yet. Therefore, data from 52
+adult female marmosets contracepted with ENG (one-fourth or one-third of an
+implant) housed at the Biomedical Primate Research Centre (BPRC, Rijswijk, The
+Netherlands) over the past 18 years were analyzed. Using an electronic database, 
+a retrospective longitudinal cohort study was conducted to calculate the
+reproductive data before, during and after ENG use. The data show an
+effectiveness in preventing pregnancy of 99%. The implant was effective within
+one week after insertion. Unintended pregnancies did occur, but in 60% of these
+cases, the animals were already pregnant at the time of implant insertion. In
+these cases, healthy offspring were born despite the use of the implant. No
+stillbirths, neonatal deaths or maternal deaths could be linked to ENG use. After
+implant removal, 83% of the animals delivered healthy offspring. No difference in
+contraception efficacy was observed between the use of one-fourth or one-third of
+an implant. ENG achieved a contraceptive protection exceeding 99% and was shown
+to be reversible concerning fertility. To our knowledge, this is the first
+detailed analysis on the use of ENG in marmosets.
+
+DOI: 10.3390/ani11040963 
+PMCID: PMC8066542
+PMID: 33808451 
+
+
+163. Int J Mol Sci. 2021 Mar 18;22(6). pii: 3096. doi: 10.3390/ijms22063096.
+
+Coaxial Alginate Hydrogels: From Self-Assembled 3D Cellular Constructs to
+Long-Term Storage.
+
+Gryshkov O(1)(2), Mutsenko V(1)(2), Tarusin D(3), Khayyat D(1)(2), Naujok O(4),
+Riabchenko E(5), Nemirovska Y(3), Danilov A(5), Petrenko AY(3), Glasmacher
+B(1)(2).
+
+Author information: 
+(1)Institute for Multiphase Processes, Leibniz University Hannover, An der
+Universität 1, Building 8143, 30823 Garbsen, Germany.
+(2)Lower Saxony Centre for Biomedical Engineering, Implant Research and
+Development, Stadtfelddamm 34, 30625 Hannover, Germany.
+(3)Institute for Problems of Cryobiology and Cryomedicine of the National Academy
+of Sciences of Ukraine, 23 Pereyaslavsky Street, 61015 Kharkiv, Ukraine.
+(4)Institute of Clinical Biochemistry, Hannover Medical School,
+Carl-Neuberg-Strasse 1, 30625 Hannover, Germany.
+(5)Institute for Biomedical Systems, National Research University of Electronic
+Technology, 124498 Moscow, Russia.
+
+Alginate as a versatile naturally occurring biomaterial has found widespread use 
+in the biomedical field due to its unique features such as biocompatibility and
+biodegradability. The ability of its semipermeable hydrogels to provide a
+favourable microenvironment for clinically relevant cells made alginate
+encapsulation a leading technology for immunoisolation, 3D culture,
+cryopreservation as well as cell and drug delivery. The aim of this work is the
+evaluation of structural properties and swelling behaviour of the core-shell
+capsules for the encapsulation of multipotent stromal cells (MSCs), their 3D
+culture and cryopreservation using slow freezing. The cells were encapsulated in 
+core-shell capsules using coaxial electrospraying, cultured for 35 days and
+cryopreserved. Cell viability, metabolic activity and cell-cell interactions were
+analysed. Cryopreservation of MSCs-laden core-shell capsules was performed
+according to parameters pre-selected on cell-free capsules. The results suggest
+that core-shell capsules produced from the low viscosity high-G alginate are
+superior to high-M ones in terms of stability during in vitro culture, as well as
+to solid beads in terms of promoting formation of viable self-assembled cellular 
+structures and maintenance of MSCs functionality on a long-term basis. The
+application of 0.3 M sucrose demonstrated a beneficial effect on the integrity of
+capsules and viability of formed 3D cell assemblies, as compared to 10% dimethyl 
+sulfoxide (DMSO) alone. The proposed workflow from the preparation of core-shell 
+capsules with self-assembled cellular structures to the cryopreservation appears 
+to be a promising strategy for their off-the-shelf availability.
+
+DOI: 10.3390/ijms22063096 
+PMCID: PMC8003018
+PMID: 33803546  [Indexed for MEDLINE]
+

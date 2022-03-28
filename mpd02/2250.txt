@@ -1,0 +1,35 @@
+
+
+2250. Neurobiol Dis. 2008 Oct;32(1):66-80. doi: 10.1016/j.nbd.2008.06.014. Epub 2008
+Jul 3.
+
+PACAP prevents toxicity induced by cisplatin in rat and primate neurons but not
+in proliferating ovary cells: involvement of the mitochondrial apoptotic pathway.
+
+Aubert N(1), Vaudry D, Falluel-Morel A, Desfeux A, Fisch C, Ancian P, de Jouffrey
+S, Le Bigot JF, Couvineau A, Laburthe M, Fournier A, Laudenbach V, Vaudry H,
+Gonzalez BJ.
+
+Author information: 
+(1)INSERM U413, Laboratory of Cellular and Molecular Neuroendocrinology, European
+Institute for Peptide Research (IFRMP 23), University of Rouen,
+Mont-Saint-Aignan, France.
+
+Cisplatin is a chemotherapeutic agent whose use is limited by side effects
+including neuropathies. In proliferating cells, toxic action of cisplatin is
+based on DNA interactions, while, in quiescent cells, it can induce apoptosis by 
+interacting with proteins. In the present study, we compared cytotoxic mechanisms
+activated by cisplatin in primate and rodent neurons and in ovary cells in order 
+to determine whether the anti-apoptotic peptide PACAP could selectively reduce
+neurotoxicity. In quiescent neurons, JNK and sphingomyelinase inhibitors blocked 
+cisplatin-induced cell death. Toxicity was associated with DNA laddering,
+caspase-3 and -9 activations and Bax induction. These effects were prevented by
+PACAP. In proliferating cells, cisplatin activated caspase-8 but had no effect on
+caspase-9. PACAP exerted no protective effect. These data indicate that cisplatin
+activates distinct apoptotic pathways in quiescent neurons and proliferating
+cells and that PACAP may reduce neurotoxicity of cisplatin without affecting its 
+chemotherapeutic efficacy.
+
+DOI: 10.1016/j.nbd.2008.06.014 
+PMID: 18652895  [Indexed for MEDLINE]
+

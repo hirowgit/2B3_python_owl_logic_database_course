@@ -1,0 +1,80 @@
+
+
+2907. J Virol. 2003 Sep;77(18):9943-50.
+
+Efficient isolation of wild strains of canine distemper virus in Vero cells
+expressing canine SLAM (CD150) and their adaptability to marmoset B95a cells.
+
+Seki F(1), Ono N, Yamaguchi R, Yanagi Y.
+
+Author information: 
+(1)Department of Virology, Faculty of Medicine, Kyushu University, Fukuoka
+812-8582, Japan.
+
+We have previously shown that canine signaling lymphocyte activation molecule
+(SLAM; also known as CD150) acts as a cellular receptor for canine distemper
+virus (CDV). In this study, we established Vero cells stably expressing canine
+SLAM (Vero.DogSLAMtag cells). Viruses were isolated in Vero.DogSLAMtag cells one 
+day after inoculation with spleen samples from five out of seven dogs with
+distemper. By contrast, virus isolation with reportedly sensitive marmoset B95a
+cells was only successful from three diseased animals at 7 to 10 days after
+inoculation, and no virus was recovered from any dogs when Vero cells were used
+for isolation. The CDV strain isolated in Vero.DogSLAMtag cells did not cause
+cytopathic effects in B95a and human SLAM-expressing Vero cells, whereas the
+strain isolated in B95a cells from the same dog did so in canine or human
+SLAM-expressing Vero cells as well as B95a cells. There were two amino acid
+differences in the hemagglutinin sequence between these strains. Cell fusion
+analysis after expression of envelope proteins and vesicular stomatitis virus
+pseudotype assay showed that their hemagglutinins were responsible for the
+difference in cell tropism between them. Site-directed mutagenesis indicated that
+glutamic acid to lysine substitution at position 530 of the hemagglutinin was
+required for the adaptation to the usage of marmoset SLAM. Our results indicate
+that Vero cells stably expressing canine SLAM are highly sensitive to CDV in
+clinical specimens and that only a single amino acid substitution in the
+hemagglutinin can allow the virus to adapt to marmoset SLAM.
+
+DOI: 10.1128/jvi.77.18.9943-9950.2003 
+PMCID: PMC224612
+PMID: 12941904  [Indexed for MEDLINE]
+
+
+2908. Am J Phys Anthropol. 2003 Sep;122(1):28-37.
+
+Evolutionary implications of the unusual walking mechanics of the common marmoset
+(C. jacchus).
+
+Schmitt D(1).
+
+Author information: 
+(1)Department of Biological Anthropology and Anatomy, Duke University Medical
+Center, Durham, North Carolina 27710, USA. Daniel_Schmitt@baa.mc.duke.edu
+
+Several features that appear to differentiate the walking gaits of most primates 
+from those of most other mammals (the prevalence of diagonal-sequence footfalls, 
+high degrees of humeral protraction, and low forelimb vs. hindlimb peak vertical 
+forces) are believed to have evolved in response to requirements of locomotion on
+thin arboreal supports by early primates that had developed clawless grasping
+hands and feet. This putative relationship between anatomy, behavior, and ecology
+is tested here by examining gait mechanics in the common marmoset (Callithrix
+jacchus), a primate that has sharp claws and reduced pedal grasping, and that
+spends much of its time clinging on large trunks. Kinematic and kinetic data were
+collected on three male Callithrix jacchus as they walked across a force platform
+attached to the ground or to raised horizontal poles. The vast majority of all
+walking gaits were lateral-sequence. For all steps, the humerus was retracted
+(<90 degrees relative to a horizontal axis) or held in a neutral (90 degrees )
+position at forelimb touchdown. Peak vertical forces on the forelimb were always 
+higher than those on the hindlimb. These three features of the walking gaits of
+C. jacchus separate it from any other primate studied (including other
+callitrichids). The walking gaits of C. jacchus are mechanically more similar to 
+those of small, nonprimate mammals. The results of this study support previous
+models that suggest that the unusual suite of features that typify the walking
+gaits of most primates are adaptations to the requirements of locomotion on thin 
+arboreal supports. These data, along with data from other primates and
+marsupials, suggest that primate postcranial and locomotor characteristics are
+part of a basal adaptation for walking on thin branches.
+
+Copyright 2003 Wiley-Liss, Inc.
+
+DOI: 10.1002/ajpa.10214 
+PMID: 12923902  [Indexed for MEDLINE]
+

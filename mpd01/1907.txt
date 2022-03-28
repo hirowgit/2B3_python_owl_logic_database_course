@@ -1,0 +1,54 @@
+
+
+1907. Am J Bioeth. 2011 Mar;11(3):31-2. doi: 10.1080/15265161.2010.546474.
+
+The distinction between parthenotes and embryos is not easily made.
+
+Schwartz PH(1).
+
+Author information: 
+(1)National Human Neural Stem Cell Resource, Children’s Hospital of Orange County
+Research Institute, 455 South Main Street, Orange, CA 92868-3874, USA.
+pschwartz@choc.org
+
+Comment on
+    Am J Bioeth. 2011 Mar;11(3):20-8.
+
+DOI: 10.1080/15265161.2010.546474 
+PMID: 21400382  [Indexed for MEDLINE]
+
+
+1908. Immunogenetics. 2011 Jul;63(7):417-28. doi: 10.1007/s00251-011-0519-7. Epub 2011 
+Mar 10.
+
+Molecular evolution of immunoglobulin superfamily genes in primates.
+
+Ohtani H(1), Nakajima T, Akari H, Ishida T, Kimura A.
+
+Author information: 
+(1)Department of Molecular Pathogenesis, Medical Research Institute, and
+Laboratory of Genome Diversity, Graduate School of Biomedical Science, Tokyo
+Medical and Dental University, 1-5-45 Yushima, Bunkyo-ku, Tokyo 113-8510, Japan.
+
+Genes of the immunoglobulin superfamily (IgSF) have a wide variety of cellular
+activities. In this study, we investigated molecular evolution of IgSF genes in
+primates by comparing orthologous sequences of 249 IgSF genes among human,
+chimpanzee, orangutan, rhesus macaque, and common marmoset. To evaluate the
+non-synonymous/synonymous substitution ratio (ω), we applied Bn-Bs program and
+PAML program. IgSF genes were classified into 11 functional categories based on
+the Gene Ontology (GO) database. Among them, IgSF genes in three functional
+categories, immune system process (GO:0002376), defense response (GO:0006952),
+and multi-organism process (GO:0051704), which are tightly linked to the
+regulation of immune system had much higher values of ω than genes in the other
+GO categories. In addition, we estimated the average values of ω for each primate
+lineage. Although each primate lineage had comparable average values of ω, the
+human lineage showed the lowest ω value for the immune-related genes.
+Furthermore, 11 IgSF genes, SIGLEC5, SLAMF6, CD33, CD3E, CEACAM8, CD3G, FCER1A,
+CD48, CD4, TIM4, and FCGR2A, were implied to have been under positive selective
+pressure during the course of primate evolution. Further sequence analyses of
+CD3E and CD3G from 23 primate species suggested that the Ig domains of CD3E and
+CD3G underwent the positive Darwinian selection.
+
+DOI: 10.1007/s00251-011-0519-7 
+PMID: 21390552  [Indexed for MEDLINE]
+

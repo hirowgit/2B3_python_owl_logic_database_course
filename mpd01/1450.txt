@@ -1,0 +1,73 @@
+
+
+1450. Cancer Sci. 2014 Apr;105(4):402-8. doi: 10.1111/cas.12367. Epub 2014 Apr 5.
+
+Characterization of common marmoset dysgerminoma-like tumor induced by the
+lentiviral expression of reprogramming factors.
+
+Yamaguchi S(1), Marumoto T, Nii T, Kawano H, Liao J, Nagai Y, Okada M, Takahashi 
+A, Inoue H, Sasaki E, Fujii H, Okano S, Ebise H, Sato T, Suyama M, Okano H, Miura
+Y, Tani K.
+
+Author information: 
+(1)Division of Molecular and Clinical Genetics, Molecular and Clinical Genetics, 
+Medical Institute of Bioregulation, Kyushu University, Fukuoka, Japan.
+
+Recent generation of induced pluripotent stem (iPSCs) has made a significant
+impact on the field of human regenerative medicine. Prior to the clinical
+application of iPSCs, testing of their safety and usefulness must be carried out 
+using reliable animal models of various diseases. In order to generate iPSCs from
+common marmoset (CM; Callithrix jacchus), one of the most useful experimental
+animals, we have lentivirally transduced reprogramming factors, including POU5F1 
+(also known as OCT3/4), SOX2, KLF4, and c-MYC into CM fibroblasts. The cells
+formed round colonies expressing embryonic stem cell markers, however, they
+showed an abnormal karyotype denoted as 46, X, del(4q), +mar, and formed human
+dysgerminoma-like tumors in SCID mice, indicating that the transduction of
+reprogramming factors caused unexpected tumorigenesis of CM cells. Moreover, CM
+dysgerminoma-like tumors were highly sensitive to DNA-damaging agents,
+irradiation, and fibroblast growth factor receptor inhibitor, and their growth
+was dependent on c-MYC expression. These results indicate that DNA-damaging
+agents, irradiation, fibroblast growth factor receptor inhibitor, and
+c-MYC-targeted therapies might represent effective treatment strategies for
+unexpected tumors in patients receiving iPSC-based therapy.
+
+© 2014 The Authors. Cancer Science published by Wiley Publishing Asia Pty Ltd on 
+behalf of Japanese Cancer Association.
+
+DOI: 10.1111/cas.12367 
+PMCID: PMC4317795
+PMID: 24521492  [Indexed for MEDLINE]
+
+
+1451. Proc Natl Acad Sci U S A. 2014 Feb 25;111(8):E768-75. doi:
+10.1073/pnas.1401165111. Epub 2014 Feb 10.
+
+Lipid domains control myelin basic protein adsorption and membrane interactions
+between model myelin lipid bilayers.
+
+Lee DW(1), Banquy X, Kristiansen K, Kaufman Y, Boggs JM, Israelachvili JN.
+
+Author information: 
+(1)Department of Chemical Engineering, University of California, Santa Barbara,
+CA 93106.
+
+The surface forces apparatus and atomic force microscope were used to study the
+effects of lipid composition and concentrations of myelin basic protein (MBP) on 
+the structure of model lipid bilayers, as well as the interaction forces and
+adhesion between them. The lipid bilayers had a lipid composition characteristic 
+of the cytoplasmic leaflets of myelin from "normal" (healthy) and "disease-like" 
+[experimental allergic encephalomyelitis (EAE)] animals. They showed significant 
+differences in the adsorption mechanism of MBP. MBP adsorbs on normal bilayers to
+form a compact film (3-4 nm) with strong intermembrane adhesion (∼0.36 mJ/m(2)), 
+in contrast to its formation of thicker (7-8 nm) swelled films with weaker
+intermembrane adhesion (∼0.13 mJ/m(2)) on EAE bilayers. MBP preferentially
+adsorbs to liquid-disordered submicron domains within the lipid membranes,
+attributed to hydrophobic attractions. These results show a direct connection
+between the lipid composition of membranes and membrane-protein adsorption
+mechanisms that affects intermembrane spacing and adhesion and has direct
+implications for demyelinating diseases.
+
+DOI: 10.1073/pnas.1401165111 
+PMCID: PMC3939865
+PMID: 24516125  [Indexed for MEDLINE]
+

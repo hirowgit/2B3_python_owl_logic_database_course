@@ -1,0 +1,26 @@
+
+
+2146. Neurosci Res. 2009 May;64(1):128-31. doi: 10.1016/j.neures.2009.02.003. Epub 2009
+Feb 13.
+
+Web-accessible digital brain atlas of the common marmoset (Callithrix jacchus).
+
+Tokuno H(1), Tanaka I, Umitsu Y, Akazawa T, Nakamura Y.
+
+Author information: 
+(1)Department of Brain Structure, Tokyo Metropolitan Institute for Neuroscience, 
+Musashidai 2-6, Fuchu, Tokyo 183-8526, Japan. tokuno-hr@igakuken.or.jp
+
+Here we describe a web-accessible digital brain atlas of the common marmoset
+(Callithrix jacchus) at http://marmoset-brain.org:2008. We prepared the
+histological sections of the marmoset brain using various staining techniques.
+For virtual microscopy, high-resolution digital images of sections were obtained 
+with Aperio Scanscope. The digital images were then converted to Zoomify files
+(zoomable multiresolution image files). Thereby, we could provide the
+multiresolution images of the marmoset brains for fast interactive viewing on the
+web via the Internet. In addition, we describe an automated method to obtain
+drawings of Nissl-stained sections.
+
+DOI: 10.1016/j.neures.2009.02.003 
+PMID: 19428691  [Indexed for MEDLINE]
+

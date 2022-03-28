@@ -1,0 +1,46 @@
+
+
+3001. Hum Exp Toxicol. 2002 Sep-Oct;21(9-10):543-67.
+
+Feasibility of human trials to assess developmental immunotoxicity, and some
+comparison with data on New World monkeys.
+
+Neubert RT(1), Webb JR, Neubert D.
+
+Author information: 
+(1)Institute of Clinical Pharmacology and Toxicology, Benjamin Franklin Medical
+Center, Free University Berlin, Berlin, Germany.
+
+Procedures to reveal 'immunotoxic' potentials of chemicals in animal experiments 
+(mostly in rodents) have been recommended, but the selection of test systems is
+rather arbitrary. The predictive power of extrapolations to the possible
+situation in humans is unknown because human studies to confirm or to reject
+clues from animal data are largely lacking. End points selected in animal studies
+and those expected to be relevant in humans are not identical. Results of animal 
+experiments are based on doses, generally ignoring the important species
+differences in pharmacokinetics. This unfavorable situation is especially
+pronounced when attempting to evaluate 'environmental chemicals'. Because much
+more information is available on many medicinal drugs, exposures can be defined
+and pharmacokinetic data are available or obtainable. The situation is even more 
+complicated when attempting to assess possible adverse effects on the developing 
+immune system: in addition to the problems mentioned, numerous different
+developmental periods with varying susceptibilities must be considered, and
+species differences in the immune response are superimposed with large
+differences in pre-, early post-, and later postnatal development.
+Simultaneously, the kinetic variables are continuously changing with time (with
+additional variability among species). Different results, even between rats and
+mice, are bound to occur. Extrapolation to the situation possibly relevant for
+human exposure will be almost impossible, especially from rodent data. The
+majority of such effects induced peri- or early postnatally may be expected to be
+reversible. It must also be assessed whether qualitatively different adverse
+effects are likely to be induced during 'development', which cannot be revealed
+(accepting quantitative differences) by more easily performed tests on the adult 
+organism. Considering the intrinsic difficulties, the most promising approach
+would be to directly obtain data from human trials. This is feasible for
+medicinal drugs. Alternatively, data on nonhuman primates, the species
+phylogenetically closest to man, may provide useful information. The status quo
+for such a strategy and the possible pitfalls are discussed in this overview.
+
+DOI: 10.1191/0960327102ht295oa 
+PMID: 12458914  [Indexed for MEDLINE]
+

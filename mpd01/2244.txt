@@ -1,0 +1,70 @@
+
+
+2244. Neurosci Lett. 2008 Oct 3;443(2):99-103. doi: 10.1016/j.neulet.2008.07.065. Epub 
+2008 Jul 30.
+
+Discrete retinal input to the parabrachial complex of a new-world primate, the
+common marmoset (Callithrix jacchus).
+
+Engelberth RC(1), de Pontes AL, do Nascimento RB, de Lima RR, de Lima RR, de
+Toledo CA, de Oliveira Costa MS, Britto LR, de Souza Cavalcante J.
+
+Author information: 
+(1)Laboratory of Chronobiology, Biosciences Center, Federal University of Rio
+Grande do Norte, 59072-970 Natal-RN, Brazil.
+
+Traditional retinal projections target three functionally complementary systems
+in the brain of mammals: the primary visual system, the visuomotor integration
+systems and the circadian timing system. In recent years, studies in several
+animals have been conducted to investigate the retinal projections to these three
+systems, despite some evidence of additional targets. The aim of this study was
+to disclose a previously unknown connection between the retina and the
+parabrachial complex of the common marmoset, by means of the intraocular
+injection of cholera toxin subunit b. A few labeled retinal fibers/terminals that
+are detected in the medial parabrachial portion of the marmoset brain show clear 
+varicosities, suggesting terminal fields. Although the possible role of these
+projections remains unknown, they may provide a modulation of the cholinergic
+parabrachial neurons which project to the thalamic dorsal lateral geniculate
+nucleus.
+
+DOI: 10.1016/j.neulet.2008.07.065 
+PMID: 18682276  [Indexed for MEDLINE]
+
+
+2245. J Toxicol Sci. 2008 Aug;33(3):315-25.
+
+Prediction of drug-induced QT interval prolongation in telemetered common
+marmosets.
+
+Tabo M(1), Hara T, Sone S, Shishido N, Kuramoto S, Nakano K, Onodera H, Kimura K,
+Kobayashi K.
+
+Author information: 
+(1)Safety Assessment Department, Research Division, Chugai Pharmaceutical Co.,
+Ltd., Shizuoka. tabomty@chugai-pharm.co.jp
+
+Drug-induced QT interval prolongation is a critical issue in development of new
+chemical entities, so the pharmaceutical industry needs to evaluate risk as early
+as possible. Common marmosets have been in the limelight in early-stage
+development due to their small size, which requires only a small amount of test
+drug. The purpose of this study was to determine the utility of telemetered
+common marmosets for predicting drug-induced QT interval prolongation. Telemetry 
+transmitters were implanted in common marmosets (male and female), and QT and RR 
+intervals were measured. The QT interval was corrected for the RR interval by
+applying Bazett's and Fridericia's correction formulas and individual rate
+correction. Individual correction showed the least slope for the linear
+regression of corrected QT (QTc) intervals against RR intervals, indicating that 
+it dissociated changes in heart rate most effectively. With the individual
+correction method, the QT-prolonging drugs (astemizole, dl-sotalol) showed QTc
+interval prolongations and the non-QT-prolonging drugs (dl-propranolol,
+nifedipine) did not show QTc interval prolongations. The plasma concentrations of
+astemizole and dl-sotalol associated with QTc interval prolongations in common
+marmosets were similar to those in humans, suggesting that the sensitivity of
+common marmosets would be appropriate for evaluating risk of drug-induced QT
+interval prolongation. In conclusion, telemetry studies in common marmosets are
+useful for predicting clinical QT prolonging potential of drugs in early stage
+development and require only a small amount of test drug.
+
+DOI: 10.2131/jts.33.315 
+PMID: 18670163  [Indexed for MEDLINE]
+

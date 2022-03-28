@@ -1,0 +1,45 @@
+
+
+672. Sci Rep. 2018 Jul 6;8(1):10255. doi: 10.1038/s41598-018-28112-7.
+
+Common marmoset (Callithrix jacchus) personality, subjective well-being, hair
+cortisol level and AVPR1a, OPRM1, and DAT genotypes.
+
+Inoue-Murayama M(1)(2), Yokoyama C(3), Yamanashi Y(1)(4), Weiss A(5)(6).
+
+Author information: 
+(1)Wildlife Research Center of Kyoto University, Kyoto, Japan.
+(2)Wildlife Genome Collaborative Research Group, National Institute for
+Environmental Studies, Tsukuba, Japan.
+(3)Laboratory for Brain Connectomics Imaging, RIKEN Center for Biosystems
+Dynamics Research, Kobe, Japan.
+(4)Center for Research and Education of Wildlife, Kyoto City Zoo, Kyoto, Japan.
+(5)School of Philosophy, Psychology and Language Sciences, Department of
+Psychology, The University of Edinburgh, Edinburgh, United Kingdom.
+alex.weiss@ed.ac.uk.
+(6)Scottish Primate Research Group, Edinburgh, United Kingdom.
+alex.weiss@ed.ac.uk.
+
+We studied personality, subjective well-being, and hair cortisol level, in common
+marmosets Callithrix jacchus, a small, cooperatively breeding New World monkey,
+by examining their associations with one another and genotypes. Subjects were 68 
+males and 9 females that lived in the RIKEN Center for Life Science Technologies.
+Personality and subjective well-being were assessed by keeper ratings on two
+questionnaires, hair samples were obtained to assay cortisol level and buccal
+swabs were used to assess AVPR1a, OPRM1 and DAT genotypes. Three personality
+domains-Dominance, Sociability, and Neuroticism-were identified. Consistent with 
+findings in other species, Sociability and Neuroticism were related to higher and
+lower subjective well-being, respectively. Sociability was also associated with
+higher hair cortisol levels. The personality domains and hair cortisol levels
+were heritable and associated with genotypes: the short form of AVPR1a was
+associated with lower Neuroticism and the AA genotype of the A111T SNP of OPRM1
+was related to lower Dominance, lower Neuroticism, and higher hair cortisol
+level. Some genetic associations were not in directions that one would expect
+given findings in other species. These findings provide insights into the
+proximate and ultimate bases of personality in common marmosets, other primates
+and humans.
+
+DOI: 10.1038/s41598-018-28112-7 
+PMCID: PMC6035208
+PMID: 29980755  [Indexed for MEDLINE]
+

@@ -1,0 +1,52 @@
+
+
+2050. Chem Biol Interact. 2010 Sep 6;187(1-3):416-20. doi: 10.1016/j.cbi.2010.02.003.
+Epub 2010 Feb 8.
+
+Protection by pyridostigmine bromide of marmoset hemi-diaphragm
+acetylcholinesterase activity after soman exposure.
+
+Haigh JR(1), Adler M, Apland JP, Deshpande SS, Barham CB, Desmond P, Koplovitz I,
+Lenz DE, Gordon RK.
+
+Author information: 
+(1)Department of Regulated Laboratories, Walter Reed Army Institute of Research, 
+Silver Spring, MD 20910, USA. julian.haigh@amedd.army.mil
+
+Pyridostigmine bromide (PB) was approved by the U.S. Food and Drug Administration
+(FDA) in 2003 as a pretreatment in humans against the lethal effects of the
+irreversible nerve agent soman (GD). Organophosphate (OP) chemical warfare agents
+such as GD exert their toxic effects by inhibiting acetylcholinesterase (AChE)
+from terminating the action of acetylcholine at postsynaptic sites in cholinergic
+nerve terminals (including crucial peripheral muscle such as diaphragm). As part 
+of the post-marketing approval of PB, the FDA required (under 21CFR314, the "two 
+animal rule") the study of a non-human primate model (the common marmoset
+Callithrix jacchus jacchus) to demonstrate increased survival against lethal GD
+poisoning, and protection of physiological hemi-diaphragm function after PB
+pretreatment and subsequent GD exposure. Marmosets (male and female) were placed 
+in the following experimental groups: (i) control (saline pretreatment only),
+(ii) low dose PB (12.5 microg/kg), or (iii) high dose (39.5 microg/kg) PB. Thirty
+minutes after the PB dose, animals were challenged with either saline (control)
+or soman (GD, 45 microg/kg), followed 1 min later by atropine (2mg/kg) and 2-PAM 
+(25mg/kg). After a further 16 min, animals were euthanized and the complete
+diaphragm removed; the right hemi-diaphragm was frozen immediately at -80 degrees
+C, and the left hemi-diaphragm was placed in a tissue bath for 4h (to allow for
+decarbamylation to occur), then frozen. AChE activities were determined using the
+automated WRAIR cholinesterase assay. Blood samples were collected for AChE
+activities prior to PB, before GD challenge, and after sacrifice. RBC-AChE was
+inhibited by approximately 18% and 50% at the low and high doses of PB,
+respectively, compared to control (baseline) activity. In the absence of PB
+pretreatment, the inhibition of RBC-AChE by GD was 98%. The recovery of
+hemi-diaphragm AChE activity after the 4h wash period (decarbamylation) was
+approximately 8% and 17%, at the low and high PB doses, respectively, compared
+with the baseline (control) AChE activity prior to PB pretreatment or soman
+exposure. The results suggest that PB pretreatment protects a critical fraction
+of AChE activity in the marmoset diaphragm, which is sufficient to allow the
+animal to breathe despite exposure to a dose of soman that is lethal in
+unprotected animals.
+
+Copyright (c) 2010 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.cbi.2010.02.003 
+PMID: 20144889  [Indexed for MEDLINE]
+

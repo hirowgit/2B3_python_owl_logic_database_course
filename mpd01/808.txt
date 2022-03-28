@@ -1,0 +1,90 @@
+
+
+808. Virology. 2017 Dec;512:48-55. doi: 10.1016/j.virol.2017.08.037. Epub 2017 Sep 13.
+
+Hepatic immunopathology during occult hepacivirus re-infection.
+
+Manickam C(1), Martinot AJ(1), Jones RA(1), Varner V(1), Reeves RK(2).
+
+Author information: 
+(1)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, MA, USA.
+(2)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, MA, USA. Electronic address: rreeves@bidmc.harvard.edu.
+
+Despite drug advances for Hepatitis C virus (HCV), re-infections remain prevalent
+in high-risk populations. Unfortunately, the role of preexisting viral immunity
+and how it modulates re-infection is unclear. GBV-B infection of common marmosets
+is a useful model to study tissue immune responses in hepacivirus infections, and
+in this study we re-challenged 4 animals after clearance of primary viremia.
+Although only low-to-absent viremia was observed following re-challenge, GBV-B
+viral RNA was detectable in liver, confirming re-infection. Microscopic hepatic
+lesions indicated severe-to-mild lymphocyte infiltration and fibrosis in 3 out of
+4 animals. Further, GBV-B-specific T cells were elevated in animals with
+moderate-to-severe hepatopathology, and up to 3-fold increases in myeloid
+dendritic and activated natural killer cells were observed after infection. Our
+data indicate that occult hepacivirus re-infections occur and that new liver
+pathology is possible even in the presence of anti-hepacivirus T cells and in the
+absence of high viremia.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2017.08.037 
+PMCID: PMC5653381
+PMID: 28915405  [Indexed for MEDLINE]
+
+
+809. J Neurosci. 2017 Oct 18;37(42):10074-10084. doi: 10.1523/JNEUROSCI.1538-17.2017. 
+Epub 2017 Sep 14.
+
+Visual Motion Discrimination by Propagating Patterns in Primate Cerebral Cortex.
+
+Townsend RG(1)(2), Solomon SS(2)(3), Martin PR(2)(3)(4), Solomon SG(3)(5), Gong
+P(6)(2).
+
+Author information: 
+(1)School of Physics.
+(2)Australian Research Council Centre of Excellence for Integrative Brain
+Function.
+(3)Discipline of Physiology, and.
+(4)Save Sight Institute, University of Sydney, New South Wales 2006, Australia,
+and.
+(5)Department of Experimental Psychology, University College London, London WC1P 
+0AH, United Kingdom.
+(6)School of Physics, pulin.gong@sydney.edu.au.
+
+Visual stimuli can evoke waves of neural activity that propagate across the
+surface of visual cortical areas. The relevance of these waves for visual
+processing is unknown. Here, we measured the phase and amplitude of local field
+potentials (LFPs) in electrode array recordings from the motion-processing medial
+temporal (MT) area of anesthetized male marmosets. Animals viewed grating or
+dot-field stimuli drifting in different directions. We found that, on individual 
+trials, the direction of LFP wave propagation is sensitive to the direction of
+stimulus motion. Propagating LFP patterns are also detectable in trial-averaged
+activity, but the trial-averaged patterns exhibit different dynamics and
+behaviors from those in single trials and are similar across motion directions.
+We show that this difference arises because stimulus-sensitive propagating
+patterns are present in the phase of single-trial oscillations, whereas the
+trial-averaged signal is dominated by additive amplitude effects. Our results
+demonstrate that propagating LFP patterns can represent sensory inputs at
+timescales relevant to visually guided behaviors and raise the possibility that
+propagating activity patterns serve neural information processing in area MT and 
+other cortical areas.SIGNIFICANCE STATEMENT Propagating wave patterns are widely 
+observed in the cortex, but their functional relevance remains unknown. We show
+here that visual stimuli generate propagating wave patterns in local field
+potentials (LFPs) in a movement-sensitive area of the primate cortex and that the
+propagation direction of these patterns is sensitive to stimulus motion
+direction. We also show that averaging LFP signals across multiple stimulus
+presentations (trial averaging) yields propagating patterns that capture
+different dynamic properties of the LFP response and show negligible direction
+sensitivity. Our results demonstrate that sensory stimuli can modulate
+propagating wave patterns reliably in the cortex. The relevant dynamics are
+normally masked by trial averaging, which is a conventional step in LFP signal
+processing.
+
+Copyright © 2017 the authors 0270-6474/17/3710074-11$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.1538-17.2017 
+PMCID: PMC6596543
+PMID: 28912155  [Indexed for MEDLINE]
+

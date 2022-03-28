@@ -1,0 +1,81 @@
+
+
+1240. J Neurophysiol. 2015 Jul;114(1):274-83. doi: 10.1152/jn.00228.2015. Epub 2015 Apr
+29.
+
+Cooperative vocal control in marmoset monkeys via vocal feedback.
+
+Choi JY(1), Takahashi DY(1), Ghazanfar AA(2).
+
+Author information: 
+(1)Princeton Neuroscience Institute, Princeton University, Princeton, New Jersey;
+Department of Psychology, Princeton University, Princeton, New Jersey; and.
+(2)Princeton Neuroscience Institute, Princeton University, Princeton, New Jersey;
+Department of Psychology, Princeton University, Princeton, New Jersey; and
+Department of Ecology and Evolutionary Biology, Princeton University, Princeton, 
+New Jersey asifg@princeton.edu.
+
+Humans adjust speech amplitude as a function of distance from a listener; we do
+so in a manner that would compensate for such distance. This ability is presumed 
+to be the product of high-level sociocognitive skills. Nonhuman primates are
+thought to lack such socially related flexibility in vocal production. Using
+predictions from a simple arousal-based model whereby vocal feedback from a
+conspecific modulates the drive to produce a vocalization, we tested whether
+another primate exhibits this type of cooperative vocal control. We conducted a
+playback experiment with marmoset monkeys and simulated "far-away" and "nearby"
+conspecifics using contact calls that differed in sound intensity. We found that 
+marmoset monkeys increased the amplitude of their contact calls and produced such
+calls with shorter response latencies toward more distant conspecifics. The same 
+was not true in response to changing levels of background noise. To account for
+how simulated conspecific distance can change both the amplitude and timing of
+vocal responses, we developed a model that incorporates dynamic interactions
+between the auditory system and limbic "drive" systems. Overall, our data show
+that, like humans, marmoset monkeys cooperatively control the acoustics of their 
+vocalizations according to changes in listener distance, increasing the
+likelihood that a conspecific will hear their call. However, we propose that such
+cooperative vocal control is a system property that does not necessitate any
+particularly advanced sociocognitive skill. At least in marmosets, this vocal
+control can be parsimoniously explained by the regulation of arousal states
+across two interacting individuals via vocal feedback.
+
+Copyright © 2015 the American Physiological Society.
+
+DOI: 10.1152/jn.00228.2015 
+PMCID: PMC4507967
+PMID: 25925323  [Indexed for MEDLINE]
+
+
+1241. Rev Bras Parasitol Vet. 2015 Jan-Mar;24(1):108-13. doi:
+10.1590/S1984-29612015014.
+
+Evaluation of Kato-Katz and spontaneous sedimentation methods for the diagnosis
+of platynosomiasis in Neotropical primates.
+
+Mati VL(1), Pinto HA(1), de Melo AL(1).
+
+Author information: 
+(1)Departamento de Parasitologia, Instituto de Ciências Biológicas, Universidade 
+Federal de Minas Gerais, Belo Horizonte, MG, Brasil.
+
+Platynosomiasis is a parasitic infection reported in non-human primates,
+including marmosets, and is frequently difficult to diagnose. In this study, the 
+Kato-Katz method and the spontaneous sedimentation method were evaluated for
+their usefulness in identifying Platynosomum eggs in fecal samples from
+Callithrix penicillata that naturally harbor Platynosomum illiciens. Spontaneous 
+sedimentation allowed the diagnosis of 41.7% (5/12) and 66.7% (8/12) of infected 
+marmosets from one and three slides, respectively, prepared from the same fecal
+sample. The examination of a single Kato-Katz thick smear detected 83.3% (10/12) 
+of infection cases. The analysis of feces on three different days increased the
+rate of diagnosis, since 75% (9/12) and 100% (12/12) of the primates with
+platynosomiasis were identified using serial spontaneous sedimentation (3
+slides/day) and the Kato-Katz method, respectively. The mean number of
+Platynosomum eggs per gram of feces determined via the Kato-Katz method was 71.7 
+(8-240). The spontaneous sedimentation method when performed in series is
+acceptable for the diagnosis of platynosomiasis. However, the Kato-Katz method,
+which was here used for the first time to detect this infection, has a higher
+diagnostic sensitivity and the advantage that a quantitative analysis of the eggs
+released in the host feces is possible.
+
+DOI: 10.1590/S1984-29612015014 
+PMID: 25909264  [Indexed for MEDLINE]
+

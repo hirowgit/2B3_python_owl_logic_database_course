@@ -1,0 +1,89 @@
+
+
+49. Front Immunol. 2021 Oct 19;12:716289. doi: 10.3389/fimmu.2021.716289. eCollection
+2021.
+
+The Genomic Organization of the LILR Region Remained Largely Conserved Throughout
+Primate Evolution: Implications for Health And Disease.
+
+Storm L(1), Bruijnesteijn J(1), de Groot NG(1), Bontrop RE(1)(2).
+
+Author information: 
+(1)Comparative Genetics and Refinement, Biomedical Primate Research Centre,
+Rijswijk, Netherlands.
+(2)Theoretical Biology and Bioinformatics, Utrecht University, Utrecht,
+Netherlands.
+
+The genes of the leukocyte immunoglobulin-like receptor (LILR) family map to the 
+leukocyte receptor complex (LRC) on chromosome 19, and consist of both activating
+and inhibiting entities. These receptors are often involved in regulating immune 
+responses, and are considered to play a role in health and disease. The human
+LILR region and evolutionary equivalents in some rodent and bird species have
+been thoroughly characterized. In non-human primates, the LILR region is
+annotated, but a thorough comparison between humans and non-human primates has
+not yet been documented. Therefore, it was decided to undertake a comprehensive
+comparison of the human and non-human primate LILR region at the genomic level.
+During primate evolution the organization of the LILR region remained largely
+conserved. One major exception, however, is provided by the common marmoset, a
+New World monkey species, which seems to feature a substantial contraction of the
+number of LILR genes in both the centromeric and the telomeric region.
+Furthermore, genomic analysis revealed that the killer-cell immunoglobulin-like
+receptor gene KIR3DX1, which maps in the LILR region, features one copy in humans
+and great ape species. A second copy, which might have been introduced by a
+duplication event, was observed in the lesser apes, and in Old and New World
+monkey species. The highly conserved gene organization allowed us to standardize 
+the LILR gene nomenclature for non-human primate species, and implies that most
+of the receptors encoded by these genes likely fulfill highly preserved
+functions.
+
+Copyright © 2021 Storm, Bruijnesteijn, de Groot and Bontrop.
+
+DOI: 10.3389/fimmu.2021.716289 
+PMCID: PMC8562567
+PMID: 34737739  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+50. Elife. 2021 Nov 1;10. pii: e68837. doi: 10.7554/eLife.68837.
+
+Fast and accurate annotation of acoustic signals with deep neural networks.
+
+Steinfath E(1)(2), Palacios-Muñoz A(1)(2), Rottschäfer JR(1)(2), Yuezak D(1)(2), 
+Clemens J(1)(3).
+
+Author information: 
+(1)European Neuroscience Institute - A Joint Initiative of the University Medical
+Center Göttingen and the Max-Planck-Society, Göttingen, Germany.
+(2)International Max Planck Research School and Göttingen Graduate School for
+Neurosciences, Biophysics, and Molecular Biosciences (GGNB) at the University of 
+Göttingen, Göttingen, Germany.
+(3)Bernstein Center for Computational Neuroscience, Göttingen, Germany.
+
+Acoustic signals serve communication within and across species throughout the
+animal kingdom. Studying the genetics, evolution, and neurobiology of acoustic
+communication requires annotating acoustic signals: segmenting and identifying
+individual acoustic elements like syllables or sound pulses. To be useful,
+annotations need to be accurate, robust to noise, and fast.We here introduce
+DeepAudioSegmenter (DAS), a method that annotates acoustic signals across species
+based on a deep-learning derived hierarchical presentation of sound. We
+demonstrate the accuracy, robustness, and speed of DAS using acoustic signals
+with diverse characteristics from insects, birds, and mammals. DAS comes with a
+graphical user interface for annotating song, training the network, and for
+generating and proofreading annotations. The method can be trained to annotate
+signals from new species with little manual annotation and can be combined with
+unsupervised methods to discover novel signal types. DAS annotates song with high
+throughput and low latency for experimental interventions in realtime. Overall,
+DAS is a universal, versatile, and accessible tool for annotating acoustic
+communication signals.
+
+© 2021, Steinfath et al.
+
+DOI: 10.7554/eLife.68837 
+PMCID: PMC8560090
+PMID: 34723794  [Indexed for MEDLINE]
+
+Conflict of interest statement: ES, AP, JR, DY No competing interests declared
+

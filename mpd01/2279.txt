@@ -1,0 +1,81 @@
+
+
+2279. J Virol. 2008 Jul;82(14):7167-79. doi: 10.1128/JVI.02664-07. Epub 2008 May 14.
+
+Characterization of the New World monkey homologues of human poliovirus receptor 
+CD155.
+
+Khan S(1), Peng X, Yin J, Zhang P, Wimmer E.
+
+Author information: 
+(1)Department of Molecular Genetics and Microbiology, Stony Brook University,
+Stony Brook, NY 11794-5222, USA.
+
+In contrast to Old World monkeys, most New World monkeys (NWMs) are not
+susceptible to poliovirus (PV), regardless of the route of infection. We have
+investigated the molecular basis of restricted PV pathogenesis of NWMs with two
+kidney cell lines of NWMs, TMX (tamarin) and NZP-60 (marmoset), and characterized
+their PV receptor homologues. TMX cells were susceptible to infection by PV1
+(Mahoney) and PV3 (Leon) but not by PV2 (Lansing). Binding studies to TMX cells
+indicated that the formation of PV/receptor complexes increased when measured
+first at 4 degrees C and then at 25 degrees C, whereas PV2 did not significantly 
+bind to TMX cells at either temperature. On the other hand, NZP-60 cells were not
+susceptible to infection by any of the PV serotypes. However, a low amount of PV1
+bound to NZP-60 cells at 4 degrees C, but there was no increase of binding at 25 
+degrees C. In contrast, both NWM cell lines supported genome replication and
+virion formation when transfected with viral RNAs of either serotype, an
+observation indicating that infection was blocked in receptor-virus interaction. 
+To overcome the receptor block, we substituted 3 amino acids in the marmoset
+receptor (nCD155), H80Q, N85S, and P87S, found in the human PV receptor, hCD155. 
+Cells expressing the mutant receptor (L-nCD155mt) were now susceptible to
+infection with PV1, which correlated with an increase in PV1-bound receptor
+complexes from 4 degrees C to 25 degrees C. L-nCD155mt cells were, however, still
+resistant to PV2 and PV3. These data show that an increase in the formation of
+PV/receptor complexes, when measured at 4 degrees C and at 25 degrees C,
+correlates with and is an indicator of successful infection at 37 degrees C,
+suggesting that the complex formed at 25 degrees C may be an intermediate in PV
+uptake.
+
+DOI: 10.1128/JVI.02664-07 
+PMCID: PMC2446954
+PMID: 18480448  [Indexed for MEDLINE]
+
+
+2280. Theriogenology. 2008 Jul 1;70(1):115-20. doi:
+10.1016/j.theriogenology.2008.03.011. Epub 2008 May 13.
+
+Validation of non-fluorescent methods to reliably detect acrosomal and plasma
+membrane integrity of common marmoset (Callithrix jacchus) sperm.
+
+Valle RR(1), Valle CM, Nichi M, Muniz JA, Nayudu PL, Guimarães MA.
+
+Author information: 
+(1)German Primate Centre (DPZ), Reproductive Biology Department, Kellnerweg 4,
+Göttingen, Germany. rdrvalle@hotmail.com
+
+Simple, rapid and stable sperm evaluation methods which have been optimized for
+common marmoset (Callithrix jacchus) are critical for studies involving
+collection and evaluation of sperm in the field. This is particularly important
+for new species groups such as Callitrichidae where the sperm have been little
+studied. Of this family, C. jacchus is the best known, and has been chosen as a
+model species for other members of the genus Callithrix. The fundamental
+evaluation parameters for sperm of any species are viability and acrosomal
+status. Semen samples were collected by penile vibratory stimulation. To evaluate
+sperm plasma membrane integrity, Eosin-Nigrosin was tested here for the common
+marmoset sperm to be used under field conditions. Further, a non-fluorescent
+stain for acrosome, the "Simple" stain, developed for domestic and wild cats, was
+tested on common marmoset sperm. This was compared with a fluorescent staining,
+Fluorescein isothiocyanate-Pisum sativum agglutinin (FITC-PSA), routinely used
+and validated for common marmoset at the German Primate Centre to evaluate
+acrosomal integrity. Results obtained with the "Simple" stain showed a marked
+differentiation between sperm with intact and non-intact acrosome both with and
+without ionophore treatment and closely correlated with results obtained with
+FITC-PSA. Temperature had no effect on the results with the "Simple" stain and
+the complete processing is simple enough to be carried out under field
+conditions. These findings indicated that the "Simple" stain and Eosin-Nigrosin
+provide rapid and accurate results for C. jacchus sperm and that those methods
+can be reliably used as field tools for sperm evaluation for this species.
+
+DOI: 10.1016/j.theriogenology.2008.03.011 
+PMID: 18479742  [Indexed for MEDLINE]
+

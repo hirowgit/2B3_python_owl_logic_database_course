@@ -1,0 +1,40 @@
+
+
+1516. Immunogenetics. 2013 Dec;65(12):841-9. doi: 10.1007/s00251-013-0732-7. Epub 2013 
+Sep 10.
+
+The repertoire of MHC class I genes in the common marmoset: evidence for
+functional plasticity.
+
+van der Wiel MK(1), Otting N, de Groot NG, Doxiadis GG, Bontrop RE.
+
+Author information: 
+(1)Department of Comparative Genetics and Refinement, Biomedical Primate Research
+Centre, Lange Kleiweg 161, 2288 GJ, Rijswijk, The Netherlands.
+
+In humans, the classical antigen presentation function of major
+histocompatibility complex (MHC) class I molecules is controlled by the human
+leukocyte antigen HLA -A, HLA-B and HLA-C loci. A similar observation has been
+made for great apes and Old World monkey species. In contrast, a New World monkey
+species such as the cotton-top tamarin (Saguinus oedipus) appears to employ the G
+locus for its classical antigen presentation function. At present, little is
+known about the classical MHC class I repertoire of the common marmoset
+(Callithrix jacchus), another New World monkey that is widely used in biomedical 
+research. In the present population study, no evidence has been found for
+abundant transcription of classical I class genes. However, in each common
+marmoset, four to seven different G-like alleles were detected, suggesting that
+the ancestral locus has been subject to expansion. Segregation studies provided
+evidence for at least two G-like genes present per haplotype, which are
+transcribed by a variety of cell types. The alleles of these Caja-G genes cluster
+in separate lineages, suggesting that the loci diversified considerably after
+duplication. Phylogenetic analyses of the introns confirm that the Caja-G loci
+cluster in the vicinity of HLA-G, indicating that both genes shared an ancestor. 
+In contrast to HLA-G, Caja-G shows considerable polymorphism at the
+peptide-binding sites. This observation, together with the lack of detectable
+transcripts of A and B-like genes, indicates that Caja-G genes have taken over
+the function of classical class I genes. These data highlight the extreme
+plasticity of the MHC class I gene system.
+
+DOI: 10.1007/s00251-013-0732-7 
+PMID: 24018468  [Indexed for MEDLINE]
+

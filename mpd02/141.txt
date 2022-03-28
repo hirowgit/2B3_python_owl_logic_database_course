@@ -1,0 +1,51 @@
+
+
+141. Am J Primatol. 2021 Nov;83(11):e23254. doi: 10.1002/ajp.23254. Epub 2021 May 7.
+
+Studies of aging nonhuman primates illuminate the etiology of early-stage
+Alzheimer's-like neuropathology: An evolutionary perspective.
+
+Arnsten AFT(1), Datta D(1), Preuss TM(2).
+
+Author information: 
+(1)Department of Neuroscience, Yale Medical School, New Haven, Connecticut, USA.
+(2)Division of Neuropharmacology and Neurologic Diseases, Department of
+Pathology, Yerkes National Primate Research Center, Emory University, Atlanta,
+Georgia, USA.
+
+Tau pathology in Alzheimer's disease (AD) preferentially afflicts the limbic and 
+recently enlarged association cortices, causing a progression of mnemonic and
+cognitive deficits. Although genetic mouse models have helped reveal mechanisms
+underlying the rare, autosomal-dominant forms of AD, the etiology of the more
+common, sporadic form of AD remains unknown, and is challenging to study in mice 
+due to their limited association cortex and lifespan. It is also difficult to
+study in human brains, as early-stage tau phosphorylation can degrade postmortem.
+In contrast, rhesus monkeys have extensive association cortices, are long-lived, 
+and can undergo perfusion fixation to capture early-stage tau phosphorylation in 
+situ. Most importantly, rhesus monkeys naturally develop amyloid plaques,
+neurofibrillary tangles comprised of hyperphosphorylated tau, synaptic loss, and 
+cognitive deficits with advancing age, and thus can be used to identify the early
+molecular events that initiate and propel neuropathology in the aging association
+cortices. Studies to date suggest that the particular molecular signaling events 
+needed for higher cognition-for example, high levels of calcium to maintain
+persistent neuronal firing- lead to tau phosphorylation and inflammation when
+dysregulated with advancing age. The expression of NMDAR-NR2B (GluN2B)-the
+subunit that fluxes high levels of calcium-increases over the cortical hierarchy 
+and with the expansion of association cortex in primate evolution, consistent
+with patterns of tau pathology. In the rhesus monkey dorsolateral prefrontal
+cortex, spines contain NMDAR-NR2B and the molecular machinery to magnify internal
+calcium release near the synapse, as well as phosphodiesterases, mGluR3, and
+calbindin to regulate calcium signaling. Loss of regulation with inflammation
+and/or aging appears to be a key factor in initiating tau pathology. The vast
+expansion in the numbers of these synapses over primate evolution is consistent
+with the degree of tau pathology seen across species: marmoset < rhesus
+monkey < chimpanzee < human, culminating in the vast neurodegeneration seen in
+humans with AD.
+
+© 2021 The Authors. American Journal of Primatology Published by Wiley
+Periodicals LLC.
+
+DOI: 10.1002/ajp.23254 
+PMCID: PMC8550995
+PMID: 33960505  [Indexed for MEDLINE]
+

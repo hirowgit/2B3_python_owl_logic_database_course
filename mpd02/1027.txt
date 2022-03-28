@@ -1,0 +1,58 @@
+
+
+1027. Cell Stem Cell. 2016 Jul 7;19(1):127-38. doi: 10.1016/j.stem.2016.06.003. Epub
+2016 Jun 30.
+
+Generation of a Nonhuman Primate Model of Severe Combined Immunodeficiency Using 
+Highly Efficient Genome Editing.
+
+Sato K(1), Oiwa R(1), Kumita W(1), Henry R(2), Sakuma T(3), Ito R(1), Nozu R(1), 
+Inoue T(1), Katano I(1), Sato K(4), Okahara N(1), Okahara J(1), Shimizu Y(1),
+Yamamoto M(1), Hanazawa K(5), Kawakami T(6), Kametani Y(7), Suzuki R(8),
+Takahashi T(1), Weinstein EJ(2), Yamamoto T(3), Sakakibara Y(4), Habu S(9), Hata 
+J(1), Okano H(10), Sasaki E(11).
+
+Author information: 
+(1)Central Institute for Experimental Animals, Kawasaki, Kanagawa 210-0821,
+Japan.
+(2)Horizon Discovery, Saint Louis, MO 63146, USA.
+(3)Department of Mathematical and Life Sciences, Graduate School of Science,
+Hiroshima University, Hiroshima 739-8526, Japan.
+(4)Department of Biosciences and Informatics, Keio University, Yokohama, Kanagawa
+223-8522, Japan.
+(5)Department of Oncology, Juntendo University Nerima Hospital, Nerima-ku, Tokyo 
+177-8521, Japan.
+(6)Medical Proteo Scope Company, Ltd., Yokohama, Kanagawa 236-0004, Japan.
+(7)Department of Molecular Life Science, Division of Basic Medical Science and
+Molecular Medicine, Tokai University School of Medicine, Isehara, Kanagawa
+259-1193, Japan.
+(8)Department of Rheumatology and Clinical Immunology, Clinical Research Center
+for Rheumatology and Allergy, Sagamihara National Hospital, Sagamihara, Kanagawa 
+252-0392, Japan.
+(9)Atopy Research Center, Juntendo University Graduate School of Medicine,
+Bunkyo-ku, Tokyo 113-8421, Japan.
+(10)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan. Electronic address: hidokano@a2.keio.jp.
+(11)Central Institute for Experimental Animals, Kawasaki, Kanagawa 210-0821,
+Japan; Advanced Research Center, Keio University, Shinjuku-ku, Tokyo 160-8582,
+Japan. Electronic address: esasaki@ciea.or.jp.
+
+Recent advances in genome editing have facilitated the generation of nonhuman
+primate (NHP) models, with potential to unmask the complex biology of human
+disease not revealed by rodent models. However, their broader use is hindered by 
+the challenges associated with generation of adult NHP models as well as the cost
+of their production. Here, we describe the generation of a marmoset model of
+severe combined immunodeficiency (SCID). This study optimized zinc-finger
+nucleases (ZFNs) and transcription activator-like effector nucleases (TALENs) to 
+target interleukin-2 receptor subunit gamma (IL2RG) in pronuclear stage marmoset 
+embryos. Nine of 21 neonates exhibited mutations in the IL2RG gene, concomitant
+with immunodeficiency, and three neonates have currently survived from 240 days
+to 1.8 years. Our approach demonstrates highly efficient production of founder
+NHP with SCID phenotypes, with promises of multiple pre-clinical and
+translational applications.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.stem.2016.06.003 
+PMID: 27374787  [Indexed for MEDLINE]
+

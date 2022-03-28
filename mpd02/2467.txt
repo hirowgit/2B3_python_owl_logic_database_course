@@ -1,0 +1,35 @@
+
+
+2467. FASEB J. 2006 Dec;20(14):2582-4. Epub 2006 Oct 26.
+
+An unusual mode of concerted evolution of the EGF-TM7 receptor chimera EMR2.
+
+Kwakkenbos MJ(1), Matmati M, Madsen O, Pouwels W, Wang Y, Bontrop RE, Heidt PJ,
+Hoek RM, Hamann J.
+
+Author information: 
+(1)Department of Experimental Immunology, Academic Medical Center, University of 
+Amsterdam, P.O. Box 22700, 1100 DE Amsterdam, The Netherlands.
+
+The epidermal growth factor (EGF)-TM7 receptors CD97, EMR1, EMR2, EMR3, and EMR4 
+form a group of adhesion class heptahelical molecules predominantly expressed by 
+cells of the immune system. These receptors bind cellular ligands through
+EGF-like domains, localized N-terminal to a large extracellular region.
+Remarkably, EMR2 possesses a chimeric structure with a seven-span transmembrane
+(TM7) region most related to EMR3 and an EGF domain region nearly identical to
+CD97. By comparing EGF-TM7 receptors in primates and dogs, we identified an
+intriguing pattern of concerted evolution, apparently mediated by gene
+conversion, among EMR2 and the oppositely orientated and physically adjacent
+genes CD97 and EMR3. This concerted evolution has continuously maintained the
+chimeric structure of EMR2 since early mammal radiation. Most highly conserved
+between EMR2 and CD97 is the fourth EGF domain, which mediates binding to
+chondroitin sulfate, a ligand specificity shared by both receptors. Another
+ligand, CD55, is bound effectively only by CD97. We show that different molecular
+mechanisms (mutations vs. alternative splicing) prevent CD55 binding by EMR2 in
+hominoids. Our findings illustrate how various and partially opposing
+evolutionary events have shaped the structure and ligand specificity of a modern 
+mammalian gene family.
+
+DOI: 10.1096/fj.06-6500fje 
+PMID: 17068111  [Indexed for MEDLINE]
+

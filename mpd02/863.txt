@@ -1,0 +1,44 @@
+
+
+863. Vet Pathol. 2018 Jan;55(1):27-41. doi: 10.1177/0300985817712794. Epub 2017 Jun 6.
+
+Experimental Models of Autoimmune Demyelinating Diseases in Nonhuman Primates.
+
+Stimmer L(1), Fovet CM(2), Serguera C(3).
+
+Author information: 
+(1)1 U1169/US27 Platform for experimental pathology, Molecular Imaging Research
+Center, INSERM-CEA, Fontenay-aux-Roses, France.
+(2)2 U1169/US27 Platform for general surgery, Molecular Imaging Research Center, 
+INSERM-CEA, Fontenay-aux-Roses, France.
+(3)3 US27, Molecular Imaging Research Center, INSERM-CEA, Fontenay-aux-Roses,
+France.
+
+Human idiopathic inflammatory demyelinating diseases (IIDD) are a heterogeneous
+group of autoimmune inflammatory and demyelinating disorders of the central
+nervous system (CNS). These include multiple sclerosis (MS), the most common
+chronic IIDD, but also rarer disorders such as acute disseminated
+encephalomyelitis (ADEM) and neuromyelitis optica (NMO). Great efforts have been 
+made to understand the pathophysiology of MS, leading to the development of a few
+effective treatments. Nonetheless, IIDD still require a better understanding of
+the causes and underlying mechanisms to implement more effective therapies and
+diagnostic methods. Experimental autoimmune encephalomyelitis (EAE) is a commonly
+used animal model to study the pathophysiology of IIDD. EAE is principally
+induced through immunization with myelin antigens combined with immune-activating
+adjuvants. Nonhuman primates (NHP), the phylogenetically closest relatives of
+humans, challenged by similar microorganisms as other primates may recapitulate
+comparable immune responses to that of humans. In this review, the authors
+describe EAE models in 3 NHP species: rhesus macaques ( Macaca mulatta),
+cynomolgus macaques ( Macaca fascicularis), and common marmosets ( Callithrix
+jacchus), evaluating their respective contribution to the understanding of human 
+IIDD. EAE in NHP is a heterogeneous disease, including acute monophasic and
+chronic polyphasic forms. This diversity makes it a versatile model to use in
+translational research. This clinical variability also creates an opportunity to 
+explore multiple facets of immune-mediated mechanisms of neuro-inflammation and
+demyelination as well as intrinsic protective mechanisms. Here, the authors
+review current insights into the pathogenesis and immunopathological mechanisms
+implicated in the development of EAE in NHP.
+
+DOI: 10.1177/0300985817712794 
+PMID: 28583039  [Indexed for MEDLINE]
+

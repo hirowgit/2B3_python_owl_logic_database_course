@@ -1,0 +1,41 @@
+
+
+2649. Stem Cells. 2005 Oct;23(9):1304-13. Epub 2005 Aug 18.
+
+Establishment of novel embryonic stem cell lines derived from the common marmoset
+(Callithrix jacchus).
+
+Sasaki E(1), Hanazawa K, Kurita R, Akatsuka A, Yoshizaki T, Ishii H, Tanioka Y,
+Ohnishi Y, Suemizu H, Sugawara A, Tamaoki N, Izawa K, Nakazaki Y, Hamada H,
+Suemori H, Asano S, Nakatsuji N, Okano H, Tani K.
+
+Author information: 
+(1)Division of Laboratory Animal Science, Central Institute for Experimental
+Animals, Kanagawa, and Department of Urology, Urayasu Hospital, Juntendo
+University, Chiba, Japan.
+
+The successful establishment of human embryonic stem cell (hESC) lines has
+inaugurated a new era in regenerative medicine by facilitating the
+transplantation of differentiated ESCs to specific organs. However, problems with
+the safety and efficacy of hESC therapy in vivo remain to be resolved.
+Preclinical studies using animal model systems, including nonhuman primates, are 
+essential to evaluate the safety and efficacy of hESC therapies. Previously, we
+demonstrated that common marmosets are suitable laboratory animal models for
+preclinical studies of hematopoietic stem cell therapies. As this animal model is
+also applicable to preclinical trials of ESC therapies, we have established novel
+common marmoset ESC (CMESC) lines. To obtain marmoset embryos, we developed a new
+embryo collection system, in which blastocysts can be obtained every 3 weeks from
+each marmoset pair. The inner cell mass was isolated by immunosurgery and plated 
+on a mouse embryonic feeder layer. Some of the CMESC lines were cultured
+continuously for more than 1 year. These CMESC lines showed alkaline phosphatase 
+activity and expressed stage-specific embryonic antigen (SSEA)-3, SSEA-4,
+TRA-1-60, and TRA-1-81. On the other hand, SSEA-1 was not detected. Furthermore, 
+our novel CMESCs are pluripotent, as evidenced by in vivo teratoma formation in
+immunodeficient mice and in vitro differentiation experiments. Our established
+CMESC lines and the common marmoset provide an excellent experimental model
+system for understanding differentiation mechanisms, as well as the development
+of regenerative therapies using hESCs.
+
+DOI: 10.1634/stemcells.2004-0366 
+PMID: 16109758  [Indexed for MEDLINE]
+

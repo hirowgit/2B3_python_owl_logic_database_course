@@ -1,0 +1,69 @@
+
+
+2364. J Med Chem. 2007 Oct 4;50(20):4832-44. Epub 2007 Sep 8.
+
+Structural modification of the P2' position of 2,7-dialkyl-substituted
+5(S)-amino-4(S)-hydroxy-8-phenyl-octanecarboxamides: the discovery of aliskiren, 
+a potent nonpeptide human renin inhibitor active after once daily dosing in
+marmosets.
+
+Maibaum J(1), Stutz S, Göschke R, Rigollier P, Yamaguchi Y, Cumin F, Rahuel J,
+Baum HP, Cohen NC, Schnell CR, Fuhrer W, Gruetter MG, Schilling W, Wood JM.
+
+Author information: 
+(1)Novartis Institutes for BioMedical Research, NOVARTIS Pharma AG, WKL-136.683, 
+CH-4002 Basel, Switzerland. juergen_klaus.maibaum@novartis.com
+
+Due to its function in the rate limiting initial step of the renin-angiotensin
+system, renin is a particularly promising target for drugs designed to control
+hypertension, a growing risk to health worldwide. Despite vast efforts over more 
+than two decades, no orally efficacious renin inhibitor had reached the market.
+As a result of a structure-based topological design approach, we have identified 
+a novel class of small-molecule inhibitors with good oral blood-pressure lowering
+effects in primates. Further lead optimization aimed for improvement of in vivo
+potency and duration of action, mainly by P2' modifications at the
+hydroxyethylene transition-state isostere. These efforts resulted in the
+discovery of aliskiren (46, CGP060536B, SPP100), a highly potent, selective
+inhibitor of renin, demonstrating excellent efficacy in sodium-depleted marmosets
+after oral administration, with sustained duration of action in reducing
+dose-dependently mean arterial blood pressure. Aliskiren has recently received
+regulatory approval by the U.S. Food and Drug Administration for the treatment of
+hypertension.
+
+DOI: 10.1021/jm070316i 
+PMID: 17824680  [Indexed for MEDLINE]
+
+
+2365. J Med Chem. 2007 Oct 4;50(20):4818-31. Epub 2007 Sep 8.
+
+Novel 2,7-dialkyl-substituted 5(S)-amino-4(S)-hydroxy-8-phenyl-octanecarboxamide 
+transition state peptidomimetics are potent and orally active inhibitors of human
+renin.
+
+Göschke R(1), Stutz S, Rasetti V, Cohen NC, Rahuel J, Rigollier P, Baum HP,
+Forgiarini P, Schnell CR, Wagner T, Gruetter MG, Fuhrer W, Schilling W, Cumin F, 
+Wood JM, Maibaum J.
+
+Author information: 
+(1)Novartis Institutes for BioMedical Research, NOVARTIS Pharma AG, CH-4002
+Basel, Switzerland.
+
+The action of renin is the rate-limiting step of the renin-angiotensin system
+(RAS), a key regulator of blood pressure. Effective renin inhibitors directly
+block the RAS entirely at source and, thus, may provide a vital weapon for
+hypertension therapy. Our efforts toward identifying novel small-molecule
+peptidomimetic renin inhibitors have resulted in the design of transition-state
+isosteres such as 1 bearing an all-carbon 8-phenyl-octanecarboxamide framework.
+Optimization of the extended P3 portion of 1 and extensive P2' modifications
+provided analogues with improved in vitro potencies in the presence of plasma.
+X-ray resolution of rh-renin/38a in the course of SAR work surprisingly unveiled 
+the exploitation of a previously unexplored pocket (S3sp) important for strong
+binding affinities. Several inhibitors demonstrated oral efficacy in
+sodium-depleted marmosets. The most potent, 38a, induced dose-dependently a
+pronounced reduction in mean arterial blood pressure, paralleled by complete
+blockade of active plasma renin, up to 8 h post-dose. Oral bioavailability of 38a
+was 16% in marmosets.
+
+DOI: 10.1021/jm070314y 
+PMID: 17824679  [Indexed for MEDLINE]
+

@@ -1,0 +1,85 @@
+
+
+2932. Curr Eye Res. 2003 Jan;26(1):15-23.
+
+Differential expression of the lenticular antioxidant system in laboratory
+animals: a determinant of species predilection to oxidative stress-induced ocular
+toxicity?
+
+Slaughter MR(1), Thakkar H, O'Brien PJ.
+
+Author information: 
+(1)Safety Assessment, GlaxoSmithKline, Ware, UK.
+mark_slaughter@sandwich.pfizer.com
+
+PURPOSE: Various animal species have been used to study oxidative stress-induced 
+cataractogenesis; however, given that differences in the expression of the lens
+antioxidant system may influence species susceptibility to oxidative stress, we
+compared and contrasted a broad spectrum of components of the lens antioxidant
+system in dog, rat, marmoset, and rabbit.
+METHODS: Lenses collected from beagle dogs, Sprague-Dawley rats, marmosets, and
+New Zealand white rabbits were assayed for reduced glutathione (GSH), and
+activities of copper-zinc and manganese superoxide dismutase (CuZn-SOD; Mn-SOD), 
+catalase (CAT), glutathione peroxidase (GPX), gamma-Glutamylcysteine synthetase
+(GCS), glutathione reductase (GR), glutathione-S-transferases (GST), and
+glucose-6-phosphate dehydrogenase (GPDH), and Trolox equivalent antioxidant
+capacity (TEAC).
+RESULTS: Expression of the lens antioxidant system varied considerably between
+species. Marmoset lens contained the highest levels of GSH, its respective
+biosynthetic and recycling enzymes GCS and GR, and the associated H(2
+)O(2)-dismutation enzyme GPX. Activities of both SOD isoforms were also highest
+in marmoset lens. However, activities of the xenobiotic-conjugating enzyme GST
+and NADPH-generating enzyme GPDH were relatively low. In contrast, dog lens had
+the lowest levels of GSH, GCS, GR, and Cu-Zn SOD (1/2, 1/2 and 1/33, and 1/63
+that in marmoset) but highest levels of GST and GPDH. Rabbit lens contained the
+highest CAT activity, at up to 3.5-fold that for marmoset and rat.
+CONCLUSION: These results demonstrate substantial variation in lens antioxidant
+systems between different laboratory animal species. Given that such variation
+may affect relative susceptibility to oxidative stress-mediated ocular toxicity, 
+our findings may provide useful information when choosing different animal
+species for lens research.
+
+DOI: 10.1076/ceyr.26.1.15.14247 
+PMID: 12789532  [Indexed for MEDLINE]
+
+
+2933. J Neurosci. 2003 May 15;23(10):4378-85.
+
+Variable dopamine release probability and short-term plasticity between
+functional domains of the primate striatum.
+
+Cragg SJ(1).
+
+Author information: 
+(1)Department of Pharmacology, University of Oxford, UK.
+stephanie.cragg@pharm.ox.ac.uk
+
+Release of the neuromodulator dopamine (DA) is critical to the control of
+locomotion, motivation, and reward. However, the probability of DA release is not
+well understood. Current understanding of neurotransmitter release probability in
+the CNS is limited to the conventional synaptic amino acid transmitters (e.g.,
+glutamate and GABA). These fast neurotransmitters are released with a repertoire 
+of probabilities according to synapse type, and these probabilities show
+activity-dependent plasticity according to synapse use. Synapses for
+neuromodulators such as DA, however, are designed for signaling that diverges
+temporally and spatially from that for fast neurotransmitters: DA receptors are
+exclusively metabotropic and at sites that extend to extrasynaptic locations and 
+neighboring synapses. In this study, the release probability of DA was explored
+in real time in limbicversus motor-associated functional domains of the striatum 
+of a primate (marmoset; Callithrix jacchus) using fast-scan voltammetry at a
+carbon-fiber microelectrode. We show that the probability of axonal DA release
+varies with striatal domain. Furthermore, release probability exhibits a
+short-term, activity-dependent plasticity that ranges from depression to
+facilitation in motor-through limbic-associated regions, respectively. Rapid
+plasticity does not result from metabotropic D2-like DA receptor activation or
+ionotropic GABA(A) receptor effects but is dependent on Ca2+ availability. These 
+data reveal that rapid dynamics in DA release probability will participate in the
+transmission of the patterns and frequencies encoded by DA neuron action
+potential discharge. Furthermore, the regional variation in these features
+indicates that limbic-versus motor-associated DA neurons are permitted to
+generate diverse DA signals in response to a given firing pattern.
+
+
+PMCID: PMC6741072
+PMID: 12764127  [Indexed for MEDLINE]
+

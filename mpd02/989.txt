@@ -1,0 +1,36 @@
+
+
+989. Sci Rep. 2016 Oct 6;6:34543. doi: 10.1038/srep34543.
+
+ERK/c-Jun Recruits Tet1 to Induce Zta Expression and Epstein-Barr Virus
+Reactivation through DNA Demethylation.
+
+Zhang W(1), Han D(1), Wan P(1), Pan P(1), Cao Y(1), Liu Y(1), Wu K(1), Wu J(1).
+
+Author information: 
+(1)State Key Laboratory of Virology and College of Life Sciences, Wuhan
+University, Wuhan 430072, China.
+
+DNA demethylation plays an essential role in the reactivation of Epstein-Barr
+virus (EBV) from latency infection. However, it is unclear how epigenetic
+modification is initiated in responding to stimuli. Here, we demonstrate that
+ERK/c-Jun signaling is involved in DNA demethylation of EBV immediate early (IE) 
+gene Zta in response to 12-O-Tetradecanoylphorbol-13-acetate (TPA) stimulation.
+Remarkably, Ser73 phosphorylation of c-Jun facilitates Zta promoter demethylation
+and EBV reactivation, whereas knockdown of c-Jun attenuates Zta demethylation and
+viral reactivation. More importantly, we reveal for the first time that c-Jun
+interacts with DNA dioxygenase Tet1 and facilitates Tet1 to bind to Zta promoter.
+The binding of c-Jun and Tet1 to Zta enhances promoter demethylation, resulting
+in the activation of Zta, the stimulation of BHRF1 (a lytic early gene) and
+gp350/220 (a lytic late gene), and ultimately the reactivation of EBV. Knockdown 
+of Tet1 attenuates TPA-induced Zta demethylation and EBV reactivation. Thus, TPA 
+activates ERK/c-Jun signaling, which subsequently facilitates Tet1 to bind to Zta
+promoter, leading to DNA demethylation, gene expression, and EBV reactivation.
+This study reveals important roles of ERK/c-Jun signaling and Tet1 dioxygenase in
+epigenetic modification, and provides new insights into the mechanism underlying 
+the regulation of virus latent and lytic infection.
+
+DOI: 10.1038/srep34543 
+PMCID: PMC5052586
+PMID: 27708396  [Indexed for MEDLINE]
+

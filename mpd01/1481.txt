@@ -1,0 +1,81 @@
+
+
+1481. PLoS One. 2013 Nov 11;8(11):e78793. doi: 10.1371/journal.pone.0078793.
+eCollection 2013.
+
+Characterization of circulating natural killer cells in neotropical primates.
+
+Carville A(1), Evans TI, Reeves RK.
+
+Author information: 
+(1)Division of Immunology, New England Primate Research Center, Harvard Medical
+School, Southborough Campus, Southborough, Massachusetts, United States of
+America.
+
+Despite extensive use of nonhuman primates as models for infectious diseases and 
+reproductive biology, imprecise phenotypic and functional definitions exist for
+natural killer (NK) cells. This deficit is particularly significant in the
+burgeoning use of small, less expensive New World primate species. Using
+polychromatic flow cytometry, we identified peripheral blood NK cells as
+CD3-negative and expressing a cluster of cell surface molecules characteristic of
+NK cells (i.e., NKG2A, NKp46, NKp30) in three New World primate species - common 
+marmosets, cotton-top tamarins, and squirrel monkeys. We then assessed subset
+distribution using the classical NK markers, CD56 and CD16. In all species,
+similar to Old World primates, only a minor subset of NK cells was CD56+, and the
+dominant subset was CD56-CD16+. Interestingly, CD56+ NK cells were primarily
+cytokine-secreting cells, whereas CD56-CD16+ NK cells expressed significantly
+greater levels of intracellular perforin, suggesting these cells might have
+greater potential for cytotoxicity. New World primate species, like Old World
+primates, also had a minor CD56-CD16- NK cell subset that has no obvious
+counterpart in humans. Herein we present phenotypic profiles of New World primate
+NK cell subpopulations that are generally analogous to those found in humans.
+This conservation among species should support the further use of these species
+for biomedical research.
+
+DOI: 10.1371/journal.pone.0078793 
+PMCID: PMC3823947
+PMID: 24244365  [Indexed for MEDLINE]
+
+
+1482. PLoS One. 2013 Nov 14;8(11):e78750. doi: 10.1371/journal.pone.0078750.
+eCollection 2013.
+
+A novel nonhuman primate model for influenza transmission.
+
+Moncla LH(1), Ross TM, Dinis JM, Weinfurter JT, Mortimer TD, Schultz-Darken N,
+Brunner K, Capuano SV 3rd, Boettcher C, Post J, Johnson M, Bloom CE, Weiler AM,
+Friedrich TC.
+
+Author information: 
+(1)Department of Pathobiological Sciences, University of Wisconsin School of
+Veterinary Medicine, Madison, Wisconsin, United States of America ; Wisconsin
+National Primate Research Center, Madison, Wisconsin, United States of America ; 
+University of Wisconsin Microbiology Doctoral Training Program, Madison,
+Wisconsin, United States of America.
+
+Studies of influenza transmission are necessary to predict the pandemic potential
+of emerging influenza viruses. Currently, both ferrets and guinea pigs are used
+in such studies, but these species are distantly related to humans. Nonhuman
+primates (NHP) share a close phylogenetic relationship with humans and may
+provide an enhanced means to model the virological and immunological events in
+influenza virus transmission. Here, for the first time, it was demonstrated that 
+a human influenza virus isolate can productively infect and be transmitted
+between common marmosets (Callithrix jacchus), a New World monkey species. We
+inoculated four marmosets with the 2009 pandemic virus A/California/07/2009
+(H1N1pdm) and housed each together with a naïve cage mate. We collected
+bronchoalveolar lavage and nasal wash samples from all animals at regular
+intervals for three weeks post-inoculation to track virus replication and
+sequence evolution. The unadapted 2009 H1N1pdm virus replicated to high titers in
+all four index animals by 1 day post-infection. Infected animals seroconverted
+and presented human-like symptoms including sneezing, nasal discharge, labored
+breathing, and lung damage. Transmission occurred in one cohabitating pair. Deep 
+sequencing detected relatively few genetic changes in H1N1pdm viruses replicating
+in any infected animal. Together our data suggest that human H1N1pdm viruses
+require little adaptation to replicate and cause disease in marmosets, and that
+these viruses can be transmitted between animals. Marmosets may therefore be a
+viable model for studying influenza virus transmission.
+
+DOI: 10.1371/journal.pone.0078750 
+PMCID: PMC3828296
+PMID: 24244352  [Indexed for MEDLINE]
+

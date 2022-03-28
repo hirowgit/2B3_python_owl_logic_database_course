@@ -1,0 +1,78 @@
+
+
+802. Elife. 2017 Oct 3;6. pii: e29738. doi: 10.7554/eLife.29738.
+
+Human and nonhuman primate meninges harbor lymphatic vessels that can be
+visualized noninvasively by MRI.
+
+Absinta M(#)(1), Ha SK(#)(1), Nair G(1), Sati P(1), Luciano NJ(1), Palisoc M(2), 
+Louveau A(3), Zaghloul KA(4), Pittaluga S(2), Kipnis J(3), Reich DS(1).
+
+Author information: 
+(1)Translational Neuroradiology Section, National Institute of Neurological
+Disorders and Stroke, National Institutes of Health, Bethesda, United States.
+(2)Hematopathology Section, Laboratory of Pathology, National Cancer Institute,
+National Institutes of Health, Bethesda, United States.
+(3)Center for Brain Immunology and Glia, Department of Neuroscience, School of
+Medicine, University of Virginia, Charlottesville, United States.
+(4)Surgical Neurology Branch, National Institute of Neurological Disorders and
+Stroke, National Institutes of Health, Bethesda, United States.
+(#)Contributed equally
+
+Comment in
+    J Am Osteopath Assoc. 2018 Jan 1;118(1):53.
+
+Here, we report the existence of meningeal lymphatic vessels in human and
+nonhuman primates (common marmoset monkeys) and the feasibility of noninvasively 
+imaging and mapping them in vivo with high-resolution, clinical MRI. On T2-FLAIR 
+and T1-weighted black-blood imaging, lymphatic vessels enhance with gadobutrol, a
+gadolinium-based contrast agent with high propensity to extravasate across a
+permeable capillary endothelial barrier, but not with gadofosveset, a blood-pool 
+contrast agent. The topography of these vessels, running alongside dural venous
+sinuses, recapitulates the meningeal lymphatic system of rodents. In primates,
+meningeal lymphatics display a typical panel of lymphatic endothelial markers by 
+immunohistochemistry. This discovery holds promise for better understanding the
+normal physiology of lymphatic drainage from the central nervous system and
+potential aberrations in neurological diseases.
+
+DOI: 10.7554/eLife.29738 
+PMCID: PMC5626482
+PMID: 28971799  [Indexed for MEDLINE]
+
+
+803. Front Neurosci. 2017 Sep 15;11:514. doi: 10.3389/fnins.2017.00514. eCollection
+2017.
+
+A Chronically Implantable Bidirectional Neural Interface for Non-human Primates.
+
+Komatsu M(1), Sugano E(2), Tomita H(2), Fujii N(3).
+
+Author information: 
+(1)Ichinohe Group, Laboratory for Molecular Analysis of Higher Brain Function,
+RIKEN Brain Science InstituteSaitama, Japan.
+(2)Department of Chemistry and Biological Sciences, Iwate UniversityIwate, Japan.
+(3)Laboratory for Adaptive Intelligence, RIKEN Brain Science InstituteSaitama,
+Japan.
+
+Optogenetics has potential applications in the study of epilepsy and
+neuroprostheses, and for studies on neural circuit dynamics. However, to achieve 
+translation to clinical usage, optogenetic interfaces that are capable of chronic
+stimulation and monitoring with minimal brain trauma are required. We aimed to
+develop a chronically implantable device for photostimulation of the brain of
+non-human primates. We used a micro-light-emitting diode (LED) array with a
+flexible polyimide film. The array was combined with a whole-cortex
+electrocorticographic (ECoG) electrode array for simultaneous photostimulation
+and recording. Channelrhodopsin-2 (ChR2) was virally transduced into the cerebral
+cortex of common marmosets, and then the device was epidurally implanted into
+their brains. We recorded the neural activity during photostimulation of the
+awake monkeys for 4 months. The neural responses gradually increased after the
+virus injection for ~8 weeks and remained constant for another 8 weeks. The
+micro-LED and ECoG arrays allowed semi-invasive simultaneous stimulation and
+recording during long-term implantation in the brains of non-human primates. The 
+development of this device represents substantial progress in the field of
+optogenetic applications.
+
+DOI: 10.3389/fnins.2017.00514 
+PMCID: PMC5605616
+PMID: 28966573 
+

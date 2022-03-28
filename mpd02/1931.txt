@@ -1,0 +1,44 @@
+
+
+1931. Chem Biol Interact. 2011 Feb 1;189(3):146-52. doi: 10.1016/j.cbi.2010.12.014.
+Epub 2010 Dec 22.
+
+Regio- and stereoselective oxidation of propranolol enantiomers by human CYP2D6, 
+cynomolgus monkey CYP2D17 and marmoset CYP2D19.
+
+Narimatsu S(1), Nakata T, Shimizudani T, Nagaoka K, Nakura H, Masuda K, Katsu T, 
+Koeda A, Naito S, Yamano S, Miyata A, Hanioka N.
+
+Author information: 
+(1)Okayama University, Kita-ku, Japan. shizuo@pharm.okayama-u.ac.jp
+
+Toxic and pharmacokinetic profiles of drug candidates are evaluated in vivo often
+using monkeys as experimental animals, and the data obtained are extrapolated to 
+humans. Well understanding physiological properties, including drug-metabolizing 
+enzymes, of monkeys should increase the accuracy of the extrapolation. The
+present study was performed to compare regio- and stereoselectivity in the
+oxidation of propranolol (PL), a chiral substrate, by cytochrome P450 2D (CYP2D) 
+enzymes among humans, cynomolgus monkeys and marmosets. Complimentary DNAs
+encoding human CYP2D6, cynomolgus monkey CYP2D17 and marmoset CYP2D19 were
+cloned, and their proteins expressed in a yeast cell expression system. The
+regio- and stereoselective oxidation of PL enantiomers by yeast cell microsomal
+fractions were compared. In terms of efficiency of expression in the system, the 
+holo-proteins ranked CYP2D6=CYP2D17>>CYP2D19. This may be caused by the bulky
+side chain of the amino acid residue at position 119 (leucine for CYP2D19 vs.
+valine for CYP2D6 and CYP2D17), which can disturb the incorporation of the heme
+moiety into the active-site cavity. PL enantiomers were oxidized by all of the
+enzymes mainly into 4-hydroxyproranolol (4-OH-PL), followed by 5-OH-PL and
+N-desisopropylpropranolol (NDP). In the kinetic analysis, apparent K(m) values
+were commonly in the μM range and substrate enantioselectivity of R-PL<S-PL was
+observed in both K(m) and V(max) values for the formation of the three
+metabolites from PL enantiomers. The activity to produce NDP tended to be higher 
+for the monkey enzymes, particularly CYP2D17, than for the human enzyme. These
+results indicate that in the oxidation of PL enantiomers by CYP2D enzymes,
+stereoselectivity is similar but regioselectivity is different between humans and
+monkeys.
+
+Copyright © 2010 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.cbi.2010.12.014 
+PMID: 21184751  [Indexed for MEDLINE]
+

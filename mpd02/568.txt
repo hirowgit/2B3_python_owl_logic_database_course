@@ -1,0 +1,47 @@
+
+
+568. Brain Sci. 2019 Jan 23;9(2). pii: E19. doi: 10.3390/brainsci9020019.
+
+Astrocytic Response to Acutely- and Chronically-Implanted Microelectrode Arrays
+in the Marmoset (Callithrix jacchus) Brain.
+
+Budoff SA(1), Yano KM(2)(3), de Mesquita FC(4), Doerl JG(5)(6), de Santana MB(7),
+Nascimento MSL(8), Kunicki ACB(9), de Araújo MFP(10).
+
+Author information: 
+(1)Edmond and Lily Safra International Institute of Neuroscience, Santos Dumont
+Institute, Macaíba, RN 59280-000, Brazil. samuel@edu.isd.org.br.
+(2)Edmond and Lily Safra International Institute of Neuroscience, Santos Dumont
+Institute, Macaíba, RN 59280-000, Brazil. kim@edu.isd.org.br.
+(3)Department of Physical Therapy, Federal University of Rio Grande do Norte,
+Natal, RN 59078-970, Brazil. kim@edu.isd.org.br.
+(4)Edmond and Lily Safra International Institute of Neuroscience, Santos Dumont
+Institute, Macaíba, RN 59280-000, Brazil. fecmesquita@edu.isd.org.br.
+(5)Edmond and Lily Safra International Institute of Neuroscience, Santos Dumont
+Institute, Macaíba, RN 59280-000, Brazil. jgdoerl@gmail.com.
+(6)Brain Institute, Federal University of Rio Grande do Norte, Natal, RN
+59056-450, Brazil. jgdoerl@gmail.com.
+(7)Institute for Science and Technology of Water (ICTA), Federal University of
+Western Pará, Santarém, Pará 68040-255, Brazil. barbosadesantana@gmail.com.
+(8)Edmond and Lily Safra International Institute of Neuroscience, Santos Dumont
+Institute, Macaíba, RN 59280-000, Brazil. manuela.mascimento@isd.org.br.
+(9)Edmond and Lily Safra International Institute of Neuroscience, Santos Dumont
+Institute, Macaíba, RN 59280-000, Brazil. carol.bione@isd.org.br.
+(10)Edmond and Lily Safra International Institute of Neuroscience, Santos Dumont 
+Institute, Macaíba, RN 59280-000, Brazil. mfparaujo@gmail.com.
+
+Microelectrode implants are an important tool in neuroscience research and in
+developing brain⁻machine interfaces. Data from rodents have consistently shown
+that astrocytes are recruited to the area surrounding implants, forming a glial
+scar that increases electrode impedance and reduces chronic utility. However,
+studies in non-human primates are scarce, with none to date in marmosets. We used
+glial fibrillary acidic protein (GFAP) immunostaining to characterize the acute
+and chronic response of the marmoset brain to microelectrodes. By using
+densitometry, we showed that marmoset astrocytes surround brain implants and that
+a glial scar is formed over time, with significant increase in the chronic
+condition relative to the acute condition animal.
+
+DOI: 10.3390/brainsci9020019 
+PMCID: PMC6406890
+PMID: 30678038 
+

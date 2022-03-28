@@ -1,0 +1,45 @@
+
+
+702. Int J Mol Med. 2018 Jul;42(1):131-140. doi: 10.3892/ijmm.2018.3610. Epub 2018 Apr
+3.
+
+Leukemia inhibitory factor regulates marmoset induced pluripotent stem cell
+proliferation via a PI3K/‌Akt‑dependent Tbx‑3 activation pathway.
+
+Ke M(1), He Q(1), Hong D(1), Li O(1), Zhu M(1), Ou WB(1), He Y(1), Wu Y(1).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, College of Life Science,
+Zhejiang Sci‑Tech University, Hangzhou, Zhejiang 310018, P.R. China.
+
+Leukemia inhibitory factor (LIF) is the most pleiotropic cytokine of the
+interleukin‑6 family, and is widely used to establish and maintain pluripotent
+stem cells, particularly mouse pluripotent stem cells. However, no reports have
+fully elucidated the application of LIF in marmoset induced pluripotent stem cell
+(iPSC) culture, particularly the underlying mechanisms. To demonstrate the
+feasibility of the application of LIF to marmoset iPSCs, the present study
+assessed these cells in the presence of LIF. Cell proliferation was measured
+using MTT assay, cell apoptosis was determined by flow cytometric analysis of
+fluorescein isothiocyanate Annexin V staining and the differentially expressed
+genes were analysed using Digital Gene Expression (DGE) analysis. The altered
+expression of pluripotency‑associated genes was confirmed by reverse
+transcription‑quantitative polymerase chain reaction and western blot analysis.
+Furthermore, following treatment with LY294002, cell proliferation was measured
+by MTT assay and protein levels were confirmed by western blot analysis. The
+results showed that LIF significantly promoted the number of proliferating cells,
+but had no effect on apoptosis. Digital Gene Expression analysis was used to
+examine the differentially expressed genes of marmoset iPSCs in the presence of
+LIF. The results showed that the pluripotency‑associated transcription
+factor‑encoding gene T‑box 3 (Tbx‑3) was activated by LIF. Notably, LIF increased
+the levels of phosphorylated (p‑)AKT and Tbx‑3 in the marmoset iPSCs.
+Furthermore, pretreatment with LY294002, an inhibitor of phosphoinositide
+3‑kinase (PI3K), significantly impaired the LIF‑induced upregulation of p‑AKT and
+Tbx‑3 in the marmoset iPSCs, suggesting that the PI3K/Akt signaling pathway is
+involved in this regulation. Taken together, the results suggested that LIF is
+effective in maintaining marmoset iPSCs in cultures, which is associated with the
+activation of Tbx‑3 through regulation of the PI3K/Akt signaling pathway.
+
+DOI: 10.3892/ijmm.2018.3610 
+PMCID: PMC5979829
+PMID: 29620145  [Indexed for MEDLINE]
+

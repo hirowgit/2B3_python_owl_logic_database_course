@@ -1,0 +1,90 @@
+
+
+174. ILAR J. 2020 Dec 31;61(2-3):286-303. doi: 10.1093/ilar/ilab002.
+
+Assisted Reproductive Techniques and Genetic Manipulation in the Common Marmoset.
+
+Park JE(1), Sasaki E(2).
+
+Author information: 
+(1)Department of Neurobiology, University of Pittsburgh, School of Medicine in
+Pittsburgh, Pennsylvania, USA.
+(2)Department of Marmoset Biology and Medicine, Central Institute for
+Experimental Animals in Kawasaki, Kanagawa, Japan.
+
+Genetic modification of nonhuman primate (NHP) zygotes is a useful method for the
+development of NHP models of human diseases. This review summarizes the recent
+advances in the development of assisted reproductive and genetic manipulation
+techniques in NHP, providing the basis for the generation of genetically modified
+NHP disease models. In this study, we review assisted reproductive techniques,
+including ovarian stimulation, in vitro maturation of oocytes, in vitro
+fertilization, embryo culture, embryo transfer, and intracytoplasmic sperm
+injection protocols in marmosets. Furthermore, we review genetic manipulation
+techniques, including transgenic strategies, target gene knock-out and knock-in
+using gene editing protocols, and newly developed gene-editing approaches that
+may potentially impact the production of genetically manipulated NHP models. We
+further discuss the progress of assisted reproductive and genetic manipulation
+techniques in NHP; future prospects on genetically modified NHP models for
+biomedical research are also highlighted.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the
+National Academies of Sciences, Engineering, and Medicine. All rights reserved.
+For permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/ilar/ilab002 
+PMCID: PMC8918153
+PMID: 33693670 
+
+
+175. Cells. 2021 Feb 27;10(3). pii: 505. doi: 10.3390/cells10030505.
+
+Generation and Breeding of EGFP-Transgenic Marmoset Monkeys: Cell Chimerism and
+Implications for Disease Modeling.
+
+Drummer C(1)(2), Vogt EJ(1), Heistermann M(3), Roshani B(4), Becker T(5),
+Mätz-Rensing K(6), Kues WA(7), Kügler S(8), Behr R(1)(2).
+
+Author information: 
+(1)Platform Degenerative Diseases, German Primate Center-Leibniz Institute for
+Primate Research, Kellnerweg 4, 37077 Göttingen, Germany.
+(2)DZHK (German Center for Cardiovascular Research), Partner Site Göttingen,
+37099 Göttingen, Germany.
+(3)Endocrinology Laboratory, German Primate Center-Leibniz Institute for Primate 
+Research, Kellnerweg 4, 37077 Göttingen, Germany.
+(4)Unit of Infection Models, German Primate Center-Leibniz Institute for Primate 
+Research, Kellnerweg 4, 37077 Göttingen, Germany.
+(5)Primate Husbandry, German Primate Center-Leibniz Institute for Primate
+Research, Kellnerweg 4, 37077 Göttingen, Germany.
+(6)Pathology Unit, German Primate Center-Leibniz-Institute for Primate Research, 
+Kellnerweg 4, 37077 Göttingen, Germany.
+(7)Friedrich-Loeffler-Institut, Institut für Nutztiergenetik, Mariensee, 31535
+Neustadt, Germany.
+(8)Center for Nanoscale Microscopy and Physiology of the Brain (CNMPB) at
+Department of Neurology, University of Göttingen, Waldweg 33, 37073 Göttingen,
+Germany.
+
+Genetic modification of non-human primates (NHP) paves the way for realistic
+disease models. The common marmoset is a NHP species increasingly used in
+biomedical research. Despite the invention of RNA-guided nucleases, one strategy 
+for protein overexpression in NHP is still lentiviral transduction. We generated 
+three male and one female enhanced green fluorescent protein (EGFP)-transgenic
+founder marmosets via lentiviral transduction of natural preimplantation embryos.
+All founders accomplished germline transmission of the transgene by natural
+mating, yielding 20 transgenic offspring together (in total, 45 pups; 44%
+transgenic). This demonstrates that the transgenic gametes are capable of natural
+fertilization even when in competition with wildtype gametes. Importantly, 90% of
+the transgenic offspring showed transgene silencing, which is in sharp contrast
+to rodents, where the identical transgene facilitated robust EGFP expression.
+Furthermore, we consistently discovered somatic, but so far, no germ cell
+chimerism in mixed wildtype/transgenic litters. Somatic cell chimerism resulted
+in false-positive genotyping of the respective wildtype littermates. For the
+discrimination of transgenic from transgene-chimeric animals by polymerase chain 
+reaction on skin samples, a chimeric cell depletion protocol was established. In 
+summary, it is possible to establish a cohort of genetically modified marmosets
+by natural mating, but specific requirements including careful promoter selection
+are essential.
+
+DOI: 10.3390/cells10030505 
+PMCID: PMC7996964
+PMID: 33673402  [Indexed for MEDLINE]
+

@@ -1,0 +1,73 @@
+
+
+2727. J Neurosci. 2005 Jan 26;25(4):769-77.
+
+Continuous low-level glial cell line-derived neurotrophic factor delivery using
+recombinant adeno-associated viral vectors provides neuroprotection and induces
+behavioral recovery in a primate model of Parkinson's disease.
+
+Eslamboli A(1), Georgievska B, Ridley RM, Baker HF, Muzyczka N, Burger C, Mandel 
+RJ, Annett L, Kirik D.
+
+Author information: 
+(1)Department of Experimental Psychology, University of Cambridge, Cambridge CB2 
+3EB, United Kingdom. ae228@cam.ac.uk
+
+The therapeutic potential of glial cell line-derived neurotrophic factor (GDNF)
+for Parkinson's disease is likely to depend on sustained delivery of the
+appropriate amount to the target areas. Recombinant adeno-associated viral
+vectors (rAAVs) expressing GDNF may be a suitable delivery system for this
+purpose. The aim of this study was to define a sustained level of GDNF that does 
+not affect the function of the normal dopamine (DA) neurons but does provide
+anatomical and behavioral protection against an intrastriatal 6-hydroxydopamine
+(6-OHDA) lesion in the common marmoset. We found that unilateral intrastriatal
+injection of rAAV resulting in the expression of high levels of GDNF (14 ng/mg of
+tissue) in the striatum induced a substantial bilateral increase in tyrosine
+hydroxylase protein levels and activity as well as in DA turnover. Expression of 
+low levels of GDNF (0.04 ng/mg of tissue), on the other hand, produced only
+minimal effects on DA synthesis and only on the injected side. In addition, the
+low level of GDNF provided approximately 85% protection of the nigral DA neurons 
+and their projections to the striatum in the 6-OHDA-lesioned hemisphere.
+Furthermore, the anatomical protection was accompanied by a complete attenuation 
+of sensorimotor neglect, head position bias, and amphetamine-induced rotation. We
+conclude that when delivered continuously, a low level of GDNF in the striatum
+(approximately threefold above baseline) is sufficient to provide optimal
+functional outcome.
+
+DOI: 10.1523/JNEUROSCI.4421-04.2005 
+PMCID: PMC6725622
+PMID: 15673656  [Indexed for MEDLINE]
+
+
+2728. Endocr Res. 2004 Nov;30(4):753-7.
+
+Expression of AT1-R in marmoset whole adrenal glands and adrenocortical cells in 
+culture.
+
+Bird IM(1), Pattison JC.
+
+Author information: 
+(1)Perinatal Research Labs, Department Ob/Gyn, University of Wisconsin, 7E
+Meriter Hospital/Park, 202 South Park St., Madison, WI 53715, USA.
+imbird@wisc.edu
+
+The marmoset adrenal is interesting as it is developmentally similar to humans
+and other primates, but in adulthood 17,20-lyase activity is very low. One
+possible explanation is an altered regulation of P450c17 expression by AT1-R. We 
+investigated the expression and zonal distribution of the AT1-R in marmoset
+adrenal glands and adrenocortical cells in culture since it is known that AT1-R
+is a regulator of P450c17 expression and activity. AT1-R was expressed strongly
+in the ZG and to diminishing degrees through the remainder of the cortex. There
+was negative expression in a putative ZI. Dispersed adrenocortical cells retained
+AT1-R protein as detected by ICC. Cells cultured for several days and treated in 
+serum-free media for 48 h maintained AT1-R expression, as measured by western.
+However, at that 48 h time point, treatment with Forsk, AII, TPA, or the
+combination of A+F or T+F did not appear to effect AT1-R expression. We conclude 
+that marmoset adrenals express AT1-R similarly to humans and other higher
+mammals, adrenocortical cells retain AT1-R expression in culture, and consistent 
+with other adrenal cell culture models, AT1-R expression is not lost in response 
+to agonists long term.
+
+DOI: 10.1081/erc-200044025 
+PMID: 15666821  [Indexed for MEDLINE]
+

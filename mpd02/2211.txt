@@ -1,0 +1,40 @@
+
+
+2211. J Comp Neurol. 2009 Jan 10;512(2):218-31. doi: 10.1002/cne.21893.
+
+Expression of synaptic and phototransduction markers during photoreceptor
+development in the marmoset monkey Callithrix jacchus.
+
+Hendrickson A(1), Troilo D, Djajadi H, Possin D, Springer A.
+
+Author information: 
+(1)Department of Biological Structure, University of Washington, Seattle,
+Washington 98195, USA.
+
+Marmoset photoreceptor development was studied to determine the expression
+sequence for synaptic, opsin, and phototransduction proteins. All markers appear 
+first in cones within the incipient foveal center or in rods at the foveal edge. 
+Recoverin appears in cones across 70% of the retina at fetal day (Fd) 88,
+indicating that it is expressed shortly after photoreceptors are generated.
+Synaptic markers synaptophysin, SV2, glutamate vesicular transporter 1, and CTBP2
+label foveal cones at Fd 88 and cones at the retinal edge around birth. Cones and
+rods have distinctly different patterns of synaptic protein and opsin expression.
+Synaptic markers are expressed first in cones, with a considerable delay before
+they appear in rods at the same eccentricity. Cones express synaptic markers 2-3 
+weeks before they express opsin, but rods express opsin 2-4 weeks before rod
+synaptic marker labeling is detected. Medium/long-wavelength-selective (M&L)
+opsin appears in foveal cones and rod opsin in rods around the fovea at Fd 100.
+Very few cones expressing short-wavelength-selective (S) opsin are found in the
+Fd 105 fovea. Across peripheral retina, opsin appears first in rods, followed
+about 1 week later by M&L cone opsin. S cone opsin appears last, and all opsins
+reach the retinal edge by 1 week after birth. Cone transducin and rod arrestin
+are expressed concurrently with opsin, but cone arrestin appears slightly later. 
+Marmoset photoreceptor development differs from that in Macaca and humans. It
+starts relatively late, at 56% gestation, compared with Macaca at 32% gestation. 
+The marmoset opsin expression sequence is also different from that of either
+Macaca or human.
+
+DOI: 10.1002/cne.21893 
+PMCID: PMC3089894
+PMID: 19003975  [Indexed for MEDLINE]
+

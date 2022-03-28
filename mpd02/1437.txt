@@ -1,0 +1,42 @@
+
+
+1437. J Neurosci. 2014 Mar 12;34(11):3821-5. doi: 10.1523/JNEUROSCI.4491-13.2014.
+
+Identification of a pathway from the retina to koniocellular layer K1 in the
+lateral geniculate nucleus of marmoset.
+
+Percival KA(1), Koizumi A, Masri RA, Buzás P, Martin PR, Grünert U.
+
+Author information: 
+(1)Departments of Ophthalmology and Save Sight Institute, Australian Research
+Council Centre of Excellence in Vision Science, and School of Medical Sciences,
+The University of Sydney, Sydney, NSW 2000, Australia, Department of Cell
+Physiology, National Institute for Physiological Sciences, Myodaiji, Okazaki,
+444-8585, Japan, Department of Physiological Sciences, School of Life Science,
+The Graduate University for Advanced Studies (SOKENDAI), Okazaki 444-8787, Japan,
+and Institute of Physiology, Medical School, University of Pécs, 7624 Pécs,
+Hungary.
+
+Three well characterized pathways in primate vision (midget-parvocellular,
+parasol-magnocellular, bistratified-koniocellular) have been traced from the
+first synapse in the retina, through the visual thalamus (lateral geniculate
+nucleus, LGN), to the visual cortex. Here we identify a pathway from the first
+synapse in the retina to koniocellular layer K1 in marmoset monkeys (Callithrix
+jacchus). Particle-mediated gene transfer of an expression plasmid for the
+postsynaptic density 95-green fluorescent protein (PSD95-GFP) was used to label
+excitatory synapses on retinal ganglion cells and combined with
+immunofluorescence to identify the presynaptic bipolar cells. We found that axon 
+terminals of one type of diffuse bipolar cell (DB6) provide dominant synaptic
+input to the dendrites of narrow thorny ganglion cells. Retrograde tracer
+injections into the LGN and photofilling of retinal ganglion cells showed that
+narrow thorny cells were preferentially labeled when koniocellular layer K1 was
+targeted. Layer K1 contains cells with high sensitivity for rapid movement, and
+layer K1 sends projections to association visual areas as well as to primary
+visual cortex. We hypothesize that the DB6-narrow thorny-koniocellular pathway
+contributes to residual visual functions ("blindsight") that survive injury to
+primary visual cortex in adult or early life.
+
+DOI: 10.1523/JNEUROSCI.4491-13.2014 
+PMCID: PMC6705273
+PMID: 24623761  [Indexed for MEDLINE]
+

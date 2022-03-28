@@ -1,0 +1,44 @@
+
+
+541. Nat Commun. 2019 Feb 26;10(1):941. doi: 10.1038/s41467-019-08894-8.
+
+Contrast and luminance adaptation alter neuronal coding and perception of
+stimulus orientation.
+
+Ghodrati M(1)(2), Zavitz E(3)(4), Rosa MGP(3)(4), Price NSC(5)(6).
+
+Author information: 
+(1)Department of Physiology, Neuroscience Program, Biomedicine Discovery
+Institute, Monash University, Clayton, VIC, 3800, Australia.
+masoud.ghodrati@monash.edu.
+(2)ARC Centre of Excellence for Integrative Brain Function, Monash University,
+Clayton, VIC, 3800, Australia. masoud.ghodrati@monash.edu.
+(3)Department of Physiology, Neuroscience Program, Biomedicine Discovery
+Institute, Monash University, Clayton, VIC, 3800, Australia.
+(4)ARC Centre of Excellence for Integrative Brain Function, Monash University,
+Clayton, VIC, 3800, Australia.
+(5)Department of Physiology, Neuroscience Program, Biomedicine Discovery
+Institute, Monash University, Clayton, VIC, 3800, Australia.
+nicholas.price@monash.edu.
+(6)ARC Centre of Excellence for Integrative Brain Function, Monash University,
+Clayton, VIC, 3800, Australia. nicholas.price@monash.edu.
+
+Sensory systems face a barrage of stimulation that continually changes along
+multiple dimensions. These simultaneous changes create a formidable problem for
+the nervous system, as neurons must dynamically encode each stimulus dimension,
+despite changes in other dimensions. Here, we measured how neurons in visual
+cortex encode orientation following changes in luminance and contrast, which are 
+critical for visual processing, but nuisance variables in the context of
+orientation coding. Using information theoretic analysis and population decoding 
+approaches, we find that orientation discriminability is luminance and contrast
+dependent, changing over time due to firing rate adaptation. We also show that
+orientation discrimination in human observers changes during adaptation, in a
+manner consistent with the neuronal data. Our results suggest that adaptation
+does not maintain information rates per se, but instead acts to keep sensory
+systems operating within the limited dynamic range afforded by spiking activity, 
+despite a wide range of possible inputs.
+
+DOI: 10.1038/s41467-019-08894-8 
+PMCID: PMC6391449
+PMID: 30808863  [Indexed for MEDLINE]
+

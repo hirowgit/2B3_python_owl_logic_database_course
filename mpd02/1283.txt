@@ -1,0 +1,29 @@
+
+
+1283. Brain Nerve. 2015 Feb;67(2):193-8. doi: 10.11477/mf.1416200111.
+
+[Morphological and functional diversity of retinal ganglion cells in the common
+marmoset].
+
+[Article in Japanese]
+
+Koizumi A(1).
+
+Author information: 
+(1)National Institutes of Natural Sciences.
+
+Retinal ganglion cells are projecting neurons that send visual information from
+the retina to the brain. They generate different patterns of action potentials in
+response to different kinds of visual information. In the retinas of mammals such
+as mice or rabbits, there are functionally and morphologically diverse retinal
+ganglion cells. However, in the primate retina, midget and parasol cells are
+believed to be dominant, and show less diversity. In this study, we performed
+organotypic culture of retinas and acute gene transfection of GFPs by gene-gun.
+We found more diverse retinal ganglion cells, including directional selective
+ganglion cells, than we expected, even in the retinas of primates such as common 
+marmosets. Further, we found a third pathway from the retina to the brain via the
+thalamus, in addition to the magnocellular and parvocellular pathways.
+
+DOI: 10.11477/mf.1416200111 
+PMID: 25681364  [Indexed for MEDLINE]
+

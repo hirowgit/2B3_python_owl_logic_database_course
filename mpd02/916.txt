@@ -1,0 +1,59 @@
+
+
+916. Drug Metab Dispos. 2017 May;45(5):457-467. doi: 10.1124/dmd.116.074898. Epub 2017
+Feb 14.
+
+Marmoset Cytochrome P450 3A4 Ortholog Expressed in Liver and Small-Intestine
+Tissues Efficiently Metabolizes Midazolam, Alprazolam, Nifedipine, and
+Testosterone.
+
+Uehara S(1), Uno Y(1), Nakanishi K(1), Ishii S(1), Inoue T(1), Sasaki E(1),
+Yamazaki H(2).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., K.N., S.I., H.Y.); Pharmacokinetics and 
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology (T.I.), and Center of
+Applied Developmental Biology (E.S.), Central Institute for Experimental Animals,
+Kawasaki, Japan; and Keio Advanced Research Center, Keio University, Minato-ku,
+Tokyo, Japan (E.S.).
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., K.N., S.I., H.Y.); Pharmacokinetics and 
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology (T.I.), and Center of
+Applied Developmental Biology (E.S.), Central Institute for Experimental Animals,
+Kawasaki, Japan; and Keio Advanced Research Center, Keio University, Minato-ku,
+Tokyo, Japan (E.S.) hyamazak@ac.shoyaku.ac.jp.
+
+Common marmosets (Callithrix jacchus), small New World primates, are increasingly
+attracting attention as potentially useful animal models for drug development.
+However, characterization of cytochrome P450 (P450) 3A enzymes involved in the
+metabolism of a wide variety of drugs has not investigated in marmosets. In this 
+study, sequence homology, tissue distribution, and enzymatic properties of
+marmoset P450 3A4 ortholog, 3A5 ortholog, and 3A90 were investigated. Marmoset
+P450 3A forms exhibited high amino acid sequence identities (88-90%) to the human
+and cynomolgus monkey P450 3A orthologs and evolutionary closeness to human and
+cynomolgus monkey P450 3A orthologs compared with other P450 3A enzymes. Among
+the five marmoset tissues examined, P450 3A4 ortholog mRNA was abundant in livers
+and small intestines where P450 3A4 ortholog proteins were immunologically
+detected. Three marmoset P450 3A proteins heterologously expressed in Escherichia
+coli membranes catalyzed midazolam 1'- and 4-hydroxylation, alprazolam
+4-hydroxylation, nifedipine oxidation, and testosterone 6β-hydroxylation, similar
+to cynomolgus monkey and human P450 3A enzymes. Among the marmoset P450 3A
+enzymes, P450 3A4 ortholog effectively catalyzed midazolam 1'-hydroxylation,
+comparable to microsomes from marmoset livers and small intestines. Correlation
+analyses with 23 individual marmoset liver microsomes suggested contributions of 
+P450 3A enzymes to 1'-hydroxylation of both midazolam (human P450 3A probe) and
+bufuralol (human P450 2D6 probe), similar to cynomolgus monkey P450 3A enzymes.
+These results indicated that marmoset P450 3A forms had functional
+characteristics roughly similar to cynomolgus monkeys and humans in terms of
+tissue expression patterns and catalytic activities, suggesting marmosets as
+suitable animal models for P450 3A-dependent drug metabolism.
+
+Copyright © 2017 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/dmd.116.074898 
+PMID: 28196829  [Indexed for MEDLINE]
+

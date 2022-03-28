@@ -1,0 +1,37 @@
+
+
+398. Vis Neurosci. 2019 Nov 13;36:E012. doi: 10.1017/S0952523819000099.
+
+Binocular summation in marmoset lateral geniculate nucleus.
+
+Belluccini E(1)(2)(3), Zeater N(1)(2)(3), Pietersen ANJ(1)(2)(3), Eiber
+CD(1)(2)(3), Martin PR(1)(2)(3).
+
+Author information: 
+(1)ARC Centre of Excellence for Integrative Brain Function, University of Sydney,
+Sydney 2000, Australia.
+(2)Save Sight Institute, University of Sydney, Sydney 2000, Australia.
+(3)School of Medical Sciences, University of Sydney, Sydney 2000, Australia.
+
+In primates and carnivores, the main laminae of the dorsal lateral geniculate
+nucleus (LGN) receive monocular excitatory input in an eye-alternating fashion.
+There is also evidence that nondominant eye stimulation can reduce responses to
+dominant eye stimulation and that a subset of LGN cells in the koniocellular (K) 
+layers receives convergent binocular excitatory input from both eyes. What is not
+known is how the two eye inputs summate in the K layers of LGN. Here, we aimed to
+answer this question by making extracellular array electrode recordings targeted 
+to K layers in the marmoset (Callithrix jacchus) LGN, as visual stimuli (flashed 
+200 ms temporal square-wave pulses or drifting gratings) were presented to each
+eye independently or to both eyes simultaneously. We found that when the flashed 
+stimulus was presented to both eyes, compared to the dominant eye, the peak
+firing rate of most cells (61%, 14/23) was reduced. The remainder showed response
+facilitation (17%) or partial summation (22%). A greater degree of facilitation
+was seen when the total number of spikes across the stimulus time window (200 ms)
+rather than peak firing rates was measured. A similar pattern of results was seen
+for contrast-varying gratings and for small numbers of parvocellular (n = 12) and
+magnocellular (n = 3) cells recorded. Our findings show that binocular summation 
+in the marmoset LGN is weak and predominantly sublinear in nature.
+
+DOI: 10.1017/S0952523819000099 
+PMID: 31718727  [Indexed for MEDLINE]
+

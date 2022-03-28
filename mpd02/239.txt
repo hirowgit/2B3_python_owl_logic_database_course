@@ -1,0 +1,41 @@
+
+
+239. Front Neurosci. 2020 Sep 24;14:548002. doi: 10.3389/fnins.2020.548002.
+eCollection 2020.
+
+Generation of Common Marmoset Model Lines of Spinocerebellar Ataxia Type 3.
+
+Tomioka I(1)(2), Nagai Y(3)(4), Seki K(2).
+
+Author information: 
+(1)Department of Biomedical Engineering, Shinshu University, Nagano, Japan.
+(2)Department of Neurophysiology, National Institute of Neuroscience, National
+Center of Neurology and Psychiatry, Tokyo, Japan.
+(3)Department of Neurotherapeutics, Osaka University, Graduate School of
+Medicine, Osaka, Japan.
+(4)Department of Degenerative Neurological Diseases, National Institute of
+Neuroscience, National Center of Neurology and Psychiatry, Tokyo, Japan.
+
+Animal models are indispensable tools in the development of innovative treatments
+for rare and incurable diseases. To date, there is almost no effective treatment 
+for neurodegenerative diseases, and animal models that properly simulate human
+disease pathologies are eagerly anticipated to identify disease biomarkers and
+develop therapeutic methods and agents. Among experimental animals, non-human
+primates are the most suitable animal models for the study of neurodegenerative
+diseases with human-specific higher brain dysfunction and late-onset and slowly
+progressing symptoms. With the rapid development of novel therapies such as
+oligonucleotide therapeutics and genome editing technologies, non-human primate
+models for neurodegenerative diseases will be essential for preclinical studies
+and active interventional trials. In a previous publication, we reported the
+generation of the first transgenic marmoset model of spinocerebellar ataxia type 
+3 and successful obtainment of subsequent generations with stable disease onset. 
+Moreover, we generated transgenic marmosets in which the transgene was controlled
+by the tetracycline-inducible gene expression system. In this mini-review, we
+summarize the research on our marmoset model of spinocerebellar ataxia type 3.
+
+Copyright © 2020 Tomioka, Nagai and Seki.
+
+DOI: 10.3389/fnins.2020.548002 
+PMCID: PMC7542094
+PMID: 33071733 
+

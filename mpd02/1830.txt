@@ -1,0 +1,33 @@
+
+
+1830. Mol Cell. 2011 Sep 16;43(6):982-92. doi: 10.1016/j.molcel.2011.07.025.
+
+A primate herpesvirus uses the integrator complex to generate viral microRNAs.
+
+Cazalla D(1), Xie M, Steitz JA.
+
+Author information: 
+(1)Department of Molecular Biophysics and Biochemistry, Boyer Center for
+Molecular Medicine, Yale University School of Medicine, 295 Congress Avenue, New 
+Haven, CT 06536, USA.
+
+Herpesvirus saimiri (HVS) is a γ-herpesvirus that expresses Sm class U RNAs
+(HSURs) in latently infected marmoset T cells. By deep sequencing, we identified 
+six HVS microRNAs (miRNAs) that are derived from three hairpin structures located
+immediately downstream of the 3' end processing signals of three of the HSURs.
+The viral miRNAs associate with Ago proteins and are biologically active. We
+confirmed that the expression of the two classes of viral noncoding RNAs is
+linked by identifying chimeric HSUR-pre-miRNA transcripts. We show that HVS miRNA
+biogenesis relies on cis-acting elements specifically required for synthesis and 
+processing of Sm class RNAs. Knockdown of protein components in vivo and
+processing assays in vitro demonstrated that HVS does not utilize the
+Microprocessor complex that generates most host miRNAs. Instead, the Integrator
+complex cleaves to generate the 3' end of the HSUR and the pre-miRNA hairpin.
+Exportin-5 and Dicer are then required to generate mature viral miRNAs.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.molcel.2011.07.025 
+PMCID: PMC3176678
+PMID: 21925386  [Indexed for MEDLINE]
+

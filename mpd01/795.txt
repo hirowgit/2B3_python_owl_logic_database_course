@@ -1,0 +1,94 @@
+
+
+795. J Comp Psychol. 2017 Nov;131(4):326-336. doi: 10.1037/com0000089. Epub 2017 Oct
+12.
+
+Common marmoset (Callithrix jacchus) personality.
+
+Koski SE(1), Buchanan-Smith HM(2), Ash H(2), Burkart JM(3), Bugnyar T(4), Weiss
+A(5).
+
+Author information: 
+(1)Centre of Excellence in Intersubjectivity in Interaction, Department of Social
+Sciences, University of Helsinki.
+(2)Faculty of Natural Sciences, Department of Psychology, University of Stirling.
+(3)Department of Anthropology, University of Zurich.
+(4)Department of Cognitive Biology, University of Vienna.
+(5)Department of Psychology, School of Philosophy, Psychology and Language
+Sciences, University of Edinburgh.
+
+Increasing evidence suggests that personality structure differs between species, 
+but the evolutionary reasons for this variation are not fully understood. We
+built on earlier research on New World monkeys to further elucidate the evolution
+of personality structure in primates. We therefore examined personality in 100
+family-reared adult common marmosets (Callithrix jacchus) from 3 colonies on a
+60-item questionnaire. Principal components analyses revealed 5 domains that were
+largely similar to those found in a previous study on captive, ex-pet, or
+formerly laboratory-housed marmosets that were housed in a sanctuary. The
+interrater reliabilities of domain scores were consistent with the interrater
+reliabilities of domain scores found in other species, including humans. Four
+domainsdmdash;conscientiousness, agreeableness, inquisitiveness, and
+assertiveness-resembled personality domains identified in other nonhuman
+primates. The remaining domain, patience, was specific to common marmosets. We
+used linear models to test for sex and age differences in the personality
+domains. Males were lower than females in patience, and this difference was
+smaller in older marmosets. Older marmosets were lower in inquisitiveness.
+Finally, older males and younger females had higher scores in agreeableness than 
+younger males and older females. These findings suggest that cooperative breeding
+may have promoted the evolution of social cognition and influenced the structure 
+of marmoset prosocial personality characteristics. (PsycINFO Database Record
+
+(c) 2017 APA, all rights reserved).
+
+DOI: 10.1037/com0000089 
+PMID: 29022726  [Indexed for MEDLINE]
+
+
+796. Nature. 2017 Oct 19;550(7676):411-414. doi: 10.1038/nature24055. Epub 2017 Oct
+11.
+
+Cryo-electron microscopy structure of the lysosomal calcium-permeable channel
+TRPML3.
+
+Hirschi M(1), Herzik MA Jr(2), Wie J(3), Suo Y(1), Borschel WF(1), Ren D(3),
+Lander GC(2), Lee SY(1).
+
+Author information: 
+(1)Department of Biochemistry, Duke University School of Medicine, Durham, North 
+Carolina 27710, USA.
+(2)Department of Integrative Structural and Computational Biology, The Scripps
+Research Institute, La Jolla, California 92037, USA.
+(3)Department of Biology, University of Pennsylvania, Philadelphia, Pennsylvania 
+19104, USA.
+
+The modulation of ion channel activity by lipids is increasingly recognized as a 
+fundamental component of cellular signalling. The transient receptor potential
+mucolipin (TRPML) channel family belongs to the TRP superfamily and is composed
+of three members: TRPML1-TRPML3. TRPMLs are the major Ca2+-permeable channels on 
+late endosomes and lysosomes (LEL). They regulate the release of Ca2+ from
+organelles, which is important for various physiological processes, including
+organelle trafficking and fusion. Loss-of-function mutations in the MCOLN1 gene, 
+which encodes TRPML1, cause the neurodegenerative lysosomal storage disorder
+mucolipidosis type IV, and a gain-of-function mutation (Ala419Pro) in TRPML3
+gives rise to the varitint-waddler (Va) mouse phenotype. Notably, TRPML channels 
+are activated by the low-abundance and LEL-enriched signalling lipid
+phosphatidylinositol-3,5-bisphosphate (PtdIns(3,5)P2), whereas other
+phosphoinositides such as PtdIns(4,5)P2, which is enriched in plasma membranes,
+inhibit TRPMLs. Conserved basic residues at the N terminus of the channel are
+important for activation by PtdIns(3,5)P2 and inhibition by PtdIns(4,5)P2.
+However, owing to a lack of structural information, the mechanism by which TRPML 
+channels recognize PtdIns(3,5)P2 and increase their Ca2+ conductance remains
+unclear. Here we present the cryo-electron microscopy (cryo-EM) structure of a
+full-length TRPML3 channel from the common marmoset (Callithrix jacchus) at an
+overall resolution of 2.9 Å. Our structure reveals not only the molecular basis
+of ion conduction but also the unique architecture of TRPMLs, wherein the voltage
+sensor-like domain is linked to the pore via a cytosolic domain that we term the 
+mucolipin domain. Combined with functional studies, these data suggest that the
+mucolipin domain is responsible for PtdIns(3,5)P2 binding and subsequent channel 
+activation, and that it acts as a 'gating pulley' for lipid-dependent TRPML
+gating.
+
+DOI: 10.1038/nature24055 
+PMCID: PMC5762132
+PMID: 29019979  [Indexed for MEDLINE]
+

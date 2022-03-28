@@ -1,0 +1,34 @@
+
+
+2081. Anim Behav. 2009 Nov;78(5):1195-1203.
+
+Motor planning for vocal production in common marmosets.
+
+Miller CT(1), Eliades SJ, Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University, School of Medicine.
+
+The vocal motor plan is one of the most fundamental and poorly understood
+elements of primate vocal production. Here we tested whether a single vocal motor
+plan comprises the full length of a vocalization. We hypothesized that if a
+single motor plan was determined at vocal onset, the acoustic features early in
+the call should be predictive of the subsequent call structure. Analyses were
+performed on two classes of features in marmoset phee calls: continuous and
+discrete. We first generated correlation matrices of all the continuous features 
+of phee calls. Results showed that the start frequency of a phee's first pulse
+significantly correlated with all subsequent spectral features. Moreover,
+significant correlations were evident within the spectral features as well as
+within the temporal features, but there was little relationship between these
+measures. Using a discrete feature, 'the number of pulses in the phee call', a
+discriminant function was able to correctly classify the number of pulses in the 
+calls well above chance based solely on the acoustic structure of the call's
+first pulse. Together, these data suggest that a vocal motor plan for the
+complete call structure is established at call onset. These findings provide a
+key insight into the mechanisms underlying vocal production in nonhuman primates.
+
+DOI: 10.1016/j.anbehav.2009.07.038 
+PMCID: PMC3755634
+PMID: 23997242 
+

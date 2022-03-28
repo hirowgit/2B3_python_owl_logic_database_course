@@ -1,0 +1,99 @@
+
+
+2564. Neuropharmacology. 2006 Jun;50(8):975-83. Epub 2006 Mar 31.
+
+Characterisation of the selective 5-HT1B receptor antagonist SB-616234-A
+(1-[6-(cis-3,5-dimethylpiperazin-1-yl)-2,3-dihydro-5-methoxyindol-1-yl]-1-[2'-met
+hyl-4'-(5-methyl-1,2,4-oxadiazol-3-yl)biphenyl-4-yl]methanone hydrochloride): in 
+vivo neurochemical and behavioural evidence of anxiolytic/antidepressant
+activity.
+
+Dawson LA(1), Hughes ZA, Starr KR, Storey JD, Bettelini L, Bacchi F, Arban R,
+Poffe A, Melotto S, Hagan JJ, Price GW.
+
+Author information: 
+(1)Psychiatry Centre of Excellence for Drug Discovery, GlaxoSmithKline, New
+Frontiers Science Park (North), 3rd Avenue, Harlow, Essex CM19 5AW, UK.
+lee.a.dawson@gsk.com
+
+The 5-HT1B receptor has attracted significant interest as a potential target for 
+the development of therapeutics for the treatment of affective disorders such as 
+anxiety and depression. Here we present the in vivo characterisation of a novel, 
+selective and orally bioavailable 5-HT1B receptor antagonist, SB-616234-A
+(1-[6-(cis-3,5-dimethylpiperazin-1-yl)-2,3-dihydro-5-methoxyindol-1-yl]-1-[2'-met
+hyl-4'-(5-methyl-1,2,4-oxadiazol-3-yl)biphenyl-4-yl]methanone hydrochloride).
+SB-616234-A reversed the 5-HT1/7 receptor agonist, SKF-99101H-induced hypothermia
+in guinea pigs in a dose related manner with an ED50 of 2.4 mg/kg p.o. Using in
+vivo microdialysis in freely moving guinea pigs, SB-616234-A (3-30 mg/kg p.o.)
+caused a dose-related increase in extracellular 5-HT in the dentate gyrus.
+Evaluation of antidepressant- and anxiolytic-like effects of this 5-HT1B receptor
+antagonist was performed in a variety of models and species. SB-616234-A produced
+a decrease in immobility time in the mouse forced swim test; an effect suggestive
+of antidepressant activity. Furthermore, SB-616234-A produced dose-related
+anxiolytic effects in both rat and guinea pig maternal separation-induced
+vocalisation models with an ED50 of 1.0 and 3.3 mg/kg i.p., respectively (vs
+fluoxetine treatment ED50 = 2.2 mg/kg i.p. in both species). Also a significant
+reduction in posturing behaviours was observed in the human threat test in
+marmosets; an effect indicative of anxiolytic activity. In summary, SB-616234-A
+is a novel, potent and orally bioavailable 5-HT1B receptor antagonist which
+exhibits a neurochemical and behavioural profile that is consistent with both
+anxiolytic- and antidepressant-like activity in a variety of species. Taken
+together these data suggest that SB-616234-A may have therapeutic efficacy in the
+treatment of affective disorders.
+
+DOI: 10.1016/j.neuropharm.2006.01.010 
+PMID: 16581092  [Indexed for MEDLINE]
+
+
+2565. Eur J Pharmacol. 2006 Apr 24;536(1-2):54-61. Epub 2006 Feb 28.
+
+SB-649915, a novel, potent 5-HT1A and 5-HT1B autoreceptor antagonist and 5-HT
+re-uptake inhibitor in native tissue.
+
+Scott C(1), Soffin EM, Hill M, Atkinson PJ, Langmead CJ, Wren PB, Faedo S, Gordon
+LJ, Price GW, Bromidge S, Johnson CN, Hagan JJ, Watson J.
+
+Author information: 
+(1)Psychiatry and Neurology and GI Centres of Excellence for Drug Discovery,
+GlaxoSmithKline, New Frontiers Science Park, Third Avenue, Harlow, Essex, CM19
+5AW and Via Fleming 4, Verona, Italy.
+
+An increase in brain 5-HT levels is thought to be the key mechanism of action
+which results in an antidepressant response. It has been proven that selective
+serotonin re-uptake inhibitors are effective antidepressants but the delay to
+therapeutic onset of these agents is thought to be due to the time required for
+5-HT1A, and possibly 5-HT1B, autoreceptor desensitisation. Therefore an agent
+incorporating 5-HT re-uptake inhibition coupled with 5-HT1A and/or 5-HT1B
+autoreceptor antagonism may provide a fast acting clinical agent. The current
+studies describe the in vitro profile of SB-649915
+(6-[(1-{2-[(2-methylquinolin-5-yl)oxy]ethyl}piperidin-4-yl)methyl]-2H-1,4-benzoxa
+zin-3(4H)-one), a novel compound which has high affinity for human recombinant
+5-HT1A, 5-HT1B and 5-HT1D receptors (pKi values of 8.6, 8.0, 8.8, respectively)
+and the human recombinant 5-HT transporter (pKi value of 9.3). SB-649915 also
+displays high affinity for rat, guinea pig, mouse and marmoset native tissue
+5-HT1A, 5-HT1B and 5-HT1D receptors and rat native tissue 5-HT transporters (pKi 
+values>or=7.5). In functional [35S]GTPgammaS binding studies, SB-649915 (up to 1 
+microM) does not display intrinsic activity in HEK293 cells expressing human
+recombinant 5-HT1A receptors but acts as a partial agonist at human recombinant
+5-HT1B and 5-HT1D receptors with intrinsic activity values of 0.3 and 0.7,
+respectively, as compared to the full agonist 5-HT. From Schild analysis,
+SB-649915 caused a concentration-dependent, rightward shift of 5-HT-induced
+stimulation of basal [35S]GTPgammaS binding in cells expressing human recombinant
+5-HT1A or 5-HT1B receptors to yield pA2 values of 9.0 and 7.9, respectively. In
+electrophysiological studies in rat dorsal raphe nucleus, SB-649915 did not
+affect the cell firing rate up to 1 microM but attenuated
+(+)8-hydroxy-2-(di-n-propylamino) tetralin-induced inhibition of cell firing with
+an apparent pKb value of 9.5. SB-649915 (1 microM) significantly attenuated
+exogenous 5-HT-induced inhibition of electrically-stimulated [3H]5-HT release
+from guinea pig cortex. In studies designed to enhance endogenous 5-HT levels,
+and therefore increase tone at 5-HT1B autoreceptors, SB-649915 significantly
+potentiated [3H]5-HT release at 100 and 1000 nM. In LLCPK cells expressing human 
+recombinant 5-HT transporters and in rat cortical synaptosomes, SB-649915
+inhibited [3H]5-HT re-uptake with pIC50 values of 7.9 and 9.7, respectively. In
+summary, SB-649915 is a novel, potent 5-HT1A/1B autoreceptor antagonist and 5-HT 
+re-uptake inhibitor in native tissue systems and represents a novel mechanism
+that could offer fast acting antidepressant action.
+
+DOI: 10.1016/j.ejphar.2006.02.042 
+PMID: 16571351  [Indexed for MEDLINE]
+

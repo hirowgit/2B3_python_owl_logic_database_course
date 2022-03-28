@@ -1,0 +1,79 @@
+
+
+2057. Mov Disord. 2010 Feb 15;25(3):377-84. doi: 10.1002/mds.22960.
+
+Pramipexole combined with levodopa improves motor function but reduces dyskinesia
+in MPTP-treated common marmosets.
+
+Tayarani-Binazir KA(1), Jackson MJ, Rose S, Olanow CW, Jenner P.
+
+Author information: 
+(1)Neurodegenerative Diseases Research Centre, School of Health and Biomedical
+Sciences, King's College London, London, United Kingdom.
+
+Reduced expression of dyskinesia is observed in levodopa-primed MPTP-treated
+common marmosets when dopamine agonists are used to replace levodopa. We now
+investigate whether a combination of the D-2/D-3 agonist pramipexole and levodopa
+also reduces dyskinesia intensity while maintaining the reversal of motor
+disability. Drug naïve, non-dyskinetic MPTP-treated common marmosets were treated
+daily for up to 62 days with levodopa (12.5 mg/kg plus carbidopa 12.5 mg/kg p.o. 
+BID) or pramipexole (0.04-0.3 mg/kg BID) producing equivalent reversal of motor
+disability and increases in locomotor activity. Levodopa alone resulted in marked
+dyskinesia induction but little or no dyskinesia resulted from the administration
+of pramipexole. From day 36, some animals were treated with a combination of
+levodopa (3.125-6.25 mg/kg plus carbidopa 12.5 mg/kg p.o. BID) and pramipexole
+(0.1-0.2 mg/kg p.o. SID). This improved motor disability to a greater extent than
+occurred with levodopa alone. Importantly, while dyskinesia was greater than that
+produced by pramipexole alone, the combination resulted in less intense
+dyskinesia than produced by levodopa alone. These results suggest that
+pramipexole could be administered with a reduced dose of levodopa to minimize
+dyskinesia in Parkinson's disease while maintaining therapeutic efficacy.
+
+(c) 2010 Movement Disorder Society.
+
+DOI: 10.1002/mds.22960 
+PMID: 20108359  [Indexed for MEDLINE]
+
+
+2058. J Pharmacol Toxicol Methods. 2010 May-Jun;61(3):271-6. doi:
+10.1016/j.vascn.2010.01.006. Epub 2010 Jan 25.
+
+Sensitivity of common marmosets to detect drug-induced QT interval prolongation: 
+moxifloxacin case study.
+
+Komatsu R(1), Honda M, Holzgrefe HH, Kubo J, Yamada Y, Isobe T, Kimura K, Itoh T,
+Tamaoki N, Tabo M.
+
+Author information: 
+(1)Fuji Gotemba Laboratory, Chugai Pharmaceutical Co., Ltd., Shizuoka 412-8513,
+Japan.
+
+INTRODUCTION: Moxifloxacin is the most widely used positive reference agent in
+clinical cardiac repolarization studies, but it has not been characterized in
+common marmosets which are uniquely suited to studies in early-stage development 
+due to their small size and minimal test article requirements. The purpose of
+this study was to evaluate the sensitivity of the common marmoset to detect
+moxifloxacin-associated QT interval prolongation.
+METHODS: Eight telemetered common marmosets were monitored for 24 h following
+oral administration of moxifloxacin by gavage at 0, 10, 30, and 100 mg/kg using a
+Latin square design. Concurrently, a pharmacokinetic evaluation in 8
+non-telemetered animals was conducted. A rate-corrected QT (QTc) interval was
+derived using an individual probabilistic QT rate-correction. QTc
+(placebo-adjusted QTc change from the individual baseline) was calculated and the
+relationship between pharmacokinetics (PK) and pharmacodynamics (PD) was
+analyzed.
+RESULTS: A slight, but not significant, increase in QTc was detected with 10
+mg/kg of moxifloxacin. Moxifloxacin at 30 and 100 mg/kg elicited dose-dependent
+increases in QTc of 14.0+/-3.6 and 35.0+/-6.2 ms, respectively, with associated
+total moxifloxacin C(max) values of 6.5+/-0.5 and 16.5+/-1.6 microg/mL,
+respectively. From the PK/PD relationship, the plasma concentration which would
+attain QTc of 5 to 10 ms was estimated to be 1.67-3.73 microg/mL. The results
+were consistent with typical clinical trial results (QTc of 6.6-14.8 ms at
+2.5-3.5 microg/mL).
+CONCLUSIONS: The present study demonstrates that the common marmoset is highly
+sensitive to moxifloxacin-associated changes in cardiac repolarization, assessed 
+as QTc. As such, this species is suitable for precise and reliable detection of
+small, but significant, drug-associated increases in QTc interval. Thus, the
+common marmoset should be regarded as a validated animal model for the detection 
+of QT risk in early-stage drug development and represents an important addition
+to the current in vivo armamentarium.

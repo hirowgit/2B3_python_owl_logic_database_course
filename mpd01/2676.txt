@@ -1,0 +1,85 @@
+
+
+2676. J Comp Neurol. 2005 Jul 25;488(2):113-28.
+
+Localization of glycine receptor alpha subunits on bipolar and amacrine cells in 
+primate retina.
+
+Jusuf PR(1), Haverkamp S, Grünert U.
+
+Author information: 
+(1)The National Vision Research Institute of Australia, Carlton, Victoria 3053,
+Australia.
+
+The major inhibitory neurotransmitter glycine is used by about half of the
+amacrine cells in the retina. Amacrine cells provide synaptic output to bipolar, 
+ganglion, and other amacrine cells. The present study investigated whether
+different bipolar and amacrine cell types in the primate retina differ with
+respect to the expression of glycine receptor (GlyR) subtypes. Antibodies
+specific for the alpha1, alpha2, and alpha3 subunits of the GlyR were combined
+with immunohistochemical markers for bipolar and amacrine cells and applied to
+vertical sections of macaque (Macaca fascicularis) and marmoset (Callithrix
+jacchus) retinae. For all subunits, punctate immunoreactivity was expressed in
+the inner plexiform layer. The GlyRalpha2 immunoreactive (IR) puncta occur at the
+highest density, followed by GlyR(alpha)3 and GlyR(alpha)1 IR puncta.
+Postembedding electron microscopy showed the postsynaptic location of all
+subunits. Double immunofluorescence demonstrated that the three alpha subunits
+are clustered at different postsynaptic sites. Two OFF cone bipolar cell types
+(flat midget and diffuse bipolar DB3), are predominantly associated with the
+alpha1 subunit. Two ON bipolar cell types, the DB6 and the rod bipolar cell, are 
+predominantly associated with the alpha2 subunit. The glycinergic AII amacrine
+cell is presynaptic to the alpha1 subunit in the OFF-sublamina, and postsynaptic 
+to the alpha2 subunit in the ON-sublamina. Another putative glycinergic cell, the
+vesicular glutamate transporter 3 cell, is predominantly presynaptic to the
+alpha2 subunit. The dopaminergic amacrine cell expresses the alpha3 subunit at a 
+low density.
+
+(c) 2005 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.20555 
+PMID: 15924342  [Indexed for MEDLINE]
+
+
+2677. Haematologica. 2005 May;90(5):625-34.
+
+Anti-Gal-mediated targeting of human B lymphoma cells to antigen-presenting
+cells: a potential method for immunotherapy using autologous tumor cells.
+
+Manches O(1), Plumas J, Lui G, Chaperot L, Molens JP, Sotto JJ, Bensa JC, Galili 
+U.
+
+Author information: 
+(1)Research and Development Laboratory, EFS Rhône-Alpes, Grenoble, EA 2021,
+France.
+
+BACKGROUND AND OBJECTIVES: The residual tumor cells remaining after completion of
+standard chemotherapy and radiation treatment in B lymphoma patients, may be
+eradicated by active immunotherapy that stimulates tumor-specific T lymphocytes. 
+Irradiated autologous lymphoma cells expressing tumor-associated antigens (TAA)
+may serve as a potential tumor vaccine, provided that they are effectively
+targeted to the antigen-presenting cells (APC). We propose exploiting the natural
+anti-Gal antibody in order to target vaccinating tumor cells to APC. Anti-Gal
+constitutes 1% of IgG in human serum and interacts specifically with the
+alpha-gal epitope (Galalpha1-3Galphalbeta1-4GlcNAc-R).
+DESIGN AND METHODS: Alpha-gal epitopes were synthesized in vitro on the membrane 
+of primary lymphoma cells by using the recombinant glycosylation enzyme
+alpha1,3galactosyltransferase (alpha1,3GT). Processed tumor cells were opsonized 
+by purified anti-Gal antibodies and studied for uptake (phagocytosis) by APC
+including monocyte-derived macrophages and dendritic cells. Cross-presentation of
+tumor antigens after phagocytosis of processed MHC-I negative lymphoma cells was 
+measured by activation of a tumor-specific CD8+ T-cell line.
+RESULTS: We demonstrate synthesis of alpha-gal epitopes on freshly isolated B
+lymphoma cells of various types following the use of the recombinant enzyme
+alpha1,3GT. The subsequent binding of anti-Gal to the de novo synthesized
+alphagal epitopes opsonizes these tumor cells for effective uptake by macrophages
+and dendritic cells, through phagocytosis mediated by FcgammaR1 (CD64). Moreover,
+anti-Gal-mediated phagocytosis resulted in cross-presentation of TAA by dendritic
+cells.
+INTERPRETATION AND CONCLUSIONS: This study suggests that immunization with
+irradiated autologous lymphoma cells processed to express alpha-gal epitopes will
+result in anti-Gal-mediated, in vivo targeting of the autologous tumor vaccine to
+APC.
+
+
+PMID: 15921377  [Indexed for MEDLINE]
+

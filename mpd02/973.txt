@@ -1,0 +1,43 @@
+
+
+973. Dev Neurobiol. 2017 Mar;77(3):354-372. doi: 10.1002/dneu.22459. Epub 2016 Oct 26.
+
+Application of viral vectors to the study of neural connectivities and neural
+circuits in the marmoset brain.
+
+Watakabe A(1), Sadakane O(1), Hata K(1), Ohtsuka M(1), Takaji M(1), Yamamori
+T(1).
+
+Author information: 
+(1)Laboratory for Molecular Analysis of Higher Brain Function, Brain Science
+Institute, RIKEN, 2-1 Hirosawa, Wako, Saitama, 351-0198, Japan.
+
+It is important to study the neural connectivities and functions in primates. For
+this purpose, it is critical to be able to transfer genes to certain neurons in
+the primate brain so that we can image the neuronal signals and analyze the
+function of the transferred gene. Toward this end, our team has been developing
+gene transfer systems using viral vectors. In this review, we summarize our
+current achievements as follows. 1) We compared the features of gene transfer
+using five different AAV serotypes in combination with three different promoters,
+namely, CMV, mouse CaMKII (CaMKII), and human synapsin 1 (hSyn1), in the marmoset
+cortex with those in the mouse and macaque cortices. 2) We used target-specific
+double-infection techniques in combination with TET-ON and TET-OFF using
+lentiviral retrograde vectors for enhanced visualization of neural connections.
+3) We used an AAV-mediated gene transfer method to study the transcriptional
+control for amplifying fluorescent signals using the TET/TRE system in the
+primate neocortex. We also established systems for shRNA mediated gene targeting 
+in a neocortical region where a gene is significantly expressed and for
+expressing the gene using the CMV promoter for an unexpressed neocortical area in
+the primate cortex using AAV vectors to understand the regulation of downstream
+genes. Our findings have demonstrated the feasibility of using viral vector
+mediated gene transfer systems for the study of primate cortical circuits using
+the marmoset as an animal model. © 2016 Wiley Periodicals, Inc. Develop Neurobiol
+77: 354-372, 2017.
+
+© 2016 The Authors. Developmental Neurobiology Published by Wiley Periodicals,
+Inc.
+
+DOI: 10.1002/dneu.22459 
+PMCID: PMC5324647
+PMID: 27706918  [Indexed for MEDLINE]
+

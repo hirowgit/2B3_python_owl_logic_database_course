@@ -1,0 +1,84 @@
+
+
+751. Cereb Cortex. 2019 Feb 1;29(2):615-626. doi: 10.1093/cercor/bhx344.
+
+Correlated Variability in the Neurons With the Strongest Tuning Improves
+Direction Coding.
+
+Zavitz E(1)(2)(3), Yu HH(1)(2)(3), Rosa MGP(1)(2)(3), Price NSC(1)(2)(3).
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, Victoria, Australia.
+(2)Biomedicine Discovery Institute, Monash University, Clayton, Victoria,
+Australia.
+(3)Australian Research Council Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, VIC, Australia.
+
+Sensory perception depends on neuronal populations creating an accurate
+representation of the external world. The amount of information that a population
+can represent depends on the tuning of individual neurons and the trial-by-trial 
+variability shared among neurons. Although on average, pairwise spike-count
+correlations between neurons are positive, the distribution is wide, and the
+relationship between correlations and encoding is not straightforward. Here, we
+examine how single-neuron and population-level factors impact the efficacy of the
+neural code. We recorded responses to moving visual stimuli from motion-sensitive
+neurons in the middle temporal area of anesthetized marmosets (Callithrix
+jacchus) and trained decoders to assess how correlated and uncorrelated
+populations encoded stimulus motion direction. We found that the most responsive,
+direction-selective, and least variable neurons are the most relied-upon neurons 
+in an uncorrelated population. In correlated populations, the same neurons do the
+most to shape the shared variability across the population in a way that
+facilitates decoding, and decoding is improved by the presence of temporally
+stable correlations. This suggests that the least variable neurons with the
+strongest stimulus representations enhance the population code by providing a
+strong signal and shaping correlations in variability orthogonally to the locus
+defined by the mean response.
+
+DOI: 10.1093/cercor/bhx344 
+PMID: 29300838  [Indexed for MEDLINE]
+
+
+752. Int J Syst Evol Microbiol. 2018 Feb;68(2):575-581. doi: 10.1099/ijsem.0.002545.
+Epub 2018 Jan 4.
+
+Bifidobacterium catulorum sp. nov., a novel taxon from the faeces of the baby
+common marmoset (Callithrix jacchus).
+
+Modesto M(1), Michelini S(1)(2), Oki K(3), Biavati B(4), Watanabe K(5)(6),
+Mattarelli P(1).
+
+Author information: 
+(1)Department of Agricultural Sciences, University of Bologna, Italy.
+(2)The Microsoft Research - University of Trento Centre for Computational and
+Systems Biology, Piazza della Manifattura 1, 38068 Rovereto, TN, Italy.
+(3)Yakult Honsha European Research Center for Microbiology ESV, Technologiepark
+4, 9052 Zwijnaarde, Belgium.
+(4)Division of Rural Sciences and Food Systems, Institute of Earth Systems,
+University of Malta, Msida, Malta.
+(5)Department of Animal Science and Technology, National Taiwan University,
+Taipei, Taiwan, ROC.
+(6)Bioresource Collection and Research Center, Food Industry Research and
+Development Institute, Hsinchu, Taiwan, ROC.
+
+In our previous study based on hsp60 PCR-restriction fragment length polymorphism
+and 16S rRNA gene sequencing, we stated that the bifidobacterial strains isolated
+from the individual faecal samples of five baby common marmosets constituted
+different phylogenetically isolated groups of the genus Bifidobacterium. In that 
+study, we also proposed that these isolated groups potentially represented novel 
+species of the genus Bifidobacterium. Out of them, Bifidobacterium aesculapii,
+Bifidobacterium myosotis, Bifidobacterium tissieri and Bifidobacterium hapali,
+have been described recently. Another strain, designated MRM 8.19T, has been
+classified as member of the genus Bifidobacterium on the basis of positive
+results for fructose-6-phosphate phosphoketolase activity and analysis of partial
+16S rRNA, hsp60, clpC, dnaJ, dnaG and rpoB gene sequences. Analysis of 16S rRNA
+and hsp60 gene sequences revealed that strain MRM 8.19T was related to B.
+tissieri DSM 100201T (95.8 %) and to Bifidobacterium bifidum ATCC 29521T
+(93.7 %), respectively. The DNA G+C composition was 63.7 mol% and the
+peptidoglycan structure was l-Orn(Lys)-l-Ser. Based on the phylogenetic,
+genotypic and phenotypic data reported, strain MRM 8.19T represents a novel taxon
+within the genus Bifidobacterium for which the name Bifidobacterium catulorum sp.
+nov. (type strain MRM 8.19T=DSM 103154T=JCM 31794T) is proposed.
+
+DOI: 10.1099/ijsem.0.002545 
+PMID: 29300153  [Indexed for MEDLINE]
+

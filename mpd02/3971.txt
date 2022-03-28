@@ -1,0 +1,42 @@
+
+
+3971. J Virol. 1994 Nov;68(11):7497-506.
+
+Crucial sequences within the Epstein-Barr virus TP1 promoter for EBNA2-mediated
+transactivation and interaction of EBNA2 with its responsive element.
+
+Meitinger C(1), Strobl LJ, Marschall G, Bornkamm GW, Zimber-Strobl U.
+
+Author information: 
+(1)Institut für Klinische Molekularbiologie und Tumorgenetik im Forschungszentrum
+für Umwelt und Gesundheit, GSF, Munich, Germany.
+
+EBNA2 is one of the few genes of Epstein-Barr virus which are necessary for
+immortalization of human primary B lymphocytes. The EBNA2 protein acts as a
+transcriptional activator of several viral and cellular genes. For the TP1
+promoter, we have shown previously that an EBNA2-responsive element (EBNA2RE)
+between -258 and -177 relative to the TP1 RNA start site is necessary and
+sufficient for EBNA2-mediated transactivation and that it binds EBNA2 through a
+cellular factor. To define the critical cis elements within this region, we
+cloned EBNA2RE mutants in front of the TP1 minimal promoter fused to the reporter
+gene for luciferase. Transactivation by EBNA2 was tested by transfection of these
+mutants in the absence and presence of an EBNA2 expression vector into the
+established B-cell line BL41-P3HR-1. The analysis revealed that two identical
+11-bp motifs and the region 3' of the second 11-bp motif are essential for
+transactivation by EBNA2. Methylation interference experiments indicated that the
+same cellular factor in the absence of EBNA2 binds either one (complex I) or both
+(complex III) 11-bp motifs with different affinities, giving rise to two
+different specific protein-DNA complexes within the left-hand 54 bp of EBNA2RE. A
+third specific complex was shown previously to be present only in
+EBNA2-expressing cells and to contain EBNA2. Analysis of this EBNA2-containing
+complex revealed the same protection pattern as for complex III, indicating that 
+EBNA2 interacts with DNA through binding of the cellular protein to the 11-bp
+motifs. Mobility shift assays with the different mutants demonstrated that one
+11-bp motif is sufficient for binding the cellular factor, whereas for binding of
+EBNA2 as well as for efficient transactivation by EBNA2, both 11-bp motifs are
+required.
+
+DOI: 10.1128/JVI.68.11.7497-7506.1994 
+PMCID: PMC237192
+PMID: 7933133  [Indexed for MEDLINE]
+

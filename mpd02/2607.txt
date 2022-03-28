@@ -1,0 +1,36 @@
+
+
+2607. J Comp Neurol. 2006 Jan 10;494(2):260-74.
+
+Synaptic connectivity in the midget-parvocellular pathway of primate central
+retina.
+
+Jusuf PR(1), Martin PR, Grünert U.
+
+Author information: 
+(1)The National Vision Research Institute of Australia, Carlton, Victoria 3053.
+
+The synaptic connectivity of OFF midget bipolar cells was investigated in the
+central retina of two primate species, the New World common marmoset monkey,
+Callithrix jacchus, and the Old World macaque monkey, Macaca fascicularis. In
+marmosets, dichromatic and trichromatic animals were compared. Bipolar output
+synapses were identified with antibodies against ribbon proteins (kinesin,
+C-terminal binding protein 2) or with an antiserum that recognizes postsynaptic
+glutamate receptor clusters (GluR4). The midget bipolar cells were identified
+immunocytochemically with antibodies to CD15 (marmoset) or an antiserum to
+recoverin (macaque). In marmosets, midget ganglion cells were retrogradely
+labeled from the parvocellular layers of the dorsal lateral geniculate nucleus.
+Consistent with previous studies of Old World primates, in marmoset, midget
+bipolar cells contacted midget ganglion cells at a ratio of 1:1. The number of
+output synapses made by OFF midget bipolar cells was quantified for 104 cells in 
+two dichromatic marmosets, 108 cells in one trichromatic marmoset, and 118 cells 
+in one macaque. The number of output synapses was comparable for all animals,
+ranging from 10-71 in the dichromatic marmoset (average 29.7 +/- 12.4 SD), 12-86 
+in the trichromatic marmoset (average 28.6 +/- 11.7 SD) and 9-48 in the macaque
+(average 26.5 +/- 9.3 SD) per axon terminal. In all animals the number of output 
+synapses per axon terminal showed a unimodal distribution. Our results suggest
+that the midget circuitry is comparable in dichromatic and trichromatic animals.
+
+DOI: 10.1002/cne.20804 
+PMID: 16320234  [Indexed for MEDLINE]
+

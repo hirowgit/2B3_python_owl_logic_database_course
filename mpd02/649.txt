@@ -1,0 +1,47 @@
+
+
+649. J Med Primatol. 2018 Dec;47(6):402-411. doi: 10.1111/jmp.12375. Epub 2018 Sep 6.
+
+Development and analytical validation of a radioimmunoassay for the
+quantification of alpha1 -proteinase inhibitor in serum and feces from the common
+marmoset (Callithrix jacchus).
+
+Parambeth JC(1), Lidbury JA(1), Suchodolski JS(1), Steiner JM(1).
+
+Author information: 
+(1)Gastrointestinal Laboratory, Department of Small Animal Clinical Sciences,
+College of Veterinary and Biomedical Sciences, Texas A&M University, College
+Station, Texas.
+
+BACKGROUND: The objective of this study was to develop and analytically validate 
+a radioimmunoassay (RIA) for the measurement of alpha1 -proteinase inhibitor (α1 
+-PI) concentrations in serum and feces from the common marmoset.
+METHODS: Serum samples (n = 30) and 3-day fecal samples (n = 30) were obtained
+from healthy marmosets. An RIA was established and validated by determination of 
+sensitivity, working range, dilutional parallelism, spiking recovery, and intra- 
+and interassay variability. A reference interval for mα1 -PI in serum and feces
+was established.
+RESULTS: Sensitivity and upper limit of the working range were 0.75 and
+100.62 μg/L, respectively. Observed-to-expected (O/E) ratios for serial dilutions
+ranged from 89.9% to 123.0% (mean ±SD: 106.0 ± 11.5%) for 8 serum samples, and
+from 90.6% to 132.7% (mean ±SD: 107.6 ± 19.2%) for 4 fecal samples. O/E ratios
+for spiking recovery ranged from 97.6% to 104.4% (mean ±SD: 101.3 ± 3%) for 4
+serum samples, and from 97.5% to 101.4% (mean ±SD: 99.2 ± 1.8%) for 4 fecal
+samples and 3 different spiking concentrations. Coefficients of variation (CV)
+for intra-assay variability for 8 serum samples ranged from 1.7% to 10.6% and
+2.2% to 5.1% in the 8 fecal samples. The interassay CV for eight serum samples
+ranged from 1.3% to 9.9%, and from 1.0% to 6.7% in the 8 fecal samples. The
+reference interval in serum was determined to be 1047-1484 μg/L. The reference
+interval in serum was determined to be 1047-1484 μg/L. The reference interval for
+the 3-day mean fecal concentration, and 3-day maximum fecal concentration were
+determined to be 32.4-124.4 μg/g and 39.1-158.7 μg/g of feces, respectively.
+CONCLUSION: The developed assay is sensitive, linear, accurate, precise, and
+reproducible. Further studies are needed to determine the clinical utility of
+this assay.
+
+© 2018 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jmp.12375 
+PMCID: PMC6234082
+PMID: 30187920  [Indexed for MEDLINE]
+

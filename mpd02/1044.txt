@@ -1,0 +1,41 @@
+
+
+1044. J Neurophysiol. 2016 Aug 1;116(2):753-64. doi: 10.1152/jn.00136.2016. Epub 2016
+Jun 1.
+
+Arousal dynamics drive vocal production in marmoset monkeys.
+
+Borjon JI(1), Takahashi DY(1), Cervantes DC(1), Ghazanfar AA(2).
+
+Author information: 
+(1)Princeton Neuroscience Institute and Department of Psychology, Princeton
+University, Princeton New Jersey.
+(2)Princeton Neuroscience Institute and Department of Psychology, Princeton
+University, Princeton New Jersey asifg@princeton.edu.
+
+Vocal production is the result of interacting cognitive and autonomic processes. 
+Despite claims that changes in one interoceptive state (arousal) govern primate
+vocalizations, we know very little about how it influences their likelihood and
+timing. In this study we investigated the role of arousal during naturally
+occurring vocal production in marmoset monkeys. Throughout each session,
+naturally occurring contact calls are produced more quickly, and with greater
+probability, during higher levels of arousal, as measured by heart rate. On
+average, we observed a steady increase in heart rate 23 s before the production
+of a call. Following call production, there is a sharp and steep cardiac
+deceleration lasting ∼8 s. The dynamics of cardiac fluctuations around a
+vocalization cannot be completely predicted by the animal's respiration or
+movement. Moreover, the timing of vocal production was tightly correlated to the 
+phase of a 0.1-Hz autonomic nervous system rhythm known as the Mayer wave.
+Finally, a compilation of the state space of arousal dynamics during vocalization
+illustrated that perturbations to the resting state space increase the likelihood
+of a call occurring. Together, these data suggest that arousal dynamics are
+critical for spontaneous primate vocal production, not only as a robust predictor
+of the likelihood of vocal onset but also as scaffolding on which behavior can
+unfold.
+
+Copyright © 2016 the American Physiological Society.
+
+DOI: 10.1152/jn.00136.2016 
+PMCID: PMC6208312
+PMID: 27250909  [Indexed for MEDLINE]
+

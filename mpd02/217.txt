@@ -1,0 +1,41 @@
+
+
+217. Vaccines (Basel). 2020 Dec 2;8(4). pii: E720. doi: 10.3390/vaccines8040720.
+
+p38γ Activation and BGP (Biliary Glycoprotein) Induction in Primates at Risk for 
+Inflammatory Bowel Disease and Colorectal Cancer-A Comparative Study with Humans.
+
+Talwar H(1), McVicker B(2), Tobi M(3)(4).
+
+Author information: 
+(1)Research and Development VA Medical Center and Internal Medicine, Wayne State 
+University, Detroit, MI 48201, USA.
+(2)Research Service, VA Nebraska-Western Iowa Health Care System, The University 
+of Nebraska Medical Center, Omaha, NE 68105, USA.
+(3)Research and Development Service, Department of Internal Medicine, Detroit
+VAMC, Detroit, MI 48201, USA.
+(4)Central Michigan University College of Medicine, Mount Pleasant, MI 48859,
+USA.
+
+Colorectal cancer (CRC) is a common cause of cancer-related deaths largely due to
+CRC liver metastasis (CRLM). Identification of targetable mechanisms continues
+and includes investigations into the role of inflammatory pathways. Of interest, 
+MAPK is aberrantly expressed in CRC patients, yet the activation status is not
+defined. The present study assessed p38γ activation in CRC patients, cancer
+cells, and tissues of cotton top tamarin (CTT) and common marmoset (CM). The
+primate world is an overlooked resource as colitis-CRC-prone CTT are usually
+inure to liver metastasis while CM develop colitis but not CRC. The results
+demonstrate that p38γ protein and phosphorylation levels are significantly
+increased in CRC patients compared to normal subjects and CTT. Furthermore, p38γ 
+phosphorylation is significantly elevated in human CRC cells and hepatoblastoma
+cells but not in CM colon. Additionally, carcinoembryonic antigen (CEA) and
+biliary glycoprotein (BGP) are induced in the CRC patients that showed p38γ
+phosphorylation. Inhibition of p38 MAPK in CRC cells showed a significant decline
+in cell growth with no effect on apoptosis or BGP level. Overall, p38γ is
+activated in CRC tumorigenesis and likely involves CEA antigens during CRLM in
+humans but not in the CTT or CM, that rarely develop CRLM.
+
+DOI: 10.3390/vaccines8040720 
+PMCID: PMC7712431
+PMID: 33276422 
+

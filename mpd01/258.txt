@@ -1,0 +1,107 @@
+
+
+258. Am J Primatol. 2020 Dec;82(12):e23196. doi: 10.1002/ajp.23196. Epub 2020 Sep 24.
+
+Feasibility of fecal microbiota transplantation via oral gavage to safely alter
+gut microbiome composition in marmosets.
+
+Ross CN(1)(2)(3), Reveles KR(4)(5).
+
+Author information: 
+(1)Department of Science and Mathematics, Texas A&M University San Antonio, San
+Antonio, Texas, USA.
+(2)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, Texas, USA.
+(3)Barshop Institute for Longevity and Aging Research, University of Texas Health
+San Antonio, San Antonio, Texas, USA.
+(4)College of Pharmacy, The University of Texas at Austin, Austin, Texas, USA.
+(5)Pharmacotherapy Education & Research Center, University of Texas Health San
+Antonio, San Antonio, Texas, USA.
+
+Disruption of microbial communities within human hosts has been associated with
+infection, obesity, cognitive decline, cancer risk and frailty, suggesting that
+microbiome-targeted therapies may be an option for improving healthspan and
+lifespan. The objectives of this study were to determine the feasibility of
+delivering fecal microbiota transplants (FMTs) to marmosets via oral gavage and
+to evaluate if alteration of the gut microbiome post-FMT could be achieved. This 
+was a prospective study of marmosets housed at the Barshop Institute for
+Longevity and Aging Studies in San Antonio, Texas. Eligible animals included
+healthy young adult males (age 2-5 years) with no recent medication use. Stool
+from two donors was combined and administered in 0.5 ml doses to five young
+recipients once weekly for 3 weeks. Safety outcomes and alterations in the gut
+microbiome composition via 16S ribosomal RNA sequencing were compared at baseline
+and monthly up to 6 months post-FMT. Overall, significant differences in the
+percent relative abundance was seen in FMT recipients at the phylum and family
+levels from baseline to 1 month and baseline to 6 months post-FMT. In
+permutational multivariate analysis of variance analyses, treatment status (donor
+vs. recipient) (p = .056) and time course (p = .019) predicted β diversity
+(p = .056). The FMT recipients did not experience any negative health outcomes
+over the course of the treatment. FMT via oral gavage was safe to administer to
+young adult marmosets. The marmoset microbiome may be altered by FMT; however,
+progressive changes in the microbiome are strongly driven by the host and its
+baseline microbiome composition.
+
+© 2020 Wiley Periodicals LLC.
+
+DOI: 10.1002/ajp.23196 
+PMCID: PMC7679041
+PMID: 32970852  [Indexed for MEDLINE]
+
+
+259. Int J Environ Res Public Health. 2020 Sep 19;17(18). pii: E6844. doi:
+10.3390/ijerph17186844.
+
+Inexpensive Home Infrared Living/Environment Sensor with Regional Thermal
+Information for Infant Physical and Psychological Development.
+
+Karino G(1)(2)(3), Senoo A(1), Kunikata T(2), Kamei Y(4), Yamanouchi H(2),
+Nakamura S(1), Shukuya M(5), Colman RJ(6)(7), Koshiba M(1)(2)(8)(9).
+
+Author information: 
+(1)Graduate School of Engineering, Tokyo University of Agriculture and
+Technology, Tokyo 184-8588, Japan.
+(2)Department of Pediatrics, Saitama Medical University, Saitama 350-0495, Japan.
+(3)Research Fellow of the Japan Society for the Promotion of Science, Tokyo
+102-0083, Japan.
+(4)Department of Obstetrics and Gynecology, Saitama Medical University, Saitama
+350-0495, Japan.
+(5)Faculty of Environmental Studies Department of Restoration Ecology and Built
+Environment, Tokyo City University, Kanagawa 224-8551, Japan.
+(6)Wisconsin National Primate Research Center, University of Wisconsin, Madison, 
+WI 53715, USA.
+(7)Department of Cell & Regenerative Biology, School of Medicine and Public
+Health, University of Wisconsin, Madison, WI 53705, USA.
+(8)Graduate School of Science and Technology for Innovation, Yamaguchi
+University, Yamaguchi 755-8611, Japan.
+(9)Graduate School of Information Sciences, Tohoku University, Sendai 980-8579,
+Japan.
+
+The use of home-based image sensors for biological and environmental monitoring
+provides novel insight into health and development but it is difficult to
+evaluate people during their normal activities in their home. Therefore, we
+developed a low-cost infrared (IR) technology-based motion, location, temperature
+and thermal environment detection system that can be used non-invasively for
+long-term studies in the home environment. We tested this technology along with
+the associated analysis algorithm to visualize the effects of parental care and
+thermal environment on developmental state change in a non-human primate model,
+the common marmoset (Callithrix jacchus). To validate this system, we first
+compared it to a manual analysis technique and we then assessed the development
+of circadian rhythms in common marmosets from postnatal day 15-45. The
+semi-automatically tracked biological indices of locomotion velocity (BV) and
+body surface temperature (BT) and the potential psychological index of place
+preference toward the door (BD), showed age-dependent shifts in circadian phase
+patterns. Although environmental variables appeared to affect circadian rhythm
+development, principal component analysis and signal superimposing imaging
+methods revealed a novel phasic pattern of BD-BT correlation day/night switching 
+in animals older than postnatal day 38 (approximately equivalent to one year of
+age in humans). The origin of this switch was related to earlier development of
+body temperature (BT) rhythms and alteration of psychological behavior rhythms
+(BD) around earlier feeding times. We propose that this cost-effective, inclusive
+sensing and analytic technique has value for understanding developmental care
+conditions for which continual home non-invasive monitoring would be beneficial
+and further suggest the potential to adapt this technique for use in humans.
+
+DOI: 10.3390/ijerph17186844 
+PMCID: PMC7559736
+PMID: 32961676  [Indexed for MEDLINE]
+

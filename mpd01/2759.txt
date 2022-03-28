@@ -1,0 +1,75 @@
+
+
+2759. Exp Brain Res. 2005 Mar;162(1):100-8. Epub 2004 Oct 23.
+
+Single-unit responses to kinetic stimuli in New World monkey area V2:
+physiological characteristics of cue-invariant neurones.
+
+Lui LL(1), Bourne JA, Rosa MG.
+
+Author information: 
+(1)Department of Physiology, Monash University, 3800 Clayton, VIC, Australia.
+
+In order to investigate the neural processes underlying figure-ground segregation
+on the basis of motion, we studied the responses of neurones in the second visual
+area (V2) of marmoset monkeys to stimuli that moved against dynamic textured
+backgrounds. The stimuli were either "solid" bars, which were uniformly darker or
+lighter than the background's average, or kinetic ("camouflaged") bars, formed by
+textural elements that matched the spatial and temporal modulation of the
+background. Camouflaged bars were rendered visible only by the coherent motion of
+their textural elements. Using solid bars, we subdivided the population of
+marmoset V2 neurones into motion-selective (uni- and bi-directional units, 73.3% 
+of the sample) and weakly-biased (26.7%) subpopulations. The motion selective
+subpopulation was further subdivided into cue-invariant neurones (units which
+demonstrated a similar selectivity for the direction of motion of the solid and
+camouflaged bars) and non-cue-invariant neurones (units which showed selectivity 
+to the direction of motion of solid bars, but had weak or pandirectional
+responses to camouflaged bars). Cells with cue-invariant responses to these
+stimuli were as common in V2 as in the primary visual area (V1; approximately 40%
+of the population). In V2, neurones with cue-invariant and non-cue-invariant
+motion selectivity formed distinct populations in terms of classical response
+properties: cue-invariant neurones were characterized by a sharp axis of motion
+selectivity and extensive length summation, while the majority of
+non-cue-invariant neurones had broader motion selectivity and were end-stopped.
+In the light of previous studies, these different constellations of classical
+response properties suggest a correlation with more traditionally recognized
+categories of V2 units and modular compartments. The responses of V2 cells to
+kinetic stimuli were slightly delayed relative to their responses to
+luminance-defined stimuli.
+
+DOI: 10.1007/s00221-004-2113-9 
+PMID: 15517211  [Indexed for MEDLINE]
+
+
+2760. Laterality. 2002;7(2):145-62.
+
+Leading-limb preferences in marmosets (Callithrix jacchus): walking, leaping and 
+landing.
+
+Hook MA(1), Rogers LJ.
+
+Author information: 
+(1)University of New England, Armidale, NSW, Australia. mhook@mdanderson.org
+
+The leading-limb preferences of 17 common marmosets (Callithrix jacchus) when
+they initiated and terminated locomotion were determined from video recordings of
+the subjects walking on, leaping off, and landing on a plexiglas platform. In a
+majority of sequences, 11 of 17 subjects landed with the right hand and foot
+contacting the plexiglas substrate before the left hand and foot. Of the 17
+subjects, 8 initiated leaping with the right side of the body, whereas only 3
+subjects significantly preferred to initiate leaping with the left hand and foot.
+Leading-limb preferences displayed during landing were positively correlated with
+those displayed for leaping and walking, although only two subjects displayed
+significant leading-limb preferences when walking. By contrast, hand preferences 
+for initiating and terminating locomotion were not related to hand preferences
+for food holding; 16 of 17 marmosets displayed strong and significant hand
+preferences for food holding, even though many did not show leading-limb
+preferences for walking, leaping, or landing. These data seem to suggest that the
+right arm is stronger in marmosets. The right arm is used initially to decelerate
+the body and absorb the impact of contact with the landing substrate. The
+tendency for the right arm to be stronger is balanced by a tendency for the left 
+leg to be stronger (providing the force needed for leaping).
+
+DOI: 10.1080/13576500143000177 
+PMID: 15513194 
+

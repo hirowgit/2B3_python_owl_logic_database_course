@@ -1,0 +1,60 @@
+
+
+1070. Front Neuroanat. 2016 Mar 22;10:23. doi: 10.3389/fnana.2016.00023. eCollection
+2016.
+
+Hierarchical Cluster Analysis of Three-Dimensional Reconstructions of Unbiased
+Sampled Microglia Shows not Continuous Morphological Changes from Stage 1 to 2
+after Multiple Dengue Infections in Callithrix penicillata.
+
+Diniz DG(1), Silva GO(2), Naves TB(2), Fernandes TN(3), Araújo SC(4), Diniz
+JA(4), de Farias LH(5), Sosthenes MC(2), Diniz CG(6), Anthony DC(7), da Costa
+Vasconcelos PF(8), Picanço Diniz CW(1).
+
+Author information: 
+(1)Laboratório de Investigações em Neurodegeneração e Infecção, Instituto de
+Ciências Biológicas, Universidade Federal do Pará, Hospital Universitário João de
+Barros BarretoBelém, Brasil; Experimental Neuropathology Laboratory, Department
+of Pharmacology, University of OxfordOxford, UK.
+(2)Laboratório de Investigações em Neurodegeneração e Infecção, Instituto de
+Ciências Biológicas, Universidade Federal do Pará, Hospital Universitário João de
+Barros Barreto Belém, Brasil.
+(3)Curso de Graduação em Biologia, Universidade da Amazônia Belém, Brasil.
+(4)Departamento de Microscopia Eletrônica, Instituto Evandro Chagas Belém,
+Brasil.
+(5)Instituto de Ciências Biológicas, Universidade Federal do Pará Belém, Brasil.
+(6)Laboratório de Biologia Molecular e Ambiental, Instituto Federal de Educação
+Ciência e Tecnologia do Pará, Campus de Bragança, Bragança Pará, Brasil.
+(7)Experimental Neuropathology Laboratory, Department of Pharmacology, University
+of Oxford Oxford, UK.
+(8)Departamento de Arbovirologia e Febres Hemorrágicas, Instituto Evandro Chagas 
+Ananindeua, Brasil.
+
+It is known that microglial morphology and function are related, but few studies 
+have explored the subtleties of microglial morphological changes in response to
+specific pathogens. In the present report we quantitated microglia morphological 
+changes in a monkey model of dengue disease with virus CNS invasion. To mimic
+multiple infections that usually occur in endemic areas, where higher dengue
+infection incidence and abundant mosquito vectors carrying different serotypes
+coexist, subjects received once a week subcutaneous injections of DENV3 (genotype
+III)-infected culture supernatant followed 24 h later by an injection of
+anti-DENV2 antibody. Control animals received either weekly anti-DENV2
+antibodies, or no injections. Brain sections were immunolabeled for DENV3
+antigens and IBA-1. Random and systematic microglial samples were taken from the 
+polymorphic layer of dentate gyrus for 3-D reconstructions, where we found
+intense immunostaining for TNFα and DENV3 virus antigens. We submitted all bi- or
+multimodal morphological parameters of microglia to hierarchical cluster analysis
+and found two major morphological phenotypes designated types I and II. Compared 
+to type I (stage 1), type II microglia were more complex; displaying higher
+number of nodes, processes and trees and larger surface area and volumes (stage
+2). Type II microglia were found only in infected monkeys, whereas type I
+microglia was found in both control and infected subjects. Hierarchical cluster
+analysis of morphological parameters of 3-D reconstructions of random and
+systematic selected samples in control and ADE dengue infected monkeys suggests
+that microglia morphological changes from stage 1 to stage 2 may not be
+continuous.
+
+DOI: 10.3389/fnana.2016.00023 
+PMCID: PMC4801861
+PMID: 27047345 
+

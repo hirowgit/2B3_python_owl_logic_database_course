@@ -1,0 +1,75 @@
+
+
+869. Nat Commun. 2017 May 23;8:15413. doi: 10.1038/ncomms15413.
+
+Engaging and disengaging recurrent inhibition coincides with sensing and
+unsensing of a sensory stimulus.
+
+Saha D(1), Sun W(1), Li C(1), Nizampatnam S(1), Padovano W(1), Chen Z(1), Chen
+A(1), Altan E(1), Lo R(1), Barbour DL(1), Raman B(1).
+
+Author information: 
+(1)Department of Biomedical Engineering, Washington University in St. Louis, St. 
+Louis, Missouri 63130, USA.
+
+Even simple sensory stimuli evoke neural responses that are dynamic and complex. 
+Are the temporally patterned neural activities important for controlling the
+behavioral output? Here, we investigated this issue. Our results reveal that in
+the insect antennal lobe, due to circuit interactions, distinct neural ensembles 
+are activated during and immediately following the termination of every odorant. 
+Such non-overlapping response patterns are not observed even when the stimulus
+intensity or identities were changed. In addition, we find that ON and OFF
+ensemble neural activities differ in their ability to recruit recurrent
+inhibition, entrain field-potential oscillations and more importantly in their
+relevance to behaviour (initiate versus reset conditioned responses). Notably, we
+find that a strikingly similar strategy is also used for encoding sound onsets
+and offsets in the marmoset auditory cortex. In sum, our results suggest a
+general approach where recurrent inhibition is associated with stimulus
+'recognition' and 'derecognition'.
+
+DOI: 10.1038/ncomms15413 
+PMCID: PMC5457525
+PMID: 28534502  [Indexed for MEDLINE]
+
+
+870. PLoS One. 2017 May 17;12(5):e0175797. doi: 10.1371/journal.pone.0175797.
+eCollection 2017.
+
+Altered detrusor contractility in MPTP-treated common marmosets with bladder
+hyperreflexia.
+
+Pritchard S(1), Jackson MJ(2), Hikima A(2), Lione L(1), Benham CD(1), Chaudhuri
+KR(3), Rose S(2), Jenner P(2), Iravani MM(1).
+
+Author information: 
+(1)Department of Pharmacy, Pharmacology and Postgraduate Medicine, University of 
+Hertfordshire, Hatfield, United Kingdom.
+(2)Neurodegenerative Disease Research Group, Institute of Pharmaceutical
+Sciences, Faculty of Life Sciences and Medicine, King's College London, London,
+United Kingdom.
+(3)King's Health Partnership, London, United Kingdom.
+
+Bladder hyperreflexia is a common non-motor feature of Parkinson's disease. We
+now report on the contractility of the isolated primate detrusor strips devoid of
+nerve input and show that following MPTP, the amplitude and frequency of
+spontaneous contraction was increased. These responses were unaffected by
+dopamine D1 and D2 receptor agonists A77636 and ropinirole respectively.
+Contractions by exogenous carbachol, histamine or ATP were similar and no
+differences in the magnitude of noradrenaline-induced relaxation were seen in
+detrusor strip obtained from normal and MPTP-treated common marmosets (Callithrix
+jacchus). However, the neurogenic contractions following electrical field
+stimulation of the intrinsic nerves (EFS) were markedly greater in strips
+obtained from MPTP treated animals. EFS evoked non-cholinergic contractions
+following atropine were also greater but the contribution of the cholinergic
+innervation as a proportion of the overall contraction was smaller in the
+detrusor strips of MPTP treated animals, suggesting a preferential enhancement of
+the non-cholinergic transmission. Although dopaminergic mechanism has been
+proposed to underlie bladder hyperreflexia in MPTP-treated animals with intact
+bladder, the present data indicates that the increased neurogenically mediated
+contractions where no extrinsic innervation exists might be due to long-term
+adaptive changes locally as a result of the loss of the nigrostriatal output.
+
+DOI: 10.1371/journal.pone.0175797 
+PMCID: PMC5435136
+PMID: 28520722  [Indexed for MEDLINE]
+

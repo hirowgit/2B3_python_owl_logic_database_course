@@ -1,0 +1,33 @@
+
+
+2729. Endocr Res. 2004 Nov;30(4):737-43.
+
+Isolation of marmoset P450c17 cDNA and gene regulation in vitro.
+
+Pattison JC(1), Conley AJ, Bird IM.
+
+Author information: 
+(1)Perinatal Research Laboratories, Department of Obstetrics and Gynaecology,
+University of Wisconsin, Madison, Wisconsin 53715, USA.
+
+Marmosets express a fetal zone during adrenal development but fail to produce
+significant amounts of C19 steroids in adulthood. It is not clear however if
+P450c17 regulation is different from that in humans/rhesus or the primary
+sequence is altered. To this end we isolated marmoset and rhesus adrenocortical
+cells, and treated the cells with known regulators of P450c17 expression for 48
+h. P450c17 protein increased with Forskolin (F) treatment, but was marginally
+inhibited by AII (A) and TPA (T) alone. Combined A + F and T + F dramatically
+ablated the F response. Cortisol levels (EIA) increased upon F treatment and were
+inhibited by A and T. Combination of treatments partially inhibited the F-induced
+response. The protein-coding region of marmoset and rhesus P450c17 cDNAs were
+then isolated from adrenals using RT-PCR/TA cloning. Marmoset P450c17 shows one
+amino acid deletion but otherwise shares 90.6% and 91.4% homologies with the
+human and rhesus cDNA sequences, and 82.4% and 85% homologies with the human and 
+rhesus predicted AA sequences, respectively. Since marmoset adrenocortical cells 
+exhibit similar endocrine function to rhesus, impaired 17,20-lyase activity in
+the adult marmoset adrenal may in part be due to differences in the primary
+sequence.
+
+DOI: 10.1081/erc-200044018 
+PMID: 15666819  [Indexed for MEDLINE]
+

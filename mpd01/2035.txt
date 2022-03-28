@@ -1,0 +1,66 @@
+
+
+2035. Cell Mol Neurobiol. 2010 Aug;30(6):827-39. doi: 10.1007/s10571-010-9510-3. Epub
+2010 Mar 16.
+
+Neuronal MHC class I molecules are involved in excitatory synaptic transmission
+at the hippocampal mossy fiber synapses of marmoset monkeys.
+
+Ribic A(1), Zhang M, Schlumbohm C, Mätz-Rensing K, Uchanska-Ziegler B, Flügge G, 
+Zhang W, Walter L, Fuchs E.
+
+Author information: 
+(1)Clinical Neurobiology Laboratory, German Primate Center, Leibniz Institute for
+Primate Research, Kellnerweg 4, 37077, Göttingen, Germany. aribic@cnl-dpz.de
+
+Several recent studies suggested a role for neuronal major histocompatibility
+complex class I (MHCI) molecules in certain forms of synaptic plasticity in the
+hippocampus of rodents. Here, we report for the first time on the expression
+pattern and functional properties of MHCI molecules in the hippocampus of a
+nonhuman primate, the common marmoset monkey (Callithrix jacchus). We detected a 
+presynaptic, mossy fiber-specific localization of MHCI proteins within the
+marmoset hippocampus. MHCI molecules were present in the large, VGlut1-positive, 
+mossy fiber terminals, which provide input to CA3 pyramidal neurons. Furthermore,
+whole-cell recordings of CA3 pyramidal neurons in acute hippocampal slices of the
+common marmoset demonstrated that application of antibodies which specifically
+block MHCI proteins caused a significant decrease in the frequency, and a
+transient increase in the amplitude, of spontaneous excitatory postsynaptic
+currents (sEPSCs) in CA3 pyramidal neurons. These findings add to previous
+studies on neuronal MHCI molecules by describing their expression and
+localization in the primate hippocampus and by implicating them in
+plasticity-related processes at the mossy fiber-CA3 synapses. In addition, our
+results suggest significant interspecies differences in the localization of
+neuronal MHCI molecules in the hippocampus of mice and marmosets, as well as in
+their potential function in these species.
+
+DOI: 10.1007/s10571-010-9510-3 
+PMCID: PMC2912721
+PMID: 20232136  [Indexed for MEDLINE]
+
+
+2036. Neuroreport. 2010 Apr 21;21(6):447-51. doi: 10.1097/WNR.0b013e328338ba00.
+
+Efficient gene transfer into neurons in monkey brain by adeno-associated virus 8.
+
+Masamizu Y(1), Okada T, Ishibashi H, Takeda S, Yuasa S, Nakahara K.
+
+Author information: 
+(1)Department of Animal Models for Human Disease, National Institute of
+Neuroscience, NCNP, Tokyo, Japan.
+
+Although the adeno-associated virus (AAV) vector is a promising tool for gene
+transfer into neurons, especially for therapeutic purposes, neurotropism in
+primate brains is not fully elucidated for specific AAV serotypes. Here, we
+injected AAV serotype 8 (AAV8) vector carrying the enhanced green fluorescent
+protein (EGFP) gene under a ubiquitous promoter into the cerebral cortex,
+striatum and substantia nigra of common marmosets. Robust neuronal EGFP
+expression was observed at all injected sites. Cell typing with
+immunohistochemistry confirmed efficient AAV8-mediated gene transfer into the
+pyramidal neurons in the cortex, calbindin-positive medium spiny neurons in the
+striatum and dopaminergic neurons in the substantia nigra. The results indicate a
+preferential tropism of AAV8 for subsets of neurons, but not for glia, in monkey 
+brains.
+
+DOI: 10.1097/WNR.0b013e328338ba00 
+PMID: 20224455  [Indexed for MEDLINE]
+

@@ -1,0 +1,36 @@
+
+
+3602. J Virol. 1998 Apr;72(4):2607-14.
+
+Mutation of the Lck-binding motif of Tip enhances lymphoid cell activation by
+herpesvirus saimiri.
+
+Duboise SM(1), Lee H, Guo J, Choi JK, Czajak S, Simon M, Desrosiers RC, Jung JU.
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, New England Regional
+Primate Research Center, Harvard Medical School, Southborough, Massachusetts
+01772-9102, USA.
+
+The proline-rich SH3-binding (SH3B) motif of the tyrosine kinase-interacting
+protein (Tip) of herpesvirus saimiri (HVS) is required for binding to the
+cellular Src family kinase Lck. We constructed a mutant form of HVS in which
+prolines in the SH3B motif of Tip were altered to alanines. This mutant form of
+Tip was incapable of binding to Lck. The mutant virus, HVS/Tip mSH3B, retained
+its ability to immortalize common marmoset lymphocytes in culture. In fact,
+common marmoset lymphocytes immortalized by the HVS/Tip mSH3B mutant displayed
+increased expression of HLA-DR lymphocyte activation marker, an altered pattern
+of tyrosine phosphorylation, increased expression of the tyrosine kinase Lyn, and
+a shift in electrophoretic mobility of Lck compared to cells immortalized by
+wild-type HVS. Experimental infection of common marmosets resulted in fulminant
+lymphoma with both HVS/Tip mSH3B and wild-type HVS. However, HVS/Tip mSH3B
+produced greater infiltration of affected organs by proliferating lymphoid cells 
+compared to wild-type HVS. These results demonstrate that Tip binding to Lck is
+not necessary for transformation and that abrogation of Tip binding to Lck alters
+the characteristics of transformed cells and the severity of the pathologic
+lesions.
+
+DOI: 10.1128/JVI.72.4.2607-2614.1998 
+PMCID: PMC109695
+PMID: 9525577  [Indexed for MEDLINE]
+

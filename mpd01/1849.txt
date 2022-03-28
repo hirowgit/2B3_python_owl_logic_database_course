@@ -1,0 +1,88 @@
+
+
+1849. Neuroscience. 2011 Oct 13;193:249-58. doi: 10.1016/j.neuroscience.2011.06.080.
+Epub 2011 Jul 18.
+
+Local and retrograde gene transfer into primate neuronal pathways via
+adeno-associated virus serotype 8 and 9.
+
+Masamizu Y(1), Okada T, Kawasaki K, Ishibashi H, Yuasa S, Takeda S, Hasegawa I,
+Nakahara K.
+
+Author information: 
+(1)Department of Neurophysiology, National Institute of Neuroscience, NCNP, 4-1-1
+Ogawa-Higashi, Kodaira, Tokyo 187-8502, Japan.
+
+Viral vector-mediated gene transfer has become increasingly valuable for primate 
+brain research, in particular for application of genetic methods (e.g.
+optogenetics) to study neuronal circuit functions. Neuronal cell tropisms and
+infection patterns are viable options for obtaining viral vector-mediated
+transgene delivery that is selective for particular neuronal pathways. For
+example, several types of viral vectors can infect axon terminals (retrograde
+infections), which enables targeted transgene delivery to neurons that directly
+project to a particular viral injection region. Although recent studies in
+rodents have demonstrated that adeno-associated virus serotype 8 (AAV8) and 9
+(AAV9) efficiently transduce neurons, the tropisms and infection patterns remain 
+poorly understood in primate brains. Here, we constructed recombinant AAV8 or
+AAV9, which expressed an enhanced green fluorescent protein (EGFP) gene driven by
+a ubiquitous promoter (AAV8-EGFP and AAV9-EGFP, respectively), and
+stereotaxically injected it into several brain regions in marmosets and macaque
+monkeys. Immunohistochemical analyses revealed almost exclusive colocalization of
+EGFP fluorescence via AAV9-mediated gene transfer with a neuron-specific marker, 
+indicating endogenous neuronal tropism of AAV9, which was consistent with our
+previous results utilizing AAV8. Injections of either AAV8-EGFP or AAV9-EGFP into
+the marmoset striatum resulted in EGFP expression in local striatal neurons as a 
+result of local infection, as well as expression in dopaminergic neurons of the
+substantia nigra via retrograde transport along nigrostriatal axonal projections.
+Retrograde infections were also observed in the frontal cortex and thalamus,
+which are known to have direct projections to the striatum. These local and
+retrograde gene transfers were further demonstrated in the geniculocortical
+pathway of the marmoset visual system. These findings indicate promising
+capabilities of AAV8 and AAV9 to deliver molecular tools into a range of primate 
+neural systems in pathway-specific manners through their neuronal tropisms and
+infection patterns.
+
+Copyright © 2011 IBRO. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuroscience.2011.06.080 
+PMID: 21782903  [Indexed for MEDLINE]
+
+
+1850. Stem Cells. 2011 Sep;29(9):1448-58. doi: 10.1002/stem.692.
+
+The adult mouse dentate gyrus contains populations of committed progenitor cells 
+that are distinct from subependymal zone neural stem cells.
+
+Clarke L(1), van der Kooy D.
+
+Author information: 
+(1)Institute of Medical Science, University of Toronto, Toronto, Ontario, Canada.
+laura.clarke@utoronto.ca
+
+There is currently a debate as to whether or not a neural stem cell (NSC) exists 
+in the adult mammalian hippocampus. Clonal colony-forming assays allow single
+cells to cells to be evaluated for stem cell properties: self-renewal and
+multipotentiality. In these in vitro assays, single cells from the subependymal
+zone (SEZ) of the adult lateral ventricle yield large colonies which self-renew
+and are multipotential, while single cells from the adult dentate gyrus (DG)
+produce small, unipotent, and nonself-renewing colonies. We find that
+multipotential and long-term self-renewing colonies can be isolated only from the
+early embryonic hippocampus, before the formation of the DG. No movement of
+progenitors from the postnatal SEZ to the newly forming DG subgranular zone is
+detected and adult DG colonies in vitro originate from the embryonic hippocampal 
+primordium. These data support a model where embryonic hippocampal NSCs change
+their properties as the organism ages. When adult DG spheres are cocultured with 
+embryonic brain slices, self-renewal (but not multipotentiality) is restored and 
+maintained for several passages off of slices. Adult clonal DG spheres grown on
+embryonic brain slices or transplanted into brains of neonatal mice do not give
+rise to neurons. Neurons arise from separate, small clones that are approximately
+10 times more frequent than sphere colonies in vitro and may be responsible for
+maintaining neurogenesis in the adult in vivo. We propose that there are separate
+glial and neuronal clones in the adult hippocampus, with glial progenitors being 
+the most proliferative in culture.
+
+Copyright © 2011 AlphaMed Press.
+
+DOI: 10.1002/stem.692 
+PMID: 21774038  [Indexed for MEDLINE]
+

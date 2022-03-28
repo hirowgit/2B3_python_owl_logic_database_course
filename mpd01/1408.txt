@@ -1,0 +1,95 @@
+
+
+1408. Int Immunol. 2014 Nov;26(11):597-606. doi: 10.1093/intimm/dxu053. Epub 2014 May
+24.
+
+NKG2D functions as an activating receptor on natural killer cells in the common
+marmoset (Callithrix jacchus).
+
+Watanabe M(1), Kudo Y(1), Kawano M(1), Nakayama M(1), Nakamura K(1), Kameda M(1),
+Ebara M(1), Sato T(1), Nakamura M(1), Omine K(1), Kametani Y(2), Suzuki R(3),
+Ogasawara K(4).
+
+Author information: 
+(1)Department of Immunobiology, Institute of Development, Aging and Cancer,
+Tohoku University, Sendai 980-8575, Japan.
+(2)Department of Immunology, Tokai University School of Medicine, Isehara
+259-1193, Japan.
+(3)Department of Rheumatology and Clinical Immunology, Clinical Research Center
+for Allergy and Rheumatology, Sagamihara National Hospital, National Hospital
+Organization, Sagamihara 252-0315, Japan.
+(4)Department of Immunobiology, Institute of Development, Aging and Cancer,
+Tohoku University, Sendai 980-8575, Japan ogasawara@idac.tohoku.ac.jp.
+
+The natural killer group 2 membrane D (NKG2D) receptor is an NK-activating
+receptor that plays an important role in host defense against tumors and viral
+infections. Although the marmoset is an important and reliable animal model,
+especially for the study of human-specific viral infections, functional
+characterization of NKG2D on marmoset NK cells has not previously been conducted.
+In the present study, we investigated a subpopulation of marmoset NK cells that
+express NKG2D and exhibit cytolytic potential. On the basis of their CD16 and
+CD56 expression patterns, marmoset NK cells can be classified into three
+subpopulations: CD16(+) CD56(-), CD16(-) CD56(+) and CD16(-) CD56(-) cells. NKG2D
+expression on marmoset CD16(+) CD56(-) and CD16(-) CD56(+) splenocytes was
+confirmed using an NKG2D ligand composed of an MHC class I chain-related molecule
+A (MICA)-Fc fusion protein. When marmoset splenocytes were cultured with IL-2 for
+4 days, NKG2D expression was retained on CD16(+) CD56(-) and CD16(-) CD56(+). In 
+addition, CD16(+) CD56(+) cells within the marmoset NK population appeared which 
+expressed NKG2D after IL-2 stimulation. IL-2-activated marmoset NK cells showed
+strong cytolytic activity against K562 target cells and target cells stably
+expressing MICA. Further, the cytolytic activity of marmoset splenocytes was
+significantly reduced after addition of MICA-Fc fusion protein. Thus, NKG2D
+functions as an activating receptor on marmoset NK cells that possesses cytotoxic
+potential, and phenotypic profiles of marmoset NK cell subpopulations are similar
+to those seen in humans.
+
+© The Japanese Society for Immunology. 2014. All rights reserved. For
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/intimm/dxu053 
+PMID: 24860119  [Indexed for MEDLINE]
+
+
+1409. Mol Phylogenet Evol. 2015 Jan;82 Pt B:413-25. doi: 10.1016/j.ympev.2014.04.031.
+Epub 2014 May 20.
+
+Biogeography of the marmosets and tamarins (Callitrichidae).
+
+Buckner JC(1), Lynch Alfaro JW(2), Rylands AB(3), Alfaro ME(4).
+
+Author information: 
+(1)Department of Ecology and Evolutionary Biology, University of California, Los 
+Angeles, CA 90095, USA. Electronic address: jcharrayb@ucla.edu.
+(2)Institute for Society and Genetics, University of California, Los Angeles, CA 
+90095, USA; Department of Anthropology, University of California, Los Angeles, CA
+90095, USA.
+(3)Conservation International, Arlington, VA 22202, USA.
+(4)Department of Ecology and Evolutionary Biology, University of California, Los 
+Angeles, CA 90095, USA.
+
+The marmosets and tamarins, Family Callitrichidae, are Neotropical primates with 
+over 60 species and subspecies that inhabit much of South America. Although
+callitrichids exhibit a remarkable widespread distribution, attempts to unravel
+their biogeographic history have been limited by taxonomic confusion and the lack
+of an appropriate statistical biogeographic framework. Here, we construct a
+time-calibrated multi-locus phylogeny from GenBank data and the callitrichid
+literature for 38 taxa. We use this framework to conduct statistical
+biogeographic analyses of callitrichids using BioGeoBEARS. The DIVAj model is the
+best supported reconstruction of biogeographic history among our analyses and
+suggests that the most recent common ancestor to the callitrichids was widespread
+across forested regions c. 14 Ma. There is also support for multiple
+colonizations of the Atlantic forest region from the Amazon basin, first by
+Leontopithecus c. 11 Ma and later by Callithrix c. 5 Ma. Our results show support
+for a 9 million year old split between a small-bodied group and large-bodied
+group of tamarins. These phylogenetic data, in concert with the consistent
+difference in body size between the two groups and geographical patterns
+(small-bodied tamarins and large-bodied tamarins have an unusually high degree of
+geographic overlap for congeners) lend support to our suggestion to split
+Saguinus into two genera, and we propose the use of distinct generic names;
+Leontocebus and Saguinus, respectively.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ympev.2014.04.031 
+PMID: 24857784  [Indexed for MEDLINE]
+

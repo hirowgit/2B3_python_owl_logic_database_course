@@ -1,0 +1,86 @@
+
+
+1221. J Neurophysiol. 2015 Aug;114(2):869-78. doi: 10.1152/jn.00152.2015. Epub 2015 Jun
+3.
+
+Spatial precision of population activity in primate area MT.
+
+Chen SC(1), Morley JW(2), Solomon SG(3).
+
+Author information: 
+(1)Australian Research Council Centre of Excellence for Integrative Brain
+Function, The University of Sydney, New South Wales, Australia; School of Medical
+Sciences, The University of Sydney, New South Wales, Australia;
+spencer.chen@utexas.edu.
+(2)School of Medicine, University of Western Sydney, Penrith, New South Wales,
+Australia; and.
+(3)School of Medical Sciences, The University of Sydney, New South Wales,
+Australia; Institute for Behavioural Neuroscience, University College London,
+London, United Kingdom.
+
+The middle temporal (MT) area is a cortical area integral to the "where" pathway 
+of primate visual processing, signaling the movement and position of objects in
+the visual world. The receptive field of a single MT neuron is sensitive to the
+direction of object motion but is too large to signal precise spatial position.
+Here, we asked if the activity of MT neurons could be combined to support the
+high spatial precision required in the where pathway. With the use of
+multielectrode arrays, we recorded simultaneously neural activity at 24-65 sites 
+in area MT of anesthetized marmoset monkeys. We found that although individual
+receptive fields span more than 5° of the visual field, the combined population
+response can support fine spatial discriminations (<0.2°). This is because
+receptive fields at neighboring sites overlapped substantially, and changes in
+spatial position are therefore projected onto neural activity in a large ensemble
+of neurons. This fine spatial discrimination is supported primarily by neurons
+with receptive fields flanking the target locations. Population performance is
+degraded (by 13-22%) when correlations in neural activity are ignored, further
+reflecting the contribution of population neural interactions. Our results show
+that population signals can provide high spatial precision despite large
+receptive fields, allowing area MT to represent both the motion and the position 
+of objects in the visual world.
+
+Copyright © 2015 the American Physiological Society.
+
+DOI: 10.1152/jn.00152.2015 
+PMCID: PMC4533107
+PMID: 26041825  [Indexed for MEDLINE]
+
+
+1222. Psychopharmacology (Berl). 2015 Sep;232(17):3287-95. doi:
+10.1007/s00213-015-3978-y. Epub 2015 Jun 5.
+
+Behavioral and neurophysiological effects of Ro 10-5824, a dopamine D4 receptor
+partial agonist, in common marmosets.
+
+Nakazawa S(1), Murai T, Miyauchi M, Kotani M, Ikeda K.
+
+Author information: 
+(1)Drug Development Research Laboratories, Sumitomo Dainippon Pharma Co. Ltd,
+33-94 Enoki-cho, Suita, Osaka, 564-0053, Japan.
+
+RATIONALE: Growing evidence suggests that dopamine D4 receptors (D4Rs) are
+involved in controlling executive functions. We have previously demonstrated that
+Ro 10-5824, a D4R partial agonist, improves the performance of common marmosets
+in the object retrieval detour (ORD) task. However, the neural mechanisms
+underlying this improvement are unknown.
+OBJECTIVES: We investigated the behavioral and neurophysiological effects of Ro
+10-5824 in common marmosets.
+METHODS: The effects of Ro 10-5824 on cognitive function were evaluated using the
+ORD task. The neurophysiological effects of Ro 10-5824 were investigated by
+quantitative electroencephalography, especially on baseline gamma band activity
+in the frontal cortex. The effects of Ro 10-5824 on spontaneous locomotion were
+also assessed.
+RESULTS: Systemic administration of Ro 10-5824 at 3 mg/kg significantly increased
+the success rate in the ORD task. At doses of 1 and 3 mg/kg, Ro 10-5824 increased
+baseline gamma band activity in the frontal cortex. Ro 10-5824 had no effect on
+spontaneous locomotion.
+CONCLUSIONS: Activation of D4R by Ro 10-5824 improves the success rate in the ORD
+task and increases baseline gamma band activity in the frontal cortex without
+affecting locomotion in common marmosets. These findings highlight the role of
+D4R in gamma oscillations of non-human primates. As gamma oscillations are
+thought to be involved in attention and behavioral inhibition, our results
+suggest D4R agonists may improve these cognitive functions by modulating baseline
+gamma band activity in the frontal cortex.
+
+DOI: 10.1007/s00213-015-3978-y 
+PMID: 26041337  [Indexed for MEDLINE]
+

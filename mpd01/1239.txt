@@ -1,0 +1,95 @@
+
+
+1239. Comp Med. 2015 Apr;65(2):140-3.
+
+Comparative Immunohistochemistry of Placental Corticotropin-Releasing Hormone and
+the Transcription Factor RelB-NFκB2 Between Humans and Nonhuman Primates.
+
+Rosen T(1), Schulkin J(2), Power M(3), Tadesse S(4), Norwitz ER(4), Wen Z(5),
+Wang B(6).
+
+Author information: 
+(1)Department of Obstetrics, Gynecology, and Reproductive Sciences, Rutgers
+Robert Wood Johnson Medical School, New Brunswick, New Jersey, USA.
+rosentj@rwjms.rutgers.edu.
+(2)Research Department, American College of Obstetricians and Gynecologists,
+Washington, District of Columbia, USA; Department of Neuroscience, Georgetown
+University, Washington, District of Columbia, USA.
+(3)Nutrition Laboratory, Conservation Ecology Center, Smithsonian Conservation
+Biology Institute, National Zoological Park, Washington, District of Columbia,
+USA.
+(4)Tufts University School of Medicine, Department of Obstetrics and Gynecology, 
+Boston, Massachusetts, USA.
+(5)Department of Pathology, Saint Peter's University Hospital, New Brunswick, New
+Jersey, USA.
+(6)Department of Obstetrics, Gynecology, and Reproductive Sciences, Rutgers
+Robert Wood Johnson Medical School, New Brunswick, New Jersey, USA.
+wangbi@rwjms.rutgers.edu.
+
+The transcription factor RelB-NFκB2, activated by the noncanonical NFκB pathway, 
+positively regulates corticotropin-releasing hormone (CRH) and prostaglandin
+production in the term human placenta and may play an important role in the
+timing of human parturition. Here we explored whether RelB-NFκB2 signaling plays 
+a role in parturition in nonhuman anthropoid primates. We performed
+immunohistochemical staining to assess the correlation between CRH and nuclear
+activity of RelB-NFκB2 heterodimers in term placentas from humans, 3 catarrhine
+primate species, and a single platyrrhine primate species. Consistent with our
+previous studies, the human placenta showed cytoplasmic staining for CRH and
+nuclear staining for RelB-NFκB2. Similar staining patterns were noted in the 3
+catarrhine primates (chimpanzee, baboon, and rhesus macaque). The platyrrhine
+(marmoset) placentas stained positively for CRH and RelB but not for NFκB2.
+Catarrhine (but not platyrrhine) nonhuman primate term placentas demonstrate the 
+same CRH staining and nuclear localization patterns of RelB and NFκB2 as does
+human placenta. These results suggest that catarrhine primates, particularly
+rhesus macaques, may serve as useful animal models to study the biologic
+significance of the noncanonical NFκB pathway in human pregnancy.
+
+
+PMCID: PMC4408900
+PMID: 25926400  [Indexed for MEDLINE]
+
+
+1240. J Neurophysiol. 2015 Jul;114(1):274-83. doi: 10.1152/jn.00228.2015. Epub 2015 Apr
+29.
+
+Cooperative vocal control in marmoset monkeys via vocal feedback.
+
+Choi JY(1), Takahashi DY(1), Ghazanfar AA(2).
+
+Author information: 
+(1)Princeton Neuroscience Institute, Princeton University, Princeton, New Jersey;
+Department of Psychology, Princeton University, Princeton, New Jersey; and.
+(2)Princeton Neuroscience Institute, Princeton University, Princeton, New Jersey;
+Department of Psychology, Princeton University, Princeton, New Jersey; and
+Department of Ecology and Evolutionary Biology, Princeton University, Princeton, 
+New Jersey asifg@princeton.edu.
+
+Humans adjust speech amplitude as a function of distance from a listener; we do
+so in a manner that would compensate for such distance. This ability is presumed 
+to be the product of high-level sociocognitive skills. Nonhuman primates are
+thought to lack such socially related flexibility in vocal production. Using
+predictions from a simple arousal-based model whereby vocal feedback from a
+conspecific modulates the drive to produce a vocalization, we tested whether
+another primate exhibits this type of cooperative vocal control. We conducted a
+playback experiment with marmoset monkeys and simulated "far-away" and "nearby"
+conspecifics using contact calls that differed in sound intensity. We found that 
+marmoset monkeys increased the amplitude of their contact calls and produced such
+calls with shorter response latencies toward more distant conspecifics. The same 
+was not true in response to changing levels of background noise. To account for
+how simulated conspecific distance can change both the amplitude and timing of
+vocal responses, we developed a model that incorporates dynamic interactions
+between the auditory system and limbic "drive" systems. Overall, our data show
+that, like humans, marmoset monkeys cooperatively control the acoustics of their 
+vocalizations according to changes in listener distance, increasing the
+likelihood that a conspecific will hear their call. However, we propose that such
+cooperative vocal control is a system property that does not necessitate any
+particularly advanced sociocognitive skill. At least in marmosets, this vocal
+control can be parsimoniously explained by the regulation of arousal states
+across two interacting individuals via vocal feedback.
+
+Copyright © 2015 the American Physiological Society.
+
+DOI: 10.1152/jn.00228.2015 
+PMCID: PMC4507967
+PMID: 25925323  [Indexed for MEDLINE]
+

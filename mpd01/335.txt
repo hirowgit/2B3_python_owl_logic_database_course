@@ -1,0 +1,99 @@
+
+
+335. BMC Genomics. 2020 Apr 2;21(Suppl 3):243. doi: 10.1186/s12864-020-6657-2.
+
+An improved de novo genome assembly of the common marmoset genome yields improved
+contiguity and increased mapping rates of sequence data.
+
+Jayakumar V(1), Ishii H(1), Seki M(1), Kumita W(2), Inoue T(2), Hase S(1), Sato
+K(1), Okano H(3)(4), Sasaki E(2), Sakakibara Y(5).
+
+Author information: 
+(1)Department of Biosciences and Informatics, Keio University, Yokohama,
+Kanagawa, 223-8522, Japan.
+(2)Department of Marmoset Biology and Medicine, Central Institute for
+Experimental Animals, Kawasaki, Kanagawa, 210-0821, Japan.
+(3)Department of Physiology, Keio University School of Medicine, Shinjuku, Tokyo,
+160-8582, Japan.
+(4)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako-shi, Saitama, 351-0198, Japan.
+(5)Department of Biosciences and Informatics, Keio University, Yokohama,
+Kanagawa, 223-8522, Japan. yasu@bio.keio.ac.jp.
+
+BACKGROUND: The common marmoset (Callithrix jacchus) is one of the most studied
+primate model organisms. However, the marmoset genomes available in the public
+databases are highly fragmented and filled with sequence gaps, hindering research
+advances related to marmoset genomics and transcriptomics.
+RESULTS: Here we utilize single-molecule, long-read sequence data to improve and 
+update the existing genome assembly and report a near-complete genome of the
+common marmoset. The assembly is of 2.79 Gb size, with a contig N50 length of
+6.37 Mb and a chromosomal scaffold N50 length of 143.91 Mb, representing the most
+contiguous and high-quality marmoset genome up to date. Approximately 90% of the 
+assembled genome was represented in contigs longer than 1 Mb, with approximately 
+104-fold improvement in contiguity over the previously published marmoset genome.
+More than 98% of the gaps from the previously published genomes were filled
+successfully, which improved the mapping rates of genomic and transcriptomic data
+on to the assembled genome.
+CONCLUSIONS: Altogether the updated, high-quality common marmoset genome assembly
+provide improvements at various levels over the previous versions of the marmoset
+genome assemblies. This will allow researchers working on primate genomics to
+apply the genome more efficiently for their genomic and transcriptomic sequence
+data.
+
+DOI: 10.1186/s12864-020-6657-2 
+PMCID: PMC7114785
+PMID: 32241258  [Indexed for MEDLINE]
+
+
+336. J Hum Evol. 2020 May;142:102767. doi: 10.1016/j.jhevol.2020.102767. Epub 2020 Mar
+30.
+
+Not all fine-branch locomotion is equal: Grasping morphology determines locomotor
+performance on narrow supports.
+
+Young JW(1), Chadwell BA(2).
+
+Author information: 
+(1)Department of Anatomy and Neurobiology, Northeast Ohio Medical University
+(NEOMED), Rootstown, OH 44272, USA; Musculoskeletal Biology Research Focus Area, 
+NEOMED, Rootstown, OH 44272, USA; School of Biomedical Sciences, Kent State
+University, Kent, OH 44240, USA. Electronic address: jwyoung@neomed.edu.
+(2)Department of Anatomy, Idaho College of Osteopathic Medicine, Meridian, ID
+83642, USA.
+
+Fine-branch models have long played a central role in primate evolutionary
+research. Nevertheless, recent studies of positional behavior in nonprimate
+arboreal mammals have challenged the idea that synapomorphic primate features,
+such as grasping extremities, uniquely facilitated access to the fine-branch
+zone. We test the alternative hypothesis that grasping extremities specifically
+improve locomotor performance in a fine-branch environment by examining how
+support diameter influences locomotor mechanics in one sciurid rodent (Sciurus
+carolinensis) and two platyrrhine primates (Callithrix jacchus and Saimiri
+boliviensis). These species were chosen to broadly model different stages in the 
+evolution of primate grasping morphology. The results showed that transitioning
+from broad to narrower supports required the greatest kinematic adjustment in
+squirrels and the least adjustment in squirrel monkeys, with marmosets displaying
+an intermediate level of adjustment. Moreover, on any given support, squirrels'
+locomotor mechanics differed from marmosets' in a manner consistent with a
+greater need for stability, despite superficial ecomorphological similarities
+between sciurid rodents and callitrichine primates. Morphological analyses of
+autopodial size and proportions suggest that variation in locomotor performance
+more closely tracked variation in overall hand and foot size rather than digit
+length per se. Indeed, a broad comparative analysis revealed that for their body 
+mass, primates have longer hands than similarly sized arboreal rodents and
+marsupials (although only the primate-rodent comparison was significant after
+incorporating phylogenetic relatedness). Inclusion of fossil stem primates
+(plesiadapiforms) and euprimates (adapiforms) in these analyses suggests that
+this primate-wide grade shift in relative autopodial size must have occurred
+early in the evolutionary history of the group. Overall, our findings show that
+basal primate morphological adaptations may have specifically facilitated
+improved locomotor performance in a fine-branch niche, rather than merely
+permitting access to the environment. As such, future adaptive hypotheses of
+primate origins should incorporate the import of primate-like morphology on
+locomotor performance as well.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jhevol.2020.102767 
+PMID: 32240883  [Indexed for MEDLINE]
+

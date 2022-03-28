@@ -1,0 +1,58 @@
+
+
+3273. Rev Bras Biol. 2000 May;60(2):237-247.
+
+Conservation value of a native forest fragment in a region of extensive
+agriculture.
+
+Chiarello AG(1).
+
+Author information: 
+(1)Museu de Biologia Prof. Mello Leitão, Santa Teresa, ES, 29650-000, Brazil.
+
+A survey of mammals and birds was carried out in a semi-deciduous forest fragment
+of 150 ha located in a zone of intensive agriculture in Ribeirão Preto, State of 
+São Paulo, south-eastern Brazil. Line transect sampling was used to census
+mammals and birds during six days, totalling 27.8 km of trails and 27.8 hours of 
+observation. Twenty mammal species were confirmed in the area (except bats and
+small mammals), including rare or endangered species, such as the mountain lion
+(Puma concolor), the maned wolf (Chrysocyon brachyurus), and the ocelot
+(Leopardus pardalis). The brown capuchin monkey (Cebus apella) and the
+black-tufted-ear marmoset (Callithrix penicillata) were found frequently,
+suggesting high population density in the fragment. Regarding the avifauna, 49
+bird species were recorded, most of them typical of open areas or forest edges.
+Some confirmed species, however, are becoming increasingly rare in the region, as
+for example the muscovy duck (Cairina moschata) and the toco toucan (Ramphastos
+toco). The results demonstrate that forest fragment of this size are refuges for 
+native fauna in a region dominated almost exclusively by sugar-cane plantations. 
+Besides faunal aspects, the conservation of these fragments is of great
+importance for the establishment of studies related to species preservation in
+the long term, including reintroduction and translocation projects, as well as
+studies related to genetic health of isolated populations.
+
+DOI: 10.1590/s0034-71082000000200007 
+PMID: 10959107 
+
+
+3274. J Biomed Opt. 2000 Jul;5(3):307-14.
+
+On the use of schematic eye models to estimate retinal image quality.
+
+Li G(1), Zwick H, Stuck B, Lund DJ.
+
+Author information: 
+(1)Walter Reed Army Institute of Research, US Army Medical Research Detachment,
+Brooks Air Force Base, Texas 78235-5138, USA. liguo@aol.com
+
+The optical performance of the eyes of nine vertebrate species was evaluated
+using optical system design techniques and schematic eye models. Essential
+features of eyes, including the modulation transfer function (MTF) and the MTF
+cutoff frequency are related to the numerical aperture of the eyes. Superior
+resolution for in vivo imaging of photoreceptors may be achieved by dilating the 
+iris pupil of an eye, minimizing coherence, and using short wavelength
+illumination. The difference of lateral and axial resolution between a small and 
+a large eye for imaging photoreceptors in vivo.
+
+DOI: 10.1117/1.430001 
+PMID: 10958617  [Indexed for MEDLINE]
+

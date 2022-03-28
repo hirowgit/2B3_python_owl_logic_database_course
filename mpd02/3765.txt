@@ -1,0 +1,40 @@
+
+
+3765. J Virol. 1996 Sep;70(9):6314-22.
+
+Human adenovirus-specific CD8+ T-cell responses are not inhibited by E3-19K in
+the presence of gamma interferon.
+
+Flomenberg P(1), Piaskowski V, Truitt RL, Casper JT.
+
+Author information: 
+(1)Department of Medicine, Thomas Jefferson Medical College, Philadelphia,
+Pennsylvania 19107, USA.
+
+Adenovirus has considerable potential as a gene therapy vector, but recent animal
+data suggest that transduced cells are destroyed by adenovirus-specific cytotoxic
+T-lymphocyte (CTL) responses. Therefore, it will be important to develop
+strategies to evade adenovirus-specific CTL responses in humans. As a first step,
+an assay was developed to detect and characterize human CTLs directed against
+adenovirus. Adenovirus-specific CTL responses were demonstrated to be present in 
+four of five healthy adults by in vitro stimulation of peripheral blood
+mononuclear cells with autologous fibroblasts infected with the adenovirus type 2
+(Ad2) E3 deletion mutant Ad2+ND1. Killing by adenovirus-specific CTLs was major
+histocompatibility complex class I restricted and was documented to be mediated
+by CD8+ T cells. Wild-type-Ad2-infected cells were poor CTL targets compared with
+cells infected with the E3 deletion mutant because of the expression of E3-19K,
+an early viral glycoprotein which prevents transport of major histocompatibility 
+complex class I antigens out of the endoplasmic reticulum to the cell surface.
+However, preincubation of targets with gamma interferon resulted in enhanced
+killing of wild-type-Ad2-infected cells, to levels comparable to those obtained
+with Ad2+ ND1-infected cells. Radioimmunoprecipitation analysis revealed that
+gamma interferon not only increased the synthesis of class I antigens but also
+allowed excess molecules to escape from the endoplasmic reticulum. It is
+concluded that E3-19K expression in adenovirus-infected cells inhibits human CTL 
+recognition in vitro but that gamma interferon may help overcome the E3-19K
+effect during acute infection in vivo.
+
+DOI: 10.1128/JVI.70.9.6314-6322.1996 
+PMCID: PMC190657
+PMID: 8709259  [Indexed for MEDLINE]
+

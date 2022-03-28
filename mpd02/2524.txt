@@ -1,0 +1,36 @@
+
+
+2524. Cell Tissue Res. 2006 Dec;326(3):707-14. Epub 2006 Jul 4.
+
+Cerebellar localization of the NO-receptive soluble guanylyl cyclase
+subunits-alpha(2)/beta (1) in non-human primates.
+
+Bidmon HJ(1), Mohlberg H, Habermann G, Buse E, Zilles K, Behrends S.
+
+Author information: 
+(1)C.& O. Vogt Institute of Brain Research, Bldg. 22.03, University St. 1, 40225 
+Düsseldorf, Germany. hjb@hirn.uni-duesseldorf.de
+
+Nitric-oxide-sensitive guanylyl cyclase (NO-sGC) plays a pivotal role in many
+second messenger cascades. Neurotransmission- and neuropathology-related changes 
+in NO-sGC have been suggested. However, the cellular localization of NO-sGC in
+primate brains, including humans, remains unknown. Biochemical evidence has
+linked the alpha(2)-subunit of NO-sGC directly to neurotransmission in rodents.
+Here, we have used a recently characterized subunit-specific antibody for the
+localization of the alpha(2)-subunit on sections from the cerebelli of the common
+marmoset (Callithrix jacchus; New World monkey) and macaque monkeys (Macaca
+mulatta, M. fascicularis; Old World monkeys). In contrast to the more ubiquitous 
+cytoplasmic presence of subunit-beta(1), the alpha(2)-subunit is mainly confined 
+to the somato-dendritic membrane including the spines of the Purkinje cells. Only
+limited colocalization with presynaptically localized synaptophysin has been seen
+under our staining conditions, indicating a higher abundance of subunit-alpha(2) 
+at the postsynaptic site. This localization indicates that subunit-alpha(2) links
+NO-sGC to neurotransmission, whereas subunit-beta(1) may act as a cytoplasmic
+regulator/activator by contributing to active heterodimer formation via
+translocation from the cytoplasm to the cell membrane. The last-mentioned action 
+may be a prerequisite for generating nitric-oxide-dependent, subcellular, and
+postsynaptically localized cGMP signals along neuronal processes.
+
+DOI: 10.1007/s00441-006-0246-9 
+PMID: 16819625  [Indexed for MEDLINE]
+

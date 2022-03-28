@@ -1,0 +1,46 @@
+
+
+1681. PLoS One. 2012;7(7):e41175. doi: 10.1371/journal.pone.0041175. Epub 2012 Jul 31.
+
+The natural history of class I primate alcohol dehydrogenases includes gene
+duplication, gene loss, and gene conversion.
+
+Carrigan MA(1), Uryasev O, Davis RP, Zhai L, Hurley TD, Benner SA.
+
+Author information: 
+(1)Foundation for Applied Molecular Evolution, Gainesville, Florida, United
+States of America. mcarrigan@ffame.org
+
+BACKGROUND: Gene duplication is a source of molecular innovation throughout
+evolution. However, even with massive amounts of genome sequence data,
+correlating gene duplication with speciation and other events in natural history 
+can be difficult. This is especially true in its most interesting cases, where
+rapid and multiple duplications are likely to reflect adaptation to rapidly
+changing environments and life styles. This may be so for Class I of alcohol
+dehydrogenases (ADH1s), where multiple duplications occurred in primate lineages 
+in Old and New World monkeys (OWMs and NWMs) and hominoids.
+METHODOLOGY/PRINCIPAL FINDINGS: To build a preferred model for the natural
+history of ADH1s, we determined the sequences of nine new ADH1 genes, finding for
+the first time multiple paralogs in various prosimians (lemurs, strepsirhines).
+Database mining then identified novel ADH1 paralogs in both macaque (an OWM) and 
+marmoset (a NWM). These were used with the previously identified human paralogs
+to resolve controversies relating to dates of duplication and gene conversion in 
+the ADH1 family. Central to these controversies are differences in the topologies
+of trees generated from exonic (coding) sequences and intronic sequences.
+CONCLUSIONS/SIGNIFICANCE: We provide evidence that gene conversions are the
+primary source of difference, using molecular clock dating of duplications and
+analyses of microinsertions and deletions (micro-indels). The tree topology
+inferred from intron sequences appear to more correctly represent the natural
+history of ADH1s, with the ADH1 paralogs in platyrrhines (NWMs) and catarrhines
+(OWMs and hominoids) having arisen by duplications shortly predating the
+divergence of OWMs and NWMs. We also conclude that paralogs in lemurs arose
+independently. Finally, we identify errors in database interpretation as the
+source of controversies concerning gene conversion. These analyses provide a
+model for the natural history of ADH1s that posits four ADH1 paralogs in the
+ancestor of Catarrhine and Platyrrhine primates, followed by the loss of an ADH1 
+paralog in the human lineage.
+
+DOI: 10.1371/journal.pone.0041175 
+PMCID: PMC3409193
+PMID: 22859968  [Indexed for MEDLINE]
+

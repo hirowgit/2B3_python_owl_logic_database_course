@@ -1,0 +1,29 @@
+
+
+3398. Tissue Antigens. 1999 Aug;54(2):185-90.
+
+An assay for peptide binding to HLA-Cw*0102.
+
+Andersen MH(1), Søndergaard I, Zeuthen J, Elliott T, Haurum JS.
+
+Author information: 
+(1)Department of Tumor Cell Biology, Danish Cancer Society, Copenhagen.
+mha@cancer.dk
+
+The assembly assay for peptide binding to class I major histocompatibility
+complex (MHC) molecules is based on the ability of peptides to stabilize MHC
+class I molecules synthesized by transporter associated with antigen processing
+(TAP)-deficient cell. The TAP-deficient cell line T2 has previously been used in 
+the assembly assay to analyze peptide binding to HLA-A*0201 and -B*5101. In this 
+study, we have extended this technique to assay for peptides binding to
+endogenous HLA-Cw*0102 molecules. We have analyzed the peptide binding of 20
+peptides with primary anchor motifs for HLA-Cw*0102. One-third of the peptides
+analyzed bound with high affinity, half of the peptides examined did not bind,
+whereas the remaining peptides displayed intermediate binding activity. Interest 
+in HLA-C molecules has increased significantly in recent years, since it has been
+shown that HLA-C molecules both can present peptides to cytotoxic T lymphocytes
+(CTL) and in addition are able to inhibit natural killer (NK)-mediated lysis.
+
+DOI: 10.1034/j.1399-0039.1999.540210.x 
+PMID: 10488746  [Indexed for MEDLINE]
+

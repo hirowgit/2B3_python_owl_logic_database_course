@@ -1,0 +1,42 @@
+
+
+3564. J Mol Evol. 1998 Jul;47(1):32-41.
+
+A reexamination of the phylogenetic position of Callimico (primates)
+incorporating new mitochondrial DNA sequence data.
+
+Pastorini J(1), Forstner MR, Martin RD, Melnick DJ.
+
+Author information: 
+(1)Anthropologisches Institut, Universität Zürich-Irchel, Switzerland.
+jenny@aim.unizh.ch
+
+The New World monkeys are divided into two main groups, Callitrichidae and
+Cebidae. Callimico goeldii shares traits with both the Cebidae and the
+Callitrichidae. Recent morphological phyletic studies generally place Callimico
+as the most basal member of the Callitrichidae. In contrast, genetic studies
+(immunological, restriction fragment, and sequence data) have consistently placed
+Callimico somewhere within the Callitrichidae, not basal to this clade. A DNA
+sequence data set from the terminal 236 codons of the mitochondrial ND4 gene and 
+the tRNA(His), tRNA(Ser), and tRNA(Leu) genes was generated to clarify the
+position of Callimico. The sequences of 887 base pairs were analyzed by
+maximum-parsimony, neighbor-joining, and maximum-likelihood methods. The results 
+of these various methods are generally congruent and place Callimico within the
+Callitrichidae between the marmosets (Callithrix and Cebuella) and the tamarins
+(Saguinus and Leontopithecus). Combined analyses of all suitable nuclear and
+mitochondrial gene sequences confirm the position of Callimico between the
+marmosets and the tamarins. As available molecular evidence indicates that
+Callimico is more closely related to the marmosets than to the tamarins, a
+reconsideration of the morphological evidence in light of the consensus tree from
+DNA sequence analyses is warranted. The marmosets and tamarins share four
+morphological characters (loss of the third molar, loss of the hypocone, reduced 
+body size, reproductive twinning). Dwarfism may have evolved repeatedly among the
+Callitrichidae. It is well-known that the loss of a character can occur many
+times independently. The reproduction of marmosets and tamarins is extremely
+specialized and it is difficult to imagine that this complex and unique twinning 
+system evolved separately in marmosets and tamarins. However, it is possible that
+a secondary reversal to single offspring took place in Callimico.
+
+DOI: 10.1007/pl00006360 
+PMID: 9664694  [Indexed for MEDLINE]
+

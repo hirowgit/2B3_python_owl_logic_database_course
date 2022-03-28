@@ -1,0 +1,88 @@
+
+
+1099. Xenobiotica. 2016 Nov;46(11):977-85. doi: 10.3109/00498254.2016.1146366. Epub
+2016 Feb 22.
+
+Marmoset cytochrome P450 2J2 mainly expressed in small intestines and livers
+effectively metabolizes human P450 2J2 probe substrates, astemizole and
+terfenadine.
+
+Uehara S(1), Uno Y(2), Inoue T(3), Okamoto E(1), Sasaki E(3)(4), Yamazaki H(1).
+
+Author information: 
+(1)a Laboratory of Drug Metabolism and Pharmacokinetics , Showa Pharmaceutical
+University , Machida , Tokyo , Japan .
+(2)b Pharmacokinetics and Bioanalysis Center, Shin Nippon Biomedical
+Laboratories, Ltd , Kainan , Wakayama , Japan .
+(3)c Department of Applied Developmental Biology , Central Institute for
+Experimental Animals , Kawasaki , Japan , and.
+(4)d Keio Advanced Research Center, Keio University , Minato-Ku, Tokyo , Japan.
+
+1. Common marmoset (Callithrix jacchus), a New World Monkey, has potential to be 
+a useful animal model in preclinical studies. However, drug metabolizing
+properties have not been fully understood due to insufficient information on
+cytochrome P450 (P450), major drug metabolizing enzymes. 2. Marmoset P450 2J2
+cDNA was isolated from marmoset livers. The deduced amino acid sequence showed a 
+high-sequence identity (91%) with cynomolgus monkey and human P450 2J2 enzymes. A
+phylogenetic tree revealed that marmoset P450 2J2 was evolutionarily closer to
+cynomolgus monkey and human P450 2J2 enzymes, than P450 2J forms in pigs,
+rabbits, rats or mice. 3. Marmoset P450 2J2 mRNA was abundantly expressed in the 
+small intestine and liver, and to a lesser extent in the brain, lung and kidney. 
+Immunoblot analysis also showed expression of marmoset P450 2J2 protein in the
+small intestine and liver. 4. Enzyme assays using marmoset P450 2J2 protein
+heterologously expressed in Escherichia coli indicated that marmoset P450 2J2
+effectively catalyzed astemizole O-demethylation and terfenadine t-butyl
+hydroxylation, similar to human and cynomolgus monkey P450 2J2 enzymes. 5. These 
+results suggest the functional characteristics of P450 2J2 enzymes are similar
+among marmosets, cynomolgus monkeys and humans.
+
+DOI: 10.3109/00498254.2016.1146366 
+PMID: 26899760  [Indexed for MEDLINE]
+
+
+1100. Mol Neurobiol. 2017 Apr;54(3):1745-1758. doi: 10.1007/s12035-016-9777-6. Epub
+2016 Feb 16.
+
+Transduction Profile of the Marmoset Central Nervous System Using
+Adeno-Associated Virus Serotype 9 Vectors.
+
+Matsuzaki Y(1), Konno A(1), Mukai R(2), Honda F(3), Hirato M(3), Yoshimoto Y(3), 
+Hirai H(4).
+
+Author information: 
+(1)Department of Neurophysiology and Neural Repair, Gunma University Graduate
+School of Medicine, Maebashi, Gunma, 371-8511, Japan.
+(2)Department of Ophthalmology, Gunma University Graduate School of Medicine,
+Maebashi, Gunma, 371-8511, Japan.
+(3)Department of Neurosurgery, Gunma University Graduate School of Medicine,
+Maebashi, Gunma, 371-8511, Japan.
+(4)Department of Neurophysiology and Neural Repair, Gunma University Graduate
+School of Medicine, Maebashi, Gunma, 371-8511, Japan. hirai@gunma-u.ac.jp.
+
+The common marmoset is a small New World primate that has attracted remarkable
+attention as a potential experimental animal link between rodents and humans.
+Adeno-associated virus (AAV) vector-mediated expression of a disease-causing gene
+or a potential therapeutic gene in the brain may allow the construction of a
+marmoset model of a brain disorder or an exploration of the possibility of gene
+therapy. To gain more insights into AAV vector-mediated transduction profiles in 
+the marmoset central nervous system (CNS), we delivered AAV serotype 9 (AAV9)
+vectors expressing GFP to the cisterna magna or the cerebellar cortex.
+Intracisternally injected AAV9 vectors expanded in the CNS according to the
+cerebrospinal fluid (CSF) flow, by retrograde transport through neuronal axons or
+via intermediary transcytosis, resulting in diffuse and global transduction
+within the CNS. In contrast, cerebellar parenchymal injection intensely
+transduced a more limited area, including the cerebellar cortex and cerebellar
+afferents, such as neurons of the pontine nuclei, vestibular nucleus and inferior
+olivary nucleus. In the spinal cord, both administration routes resulted in
+labeling of the dorsal column and spinocerebellar tracts, presumably by
+retrograde transport from the medulla oblongata and cerebellum, respectively.
+Motor neurons and dorsal root ganglia were also transduced, possibly by diffusion
+of the vector down the subarachnoid space along the cord. Thus, these two
+administration routes led to distinct transduction patterns in the marmoset CNS, 
+which could be utilized to generate different disease animal models and to
+deliver therapeutic genes for the treatment of diseases affecting distinct brain 
+areas.
+
+DOI: 10.1007/s12035-016-9777-6 
+PMID: 26884266  [Indexed for MEDLINE]
+

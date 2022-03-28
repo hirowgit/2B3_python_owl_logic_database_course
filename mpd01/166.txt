@@ -1,0 +1,69 @@
+
+
+166. Elife. 2021 Mar 31;10. pii: e65012. doi: 10.7554/eLife.65012.
+
+Neural network of social interaction observation in marmosets.
+
+Cléry JC(1), Hori Y(1), Schaeffer DJ(1)(2), Menon RS(1)(3), Everling S(1)(3).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Canada.
+(2)University of Pittsburgh, Department of Neurobiology, Pittsburgh, United
+States.
+(3)Department of Physiology and Pharmacology, The University of Western Ontario, 
+London, Canada.
+
+A crucial component of social cognition is to observe and understand the social
+interactions of other individuals. A promising nonhuman primate model for
+investigating the neural basis of social interaction observation is the common
+marmoset (Callithrix jacchus), a small New World primate that shares a rich
+social repertoire with humans. Here, we used functional magnetic resonance
+imaging acquired at 9.4 T to map the brain areas activated by social interaction 
+observation in awake marmosets. We discovered a network of subcortical and
+cortical areas, predominately in the anterior lateral frontal and medial frontal 
+cortex, that was specifically activated by social interaction observation. This
+network resembled that recently identified in Old World macaque monkeys. Our
+findings suggest that this network is largely conserved between New and Old World
+primates and support the use of marmosets for studying the neural basis of social
+cognition.
+
+© 2021, Cléry et al.
+
+DOI: 10.7554/eLife.65012 
+PMCID: PMC8024015
+PMID: 33787492  [Indexed for MEDLINE]
+
+Conflict of interest statement: JC, YH, DS, RM, SE No competing interests
+declared
+
+
+167. Am Nat. 2021 Apr;197(4):502-508. doi: 10.1086/713110. Epub 2021 Feb 11.
+
+On Being a Monkey's Uncle: Germline Chimerism in the Callitrichinae and the
+Evolution of Sibling Rivalry.
+
+Patten MM.
+
+AbstractA typical monkey of the subfamily Callitrichinae has two or more cell
+lineages occupying its tissues: one from "itself," and one from its co-twin(s).
+Chimerism originates in utero when the twin placentae fuse, vascular anastomoses 
+form between them, and cells are exchanged between conceptuses through their
+shared circulation. Previously it was thought that chimerism was limited to
+tissues of the hematopoietic cell lineage and that the germline was clonal, but
+subsequent empirical work has shown that chimerism may extend to many tissues,
+including the germline. To explore how natural selection on chimeric organisms
+should shape their social behavior, I construct an inclusive fitness model of
+sibling interactions that permits differing degrees of chimerism in the soma and 
+germline. The model predicts that somatic chimerism should diminish sibling
+rivalry but that germline chimerism should typically intensify it. A further
+implication of the model is the possibility for intraorganismal conflict over
+developing phenotypes; as tissues may differ in their extent of chimerism-for
+example, placenta versus brain-their respective inclusive fitness may be
+maximized by different phenotypes. Communication between tissues in chimeric
+organisms might therefore be noisy, rapidly evolving, and fraught, as is common
+in systems with internal evolutionary conflicts of interest.
+
+DOI: 10.1086/713110 
+PMID: 33755537  [Indexed for MEDLINE]
+

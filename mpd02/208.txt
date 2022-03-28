@@ -1,0 +1,48 @@
+
+
+208. Cells. 2020 Dec 22;10(1). pii: E6. doi: 10.3390/cells10010006.
+
+Direct Neuronal Reprogramming of Common Marmoset Fibroblasts by ASCL1,
+microRNA-9/9*, and microRNA-124 Overexpression.
+
+Nemoto A(1), Kobayashi R(1)(2), Yoshimatsu S(1)(2)(3), Sato Y(2)(4), Kondo
+T(1)(2), Yoo AS(5), Shiozawa S(1)(6), Okano H(1)(2).
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, Shinjuku-ku,
+Tokyo 160-8582, Japan.
+(2)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wako City, Saitama 351-0198, Japan.
+(3)Laboratory for Proteolytic Neuroscience, RIKEN Center for Brain Science, Wako 
+City, Saitama 351-0198, Japan.
+(4)Graduate School of Science and Technology, Keio University, Kanagawa 223-8522,
+Japan.
+(5)Department of Developmental Biology, Washington University School of Medicine,
+St. Louis, MO 63110, USA.
+(6)Institute of Animal Experimentation, School of Medicine, Kurume University,
+Fukuoka 830-0011, Japan.
+
+The common marmoset (Callithrix jacchus) has attracted considerable attention,
+especially in the biomedical science and neuroscience research fields, because of
+its potential to recapitulate the complex and multidimensional phenotypes of
+human diseases, and several neurodegenerative transgenic models have been
+reported. However, there remain several issues as (i) it takes years to generate 
+late-onset disease models, and (ii) the onset age and severity of phenotypes can 
+vary among individuals due to differences in genetic background. In the present
+study, we established an efficient and rapid direct neuronal induction method
+(induced neurons; iNs) from embryonic and adult marmoset fibroblasts to
+investigate cellular-level phenotypes in the marmoset brain in vitro. We
+overexpressed reprogramming effectors, i.e., microRNA-9/9*, microRNA-124, and
+Achaete-Scute family bHLH transcription factor 1, in fibroblasts with a small
+molecule cocktail that facilitates neuronal induction. The resultant iNs from
+embryonic and adult marmoset fibroblasts showed neuronal characteristics within
+two weeks, including neuron-specific gene expression and spontaneous neuronal
+activity. As directly reprogrammed neurons have been shown to model
+neurodegenerative disorders, the neuronal reprogramming of marmoset fibroblasts
+may offer new tools for investigating neurological phenotypes associated with
+disease progression in non-human primate neurological disease models.
+
+DOI: 10.3390/cells10010006 
+PMCID: PMC7822173
+PMID: 33375083  [Indexed for MEDLINE]
+

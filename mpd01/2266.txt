@@ -1,0 +1,79 @@
+
+
+2266. BMC Bioinformatics. 2008 Jun 13;9:278. doi: 10.1186/1471-2105-9-278.
+
+Scipio: using protein sequences to determine the precise exon/intron structures
+of genes and their orthologs in closely related species.
+
+Keller O(1), Odronitz F, Stanke M, Kollmar M, Waack S.
+
+Author information: 
+(1)Universität Göttingen, Institut für Informatik, Lotzestr. 16-18, 37083
+Göttingen, Germany. keller@cs.uni-goettingen.de
+
+BACKGROUND: For many types of analyses, data about gene structure and locations
+of non-coding regions of genes are required. Although a vast amount of genomic
+sequence data is available, precise annotation of genes is lacking behind.
+Finding the corresponding gene of a given protein sequence by means of
+conventional tools is error prone, and cannot be completed without manual
+inspection, which is time consuming and requires considerable experience.
+RESULTS: Scipio is a tool based on the alignment program BLAT to determine the
+precise gene structure given a protein sequence and a genome sequence. It
+identifies intron-exon borders and splice sites and is able to cope with
+sequencing errors and genes spanning several contigs in genomes that have not yet
+been assembled to supercontigs or chromosomes. Instead of producing a set of hits
+with varying confidence, Scipio gives the user a coherent summary of locations on
+the genome that code for the query protein. The output contains information about
+discrepancies that may result from sequencing errors. Scipio has also
+successfully been used to find homologous genes in closely related species.
+Scipio was tested with 979 protein queries against 16 arthropod genomes (intra
+species search). For cross-species annotation, Scipio was used to annotate 40
+genes from Homo sapiens in the primates Pongo pygmaeus abelii and Callithrix
+jacchus. The prediction quality of Scipio was tested in a comparative study
+against that of BLAT and the well established program Exonerate.
+CONCLUSION: Scipio is able to precisely map a protein query onto a genome. Even
+in cases when there are many sequencing errors, or when incomplete genome
+assemblies lead to hits that stretch across multiple target sequences, it very
+often provides the user with the correct determination of intron-exon borders and
+splice sites, showing an improved prediction accuracy compared to BLAT and
+Exonerate. Apart from being able to find genes in the genome that encode the
+query protein, Scipio can also be used to annotate genes in closely related
+species.
+
+DOI: 10.1186/1471-2105-9-278 
+PMCID: PMC2442105
+PMID: 18554390  [Indexed for MEDLINE]
+
+
+2267. Virus Res. 2008 Sep;136(1-2):118-23. doi: 10.1016/j.virusres.2008.04.026. Epub
+2008 Jun 11.
+
+Effect of siRNA mediated suppression of signaling lymphocyte activation molecule 
+on replication of peste des petits ruminants virus in vitro.
+
+Pawar RM(1), Raj GD, Kumar TM, Raja A, Balachandran C.
+
+Author information: 
+(1)Department of Animal Biotechnology, Madras Veterinary College, Tamil Nadu
+Veterinary and Animal Sciences University, Chennai 600051, India.
+
+Signaling lymphocyte activation molecule (SLAM) expression was inhibited in B95a 
+cell line using siRNA and the effect of SLAM inhibition on peste des petits
+ruminants virus (PPRV) replication and infectivity titre was studied. SLAM
+suppression was assessed using real-time PCR and flow cytometry to confirm
+suppression at the m-RNA and protein levels, respectively. Three chemically
+synthesized siRNAs were transfected individually using oligofectamine into B95a
+cell line. This resulted in SLAM suppression from 48 to 454-folds, in comparison 
+to the untransfected B95a cell line. When the SLAM suppressed B95a cell line was 
+infected with PPRV, replication was reduced by 12-143-folds and virus titre was
+reduced from log10 1.09 to 2.28. siRNA 3 showed the most potent inhibition of
+SLAM expression both at m-RNA and protein levels. This also caused the maximum
+reduction of virus replication and virus titre. A 100-fold reduction in PPRV
+titres was seen in anti-SLAM antibody neutralized B95a cell line. This further
+confirms that SLAM is one of the (co) receptors for PPRV. However, the presence
+of other putative virus receptor(s) is/are not ruled out.
+
+DOI: 10.1016/j.virusres.2008.04.026 
+PMCID: PMC7127705
+PMID: 18550191  [Indexed for MEDLINE]
+

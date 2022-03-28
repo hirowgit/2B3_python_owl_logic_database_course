@@ -1,0 +1,81 @@
+
+
+2724. J Comp Neurol. 2005 Mar 7;483(2):164-91.
+
+Resolving the organization of the New World monkey third visual complex: the
+dorsal extrastriate cortex of the marmoset (Callithrix jacchus).
+
+Rosa MG(1), Palmer SM, Gamberini M, Tweedale R, Piñon MC, Bourne JA.
+
+Author information: 
+(1)Department of Physiology and Monash University Centre for Brain and Behaviour,
+Monash University, Clayton VIC 3800, Australia. Marcello.Rosa@med.monash.edu.au
+
+We tested current hypotheses on the functional organization of the third visual
+complex, a particularly controversial region of the primate extrastriate cortex. 
+In anatomical experiments, injections of retrograde tracers were placed in the
+dorsal cortex immediately rostral to the second visual area (V2) of New World
+monkeys (Callithrix jacchus), revealing the topography of interconnections
+between the "third tier" cortex and the primary visual area (V1). The data
+indicate the presence of a dorsomedial area (DM), which represents the entire
+upper and lower quadrants of the visual field, and which receives strong,
+topographically organized projections from the superficial layers of V1. The
+visuotopic organization and boundaries of DM were confirmed by
+electrophysiological recordings in the same animals and by architectural
+characteristics which were distinct from those found in ventral extrastriate
+cortex rostral to V2. There was no electrophysiological or histological evidence 
+for a transitional area between V2 and DM. In particular, the central
+representation of the upper quadrant in DM was directly adjacent to the
+representation of the horizontal meridian that marks the rostral border of V2.
+The present results argue in favor of the hypothesis that the third visual
+complex in New World monkeys contains different areas in its dorsal and ventral
+components: area DM, near the dorsal midline, and a homolog of area 19 of other
+mammals, located more lateral and ventrally. The characteristics of DM suggest
+that it may correspond to visual area 6 (V6) of Old World monkeys.
+
+DOI: 10.1002/cne.20412 
+PMID: 15678474  [Indexed for MEDLINE]
+
+
+2725. Psychopharmacology (Berl). 2005 Apr;179(1):292-302. Epub 2005 Jan 28.
+
+Effects of the mGluR2/3 agonist LY354740 on computerized tasks of attention and
+working memory in marmoset monkeys.
+
+Spinelli S(1), Ballard T, Gatti-McArthur S, Richards GJ, Kapps M, Woltering T,
+Wichmann J, Stadler H, Feldon J, Pryce CR.
+
+Author information: 
+(1)Behavioural Neurobiology Laboratory, Swiss Federal Institute of Technology
+Zurich, Schorenstrasse 16, 8603 Schwerzenbach, Switzerland.
+
+RATIONALE: LY354740 is a recently developed metabotropic glutamatergic receptor 2
+and 3 (mGluR2/3) agonist. A high density of mGluR2 has been reported in terminal 
+fields of the perforant path in rodents and humans, suggesting its involvement in
+cognitive functions mediated by the temporal lobe, including memory. A small
+number of in vivo studies in rodents have assessed the effects of LY354740 on
+memory tasks, reporting the induction of impaired memory for spatial orientation 
+in a water maze task and for delayed match and non-match to position in an
+operant version of these tasks.
+OBJECTIVE: In the present primate study, we used radioautography to describe the 
+distribution and intensity of (3)H-LY354740 binding in the hippocampal formation 
+of the common marmoset monkey (Callithrix jacchus) relative to the rat. In the
+major, in vivo part of the study, the effects of systemic LY354740 on
+computerized tasks of attention and memory were investigated.
+METHODS: Adult common marmosets were trained to perform a five-choice serial
+reaction time (5-CSRT) task and a concurrent delayed match-to-position (CDMP)
+task from the Cambridge Neuropsychological Automated test Battery (CANTAB).
+Filter tests of LY354740 effects on motor dexterity and motivation for reward
+revealed high inter-individual variation in sensitivity; therefore, on the
+5-CSRT, subjects were tested at a dose range of 3--10 mg/kg, and on the CDMP,
+subjects were tested at 1--3 or 3--10 mg/kg.
+RESULTS: Radioautography revealed a relatively low level of (3)H-LY354740 binding
+in the marmoset hippocampal formation compared to the rat. Despite low binding,
+LY354740 reduced sustained-attention accuracy in the 5-CSRT, and reduced accuracy
+in two stages of the CDMP.
+CONCLUSIONS: The current study provides novel evidence for the importance of
+mGluR2/3 in the regulation of primate cognitive functioning.
+
+DOI: 10.1007/s00213-004-2126-x 
+PMID: 15678362  [Indexed for MEDLINE]
+

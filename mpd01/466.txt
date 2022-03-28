@@ -1,0 +1,73 @@
+
+
+466. Neuroscience Research Using Non-human Primate Models and Genome Editing.
+
+Kishi N(4)(5), Okano H(4)(5).
+In: Jaenisch R(1), Zhang F(2), Gage F(3), editors. Genome Editing in
+Neurosciences [Internet]. Cham (CH): Springer; 2017.
+2017 Sep 15.
+
+Author information: 
+(1)Whitehead Institute and Department of Biology, Massachusetts Institute of
+Technology, Cambridge, Massachusetts, USA
+(2)Department of Brain and Cognitive Science, Broad Institute of MIT and Harvard,
+Cambridge, Massachusetts, USA
+(3)Laboratory of Genetics, Salk Institute for Biological Studies, La Jolla,
+California, USA
+(4)Laboratory for Marmoset Neural Architecture, RIKEN Brain Science Institute,
+2-1 Hirosawa, Wako-shi, Saitama, 351-0198, Japan
+(5)Department of Physiology, Keio University School of Medicine, 35 Shinanomachi,
+Shinjuku-ku, Tokyo, 160-8582, Japan
+
+The common marmoset (Callithrix jacchus) is a small New World non-human primate
+indigenous to northeastern Brazil. This species has been attracting the attention
+of biomedical researchers and neuroscientists for its ease of handling and colony
+maintenance, unique behavioral characteristics, and several human-like traits,
+such as enriched social vocal communication and strong relationships between
+parents and offspring. Its high reproductive efficiency makes it particularly
+amenable for use in the development of transgenic and genome editing technologies
+in a non-human primate model. Our group has recently generated transgenic
+marmosets with germ line transmission, opening new avenues in primate research.
+In this chapter, we describe recent advances in neuroscience and disease research
+using common marmosets, and we outline potential uses of genome editing in
+non-human primates toward the development of knock-in/knock-out marmosets.
+
+PMID: 31314447 
+
+
+467. Elife. 2019 Jul 16;8. pii: e41853. doi: 10.7554/eLife.41853.
+
+Vocal and locomotor coordination develops in association with the autonomic
+nervous system.
+
+Gustison ML(1), Borjon JI(1)(2), Takahashi DY(1)(2), Ghazanfar AA(1)(2)(3).
+
+Author information: 
+(1)Princeton Neuroscience Institute, Princeton University, Princeton, United
+States.
+(2)Department of Psychology, Princeton University, Princeton, United States.
+(3)Department of Ecology and Evolutionary Biology, Princeton University,
+Princeton, United States.
+
+In adult animals, movement and vocalizations are coordinated, sometimes
+facilitating, and at other times inhibiting, each other. What is missing is how
+these different domains of motor control become coordinated over the course of
+development. We investigated how postural-locomotor behaviors may influence vocal
+development, and the role played by physiological arousal during their
+interactions. Using infant marmoset monkeys, we densely sampled vocal, postural
+and locomotor behaviors and estimated arousal fluctuations from
+electrocardiographic measures of heart rate. We found that vocalizations matured 
+sooner than postural and locomotor skills, and that vocal-locomotor coordination 
+improved with age and during elevated arousal levels. These results suggest that 
+postural-locomotor maturity is not required for vocal development to occur, and
+that infants gradually improve coordination between vocalizations and body
+movement through a process that may be facilitated by arousal level changes.
+
+© 2019, Gustison et al.
+
+DOI: 10.7554/eLife.41853 
+PMCID: PMC6684270
+PMID: 31310236  [Indexed for MEDLINE]
+
+Conflict of interest statement: MG, JB, DT, AG No competing interests declared
+

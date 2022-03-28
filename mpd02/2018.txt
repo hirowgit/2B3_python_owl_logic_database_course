@@ -1,0 +1,40 @@
+
+
+2018. J Immunol. 2010 May 15;184(10):5895-902. doi: 10.4049/jimmunol.0902850. Epub 2010
+Apr 12.
+
+Virus-specific cytotoxic CD4+ T cells for the treatment of EBV-related tumors.
+
+Merlo A(1), Turrini R, Bobisse S, Zamarchi R, Alaggio R, Dolcetti R, Mautner J,
+Zanovello P, Amadori A, Rosato A.
+
+Author information: 
+(1)Department of Oncology and Surgical Sciences, University of Padova, Italy.
+
+Although adoptive immunotherapy with CD8(+) CTL is providing clinically relevant 
+results against EBV-driven malignancies, the effector role of CD4(+) T cells has 
+been poorly investigated. We addressed this issue in a lymphoblastoid cell
+line-induced mouse model of posttransplant lymphoproliferative disease (PTLD) by 
+comparing the therapeutic efficacy of EBV-specific CD4(+) and CD8(+) T cell lines
+upon adoptive transfer. CD4(+) T cells disclosed a long-lasting and stronger
+proliferative potential than CD8(+) T cells, had a similar activation and
+differentiation marker profile, efficiently killed their targets in a MHC class
+II-restricted manner, and displayed a lytic machinery comparable to that of
+cognate CD8(+) T cells. A detailed analysis of Ag specificity revealed that
+CD4(+) T cells potentially target EBV early lytic cycle proteins. Nonetheless,
+when assessed for the relative therapeutic impact after in vivo transfer, CD4(+) 
+T cells showed a reduced activity compared with the CD8(+) CTL counterpart. This 
+feature was apparently due to a strong and selective downmodulation of MHC class 
+II expression on the tumor cells surface, a phenomenon that could be reverted by 
+the demethylating agent 5-aza-2'-deoxycytidine, thus leading to restoration of
+lymphoblastoid cell line recognition and killing by CD4(+) T cells, as well as to
+a more pronounced therapeutic activity. Conversely, immunohistochemical analysis 
+disclosed that HLA-II expression is fully retained in human PTLD samples. Our
+data indicate that EBV-specific cytotoxic CD4(+) T cells are therapeutic in mice 
+bearing PTLD-like tumors, even in the absence of CD8(+) T cells. These findings
+pave the way to use cultures of pure CD4(+) T cells in immunotherapeutic
+approaches for EBV-related malignancies.
+
+DOI: 10.4049/jimmunol.0902850 
+PMID: 20385879  [Indexed for MEDLINE]
+

@@ -1,0 +1,79 @@
+
+
+1899. Stroke. 2011 May;42(5):1412-9. doi: 10.1161/STROKEAHA.110.596650. Epub 2011 Mar
+24.
+
+Diffusion tensor MRI reveals chronic alterations in white matter despite the
+absence of a visible ischemic lesion on conventional MRI: a nonhuman primate
+study.
+
+Bihel E(1), Roussel S, Toutain J, Bernaudin M, Touzani O.
+
+Author information: 
+(1)CERVOxy, Hypoxia and Cerebrovascular Pathophysiology, CI-NAPS UMR-6232,
+University of Caen, 59, Boulevard Henri Becquerel BP5229, Caen, France 14074.
+
+BACKGROUND AND PURPOSE: The impact of stroke on white matter is poorly described 
+in preclinical investigations mainly based on rodents with a low white (WM)/gray 
+matter ratio. Using diffusion tensor imaging, we evaluated WM alterations and
+correlated them with sensorimotor deficits after stroke in the marmoset, a
+nonhuman primate that displays a WM/gray matter ratio close to that of humans.
+METHODS: Marmosets underwent a transient brain ischemia (3-hour). Eight serial
+MRI examinations were made during ischemia and up to 45 days after reperfusion.
+The sensorimotor deficits were evaluated weekly over 45 days. To assess WM
+alterations, the SD of the angle of the first eigenvector projection was
+calculated in the cortex and in the internal and external capsules. The
+fiber-tracking approach was used to measure the number and the length of bundles.
+RESULTS: Changes in the apparent diffusion coefficient and the fractional
+anisotropy values were similar during the temporal evolution of the lesion in the
+marmoset model of ischemia to that reported in patients with stroke. Despite an
+absence of visible lesions on T2-MRI and diffusion tensor imaging at the chronic 
+stage, diffusion tensor MRI evidenced alterations in WM by the increase in the
+standard deviation of the angle of the first eigenvector projection in the
+cortex, internal and external capsules, and the decrease in the number of bundles
+of fibers tracked. The disruption of WM was strongly correlated with the chronic 
+sensorimotor deficits.
+CONCLUSIONS: Despite an absence of a visible ischemic lesion at the chronic
+stage, diffusion tensor MRI revealed disorganization of WM, which probably
+underlies the persistence of functional deficits.
+
+DOI: 10.1161/STROKEAHA.110.596650 
+PMID: 21441158  [Indexed for MEDLINE]
+
+
+1900. J Appl Toxicol. 2012 Sep;32(9):673-86. doi: 10.1002/jat.1671. Epub 2011 Mar 24.
+
+Calibration and validation of a physiologically based model for soman
+intoxication in the rat, marmoset, guinea pig and pig.
+
+Chen K(1), Seng KY.
+
+Author information: 
+(1)Bioengineering Laboratory, Defence Medical and Environmental Research
+Institute, DSO National Laboratories, 27 Medical Drive, Singapore, 117510,
+Republic of Singapore.
+
+A physiologically based pharmacokinetic and pharmacodynamic (PBPK/PD) model has
+been developed for low, medium and high levels of soman intoxication in the rat, 
+marmoset, guinea pig and pig. The primary objective of this model was to describe
+the pharmacokinetics of soman after intravenous, intramuscular and subcutaneous
+administration in the rat, marmoset, guinea pig, and pig as well as its
+subsequent pharmacodynamic effects on blood acetylcholinesterase (AChE) levels,
+relating dosimetry to physiological response. The reactions modelled in each
+physiologically realistic compartment are: (1) partitioning of C(±)P(±) soman
+from the blood into the tissue; (2) inhibition of AChE and carboxylesterase (CaE)
+by soman; (3) elimination of soman by enzymatic hydrolysis; (4) de novo synthesis
+and degradation of AChE and CaE; and (5) aging of AChE-soman and CaE-soman
+complexes. The model was first calibrated for the rat, then extrapolated for
+validation in the marmoset, guinea pig and pig. Adequate fits to experimental
+data on the time course of soman pharmacokinetics and AChE inhibition were
+achieved in the mammalian models. In conclusion, the present model adequately
+predicts the dose-response relationship resulting from soman intoxication and can
+potentially be applied to predict soman pharmacokinetics and pharmacodynamics in 
+other species, including human.
+
+Copyright © 2011 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/jat.1671 
+PMID: 21433037  [Indexed for MEDLINE]
+

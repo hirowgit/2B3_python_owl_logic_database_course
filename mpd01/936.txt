@@ -1,0 +1,76 @@
+
+
+936. Sci China Life Sci. 2017 Jan;60(1):66-71. doi: 10.1007/s11427-016-0286-7. Epub
+2017 Jan 5.
+
+Chaetocin reactivates the lytic replication of Epstein-Barr virus from latency
+via reactive oxygen species.
+
+Zhang S(1), Yin J(1), Zhong J(2).
+
+Author information: 
+(1)Department of Microbiology and Microbial Engineering, School of Life Sciences,
+Fudan University, Shanghai, 200438, China.
+(2)Department of Microbiology and Microbial Engineering, School of Life Sciences,
+Fudan University, Shanghai, 200438, China. jzhong@fudan.edu.cn.
+
+Oxidative stress, regarded as a negative effect of free radicals in vivo, takes
+place when organisms suffer from harmful stimuli. Some viruses can induce the
+release of reactive oxygen species (ROS) in infected cells, which may be closely 
+related with their pathogenicity. In this report, chaetocin, a fungal metabolite 
+reported to have antimicrobial and cytostatic activity, was studied for its
+effect on the activation of latent Epstein-Barr virus (EBV) in B95-8 cells. We
+found that chaetocin remarkably up-regulated EBV lytic transcription and DNA
+replication at a low concentration (50 nmol L-1). The activation of latent EBV
+was accompanied by an increased cellular ROS level. N-acetyl-L-cysteine (NAC), an
+ROS inhibitor, suppressed chaetocin-induced EBV activation. Chaetocin had little 
+effect on histone H3K9 methylation, while NAC also significantly reduced H3K9
+methylation. These results suggested that chaetocin reactivates latent EBV
+primarily via ROS pathways.
+
+DOI: 10.1007/s11427-016-0286-7 
+PMID: 28063010  [Indexed for MEDLINE]
+
+
+937. Gen Comp Endocrinol. 2017 May 15;246:331-336. doi: 10.1016/j.ygcen.2017.01.009.
+Epub 2017 Jan 4.
+
+Transcriptional regulation of follicle-stimulating hormone β-subunit in marmoset 
+by an alternate distal promoter.
+
+Kutteyil SS(1), Pathak BR(2), Mahale SD(3).
+
+Author information: 
+(1)Division of Structural Biology, National Institute for Research in
+Reproductive Health (Indian Council of Medical Research), Jehangir Merwanji
+Street, Parel, Mumbai 400012, India.
+(2)Division of Structural Biology, National Institute for Research in
+Reproductive Health (Indian Council of Medical Research), Jehangir Merwanji
+Street, Parel, Mumbai 400012, India. Electronic address: pathakb@nirrh.res.in.
+(3)Division of Structural Biology, National Institute for Research in
+Reproductive Health (Indian Council of Medical Research), Jehangir Merwanji
+Street, Parel, Mumbai 400012, India. Electronic address: smitamahale@hotmail.com.
+
+Follicle-stimulating hormone (FSH) is essential for mammalian folliculogenesis
+and spermatogenesis. Common marmoset (Callithrix jacchus) is a New World primate 
+which exhibits an unusual FSH profile across the ovarian cycle with a
+mid-follicular FSH peak that is not observed in Catarrhini primates like humans. 
+Since transcription of FSH β-subunit gene (FSHβ) is a rate-limiting step in the
+production of mature FSH, this study aimed to investigate the regulation of
+marmoset FSHβ gene expression in comparison to human. In silico analysis of the
+FSHβ promoter sequences identified a TATA box element upstream of the
+conventional TATA box element in marmoset but not in human sequence. FSHβ mRNA
+transcript longer than the conventional transcript was detected in marmoset
+pituitary implying presence of a distal transcription start site. In luciferase
+reporter assays, the marmoset putative distal promoter had higher activity than
+the corresponding human region even in absence of the conventional proximal
+promoter. Indeed higher affinity binding of TATA box-binding protein to the
+putative distal TATA box element was obtained in electrophoretic mobility shift
+assay. This suggests existence of a differential regulation of FSHβ transcription
+in marmoset compared to humans.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ygcen.2017.01.009 
+PMID: 28062307  [Indexed for MEDLINE]
+

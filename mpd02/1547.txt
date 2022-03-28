@@ -1,0 +1,48 @@
+
+
+1547. BMC Vet Res. 2013 Jun 11;9:113. doi: 10.1186/1746-6148-9-113.
+
+Comparison of three different sedative-anaesthetic protocols (ketamine,
+ketamine-medetomidine and alphaxalone) in common marmosets (Callithrix jacchus).
+
+Bakker J, Uilenreef JJ, Pelt ER, Brok HP, Remarque EJ, Langermans JA.
+
+BACKGROUND: Handling of common marmoset (Callithrix jacchus) usually requires
+chemical restraint. Ketamine has been associated with muscle damage in primates, 
+while common marmosets, compared to other primates, additionally display an
+exceptional high sensitivity to ketamine-associated side-effects. Notably, muscle
+twitching movements of limbs and hands, and a marked increase in salivation are
+observed. We investigated two alternative intramuscular (i.m.) immobilisation
+protocols against ketamine (50 mg/kg; protocol 1) in a double-blind randomised
+crossover study in ten healthy adult common marmosets for use as a safe reliable,
+short-term immobilisation and sedation. These protocols comprised: alphaxalone
+(12 mg/kg; protocol 2) and 25 mg/kg ketamine combined with 0.50 mg/kg
+medetomidine (reversal with 2.5 mg/kg atipamezole; protocol 3A). Following
+completion and unblinding, the project was extended with an additional protocol
+(3B), comprising 25 mg/kg ketamine combined with 0.05 mg/kg medetomidine
+(reversal with 0.25 mg/kg atipamezole, twice with 35 min interval).
+RESULTS: All protocols in this study provided rapid onset (induction times
+<5 min) of immobilisation and sedation. Duration of immobilisation was
+31.23 ± 22.39 min, 53.72 ± 13.08 min, 19.73 ± 5.74 min, and 22.78 ± 22.37 min for
+protocol 1, 2, 3A, and 3B, respectively. Recovery times were 135.84 ± 39.19 min, 
+55.79 ± 11.02 min, 405.46 ± 29.81 min, and 291.91 ± 80.34 min, respectively.
+Regarding the quality, and reliability (judged by pedal withdrawal reflex,
+palpebral reflex and muscle tension) of all protocols, protocol 2 was the most
+optimal. Monitored vital parameters were within clinically acceptable limits
+during all protocols and there were no fatalities. Indication of muscle damage as
+assessed by AST, LDH and CK values was most prominent elevated in protocol 1, 3A,
+and 3B.
+CONCLUSIONS: We conclude that intramuscular administration of 12 mg/kg
+alphaxalone to common marmosets is preferred over other protocols studied.
+Protocol 2 resulted in at least comparable immobilisation quality with acceptable
+and less frequent side effects and superior recovery quality. In all protocols,
+supportive therapy, such as external heat support, remains mandatory. Notably, an
+unacceptable long recovery period in both ketamine/medetomidine protocols
+(subsequently reversed with atipamezole) was observed, showing that α-2
+adrenoreceptor agonists in the used dose and dosing regime is not the first
+choice for sedation in common marmosets in a standard research setting.
+
+DOI: 10.1186/1746-6148-9-113 
+PMCID: PMC3686586
+PMID: 23758836  [Indexed for MEDLINE]
+

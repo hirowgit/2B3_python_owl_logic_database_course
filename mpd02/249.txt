@@ -1,0 +1,43 @@
+
+
+249. Sci Rep. 2020 Oct 6;10(1):16628. doi: 10.1038/s41598-020-73985-2.
+
+A glance at the gut microbiota of five experimental animal species through fecal 
+samples.
+
+Xiang Z(#)(1), Zhu H(#)(2), Yang B(#)(2), Fan H(3), Guo J(2), Liu J(2), Kong
+Q(2), Teng Q(2), Shang H(2), Su L(2), Qin C(4).
+
+Author information: 
+(1)Institute of Laboratory Animal Science, Chinese Academy of Medical Sciences,
+Beijing, China. xiangzg@cnilas.org.
+(2)Institute of Laboratory Animal Science, Chinese Academy of Medical Sciences,
+Beijing, China.
+(3)Beijing Institute of Microbiology and Epidemiology, Beijing, China.
+(4)Institute of Laboratory Animal Science, Chinese Academy of Medical Sciences,
+Beijing, China. qinchuan@pumc.edu.cn.
+(#)Contributed equally
+
+Experimental animals including the ferret, marmoset, woodchuck, mini pig, and
+tree shrew have been used in biomedical research. However, their gut microbiota
+have not been fully investigated. In this study, the gut microbiota of these five
+experimental animals were analyzed with 16S rRNA sequencing. The phyla
+Firmicutes, Bacteroidetes, and Fusobacteria were present in the gut microbiota of
+all the species. Specific phyla were present in different animals: Proteobacteria
+in the ferret, Tenericutes in the marmoset, and Spirochaetes in the mini pig.
+Fusobacterium and unidentified Clostridiales were the dominant genera in the
+ferret, whereas Libanicoccus, Lactobacillus, Porphyromonas, and Peptoclostridium 
+were specific to marmoset, mini pig, woodchuck, and tree shrew, respectively. A
+clustering analysis showed that the overall distribution of microbial species in 
+the guts of these species mirrored their mammalian phylogeny, and the microbiota 
+of the marmoset and tree shrew showed the closest bray_curtis distances to that
+of humans. PICRUSt functional prediction separated the woodchuck from the other
+species, which may reflect its herbivorous diet. In conclusion, both the
+evolutionary phylogeny and daily diet affect the gut microbiota of these
+experimental animals, which should not be neglected for their usage in biomedical
+research.
+
+DOI: 10.1038/s41598-020-73985-2 
+PMCID: PMC7538948
+PMID: 33024229  [Indexed for MEDLINE]
+

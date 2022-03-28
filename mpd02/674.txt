@@ -1,0 +1,51 @@
+
+
+674. ACS Nano. 2018 Jul 24;12(7):6637-6647. doi: 10.1021/acsnano.8b01625. Epub 2018
+Jul 11.
+
+Murine and Non-Human Primate Dendritic Cell Targeting Nanoparticles for in Vivo
+Generation of Regulatory T-Cells.
+
+Stead SO(1), Kireta S(2), McInnes SJP(3), Kette FD(1), Sivanathan KN(1), Kim
+J(1), Cueto-Diaz EJ(4), Cunin F(4), Durand JO(4), Drogemuller CJ(1)(2), Carroll
+RP(1)(2), Voelcker NH(5)(6)(7)(8), Coates PT(1)(2).
+
+Author information: 
+(1)Department of Medicine , University of Adelaide , Adelaide 5000 , Australia.
+(2)Central Northern Adelaide Renal and Transplantation Service (CNARTS) , The
+Royal Adelaide Hospital , Adelaide 5000 , Australia.
+(3)Future Industries Institute , University of South Australia , Adelaide 5095 , 
+Australia.
+(4)Case 1701, UMR 5253 CNRS -ENSCM-UM , Institut Charles Gerhardt Montpellier ,
+34095 Montpellier , cedex 5, France.
+(5)Drug Delivery, Disposition, and Dynamics, Monash Institute of Pharmaceutical
+Sciences , Monash University , 381 Royal Parade , Parkville , Victoria 3052 ,
+Australia.
+(6)Commonwealth Scientific and Industrial Research Organization (CSIRO) , Clayton
+, Victoria 3169 , Australia.
+(7)Melbourne Center for Nanofabrication, Victorian Node of the Australian
+National Fabrication Facility , Clayton , Victoria 3168 , Australia.
+(8)Monash Institute of Medical Engineering , Monash University , Clayton ,
+Victoria 3800 , Australia.
+
+Porous silicon nanoparticles (pSiNP), modified to target dendritic cells (DC),
+provide an alternate strategy for the delivery of immunosuppressive drugs. Here, 
+we aimed to develop a DC-targeting pSiNP displaying c-type lectin, dendritic
+cell-specific intercellular adhesion molecule-3-grabbing non-integrin (DC-SIGN), 
+and CD11c monoclonal antibodies. The in vivo tracking of these fluorescent
+DC-targeting nanoparticles was assessed in both C57BL/6 mice and common marmosets
+( Callithrix jacchus) by intravenous injection (20 mg/kg). Rapamycin and
+ovalbumin (OVA)323-339 peptide loaded pSiNP were employed to evaluate their
+ability to generate murine CD4+CD25+FoxP3+ regulatory T-cells in vivo within OVA 
+sensitized mice. In vivo, pSiNP migrated to the liver, kidneys, lungs, and spleen
+in both mice and marmosets. Flow cytometry confirmed pSiNP uptake by splenic and 
+peripheral blood DC when functionalized with targeting antibodies. C57BL/6 OVA
+sensitized mice injected with CD11c-pSiNP loaded with rapamycin + OVA323-339
+produced a 5-fold higher number of splenic regulatory T-cells compared to control
+mice, at 40 days post-pSiNP injection. These results demonstrate the importance
+of the immobilized targeting antibodies to enhance cellular uptake and enable the
+in vivo generation of splenic regulatory T-cells.
+
+DOI: 10.1021/acsnano.8b01625 
+PMID: 29979572  [Indexed for MEDLINE]
+

@@ -1,0 +1,48 @@
+
+
+535. Sci Rep. 2019 Mar 5;9(1):3567. doi: 10.1038/s41598-019-39535-1.
+
+A note on retrograde gene transfer efficiency and inflammatory response of
+lentiviral vectors pseudotyped with FuG-E vs. FuG-B2 glycoproteins.
+
+Tanabe S(1), Uezono S(1), Tsuge H(1), Fujiwara M(1), Miwa M(2), Kato S(3),
+Nakamura K(2), Kobayashi K(3), Inoue KI(4)(5), Takada M(6).
+
+Author information: 
+(1)Systems Neuroscience Section, Department of Neuroscience, Primate Research
+Institute, Kyoto University, Inuyama, Aichi, 484-8506, Japan.
+(2)Cognitive Neuroscience Section, Department of Neuroscience, Primate Research
+Institute, Kyoto University, Inuyama, Aichi, 484-8506, Japan.
+(3)Department of Molecular Genetics, Institute of Biomedical Sciences, Fukushima 
+Medical University School of Medicine, Fukushima, Fukushima, 960-1295, Japan.
+(4)Systems Neuroscience Section, Department of Neuroscience, Primate Research
+Institute, Kyoto University, Inuyama, Aichi, 484-8506, Japan.
+inoue.kenichi.6z@kyoto-u.ac.jp.
+(5)PRESTO, Japan Science and Technology Agency, Kawaguchi, Saitama, 332-0012,
+Japan. inoue.kenichi.6z@kyoto-u.ac.jp.
+(6)Systems Neuroscience Section, Department of Neuroscience, Primate Research
+Institute, Kyoto University, Inuyama, Aichi, 484-8506, Japan.
+takada.masahiko.7x@kyoto-u.ac.jp.
+
+Pseudotyped lentiviral vectors give access to pathway-selective gene manipulation
+via retrograde transfer. Two types of such lentiviral vectors have been
+developed. One is the so-called NeuRet vector pseudotyped with fusion
+glycoprotein type E, which preferentially transduces neurons. The other is the
+so-called HiRet vector pseudotyped with fusion glycoprotein type B2, which
+permits gene transfer into both neurons and glial cells at the injection site.
+Although these vectors have been applied in many studies investigating neural
+network functions, it remains unclear which vector is more appropriate for
+retrograde gene delivery in the brain. To compare the gene transfer efficiency
+and inflammatory response of the NeuRet vs. HiRet vectors, each vector was
+injected into the striatum in macaque monkeys, common marmosets, and rats. It was
+revealed that retrograde gene delivery of the NeuRet vector was equal to or
+greater than that of the HiRet vector. Furthermore, inflammation characterized by
+microglial and lymphocytic infiltration occurred when the HiRet vector, but not
+the NeuRet vector, was injected into the primate brain. The present results
+indicate that the NeuRet vector is more suitable than the HiRet vector for
+retrograde gene transfer in the primate and rodent brains.
+
+DOI: 10.1038/s41598-019-39535-1 
+PMCID: PMC6400974
+PMID: 30837514  [Indexed for MEDLINE]
+

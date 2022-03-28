@@ -1,0 +1,85 @@
+
+
+2059. J Pharmacol Toxicol Methods. 2010 May-Jun;61(3):264-70. doi:
+10.1016/j.vascn.2010.01.005. Epub 2010 Jan 25.
+
+Application of probabilistic analysis for precisely correcting the QT interval
+for heart rate in telemetered common marmosets.
+
+Honda M(1), Komatsu R, Holzgrefe HH, Yamada Y, Isobe T, Kimura K, Itoh T, Tamaoki
+N, Tabo M.
+
+Author information: 
+(1)Safety Assessment Dept. Chugai Pharmaceutical Co., Ltd. 1-135 Komakado,
+Gotemba, Shizuoka 412-8513, Japan.
+
+INTRODUCTION: QT intervals are strongly influenced by preceeding heart rate
+history and are also characterized by rate-independent variability, leading to
+difficulty in precise rate-correction of the raw QT interval. The present study
+elucidates a novel analytical method that effectively addresses this problematic 
+phenomenon in telemetered common marmosets.
+METHODS: ECGs were collected from telemetered common marmosets (male and female) 
+and analyzed by computerized algorithms. Descriptive statistics were calculated
+from the mean of QT intervals for 5-ms increments of RR. The QT interval was
+corrected for the RR interval by applying Bazett's, Fridericia's, and individual 
+probabilistic QT rate-correction formulae.
+RESULTS: The linear regression of log-transformed QT and RR intervals derived
+from a probabilistic approach yielded a well-correlated QT-RR fit. Assessed as
+the slope of the QTc-RR interval, application of individual probabilistic QT
+rate-corrections resulted in the most effective dissociation of the effects of
+rate from the raw QT interval, compared to generic rate-correction formulae.
+Using individual corrections, the QTc was stable while the interquartile range
+(IQR) of the QTc distribution was stable, spanning 5-10 ms for each subject over 
+all physiological RR intervals. Heart rate variability distributions were
+centered about unity during both photoperiods and sinus arrhythmia was far less
+pronounced compared with measurements in dogs.
+DISCUSSION: Probabilistic QT rate-correction eliminated the confounding effects
+of heart rate and provided a stable QTc baseline. These results indicate that
+application of this method of analysis in telemetered common marmosets results in
+a high degree of sensitivity for the consistent detection of small (5-10 ms)
+changes in the QTc interval.
+
+2010 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.vascn.2010.01.005 
+PMID: 20097297  [Indexed for MEDLINE]
+
+
+2060. J Neurosci Res. 2010 May 15;88(7):1394-405. doi: 10.1002/jnr.22322.
+
+Transplantation of galectin-1-expressing human neural stem cells into the injured
+spinal cord of adult common marmosets.
+
+Yamane J(1), Nakamura M, Iwanami A, Sakaguchi M, Katoh H, Yamada M, Momoshima S, 
+Miyao S, Ishii K, Tamaoki N, Nomura T, Okano HJ, Kanemura Y, Toyama Y, Okano H.
+
+Author information: 
+(1)Department of Physiology, Keio University School of Medicine, Shinjuku, Tokyo,
+Japan.
+
+Delayed transplantation of neural stem/progenitor cells (NS/PCs) into the injured
+spinal cord can promote functional recovery in adult rats and monkeys. To enhance
+the functional recovery after NS/PC transplantation, we focused on galectin-1, a 
+carbohydrate-binding protein with pleiotropic roles in cell growth,
+differentiation, apoptosis, and neurite outgrowth. Here, to determine the
+combined therapeutic effect of NS/PC transplantation and galectin-1 on spinal
+cord injury (SCI), human NS/PCs were transfected by lentivirus with galectin-1
+and green fluorescent protein (GFP), (Gal-NS/PCs) or GFP alone (GFP-NS/PCs),
+expanded in vitro, and then transplanted into the spinal cord of adult common
+marmosets, 9 days after contusive cervical SCI. The animals' motor function was
+evaluated by their spontaneous motor activity, bar grip power, and performance on
+a treadmill test. Histological analyses revealed that the grafted human NS/PCs
+survived and differentiated into neurons, astrocytes, and oligodendrocytes. There
+were significant differences in the myelinated area, corticospinal fibers, and
+serotonergic fibers among the Gal-NS/PC, GFP-NS/PC, vehicle-control, and
+sham-operated groups. The Gal-NS/PC-grafted animals showed a better performance
+on all the behavioral tests compared with the other groups. These findings
+suggest that Gal-NS/PCs have better therapeutic potential than NS/PCs for SCI in 
+nonhuman primates and that human Gal-NS/PC transplantation might be a feasible
+treatment for human SCI.
+
+(c) 2010 Wiley-Liss, Inc.
+
+DOI: 10.1002/jnr.22322 
+PMID: 20091712  [Indexed for MEDLINE]
+

@@ -1,0 +1,47 @@
+
+
+251. Microorganisms. 2020 Sep 30;8(10). pii: E1509. doi:
+10.3390/microorganisms8101509.
+
+Discovery of a Novel Simian Pegivirus in Common Marmosets (Callithrix jacchus)
+with Lymphocytic Enterocolitis.
+
+Heffron AS(1), Lauck M(1), Somsen ED(1), Townsend EC(1), Bailey AL(2), Sosa M(3),
+Eickhoff J(4), Capuano Iii S(3), Newman CM(1), Kuhn JH(5), Mejia A(3), Simmons
+HA(3), O'Connor DH(1)(3).
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, School of Medicine and Public
+Health, University of Wisconsin-Madison, Madison, WI 53711, USA.
+(2)Department of Pathology and Immunology, Washington University School of
+Medicine, St. Louis, MO 63110, USA.
+(3)Wisconsin National Primate Research Center, University of Wisconsin-Madison,
+Madison, WI 53715, USA.
+(4)Department of Biostatistics & Medical Informatics, University of
+Wisconsin-Madison, Madison, WI 53705, USA.
+(5)Integrated Research Facility at Fort Detrick, National Institute of Allergy
+and Infectious Diseases, National Institutes of Health, Fort Detrick, Frederick, 
+MD 21702, USA.
+
+From 2010 to 2015, 73 common marmosets (Callithrix jacchus) housed at the
+Wisconsin National Primate Research Center (WNPRC) were diagnosed postmortem with
+lymphocytic enterocolitis. We used unbiased deep-sequencing to screen the blood
+of deceased enterocolitis-positive marmosets for viruses. In five out of eight
+common marmosets with lymphocytic enterocolitis, we discovered a novel pegivirus 
+not present in ten matched, clinically normal controls. The novel virus, which we
+named Southwest bike trail virus (SOBV), is most closely related (68% nucleotide 
+identity) to a strain of simian pegivirus A isolated from a three-striped night
+monkey (Aotus trivirgatus). We screened 146 living WNPRC common marmosets for
+SOBV, finding an overall prevalence of 34% (50/146). Over four years, 85 of these
+146 animals died or were euthanized. Histological examination revealed 27
+SOBV-positive marmosets from this cohort had lymphocytic enterocolitis, compared 
+to 42 SOBV-negative marmosets, indicating no association between SOBV and disease
+in this cohort (p = 0.0798). We also detected SOBV in two of 33 (6%) clinically
+normal marmosets screened during transfer from the New England Primate Research
+Center, suggesting SOBV could be exerting confounding influences on comparisons
+of common marmoset studies from multiple colonies.
+
+DOI: 10.3390/microorganisms8101509 
+PMCID: PMC7599636
+PMID: 33007921 
+

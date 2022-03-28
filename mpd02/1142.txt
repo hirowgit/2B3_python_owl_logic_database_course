@@ -1,0 +1,44 @@
+
+
+1142. Virology. 2016 Jan;487:141-9. doi: 10.1016/j.virol.2015.10.004. Epub 2015 Nov 2.
+
+Amino acid substitutions in the heptad repeat A and C regions of the F protein
+responsible for neurovirulence of measles virus Osaka-1 strain from a patient
+with subacute sclerosing panencephalitis.
+
+Ayata M(1), Tanaka M(2), Kameoka K(3), Kuwamura M(2), Takeuchi K(4), Takeda M(5),
+Kanou K(6), Ogura H(3).
+
+Author information: 
+(1)Department of Virology, Graduate School of Medicine, Osaka City University,
+Osaka 545-8585, Japan. Electronic address: maverick@med.osaka-cu.ac.jp.
+(2)Laboratory of Veterinary Pathology, Osaka Prefecture University, Osaka
+598-8531, Japan.
+(3)Department of Virology, Graduate School of Medicine, Osaka City University,
+Osaka 545-8585, Japan.
+(4)Laboratory of Environmental Microbiology, Division of Biomedical Science,
+Faculty of Medicine, University of Tsukuba, Ibaraki 305-8575, Japan.
+(5)Department of Virology 3, National Institute of Infectious Diseases, Tokyo
+208-0011, Japan.
+(6)Infectious Disease Surveillance Center, National Institute of Infectious
+Diseases, Tokyo 208-0011, Japan.
+
+Measles virus (MV) is the causative agent of subacute sclerosing panencephalitis 
+(SSPE). We previously reported that the F gene of the SSPE Osaka-2 strain is the 
+major determinant of MV neurovirulence. Because the sites and extents of
+mutations differ among SSPE strains, it is necessary to determine the mutations
+responsible for the SSPE-specific phenotypes of individual viral strain. In this 
+study, recombinant viruses containing the envelope-associated genes from the SSPE
+Osaka-1 strain were generated in the IC323 wild-type MV background. Hamsters
+inoculated with MV containing the H gene of the Osaka-1 strain displayed
+hyperactivity and seizures, but usually recovered and survived. Hamsters
+inoculated with MV containing the F gene of the Osaka-1 strain displayed severe
+neurologic signs and died. Amino acid substitutions in the heptad repeat A and C 
+regions of the F protein, including a methionine-to-valine substitution at amino 
+acid 94, play major roles in neurovirulence.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2015.10.004 
+PMID: 26524513  [Indexed for MEDLINE]
+

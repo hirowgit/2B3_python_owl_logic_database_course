@@ -1,0 +1,32 @@
+
+
+2299. J Neurosci. 2008 Mar 26;28(13):3415-26. doi: 10.1523/JNEUROSCI.2743-07.2008.
+
+Level invariant representation of sounds by populations of neurons in primary
+auditory cortex.
+
+Sadagopan S(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Neuroscience, Johns
+Hopkins University School of Medicine, Baltimore, Maryland 21205, USA.
+vatsun@jhu.edu
+
+A fundamental feature of auditory perception is the constancy of sound
+recognition over a large range of intensities. Although this invariance has been 
+described in behavioral studies, the underlying neural mechanism is essentially
+unknown. Here we show a putative level-invariant representation of sounds by
+populations of neurons in primary auditory cortex (A1) that may provide a neural 
+basis for the behavioral observations. Previous studies reported that pure-tone
+frequency tuning of most A1 neurons widens with increasing sound level. In sharp 
+contrast, we found that a large proportion of neurons in A1 of awake marmosets
+were narrowly and separably tuned to both frequency and sound level. Tuning
+characteristics and firing rates of the neural population were preserved across
+all tested sound levels. These response properties lead to a level-invariant
+representation of sounds over the population of A1 neurons. Such a representation
+is an important step for robust feature recognition in natural environments.
+
+DOI: 10.1523/JNEUROSCI.2743-07.2008 
+PMCID: PMC6670591
+PMID: 18367608  [Indexed for MEDLINE]
+

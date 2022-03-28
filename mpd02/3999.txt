@@ -1,0 +1,38 @@
+
+
+3999. J Virol. 1994 Jul;68(7):4369-76.
+
+Epstein-Barr virus recombinant molecular genetic analysis of the LMP1
+amino-terminal cytoplasmic domain reveals a probable structural role, with no
+component essential for primary B-lymphocyte growth transformation.
+
+Izumi KM(1), Kaye KM, Kieff ED.
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, Harvard Medical School,
+Boston, Massachusetts.
+
+Previous recombinant Epstein-Barr virus molecular genetic experiments with
+specifically mutated LMP1 genes indicate that LMP1 is essential for primary
+B-lymphocyte growth transformation and that the amino-terminal cytoplasmic and
+first transmembrane domains are together an important mediator of transformation.
+EBV recombinants with specific deletions in the amino-terminal cytoplasmic domain
+have now been constructed and tested for the ability to growth transform primary 
+B lymphocytes into lymphoblastoid cell lines. Surprisingly, deletion of DNA
+encoding EHDLER or GPPLSSS from the full LMP1 amino-terminal cytoplasmic domain
+(MEHDLERGPPGPRRPPRGPPLSSS) had no discernible effect on primary B-lymphocyte
+transformation. These two motifs distinguish the LMP1 amino-terminal cytoplasmic 
+domain from other arginine-rich membrane proximal sequences that anchor
+hydrophobic transmembrane domains. Two deletions which included the ERGPPGPRRPPR 
+motif adversely affected but did not prevent transformation. This arginine- and
+proline-rich sequence is probably important in anchoring the first transmembrane 
+domain in the plasma membrane, since these mutated LMP1s had altered stability
+and cell membrane localization. The finding that overlapping deletions of the
+entire amino-terminal cytoplasmic domain do not ablate transformation is most
+consistent with a model postulating that the transmembrane and carboxyl-terminal 
+cytoplasmic domains are the likely biochemical effectors of transformation.
+
+DOI: 10.1128/JVI.68.7.4369-4376.1994 
+PMCID: PMC236360
+PMID: 8207810  [Indexed for MEDLINE]
+

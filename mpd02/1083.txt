@@ -1,0 +1,30 @@
+
+
+1083. Genom Data. 2016 Jan 29;7:307-17. doi: 10.1016/j.gdata.2016.01.015. eCollection
+2016 Mar.
+
+Next generation sequencing (NGS) database for tandem repeats with multiple
+pattern 2°-shaft multicore string matching.
+
+Someswara Rao C(1), Raju SV(2).
+
+Author information: 
+(1)Department of CSE, SRKR Engineering College, Bhimavaram, AP, India.
+(2)Department of CSE, JNTUCEJ, JNTUniversity Hyderabad, Telangana, India.
+
+Next generation sequencing (NGS) technologies have been rapidly applied in
+biomedical and biological research in recent years. To provide the comprehensive 
+NGS resource for the research, in this paper , we have considered 10
+loci/codi/repeats TAGA, TCAT, GAAT, AGAT, AGAA, GATA, TATC, CTTT, TCTG and TCTA. 
+Then we developed the NGS Tandem Repeat Database (TandemRepeatDB) for all the
+chromosomes of Homo sapiens, Callithrix jacchus, Chlorocebus sabaeus, Gorilla
+gorilla, Macaca fascicularis, Macaca mulatta, Nomascus leucogenys, Pan
+troglodytes, Papio anubis and Pongo abelii genome data sets for all those locis. 
+We find the successive occurence frequency for all the above 10 SSR (simple
+sequence repeats) in the above genome data sets on a chromosome-by-chromosome
+basis with multiple pattern 2° shaft multicore string matching.
+
+DOI: 10.1016/j.gdata.2016.01.015 
+PMCID: PMC4778683
+PMID: 26981434 
+

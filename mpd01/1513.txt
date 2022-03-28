@@ -1,0 +1,75 @@
+
+
+1513. J Physiol. 2014 Jan 1;592(1):49-65. doi: 10.1113/jphysiol.2013.257352. Epub 2013 
+Sep 16.
+
+Inner retinal inhibition shapes the receptive field of retinal ganglion cells in 
+primate.
+
+Protti DA(1), Di Marco S, Huang JY, Vonhoff CR, Nguyen V, Solomon SG.
+
+Author information: 
+(1)D. A. Protti: Anderson Stuart Bldg (F13), The University of Sydney, NSW 2006, 
+Australia. dario.protti@sydney.edu.au.
+
+The centre-surround organisation of receptive fields is a feature of most retinal
+ganglion cells (RGCs) and is critical for spatial discrimination and contrast
+detection. Although lateral inhibitory processes are known to be important in
+generating the receptive field surround, the contribution of each of the two
+synaptic layers in the primate retina remains unclear. Here we studied the
+spatial organisation of excitatory and inhibitory synaptic inputs onto ON and OFF
+ganglion cells in the primate retina. All RGCs showed an increase in excitation
+in response to stimulus of preferred polarity. Inhibition onto RGCs comprised two
+types of responses to preferred polarity: some RGCs showed an increase in
+inhibition whilst others showed removal of tonic inhibition. Excitatory inputs
+were strongly spatially tuned but inhibitory inputs showed more variable
+organisation: in some neurons they were as strongly tuned as excitation, and in
+others inhibitory inputs showed no spatial tuning. We targeted one source of
+inner retinal inhibition by functionally ablating spiking amacrine cells with
+bath application of tetrodotoxin (TTX). TTX significantly reduced the spatial
+tuning of excitatory inputs. In addition, TTX reduced inhibition onto those RGCs 
+where a stimulus of preferred polarity increased inhibition. Reconstruction of
+the spatial tuning properties by somatic injection of excitatory and inhibitory
+synaptic conductances verified that TTX-mediated inhibition onto bipolar cells
+increases the strength of the surround in RGC spiking output. These results
+indicate that in the primate retina inhibitory mechanisms in the inner plexiform 
+layer sharpen the spatial tuning of ganglion cells.
+
+DOI: 10.1113/jphysiol.2013.257352 
+PMCID: PMC3903351
+PMID: 24042496  [Indexed for MEDLINE]
+
+
+1514. Redox Biol. 2013 Jul 18;1:387-93. doi: 10.1016/j.redox.2013.06.003. eCollection
+2013.
+
+Characterization of plasma thiol redox potential in a common marmoset model of
+aging.
+
+Roede JR(1), Uppal K, Liang Y, Promislow DE, Wachtman LM, Jones DP.
+
+Author information: 
+(1)Department of Medicine, Division of Pulmonary, Allergy and Critical Care
+Medicine, Emory University, Atlanta, GA, USA.
+
+Due to its short lifespan, ease of use and age-related pathologies that mirror
+those observed in humans, the common marmoset (Callithrix jacchus) is poised to
+become a standard nonhuman primate model of aging. Blood and extracellular fluid 
+possess two major thiol-dependent redox nodes involving cysteine (Cys), cystine
+(CySS), glutathione (GSH) and glutathione disulfide (GSSG). Alteration in these
+plasma redox nodes significantly affects cellular physiology, and oxidation of
+the plasma Cys/CySS redox potential (E hCySS) is associated with aging and
+disease risk in humans. The purpose of this study was to determine age-related
+changes in plasma redox metabolites and corresponding redox potentials (E h) to
+further validate the marmoset as a nonhuman primate model of aging. We measured
+plasma thiol redox states in marmosets and used existing human data with
+multivariate adaptive regression splines (MARS) to model the relationships
+between age and redox metabolites. A classification accuracy of 70.2% and an AUC 
+of 0.703 were achieved using the MARS model built from the marmoset redox data to
+classify the human samples as young or old. These results show that common
+marmosets provide a useful model for thiol redox biology of aging.
+
+DOI: 10.1016/j.redox.2013.06.003 
+PMCID: PMC3757708
+PMID: 24024176  [Indexed for MEDLINE]
+

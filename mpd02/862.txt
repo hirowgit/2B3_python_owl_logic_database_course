@@ -1,0 +1,51 @@
+
+
+862. Psychoneuroendocrinology. 2017 Sep;83:42-48. doi: 10.1016/j.psyneuen.2017.05.009.
+Epub 2017 May 10.
+
+An eye tracking system for monitoring face scanning patterns reveals the
+enhancing effect of oxytocin on eye contact in common marmosets.
+
+Kotani M(1), Shimono K(2), Yoneyama T(3), Nakako T(1), Matsumoto K(1), Ogi Y(1), 
+Konoike N(4), Nakamura K(4), Ikeda K(5).
+
+Author information: 
+(1)Higher Brain Function Research, Sumitomo Dainippon Pharma, Co., Ltd., 33-94
+Enoki-cho, Suita, Osaka, 564-0053, Japan.
+(2)Molecular Pathophysiology Research, Drug Research Division, Sumitomo Dainippon
+Pharma, Co., Ltd., 3-1-98 Kasugadenaka, Konohana-ku, Osaka, 554-0022, Japan.
+(3)Omics Group, Genomic Science Laboratories, Drug Research Division, Sumitomo
+Dainippon Pharma, Co., Ltd., 3-1-98 Kasugadenaka, Konohana-ku, Osaka, 554-0022,
+Japan.
+(4)Department of Neuroscience, Primate Research Institute, Kyoto University, 41-2
+Kanrin, Inuyama, Aichi, 484-8506, Japan.
+(5)Higher Brain Function Research, Sumitomo Dainippon Pharma, Co., Ltd., 33-94
+Enoki-cho, Suita, Osaka, 564-0053, Japan. Electronic address:
+kazuhito-ikeda@ds-pharma.co.jp.
+
+Eye tracking systems are used to investigate eyes position and gaze patterns
+presumed as eye contact in humans. Eye contact is a useful biomarker of social
+communication and known to be deficient in patients with autism spectrum
+disorders (ASDs). Interestingly, the same eye tracking systems have been used to 
+directly compare face scanning patterns in some non-human primates to those in
+human. Thus, eye tracking is expected to be a useful translational technique for 
+investigating not only social attention and visual interest, but also the effects
+of psychiatric drugs, such as oxytocin, a neuropeptide that regulates social
+behavior. In this study, we report on a newly established method for eye tracking
+in common marmosets as unique New World primates that, like humans, use eye
+contact as a mean of communication. Our investigation was aimed at characterizing
+these primates face scanning patterns and evaluating the effects of oxytocin on
+their eye contact behavior. We found that normal common marmosets spend more time
+viewing the eyes region in common marmoset's picture than the mouth region or a
+scrambled picture. In oxytocin experiment, the change in eyes/face ratio was
+significantly greater in the oxytocin group than in the vehicle group. Moreover, 
+oxytocin-induced increase in the change in eyes/face ratio was completely blocked
+by the oxytocin receptor antagonist L-368,899. These results indicate that eye
+tracking in common marmosets may be useful for evaluating drug candidates
+targeting psychiatric conditions, especially ASDs.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.psyneuen.2017.05.009 
+PMID: 28586711  [Indexed for MEDLINE]
+

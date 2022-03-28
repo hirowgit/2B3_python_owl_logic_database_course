@@ -1,0 +1,108 @@
+
+
+1459. Brain Res. 2014 Mar 6;1550:27-35. doi: 10.1016/j.brainres.2014.01.009. Epub 2014 
+Jan 17.
+
+Cannabinoid type-1 receptor ligands, alone or in combination with cocaine, affect
+vigilance-related behaviors of marmoset monkeys.
+
+Cagni P(1), Melo GC(1), de Jesus AG(1), Barros M(2).
+
+Author information: 
+(1)Department of Pharmaceutical Sciences, School of Health Sciences, University
+of Brasilia, CEP 70910-900 Brasilia, DF, Brazil.
+(2)Department of Pharmaceutical Sciences, School of Health Sciences, University
+of Brasilia, CEP 70910-900 Brasilia, DF, Brazil. Electronic address:
+mbarros@unb.br.
+
+Endocannabinoids (eCB) have been functionally linked to cocaine׳s rewarding
+effects. However, results differ at the behavioral level, with few reports in
+nonhuman primates (NHPs). Here we analyzed whether repeatedly administered
+cannabinoid type-1 receptor (CB1r) agonist WIN 55-212,2 (WIN) or antagonist AM
+251 (AM) induce effects per se and if concurrent pre-treatments affect
+cocaine-induced changes in marmoset behavior. Six groups were tested: WIN-saline;
+WIN-cocaine; AM-saline; AM-cocaine; vehicle-cocaine; and vehicle-saline. Subjects
+were pre-treated with either WIN (1mg/kg), AM (2mg/kg) or vehicle and then
+injected with cocaine (5mg/kg) or saline. Six exposures were held at 48 h
+intervals. Behaviors were scored during 15-min in an open-field on days 1 and 6, 
+as well as a withdrawal (WD) trial. Marmosets became hypervigilant during cocaine
+exposures, which did not condition to the injection context. CB1r activation
+induced an equivalent response, whereas AM had no effect on its own. However,
+when given as a pre-treatment to cocaine, CB1r blockade enhanced the former׳s
+hypervigilance effect and potentially conditioned this response to the exposure
+context. Enhancement may have resulted from AM׳s inhibition of eCB-potentiated
+cocaine-induced anxiogenesis and/or its action independent of the eCB system, or 
+even CB1r-mediated changes in synaptic plasticity involved in cocaine
+reward-learning. All effects were independent of motor function. Thus, changes in
+CB1r function - alone and in combination with cocaine - affected stereotyped
+vigilance-related behaviors in this NHP, further implicating the eCB system in
+the neurobiological mechanisms of cocaine addiction.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.brainres.2014.01.009 
+PMID: 24445195  [Indexed for MEDLINE]
+
+
+1460. Biochem Biophys Res Commun. 2014 Feb 14;444(3):307-10. doi:
+10.1016/j.bbrc.2014.01.023. Epub 2014 Jan 16.
+
+Developmental genetic profiles of glutamate receptor system, neuromodulator
+system, protector of normal tissue and mitochondria, and reelin in marmoset
+cortex: potential molecular mechanisms of pruning phase of spines in primate
+synaptic formation process during the end of infancy and prepuberty (II).
+
+Sasaki T(1), Oga T(2), Nakagaki K(1), Sakai K(1), Sumida K(3), Hoshino K(4),
+Miyawaki I(4), Saito K(3), Suto F(1), Ichinohe N(5).
+
+Author information: 
+(1)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, 4-1-1 Ogawa-Higashi, Kodaira, Tokyo 
+187-8502, Japan.
+(2)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, 4-1-1 Ogawa-Higashi, Kodaira, Tokyo 
+187-8502, Japan; Graduate School of Frontier Biosciences, Osaka University,
+Toyonaka, Osaka 560-8531, Japan.
+(3)Environmental Health Science Laboratory, Sumitomo Chemical Co., Ltd., 3-1-98
+Kasugade-naka, Konohana-ku, Osaka 554-8558, Japan.
+(4)Preclinical Research Laboratories, Dainippon Sumitomo Pharma Co., Ltd., 3-1-98
+Kasugade-naka, Konohana-ku, Osaka 554-0022, Japan.
+(5)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, 4-1-1 Ogawa-Higashi, Kodaira, Tokyo 
+187-8502, Japan. Electronic address: nichino@ncnp.go.jp.
+
+This is the second report of a series paper, which reports molecular mechanisms
+underlying the occurrence of pruning spine phase after rapid spinogenesis phase
+in neonates and young infant in the primate brain. We performed microarray
+analysis between the peak of spine numbers [postnatal 3 months (M)] and spine
+pruning (postnatal 6M) in prefrontal, inferior temporal, and primary visual
+cortices of the common marmoset (Callithrix jacchus). The pruning phase is not
+clearly defined in rodents but is in primates including the marmoset. The
+differentially expressed genes between 3M and 6M in all three cortical areas were
+selected by two-way analysis of variance. The list of selected genes was analyzed
+by canonical pathway analysis using "Ingenuity Pathway Analysis of complex omics 
+data" (IPA; Ingenuity Systems, Qiagen, Hilden, Germany). In this report, we
+discuss these lists of genes for the glutamate receptor system, G-protein-coupled
+neuromodulator system, protector of normal tissue and mitochondria, and reelin.
+(1) Glutamate is a common neurotransmitter. Its receptors AMPA1, GRIK1, and their
+scaffold protein DLG4 decreased as spine numbers decreased. Instead, GRIN3 (NMDA 
+receptor) increased, suggesting that strong NMDA excitatory currents may be
+required for a single neuron to receive sufficient net synaptic activity in order
+to compensate for the decrease in synapse. (2) Most of the G protein-coupled
+receptor genes (e.g., ADRA1D, HTR2A, HTR4, and DRD1) in the selected list were
+upregulated at 6M. The downstream gene ROCK2 in these receptor systems plays a
+role of decreasing synapses, and ROCK2 decreased at 6M. (3) Synaptic phagosytosis
+by microglia with complement and other cytokines could cause damage to normal
+tissue and mitochondria. SOD1, XIAP, CD46, and CD55, which play protective roles 
+in normal tissue and mitochondria, showed higher expression at 6M than at 3M,
+suggesting that normal brain tissue is more protected at 6M. (4) Reelin has an
+important role in cortical layer formation. In addition, RELN and three different
+pathways of reelin were expressed at 6M, suggesting that new synapse formation
+decreased at that age. Moreover, if new synapses were formed, their positions
+were free and probably dependent on activity.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2014.01.023 
+PMID: 24440696  [Indexed for MEDLINE]
+

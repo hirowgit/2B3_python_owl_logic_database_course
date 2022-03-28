@@ -1,0 +1,93 @@
+
+
+1061. J Comp Neurol. 2017 Apr 15;525(6):1442-1458. doi: 10.1002/cne.24021. Epub 2016
+May 6.
+
+In situ hybridization analyses of claustrum-enriched genes in marmosets.
+
+Watakabe A.
+
+The claustrum/endopiriform nucleus is a unique structure that sits between the
+striatum and the cerebral cortex. Recent genome-wide mapping of gene expression
+in mice identified various genes concentrated in this structure, suggesting a
+requirement for a special set of genes for its function. In situ hybridization
+histochemistry was performed for such "claustrum-enriched" genes in the marmoset 
+brain. In marmosets, nurr1 and netrinG2 genes exhibited highly concentrated
+expression in the claustrum and endopiriform nucleus, as well as in a
+subpopulation of layer 6 neurons across the entire cortex, consistent with their 
+expression patterns as described in macaques. Cux2 showed enriched expression in 
+the upper layers (layers 2-4) and the claustrum/endopiriform nucleus. GNG2 was
+expressed strongly in the claustrum/endopiriform nucleus, but was abundant across
+cortical areas in a ventral high-dorsal low gradient. Latexin was detected in the
+claustrum and dorsal endopiriform nucleus, but not in cortical regions. GNB4 and 
+Tmem163 genes were both concentrated in the claustrum/endopiriform nucleus, as
+reported in mice, but their cortical expression in the marmoset differed from the
+mouse pattern. Thus, the gene set required for the claustrum appears to be
+broadly conserved across species, despite various differences that suggest
+species-specific differentiation of brain architecture. J. Comp. Neurol.
+525:1442-1458, 2017. © 2016 Wiley Periodicals, Inc.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/cne.24021 
+PMID: 27098836  [Indexed for MEDLINE]
+
+
+1062. Drug Metab Dispos. 2016 Jul;44(7):911-5. doi: 10.1124/dmd.116.070383. Epub 2016
+Apr 20.
+
+Individual Differences in Metabolic Clearance of S-Warfarin Efficiently Mediated 
+by Polymorphic Marmoset Cytochrome P450 2C19 in Livers.
+
+Uehara S(1), Uno Y(1), Inoue T(1), Kawano M(1), Shimizu M(1), Toda A(1), Utoh
+M(1), Sasaki E(1), Yamazaki H(2).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., M.K., M.S., H.Y.); Pharmacokinetics and 
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U., A.T., M.U.); Department of Applied Developmental Biology (T.I.) and 
+Center of Applied Developmental Biology (E.S.), Central Institute for
+Experimental Animals, Kawasaki, Japan; and Keio Advanced Research Center, Keio
+University, Minato-ku, Tokyo, Japan (E.S.).
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., M.K., M.S., H.Y.); Pharmacokinetics and 
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U., A.T., M.U.); Department of Applied Developmental Biology (T.I.) and 
+Center of Applied Developmental Biology (E.S.), Central Institute for
+Experimental Animals, Kawasaki, Japan; and Keio Advanced Research Center, Keio
+University, Minato-ku, Tokyo, Japan (E.S.) hyamazak@ac.shoyaku.ac.jp.
+
+Erratum in
+    Drug Metab Dispos. 2020 Aug;48(8):723.
+
+Marmoset cytochrome P450 2C19, highly homologous to human P450 2C9 and 2C19, has 
+been identified in common marmosets (Callithrix jacchus), a nonhuman primate
+species used in drug metabolism studies. Although genetic variants in human and
+macaque P450 2C genes account for the interindividual variability in drug
+metabolism, genetic variants have not been investigated in the marmoset P450 2C19
+In this study, sequencing of P450 2C19 in 24 marmosets identified three variants 
+p.[(Phe7Leu; Ser254Leu; Ile469Thr)], which showed substantially reduced metabolic
+capacity of S-warfarin compared with the wild-type group in vivo and in vitro.
+Although mean plasma concentrations of R-warfarin in marmosets determined after
+chiral separation were similar between the homozygous mutant and wild-type groups
+up to 24 hours after the intravenous and oral administrations of racemic
+warfarin, S-warfarin depletion from plasma was significantly faster in the three 
+wild-type marmosets compared with the three homozygous mutant marmosets. These
+variants, cosegregating in the marmosets analyzed, influenced metabolic
+activities in 18 marmoset liver microsomes because the homozygotes and
+heterozygotes showed significantly reduced catalytic activities in liver
+microsomes toward S-warfarin 7-hydroxylation compared with the wild-type group.
+Kinetic analysis for S-warfarin 7-hydroxylation indicated that the recombinant
+P450 2C19 Ser254Leu variant would change the metabolic capacity. These results
+indicated that the interindividual variability of P450 2C-dependent drug
+metabolism such as S-warfarin clearance is at least partly accounted for by P450 
+2C19 variants in marmosets, suggesting that polymorphic P450 2C-dependent
+catalytic functions are relatively similar between marmosets and humans.
+
+Copyright © 2016 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/dmd.116.070383 
+PMID: 27098744  [Indexed for MEDLINE]
+

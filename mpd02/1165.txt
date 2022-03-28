@@ -1,0 +1,52 @@
+
+
+1165. PLoS One. 2015 Sep 23;10(9):e0138308. doi: 10.1371/journal.pone.0138308.
+eCollection 2015.
+
+Corticospinal Tract Tracing in the Marmoset with a Clinical Whole-Body 3T Scanner
+Using Manganese-Enhanced MRI.
+
+Demain B(1), Davoust C(2), Plas B(3), Bolan F(2), Boulanouar K(2), Renaud L(4),
+Darmana R(2), Vaysse L(2), Vieu C(5), Loubinoux I(2).
+
+Author information: 
+(1)Inserm, Imagerie cérébrale et handicaps neurologiques, UMR 825, F-31024,
+Toulouse, France; Université de Toulouse, UPS, Imagerie cérébrale et handicaps
+neurologiques, UMR 825, CHU Purpan, Place du Dr Baylac, F-31059, Toulouse, Cedex 
+9, France; CNRS-LAAS, 7 avenue du colonel Roche, F-31077, Toulouse, France.
+(2)Inserm, Imagerie cérébrale et handicaps neurologiques, UMR 825, F-31024,
+Toulouse, France; Université de Toulouse, UPS, Imagerie cérébrale et handicaps
+neurologiques, UMR 825, CHU Purpan, Place du Dr Baylac, F-31059, Toulouse, Cedex 
+9, France.
+(3)Inserm, Imagerie cérébrale et handicaps neurologiques, UMR 825, F-31024,
+Toulouse, France; Université de Toulouse, UPS, Imagerie cérébrale et handicaps
+neurologiques, UMR 825, CHU Purpan, Place du Dr Baylac, F-31059, Toulouse, Cedex 
+9, France; Pôle Neurosciences, Centre Hospitalier Universitaire de Toulouse,
+Toulouse, France.
+(4)CNRS, Centre de Recherche Cerveau & Cognition, UMR 5549, F-31024, Toulouse,
+France.
+(5)CNRS-LAAS, 7 avenue du colonel Roche, F-31077, Toulouse, France.
+
+Manganese-enhanced MRI (MEMRI) has been described as a powerful tool to depict
+the architecture of neuronal circuits. In this study we investigated the
+potential use of in vivo MRI detection of manganese for tracing neuronal
+projections from the primary motor cortex (M1) in healthy marmosets (Callithrix
+Jacchus). We determined the optimal dose of manganese chloride (MnCl2) among 800,
+400, 40 and 8 nmol that led to manganese-induced hyperintensity furthest from the
+injection site, as specific to the corticospinal tract as possible, and that
+would not induce motor deficit. A commonly available 3T human clinical MRI
+scanner and human knee coil were used to follow hyperintensity in the
+corticospinal tract 24h after injection. A statistical parametric map of seven
+marmosets injected with the chosen dose, 8 nmol, showed the corticospinal tract
+and M1 connectivity with the basal ganglia, substantia nigra and thalamus. Safety
+was determined for the lowest dose that did not induce dexterity and grip
+strength deficit, and no behavioral effects could be seen in marmosets who
+received multiple injections of manganese one month apart. In conclusion, our
+study shows for the first time in marmosets, a reliable and reproducible way to
+perform longitudinal ME-MRI experiments to observe the integrity of the marmoset 
+corticospinal tract on a clinical 3T MRI scanner.
+
+DOI: 10.1371/journal.pone.0138308 
+PMCID: PMC4580626
+PMID: 26398500  [Indexed for MEDLINE]
+

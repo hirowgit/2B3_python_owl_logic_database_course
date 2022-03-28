@@ -1,0 +1,49 @@
+
+
+443. J Neurosci. 2019 Oct 9;39(41):8024-8037. doi: 10.1523/JNEUROSCI.0895-19.2019.
+Epub 2019 Aug 28.
+
+Mice Discriminate Stereoscopic Surfaces Without Fixating in Depth.
+
+Samonds JM(1), Choi V(2), Priebe NJ(2).
+
+Author information: 
+(1)Center for Learning and Memory, Center for Perceptual Systems, and The
+Institute for Neuroscience, The University of Texas at Austin, Austin, Texas
+78712 samondjm@gmail.com.
+(2)Center for Learning and Memory, Center for Perceptual Systems, and The
+Institute for Neuroscience, The University of Texas at Austin, Austin, Texas
+78712.
+
+Stereopsis is a ubiquitous feature of primate mammalian vision, but little is
+known about if and how rodents such as mice use stereoscopic vision. We used
+random dot stereograms to test for stereopsis in male and female mice, and they
+were able to discriminate near from far surfaces over a range of disparities,
+with diminishing performance for small and large binocular disparities. Based on 
+two-photon measurements of disparity tuning, the range of disparities represented
+in the visual cortex aligns with the behavior and covers a broad range of
+disparities. When we examined their binocular eye movements, we found that,
+unlike primates, mice did not systematically vary relative eye positions or use
+vergence eye movements when presented with different disparities. Nonetheless,
+the representation of disparity tuning was wide enough to capture stereoscopic
+information over a range of potential vergence angles. Although mice share
+fundamental characteristics of stereoscopic vision with primates and carnivores, 
+their lack of disparity-dependent vergence eye movements and wide neuronal
+representation suggests that they may use a distinct strategy for
+stereopsis.SIGNIFICANCE STATEMENT Binocular vision allows us to derive depth
+information by comparing right and left eye information. We characterized
+binocular integration in mice because tools exist in these animals to dissect the
+underlying neural circuitry for binocular vision. Using random dot stereograms,
+we find that behavior and disparity tuning in the visual cortex share fundamental
+characteristics with primates, but we did not observe any evidence of
+disparity-dependent changes in vergence angle. We propose that mice use a
+distinct strategy of stereopsis compared with primates by using a broad range of 
+disparities to encode depth over a large field of view and to compensate for
+nonstereoscopic changes in vergence angle that arise during natural behavior.
+
+Copyright © 2019 the authors.
+
+DOI: 10.1523/JNEUROSCI.0895-19.2019 
+PMCID: PMC6786824
+PMID: 31462533  [Indexed for MEDLINE]
+

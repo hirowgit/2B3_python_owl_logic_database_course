@@ -1,0 +1,78 @@
+
+
+1668. Methods Mol Biol. 2012;925:21-48. doi: 10.1007/978-1-62703-011-3_2.
+
+Derivation of induced pluripotent stem cells by retroviral gene transduction in
+mammalian species.
+
+Imamura M(1), Okuno H, Tomioka I, Kawamura Y, Lin ZY, Nakajima R, Akamatsu W,
+Okano HJ, Matsuzaki Y, Sasaki E, Okano H.
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan.
+
+Pluripotent stem cells can provide us with an enormous cell source for in vitro
+model systems for development. In 2006, new methodology was designed to generate 
+pluripotent stem cells directly from somatic cells, and these cells were named
+induced pluripotent stem cells (iPSCs). This method consists of technically
+simple procedures: donor cell preparation, gene transduction, and isolation of
+embryonic stem cell-like colonies. The iPSC technology enables cell biologists
+not only to obtain pluripotent stem cells easily but also to study the
+reprogramming events themselves. Here, we describe the protocols to generate
+iPSCs from somatic origins by using conventional viral vectors. Specifically, we 
+state the usage of three mammalian species: mouse, common marmoset, and human. As
+mouse iPSC donors, fibroblasts are easily prepared, while mesenchymal stem cells 
+are expected to give rise to highly reprogrammed iPSCs efficiently. Common
+marmoset (Callithrix jacchus), a nonhuman primate, represents an alternative
+model to the usual laboratory animals. Finally, patient-specific human iPSCs give
+us an opportunity to examine the pathology and mechanisms of dysregulated genomic
+imprinting. The iPSC technology will serve as a valuable method for studying
+genomic imprinting, and conversely, the insights from these studies will offer
+valuable criteria to assess the potential of iPSCs.
+
+DOI: 10.1007/978-1-62703-011-3_2 
+PMID: 22907488  [Indexed for MEDLINE]
+
+
+1669. Parkinsonism Relat Disord. 2013 Feb;19(2):260-4. doi:
+10.1016/j.parkreldis.2012.07.001. Epub 2012 Aug 14.
+
+RGFP109, a histone deacetylase inhibitor attenuates L-DOPA-induced dyskinesia in 
+the MPTP-lesioned marmoset: a proof-of-concept study.
+
+Johnston TH(1), Huot P, Damude S, Fox SH, Jones SW, Rusche JR, Brotchie JM.
+
+Author information: 
+(1)Division of Brain, Imaging & Behaviour, Systems Neuroscience, Toronto Western 
+Research Institute, 399 Bathurst Street, MP-12-303, Toronto, ON M5T2S8, Canada.
+tom.johnston@uhnresearch.ca
+
+BACKGROUND: l-3,4-dihydroxyphenylalanine (l-DOPA)-induced dyskinesia (LID) are a 
+complication of chronic dopamine replacement therapy in Parkinson's disease (PD).
+Recent studies have suggested that the mechanisms underlying development and
+expression of LID in PD may involve epigenetic changes that include deacetylation
+of striatal histone proteins. We hypothesised that inhibition of histone
+deacetylase, the enzyme responsible of histone deacetylation, would alleviate
+LID.
+METHODS: Four female common marmoset (Callithrix jacchus) were rendered
+parkinsonian by administration of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(MPTP). Following stabilisation of the parkinsonian phenotype, marmosets were
+primed to exhibit dyskinesia with chronic administration of L-DOPA. We then
+investigated the effects of the brain-penetrant histone deacetylase inhibitor,
+RGFP109 (30 mg/kg p.o. once daily for 6 days), on LID and L-DOPA
+anti-parkinsonian efficacy.
+RESULTS: RGFP109 had no acute effects on dyskinesia after single or 6 days
+once-daily treatment (both P > 0.05). However, one week following cessation of
+RGFP109, dyskinesia and duration of ON-time with disabling dyskinesia were
+reduced by 37% and 50%, respectively (both P < 0.05), compared to that seen
+previously with L-DOPA alone. There was no change in anti-parkinsonian actions
+of, or ON-time duration afforded by, L-DOPA (P > 0.05).
+CONCLUSIONS: Histone deacetylation inhibition may represent a novel approach to
+reverse established LID in PD and improve quality of the anti-parkinsonian
+benefit provided by L-DOPA.
+
+Copyright © 2012. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.parkreldis.2012.07.001 
+PMID: 22901956  [Indexed for MEDLINE]
+

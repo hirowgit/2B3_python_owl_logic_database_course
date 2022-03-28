@@ -1,0 +1,109 @@
+
+
+17. Sci Rep. 2022 Jan 27;12(1):1487. doi: 10.1038/s41598-021-04276-7.
+
+Uniparental genetic markers to investigate hybridization in wild-born marmosets
+with a mixed phenotype among Callithrix aurita and invasive species.
+
+Nogueira DM(1), de Carvalho RS(2), de Oliveira AM(3), de Paula TS(3), Pereira
+DG(4), Pissinatti A(5), Loiola SO(6), Carvalho EF(6), Silva DA(7), Bergallo
+HG(7), Ferreira AMDR(8).
+
+Author information: 
+(1)Departamento de Genética, Instituto de Ciências Biológicas e da Saúde,
+Universidade Federal Rural do Rio de Janeiro, BR-465, Km 07, Seropédica, Rio de
+Janeiro, CEP 23897000, Brazil. denisemn@ufrrj.br.
+(2)Programa de Educação Ambiental (PREA), Rio de Janeiro, Brazil.
+(3)Departamento de Genética, Instituto de Biologia Roberto Alcantara Gomes,
+Universidade do Estado do Rio de Janeiro, Rio de Janeiro, RJ, Brazil.
+(4)Laboratório de Primatologia, Universidade Santa Úrsula, Rio de Janeiro,
+Brazil.
+(5)Centro de Primatologia do Rio de Janeiro, INEA, Guapimirim, Rio de Janeiro,
+Brazil.
+(6)Laboratório de Diagnósticos por DNA, Universidade do Estado do Rio de Janeiro,
+Rio de Janeiro, Brazil.
+(7)Departamento de Ecologia, Instituto de Biologia Roberto Alcantara Gomes,
+Universidade do Estado do Rio de Janeiro, Rio de Janeiro, Brazil.
+(8)Departamento de Patologia e Clínica Veterinária, Universidade Federal
+Fluminense, Rio de Janeiro, Brazil.
+
+The native marmoset of the Southeastern Atlantic Forest in Brazil is among the 25
+most endangered primates of the world. Hybridization with alien species is one of
+its main threats registered since the early 2000s based on phenotype, so far,
+without genetic confirmation. Using uniparental molecular markers, we analyzed 18
+putative hybrids, captured from 2004 to 2013 in different localities of the
+Atlantic Forest. A nine base pair deletion in the SRY gene of C. aurita was used 
+to investigate paternal ancestry. Maternal ancestry was assessed by DNA
+sequencing of ca. 455 bp from the COX2 gene. Hybridization was confirmed for 16
+out of the 18 marmosets since they inherited COX2 haplotypes of the alien C.
+penicillata or C. jacchus and the SRY deletion specific to C. aurita. Two
+individuals inherited both parental lineages of C. aurita, which is probably
+related to backcrossing or hybrid interbreeding. The direction of hybridization
+of females with the matrilineal lineage of invasive species with males descending
+from the native lineage was predominant in our sampling. This is the first time
+that hybridization between C. aurita and invasive species has been confirmed
+through genetic analysis.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-021-04276-7 
+PMCID: PMC8795268
+PMID: 35087079  [Indexed for MEDLINE]
+
+
+18. Front Neural Circuits. 2022 Jan 5;15:786740. doi: 10.3389/fncir.2021.786740.
+eCollection 2021.
+
+Effects of Cortical Cooling on Sound Processing in Auditory Cortex and Thalamus
+of Awake Marmosets.
+
+Jeschke M(1)(2)(3), Ohl FW(2)(4)(5), Wang X(1).
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD, United States.
+(2)Department Systems Physiology of Learning, Leibniz Institute for Neurobiology,
+Magdeburg, Germany.
+(3)Auditory Neuroscience and Optogenetics Group, Cognitive Hearing in Primates
+Laboratory, German Primate Center-Leibniz Institute for Primate Research,
+Göttingen, Germany.
+(4)Institute of Biology, Otto-von-Guericke-University Magdeburg, Magdeburg,
+Germany.
+(5)Center for Behavioral Brain Sciences (CBBS), Magdeburg, Germany.
+
+The auditory thalamus is the central nexus of bottom-up connections from the
+inferior colliculus and top-down connections from auditory cortical areas. While 
+considerable efforts have been made to investigate feedforward processing of
+sounds in the auditory thalamus (medial geniculate body, MGB) of non-human
+primates, little is known about the role of corticofugal feedback in the MGB of
+awake non-human primates. Therefore, we developed a small, repositionable cooling
+probe to manipulate corticofugal feedback and studied neural responses in both
+auditory cortex and thalamus to sounds under conditions of normal and reduced
+cortical temperature. Cooling-induced increases in the width of extracellularly
+recorded spikes in auditory cortex were observed over the distance of several
+hundred micrometers away from the cooling probe. Cortical neurons displayed
+reduction in both spontaneous and stimulus driven firing rates with decreased
+cortical temperatures. In thalamus, cortical cooling led to increased spontaneous
+firing and either increased or decreased stimulus driven activity. Furthermore,
+response tuning to modulation frequencies of temporally modulated sounds and
+spatial tuning to sound source location could be altered (increased or decreased)
+by cortical cooling. Specifically, best modulation frequencies of individual MGB 
+neurons could shift either toward higher or lower frequencies based on the vector
+strength or the firing rate. The tuning of MGB neurons for spatial location could
+both sharpen or widen. Elevation preference could shift toward higher or lower
+elevations and azimuth tuning could move toward ipsilateral or contralateral
+locations. Such bidirectional changes were observed in many parameters which
+suggests that the auditory thalamus acts as a filter that could be adjusted
+according to behaviorally driven signals from auditory cortex. Future work will
+have to delineate the circuit elements responsible for the observed effects.
+
+Copyright © 2022 Jeschke, Ohl and Wang.
+
+DOI: 10.3389/fncir.2021.786740 
+PMCID: PMC8766342
+PMID: 35069125  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

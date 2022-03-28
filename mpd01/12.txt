@@ -1,0 +1,146 @@
+
+
+12. Mol Brain. 2022 Feb 10;15(1):16. doi: 10.1186/s13041-022-00901-2.
+
+A natural marmoset model of genetic generalized epilepsy.
+
+Yang X(#)(1), Chen Z(#)(1), Wang Z(1), He G(1), Li Z(1), Shi Y(1), Gong N(2),
+Zhao B(1), Kuang Y(1), Takahashi E(3), Li W(4)(5).
+
+Author information: 
+(1)Bio-X Institutes, Key Laboratory for the Genetics of Development and
+Neuropsychiatric Disorders (Ministry of Education), Shanghai Key Laboratory of
+Psychotic Disorders, and Brain Science and Technology Research Center, Institute 
+of Psychology and Behavioral Sciences, Shanghai Jiao Tong University, Shanghai,
+200240, China.
+(2)Institute of Neuroscience, Key Laboratory of Primate Neurobiology, CAS Center 
+for Excellence in Brain Science and Intelligence Technology, Chinese Academy of
+Sciences, Shanghai, 200031, China.
+(3)Bio-X Institutes, Key Laboratory for the Genetics of Development and
+Neuropsychiatric Disorders (Ministry of Education), Shanghai Key Laboratory of
+Psychotic Disorders, and Brain Science and Technology Research Center, Institute 
+of Psychology and Behavioral Sciences, Shanghai Jiao Tong University, Shanghai,
+200240, China. eiki.takahashi.sjt@gmail.com.
+(4)Bio-X Institutes, Key Laboratory for the Genetics of Development and
+Neuropsychiatric Disorders (Ministry of Education), Shanghai Key Laboratory of
+Psychotic Disorders, and Brain Science and Technology Research Center, Institute 
+of Psychology and Behavioral Sciences, Shanghai Jiao Tong University, Shanghai,
+200240, China. liwd@sjtu.edu.cn.
+(5)WLA Laboratories, World Laureates Association, Shanghai, 201203, China.
+liwd@sjtu.edu.cn.
+(#)Contributed equally
+
+Epilepsy has been extensively studied as a common neurological disease. Efforts
+have been made on rodent and other animal models to reveal the pathogenic
+mechanisms of epilepsy and develop new drugs for treatment. However, the features
+of current epilepsy models cannot fully mimic different types of epilepsy in
+humans, hence non-human primate models of epilepsy are required. The common
+marmoset (Callithrix jacchus) is a New World monkey that is widely used to study 
+brain function. Here, we present a natural marmoset model of generalized
+epilepsy. In this unique marmoset family, generalized epilepsy was successfully
+induced by handling operations in some individuals. We mapped the marmoset family
+with handling-sensitive epilepsy and found that the epileptic phenotype can be
+inherited. These marmosets were more sensitive to the epilepsy inducers
+pentylenetetrazol. Using electrocorticogram (ECoG) recordings, we detected
+epileptiform discharge in marmosets with a history of seizures. In summary, we
+report a family of marmosets with generalized seizures induced by handling
+operations. This epileptic marmoset family provides insights to better understand
+the mechanism of generalized epilepsy and helps to develop new therapeutic
+methods.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s13041-022-00901-2 
+PMCID: PMC8832845
+PMID: 35144651 
+
+
+13. Neuroimage. 2022 Apr 15;250:118965. doi: 10.1016/j.neuroimage.2022.118965. Epub
+2022 Feb 2.
+
+Anatomical variability, multi-modal coordinate systems, and precision targeting
+in the marmoset brain.
+
+Ose T(1), Autio JA(2), Ohno M(3), Frey S(4), Uematsu A(5), Kawasaki A(6), Takeda 
+C(7), Hori Y(8), Nishigori K(9), Nakako T(10), Yokoyama C(11), Nagata H(12),
+Yamamori T(13), Van Essen DC(14), Glasser MF(15), Watabe H(16), Hayashi T(17).
+
+Author information: 
+(1)Laboratory for Brain Connectomics Imaging, RIKEN Center for Biosystems
+Dynamics Research, Kobe, Japan; Graduate School of Biomedical Engineering, Tohoku
+University, Sendai, Japan. Electronic address: ose@riken.jp.
+(2)Laboratory for Brain Connectomics Imaging, RIKEN Center for Biosystems
+Dynamics Research, Kobe, Japan. Electronic address: joonas.autio@riken.jp.
+(3)Laboratory for Brain Connectomics Imaging, RIKEN Center for Biosystems
+Dynamics Research, Kobe, Japan. Electronic address: m-ohno@riken.jp.
+(4)Rogue Research Inc, Montreal, Canada. Electronic address:
+steve@rogue-research.com.
+(5)Laboratory for Brain Connectomics Imaging, RIKEN Center for Biosystems
+Dynamics Research, Kobe, Japan. Electronic address: akiko.uematsu@riken.jp.
+(6)Laboratory for Brain Connectomics Imaging, RIKEN Center for Biosystems
+Dynamics Research, Kobe, Japan. Electronic address: aki_kawasaki@riken.jp.
+(7)Laboratory for Brain Connectomics Imaging, RIKEN Center for Biosystems
+Dynamics Research, Kobe, Japan. Electronic address: ctakeda@riken.jp.
+(8)Laboratory for Brain Connectomics Imaging, RIKEN Center for Biosystems
+Dynamics Research, Kobe, Japan; Department of Functional Brain Imaging, National 
+Institutes for Quantum and Radiological Science and Technology, Chiba, Japan.
+(9)Laboratory for Brain Connectomics Imaging, RIKEN Center for Biosystems
+Dynamics Research, Kobe, Japan; Sumitomo Dainippon Pharma Co. Ltd., Osaka, Japan.
+Electronic address: kantaro-nishigori@ds-pharma.co.jp.
+(10)Laboratory for Brain Connectomics Imaging, RIKEN Center for Biosystems
+Dynamics Research, Kobe, Japan; Sumitomo Dainippon Pharma Co. Ltd., Osaka, Japan.
+Electronic address: tomokazu-nakako@ds-pharma.co.jp.
+(11)Laboratory for Brain Connectomics Imaging, RIKEN Center for Biosystems
+Dynamics Research, Kobe, Japan; Faculty of Human life and Environmental Science, 
+Nara women's University, Nara, Japan. Electronic address: chihiro@nara-wu.ac.jp.
+(12)Sumitomo Dainippon Pharma Co. Ltd., Osaka, Japan. Electronic address:
+hidetaka-nagata@ds-pharma.co.jp.
+(13)Laboratory for Molecular Analysis of Higher Brain Function, RIKEN Center for 
+Brain Science, Wako, Japan. Electronic address: tetsuo.yamamori@riken.jp.
+(14)Department of Neuroscience, Washington University Medical School, St Louis,
+MO United States. Electronic address: vanessen@wustl.edu.
+(15)Department of Neuroscience, Washington University Medical School, St Louis,
+MO United States; Department of Radiology, Washington University Medical School, 
+St Louis, MO United States. Electronic address: glasserm@wustl.edu.
+(16)Graduate School of Biomedical Engineering, Tohoku University, Sendai, Japan. 
+Electronic address: watabe@cyric.tohoku.ac.jp.
+(17)Laboratory for Brain Connectomics Imaging, RIKEN Center for Biosystems
+Dynamics Research, Kobe, Japan; Department of Brain Connectomics, Kyoto
+University Graduate School of Medicine, Kyoto, Japan. Electronic address:
+takuya.hayashi@riken.jp.
+
+Localising accurate brain regions needs careful evaluation in each experimental
+species due to their individual variability. However, the function and
+connectivity of brain areas is commonly studied using a single-subject cranial
+landmark-based stereotactic atlas in animal neuroscience. Here, we address this
+issue in a small primate, the common marmoset, which is increasingly widely used 
+in systems neuroscience. We developed a non-invasive multi-modal
+neuroimaging-based targeting pipeline, which accounts for intersubject anatomical
+variability in cranial and cortical landmarks in marmosets. This methodology
+allowed creation of multi-modal templates (MarmosetRIKEN20) including head CT and
+brain MR images, embedded in coordinate systems of anterior and posterior
+commissures (AC-PC) and CIFTI grayordinates. We found that the horizontal plane
+of the stereotactic coordinate was significantly rotated in pitch relative to the
+AC-PC coordinate system (10 degrees, frontal downwards), and had a significant
+bias and uncertainty due to positioning procedures. We also found that many
+common cranial and brain landmarks (e.g., bregma, intraparietal sulcus) vary in
+location across subjects and are substantial relative to average marmoset
+cortical area dimensions. Combining the neuroimaging-based targeting pipeline
+with robot-guided surgery enabled proof-of-concept targeting of deep brain
+structures with an accuracy of 0.2 mm. Altogether, our findings demonstrate
+substantial intersubject variability in marmoset brain and cranial landmarks,
+implying that subject-specific neuroimaging-based localization is needed for
+precision targeting in marmosets. The population-based templates and atlases in
+grayordinates, created for the first time in marmoset monkeys, should help
+bridging between macroscale and microscale analyses.
+
+Copyright © 2022. Published by Elsevier Inc.
+
+DOI: 10.1016/j.neuroimage.2022.118965 
+PMCID: PMC8948178 [Available on 2022-04-15]
+PMID: 35122965  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest Stephen Frey is
+employed by Rogue Research Inc. All the other authors declare no competing
+financial interests.
+

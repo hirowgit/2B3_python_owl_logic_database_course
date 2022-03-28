@@ -1,0 +1,40 @@
+
+
+1193. J Clin Microbiol. 2015 Oct;53(10):3148-54. doi: 10.1128/JCM.01449-15. Epub 2015
+Jul 15.
+
+Buffer AVL Alone Does Not Inactivate Ebola Virus in a Representative Clinical
+Sample Type.
+
+Smither SJ(1), Weller SA(2), Phelps A(2), Eastaugh L(2), Ngugi S(2), O'Brien
+LM(2), Steward J(2), Lonsdale SG(2), Lever MS(2).
+
+Author information: 
+(1)CBR Division, Defence Science and Technology Laboratory (Dstl), Porton Down,
+Salisbury, Wiltshire, United Kingdom sjsmither@dstl.gov.uk.
+(2)CBR Division, Defence Science and Technology Laboratory (Dstl), Porton Down,
+Salisbury, Wiltshire, United Kingdom.
+
+Rapid inactivation of Ebola virus (EBOV) is crucial for high-throughput testing
+of clinical samples in low-resource, outbreak scenarios. The EBOV inactivation
+efficacy of Buffer AVL (Qiagen) was tested against marmoset serum (EBOV
+concentration of 1 × 10(8) 50% tissue culture infective dose per milliliter
+[TCID50 · ml(-1)]) and murine blood (EBOV concentration of 1 × 10(7) TCID50 ·
+ml(-1)) at 4:1 vol/vol buffer/sample ratios. Posttreatment cell culture and
+enzyme-linked immunosorbent assay (ELISA) analysis indicated that treatment with 
+Buffer AVL did not inactivate EBOV in 67% of samples, indicating that Buffer AVL,
+which is designed for RNA extraction and not virus inactivation, cannot be
+guaranteed to inactivate EBOV in diagnostic samples. Murine blood samples treated
+with ethanol (4:1 [vol/vol] ethanol/sample) or heat (60°C for 15 min) also showed
+no viral inactivation in 67% or 100% of samples, respectively. However, combined 
+Buffer AVL and ethanol or Buffer AVL and heat treatments showed total viral
+inactivation in 100% of samples tested. The Buffer AVL plus ethanol and Buffer
+AVL plus heat treatments were also shown not to affect the extraction of PCR
+quality RNA from EBOV-spiked murine blood samples.
+
+© Crown copyright 2015.
+
+DOI: 10.1128/JCM.01449-15 
+PMCID: PMC4572529
+PMID: 26179307  [Indexed for MEDLINE]
+

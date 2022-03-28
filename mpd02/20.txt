@@ -1,0 +1,36 @@
+
+
+20. Elife. 2022 Jan 20;11. pii: e71647. doi: 10.7554/eLife.71647.
+
+An open-source tool for automated analysis of breathing behaviors in common
+marmosets and rodents.
+
+Bishop M(1), Weinhold M(1), Turk AZ(1), Adeck A(1), SheikhBahaei S(1).
+
+Author information: 
+(1)Neuron-Glia Signaling and Circuits Unit, National Institute of Neurological
+Disorders and Stroke (NINDS), National Institutes of Health (NIH), Bethesda,
+United States.
+
+The respiratory system maintains homeostatic levels of oxygen (O2) and carbon
+dioxide (CO2) in the body through rapid and efficient regulation of breathing
+frequency and depth (tidal volume). The commonly used methods of analyzing
+breathing data in behaving experimental animals are usually subjective,
+laborious, and time-consuming. To overcome these hurdles, we optimized an
+analysis toolkit for the unsupervised study of respiratory activities in animal
+subjects. Using this tool, we analyzed breathing behaviors of the common marmoset
+(Callithrix jacchus), a New World non-human primate model. Using whole-body
+plethysmography in room air as well as acute hypoxic (10% O2) and hypercapnic (6%
+CO2) conditions, we describe breathing behaviors in awake, freely behaving
+marmosets. Our data indicate that marmosets' exposure to acute hypoxia decreased 
+metabolic rate and increased sigh rate. However, the hypoxic condition did not
+augment ventilation. Hypercapnia, on the other hand, increased both the frequency
+and depth (i.e., tidal volume) of breathing.
+
+DOI: 10.7554/eLife.71647 
+PMCID: PMC8856653
+PMID: 35049499  [Indexed for MEDLINE]
+
+Conflict of interest statement: MB, MW, AT, AA, SS No competing interests
+declared
+

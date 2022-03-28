@@ -1,0 +1,119 @@
+
+
+372. Drug Metab Pharmacokinet. 2020 Apr;35(2):244-247. doi:
+10.1016/j.dmpk.2019.11.008. Epub 2019 Dec 26.
+
+Cloning and tissue expression of cytochrome P450 2S1, 4V2, 7A1, 7B1, 8B1, 24A1,
+26A1, 26C1, 27A1, 39A1, and 51A1 in marmosets.
+
+Uehara S(1), Uno Y(2), Inoue T(3), Sasaki E(3), Yamazaki H(4).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Japan.
+(2)Joint Faculty of Veterinary Medicine, Kagoshima University, Kagoshima-city,
+Japan.
+(3)Department of Applied Developmental Biology, Central Institute for
+Experimental Animals, Kawasaki, Japan.
+(4)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Japan. Electronic address: hyamazak@ac.shoyaku.ac.jp.
+
+Common marmoset (Callithrix jacchus) is an attractive animal model primate
+species for potential use in drug metabolism and pharmacokinetic studies. In this
+study, marmoset cytochrome P450 (P450) 2S1, 4V2, 7A1, 7B1, 8B1, 24A1, 26A1, 26C1,
+27A1, 39A1, and 51A1 cDNAs were isolated from marmoset tissues (brains, lungs,
+livers, kidneys, and jejunums). Deduced amino acid sequences (89-98% homologous) 
+of the marmoset P450 gene suggested similarity of molecular characteristics of
+marmoset P450s to human counterparts, compared with those of pig, rabbit, and
+rodents. Phylogenetic analysis using amino acid sequences indicated 11 marmoset
+P450 forms clustered with those of human and other primate counterparts,
+suggesting marmoset P450s have an evolutionary close relationship to human and
+other primate counterparts. Tissue expression patterns of these P450 mRNAs except
+for P450 7B1 mRNA were generally similar to those of human P450s in the five
+tissue types analyzed. These results suggest similarity of molecular
+characteristics for P450 2S1, 4V2, 7A1, 7B1, 8B1, 24A1, 26A1, 26C1, 27A1, 39A1,
+and 51A1 between marmosets and humans, in addition to the orthologs of human P450
+1, 2, 3, and 4 families previously identified and characterized in marmosets.
+
+Copyright © 2019 The Japanese Society for the Study of Xenobiotics. Published by 
+Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.dmpk.2019.11.008 
+PMID: 31980379  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that there are no conflicts of interest.
+
+
+373. Cryobiology. 2020 Feb 1;92:215-230. doi: 10.1016/j.cryobiol.2020.01.015. Epub
+2020 Jan 20.
+
+Effect of 'in air' freezing on post-thaw recovery of Callithrix jacchus
+mesenchymal stromal cells and properties of 3D collagen-hydroxyapatite scaffolds.
+
+Mutsenko V(1), Knaack S(2), Lauterboeck L(3), Tarusin D(4), Sydykov B(5),
+Cabiscol R(6), Ivnev D(7), Belikan J(8), Beck A(9), Dipresa D(9), Lode A(2), El
+Khassawna T(10), Kampschulte M(8), Scharf R(7), Petrenko AY(4), Korossis S(11),
+Wolkers WF(5), Gelinsky M(2), Glasmacher B(5), Gryshkov O(5).
+
+Author information: 
+(1)Institute for Multiphase Processes, Leibniz University Hannover, Hannover,
+Germany. Electronic address: mutsenko@imp.uni-hannover.de.
+(2)Centre for Translational Bone, Joint and Soft Tissue Research, Faculty of
+Medicine of Technische Universität Dresden, Dresden, Germany.
+(3)Cardiovascular Center of Excellence, Louisiana State University Health
+Sciences Center New Orleans, USA.
+(4)Institute for Problems of Cryobiology and Cryomedicine, National Academy of
+Sciences of Ukraine, Kharkiv, Ukraine.
+(5)Institute for Multiphase Processes, Leibniz University Hannover, Hannover,
+Germany.
+(6)Institute for Particle Technology, Technische Universität Braunschweig,
+Braunschweig, Germany.
+(7)Institute of Power Plant Engineering and Heat Transfer, Leibniz University
+Hannover, Hannover, Germany.
+(8)Department of Radiology, University Hospital of Giessen Marburg, Giessen,
+Germany.
+(9)Department of Cardiothoracic, Transplantation and Vascular Surgery, Hannover
+Medical School, Hannover, Germany.
+(10)Experimental Trauma Surgery, Faculty of Medicine, Justus-Liebig-Universität
+Gießen, Gießen, Germany.
+(11)Department of Cardiothoracic, Transplantation and Vascular Surgery, Hannover 
+Medical School, Hannover, Germany; Centre for Biological Engineering, Wolfson
+School for Mechanical Electrical and Manufacturing Engineering, University of
+Loughborough, Loughborough, United Kingdom.
+
+Through enabling an efficient supply of cells and tissues in the health sector on
+demand, cryopreservation is increasingly becoming one of the mainstream
+technologies in rapid translation and commercialization of regenerative medicine 
+research. Cryopreservation of tissue-engineered constructs (TECs) is an emerging 
+trend that requires the development of practically competitive biobanking
+technologies. In our previous studies, we demonstrated that conventional
+slow-freezing using dimethyl sulfoxide (Me2SO) does not provide sufficient
+protection of mesenchymal stromal cells (MSCs) frozen in 3D
+collagen-hydroxyapatite scaffolds. After simple modifications to a
+cryopreservation protocol, we report on significantly improved cryopreservation
+of TECs. Porous 3D scaffolds were fabricated using freeze-drying of a mineralized
+collagen suspension and following chemical crosslinking. Amnion-derived MSCs from
+common marmoset monkey Callithrix jacchus were seeded onto scaffolds in static
+conditions. Cell-seeded scaffolds were subjected to 24 h pre-treatment with
+100 mM sucrose and slow freezing in 10% Me2SO/20% FBS alone or supplemented with 
+300 mM sucrose. Scaffolds were frozen 'in air' and thawed using a two-step
+procedure. Diverse analytical methods were used for the interpretation of
+cryopreservation outcome for both cell-seeded and cell-free scaffolds. In both
+groups, cells exhibited their typical shape and well-preserved cell-cell and
+cell-matrix contacts after thawing. Moreover, viability test 24 h post-thaw
+demonstrated that application of sucrose in the cryoprotective solution preserves
+a significantly greater portion of sucrose-pretreated cells (more than 80%) in
+comparison to Me2SO alone (60%). No differences in overall protein structure and 
+porosity of frozen scaffolds were revealed whereas their compressive stress was
+lower than in the control group. In conclusion, this approach holds promise for
+the cryopreservation of 'ready-to-use' TECs.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cryobiol.2020.01.015 
+PMID: 31972153  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no conflict of interests.
+

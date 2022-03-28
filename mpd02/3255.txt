@@ -1,0 +1,39 @@
+
+
+3255. Mov Disord. 2000 Sep;15(5):804-12.
+
+Endogenous dopaminergic tone and dopamine agonist action.
+
+Treseder SA(1), Smith LA, Jenner P.
+
+Author information: 
+(1)Neurodegenerative Disease Research Centre, Guy's, King's, and St. Thomas's
+School of Biomedical Sciences, King's College London, UK.
+
+Dopamine receptor agonists provide symptomatic relief in the early stages of
+Parkinson's disease, but with disease progression, their efficacy decreases. The 
+reason behind this decrease in effectiveness is unknown, but maximal efficacy may
+be dependent on endogenous dopaminergic tone to provide stimulation of D1 and D2 
+receptor subtypes. Therefore, we have investigated the effects of the tyrosine
+hydroxylase inhibitor alpha-methyl-p-tyrosine (AMPT) on the actions of D1, D2,
+and D1/D2 agonists and levodopa (L-dopa) in common marmosets treated with 1
+-methyl-4-phenyl-1,2,3,6-tetrahydropyridine. Administration of AMPT alone further
+increased motor disability and decreased locomotor activity. Administration of
+L-dopa reversed motor disability and increased locomotor activity, and this
+reversal was not affected by previous AMPT treatment. The D1 agonist A-77636 and 
+the D2 agonist quinpirole reversed motor deficits, but these effects were
+markedly inhibited by previous AMPT treatment. Administration of quinpirole with 
+A-77636 produced a reversal of motor deficits that was more resistant to AMPT
+pretreatment than was the effect produced by quinpirole or A-77636 alone. These
+data suggest that D1 and D2 receptor stimulation are required for dopamine
+receptor agonists to produce a maximal antiparkinsonian response. The reversal of
+motor deficits produced by the mixed D1/D2 agonist apomorphine was more resistant
+to AMPT treatment than that produced by quinpirole or A-77636. However, the motor
+effects of A-77636 plus quinpirole and of apomorphine were still affected by AMPT
+treatment. This suggests that loss of tyrosine hydroxylase activity may also
+alter motor activity through inhibition of endogenous L-dopa or norepinephrine
+synthesis, because both are also involved in the genesis of motor activity.
+
+DOI: 10.1002/1531-8257(200009)15:5<804::aid-mds1007>3.0.co;2-2 
+PMID: 11009183  [Indexed for MEDLINE]
+

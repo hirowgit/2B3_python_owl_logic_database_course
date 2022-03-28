@@ -1,0 +1,45 @@
+
+
+4201. Eur J Biochem. 1992 Jul 15;207(2):757-66.
+
+Molecular evolution of alanine/glyoxylate aminotransferase 1 intracellular
+targeting. Analysis of the marmoset and rabbit genes.
+
+Purdue PE(1), Lumb MJ, Danpure CJ.
+
+Author information: 
+(1)Biochemical Genetics Research Group, Clinical Research Centre, Harrow,
+England.
+
+In mammals, the subcellular distribution of alanine:glyoxylate aminotransferase 1
+(AGT) is species dependent, with the proportion of AGT targeted to mitochondria
+varying between 0% and greater than 90%, the remainder being located in the
+peroxisome. In order to extend our studies on the molecular evolution of
+intracellular targeting of AGT, we have investigated the organization and
+expression of the AGT genes of rabbit, which has all of its AGT located in the
+peroxisome, and marmoset, which has approximately 50% of its AGT located in the
+peroxisome and 50% in the mitochondrion. Southern-blot analysis indicates that,
+in both of these species, AGT is encoded by a single-copy gene, as has previously
+been shown for human (all AGT in the peroxisome) and rat (50% AGT in the
+peroxisome and 50% in the mitochondrion). Comparison of the cDNA sequences
+encoding marmoset, rabbit, human and rat AGT, combined with transcript mapping
+and in vitro mitochondrial protein-import analysis, has provided a molecular
+explanation for the differential targeting of AGT in these species. As in the
+rat, marmoset AGT is synthesized in two forms, via the use of alternative
+transcription and translation-initiation sites. These two forms of AGT differ
+only in the presence or absence of a 22-amino-acid amino-terminal peptide, which 
+acts as a cleavable mitochondrial-targeting sequence, directing the longer form
+of AGT to mitochondria. The shorter form of AGT, lacking the
+mitochondrial-targeting sequence, is presumed to be localized in the peroxisomes.
+In humans and rabbits, similar but distinct evolutionary mutational events within
+the AGT gene have resulted in exclusion of the region encoding the
+mitochondrial-targeting sequence from the open reading frame, explaining the
+exclusive peroxisomal localization of AGT in these species. We discuss the impact
+of these results on our understanding of both the evolution of species dependence
+of AGT subcellular distribution and the recent identification of amino acid
+changes in human AGT which result in mistargeting of this protein to
+mitochondria.
+
+DOI: 10.1111/j.1432-1033.1992.tb17106.x 
+PMID: 1339350  [Indexed for MEDLINE]
+

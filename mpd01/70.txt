@@ -1,0 +1,102 @@
+
+
+70. Mol Ther Methods Clin Dev. 2021 Aug 8;23:11-22. doi: 10.1016/j.omtm.2021.07.009. 
+eCollection 2021 Dec 10.
+
+Specific gene expression in unmyelinated dorsal root ganglion neurons in nonhuman
+primates by intra-nerve injection of AAV 6 vector.
+
+Kudo M(1), Wupuer S(1), Fujiwara M(2), Saito Y(3), Kubota S(1), Inoue KI(2),
+Takada M(2), Seki K(1).
+
+Author information: 
+(1)Department of Neurophysiology, National Institute of Neuroscience, National
+Center of Neurology and Psychiatry, Kodaira, Tokyo, Japan.
+(2)Systems Neuroscience Section, Department of Neuroscience, Primate Research
+Institute, Kyoto University, Inuyama, Aichi, Japan.
+(3)Department of Neuropathology, Tokyo Metropolitan Institute of Gerontology,
+Itabashi, Tokyo, Japan.
+
+Adeno-associated virus 6 (AAV6) has been proposed as a potential vector candidate
+for specific gene expression in pain-related dorsal root ganglion (DRG) neurons, 
+but this has not been confirmed in nonhuman primates. The aim of our study was to
+analyze the transduction efficiency and target specificity of this viral vector
+in the common marmoset by comparing it with those in the rat. When green
+fluorescent protein-expressing serotype-6 vector was injected into the sciatic
+nerve, the efficiency of gene expression in DRG neurons was comparable in both
+species. We found that the serotype-6 vector was largely specific to the
+pain-related ganglion neurons in the marmoset, as well as in the rat, whereas the
+serotype-9 vector resulted in contrasting effects in the two species. Neither
+AAV6 nor AAV9 resulted in DRG toxicity when administered via the sciatic nerve,
+suggesting this as a safer route of sensory nerve transduction than the currently
+used intrathecal or intravenous administrative routes. Furthermore, the AAV6
+vector could be an optimal serotype for gene therapy for human chronic pain that 
+has a minimal effect on other somatosensory functions of DRG neurons.
+
+© 2021 The Author(s).
+
+DOI: 10.1016/j.omtm.2021.07.009 
+PMCID: PMC8426475
+PMID: 34552999 
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+71. Naunyn Schmiedebergs Arch Pharmacol. 2021 Dec;394(12):2381-2388. doi:
+10.1007/s00210-021-02162-7. Epub 2021 Sep 22.
+
+Additive effects of mGluR2 positive allosteric modulation, mGluR2 orthosteric
+stimulation and 5-HT2AR antagonism on dyskinesia and psychosis-like behaviours in
+the MPTP-lesioned marmoset.
+
+Nuara SG(1), Gourdon JC(1), Maddaford S(2), Huot P(3)(4)(5).
+
+Author information: 
+(1)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(2)Talon Pharmaceuticals, Mississauga, ON, Canada.
+(3)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital (The
+Neuro), 3801 University St, Montreal, QC, H3A 2B4, Canada.
+philippe.huot@mcgill.ca.
+(4)Department of Neurology and Neurosurgery, McGill University, Montreal, QC,
+Canada. philippe.huot@mcgill.ca.
+(5)Department of Neuroscience, Division of Neurology, Movement Disorder Clinic,
+McGill University Health Centre, Montreal, QC, Canada. philippe.huot@mcgill.ca.
+
+PURPOSE: Antagonising serotonin (5-HT) type 2A receptors (5-HT2AR) is an
+effective strategy to alleviate both dyskinesia and psychosis in Parkinson's
+disease (PD). We have recently shown that activation of metabotropic glutamate 2 
+receptors (mGluR2), via either orthosteric stimulation or positive allosteric
+modulation, enhances the anti-dyskinetic and anti-psychotic effects of 5-HT2AR
+antagonism. Here, we investigated if greater therapeutic efficacy would be
+achieved by combining 5-HT2AR antagonism with concurrent mGluR2 orthosteric
+stimulation and mGluR2 positive allosteric modulation.
+METHODS: Five 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned
+marmosets exhibiting dyskinesia and psychosis-like behaviours (PLBs) were
+administered L-3,4-dihydroxyphenylalanine (L-DOPA) in combination with vehicle or
+the 5-HT2AR antagonist EMD-281,014. EMD-281,014 was itself administered alone or 
+with the mGluR2 orthosteric agonist (OA) LY-354,740, the mGluR2 positive
+allosteric modulator (PAM) LY-487,379 and combination thereof, after which the
+severity of dyskinesia, PLBs and parkinsonism was rated.
+RESULTS: EMD-281,014 reduced dyskinesia and PLBs by up to 47% and 40%,
+respectively (both P < 0.001). The addition of LY-354,740, LY-487,379 and
+LY-354,740/LY-487,379 decreased dyskinesia by 56%, 65% and 77%, while PLBs were
+diminished by 55%, 63% and 71% (all P < 0.001). All treatment combinations
+provided anti-dyskinetic and anti-psychotic benefits significantly greater than
+those conferred by EMD-281,014 alone (all P < 0.05). The combination of
+EMD-281,014/LY-354,740/LY-487,379 resulted in anti-dyskinetic and anti-psychotic 
+effects significantly greater than those conferred by EMD-281,014 with either
+LY-354,740 or LY-487,379 (both P < 0.05). No deleterious effects on L-DOPA
+anti-parkinsonian action were observed.
+CONCLUSION: Our results suggest that combining 5-HT2AR antagonism with mGluR2
+activation results in greater reduction of L-DOPA-induced dyskinesia and PD
+psychosis. They also indicate that further additive effect can be achieved when a
+mGluR2 OA and a mGluR2 PAM are combined with a 5-HT2AR antagonist than when a
+mGluR2 OA or a mGluR2 PAM are added to a 5-HT2AR antagonist.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany,
+part of Springer Nature.
+
+DOI: 10.1007/s00210-021-02162-7 
+PMID: 34550406  [Indexed for MEDLINE]
+

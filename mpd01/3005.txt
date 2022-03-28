@@ -1,0 +1,84 @@
+
+
+3005. J Comp Neurol. 2002 Dec 16;454(3):310-9.
+
+Few intrinsic connections cross the hand-face border of area 3b of New World
+monkeys.
+
+Fang PC(1), Jain N, Kaas JH.
+
+Author information: 
+(1)Department of Psychology, Vanderbilt University, Nashville, Tennessee 37203,
+USA.
+
+After long-standing loss of afferents from the hand, the hand representation in
+area 3b of the somatosensory cortex of monkeys becomes responsive to touch on the
+face. Because the reactivation of deprived hand cortex by the face inputs could
+depend on axonal connections across the hand-face border, we determined the
+extent of such connections in New World marmosets, owl monkeys, and squirrel
+monkeys. Small injections of anatomic tracers were placed in the hand or the face
+representations after these representations were identified by microelectrode
+recordings. The positions of retrogradely labeled neurons were plotted in
+processed brain sections cut parallel to the brain surface, and their locations
+were related to anatomic isomorphs of the hand and face representations revealed 
+in adjacent brain sections stained for myelin. In these sections, the hand-face
+border was clearly visualized as a myelin-poor septum. The intrinsic connections 
+of area 3b labeled by injections in either the hand or face representations were 
+almost completely confined to their respective representation, and very few
+neurons projected across the border. In addition, neurons in the somatosensory
+thalamus labeled by injections in either face or hand representations were
+confined to either VPM, representing the face, or the hand subnucleus of VPL.
+Thus the reactivation of hand cortex by face stimulation does not depend on a
+previously existing network of intrinsic cortical connections across the
+hand-face border, or mismatched thalamocortical projections.
+
+Copyright 2002 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.10433 
+PMID: 12442321  [Indexed for MEDLINE]
+
+
+3006. J Pharmacol Exp Ther. 2002 Dec;303(3):952-8.
+
+Dopamine, but not norepinephrine or serotonin, reuptake inhibition reverses motor
+deficits in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-treated primates.
+
+Hansard MJ(1), Smith LA, Jackson MJ, Cheetham SC, Jenner P.
+
+Author information: 
+(1)Neurodegenerative Disease Research Centre, Guy's, King's, and St. Thomas'
+School of Biomedical Sciences, King's College, London, United Kingdom.
+
+Monoamine reuptake inhibitors that do not discriminate between the transporters
+for dopamine (DA), norepinephrine (NE), or 5-hydroxytryptamine (5-HT, serotonin) 
+can reverse locomotor deficits and motor disability in
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-treated common marmosets. DA 
+reuptake inhibition is presumed to be primarily responsible, but the role played 
+by inhibition of NE and 5-HT reuptake is unknown. We now evaluate the efficacy of
+a range of monoamine reuptake inhibitors either alone or in combination in
+MPTP-treated common marmosets to determine the actions required for effective
+antiparkinsonian activity. Monoamine reuptake inhibitors not discriminating
+between the DA, NE, and 5-HT transporters
+[1-[1-(3,4-dichlororphenyl)cyclobutyl]-2-(3-diaminethylaminopropylthio)ethanone
+monocitrate (BTS 74 398) and nomifensine] reversed locomotor deficits and motor
+disability in MPTP-treated marmosets but bupropion was without effect. The
+selective DA reuptake inhibitor
+1-(2-(bis-(4-fluorophenyl)-methoxy)ethyl)-4-(3-phenylpropyl) piperazine)
+dihydrochloride (GBR 12909) also reversed these motor deficits. The relative
+efficacy of the compounds (BTS 74 398 > GBR 12909 > nomifensine >> bupropion)
+paralleled their potency in inhibiting DA uptake in vitro and in vivo. In
+contrast, the selective NE reuptake inhibitor nisoxetine and the 5-HT reuptake
+inhibitor sertraline administered alone failed to improve motor function and
+tended to worsen the deficits. Coadministration of nisoxetine attenuated the
+improvement in motor deficits produced by GBR 12909. Coadministration of
+sertraline also abolished the reversal of motor deficits produced by GBR 12909.
+Coadministration of both sertraline and nisoxetine similarly abolished the
+improvement of motor deficits produced by GBR 12909. Molecules possessing potent 
+DA reuptake inhibitory activity may be useful in the treatment of the motor
+symptoms of Parkinson's disease. In contrast, there seems to be no role for NE or
+5-HT reuptake inhibitors, and they may impair antiparkinsonian activity mediated 
+through dopaminergic mechanisms.
+
+DOI: 10.1124/jpet.102.039743 
+PMID: 12438514  [Indexed for MEDLINE]
+

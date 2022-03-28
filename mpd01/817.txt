@@ -1,0 +1,109 @@
+
+
+817. Neurosci Res. 2018 May;130:56-64. doi: 10.1016/j.neures.2017.08.006. Epub 2017
+Aug 24.
+
+Silencing of FUS in the common marmoset (Callithrix jacchus) brain via
+stereotaxic injection of an adeno-associated virus encoding shRNA.
+
+Endo K(1), Ishigaki S(2), Masamizu Y(3), Fujioka Y(1), Watakabe A(4), Yamamori
+T(4), Hatanaka N(5), Nambu A(5), Okado H(6), Katsuno M(1), Watanabe H(7),
+Matsuzaki M(3), Sobue G(8).
+
+Author information: 
+(1)Department of Neurology, Nagoya University Graduate School of Medicine,
+Nagoya, Aichi 466-8550, Japan.
+(2)Department of Neurology, Nagoya University Graduate School of Medicine,
+Nagoya, Aichi 466-8550, Japan; Department of Therapeutics for Intractable
+Neurological Disorders, Nagoya University Graduate School of Medicine, Nagoya,
+Aichi 466-8550, Japan. Electronic address: ishigaki-ns@umin.net.
+(3)Department of Physiology, Graduate School of Medicine, The University of
+Tokyo, Bunkyo-ku, Tokyo 113-0033, Japan; Division of Brain Circuits, National
+Institute for Basic Biology, Okazaki, Aichi 444-8585, Japan.
+(4)Laboratory for Molecular Analysis of Higher Brain Function, RIKEN Brain
+Science Institute, Saitama 351-0198, Japan.
+(5)Division of System Neurophysiology, National Institute for Physiological
+Sciences, Department of Physiological Sciences, Okazaki, Aichi 444-8585, Japan,
+and SOKENDAI (The Graduate University for Advanced Studies), Okazaki, Aichi
+444-8585, Japan.
+(6)Department of Brain Development and Neural Regeneration, Tokyo Metropolitan
+Institute of Medical Science, Setagaya-ku, Tokyo 156-8506, Japan.
+(7)Brain and Mind Research Center, Nagoya University, Nagoya, Aichi 466-8550,
+Japan.
+(8)Department of Neurology, Nagoya University Graduate School of Medicine,
+Nagoya, Aichi 466-8550, Japan; Brain and Mind Research Center, Nagoya University,
+Nagoya, Aichi 466-8550, Japan; Research Division of Dementia and
+Neurodegenerative Disease, Nagoya University Graduate School of Medicine, Nagoya,
+Aichi 466-8550, Japan. Electronic address: sobueg@med.nagoya-u.ac.jp.
+
+Fused in sarcoma (FUS) is an RNA binding protein that is involved in
+frontotemporal lobar degeneration (FTLD) and amyotrophic lateral sclerosis (ALS).
+To establish the common marmoset (Callithrix jacchus) as a model for FTLD, we
+generated a stereotaxic injection-based marmoset model of FUS-silencing. We
+designed shRNAs against the marmoset FUS gene and generated an AAV9 virus
+encoding the most effective shRNA against FUS (shFUS). The AAV encoding shFUS
+(AAV-shFUS) was introduced into the frontal cortex of young adult marmosets,
+whereas AAV encoding a control shRNA was injected into the contralateral side. We
+obtained approximately 70-80% silencing of FUS following AAV-shFUS injection.
+Interestingly, FUS-silencing provoked a proliferation of astrocytes and
+microglias. Since FTLD is characterized by various emotional deficits, it would
+be helpful to establish a marmoset model of FUS-silencing in various brain
+tissues for investigating the pathomechanism of higher cognitive and behavioral
+dysfunction.
+
+Copyright © 2017 Elsevier Ireland Ltd and Japan Neuroscience Society. All rights 
+reserved.
+
+DOI: 10.1016/j.neures.2017.08.006 
+PMID: 28842245  [Indexed for MEDLINE]
+
+
+818. PLoS One. 2017 Aug 25;12(8):e0183440. doi: 10.1371/journal.pone.0183440.
+eCollection 2017.
+
+Different methods for volatile sampling in mammals.
+
+Kücklich M(1)(2), Möller M(3), Marcillo A(4), Einspanier A(5), Weiß BM(1)(2),
+Birkemeyer C(3), Widdig A(1)(2)(6).
+
+Author information: 
+(1)Junior Research Group of Primate Kin Selection, Department of Primatology,
+Max-Planck-Institute for Evolutionary Anthropology, Leipzig, Germany.
+(2)Behavioural Ecology Research Group, Institute of Biology, University of
+Leipzig, Leipzig, Germany.
+(3)Institute and Out-patient Clinic of Occupational Medicine, RWTH Aachen
+University, Aachen, Germany.
+(4)Research Group of Mass Spectrometry, Institute of Analytical Chemistry,
+University of Leipzig, Leipzig, Germany.
+(5)Institute of Physiological Chemistry, Faculty of Veterinary Medicine,
+University of Leipzig, Leipzig, Germany.
+(6)German Centre for Integrative Biodiversity Research (iDiv), Leipzig, Germany.
+
+Previous studies showed that olfactory cues are important for mammalian
+communication. However, many specific compounds that convey information between
+conspecifics are still unknown. To understand mechanisms and functions of
+olfactory cues, olfactory signals such as volatile compounds emitted from
+individuals need to be assessed. Sampling of animals with and without scent
+glands was typically conducted using cotton swabs rubbed over the skin or fur and
+analysed by gas chromatography-mass spectrometry (GC-MS). However, this method
+has various drawbacks, including a high level of contaminations. Thus, we adapted
+two methods of volatile sampling from other research fields and compared them to 
+sampling with cotton swabs. To do so we assessed the body odor of common
+marmosets (Callithrix jacchus) using cotton swabs, thermal desorption (TD) tubes 
+and, alternatively, a mobile GC-MS device containing a thermal desorption trap.
+Overall, TD tubes comprised most compounds (N = 113), with half of those
+compounds being volatile (N = 52). The mobile GC-MS captured the fewest compounds
+(N = 35), of which all were volatile. Cotton swabs contained an intermediate
+number of compounds (N = 55), but very few volatiles (N = 10). Almost all
+compounds found with the mobile GC-MS were also captured with TD tubes (94%).
+Hence, we recommend TD tubes for state of the art sampling of body odor of
+mammals or other vertebrates, particularly for field studies, as they can be
+easily transported, stored and analysed with high performance instruments in the 
+lab. Nevertheless, cotton swabs capture compounds which still may contribute to
+the body odor, e.g. after bacterial fermentation, while profiles from mobile
+GC-MS include only the most abundant volatiles of the body odor.
+
+DOI: 10.1371/journal.pone.0183440 
+PMCID: PMC5571906
+PMID: 28841690  [Indexed for MEDLINE]
+

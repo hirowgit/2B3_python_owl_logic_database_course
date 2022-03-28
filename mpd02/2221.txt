@@ -1,0 +1,38 @@
+
+
+2221. J Hepatol. 2008 Dec;49(6):908-15. doi: 10.1016/j.jhep.2008.07.020. Epub 2008 Sep 
+15.
+
+Chimeric GB virus B genomes containing hepatitis C virus p7 are infectious in
+vivo.
+
+Griffin S(1), Trowbridge R, Thommes P, Parry N, Rowlands D, Harris M, Bright H.
+
+Author information: 
+(1)Institute of Molecular and Cellular Biology, Faculty of Biological Sciences
+and Astbury Centre for Structural Molecular Biology, University of Leeds, Leeds
+LS2 9JT, UK. s.d.c.griffin@leeds.ac.uk
+
+BACKGROUND/AIMS: The development of new therapies for hepatitis C virus (HCV)
+infection has been hampered by the lack of a small animal model. GB virus B
+(GBV-B), which infects new world monkeys, has been proposed as a surrogate system
+for HCV replication. Despite their short genetic distance, however, difficulties 
+exist when extrapolating results from GBV-B to the HCV system. One way of
+addressing this is the creation of chimeric GBV-B containing HCV elements.
+METHODS: Construction and analysis of GBV-B chimeras in which the p13 ion channel
+was replaced by its HCV counterpart, p7.
+RESULTS: Replacing all, or part of, the GBV-B p13 protein with HCV p7 resulted in
+viable chimeras which replicated at wild-type levels in marmosets following
+intra-hepatic RNA injection. Serum from one animal injected with chimeric RNA was
+infectious in three naïve recipients, indicating that chimeras formed fully
+infectious virions. Amantadine, which blocks the ion channel activity of both HCV
+and GBV-B proteins in vitro, also inhibited GBV-B replication in primary
+hepatocytes.
+CONCLUSIONS: These viruses highlight the potential for chimeric GBV-B in the
+development of HCV-specific therapies and will provide a means of developing HCV 
+p7 as a therapeutic target.
+
+DOI: 10.1016/j.jhep.2008.07.020 
+PMCID: PMC3098382
+PMID: 18845353  [Indexed for MEDLINE]
+

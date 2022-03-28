@@ -1,0 +1,104 @@
+
+
+945. Cryobiology. 2017 Feb;74:93-102. doi: 10.1016/j.cryobiol.2016.11.009. Epub 2016
+Dec 2.
+
+Cryobiological parameters of multipotent stromal cells obtained from different
+sources.
+
+Lauterboeck L(1), Wolkers WF(2), Glasmacher B(3).
+
+Author information: 
+(1)Institute for Multiphase Processes, Leibniz Universität Hannover, Hannover,
+Germany. Electronic address: lauterboeck@imp.uni-hannover.de.
+(2)Institute for Multiphase Processes, Leibniz Universität Hannover, Hannover,
+Germany. Electronic address: wolkers@imp.uni-hannover.de.
+(3)Institute for Multiphase Processes, Leibniz Universität Hannover, Hannover,
+Germany. Electronic address: glasmacher@imp.uni-hannover.de.
+
+Stem cells are important for regenerative medicine mainly due to their
+multilineage differentiation capacity. However, the cells rapidly loose this
+capability during culturing. Cryopreservation preserves the differentiation
+potential of the cells, until they are needed. In this study, specific cell
+properties of multipotent stromal cells (MSCs), from the common marmoset monkey
+Callithrix jacchus MSCs derived from amnion (Am) and bone marrow (Bm) were
+studied in order to predict optimal cooling rates for cryopreservation. Cell
+volume behaviour in anisotonic media, hydraulic membrane permeability at supra as
+well as subzero temperatures, and time point of intracellular ice formation (IIF)
+were investigated by Coulter Counter and cryomicroscopy. Cryopreservation outcome
+was studied using the predicted and experimentally determined cooling rate
+followed by 24 h re-cultivation. Little differences in osmotically inactive
+volume were found between amnion (0.27 × Vo) and bone marrow (0.28 × Vo) derived 
+MSCs. The activation energy for water transport at suprazero temperature was
+found to be similar for both cell types; 4.4 ± 0.2 and 5.0 ± 0.15 kcal mol-1 for 
+amnion and bone marrow derived MSCs, respectively. At subzero temperatures in the
+absence of dimethyl sulfoxide (Me2SO), the activation energy for water transport 
+increased to 24.8 ± 3 kcal mol-1 and 27.4 ± 0.9 kcal mol-1 for Am and BmMSCs
+respectively. In the presence of Me2SO, activation energies were found to be
+11.6 ± 0.3 kcal mol-1 and 19.5 ± 0.5 kcal mol-1 respectively. Furthermore, Me2SO 
+was found to decrease the incidence of intracellular ice formation. The predicted
+optimal cooling rates of 11.6 ± 0.9 °C/min (AmMSCs) and 16.3 ± 0.5 °C/min
+(BmMSCs) resulted in similar post-thaw viability values compared to the
+experimentally determined optimal cooling profiles of 7.5 °C/min to -30 °C,
+followed by 3 °C/min to -80 °C.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cryobiol.2016.11.009 
+PMID: 27916562  [Indexed for MEDLINE]
+
+
+946. J Neurosci. 2016 Nov 30;36(48):12168-12179.
+
+Distinct Neural Activities in Premotor Cortex during Natural Vocal Behaviors in a
+New World Primate, the Common Marmoset (Callithrix jacchus).
+
+Roy S(1), Zhao L(1), Wang X(2).
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+The Johns Hopkins University School of Medicine, Baltimore, Maryland 21205.
+(2)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+The Johns Hopkins University School of Medicine, Baltimore, Maryland 21205
+xiaoqin.wang@jhu.edu.
+
+Although evidence from human studies has long indicated the crucial role of the
+frontal cortex in speech production, it has remained uncertain whether the
+frontal cortex in nonhuman primates plays a similar role in vocal communication. 
+Previous studies of prefrontal and premotor cortices of macaque monkeys have
+found neural signals associated with cue- and reward-conditioned vocal
+production, but not with self-initiated or spontaneous vocalizations (Coudé et
+al., 2011; Hage and Nieder, 2013), which casts doubt on the role of the frontal
+cortex of the Old World monkeys in vocal communication. A recent study of
+marmoset frontal cortex observed modulated neural activities associated with
+self-initiated vocal production (Miller et al., 2015), but it did not delineate
+whether these neural activities were specifically attributed to vocal production 
+or if they may result from other nonvocal motor activity such as orofacial motor 
+movement. In the present study, we attempted to resolve these issues and examined
+single neuron activities in premotor cortex during natural vocal exchanges in the
+common marmoset (Callithrix jacchus), a highly vocal New World primate. Neural
+activation and suppression were observed both before and during self-initiated
+vocal production. Furthermore, by comparing neural activities between
+self-initiated vocal production and nonvocal orofacial motor movement, we
+identified a subpopulation of neurons in marmoset premotor cortex that was
+activated or suppressed by vocal production, but not by orofacial movement. These
+findings provide clear evidence of the premotor cortex's involvement in
+self-initiated vocal production in natural vocal behaviors of a New World
+primate.SIGNIFICANCE STATEMENT: Human frontal cortex plays a crucial role in
+speech production. However, it has remained unclear whether the frontal cortex of
+nonhuman primates is involved in the production of self-initiated vocalizations
+during natural vocal communication. Using a wireless multichannel neural
+recording technique, we observed in the premotor cortex neural activation and
+suppression both before and during self-initiated vocalizations when marmosets, a
+highly vocal New World primate species, engaged in vocal exchanges with
+conspecifics. A novel finding of the present study is the discovery of a
+subpopulation of premotor cortex neurons that was activated by vocal production, 
+but not by orofacial movement. These observations provide clear evidence of the
+premotor cortex's involvement in vocal production in a New World primate species.
+
+Copyright © 2016 the authors 0270-6474/16/3612168-12$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.1646-16.2016 
+PMCID: PMC5148218
+PMID: 27903726  [Indexed for MEDLINE]
+

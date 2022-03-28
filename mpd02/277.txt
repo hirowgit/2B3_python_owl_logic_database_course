@@ -1,0 +1,45 @@
+
+
+277. Sci Rep. 2020 Aug 17;10(1):13885. doi: 10.1038/s41598-020-70397-0.
+
+Post-stimulatory activity in primate auditory cortex evoked by sensory
+stimulation during passive listening.
+
+Cooke JE(1), Lee JJ(2)(3), Bartlett EL(4), Wang X(5), Bendor D(2).
+
+Author information: 
+(1)Institute of Behavioural Neuroscience (IBN), University College London (UCL), 
+London, WC1H 0AP, UK. james.cooke@ucl.ac.uk.
+(2)Institute of Behavioural Neuroscience (IBN), University College London (UCL), 
+London, WC1H 0AP, UK.
+(3)Institute of Ophthalmology, University College London (UCL), London, WC1H 0AP,
+UK.
+(4)Departments of Biological Sciences and Biomedical Engineering, Purdue
+University, West Lafayette, 47907, USA.
+(5)Departments of Biomedical Engineering, Johns Hopkins University, Baltimore,
+21205, USA.
+
+Under certain circumstances, cortical neurons are capable of elevating their
+firing for long durations in the absence of a stimulus. Such activity has
+typically been observed and interpreted in the context of performance of a
+behavioural task. Here we investigated whether post-stimulatory activity is
+observed in auditory cortex and the medial geniculate body of the thalamus in the
+absence of any explicit behavioural task. We recorded spiking activity from
+single units in the auditory cortex (fields A1, R and RT) and auditory thalamus
+of awake, passively-listening marmosets. We observed post-stimulatory activity
+that lasted for hundreds of milliseconds following the termination of the
+acoustic stimulus. Post-stimulatory activity was observed following both
+adapting, sustained and suppressed response profiles during the stimulus. These
+response types were observed across all cortical fields tested, but were largely 
+absent from the auditory thalamus. As well as being of shorter duration, thalamic
+post-stimulatory activity emerged following a longer latency than in cortex,
+indicating that post-stimulatory activity may be generated within auditory cortex
+during passive listening. Given that these responses were observed in the absence
+of an explicit behavioural task, post-stimulatory activity in sensory cortex may 
+play a functional role in processes such as echoic memory and temporal
+integration that occur during passive listening.
+
+DOI: 10.1038/s41598-020-70397-0 
+PMCID: PMC7431571
+PMID: 32807854  [Indexed for MEDLINE]
+

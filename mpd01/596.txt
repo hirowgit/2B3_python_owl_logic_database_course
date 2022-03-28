@@ -1,0 +1,98 @@
+
+
+596. Cells Tissues Organs. 2018;205(5-6):256-278. doi: 10.1159/000493276. Epub 2018
+Nov 27.
+
+On the Enigma of the Human Neurenteric Canal.
+
+Rulle A(1), Tsikolia N(2), de Bakker B(3), Drummer C(4), Behr R(4)(5), Viebahn
+C(2).
+
+Author information: 
+(1)Institute of Anatomy and Embryology, University Medical Center Göttingen,
+Göttingen, Germany, Alexander.Rulle@stud.uni-goettingen.de.
+(2)Institute of Anatomy and Embryology, University Medical Center Göttingen,
+Göttingen, Germany.
+(3)Department of Medical Biology, Section Clinical Anatomy & Embryology,
+Amsterdam UMC, University of Amsterdam, Amsterdam, The Netherlands.
+(4)Platform Degenerative Diseases, German Primate Center, Leibniz Institute for
+Primate Research, Göttingen, Germany.
+(5)University Medical Center Göttingen, Göttingen, Germany.
+
+Existence and biomedical relevance of the neurenteric canal, a transient midline 
+structure during early neurulation in the human embryo, have been controversially
+discussed for more than a century by embryologists and clinicians alike. In this 
+study, the authors address the long-standing enigma by high-resolution histology 
+and three-dimensional reconstruction using new and historic histological sections
+of 5 human 17- to 21-day-old embryos and of 2 marmoset monkey embryos of the
+species Callithrix jacchus at corresponding stages. The neurenteric canal
+presents itself as the classical vertical connection between the amniotic cavity 
+and the yolk sac cavity and is lined (a) craniolaterally by a horseshoe-shaped
+"hinge of involuting notochordal cells" within Hensen's node and (b) caudally by 
+the receding primitive streak epiblast dorsally and by notochordal plate
+epithelium ventrally, the latter of which covered the (longitudinal) notochordal 
+canal on its ventral side at the preceding stage. Furthermore, asymmetric
+parachordal nodal expression in Callithrix and morphological asymmetries within
+the nodes of the other specimens suggest an early non-cilium-dependent left-right
+symmetry breaking mode previously postulated for other mammals. We conclude that 
+structure and position of the mammalian neurenteric canal support the notion of
+its homology with the reptilian blastopore as a whole and with a dorsal segment
+of the blastopore in amphibia. These new features of the neurenteric canal may
+further clarify the aetiology of foetal malformations such as junctional
+neurulation defects, neuroendodermal cysts, and the split notochord syndrome.
+
+© 2018 S. Karger AG, Basel.
+
+DOI: 10.1159/000493276 
+PMID: 30481762  [Indexed for MEDLINE]
+
+
+597. J Neurosci Methods. 2019 Jan 15;312:65-72. doi: 10.1016/j.jneumeth.2018.11.015.
+Epub 2018 Nov 20.
+
+Open-source hardware designs for MRI of mice, rats, and marmosets: Integrated
+animal holders and radiofrequency coils.
+
+Gilbert KM(1), Schaeffer DJ(2), Gati JS(2), Klassen LM(2), Everling S(3), Menon
+RS(2).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, London, Ontario, Canada. Electronic address: kgilbert@robarts.ca.
+(2)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, London, Ontario, Canada.
+(3)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, London, Ontario, Canada; Department of Physiology and Pharmacology, The 
+University of Western Ontario, London, Ontario, Canada.
+
+BACKGROUND: Small-animal MRI is an important investigative tool for basic and
+preclinical research. High-resolution anatomical and functional studies of the
+brain require artifact-free images that are acquired with a highly sensitive
+radiofrequency (RF) coil.
+NEW METHOD: The animal holder plays an important role in mitigating image
+artifacts: motion artifacts are reduced by immobilizing the animal and
+geometric-distortion artifacts are reduced by accurately positioning the animal
+to improve static-field shimming. The RF coil, in turn, must provide high
+sensitivity over the whole brain and not physically interfere with the animal
+holder. To accomplish these tasks, the animal holder and RF coil should be
+designed in tandem. In this manuscript, animal holders and RF coils for mice,
+rats, and marmoset monkeys are described. Each animal holder includes components 
+for anesthesia delivery and animal immobilization, as well as a compatible
+receive coil.
+RESULTS/COMPARISON WITH EXISTING METHOD(S): Animal holders were capable of
+accurate and reproducible positioning (for the marmoset, this was in the
+stereotactic plane), consequently reducing geometric distortion in echo-planar
+images. Ear bars were designed in conjunction with receive-coil formers, thereby 
+maximizing the sensitive region of coils, while concurrently reducing motion to
+less than a pixel over EPI time series. Motion and SNR were quantified to
+facilitate direct comparison to existing animal holders and RF coils. All
+computer-aided-design (CAD) files of animal holders and RF coils are provided to 
+promote dissemination.
+CONCLUSIONS: The confluence of design between the animal holder and RF coil
+provides a pragmatic solution for routine imaging of small animals.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2018.11.015 
+PMID: 30468825  [Indexed for MEDLINE]
+

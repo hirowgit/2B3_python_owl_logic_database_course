@@ -1,0 +1,86 @@
+
+
+448. Viral Immunol. 2019 Oct;32(8):348-354. doi: 10.1089/vim.2019.0054. Epub 2019 Aug 
+21.
+
+Seroprevalence of Human Adenovirus Type 5 Neutralizing Antibody in Common
+Marmosets Determined by a New Set of Two Assays.
+
+Wang Q(1), Sun Y(1), Xu Y(2), Wang Y(1), Wang H(3), Fu Y(4), Allain JP(5), Li
+C(1)(6), Li T(1).
+
+Author information: 
+(1)Department of Transfusion Medicine, School of Laboratory Medicine and
+Biotechnology, Southern Medical University, Guangzhou, China.
+(2)Sun Yat-sen University Cancer Center, Guangzhou, China.
+(3)Shunde Hospital, Southern Medical University, Foshan, China.
+(4)Guangzhou Blood Center, Guangzhou, China.
+(5)Department of Haematology, Emeritus, University of Cambridge, Cambridge,
+United Kingdom.
+(6)School of Public Health and Tropical Medicine, Southern Medical University,
+Guangzhou, China.
+
+Preexisting neutralizing antibody (NAb) against human adenovirus serotype 5
+(AdHu5) can reduce the immunogenicity of AdHu5 vector-based vaccine, thus
+inhibiting the host's immune response and utility of other homologous vectors.
+Common marmoset (Callithrix jacchus), a small new world primate, has attracted
+considerable attention for its potential as a preclinical research model of
+vaccine development. However, the prevalence of anti-AdHu5 NAb activity in common
+marmosets bred in China remains unknown. A recombinant adenovirus expressing
+luciferase and Zs Green reporter genes were constructed to detect NAb against
+rAdHu5 by flow cytometry (FCM) and chemiluminescence (CL) assay. Five of 25
+marmosets (20%) presented AdHu5 NAb detectable by FCM. Four animals had low titer
+(1/16), while the fifth one reached 1/64. While by CL assay, 7 of 25 (28%)
+marmosets were anti-AdHu5 NAb positive. Four animals, two of whom were negative
+by FCM, also had low titer NAb (1/16), suggesting assay discrepancy at low
+levels. Two marmosets, 1/32 titer by CL, were at 1/16 by FCM. A single animal
+showed a high titer with both assays (1/128 and 1/64 by CL and FCM,
+respectively). The CL method was simpler, more sensitive, accurate, and stable.
+The low prevalence of preexisting anti-AdHu5 NAb in marmosets provides important 
+background information on the feasibility and applicability of using marmosets as
+a preclinical research model for vaccine development.
+
+DOI: 10.1089/vim.2019.0054 
+PMID: 31433272  [Indexed for MEDLINE]
+
+
+449. Sci Rep. 2019 Aug 20;9(1):12134. doi: 10.1038/s41598-019-48643-x.
+
+Diet, digestion and energy intake in captive common marmosets (Callithrix
+jacchus): research and management implications.
+
+Power ML(1), Adams J(2), Solonika K(3), Colman RJ(3)(4), Ross C(2)(5), Tardif
+SD(2).
+
+Author information: 
+(1)Conservation Ecology Center, Smithsonian Conservation Biology Institute,
+Washington DC, USA. powerm@si.edu.
+(2)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX, USA.
+(3)Wisconsin National Primate Research Center, Madison, WI, USA.
+(4)Department of Cell & Regenerative Biology, School of Medicine and Public
+Health, University of Wisconsin, Madison, WI, USA.
+(5)Texas A&M University San Antonio, San Antonio, TX, USA.
+
+Common marmosets (Callithrix jacchus) are susceptible to intestinal inflammation 
+which leads to chronic diarrhea, weight loss, and vitamin D deficiency. We
+examined food intake and digestion in three mixed-sex groups of adult marmosets
+maintained on three commercial base diets. Animals underwent two consecutive
+4-day digestion trials. Body mass stayed constant. Feces and diet were assayed
+for Mn, fat, and gross energy (GE). Apparent digestibility of dry matter (ADDM)
+was calculated by the total collection method and from dietary and fecal Mn; the 
+methods produced correlated results (r = 0.658, p < 0.001). Apparent
+digestibility of energy (ADE) was calculated from ADDM and the GE of feces and
+diet; apparent digestibility of fat (ADfat) was calculated from ADDM and fecal
+fat. ADDM and ADE varied by diet (p < 0.001). We found poor digesters on all
+three diets. The concentration of fecal fat was inversely related to ADE
+(r = -0.729, p < 0.001). High fecal fat (>10%) was associated with ADfat of zero,
+consistent with lipid malabsorption. Mean digestible energy intake (DEI) was
+equal to 1.5 the estimated metabolic rate, but varied widely between individuals.
+The diet with the fewest animals with high fecal fat had the highest mean DEI and
+most animals above 450 g, suggesting it may be obesogenic.
+
+DOI: 10.1038/s41598-019-48643-x 
+PMCID: PMC6702194
+PMID: 31431664  [Indexed for MEDLINE]
+

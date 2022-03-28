@@ -1,0 +1,72 @@
+
+
+3538. Vis Neurosci. 1998 Sep-Oct;15(5):931-43.
+
+Interaction between rod and cone signals in responses of lateral geniculate
+neurons in dichromatic marmosets (Callithrix jacchus).
+
+Weiss S(1), Kremers J, Maurer J.
+
+Author information: 
+(1)Department of Experimental Ophthalmology, University of Tübingen Eye Hospital,
+Germany.
+
+Parvocellular (P-) and magnocellular (M-) cells in the marmoset LGN can receive
+prominent rod input up to relatively high illuminance levels (Kremers et al.,
+1997b). In the present paper, we quantify rod and cone input strengths under
+different retinal illuminance levels. The stimulus was based on the so-called
+"silent substitution" method. The activities of P- and M-cells of dichromatic
+animals were recorded extracellularly. We were able to adequately describe the
+response amplitudes and phases by a vector summation of rod and cone signals. At 
+low retinal illuminance levels, the cells' responses were determined by rod and
+cone inputs. With increasing illuminances the strength of the cone input
+increased relative to the rod strength. But, we often found significant rod
+inputs up to illuminances equivalent to 700 td in the human eye or more. Rod
+input strength was more pronounced in cells with receptive fields at large
+retinal eccentricities. The phase differences between rod and cone inputs suggest
+that the rod signals lag about 45 ms behind the cone signals.
+
+DOI: 10.1017/s0952523898155177 
+PMID: 9764535  [Indexed for MEDLINE]
+
+
+3539. Am J Reprod Immunol. 1998 Sep;40(3):198-209.
+
+Evaluation of the contraceptive potential of recombinant human ZP3 and human ZP3 
+peptides in a primate model: their safety and efficacy.
+
+Paterson M(1), Wilson MR, Morris KD, van Duin M, Aitken RJ.
+
+Author information: 
+(1)MRC Reproductive Biology Unit, Centre for Reproductive Biology, Edinburgh,
+United Kingdom.
+
+PROBLEM: The unique recognition events that result in the avid binding of
+mammalian spermatozoa to the surface of the zona pellucida (ZP) are being
+exploited in the development of contraceptive vaccines. In this study, the safety
+and efficacy of a vaccination strategy based on the induction of active immunity 
+against purified, glycosylated, recombinant human ZP3 (rhZP3) has been evaluated 
+in a primate model, Callithrix jacchus.
+METHOD OF STUDY: Long-term infertility was established after immunization with
+rhZP3 and the resulting immune sera reacted with rhZP3 on an enzyme-linked
+immunosorbent assay (ELISA) and immunolocalized exclusively to the outer surface 
+of native ZP on marmoset ovarian sections. However, this contraceptive effect was
+inevitably associated with the eventual appearance of an ovarian pathology
+characterized by a depletion of primordial follicles. In an attempt to circumvent
+this side effect, human ZP3 (hZP3) was epitope mapped and four continuous,
+immunodominant B-cell epitopes (hZP3(45-64), hZP3(93-110), hZP3(172-190) and
+hZP3(341-360) were evaluated for contraceptive efficacy in vivo. Using
+peptide-tetanus toxoid (TT) conjugates to enhance immunogenicity, antipeptide
+antibodies were raised against these immunogens, which also cross-reacted with
+rhZP3 on ELISA. In addition, antibodies against hZP3(45-64) and hZP3(172-190)
+recognized native ZP on marmoset ovarian sections when a microwave technique was 
+used to enhance epitope presentation.
+RESULTS: No ovarian pathology was observed after the long-term administration of 
+these peptide immunogens, and fertility was suppressed when compared with TT
+controls but could not be correlated to the antibody titer.
+CONCLUSION: Clearly, further research is required to identify optimal B-cell
+epitopes that will reliably induce infertility, free from any ovarian pathology.
+
+DOI: 10.1111/j.1600-0897.1998.tb00413.x 
+PMID: 9764365  [Indexed for MEDLINE]
+

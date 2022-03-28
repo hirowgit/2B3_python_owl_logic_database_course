@@ -1,0 +1,64 @@
+
+
+4091. Virology. 1993 Aug;195(2):608-15.
+
+An origin of DNA replication (oriP) in highly methylated episomal Epstein-Barr
+virus DNA localizes to a 4.5-kb unmethylated region.
+
+Falk K(1), Ernberg I.
+
+Author information: 
+(1)Department of Virology, Karolinska Institute, Stockholm, Sweden.
+
+Epstein-Barr virus (EBV) reveals two types of interactions with human B
+lymphocytes. In immortalized lymphoblastoid cell lines (LCL), nine virus-coded
+proteins are expressed: six nuclear (EBNA1-6) and three membrane proteins (LMP1, 
+TP 1,2). In Burkitt's lymphoma (BL) tumors and representative cell lines (type I)
+only EBNA-1 is expressed. The viral genomes are carried by the cells in an
+extrachromosal, episomal form. We have earlier described an overall difference in
+EBV DNA methylation between LCLs of normal B-cell origin and type I BL lines. EBV
+genomes are hypomethylated in the former, methylated in the latter. The origin of
+replication (oriP) for the episomal DNA is exempted from this overall
+methylation. This unmethylated region was analyzed in the BL derived type I cell 
+line Rael. It starts just upstream of the coding exons for the small untranslated
+RNAs EBER I/II. It extends throughout oriP and includes several control elements 
+between oriP and the first promoter for EBNA transcription (BCR2). The viral DNA 
+was methylated around and downstream of that promoter, which is not used for
+EBNA-1 expression in Rael.
+
+DOI: 10.1006/viro.1993.1412 
+PMID: 8393238  [Indexed for MEDLINE]
+
+
+4092. Virology. 1993 Aug;195(2):387-96.
+
+Epstein-Barr virus glycoprotein gp85 associates with the BKRF2 gene product and
+is incompletely processed as a recombinant protein.
+
+Yaswen LR(1), Stephens EB, Davenport LC, Hutt-Fletcher LM.
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, University of Florida,
+Gainesville 32610.
+
+The Epstein-Barr virus (EBV) glycoprotein gp85 is the EBV gH homologue and is
+thought to be involved in penetration of virus through the B-cell membrane.
+However, although the glycoprotein is functionally important, it is found in very
+low abundance in infected cells and in the virion. To facilitate analysis of the 
+structure and function of gp85, recombinant vaccinia viruses were constructed to 
+express the glycoprotein. Recombinant gp85 was recognized by polyclonal antibody 
+made to a peptide derived from the gp85 sequence, but not by monoclonal
+antibodies that reacted with the native molecule. Unlike native gp85, the
+recombinant protein contained no sugars that were resistant to endoglycosidase H 
+and it was not transported to the cell surface. The native protein was found to
+be associated with two additional glycoproteins with apparent M(r) of 25,000 and 
+42,000. Antibody made to a peptide derived from a sequence in the BKRF2 open
+reading frame immunoprecipitated glycoproteins with the mobilities of gp85 and
+its associated 25,000-Da molecule. These data suggest that the BKRF2 gene
+product, like that encoded by its positional homologues gL of herpes simplex
+virus and the UL115 gene product of human cytomegalovirus, associates with gp85
+and may be required for glycoprotein processing.
+
+DOI: 10.1006/viro.1993.1388 
+PMID: 8393232  [Indexed for MEDLINE]
+

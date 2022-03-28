@@ -1,0 +1,45 @@
+
+
+332. Am J Primatol. 2020 Jun;82(6):e23128. doi: 10.1002/ajp.23128. Epub 2020 Apr 4.
+
+The aging common marmoset's immune system: From junior to senior.
+
+Mietsch M(1)(2), Paqué K(1), Drummer C(3), Stahl-Hennig C(1), Roshani B(1).
+
+Author information: 
+(1)Unit of Infection Models, German Primate Center, Goettingen, Germany.
+(2)Department of Laboratory Animal Science, German Primate Center, Goettingen,
+Germany.
+(3)Platform Degenerative Diseases, German Primate Center, Goettingen, Germany.
+
+The social, health, and economic challenges of a steadily increasing aging
+population demand the use of appropriate translational animal models to address
+questions like healthy aging, vaccination strategies, or potential interventions 
+during the aging process. Due to their genetic proximity to humans, especially
+nonhuman primates (NHPs) with a relatively short generation period compared to
+humans, qualify as excellent animal models for these purposes. The use of common 
+marmosets (Callithrix jacchus) in gerontology research steadily increased over
+the last decades, yet important information about their aging parameters are
+still missing. We therefore aimed to characterize their aging immune system by
+comprehensive flow cytometric phenotyping of blood immune cells from juvenile,
+adult, aging, and geriatric animals. Aged and geriatric animals displayed clear
+signs of immunosenescence. A decline in CD4/CD8 ratio, increased expression of
+HLA-DR and PD-1, higher frequencies of CD95+ memory cells, alterations in
+cytokine secretion, and a decline in the proliferative capacity proved T cell
+senescence in aging marmosets. Also, the B cell compartment was affected by
+age-related changes: while overall B cell numbers remained stable with advancing 
+age, expression of the activation marker CD80 increased and immunoglobulin M
+expression decreased. Interestingly, marmoset B cell memory subset distribution
+rather mirrored the human situation than that of other NHP. CD21+ CD27- naïve B
+cell frequencies decreased while those of CD21- CD27- tissue memory B cells
+increased with age. Furthermore, frequencies and numbers of NK cells as part of
+the innate immune system declined with advancing age. Thus, the observed
+immunological changes in common marmosets over their life span revealed several
+similarities to age-related changes in humans and encourages further studies to
+strengthen the common marmoset as a potential aging model.
+
+© 2020 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajp.23128 
+PMID: 32246726  [Indexed for MEDLINE]
+

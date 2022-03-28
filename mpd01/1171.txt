@@ -1,0 +1,109 @@
+
+
+1171. Virology. 2015 Nov;485:422-30. doi: 10.1016/j.virol.2015.07.013. Epub 2015 Sep 3.
+
+Intratracheal exposure of common marmosets to MERS-CoV Jordan-n3/2012 or MERS-CoV
+EMC/2012 isolates does not result in lethal disease.
+
+Johnson RF(1), Via LE(2), Kumar MR(3), Cornish JP(3), Yellayi S(4), Huzella L(4),
+Postnikova E(4), Oberlander N(4), Bartos C(4), Ork BL(4), Mazur S(4), Allan C(4),
+Holbrook MR(4), Solomon J(5), Johnson JC(4), Pickel J(6), Hensley LE(4), Jahrling
+PB(7).
+
+Author information: 
+(1)Emerging Viral Pathogens Section, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health, Frederick, MD, United States. Electronic
+address: johnsonreed@mail.nih.gov.
+(2)Tuberculosis Research Section, Laboratory of Clinical Infectious Diseases,
+National Institute of Allergy and Infectious Diseases, National Institutes of
+Health, Bethesda, MD, United States.
+(3)Emerging Viral Pathogens Section, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health, Frederick, MD, United States.
+(4)Integrated Research Facility, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health, Frederick, MD, United States.
+(5)Center for Infectious Disease Imaging, Radiology and Imaging Sciences,
+Clinical Center, National Institutes of Health, Bethesda, MD, United States.
+(6)Transgenic Core Facility, National Institute of Mental Health, National
+Institutes of Health, Bethesda, MD, United States.
+(7)Emerging Viral Pathogens Section, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health, Frederick, MD, United States; Integrated
+Research Facility, National Institute of Allergy and Infectious Diseases,
+National Institutes of Health, Frederick, MD, United States.
+
+Middle East Respiratory Syndrome Coronavirus (MERS-CoV) continues to be a threat 
+to human health in the Middle East. Development of countermeasures is ongoing;
+however, an animal model that faithfully recapitulates human disease has yet to
+be defined. A recent study indicated that inoculation of common marmosets
+resulted in inconsistent lethality. Based on these data we sought to compare two 
+isolates of MERS-CoV. We followed disease progression in common marmosets after
+intratracheal exposure with: MERS-CoV-EMC/2012, MERS-CoV-Jordan-n3/2012, media,
+or inactivated virus. Our data suggest that common marmosets developed a mild to 
+moderate non-lethal respiratory disease, which was quantifiable by computed
+tomography (CT), with limited other clinical signs. Based on CT data, clinical
+data, and virological data, MERS-CoV inoculation of common marmosets results in
+mild to moderate clinical signs of disease that are likely due to manipulations
+of the marmoset rather than as a result of robust viral replication.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.virol.2015.07.013 
+PMCID: PMC5001852
+PMID: 26342468  [Indexed for MEDLINE]
+
+
+1172. Neuropathology. 2016 Feb;36(1):3-16. doi: 10.1111/neup.12229. Epub 2015 Aug 24.
+
+Antibody-enhanced dengue disease generates a marked CNS inflammatory response in 
+the black-tufted marmoset Callithrix penicillata.
+
+Vasconcelos BC(1), Vieira JA(2), Silva GO(2), Fernandes TN(3), Rocha LC(2), Viana
+AP(2), Serique CD(2), Filho CS(2), Bringel RA(2), Teixeira FF(2), Ferreira MS(4),
+Casseb SM(4), Carvalho VL(4), de Melo KF(4), de Castro PH(5), Araújo SC(6), Diniz
+JA(6), Demachki S(7), Anaissi AK(7), Sosthenes MC(2), Vasconcelos PF(4), Anthony 
+DC(8), Diniz CW(2), Diniz DG(2).
+
+Author information: 
+(1)Universidade do Estado do Pará, UEPA, Centro de Ciências da Saúde, Curso de
+Graduação em Medicina.
+(2)Universidade Federal do Pará, UFPA, Instituto de Ciências Biológicas,
+Laboratório de Investigações em Neurodegeneração e Infecção, Hospital
+Universitário João de Barros Barreto.
+(3)Universidade da Amazônia, UNAMA, Curso de Graduação em Biologia, Belém.
+(4)Instituto Evandro Chagas, IEC, Departamento de Arbovirologia e Febres
+Hemorrágicas.
+(5)Centro Nacional de Primatas, Instituto Evandro Chagas, Ananindeua, Pará,
+Brasil.
+(6)Instituto Evandro Chagas, IEC, Departamento de Microscopia Eletrônica, Belém, 
+Pará, Brasil.
+(7)Universidade Federal do Pará, UFPA, Instituto de Ciências da Saúde,
+Laboratório de Anatomia Patológica, Hospital Universitário João de Barros
+Barreto, Belém, Pará, Brasil.
+(8)Department of Pharmacology, Laboratory of Experimental Neuropathology,
+University of Oxford, Mansfield Road, Oxford, United Kingdom.
+
+Severe dengue disease is often associated with long-term neurological
+impairments, but it is unclear what mechanisms are associated with neurological
+sequelae. Previously, we demonstrated antibody-enhanced dengue disease (ADE)
+dengue in an immunocompetent mouse model with a dengue virus 2 (DENV2) antibody
+injection followed by DENV3 virus infection. Here we migrated this ADE model to
+Callithrix penicillata. To mimic human multiple infections of endemic zones where
+abundant vectors and multiple serotypes co-exist, three animals received weekly
+subcutaneous injections of DENV3 (genotype III)-infected supernatant of C6/36
+cell cultures, followed 24 h later by anti-DENV2 antibody for 12 weeks. There
+were six control animals, two of which received weekly anti-DENV2 antibodies, and
+four further animals received no injections. After multiple infections, brain,
+liver, and spleen samples were collected and tissue was immunolabeled for DENV3
+antigens, ionized calcium binding adapter molecule 1, Ki-67, TNFα. There were
+marked morphological changes in the microglial population of ADE monkeys
+characterized by more highly ramified microglial processes, higher numbers of
+trees and larger surface areas. These changes were associated with intense
+TNFα-positive immunolabeling. It is unclear why ADE should generate such
+microglial activation given that IgG does not cross the blood-brain barrier, but 
+this study reveals that in ADE dengue therapy targeting the CNS host response is 
+likely to be important.
+
+© 2015 Japanese Society of Neuropathology.
+
+DOI: 10.1111/neup.12229 
+PMID: 26303046  [Indexed for MEDLINE]
+

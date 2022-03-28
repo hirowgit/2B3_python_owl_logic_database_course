@@ -1,0 +1,30 @@
+
+
+231. Nat Rev Neurosci. 2020 Dec;21(12):695-716. doi: 10.1038/s41583-020-00393-w. Epub 
+2020 Nov 3.
+
+The macaque face patch system: a turtle's underbelly for the brain.
+
+Hesse JK(1), Tsao DY(2)(3).
+
+Author information: 
+(1)Division of Biology and Biological Engineering, Computation and Neural
+Systems, California Institute of Technology, Pasadena, CA, USA.
+(2)Division of Biology and Biological Engineering, Computation and Neural
+Systems, California Institute of Technology, Pasadena, CA, USA.
+dortsao@caltech.edu.
+(3)Howard Hughes Medical Institute, Pasadena, CA, USA. dortsao@caltech.edu.
+
+Objects constitute the fundamental currency of our consciousness: they are the
+things that we perceive, remember and think about. One of the most important
+objects for a primate is a face. Research on the macaque face patch system in
+recent years has given us a remarkable window into the detailed processes
+underlying object recognition. Here, we review the macaque face patch system,
+including its anatomical organization, coding principles, role in behaviour and
+interactions with other brain regions. We highlight not only how it constitutes
+an archetypal object recognition system but also how it may provide a key to
+understanding mechanisms for higher cognitive function.
+
+DOI: 10.1038/s41583-020-00393-w 
+PMID: 33144718  [Indexed for MEDLINE]
+

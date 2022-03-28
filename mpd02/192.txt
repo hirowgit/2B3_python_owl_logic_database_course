@@ -1,0 +1,77 @@
+
+
+192. Neuroimage. 2021 Apr 1;229:117726. doi: 10.1016/j.neuroimage.2021.117726. Epub
+2021 Jan 20.
+
+The nonhuman primate neuroimaging and neuroanatomy project.
+
+Hayashi T(1), Hou Y(2), Glasser MF(3), Autio JA(4), Knoblauch K(2),
+Inoue-Murayama M(5), Coalson T(6), Yacoub E(7), Smith S(8), Kennedy H(9), Van
+Essen DC(6).
+
+Author information: 
+(1)Laboratory for Brain Connectomics Imaging, RIKEN Center for Biosystems
+Dynamics Research, 6-7-3 MI R&D Center 3F, Minatojima-minamimachi, Chuo-ku, Kobe 
+650-0047, Japan; Department of Neurobiology, Kyoto University Graduate School of 
+Medicine, Kyoto, Japan.
+(2)Inserm, Stem Cell and Brain Research Institute U1208, Univ Lyon, Université
+Claude Bernard Lyon 1, Bron, France.
+(3)Department of Neuroscience, Washington University Medical School, St Louis, MO
+USA; Department of Neuroscience and Radiology, Washington University Medical
+School, St Louis, MO USA.
+(4)Laboratory for Brain Connectomics Imaging, RIKEN Center for Biosystems
+Dynamics Research, 6-7-3 MI R&D Center 3F, Minatojima-minamimachi, Chuo-ku, Kobe 
+650-0047, Japan.
+(5)Wildlife Research Center, Kyoto University, Kyoto, Japan.
+(6)Department of Neuroscience, Washington University Medical School, St Louis, MO
+USA.
+(7)Center for Magnetic Resonance Research, Department of Radiology, University of
+Minnesota, Minneapolis, USA.
+(8)Oxford Centre for Functional Magnetic Resonance Imaging of the Brain (FMRIB), 
+Wellcome Centre for Integrative Neuroimaging (WIN), Nuffield Department of
+Clinical Neurosciences, Oxford University, Oxford, UK.
+(9)Inserm, Stem Cell and Brain Research Institute U1208, Univ Lyon, Université
+Claude Bernard Lyon 1, Bron, France; Institute of Neuroscience, State Key
+Laboratory of Neuroscience, Chinese Academy of Sciences (CAS) Key Laboratory of
+Primate Neurobiology, CAS, Shanghai, China.
+
+Multi-modal neuroimaging projects such as the Human Connectome Project (HCP) and 
+UK Biobank are advancing our understanding of human brain architecture, function,
+connectivity, and their variability across individuals using high-quality
+non-invasive data from many subjects. Such efforts depend upon the accuracy of
+non-invasive brain imaging measures. However, 'ground truth' validation of
+connectivity using invasive tracers is not feasible in humans. Studies using
+nonhuman primates (NHPs) enable comparisons between invasive and non-invasive
+measures, including exploration of how "functional connectivity" from fMRI and
+"tractographic connectivity" from diffusion MRI compare with long-distance
+connections measured using tract tracing. Our NonHuman Primate Neuroimaging &
+Neuroanatomy Project (NHP_NNP) is an international effort (6 laboratories in 5
+countries) to: (i) acquire and analyze high-quality multi-modal brain imaging
+data of macaque and marmoset monkeys using protocols and methods adapted from the
+HCP; (ii) acquire quantitative invasive tract-tracing data for cortical and
+subcortical projections to cortical areas; and (iii) map the distributions of
+different brain cell types with immunocytochemical stains to better define brain 
+areal boundaries. We are acquiring high-resolution structural, functional, and
+diffusion MRI data together with behavioral measures from over 100 individual
+macaques and marmosets in order to generate non-invasive measures of brain
+architecture such as myelin and cortical thickness maps, as well as functional
+and diffusion tractography-based connectomes. We are using classical and
+next-generation anatomical tracers to generate quantitative connectivity maps
+based on brain-wide counting of labeled cortical and subcortical neurons,
+providing ground truth measures of connectivity. Advanced statistical modeling
+techniques address the consistency of both kinds of data across individuals,
+allowing comparison of tracer-based and non-invasive MRI-based connectivity
+measures. We aim to develop improved cortical and subcortical areal atlases by
+combining histological and imaging methods. Finally, we are collecting genetic
+and sociality-associated behavioral data in all animals in an effort to
+understand how genetic variation shapes the connectome and behavior.
+
+Copyright © 2021 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2021.117726 
+PMCID: PMC8079967
+PMID: 33484849  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest All the authors
+have no conflicts of interest to declare.
+

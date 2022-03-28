@@ -1,0 +1,101 @@
+
+
+1355. Behav Brain Res. 2014 Dec 15;275:259-68. doi: 10.1016/j.bbr.2014.09.020. Epub
+2014 Sep 22.
+
+Three-dimensional motion analysis of arm-reaching movements in healthy and
+hemispinalized common marmosets.
+
+Takemi M(1), Kondo T(2), Yoshino-Saito K(2), Sekiguchi T(1), Kosugi A(1), Kasuga 
+S(3), Okano HJ(4), Okano H(2), Ushiba J(5).
+
+Author information: 
+(1)School of Fundamental Science and Technology, Graduate School of Science and
+Technology, Keio University, Kanagawa, Japan.
+(2)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+(3)Department of Biosciences and Informatics, Faculty of Science and Technology, 
+Keio University, Kanagawa, Japan.
+(4)Department of Physiology, Keio University School of Medicine, Tokyo, Japan;
+Division of Regenerative Medicine, Jikei University School of Medicine, Tokyo,
+Japan.
+(5)Department of Biosciences and Informatics, Faculty of Science and Technology, 
+Keio University, Kanagawa, Japan; Department of Rehabilitation Medicine, Keio
+University School of Medicine, Tokyo, Japan. Electronic address:
+ushiba@brain.bio.keio.ac.jp.
+
+Spinal cord injury (SCI) is a devastating neurological injury. At present,
+pharmacological, regenerative, and rehabilitative approaches are widely studied
+as therapeutic interventions for motor recovery after SCI. Preclinical research
+has been performed on model animals with experimental SCI, and those studies
+often evaluate hand and arm motor function using various indices, such as the
+success rate of the single pellet reaching test and the grip force. However,
+compensatory movement strategies, involuntary muscle contraction, and the
+subject's motivation could affect the scores, resulting in failure to assess
+direct recovery from impairment. Identifying appropriate assessments of motor
+impairment is thus important for understanding the mechanisms of motor recovery. 
+In this study, we developed a motion capture system capable of reconstructing
+three-dimensional hand positions with millimeter and millisecond accuracy and
+evaluated hand kinematics during food retrieval movement in both healthy and
+hemispinalized common marmosets. As a result, the endpoint jerk, representing the
+accuracy of hand motor control, was asserted to be an appropriate index of upper 
+limb motor impairment by eliminating the influence of the subject's motivation,
+involuntary muscle contraction, and compensatory strategies. The result also
+suggested that the kinematics of the limb more consistently reflects motor
+restoration from deficit due to spinal cord injury than the performance in the
+single pellet reaching test. Because of recent attention devoted to the common
+marmoset as a nonhuman primate model for human diseases, the present study, which
+clarified arm-reaching movements in spinalized marmosets, provides fundamental
+knowledge for future therapeutic studies.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbr.2014.09.020 
+PMID: 25245335  [Indexed for MEDLINE]
+
+
+1356. Gigascience. 2014 Sep 19;3:14. doi: 10.1186/2047-217X-3-14. eCollection 2014.
+
+De novo assembly of the common marmoset transcriptome from NextGen mRNA
+sequences.
+
+Maudhoo MD(1), Ren D(2), Gradnigo JS(3), Gibbs RM(1), Lubker AC(1), Moriyama
+EN(3), French JA(4), Norgren RB Jr(1).
+
+Author information: 
+(1)Department of Genetics, Cell Biology and Anatomy, University of Nebraska
+Medical Center, Omaha, Nebraska 68198, USA.
+(2)Callitrichid Research Center, Department of Psychology, University of
+Nebraska, Omaha, USA ; Key Laboratory for Animal Biotechnology of Jiangxi
+Province and the Ministry of Agriculture of China, Jiangxi Agricultural
+University, Nanchang 330045, China.
+(3)School of Biological Sciences & Center for Plant Science Innovation,
+University of Nebraska-Lincoln, 403 Manter Hall, Lincoln, Nebraska 68588-0118,
+USA.
+(4)Callitrichid Research Center, Department of Psychology, University of
+Nebraska, Omaha, USA.
+
+BACKGROUND: Nonhuman primates are important for both biomedical studies and
+understanding human evolution. Although research in these areas has mostly
+focused on Old World primates, such as the rhesus macaque, the common marmoset
+(Callithrix jacchus), a New World primate, offers important advantages in
+comparison to other primates, such as an accelerated lifespan. To conduct Next
+Generation expression studies or to study primate evolution, a high quality
+annotation of the marmoset genome is required. The availability of marmoset
+transcriptome data from five tissues, including both raw sequences and assembled 
+transcripts, will aid in the annotation of the newly released marmoset assembly.
+FINDINGS: RNA WAS EXTRACTED FROM FIVE TISSUES: skeletal muscle, bladder and
+hippocampus from a male common marmoset, and cerebral cortex and cerebellum from 
+a female common marmoset. All five RNA samples were sequenced on the Illumina
+HiSeq 2000 platform. Sequences were deposited in the NCBI Sequence Read Archive. 
+Transcripts were assembled, annotated and deposited in the NCBI Transcriptome
+Shotgun Assembly database.
+CONCLUSIONS: We have provided a high quality annotation of 51,163 transcripts
+with full-length coding sequence. This set represented a total of 10,833 unique
+genes. In addition to providing empirical support for the existence of these
+10,833 genes, we also provide sequence information for 2,422 genes that were not 
+previously identified in the Ensembl annotation of the marmoset genome.
+
+DOI: 10.1186/2047-217X-3-14 
+PMCID: PMC4169894
+PMID: 25243066 
+

@@ -1,0 +1,39 @@
+
+
+2414. J Comp Neurol. 2007 May 20;502(3):442-54.
+
+OFF midget bipolar cells in the retina of the marmoset, Callithrix jacchus,
+express AMPA receptors.
+
+Puller C(1), Haverkamp S, Grünert U.
+
+Author information: 
+(1)Department of Neuroanatomy, Max-Planck-Institute for Brain Research, D-60528
+Frankfurt/Main, Germany.
+
+Recent studies suggested that different types of OFF bipolar cells express
+specific types of ionotropic (AMPA or kainate) glutamate receptors (GluRs) at
+their contacts with cone pedicles. However, the question of which GluR type is
+expressed by which type of OFF bipolar cell in primate retina is still open. In
+this study, the expression of AMPA and kainate receptor subunits at the dendritic
+tips of flat (OFF) midget bipolar (FMB) cells was analyzed in the retina of the
+common marmoset, Callithrix jacchus. We used preembedding electron microscopy and
+double immunofluorescence with subunit-specific antibodies. The FMB cells were
+labeled with antibodies against the carbohydrate epitope CD15. Cone pedicles were
+identified with peanut agglutinin. Immunoreactivity for the GluR1 subunit and for
+CD15 is preferentially located at triad-associated flat contacts. Furthermore,
+the large majority of GluR1 immunoreactive puncta is localized at the dendritic
+tips of FMB cells. These results suggest that FMB cells express the AMPA receptor
+subunit GluR1. In contrast, the kainate receptor subunit GluR5 is not colocalized
+with the dendritic tips of FMB cells or with the GluR1 subunit. Immunoreactive
+puncta for the GluR1 subunit are found at all M/L-cone pedicles but are only
+rarely associated with S-cone pedicles. This is consistent with our recent
+findings in marmoset retina that FMB cells do not contact S-cone pedicles. The
+presence of GluR5 clusters at S-cone pedicles indicates that in primate retinas
+OFF bipolar cells expressing kainate receptor subunits receive some S-cone input.
+
+(c) 2007 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.21315 
+PMID: 17366611  [Indexed for MEDLINE]
+

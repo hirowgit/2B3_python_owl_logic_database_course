@@ -1,0 +1,44 @@
+
+
+1550. Infect Immun. 2013 Aug;81(8):2909-19. doi: 10.1128/IAI.00632-13. Epub 2013 May
+28.
+
+Differential virulence and disease progression following Mycobacterium
+tuberculosis complex infection of the common marmoset (Callithrix jacchus).
+
+Via LE(1), Weiner DM, Schimel D, Lin PL, Dayao E, Tankersley SL, Cai Y, Coleman
+MT, Tomko J, Paripati P, Orandle M, Kastenmayer RJ, Tartakovsky M, Rosenthal A,
+Portevin D, Eum SY, Lahouar S, Gagneux S, Young DB, Flynn JL, Barry CE 3rd.
+
+Author information: 
+(1)Tuberculosis Research Section, Laboratory of Clinical Infectious Diseases,
+National Institute for Allergy and Infectious Disease, National Institutes of
+Health, Bethesda, Maryland, USA.
+
+Existing small-animal models of tuberculosis (TB) rarely develop cavitary
+disease, limiting their value for assessing the biology and dynamics of this
+highly important feature of human disease. To develop a smaller primate model
+with pathology similar to that seen in humans, we experimentally infected the
+common marmoset (Callithrix jacchus) with diverse strains of Mycobacterium
+tuberculosis of various pathogenic potentials. These included recent isolates of 
+the modern Beijing lineage, the Euro-American X lineage, and M. africanum. All
+three strains produced fulminant disease in this animal with a spectrum of
+progression rates and clinical sequelae that could be monitored in real time
+using 2-deoxy-2-[(18)F]fluoro-d-glucose (FDG) positron emission tomography
+(PET)/computed tomography (CT). Lesion pathology at sacrifice revealed the entire
+spectrum of lesions observed in human TB patients. The three strains produced
+different rates of progression to disease, various extents of extrapulmonary
+dissemination, and various degrees of cavitation. The majority of live births in 
+this species are twins, and comparison of results from siblings with different
+infecting strains allowed us to establish that the infection was highly
+reproducible and that the differential virulence of strains was not simply host
+variation. Quantitative assessment of disease burden by FDG-PET/CT provided an
+accurate reflection of the pathology findings at necropsy. These results suggest 
+that the marmoset offers an attractive small-animal model of human disease that
+recapitulates both the complex pathology and spectrum of disease observed in
+humans infected with various M. tuberculosis strain clades.
+
+DOI: 10.1128/IAI.00632-13 
+PMCID: PMC3719573
+PMID: 23716617  [Indexed for MEDLINE]
+

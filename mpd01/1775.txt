@@ -1,0 +1,86 @@
+
+
+1775. Neuroimage. 2012 Mar;60(1):447-55. doi: 10.1016/j.neuroimage.2011.12.065. Epub
+2012 Jan 2.
+
+Positron emission tomography assessment of 8-OH-DPAT-mediated changes in an index
+of cerebral glucose metabolism in female marmosets.
+
+Converse AK(1), Aubert Y, Farhoud M, Weichert JP, Rowland IJ, Ingrisano NM,
+Allers KA, Sommer B, Abbott DH.
+
+Author information: 
+(1)Waisman Center, University of Wisconsin-Madison, Madison, WI 53704, USA.
+akconverse@wisc.edu
+
+As part of a larger experiment investigating serotonergic regulation of female
+marmoset sexual behavior, this study was designed to (1) advance methods for PET 
+imaging of common marmoset monkey brain, (2) measure normalized FDG uptake as an 
+index of local cerebral metabolic rates for glucose, and (3) study changes
+induced in this index of cerebral glucose metabolism by chronic treatment of
+female marmosets with a serotonin 1A receptor (5-HT(1A)) agonist. We hypothesized
+that chronic treatment with the 5-HT(1A) agonist 8-OH-DPAT would alter the
+glucose metabolism index in dorsal raphe (DR), medial prefrontal cortex (mPFC),
+medial preoptic area of hypothalamus (mPOA), ventromedial nucleus of hypothalamus
+(VMH), and field CA1 of hippocampus. Eight adult ovariectomized female common
+marmosets (Callithrix jacchus) were studied with and without estradiol
+replacement. In a crossover design, each subject was treated daily with 8-OH-DPAT
+(0.1mg/kg SC daily) or saline. After 42-49 days of treatment, the glucose
+metabolism radiotracer FDG was administered to each female immediately prior to
+30 min of interaction with her male pairmate, after which the subject was
+anesthetized and imaged by PET. Whole brain normalized PET images were analyzed
+with anatomically defined regions of interest (ROI). Whole brain voxelwise
+mapping was also used to explore treatment effects and correlations between
+alterations in the glucose metabolism index and pairmate interactions. The rank
+order of normalized FDG uptake was VMH/mPOA>DR>mPFC/CA1 in both conditions.
+8-OH-DPAT did not induce alterations in the glucose metabolism index in ROIs.
+Voxelwise mapping showed a significant reduction in normalized FDG uptake in
+response to 8-OH-DPAT in a cluster in medial occipital cortex as well as a
+significant correlation between increased rejection of mount attempts and reduced
+normalized FDG uptake in an overlapping cluster. In conclusion, PET imaging has
+been used to measure FDG uptake relative to whole brain in marmoset monkeys.
+Voxelwise mapping shows that 8-OH-DPAT reduces this index of glucose metabolism
+in medial occipital cortex, consistent with alterations in female sexual
+behavior.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2011.12.065 
+PMCID: PMC3763841
+PMID: 22233732  [Indexed for MEDLINE]
+
+
+1776. Reproduction. 2012 Apr;143(4):501-11. doi: 10.1530/REP-11-0091. Epub 2012 Jan 9.
+
+Ovarian VEGF(165)b expression regulates follicular development, corpus luteum
+function and fertility.
+
+Qiu Y(1), Seager M, Osman A, Castle-Miller J, Bevan H, Tortonese DJ, Murphy D,
+Harper SJ, Fraser HM, Donaldson LF, Bates DO.
+
+Author information: 
+(1)Microvascular Research Laboratories, School of Physiology and Pharmacology,
+Bristol Heart Institute, Bristol BS2 8EJ, UK.
+
+Angiogenesis and vascular regression are critical for the female ovulatory cycle.
+They enable progression and regression of follicular development, and corpora
+lutea formation and regression. Angiogenesis in the ovary occurs under the
+control of the vascular endothelial growth factor-A (VEGFA) family of proteins,
+which are generated as both pro-(VEGF(165)) and anti(VEGF(165)b)-angiogenic
+isoforms by alternative splicing. To determine the role of the VEGF(165)b
+isoforms in the ovulatory cycle, we measured VEGF(165)b expression in marmoset
+ovaries by immunohistochemistry and ELISA, and used transgenic mice
+over-expressing VEGF(165)b in the ovary. VEGF(165)b was expressed in the marmoset
+ovaries in granulosa cells and theca, and the balance of VEGF(165)b:VEGF(165) was
+regulated during luteogenesis. Mice over-expressing VEGF(165)b in the ovary were 
+less fertile than wild-type littermates, had reduced secondary and tertiary
+follicles after mating, increased atretic follicles, fewer corpora lutea and
+generated fewer embryos in the oviduct after mating, and these were more likely
+not to retain the corona radiata. These results indicate that the balance of
+VEGFA isoforms controls follicle progression and luteogenesis, and that control
+of isoform expression may regulate fertility in mammals, including in primates.
+
+DOI: 10.1530/REP-11-0091 
+PMCID: PMC3325318
+PMID: 22232745  [Indexed for MEDLINE]
+

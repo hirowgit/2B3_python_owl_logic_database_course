@@ -1,0 +1,57 @@
+
+
+1389. PLoS One. 2014 Jun 30;9(6):e100936. doi: 10.1371/journal.pone.0100936.
+eCollection 2014.
+
+Qualitative de novo analysis of full length cDNA and quantitative analysis of
+gene expression for common marmoset (Callithrix jacchus) transcriptomes using
+parallel long-read technology and short-read sequencing.
+
+Shimizu M(1), Iwano S(2), Uno Y(3), Uehara S(1), Inoue T(4), Murayama N(1),
+Onodera J(5), Sasaki E(6), Yamazaki H(1).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan.
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan; Novartis Pharma K.K., Tokyo, Japan.
+(3)Pharmacokinetics and Bioanalysis Center, Shin Nippon Biomedical Laboratories, 
+Ltd., Kainan, Wakayama, Japan.
+(4)Department of Applied Developmental Biology, Central Institute for
+Experimental Animals, Kawasaki, Japan.
+(5)Eurofins Genomics, Ohta-ku, Tokyo, Japan.
+(6)Department of Applied Developmental Biology, Central Institute for
+Experimental Animals, Kawasaki, Japan; Advanced Research Center, Keio University,
+Tokyo, Japan.
+
+The common marmoset (Callithrix jacchus) is a non-human primate that could prove 
+useful as human pharmacokinetic and biomedical research models. The cytochromes
+P450 (P450s) are a superfamily of enzymes that have critical roles in drug
+metabolism and disposition via monooxygenation of a broad range of xenobiotics;
+however, information on some marmoset P450s is currently limited. Therefore,
+identification and quantitative analysis of tissue-specific mRNA transcripts,
+including those of P450s and flavin-containing monooxygenases (FMO, another
+monooxygenase family), need to be carried out in detail before the marmoset can
+be used as an animal model in drug development. De novo assembly and expression
+analysis of marmoset transcripts were conducted with pooled liver, intestine,
+kidney, and brain samples from three male and three female marmosets. After
+unique sequences were automatically aligned by assembling software, the mean
+contig length was 718 bp (with a standard deviation of 457 bp) among a total of
+47,883 transcripts. Approximately 30% of the total transcripts were matched to
+known marmoset sequences. Gene expression in 18 marmoset P450- and 4 FMO-like
+genes displayed some tissue-specific patterns. Of these, the three most highly
+expressed in marmoset liver were P450 2D-, 2E-, and 3A-like genes. In
+extrahepatic tissues, including brain, gene expressions of these monooxygenases
+were lower than those in liver, although P450 3A4 (previously P450 3A21) in
+intestine and P450 4A11- and FMO1-like genes in kidney were relatively highly
+expressed. By means of massive parallel long-read sequencing and short-read
+technology applied to marmoset liver, intestine, kidney, and brain, the combined 
+next-generation sequencing analyses reported here were able to identify novel
+marmoset drug-metabolizing P450 transcripts that have until now been little
+reported. These results provide a foundation for mechanistic studies and pave the
+way for the use of marmosets as model animals for drug development in the future.
+
+DOI: 10.1371/journal.pone.0100936 
+PMCID: PMC4076266
+PMID: 24977701  [Indexed for MEDLINE]
+

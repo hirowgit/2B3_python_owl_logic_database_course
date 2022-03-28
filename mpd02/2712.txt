@@ -1,0 +1,44 @@
+
+
+2712. Chem Biol Interact. 2005 Feb 28;152(1):1-12.
+
+Molecular cloning and functional analysis of cytochrome P450 1A2 from Japanese
+monkey liver: comparison with marmoset cytochrome P450 1A2.
+
+Narimatsu S(1), Oda M, Hichiya H, Isobe T, Asaoka K, Hanioka N, Yamano S, Shinoda
+S, Yamamoto S.
+
+Author information: 
+(1)Laboratory of Health Chemistry, Faculty of Pharmaceutical Sciences, Okayama
+University, 1-1-1 Tsushima-naka, Okayama 700-8530, Japan.
+shizuo@pharm.okayama-u.ac.jp
+
+A cDNA encoding a novel cytochrome P450 1A2 (CYP1A2) was cloned from the liver of
+an adult female Japanese monkey. The CYP1A2 protein was expressed in yeast cells 
+and its enzymatic properties were compared with those of marmoset CYP1A2 using
+ethoxyresorufin (ER) and phenacetin (PN) as substrates. The nucleotide sequence
+of Japanese monkey CYP1A2 revealed 94.7, 99.5 and 93.5% identities to those of
+human, cynomolgus monkey and marmoset monkey CYP1A2, respectively. Multiple amino
+acid sequence alignment of Japanese monkey CYP1A2 with CYP1A2 of humans,
+cynomolgus monkeys and marmosets showed that Japanese monkey CYP1A2 had 92.4,
+99.0 and 91.9% identities to the human, cynomolgus monkey and marmoset enzymes,
+respectively. Kinetic studies demonstrated that the enzymatic properties as ER
+and PN O-deethylases were considerably different between the Japanese monkey and 
+the marmoset CYP1A2. Furthermore, both of these reactions in liver microsomal
+fractions from the Japanese monkey and marmoset showed biphasic kinetics. On the 
+basis of the kinetic parameters, it is suggested that Japanese monkey CYP1A2 is a
+high-K(m) enzyme in both ER and PN O-deethylations, whereas marmoset CYP1A2 is a 
+high-K(m) and low-K(m) enzyme in ER and PN O-deethylations, respectively.
+alpha-Naphthoflavone, an inhibitor of human CYP1A1 and CYP1A2, did not completely
+inhibit the liver microsomal oxidations of ER and PN even at the highest
+concentration (50muM), supporting the notion that CYP1A2 enzymes are not the sole
+ER or PN O-deethylase in Japanese monkey and marmoset liver microsomes.
+Inhibitory effects of furafylline, an inhibitor of human CYP1A2, on ER
+O-deethylation by recombinant CYP1A2 enzymes were much lower than those of
+alpha-naphthoflavone, but marmoset CYP1A2 was more sensitive to furafylline than 
+Japanese monkey CYP1A2. These results indicate that the properties of Japanese
+monkey CYP1A2 are considerably different from those of marmoset CYP1A2.
+
+DOI: 10.1016/j.cbi.2005.01.006 
+PMID: 15766918  [Indexed for MEDLINE]
+

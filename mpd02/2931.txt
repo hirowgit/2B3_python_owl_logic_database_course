@@ -1,0 +1,38 @@
+
+
+2931. Toxicol Appl Pharmacol. 2003 Jun 15;189(3):170-9.
+
+Long-term, low-level exposure of guinea pigs and marmosets to sarin vapor in air:
+lowest observable effect level.
+
+Van Helden HP(1), Trap HC, Oostdijk JP, Kuijpers WC, Langenberg JP, Benschop HP.
+
+Author information: 
+(1)Division of Chemical and Biological Protection, TNO Prins Maurits Laboratory, 
+P.O. Box 45, 2280 AA, Rijswijk, The Netherlands. helden@pml.tno.nl
+
+Realistic scenarios for low-level exposure to nerve agents will often involve
+exposures over several hours to extremely low doses of agent. In order to expose 
+animals to the lowest controllable concentrations of agent and to increase
+exposure times until a lowest observable effect level (LOEL) becomes measurable, 
+a validated system was developed for exposing conscious animals to 0.05-1.0
+microg/m(3) (8-160 ppt) of sarin and other nerve agents. Based on cold trapping
+of sarin from the exposure air, the concentration could be measured
+semicontinuously, at 4-min time intervals by means of gas chromatography. We
+found that the LOEL upon a 5-h whole body exposure of guinea pigs and marmosets
+to sarin vapor corresponds with the measurement of an internal dose by means of
+fluoride-induced regeneration of sarin from phosphylated binding sites in plasma,
+mostly BuChE. For guinea pigs the LOEL was observed at Ct = 0.010 +/- 0.002
+mg/min/m(3), whereas a Ct of 0.04 +/- 0.01 mg/min/m(3) was established for the
+LOEL in marmosets. These levels are several orders of magnitude lower than those 
+based on classical measurement of depressed cholinesterase activities. At low
+exposure levels of guinea pigs and marmosets (< or =1 microg/m(3)), a reasonable 
+linearity was observed between exposure dose and internal dose. The data were
+addressed in the light of the recently recommended occupational exposure limits
+to sarin for workers without respiratory protection, which suggests that the
+exposure limits should be reconsidered if the slightest inhibition of
+cholinesterases should be prevented.
+
+DOI: 10.1016/s0041-008x(03)00131-5 
+PMID: 12791302  [Indexed for MEDLINE]
+

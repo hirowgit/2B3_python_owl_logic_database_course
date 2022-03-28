@@ -1,0 +1,94 @@
+
+
+350. Biochem Biophys Res Commun. 2020 May 7;525(3):595-599. doi:
+10.1016/j.bbrc.2020.02.121. Epub 2020 Feb 27.
+
+Kainic acid-induced seizures in the common marmoset.
+
+Ishikawa A(1), Mizuno Y(1), Sakai K(1), Maki T(1), Tanaka R(1), Oda Y(1), Niimi
+K(2), Takahashi E(3).
+
+Author information: 
+(1)Sleep Science Laboratories, HAMRI Co. Ltd, Ibaraki, 306-0128, Japan.
+(2)Research Resources Division, RIKEN Center for Brain Science, Saitama,
+351-0198, Japan. Electronic address: kimie.niimi@riken.jp.
+(3)Research Resources Division, RIKEN Center for Brain Science, Saitama,
+351-0198, Japan. Electronic address: eiki.takahashi@riken.jp.
+
+Treatment of epilepsy remains difficult because patients suffer from
+pharmacoresistant forms of the disease and drug side-effects. Thus, there is an
+urgent need to identify not only new antiepileptic drug candidates but also novel
+epileptic animal models. Here, we characterize seizures induced with kainic acid 
+(KA) in the common marmoset (Callithrix jacchus). Adult marmosets received 0.1,
+1, or 10 mg/kg of KA subcutaneously. All animals exhibited early convulsive
+behavior (seizure scores of I and II on the Racine scale). Seizure scores were
+low at lower KA doses, but the highest dose of KA tested triggered generalized
+seizures (scores IV and V on the Racine scale). We next performed preliminary
+evaluation of the efficacy of the antiepileptic drug diazepam. This drug at
+1 mg/kg (delivered subcutaneously) prevented 10 mg/kg KA-induced stage V
+seizures. KA administration to marmosets reliably triggers generalized seizures; 
+therefore, the marmoset is a useful animal model in which to analyze the seizures
+of a nonhuman primate brain and to develop new treatments for epilepsy.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2020.02.121 
+PMID: 32115153  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+
+
+351. Nat Commun. 2020 Feb 28;11(1):1133. doi: 10.1038/s41467-020-14858-0.
+
+Open access resource for cellular-resolution analyses of corticocortical
+connectivity in the marmoset monkey.
+
+Majka P(1)(2)(3), Bai S(2)(3), Bakola S(2)(3)(4), Bednarek S(1), Chan JM(2)(3),
+Jermakow N(1), Passarelli L(4), Reser DH(3)(5), Theodoni P(6)(7)(8), Worthy
+KH(3), Wang XJ(6), Wójcik DK(1), Mitra PP(9), Rosa MGP(10)(11).
+
+Author information: 
+(1)Laboratory of Neuroinformatics, Nencki Institute of Experimental Biology of
+the Polish Academy of Sciences, 3 Pasteur Street, 02-093, Warsaw, Poland.
+(2)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, VIC, 3800, Australia.
+(3)Biomedicine Discovery Institute and Department of Physiology, Monash
+University, Clayton, VIC, 3800, Australia.
+(4)Department of Biomedical and Neuromotor Sciences Pharmacy and Biotechnology,
+University of Bologna, Bologna, 40126, Italy.
+(5)Graduate Entry Medicine Program, Monash Rural Health-Churchill, School of
+Rural Health, Monash University, Churchill, VIC, 3842, Australia.
+(6)Center for Neural Science, New York University, NY, 10003, USA.
+(7)New York University - East China Normal University Institute of Brain and
+Cognitive Science, Shanghai, 200241, China.
+(8)New York University Shanghai, Shanghai, 200122, China.
+(9)Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, NY, 11724, USA.
+(10)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, VIC, 3800, Australia.
+marcello.rosa@monash.edu.
+(11)Biomedicine Discovery Institute and Department of Physiology, Monash
+University, Clayton, VIC, 3800, Australia. marcello.rosa@monash.edu.
+
+Understanding the principles of neuronal connectivity requires tools for
+efficient quantification and visualization of large datasets. The primate cortex 
+is particularly challenging due to its complex mosaic of areas, which in many
+cases lack clear boundaries. Here, we introduce a resource that allows
+exploration of results of 143 retrograde tracer injections in the marmoset
+neocortex. Data obtained in different animals are registered to a common
+stereotaxic space using an algorithm guided by expert delineation of histological
+borders, allowing accurate assignment of connections to areas despite
+interindividual variability. The resource incorporates tools for analyses
+relative to cytoarchitectural areas, including statistical properties such as the
+fraction of labeled neurons and the percentage of supragranular neurons. It also 
+provides purely spatial (parcellation-free) data, based on the stereotaxic
+coordinates of 2 million labeled neurons. This resource helps bridge the gap
+between high-density cellular connectivity studies in rodents and imaging-based
+analyses of human brains.
+
+DOI: 10.1038/s41467-020-14858-0 
+PMCID: PMC7048793
+PMID: 32111833  [Indexed for MEDLINE]
+

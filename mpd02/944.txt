@@ -1,0 +1,36 @@
+
+
+944. Behav Pharmacol. 2017 Jun;28(4):313-317. doi: 10.1097/FBP.0000000000000275.
+
+Effects of the 5-HT1A receptor agonists buspirone and 8-OH-DPAT on pupil size in 
+common marmosets.
+
+Kotani M(1), Urushino N, Natsutani I, Ogi Y, Ikeda K.
+
+Author information: 
+(1)aHigher Brain Function Research bBiomarker Group, Drug Development Research
+Laboratories cDMPK Group I, Preclinical Research Laboratories, Drug Research
+Division, Sumitomo Dainippon Pharma Co Ltd., Osaka, Japan.
+
+As pupil size is affected by psychotropic drugs in all mammals, it has been used 
+as a well-established clinical indicator for the preclinical and clinical
+development of novel drugs. It has been reported that activation of the serotonin
+(5-HT)1A receptor differently affects pupil response in rodents (mydriasis) and
+humans (miosis). Thus, it is important to establish a quantitative system for
+measuring pupil size using other species, such as nonhuman primates. Common
+marmosets have recently attracted a great deal of attention as suitable
+experimental animals in the psychoneurological field because of handling ease
+compared with other nonhuman primates and the requirement for small amounts of
+test drugs. In this study, we constructed a system for measuring changes in pupil
+size using an infrared eye-tracking camera and evaluated the effects on pupil
+size of the 5-HT1A receptor agonists buspirone, 8-OH-DPAT and buspirone active
+metabolite 1-(2-pyrimidinyl) piperazine. Our results show that both buspirone and
+8-OH-DPAT significantly decrease pupil size in a dose-dependent manner. The
+5-HT1A receptor antagonist WAY 100635 completely blocked both buspirone and
+8-OH-DPAT-induced miosis, whereas 1-(2-pyrimidinyl) piperazine had no effect on
+pupil size. These results suggest that measurement of pupil size may be a useful 
+biomarker for predicting the pharmacodynamics of new 5-HT1A receptor agonists.
+
+DOI: 10.1097/FBP.0000000000000275 
+PMID: 27922541  [Indexed for MEDLINE]
+

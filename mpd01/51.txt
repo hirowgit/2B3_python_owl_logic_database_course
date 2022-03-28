@@ -1,0 +1,118 @@
+
+
+51. J Neurosci Res. 2021 Dec;99(12):3121-3147. doi: 10.1002/jnr.24967. Epub 2021 Oct 
+29.
+
+Light microscopic and heterogeneity analysis of astrocytes in the common marmoset
+brain.
+
+Muñoz Y(1), Cuevas-Pacheco F(2)(3), Quesseveur G(1), Murai KK(1)(4).
+
+Author information: 
+(1)Centre for Research in Neuroscience, Department of Neurology & Neurosurgery,
+Brain Repair and Integrative Neuroscience Program, Research Institute of the
+McGill University Health Centre, Montreal General Hospital, Montreal, QC, Canada.
+(2)Department of Mathematics, Universidad Técnica Federico Santa Maria,
+Valparaiso, Chile.
+(3)Advanced Center for Electrical and Electronic Engineering, Universidad Técnica
+Federico Santa Maria, Valparaiso, Chile.
+(4)Quantitative Life Sciences Graduate Program, McGill University, Montreal, QC, 
+Canada.
+
+Astrocytes are abundant cells of the central nervous system (CNS) and are
+involved in processes including synapse formation/function, ion homeostasis,
+neurotransmitter uptake, and neurovascular coupling. Recent evidence indicates
+that astrocytes show diverse molecular, structural, and physiological properties 
+within the CNS. This heterogeneity is reflected in differences in astrocyte
+structure, gene expression, functional properties, and responsiveness to
+injury/pathological conditions. Deeper investigation of astrocytic heterogeneity 
+is needed to understand how astrocytes are configured to enable diverse roles in 
+the CNS. While much has been learned about astrocytic heterogeneity in rodents,
+much less is known about astrocytic heterogeneity in the primate brain where
+astrocytes have greater size and complexity. The common marmoset (Callithrix
+jacchus) is a promising non-human primate model because of similarities between
+marmosets and humans with respect to genetics, brain anatomy, and
+cognition/behavior. Here, we investigated the molecular and structural
+heterogeneity of marmoset astrocytes using an array of astrocytic markers,
+multi-label confocal microscopy, and quantitative analysis. We used male and
+female marmosets and found that marmoset astrocytes show differences in
+expression of astrocytic markers in cortex, hippocampus, and cerebellum. These
+differences were accompanied by intra-regional variation in expression of markers
+for glutamate/GABA transporters, and potassium and water channels. Differences in
+astrocyte structure were also found, along with complex interactions with blood
+vessels, microglia, and neurons. This study contributes to our knowledge of the
+cellular and molecular features of marmoset astrocytes and is useful for
+understanding the complex properties of astrocytes in the primate CNS.
+
+© 2021 The Authors. Journal of Neuroscience Research published by Wiley
+Periodicals LLC.
+
+DOI: 10.1002/jnr.24967 
+PMID: 34716617 
+
+
+52. Syst Appl Microbiol. 2021 Nov;44(6):126273. doi: 10.1016/j.syapm.2021.126273.
+Epub 2021 Oct 19.
+
+Phylogenetic classification of ten novel species belonging to the genus
+Bifidobacterium comprising B. phasiani sp. nov., B. pongonis sp. nov., B.
+saguinibicoloris sp. nov., B. colobi sp. nov., B. simiiventris sp. nov., B.
+santillanense sp. nov., B. miconis sp. nov., B. amazonense sp. nov., B.
+pluvialisilvae sp. nov., and B. miconisargentati sp. nov.
+
+Lugli GA(1), Calvete-Torre I(2), Alessandri G(1), Milani C(3), Turroni F(3),
+Laiolo P(4), Ossiprandi MC(5), Margolles A(2), Ruiz L(6), Ventura M(7).
+
+Author information: 
+(1)Laboratory of Probiogenomics, Department of Chemistry, Life Sciences, and
+Environmental Sustainability, University of Parma, 43124 Parma, Italy.
+(2)Department of Microbiology and Biochemistry of Dairy Products, Dairy Research 
+Institute of Asturias, Spanish National Research Council (IPLA-CSIC), Paseo Río
+Linares sn 33300 Villaviciosa, Asturias, Spain; Functionality and Ecology of
+Beneficial Microbes (MicroHealth) Group, Instituto de Investigación Sanitaria del
+Principado de Asturias (ISPA), Avda. Roma s/n, 33011 Oviedo, Asturias, Spain.
+(3)Laboratory of Probiogenomics, Department of Chemistry, Life Sciences, and
+Environmental Sustainability, University of Parma, 43124 Parma, Italy; Microbiome
+Research Hub, University of Parma, 43124 Parma, Italy.
+(4)Biodiversity Research Institute (CSIC, Oviedo University, Principality of
+Asturias), Mieres, Spain.
+(5)Microbiome Research Hub, University of Parma, 43124 Parma, Italy; Department
+of Veterinary Medical Science, University of Parma, Parma, Italy.
+(6)Department of Microbiology and Biochemistry of Dairy Products, Dairy Research 
+Institute of Asturias, Spanish National Research Council (IPLA-CSIC), Paseo Río
+Linares sn 33300 Villaviciosa, Asturias, Spain; Functionality and Ecology of
+Beneficial Microbes (MicroHealth) Group, Instituto de Investigación Sanitaria del
+Principado de Asturias (ISPA), Avda. Roma s/n, 33011 Oviedo, Asturias, Spain.
+Electronic address: lorena.ruiz@ipla.csic.es.
+(7)Laboratory of Probiogenomics, Department of Chemistry, Life Sciences, and
+Environmental Sustainability, University of Parma, 43124 Parma, Italy; Microbiome
+Research Hub, University of Parma, 43124 Parma, Italy. Electronic address:
+marco.ventura@unipr.it.
+
+Ten Bifidobacterium strains, i.e., 6T3, 64T4, 79T10, 80T4, 81T8, 82T1, 82T10,
+82T18, 82T24, and 82T25, were isolated from mantled guereza (Colobus guereza),
+Sumatran orangutan (Pongo abeli), silvery marmoset (Mico argentatus), golden lion
+tamarin (Leontopithecus rosalia), pied tamarin (Saguinus bicolor), and common
+pheasant (Phaisanus colchinus). Cells are Gram-positive, non-motile,
+non-sporulating, facultative anaerobic, and fructose 6-phosphate
+phosphoketolase-positive. Phylogenetic analyses based on the core genome
+sequences revealed that isolated strains exhibit close phylogenetic relatedness
+with Bifidobacterium genus members belonging to the Bifidobacterium bifidum,
+Bifidobacterium longum, Bifidobacterium pullorum, and Bifidobacterium tissieri
+phylogenetic groups. Phenotypic characterization and genotyping based on the
+genome sequences clearly show that these strains are distinct from each of the
+type strains of the so far recognized Bifidobacterium species. Thus, B. phasiani 
+sp. nov. (6T3 = LMG 32224T = DSM 112544T), B. pongonis sp. nov. (64T4 = LMG
+32281T = DSM 112547T), B. saguinibicoloris sp. nov. (79T10 = LMG 32232T = DSM
+112543T), B. colobi sp. nov. (80T4 = LMG 32225T = DSM 112552T), B. simiiventris
+sp. nov. (81T8 = LMG 32226T = DSM 112549T), B. santillanense sp. nov. (82T1 = LMG
+32284T = DSM 112550T), B. miconis sp. nov. (82T10 = LMG 32282T = DSM 112551T), B.
+amazonense sp. nov. (82T18 = LMG 32297T = DSM 112548T), pluvialisilvae sp. nov.
+(82T24 = LMG 32229T = DSM 112545T), and B. miconisargentati sp. nov. (82T25 = LMG
+32283T = DSM 112546T) are proposed as novel Bifidobacterium species.
+
+Copyright © 2021 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.syapm.2021.126273 
+PMID: 34715437  [Indexed for MEDLINE]
+

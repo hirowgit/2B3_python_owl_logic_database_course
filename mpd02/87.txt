@@ -1,0 +1,46 @@
+
+
+87. Emerg Microbes Infect. 2021 Dec;10(1):1790-1806. doi:
+10.1080/22221751.2021.1971569.
+
+Long-term humoral immunogenicity, safety and protective efficacy of inactivated
+vaccine against COVID-19 (CoviVac) in preclinical studies.
+
+Kozlovskaya LI(1)(2), Piniaeva AN(1), Ignatyev GM(1), Gordeychuk IV(1)(2), Volok 
+VP(1)(3), Rogova YV(1), Shishova AA(1)(2), Kovpak AA(1), Ivin YY(1), Antonova
+LP(1), Mefyod KM(1), Prokosheva LS(1), Sibirkina AS(1), Tarasova YY(1), Bayurova 
+EO(1), Gancharova OS(1), Illarionova VV(1), Glukhov GS(3), Sokolova OS(3),
+Shaitan KV(3), Moysenovich AM(3), Gulyaev SA(1), Gulyaeva TV(1), Moroz AV(1),
+Gmyl LV(1), Ipatova EG(1), Kirpichnikov MP(3), Egorov AM(1)(3), Siniugina AA(1), 
+Ishmukhametov AA(1)(2).
+
+Author information: 
+(1)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, Moscow, Russia.
+(2)Institute for Translational Medicine and Biotechnology, Sechenov First Moscow 
+State Medical University, Moscow, Russia.
+(3)Department of Biology, Lomonosov Moscow State University, Moscow, Russia.
+
+The unprecedented in recent history global COVID-19 pandemic urged the
+implementation of all existing vaccine platforms to ensure the availability of
+the vaccines against COVID-19 to every country in the world. Despite the
+multitude of high-quality papers describing clinical trials of different vaccine 
+products, basic detailed data on general toxicity, reproductive toxicity,
+immunogenicity, protective efficacy and durability of immune response in animal
+models are scarce. Here, we developed a β-propiolactone-inactivated whole virion 
+vaccine CoviVac and assessed its safety, protective efficacy, immunogenicity and 
+stability of the immune response in rodents and non-human primates. The vaccine
+showed no signs of acute/chronic, reproductive, embryo- and fetotoxicity, or
+teratogenic effects, as well as no allergenic properties in studied animal
+species. The vaccine induced stable and robust humoral immune response both in
+form of specific anti-SARS-CoV-2 IgG and NAbs in mice, Syrian hamsters, and
+common marmosets. The NAb levels did not decrease significantly over the course
+of one year. The course of two immunizations protected Syrian hamsters from
+severe pneumonia upon intranasal challenge with the live virus. Robustness of the
+vaccine manufacturing process was demonstrated as well. These data encouraged
+further evaluation of CoviVac in clinical trials.
+
+DOI: 10.1080/22221751.2021.1971569 
+PMCID: PMC8439218
+PMID: 34427172  [Indexed for MEDLINE]
+

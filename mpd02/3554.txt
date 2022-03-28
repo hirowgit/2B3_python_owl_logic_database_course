@@ -1,0 +1,39 @@
+
+
+3554. Mol Genet Metab. 1998 Jul;64(3):205-12.
+
+Epstein-Barr virus-infected marmoset cells transfected with c-myc do not form
+lymphomas in mice with severe combined immunodeficiency.
+
+Salimi B(1), O'Gorman MR, Variakojis D, Bendet M, Newman M, Poupko E, Katz BZ.
+
+Author information: 
+(1)Department of Pediatrics, Northwestern University Medical School, Chicago,
+Illinois, USA.
+
+Erratum in
+    Mol Genet Metab 1999 Jan;66(1):74.
+
+Epstein-Barr virus (EBV) has been associated with several malignant processes in 
+man, most notably Burkitt lymphoma in previously healthy individuals and lesions 
+resembling large cell non-Hodgkin lymphomas in organ transplant recipients. Mice 
+with the severe combined immunodeficiency phenotype (SCID mice) are exquisitely
+susceptible to the development of EBV-associated lymphoproliferative lesions
+following the intraperitoneal (ip) inoculation of EBV-infected human lymphocytes.
+Recently, we reported that EBV-infected marmoset lymphocytes do not form
+lymphomas in SCID mice following ip injection, while human lymphocytes infected
+with the same EBV strains do. On the assumption that the EBV-infected marmoset
+cells were lacking a factor necessary for tumor formation, we transfected a
+plasmid containing c-myc into EBV-infected marmoset cells (B95-8, FF41, and W91
+cells). Despite expression of the c-myc protein as determined by immunoblot and
+flow cytometry when probed with a monoclonal antibody, no increase over baseline 
+lesion development was seen in SCID mice inoculated with 5 x 10(6)
+c-myc-expressing marmoset lymphoblastoid cells. Thus, cells that express c-myc
+and harbor EBV are not sufficient to form lymphomas in certain immunocompromised 
+hosts.
+
+Copyright 1998 Academic Press.
+
+DOI: 10.1006/mgme.1998.2708 
+PMID: 9719630  [Indexed for MEDLINE]
+

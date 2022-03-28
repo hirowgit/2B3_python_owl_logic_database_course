@@ -1,0 +1,75 @@
+
+
+1930. Biochem Genet. 2011 Jun;49(5-6):283-91. doi: 10.1007/s10528-010-9406-4. Epub 2010
+Dec 29.
+
+Alternative splicing of human height-related zinc finger and BTB
+domain-containing 38 gene through Alu exonization.
+
+Hong KW(1), Shin YB, Jin HS, Lim JE, Choi JY, Chang KT, Kim HS, Oh B.
+
+Author information: 
+(1)Department of Biomedical Engineering, School of Medicine, Kyung Hee
+University, Dongdaemun-gu, Seoul, Korea.
+
+Recently, genome-wide association studies have identified a strong association
+between the ZBTB38 locus and human height. In a functional study, we detected two
+RT-PCR products of ZBTB38, amplified with primers in exons 7 and 8 from a
+chondrocyte cell line, C-28/I2. Sequencing revealed that the longer product
+contained an Alu segment in intron 7 of ZBTB38, which contained a potential
+splicing acceptor site that likely was used to generate the alternative
+transcript. Insertion of the Alu segment changed the consensus Kozak sequence of 
+the ZBTB38 transcript, potentially altering translational efficiency. We
+performed RT-PCR using 16 tissue samples from humans and 8 tissue samples from
+primates to determine any tissue specificity or evolutionary conservation of the 
+alternative splicing. Although we failed to identify any difference among the
+tissues, all primate samples expressed only the shorter Alu segment (lacking the 
+transcript), suggesting that the alternative splicing event is hominid
+primate-specific.
+
+DOI: 10.1007/s10528-010-9406-4 
+PMID: 21188497  [Indexed for MEDLINE]
+
+
+1931. Chem Biol Interact. 2011 Feb 1;189(3):146-52. doi: 10.1016/j.cbi.2010.12.014.
+Epub 2010 Dec 22.
+
+Regio- and stereoselective oxidation of propranolol enantiomers by human CYP2D6, 
+cynomolgus monkey CYP2D17 and marmoset CYP2D19.
+
+Narimatsu S(1), Nakata T, Shimizudani T, Nagaoka K, Nakura H, Masuda K, Katsu T, 
+Koeda A, Naito S, Yamano S, Miyata A, Hanioka N.
+
+Author information: 
+(1)Okayama University, Kita-ku, Japan. shizuo@pharm.okayama-u.ac.jp
+
+Toxic and pharmacokinetic profiles of drug candidates are evaluated in vivo often
+using monkeys as experimental animals, and the data obtained are extrapolated to 
+humans. Well understanding physiological properties, including drug-metabolizing 
+enzymes, of monkeys should increase the accuracy of the extrapolation. The
+present study was performed to compare regio- and stereoselectivity in the
+oxidation of propranolol (PL), a chiral substrate, by cytochrome P450 2D (CYP2D) 
+enzymes among humans, cynomolgus monkeys and marmosets. Complimentary DNAs
+encoding human CYP2D6, cynomolgus monkey CYP2D17 and marmoset CYP2D19 were
+cloned, and their proteins expressed in a yeast cell expression system. The
+regio- and stereoselective oxidation of PL enantiomers by yeast cell microsomal
+fractions were compared. In terms of efficiency of expression in the system, the 
+holo-proteins ranked CYP2D6=CYP2D17>>CYP2D19. This may be caused by the bulky
+side chain of the amino acid residue at position 119 (leucine for CYP2D19 vs.
+valine for CYP2D6 and CYP2D17), which can disturb the incorporation of the heme
+moiety into the active-site cavity. PL enantiomers were oxidized by all of the
+enzymes mainly into 4-hydroxyproranolol (4-OH-PL), followed by 5-OH-PL and
+N-desisopropylpropranolol (NDP). In the kinetic analysis, apparent K(m) values
+were commonly in the μM range and substrate enantioselectivity of R-PL<S-PL was
+observed in both K(m) and V(max) values for the formation of the three
+metabolites from PL enantiomers. The activity to produce NDP tended to be higher 
+for the monkey enzymes, particularly CYP2D17, than for the human enzyme. These
+results indicate that in the oxidation of PL enantiomers by CYP2D enzymes,
+stereoselectivity is similar but regioselectivity is different between humans and
+monkeys.
+
+Copyright © 2010 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.cbi.2010.12.014 
+PMID: 21184751  [Indexed for MEDLINE]
+

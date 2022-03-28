@@ -1,0 +1,32 @@
+
+
+2191. Neurobiol Dis. 2009 Aug;35(2):184-92. doi: 10.1016/j.nbd.2008.11.010. Epub 2008
+Dec 9.
+
+Dopamine D3 receptor stimulation underlies the development of L-DOPA-induced
+dyskinesia in animal models of Parkinson's disease.
+
+Visanji NP(1), Fox SH, Johnston T, Reyes G, Millan MJ, Brotchie JM.
+
+Author information: 
+(1)Toronto Western Research Institute, 399 Bathurst Street, MC11-419, Toronto,
+Ontario M5T 2S8, Canada.
+
+Development of L-DOPA-induced dyskinesia (LID) remains a major problem in the
+long-term treatment of Parkinson's disease (PD). Sensitization to L-DOPA
+correlates with ectopic expression of D3 dopamine receptors in the striatum,
+implicating D3 receptors in development of LID. We demonstrate that the selective
+D3 antagonist S33084 abolishes development of LID over 30 days in MPTP-lesioned
+marmosets without effecting the anti-parkinsonian actions of L-DOPA. Furthermore,
+following a 14 day washout, when challenged with L-DOPA in the absence of S33084,
+these animals continued to exhibit reduced LID. In the 6-OHDA-lesioned rat,
+S33084 similarly attenuated development of behavioural sensitization to L-DOPA.
+Additionally, L-DOPA-induced elevations in striatal pre-proenkephalin-A (PPE-A)
+(but not PPE-B, phospho[Thr(34)]DARPP-32, D1, and D2 receptor mRNA or D3 receptor
+levels) were reduced in S33084 treated animals. Our data suggest a role for D3
+receptors in the development of LID and suggest that initiating L-DOPA treatment 
+with a D3 antagonist may reduce the development of LID in PD.
+
+DOI: 10.1016/j.nbd.2008.11.010 
+PMID: 19118628  [Indexed for MEDLINE]
+

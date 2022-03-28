@@ -1,0 +1,54 @@
+
+
+1290. Biol Reprod. 2015 Mar;92(3):73. doi: 10.1095/biolreprod.114.119495. Epub 2015 Jan
+21.
+
+Dexrazoxane abrogates acute doxorubicin toxicity in marmoset ovary.
+
+Salih SM(1), Ringelstetter AK(2), Elsarrag MZ(2), Abbott DH(3), Roti EC(2).
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Divisions of Reproductive
+Endocrinology and Infertility and Reproductive Sciences, University of Wisconsin,
+Madison, Wisconsin sanasalih5@gmail.com.
+(2)Department of Obstetrics and Gynecology, Divisions of Reproductive
+Endocrinology and Infertility and Reproductive Sciences, University of Wisconsin,
+Madison, Wisconsin.
+(3)Department of Obstetrics and Gynecology, Divisions of Reproductive
+Endocrinology and Infertility and Reproductive Sciences, University of Wisconsin,
+Madison, Wisconsin Wisconsin National Primate Research Center, University of
+Wisconsin, Madison, Wisconsin.
+
+Preservation of ovarian function following chemotherapy for nonovarian cancers is
+a formidable challenge. For prepubescent girls, the only option to prevent
+chemotherapy damage to the ovary is ovarian tissue cryopreservation, an
+experimental procedure requiring invasive surgeries to harvest and reimplant
+tissue, which carries the risk of cancer reintroduction. Drugs that block the
+primary mechanism of chemotherapy insult, such as dexrazoxane (Dexra) in the
+context of anthracycline chemotherapy, provide a novel approach for ovarian
+protection and have the potential to overcome current limitations to
+oncofertility treatment. Dexra is a catalytic topoisomerase 2 inhibitor that
+protects the mouse ovary from acute doxorubicin (DXR) chemotherapy toxicity in
+vitro by preventing DXR-induced DNA damage and subsequent gammaH2AX activation.
+To translate acute DXR ovarian insult and Dexra protection from mouse to nonhuman
+primate, freshly obtained marmoset ovarian tissue was cultured in vitro and
+treated with vehicle or 20 μM Dexra 1 h prior to 50 nM DXR. Cultured ovarian
+tissue was harvested at 2, 4, or 24 h post-DXR treatment. Dexra prevented
+DXR-induced DNA double-strand breaks as quantified by the neutral comet assay.
+DXR treatment for 24 h increased gammaH2AX phosphorylation, specifically
+increasing the number of foci-positive granulosa cells in antral follicles, while
+Dexra pretreatment inhibited DXR-induced gammaH2AX phosphorylation foci
+formation. Additionally, Dexra pretreatment trended toward attenuating
+DXR-induced AKT1 phosphorylation and caspase-9 activation as assayed by Western
+blots of ovarian tissue lysates. The combined findings suggest Dexra prevents
+primary DXR-induced DNA damage, the subsequent cellular response to DNA damage,
+and may diminish early apoptotic signaling in marmoset ovarian tissue. This study
+provides initial translation of Dexra protection against acute ovarian DXR
+toxicity from mice to marmoset monkey tissue.
+
+© 2015 by the Society for the Study of Reproduction, Inc.
+
+DOI: 10.1095/biolreprod.114.119495 
+PMCID: PMC4367967
+PMID: 25609833  [Indexed for MEDLINE]
+

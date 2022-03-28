@@ -1,0 +1,70 @@
+
+
+903. Hear Res. 2017 May;348:98-111. doi: 10.1016/j.heares.2017.03.001. Epub 2017 Mar
+9.
+
+Contributions of sensory tuning to auditory-vocal interactions in marmoset
+auditory cortex.
+
+Eliades SJ(1), Wang X(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology: Head and Neck Surgery, University of
+Pennsylvania Perelman School of Medicine, Philadelphia, PA, USA. Electronic
+address: seliades@med.upenn.edu.
+(2)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+
+During speech, humans continuously listen to their own vocal output to ensure
+accurate communication. Such self-monitoring is thought to require the
+integration of information about the feedback of vocal acoustics with internal
+motor control signals. The neural mechanism of this auditory-vocal interaction
+remains largely unknown at the cellular level. Previous studies in naturally
+vocalizing marmosets have demonstrated diverse neural activities in auditory
+cortex during vocalization, dominated by a vocalization-induced suppression of
+neural firing. How underlying auditory tuning properties of these neurons might
+contribute to this sensory-motor processing is unknown. In the present study, we 
+quantitatively compared marmoset auditory cortex neural activities during vocal
+production with those during passive listening. We found that neurons excited
+during vocalization were readily driven by passive playback of vocalizations and 
+other acoustic stimuli. In contrast, neurons suppressed during vocalization
+exhibited more diverse playback responses, including responses that were not
+predictable by auditory tuning properties. These results suggest that
+vocalization-related excitation in auditory cortex is largely a sensory-driven
+response. In contrast, vocalization-induced suppression is not well predicted by 
+a neuron's auditory responses, supporting the prevailing theory that internal
+motor-related signals contribute to the auditory-vocal interaction observed in
+auditory cortex.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.heares.2017.03.001 
+PMCID: PMC5392437
+PMID: 28284736  [Indexed for MEDLINE]
+
+
+904. Virol J. 2017 Mar 10;14(1):51. doi: 10.1186/s12985-017-0717-5.
+
+Erratum to: Characterization and pathogenesis of aerosolized eastern equine
+encephalitis in the common marmoset (Callithrix jacchus).
+
+Porter AI(1), Erwin-Cohen RA(2), Twenhafel N(3), Chance T(3), Yee SB(4), Kern
+SJ(5), Norwood D(6), Hartman LJ(6), Parker MD(1), Glass PJ(1), DaSilva L(4).
+
+Author information: 
+(1)Virology Division, United States Army Medical Research Institute of Infectious
+Diseases (USAMRIID), 21702, Frederick, MD, USA.
+(2)Virology Division, United States Army Medical Research Institute of Infectious
+Diseases (USAMRIID), 21702, Frederick, MD, USA. rerwincohen@gmail.com.
+(3)Pathology Division, 21702, Frederick, MD, USA.
+(4)Center for Aerobiological Sciences, 21702, Frederick, MD, USA.
+(5)Research Support Division, 21702, Frederick, MD, USA.
+(6)Diagnostic Systems Division, 21702, Frederick, MD, USA.
+
+Erratum for
+    Virol J. 2017 Feb 7;14 (1):25.
+
+DOI: 10.1186/s12985-017-0717-5 
+PMCID: PMC5346236
+PMID: 28283042 
+

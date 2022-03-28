@@ -1,0 +1,76 @@
+
+
+1416. Mol Ther. 2014 Jul;22(7):1299-1309. doi: 10.1038/mt.2014.68. Epub 2014 Apr 30.
+
+Global CNS transduction of adult mice by intravenously delivered rAAVrh.8 and
+rAAVrh.10 and nonhuman primates by rAAVrh.10.
+
+Yang B(1), Li S(2), Wang H(3), Guo Y(4), Gessler DJ(5), Cao C(6), Su Q(7), Kramer
+J(8), Zhong L(9), Ahmed SS(2), Zhang H(10), He R(7), Desrosiers RC(8), Brown
+R(11), Xu Z(12), Gao G(13).
+
+Author information: 
+(1)Department of Biochemistry & Molecular Pharmacology, University of
+Massachusetts, Worcester, Massachusetts, USA; Division of Biology, California
+Institute of Technology, Pasadena, California, USA.
+(2)Gene Therapy Center, University of Massachusetts, Worcester, Massachusetts,
+USA; Department of Microbiology & Physiology Systems, University of
+Massachusetts, Worcester, Massachusetts, USA.
+(3)Department of Biochemistry & Molecular Pharmacology, University of
+Massachusetts, Worcester, Massachusetts, USA.
+(4)Department of Biochemistry & Molecular Pharmacology, University of
+Massachusetts, Worcester, Massachusetts, USA; Department of Neurology, the Second
+Hospital of Hebei Medical University, Shijiazhuang, People's Republic of China.
+(5)Gene Therapy Center, University of Massachusetts, Worcester, Massachusetts,
+USA; Department of Microbiology & Physiology Systems, University of
+Massachusetts, Worcester, Massachusetts, USA; University of Heidelberg, Medical
+School, Heidelberg, Germany.
+(6)Gene Therapy Center, University of Massachusetts, Worcester, Massachusetts,
+USA; Department of Physiology, Tongji Medical School, Tongji University,
+Shanghai, People's Republic of China.
+(7)Gene Therapy Center, University of Massachusetts, Worcester, Massachusetts,
+USA.
+(8)New England Primate Research Center and Harvard Medical School, Southborough, 
+Massachusetts, USA.
+(9)Gene Therapy Center, University of Massachusetts, Worcester, Massachusetts,
+USA; Department of Pediatrics, University of Massachusetts, Worcester,
+Massachusetts, USA.
+(10)Gene Therapy Center, University of Massachusetts, Worcester, Massachusetts,
+USA; Department of Microbiology & Physiology Systems, University of
+Massachusetts, Worcester, Massachusetts, USA; Department of Pharmaceutical
+Sciences, South Dakota State University, Brookings, South Dakota, USA.
+(11)Department of Neurology, University of Massachusetts, Worcester,
+Massachusetts, USA.
+(12)Department of Biochemistry & Molecular Pharmacology, University of
+Massachusetts, Worcester, Massachusetts, USA. Electronic address:
+zuoshang.xu@umassmed.edu.
+(13)Gene Therapy Center, University of Massachusetts, Worcester, Massachusetts,
+USA; Department of Microbiology & Physiology Systems, University of
+Massachusetts, Worcester, Massachusetts, USA; State Key Laboratory of Biotherapy,
+West China Hospital, Sichuan University, Chengdu, People's Republic of China.
+Electronic address: guangping.gao@umassmed.edu.
+
+Some recombinant adeno-associated viruses (rAAVs) can cross the neonatal
+blood-brain barrier (BBB) and efficiently transduce cells of the central nervous 
+system (CNS). However, in the adult CNS, transduction levels by systemically
+delivered rAAVs are significantly reduced, limiting their potential for CNS gene 
+therapy. Here, we characterized 12 different rAAVEGFPs in the adult mouse CNS
+following intravenous delivery. We show that the capability of crossing the adult
+BBB and achieving widespread CNS transduction is a common character of AAV
+serotypes tested. Of note, rAAVrh.8 is the leading vector for robust global
+transduction of glial and neuronal cell types in regions of clinical importance
+such as cortex, caudate-putamen, hippocampus, corpus callosum, and substantia
+nigra. It also displays reduced peripheral tissue tropism compared to other
+leading vectors. Additionally, we evaluated rAAVrh.10 with and without microRNA
+(miRNA)-regulated expressional detargeting from peripheral tissues for systemic
+gene delivery to the CNS in marmosets. Our results indicate that rAAVrh.8, along 
+with rh.10 and 9, hold the best promise for developing novel therapeutic
+strategies to treat neurological diseases in the adult patient population.
+Additionally, systemically delivered rAAVrh.10 can transduce the CNS efficiently,
+and its transgene expression can be limited in the periphery by endogenous miRNAs
+in adult marmosets.
+
+DOI: 10.1038/mt.2014.68 
+PMCID: PMC4089005
+PMID: 24781136  [Indexed for MEDLINE]
+

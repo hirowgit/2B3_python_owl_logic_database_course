@@ -1,0 +1,53 @@
+
+
+1003. Am J Primatol. 2017 Feb;79(2):1-12. doi: 10.1002/ajp.22587. Epub 2016 Aug 12.
+
+Application of PE-RADSeq to the study of genomic diversity and divergence of two 
+Brazilian marmoset species (Callithrix jacchus and C. penicillata).
+
+Malukiewicz J(1)(2), Guschanski K(3), Grativol AD(4), Oliveira MA(5),
+Ruiz-Miranda CR(4), Stone AC(6).
+
+Author information: 
+(1)Departamento de Bioquímica e Biologia Molecular, Universidade Federal de
+Viçosa, Viçosa, MG, Brazil.
+(2)School of Life Sciences, Arizona State University, Tempe, Arizona.
+(3)Department of Animal Ecology, Evolutionary Biology Centre, Uppsala University,
+Uppsala, Sweden.
+(4)Laboratório de Ciências Ambientais, Centro de Biociências e Biotecnologia,
+Universidade Estadual do Norte Fluminense, Campos dos Goytacazes, RJ, Brazil.
+(5)Departamento de Morfologia e Fisiologia Animal, Universidade Federal Rural de 
+Pernambuco, Recife, PE, Brazil.
+(6)School of Human Evolution and Social Change, Arizona State University, Tempe, 
+Arizona.
+
+Callithrix jacchus and C. penicillata are among the smallest anthropoid primates,
+are highly specialized tree gougers, and largely occupy Brazil's most extreme,
+semi-arid biomes. However, the underlying genomic factors that underpin the
+evolution of these species and their unique traits are under-investigated.
+Additionally, exotic populations of these two species are widely established
+throughout Brazil and hybridize with threatened native congers. Thus, both
+genomic and conservation factors call for a better understanding of C. jacchus
+and C. penicillata evolution. Here, we applied PE-RADseq to characterize genomic 
+variation in these two species, using six C. jacchus and seven C. penicillata
+individuals. We identified an average of 7,463 and 5,180 SNPs/individual in C.
+penicillata and C. jacchus, respectively, and also found 1,395 variable sites
+that were represented in both species. C. penicillata showed overall higher
+levels of genetic diversity than C. jacchus at the variable sites present in both
+species. Additionally, among these variable sites, 106 showed relative
+interspecific divergence levels that were significantly higher than the
+genome-wide average. We further compared relative and absolute divergence for C. 
+penicillata and C. jacchus between RAD loci associated with the 106 significantly
+diverged variable sites and all other RAD loci present in both species. The
+former RAD loci set showed significantly elevated relative and absolute
+divergence measures in comparison to the latter set. This convergence suggests
+that C. jacchus and C. penicillata may have diverged under a scenario of gene
+flow under secondary contact. Here, we demonstrate that RADseq is an efficient
+method to simultaneously discover and genotype a large number of markers and
+validate the utility of RADseq for examining Callithrix evolution.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajp.22587 
+PMID: 27521158  [Indexed for MEDLINE]
+

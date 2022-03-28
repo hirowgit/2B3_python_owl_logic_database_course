@@ -1,0 +1,90 @@
+
+
+2385. BMC Genomics. 2007 Jun 25;8:190.
+
+Development of the first marmoset-specific DNA microarray (EUMAMA): a new genetic
+tool for large-scale expression profiling in a non-human primate.
+
+Datson NA(1), Morsink MC, Atanasova S, Armstrong VW, Zischler H, Schlumbohm C,
+Dutilh BE, Huynen MA, Waegele B, Ruepp A, de Kloet ER, Fuchs E.
+
+Author information: 
+(1)Division of Medical Pharmacology, Leiden/Amsterdam Center for Drug Research
+and Leiden University Medical Center, The Netherlands.
+datson_n@lacdr.leidenuniv.nl
+
+BACKGROUND: The common marmoset monkey (Callithrix jacchus), a small
+non-endangered New World primate native to eastern Brazil, is becoming
+increasingly used as a non-human primate model in biomedical research, drug
+development and safety assessment. In contrast to the growing interest for the
+marmoset as an animal model, the molecular tools for genetic analysis are
+extremely limited.
+RESULTS: Here we report the development of the first marmoset-specific
+oligonucleotide microarray (EUMAMA) containing probe sets targeting 1541
+different marmoset transcripts expressed in hippocampus. These 1541 transcripts
+represent a wide variety of different functional gene classes. Hybridisation of
+the marmoset microarray with labelled RNA from hippocampus, cortex and a panel of
+7 different peripheral tissues resulted in high detection rates of 85% in the
+neuronal tissues and on average 70% in the non-neuronal tissues. The expression
+profiles of the 2 neuronal tissues, hippocampus and cortex, were highly similar, 
+as indicated by a correlation coefficient of 0.96. Several transcripts with a
+tissue-specific pattern of expression were identified. Besides the marmoset
+microarray we have generated 3215 ESTs derived from marmoset hippocampus, which
+have been annotated and submitted to GenBank [GenBank: EF214838-EF215447,
+EH380242-EH382846].
+CONCLUSION: We have generated the first marmoset-specific DNA microarray and
+demonstrated its use to characterise large-scale gene expression profiles of
+hippocampus but also of other neuronal and non-neuronal tissues. In addition, we 
+have generated a large collection of ESTs of marmoset origin, which are now
+available in the public domain. These new tools will facilitate molecular genetic
+research into this non-human primate animal model.
+
+DOI: 10.1186/1471-2164-8-190 
+PMCID: PMC1929077
+PMID: 17592630  [Indexed for MEDLINE]
+
+
+2386. Gene. 2007 Sep 15;399(2):105-11. Epub 2007 May 22.
+
+Phylogenetic conservation of the androgen receptor AR45 variant form in placental
+mammals.
+
+Weiss B(1), Faus H, Haendler B.
+
+Author information: 
+(1)Target Discovery, Bayer Schering Pharma AG, D-13342 Berlin, Germany.
+
+A cDNA coding for a tissue-specific AR45 variant form of the androgen receptor
+(AR) has recently been identified in humans, with highest expression levels found
+in heart. The deduced protein comprises the DNA-binding domain, hinge region and 
+ligand-binding domain of the AR, but not the N-terminal domain which is replaced 
+by a unique, short, seven amino-acid-long stretch. This sequence is encoded by
+the mutually exclusive exon 1B, located between exons 1 and 2 of the human AR
+gene. As transcript variants of the steroid receptor family have been shown to
+have important implications for hormone function, we set out to analyse the
+genomes of different organisms for potential AR45 expression. We found exon 1B to
+be conserved in the syntenic chromosomal region of non-human primates such as the
+chimpanzee Pan troglodytes, the orang-utan Pongo pygmaeus, the macaque Macaca
+mulatta and the marmoset Callithrix jacchus, and of the elephant Loxondonta
+africana, the pig Sus scrofa and the dog Canis familiaris. Quantification of AR45
+transcript levels in heart, skeletal muscle and lung of Macaca fascicularis
+showed the heart to be the main organ of expression. A complete AR45 cDNA was
+furthermore isolated from the heart of this species. Comparative analysis of the 
+identified AR45 exon 1B regions and of the deduced amino acids revealed a high
+conservation among species. The four N-terminal residues were identical in all
+eight species, whereas a few changes were seen in the other three residues in the
+marmoset, elephant and pig. In contrast, we observed more divergence in the mouse
+Mus musculus and rat Rattus norvegicus syntenic regions. Here a stop codon was
+found downstream of the potential start codon in the putatively deduced protein
+sequence and it can be inferred that no protein corresponding to AR45 exists in
+these two species. The existence of AR45 in different placental mammals with the 
+exception of mouse and rat suggests a disappearance in rodents late in evolution,
+before the separation of the mouse and rat lineages, about 16 million years ago. 
+In view of the potential function of AR45 as a regulator of AR function, and
+considering the multiple roles of androgens in normal physiology and in several
+diseases, these findings have important implications with regard to subtle
+differences in the action of the male sexual hormone in various organisms.
+
+DOI: 10.1016/j.gene.2007.04.037 
+PMID: 17574777  [Indexed for MEDLINE]
+

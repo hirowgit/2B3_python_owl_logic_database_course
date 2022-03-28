@@ -1,0 +1,89 @@
+
+
+226. Xenobiotica. 2021 Mar;51(3):316-323. doi: 10.1080/00498254.2020.1849872. Epub
+2020 Nov 19.
+
+Plasma and hepatic concentrations of acetaminophen and its primary conjugates
+after oral administrations determined in experimental animals and humans and
+extrapolated by pharmacokinetic modeling.
+
+Toda A(1), Shimizu M(2), Uehara S(2)(3), Sasaki T(2), Miura T(2), Mogi M(1)(4),
+Utoh M(1)(2)(5), Suemizu H(3), Yamazaki H(2).
+
+Author information: 
+(1)Pharmacokinetics and Bioanalysis Center, Shin Nippon Biomedical Laboratories, 
+Ltd., Wakayama , Japan.
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University , Tokyo , Japan.
+(3)Laboratory Animal Research Department, Central Institute for Experimental
+Animals , Kawasaki , Japan.
+(4)Drug Safety Research Laboratories, Shin Nippon Biomedical Laboratories, Ltd., 
+Kagoshima , Japan.
+(5)Scientific Affairs Division, Shin Nippon Biomedical Laboratories, Ltd., Tokyo 
+, Japan.
+
+Plasma concentrations of acetaminophen, its glucuronide and sulfate conjugates,
+and cysteinyl acetaminophen were experimentally determined after oral
+administrations of 10 mg/kg in humanised-liver mice, control mice, rats, common
+marmosets, cynomolgus monkeys, and minipigs; the results were compared with
+reported human pharmacokinetic data. Among the animals tested, only rats
+predominantly converted acetaminophen to sulfate conjugates, rather than
+glucuronide conjugates. In contrast, the values of area under the plasma
+concentration curves of acetaminophen, its glucuronide and sulfate conjugates,
+and cysteinyl acetaminophen after oral administration of acetaminophen in
+marmosets and minipigs were consistent with those reported in humans under the
+present conditions. Physiologically based pharmacokinetic (PBPK) models
+(consisting of the gut, liver, and central compartments) for acetaminophen and
+its primary metabolite could reproduce and estimate, respectively, the plasma and
+hepatic concentrations of acetaminophen in experimental animals and humans after 
+single virtual oral doses. The values of area under the curves of hepatic
+concentrations of acetaminophen estimated using PBPK models were correlated with 
+the measured levels of cysteinyl acetaminophen (a deactivated metabolite) in
+plasma fractions in these species. Consequently, using simple PBPK models and
+plasma data to predict hepatic chemical concentrations after oral doses could be 
+helpful as an indicator of in vivo possible hepatotoxicity of chemicals such as
+acetaminophen.
+
+DOI: 10.1080/00498254.2020.1849872 
+PMID: 33179995  [Indexed for MEDLINE]
+
+
+227. Cells. 2020 Nov 5;9(11). pii: E2422. doi: 10.3390/cells9112422.
+
+Controlling the Switch from Neurogenesis to Pluripotency during Marmoset Monkey
+Somatic Cell Reprogramming with Self-Replicating mRNAs and Small Molecules.
+
+Petkov S(1)(2), Dressel R(2)(3), Rodriguez-Polo I(1)(2), Behr R(1)(2).
+
+Author information: 
+(1)Platform Degenerative Diseases, German Primate Center, GmbH, Leibniz Institute
+for Primate Research, 37077 Göttingen, Germany.
+(2)German Center for Cardiovascular Research (DZHK), partner site Göttingen,
+37077 Göttingen, Germany.
+(3)Institute for Cellular and Molecular Immunology, University Medical Center
+Göttingen, 37077 Göttingen, Germany.
+
+Induced pluripotent stem cells (iPSCs) hold enormous potential for the
+development of cell-based therapies; however, the safety and efficacy of
+potential iPSC-based treatments need to be verified in relevant animal disease
+models before their application in the clinic. Here, we report the derivation of 
+iPSCs from common marmoset monkeys (Callithrix jacchus) using self-replicating
+mRNA vectors based on the Venezuelan equine encephalitis virus (VEE-mRNAs). By
+transfection of marmoset fibroblasts with VEE-mRNAs carrying the human OCT4,
+KLF4, SOX2, and c-MYC and culture in the presence of small molecule inhibitors
+CHIR99021 and SB431542, we first established intermediate primary colonies with
+neural progenitor-like properties. In the second reprogramming step, we converted
+these colonies into transgene-free pluripotent stem cells by further culturing
+them with customized marmoset iPSC medium in feeder-free conditions. Our
+experiments revealed a novel paradigm for flexible reprogramming of somatic
+cells, where primary colonies obtained by a single VEE-mRNA transfection can be
+directed either toward the neural lineage or further reprogrammed to
+pluripotency. These results (1) will further enhance the role of the common
+marmoset as animal disease model for preclinical testing of iPSC-based therapies 
+and (2) establish an in vitro system to experimentally address developmental
+signal transduction pathways in primates.
+
+DOI: 10.3390/cells9112422 
+PMCID: PMC7694496
+PMID: 33167468  [Indexed for MEDLINE]
+

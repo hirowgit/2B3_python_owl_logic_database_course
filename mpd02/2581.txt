@@ -1,0 +1,40 @@
+
+
+2581. Proc Natl Acad Sci U S A. 2006 Feb 28;103(9):3186-91. Epub 2006 Feb 17.
+
+Phylogenetic comparisons suggest that distance from the locus control region
+guides developmental expression of primate beta-type globin genes.
+
+Johnson RM(1), Prychitko T, Gumucio D, Wildman DE, Uddin M, Goodman M.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Wayne State University
+School of Medicine, Detroit, MI 48201, USA.
+
+Phylogenetic inferences drawn from comparative data on mammalian beta-globin gene
+clusters indicate that the ancestral primate cluster contained a locus control
+region (LCR) and five paralogously related beta-type globin loci
+(5'-LCR-epsilon-gamma-psieta-delta-beta-3'), with epsilon and gamma expressed
+solely during embryonic life. A gamma locus tandem duplication
+(5'-gamma(1)-gamma(2)-3') triggered gamma's evolution toward fetal expression but
+by a different trajectory in platyrrhines (New World monkeys) than in catarrhines
+(Old World monkeys and apes, including humans). In platyrrhine (e.g., Cebus)
+fetuses, gamma(1) at the ancestral distance from epsilon is down-regulated,
+whereas gamma(2) at increased distance is up-regulated. Catarrhine gamma(1) and
+gamma(2) acquired longer distances from epsilon (14 and 19 kb, respectively), and
+both are up-regulated throughout fetal life with gamma(1)'s expression
+predominating over gamma(2)'s. On enlarging the platyrrhine expression data, we
+find Aotus gamma is embryonic, Alouatta gamma is inactive at term, and in
+Callithrix, gamma(1) is down-regulated fetally, whereas gamma(2) is up-regulated.
+Of eight mammalian taxa now represented per taxon by embryonic, fetal, and
+postnatal beta-type globin gene expression data, four taxa are primates, and data
+for three of these primates are from this laboratory. Our results support a model
+in which a short distance (<10 kb) between epsilon and the adjacent gamma is a
+plesiomorphic character that allows the LCR to drive embryonic expression of both
+genes, whereas a longer distance (>10 kb) impedes embryonic activation of the
+downstream gene.
+
+DOI: 10.1073/pnas.0511347103 
+PMCID: PMC1413942
+PMID: 16488971  [Indexed for MEDLINE]
+

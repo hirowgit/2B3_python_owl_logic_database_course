@@ -1,0 +1,47 @@
+
+
+1215. Stem Cell Res. 2015 Jul;15(1):141-50. doi: 10.1016/j.scr.2015.05.010. Epub 2015
+May 27.
+
+Marmoset induced pluripotent stem cells: Robust neural differentiation following 
+pretreatment with dimethyl sulfoxide.
+
+Qiu Z(1), Mishra A(1), Li M(1), Farnsworth SL(1), Guerra B(2), Lanford RE(2),
+Hornsby PJ(3).
+
+Author information: 
+(1)South Texas Veterans Health Care System, San Antonio, TX, United States;
+Department of Physiology/Barshop Institute, University of Texas Health Science
+Center at San Antonio, United States.
+(2)Southwest National Primate Research Center and Texas Biomedical Research
+Institute, United States.
+(3)South Texas Veterans Health Care System, San Antonio, TX, United States;
+Department of Physiology/Barshop Institute, University of Texas Health Science
+Center at San Antonio, United States. Electronic address: hornsby@uthscsa.edu.
+
+The marmoset is an important nonhuman primate model for regenerative medicine.
+For experimental autologous cell therapy based on induced pluripotent (iPS) cells
+in the marmoset, cells must be able to undergo robust and reliable directed
+differentiation that will not require customization for each specific iPS cell
+clone. When marmoset iPS cells were aggregated in a hanging drop format for 3
+days, followed by exposure to dual SMAD inhibitors and retinoic acid in monolayer
+culture for 3 days, we found substantial variability in the response of different
+iPS cell clones. However, when clones were pretreated with 0.05-2% dimethyl
+sulfoxide (DMSO) for 24 hours, all clones showed a very similar maximal response 
+to the directed differentiation scheme. Peak responses were observed at 0.5% DMSO
+in two clones and at 1% DMSO in a third clone. When patterns of gene expression
+were examined by microarray analysis, hierarchical clustering showed very similar
+responses in all 3 clones when they were pretreated with optimal DMSO
+concentrations. The change in phenotype following exposure to DMSO and the 6 day 
+hanging drop/monolayer treatment was confirmed by immunocytochemistry. Analysis
+of DNA content in DMSO-exposed cells indicated that it is unlikely that DMSO acts
+by causing cells to exit from the cell cycle. This approach should be generally
+valuable in the directed neural differentiation of pluripotent cells for
+experimental cell therapy.
+
+Copyright © 2015. Published by Elsevier B.V.
+
+DOI: 10.1016/j.scr.2015.05.010 
+PMCID: PMC4516655
+PMID: 26070112  [Indexed for MEDLINE]
+

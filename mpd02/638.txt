@@ -1,0 +1,64 @@
+
+
+638. Brain Struct Funct. 2019 Jan;224(1):111-131. doi: 10.1007/s00429-018-1764-4. Epub
+2018 Oct 4.
+
+Unidirectional monosynaptic connections from auditory areas to the primary visual
+cortex in the marmoset monkey.
+
+Majka P(1)(2), Rosa MGP(3)(4), Bai S(2)(5), Chan JM(5), Huo BX(6)(7), Jermakow
+N(1), Lin MK(6), Takahashi YS(6), Wolkowicz IH(5), Worthy KH(5), Rajan R(2)(5),
+Reser DH(8), Wójcik DK(1), Okano H(6)(9), Mitra PP(10)(11)(12).
+
+Author information: 
+(1)Laboratory of Neuroinformatics, Nencki Institute of Experimental Biology of
+Polish Academy of Sciences, 02-093, Warsaw, Poland.
+(2)Monash University Node, Australian Research Council, Centre of Excellence for 
+Integrative Brain Function, Clayton, VIC, 3800, Australia.
+(3)Monash University Node, Australian Research Council, Centre of Excellence for 
+Integrative Brain Function, Clayton, VIC, 3800, Australia.
+marcello.rosa@monash.edu.
+(4)Biomedicine Discovery Institute and Department of Physiology, Monash
+University, Clayton, VIC, 3800, Australia. marcello.rosa@monash.edu.
+(5)Biomedicine Discovery Institute and Department of Physiology, Monash
+University, Clayton, VIC, 3800, Australia.
+(6)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, 351-0106, Japan.
+(7)Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, 11724, USA.
+(8)School of Rural Health, Monash University, Churchill, VIC, 3842, Australia.
+(9)Department of Physiology, Keio University School of Medicine, Tokyo, 160-8582,
+Japan.
+(10)Monash University Node, Australian Research Council, Centre of Excellence for
+Integrative Brain Function, Clayton, VIC, 3800, Australia.
+parthaxmitra@gmail.com.
+(11)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science, 
+Saitama, 351-0106, Japan. parthaxmitra@gmail.com.
+(12)Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, 11724, USA.
+parthaxmitra@gmail.com.
+
+Until the late twentieth century, it was believed that different sensory
+modalities were processed by largely independent pathways in the primate cortex, 
+with cross-modal integration only occurring in specialized polysensory areas.
+This model was challenged by the finding that the peripheral representation of
+the primary visual cortex (V1) receives monosynaptic connections from areas of
+the auditory cortex in the macaque. However, auditory projections to V1 have not 
+been reported in other primates. We investigated the existence of direct
+interconnections between V1 and auditory areas in the marmoset, a New World
+monkey. Labelled neurons in auditory cortex were observed following 4 out of 10
+retrograde tracer injections involving V1. These projections to V1 originated in 
+the caudal subdivisions of auditory cortex (primary auditory cortex, caudal belt 
+and parabelt areas), and targeted parts of V1 that represent parafoveal and
+peripheral vision. Injections near the representation of the vertical meridian of
+the visual field labelled few or no cells in auditory cortex. We also placed 8
+retrograde tracer injections involving core, belt and parabelt auditory areas,
+none of which revealed direct projections from V1. These results confirm the
+existence of a direct, nonreciprocal projection from auditory areas to V1 in a
+different primate species, which has evolved separately from the macaque for over
+30 million years. The essential similarity of these observations between marmoset
+and macaque indicate that early-stage audiovisual integration is a shared
+characteristic of primate sensory processing.
+
+DOI: 10.1007/s00429-018-1764-4 
+PMCID: PMC6373361
+PMID: 30288557  [Indexed for MEDLINE]
+

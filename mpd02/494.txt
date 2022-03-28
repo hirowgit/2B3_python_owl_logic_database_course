@@ -1,0 +1,38 @@
+
+
+494. Neuroimage. 2019 Sep;198:44-52. doi: 10.1016/j.neuroimage.2019.05.023. Epub 2019 
+May 17.
+
+Microelectrode array electrical impedance tomography for fast functional imaging 
+in the thalamus.
+
+Zhu D(1), McEwan A(1), Eiber C(2).
+
+Author information: 
+(1)School of Electrical and Information Engineering, The University of Sydney,
+Camperdown, NSW, Australia.
+(2)Save Sight Institute, The University of Sydney, 8 Macquarie St, Sydney, NSW,
+Australia; School of Medical Sciences, University of Sydney, Sydney, NSW,
+Australia; Australian Research Council Centre of Excellence for Integrative Brain
+Function, Australia. Electronic address: calvin.eiber@sydney.edu.au.
+
+Electrical Impedance Tomography (EIT) has the potential to be able to observe
+functional tomographic images of neural activity in the brain at millisecond
+time-scales. Prior modelling and experimental work has shown that EIT is capable 
+of imaging impedance changes from neural depolarisation in rat somatosensory
+cortex. Here, we investigate the feasibility of EIT for imaging impedance changes
+using a stereotaxically implanted microelectrode array in the thalamus.
+Microelectrode array EIT was simulated using an anatomically accurate marmoset
+brain model. Impedance imaging was validated and detectability estimated using
+physiological noise recorded from the marmoset visual thalamus. The results
+suggest that visual-input-driven impedance changes in visual subcortical bodies
+within 300 μm of the implanted array could be reliably reconstructed and
+localised, comparable to local field potential measurements. Furthermore, we
+demonstrated that microelectrode array EIT could reconstruct concurrent activity 
+in multiple subcortical bodies simultaneously.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2019.05.023 
+PMID: 31108212  [Indexed for MEDLINE]
+

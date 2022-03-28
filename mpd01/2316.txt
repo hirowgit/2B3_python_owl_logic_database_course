@@ -1,0 +1,76 @@
+
+
+2316. Pharmacogenet Genomics. 2008 Jan;18(1):53-66. doi: 10.1097/FPC.0b013e3282f313f8.
+
+CYP3 phylogenomics: evidence for positive selection of CYP3A4 and CYP3A7.
+
+Qiu H(1), Taudien S, Herlyn H, Schmitz J, Zhou Y, Chen G, Roberto R, Rocchi M,
+Platzer M, Wojnowski L.
+
+Author information: 
+(1)Department of Pharmacology, Johannes Gutenberg University Mainz, Germany.
+
+OBJECTIVE: CYP3A metabolizes 50% of currently prescribed drugs and is frequently 
+involved in clinically relevant drug interactions. The understanding of roles and
+regulations of the individual CYP3A genes in pharmacology and physiology is
+incomplete.
+METHODS: Using genomic sequences from 16 species we investigated the evolution of
+CYP3 genomic loci over a period of 450 million years.
+RESULTS: CYP3A genes in amniota evolved from two ancestral CYP3A genes. Upon the 
+emergence of eutherian mammals, one of them was lost, whereas, the other acquired
+a novel genomic environment owing to translocation. In primates, CYP3A underwent 
+rapid evolutionary changes involving multiple gene duplications, deletions,
+pseudogenizations, and gene conversions. The expansion of CYP3A in catarrhines
+(Old World monkeys, great apes, and humans) differed substantially from New World
+primates (e.g. common marmoset) and strepsirrhines (e.g. galago). We detected two
+recent episodes of particularly strong positive selection acting on primate CYP3A
+protein-coding sequence: (i) on CYP3A7 early in hominoid evolution, which was
+accompanied by a restriction of its hepatic expression to fetal period and (ii)
+on human CYP3A4 following the split of the chimpanzee and human lineages. In
+agreement with these findings, three out of four positively selected amino acids 
+investigated in previous biochemical studies of CYP3A affect the activity and
+regioselectivity.
+CONCLUSIONS: CYP3A7 and CYP3A4 may have acquired catalytic functions especially
+important for the evolution of hominoids and humans, respectively.
+
+DOI: 10.1097/FPC.0b013e3282f313f8 
+PMID: 18216722  [Indexed for MEDLINE]
+
+
+2317. J Immunol. 2008 Feb 1;180(3):1326-37.
+
+Fast progression of recombinant human myelin/oligodendrocyte glycoprotein
+(MOG)-induced experimental autoimmune encephalomyelitis in marmosets is
+associated with the activation of MOG34-56-specific cytotoxic T cells.
+
+Kap YS(1), Smith P, Jagessar SA, Remarque E, Blezer E, Strijkers GJ, Laman JD,
+Hintzen RQ, Bauer J, Brok HP, 't Hart BA.
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Centre, Rijswijk, The
+Netherlands.
+
+The recombinant human (rh) myelin/oligodendrocyte glycoprotein (MOG)-induced
+experimental autoimmune encephalomyelitis (EAE) model in the common marmoset is
+characterized by 100% disease incidence, a chronic disease course, and a variable
+time interval between immunization and neurological impairment. We investigated
+whether monkeys with fast and slow disease progression display different anti-MOG
+T or B cell responses and analyzed the underlying pathogenic mechanism(s). The
+results show that fast progressor monkeys display a significantly wider
+specificity diversification of anti-MOG T cells at necropsy than slow
+progressors, especially against MOG(34-56) and MOG(74-96). MOG(34-56) emerged as 
+a critical encephalitogenic peptide, inducing severe neurological disease and
+multiple lesions with inflammation, demyelination, and axonal injury in the CNS. 
+Although EAE was not observed in MOG(74-96)-immunized monkeys, weak T cell
+responses against MOG(34-56) and low grade CNS pathology were detected. When
+these cases received a booster immunization with MOG(34-56) in IFA, full-blown
+EAE developed. MOG(34-56)-reactive T cells expressed CD3, CD4, or CD8 and CD56,
+but not CD16. Moreover, MOG(34-56)-specific T cell lines displayed specific
+cytotoxic activity against peptide-pulsed B cell lines. The phenotype and
+cytotoxic activity suggest that these cells are NK-CTL. These results support the
+concept that cytotoxic cells may play a role in the pathogenesis of multiple
+sclerosis.
+
+DOI: 10.4049/jimmunol.180.3.1326 
+PMID: 18209026  [Indexed for MEDLINE]
+

@@ -1,0 +1,39 @@
+
+
+1397. J Immunother. 2014 Jul-Aug;37(6):309-20. doi: 10.1097/CJI.0000000000000042.
+
+Ligation of CD47 induces G1 arrest in EBV-transformed B cells through ROS
+generation, p38 MAPK/JNK activation, and Tap73 upregulation.
+
+Park GB(1), Bang SR, Lee HK, Kim D, Kim S, Kim JK, Kim YS, Hur DY.
+
+Author information: 
+(1)*Department of Anatomy and Research Center for Tumor Immunology, Inje
+University College of Medicine ‡Department of Internal Medicine, Inje University 
+Busan Paik Hospital, Busan †Department of Anesthesiology, Inje University Seoul
+Paik Hospital §Department of Anesthesiology, Samsung Medical Center, Sungkyunkwan
+University, Seoul , Republic of Korea.
+
+CD47 is expressed in normal activated cells as well as in several tumors. It also
+has been implicated as having antiangiogenic and antimetastatic properties, but
+its roles in Epstein-Barr virus (EBV)-transformed B cells are still not fully
+understood. Herein, we report that EBV infection induced CD47 surface expression 
+on B cells, and CD47 ligation with anti-CD47 mAb (B6H12) reduced cell
+proliferation and induced G1 arrest. CD47-induced G1 arrest was mediated through 
+increased cyclin-dependent kinase inhibitors (CDKi) and a simultaneously
+decreased CDK/cyclins, and p38 MAPK/JNK activation preceded binding of CDKi-CDK. 
+Moreover, reactive oxygen species (ROS) generation and upregulation of both TAp73
+and ER stress sensor proteins were detected after CD47 ligation, and p38
+inhibitor SB203580 and JNK inhibitor SP600125 blocked upregulation of TAp73 and
+cell cycle arrest. We investigated whether ROS generation is the initial event of
+CD47-mediated G1 arrest because ROS scavenger NAC effectively abrogated the
+majority of CD47-mediated responses but SB203580 and SP600125 did not block ROS
+production. Taken together, we concluded that CD47 ligation on EBV-transformed B 
+cells led to G1 arrest by ROS generation and, subsequently, there was p38
+MAPK/JNK pathway activation, ER stress triggering, and TAp73 upregulation. Our
+findings provide data supporting CD47 as a feasible target for EBV-associated
+tumor therapy.
+
+DOI: 10.1097/CJI.0000000000000042 
+PMID: 24911792  [Indexed for MEDLINE]
+

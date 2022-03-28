@@ -1,0 +1,58 @@
+
+
+1043. Biol Sex Differ. 2016 Jun 2;7:28. doi: 10.1186/s13293-016-0081-y. eCollection
+2016.
+
+Gene changes may minimize masculinizing and defeminizing influences of exposure
+to male cotwins in female callitrichine primates.
+
+French JA(1), Frye B(2), Cavanaugh J(1), Ren D(1), Mustoe AC(1), Rapaport L(2),
+Mickelberg J(3).
+
+Author information: 
+(1)Callitrichid Research Center, Department of Psychology, University of Nebraska
+at Omaha, Omaha, 68182 NE USA.
+(2)Department of Biology, Clemson University, Clemson, 29634 SC USA.
+(3)Zoo Atlanta, Atlanta, GA 30315 USA.
+
+BACKGROUND: Sexual differentiation in female mammals can be altered by the
+proximity of male littermates in utero, a phenomenon known as the intrauterine
+position effect (IUP). Among simian primates, callitrichines (marmosets and
+tamarins) are likely candidates for IUP, since they exhibit obligate dizygotic
+twinning and fetuses share extensive vascularization in utero. In this paper, we 
+determined whether female reproductive parameters are altered by gestating with a
+male twin and evaluated changes in genes associated with anti-Müllerian and
+steroid hormones in twinning callitrichine primates.
+METHODS: We assessed the impact of gestation with male cotwins on reproductive
+performance and survivorship in female marmosets (Callithrix) and lion tamarins
+(Leontopithecus), contrasting measures for females gestated with one or more
+littermates (M+) or no male littermates (0M). We compared targeted coding regions
+for genes involved in steroidal and anti-Müllerian hormone mediation of sexual
+differentiation for representatives of twinning callitrichines (Callithrix,
+Saguinus, and Leontopithecus) with closely related New World primates that
+produce single births (Saimiri and Callimico).
+RESULTS: IUP effects in females were absent in female callitrichine primates: age
+at first ovulation, average litter size, and the proportion of stillborn infants,
+and lifetime survivorship did not differ between M+ and 0M females. We documented
+multiple nonsynonymous substitutions in genes associated with steroid synthesis, 
+transport, and cellular action (SRD5A2, CYP19A1, SHBG, and AR) and with
+anti-Müllerian hormone (AMH and AMHR2) in callitrichines. In the only
+callitrichine to produce single infants (Callimico), two genes contained
+nonsynonymous substitutions relative to twinning callitrichines (CYP19A1 and
+AMRHR2); these substitutions were identical with nontwinning Saimiri and humans, 
+suggesting a reversion to an ancestral sequence.
+CONCLUSIONS: In spite of a shared placental vasculature with opposite-sex twins
+throughout embryonic and fetal development, female callitrichine primates
+gestated with a male cotwin exhibit no decrement in reproductive performance
+relative to females gestated with female cotwins. Hence, IUP effects on female
+reproduction in callitrichines are modest. We have identified mutations in
+candidate genes relevant for steroid hormone signaling and metabolism, and
+especially in AMH-related genes, that are likely to alter protein structure and
+function in the callitrichines. These mutations may confer protection for females
+from the masculinizing and defeminizing influences of gestating with a male
+cotwin.
+
+DOI: 10.1186/s13293-016-0081-y 
+PMCID: PMC4890500
+PMID: 27257473 
+

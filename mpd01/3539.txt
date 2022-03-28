@@ -1,0 +1,82 @@
+
+
+3539. Am J Reprod Immunol. 1998 Sep;40(3):198-209.
+
+Evaluation of the contraceptive potential of recombinant human ZP3 and human ZP3 
+peptides in a primate model: their safety and efficacy.
+
+Paterson M(1), Wilson MR, Morris KD, van Duin M, Aitken RJ.
+
+Author information: 
+(1)MRC Reproductive Biology Unit, Centre for Reproductive Biology, Edinburgh,
+United Kingdom.
+
+PROBLEM: The unique recognition events that result in the avid binding of
+mammalian spermatozoa to the surface of the zona pellucida (ZP) are being
+exploited in the development of contraceptive vaccines. In this study, the safety
+and efficacy of a vaccination strategy based on the induction of active immunity 
+against purified, glycosylated, recombinant human ZP3 (rhZP3) has been evaluated 
+in a primate model, Callithrix jacchus.
+METHOD OF STUDY: Long-term infertility was established after immunization with
+rhZP3 and the resulting immune sera reacted with rhZP3 on an enzyme-linked
+immunosorbent assay (ELISA) and immunolocalized exclusively to the outer surface 
+of native ZP on marmoset ovarian sections. However, this contraceptive effect was
+inevitably associated with the eventual appearance of an ovarian pathology
+characterized by a depletion of primordial follicles. In an attempt to circumvent
+this side effect, human ZP3 (hZP3) was epitope mapped and four continuous,
+immunodominant B-cell epitopes (hZP3(45-64), hZP3(93-110), hZP3(172-190) and
+hZP3(341-360) were evaluated for contraceptive efficacy in vivo. Using
+peptide-tetanus toxoid (TT) conjugates to enhance immunogenicity, antipeptide
+antibodies were raised against these immunogens, which also cross-reacted with
+rhZP3 on ELISA. In addition, antibodies against hZP3(45-64) and hZP3(172-190)
+recognized native ZP on marmoset ovarian sections when a microwave technique was 
+used to enhance epitope presentation.
+RESULTS: No ovarian pathology was observed after the long-term administration of 
+these peptide immunogens, and fertility was suppressed when compared with TT
+controls but could not be correlated to the antibody titer.
+CONCLUSION: Clearly, further research is required to identify optimal B-cell
+epitopes that will reliably induce infertility, free from any ovarian pathology.
+
+DOI: 10.1111/j.1600-0897.1998.tb00413.x 
+PMID: 9764365  [Indexed for MEDLINE]
+
+
+3540. Cardiovasc Res. 1998 Jul;39(1):194-215.
+
+Characterisation, utilisation and clinical relevance of isolated perfused heart
+models of ischaemia-induced ventricular fibrillation.
+
+Curtis MJ(1).
+
+Author information: 
+(1)Cardiovascular Research Laboratory, Vascular Biology Research Centre, King's
+College, London, UK. novfib@kcl.ac.uk
+
+The isolated perfused heart has been used increasingly during the last decade as 
+a model for identifying actions of drugs on ventricular fibrillation (VF) induced
+by myocardial ischaemia. In addition, it has been used to explore the mechanisms 
+responsible for the initiation and maintenance of VF, the concept of endogenous
+myocardial protection and the phenomenon of preconditioning. This article is a
+review of the available data (effects of drugs, sources of variation, comparison 
+with other models and man, etc.) and an attempt to evaluate the possible clinical
+relevance. For several reasons, it is not possible to make a precise judgement on
+the absolute value of the model in terms of its ability to accurately predict the
+effectiveness of drugs in the prevention of sudden cardiac death, the main reason
+being the lack of a positive control, i.e. a drug with proven effectiveness
+against sudden cardiac death caused by VF in man. Nevertheless, the means by
+which one may reliably and reproducibly generate ischaemia-induced VF in
+different isolated heart preparations, and the factors (such as species, heart
+rate, perfusion constituents and involved zone size) that determine the incidence
+of VF are now well documented. Careful selection of species and experimental
+conditions permits the isolated heart of smaller inexpensive animals to function 
+as a first line model for detecting anti-VF activity of probable relevance to
+phase 1 arrhythmogenesis (i.e., arrhythmogenesis during the first 30 min of
+ischaemia). In view of the absence of a clinical template from which to evaluate 
+how well it predicts drug effectiveness in man, this model's clinical relevance, 
+like that of all other preparations and models, can yet be neither accepted nor
+dismissed. Recent publication patterns suggest an increasing use of the model.
+Therefore, recommendations are made to facilitate its effective use.
+
+DOI: 10.1016/s0008-6363(98)00083-2 
+PMID: 9764200  [Indexed for MEDLINE]
+

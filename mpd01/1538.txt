@@ -1,0 +1,64 @@
+
+
+1538. Comput Biol Med. 2013 Sep;43(8):1023-4. doi: 10.1016/j.compbiomed.2013.05.014.
+Epub 2013 May 28.
+
+ExonSuite: algorithmically optimizing alternative gene splicing for the PUF
+proteins.
+
+Ustek D(1), Kohrman A, Krstic B, Fernandez K.
+
+Author information: 
+(1)Grinnell College, Computer Science Department, USA. ustekdil@grinnell.edu
+
+The stability of mRNA and its translation is a vital process necessary for proper
+protein production. The specificity of the regulation is controlled by specific
+RNA motifs and regulatory proteins. Pumilio/fem-3 mRNA-binding factor (PUF)
+proteins are usually used in regulating mRNA stability as well as translation.
+Here, we optimized a PUF protein target finder program to understand the natural 
+diversity of RNA recognition by this family of proteins. ExonSuite is available
+to compile and run at https://github.com/dilanustek/ExonSuite.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2013.05.014 
+PMID: 23816174  [Indexed for MEDLINE]
+
+
+1539. Naunyn Schmiedebergs Arch Pharmacol. 2013 Nov;386(11):963-72. doi:
+10.1007/s00210-013-0897-5. Epub 2013 Jun 29.
+
+In vitro pharmacological profile of the A2A receptor antagonist istradefylline.
+
+Saki M(1), Yamada K, Koshimura E, Sasaki K, Kanda T.
+
+Author information: 
+(1)Sales and Marketing Division, Marketing Department, Kyowa Hakko Kirin Co.,
+Ltd., 1-6-1 Ohtemachi, Chiyoda-ku, Tokyo, 100-8185, Japan.
+
+Adenosine A2A receptors are suggested to be a promising non-dopaminergic target
+for the treatment of Parkinson's disease (PD). Istradefylline is an adenosine A2A
+receptor antagonist that has been reported to exhibit antiparkinsonian activities
+in PD patients as well as both rodents and nonhuman primate models of PD. The aim
+of this study was to evaluate the in vitro pharmacological profile of
+istradefylline as an A2A receptor antagonist. Istradefylline exhibited high
+affinity for A2A receptors in humans, marmosets, dogs, rats, and mice. The
+affinities for the other subtypes of adenosine receptors (A1, A2B, and A3) were
+lower than that for A2A receptors in each species. Istradefylline demonstrated no
+significant affinity for other neurotransmitter receptors, including dopamine
+receptors (D1, D2, D3, D4, and D5). In addition, istradefylline hardly inhibited 
+monoamine oxidase-A, monoamine oxidase-B, or catechol-O-methyl transferase. A
+kinetic analysis indicated that istradefylline reversibly binds to the human A2A 
+receptors: The association reached equilibrium within 1 min, and the binding was 
+also almost completely dissociated within 1 min. Istradefylline inhibited the A2A
+agonist CGS21680-induced accumulation of cAMP in the cultured cells and then
+shifted the concentration-response curve of CGS21680 to the right without
+affecting the maximal response of the agonist. These results indicate that
+istradefylline is a potent, selective, and competitive A2A receptor antagonist.
+The in vitro pharmacological profile of istradefylline helps to explain the in
+vivo profile of istradefylline and may be useful for clinical
+pharmacokinetic-pharmacodynamic considerations of efficacy and safety.
+
+DOI: 10.1007/s00210-013-0897-5 
+PMID: 23812646  [Indexed for MEDLINE]
+

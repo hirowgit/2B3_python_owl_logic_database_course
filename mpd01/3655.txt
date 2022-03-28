@@ -1,0 +1,73 @@
+
+
+3655. Virology. 1997 Jul 21;234(1):14-30.
+
+Comparative analyses of LTRs of the ERV-H family of primate-specific
+retrovirus-like elements isolated from marmoset, African green monkey, and man.
+
+Anderssen S(1), Sjøttem E, Svineng G, Johansen T.
+
+Author information: 
+(1)Department of Biochemistry, Institute of Medical Biology, University of
+Tromsø, Norway.
+
+We have isolated 8 different long terminal repeat (LTR) sequences of the ERV-H
+family of endogenous retrovirus-like elements from human chromosome 18, 9 from
+African green monkey, and 28 from marmoset. Human ERV-H LTRs have been divided
+into three types designated Type I, Type Ia, and Type II. Comparative analyses of
+the 45 isolated LTRs and 60 human ERV-H LTRs enabled a further subdivision into
+13 subtypes. Type I elements were widely distributed in all three species. Their 
+average evolutionary age (40 MYr), estimated by a consensus sequence approach,
+suggests that they first expanded in the genomes at the time New- and Old World
+monkeys diverged. The occurence of some very old Type I sequences indicate that
+ERV-H elements may have integrated even before prosimians and primates diverged. 
+Type Ia and - II elements were found in both monkey species. Promoter active Type
+I and Type Ia LTRs were found while Type II LTRs were inactive. Promoter active
+Type I LTRs generally contained a functional GC/GT box immediately 3' to the TATA
+box, providing strong binding of Sp1 family proteins, while the highly promoter
+active Type Ia element H6 contained synergistically acting Sp1 binding sites
+located in the U3 enhancer region.
+
+DOI: 10.1006/viro.1997.8590 
+PMID: 9234943  [Indexed for MEDLINE]
+
+
+3656. Virology. 1997 Jul 21;234(1):1-13.
+
+Early detection of the lytic LMP-1 protein in EBV-infected B-cells suggests its
+presence in the virion.
+
+Erickson KD(1), Martin JM.
+
+Author information: 
+(1)Department of Molecular, Cellular, and Developmental Biology, University of
+Colorado, Boulder 80309, USA.
+
+The Epstein-Barr virus (EBV)-positive B958 cell line expresses two related
+membrane proteins encoded by BNLF-1 open reading frames. One protein (LMP-1) has 
+been shown to be essential for the growth transforming properties of EBV. The
+second protein (the lytic LMP-1) is an amino-terminally truncated form of LMP-1
+whose expression is associated with induction of EBV's lytic cycle. We have
+investigated the expression of full-length and lytic forms of LMP-1 immediately
+after infection of the EBV-negative, B-lymphoma cell line BJAB. Only the lytic
+LMP-1 protein is present in BJAB cells early (within minutes following addition
+of virus) after infection with virus derived from either uninduced or
+tetradecanoyl phorbol acetate and sodium butyrate-induced B958 cells. Lytic LMP-1
+protein levels begin to decline by 48 hr after infection, whereas levels of
+full-length LMP-1 increase between 24 and 48 hr after infection and then remain
+constant. The presence of the lytic LMP-1 protein in infected cells is
+independent of both protein synthesis and virus internalization. We also find the
+lytic LMP-1 protein in BJAB cells early after infection (within 3 hr of addition 
+of virus) with the HH514 strain of EBV, and HH514 cells treated with
+tetradecanoyl phorbol acetate and sodium butyrate, express high levels of both
+the lytic LMP-1 and full-length LMP-1 proteins. The lytic LMP-1 protein is
+enriched in purified virion preparations, and immunoelectron microscopic analysis
+indicates that EBV virions can be specifically labeled with anti-LMP-1 antisera. 
+Together, these results are consistent with a model in which the lytic LMP-1
+protein is present in the EBV virion and is carried into the B-cell upon
+infection and suggest a role for this protein in early infection events and/or in
+EBV's lytic cycle.
+
+DOI: 10.1006/viro.1997.8638 
+PMID: 9234942  [Indexed for MEDLINE]
+

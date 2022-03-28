@@ -1,0 +1,102 @@
+
+
+601. Neuroimage. 2019 Feb 1;186:301-307. doi: 10.1016/j.neuroimage.2018.11.005. Epub
+2018 Nov 10.
+
+Intrinsic functional clustering of anterior cingulate cortex in the common
+marmoset.
+
+Schaeffer DJ(1), Gilbert KM(1), Ghahremani M(1), Gati JS(1), Menon RS(2),
+Everling S(3).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada.
+(2)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada; Department of Physiology 
+and Pharmacology, University of Western Ontario, London, Ontario, Canada.
+(3)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada; Department of Physiology 
+and Pharmacology, University of Western Ontario, London, Ontario, Canada.
+Electronic address: severlin@uwo.ca.
+
+The common marmoset (Callithrix jacchus) has garnered recent attention as a
+potentially powerful preclinical model and complement to other canonical
+mammalian models of human brain diseases (e.g., rodents and Old World non-human
+primates). With a granular frontal cortex and the advent of transgenic
+modifications, marmosets are well positioned to serve as neuropsychiatric models 
+of prefrontal cortex dysfunction. A critical step in the development of marmosets
+for such models is to characterize functional network topologies of frontal
+cortex in healthy, normally functioning marmosets. Here, we sought to
+characterize the intrinsic functional connectivity of anterior cingulate cortex
+(ACC) in marmosets using resting state functional magnetic resonance imaging
+(RS-fMRI). Seven lightly anesthetized marmosets were imaged at ultra-high field
+(9.4 T) and hierarchical clustering was employed to extract functional clusters
+of ACC from the RS-fMRI data. The data demonstrated three functionally discrete
+clusters within ACC. The functional connectivity between these clusters with the 
+rest of the brain was also found to be distinct, supporting the hypothesis that
+ACC subregions serve different circuits and their concomitant functions. In a
+separate seed-based analysis, we also sought to delineate finer-grained patterns 
+of ACC connectivity between marmoset primary motor area 4ab and putative eye
+movement areas (8aD and 8aV). This analysis demonstrated distinct patterns of ACC
+functional connectivity between motor and eye movement regions that overlapped
+well with what has been shown in humans and macaques. Overall, these results
+demonstrate that marmosets have a network topology of ACC that resembles that of 
+Old World primates, giving further credence to the use of marmosets for
+preclinical studies of intractable human brain diseases.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2018.11.005 
+PMID: 30419289  [Indexed for MEDLINE]
+
+
+602. Development. 2018 Nov 9;145(21). pii: dev167833. doi: 10.1242/dev.167833.
+
+Single cell transcriptome analysis of human, marmoset and mouse embryos reveals
+common and divergent features of preimplantation development.
+
+Boroviak T(1)(2), Stirparo GG(1), Dietmann S(1), Hernando-Herraez I(3), Mohammed 
+H(3), Reik W(3), Smith A(1)(4), Sasaki E(5), Nichols J(1)(2), Bertone P(6).
+
+Author information: 
+(1)Wellcome Trust - Medical Research Council Stem Cell Institute, University of
+Cambridge, Tennis Court Road, Cambridge CB2 1QR, UK.
+(2)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Tennis Court Road, Cambridge CB2 3EG, UK.
+(3)Epigenetics Programme, Babraham Institute, Cambridge CB22 3AT, UK.
+(4)Department of Biochemistry, University of Cambridge, Tennis Court Road,
+Cambridge CB2 1GA, UK.
+(5)Central Institute for Experimental Animals, Department of Applied
+Developmental Biology, 3-25-12 Tonomachi, Kawasaki-ku, Kawasaki 210-0821, Japan.
+(6)Wellcome Trust - Medical Research Council Stem Cell Institute, University of
+Cambridge, Tennis Court Road, Cambridge CB2 1QR, UK bertone@stemcells.cam.ac.uk.
+
+The mouse embryo is the canonical model for mammalian preimplantation
+development. Recent advances in single cell profiling allow detailed analysis of 
+embryogenesis in other eutherian species, including human, to distinguish
+conserved from divergent regulatory programs and signalling pathways in the
+rodent paradigm. Here, we identify and compare transcriptional features of human,
+marmoset and mouse embryos by single cell RNA-seq. Zygotic genome activation
+correlates with the presence of polycomb repressive complexes in all three
+species, while ribosome biogenesis emerges as a predominant attribute in primate 
+embryos, supporting prolonged translation of maternally deposited RNAs. We find
+that transposable element expression signatures are species, stage and lineage
+specific. The pluripotency network in the primate epiblast lacks certain
+regulators that are operative in mouse, but encompasses WNT components and genes 
+associated with trophoblast specification. Sequential activation of GATA6, SOX17 
+and GATA4 markers of primitive endoderm identity is conserved in primates.
+Unexpectedly, OTX2 is also associated with primitive endoderm specification in
+human and non-human primate blastocysts. Our cross-species analysis demarcates
+both conserved and primate-specific features of preimplantation development, and 
+underscores the molecular adaptability of early mammalian embryogenesis.
+
+© 2018. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/dev.167833 
+PMCID: PMC6240320
+PMID: 30413530  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interestsThe authors declare no
+competing or financial interests.
+

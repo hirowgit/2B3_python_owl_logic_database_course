@@ -1,0 +1,69 @@
+
+
+3461. J Med Chem. 1999 Apr 8;42(7):1306-11.
+
+Quinuclidine inhibitors of 2,3-oxidosqualene cyclase-lanosterol synthase:
+optimization from lipid profiles.
+
+Brown GR(1), Hollinshead DM, Stokes ES, Clarke DS, Eakin MA, Foubister AJ,
+Glossop SC, Griffiths D, Johnson MC, McTaggart F, Mirrlees DJ, Smith GJ, Wood R.
+
+Author information: 
+(1)Cardiovascular Metabolism & Muscoskeletal Research Department, Zeneca
+Pharmaceuticals, Alderley Park, Macclesfield, Cheshire SK10 4TG, UK.
+George.Brown@alderly.zeneca.com
+
+Novel 3-substituted quinuclidine inhibitors of cholesterol biosynthesis are
+reported. Compounds were optimized against oxidosqualene cyclase-lanosterol
+synthase (OSC) inhibition in vivo, rather than by the conventional optimization
+of structure-activity relationship information based on in vitro OSC inhibition. 
+Thus, examination of HPLC lipid profiles from orally dosed rats showed
+cholesterol biosynthetic intermediates and whether cholesterol levels were
+reduced. A new substituted quinuclidine pharmacophore 18a-c was rapidly found for
+the inhibition of OSC, and the most promising inhibitors were validated by the
+confirmation of potent OSC inhibition. Compound 16 gave an IC50 value of 83 +/-
+11 nM for human and an IC50 value of 124 +/- 14 nM, for rat, coupled with oral
+and selective inhibition of cholesterol biosynthesis derived from OSC inhibition 
+(rat, ED50 = 1.3 +/- 0.7 mg/kg, n = 5; marmoset, 15 mg/kg dose, n = 3, caused
+complete inhibition). These 3-substituted quinuclidines, which were derived from 
+a quinuclidine series previously known to inhibit cholesterol biosynthesis at the
+squalene synthase step, may afford a novel series of hypocholesterolemic agents
+acting by the inhibition of OSC.
+
+DOI: 10.1021/jm990038q 
+PMID: 10197973  [Indexed for MEDLINE]
+
+
+3462. J Virol. 1999 May;73(5):3913-9.
+
+Role of cellular tumor necrosis factor receptor-associated factors in NF-kappaB
+activation and lymphocyte transformation by herpesvirus Saimiri STP.
+
+Lee H(1), Choi JK, Li M, Kaye K, Kieff E, Jung JU.
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, New England Regional
+Primate Research Center, Harvard Medical School, Southborough, Massachusetts
+01772-9102, USA.
+
+The STP oncoproteins of the herpesvirus saimiri (HVS) subgroup A strain 11 and
+subgroup C strain 488 are now found to be stably associated with tumor necrosis
+factor receptor-associated factor (TRAF) 1, 2, or 3. Mutational analyses
+identified residues of PXQXT/S in STP-A11 as critical for TRAF association. In
+addition, a somewhat divergent region of STP-C488 is critical for TRAF
+association. Mutational analysis also revealed that STP-C488 induced NF-kappaB
+activation that was correlated with its ability to associate with TRAFs. The HVS 
+STP-C488 P10-->R mutant was deficient in human T-lymphocyte transformation to
+interleukin-2-independent growth but showed wild-type phenotype for marmoset
+T-lymphocyte transformation in vitro and in vivo. The STP-C488 P10-->R mutant was
+also defective in Rat-1 fibroblast transformation, and fibroblast cell
+transformation was blocked by a TRAF2 dominant-negative mutant. These data
+implicate TRAFs in STP-C488-mediated transformation of human lymphocytes and
+rodent fibroblasts. Other factors are implicated in immortalization of common
+marmoset T lymphocytes and may also be critical in the transformation of human
+lymphocytes and rodent fibroblasts.
+
+DOI: 10.1128/JVI.73.5.3913-3919.1999 
+PMCID: PMC104169
+PMID: 10196286  [Indexed for MEDLINE]
+

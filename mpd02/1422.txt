@@ -1,0 +1,76 @@
+
+
+1422. Cell. 2014 Apr 24;157(3):726-39. doi: 10.1016/j.cell.2014.03.042. Epub 2014 Apr
+17.
+
+Whole-brain imaging with single-cell resolution using chemical cocktails and
+computational analysis.
+
+Susaki EA(1), Tainaka K(2), Perrin D(3), Kishino F(4), Tawara T(5), Watanabe
+TM(6), Yokoyama C(7), Onoe H(7), Eguchi M(8), Yamaguchi S(9), Abe T(10), Kiyonari
+H(10), Shimizu Y(11), Miyawaki A(12), Yokota H(5), Ueda HR(13).
+
+Author information: 
+(1)Laboratory for Synthetic Biology, RIKEN Quantitative Biology Center, 2-2-3
+Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan; Laboratory for
+Systems Biology, RIKEN Center for Developmental Biology, 2-2-3
+Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan; Department of
+Systems Pharmacology, Graduate School of Medicine, The University of Tokyo, 7-3-1
+Hongo, Bunkyo-ku, Tokyo 113-0033, Japan; CREST, Japan Science and Technology
+Agency, 4-1-8 Honcho, Kawaguchi, Saitama, 332-0012, Japan.
+(2)Laboratory for Synthetic Biology, RIKEN Quantitative Biology Center, 2-2-3
+Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan; Department of
+Systems Pharmacology, Graduate School of Medicine, The University of Tokyo, 7-3-1
+Hongo, Bunkyo-ku, Tokyo 113-0033, Japan; CREST, Japan Science and Technology
+Agency, 4-1-8 Honcho, Kawaguchi, Saitama, 332-0012, Japan.
+(3)Laboratory for Systems Biology, RIKEN Center for Developmental Biology, 2-2-3 
+Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan.
+(4)Faculty of Medicine, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo
+113-0033, Japan.
+(5)Image Processing Research Team, RIKEN Center for Advanced Photonics, 2-1
+Hirosawa, Wako, Saitama, 351-0198, Japan.
+(6)Laboratory for Comprehensive Bioimaging, RIKEN Quantitative Biology Center,
+OLABB, Osaka University, 6-2-3, Furuedai, Suita, Osaka 565-0874, Japan.
+(7)Bio-Function Imaging Team, RIKEN Center for Life Science Technologies, 6-7-3
+Minatojima-minamimachi, Chuo-ku, Kobe City, Hyogo 650-0047, Japan.
+(8)Division of Morphological Neuroscience, Gifu University Graduate School of
+Medicine, 1-1 Yanagido, Gifu City, Gifu 501-1194, Japan.
+(9)Division of Morphological Neuroscience, Gifu University Graduate School of
+Medicine, 1-1 Yanagido, Gifu City, Gifu 501-1194, Japan; PRESTO, Japan Science
+and Technology Agency, 4-1-8 Honcho, Kawaguchi, Saitama, 332-0012, Japan.
+(10)Laboratory for Animal Resources and Genetic Engineering, RIKEN Center for
+Developmental Biology, 2-2-3 Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo
+650-0047, Japan.
+(11)Laboratory for Cell-Free Protein Synthesis, RIKEN Quantitative Biology
+Center, 2-2-3 Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan.
+(12)Laboratory for Cell Function Dynamics, RIKEN Brain Science Institute, 2-1
+Hirosawa, Wako, Saitama 351-0198, Japan.
+(13)Laboratory for Synthetic Biology, RIKEN Quantitative Biology Center, 2-2-3
+Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan; Laboratory for
+Systems Biology, RIKEN Center for Developmental Biology, 2-2-3
+Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan; Department of
+Systems Pharmacology, Graduate School of Medicine, The University of Tokyo, 7-3-1
+Hongo, Bunkyo-ku, Tokyo 113-0033, Japan; CREST, Japan Science and Technology
+Agency, 4-1-8 Honcho, Kawaguchi, Saitama, 332-0012, Japan. Electronic address:
+uedah-tky@umin.ac.jp.
+
+Systems-level identification and analysis of cellular circuits in the brain will 
+require the development of whole-brain imaging with single-cell resolution. To
+this end, we performed comprehensive chemical screening to develop a whole-brain 
+clearing and imaging method, termed CUBIC (clear, unobstructed brain imaging
+cocktails and computational analysis). CUBIC is a simple and efficient method
+involving the immersion of brain samples in chemical mixtures containing
+aminoalcohols, which enables rapid whole-brain imaging with single-photon
+excitation microscopy. CUBIC is applicable to multicolor imaging of fluorescent
+proteins or immunostained samples in adult brains and is scalable from a primate 
+brain to subcellular structures. We also developed a whole-brain cell-nuclear
+counterstaining protocol and a computational image analysis pipeline that,
+together with CUBIC reagents, enable the visualization and quantification of
+neural activities induced by environmental stimulation. CUBIC enables time-course
+expression profiling of whole adult brains with single-cell resolution.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2014.03.042 
+PMID: 24746791  [Indexed for MEDLINE]
+

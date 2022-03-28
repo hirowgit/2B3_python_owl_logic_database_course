@@ -1,0 +1,84 @@
+
+
+478. NPJ Parkinsons Dis. 2019 Jun 10;5:10. doi: 10.1038/s41531-019-0081-9. eCollection
+2019.
+
+Contractile dysfunction and nitrergic dysregulation in small intestine of a
+primate model of Parkinson's disease.
+
+Coletto E(#)(1), Dolan JS(#)(2), Pritchard S(2), Gant A(2), Hikima A(1), Jackson 
+MJ(1), Benham CD(2), Chaudhuri KR(3), Rose S(1), Jenner P(1), Iravani MM(2).
+
+Author information: 
+(1)1Neurodegenerative Disease Research Group, Institute of Pharmaceutical
+Sciences, Faculty of Life Sciences and Medicine, King's College London, London,
+UK.
+(2)2Department of Clinical and Pharmaceutical Sciences, University of
+Hertfordshire, Hatfield, UK.
+(3)3Basic and Clinical Neuroscience, The Maurice Wohl Clinical Neuroscience
+Institute, Kings College London, London, UK.
+(#)Contributed equally
+
+Bowel dysfunction is a common non-motor symptom in Parkinson's disease (PD). The 
+main contractile neurotransmitter in the GI tract is acetylcholine (ACh), while
+nitric oxide (NO) causes the relaxation of smooth muscle in addition to
+modulating ACh release. The aim of this study was to characterise functional and 
+neurochemical changes in the isolated ileum of the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-treated marmoset, an
+established model of PD motor dysfunction. While NO-synthase inhibitor L-NAME
+concentration dependently augmented the neurogenically-evoked contractions and
+inhibited the relaxations in normal tissues, it had no effects on the MPTP ileum.
+Immunohistochemical analyses of the myenteric plexus showed that
+ChAT-immunoreactivity (-ir) was significantly reduced and the density of the
+enteric glial cells as shown by SOX-10-ir was increased. However, no change in
+TH-, 5-HT-, VIP- or nNOS-ir was observed in the MPTP tissues. The enhancement of 
+the neurogenically-evoked contractions and the inhibition of the relaxation phase
+by L-NAME in the control tissues is in line with NO's direct relaxing effect on
+smooth muscle and its indirect inhibitory effect on ACh release. The absence of
+the relaxation and the inefficacy of L-NAME in the MPTP tissues suggests that
+central dopaminergic loss dopamine may eventually lead to the impairment of NO
+signal coupling that affects bowel function, and this may be the result of a
+complex dysregulation at the level of the neuroeffector junction.
+
+DOI: 10.1038/s41531-019-0081-9 
+PMCID: PMC6557815
+PMID: 31231674 
+
+Conflict of interest statement: Competing interestsThe authors declare no
+competing interests.
+
+
+479. Methods Mol Biol. 2019;2006:309-319. doi: 10.1007/978-1-4939-9566-0_21.
+
+In Vitro Culture of Embryos from the Common Marmoset (Callithrix jacchus).
+
+Schmidt JK(1), Golos TG(2).
+
+Author information: 
+(1)Wisconsin National Primate Research Center, University of Wisconsin-Madison,
+Madison, WI, USA. jkropp@wisc.edu.
+(2)Wisconsin National Primate Research Center, University of Wisconsin-Madison,
+Madison, WI, USA.
+
+The biology of fertility, early development, and pregnancy is variable across
+mammalian species. In addition, while the physiology and pathophysiology of human
+diseases can be investigated in other animal models (principally, rodents),
+differences between human and lower mammals often present limitations in the
+applicability of physiological processes from rodent models to human biology.
+Since 1984, when the first live birth from rhesus monkey in vitro fertilization
+and embryo transfer was reported (Bavister et al., Proc Natl Acad Sci
+81:2218-2222, 1984), there has been progress in the implementation of assisted
+reproductive technologies with several nonhuman primate (NHP) species that play
+important roles in biomedical research. In recent years, the significance of this
+progress has been amplified by the development of genomic editing approaches for 
+facile genetic manipulation of the embryo, including methods now applied to NHPs 
+(Liu et al., Cell Stem Cell 14:323-328, 2014; Niu et al., Cell 156:836-843,
+2014). In this review, we summarize current protocols and practices for the
+common marmoset. It is our intention to provide current state-of-the-art
+protocols for gamete procurement and in vitro fertilization techniques, so that
+laboratories wishing to implement experimental embryology in marmoset models will
+have a basic set of tools with which to initiate such studies.
+
+DOI: 10.1007/978-1-4939-9566-0_21 
+PMID: 31230289  [Indexed for MEDLINE]
+

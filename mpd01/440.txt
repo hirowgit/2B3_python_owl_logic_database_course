@@ -1,0 +1,106 @@
+
+
+440. Molecules. 2019 Sep 1;24(17). pii: E3178. doi: 10.3390/molecules24173178.
+
+Preclinical Study of DNA-Recognized Peptide Compound Pyrrole-Imidazole Polyamide 
+Targeting Human TGF-β1 Promoter for Progressive Renal Diseases in the Common
+Marmoset.
+
+Otsuki M(1), Fukuda N(2)(3), Inoue T(4), Mineshige T(5), Otsuki T(6), Horikoshi
+S(7), Endo M(8), Abe M(9).
+
+Author information: 
+(1)Division of Nephrology, Hypertension and Endocrinology, Department of Internal
+Medicine, Nihon University School of Medicine, Tokyo 173-8610, Japan.
+mi.piace.hayden.v@gmail.com.
+(2)Division of Nephrology, Hypertension and Endocrinology, Department of Internal
+Medicine, Nihon University School of Medicine, Tokyo 173-8610, Japan.
+fukuda.noboru@nihon-u.ac.jp.
+(3)Research Center Nihon University, Tokyo 101-0061, Japan.
+fukuda.noboru@nihon-u.ac.jp.
+(4)Marmoset Research Department, Central Institute for Experimental Animals,
+Kanagawa 210-0821, Japan. inoue-t@ciea.or.jp.
+(5)Marmoset Research Department, Central Institute for Experimental Animals,
+Kanagawa 210-0821, Japan. mineshige@ciea.or.jp.
+(6)Division of Nephrology, Hypertension and Endocrinology, Department of Internal
+Medicine, Nihon University School of Medicine, Tokyo 173-8610, Japan.
+totsuki16@gmail.com.
+(7)Division of Nephrology, Hypertension and Endocrinology, Department of Internal
+Medicine, Nihon University School of Medicine, Tokyo 173-8610, Japan.
+horiko19830823@yahoo.co.jp.
+(8)Faculty of Human Health Science, Hachinohe Gakuin University, Hachinohe,
+Aomori 031-8588, Japan. mendo@hachinohe-u.ac.jp.
+(9)Division of Nephrology, Hypertension and Endocrinology, Department of Internal
+Medicine, Nihon University School of Medicine, Tokyo 173-8610, Japan.
+abe.masanori@nihon-u.ac.jp.
+
+Pyrrole-imidazole (PI) polyamides are novel gene silencers that strongly bind the
+promoter region of target genes in a sequence-specific manner to inhibit gene
+transcription. We created a PI polyamide targeting human TGF-β1 (hTGF-β1). To
+develop this PI polyamide targeting hTGF-β1 (Polyamide) as a practical medicine
+for treating progressive renal diseases, we examined the effects of Polyamide in 
+two common marmoset models of nephropathy. We performed lead optimization of PI
+polyamides that targeted hTGF-β1 by inhibiting in a dose-dependent manner the
+expression of TGF-β1 mRNA stimulated by PMA in marmoset fibroblasts. Marmosets
+were housed and fed with a 0.05% NaCl and magnesium diet and treated with
+cyclosporine A (CsA; 37.5 mg/kg/day, eight weeks) to establish chronic
+nephropathy. We treated the marmosets with nephropathy with Polyamide (1
+mg/kg/week, four weeks). We also established a unilateral urethral obstruction
+(UUO) model to examine the effects of Polyamide (1 mg/kg/week, four times) in
+marmosets. Histologically, the renal medulla from CsA-treated marmosets showed
+cast formation and interstitial fibrosis in the renal medulla.
+Immunohistochemistry showed strong staining of Polyamide in the renal medulla
+from CsA-treated marmosets. Polyamide treatment (1 mg/kg/week, four times)
+reduced hTGF-β1 staining and urinary protein excretion in CsA-treated marmosets. 
+In UUO kidneys from marmosets, Polyamide reduced the glomerular injury score and 
+tubulointerstitial injury score. Polyamide significantly suppressed hTGF-β1 and
+snail mRNA expression in UUO kidneys from the marmosets. Polyamide effectively
+improved CsA- and UUO-associated nephropathy, indicating its potential
+application in the prevention of renal fibrosis in progressive renal diseases.
+
+DOI: 10.3390/molecules24173178 
+PMCID: PMC6749436
+PMID: 31480595  [Indexed for MEDLINE]
+
+
+441. J Neural Eng. 2020 Jan 14;17(1):016031. doi: 10.1088/1741-2552/ab4104.
+
+Spinal cord neural interfacing in common marmosets (Callithrix jacchus).
+
+Prins NW(1), Mylavarapu R, Shoup AM, Debnath S, Prasad A.
+
+Author information: 
+(1)Department of Biomedical Engineering, University of Miami, 1251 Memorial Dr,
+MEA 203, Coral Gables, FL 33146, United States of America.
+
+OBJECTIVE: Spinal cord injury remains an ailment with no comprehensive cure, and 
+affected patients suffer from a greatly diminished quality of life. This large
+population could significantly benefit from prosthetic technologies to replace
+missing limbs, reanimate nonfunctional limbs, and enable new modes of
+technologies to restore muscle control and function. While cortically driven
+brain machine interfaces have achieved great success in interfacing with an
+external device to restore lost functions, interfacing with the spinal cord can
+provide an additional site to record motor control signals, which can have its
+own advantages, despite challenges from using a smaller non-human primate (NHP)
+model. The goal of this study is to develop such a spinal cord neural interface
+to record motor signals from the high cervical levels of the spinal cord in a
+common marmoset (Callithrix jacchus) model. Approach and main results. Detailed
+methods are discussed for this smaller NHP model that includes behavioral
+training, surgical methods for electrode placement, connector placement and wire 
+handling, electrode specifications and modifications for accessing high cervical 
+level interneurons and motorneurons. The study also discusses the methods and
+challenges involved in behavioral multi-channel extracellular recording from the 
+marmoset spinal cord, including the major recording failure mechanisms
+encountered during the study.
+SIGNIFICANCE: Marmosets provide a good step between rodent and larger NHP models 
+due to their small size, ease of handling, cognitive abilities, and similarities 
+to other primate motor systems. The study shows the feasibility of recording
+spinal cord signals and using marmosets as a smaller NHP model in behavioral
+neuroscience studies. Interfacing with the spinal cord in chronically implanted
+animals can provide useful information about how motor control signals within the
+spinal cord are transformed to cause limb movements.
+
+DOI: 10.1088/1741-2552/ab4104 
+PMCID: PMC6960332
+PMID: 31480029  [Indexed for MEDLINE]
+

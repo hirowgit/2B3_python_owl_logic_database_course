@@ -1,0 +1,72 @@
+
+
+1740. Cereb Cortex. 2013 Apr;23(4):922-31. doi: 10.1093/cercor/bhs085. Epub 2012 Apr 3.
+
+Early decline in progenitor diversity in the marmoset lateral ventricle.
+
+Azim K(1), Zweifel S, Klaus F, Yoshikawa K, Amrein I, Raineteau O.
+
+Author information: 
+(1)Brain Research Institute, University of Zürich/Swiss Federal Institute of
+Technology Zurich (ETHZ), 8057 Zürich, Switzerland.
+
+The lateral ventricle (LV) of the adult rodent brain harbors neural stem cells
+(NSCs) that continue to generate new neurons throughout life. NSCs located in
+defined areas of the LV walls generate progenitors with distinct transcriptional 
+profiles that are committed to specific neuronal fates. Here, we assessed if such
+diversity of NSCs also exist in the adult common marmoset, a widely used primate 
+species in basic and clinical neuroscience research. We first investigated the 3D
+distributions of proliferative progenitors and committed neuroblasts in the
+marmoset forebrain. In addition to these maps, we assessed the spatial presence
+of divergent progenitor populations based on their expression of defined
+transcription factors, that is, Dlx2, Pax6, Tbr2, and Ngn2 which are
+differentially expressed by γ-aminobutyric acidergic versus glutamatergic
+progenitors in the adult rodent forebrain. In striking contrast to rodents,
+glutamatergic progenitors were only sparse in neonates and absent from the adult 
+LV, whilst present in the hippocampus. Our analyses highlight major differences
+in the diversity of NSCs of the marmoset LV compared with rodents and emphasize
+the need to address NSCs diversity in evolutionary higher order mammals
+concomitantly to rodents.
+
+DOI: 10.1093/cercor/bhs085 
+PMID: 22473896  [Indexed for MEDLINE]
+
+
+1741. PLoS One. 2012;7(3):e34383. doi: 10.1371/journal.pone.0034383. Epub 2012 Mar 28.
+
+The early postnatal nonhuman primate neocortex contains self-renewing multipotent
+neural progenitor cells.
+
+Homman-Ludiye J(1), Merson TD, Bourne JA.
+
+Author information: 
+(1)Australian Regenerative Medicine Institute, Monash University, Clayton,
+Victoria, Australia.
+
+The postnatal neocortex has traditionally been considered a non-neurogenic
+region, under non-pathological conditions. A few studies suggest, however, that a
+small subpopulation of neural cells born during postnatal life can differentiate 
+into neurons that take up residence within the neocortex, implying that postnatal
+neurogenesis could occur in this region, albeit at a low level. Evidence to
+support this hypothesis remains controversial while the source of putative neural
+progenitors responsible for generating new neurons in the postnatal neocortex is 
+unknown. Here we report the identification of self-renewing multipotent neural
+progenitor cells (NPCs) derived from the postnatal day 14 (PD14) marmoset monkey 
+primary visual cortex (V1, striate cortex). While neuronal maturation within V1
+is well advanced by PD14, we observed cells throughout this region that
+co-expressed Sox2 and Ki67, defining a population of resident proliferating
+progenitor cells. When cultured at low density in the presence of epidermal
+growth factor (EGF) and/or fibroblast growth factor 2 (FGF-2), dissociated V1
+tissue gave rise to multipotent neurospheres that exhibited the ability to
+differentiate into neurons, oligodendrocytes and astrocytes. While the capacity
+to generate neurones and oligodendrocytes was not observed beyond the third
+passage, astrocyte-restricted neurospheres could be maintained for up to 6
+passages. This study provides the first direct evidence for the existence of
+multipotent NPCs within the postnatal neocortex of the nonhuman primate. The
+potential contribution of neocortical NPCs to neural repair following injury
+raises exciting new possibilities for the field of regenerative medicine.
+
+DOI: 10.1371/journal.pone.0034383 
+PMCID: PMC3314641
+PMID: 22470566  [Indexed for MEDLINE]
+

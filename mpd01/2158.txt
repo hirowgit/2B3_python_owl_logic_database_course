@@ -1,0 +1,74 @@
+
+
+2158. J Neurosci. 2009 Apr 15;29(15):5009-21. doi: 10.1523/JNEUROSCI.0219-09.2009.
+
+Adaptable mechanisms that regulate the contrast response of neurons in the
+primate lateral geniculate nucleus.
+
+Camp AJ(1), Tailby C, Solomon SG.
+
+Author information: 
+(1)Discipline of Physiology, School of Medical Sciences and Bosch Institute, The 
+University of Sydney, New South Wales 2006, Australia.
+
+The response of the classical receptive field of visual neurons can be suppressed
+by stimuli that, when presented alone, cause no change in the discharge rate.
+This suppression reveals the presence of an extraclassical receptive field
+(ECRF). In recordings from the lateral geniculate nucleus (LGN) of a New World
+primate, the marmoset, we characterize the mechanisms that contribute to the ECRF
+by measuring their spatiotemporal tuning during prolonged exposure to a
+high-contrast grating (contrast adaptation). The ECRF was strongest in
+magnocellular cells, where contrast adaptation reduced suppression from the ECRF:
+adaptation of the ECRF transferred across spatial frequency, temporal frequency, 
+and orientation, but not across space. This implies that the ECRF of LGN cells
+comprises multiple adaptable mechanisms, each broadly tuned but spatially
+localized, and consistent with a retinal origin. Signals from the ECRF saturated 
+at high contrasts, and so adaptation of one part of the ECRF brought into its
+operating range signals from other parts of the visual field. Although the ECRF
+is adaptable, its major impact during contrast adaptation to a spatially extended
+pattern was to reduce visual response and hence reduce a neuron's susceptibility 
+to contrast adaptation; in normal viewing, a major role of the ECRF might be to
+protect visual sensitivity in scenes dominated by high contrast.
+
+DOI: 10.1523/JNEUROSCI.0219-09.2009 
+PMCID: PMC6665333
+PMID: 19369570  [Indexed for MEDLINE]
+
+
+2159. Am J Hum Biol. 2009 Nov-Dec;21(6):739-44. doi: 10.1002/ajhb.20920.
+
+Variations in male parenting behavior and physiology in the common marmoset.
+
+Ziegler TE(1), Prudom SL, Zahed SR.
+
+Author information: 
+(1)Wisconsin National Primate Research Center, University of Wisconsin, Madison, 
+Wisconsin 53715, USA. ziegler@primate.wisc.edu
+
+Infant survival and wellbeing is dependent upon good parenting skills. In some
+species of primates, fathers are necessary to ensure both positive developmental 
+and social outcomes for their offspring. Common marmosets and the related
+cotton-top tamarin monkeys provide extensive paternal care of multiple offspring 
+and are essential for infant survival. However, we have found significant
+variation in a father's motivation to respond to infant stimuli. Additionally,
+marmoset males who are experienced fathers are significantly more motivated to
+respond to infants and infant stimuli than adult males who have yet to be
+fathers. Expectant fathers appear to be preparing for their energetic role in
+infant care by responding with increases in multiple reproductive hormones and
+showing weight gain during their mate's pregnancy. Male marmosets have been shown
+to be hormonally responsive to scent signals. Males show increased testosterone
+shortly after smelling periovulatory scents and lower levels of testosterone
+following presentation of their own infant's scent. These two inverse
+testosterone responses combined indicate that paternal males have a flexible
+system of responding to socially relevant odor cues. Thus males can be ready to
+mate when their mate is fertile while continuing to be responsive to their
+infants when these two events occur simultaneously. A male's hormonal and
+physical responsiveness to parenting may be due to pair bonding between the male 
+and his mate. Examining the variability between males in their behavioral,
+physical, and hormonal responses to their mate's pregnancy, and infant stimuli
+provides the means for determining the mechanisms of good parenting in fathers.
+
+DOI: 10.1002/ajhb.20920 
+PMCID: PMC5030771
+PMID: 19367571  [Indexed for MEDLINE]
+

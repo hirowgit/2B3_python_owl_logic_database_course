@@ -1,0 +1,57 @@
+
+
+693. Sci Rep. 2018 May 1;8(1):6851. doi: 10.1038/s41598-018-25205-1.
+
+Experimental Zika Virus Infection in the Pregnant Common Marmoset Induces
+Spontaneous Fetal Loss and Neurodevelopmental Abnormalities.
+
+Seferovic M(1), Sánchez-San Martín C(2), Tardif SD(3), Rutherford J(4), Castro
+ECC(1), Li T(2), Hodara VL(3)(5), Parodi LM(3)(5), Giavedoni L(3)(5), Layne-Colon
+D(3), Tamhankar M(5), Yagi S(6), Martyn C(2), Reyes K(2), Suter MA(1), Aagaard
+KM(7), Chiu CY(8)(9), Patterson JL(10).
+
+Author information: 
+(1)Departments of Obstetrics and Gynecology, Molecular and Human Genetics, and
+Pathology and Laboratory Medicine at Baylor College of Medicine and Texas
+Children's Hospital, Houston, TX, 77030, USA.
+(2)Department of Laboratory Medicine, University of California, San Francisco,
+CA, 94143, USA.
+(3)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX, 78245, USA.
+(4)Department of Women, Children and Family Health Science, University of
+Illinois at Chicago, Chicago, IL, 60612, USA.
+(5)Department of Virology and Immunology, Texas Biomedical Research Institute,
+San Antonio, TX, 78245, USA.
+(6)California Department of Public Health, Richmond, CA, 94804, USA.
+(7)Departments of Obstetrics and Gynecology, Molecular and Human Genetics, and
+Pathology and Laboratory Medicine at Baylor College of Medicine and Texas
+Children's Hospital, Houston, TX, 77030, USA. aagaardt@bcm.edu.
+(8)Department of Laboratory Medicine, University of California, San Francisco,
+CA, 94143, USA. charles.chiu@ucsf.edu.
+(9)Department of Medicine/Infectious Diseases, University of California, San
+Francisco, CA, 94143, USA. charles.chiu@ucsf.edu.
+(10)Department of Virology and Immunology, Texas Biomedical Research Institute,
+San Antonio, TX, 78245, USA. jpatters@txbiomed.org.
+
+Erratum in
+    Sci Rep. 2018 Oct 26;8(1):16131.
+
+During its most recent outbreak across the Americas, Zika virus (ZIKV) was
+surprisingly shown to cause fetal loss and congenital malformations in acutely
+and chronically infected pregnant women. However, understanding the underlying
+pathogenesis of ZIKV congenital disease has been hampered by a lack of relevant
+in vivo experimental models. Here we present a candidate New World monkey model
+of ZIKV infection in pregnant marmosets that faithfully recapitulates human
+disease. ZIKV inoculation at the human-equivalent of early gestation caused an
+asymptomatic seroconversion, induction of type I/II interferon-associated genes
+and proinflammatory cytokines, and persistent viremia and viruria. Spontaneous
+pregnancy loss was observed 16-18 days post-infection, with extensive active
+placental viral replication and fetal neurocellular disorganization similar to
+that seen in humans. These findings underscore the key role of the placenta as a 
+conduit for fetal infection, and demonstrate the utility of marmosets as a highly
+relevant model for studying congenital ZIKV disease and pregnancy loss.
+
+DOI: 10.1038/s41598-018-25205-1 
+PMCID: PMC5931554
+PMID: 29717225  [Indexed for MEDLINE]
+

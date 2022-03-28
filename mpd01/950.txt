@@ -1,0 +1,91 @@
+
+
+950. J Neurophysiol. 2017 Feb 1;117(2):713-727. doi: 10.1152/jn.00476.2016. Epub 2016 
+Nov 23.
+
+Contextual effects of noise on vocalization encoding in primary auditory cortex.
+
+Ni R(1), Bender DA(1), Shanechi AM(1), Gamble JR(1), Barbour DL(2).
+
+Author information: 
+(1)Laboratory of Sensory Neuroscience and Neuroengineering, Department of
+Biomedical Engineering, Washington University in St. Louis, St. Louis, Missouri.
+(2)Laboratory of Sensory Neuroscience and Neuroengineering, Department of
+Biomedical Engineering, Washington University in St. Louis, St. Louis, Missouri
+dbarbour@wustl.edu.
+
+Robust auditory perception plays a pivotal function for processing behaviorally
+relevant sounds, particularly with distractions from the environment. The
+neuronal coding enabling this ability, however, is still not well understood. In 
+this study, we recorded single-unit activity from the primary auditory cortex
+(A1) of awake marmoset monkeys (Callithrix jacchus) while delivering conspecific 
+vocalizations degraded by two different background noises: broadband white noise 
+and vocalization babble. Noise effects on neural representation of target
+vocalizations were quantified by measuring the responses' similarity to those
+elicited by natural vocalizations as a function of signal-to-noise ratio. A
+clustering approach was used to describe the range of response profiles by
+reducing the population responses to a summary of four response classes (robust, 
+balanced, insensitive, and brittle) under both noise conditions. This clustering 
+approach revealed that, on average, approximately two-thirds of the neurons
+change their response class when encountering different noises. Therefore, the
+distortion induced by one particular masking background in single-unit responses 
+is not necessarily predictable from that induced by another, suggesting the low
+likelihood of a unique group of noise-invariant neurons across different
+background conditions in A1. Regarding noise influence on neural activities, the 
+brittle response group showed addition of spiking activity both within and
+between phrases of vocalizations relative to clean vocalizations, whereas the
+other groups generally showed spiking activity suppression within phrases, and
+the alteration between phrases was noise dependent. Overall, the variable
+single-unit responses, yet consistent response types, imply that primate A1
+performs scene analysis through the collective activity of multiple neurons.NEW &
+NOTEWORTHY: The understanding of where and how auditory scene analysis is
+accomplished is of broad interest to neuroscientists. In this paper, we
+systematically investigated neuronal coding of multiple vocalizations degraded by
+two distinct noises at various signal-to-noise ratios in nonhuman primates. In
+the process, we uncovered heterogeneity of single-unit representations for
+different auditory scenes yet homogeneity of responses across the population.
+
+Copyright © 2017 the American Physiological Society.
+
+DOI: 10.1152/jn.00476.2016 
+PMCID: PMC5296407
+PMID: 27881720  [Indexed for MEDLINE]
+
+
+951. Sci Rep. 2016 Nov 23;6:37489. doi: 10.1038/srep37489.
+
+Characterization of two distinct early post-entry blocks to HIV-1 in common
+marmoset lymphocytes.
+
+Pacheco B(1)(2), Menéndez-Arias L(1), Sodroski J(2)(3).
+
+Author information: 
+(1)Centro de Biología Molecular Severo Ochoa, Consejo Superior de Investigaciones
+Científicas and Universidad Autónoma de Madrid, Madrid, Spain.
+(2)Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute and
+Department of Microbiology and Immunobiology, Harvard Medical School, Boston, MA,
+USA.
+(3)Department of Immunology and Infectious Diseases, Harvard School of Public
+Health, Boston, MA, USA.
+
+In nature, primate lentiviruses infect humans and several Old World monkeys and
+apes. However, to date, lentiviruses infecting New World monkeys have not been
+described. We studied the susceptibility of common marmoset cells to HIV-1
+infection and observed the presence of post-entry blocks to the early phase of
+HIV-1 infection in peripheral blood lymphocytes (PBLs) and a B lymphocytic cell
+line (B-LCL). The blocks present in these cells are dominant and phenotypically
+different from each other. In PBLs, the block occurs at the level of reverse
+transcription, reducing the accumulation of early and late transcripts, similar
+to the block imposed by TRIM5α. However, we have found that marmoset TRIM5α does 
+not block HIV-1. In contrast, the restriction factor present in B-LCLs blocks
+HIV-1 replication at a later step, after nuclear entry, and inhibits integration.
+Additionally, we have identified an HIV-1 capsid mutant, N74D, that is able to
+escape the restriction in the marmoset B-LCLs. Our results suggest that the
+factors responsible for the blocks present in marmoset PBLs and B-LCLs are
+different. We propose the existence of at least two new restriction factors able 
+to block HIV-1 infection in marmoset lymphocytes.
+
+DOI: 10.1038/srep37489 
+PMCID: PMC5120322
+PMID: 27876849  [Indexed for MEDLINE]
+

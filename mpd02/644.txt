@@ -1,0 +1,61 @@
+
+
+644. Int J Mol Sci. 2018 Sep 17;19(9). pii: E2788. doi: 10.3390/ijms19092788.
+
+Standards for Deriving Nonhuman Primate-Induced Pluripotent Stem Cells, Neural
+Stem Cells and Dopaminergic Lineage.
+
+Yang G(1), Hong H(2), Torres A(3), Malloy KE(4)(5), Choudhury GR(6), Kim J(7),
+Daadi MM(8)(9).
+
+Author information: 
+(1)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX 78245-0549, USA. gyang@txbiomed.org.
+(2)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX 78245-0549, USA. HHong@txbiomed.org.
+(3)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX 78245-0549, USA. aatorres@txbiomed.org.
+(4)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX 78245-0549, USA. KMalloy@txbiomed.org.
+(5)Department of Radiology, Long School of Medicine, University of Texas Health
+San Antonio, San Antonio, TX 78229-3900, USA. KMalloy@txbiomed.org.
+(6)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX 78245-0549, USA. GChoudhury@txbiomed.org.
+(7)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX 78245-0549, USA. JKim@txbiomed.org.
+(8)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, TX 78245-0549, USA. mdaadi@txbiomed.org.
+(9)Department of Radiology, Long School of Medicine, University of Texas Health
+San Antonio, San Antonio, TX 78229-3900, USA. mdaadi@txbiomed.org.
+
+Humans and nonhuman primates (NHP) are similar in behavior and in physiology,
+specifically the structure, function, and complexity of the immune system. Thus, 
+NHP models are desirable for pathophysiology and pharmacology/toxicology studies.
+Furthermore, NHP-derived induced pluripotent stem cells (iPSCs) may enable
+transformative developmental, translational, or evolutionary studies in a field
+of inquiry currently hampered by the limited availability of research specimens. 
+NHP-iPSCs may address specific questions that can be studied back and forth
+between in vitro cellular assays and in vivo experimentations, an investigational
+process that in most cases cannot be performed on humans because of safety and
+ethical issues. The use of NHP model systems and cell specific in vitro models is
+evolving with iPSC-based three-dimensional (3D) cell culture systems and
+organoids, which may offer reliable in vitro models and reduce the number of
+animals used in experimental research. IPSCs have the potential to give rise to
+defined cell types of any organ of the body. However, standards for deriving
+defined and validated NHP iPSCs are missing. Standards for deriving high-quality 
+iPSC cell lines promote rigorous and replicable scientific research and likewise,
+validated cell lines reduce variability and discrepancies in results between
+laboratories. We have derived and validated NHP iPSC lines by confirming their
+pluripotency and propensity to differentiate into all three germ layers
+(ectoderm, mesoderm, and endoderm) according to standards and measurable limits
+for a set of marker genes. The iPSC lines were characterized for their potential 
+to generate neural stem cells and to differentiate into dopaminergic neurons.
+These iPSC lines are available to the scientific community. NHP-iPSCs fulfill a
+unique niche in comparative genomics to understand gene regulatory principles
+underlying emergence of human traits, in infectious disease pathogenesis, in
+vaccine development, and in immunological barriers in regenerative medicine.
+
+DOI: 10.3390/ijms19092788 
+PMCID: PMC6164693
+PMID: 30227600  [Indexed for MEDLINE]
+

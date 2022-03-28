@@ -1,0 +1,84 @@
+
+
+914. Neurosci Res. 2017 Jul;120:60-65. doi: 10.1016/j.neures.2017.02.005. Epub 2017
+Feb 17.
+
+Use of human methylation arrays for epigenome research in the common marmoset
+(Callithrix jacchus).
+
+Ueda J(1), Murata Y(2), Bundo M(3), Oh-Nishi A(4), Kassai H(5), Ikegame T(6),
+Zhao Z(6), Jinde S(6), Aiba A(5), Suhara T(4), Kasai K(6), Kato T(1), Iwamoto
+K(7).
+
+Author information: 
+(1)Laboratory for Molecular Dynamics of Mental Disorders, RIKEN Brain Science
+Institute, 2-1 Hirosawa, Wako City, Saitama, 351-0198, Japan.
+(2)Department of Neuropsychiatry, Graduate School of Medicine, The University of 
+Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8655, Japan; Department of Molecular
+Brain Science, Graduate School of Life Sciences, Kumamoto University, 1-1-1
+Honjo, Kumamoto City, Kumamoto, 860-8556, Japan.
+(3)Department of Molecular Brain Science, Graduate School of Life Sciences,
+Kumamoto University, 1-1-1 Honjo, Kumamoto City, Kumamoto, 860-8556, Japan.
+(4)Department of Functional Brain Imaging, National Institute of Radiological
+Sciences, National Institute for Quantum and Radiological Sciences and
+Technology, 4-9-1 Anagawa, Inage-ku, Chiba-shi, Chiba, 263-8555, Japan.
+(5)Laboratory of Animal Resources, Center for Disease Biology and Integrative
+Medicine, Graduate School of Medicine, The University of Tokyo, 7-3-1 Hongo,
+Bunkyo-ku, Tokyo, 113-8655, Japan.
+(6)Department of Neuropsychiatry, Graduate School of Medicine, The University of 
+Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8655, Japan.
+(7)Department of Molecular Brain Science, Graduate School of Life Sciences,
+Kumamoto University, 1-1-1 Honjo, Kumamoto City, Kumamoto, 860-8556, Japan.
+Electronic address: iwamotok@kumamoto-u.ac.jp.
+
+We examined the usefulness of commercially available DNA methylation arrays
+designed for the human genome (Illumina HumanMethylation450 and MethylationEPIC) 
+for high-throughput epigenome analysis of the common marmoset, a nonhuman primate
+suitable for research on neuropsychiatric disorders. From among the probes on the
+methylation arrays, we selected those available for the common marmoset. DNA
+methylation data were obtained from genomic DNA extracted from the frontal cortex
+and blood samples of adult common marmosets as well as the frontal cortex of
+neonatal marmosets. About 10% of the probes on the arrays were estimated to be
+useful for DNA methylation assay in the common marmoset. Strong correlations
+existed between human and marmoset DNA methylation data. Illumina methylation
+arrays are useful for epigenome research using the common marmoset.
+
+Copyright © 2017 Elsevier Ireland Ltd and Japan Neuroscience Society. All rights 
+reserved.
+
+DOI: 10.1016/j.neures.2017.02.005 
+PMID: 28215819  [Indexed for MEDLINE]
+
+
+915. Biol Reprod. 2017 Feb 1;96(2):277-287. doi: 10.1095/biolreprod.116.146514.
+
+Assisted reproductive technologies in the common marmoset: an integral species
+for developing nonhuman primate models of human diseases.
+
+Kropp J(1), Di Marzo A(1), Golos T(1)(2)(3).
+
+Author information: 
+(1)Wisconsin National Primate Research Center, University of Wisconsin-Madison,
+Madison, Wisconsin, USA.
+(2)Department of Comparative Biosciences, School of Veterinary Medicine,
+University of Wisconsin-Madison, Madison, Wisconsin, USA.
+(3)Department of Obstetrics and Gynecology, School of Medicine and Public Health,
+University of Wisconsin-Madison, Madison, Wisconsin, USA.
+
+Generation of nonhuman primate models of human disease conditions will foster the
+development of novel therapeutic strategies. Callithrix jacchus, or the common
+marmoset, is a New World, nonhuman primate species that exhibits great
+reproductive fitness in captivity with an ovarian cycle that can be easily
+managed with pharmacological agents. This characteristic, among others, provides 
+an opportunity to employ assisted reproductive technologies to generate embryos
+that can be genetically manipulated to create a variety of nonhuman primate
+models for human disease. Here, we review methods to synchronize the marmoset
+ovarian cycle and stimulate oocyte donors, and compare various protocols for in
+vitro production of embryos. In light of advances in genomic editing, recent
+approaches used to generate transgenic or genetically edited embryos in the
+marmoset and also future perspective are reviewed.
+
+DOI: 10.1095/biolreprod.116.146514 
+PMCID: PMC5967451
+PMID: 28203717  [Indexed for MEDLINE]
+

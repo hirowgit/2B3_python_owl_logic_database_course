@@ -1,0 +1,68 @@
+
+
+2791. J Biol Chem. 2004 Oct 22;279(43):44442-59. Epub 2004 Aug 9.
+
+Model of glycoprotein hormone receptor ligand binding and signaling.
+
+Moyle WR(1), Xing Y, Lin W, Cao D, Myers RV, Kerrigan JE, Bernard MP.
+
+Author information: 
+(1)Department of OB-GYN, Robert Wood Johnson (Rutgers) Medical School,
+Piscataway, New Jersey 08854, USA. moyle@umdnj.edu
+
+Studies described here were initiated to develop a model of glycoprotein hormone 
+receptor structure and function. We found that the region that links the lutropin
+receptor leucine-rich repeat domain (LRD) to its transmembrane domain (TMD) has
+substantial roles in ligand binding and signaling, hence we term it the signaling
+specificity domain (SSD). Theoretical considerations indicated the short SSDs in 
+marmoset lutropin and salmon follitropin receptors have KH domain folds. We
+assembled models of lutropin, follitropin, and thyrotropin receptors by aligning 
+models of their LRD, TMD, and shortened SSD in a manner that explains how
+substitutions in follitropin and thyrotropin receptors distant from their
+apparent ligand binding sites enable them to recognize lutropins. In these
+models, the SSD is parallel to the concave surface of the LRD and makes extensive
+contacts with TMD outer loops 1 and 2. The LRD appears to contact TMD outer loop 
+3 and a few residues in helices 1, 5, 6, and 7. We propose that signaling results
+from contacts of the ligands with the SSD and LRD that alter the LRD, which then 
+moves TMD helices 6 and 7. The positions of the LRD and SSD support the notion
+that the receptor can be activated by hormones that dock with these domains in
+either of two different orientations. This would account for the abilities of
+some ligands and ligand chimeras to bind multiple receptors and for some
+receptors to bind multiple ligands. This property of the receptor may have
+contributed significantly to ligand-receptor co-evolution.
+
+DOI: 10.1074/jbc.M406948200 
+PMID: 15304493  [Indexed for MEDLINE]
+
+
+2792. J Gen Virol. 2004 Sep;85(Pt 9):2525-2533. doi: 10.1099/vir.0.80036-0.
+
+GB virus B infection of the common marmoset (Callithrix jacchus) and associated
+liver pathology.
+
+Jacob JR(1), Lin KC(2), Tennant BC(1), Mansfield KG(2).
+
+Author information: 
+(1)Departments of Clinical Sciences, College of Veterinary Medicine, Cornell
+University, Ithaca, NY 14853, USA.
+(2)Division of Clinical Research, New England Regional Primate Research Center,
+Harvard Medical School, PO Box 9102, One Pine Hill Drive, Southborough, MA
+01772-9102, USA.
+
+GB virus B (GBV-B) is a flavivirus that is related closely to hepatitis C virus
+(HCV) and induces an acute hepatitis when inoculated into several species of New 
+World primates. Common marmosets (Callithrix jacchus) are a widely available,
+non-endangered primate species that is susceptible to GBV-B infection and
+develops a characteristic acute hepatitis. Here, animals were found to be
+susceptible to serially passaged serum and GBV-B transcripts. Hepatic pathology
+and peripheral viraemia could be quantified biochemically, immunophenotypically
+and morphologically, and persisted for periods of up to 6 months in some animals.
+Hepatitis was characterized by a marked influx of CD3+ CD8+ T lymphocytes and
+CD20+ B cells within the first 2 months of primary infection. The results of this
+study document the marmoset as another small, non-human primate species in which 
+the pathogenesis of GBV-B can be studied and used as a surrogate model of HCV
+infection for investigation of pathogenesis and antiviral drug development.
+
+DOI: 10.1099/vir.0.80036-0 
+PMID: 15302946  [Indexed for MEDLINE]
+

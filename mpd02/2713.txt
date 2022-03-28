@@ -1,0 +1,36 @@
+
+
+2713. J Neurosci. 2005 Mar 9;25(10):2490-503.
+
+Plasticity in primary auditory cortex of monkeys with altered vocal production.
+
+Cheung SW(1), Nagarajan SS, Schreiner CE, Bedenbaugh PH, Wong A.
+
+Author information: 
+(1)Coleman Memorial Laboratory and W. M. Keck Center for Integrative
+Neuroscience, Department of Otolaryngology-Head and Neck Surgery, University of
+California, San Francisco, California 94143-0342, USA. scheung@ohns.ucsf.edu
+
+Response properties of primary auditory cortical neurons in the adult common
+marmoset monkey (Callithrix jacchus) were modified by extensive exposure to
+altered vocalizations that were self-generated and rehearsed frequently. A
+laryngeal apparatus modification procedure permanently lowered the frequency
+content of the native twitter call, a complex communication vocalization
+consisting of a series of frequency modulation (FM) sweeps. Monkeys vocalized
+shortly after this procedure and maintained voicing efforts until physiological
+evaluation 5-15 months later. The altered twitter calls improved over time, with 
+FM sweeps approaching but never reaching the normal spectral range. Neurons with 
+characteristic frequencies <4.3 kHz that had been weakly activated by native
+twitter calls were recruited to encode self-uttered altered twitter
+vocalizations. These neurons showed a decrease in response magnitude and an
+increase in temporal dispersion of response timing to twitter call and parametric
+FM stimuli but a normal response profile to pure tone stimuli. Tonotopic maps in 
+voice-modified monkeys were not distorted. These findings suggest a previously
+unrecognized form of cortical plasticity that is specific to higher-order
+processes involved in the discrimination of more complex sounds, such as
+species-specific vocalizations.
+
+DOI: 10.1523/JNEUROSCI.5289-04.2005 
+PMCID: PMC4060626
+PMID: 15758157  [Indexed for MEDLINE]
+

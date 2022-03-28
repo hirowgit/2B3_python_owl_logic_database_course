@@ -1,0 +1,76 @@
+
+
+2215. J Physiol. 2008 Dec 15;586(24):5947-67. doi: 10.1113/jphysiol.2008.161893. Epub
+2008 Oct 27.
+
+Transmission of blue (S) cone signals through the primate lateral geniculate
+nucleus.
+
+Tailby C(1), Szmajda BA, Buzás P, Lee BB, Martin PR.
+
+Author information: 
+(1)National Vision Research Institute of Australia, Corner of Keppel and Cardigan
+Streets, Carlton, Victoria 3053, Australia.
+
+This study concerns the transmission of short-wavelength-sensitive (S) cone
+signals through the primate dorsal lateral geniculate nucleus. The principal cell
+classes, magnocellular (MC) and parvocellular (PC), are traditionally segregated 
+into on- and off-subtypes on the basis of the sign of their response to luminance
+variation. Cells dominated by input from S-cones ('blue-on and blue-off') are
+less frequently encountered and their properties are less well understood. Here
+we characterize the spatial and chromatic properties of a large sample of blue-on
+and blue-off neurons and contrast them with those of PC and MC neurons. The
+results confirm that blue-on and blue-off cells have larger receptive fields than
+PC and MC neurons at equivalent eccentricities. Relative to blue-on cells,
+blue-off cells are less sensitive to S-cone contrast, have larger receptive
+fields, and show more low-pass spatial frequency tuning. Thus, blue-on and
+blue-off neurons lack the functional symmetry characteristic of on- and
+off-subtypes in the MC and PC pathways. The majority of MC and PC cells received 
+no detectible input from S-cones. Where present, input from S-cones tended to
+provide weak inhibition to PC cells. All cell types showed evidence of a
+suppressive extra-classical receptive field driven largely or exclusively by
+ML-cones. These data indicate that S-cone signals are isolated to supply the
+classical receptive field mechanisms of blue-on and blue-off cells in the LGN,
+and that the low spatial precision of S-cone vision has origins in both classical
+and extraclassical receptive field properties of subcortical pathways.
+
+DOI: 10.1113/jphysiol.2008.161893 
+PMCID: PMC2655435
+PMID: 18955378  [Indexed for MEDLINE]
+
+
+2216. Swiss Med Wkly. 2008 Nov 29;138(47-48):692-707. doi: /aop/smw-aop12283.
+
+Autoantibodies in inflammatory demyelinating diseases of the central nervous
+system.
+
+Lalive PH(1).
+
+Author information: 
+(1)Department of Clinical Neurosciences, Division of Neurology, Geneva University
+Hospital, Geneva, Switzerland. patrice.lalive@hcuge.ch
+
+The determination of disease-specific autoantibodies (Abs) is a challenge in any 
+autoimmune disease. The significance of Abs detected in inflammatory
+demyelinating diseases (IDD) of the central nervous system (CNS), such as
+multiple sclerosis (MS), is still unclear. Histopathological reports have
+demonstrated that a humoral (Abs)-mediated pattern of demyelination is detected
+in >50% of MS patients and is consistently associated with active demyelination. 
+The observation that these patients specifically respond to plasmapheresis
+reinforces the hypothesis of a specific humoral MS subtype. One of the most
+intensively studied antigen targets in MS is a glycoprotein of the myelin sheath 
+called the Myelin Oligodendrocyte Glycoprotein (MOG). Recent advances have shown 
+that epitope specificity of MOG is crucial in terms of specificity of the Ab
+response. Several other auto-Abs, including anti-myelin, oligodendrocyte and
+neuronal Abs have been studied in MS. These auto-Abs may have pathogenic or
+protective properties, but could also have no functional role. Recently, the
+demonstration of a highly specific auto-Ab in an IDD of the CNS called
+neuromyelitis optica (NMO), directed against the aquaporin-4 (AQP-4) located at
+the blood brain barrier (BBB), has allowed a refinement of the diagnostic
+criteria of NMO and classification of this disease as an autoimmune
+channelopathy. These recent advances have reinforced the interest in tracking the
+role of the humoral response in the different IDD of the CNS.
+
+DOI: /aop/smw-aop12283 
+PMID: 18951202  [Indexed for MEDLINE]
+

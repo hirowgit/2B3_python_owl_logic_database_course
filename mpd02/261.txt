@@ -1,0 +1,53 @@
+
+
+261. Food Microbiol. 2020 Dec;92:103588. doi: 10.1016/j.fm.2020.103588. Epub 2020 Jun 
+27.
+
+A novel staphylococcal enterotoxin SE02 involved in a staphylococcal food
+poisoning outbreak that occurred in Tokyo in 2004.
+
+Suzuki Y(1), Ono HK(2), Shimojima Y(3), Kubota H(3), Kato R(3), Kakuda T(4),
+Hirose S(5), Hu DL(2), Nakane A(6), Takai S(4), Sadamasu K(3).
+
+Author information: 
+(1)Laboratory of Animal Hygiene, Kitasato University School of Veterinary
+Medicine, Higashi 23-35-1, Towada, Aomori, 034-8628, Japan; Department of
+Microbiology, Tokyo Metropolitan Institute of Public Health, Hyakunin-cho 3-24-1,
+Shinjuku, Tokyo, 169-0073, Japan. Electronic address:
+ysuzuki@vmas.kitasato-u.ac.jp.
+(2)Laboratory of Zoonoses, Kitasato University School of Veterinary Medicine,
+Higashi 23-35-1, Towada, Aomori, 034-8628, Japan.
+(3)Department of Microbiology, Tokyo Metropolitan Institute of Public Health,
+Hyakunin-cho 3-24-1, Shinjuku, Tokyo, 169-0073, Japan.
+(4)Laboratory of Animal Hygiene, Kitasato University School of Veterinary
+Medicine, Higashi 23-35-1, Towada, Aomori, 034-8628, Japan.
+(5)Department of Microbiology and Immunology, Hirosaki University Graduate School
+of Medicine, Zaifu-cho 5, Hirosaki, Aomori, 036-8562, Japan.
+(6)Department of Microbiology and Immunology, Hirosaki University Graduate School
+of Medicine, Zaifu-cho 5, Hirosaki, Aomori, 036-8562, Japan; Department of
+Biopolymer and Health Science, Hirosaki University Graduate School of Medicine,
+Zaifu-cho 5, Hirosaki, Aomori, 036-8562, Japan.
+
+Staphylococcal enterotoxins (SEs) are extracellular proteins, produced mainly by 
+Staphylococcus aureus, which cause staphylococcal food poisoning (SFP) when
+ingested. Here, a novel SE was identified from two strains, which were identified
+as the causative microbes of the SFP outbreak that occurred in Tokyo in 2004.
+Both strains harbored the SEA gene, but its production was lower than that of
+other SEA-producing SFP isolates. Whole-genome sequencing analysis demonstrated
+that both strains harbored a SE-like gene besides sea. Phylogenetic analysis
+revealed that the amino acid sequence deduced from the SE-like gene belonged to
+the SEB group. Therefore, this gene was presumed to be a novel SE gene and termed
+"SE02." The stability of SE02 against heating and proteolytic digestions was a
+little different from that of SEA. SE02 has both superantigenic and emetic
+bioactivities. Namely, SE02 activated mouse splenocytes and exhibited emetic
+activity in the common marmoset. SE02 mRNA was highly expressed in both isolates 
+during the exponential phase of cultivation. In addition, SE02 protein was
+produced at 20 °C and 25 °C, which reflects the actual situation of SFP. SE02
+appears to be a novel emetic toxin that was likely the causative toxin in
+combination with SEA in the SFP outbreak.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fm.2020.103588 
+PMID: 32950172  [Indexed for MEDLINE]
+

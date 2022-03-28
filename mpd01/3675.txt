@@ -1,0 +1,71 @@
+
+
+3675. Endocrinology. 1997 Jun;138(6):2481-90.
+
+Cloning and functional expression of the luteinizing hormone receptor
+complementary deoxyribonucleic acid from the marmoset monkey testis: absence of
+sequences encoding exon 10 in other species.
+
+Zhang FP(1), Rannikko AS, Manna PR, Fraser HM, Huhtaniemi IT.
+
+Author information: 
+(1)Department of Physiology, University of Turku, Finland.
+
+Based on sequence homologies among the human, porcine, rat, and mouse genes for
+the LH receptor (LHR), overlapping partial fragments of LHR complementary DNAs
+(cDNAs) were multiplied from marmoset monkey testicular RNA using reverse
+transcription-PCR. Ligations of the individual cDNA fragments generated a
+full-length monkey LHR cDNA (2031 bp) containing the complete amino acid-coding
+sequence (676 amino acids). Northern hybridization analysis of monkey testicular 
+RNA, using a complementary RNA probe corresponding to the full-length cDNA,
+demonstrated major transcripts of 5.5 and 1.4 kilobases and minor ones of 4.0,
+2.7, and 1.9 kilobases. Sequence analysis of the monkey LHR cDNA revealed a
+striking feature, i.e. the absence of an 81-bp nucleotide sequence corresponding 
+to exon 10, present in the LHR cDNAs of all other species studied to date. The
+monkey LHR cDNA displayed 83-94% overall sequence homology with the other
+mammalian LHR cDNAs. Reverse transcription-PCR with human exon 10-specific
+primers demonstrated the total absence of this sequence from the monkey LHR
+messenger RNA. Southern hybridization of monkey genomic DNA using a human exon 10
+probe demonstrated its presence in the monkey gene and that it is totally spliced
+out from the primary transcript. COS cells transfected with the monkey LHR cDNA
+showed similar high affinity (Kd = 0.25 nmol/liter) of [125I]iodo-hCG binding as 
+those transfected with human LHR cDNA (Kd = 0.20 nmol/liter). The cells
+expressing the recombinant monkey and human LHR displayed similar responses of
+extracellular cAMP and inositol trisphosphate to hCG. In conclusion, marmoset
+monkey LHR seems to lack the sequence corresponding to exon 10 of the LHR gene in
+other mammalian species. The truncation does not alter LHR function, as the
+monkey receptor protein bound hCG and evoked cAMP and inositol trisphosphate
+responses comparable to those of the human LHR containing the exon 10-encoded
+structure. As the sequence homologous to exon 10 is missing in the other two
+glycoprotein receptors, i.e. those of FSH and TSH, this extra exon is apparently 
+inserted into the LHR messenger RNA of some species during evolution from
+intronic sequences by a change in alternative splicing.
+
+DOI: 10.1210/endo.138.6.5196 
+PMID: 9165039  [Indexed for MEDLINE]
+
+
+3676. J Antibiot (Tokyo). 1997 May;50(5):390-4.
+
+Biological activities of novel zaragozic acids, the potent inhibitors of squalene
+synthase, produced by the fungus, Mollisia sp. SANK 10294.
+
+Tanimoto T(1), Hamano K, Onodera K, Hosoya T, Kakusaka M, Hirayama T, Shimada Y, 
+Koga T, Tsujita Y.
+
+Author information: 
+(1)Pharmacology and Molecular Biology Research Laboratories, Sankyo Co., Ltd.,
+Tokyo, Japan.
+
+Four novel zaragozic acids, F-10863A, B, C and D, were isolated from a culture
+broth of the fungus Mollisia sp. SANK 10294. F-10863 compounds contain a
+4,6,7-trihydroxy-2,8-dioxyobicyclo-[3.2.1]octane-3,4,5-tricarboxyl ic acid core
+like previously reported zaragozic acids, but the structures of the side chains
+are different. Recently, it was found that F-10863A is identical to zaragozic
+acid D3, while the other three are novel compounds. F-10863 compounds are potent 
+inhibitors of squalene synthase like previously reported zaragozic acids, and,
+furthermore, they exhibit serum cholesterol-lowering activity in vivo.
+
+DOI: 10.7164/antibiotics.50.390 
+PMID: 9207908  [Indexed for MEDLINE]
+

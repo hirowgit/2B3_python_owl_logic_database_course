@@ -1,0 +1,90 @@
+
+
+602. Development. 2018 Nov 9;145(21). pii: dev167833. doi: 10.1242/dev.167833.
+
+Single cell transcriptome analysis of human, marmoset and mouse embryos reveals
+common and divergent features of preimplantation development.
+
+Boroviak T(1)(2), Stirparo GG(1), Dietmann S(1), Hernando-Herraez I(3), Mohammed 
+H(3), Reik W(3), Smith A(1)(4), Sasaki E(5), Nichols J(1)(2), Bertone P(6).
+
+Author information: 
+(1)Wellcome Trust - Medical Research Council Stem Cell Institute, University of
+Cambridge, Tennis Court Road, Cambridge CB2 1QR, UK.
+(2)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Tennis Court Road, Cambridge CB2 3EG, UK.
+(3)Epigenetics Programme, Babraham Institute, Cambridge CB22 3AT, UK.
+(4)Department of Biochemistry, University of Cambridge, Tennis Court Road,
+Cambridge CB2 1GA, UK.
+(5)Central Institute for Experimental Animals, Department of Applied
+Developmental Biology, 3-25-12 Tonomachi, Kawasaki-ku, Kawasaki 210-0821, Japan.
+(6)Wellcome Trust - Medical Research Council Stem Cell Institute, University of
+Cambridge, Tennis Court Road, Cambridge CB2 1QR, UK bertone@stemcells.cam.ac.uk.
+
+The mouse embryo is the canonical model for mammalian preimplantation
+development. Recent advances in single cell profiling allow detailed analysis of 
+embryogenesis in other eutherian species, including human, to distinguish
+conserved from divergent regulatory programs and signalling pathways in the
+rodent paradigm. Here, we identify and compare transcriptional features of human,
+marmoset and mouse embryos by single cell RNA-seq. Zygotic genome activation
+correlates with the presence of polycomb repressive complexes in all three
+species, while ribosome biogenesis emerges as a predominant attribute in primate 
+embryos, supporting prolonged translation of maternally deposited RNAs. We find
+that transposable element expression signatures are species, stage and lineage
+specific. The pluripotency network in the primate epiblast lacks certain
+regulators that are operative in mouse, but encompasses WNT components and genes 
+associated with trophoblast specification. Sequential activation of GATA6, SOX17 
+and GATA4 markers of primitive endoderm identity is conserved in primates.
+Unexpectedly, OTX2 is also associated with primitive endoderm specification in
+human and non-human primate blastocysts. Our cross-species analysis demarcates
+both conserved and primate-specific features of preimplantation development, and 
+underscores the molecular adaptability of early mammalian embryogenesis.
+
+© 2018. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/dev.167833 
+PMCID: PMC6240320
+PMID: 30413530  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interestsThe authors declare no
+competing or financial interests.
+
+
+603. J Toxicol Sci. 2018;43(11):685-695. doi: 10.2131/jts.43.685.
+
+Approaches of validation of a 2-week combined repeated oral dose toxicity study
+with plasma micro sampling toxicokinetics (PMS-TK) in common marmosets.
+
+Mochizuki H(1), Murota N(1), Sato SI(1), Nii K(2), Kouhei Y(2), Taniguchi M(2),
+Inoue R(3), Nishime C(3), Tsutsumi H(3).
+
+Author information: 
+(1)Ina Research Inc.
+(2)Sumika Chemical Analysis Service, Ltd.
+(3)Central Institute for Experimental Animals.
+
+We investigated the viability of a combined repeated dose toxicity study,
+including toxicokinetics (TK), in common marmosets according to the ICH-S4,
+ICH-S3A and ICH-S7A Guidelines using valsartan as test article whose non-clinical
+repeated dose toxicity studies had been conducted using this species for
+regulatory purpose. Valsartan was administered orally to 3 animals/sex at 200
+mg/kg/day for 2 weeks. In addition to the routine parameters in repeated dose
+toxicity studies, safety pharmacology parameters (examinations of the central
+nervous, respiratory and cardiovascular systems) were also evaluated. The Plasma 
+Micro Sampling Toxicokinetics (PMS-TK) method required ultrasensitive
+quantitation, was employed to evaluate the relationship between toxic changes and
+plasma concentrations as well as the effects of frequent blood sampling in
+individual animals. In valsartan, toxic findings (a deteriorated physical
+condition; moribundity of one male and one female on Day 14; sporadic vomitus;
+decreases in body weights and food consumption; decreases in erythrocytic
+parameters; and renal changes such as an increase in urea nitrogen, dilation of
+the tubules and hypertrophy of the tubular epithelium) were similar and plasma
+concentrations comparable to the results in the approval information.
+Furthermore, no side effects caused by frequent blood sampling were confirmed in 
+the negative control group. Consequently, a combined repeated dose toxicity study
+including TK analysis using the PMS-TK method is viable in common marmosets and
+contributes to animal welfare.
+
+DOI: 10.2131/jts.43.685 
+PMID: 30405001  [Indexed for MEDLINE]
+

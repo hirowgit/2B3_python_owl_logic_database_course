@@ -1,0 +1,36 @@
+
+
+2778. Nucleic Acids Res. 2004 Sep 15;32(16):e130.
+
+Improving specificity of DNA hybridization-based methods.
+
+Chalaya T(1), Gogvadze E, Buzdin A, Kovalskaya E, Sverdlov ED.
+
+Author information: 
+(1)Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry, Moscow 117871,
+Russia.
+
+Methods based on DNA reassociation in solution with the subsequent PCR
+amplification of certain hybrid molecules, such as coincidence cloning and
+subtractive hybridization, all suffer from a common imperfection:
+cross-hybridization between various types of paralogous repetitive DNA fragments.
+Although the situation can be slightly improved by the addition of
+repeat-specific competitor DNA into the hybridization mixture, the
+cross-hybridization outcome is a significant number of background chimeric clones
+in resulting DNA libraries. In order to overcome this challenge, we developed a
+technique called mispaired DNA rejection (MDR), which utilizes a treatment of
+resulting reassociated DNA with mismatch-specific nucleases. We examined the MDR 
+efficiency using cross-hybridization of complex, whole genomic mixtures derived
+from human and chimpanzee genomes, digested with frequent-cutter restriction
+enzyme. We show here that both single-stranded DNA-specific and mismatched
+double-stranded DNA-specific nucleases can be used for MDR separately or in
+combination, reducing the background level from 60 to 4% or lower. The technique 
+presented here is of universal usefulness and can be applied to both cDNA and
+genomic DNA subtractions of very complex DNA mixtures. MDR is also useful for the
+genome-wide recovery of highly conserved DNA sequences, as we demonstrate by
+comparing human and pygmy marmoset genomes.
+
+DOI: 10.1093/nar/gnh125 
+PMCID: PMC519126
+PMID: 15371554  [Indexed for MEDLINE]
+

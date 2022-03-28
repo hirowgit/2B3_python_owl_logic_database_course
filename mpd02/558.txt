@@ -1,0 +1,42 @@
+
+
+558. Proc Natl Acad Sci U S A. 2019 Feb 19;116(8):3239-3244. doi:
+10.1073/pnas.1816653116. Epub 2019 Feb 4.
+
+Local homogeneity of tonotopic organization in the primary auditory cortex of
+marmosets.
+
+Zeng HH(1)(2), Huang JF(1)(2), Chen M(1), Wen YQ(1), Shen ZM(3), Poo MM(3).
+
+Author information: 
+(1)Institute of Neuroscience, State Key Laboratory of Neuroscience, Key
+Laboratory of Primate Neurobiology, Center for Excellence in Brain Science and
+Intelligence Technology, Chinese Academy of Sciences, Shanghai 200031, People's
+Republic of China.
+(2)University of Chinese Academy of Sciences, Beijing 100049, People's Republic
+of China.
+(3)Institute of Neuroscience, State Key Laboratory of Neuroscience, Key
+Laboratory of Primate Neurobiology, Center for Excellence in Brain Science and
+Intelligence Technology, Chinese Academy of Sciences, Shanghai 200031, People's
+Republic of China; zmshen@ion.ac.cn mpoo@ion.ac.cn.
+
+Marmoset has emerged as a useful nonhuman primate species for studying brain
+structure and function. Previous studies on the mouse primary auditory cortex
+(A1) showed that neurons with preferential frequency-tuning responses are mixed
+within local cortical regions, despite a large-scale tonotopic organization. Here
+we found that frequency-tuning properties of marmoset A1 neurons are highly
+uniform within local cortical regions. We first defined the tonotopic map of A1
+using intrinsic optical imaging and then used in vivo two-photon calcium imaging 
+of large neuronal populations to examine the tonotopic preference at the
+single-cell level. We found that tuning preferences of layer 2/3 neurons were
+highly homogeneous over hundreds of micrometers in both horizontal and vertical
+directions. Thus, marmoset A1 neurons are distributed in a tonotopic manner at
+both macro- and microscopic levels. Such organization is likely to be important
+for the organization of auditory circuits in the primate brain.
+
+DOI: 10.1073/pnas.1816653116 
+PMCID: PMC6386663
+PMID: 30718428  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

@@ -1,0 +1,34 @@
+
+
+3087. Neurobiol Dis. 2002 Mar;9(2):160-72.
+
+Marmoset fine B cell and T cell epitope specificities mapped onto a homology
+model of the extracellular domain of human myelin oligodendrocyte glycoprotein.
+
+Mesleh MF(1), Belmar N, Lu CW, Krishnan VV, Maxwell RS, Genain CP, Cosman M.
+
+Author information: 
+(1)Biology and Biotechnology Research, Lawrence Livermore National Laboratory,
+California 94551, USA.
+
+Aberrant association of autoantibodies with myelin oligodendrocyte glycoprotein
+(MOG), an integral membrane protein of the central nervous system (CNS) myelin,
+has been implicated in the pathogenesis of multiple sclerosis (MS). Sensitization
+of nonhuman primates (Callithrix jacchus marmosets) against the nonglycosylated, 
+recombinant N-terminal domain of rat MOG (residues 1-125) reproduces an MS-like
+disease in which MOG-specific autoantibodies directly mediate demyelination. To
+assess the interrelationship between MOG structure and the induction of
+autoimmune CNS diseases and to enable structure-based rational design of
+therapeutics, a homology model of human MOG(2-120) was constructed based on
+consensus residues found in immunoglobulin superfamily variable-type proteins
+having known structures. Possible sites for posttranslational modifications and
+dimerization have also been identified and analyzed. The B cell and T cell
+epitopes have been identified in rat MOG-immunized marmosets, and these sequences
+are observed to map primarily onto accessible regions in the model, which may
+explain their ability to generate potent antibody responses.
+
+(c)2002 Elsevier Science (USA).
+
+DOI: 10.1006/nbdi.2001.0474 
+PMID: 11895369  [Indexed for MEDLINE]
+

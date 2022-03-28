@@ -1,0 +1,31 @@
+
+
+2924. Virology. 2003 Jun 20;311(1):72-80.
+
+Comparison of tamarins and marmosets as hosts for GBV-B infections and the effect
+of immunosuppression on duration of viremia.
+
+Lanford RE(1), Chavez D, Notvall L, Brasky KM.
+
+Author information: 
+(1)Department of Virology and Immunology, Southwest National Primate Research
+Center, and Southwest Foundation for Biomedical Research, San Antonio, TX 78227, 
+USA. rlanford@icarus.sfbr.org
+
+GBV-B virus is a close relative to hepatitis C virus (HCV) that causes hepatitis 
+in tamarins, and thus, is an attractive surrogate model for HCV. In this study,
+we demonstrate that the host range of GBV-B extends to the common marmoset with
+an infection profile similar to that observed for tamarins. Marmoset hepatocytes 
+were susceptible to in vitro infection with GBV-B. Virus was efficiently secreted
+into the medium, and approximately 25% of hepatocytes were positive for NS3
+staining. In an attempt to induce persistent infections, tamarins were
+immunosuppressed with FK506 and inoculated with GBV-B. Although no chronic
+infections were induced, the duration of viremia was increased in most animals.
+In one animal, the duration of viremia was extended to 46 weeks, but viral
+clearance occurred 18 weeks after stopping FK506 therapy. The greater
+availability of marmosets in comparison to tamarins will greatly facilitate
+future research efforts with this model.
+
+DOI: 10.1016/s0042-6822(03)00193-4 
+PMID: 12832204  [Indexed for MEDLINE]
+

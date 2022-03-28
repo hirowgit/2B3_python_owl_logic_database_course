@@ -1,0 +1,33 @@
+
+
+2230. Genet Mol Res. 2008 Jul 29;7(3):663-78.
+
+Evolution of the SEC1 gene in New World monkey lineages (Primates, Platyrrhini).
+
+Borges BN(1), Paiva TS, Harada ML.
+
+Author information: 
+(1)Laboratório de Biologia Molecular "Francisco Mauro Salzano", Instituto de
+Ciências Biológicas, Universidade Federal do Pará, Cidade Universitária Prof.
+José da Silveira Netto, Belém, PA, Brasil. bnborges@ufpa.br
+
+The structure and evolution of the SEC1 gene were examined for the first time in 
+New World primates of the genera Alouatta, Aotus, Ateles, Brachyteles,
+Callicebus, Callithrix, Cebus, Chiropotes, Lagothrix, Leontopithecus, Pithecia,
+Saguinus, and Saimiri. This gene has a high CG content (63.8%) and an estimated
+heterogeneous size ranging from 795 (Callithrix) to 1041 bp (Pithecia), due to
+numerous indel events. Similar to other fucosyltransferases, three conserved
+regions are shared by these primates, except for the callitrichines, Aotus and
+Pithecia, in which indel events resulted in premature stop codons that are
+related to the production of a supposedly non-functional protein. Phylogenetic
+analysis of the SEC1 gene, transition/transversion rates, and nucleotide sequence
+alignment support the hypothesis that primate SEC1 evolved by divergent
+evolution, and that the lack of activity in some lineages occurred independently 
+at least twice in New World primates, once in the Aotus-Cebus-Callitrichinae
+group and again in Pithecia. Likelihood-based inference of ancestral states for
+the activity of SEC1 leads us to suppose that inactivation of SEC1 in the
+Callitrichinae was a result of a more complex series of events than in Pithecia.
+
+DOI: 10.4238/vol7-3gmr452 
+PMID: 18752194  [Indexed for MEDLINE]
+

@@ -1,0 +1,29 @@
+
+
+3711. Am J Primatol. 1997;42(4):269-80.
+
+Interactions between infant growth and survival: evidence for selection on
+age-specific body weight in captive common marmosets (Callithrix jacchus).
+
+Jaquish CE(1), Tardif SD, Cheverud JM.
+
+Author information: 
+(1)Center for Inherited Disease Research, NHGRI, NIH, Baltimore, MD 21224, USA.
+
+The objective of this study is to investigate factors influencing infant survival
+in captive common marmosets. We investigated the influence of age-specific
+weight, litter size, caging, and the presence of helpers on survival to 6 months 
+of age in 189 Callithrix jacchus infants. Infant survival was analyzed using Cox 
+Proportional Hazards regression, and fitness functions were plotted to explore
+the relationship between survival and growth. Results indicate that weights at
+birth and 120 days significantly affect future survival probability. Litter size 
+significantly influences survival prior to 60 days of age with larger litters
+having poorer survival. Males and females did not have significantly different
+survival and the presence of helpers in the group did not influence survival
+probability. Patterns of survival with respect to age-specific weights suggest
+stabilizing selection on birth weight and directional selection on weight at 120 
+days of age.
+
+DOI: 10.1002/(SICI)1098-2345(1997)42:4<269::AID-AJP2>3.0.CO;2-V 
+PMID: 9261508  [Indexed for MEDLINE]
+

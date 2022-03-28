@@ -1,0 +1,78 @@
+
+
+3120. Mol Hum Reprod. 2001 Dec;7(12):1159-65.
+
+Expression and localization of thioredoxin during early implantation in the
+marmoset monkey.
+
+Lopata A(1), Sibson MC, Enders AC, Bloomfield KL, Gregory MS, Trapani GD, Perkins
+AV, Tonissen KF, Clarke FM.
+
+Author information: 
+(1)Department of Obstetrics and Gynaecology, University of Melbourne, Royal
+Women's Hospital, Carlton, Victoria 3053, Australia.
+
+Thioredoxin is a powerful redox protein expressed in invasive cytotrophoblasts
+and essential for blastocyst implantation in mice. Isolated marmoset thioredoxin 
+cDNA showed that the deduced amino acid sequence differed from the human sequence
+by four amino acids. The close homology of thioredoxin in the two species enabled
+us to use monoclonal antibodies against human thioredoxin to detect marmoset
+thioredoxin in implantation sites, blastocysts and culture medium.
+Immunocytochemistry on marmoset implantation sites, on pregnancy days 12 and 15, 
+showed that thioredoxin is highly expressed in uterine luminal epithelium, glands
+and in some endometrial stromal cells. In attached blastocysts, thioredoxin
+staining was detected in mural and polar trophoblast cells and both visceral and 
+parietal endoderm, whereas no staining was present in the inner cell mass. A
+similar pattern of thioredoxin expression was detected in hatched blastocysts
+attached to Matrigel in tissue culture. Trophoblastic vesicles derived from
+blastocysts expressed thioredoxin in inner endoderm-like cells and outer
+trophoblast-like cells and secreted thioredoxin into the culture medium. These
+experiments have demonstrated thioredoxin expression during early stages of
+embryo-maternal interaction. We propose that thioredoxin protects the early
+placenta from oxidative damage and that the marmoset is a valuable model for
+studying thioredoxin regulation and function during implantation and blastocyst
+differentiation.
+
+DOI: 10.1093/molehr/7.12.1159 
+PMID: 11719593  [Indexed for MEDLINE]
+
+
+3121. Arch Biochem Biophys. 2001 Dec 1;396(1):56-64.
+
+Nafenopin-, ciprofibroyl-, and palmitoyl-CoA conjugation in vitro: kinetic and
+molecular characterization of marmoset liver microsomes and expressed MLCL1.
+
+Drogemuller CJ(1), Nunthasomboon S, Knights KM.
+
+Author information: 
+(1)Department of Clinical Pharmacology, School of Medicine, Adelaide, 5042,
+Australia.
+
+Acyl-CoA conjugation of xenobiotic carboxylic acids is catalyzed by hepatic
+microsomal long-chain fatty acid CoA ligases (LCL, EC 6.2.1.3). Marmosets
+(Callithrix jacchus) are considered genetically closer to humans than rodents and
+are used in pharmacological and toxicological studies. We have demonstrated that 
+marmoset liver microsomes catalyze nafenopin-, ciprofibroyl-, and palmitoyl-CoA
+conjugation and that only palmitoyl-CoA conjugation is significantly upregulated 
+(1.7-fold, P < 0.02) by a high fat diet. Additionally, the apparent C(50) values 
+for nafenopin-, ciprofibroyl-, and palmitoyl-CoA conjugation of 149.7, 413.4, and
+3.4 microM were comparable to those reported for human liver microsomes viz,
+213.7, 379.8, and 3.4 microM, respectively. Comparison with human data was
+enabled by the cloning of a full-length marmoset cDNA (MLCL1) that encoded a
+698-amino-acid protein sharing 83% similarity with rat liver acyl-CoA synthetase 
+(ACS1) and 93 and 90% similarity with human liver LCL1 and LCL2, respectively.
+MLCL1 transiently expressed in COS-7 cells activated nafenopin (C(50) 192.9
+microM), ciprofibrate (C(50) 168.7 microM), and palmitic acid (C(50) 4.5 microM) 
+to their respective CoA conjugates. This study also demonstrated that the
+sigmoidal kinetics observed for nafenopin- and ciprofibroyl-CoA conjugation were 
+not unique to human liver microsomes but were also characteristic of marmoset
+liver microsomes and recombinant MLCL1. More extensive characterization of the
+substrate specificity of marmoset LCL isoforms will aid in determining further
+the suitability of marmosets as a model for human xenobiotic metabolism via
+acyl-CoA conjugation.
+
+(c)2001 Elsevier Science.
+
+DOI: 10.1006/abbi.2001.2591 
+PMID: 11716462  [Indexed for MEDLINE]
+

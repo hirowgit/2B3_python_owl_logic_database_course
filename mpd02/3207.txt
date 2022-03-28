@@ -1,0 +1,36 @@
+
+
+3207. Eur J Immunol. 2001 Feb;31(2):474-9.
+
+Characterization of the response to myelin basic protein in a non human primate
+model for multiple sclerosis.
+
+Uccelli A(1), Giunti D, Mancardi G, Caroli F, Fiorone M, Seri M, Hauser SL,
+Genain CP.
+
+Author information: 
+(1)Department of Neurological Sciences and Vision, Gaslini Institute, University 
+of Genoa, Italy. auccelli@neurologia.unige.it
+
+The common marmoset Callithrix jacchus (C. jacchus) is an outbred species
+characterized by a naturally occurring bone marrow chimerism and susceptibility
+to a form of experimental autoimmune encephalomyelitis (EAE) resembling multiple 
+sclerosis (MS). T cell clones specific for the myelin antigen, myelin basic
+protein (MBP), can be derived from both naive and immunized marmosets and can
+adoptively transfer EAE to compatible chimeric siblings. Here, we demonstrate
+that several different antigenic determinants of MBP are recognized by these
+encephalitogenic T cell clones. Furthermore, PCR-based analysis of TCR Vbeta
+families does not show the preferential usage of any gene segment.
+Characterization of third complementarity determining regions (CDR3) fails to
+demonstrate a recurring motif characteristic of the T cell immune response to MBP
+in this species. Nevertheless, brief amino acid motifs are shared among marmoset 
+clones and CDR3 sequences from MS samples. These data suggest that, due to its
+outbred condition, the C. jacchus marmoset mounts a diverse pathogenic response
+to MBP. However, the findings that certain CDR3 sequences are identically
+expressed in different animals, or by different T cell clones, suggest that
+MBP-specific T cell populations may be clonally expanded following chronic
+antigenic stimulation in vivo.
+
+DOI: 10.1002/1521-4141(200102)31:2&#60;474::aid-immu474&#62;3.0.co;2-9 
+PMID: 11180112  [Indexed for MEDLINE]
+

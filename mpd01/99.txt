@@ -1,0 +1,120 @@
+
+
+99. mBio. 2021 Aug 31;12(4):e0115321. doi: 10.1128/mBio.01153-21. Epub 2021 Aug 3.
+
+Captive Common Marmosets (Callithrix jacchus) Are Colonized throughout Their
+Lives by a Community of Bifidobacterium Species with Species-Specific Genomic
+Content That Can Support Adaptation to Distinct Metabolic Niches.
+
+Zhu L(#)(1)(2), Yang Q(#)(2)(3), Suhr Van Haute MJ(#)(2)(3), Kok CR(#)(2)(3),
+Gomes-Neto JC(2)(3), Pavlovikj N(2)(4), Pillai R(3), Sinha R(2)(3), Hassenstab
+H(1), Mustoe A(1), Moriyama EN(2)(5)(6), Hutkins R(2)(3), French J(1)(2), Benson 
+AK(2)(3).
+
+Author information: 
+(1)Department of Biology, University of Nebraska-Omaha, Omaha, Nebraska, USA.
+(2)Nebraska Food for Health Center, University of Nebraska-Lincoln, Lincoln,
+Nebraska, USA.
+(3)Department of Food Science and Technology, University of Nebraska-Lincoln,
+Lincoln, Nebraska, USA.
+(4)Department of Computer Science and Engineering, University of
+Nebraska-Lincoln, Lincoln, Nebraska, USA.
+(5)School of Biological Sciences, University of Nebraska-Lincoln, Lincoln,
+Nebraska, USA.
+(6)Center for Plant Science Innovation, University of Nebraska-Lincoln, Lincoln, 
+Nebraska, USA.
+(#)Contributed equally
+
+The common marmoset (Callithrix jacchus) is an omnivorous New World primate whose
+diet in the wild includes large amounts of fruit, seeds, flowers, and a variety
+of lizards and invertebrates. Marmosets also feed heavily on tree gums and
+exudates, and they have evolved unique morphological and anatomical
+characteristics to facilitate gum feeding (gummivory). In this study, we
+characterized the fecal microbiomes of adult and infant animals from a captive
+population of common marmosets at the Callitrichid Research Center at the
+University of Nebraska at Omaha under their normal dietary and environmental
+conditions. The microbiomes of adult animals were dominated by species of
+Bifidobacterium, Bacteroides, Prevotella, Phascolarctobacterium, Megamonas, and
+Megasphaera. Culturing and genomic analysis of the Bifidobacterium populations
+from adult animals identified four known marmoset-associated species (B. reuteri,
+B. aesculapii, B. myosotis, and B. hapali) and three unclassified taxa of
+Bifidobacterium that are phylogenetically distinct. Species-specific quantitative
+PCR (qPCR) confirmed that these same species of Bifidobacterium are abundant
+members of the microbiome throughout the lives of the animals. Genomic loci in
+each Bifidobacterium species encode enzymes to support growth and major marmoset 
+milk oligosaccharides during breastfeeding; however, metabolic islands that can
+support growth on complex polysaccharide substrates in the diets of captive
+adults (pectin, xyloglucan, and xylan), including loci in B. aesculapii that can 
+support its unique ability to grow on arabinogalactan-rich tree gums, were
+species-specific. IMPORTANCE Bifidobacterium species are recognized as important,
+beneficial microbes in the human gut microbiome, and their ability colonize
+individuals at different stages of life is influenced by host, dietary,
+environmental, and ecological factors, which is poorly understood. The common
+marmoset is an emerging nonhuman primate model with a short maturation period,
+making this model amenable to study the microbiome throughout a life history.
+Features of the microbiome in captive marmosets are also shared with human gut
+microbiomes, including abundant populations of Bifidobacterium species. Our
+studies show that several species of Bifidobacterium are dominant members of the 
+captive marmoset microbiome throughout their life history. Metabolic capacities
+in genomes of the marmoset Bifidobacterium species suggest species-specific
+adaptations to different components of the captive marmoset diet, including the
+unique capacity in B. aesculapii for degradation of gum arabic, suggesting that
+regular dietary exposure in captivity may be important for preserving
+gum-degrading species in the microbiome.
+
+DOI: 10.1128/mBio.01153-21 
+PMCID: PMC8406136
+PMID: 34340536  [Indexed for MEDLINE]
+
+
+100. Brain Struct Funct. 2021 Sep;226(7):2417-2430. doi: 10.1007/s00429-021-02345-1.
+Epub 2021 Jul 29.
+
+Volume reduction without neuronal loss in the primate pulvinar complex following 
+striate cortex lesions.
+
+Chan JM(1)(2), Worthy KH(1), Rosa MGP(1)(2), Reser DH(2)(3), Atapour N(4)(5).
+
+Author information: 
+(1)Department of Physiology and Neuroscience Program, Biomedicine Discovery
+Institute, Monash University, Melbourne, VIC, 3800, Australia.
+(2)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Melbourne, VIC, 3800, Australia.
+(3)Graduate Entry Medicine Program, Monash Rural Health-Churchill, Churchill,
+VIC, 3842, Australia.
+(4)Department of Physiology and Neuroscience Program, Biomedicine Discovery
+Institute, Monash University, Melbourne, VIC, 3800, Australia.
+nafiseh.atapour@monash.edu.
+(5)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Melbourne, VIC, 3800, Australia.
+nafiseh.atapour@monash.edu.
+
+Lesions in the primary visual cortex (V1) cause extensive retrograde degeneration
+in the lateral geniculate nucleus, but it remains unclear whether they also
+trigger any neuronal loss in other subcortical visual centers. The inferior
+(IPul) and lateral (LPul) pulvinar nuclei have been regarded as part of the
+pathways that convey visual information to both V1 and extrastriate cortex. Here,
+we apply stereological analysis techniques to NeuN-stained sections of marmoset
+brain, in order to investigate whether the volume of these nuclei, and the number
+of neurons they comprise, change following unilateral long-term V1 lesions. For
+comparison, the medial pulvinar nucleus (MPul), which has no connections with V1,
+was also studied. Compared to control animals, animals with lesions incurred
+either 6 weeks after birth or in adulthood showed significant LPul volume loss
+following long (> 11 months) survival times. However, no obvious areas of
+neuronal degeneration were observed. In addition, estimates of neuronal density
+in lesioned hemispheres were similar to those in the non-lesioned hemispheres of 
+same animals. Our results support the view that, in marked contrast with the
+geniculocortical projection, the pulvinar pathway is largely spared from the most
+severe long-term effects of V1 lesions, whether incurred in early postnatal or
+adult life. This difference can be linked to the more divergent pattern of
+pulvinar connectivity to the visual cortex, including strong reciprocal
+connections with extrastriate areas. The results also caution against
+interpretation of volume loss in brain structures as a marker for neuronal
+degeneration.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany,
+part of Springer Nature.
+
+DOI: 10.1007/s00429-021-02345-1 
+PMID: 34324075  [Indexed for MEDLINE]
+

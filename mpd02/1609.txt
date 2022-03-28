@@ -1,0 +1,43 @@
+
+
+1609. PLoS Pathog. 2013 Jan;9(1):e1003138. doi: 10.1371/journal.ppat.1003138. Epub 2013
+Jan 31.
+
+Novel marmoset (Callithrix jacchus) model of human Herpesvirus 6A and 6B
+infections: immunologic, virologic and radiologic characterization.
+
+Leibovitch E(1), Wohler JE, Cummings Macri SM, Motanic K, Harberts E, Gaitán MI, 
+Maggi P, Ellis M, Westmoreland S, Silva A, Reich DS, Jacobson S.
+
+Author information: 
+(1)Viral Immunology Section, Neuroimmunology Branch, NINDS/NIH, Bethesda,
+Maryland, United States of America.
+
+Human Herpesvirus 6 (HHV-6) is a ubiquitous virus with an estimated
+seroprevalence of 95% in the adult population. HHV-6 is associated with several
+neurologic disorders, including multiple sclerosis, an inflammatory demyelinating
+disease affecting the CNS. Animal models of HHV-6 infection would help clarify
+its role in human disease but have been slow to develop because rodents lack
+CD46, the receptor for cellular entry. Therefore, we investigated the effects of 
+HHV-6 infections in a non-human primate, the common marmoset Callithrix jacchus. 
+We inoculated a total of 12 marmosets with HHV-6A and HHV-6B intravenously and
+HHV-6A intranasally. Animals were monitored for 25 weeks post-inoculation
+clinically, immunologically and by MRI. Marmosets inoculated with HHV-6A
+intravenously exhibited neurologic symptoms and generated virus-specific antibody
+responses, while those inoculated intravenously with HHV-6B were asymptomatic and
+generated comparatively lower antibody responses. Viral DNA was detected at a low
+frequency in paraffin-embedded CNS tissue of a subset of marmosets inoculated
+with HHV-6A and HHV-6B intravenously. When different routes of HHV-6A inoculation
+were compared, intravenous inoculation resulted in virus-specific antibody
+responses and infrequent detection of viral DNA in the periphery, while
+intranasal inoculation resulted in negligible virus-specific antibody responses
+and frequent detection of viral DNA in the periphery. Moreover, marmosets
+inoculated with HHV-6A intravenously exhibited neurologic symptoms, while
+marmosets inoculated with HHV-6A intranasally were asymptomatic. We demonstrate
+that a marmoset model of HHV-6 infection can serve to further define the
+contribution of this ubiquitous virus to human neurologic disorders.
+
+DOI: 10.1371/journal.ppat.1003138 
+PMCID: PMC3561285
+PMID: 23382677  [Indexed for MEDLINE]
+

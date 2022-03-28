@@ -1,0 +1,81 @@
+
+
+169. Brain Struct Funct. 2021 Dec;226(9):2763-2775. doi: 10.1007/s00429-021-02257-0.
+Epub 2021 Mar 20.
+
+Neurochemical changes in the primate lateral geniculate nucleus following lesions
+of striate cortex in infancy and adulthood: implications for residual vision and 
+blindsight.
+
+Atapour N(1)(2), Worthy KH(3), Rosa MGP(3)(4).
+
+Author information: 
+(1)Neuroscience Program, Biomedicine Discovery Institute and Department of
+Physiology, Monash University, Melbourne, VIC, 3800, Australia.
+nafiseh.atapour@monash.edu.
+(2)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Melbourne, VIC, Australia.
+nafiseh.atapour@monash.edu.
+(3)Neuroscience Program, Biomedicine Discovery Institute and Department of
+Physiology, Monash University, Melbourne, VIC, 3800, Australia.
+(4)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Melbourne, VIC, Australia.
+
+Following lesions of the primary visual cortex (V1), the lateral geniculate
+nucleus (LGN) undergoes substantial cell loss due to retrograde degeneration.
+However, visually responsive neurons remain in the degenerated sector of LGN, and
+these have been implicated in mediation of residual visual capacities that remain
+within the affected sectors of the visual field. Using immunohistochemistry, we
+compared the neurochemical characteristics of LGN neurons in V1-lesioned marmoset
+monkeys (Callithrix jacchus) with those of non-lesioned control animals. We found
+that GABAergic neurons form approximately 6.5% of the neuronal population in the 
+normal LGN, where most of these cells express the calcium-binding protein
+parvalbumin. Following long-term V1 lesions in adult monkeys, we observed a
+marked increase (~ sevenfold) in the proportion of GABA-expressing neurons in the
+degenerated sector of the LGN, indicating that GABAergic cells are less affected 
+by retrograde degeneration in comparison with magno- and parvocellular projection
+neurons. In addition, following early postnatal V1 lesions and survival into
+adulthood, we found widespread expression of GABA in putative projection neurons,
+even outside the degenerated sectors (lesion projection zones). Our findings show
+that changes in the ratio of GABAergic neurons in LGN need to be taken into
+account in the interpretation of the mechanisms of visual abilities that survive 
+V1 lesions in primates.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany,
+part of Springer Nature.
+
+DOI: 10.1007/s00429-021-02257-0 
+PMID: 33743077  [Indexed for MEDLINE]
+
+
+170. Methods Mol Biol. 2021 Mar 18. doi: 10.1007/7651_2021_381. [Epub ahead of print]
+
+Generation of Marmoset Monkey iPSCs with Self-Replicating VEE-mRNAs in
+Feeder-Free Conditions.
+
+Petkov SG(1)(2), Behr R(3)(4).
+
+Author information: 
+(1)Platform Degenerative Diseases, German Primate Center, GmbH, Leibniz Institute
+for Primate Research, Göttingen, Germany. SPetkov@dpz.eu.
+(2)German Center for Cardiovascular Research (DZHK), Partner Site Göttingen,
+Göttingen, Germany. SPetkov@dpz.eu.
+(3)Platform Degenerative Diseases, German Primate Center, GmbH, Leibniz Institute
+for Primate Research, Göttingen, Germany.
+(4)German Center for Cardiovascular Research (DZHK), Partner Site Göttingen,
+Göttingen, Germany.
+
+The generation and culture of transgene-free induced pluripotent stem cells
+(iPSCs) from the common marmoset (Callithrix jacchus) present unique challenges
+due to the fact that the protocols developed for culture of human or mouse
+pluripotent cells are not sufficiently optimized for this particular monkey
+species. Here, we describe the procedures for the reprogramming of marmoset fetal
+fibroblasts to pluripotency with self-replicating mRNAs using a two-step
+approach, where intermediate primary colonies generated in the first
+reprogramming step are converted in the second step to iPSCs with customized
+marmoset culture medium. The resulting iPSCs are free of transgenes and can be
+maintained in long-term culture in feeder-free conditions.
+
+DOI: 10.1007/7651_2021_381 
+PMID: 33733393 
+

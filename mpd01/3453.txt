@@ -1,0 +1,78 @@
+
+
+3453. Zygote. 1999 Feb;7(1):27-35.
+
+Cloning, sequencing and site of origin of the rat sperm receptor protein, ZP3.
+
+Scobie GA(1), Kerr LE, MacDuff P, Aitken RJ.
+
+Author information: 
+(1)MRC Reproductive Biology Unit, Edinburgh, UK.
+
+The ZP3 gene encodes for a zona glycoprotein that serves as both a cell-specific 
+binding site for capacitated spermatozoa and an inducer of acrosomal exocytosis
+during fertilisation. In this study we have determined the nucleotide sequence of
+rat ZP3 (accession no. Y10823), predicted primary amino acid structure and
+determined the cellular origin of this molecule within the ovary. Rat ZP3 was
+found to have an open reading frame of 1272 nucleotides encoding a polypeptide
+chain of 424 amino acids that was expressed exclusively by the actively growing
+oocyte population. Rat ZP3 exhibited 91%, 78% and 66% identity with the mouse,
+hamster and human homologues, respectively. Key features of mouse ZP3, including 
+the number and location of cysteine and proline residues and N-linked
+glycosylation sites, were also conserved in the rat homologue. The putative
+O-linked glycosylation sites, a series of serine residues at ZP3(329-334), were
+also conserved in rat and mouse ZP3, although immediately downstream of this site
+the amino acid sequences deviated over a short stretch of amino acids. The
+hydropathicity profile revealed two hydrophobic domains. The first was associated
+with a putative N-terminal signal sequence which is unusual in the rat in
+possessing a proline residue at the -1 position relative to the signal cleavage
+site, a feature it shares with human and marmoset ZP3 but not mouse. The second
+hydrophobic domain was observed at the C-terminus downstream of a TGF-beta type
+III receptor domain that appears to be common to all ZP3 sequences examined to
+date.
+
+DOI: 10.1017/s0967199499000362 
+PMID: 10216914  [Indexed for MEDLINE]
+
+
+3454. Blood. 1999 May 1;93(9):2839-48.
+
+The common marmoset as a target preclinical primate model for cytokine and gene
+therapy studies.
+
+Hibino H(1), Tani K, Ikebuchi K, Wu MS, Sugiyama H, Nakazaki Y, Tanabe T,
+Takahashi S, Tojo A, Suzuki S, Tanioka Y, Sugimoto Y, Nakahata T, Asano S.
+
+Author information: 
+(1)Departments of Hematology/Oncology and Clinical Oncology, The Institute of
+Medical Science, The University of Tokyo, Tokyo, Japan.
+
+Nonhuman primate models are useful to evaluate the safety and efficacy of new
+therapeutic modalities, including gene therapy, before the inititation of
+clinical trials in humans. With the aim of establishing safe and effective
+approaches to therapeutic gene transfer, we have been focusing on a small New
+World monkey, the common marmoset, as a target preclinical model. This animal is 
+relatively inexpensive and easy to breed in limited space. First, we
+characterized marmoset blood and bone marrow progenitor cells (BMPCs) and showed 
+that human cytokines were effective to maintain and stimulate in culture. We then
+examined their susceptibility to transduction by retroviral vectors. In a mixed
+culture system containing both marmoset stromal cells and retroviral producer
+cells, the transduction efficiency into BMPCs and peripheral blood progenitor
+cells (PBPCs) was 12% to 24%. A series of marmosets then underwent
+transplantation with autologous PBPCs transduced with a retroviral vector
+carrying the multidrug resistance 1 gene (MDR1) and were followed for the
+persistence of these cells in vivo. Proviral DNA was detectable by polymerase
+chain reaction (PCR) in peripheral blood granulocytes and lymphocytes in the
+recipients of gene transduced progenitors up to 400 days posttransplantation. To 
+examine the function of the MDR1 gene in vivo, recipient maromsets were
+challenged with docetaxel, an MDR effluxed drug, yet the overall level of gene
+transfer attained in vivo (<1% in peripheral blood granulocytes) was not
+sufficient to prevent the neutropenia induced by docetaxel treatment. Using this 
+model, we safely and easily performed a series of in vivo studies in our small
+animal center. Our results show that this small nonhuman primate, the common
+marmoset, is a useful model for the evaluation of gene transfer methods targeting
+hematopoietic stem cells.
+
+
+PMID: 10216078  [Indexed for MEDLINE]
+

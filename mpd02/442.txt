@@ -1,0 +1,62 @@
+
+
+442. Neuroimage. 2019 Nov 15;202:116147. doi: 10.1016/j.neuroimage.2019.116147. Epub
+2019 Aug 31.
+
+Task-based fMRI of a free-viewing visuo-saccadic network in the marmoset monkey.
+
+Schaeffer DJ(1), Gilbert KM(2), Hori Y(2), Hayrynen LK(2), Johnston KD(3), Gati
+JS(2), Menon RS(4), Everling S(5).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada. Electronic address:
+dschaeff@uwo.ca.
+(2)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada.
+(3)Department of Physiology and Pharmacology, University of Western Ontario,
+London, Ontario, Canada.
+(4)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada; Department of Physiology 
+and Pharmacology, University of Western Ontario, London, Ontario, Canada.
+(5)Centre for Functional and Metabolic Mapping, Robarts Research Institute,
+University of Western Ontario, London, Ontario, Canada; Department of Physiology 
+and Pharmacology, University of Western Ontario, London, Ontario, Canada.
+Electronic address: severling@uwo.ca.
+
+Saccadic tasks are often used to index aberrations of cognitive function in
+patient populations, with several neuropsychiatric and neurologic disorders
+characterized by saccadic dysfunction. The common marmoset (Callithrix jacchus)
+has received recent attention as an additional primate model for studying the
+neural basis of these dysfunctions - marmosets are amenable to a host of genetic 
+manipulation techniques and have a lissencephalic cortex, which is well suited
+for a variety of recording techniques (e.g., calcium imaging, laminar
+electrophysiology). Because the marmoset cortex is mostly lissencephalic,
+however, the locations of frontal saccade-related regions (e.g., frontal eye
+fields (FEF)) are less readily identified than in Old World macaque monkeys.
+Further, although high quality histology-based atlases do exist for marmosets,
+identifying these regions based on histology alone is not always accurate, with
+the cytoarchitectonic boundaries often inconsonant with functional boundaries. As
+such, there is a need to map the functional location of these regions directly.
+Task-based functional magnetic resonance imaging (fMRI) is of utility in this
+regard, allowing for detection of whole-brain signal changes in response to
+moving stimuli. Here, we conducted task-based fMRI in marmosets at ultra-high
+field (9.4 T) during a free-viewing visuo-saccadic task. We also conducted the
+same task in humans at ultra-high field (7 T) to validate that our simple task
+was indeed evoking the visuo-saccadic circuitry we expected (as defined by a
+meta-analysis of fMRI saccade studies). In the marmosets, we found that the task 
+evoked a robust visuo-saccadic topology, with visual cortex (V1, V2, V3, V4)
+activation extending ventrally to MT, MST, FST and dorsally into V6, 19M, 23V.
+This topology also included putative cingulate eye field (area 32 and 24d),
+posterior parietal cortex (with strongest activation in lateral intraparietal
+area (LIP)), and a frontolateral peak in area 8 aV in marmosets, extending into
+45, 46, 8aD, 6DR, 8c, 6 aV, 6DC. Overall, these results support the view that
+marmosets are a promising preclinical modelling species for studying saccadic
+dysfunction related to neuropsychiatric or neurodegenerative human brain
+diseases.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2019.116147 
+PMID: 31479755  [Indexed for MEDLINE]
+

@@ -1,0 +1,77 @@
+
+
+3589. J Comp Neurol. 1998 Apr 20;393(4):505-27.
+
+Visuotopic organisation and neuronal response selectivity for direction of motion
+in visual areas of the caudal temporal lobe of the marmoset monkey (Callithrix
+jacchus): middle temporal area, middle temporal crescent, and surrounding cortex.
+
+Rosa MG(1), Elston GN.
+
+Author information: 
+(1)Vision, Touch, & Hearing Research Centre, Department of Physiology and
+Pharmacology, The University of Queensland, Australia. M.Rosa@vthrc.uq.edu.au
+
+On the basis of extracellular recordings in marmoset monkeys, we report on the
+organisation of the middle temporal area (MT) and the surrounding middle temporal
+crescent (MTc). Area MT is approximately 5-mm long and 2-mm wide, whereas the MTc
+forms a crescent-shaped band of cortex 1-mm wide. Neurones in area MT form a
+first-order representation of the contralateral hemifield, whereas those in the
+MTc form a second-order representation with a field discontinuity near the
+horizontal meridian. The representation of the vertical meridian forms the border
+between area MT and the MTc. In both areas, the fovea is represented
+ventrocaudally, and the visual field periphery is represented dorsorostrally.
+Analysis of single units revealed that 86% of cells in area MT show a strong
+selectivity for the direction of motion of visual stimuli. The proportion of
+direction-selective cells in the MTc (53%), whereas lower than that in area MT,
+is much higher than that observed in most other visual areas. Neurones in the
+cortex immediately rostral to area MT and the MTc are direction selective, with
+receptive fields predominantly located in the visual field periphery. In
+contrast, only a minority of the cells in the cortex ventral to the MTc are
+direction selective, and their receptive fields emphasise central vision. The
+results suggest that the MTc is functionally closely related to area MT, and
+distinct from the areas forming the dorsolateral complex. The MTc may have a role
+in combining information about motion in the visual field, processed by area MT, 
+with information about stimulus shape, processed by the dorsolateral complex.
+
+
+PMID: 9550155  [Indexed for MEDLINE]
+
+
+3590. J Virol. 1998 May;72(5):3698-704.
+
+Substitution of ras for the herpesvirus saimiri STP oncogene in lymphocyte
+transformation.
+
+Guo J(1), Williams K, Duboise SM, Alexander L, Veazey R, Jung JU.
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, New England Regional
+Primate Research Center, Harvard Medical School, Southborough, Massachusetts
+01772-9102, USA.
+
+STP-C488 (STP of herpesvirus saimiri [HVS] group C strain 488 [C488]) is the only
+virus-encoded protein found to associate with cellular ras and activate ras
+signal transduction pathways. To investigate an important role for ras signal
+transduction in STP-dependent growth transformation, we constructed recombinant
+strains of HVS C488 in which the STP-C488 oncogene was replaced with cellular
+normal ras (c-ras) or viral oncogenic ras (v-ras). Recombinant HVS deltaSTP/v-ras
+immortalized primary common marmoset T lymphocytes to interleukin-2-independent
+growth as efficiently as wild-type HVS C488 (wt HVS), while recombinant HVS
+deltaSTP/c-ras did so with low efficiency. Whereas wt HVS immortalized CD4- CD8+ 
+single-positive T lymphocytes, HVS deltaSTP/c-ras- and HVS
+deltaSTP/v-ras-immortalized cells were principally CD4+ CD8+ double-positive T
+lymphocytes. In addition, HVS deltaSTP/v-ras-immortalized T cells showed a high
+level of ras expression and exhibited an adherent macrophage-like morphology.
+These phenotypes were likely caused by the drastic activation of AP-1
+transcriptional factor activity. Finally, HVS deltaSTP/v-ras and HVS
+deltaSTP/c-ras each induced lymphoma in one of two common marmosets, although
+onset of disease was more rapid with the v-ras virus. These results demonstrate
+that ras can substitute for the STP oncogene of HVS C488 to allow immortalized
+growth of primary lymphoid cells and that an activated form of ras does so more
+efficiently than the normal cellular form of ras.
+
+DOI: 10.1128/JVI.72.5.3698-3704.1998 
+PMCID: PMC109591
+PMID: 9557651  [Indexed for MEDLINE]
+

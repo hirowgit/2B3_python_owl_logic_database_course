@@ -1,0 +1,39 @@
+
+
+2962. J Clin Microbiol. 2003 Mar;41(3):1225-34.
+
+Characterization of monkey enteropathogenic Escherichia coli (EPEC) and human
+typical and atypical EPEC serotype isolates from neotropical nonhuman primates.
+
+Carvalho VM(1), Gyles CL, Ziebell K, Ribeiro MA, Catão-Dias JL, Sinhorini IL,
+Otman J, Keller R, Trabulsi LR, Pestana de Castro AF.
+
+Author information: 
+(1)Departamento de Microbiologia, Instituto de Ciências Biomédicas, Universidade 
+de São Paulo, São Paulo, São Paulo, Brazil.
+
+Enteropathogenic Escherichia coli (EPEC) has been associated with infantile
+diarrhea and mortality in humans in developing countries. While diarrhea is also 
+a major problem among primates kept in captivity, the role of E. coli is unclear.
+This study was designed to characterize diarrheagenic E. coli recovered from the 
+feces of 56 New World nonhuman primates, primarily marmosets (Callithrix spp.).
+Seventeen of the 56 primates had signs of diarrhea and/or enteritis. E. coli
+recovered from feces from these animals was tested by PCR for genes encoding
+virulence factors of diarrheagenic E. coli and for patterns of adherence to HeLa 
+cells. In addition, isolates were characterized by the fluorescence actin
+staining test and by their ability to induce attaching and effacing lesions. PCR 
+for the eae gene was positive in 10 of the 39 (27%) apparently healthy animals
+and in 8 of the 17 (47%) animals with diarrhea and/or enteritis. Colonies of
+eae(+) E. coli were serotyped and examined by PCR for genes encoding EPEC
+virulence markers. The eae(+) E. coli isolates recovered from both healthy and
+sick nonhuman primates demonstrated virulence-associated attributes similar to
+those of EPEC strains implicated in human disease and are designated monkey EPEC.
+The results presented here indicate that EPEC may be a significant pathogen for
+nonhuman primates, deserving further investigation. The similarities between the 
+affected animals investigated in this study and human EPEC infections suggest
+that marmosets may represent an important model for EPEC in humans.
+
+DOI: 10.1128/JCM.41.3.1225-1234.2003 
+PMCID: PMC150271
+PMID: 12624055  [Indexed for MEDLINE]
+

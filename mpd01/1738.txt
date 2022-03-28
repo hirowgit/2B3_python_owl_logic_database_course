@@ -1,0 +1,86 @@
+
+
+1738. Rev Inst Med Trop Sao Paulo. 2012 Mar-Apr;54(2):95-101.
+
+Susceptibility of peritoneal macrophage from different species of neotropical
+primates to ex vivo Leishmania (L.) infantum chagasi-infection.
+
+Carneiro LA(1), Laurenti MD, Campos MB, Gomes CM, Corbett CE, Silveira FT.
+
+Author information: 
+(1)Evandro Chagas Institute, Surveillance Secretary of Health, Ministry of
+Health, Belém, Pará State, Brazil. lilianecarneiro@iec.pa.gov.br
+
+This study examined the susceptibility of peritoneal macrophage (PM) from the
+Neotropical primates: Callithrix jacchus, Callithrix penicillata, Saimiri
+sciureus, Aotus azarae infulatus and Callimico goeldii to ex vivo Leishmania (L.)
+infantum chagasi-infection, the etiological agent of American visceral
+leishmaniasis (AVL), as a screening assay for evaluating the potential of these
+non-human primates as experimental models for studying AVL. The PM-susceptibility
+to infection was accessed by the PM-infection index (PMI) at 24, 72 h and by the 
+mean of these rates (FPMI), as well as by the TNF-α, IL-12 (Capture ELISA) and
+Nitric oxide (NO) responses (Griess method). At 24h, the PMI of A. azarae
+infulatus (128) was higher than those of C. penicillata (83), C. goeldii (78), S.
+sciureus (77) and C. jacchus (55). At 72h, there was a significant PMI decrease
+in four monkeys: A. azarae infulatus (128/37), C. penicillata (83/38), S.
+sciureus (77/38) and C. jacchus (55/12), with exception of C. goeldii (78/54).
+The FPMI of A. azarae infulatus (82.5) and C. goeldii (66) were higher than C.
+jacchus (33.5), but not higher than those of C. penicillata (60.5) and S.
+sciureus (57.5). The TNF-a response was more regular in those four primates which
+decreased their PMI at 24/72 h: C. jacchus (145/122 pg/mL), C. penicillata
+(154/130 pg/mL), S. sciureus (164/104 pg/mL) and A. azarae infulatus (154/104
+pg/mL), with exception of C. goeldii (38/83 pg/mL). The IL-12 response was mainly
+prominent in A. infulatus and C. goeldii which presented the highest FPMI and,
+the NO response was higher in C. goeldii, mainly at 72 h. These findings strongly
+suggest that these New World primates have developed a resistant innate immune
+response mechanism capable of controlling the macrophage intracellular growth of 
+L. (L.) i. chagasi-infection, which do not encourage their use as animal model
+for studying AVL.
+
+DOI: 10.1590/s0036-46652012000200007 
+PMID: 22499423  [Indexed for MEDLINE]
+
+
+1739. J Neurosci. 2012 Apr 11;32(15):5039-53. doi: 10.1523/JNEUROSCI.4788-11.2012.
+
+Comparative anatomy of marmoset and mouse cortex from genomic expression.
+
+Mashiko H(1), Yoshida AC, Kikuchi SS, Niimi K, Takahashi E, Aruga J, Okano H,
+Shimogori T.
+
+Author information: 
+(1)Laboratory for Molecular Mechanisms of Thalamus Development, RIKEN Brain
+Science Institute, Wako, Saitama, Japan.
+
+Erratum in
+    J Neurosci. 2012 Dec 5;32(49):17932.
+
+Advances in mouse neural circuit genetics, brain atlases, and behavioral assays
+provide a powerful system for modeling the genetic basis of cognition and
+psychiatric disease. However, a critical limitation of this approach is how to
+achieve concordance of mouse neurobiology with the ultimate goal of understanding
+the human brain. Previously, the common marmoset has shown promise as a genetic
+model system toward the linking of mouse and human studies. However, the advent
+of marmoset transgenic approaches will require an understanding of developmental 
+principles in marmoset compared to mouse. In this study, we used gene expression 
+analysis in marmoset brain to pose a series of fundamental questions on cortical 
+development and evolution for direct comparison to existing mouse brain atlas
+expression data. Most genes showed reliable conservation of expression between
+marmoset and mouse. However, certain markers had strikingly divergent expression 
+patterns. The lateral geniculate nucleus and pulvinar in the thalamus showed
+diversification of genetic organization between marmoset and mouse, suggesting
+they share some similarity. In contrast, gene expression patterns in early visual
+cortical areas showed marmoset-specific expression. In prefrontal cortex, some
+markers labeled architectonic areas and layers distinct between mouse and
+marmoset. Core hippocampus was conserved, while afferent areas showed divergence.
+Together, these results indicate that existing cortical areas are genetically
+conserved between marmoset and mouse, while differences in areal parcellation,
+afferent diversification, and layer complexity are associated with specific
+genes. Collectively, we propose that gene expression patterns in marmoset brain
+reveal important clues to the principles underlying the molecular evolution of
+cortical and cognitive expansion.
+
+DOI: 10.1523/JNEUROSCI.4788-11.2012 
+PMCID: PMC6622108
+PMID: 22496550  [Indexed for MEDLINE]
+

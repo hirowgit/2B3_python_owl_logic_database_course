@@ -1,0 +1,74 @@
+
+
+676. Nat Commun. 2018 Jun 29;9(1):2540. doi: 10.1038/s41467-018-04961-8.
+
+Auditory cortical activity drives feedback-dependent vocal control in marmosets.
+
+Eliades SJ(1), Tsunada J(2).
+
+Author information: 
+(1)Auditory and Communication Systems Laboratory, Department of
+Otorhinolaryngology: Head and Neck Surgery, University of Pennsylvania Perelman
+School of Medicine, Philadelphia, PA, 19104, USA. seliades@med.upenn.edu.
+(2)Auditory and Communication Systems Laboratory, Department of
+Otorhinolaryngology: Head and Neck Surgery, University of Pennsylvania Perelman
+School of Medicine, Philadelphia, PA, 19104, USA.
+
+Vocal communication is a sensory-motor process requiring auditory self-monitoring
+to correct errors and to ensure accurate vocal production. When presented with
+altered speech feedback, humans rapidly change their speech to compensate.
+Although previous evidence has demonstrated suppression of auditory cortex during
+both speech and animal vocalization, the specific role of auditory cortex in such
+feedback-dependent control is unknown. Here we show the relationship between
+neural activity in the auditory cortex and feedback-dependent vocal control in
+marmoset monkeys. We demonstrate that marmosets, like humans, exhibit feedback
+control of vocal acoustics. We further show that feedback-sensitive activity of
+auditory cortex neurons predict such compensatory vocal changes. Finally, we
+demonstrate that electrical microstimulation of auditory cortex rapidly evokes
+similar changes in vocal production. These results are evidence for a causal role
+of auditory cortex in vocal self-monitoring and feedback-dependent control, and
+have implications for understanding human speech motor control.
+
+DOI: 10.1038/s41467-018-04961-8 
+PMCID: PMC6026141
+PMID: 29959315  [Indexed for MEDLINE]
+
+
+677. Animals (Basel). 2018 Jun 21;8(7). pii: E99. doi: 10.3390/ani8070099.
+
+Food Calls in Common Marmosets, Callithrix jacchus, and Evidence That One Is
+Functionally Referential.
+
+Rogers LJ(1), Stewart L(2), Kaplan G(3).
+
+Author information: 
+(1)School of Science and Technology, University of New England, Armidale, NSW
+2531, Australia. lrogers@une.edu.au.
+(2)School of Science and Technology, University of New England, Armidale, NSW
+2531, Australia. leanne.stewart27@gmail.com.
+(3)School of Science and Technology, University of New England, Armidale, NSW
+2531, Australia. gkaplan@une.edu.au.
+
+We studied three calls of common marmosets, Callithrix jacchus, elicited in the
+context of food. Call A, but not B or C, had been described previously as a food 
+call. We presented insects (live mealworms or crickets) and fruit (banana or
+blueberries) and used playbacks of calls. We found that Call C was produced only 
+in response to seeing insects, and not fruit; it consistently signaled the
+availability of insects (includes mealworms), and more so when this food could be
+seen but not consumed. Playback of Call C caused the marmosets to stop feeding on
+a less preferred food (banana) and, instead, go to inspect a location where
+mealworms had been found previously, providing evidence that it has referential
+meaning. No such immediate response was elicited on hearing Call A or background 
+noise. Call A differed from C in that it was produced more frequently when the
+marmosets were consuming the food than when they could only see it, and call A
+showed no specificity between insects and fruit. Call B was emitted less
+frequently than the A or C calls and, by the marmosets that were tested alone,
+most often to crickets. An audience effect occurred, in that all three calls were
+emitted more often when the marmosets were tested alone than when in pairs.
+Recognition of the functional significance of marmoset calls can lead to improved
+husbandry of marmosets in captivity.
+
+DOI: 10.3390/ani8070099 
+PMCID: PMC6070944
+PMID: 29933611 
+

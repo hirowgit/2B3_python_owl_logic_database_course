@@ -1,0 +1,95 @@
+
+
+1085. Front Integr Neurosci. 2016 Mar 4;10:9. doi: 10.3389/fnint.2016.00009.
+eCollection 2016.
+
+Functional Connectivity Hubs and Networks in the Awake Marmoset Brain.
+
+Belcher AM(1), Yen CC(2), Notardonato L(2), Ross TJ(3), Volkow ND(4), Yang Y(3), 
+Stein EA(3), Silva AC(2), Tomasi D(5).
+
+Author information: 
+(1)Department of Psychiatry, University of Maryland School of MedicineBaltimore, 
+MD, USA; National Institute on Drug Abuse, National Institutes of
+HealthBaltimore, MD, USA.
+(2)National Institute of Neurological Disorders and Stroke, National Institutes
+of Health Bethesda, MD, USA.
+(3)National Institute on Drug Abuse, National Institutes of Health Baltimore, MD,
+USA.
+(4)National Institute on Drug Abuse, National Institutes of HealthRockville, MD, 
+USA; National Institute on Alcohol Abuse and Alcoholism, National Institutes of
+HealthBethesda, MD, USA.
+(5)National Institute on Alcohol Abuse and Alcoholism, National Institutes of
+Health Bethesda, MD, USA.
+
+In combination with advances in analytical methods, resting-state fMRI is
+allowing unprecedented access to a better understanding of the network
+organization of the brain. Increasing evidence suggests that this architecture
+may incorporate highly functionally connected nodes, or "hubs", and we have
+recently proposed local functional connectivity density (lFCD) mapping to
+identify highly-connected nodes in the human brain. Here, we imaged awake
+nonhuman primates to test whether, like the human brain, the marmoset brain
+contains FC hubs. Ten adult common marmosets (Callithrix jacchus) were acclimated
+to mild, comfortable restraint using individualized helmets. Following restraint 
+training, resting BOLD data were acquired during eight consecutive 10 min scans
+for each subject. lFCD revealed prominent cortical and subcortical hubs of
+connectivity across the marmoset brain; specifically, in primary and secondary
+visual cortices (V1/V2), higher-order visual association areas (A19M/V6[DM]),
+posterior parietal and posterior cingulate areas (PGM and A23b/A31), thalamus,
+dorsal and ventral striatal areas (caudate, putamen, lateral septal nucleus, and 
+anterior cingulate cortex (A24a). lFCD hubs were highly connected to widespread
+areas of the brain, and further revealed significant network-network
+interactions. These data provide a baseline platform for future investigations in
+a nonhuman primate model of the brain's network topology.
+
+DOI: 10.3389/fnint.2016.00009 
+PMCID: PMC4777715
+PMID: 26973476 
+
+
+1086. Behav Brain Res. 2016 May 15;305:212-7. doi: 10.1016/j.bbr.2016.02.031. Epub 2016
+Mar 9.
+
+The atypical antipsychotic blonanserin reverses (+)-PD-128907- and
+ketamine-induced deficit in executive function in common marmosets.
+
+Kotani M(1), Enomoto T(2), Murai T(1), Nakako T(1), Iwamura Y(1), Kiyoshi A(1),
+Matsumoto K(1), Matsumoto A(1), Ikejiri M(1), Nakayama T(1), Ogi Y(1), Ikeda
+K(3).
+
+Author information: 
+(1)Ikeda Lab, Drug Development Research Laboratories, Sumitomo Dainippon Pharma
+Co., Ltd., 33-94 Enoki-cho, Suita, Osaka, 564-0053, Japan.
+(2)Drug Development Research Laboratories, Sumitomo Dainippon Pharma Co., Ltd.,
+33-94 Enoki-cho, Suita, Osaka, 564-0053, Japan.
+(3)Ikeda Lab, Drug Development Research Laboratories, Sumitomo Dainippon Pharma
+Co., Ltd., 33-94 Enoki-cho, Suita, Osaka, 564-0053, Japan. Electronic address:
+kazuhito-ikeda@ds-pharma.co.jp.
+
+Antagonism of the dopamine D3 receptor is considered a promising strategy for the
+treatment of cognitive impairment associated with schizophrenia. We have
+previously reported that the atypical antipsychotic blonanserin, a dopamine D2/D3
+and serotonin 5-HT2A receptor antagonist, highly occupies dopamine D3 receptors
+at its antipsychotic dose range in rats. In the present study, we evaluated the
+effects of blonanserin on executive function in common marmosets using the object
+retrieval with detour (ORD) task. The dopamine D3 receptor-preferring agonist
+(+)-PD-128907 at 1mg/kg decreased success rate in the difficult trial, but not in
+the easy trial. Since the difference between the two trials is only cognitive
+demand, our findings indicate that excess activation of dopamine D3 receptors
+impairs executive function in common marmosets. Blonanserin at 0.1mg/kg reversed 
+the decrease in success rate induced by (+)-PD-128907 in the difficult trial.
+This finding indicates that blonanserin has beneficial effect on executive
+function deficit induced by activation of the dopamine D3 receptor in common
+marmosets. Next, and based on the glutamatergic hypothesis of schizophrenia, the 
+common marmosets were treated with the N-methyl-d-aspartate (NMDA) receptor
+antagonist ketamine. Ketamine at sub-anesthetic doses decreased success rate in
+the difficult trial, but not in the easy trial. Blonanserin at 0.1mg/kg reversed 
+the decrease in success rate induced by ketamine in the difficult trial. The
+findings of this study suggest that blonanserin might have beneficial effect on
+executive dysfunction in patients with schizophrenia.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbr.2016.02.031 
+PMID: 26970575  [Indexed for MEDLINE]
+

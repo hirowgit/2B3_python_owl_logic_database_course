@@ -1,0 +1,93 @@
+
+
+74. Brain Struct Funct. 2021 Dec;226(9):3007-3022. doi: 10.1007/s00429-021-02367-9.
+Epub 2021 Sep 13.
+
+Marmosets: a promising model for probing the neural mechanisms underlying complex
+visual networks such as the frontal-parietal network.
+
+D'Souza JF(1)(2), Price NSC(1)(2), Hagan MA(3)(4).
+
+Author information: 
+(1)Department of Physiology and Neuroscience Program, Biomedicine Discovery
+Institute, Monash University, 26 Innovation Walk, Clayton, VIC, 3800, Australia.
+(2)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, VIC, 3800, Australia.
+(3)Department of Physiology and Neuroscience Program, Biomedicine Discovery
+Institute, Monash University, 26 Innovation Walk, Clayton, VIC, 3800, Australia. 
+maureen.hagan@monash.edu.
+(4)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, VIC, 3800, Australia.
+maureen.hagan@monash.edu.
+
+The technology, methodology and models used by visual neuroscientists have
+provided great insights into the structure and function of individual brain
+areas. However, complex cognitive functions arise in the brain due to networks
+comprising multiple interacting cortical areas that are wired together with
+precise anatomical connections. A prime example of this phenomenon is the
+frontal-parietal network and two key regions within it: the frontal eye fields
+(FEF) and lateral intraparietal area (area LIP). Activity in these cortical areas
+has independently been tied to oculomotor control, motor preparation, visual
+attention and decision-making. Strong, bidirectional anatomical connections have 
+also been traced between FEF and area LIP, suggesting that the aforementioned
+visual functions depend on these inter-area interactions. However, advancements
+in our knowledge about the interactions between area LIP and FEF are limited with
+the main animal model, the rhesus macaque, because these key regions are buried
+in the sulci of the brain. In this review, we propose that the common marmoset is
+the ideal model for investigating how anatomical connections give rise to
+functionally-complex cognitive visual behaviours, such as those modulated by the 
+frontal-parietal network, because of the homology of their cortical networks with
+humans and macaques, amenability to transgenic technology, and rich behavioural
+repertoire. Furthermore, the lissencephalic structure of the marmoset brain
+enables application of powerful techniques, such as array-based electrophysiology
+and optogenetics, which are critical to bridge the gaps in our knowledge about
+structure and function in the brain.
+
+© 2021. The Author(s).
+
+DOI: 10.1007/s00429-021-02367-9 
+PMCID: PMC8541938
+PMID: 34518902  [Indexed for MEDLINE]
+
+
+75. Cereb Cortex. 2021 Sep 13. pii: bhab328. doi: 10.1093/cercor/bhab328. [Epub ahead
+of print]
+
+Functional Organization of Frontoparietal Cortex in the Marmoset Investigated
+with Awake Resting-State fMRI.
+
+Hori Y(1), Cléry JC(1), Schaeffer DJ(2), Menon RS(1), Everling S(1)(3).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, Robarts Research Institute, The
+University of Western Ontario, London, Ontario N6A 5B7, Canada.
+(2)Department of Neurobiology, University of Pittsburgh, Pittsburgh, PA 15261,
+USA.
+(3)Department of Physiology and Pharmacology, The University of Western Ontario, 
+London, Ontario N6A 5C1, Canada.
+
+Frontoparietal networks contribute to complex cognitive functions in humans and
+macaques, such as working memory, attention, task-switching, response
+suppression, grasping, reaching, and eye movement control. However, there has
+been no comprehensive examination of the functional organization of
+frontoparietal networks using functional magnetic resonance imaging in the New
+World common marmoset monkey (Callithrix jacchus), which is now widely recognized
+as a powerful nonhuman primate experimental animal. In this study, we employed
+hierarchical clustering of interareal blood oxygen level-dependent signals to
+investigate the hypothesis that the organization of the frontoparietal cortex in 
+the marmoset follows the organizational principles of the macaque frontoparietal 
+system. We found that the posterior part of the lateral frontal cortex (premotor 
+regions) was functionally connected to the anterior parietal areas, while more
+anterior frontal regions (frontal eye field [FEF]) were connected to more
+posterior parietal areas (the region around the lateral intraparietal area
+[LIP]). These overarching patterns of interareal organization are consistent with
+a recent macaque study. These findings demonstrate parallel frontoparietal
+processing streams in marmosets and support the functional similarities of
+FEF-LIP and premotor-anterior parietal pathways between marmoset and macaque.
+
+© The Author(s) 2021. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhab328 
+PMID: 34515315 
+

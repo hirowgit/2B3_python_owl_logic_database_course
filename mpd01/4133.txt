@@ -1,0 +1,75 @@
+
+
+4133. J Reprod Fertil. 1993 Mar;97(2):425-31.
+
+Roles of cyclic AMP and inositol phosphates in the luteolytic action of
+cloprostenol, a prostaglandin F2 alpha analogue, in marmoset monkeys (Callithrix 
+jacchus).
+
+Michael AE(1), Webley GE.
+
+Author information: 
+(1)MRC/AFRC Comparative Physiology Research Group, Institute of Zoology, London, 
+UK.
+
+The luteolytic response to a prostaglandin F2 alpha analogue, cloprostenol, was
+investigated in vivo and in vitro at defined stages of the luteal phase. In vivo 
+administration of cloprostenol to female marmoset monkeys on day 3 after
+ovulation had no effect on plasma progesterone concentrations, whereas
+administration on day 14 after ovulation reduced plasma progesterone to
+preovulatory concentrations within 4 h. To identify the cellular basis for this
+luteolytic action, marmoset luteal tissue obtained on days 3, 6 and 14 after
+ovulation was incubated in vitro and progesterone production, cAMP accumulation
+and phosphoinositide (PI) turnover measured in response to cloprostenol, human
+chorionic gonadotrophin (hCG) with or without cloprostenol, or dibutyryl-cAMP
+with or without cloprostenol. Progesterone production was stimulated by both hCG 
+and dbcAMP at all stages of the luteal phase. Although neither hCG nor dbcAMP had
+any significant effects on PI turnover, hCG also increased cAMP accumulation. In 
+marmoset luteal tissue obtained on day 3 after ovulation, cloprostenol had no
+significant effect on basal or hCG/dbcAMP-stimulated progesterone production but 
+significantly stimulated PI turnover. In contrast, on days 6 and 14 after
+ovulation, cloprostenol significantly inhibited hCG- and dbcAMP-stimulated
+progesterone production and the cAMP response to hCG, but had no significant
+effect on PI turnover. Since progesterone production by the marmoset corpus
+luteum depends on the luteotrophic support of luteinizing hormone (LH), these
+observations suggest that the luteolytic action of cloprostenol in vivo involves 
+the inhibition of LH/hCG action at sites both prior and subsequent to cAMP
+accumulation. However, such luteolytic effects do not appear to require the
+generation of inositol phosphates by increased PI turnover.
+
+DOI: 10.1530/jrf.0.0970425 
+PMID: 8388957  [Indexed for MEDLINE]
+
+
+4134. J Biol Chem. 1993 Feb 25;268(6):3873-9.
+
+Molecular characterization and regulation of the human endothelin receptors.
+
+Elshourbagy NA(1), Korman DR, Wu HL, Sylvester DR, Lee JA, Nuthalaganti P,
+Bergsma DJ, Kumar CS, Nambi P.
+
+Author information: 
+(1)Department of Molecular Genetics, SmithKline Beecham Pharmaceuticals, King of 
+Prussia, Pennsylvania 19406.
+
+Endothelin receptors (ETRs) are distributed throughout a variety of tissues. Two 
+human cDNAs were identified which encode distinct ETR proteins. One cDNA encoded 
+a 427-amino acid protein that shared 91% identity to rat ETAR. The second cDNA
+encoded a 442-amino acid protein that was 88% identical to rat ETBR. Ligand
+binding studies of the cloned receptors expressed in COS cells confirmed that
+they were pharmacologically ETAR and ETBR subtypes; although the selective
+antagonist BQ123 showed a potency similar to ET-3 in displacing 125I-ET-1 binding
+to ETAR. This observation contrasts with rat ETAR pharmacology where BQ123 has a 
+100-fold higher affinity than ET3. Chinese hamster ovary cells expressing the
+human ETAR displayed equal potencies in displacing 125I-ET-1 binding, which
+indicates that rat and human ETAR are pharmacologically distinct.
+Electrophysiological studies of both ETRs expressed in Xenopus oocytes revealed
+that they are functional. Northern analysis indicated that the two ETRs are
+differentially expressed in many tissues. Marmosets maintained on a high fat/high
+cholesterol diet exhibited 3-fold increase in ETBR mRNA levels with little change
+in ETAR mRNA levels. Availability of cDNA clones for ETR subtypes can open
+avenues for future analysis of their role in pathophysiology of various diseases.
+
+
+PMID: 8440682  [Indexed for MEDLINE]
+

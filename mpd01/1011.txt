@@ -1,0 +1,83 @@
+
+
+1011. Dev Neurobiol. 2017 Mar;77(3):263-272. doi: 10.1002/dneu.22425. Epub 2016 Sep 4.
+
+The marmoset: An emerging model to unravel the evolution and development of the
+primate neocortex.
+
+Homman-Ludiye J(1), Bourne JA(1).
+
+Author information: 
+(1)Australian Regenerative Medicine Institute, Monash University, Clayton, VIC,
+3800, Australia.
+
+Throughout evolution, the neocortex has undergone a dramatic expansion providing 
+the substrate for increasingly complex cognitive abilities, culminating with
+humans. The enlargement of the neocortex did not affect its' basic organization, 
+which is remarkably conserved from rodents to primates. The mouse has thus proven
+an advantageous model to decipher the molecular and cellular mechanisms
+supporting neocortical development. However, it is of limited benefit when
+studying the mechanisms leading to the inclusion of higher order association
+areas, which form the largest fraction of the primate neocortex. In the quest for
+a suitable nonhuman primate model to study the developmental mechanism of
+neocortical patterning and expansion, researchers focussed on the Old World
+macaque, routinely employed in functional and behavioral studies. However, the
+species has many limitations making studies difficult and/or impractical.
+Therefore, in the past couple of decades, the New World common marmoset
+(Callithrix jacchus) has drawn much attention and become an accepted model. The
+marmoset has the advantage of a smooth neocortical sheet, enabling the direct
+correspondence between developing cortices and the comprehensive map established 
+for the adult, with a significant amount of cortical maturation occurring during 
+the postnatal period. This review presents the contributions of recent marmoset
+studies to our understanding of the mechanisms regulating corticogenesis in a
+complex species, the molecular control of neocortical patterning and the
+sequential maturation of visual cortical areas while commenting on the future of 
+the species in the field. Furthermore, while these new findings are relevant to
+developmental biology, in order to understand how new cortical areas have emerged
+to expand cognitive abilities, they also represent a foundation for the better
+understanding of developmental cognitive disorders. © 2016 Wiley Periodicals,
+Inc. Develop Neurobiol 77: 263-272, 2017.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/dneu.22425 
+PMID: 27479140  [Indexed for MEDLINE]
+
+
+1012. Neuron. 2016 Aug 17;91(4):905-919. doi: 10.1016/j.neuron.2016.07.004. Epub 2016
+Jul 28.
+
+Distinct Subthreshold Mechanisms Underlying Rate-Coding Principles in Primate
+Auditory Cortex.
+
+Gao L(1), Kostlan K(1), Wang Y(1), Wang X(2).
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD 21025, USA.
+(2)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD 21025, USA. Electronic
+address: xiaoqin.wang@jhu.edu.
+
+A key computational principle for encoding time-varying signals in auditory and
+somatosensory cortices of monkeys is the opponent model of rate coding by two
+distinct populations of neurons. However, the subthreshold mechanisms that give
+rise to this computation have not been revealed. Because the rate-coding neurons 
+are only observed in awake conditions, it is especially challenging to probe
+their underlying cellular mechanisms. Using a novel intracellular recording
+technique that we developed in awake marmosets, we found that the two types of
+rate-coding neurons in auditory cortex exhibited distinct subthreshold responses.
+While the positive-monotonic neurons (monotonically increasing firing rate with
+increasing stimulus repetition frequency) displayed sustained depolarization at
+high repetition frequency, the negative-monotonic neurons (opposite trend)
+instead exhibited hyperpolarization at high repetition frequency but sustained
+depolarization at low repetition frequency. The combination of excitatory and
+inhibitory subthreshold events allows the cortex to represent time-varying
+signals through these two opponent neuronal populations.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2016.07.004 
+PMCID: PMC5292152
+PMID: 27478016  [Indexed for MEDLINE]
+

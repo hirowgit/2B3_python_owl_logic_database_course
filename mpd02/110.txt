@@ -1,0 +1,58 @@
+
+
+110. J Neural Eng. 2021 Jul 21;18(4). doi: 10.1088/1741-2552/ac115c.
+
+Chronic recordings from the marmoset motor cortex reveals modulation of neural
+firing and local field potentials overlap with macaques.
+
+Mylavarapu R(1), Prins NW(2), Pohlmeyer EA(3), Shoup AM(1), Debnath S(4), Geng
+S(5), Sanchez JC(6), Schwartz O(7), Prasad A(1)(8).
+
+Author information: 
+(1)Department of Biomedical Engineering, University of Miami, Coral Gables, FL
+United States of America.
+(2)Department of Electrical and Information Engineering, University of Ruhuna,
+Galle, Sri Lanka.
+(3)Applied Physics Laboratory, Johns Hopkins University, Laurel, MD, United
+States of America.
+(4)Institute of Bioelectronic Medicine, Feinstein Institutes for Medical
+Research, Manhasset, NY, United States of America.
+(5)Institute for Data Science and Computing, University of Miami, Coral Gables,
+FL, United States of America.
+(6)Battelle, Columbus, OH, United States of America.
+(7)Department of Computer Science, University of Miami, Coral Gables, FL, United 
+States of America.
+(8)The Miami Project to Cure Paralysis, University of Miami, Miami, FL United
+States of America.
+
+Objective.The common marmoset has been increasingly used in neural interfacing
+studies due to its smaller size, easier handling, and faster breeding compared to
+Old World non-human primate (NHP) species. While assessment of cortical anatomy
+in marmosets has shown strikingly similar layout to macaques, comprehensive
+assessment of electrophysiological properties underlying forelimb reaching
+movements in this bridge species does not exist. The objective of this study is
+to characterize electrophysiological properties of signals recorded from the
+marmoset primary motor cortex (M1) during a reach task and compare with larger
+NHP models such that this smaller NHP model can be used in behavioral neural
+interfacing studies.Approach and main results.Neuronal firing rates and local
+field potentials (LFPs) were chronically recorded from M1 in three adult, male
+marmosets. Firing rates, mu + beta and high gamma frequency bands of LFPs were
+evaluated for modulation with respect to movement. Firing rate and regularity of 
+neurons of the marmoset M1 were similar to that reported in macaques with a
+subset of neurons showing selectivity to movement direction. Movement phases
+(rest vs move) was classified from both neural spiking and LFPs. Microelectrode
+arrays provide the ability to sample small regions of the motor cortex to drive
+brain-machine interfaces (BMIs). The results demonstrate that marmosets are a
+robust bridge species for behavioral neuroscience studies with motor cortical
+electrophysiological signals recorded from microelectrode arrays that are similar
+to Old World NHPs.Significance. As marmosets represent an interesting step
+between rodent and macaque models, successful demonstration that neuron
+modulation in marmoset motor cortex is analogous to reports in macaques
+illustrates the utility of marmosets as a viable species for BMI studies.
+
+© 2021 IOP Publishing Ltd.
+
+DOI: 10.1088/1741-2552/ac115c 
+PMCID: PMC8612807
+PMID: 34225263  [Indexed for MEDLINE]
+

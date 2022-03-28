@@ -1,0 +1,73 @@
+
+
+2214. Immunol Lett. 2008 Dec 22;121(2):116-22. doi: 10.1016/j.imlet.2008.09.007. Epub
+2008 Oct 31.
+
+Novel monoclonal antibodies recognizing different subsets of lymphocytes from the
+common marmoset (Callithrix jacchus).
+
+Ito R(1), Maekawa S, Kawai K, Suemizu H, Suzuki S, Ishii H, Tanioka Y, Satake M, 
+Yagita H, Habu S, Ito M.
+
+Author information: 
+(1)Central Institute for Experimental Animals, 1430 Nogawa, Miyamae, Kawasaki
+216-0001, Japan.
+
+Callithrix jacchus, the common marmoset, is a small new world primate that is
+considered effective as an experimental animal model for various human diseases. 
+In this study, we generated monoclonal antibodies (mAbs) against common marmoset 
+lymphocytes for immunological studies on the common marmoset. We established five
+hybridoma clones, 6C9, 10D7, 6F10, 7A4 and 5A1, producing anti-marmoset mAbs
+against cell surface antigens on marmoset T and/or B lymphocytes. We confirmed
+that 6C9 and 10D7 antibodies recognized CD45 antigen, and 6F10 antibody
+recognized CD8 antigen by flow cytometry using marmoset cDNA transfectants. We
+also tested them for application of immunoprecipitation, Western blot analysis
+and immunohistochemistry. We found that immunohistochemistry using marmoset
+spleen sections could be applied with all established mAbs but
+immunoprecipitation and the Western blot analysis could be applied with 6F10 and 
+10D7 antibodies but not with the other three mAbs. These results show that these 
+monoclonal antibodies are useful for advancing immunological research on the
+common marmoset.
+
+DOI: 10.1016/j.imlet.2008.09.007 
+PMID: 18977390  [Indexed for MEDLINE]
+
+
+2215. J Physiol. 2008 Dec 15;586(24):5947-67. doi: 10.1113/jphysiol.2008.161893. Epub
+2008 Oct 27.
+
+Transmission of blue (S) cone signals through the primate lateral geniculate
+nucleus.
+
+Tailby C(1), Szmajda BA, Buzás P, Lee BB, Martin PR.
+
+Author information: 
+(1)National Vision Research Institute of Australia, Corner of Keppel and Cardigan
+Streets, Carlton, Victoria 3053, Australia.
+
+This study concerns the transmission of short-wavelength-sensitive (S) cone
+signals through the primate dorsal lateral geniculate nucleus. The principal cell
+classes, magnocellular (MC) and parvocellular (PC), are traditionally segregated 
+into on- and off-subtypes on the basis of the sign of their response to luminance
+variation. Cells dominated by input from S-cones ('blue-on and blue-off') are
+less frequently encountered and their properties are less well understood. Here
+we characterize the spatial and chromatic properties of a large sample of blue-on
+and blue-off neurons and contrast them with those of PC and MC neurons. The
+results confirm that blue-on and blue-off cells have larger receptive fields than
+PC and MC neurons at equivalent eccentricities. Relative to blue-on cells,
+blue-off cells are less sensitive to S-cone contrast, have larger receptive
+fields, and show more low-pass spatial frequency tuning. Thus, blue-on and
+blue-off neurons lack the functional symmetry characteristic of on- and
+off-subtypes in the MC and PC pathways. The majority of MC and PC cells received 
+no detectible input from S-cones. Where present, input from S-cones tended to
+provide weak inhibition to PC cells. All cell types showed evidence of a
+suppressive extra-classical receptive field driven largely or exclusively by
+ML-cones. These data indicate that S-cone signals are isolated to supply the
+classical receptive field mechanisms of blue-on and blue-off cells in the LGN,
+and that the low spatial precision of S-cone vision has origins in both classical
+and extraclassical receptive field properties of subcortical pathways.
+
+DOI: 10.1113/jphysiol.2008.161893 
+PMCID: PMC2655435
+PMID: 18955378  [Indexed for MEDLINE]
+

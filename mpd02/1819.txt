@@ -1,0 +1,33 @@
+
+
+1819. Drug Metab Dispos. 2012 Jan;40(1):70-5. doi: 10.1124/dmd.111.041566. Epub 2011
+Oct 5.
+
+Debrisoquine metabolism and CYP2D expression in marmoset liver microsomes.
+
+Cooke BR(1), Bligh SW, Cybulski ZR, Ioannides C, Hall M.
+
+Author information: 
+(1)Department of In Vitro Metabolism, Huntingdon Life Sciences Ltd., Woolley
+Road, Alconbury, Huntingdon, Cambridgeshire, PE28 4HS, UK.
+
+The objective of this study was to define CYP2D enzymes in marmoset (Callithrix
+jacchus) liver microsomes, both at the activity level using debrisoquine as the
+model substrate and at the protein level using antibodies raised to human CYP2D6.
+Marmoset liver microsomes were incubated with [(14)C]debrisoquine, and the
+structure of the generated metabolites was determined using liquid
+chromatography-tandem mass spectrometry and NMR. Marmoset liver microsomes were
+very effective in hydroxylating debrisoquine at various positions. Although
+4-hydroxydebrisoquine was formed, in contrast to rat and human it was only a
+minor metabolite. Debrisoquine was more extensively hydroxylated in the 7, 5, 6, 
+and 8 positions. In addition to the monohydroxylated metabolites, a dihydroxy
+metabolite, namely 6,7-dihydroxydebrisoquine, was identified. Finally,
+metabolites that had undergone ring opening were also detected but were not
+investigated further. Antibodies to CYP2D6 immunoreacted with protein in marmoset
+and human but not rat hepatic microsomes. In conclusion, we demonstrate that
+marmoset liver microsomes are effective in hydroxylating debrisoquine at various 
+positions and that they contain a protein that is immunorelated to human CYP2D6.
+
+DOI: 10.1124/dmd.111.041566 
+PMID: 21976620  [Indexed for MEDLINE]
+

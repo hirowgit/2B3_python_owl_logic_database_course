@@ -1,0 +1,39 @@
+
+
+605. Neurobiol Aging. 2019 Feb;74:1-14. doi: 10.1016/j.neurobiolaging.2018.10.003.
+Epub 2018 Oct 11.
+
+Key periods of cognitive decline in a nonhuman primate model of cognitive aging, 
+the common marmoset (Callithrix jacchus).
+
+Sadoun A(1), Rosito M(1), Fonta C(1), Girard P(2).
+
+Author information: 
+(1)Université de Toulouse, UPS, Centre de Recherche Cerveau et Cognition,
+Toulouse, France; CerCo, CNRS UMR, 5549 Toulouse, France.
+(2)Université de Toulouse, UPS, Centre de Recherche Cerveau et Cognition,
+Toulouse, France; CerCo, CNRS UMR, 5549 Toulouse, France; INSERM, Toulouse,
+France. Electronic address: pascal.girard@cnrs.fr.
+
+It is well established that human life expectancy increases considerably with an 
+ever-growing number of people suffering from age-related cognitive decline and
+degenerative brain diseases. This necessitates the development of animal models
+to counteract or stop the progression of the decline early enough. Presently,
+primate models are few, and many studies argue for the marmoset as an interesting
+primate model presenting a short life span and being easily available in research
+laboratories. In this article, we propose the marmoset as a valid model for
+cognitive decline. Using a computer touch screen, we trained 35 marmosets from 2 
+to 14 years of age to perform reversal learning and delayed-matching-to-position 
+tasks. We found typical age-related cognitive deficits related to executive
+functions and spatial working memory. Applying a recursive algorithm, we detected
+2 critical periods from which deficits appear. Mainly, response strategy deficits
+appear from age 4, whereas impairments in inhibitory control appear from age 7-8.
+Furthermore, the presence of outliers, sometimes at an early age, suggests
+pathological cognitive deficits that would require imaging exploration in
+parallel to behavior.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neurobiolaging.2018.10.003 
+PMID: 30391909  [Indexed for MEDLINE]
+

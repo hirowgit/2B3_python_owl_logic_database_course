@@ -1,0 +1,91 @@
+
+
+195. Am J Primatol. 2021 Feb;83(2):e23229. doi: 10.1002/ajp.23229. Epub 2021 Jan 19.
+
+Temporal consistency and ecological validity of personality structure in common
+marmosets (Callithrix jacchus): A unifying field and laboratory approach.
+
+Šlipogor V(1)(2)(3), Massen JJM(1)(4), Schiel N(2), Souto A(3), Bugnyar T(1).
+
+Author information: 
+(1)Department of Behavioral and Cognitive Biology, University of Vienna, Vienna, 
+Austria.
+(2)Department of Biology, Federal Rural University of Pernambuco, Recife, Brazil.
+(3)Department of Zoology, Federal University of Pernambuco, Recife, Brazil.
+(4)Animal Ecology Group, Institute of Environmental Biology, Department of
+Biology, Utrecht University, Utrecht, The Netherlands.
+
+Personality in animals has been extensively researched in recent decades.
+Temporal consistency of behaviors is almost always part of the personality
+definition and is usually explored in several different testing sessions or
+observation periods. However, it is still unclear whether the obtained
+personality constructs are stable across several years, which might be especially
+important for long-living animals, such as primates. Further, little is known on 
+whether the personality structures obtained in the laboratory reflect the
+structures obtained under ecologically relevant conditions in the wild.
+Therefore, we conducted a battery of personality tests on common marmosets
+(Callithrix jacchus) (N = 27), compared it with a test battery conducted 4 years 
+beforehand on a subset of animals in captivity (N = 13) and ran an adapted
+version under field conditions at Baracuhy Biological Field Station, Brazil
+(N = 18). Under captive conditions, we found a remarkably similar personality
+structure across 4 testing years. Further, we found high long-term temporal
+consistency in the first two personality components, Boldness and Exploration;
+however, monkeys that changed their social (i.e., breeding) status between the
+two testing periods showed a significant increase in Boldness scores. Under field
+conditions, we found a somewhat similar personality structure as compared to the 
+laboratory, which to some extent corroborates ecological validity of our
+personality test design. Nevertheless, whether the structure in the wild is
+suppressed or expanded in comparison to captivity, and in which way the social
+setting influences personality structure, should be further explored. Taken
+together, our results contribute to the discussion about the reliability and
+ecological validity of personality structures in nonhuman primates.
+
+© 2021 The Authors. American Journal of Primatology published by Wiley
+Periodicals LLC.
+
+DOI: 10.1002/ajp.23229 
+PMCID: PMC7900989
+PMID: 33464603  [Indexed for MEDLINE]
+
+
+196. Xenobiotica. 2021 Apr;51(4):479-493. doi: 10.1080/00498254.2020.1871113. Epub
+2021 Jan 17.
+
+Human total clearance values and volumes of distribution of typical human
+cytochrome P450 2C9/19 substrates predicted by single-species allometric scaling 
+using pharmacokinetic data sets from common marmosets genotyped for P450 2C19.
+
+Matsumoto S(1), Uehara S(2)(3), Kamimura H(2)(4), Ikeda H(5), Maeda S(6), Hattori
+M(6), Nishiwaki M(7), Kato K(1), Yamazaki H(3).
+
+Author information: 
+(1)Pharmaceutical Research Labs., Meiji Seika Pharma Co., Ltd., Yokohama, Japan.
+(2)Central Institute for Experimental Animals, Kawasaki, Japan.
+(3)Pharmaceutical University, Machida, Tokyo, Japan.
+(4)Business Promotion Dept., CLEA Japan, Inc., Tokyo, Japan.
+(5)Tokyo Animal & Diet Dept., CLEA Japan, Inc., Tokyo, Japan.
+(6)Yaotsu Breeding Center, CLEA Japan, Inc., Gifu, Japan.
+(7)Fuji Technical Service Center, CLEA Japan, Inc.., Shizuoka, Japan.
+
+Common marmosets (Callithrix jacchus) are small non-human primates that
+genetically lack cytochrome P450 2C9 (CYP2C9). Polymorphic marmoset CYP2C19
+compensates by mediating oxidations of typical human CYP2C9/19
+substrates.Twenty-four probe substrates were intravenously administered in
+combinations to marmosets assigned to extensive or poor metaboliser (PM) groups
+by CYP2C19 genotyping. Eliminations from plasma of cilomilast, phenytoin,
+repaglinide, tolbutamide, and S-warfarin in the CYP2C19 PM group were
+significantly slow; these drugs are known substrates of human CYP2C8/9/19.Human
+total clearance values and volumes of distribution of the 24 test compounds were 
+extrapolated using single-species allometric scaling with experimental data from 
+marmosets and found to be mostly comparable with the reported values.Human total 
+clearance values and volumes of distribution of 15 of the 24 test compounds
+similarly extrapolated using reported data sets from cynomolgus or rhesus monkeys
+were comparable to the present predicted results, especially to those based on
+data from PM marmosets.These results suggest that single-species allometric
+scaling using marmosets, being small, has advantages over multiple-species-based 
+allometry and could be applicable for pharmacokinetic predictions at the
+discovery stage of drug development.
+
+DOI: 10.1080/00498254.2020.1871113 
+PMID: 33455494  [Indexed for MEDLINE]
+

@@ -1,0 +1,34 @@
+
+
+3406. J Gen Virol. 1999 Aug;80 ( Pt 8):2193-2203. doi: 10.1099/0022-1317-80-8-2193.
+
+Epstein-Barr virus lacking latent membrane protein 2 immortalizes B cells with
+efficiency indistinguishable from that of wild-type virus.
+
+Speck P(1), Kline KA(1), Cheresh P(1), Longnecker R(1).
+
+Author information: 
+(1)Department of Microbiology-Immunology, Northwestern University Medical School,
+Room 6-231 Ward Building, 303 East Chicago Avenue, Chicago, Illinois 60611, USA1.
+
+Epstein-Barr virus (EBV) is a human herpesvirus that efficiently transforms and
+immortalizes human primary B lymphocytes. In this study, the role of latent
+membrane protein 2 (LMP2) in EBV growth transformation was investigated. LMP2 is 
+a virally encoded membrane protein expressed in EBV-immortalized B cells
+previously shown to be nonessential for EBV transformation. However, a recent
+study reported that LMP2 may be an important determinant for efficient B cell
+transformation (Brielmeier et al., Journal of General Virology 77, 2807-2818,
+1996). In this study a deletion mutation was introduced into the LMP2 gene using 
+an E. coli mini-EBV construct containing sufficient EBV DNA to result in growth
+transformation of primary B cells. In an alternative approach, the introduction
+of the gene encoding the enhanced green fluorescent protein (EGFP) by homologous 
+recombination into the LMP2 gene of EBV strain B95-8, generating the same LMP2
+deletion mutation is reported. Careful quantification of B cell transformation
+using the EGFP+ LMP2- recombinant virus determined that in liquid culture medium 
+or in culture medium containing soft agarose there was no difference in the
+ability of LMP2- virus to immortalize primary human B cells when compared to that
+of wild-type virus.
+
+DOI: 10.1099/0022-1317-80-8-2193 
+PMID: 10466819  [Indexed for MEDLINE]
+

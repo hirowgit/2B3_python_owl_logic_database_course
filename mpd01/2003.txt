@@ -1,0 +1,78 @@
+
+
+2003. J Neurotrauma. 2010 Jul;27(7):1321-32. doi: 10.1089/neu.2010.1294.
+
+Upregulation of EphA4 on astrocytes potentially mediates astrocytic gliosis after
+cortical lesion in the marmoset monkey.
+
+Goldshmit Y(1), Bourne J.
+
+Author information: 
+(1)Australian Regenerative Medicine Institute, Monash University, Melbourne,
+Victoria, Australia. yona.goldshmit@med.monash.edu.au
+
+Glial scar formation occurs in response to brain injury in mammalian models and
+inhibits axonal growth. Identification of molecules that may mediate reactivity
+of astrocytes has become a leading therapeutic goal in the field of neurotrauma. 
+In adult rodent brain and spinal cord, many of the Eph receptors and their ephrin
+ligands have been demonstrated to be upregulated on reactive astrocytes at the
+injury site; however, little is known about the expression of these molecules in 
+nonhuman primate injury models. This study examines the role of the tyrosine
+kinase EphA4 receptor, which predominantly binds most ephrin ligands, after
+injury in marmoset monkey brain. Following lesioning of the primary visual cortex
+(V1) in the adult marmoset, EphA4 is strongly upregulated on reactive astrocytes 
+around the lesion site, which secrete extracellular matrix molecules such as
+chondroitin sulfate proteoglycans, which are known for their inhibitory effect on
+axonal growth and regeneration. This astrocyte reactivity was also associated
+with neuronal death in the area adjacent to the lesion site. EphA4 activation
+induced by clustered ephrin A5-Fc-mediated astrocyte proliferation and glial
+fibrillary acidic protein expression in vitro, as demonstrated by closure of
+scratched wound and MTT assays, occurs via two potential signaling pathways, the 
+mitogen-activated protein kinase and Rho pathways. These results in a nonhuman
+primate model highlight the importance of developing pharmacotherapeutic
+approaches to block these molecules following brain injury.
+
+DOI: 10.1089/neu.2010.1294 
+PMID: 20486805  [Indexed for MEDLINE]
+
+
+2004. Invest Ophthalmol Vis Sci. 2010 Oct;51(10):5288-96. doi: 10.1167/iovs.10-5389.
+Epub 2010 May 19.
+
+Evaluation of AAV-mediated expression of Chop2-GFP in the marmoset retina.
+
+Ivanova E(1), Hwang GS, Pan ZH, Troilo D.
+
+Author information: 
+(1)Department of Anatomy and Cell Biology, Wayne State University School of
+Medicine, Detroit, Michigan, USA. eivanova@med.wayne.edu
+
+PURPOSE: Converting inner retinal neurons to photosensitive cells by expressing
+channelrhodopsin-2 (ChR2) offers a novel approach for treating blindness caused
+by retinal degenerative diseases. In the present study, the recombinant
+adeno-associated virus serotype 2 (rAAV2)-mediated expression and function of a
+fusion construct of channelopsin-2 (Chop2) and green fluorescent protein (GFP)
+(Chop2-GFP) were evaluated in the inner retinal neurons in the common marmoset
+Callithrix jacchus.
+METHODS: rAAV2 vectors carrying ubiquitous promoters were injected into the
+vitreous chamber. Expression of Chop2-GFP and functional properties of ChR2 were 
+examined by immunocytochemical and electrophysiological methods 3 months after
+injection.
+RESULTS: The percentage of Chop2-GFP-expressing cells in the ganglion cell layer 
+was found to be retinal region- and animal age-dependent. The highest percentage 
+was observed in the far-peripheral region. Chop2-GFP expression was also found in
+the foveal and parafoveal region. In the peripheral retina in young animals with 
+high viral concentrations, the expression of Chop2-GFP was observed in all major 
+classes of retinal neurons, including all major types of ganglion cells. The
+morphologic properties of Chop2-GFP-positive cells were normal for at least 3
+months, and ChR2-mediated light responses were demonstrated by
+electrophysiological recordings.
+CONCLUSIONS: The rAAV2-mediated expression of ChR2 was observed in the inner
+retinal neurons in the marmoset retina through intravitreal delivery. The
+marmoset could be a valuable nonhuman primate model for developing ChR2-based
+gene therapy for treating blinding retinal degenerative diseases.
+
+DOI: 10.1167/iovs.10-5389 
+PMCID: PMC2939198
+PMID: 20484599  [Indexed for MEDLINE]
+

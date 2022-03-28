@@ -1,0 +1,73 @@
+
+
+929. Proc Natl Acad Sci U S A. 2017 Jan 31;114(5):E840-E848. doi:
+10.1073/pnas.1607519114. Epub 2017 Jan 17.
+
+Harmonic template neurons in primate auditory cortex underlying complex sound
+processing.
+
+Feng L(1), Wang X(2).
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD 21205.
+(2)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD 21205
+xiaoqin.wang@jhu.edu.
+
+Harmonicity is a fundamental element of music, speech, and animal vocalizations. 
+How the auditory system extracts harmonic structures embedded in complex sounds
+and uses them to form a coherent unitary entity is not fully understood. Despite 
+the prevalence of sounds rich in harmonic structures in our everyday hearing
+environment, it has remained largely unknown what neural mechanisms are used by
+the primate auditory cortex to extract these biologically important acoustic
+structures. In this study, we discovered a unique class of harmonic template
+neurons in the core region of auditory cortex of a highly vocal New World
+primate, the common marmoset (Callithrix jacchus), across the entire hearing
+frequency range. Marmosets have a rich vocal repertoire and a similar hearing
+range to that of humans. Responses of these neurons show nonlinear facilitation
+to harmonic complex sounds over inharmonic sounds, selectivity for particular
+harmonic structures beyond two-tone combinations, and sensitivity to harmonic
+number and spectral regularity. Our findings suggest that the harmonic template
+neurons in auditory cortex may play an important role in processing sounds with
+harmonic structures, such as animal vocalizations, human speech, and music.
+
+DOI: 10.1073/pnas.1607519114 
+PMCID: PMC5293092
+PMID: 28096341  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+930. Elife. 2017 Jan 16;6. pii: e20782. doi: 10.7554/eLife.20782.
+
+Vocal development in a Waddington landscape.
+
+Teramoto Y(1), Takahashi DY(1)(2), Holmes P(1)(3), Ghazanfar AA(1)(2)(4).
+
+Author information: 
+(1)Princeton Neuroscience Institute, Princeton University, Princeton, United
+States.
+(2)Department of Psychology, Princeton University, Princeton, United States.
+(3)Department of Mechanical and Aerospace Engineering and Program in Applied and 
+Computational Mathematics, Princeton University, Princeton, United States.
+(4)Department of Ecology and Evolutionary Biology, Princeton University,
+Princeton, United States.
+
+Vocal development is the adaptive coordination of the vocal apparatus, muscles,
+the nervous system, and social interaction. Here, we use a quantitative framework
+based on optimal control theory and Waddington's landscape metaphor to provide an
+integrated view of this process. With a biomechanical model of the marmoset
+monkey vocal apparatus and behavioral developmental data, we show that only the
+combination of the developing vocal tract, vocal apparatus muscles and nervous
+system can fully account for the patterns of vocal development. Together, these
+elements influence the shape of the monkeys' vocal developmental landscape,
+tilting, rotating or shifting it in different ways. We can thus use this
+framework to make quantitative predictions regarding how interfering factors or
+experimental perturbations can change the landscape within a species, or to
+explain comparative differences in vocal development across species.
+
+DOI: 10.7554/eLife.20782 
+PMCID: PMC5310845
+PMID: 28092262  [Indexed for MEDLINE]
+

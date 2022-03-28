@@ -1,0 +1,41 @@
+
+
+3227. Stroke. 2001 Jan;32(1):190-8.
+
+NXY-059, a free radical--trapping agent, substantially lessens the functional
+disability resulting from cerebral ischemia in a primate species.
+
+Marshall JW(1), Duffin KJ, Green AR, Ridley RM.
+
+Author information: 
+(1)MRC Comparative Cognition Team, Department of Experimental Psychology,
+University of Cambridge (UK). jwbm2@cus.cam.ac.uk
+
+BACKGROUND AND PURPOSE: NXY-059 is a novel nitrone with free radical-trapping
+properties that has a considerable neuroprotective effect in rats. We have now
+examined the efficacy of this drug at reducing long-term functional disability in
+a primate model of stroke.
+METHODS: Twelve monkeys were trained and tested on a variety of behavioral tasks 
+used to dissociate and quantify motor and spatial deficits. Five minutes after
+permanent occlusion of the right middle cerebral artery, monkeys received a 1-mL 
+intravenous infusion of either saline or NXY-059 (28 mg x kg(-1)), and osmotic
+minipumps, model 2001D, were implanted subcutaneously to provide continuous drug 
+or saline infusion for 48 hours. Drug-filled pumps released NXY-059 at 16 mg x
+kg(-1) x h(-1). The monkeys were retested 3 and 10 weeks after surgery to assess 
+functional disability. Surgery, behavioral testing, and histology were all done
+blinded to treatment condition.
+RESULTS: NXY-059-treated monkeys were significantly better at reaching with their
+hemiparetic arm than were saline-treated monkeys when retested 3 weeks (P:<0.01) 
+and 10 weeks (P:<0.01) after surgery. Drug treatment also significantly lessened 
+the degree of spatial perceptual neglect (P:<0.01), a debilitating though
+ameliorating consequence of this infarct. NXY-059 treatment reduced the overall
+amount of brain damage by >50% of saline-treatment values, with similar levels of
+protection afforded to both white and gray matter.
+CONCLUSIONS: This novel drug has a substantial protective effect, lessening the
+disability caused by an experimentally induced stroke in a primate species. These
+findings provide considerable encouragement for the clinical development of
+NXY-059.
+
+DOI: 10.1161/01.str.32.1.190 
+PMID: 11136936  [Indexed for MEDLINE]
+

@@ -1,0 +1,74 @@
+
+
+2069. J Neurosci. 2009 Dec 9;29(49):15455-71. doi: 10.1523/JNEUROSCI.1648-09.2009.
+
+Four projection streams from primate V1 to the cytochrome oxidase stripes of V2.
+
+Federer F(1), Ichida JM, Jeffs J, Schiessl I, McLoughlin N, Angelucci A.
+
+Author information: 
+(1)Department of Ophthalmology, University of Utah, Salt Lake City, Utah 84132,
+USA.
+
+In the primate visual system, areas V1 and V2 distribute information they receive
+from the retina to all higher cortical areas, sorting this information into
+dorsal and ventral streams. Therefore, knowledge of the organization of
+projections between V1 and V2 is crucial to understand how the cortex processes
+visual information. In primates, parallel output pathways from V1 project to
+distinct V2 stripes. The traditional tripartite division of V1-to-V2 projections 
+was recently replaced by a bipartite scheme, in which thin stripes receive V1
+inputs from blob columns, and thick and pale stripes receive common input from
+interblob columns. Here, we demonstrate that thick and pale stripes, instead,
+receive spatially segregated V1 inputs and that the interblob is partitioned into
+two compartments: the middle of the interblob projecting to pale stripes and the 
+blob/interblob border region projecting to thick stripes. Double-labeling
+experiments further demonstrate that V1 cells project to either thick or pale
+stripes, but rarely to both. We also find laminar specialization of V1 outputs,
+with layer 4B contributing projections mainly to thick stripes, and no
+projections to one set of pale stripes. These laminar differences suggest
+different contribution of magno, parvo, and konio inputs to each V1 output
+pathway. These results provide a new foundation for parallel processing models of
+the visual system by demonstrating four V1-to-V2 pathways: blob columns-to-thin
+stripes, blob/interblob border columns-to-thick stripes, interblob
+columns-to-pale(lateral) stripes, layer 2/3-4A interblobs-to-pale(medial)
+stripes.
+
+DOI: 10.1523/JNEUROSCI.1648-09.2009 
+PMCID: PMC2909028
+PMID: 20007470  [Indexed for MEDLINE]
+
+
+2070. Methods Mol Biol. 2010;598:341-59. doi: 10.1007/978-1-60761-401-2_23.
+
+Immunotoxicity testing in nonhuman primates.
+
+Grote-Wessels S, Frings W, Smith CA, Weinbauer GF.
+
+Biological relevance is generally the major justification for using nonhuman
+primates (NHP) during preclinical safety assessment. This holds particularly true
+for the evaluation of biopharmaceuticals with NHP often being the species of
+choice. For safety assessment of small molecules, NHP are used in case of a
+higher degree of metabolic similarity, to detect the highly specific immunotoxic 
+side effects and to discriminate toxicity from efficacy of immunomodulatory
+drugs. Unlike for rodent immunotoxicity studies, standardized tests and protocols
+are generally less available for NHP. The immunotoxicity testing protocols
+described in the present chapter have been adapted for application to NHP
+samples. In principle, rodent protocols can be transferred to NHP. Fortunately,
+most of the immunotoxicity parameters delineated in the ICH S8 guideline can be
+applied to NHP specimens. Exceptions are the host resistance assay and the
+delayed type hypersensitivity test. Owing to the close structural and
+physiological similarity between NHP and human, human test kits or reagents are
+often well suited for application to NHP samples. For data evaluation it should
+be noted that no inbred strains of NHP are available, resulting in a large
+inter-animal variability for most immunotoxicity assay results. The experimental 
+protocols and reagents described in this chapter were developed specifically for 
+the cynomolgus monkey (Macaca fascicularis), currently the most commonly used NHP
+species in toxicology. In many instances, these protocols will also be applicable
+to rhesus monkeys (M. mulatta) and potentially to other Old World macaques. For
+the marmoset (Callithrix jacchus), a New World monkey also used in toxicology,
+the choice of available immunotoxicity testing protocols is much reduced when
+compared to macaques.
+
+DOI: 10.1007/978-1-60761-401-2_23 
+PMID: 19967524  [Indexed for MEDLINE]
+

@@ -1,0 +1,51 @@
+
+
+1033. J Neurophysiol. 2016 Sep 1;116(3):1286-94. doi: 10.1152/jn.00197.2016. Epub 2016 
+Jun 22.
+
+Optogenetic manipulation of neural circuits in awake marmosets.
+
+MacDougall M(1), Nummela SU(2), Coop S(2), Disney A(3), Mitchell JF(4), Miller
+CT(5).
+
+Author information: 
+(1)Department of Neurosurgery, University of California, San Diego, La Jolla,
+California; Cortical Systems and Behavior Laboratory, University of California,
+San Diego, La Jolla, California;
+(2)Cortical Systems and Behavior Laboratory, University of California, San Diego,
+La Jolla, California;
+(3)Department of Psychology, Vanderbilt University, Nashville, Tennessee; and.
+(4)Kavli Institute for Brain & Mind, University of California, San Diego, La
+Jolla, California; Department of Brain and Cognitive Sciences, University of
+Rochester, Rochester, New York.
+(5)Cortical Systems and Behavior Laboratory, University of California, San Diego,
+La Jolla, California; Neurosciences Graduate Program, University of California,
+San Diego, La Jolla, California; Kavli Institute for Brain & Mind, University of 
+California, San Diego, La Jolla, California; corymiller@ucsd.edu.
+
+Optogenetics has revolutionized the study of functional neuronal circuitry
+(Boyden ES, Zhang F, Bamberg E, Nagel G, Deisseroth K. Nat Neurosci 8: 1263-1268,
+2005; Deisseroth K. Nat Methods 8: 26-29, 2011). Although these techniques have
+been most successfully implemented in rodent models, they have the potential to
+be similarly impactful in studies of nonhuman primate brains. Common marmosets
+(Callithrix jacchus) have recently emerged as a candidate primate model for gene 
+editing, providing a potentially powerful model for studies of neural circuitry
+and disease in primates. The application of viral transduction methods in
+marmosets for identifying and manipulating neuronal circuitry is a crucial step
+in developing this species for neuroscience research. In the present study we
+developed a novel, chronic method to successfully induce rapid photostimulation
+in individual cortical neurons transduced by adeno-associated virus to express
+channelrhodopsin (ChR2) in awake marmosets. We found that large proportions of
+neurons could be effectively photoactivated following viral transduction and that
+this procedure could be repeated for several months. These data suggest that
+techniques for viral transduction and optical manipulation of neuronal
+populations are suitable for marmosets and can be combined with existing
+behavioral preparations in the species to elucidate the functional neural
+circuitry underlying perceptual and cognitive processes.
+
+Copyright © 2016 the American Physiological Society.
+
+DOI: 10.1152/jn.00197.2016 
+PMCID: PMC5023415
+PMID: 27334951  [Indexed for MEDLINE]
+

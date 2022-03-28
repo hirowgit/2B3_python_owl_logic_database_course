@@ -1,0 +1,39 @@
+
+
+2914. Mov Disord. 2003 Aug;18(8):872-83.
+
+Fipamezole (JP-1730) is a potent alpha2 adrenergic receptor antagonist that
+reduces levodopa-induced dyskinesia in the MPTP-lesioned primate model of
+Parkinson's disease.
+
+Savola JM(1), Hill M, Engstrom M, Merivuori H, Wurster S, McGuire SG, Fox SH,
+Crossman AR, Brotchie JM.
+
+Author information: 
+(1)Juvantia Pharma Ltd., PharmaCity, Turku, Finland.
+
+Previous studies in the MPTP-lesioned primate model of Parkinson's disease have
+demonstrated that alpha(2) adrenergic receptor antagonists such as idazoxan,
+rauwolscine, and yohimbine can alleviate L-dopa-induced dyskinesia and, in the
+case of idazoxan, enhance the duration of anti-parkinsonian action of L-dopa.
+Here we describe a novel alpha(2) antagonist, fipamezole (JP-1730), which has
+high affinity at human alpha(2A) (K(i), 9.2 nM), alpha(2B) (17 nM), and alpha(2C)
+(55 nM) receptors. In functional assays, the potent antagonist properties of
+JP-1730 were demonstrated by its ability to reduce adrenaline-induced
+(35)S-GTPgammaS binding with K(B) values of 8.4 nM, 16 nM, 4.7 nM at human
+alpha(2A), alpha(2B), and alpha(2C) receptors, respectively. Assessment of the
+ability of JP-1730 to bind to a range of 30 other binding sites showed that
+JP-1730 also had moderate affinity at histamine H1 and H3 receptors and the
+serotonin (5-HT) transporter (IC(50) 100 nM to 1 microM). In the MPTP-lesioned
+marmoset, JP-1730 (10 mg/kg) significantly reduced L-dopa-induced dyskinesia
+without compromising the anti-parkinsonian action of L-dopa. The duration of
+action of the combination of L-dopa and JP-1730 (10 mg/kg) was 66% greater than
+that of L-dopa alone. These data suggest that JP-1730 is a potent alpha(2)
+adrenergic receptor antagonist with potential as an anti-dyskinetic agent in the 
+treatment of Parkinson's disease.
+
+Copyright 2003 Movement Disorder Society
+
+DOI: 10.1002/mds.10464 
+PMID: 12889076  [Indexed for MEDLINE]
+

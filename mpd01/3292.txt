@@ -1,0 +1,82 @@
+
+
+3292. Chem Biol. 2000 Jul;7(7):493-504.
+
+Structure-based drug design: the discovery of novel nonpeptide orally active
+inhibitors of human renin.
+
+Rahuel J(1), Rasetti V, Maibaum J, Rüeger H, Göschke R, Cohen NC, Stutz S, Cumin 
+F, Fuhrer W, Wood JM, Grütter MG.
+
+Author information: 
+(1)Core Technology Area, Novartis Pharma AG, Metabolic and Cardiovascular
+Diseases, Basle, Switzerland.
+
+BACKGROUND: The aspartic proteinase renin plays an important physiological role
+in the regulation of blood pressure. It catalyses the first step in the
+conversion of angiotensinogen to the hormone angiotensin II. In the past, potent 
+peptide inhibitors of renin have been developed, but none of these compounds has 
+made it to the end of clinical trials. Our primary aim was to develop novel
+nonpeptide inhibitors. Based on the available structural information concerning
+renin-substrate interactions, we synthesized inhibitors in which the peptide
+portion was replaced by lipophilic moieties that interact with the large
+hydrophobic S1/S3-binding pocket in renin.
+RESULTS: Crystal structure analysis of renin-inhibitor complexes combined with
+computational methods were employed in the medicinal-chemistry optimisation
+process. Structure analysis revealed that the newly designed inhibitors bind as
+predicted to the S1/S3 pocket. In addition, however, these compounds interact
+with a hitherto unrecognised large, distinct, sub-pocket of the enzyme that
+extends from the S3-binding site towards the hydrophobic core of the enzyme.
+Binding to this S3(sp) sub-pocket was essential for high binding affinity. This
+unprecedented binding mode guided the drug-design process in which the mostly
+hydrophobic interactions within subsite S3(sp) were optimised.
+CONCLUSIONS: Our design approach led to compounds with high in vitro affinity and
+specificity for renin, favourable bioavailability and excellent oral efficacy in 
+lowering blood pressure in primates. These renin inhibitors are therefore
+potential therapeutic agents for the treatment of hypertension and related
+cardiovascular diseases.
+
+DOI: 10.1016/s1074-5521(00)00134-4 
+PMID: 10903938  [Indexed for MEDLINE]
+
+
+3293. Clin Neuropharmacol. 2000 May-Jun;23(3):133-42.
+
+Transdermal administration of piribedil reverses MPTP-induced motor deficits in
+the common marmoset.
+
+Smith LA(1), Jackson MG, Bonhomme C, Chezaubernard C, Pearce RK, Jenner P.
+
+Author information: 
+(1)Neurodegenerative Diseases Research Centre, Guy's, King's and St. Thomas'
+School of Biomedical Sciences, King's College, London, UK.
+
+The ability of transdermal administration of the dopamine D2/D3 agonist piribedil
+(1-[3,4-methylenedioxybenzyl)]-4-[(2-pyrimidinyl)]piperazine) to reverse
+hypokinesia and other motor deficits observed in MPTP-treated common marmosets
+was investigated. Piribedil (2.5-10.0 mg/animal), applied directly to the skin of
+the abdomen as a paste, produced a long-lasting and concentration-dependent
+reversal of motor deficits. The antiparkinsonian actions of piribedil occurred
+within 10 minutes of drug administration and lasted as long as 10 hours.
+Transdermally applied piribedil produced a pattern of locomotor activity
+characteristic of normal motor behavior in this species. Symptoms of nausea
+(marked excessive salivation, retching, and/or vomiting) were not observed after 
+transdermal application of piribedil. Additionally, pretreatment with the
+peripheral dopamine antagonist domperidone enhanced the antiparkinsonian effects 
+of piribedil. Application to the skin of monolayer or bilayer patches impregnated
+with piribedil also produced a marked increase in locomotor activity and reversal
+of motor deficits. After application of various patch fractions (whole, one-half,
+or one-fourth), the increase in locomotor activity and reversal of disability
+correlated well with the surface area of skin covered. Measurement of serum
+levels of piribedil after single application of bilayer patches showed a positive
+relationship between drug levels and antiparkinsonian activity. Repeated daily
+application of piribedil bilayer patches for 5 days to MPTP-treated common
+marmosets primed to show dyskinesia by previous exposure to L-Dopa produced
+antiparkinsonian activity accompanied by dyskinetic movements. Transdermal
+administration of dopamine agonists such as piribedil may provide a useful means 
+of producing a long-lasting reversal of motor deficits in Parkinson's disease
+while avoiding acute adverse effects such as nausea.
+
+DOI: 10.1097/00002826-200005000-00002 
+PMID: 10895396  [Indexed for MEDLINE]
+

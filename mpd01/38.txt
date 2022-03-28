@@ -1,0 +1,97 @@
+
+
+38. Microorganisms. 2021 Oct 21;9(11). pii: 2196. doi: 10.3390/microorganisms9112196.
+
+Genotype-Dependent Immunogenicity of Dengue Virus Type 2 Asian I and
+Asian/American Genotypes in Common Marmoset (Callithrix jacchus): Discrepancy in 
+Neutralizing and Infection-Enhancing Antibody Levels between Genotypes.
+
+Azami NAM(1)(2), Moi ML(3), Ami Y(4), Suzaki Y(4), Taniguchi S(1), Tajima S(1),
+Saijo M(1), Takasaki T(5), Kurane I(6), Lim CK(1).
+
+Author information: 
+(1)Department of Virology 1, National Institute of Infectious Diseases, Tokyo
+162-8640, Japan.
+(2)UKM Medical Molecular Biology Institute, Universiti Kebangsaan Malaysia, Kuala
+Lumpur 56000, Malaysia.
+(3)School of International Health, The University of Tokyo, Tokyo 113-0033,
+Japan.
+(4)Division of Experimental Animal Research, National Institute of Infectious
+Diseases, Tokyo 208-0011, Japan.
+(5)Kanagawa Prefectural Institute of Public Health, Kanagawa 253-0087, Japan.
+(6)National Institute of Infectious Diseases, Tokyo 162-8640, Japan.
+
+Owing to genotype-specific neutralizing antibodies, analyzing differences in the 
+immunogenic variation among dengue virus (DENV) genotypes is central to effective
+vaccine development. Herein, we characterized the viral kinetics and antibody
+response induced by DENV type 2 Asian I (AI) and Asian/American (AA) genotypes
+using marmosets (Callithrix jacchus) as models. Two groups of marmosets were
+inoculated with AI and AA genotypes, and serial plasma samples were collected.
+Viremia levels were determined using quantitative reverse transcription-PCR,
+plaque assays, and antigen enzyme-linked immunosorbent assay (ELISA). Anti-DENV
+immunoglobulin M and G antibodies, neutralizing antibody titer, and
+antibody-dependent enhancement (ADE) activity were determined using ELISA, plaque
+reduction neutralization test, and ADE assay, respectively. The AI genotype
+induced viremia for a longer duration, but the AA genotype induced higher levels 
+of viremia. After four months, the neutralizing antibody titer induced by the AA 
+genotype remained high, but that induced by the AI genotype waned. ADE activity
+toward Cosmopolitan genotypes was detected in marmosets inoculated with the AI
+genotype. These findings indicate discrepancies between heterologous genotypes
+that influence neutralizing antibodies and viremia in marmosets, a critical issue
+in vaccine development.
+
+DOI: 10.3390/microorganisms9112196 
+PMCID: PMC8618970
+PMID: 34835327 
+
+
+39. Nat Commun. 2021 Nov 25;12(1):6906. doi: 10.1038/s41467-021-27245-0.
+
+NogoA-expressing astrocytes limit peripheral macrophage infiltration after
+ischemic brain injury in primates.
+
+Boghdadi AG(1), Spurrier J(#)(2)(3)(4), Teo L(#)(1), Li M(2)(4), Skarica M(2)(4),
+Cao B(1)(5), Kwan WC(1), Merson TD(1), Nilsson SK(1)(5), Sestan
+N(2)(4)(6)(7)(8)(9), Strittmatter SM(2)(3)(4), Bourne JA(10).
+
+Author information: 
+(1)Australian Regenerative Medicine Institute, Monash University, 15 Innovation
+Walk, Clayton, VIC, 3800, Australia.
+(2)Cellular Neuroscience, Neurodegeneration, and Repair Program, Yale University 
+School of Medicine, New Haven, CT, 06536, USA.
+(3)Department of Neurology, Yale University School of Medicine, New Haven, CT,
+06536, USA.
+(4)Department of Neuroscience, Yale University School of Medicine, New Haven, CT,
+06536, USA.
+(5)Biomedical Manufacturing CSIRO Manufacturing, Clayton, VIC, 3169, Australia.
+(6)Department of Genetics, Yale University School of Medicine, New Haven, CT,
+06536, USA.
+(7)Department of Psychiatry, Yale University School of Medicine, New Haven, CT,
+06536, USA.
+(8)Department of Comparative Medicine, Yale University School of Medicine, New
+Haven, CT, 06536, USA.
+(9)Yale Child Study Center, Yale University School of Medicine, New Haven, CT,
+06536, USA.
+(10)Australian Regenerative Medicine Institute, Monash University, 15 Innovation 
+Walk, Clayton, VIC, 3800, Australia. james.bourne@monash.edu.
+(#)Contributed equally
+
+Astrocytes play critical roles after brain injury, but their precise function is 
+poorly defined. Utilizing single-nuclei transcriptomics to characterize
+astrocytes after ischemic stroke in the visual cortex of the marmoset monkey, we 
+observed nearly complete segregation between stroke and control astrocyte
+clusters. Screening for the top 30 differentially expressed genes that might
+limit stroke recovery, we discovered that a majority of astrocytes expressed
+RTN4A/ NogoA, a neurite-outgrowth inhibitory protein previously only associated
+with oligodendrocytes. NogoA upregulation on reactive astrocytes post-stroke was 
+significant in both the marmoset and human brain, whereas only a marginal change 
+was observed in mice. We determined that NogoA mediated an anti-inflammatory
+response which likely contributes to limiting the infiltration of peripheral
+macrophages into the surviving parenchyma.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41467-021-27245-0 
+PMCID: PMC8617297
+PMID: 34824275  [Indexed for MEDLINE]
+

@@ -1,0 +1,67 @@
+
+
+1502. Annu Int Conf IEEE Eng Med Biol Soc. 2013;2013:5250-3. doi:
+10.1109/EMBC.2013.6610733.
+
+Feature extraction and unsupervised classification of neural population reward
+signals for reinforcement based BMI.
+
+Prins NW, Geng S, Pohlmeyer EA, Mahmoudi B, Sanchez JC.
+
+New reinforcement based paradigms for building adaptive decoders for
+Brain-Machine Interfaces involve using feedback directly from the brain. In this 
+work, we investigated neuromodulation in the Nucleus Accumbens (reward center)
+during a multi-target reaching task and investigated how to extract a reinforcing
+or non-reinforcing signal that could be used to adapt a BMI decoder. One of the
+challenges in brain-driven adaptation is how to translate biological
+neuromodulation into a single binary signal from the distributed representation
+of the neural population, which may encode many aspects of reward. To extract
+these signals, feature analysis and clustering were used to identify timing and
+coding properties of a user's neuromodulation related to reward perception.
+First, Principal Component Analysis (PCA) of reward related neural signals was
+used to extract variance in the firing and the optimum time correlation between
+the neural signal and the reward phase of the task. Next, k-means clustering was 
+used to separate data into two classes.
+
+DOI: 10.1109/EMBC.2013.6610733 
+PMID: 24110920  [Indexed for MEDLINE]
+
+
+1503. Hum Mol Genet. 2014 Feb 1;23(3):668-81. doi: 10.1093/hmg/ddt454. Epub 2013 Sep
+18.
+
+Widespread spinal cord transduction by intrathecal injection of rAAV delivers
+efficacious RNAi therapy for amyotrophic lateral sclerosis.
+
+Wang H(1), Yang B, Qiu L, Yang C, Kramer J, Su Q, Guo Y, Brown RH Jr, Gao G, Xu
+Z.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Pharmacology.
+
+Amyotrophic lateral sclerosis (ALS) causes motor neuron degeneration and
+paralysis. No treatment can significantly slow or arrest the disease progression.
+Mutations in the SOD1 gene cause a subset of familial ALS by a gain of toxicity. 
+In principle, these cases could be treated with RNAi that destroys the mutant
+mRNA, thereby abolishing the toxic protein. However, no system is available to
+efficiently deliver the RNAi therapy. Recombinant adenoassociated virus (rAAV) is
+a promising vehicle due to its long-lasting gene expression and low toxicity.
+However, ALS afflicts broad areas of the central nervous system (CNS). A lack of 
+practical means to spread rAAV broadly has hindered its application in treatment 
+of ALS. To overcome this barrier, we injected several rAAV serotypes into the
+cerebrospinal fluid. We found that some rAAV serotypes such as rAAVrh10 and rAAV9
+transduced cells throughout the length of the spinal cord following a single
+intrathecal injection and in the broad forebrain following a single injection
+into the third ventricle. Furthermore, a single intrathecal injection of rAAVrh10
+robustly transduced motor neurons throughout the spinal cord in a non-human
+primate. These results suggested a therapeutic potential of this vector for ALS. 
+To test this, we injected a rAAVrh10 vector that expressed an artificial miRNA
+targeting SOD1 into the SOD1G93A mice. This treatment knocked down the mutant
+SOD1 expression and slowed the disease progression. Our results demonstrate the
+potential of rAAVs for delivering gene therapy to treat ALS and other diseases
+that afflict broad areas of the CNS.
+
+DOI: 10.1093/hmg/ddt454 
+PMCID: PMC3888258
+PMID: 24108104  [Indexed for MEDLINE]
+

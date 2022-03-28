@@ -1,0 +1,41 @@
+
+
+1654. PLoS One. 2012;7(9):e45587. doi: 10.1371/journal.pone.0045587. Epub 2012 Sep 20.
+
+The monoamine re-uptake inhibitor UWA-101 improves motor fluctuations in the
+MPTP-lesioned common marmoset.
+
+Huot P(1), Johnston TH, Gandy MN, Reyes MG, Fox SH, Piggott MJ, Brotchie JM.
+
+Author information: 
+(1)Toronto Western Research Institute, University Health Network, Toronto,
+Ontario, Canada.
+
+BACKGROUND: The wearing-OFF phenomenon is a common motor complication of chronic 
+L-3,4-dihydroxyphenylalanine (L-DOPA) therapy for Parkinson's disease. We
+recently described the discovery of UWA-101, a dual serotonin (SERT) and dopamine
+(DAT) transporter inhibitor, which increases the duration of "good quality"
+ON-time provided by L-DOPA in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(MPTP)-lesioned primate. Here, we further characterise the effects of UWA-101 on 
+this extension of ON-time in terms of L-DOPA-induced side-effects in the
+MPTP-lesioned common marmoset.
+METHODS: Marmosets were rendered parkinsonian by MPTP injection and "primed" by
+repeated L-DOPA administration, to exhibit dyskinesia and psychosis-like
+behaviours. Animals were then administered acute challenges of L-DOPA in
+combination with UWA-101 (1, 3, 6 and 10 mg/kg) or vehicle.
+RESULTS: In combination with L-DOPA, UWA-101 (3, 6 and 10 mg/kg) significantly
+increased duration of ON-time (by 28%, 28%, and 33%, respectively; all P<0.05).
+UWA-101 (10 mg/kg) significantly extended duration of ON-time without disabling
+dyskinesia (by 62%, P<0.01). UWA-101 did not exacerbate the severity of
+dyskinesia (P>0.05). However, at the highest doses (6 and 10 mg/kg), UWA-101
+increased the severity of psychosis-like behaviours (P<0.05).
+CONCLUSIONS: Our results demonstrate that dual SERT/ DAT inhibitors can
+effectively enhance L-DOPA anti-parkinsonian action, without exacerbating
+dyskinesia and, as such, represent a promising new therapeutic class for
+wearing-OFF. However, at higher doses, dual SERT/ DAT inhibitors may exacerbate
+dopaminergic psychosis.
+
+DOI: 10.1371/journal.pone.0045587 
+PMCID: PMC3447761
+PMID: 23029119  [Indexed for MEDLINE]
+

@@ -1,0 +1,73 @@
+
+
+2075. Nat Methods. 2010 Jan;7(1):61-6. doi: 10.1038/nmeth.1403. Epub 2009 Nov 29.
+
+Nongenetic method for purifying stem cell-derived cardiomyocytes.
+
+Hattori F(1), Chen H, Yamashita H, Tohyama S, Satoh YS, Yuasa S, Li W, Yamakawa
+H, Tanaka T, Onitsuka T, Shimoji K, Ohno Y, Egashira T, Kaneda R, Murata M,
+Hidaka K, Morisaki T, Sasaki E, Suzuki T, Sano M, Makino S, Oikawa S, Fukuda K.
+
+Author information: 
+(1)Department of Regenerative Medicine and Advanced Cardiac Therapeutics, Keio
+University School of Medicine, Tokyo, Japan.
+
+Comment in
+    Nat Methods. 2010 Jan;7(1):40-2.
+
+Several applications of pluripotent stem cell (PSC)-derived cardiomyocytes
+require elimination of undifferentiated cells. A major limitation for
+cardiomyocyte purification is the lack of easy and specific cell marking
+techniques. We found that a fluorescent dye that labels mitochondria,
+tetramethylrhodamine methyl ester perchlorate, could be used to selectively mark 
+embryonic and neonatal rat cardiomyocytes, as well as mouse, marmoset and human
+PSC-derived cardiomyocytes, and that the cells could subsequently be enriched
+(>99% purity) by fluorescence-activated cell sorting. Purified cardiomyocytes
+transplanted into testes did not induce teratoma formation. Moreover, aggregate
+formation of PSC-derived cardiomyocytes through homophilic cell-cell adhesion
+improved their survival in the immunodeficient mouse heart. Our approaches will
+aid in the future success of using PSC-derived cardiomyocytes for basic and
+clinical applications.
+
+DOI: 10.1038/nmeth.1403 
+PMID: 19946277  [Indexed for MEDLINE]
+
+
+2076. J Exp Biol. 2009 Dec;212(Pt 24):4040-55. doi: 10.1242/jeb.029983.
+
+The morphology of the masticatory apparatus facilitates muscle force production
+at wide jaw gapes in tree-gouging common marmosets (Callithrix jacchus).
+
+Eng CM(1), Ward SR, Vinyard CJ, Taylor AB.
+
+Author information: 
+(1)Department of Orthopaedic Surgery, University of California, San Diego, CA
+92121, USA. cmeng@fas.harvard.edu
+
+Common marmosets (Callithrix jacchus) generate wide jaw gapes when gouging trees 
+with their anterior teeth to elicit tree exudate flow. Closely related cotton-top
+tamarins (Saguinus oedipus) do not gouge trees but share similar diets including 
+exudates. Maximizing jaw opening theoretically compromises the bite forces that
+marmosets can generate during gouging. To investigate how jaw-muscle architecture
+and craniofacial position impact muscle performance during gouging, we combine
+skull and jaw-muscle architectural features to model muscle force production
+across a range of jaw gapes in these two species. We incorporate joint mechanics,
+resting sarcomere length and muscle architecture estimates from the masseter and 
+temporalis to model muscle excursion, sarcomere length and relative tension as a 
+function of joint angle. Muscle excursion from occlusion to an estimated maximum 
+functional gape of 55 deg. was smaller in all regions of the masseter and
+temporalis of C. jacchus compared with S. oedipus except the posterior
+temporalis. As a consequence of reduced muscle excursion distributed over more
+sarcomeres in series (i.e. longer fibers), sarcomere length operating ranges are 
+smaller in C. jacchus jaw muscles across this range of gapes. This configuration 
+allows C. jacchus to act on a more favorable portion of the length-tension curve 
+at larger gapes and thereby generate relatively greater tension in these muscles 
+compared with S. oedipus. Our results suggest that biting performance during tree
+gouging in common marmosets is improved by a musculoskeletal configuration that
+reduces muscle stretch at wide gapes while simultaneously facilitating
+comparatively large muscle forces at the extremes of jaw opening.
+
+DOI: 10.1242/jeb.029983 
+PMCID: PMC4075048
+PMID: 19946083  [Indexed for MEDLINE]
+

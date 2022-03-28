@@ -1,0 +1,33 @@
+
+
+2534. Antivir Ther. 2006;11(3):289-95.
+
+Amantadine inhibits the function of an ion channel encoded by GB virus B, but
+fails to inhibit virus replication.
+
+Premkumar A(1), Dong X, Haqshenas G, Gage PW, Gowans EJ.
+
+Author information: 
+(1)John Curtin School of Medical Research, Australian National University,
+Canberra ACT, Australia.
+
+A chemically synthesized peptide representing the C-terminal subunit (p13-C) of
+the p13 protein of GB virus B (GBV-B), the most closely related virus to
+hepatitis C virus (HCV) showed ion channel activity in artificial lipid bilayers.
+The channels had a variable conductance and were more permeable to potassium ions
+than to chloride ions. Amantadine but not hexamethylene amiloride (HMA) inhibited
+the ion channel function of p13-C in the lipid membranes. However, neither agent 
+was able to inhibit the replication and secretion of GBV-B from virus-infected
+cultured marmoset hepatocytes, which were harvested from a marmoset that was
+infected in vivo or inhibit replication after in vitro infection of naive
+hepatocytes. These data suggest that the GBV-B ion channel, contrary to the data 
+derived from the lipid membranes, is either resistant to amantadine or that virus
+replication and secretion are independent of ion channel function. As the p7
+protein of HCV also has ion channel activity that is apparently resistant to
+amantadine in vivo, the former possibility is most likely. Ion channels are
+likely to have an important role in the life cycle of many viruses and compounds 
+that block these channels may prove to be useful antiviral agents.
+
+
+PMID: 16759044  [Indexed for MEDLINE]
+

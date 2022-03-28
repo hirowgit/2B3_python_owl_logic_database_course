@@ -1,0 +1,77 @@
+
+
+960. Neuron. 2016 Nov 2;92(3):582-590. doi: 10.1016/j.neuron.2016.10.018.
+
+Brain/MINDS: A Japanese National Brain Project for Marmoset Neuroscience.
+
+Okano H(1), Sasaki E(2), Yamamori T(3), Iriki A(4), Shimogori T(5), Yamaguchi
+Y(6), Kasai K(7), Miyawaki A(8).
+
+Author information: 
+(1)Laboratory for Marmoset Neural Architecture, RIKEN Brain Science Institute,
+Wako-shi, Saitama, 351-0198, Japan; Department of Physiology, Keio University
+School of Medicine, Shinjuku-ku, Tokyo, 160-8582, Japan. Electronic address:
+hidokano@a2.keio.jp.
+(2)Central Institute for Experimental Animals, Kawasaki, Kanagawa, 210-0821,
+Japan; Advanced Research Center, Keio University, Shinjuku-ku, Tokyo, 160-8582,
+Japan.
+(3)Laboratory for Molecular Analysis of Higher Brain Function, RIKEN Brain
+Science Institute, Wako-shi, Saitama, 351-0198, Japan.
+(4)Laboratory for Symbolic Cognitive Development, RIKEN Brain Science Institute, 
+Wako-shi, Saitama, 351-0198, Japan.
+(5)Laboratory for Molecular Mechanisms of Thalamus Development, RIKEN Brain
+Science Institute, Wako-shi, Saitama, 351-0198, Japan.
+(6)Neuroinformatics Japan Center, RIKEN Brain Science Institute, Wako-shi,
+Saitama, 351-0198, Japan.
+(7)Department of Neuropsychiatry, Graduate School of Medicine, University of
+Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8655, Japan.
+(8)Laboratory for Cell Function Dynamics, RIKEN Brain Science Institute,
+Wako-shi, Saitama, 351-0198, Japan.
+
+Brain/MINDS (Brain Mapping by Integrated Neurotechnologies for Disease Studies)
+is a national brain project started by Japan in 2014. With the goal of developing
+the common marmoset as a model animal for neuroscience, the project aims to build
+a multiscale marmoset brain map, develop new technologies for experimentalists,
+create transgenic lines for brain disease modeling, and integrate translational
+findings from the clinical biomarker landscape. Brain/MINDS will collaborate with
+global brain projects to share technologies and resources.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2016.10.018 
+PMID: 27809998  [Indexed for MEDLINE]
+
+
+961. Sci Rep. 2016 Nov 2;6:35809. doi: 10.1038/srep35809.
+
+Distinct roles for primate caudate dopamine D1 and D2 receptors in visual
+discrimination learning revealed using shRNA knockdown.
+
+Takaji M(1), Takemoto A(2), Yokoyama C(3), Watakabe A(1), Mizukami H(4), Ozawa
+K(4), Onoe H(3), Nakamura K(2), Yamamori T(1).
+
+Author information: 
+(1)RIKEN, Brain Science Institute, Saitama, Japan.
+(2)Primate Research Institute, Kyoto University, Aichi, Japan.
+(3)RIKEN, Center for Life Science Technologies, Hyogo, Japan.
+(4)Jichi Medical University, Tochigi, Japan.
+
+The striatum plays important motor, associative and cognitive roles in brain
+functions. However, the rodent dorsolateral (the primate putamen) and dorsomedial
+(the primate caudate nucleus) striatum are not anatomically separated, making it 
+difficult to distinguish their functions. By contrast, anatomical separation
+exists between the caudate nucleus and putamen in primates. Here, we successfully
+decreased dopamine D1 receptor (D1R) or D2R mRNA expression levels selectively in
+the marmoset caudate using shRNA knockdown techniques, as determined using
+positron emission tomography imaging with specific D1R and D2R ligands and
+postmortem in situ hybridization analysis. We then conducted a voxel-based
+correlation analysis between binding potential values of PET imaging and visual
+discrimination learning task performance in these genetically modified marmosets 
+to find a critical role for the caudate D2R but no apparent role for the caudate 
+D1R. This latter finding challenges the current understanding of the mechanisms
+underlying D1R activation in the caudate.
+
+DOI: 10.1038/srep35809 
+PMCID: PMC5090965
+PMID: 27805010  [Indexed for MEDLINE]
+

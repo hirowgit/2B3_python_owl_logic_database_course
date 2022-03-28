@@ -1,0 +1,68 @@
+
+
+970. Sci Rep. 2016 Oct 27;6:35722. doi: 10.1038/srep35722.
+
+Chronic multiscale imaging of neuronal activity in the awake common marmoset.
+
+Yamada Y(1)(2)(3), Matsumoto Y(1)(2), Okahara N(2), Mikoshiba K(1)(2)(3).
+
+Author information: 
+(1)Laboratory for Developmental Neurobiology, Brain Science Institute (BSI),
+RIKEN, Wako, Saitama, Japan.
+(2)Central Institute for Experimental Animals, Kawasaki, Kanagawa, Japan.
+(3)Japan Science and Technology Agency, International Cooperative Research
+Project and Solution-Oriented Research for Science and Technology, Calcium
+Oscillation Project, Wako, Saitama, Japan.
+
+We report a methodology to chronically record in vivo brain activity in the awake
+common marmoset. Over a month, stable imaging revealed macroscopic sensory maps
+in the somatosensory cortex and their underlying cellular activity with a high
+signal-to-noise ratio in the awake but not anesthetized state. This methodology
+is applicable to other brain regions, and will be useful for studying cortical
+activity and plasticity in marmosets during learning, development, and in
+neurological disorders.
+
+DOI: 10.1038/srep35722 
+PMCID: PMC5082371
+PMID: 27786241  [Indexed for MEDLINE]
+
+
+971. Dev Neurobiol. 2017 Mar;77(3):273-285. doi: 10.1002/dneu.22461. Epub 2016 Oct 26.
+
+The marmoset as a model system for studying voluntary motor control.
+
+Walker J(1), MacLean J(1)(2), Hatsopoulos NG(1)(3).
+
+Author information: 
+(1)Committee on Computational Neuroscience, University of Chicago, Chicago,
+Illinois, 60637.
+(2)Department of Neurobiology, University of Chicago, Chicago, Illinois, 60637.
+(3)Department of Organismal Biology and Anatomy, University of Chicago, Chicago, 
+Illinois, 60637.
+
+The common marmoset has recently gained interest as an animal model for systems
+and behavioral neuroscience. This is due in part to the advent of transgenic
+marmosets, which affords the possibility of combining genetic manipulations with 
+physiological recording and behavioral monitoring to study neural systems. In
+this review, they will argue that the marmoset provides a unique opportunity to
+study the neural basis of voluntary motor control from an integrative
+perspective. First, as an intermediate animal model, the marmoset represents an
+important bridge in motor system function between other primates, including
+humans, and rodents. Second, due to the marmoset's small brain size and
+lissencephalic cortex, novel electrophysiological and optical recording
+technologies will allow an integrative study of cortical function at multiple
+spatial scales beyond that afforded by other non-human primate models. Finally,
+as a primate expressing an ancestral state of corticospinal organization, the
+marmoset offers the possibility of understanding the integrative function of
+cortical and spinal interneuron circuitry in isolation of more recent
+corticomotoneuronal elaborations. If the potential of the marmoset as a model
+species is to be realized, they will need to learn to work with their natural
+behavioral repertoire. They have concluded by considering practical aspects of
+studying motor systems with marmosets. © 2016 Wiley Periodicals, Inc. Develop
+Neurobiol 77: 273-285, 2017.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/dneu.22461 
+PMID: 27739220  [Indexed for MEDLINE]
+

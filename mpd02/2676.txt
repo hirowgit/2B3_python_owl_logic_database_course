@@ -1,0 +1,41 @@
+
+
+2676. J Comp Neurol. 2005 Jul 25;488(2):113-28.
+
+Localization of glycine receptor alpha subunits on bipolar and amacrine cells in 
+primate retina.
+
+Jusuf PR(1), Haverkamp S, Grünert U.
+
+Author information: 
+(1)The National Vision Research Institute of Australia, Carlton, Victoria 3053,
+Australia.
+
+The major inhibitory neurotransmitter glycine is used by about half of the
+amacrine cells in the retina. Amacrine cells provide synaptic output to bipolar, 
+ganglion, and other amacrine cells. The present study investigated whether
+different bipolar and amacrine cell types in the primate retina differ with
+respect to the expression of glycine receptor (GlyR) subtypes. Antibodies
+specific for the alpha1, alpha2, and alpha3 subunits of the GlyR were combined
+with immunohistochemical markers for bipolar and amacrine cells and applied to
+vertical sections of macaque (Macaca fascicularis) and marmoset (Callithrix
+jacchus) retinae. For all subunits, punctate immunoreactivity was expressed in
+the inner plexiform layer. The GlyRalpha2 immunoreactive (IR) puncta occur at the
+highest density, followed by GlyR(alpha)3 and GlyR(alpha)1 IR puncta.
+Postembedding electron microscopy showed the postsynaptic location of all
+subunits. Double immunofluorescence demonstrated that the three alpha subunits
+are clustered at different postsynaptic sites. Two OFF cone bipolar cell types
+(flat midget and diffuse bipolar DB3), are predominantly associated with the
+alpha1 subunit. Two ON bipolar cell types, the DB6 and the rod bipolar cell, are 
+predominantly associated with the alpha2 subunit. The glycinergic AII amacrine
+cell is presynaptic to the alpha1 subunit in the OFF-sublamina, and postsynaptic 
+to the alpha2 subunit in the ON-sublamina. Another putative glycinergic cell, the
+vesicular glutamate transporter 3 cell, is predominantly presynaptic to the
+alpha2 subunit. The dopaminergic amacrine cell expresses the alpha3 subunit at a 
+low density.
+
+(c) 2005 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.20555 
+PMID: 15924342  [Indexed for MEDLINE]
+

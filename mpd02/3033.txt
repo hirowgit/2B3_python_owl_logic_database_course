@@ -1,0 +1,38 @@
+
+
+3033. Philos Trans R Soc Lond B Biol Sci. 2002 Aug 29;357(1424):975-85.
+
+The uses of colour vision: behavioural and physiological distinctiveness of
+colour stimuli.
+
+Derrington AM(1), Parker A, Barraclough NE, Easton A, Goodson GR, Parker KS,
+Tinsley CJ, Webb BS.
+
+Author information: 
+(1)School of Psychology, University Park, Nottingham NG7 2RD, UK.
+andrew.derrington@nottingham.ac.uk
+
+Colour and greyscale (black and white) pictures look different to us, but it is
+not clear whether the difference in appearance is a consequence of the way our
+visual system uses colour signals or a by-product of our experience. In
+principle, colour images are qualitatively different from greyscale images
+because they make it possible to use different processing strategies. Colour
+signals provide important cues for segmenting the image into areas that represent
+different objects and for linking together areas that represent the same object. 
+If this property of colour signals is exploited in visual processing we would
+expect colour stimuli to look different, as a class, from greyscale stimuli. We
+would also expect that adding colour signals to greyscale signals should change
+the way that those signals are processed. We have investigated these questions in
+behavioural and in physiological experiments. We find that male marmosets (all of
+which are dichromats) rapidly learn to distinguish between colour and greyscale
+copies of the same images. The discrimination transfers to new image pairs, to
+new colours and to image pairs in which the colour and greyscale images are
+spatially different. We find that, in a proportion of neurons recorded in the
+marmoset visual cortex, colour-shifts in opposite directions produce similar
+enhancements of the response to a luminance stimulus. We conclude that colour is,
+both behaviourally and physiologically, a distinctive property of images.
+
+DOI: 10.1098/rstb.2002.1116 
+PMCID: PMC1693019
+PMID: 12217169  [Indexed for MEDLINE]
+

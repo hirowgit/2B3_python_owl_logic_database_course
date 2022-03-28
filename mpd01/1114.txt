@@ -1,0 +1,75 @@
+
+
+1114. Lab Anim Res. 2015 Dec;31(4):155-65. doi: 10.5625/lar.2015.31.4.155. Epub 2015
+Dec 22.
+
+Modeling Parkinson's disease in the common marmoset (Callithrix jacchus):
+overview of models, methods, and animal care.
+
+Yun JW(1), Ahn JB(2), Kang BC(3).
+
+Author information: 
+(1)Department of Experimental Animal Research, Biomedical Research Institute,
+Seoul National University Hospital, Seoul, Korea.
+(2)Department of Experimental Animal Research, Biomedical Research Institute,
+Seoul National University Hospital, Seoul, Korea.; Graduate School of
+Translational Medicine, Seoul National University College of Medicine, Seoul,
+Korea.
+(3)Department of Experimental Animal Research, Biomedical Research Institute,
+Seoul National University Hospital, Seoul, Korea.; Graduate School of
+Translational Medicine, Seoul National University College of Medicine, Seoul,
+Korea.; Designed Animal Research Center, Institute of GreenBio Science
+Technology, Seoul National University, Pyeongchang-gun, Gangwon, Korea.
+
+The common marmoset (Callithrix jacchus) is a small-bodied, popular New World
+monkey and is used widely in reproductive biology, neuroscience, and drug
+development, due to its comparative ease of handling, high reproductive
+efficiency, and its unique behavioral characters. In this review, we discuss the 
+marmoset models in Parkinson's disease (PD), which is a neurological movement
+disorder primarily resulting from a degeneration of dopaminergic neurons with
+clinical features of tremor, rigidity, postural instability, and akinesia. The
+most common PD models involve the administration of
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) or 6-hydroxydopamine to study
+the pathogenesis and to evaluate novel therapies. Following the systemic or local
+administration of these neurotoxins, the marmosets with very severe Parkinson's
+symptoms are recommended to be placed in an intensive care unit with artificial
+feeding to increase survival rate. All procedures with MPTP should be conducted
+in a special room with enclosed cages under negative-pressure by trained
+researchers with personal protection. Behavioral tests are conducted to provide
+an external measure of the brain pathology. Along with several biomarkers,
+including α-synuclein and DJ-1, non-invasive neuroimaging techniques such as
+positron emission tomography and magnetic resonance imaging are used to evaluate 
+the functional changes associated with PD. With the recent growing interest in
+potential and novel therapies such as stem cell and gene therapy for PD in Korea,
+the marmoset can be considered as a suitable non-human primate model in PD
+research to bridge the gap between rodent studies and clinical applications.
+
+DOI: 10.5625/lar.2015.31.4.155 
+PMCID: PMC4707143
+PMID: 26755918 
+
+
+1115. Bull Exp Biol Med. 2016 Jan;160(3):368-71. doi: 10.1007/s10517-016-3173-0. Epub
+2016 Jan 11.
+
+Simulation of Viral Hepatitis E in Marmosets.
+
+Kyuregyan KK(1), Poleshchuk VF(2), Gordeichuk IV(2), Gulyaeva TV(2), Isaeva
+OV(2), Morozov IA(2), Mikhailov MI(2).
+
+Author information: 
+(1)M. P. Chumakov Institute of Poliomyelitis and Viral Encephalitides, Russian
+Academy of Medical Sciences, Moscow, Russia. karen-kyuregyan@yandex.ru.
+(2)M. P. Chumakov Institute of Poliomyelitis and Viral Encephalitides, Russian
+Academy of Medical Sciences, Moscow, Russia.
+
+We developed a model of hepatitis E virus infection in common marmosets
+(Callithrix jacchus) and determined optimal route of infection, duration,
+clinical and virological characteristics of infection in laboratory animals.
+Using this model, we demonstrated that replication of hepatitis E virus primarily
+occurs in the liver, while virus replication presumed to take place in the
+intestine was not confirmed in this experiment.
+
+DOI: 10.1007/s10517-016-3173-0 
+PMID: 26750931  [Indexed for MEDLINE]
+

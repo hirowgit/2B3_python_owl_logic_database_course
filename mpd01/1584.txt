@@ -1,0 +1,85 @@
+
+
+1584. J Neuroimmune Pharmacol. 2013 Jun;8(3):715-26. doi: 10.1007/s11481-013-9450-z.
+Epub 2013 Mar 17.
+
+Oral treatment with the NADPH oxidase antagonist apocynin mitigates clinical and 
+pathological features of parkinsonism in the MPTP marmoset model.
+
+Philippens IH(1), Wubben JA, Finsen B, 't Hart BA.
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Centre, Lange Kleiweg
+161, P.O. Box 3306, 2280 GH, Rijswijk, The Netherlands. philippens@bprc.nl
+
+This study evaluates the therapeutic efficacy of the NADPH oxidase inhibitor
+apocynin, isolated as principal bioactive component from the medicinal plant
+Picrorhiza kurroa, in a marmoset MPTP model of Parkinson's disease (PD). The
+methoxy-substituted catechol apocynin has a similar structure as homovanillic
+acid (HVA), a metabolite of dopamine (DA). Apocynin acquires its selective
+inhibitory capacity of the reactive oxygen species generating NADPH oxidase via
+metabolic activation by myeloperoxidase (MPO). As MPO is upregulated in activated
+brain microglia cells of PD patients and in MPTP animal models, the conditions
+for metabolic activation of apocynin and inhibition of microglia NADPH oxidase
+are in place. Marmoset monkeys received oral apocynin (100 mg/kg; p.o.) (n = 5)
+or Gum Arabica (controls; n = 5) three times daily until the end of the study,
+starting 1 week before PD induction with MPTP (1 mg/kg s.c. for 8 days).
+Parkinsonian symptoms, motor function, home-cage activity and body weight were
+monitored to assess the disease development and severity. Post-mortem numbers of 
+the tyrosine hydroxylase expressing DA neurons in the substantia nigra were
+counted. During the MPTP injections, apocynin limited the body weight loss and
+relieved parkinsonian symptoms compared to controls (Linear regression, P < 0.05)
+indicating a reduction of disease progression. During the last test week,
+apocynin also improved the hand-eye coordination performance compared with
+vehicle treatment (resp. 39.3 ± 4.5 % and 17.7 ± 6.7 %; P = 0.048) and improved
+the home cage activity with 32 % (P = 0.029), indicating anti-Parkinson efficacy.
+Apocynin also increased the number of surviving DA neurons in MPTP-treated
+marmosets with 8.5 % (P = 0.059), indicating a tendency towards a neuroprotective
+efficacy. In conclusion, compensation for the loss of DA and its metabolite HVA
+by apocynin mitigates the PD progression and limits the parkinsonian signs and
+motor-function deterioration.
+
+DOI: 10.1007/s11481-013-9450-z 
+PMID: 23504289  [Indexed for MEDLINE]
+
+
+1585. Invest Ophthalmol Vis Sci. 2013 Apr 12;54(4):2634-44. doi: 10.1167/iovs.12-10514.
+
+Eyes in various species can shorten to compensate for myopic defocus.
+
+Zhu X(1), McBrien NA, Smith EL 3rd, Troilo D, Wallman J.
+
+Author information: 
+(1)Department of Biology, City College of New York, New York, New York.
+
+PURPOSE: We demonstrated that eyes of young animals of various species (chick,
+tree shrew, marmoset, and rhesus macaque) can shorten in the axial dimension in
+response to myopic defocus.
+METHODS: Chicks wore positive or negative lenses over one eye for 3 days. Tree
+shrews were measured during recovery from induced myopia after 5 days of
+monocular deprivation for 1 to 9 days. Marmosets were measured during recovery
+from induced myopia after monocular deprivation, or wearing negative lenses over 
+one or both eyes, or from wearing positive lenses over one or both eyes. Rhesus
+macaques were measured after recovery from induced myopia after monocular
+deprivation, or wearing negative lenses over one or both eyes. Axial length was
+measured with ultrasound biometry in all species.
+RESULTS: Tree shrew eyes showed a strong trend to shorten axially to compensate
+for myopic defocus. Of 34 eyes that recovered from deprivation-induced myopia for
+various durations, 30 eyes (88%) shortened, whereas only 7 fellow eyes shortened.
+In chicks, eyes wearing positive lenses reduced their rate of ocular elongation
+by two-thirds, including 38.5% of eyes in which the axial length became shorter
+than before. Evidence of axial shortening in rhesus macaque (40%) and marmoset
+(6%) eyes also occurred when exposed to myopic defocus, although much less
+frequently than that in eyes of tree shrews. The axial shortening was caused
+mostly by the reduction in vitreous chamber depth.
+CONCLUSIONS: Eyes of chick, tree shrew, marmoset, and rhesus macaque can shorten 
+axially when presented with myopic defocus, whether the myopic defocus is created
+by wearing positive lenses, or is the result of axial elongation of the eye
+produced by prior negative lens wear or deprivation. This eye shortening
+facilitates compensation for the imposed myopia. Implications for human myopia
+control are significant.
+
+DOI: 10.1167/iovs.12-10514 
+PMCID: PMC3630818
+PMID: 23493295  [Indexed for MEDLINE]
+

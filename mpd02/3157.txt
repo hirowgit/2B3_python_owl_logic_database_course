@@ -1,0 +1,33 @@
+
+
+3157. Chem Senses. 2001 Jun;26(5):449-58.
+
+Female marmoset monkeys (Callithrix jacchus) can be identified from the chemical 
+composition of their scent marks.
+
+Smith TE(1), Tomlinson AJ, Mlotkiewicz JA, Abbott DH.
+
+Author information: 
+(1)School of Biology and Biochemistry, Queen's University of Belfast, Medical
+Biology Centre, Belfast, UK. t.smith@qub.ac.uk
+
+The present study analyzed 42 organic solvent extracts of scent mark pools from
+five dominant female common marmosets by gas chromatography (GC) and combined GC 
+and mass spectrometry. We determined whether there were qualitative or
+quantitative differences between the chemical composition of scent marks from
+individual females. Gas chromatography and mass spectral analysis detected the
+same 162 chemicals in 86% (36/42) of scent mark pools from five dominant females.
+This near identical chemical composition of scent marks suggested there were few,
+if any, qualitative differences between the chemical composition of scent marks
+from individual females. Instead, quantitative differences in scent may provide
+the key factor distinguishing individual females. Using the relative
+concentration of highly volatile chemicals detected by GC in scent marks, linear 
+discriminant analysis classified scent mark pools to their correct donor
+approximately 91% of the time. Such highly reliable statistical matching of scent
+to donor suggested that each individual female common marmoset has a unique ratio
+of highly volatile chemicals in their scent marks which may permit individual
+identification of females from odors in their scent alone.
+
+DOI: 10.1093/chemse/26.5.449 
+PMID: 11418490  [Indexed for MEDLINE]
+

@@ -1,0 +1,92 @@
+
+
+716. J Pharmacol Exp Ther. 2018 May;365(2):379-397. doi: 10.1124/jpet.117.247171. Epub
+2018 Mar 9.
+
+Predictive Value of Parkinsonian Primates in Pharmacologic Studies: A Comparison 
+between the Macaque, Marmoset, and Squirrel Monkey.
+
+Veyres N(1), Hamadjida A(1), Huot P(2).
+
+Author information: 
+(1)Centre de Recherche du Centre Hospitalier de l'Université de Montréal
+(N.V.),Montreal Neurological Institute (A.H.,P.H.), and Department of Neurology
+and Neurosurgery, McGill University (P.H.), Montreal, Quebec, Canada.
+(2)Centre de Recherche du Centre Hospitalier de l'Université de Montréal
+(N.V.),Montreal Neurological Institute (A.H.,P.H.), and Department of Neurology
+and Neurosurgery, McGill University (P.H.), Montreal, Quebec, Canada
+philippe.huot@mcgill.ca.
+
+The 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned primate is the
+gold-standard animal model of Parkinson disease (PD) and has been used to assess 
+the effectiveness of experimental drugs on dyskinesia, parkinsonism, and
+psychosis. Three species have been used in most studies-the macaque, marmoset,
+and squirrel monkey-the last much less so than the first two species; however,
+the predictive value of each species at forecasting clinical efficacy, or lack
+thereof, is poorly documented. Here, we have reviewed all the published
+literature detailing pharmacologic studies that assessed the effects of
+experimental drugs on dyskinesia, parkinsonism, and psychosis in each of these
+species and have calculated their predictive value of success and failure at the 
+clinical level. We found that, for dyskinesia, the macaque has a positive
+predictive value of 87.5% and a false-positive rate of 38.1%, whereas the
+marmoset has a positive predictive value of 76.9% and a false-positive rate of
+15.6%. For parkinsonism, the macaque has a positive predictive value of 68.2% and
+a false-positive rate of 44.4%, whereas the marmoset has a positive predictive
+value of 86.9% and a false-positive rate of 41.7%. No drug that alleviates
+psychosis in the clinic has shown efficacy at doing so in the macaque, whereas
+the marmoset has 100% positive predictive value. The small number of studies
+conducted in the squirrel monkey precluded us from calculating its predictive
+efficacy. We hope our results will help in the design of pharmacologic
+experiments and will facilitate the drug discovery and development process in PD.
+
+Copyright © 2018 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/jpet.117.247171 
+PMID: 29523699  [Indexed for MEDLINE]
+
+
+717. J Neural Eng. 2018 Jun;15(3):036019. doi: 10.1088/1741-2552/aab307. Epub 2018 Mar
+1.
+
+Accurate motor mapping in awake common marmosets using
+micro-electrocorticographical stimulation and stochastic threshold estimation.
+
+Kosugi A(1), Takemi M, Tia B, Castagnola E, Ansaldo A, Sato K, Awiszus F, Seki K,
+Ricci D, Fadiga L, Iriki A, Ushiba J.
+
+Author information: 
+(1)Graduate School of Science and Technology, Keio University, Kanagawa, Japan.
+Laboratory for Symbolic Cognitive Development, RIKEN Brain Science Institute,
+Saitama, Japan. Department of Neurophysiology, National Institute of
+Neuroscience, Tokyo, Japan.
+
+OBJECTIVE: Motor map has been widely used as an indicator of motor skills and
+learning, cortical injury, plasticity, and functional recovery. Cortical
+stimulation mapping using epidural electrodes is recently adopted for animal
+studies. However, several technical limitations still remain. Test-retest
+reliability of epidural cortical stimulation (ECS) mapping has not been examined 
+in detail. Many previous studies defined evoked movements and motor thresholds by
+visual inspection, and thus, lacked quantitative measurements. A reliable and
+quantitative motor map is important to elucidate the mechanisms of motor cortical
+reorganization. The objective of the current study was to perform reliable ECS
+mapping of motor representations based on the motor thresholds, which were
+stochastically estimated by motor evoked potentials and chronically implanted
+micro-electrocorticographical (µECoG) electrode arrays, in common marmosets.
+APPROACH: ECS was applied using the implanted µECoG electrode arrays in three
+adult common marmosets under awake conditions. Motor evoked potentials were
+recorded through electromyographical electrodes implanted in upper limb muscles. 
+The motor threshold was calculated through a modified maximum likelihood
+threshold-hunting algorithm fitted with the recorded data from marmosets.
+Further, a computer simulation confirmed reliability of the algorithm.
+MAIN RESULTS: Computer simulation suggested that the modified maximum likelihood 
+threshold-hunting algorithm enabled to estimate motor threshold with acceptable
+precision. In vivo ECS mapping showed high test-retest reliability with respect
+to the excitability and location of the cortical forelimb motor representations.
+SIGNIFICANCE: Using implanted µECoG electrode arrays and a modified motor
+threshold-hunting algorithm, we were able to achieve reliable motor mapping in
+common marmosets with the ECS system.
+
+DOI: 10.1088/1741-2552/aab307 
+PMID: 29491189  [Indexed for MEDLINE]
+

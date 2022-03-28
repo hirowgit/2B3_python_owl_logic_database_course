@@ -1,0 +1,107 @@
+
+
+324. J Neurosci. 2020 May 20;40(21):4158-4171. doi: 10.1523/JNEUROSCI.2749-19.2020.
+Epub 2020 Apr 15.
+
+Dissociation of Unit Activity and Gamma Oscillations during Vocalization in
+Primate Auditory Cortex.
+
+Tsunada J(1)(2), Eliades SJ(3).
+
+Author information: 
+(1)Auditory and Communication Systems Laboratory, Department of
+Otorhinolaryngology, Head and Neck Surgery, University of Pennsylvania Perelman
+School of Medicine, Philadelphia, Pennsylvania, 19104.
+(2)Department of Veterinary Medicine, Faculty of Agriculture, Iwate University,
+Morioka, Iwate Japan, 020-8550.
+(3)Auditory and Communication Systems Laboratory, Department of
+Otorhinolaryngology, Head and Neck Surgery, University of Pennsylvania Perelman
+School of Medicine, Philadelphia, Pennsylvania, 19104
+seliades@pennmedicine.upenn.edu.
+
+Vocal production is a sensory-motor process in which auditory self-monitoring is 
+used to ensure accurate communication. During vocal production, the auditory
+cortex of both humans and animals is suppressed, a phenomenon that plays an
+important role in self-monitoring and vocal motor control. However, the
+underlying neural mechanisms of this vocalization-induced suppression are
+unknown. γ-band oscillations (>25 Hz) have been implicated a variety of cortical 
+functions and are thought to arise from activity of local inhibitory
+interneurons, but have not been studied during vocal production. We therefore
+examined γ-band activity in the auditory cortex of vocalizing marmoset monkeys,
+of either sex, and found that γ responses increased during vocal production. This
+increase in γ contrasts with simultaneously recorded suppression of single-unit
+and multiunit responses. Recorded vocal γ oscillations exhibited two separable
+components: a vocalization-specific nonsynchronized ("induced") response
+correlating with vocal suppression, and a synchronized ("evoked") response that
+was also present during passive sound playback. These results provide evidence
+for the role of cortical γ oscillations during inhibitory processing.
+Furthermore, the two distinct components of the γ response suggest possible
+mechanisms for vocalization-induced suppression, and may correspond to the
+sensory-motor integration of top-down and bottom-up inputs to the auditory cortex
+during vocal production.SIGNIFICANCE STATEMENT Vocal communication is important
+to both humans and animals. In order to ensure accurate information transmission,
+we must monitor our own vocal output. Surprisingly, spiking activity in the
+auditory cortex is suppressed during vocal production yet maintains sensitivity
+to the sound of our own voice ("feedback"). The mechanisms of this
+vocalization-induced suppression are unknown. Here we show that auditory cortical
+γ oscillations, which reflect interneuron activity, are actually increased during
+vocal production, the opposite response of that seen in spiking units. We discuss
+these results with proposed functions of γ activity during inhibitory sensory
+processing and coordination of different brain regions, suggesting a role in
+sensory-motor integration.
+
+Copyright © 2020 Tsunada and Eliades.
+
+DOI: 10.1523/JNEUROSCI.2749-19.2020 
+PMCID: PMC7244193
+PMID: 32295815  [Indexed for MEDLINE]
+
+
+325. Anim Sci J. 2020 Jan-Dec;91(1):e13366. doi: 10.1111/asj.13366.
+
+Comparison of the fecal microbiota of two monogastric herbivorous and five
+omnivorous mammals.
+
+Kobayashi R(1), Nagaoka K(2), Nishimura N(3), Koike S(4), Takahashi E(5), Niimi
+K(5), Murase H(6), Kinjo T(7), Tsukahara T(8), Inoue R(1).
+
+Author information: 
+(1)Laboratory of Animal Science, Kyoto Prefectural University, Kyoto, Japan.
+(2)Laboratory of Veterinary Physiology, Tokyo University of Agriculture and
+Technology, Fuchu, Japan.
+(3)College of Agriculture, Academic Institute, Shizuoka University, Shizuoka,
+Japan.
+(4)Research Faculty of Agriculture, Hokkaido University, Sapporo, Japan.
+(5)Research Resources Division, RIKEN Center for Brain Science, Wako, Japan.
+(6)Japan Racing Association, Hidaka Training and Research Center, Urakawa-cho,
+Japan.
+(7)Okinawa Zoo and Museum, Okinawa Zoo Animal Hospital, Okinawa, Japan.
+(8)Kyoto Institute of Nutrition and Pathology, Ujitawara-cho, Japan.
+
+Fecal microbiota in seven different monogastric animal species, elephant, horse, 
+human, marmoset, mouse, pig and, rat were compared using the same analytical
+protocol of 16S rRNA metagenome. Fecal microbiota in herbivores showed higher
+alpha diversity than omnivores except for pigs. Additionally, principal
+coordinate analysis based on weighted UniFrac distance demonstrated that
+herbivores and pigs clustered together, whereas other animal species were
+separately aggregated. In view of butyrate- and lactate-producing bacteria,
+predominant genera were different depending on animal species. For example, the
+abundance of Faecalibacterium, a known butyrate producer, was 8.02% ± 3.22% in
+human while it was less than 1% in other animal species. Additionally,
+Bifidobacterium was a predominant lactate producer in human and marmoset, while
+it was rarely detected in other omnivores. The abundance of lactate-producing
+bacteria in herbivores was notably lower than omnivores. On the other hand,
+herbivores as well as pig possess Fibrobacter, a cellulolytic bacterium. This
+study demonstrated that fecal microbiota in herbivorous animals is similar,
+sharing some common features such as higher alpha diversity and higher abundance 
+of cellulolytic bacterium. On the other hand, omnivorous animals seem to possess 
+unique fecal microbiota. It is of interest that pigs, although omnivore, have
+fecal microbiota showing some common features with herbivores.
+
+© 2020 The Authors. Animal Science Journal published by John Wiley & Sons
+Australia, Ltd on behalf of Japanese Society of Animal Science.
+
+DOI: 10.1111/asj.13366 
+PMCID: PMC7216987
+PMID: 32285557  [Indexed for MEDLINE]
+

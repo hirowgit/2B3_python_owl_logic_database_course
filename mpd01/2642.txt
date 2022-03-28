@@ -1,0 +1,83 @@
+
+
+2642. Int J Androl. 1997 Oct;20(5):287-96.
+
+CASA as an aid to selecting sperm suspensions for artificial insemination in
+Callithrix jacchus.
+
+Morrell JM(1).
+
+Author information: 
+(1)Department of Reproductive Biology, German Primate Centre Göttingen, Germany.
+
+The ability to use sperm motility parameters, obtained by computer-assisted sperm
+motility analysis (CASA), as an aid to selecting sperm samples for artificial
+insemination (AI) would have considerable benefits for commercial organizations
+and for the captive breeding of endangered species. In this study the Hobson
+sperm tracker (HST) was validated for use with spermatozoa from Callithrix
+jacchus, the common marmoset, by comparing values for straight line velocity by
+CASA with those obtained by direct measurement of sperm tracks. Using the
+settings established during validation, ejaculated and epididymal spermatozoa
+were analysed with the HST. The range of values for velocity parameters were used
+to establish expected motility profiles for the two types of spermatozoa as
+follows: for epididymal spermatozoa (concentration 2.2 - 85.8 x 10(6)
+spermatozoa/mL) VCL 109.8-155.9, VSL 75.2-141.5, VAP 85.8-142.1, MAD 13.7-40.7,
+ALH 3.8-7.8, BCF 1.4-4.2, LIN 40.5-91.1% and STR 70.1-97.1%; for ejaculated
+spermatozoa (concentration 3.2-82.0 x 10(6) spermatozoa/mL) VCL 89.6-136.7, VSL
+69.6-110.3, VAP 74.5-121.9, MAD 19.2-29.3, ALH 3.0-9.9, BCF 2.8-5.5., LIN
+65.4-85.3% and STR 93.8-97.7%. Epididymal spermatozoa from males which were not
+sexually active had significantly lower values for VCL, VSL and VAP, while values
+for MAD were significantly higher than for spermatozoa from sexually active males
+(p < 0.031). Sperm concentration affected motility parameters significantly.
+Although motility parameters differed according to the batch of medium used, the 
+differences were not statistically significant. Epididymal sperm samples had
+significantly higher VCL, VSL and VAP but lower BCF and LIN than ejaculated sperm
+samples of the same concentration diluted in the same batch of medium, while MAD,
+ALH and STR were not different. Urine contamination significantly reduced VCL,
+VSL and VAP (p < 0.008, < 0.016 and < 0.008, respectively, sample size = 7)
+whereas MAD, ALH, BCF, LIN and STR were not affected. Therefore CASA could be
+useful in screening ejaculates for use in Al to eliminate samples with unusual
+motility patterns.
+
+DOI: 10.1046/j.1365-2605.1997.00072.x 
+PMID: 16130273  [Indexed for MEDLINE]
+
+
+2643. J Comp Neurol. 2005 Oct 3;490(4):335-53.
+
+Species differences in tachykinin receptor distribution: further evidence that
+the substance P (NK1) receptor predominates in human brain.
+
+Rigby M(1), O'Donnell R, Rupniak NM.
+
+Author information: 
+(1)In Vivo Neuroscience, Merck Sharp & Dohme Research Laboratories, Neuroscience 
+Research Centre, Terlings Park, Harlow, Essex CM20 2QR, United Kingdom.
+Michael_Rigby@Merck.com
+
+Marked species differences in the distribution of central tachykinin receptors
+are reported but uncertainty remains about the ability of available ligands to
+detect NK2 and NK3 receptors in human brain. We compared the distribution of NK1,
+NK2, and NK3 receptors in sections from rodent, primate, and human brain using
+the 125I-labeled ligands substance P (SP) for the NK1 receptor, neurokinin A
+(NKA) for the NK2 receptor, and neurokinin B (NKB) and eledoisin for NK3
+receptors. Duration of exposure to autoradiographic film was from 7 days for
+[125I]SP up to 90 days for the other ligands. High levels of specific [125I]SP
+binding were seen throughout the brains of all species studied. Specific
+[125I]NKA binding was detected in brains from neonatal rat, and to a lesser level
+in adult rat, gerbil, and guinea pig; it was not detected in monkey or human
+brain, but was present in circular muscle of human duodenum, confirming that this
+ligand binds to human NK2 receptors under our experimental conditions. Specific
+[125I]NKB and [125I]eledoisin binding was widespread in brain sections from rats,
+gerbils, and guinea pigs, and very low levels were also detected in marmoset,
+squirrel monkey, and rhesus monkey brain after prolonged (up to 90 days)
+exposure. We failed to identify specific eledoisin binding in human brain, even
+after prolonged exposures. These findings demonstrate that the NK1 receptor is
+the predominant tachykinin receptor expressed in primate and human brain, but
+that low levels of NK3 receptor are present in nonhuman, primate brain.
+
+Copyright 2005 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.20664 
+PMID: 16127708  [Indexed for MEDLINE]
+

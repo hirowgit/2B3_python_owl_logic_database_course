@@ -1,0 +1,86 @@
+
+
+1484. Mol Phylogenet Evol. 2015 Jan;82 Pt B:348-57. doi: 10.1016/j.ympev.2013.10.017.
+Epub 2013 Nov 4.
+
+The systematics and evolution of New World primates - A review.
+
+Schneider H(1), Sampaio I(2).
+
+Author information: 
+(1)Instituto de Estudos Costeiros, Universidade Federal do Pará, Campus de
+Bragança, Alameda Leandro Ribeiro s/n, Bragança, Pará, CEP 68600-000, Brazil.
+Electronic address: horacio@ufpa.br.
+(2)Instituto de Estudos Costeiros, Universidade Federal do Pará, Campus de
+Bragança, Alameda Leandro Ribeiro s/n, Bragança, Pará, CEP 68600-000, Brazil.
+Electronic address: ira@ufpa.br.
+
+This paper provides an overview of the taxonomy of New World primates from
+proposals of the 1980's based on morphology to the great number of studies based 
+on molecular data aiming for the elucidation of the phylogeny of New World
+monkeys. The innovations of the first molecular phylogeny presented by Schneider 
+et al. (1993) positioned Callimico as a sister group of Callithrix and Cebuella; 
+Callicebus as a member of the pitheciids; Brachyteles as sister to Lagothrix; and
+the night monkeys (Aotus), capuchins (Cebus) and squirrel monkeys (Saimiri) in
+the same clade with the small callitrichines. These results were subsequently
+confirmed by dozens of subsequent studies using data from DNA sequences. Some
+issues difficult to resolve with the phylogenetic analyses of DNA sequences, such
+as the diversification of the oldest lineages (pitheciids, atelids and cebids),
+and the confirmation of Aotus as a member of the Cebinae clade (together with
+Cebus/Saimiri), were clarified with new molecular approaches based on the
+presence or absence of Alu insertions as well as through the use of
+phylogenomics. At this time, all relationships at the intergeneric level had been
+deciphered, with the exception of the definition of the sister group of
+callitrichines (whether Aotus or Cebus/Saimiri are sister to callitrichines, or
+if Aotus, Saimiri and Cebus form a clade together). Future studies should
+prioritize the alpha taxonomy of most Neotropical primate groups, and the use of 
+phylogenetic and geographic data, combined with reliable estimates of divergence 
+times, to clarify the taxonomic status at species and genus level, as well as to 
+help understand the evolutionary history of this remarkable and highly
+diversified group.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ympev.2013.10.017 
+PMID: 24201058  [Indexed for MEDLINE]
+
+
+1485. Gene. 2014 Feb 10;535(2):345-52. doi: 10.1016/j.gene.2013.10.031. Epub 2013 Nov
+5.
+
+Phylogenetic analysis and positive-selection site detecting of vascular
+endothelial growth factor family in vertebrates.
+
+He W(1), Tang Y(2), Qi B(2), Lu C(2), Qin C(2), Wei Y(2), Yi J(3), Chen M(4).
+
+Author information: 
+(1)Department of Cardiothoracic Surgery, First Affiliated Hospital, Guangxi
+Medical University, Nanning, Guangxi, China; Department of Cardiothoracic
+Surgery, Nanchong Central Hospital, The Second Clinical College of North Sichuan 
+Medical college, Nanchong, Sichuan, PR China.
+(2)Department of Neurology, First Affiliated Hospital, Guangxi Medical
+University, Nanning, Guangxi, China.
+(3)Department of Neurology, Liugang Hospital, Liuzhou, Guangxi, China.
+(4)Department of Cardiothoracic Surgery, First Affiliated Hospital, Guangxi
+Medical University, Nanning, Guangxi, China. Electronic address: chen535@126.com.
+
+Vascular endothelial growth factor (VEGF), known to play an important role in
+vascular homeostasis, vascular integrity and angiogenesis, is little known about 
+the evolutionary relationship of its five members especially the role of gene
+duplication and natural selection in the evolution of the VEGF family. In this
+study, seventy-five full-length cDNA sequences from 33 vertebrate species were
+extracted from the NCBI's GenBank, UniProt protein database and the Ensembl
+database. By phylogenetic analyses, we investigated the origin, conservation, and
+evolution of the VEGFs. Five VEGF family members in vertebrates might be formed
+by gene duplication. The inferred evolutionary transitions that separate members 
+which belong to different gene clusters correlated with changes in functional
+properties. Selection analysis and protein structure analysis were combined to
+explain the relationship of the site-specific evolution in the vertebrate VEGF
+family. Eleven positive selection sites, one transmembrane region and the active 
+sites were detected in this process.
+
+© 2013.
+
+DOI: 10.1016/j.gene.2013.10.031 
+PMID: 24200960  [Indexed for MEDLINE]
+

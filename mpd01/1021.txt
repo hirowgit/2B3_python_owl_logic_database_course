@@ -1,0 +1,72 @@
+
+
+1021. Cereb Cortex. 2017 Aug 1;27(8):3890-3905. doi: 10.1093/cercor/bhw198.
+
+Frontoparietal Functional Connectivity in the Common Marmoset.
+
+Ghahremani M(1)(2), Hutchison RM(3), Menon RS(1)(2), Everling S(1)(2)(4).
+
+Author information: 
+(1)Graduate Program in Neuroscience, University of Western Ontario, Canada.
+(2)Robarts Research Institute, University of Western Ontario, London, Ontario,
+Canada.
+(3)Center for Brain Science, Harvard University, Cambridge, MA, USA.
+(4)Department of Physiology and Pharmacology, University of Western Ontario,
+London, Ontario, Canada.
+
+In contrast to the well established macaque monkey, little is known about
+functional connectivity patterns of common marmoset monkey (Callithrix jacchus)
+that is poised to become the leading transgenic primate model. Here, we used
+resting-state ultra-high-field fMRI data collected from anesthetized marmosets
+and macaques along with awake human subjects, to examine and compare the brain's 
+functional organization, with emphasis on the saccade system. Exploratory
+independent component analysis revealed eight resting-state networks in marmosets
+that greatly overlapped with corresponding macaque and human networks including a
+distributed frontoparietal network. Seed-region analyses of the superior
+colliculus (SC) showed homolog areas in macaques and marmosets. The marmoset SC
+displayed the strongest frontal functional connectivity with area 8aD at the
+border to area 6DR. Functional connectivity of this frontal region revealed a
+similar functional connectivity pattern as the frontal eye fields in macaques and
+humans. Furthermore, areas 8aD, 8aV, PG,TPO, TE2, and TE3 were identified as
+major hubs based on region-wise evaluation of betweeness centrality, suggesting
+that these cortical regions make up the functional core of the marmoset brain.
+The results support an evolutionarily preserved frontoparietal system and provide
+a starting point for invasive neurophysiological studies in the marmoset saccade 
+and visual systems.
+
+© The Author 2016. Published by Oxford University Press. All rights reserved. For
+Permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhw198 
+PMID: 27405331  [Indexed for MEDLINE]
+
+
+1022. Biomed Res Int. 2016;2016:1781894. doi: 10.1155/2016/1781894. Epub 2016 Jun 14.
+
+Distinct Expression Pattern of a Deafness Gene, KIAA1199, in a Primate Cochlea.
+
+Hosoya M(1), Fujioka M(1), Okano H(2), Ogawa K(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Keio University
+School of Medicine, 35 Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan.
+(2)Department of Physiology, Keio University School of Medicine, 35 Shinanomachi,
+Shinjuku-ku, Tokyo 160-8582, Japan.
+
+Deafness is one of the most common types of congenital impairments, and at least 
+half of the cases are caused by hereditary mutations. Mutations of the gene
+KIAA1199 are associated with progressive hearing loss. Its expression is abundant
+in human cochlea, but interestingly the spatial expression patterns are different
+between mouse and rat cochleae; the pattern in humans has not been fully
+investigated. We performed immunohistochemical analysis of a nonhuman primate,
+common marmoset (Callithrix jacchus), cochlea with a KIAA1199-specific antibody. 
+In the common marmoset cochlea, KIAA1199 protein expression was more widespread
+than in rodents, with all epithelial cells, including hair cells, expressing
+KIAA1199. Our results suggest that the primate pattern of KIAA1199 expression is 
+wider in comparison with rodents and may play an essential role in the
+maintenance of cochlear epithelial cells.
+
+DOI: 10.1155/2016/1781894 
+PMCID: PMC4923552
+PMID: 27403418  [Indexed for MEDLINE]
+

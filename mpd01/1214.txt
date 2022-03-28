@@ -1,0 +1,90 @@
+
+
+1214. Growth Horm IGF Res. 2015 Aug;25(4):158-67. doi: 10.1016/j.ghir.2015.06.004. Epub
+2015 Jun 6.
+
+Coevolution of insulin-like growth factors, insulin and their receptors and
+binding proteins in New World Monkeys.
+
+Wallis M(1).
+
+Author information: 
+(1)Biochemistry and Biomedicine Group, School of Life Sciences, University of
+Sussex, Falmer, Brighton BN1 9QG, UK. Electronic address: M.Wallis@sussex.ac.uk.
+
+Previous work has shown that the evolution of both insulin-like growth factor 1
+(IGF1) and insulin shows an episode of accelerated change on the branch leading
+to New World Monkeys (NWM). Here the possibility that this is accompanied by a
+corresponding episode of accelerated evolution of IGF1 receptor (IGF1R), insulin 
+receptor (IR) and/or IGF binding proteins (IGFBPs) was investigated. Analysis of 
+receptor sequences from a range of primates and some non-primate mammals showed
+that accelerated evolution did indeed occur on this branch in the case of IGF1R
+and IR, but not for the similar insulin receptor-related receptor (IRRR) which
+does not bind insulin or IGF1. Marked accelerated evolution on this branch was
+also seen for some IGFBPs, but not the mannose 6-phosphate/IGF2 receptor or
+epidermal growth factor receptor. The rate of evolution slowed before divergence 
+of the lineages leading to the NWM for which sequences are available (Callithrix 
+and Saimiri). For the IGF1R and IR, the accelerated evolution was most marked for
+the extracellular domains (ectodomains). Application of the branch-site method
+showed dN/dS ratios significantly greater than 1.0 for both receptor ectodomains 
+and for IGFBP1, and allowed identification of residues likely to have been
+subject to selection. These residues were concentrated in the N-terminal half of 
+the IGF1R ectodomain but the C-terminal half of the IR ectodomain, which could
+have implications for the formation of hybrid receptors. Overall the results
+suggest that adaptive coevolution of IGF1, insulin and their receptors and some
+IGFBPs occurred during the evolution of NWM. For the most part, the residues that
+change on this branch could not be associated with specific functional aspects
+(ligand binding, receptor dimerization, glycosylation) and the physiological
+significance of this coevolution remains to be established.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ghir.2015.06.004 
+PMID: 26072449  [Indexed for MEDLINE]
+
+
+1215. Stem Cell Res. 2015 Jul;15(1):141-50. doi: 10.1016/j.scr.2015.05.010. Epub 2015
+May 27.
+
+Marmoset induced pluripotent stem cells: Robust neural differentiation following 
+pretreatment with dimethyl sulfoxide.
+
+Qiu Z(1), Mishra A(1), Li M(1), Farnsworth SL(1), Guerra B(2), Lanford RE(2),
+Hornsby PJ(3).
+
+Author information: 
+(1)South Texas Veterans Health Care System, San Antonio, TX, United States;
+Department of Physiology/Barshop Institute, University of Texas Health Science
+Center at San Antonio, United States.
+(2)Southwest National Primate Research Center and Texas Biomedical Research
+Institute, United States.
+(3)South Texas Veterans Health Care System, San Antonio, TX, United States;
+Department of Physiology/Barshop Institute, University of Texas Health Science
+Center at San Antonio, United States. Electronic address: hornsby@uthscsa.edu.
+
+The marmoset is an important nonhuman primate model for regenerative medicine.
+For experimental autologous cell therapy based on induced pluripotent (iPS) cells
+in the marmoset, cells must be able to undergo robust and reliable directed
+differentiation that will not require customization for each specific iPS cell
+clone. When marmoset iPS cells were aggregated in a hanging drop format for 3
+days, followed by exposure to dual SMAD inhibitors and retinoic acid in monolayer
+culture for 3 days, we found substantial variability in the response of different
+iPS cell clones. However, when clones were pretreated with 0.05-2% dimethyl
+sulfoxide (DMSO) for 24 hours, all clones showed a very similar maximal response 
+to the directed differentiation scheme. Peak responses were observed at 0.5% DMSO
+in two clones and at 1% DMSO in a third clone. When patterns of gene expression
+were examined by microarray analysis, hierarchical clustering showed very similar
+responses in all 3 clones when they were pretreated with optimal DMSO
+concentrations. The change in phenotype following exposure to DMSO and the 6 day 
+hanging drop/monolayer treatment was confirmed by immunocytochemistry. Analysis
+of DNA content in DMSO-exposed cells indicated that it is unlikely that DMSO acts
+by causing cells to exit from the cell cycle. This approach should be generally
+valuable in the directed neural differentiation of pluripotent cells for
+experimental cell therapy.
+
+Copyright © 2015. Published by Elsevier B.V.
+
+DOI: 10.1016/j.scr.2015.05.010 
+PMCID: PMC4516655
+PMID: 26070112  [Indexed for MEDLINE]
+

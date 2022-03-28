@@ -1,0 +1,69 @@
+
+
+1614. Annu Int Conf IEEE Eng Med Biol Soc. 2012;2012:4108-11. doi:
+10.1109/EMBC.2012.6346870.
+
+Brain-Machine Interface control of a robot arm using actor-critic rainforcement
+learning.
+
+Pohlmeyer EA(1), Mahmoudi B, Geng S, Prins N, Sanchez JC.
+
+Author information: 
+(1)Department of Biomedical Engineering, Miami University, Coral Gables, Fl
+33146, USA.
+
+Here we demonstrate how a marmoset monkey can use a reinforcement learning (RL)
+Brain-Machine Interface (BMI) to effectively control the movements of a robot arm
+for a reaching task. In this work, an actor-critic RL algorithm used neural
+ensemble activity in the monkey's motor cortext to control the robot movements
+during a two-target decision task. This novel approach to decoding offers unique 
+advantages for BMI control applications. Compared to supervised learning decoding
+methods, the actor-critic RL algorithm does not require an explicit set of
+training data to create a static control model, but rather it incrementally
+adapts the model parameters according to its current performance, in this case
+requiring only a very basic feedback signal. We show how this algorithm achieved 
+high performance when mapping the monkey's neural states (94%) to robot actions, 
+and only needed to experience a few trials before obtaining accurate real-time
+control of the robot arm. Since RL methods responsively adapt and adjust their
+parameters, they can provide a method to create BMIs that are robust against
+perturbations caused by changes in either the neural input space or the output
+actions they generate under different task requirements or goals.
+
+DOI: 10.1109/EMBC.2012.6346870 
+PMID: 23366831  [Indexed for MEDLINE]
+
+
+1615. J Pharmacol Sci. 2013;121(2):131-7. Epub 2013 Jan 31.
+
+Involvement of the autonomic nervous system in diurnal variation of corrected QT 
+intervals in common marmosets.
+
+Honda M(1), Komatsu R, Isobe T, Tabo M, Ishikawa T.
+
+Author information: 
+(1)Research Division, Chugai Pharmaceutical Co., Ltd., Komakado, Gotemba City,
+Shizuoka, Japan. hondamsk@chugai-pharm.co.jp
+
+Our previous study has shown that the corrected QT (QTc) interval of the
+electrocardiogram is longer during the dark period than during the light period
+in telemetered common marmosets. In the present study, we investigated the
+involvement of sympathetic and parasympathetic nervous activities in the changes 
+of QTc interval associated with the light-dark cycle.Telemetry transmitters were 
+implanted in six common marmosets to continuously record the electrocardiogram.
+The QT intervals obtained were corrected for the RR interval by applying
+individual probabilistic QT-rate correction formulae. Power spectral analysis of 
+heart rate variability was performed to quantify each autonomic nervous function.
+Changes in QTc intervals and autonomic nervous tones were associated with the
+light-dark cycle. Parasympathetic nervous activity and QTc intervals
+significantly increased by approximately 10 ms during the dark period.Atropine, a
+muscarinic receptor antagonist, suppressed the increased parasympathetic tone and
+QTc prolongation during the dark period. In contrast, propranolol, a
+β-adrenoceptor antagonist, decreased the sympathetic activity and increased QTc
+intervals during the light period. These results suggest that the parasympathetic
+nerve functions prolong QTc intervals during the dark period, while the
+sympathetic nerve functions shorten them during the light period in common
+marmosets.
+
+DOI: 10.1254/jphs.12230fp 
+PMID: 23363785  [Indexed for MEDLINE]
+

@@ -1,0 +1,106 @@
+
+
+998. Nat Microbiol. 2016 Feb 22;1:16004. doi: 10.1038/nmicrobiol.2016.4.
+
+MERS coronavirus induces apoptosis in kidney and lung by upregulating Smad7 and
+FGF2.
+
+Yeung ML(1)(2)(3)(4), Yao Y(5), Jia L(2), Chan JF(1)(2)(3)(4), Chan KH(2), Cheung
+KF(6), Chen H(1)(2)(3)(4), Poon VK(2), Tsang AK(2), To KK(1)(2)(3)(4), Yiu MK(7),
+Teng JL(2), Chu H(2), Zhou J(1)(2)(3)(4), Zhang Q(6), Deng W(5), Lau
+SK(1)(2)(3)(4), Lau JY(4), Woo PC(1)(2)(3)(4), Chan TM(6), Yung S(6), Zheng
+BJ(1)(2)(3)(4), Jin DY(8), Mathieson PW(6)(9), Qin C(5), Yuen KY(1)(2)(3)(4).
+
+Author information: 
+(1)State Key Laboratory of Emerging Infectious Diseases, The University of Hong
+Kong, Hong Kong Special Administrative Region, Hong Kong, China.
+(2)Department of Microbiology, The University of Hong Kong, Hong Kong Special
+Administrative Region, Hong Kong, China.
+(3)Research Centre of Infection and Immunology, The University of Hong Kong, Hong
+Kong Special Administrative Region, Hong Kong, China.
+(4)Carol Yu Centre for Infection, The University of Hong Kong, Hong Kong Special 
+Administrative Region, Hong Kong, China.
+(5)Institute of Laboratory Animal Sciences, Chinese Academy of Medical Sciences, 
+Chaoyang District, Beijing, 100021, China.
+(6)Department of Medicine, The University of Hong Kong, Hong Kong Special
+Administrative Region, Hong Kong, China.
+(7)Department of Surgery, The University of Hong Kong, Hong Kong Special
+Administrative Region, Hong Kong, China.
+(8)Department of Biochemistry, The University of Hong Kong, Hong Kong Special
+Administrative Region, Hong Kong, China.
+(9)President's Office, The University of Hong Kong, Hong Kong Special
+Administrative Region, Hong Kong, China.
+
+Middle East respiratory syndrome coronavirus (MERS-CoV) causes sporadic zoonotic 
+disease and healthcare-associated outbreaks in human. MERS is often complicated
+by acute respiratory distress syndrome (ARDS) and multi-organ failure(1,2). The
+high incidence of renal failure in MERS is a unique clinical feature not often
+found in other human coronavirus infections(3,4). Whether MERS-CoV infects the
+kidney and how it triggers renal failure are not understood(5,6). Here, we
+demonstrated renal infection and apoptotic induction by MERS-CoV in human ex vivo
+organ culture and a nonhuman primate model. High-throughput analysis revealed
+that the cellular genes most significantly perturbed by MERS-CoV have previously 
+been implicated in renal diseases. Furthermore, MERS-CoV induced apoptosis
+through upregulation of Smad7 and fibroblast growth factor 2 (FGF2) expression in
+both kidney and lung cells. Conversely, knockdown of Smad7 effectively inhibited 
+MERS-CoV replication and protected cells from virus-induced cytopathic effects.
+We further demonstrated that hyperexpression of Smad7 or FGF2 induced a strong
+apoptotic response in kidney cells. Common marmosets infected by MERS-CoV
+developed ARDS and disseminated infection in kidneys and other organs. Smad7 and 
+FGF2 expression were elevated in the lungs and kidneys of the infected animals.
+Our results provide insights into the pathogenesis of MERS-CoV and host targets
+for treatment.
+
+DOI: 10.1038/nmicrobiol.2016.4 
+PMCID: PMC7097571
+PMID: 27572168  [Indexed for MEDLINE]
+
+
+999. PLoS One. 2016 Aug 29;11(8):e0162023. doi: 10.1371/journal.pone.0162023.
+eCollection 2016.
+
+Viral Vector-Based Dissection of Marmoset GFAP Promoter in Mouse and Marmoset
+Brains.
+
+Shinohara Y(1)(2), Konno A(1), Takahashi N(1), Matsuzaki Y(1), Kishi S(2), Hirai 
+H(1)(3).
+
+Author information: 
+(1)Department of Neurophysiology & Neural Repair, Gunma University Graduate
+School of Medicine, Maebashi, Gunma, Japan.
+(2)Department of Ophthalmology, Gunma University Graduate School of Medicine,
+Maebashi, Gunma, Japan.
+(3)Research Program for Neural Signalling, Division of Endocrinology, Metabolism 
+and Signal Research, Gunma University Initiative for Advanced Research, Maebashi,
+Gunma, Japan.
+
+Adeno-associated virus (AAV) vectors are small in diameter, diffuse easily in the
+brain, and represent a highly efficient means by which to transfer a transgene to
+the brain of a large animal. A major demerit of AAV vectors is their limited
+accommodation capacity for transgenes. Thus, a compact promoter is useful when
+delivering large transgenes via AAV vectors. In the present study, we aimed to
+identify the shortest astrocyte-specific GFAP promoter region that could be used 
+for AAV-vector-mediated transgene expression in the marmoset brain. The 2.0-kb
+promoter region upstream of the GFAP gene was cloned from the marmoset genome,
+and short promoters (1.6 kb, 1.4 kb, 0.6 kb, 0.3 kb and 0.2 kb) were obtained by 
+progressively deleting the original 2.0-kb promoter from the 5' end. The short
+promoters were screened in the mouse cerebellum in terms of their strength and
+astrocyte specificity. We found that the 0.3-kb promoter maintained 40% of the
+strength of the original 2.0-kb promoter, and approximately 90% of its astrocyte 
+specificity. These properties were superior to those of the 1.4-kb, 0.6-kb (20%
+promoter strength) and 0.2-kb (70% astrocyte specificity) promoters. Then, we
+verified whether the 0.3-kb GFAP promoter retained astrocyte specificity in the
+marmoset cerebral cortex. Injection of viral vectors carrying the 0.3-kb marmoset
+GFAP promoter specifically transduced astrocytes in both the cerebral cortex and 
+cerebellar cortex of the marmoset. These results suggest that the compact 0.3-kb 
+promoter region serves as an astrocyte-specific promoter in the marmoset brain,
+which permits us to express a large gene by AAV vectors that have a limited
+accommodation capacity.
+
+DOI: 10.1371/journal.pone.0162023 
+PMCID: PMC5003399
+PMID: 27571575  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

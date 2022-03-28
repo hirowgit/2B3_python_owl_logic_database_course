@@ -1,0 +1,29 @@
+
+
+4200. Gene. 1992 Jul 15;116(2):231-43.
+
+Gibbon and marmoset c-myc nucleotide sequences.
+
+Eladari ME(1), Mohammad-Ali K, Argaut C, Galibert F.
+
+Author information: 
+(1)Laboratoire de Recombinaisons Génétiques-UPR 41 CNRS, Centre Hayem, Hôpital
+Saint-Louis, Paris, France.
+
+The nucleotide sequences of the gibbon and marmoset myc loci have been determined
+by the dideoxy ribomethod. The number of mutations which occurred during
+evolution and the branches affected were deduced according to the principle of
+maximum parsimony, from a comparison with known mammal sequences. As previously
+observed for the human and chimpanzee myc genes, an Alu repeat belonging to
+subclass III was observed in the second intron of the gibbon myc gene. In
+contrast, no such element was found in the marmoset gene. Alignment of the Myc
+amino acid (aa) sequences provided clues for detecting which aa or which protein 
+regions have been more heavily mutated. Conversely, some regions remained free of
+mutations and remained unchanged from mouse to human, most probably in connection
+with some important embedded property(ies). An intriguing feature of the human
+Myc protein is duplication of 50 aa out of 439. Strikingly, most of these aa
+remain unchanged in mouse, rat, cat, marmoset, gibbon, chimpanzee and human.
+
+DOI: 10.1016/0378-1119(92)90520-y 
+PMID: 1634119  [Indexed for MEDLINE]
+

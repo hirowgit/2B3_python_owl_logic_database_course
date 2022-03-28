@@ -1,0 +1,75 @@
+
+
+2703. Cell Tissue Res. 2005 Jun;320(3):379-92. Epub 2005 Apr 9.
+
+Differential expression of the GABA transporters GAT-1 and GAT-3 in brains of
+rats, cats, monkeys and humans.
+
+Pow DV(1), Sullivan RK, Williams SM, Scott HL, Dodd PR, Finkelstein D.
+
+Author information: 
+(1)Department of Physiology and Pharmacology, School of Biomedical Sciences,
+University of Queensland, Brisbane, 4072, Australia. d.pow@eaats.org
+
+The homeostasis of GABA is critical to normal brain function. Extracellular
+levels of GABA are regulated mainly by plasmalemmal gamma-aminobutyric acid
+(GABA) transporters. Whereas the expression of GABA transporters has been
+extensively studied in rodents, validation of this data in other species,
+including humans, has been limited. As this information is crucial for our
+understanding of therapeutic options in human diseases such as epilepsy, we have 
+compared, by immunocytochemistry, the distributions of the GABA transporters
+GAT-1 and GAT-3 in rats, cats, monkeys and humans. We demonstrate subtle
+differences between the results reported in the literature and our results, such 
+as the predominance of GAT-1 labelling in neurons rather than astrocytes in the
+rat cortex. We note that the optimal localisation of GAT-1 in cats, monkeys and
+humans requires the use of an antibody against the human sequence carboxyl
+terminal region of GAT-1 rather than against the slightly different rat sequence.
+We demonstrate that GAT-3 is localised mainly to astrocytes in hindbrain and
+midbrain regions of rat brains. However, in species such as cats, monkeys and
+humans, additional strong immunolabelling of oligodendrocytes has also been
+observed. We suggest that differences in GAT distribution, especially the
+expression of GAT-3 by oligodendrocytes in humans, must be accommodated in
+extrapolating rodent models of GABA homeostasis to humans.
+
+DOI: 10.1007/s00441-004-0928-0 
+PMID: 15821932  [Indexed for MEDLINE]
+
+
+2704. Toxicol Pathol. 2005;33(1):63-74.
+
+Spontaneous and drug-induced hepatic pathology of the laboratory beagle dog, the 
+cynomolgus macaque and the marmoset.
+
+Foster JR(1).
+
+Author information: 
+(1)AstraZeneca Pharmaceuticals, Cheshire, SK10 4TG, England.
+john.foster@astrazeneca.com
+
+This review focuses on the background hepatic pathology present in three of the
+most commonly used species in the safety assessment of drugs, namely the beagle
+dog, the marmoset and the cynomolgus macaque. Both the nonneoplastic and
+neoplastic pathology are reviewed with a discussion on the potential impact that 
+significant background pathology might have on the interpretation of any
+drug-induced pathology during subsequent testing. Although specific instances,
+such as parasitological infection in wild-caught primates can pose problems of
+interpretation, in general the background pathology in both the dog and the
+nonhuman primates, is not significantly different from that seen in the liver of 
+laboratory rodents and with experience should not pose significant problems for
+the experienced pathologist. The relative merits of the primate versus the dog as
+a choice of second species are also considered in some detail. Although there is 
+an inbuilt prejudice that the primate will more closely mimic subsequent effects 
+that might occur in man in the clinic, insofar as the liver is concerned, there
+are many instances where the dog has been more representative of human exposure
+and metabolism and there is little evidence to show that the nonhuman primate is 
+consistently better than dog in predicting human liver toxicity. As with most
+areas of science, comparative toxicology would dictate that the more information 
+gained, from as wide a range of species as is practical, will give the best
+assessment for any subsequent problems in the clinic. This pragmatic approach
+should prove to be more successful than one based entirely upon an assumption,
+and in many cases the assumption is incorrect, that the primate always predicts
+human toxicity better than the nonprimate, including the dog.
+
+DOI: 10.1080/01926230590890196 
+PMID: 15805057  [Indexed for MEDLINE]
+

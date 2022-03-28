@@ -1,0 +1,51 @@
+
+
+492. J Inflamm Res. 2019 May 7;12:113-126. doi: 10.2147/JIR.S196552. eCollection 2019.
+
+Colonic inflammation affects myenteric alpha-synuclein in nonhuman primates.
+
+Resnikoff H(1), Metzger JM(1)(2), Lopez M(1), Bondarenko V(1), Mejia A(1),
+Simmons HA(1), Emborg ME(1)(2)(3).
+
+Author information: 
+(1)Preclinical Parkinson's Research Program, Wisconsin National Primate Research 
+Center, University of Wisconsin - Madison, Madison, WI, USA.
+(2)Cellular and Molecular Pathology Graduate Program, University of Wisconsin -
+Madison, Madison, WI, USA.
+(3)Department of Medical Physics, University of Wisconsin - Madison, Madison, WI,
+USA.
+
+Background: Parkinson's disease (PD) patients frequently present gastrointestinal
+(GI) dysfunction that, in many cases, predates the onset of motor symptoms. In
+PD, the presynaptic protein alpha-synuclein (α-syn) undergoes pathological
+changes, including phosphorylation and aggregation leading to the formation of
+Lewy bodies, which can be found in neurons of the enteric nervous system (ENS).
+Inflammation has been proposed as a possible trigger of α-syn pathology.
+Interestingly, patients with inflammatory bowel disease and irritable bowel
+syndrome, conditions associated with GI inflammation, are at higher risk of
+developing PD. Captive common marmosets (Callithrix jacchus) develop colitis,
+providing a natural platform to assess the relationship between α-syn pathology
+and GI inflammation. Materials and Methods: Sections of proximal colon from
+marmosets with colitis (n=5; 5.3±2.3 years old; 4 male) and normal controls (n=5;
+4.1±1.6 years old; 1 male) were immunostained against protein gene product 9.5
+(PGP9.5), human leukocyte antigen DR (HLA-DR), cluster of differentiation 3
+(CD3), cluster of differentiation 20 (CD20), glial fibrillary acidic protein
+(GFAP), 8-hydroxy-2'-deoxyguanosine (8-OHdG), α-syn, and serine 129
+phosphorylated α-syn (p-α-syn). Immunoreactivity of each staining in the
+myenteric plexus was quantified using NIH ImageJ software. Results: Marmosets
+with colitis had significantly increased expression of inflammatory markers
+(HLA-DR, p<0.02; CD3, p<0.008), oxidative stress (8-OHdG, p<0.05), and p-α-syn
+(p<0.02) and decreased expression of α-syn (p<0.04) in the colonic myenteric
+ganglia compared to normal, healthy controls. Conclusion: Colonic inflammation is
+associated with changes in α-syn expression and phosphorylation in the myenteric 
+plexus of common marmosets. Future evaluation of the vagus nerve and brain of
+animals with colitis will be key to assess the contribution of colitis-induced
+ENS α-syn pathology to PD-like pathology in the brain.
+
+DOI: 10.2147/JIR.S196552 
+PMCID: PMC6511240
+PMID: 31123415 
+
+Conflict of interest statement: The authors report no conflicts of interest in
+this work.
+

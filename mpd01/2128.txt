@@ -1,0 +1,73 @@
+
+
+2128. J Virol. 2009 Sep;83(17):8771-80. doi: 10.1128/JVI.00112-09. Epub 2009 Jun 24.
+
+A New World primate deficient in tetherin-mediated restriction of human
+immunodeficiency virus type 1.
+
+Wong SK(1), Connole M, Sullivan JS, Choe H, Carville A, Farzan M.
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, Harvard Medical School, and
+New England Primate Research Center, Southborough, Massachusettts 01772, USA.
+
+Human immunodeficiency virus type 1 (HIV-1) does not replicate in primary cells
+of New World primates. To better understand this restriction, we expressed owl
+monkey (Aotus nancymaae) CD4 and CXCR4 in the owl monkey kidney cell line, OMK.
+An HIV-1 variant modified to evade the owl monkey restriction factor TRIM-cyp
+replicated efficiently in these cells but could not replicate in primary A.
+nancymaae CD4-positive T cells. To understand this difference, we examined
+APOBEC3G and tetherin orthologs from OMK cells and primary A. nancymaae cells. We
+observed that OMK cells expressed substantially lower levels of APOBEC3G than did
+A. nancymaae cells. A. nancymaae, but not marmoset (Callithrix jacchus), APOBEC3G
+was partially downregulated by HIV-1 vif and reduced but did not abolish HIV-1
+replication when stably expressed in OMK cells. The functional difference between
+A. nancymaae and marmoset APOBEC3Gs mapped to residue 128, previously shown to
+distinguish African green monkey from human APOBEC3G. We also characterized
+tetherin orthologs from OMK and A. nancymaae cells. The A. nancymaae tetherin
+ortholog, but not OMK tetherin, prevented HIV-1 release. Alteration of threonine 
+181 of OMK tetherin rescued its function and its efficient N glycosylation. All
+alleles of Aotus lemurinus griseimembra examined, but none of A. nancymaae or
+Aotus vociferans, encoded this nonfunctional tetherin ortholog. Our data indicate
+that HIV-1 replication in owl monkeys is not restricted at entry but can be
+limited by APOBEC3G and tetherin. Further, A. lemurinus griseimembra does not
+restrict HIV-1 replication via tetherin, a property likely useful for the study
+of tetherin-restricted viruses.
+
+DOI: 10.1128/JVI.00112-09 
+PMCID: PMC2738210
+PMID: 19553332  [Indexed for MEDLINE]
+
+
+2129. Neurosci Lett. 2009 Sep 25;461(3):217-22. doi: 10.1016/j.neulet.2009.06.016. Epub
+2009 Jun 17.
+
+Distribution of vasopressin and oxytocin binding sites in the brain and upper
+spinal cord of the common marmoset.
+
+Schorscher-Petcu A(1), Dupré A, Tribollet E.
+
+Author information: 
+(1)Douglas Mental Health University Institute, McGill University, Montreal,
+Quebec H4H 1R3, Canada.
+
+The aim of this study was to label selectively and to map central vasopressin
+(AVP) and oxytocin (OT) binding sites in the common marmoset. [(125)I]VPA, a
+compound selective in rodents and human for the AVP V(1a) receptor, yielded the
+same labeling pattern as [(3)H]AVP, thus suggesting that most AVP receptors
+present in the marmoset brain are of the V(1a) subtype. Numerous areas exhibited 
+AVP binding sites, among which the olfactory bulb, the accumbens nucleus, the bed
+nucleus of the stria terminalis, the hypothalamic suprachiasmatic, arcuate and
+ventromedial nuclei, the medial amygdaloid nucleus, the nucleus of the solitary
+tract and the cerebral cortex. Binding sites for [(125)I]OTA, a selective OT
+receptor antagonist in rat and human, were markedly less abundant than
+[(125)I]VPA ones, and, to a few exceptions, expressed in different areas. Neither
+AVP, nor OT binding sites were detected in the hypothalamic paraventricular (PVN)
+and supraoptic (SON) nuclei identified by neurophysin immunoreactivity. Marked
+species-related differences were observed in the distribution of both AVP and OT 
+binding sites. Altogether, our data provide a morphological basis to investigate 
+the function of central AVP and OT in the marmoset.
+
+DOI: 10.1016/j.neulet.2009.06.016 
+PMID: 19539696  [Indexed for MEDLINE]
+

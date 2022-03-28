@@ -1,0 +1,45 @@
+
+
+640. Curr Drug Metab. 2019;20(2):103-113. doi: 10.2174/1389200219666181003143312.
+
+Survey of Drug Oxidation Activities in Hepatic and Intestinal Microsomes of
+Individual Common Marmosets, a New Nonhuman Primate Animal Model.
+
+Uehara S(1), Oshio T(1), Nakanishi K(1), Tomioka E(1), Suzuki M(1), Inoue T(2),
+Uno Y(3), Sasaki E(2)(4), Yamazaki H(1).
+
+Author information: 
+(1)Showa Pharmaceutical University, Machida, Tokyo 194-8543, Japan.
+(2)Department of Marmoset Research, Central Institute for Experimental Animals,
+Kawasaki, Japan.
+(3)Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, Japan.
+(4)Keio Advanced Research Center, Keio University, Minato-ku, Tokyo, Japan.
+
+BACKGROUND: Common marmosets (Callithrix jacchus) are potentially useful nonhuman
+primate models for preclinical studies. Information for major drug-metabolizing
+cytochrome P450 (P450) enzymes is now available that supports the use of this
+primate species as an animal model for drug development. Here, we collect and
+provide an overview of information on the activities of common marmoset hepatic
+and intestinal microsomes with respect to 28 typical human P450 probe oxidations.
+RESULTS: Marmoset P450 2D6/8-dependent R-metoprolol O-demethylation activities in
+hepatic microsomes were significantly correlated with those of midazolam 1'- and 
+4-hydroxylations, testosterone 6β-hydroxylation, and progesterone
+6β-hydroxylation, which are probe reactions for marmoset P450 3A4/5/90. In
+marmosets, the oxidation activities of hepatic microsomes and intestinal
+microsomes were roughly comparable for midazolam and terfenadine. Overall,
+multiple forms of marmoset P450 enzymes in livers and intestines had generally
+similar substrate recognition functionalities to those of human and/or cynomolgus
+monkey P450 enzymes.
+CONCLUSION: The marmoset could be a model animal for humans with respect to the
+first-pass extraction of terfenadine and related substrates. These findings
+provide a foundation for understanding individual pharmacokinetic and
+toxicological results in nonhuman primates as preclinical models and will help to
+further support understanding of the molecular mechanisms of human P450 function.
+
+Copyright© Bentham Science Publishers; For any queries, please email at
+epub@benthamscience.net.
+
+DOI: 10.2174/1389200219666181003143312 
+PMCID: PMC6635653
+PMID: 30280664  [Indexed for MEDLINE]
+

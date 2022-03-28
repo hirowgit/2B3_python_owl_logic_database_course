@@ -1,0 +1,46 @@
+
+
+1073. Biol Lett. 2016 Mar;12(3):20150817. doi: 10.1098/rsbl.2015.0817.
+
+CENP-B box, a nucleotide motif involved in centromere formation, occurs in a New 
+World monkey.
+
+Suntronpong A(1), Kugou K(2), Masumoto H(2), Srikulnath K(3), Ohshima K(4), Hirai
+H(5), Koga A(6).
+
+Author information: 
+(1)Primate Research Institute, Kyoto University, Inuyama 484-8506, Japan Faculty 
+of Science, Kasetsart University, Bangkok 10900, Thailand.
+(2)Department of Frontier Research, Kazusa DNA Research Institute, Kisarazu
+292-0818, Japan.
+(3)Faculty of Science, Kasetsart University, Bangkok 10900, Thailand.
+(4)Graduate School of Bioscience, Nagahama Institute of Bio-Science and
+Technology, Nagahama 526-0829, Japan.
+(5)Primate Research Institute, Kyoto University, Inuyama 484-8506, Japan.
+(6)Primate Research Institute, Kyoto University, Inuyama 484-8506, Japan
+koga.akihiko.5n@kyoto-u.ac.jp.
+
+Centromere protein B (CENP-B) is one of the major proteins involved in centromere
+formation, binding to centromeric repetitive DNA by recognizing a 17 bp motif
+called the CENP-B box. Hominids (humans and great apes) carry large numbers of
+CENP-B boxes in alpha satellite DNA (AS, the major centromeric repetitive DNA of 
+simian primates). Only negative results have been reported regarding the presence
+of the CENP-B box in other primate taxa. Consequently, it is widely believed that
+the CENP-B box is confined, within primates, to the hominids. We report here that
+the common marmoset, a New World monkey, contains an abundance of CENP-B boxes in
+its AS. First, in a long contig sequence we constructed and analysed, we
+identified the motif in 17 of the 38 alpha satellite repeat units. We then
+sequenced terminal regions of additional clones and found the motif in many of
+them. Immunostaining of marmoset cells demonstrated that CENP-B binds to DNA in
+the centromeric regions of chromosomes. Therefore, functional CENP-B boxes are
+not confined to hominids. Our results indicate that the efficiency of
+identification of the CENP-B box may depend largely on the sequencing methods
+used, and that the CENP-B box in centromeric repetitive DNA may be more common
+than researchers previously thought.
+
+© 2016 The Author(s).
+
+DOI: 10.1098/rsbl.2015.0817 
+PMCID: PMC4843215 [Available on 2017-03-01]
+PMID: 27029836  [Indexed for MEDLINE]
+

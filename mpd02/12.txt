@@ -1,0 +1,56 @@
+
+
+12. Mol Brain. 2022 Feb 10;15(1):16. doi: 10.1186/s13041-022-00901-2.
+
+A natural marmoset model of genetic generalized epilepsy.
+
+Yang X(#)(1), Chen Z(#)(1), Wang Z(1), He G(1), Li Z(1), Shi Y(1), Gong N(2),
+Zhao B(1), Kuang Y(1), Takahashi E(3), Li W(4)(5).
+
+Author information: 
+(1)Bio-X Institutes, Key Laboratory for the Genetics of Development and
+Neuropsychiatric Disorders (Ministry of Education), Shanghai Key Laboratory of
+Psychotic Disorders, and Brain Science and Technology Research Center, Institute 
+of Psychology and Behavioral Sciences, Shanghai Jiao Tong University, Shanghai,
+200240, China.
+(2)Institute of Neuroscience, Key Laboratory of Primate Neurobiology, CAS Center 
+for Excellence in Brain Science and Intelligence Technology, Chinese Academy of
+Sciences, Shanghai, 200031, China.
+(3)Bio-X Institutes, Key Laboratory for the Genetics of Development and
+Neuropsychiatric Disorders (Ministry of Education), Shanghai Key Laboratory of
+Psychotic Disorders, and Brain Science and Technology Research Center, Institute 
+of Psychology and Behavioral Sciences, Shanghai Jiao Tong University, Shanghai,
+200240, China. eiki.takahashi.sjt@gmail.com.
+(4)Bio-X Institutes, Key Laboratory for the Genetics of Development and
+Neuropsychiatric Disorders (Ministry of Education), Shanghai Key Laboratory of
+Psychotic Disorders, and Brain Science and Technology Research Center, Institute 
+of Psychology and Behavioral Sciences, Shanghai Jiao Tong University, Shanghai,
+200240, China. liwd@sjtu.edu.cn.
+(5)WLA Laboratories, World Laureates Association, Shanghai, 201203, China.
+liwd@sjtu.edu.cn.
+(#)Contributed equally
+
+Epilepsy has been extensively studied as a common neurological disease. Efforts
+have been made on rodent and other animal models to reveal the pathogenic
+mechanisms of epilepsy and develop new drugs for treatment. However, the features
+of current epilepsy models cannot fully mimic different types of epilepsy in
+humans, hence non-human primate models of epilepsy are required. The common
+marmoset (Callithrix jacchus) is a New World monkey that is widely used to study 
+brain function. Here, we present a natural marmoset model of generalized
+epilepsy. In this unique marmoset family, generalized epilepsy was successfully
+induced by handling operations in some individuals. We mapped the marmoset family
+with handling-sensitive epilepsy and found that the epileptic phenotype can be
+inherited. These marmosets were more sensitive to the epilepsy inducers
+pentylenetetrazol. Using electrocorticogram (ECoG) recordings, we detected
+epileptiform discharge in marmosets with a history of seizures. In summary, we
+report a family of marmosets with generalized seizures induced by handling
+operations. This epileptic marmoset family provides insights to better understand
+the mechanism of generalized epilepsy and helps to develop new therapeutic
+methods.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s13041-022-00901-2 
+PMCID: PMC8832845
+PMID: 35144651 
+

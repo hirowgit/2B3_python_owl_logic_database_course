@@ -1,0 +1,91 @@
+
+
+562. Cell. 2019 Feb 21;176(5):1222-1237.e22. doi: 10.1016/j.cell.2019.01.004. Epub
+2019 Jan 31.
+
+Molecular Classification and Comparative Taxonomics of Foveal and Peripheral
+Cells in Primate Retina.
+
+Peng YR(1), Shekhar K(2), Yan W(1), Herrmann D(1), Sappington A(2), Bryman GS(3),
+van Zyl T(4), Do MTH(3), Regev A(5), Sanes JR(6).
+
+Author information: 
+(1)Center for Brain Science and Department of Molecular and Cellular Biology,
+Harvard University, Cambridge, MA 02138, USA.
+(2)Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA
+02142, USA.
+(3)F.M. Kirby Neurobiology Center and Department of Neurology, Boston Children's 
+Hospital Harvard Medical School, Boston, MA 02115, USA.
+(4)Department of Ophthalmology, Harvard Medical School, Boston, MA 02114, USA.
+(5)Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA
+02142, USA; Howard Hughes Medical Institute, Koch Institute of Integrative Cancer
+Research, Department of Biology, Massachusetts Institute of Technology,
+Cambridge, MA 02140, USA.
+(6)Center for Brain Science and Department of Molecular and Cellular Biology,
+Harvard University, Cambridge, MA 02138, USA. Electronic address:
+sanesj@mcb.harvard.edu.
+
+High-acuity vision in primates, including humans, is mediated by a small central 
+retinal region called the fovea. As more accessible organisms lack a fovea, its
+specialized function and its dysfunction in ocular diseases remain poorly
+understood. We used 165,000 single-cell RNA-seq profiles to generate
+comprehensive cellular taxonomies of macaque fovea and peripheral retina. More
+than 80% of >60 cell types match between the two regions but exhibit substantial 
+differences in proportions and gene expression, some of which we relate to
+functional differences. Comparison of macaque retinal types with those of mice
+reveals that interneuron types are tightly conserved. In contrast, projection
+neuron types and programs diverge, despite exhibiting conserved transcription
+factor codes. Key macaque types are conserved in humans, allowing mapping of
+cell-type and region-specific expression of >190 genes associated with 7 human
+retinal diseases. Our work provides a framework for comparative single-cell
+analysis across tissue regions and species.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2019.01.004 
+PMCID: PMC6424338
+PMID: 30712875  [Indexed for MEDLINE]
+
+
+563. Anim Cogn. 2019 May;22(3):317-329. doi: 10.1007/s10071-019-01245-6. Epub 2019 Feb
+1.
+
+Context-specific response inhibition and differential impact of a learning bias
+in a lizard.
+
+Szabo B(1), Noble DWA(2)(3), Whiting MJ(4).
+
+Author information: 
+(1)Department of Biological Sciences, Macquarie University, NSW, 2109, Sydney,
+Australia. birgit.szabo@gmx.at.
+(2)Ecology and Evolution Research Centre, School of Biological, Earth and
+Environmental Sciences, University of New South Wales, Sydney, Australia.
+(3)Ecology and Evolution, Research School of Biology, The Australian National
+University, Canberra, Australia.
+(4)Department of Biological Sciences, Macquarie University, NSW, 2109, Sydney,
+Australia.
+
+Response inhibition (inhibiting prepotent responses) is needed for reaching a
+more favourable goal in situations where reacting automatically would be
+detrimental. Inhibiting prepotent responses to resist the temptation of a
+stimulus in certain situations, such as a novel food item, can directly affect an
+animal's survival. In humans and dogs, response inhibition varies between
+contexts and between individuals. We used two contextually different experiments 
+to investigate response inhibition in the eastern water skink (Eulamprus quoyii):
+reversal of a visual two-choice discrimination and a cylinder detour task. During
+the two-choice task, half of our lizards were able to reach an initial learning
+criterion, but, thereafter, did not show consistent performance. Only two
+individuals reached a more stringent criterion, but subsequently failed during
+reversals. Furthermore, half of our animals were not able to inhibit a
+pre-existing side preference which affected their ability to learn during the
+two-choice task. Skinks were, however, able to achieve a detour around a cylinder
+performing at levels comparable to brown lemurs, marmosets, and some parrot
+species. A comparison between the tasks showed that reaching the initial
+criterion was associated with low success during the detour task, indicating that
+response inhibition could be context-specific in the water skink. To the best of 
+our knowledge, this is the first study to examine inhibitory control and motor
+self-regulation in a lizard species.
+
+DOI: 10.1007/s10071-019-01245-6 
+PMID: 30707367  [Indexed for MEDLINE]
+

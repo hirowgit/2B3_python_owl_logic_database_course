@@ -1,0 +1,39 @@
+
+
+2717. Cancer Res. 2005 Feb 15;65(4):1577-86.
+
+Functional characterization of EBV-encoded nuclear antigen 1-specific CD4+ helper
+and regulatory T cells elicited by in vitro peptide stimulation.
+
+Voo KS(1), Peng G, Guo Z, Fu T, Li Y, Frappier L, Wang RF.
+
+Author information: 
+(1)The Center for Cell and Gene Therapy and Department of Immunology, Baylor
+College of Medicine, Houston, Texas, USA.
+
+CD4(+) helper and regulatory T (Treg) cells play important but opposing roles in 
+regulating host immune responses against cancer and other diseases. However, very
+little is known about the antigen specificity of CD4(+) Treg cells. Here we
+describe the generation of a panel of EBV-encoded nuclear antigen 1
+(EBNA1)-specific CD4(+) T-cell lines and clones that recognize naturally
+processed EBNA1-P(607-619) and -P(561-573) peptides in the context of HLA-DQ2 and
+HLA-DR11, -DR12, and -DR13 molecules, respectively. Phenotypic and functional
+analyses of these CD4(+) T cells revealed that they represent EBNA1-specific
+CD4(+) T helper as well as Treg cells. CD4(+) Treg cells do not secrete
+interleukin (IL)-10 and transforming growth factor beta cytokines but express
+CD25, the glucocorticoid-induced tumor necrosis factor receptor-related protein
+(GITR), and Forkhead Box P3 (Foxp3), and are capable of suppressing the
+proliferative responses of naive CD4(+) and CD8(+) T cells to stimulation with
+mitogenic anti-CD3 antibody. The suppressive activity of these CD4(+) Treg cells 
+is mediated via cell-cell contact or in part by a cytokine-dependent manner.
+Importantly, these Treg cells suppress IL-2 secretion by CD4(+) effector T cells 
+specific for either EBNA1 or a melanoma antigen, suggesting that these CD4(+)
+Treg cells induce immune suppression. These observations suggest that the success
+of peptide-based vaccines against EBV-associated cancer and other diseases may
+likely depend upon our ability to identify antigens/peptides that preferentially 
+activate helper T cells and/or to design strategies to regulate the balance
+between CD4(+) helper and Treg cells.
+
+DOI: 10.1158/0008-5472.CAN-04-2552 
+PMID: 15735048  [Indexed for MEDLINE]
+

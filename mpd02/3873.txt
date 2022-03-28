@@ -1,0 +1,41 @@
+
+
+3873. J Biol Chem. 1995 Sep 15;270(37):21539-44.
+
+Eosinophil cationic protein and eosinophil-derived neurotoxin. Evolution of novel
+function in a primate ribonuclease gene family.
+
+Rosenberg HF(1), Dyer KD.
+
+Author information: 
+(1)Laboratory of Host Defenses, NIAID, National Institutes of Health, Bethesda,
+Maryland 20892, USA.
+
+Erratum in
+    J Biol Chem. 1995 Dec 15;270(50):30234.
+
+Human eosinophil-derived neurotoxin (EDN) and eosinophil cationic protein (ECP)
+are members of a unique subfamily of rapidly evolving primate ribonuclease genes 
+that emerged via a gene duplication event occurring after the divergence of Old
+World from New World monkeys (Rosenberg, H. F., Dyer, K. D., Tiffany, H. L., and 
+Gonzalez, M. (1995) Nature Genet. 10, 219-223). In this work, we studied the
+activity of the protein encoded by the EDN/ECP homolog of the New World monkey,
+Saguinus oedipus (marmoset), a representative of the "ancestral" single
+sequences. Although the nucleotide sequence of the single marmoset gene (mEDN)
+was equally homologous (82%) to both human genes, the encoded amino acid
+sequence, calculated isoelectric point, and immunoreactivity all suggested a
+closer relationship with EDN. Furthermore, mEDN (at 0.3-1.0 microM
+concentrations) had no measurable anti-staphylococcal activity, suggesting
+functional as well as structural similarity to EDN. However, with yeast tRNA as
+substrate, mEDN had significantly less ribonuclease activity than EDN; Michaelis 
+constants were nearly identical (Km (mEDN) = 0.67 microM; Km (EDN) = 0.70
+microM), while turnover numbers differed by a factor of 100 (kcat (mEDN) = 0.91
+s-1; kcat (EDN) = 0.64 x 10(-2) s-1). Thus, evolutionary constraints appear to
+have promoted two novel functions: increased cationicity/toxicity (ECP) and
+enhanced ribonuclease activity (EDN). The latter result is particularly
+intriguing, as it suggests a crucial role for ribonuclease activity in the (as
+yet to be determined) physiologic function of EDN.
+
+DOI: 10.1074/jbc.270.37.21539 
+PMID: 7665566  [Indexed for MEDLINE]
+

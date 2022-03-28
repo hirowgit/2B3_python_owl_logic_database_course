@@ -1,0 +1,90 @@
+
+
+999. PLoS One. 2016 Aug 29;11(8):e0162023. doi: 10.1371/journal.pone.0162023.
+eCollection 2016.
+
+Viral Vector-Based Dissection of Marmoset GFAP Promoter in Mouse and Marmoset
+Brains.
+
+Shinohara Y(1)(2), Konno A(1), Takahashi N(1), Matsuzaki Y(1), Kishi S(2), Hirai 
+H(1)(3).
+
+Author information: 
+(1)Department of Neurophysiology & Neural Repair, Gunma University Graduate
+School of Medicine, Maebashi, Gunma, Japan.
+(2)Department of Ophthalmology, Gunma University Graduate School of Medicine,
+Maebashi, Gunma, Japan.
+(3)Research Program for Neural Signalling, Division of Endocrinology, Metabolism 
+and Signal Research, Gunma University Initiative for Advanced Research, Maebashi,
+Gunma, Japan.
+
+Adeno-associated virus (AAV) vectors are small in diameter, diffuse easily in the
+brain, and represent a highly efficient means by which to transfer a transgene to
+the brain of a large animal. A major demerit of AAV vectors is their limited
+accommodation capacity for transgenes. Thus, a compact promoter is useful when
+delivering large transgenes via AAV vectors. In the present study, we aimed to
+identify the shortest astrocyte-specific GFAP promoter region that could be used 
+for AAV-vector-mediated transgene expression in the marmoset brain. The 2.0-kb
+promoter region upstream of the GFAP gene was cloned from the marmoset genome,
+and short promoters (1.6 kb, 1.4 kb, 0.6 kb, 0.3 kb and 0.2 kb) were obtained by 
+progressively deleting the original 2.0-kb promoter from the 5' end. The short
+promoters were screened in the mouse cerebellum in terms of their strength and
+astrocyte specificity. We found that the 0.3-kb promoter maintained 40% of the
+strength of the original 2.0-kb promoter, and approximately 90% of its astrocyte 
+specificity. These properties were superior to those of the 1.4-kb, 0.6-kb (20%
+promoter strength) and 0.2-kb (70% astrocyte specificity) promoters. Then, we
+verified whether the 0.3-kb GFAP promoter retained astrocyte specificity in the
+marmoset cerebral cortex. Injection of viral vectors carrying the 0.3-kb marmoset
+GFAP promoter specifically transduced astrocytes in both the cerebral cortex and 
+cerebellar cortex of the marmoset. These results suggest that the compact 0.3-kb 
+promoter region serves as an astrocyte-specific promoter in the marmoset brain,
+which permits us to express a large gene by AAV vectors that have a limited
+accommodation capacity.
+
+DOI: 10.1371/journal.pone.0162023 
+PMCID: PMC5003399
+PMID: 27571575  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+1000. Front Psychol. 2016 Aug 9;7:1190. doi: 10.3389/fpsyg.2016.01190. eCollection
+2016.
+
+An Observational Investigation of Behavioral Contagion in Common Marmosets
+(Callithrix jacchus): Indications for Contagious Scent-Marking.
+
+Massen JJ(1), Šlipogor V(1), Gallup AC(2).
+
+Author information: 
+(1)Department of Cognitive Biology, University of Vienna Vienna, Austria.
+(2)Psychology Department, State University of New York at Oneonta Oneonta, NY,
+USA.
+
+Behavioral contagion is suggested to promote group coordination that may
+facilitate activity transitions, increased vigilance, and state matching. Apart
+from contagious yawning, however, very little attention has been given to this
+phenomenon, and studies on contagious yawning in primates have so far only
+focused on Old World monkeys and apes. Here we studied behavioral contagion in
+common marmosets, a species for which group coordination and vigilance are
+paramount. In particular, we investigated the contagiousness of yawning,
+stretching, scratching, tongue protrusion, gnawing, and scent-marking. We coded
+these behaviors from 14 adult marmosets, from two different social groups. During
+testing sessions, animals were separated into groups of four individuals for
+20-min observation periods, across three distinct diurnal time points (morning,
+midday, and afternoon) to test for circadian patterns. We observed almost no
+yawning (0.12 yawns/h) and very little stretching behavior. For all other
+behaviors, which were more common, we found several temporal and inter-individual
+differences (i.e., sex, age, dominance status) predictive of these responses.
+Moreover, we found that gnawing and scent-marking, which almost always
+co-occurred as a fixed-action pattern, were highly temporally clustered within
+observation sessions. We discuss the relative absence of yawning in marmosets as 
+well as the possible function of contagious scent-marking, and provide
+suggestions for future research into the proximate and ultimate functions of
+these behaviors in marmosets.
+
+DOI: 10.3389/fpsyg.2016.01190 
+PMCID: PMC4980586
+PMID: 27563294 
+

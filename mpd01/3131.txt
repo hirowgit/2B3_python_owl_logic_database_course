@@ -1,0 +1,89 @@
+
+
+3131. Reproduction. 2001 Sep;122(3):419-29.
+
+Comparison of androgen receptor and oestrogen receptor beta immunoexpression in
+the testes of the common marmoset (Callithrix jacchus) from birth to adulthood:
+low androgen receptor immunoexpression in Sertoli cells during the neonatal
+increase in testosterone concentrations.
+
+McKinnell C(1), Saunders PT, Fraser HM, Kelnar CJ, Kivlin C, Morris KD, Sharpe
+RM.
+
+Author information: 
+(1)MRC Human Reproductive Sciences Unit, Centre for Reproductive Biology, 37
+Chalmers Street, Edinburgh EH3 9ET, UK. c.mckinnell@hrsu.mrc.ac.uk
+
+The aims of this study were: (i) to investigate the cellular immunoexpression of 
+androgen receptor and oestrogen receptor beta in the testes of the common
+marmoset (Callithrix jacchus) during neonatal life compared with their expression
+at later ages; (ii) to establish whether neonatal marmoset Sertoli cells are
+targets for androgens or oestrogens or both; and (iii) to investigate the
+relationship between neonatal plasma testosterone concentrations and androgen
+receptor immunoexpression by abolishing the neonatal testosterone surge with a
+potent GnRH antagonist. Androgen receptor and oestrogen receptor beta
+immunoexpression were evaluated in neonatal animals aged 1-4 days, 4 weeks and 6 
+weeks, and compared with immunoexpression in animals aged 18-22 weeks (early
+infancy), 35 weeks (late infancy), 58-62 weeks (late pubertal) and > 100 weeks
+(adult). Immunoexpression of androgen receptor in the reproductive tract was also
+evaluated at each age. Sertoli cell immunoexpression of androgen receptor was
+weak or absent in neonatal animals, but increased substantially in infant
+animals, reaching adult levels by the end of infancy. In contrast,
+immunoexpression of androgen receptor during the neonatal period was strong in
+testicular interstitial cells and very strong in epithelial cell nuclei
+throughout the reproductive tract, and did not change greatly with age in these
+cells or tissues. Similarly, immunoexpression of oestrogen receptor beta was
+prominent in many Sertoli cells and in the germ cells of neonatal animals, and
+was relatively constant throughout life. Weak immunoexpression of androgen
+receptor in neonatal Sertoli cells was associated with high plasma testosterone
+concentrations (2.7-5.5 ng ml(-1)), whereas strong Sertoli cell immunoexpression 
+was associated with baseline (approximately 0.12 ng ml(-1)) testosterone
+concentrations in infant animals and with > 10 ng ml(-1) in late pubertal and
+adult animals. Immunoexpression of androgen receptor and oestrogen receptor beta 
+was also evaluated in co-twin males aged 4 and 35 weeks, after treatment from
+birth to 4 weeks or from week 25 to week 35, respectively, with either vehicle or
+with GnRH antagonist at a dose known to suppress the neonatal testosterone surge 
+completely. Only GnRH antagonist treatment during weeks 25-35 reduced androgen
+receptor immunoexpression, whereas immunoexpression of oestrogen receptor beta
+was unaffected by treatment during either period. On the basis of these findings 
+it is suggested that: (i) neonatal marmoset Sertoli cells may be targets
+primarily for oestrogens rather than androgens; (ii) androgen receptor expression
+in the testes of neonatal and infant marmosets is not regulated in a
+straightforward way by testosterone; and (iii) high neonatal concentrations of
+plasma testosterone are not absolutely necessary for expression of androgen
+receptor in marmoset testes at this time.
+
+DOI: 10.1530/rep.0.1220419 
+PMID: 11597306  [Indexed for MEDLINE]
+
+
+3132. Nat Neurosci. 2001 Nov;4(11):1131-8.
+
+Temporal and rate representations of time-varying signals in the auditory cortex 
+of awake primates.
+
+Lu T(1), Liang L, Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+The Johns Hopkins University School of Medicine, 720 Rutland Avenue, Ross 424,
+Baltimore, Maryland 21205, USA.
+
+Comment in
+    Nat Neurosci. 2001 Nov;4(11):1055-6.
+
+Because auditory cortical neurons have limited stimulus-synchronized responses,
+cortical representations of more rapidly occurring but still perceivable stimuli 
+remain unclear. Here we show that there are two largely distinct populations of
+neurons in the auditory cortex of awake primates: one with stimulus-synchronized 
+discharges that, with a temporal code, explicitly represented slowly occurring
+sound sequences and the other with non-stimulus-synchronized discharges that,
+with a rate code, implicitly represented rapidly occurring events. Furthermore,
+neurons of both populations displayed selectivity in their discharge rates to
+temporal features within a short time-window. Our results suggest that the
+combination of temporal and rate codes in the auditory cortex provides a possible
+neural basis for the wide perceptual range of temporal information.
+
+DOI: 10.1038/nn737 
+PMID: 11593234  [Indexed for MEDLINE]
+

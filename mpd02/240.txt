@@ -1,0 +1,48 @@
+
+
+240. Cereb Cortex. 2021 Jan 5;31(2):1077-1089. doi: 10.1093/cercor/bhaa275.
+
+Spectral Power in Marmoset Frontal Motor Cortex during Natural Locomotor
+Behavior.
+
+Tia B(1)(2), Takemi M(1)(3)(4)(5), Kosugi A(1)(3), Castagnola E(2), Ricci D(2),
+Ushiba J(6), Fadiga L(2)(7), Iriki A(1).
+
+Author information: 
+(1)Laboratory for Symbolic Cognitive Development, RIKEN Center for Biosystems
+Dynamics Research, Kobe, 650-0047, Japan.
+(2)Center for Translational Neurophysiology of Speech and Communication, Istituto
+Italiano di Tecnologia, Ferrara, 44121, Italy.
+(3)Graduate School of Science and Technology, Keio University, Yokohama,
+223-8522, Japan.
+(4)Graduate School of Education, The University of Tokyo, Tokyo, 113-8654, Japan.
+(5)Japan Science and Technology Agency, PRESTO, Saitama, 332-0012, Japan.
+(6)Department of Biosciences and Informatics, Faculty of Science and Technology, 
+Keio University, Yokohama, 223-8522, Japan.
+(7)Section of Physiology, University of Ferrara, Ferrara, 44121, Italy.
+
+During primate arboreal locomotion, substrate orientation modifies body axis
+orientation and biomechanical contribution of fore- and hindlimbs. To
+characterize the role of cortical oscillations in integrating these locomotor
+demands, we recorded electrocorticographic activity from left dorsal premotor,
+primary motor, and supplementary motor cortices of three common marmosets moving 
+across a branch-like small-diameter pole, fixed horizontally or vertically.
+Animals displayed behavioral adjustments to the task, namely, the horizontal
+condition mainly induced quadrupedal walk with pronated/neutral forelimb
+postures, whereas the vertical condition induced walk and bound gaits with
+supinated/neutral postures. Examination of cortical activity suggests that β
+(16-35 Hz) and γ (75-100 Hz) oscillations could reflect different processes in
+locomotor adjustments. During task, modulation of γ ERS by substrate orientation 
+(horizontal/vertical) and epoch (preparation/execution) suggests close tuning to 
+movement dynamics and biomechanical demands. β ERD was essentially modulated by
+gait (walk/bound), which could illustrate contribution to movement sequence and
+coordination. At rest, modulation of β power by substrate orientation underlines 
+its role in sensorimotor processes for postural maintenance.
+
+© The Author(s) 2020. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhaa275 
+PMCID: PMC7786367
+PMID: 33068002  [Indexed for MEDLINE]
+

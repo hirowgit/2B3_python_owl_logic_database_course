@@ -1,0 +1,34 @@
+
+
+3446. Gene Ther. 1998 Aug;5(8):1137-47.
+
+High efficiency gene transfer to the central nervous system of rodents and
+primates using herpes virus vectors lacking functional ICP27 and ICP34.5.
+
+Howard MK(1), Kershaw T, Gibb B, Storey N, MacLean AR, Zeng BY, Tel BC, Jenner P,
+Brown SM, Woolf CJ, Anderson PN, Coffin RS, Latchman DS.
+
+Author information: 
+(1)Department of Molecular Pathology, University College London Medical School,
+UK.
+
+The safe and efficient use of herpes simplex virus (HSV)-based vectors to deliver
+genes of potentially therapeutic benefit to the central nervous system will
+require their effective disablement by the inactivation of viral genes required
+for lytic growth. Here we report that viruses lacking functional genes for ICP27 
+(which is required for growth in all cell types) and ICP34.5 (which is required
+for growth in nondividing cell types) can deliver a marker gene to both the
+rodent and primate CNS with high efficiency whilst producing relatively minimal
+damage and having no effect on sodium currents in dorsal root ganglion neurons.
+Such viruses paradoxically deliver genes at much higher efficiency than the less 
+disabled single mutant lacking ICP34.5 alone and also, as expected, produce less 
+damage in vivo. Moreover, unlike the single mutant lacking ICP27 the double
+mutant viruses cannot revert to wild-type by acquistion of complimenting gene
+sequences during growth of virus stocks in vitro on dividing cells expressing
+ICP27 since artificial expression of ICP34.5 in these cells is not required. Such
+ICP27-; ICP34.5- viruses thus offer a platform for the development of vectors
+which are sufficiently safe for ultimate use in human gene therapy.
+
+DOI: 10.1038/sj.gt.3300700 
+PMID: 10326038  [Indexed for MEDLINE]
+

@@ -1,0 +1,66 @@
+
+
+4134. J Biol Chem. 1993 Feb 25;268(6):3873-9.
+
+Molecular characterization and regulation of the human endothelin receptors.
+
+Elshourbagy NA(1), Korman DR, Wu HL, Sylvester DR, Lee JA, Nuthalaganti P,
+Bergsma DJ, Kumar CS, Nambi P.
+
+Author information: 
+(1)Department of Molecular Genetics, SmithKline Beecham Pharmaceuticals, King of 
+Prussia, Pennsylvania 19406.
+
+Endothelin receptors (ETRs) are distributed throughout a variety of tissues. Two 
+human cDNAs were identified which encode distinct ETR proteins. One cDNA encoded 
+a 427-amino acid protein that shared 91% identity to rat ETAR. The second cDNA
+encoded a 442-amino acid protein that was 88% identical to rat ETBR. Ligand
+binding studies of the cloned receptors expressed in COS cells confirmed that
+they were pharmacologically ETAR and ETBR subtypes; although the selective
+antagonist BQ123 showed a potency similar to ET-3 in displacing 125I-ET-1 binding
+to ETAR. This observation contrasts with rat ETAR pharmacology where BQ123 has a 
+100-fold higher affinity than ET3. Chinese hamster ovary cells expressing the
+human ETAR displayed equal potencies in displacing 125I-ET-1 binding, which
+indicates that rat and human ETAR are pharmacologically distinct.
+Electrophysiological studies of both ETRs expressed in Xenopus oocytes revealed
+that they are functional. Northern analysis indicated that the two ETRs are
+differentially expressed in many tissues. Marmosets maintained on a high fat/high
+cholesterol diet exhibited 3-fold increase in ETBR mRNA levels with little change
+in ETAR mRNA levels. Availability of cDNA clones for ETR subtypes can open
+avenues for future analysis of their role in pathophysiology of various diseases.
+
+
+PMID: 8440682  [Indexed for MEDLINE]
+
+
+4135. Neurosci Lett. 1993 Feb 5;150(1):29-32.
+
+A novel population of tyrosine hydroxylase immunoreactive neurones in the basal
+forebrain of the common marmoset (Callithrix jacchus).
+
+Torres EM(1), Rogers DC, Annett LE, Sirinathsinghji DJ, Dunnett SB.
+
+Author information: 
+(1)Department of Experimental Psychology, University of Cambridge, UK.
+
+We have observed in the basal forebrain of the common marmoset a group of
+neurones which display tyrosine hydroxylase immunoreactivity (THir) with three
+different polyclonal antibodies and one monoclonal antibody, and which express TH
+mRNA as shown by in situ hybridization histochemistry. The population of cells is
+composed of large multipolar neurones and is located predominantly in the
+substantia innominata and at the ventral, medial and lateral margins of the
+external segment of the globus pallidus. The cell morphology and the distribution
+of THir cells corresponds closely to the caudal portion of the nucleus basalis of
+Meynert. Adjacent sections demonstrate both THir and choline acetyltransferase
+immunoreactivity in the cells in this group, as well as strong
+acetylcholinesterase activity but not dopamine immunoreactivity. These
+observations indicate that many cholinergic neurones in the posterior nucleus
+basalis of Meynert of the marmoset contain tyrosine hydroxylase, and suggest that
+both acetylcholine and catecholamine may be synthesised as co-localised
+neurotransmitters within the same magnocellular neurones. We observe no THir
+cells in similar areas of the basal forebrain of either rhesus or talapoin
+monkeys.
+
+DOI: 10.1016/0304-3940(93)90100-y 
+PMID: 8097024  [Indexed for MEDLINE]
+

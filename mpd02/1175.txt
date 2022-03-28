@@ -1,0 +1,64 @@
+
+
+1175. Stem Cell Res Ther. 2015 Aug 22;6:150. doi: 10.1186/s13287-015-0146-6.
+
+Molecular and cellular characteristics of human and non-human primate multipotent
+stromal cells from the amnion and bone marrow during long term culture.
+
+Pogozhykh O(1), Pogozhykh D(2), Neehus AL(3), Hoffmann A(4), Blasczyk R(5),
+Müller T(6).
+
+Author information: 
+(1)Institute for Transfusion Medicine, Hannover Medical School,
+Carl-Neuberg-Straße 1, 30625, Hannover, Germany. pogozhykh.olena@mh-hannover.de.
+(2)Institute for Transfusion Medicine, Hannover Medical School,
+Carl-Neuberg-Straße 1, 30625, Hannover, Germany. pogozhykh.denys@mh-hannover.de.
+(3)Institute for Transfusion Medicine, Hannover Medical School,
+Carl-Neuberg-Straße 1, 30625, Hannover, Germany. neehus.anna-lena@mh-hannover.de.
+(4)Department of Orthopaedic Surgery, Hannover Medical School,
+Anna-von-Borries-Straße 1-7, 30625, Hannover, Germany.
+hoffmann.andrea@mh-hannover.de.
+(5)Institute for Transfusion Medicine, Hannover Medical School,
+Carl-Neuberg-Straße 1, 30625, Hannover, Germany.
+transfusionsmedizin@mh-hannover.de.
+(6)Institute for Transfusion Medicine, Hannover Medical School,
+Carl-Neuberg-Straße 1, 30625, Hannover, Germany. mueller.thomas@mh-hannover.de.
+
+INTRODUCTION: Multipotent stromal cells (MSCs) are among the key candidates in
+regenerative medicine. However variety of MSC sources and general heterogeneity
+lead to controversial data in functional characterization. Furthermore, despite
+intensive usage as preclinical animal model, little is known about MSCs of the
+common marmoset monkey.
+METHODS: MSCs derived from placental amnion and bone marrow samples from human
+and common marmoset were characterized in parallel over 12 passages to monitor
+similarities and significant differences (p ≤ 0.05, Student's t-test) in MSC
+markers and major histocompatibility complex (MHC) class I expression by
+immunohistochemistry, flow cytometry, real-time PCR, metabolic activity test,
+with special focus on pluripotency associated genes.
+RESULTS: Human and non-human primate MSCs were characterized for expression of
+MSC markers and capability of differentiation into mesenchymal lineages. MSCs
+could be cultured more than 100 days (26 passages), but metabolic activity was
+significantly enhanced in amnion vs. bone marrow MSCs. Interestingly, MHC class I
+expression is significantly reduced in amnion MSCs until passage 6 in human and
+marmoset, but not in bone marrow cells. For MSC markers, CD73 and CD105 levels
+remain unchanged in amnion MSCs and slightly decline in bone marrow at late
+passages; CD166 is significantly higher expressed in human MSCs, CD106
+significantly lower vs. marmoset. All cultured MSCs showed pluripotency marker
+expression like Oct-4A at passage 3 significantly decreasing over time (passages 
+6-12) while Nanog expression was highest in human bone marrow MSCs. Furthermore, 
+human MSCs demonstrated the highest Sox2 levels vs. marmoset, whereas the
+marmoset exhibited significantly higher Lin28A values. Bisulfite sequencing of
+the Oct-4 promoter region displayed fewer methylations of CpG islands in the
+marmoset vs. human.
+CONCLUSIONS: Little is known about MSC characteristics from the preclinical
+animal model common marmoset vs. human during long term culture. Studied human
+and common marmoset samples share many similar features such as most MSC markers 
+and reduced MHC class I expression in amnion cells vs. bone marrow. Furthermore, 
+pluripotency markers indicate in both species a subpopulation of MSCs with true
+'stemness', which could explain their high proliferation capacity, though
+possessing differences between human and marmoset in Lin28A and Sox2 expression.
+
+DOI: 10.1186/s13287-015-0146-6 
+PMCID: PMC4546288
+PMID: 26297012  [Indexed for MEDLINE]
+

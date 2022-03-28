@@ -1,0 +1,52 @@
+
+
+766. Chronobiol Int. 2018 Jan;35(1):35-48. doi: 10.1080/07420528.2017.1380658. Epub
+2017 Dec 6.
+
+Forced desynchronization model for a diurnal primate.
+
+Silva CA(1)(2), Melo LIM(1), Pires AR(1), Barbalho JC(1), Melo AV(1), Fernandes
+DAC(1), Oliveira EB(1), Azevedo CVM(1), Cambras T(3), Díez-Noguera A(3),
+Fontenele-Araujo J(1).
+
+Author information: 
+(1)a Laboratório de Neurobiologia e Ritmicidade Biológica, Departamento de
+Fisiologia , Universidade Federal do Rio Grande do Norte , Natal , Rio Grande do 
+Norte , Brazil.
+(2)b Departamento de Neuropsiquiatria , Universidade Federal de Pernambuco ,
+Recife , Pernambuco , Brazil.
+(3)c Departament de Fisiologia, Facultat de Farmàcia , Universitat de Barcelona ,
+Barcelona , Spain.
+
+The circadian system is organized in a hierarchy of multiple oscillators, with
+the suprachiasmatic nucleus (SCN) as the master oscillator in mammals. The SCN is
+formed by a group of coupled cell oscillators. Knowledge of this coupling
+mechanism is essential to understanding entrainment and the expression of
+circadian rhythms. Some authors suggest that light-dark (LD) cycles with periods 
+near the limit of entrainment may be good models for promoting internal
+desynchronization, providing knowledge about the coupling mechanism. As such, we 
+evaluated the circadian activity rhythm (CAR) pattern of marmosets in LD cycles
+at lower limits of entrainment in order to study induced internal dissociation.
+To that end, two experiments were conducted: (1) 6 adult females were under
+symmetrical LD cycles T21, T22 and T21.5 for 60, 35 and 48 days, respectively;
+and (2) 4 male and 4 female adults were under T21 for 24 days followed by 18 days
+of LL, back to T21 for 24 days, followed by 14 days of LL. The CAR of each animal
+was continuously recorded. In experiment 1, vocalizations were also recorded.
+Under Ts shorter than 24 days, a dissociation pattern was observed for CAR and
+vocalizations. Two simultaneous circadian components emerged, one with the same
+period as the LD cycle, called the light-entrained component, and the other in
+free-running, denominated the non-light-entrained component. Both components were
+displayed in the CAR for all the animals in T21, five animals (83.3%) in T21.5
+and two animals (33.3%) in T22. Our results are in accordance with the
+multioscillatory nature of the circadian system. Dissociation is partial
+synchronization to the LD cycle, with at least one group of oscillators
+synchronized by relative coordination and masking, while another group of
+oscillators free runs, but is also masked by the LD cycle. Since only T21
+promoted the emergence of both circadian components in the circadian rhythms of
+all marmosets, it was considered the promoter period of circadian rhythm
+dissociation in this species, and is proposed as a good animal model for forced
+desynchronization in non-human diurnal primates.
+
+DOI: 10.1080/07420528.2017.1380658 
+PMID: 29211510  [Indexed for MEDLINE]
+

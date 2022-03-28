@@ -1,0 +1,28 @@
+
+
+4355. J Pharmacol Methods. 1990 Aug;24(1):9-18.
+
+Screening procedure for assessment of ototoxicity in the common marmoset.
+
+Kuzel RA(1), Smith JM, Trennery PN.
+
+Author information: 
+(1)Division of Pathology and Toxicology, Glaxo Group Research Ltd., Ware,
+Hertfordshire, United Kingdom.
+
+Detection of drug-induced ototoxicity in safety evaluation studies of novel
+chemical entities is rarely attempted. Where such examinations are included, they
+usually rely on reflex testing. The Brainstem Auditory Evoked Response can be
+measured with the use of externally positioned electrodes, and it monitors
+electrophysiologic responses to sound from the cochlear nerve and associated
+structures of the 8th cranial nerve. These responses have been reproducibly
+measured in sedated marmosets and the method shown to be a sensitive detector of 
+hearing loss caused by loop diuretics or aminoglycoside antibiotics.
+additionally, where hearing damage is reversible, recovery can also be monitored.
+It is proposed that where a sensitive marker for ototoxicity is considered
+necessary as part of a multifaceted study investigating in vivo drug safety, this
+procedure may prove advantageous over existing methods.
+
+DOI: 10.1016/0160-5402(90)90045-m 
+PMID: 2214803  [Indexed for MEDLINE]
+

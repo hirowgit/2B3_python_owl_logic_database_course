@@ -1,0 +1,111 @@
+
+
+357. Hepat Med. 2020 Feb 13;12:15-27. doi: 10.2147/HMER.S243277. eCollection 2020.
+
+Hepatic Differentiation of Marmoset Embryonic Stem Cells and Functional
+Characterization of ESC-Derived Hepatocyte-Like Cells.
+
+Aravalli RN(1), Collins DP(2), Hapke JH(2), Crane AT(3), Steer CJ(4)(5).
+
+Author information: 
+(1)Department of Electrical and Computer Engineering, University of Minnesota,
+Minneapolis, MN 55455, USA.
+(2)Cytomedical Design Group LLC, St. Paul, MN 55127, USA.
+(3)Department of Neurosurgery, University of Minnesota Medical School,
+Minneapolis, MN 55455, USA.
+(4)Department of Medicine, University of Minnesota Medical School, Minneapolis,
+MN 55455, USA.
+(5)Department of Genetics, Cell Biology and Development, University of Minnesota,
+Minneapolis, MN 55455, USA.
+
+Background: Primary human hepatocytes (PHHs) are the ideal candidates for
+studying critical liver functions such as drug metabolism and toxicity. However, 
+as they are isolated from discarded livers that are unsuitable for
+transplantation, they possess limited expansion ability in vitro and their
+enzymatic functions deteriorate rapidly because they are often of poor quality.
+Therefore, there is a compelling reason to find reliable alternative sources of
+hepatocytes.
+Methods: In this study, we report on efficient and robust differentiation of
+embryonic stem cells (ESC) from the common marmoset Callithrix jacchus into
+functional hepatocyte-like cells (HLC) using a simple, and reproducible
+three-step procedure. ESC-derived HLCs were examined by morphological analysis
+and tested for their expression of hepatocyte-specific markers using a
+combination of immunohistochemistry, RT-PCR, and biochemical assays. Primary
+human hepatocytes were used as controls.
+Results: ESC-derived HLCs expressed each of the hepatocyte-specific markers
+tested, including albumin; α-fetoprotein; asialoglycoprotein receptor 1; α-1
+antitrypsin; hepatocyte nuclear factors 1α and 4; cytokeratin 18; hepatocyte
+growth factor receptor; transferrin; tyrosine aminotransferase; alkaline
+phosphatase; c-reactive protein; cytochrome P450 enzymes CYP1A2, CYP2E1 and
+CYP3A4; and coagulation factors FVII and FIX. They were functionally competent as
+demonstrated by biochemical assays in addition to producing urea.
+Conclusion: Our data strongly suggest that marmoset HLCs possess characteristics 
+similar to those of PHHs. They could, therefore, be invaluable for studies on
+drug metabolism and cell transplantation therapy for a variety of liver
+disorders. Because of the similarities in the anatomical and physiological
+features of the common marmoset to that of humans, Callithrix jacchus is an
+appropriate animal model to study human disease conditions and cellular
+functions.
+
+© 2020 Aravalli et al.
+
+DOI: 10.2147/HMER.S243277 
+PMCID: PMC7026140
+PMID: 32104112 
+
+Conflict of interest statement: Dr Daniel Collins reports other funding from
+CMDG, LLC, outside of the submitted work. The authors declare no additional
+conflicts of interest.
+
+
+358. Sci Rep. 2020 Feb 26;10(1):3447. doi: 10.1038/s41598-020-60273-2.
+
+In Vitro CRISPR/Cas9-Directed Gene Editing to Model LRRK2 G2019S Parkinson's
+Disease in Common Marmosets.
+
+Vermilyea SC(1)(2)(3), Babinski A(2), Tran N(2), To S(2), Guthrie S(2), Kluss
+JH(4), Schmidt JK(2), Wiepz GJ(2), Meyer MG(2), Murphy ME(2), Cookson MR(4),
+Emborg ME(5)(6)(7), Golos TG(2)(8).
+
+Author information: 
+(1)Neuroscience Training Program, University of Wisconsin-Madison, Madison, WI,
+USA.
+(2)Wisconsin National Primate Research Center, University of Wisconsin-Madison,
+Madison, WI, USA.
+(3)Department of Neuroscience, University of Minnesota-Twin Cities, Minneapolis, 
+MN, USA.
+(4)Cell Biology and Gene Expression Section, Laboratory of Neurogenetics,
+National Institute on Aging, National Institutes of Health, Bethesda, MD, USA.
+(5)Neuroscience Training Program, University of Wisconsin-Madison, Madison, WI,
+USA. emborg@primate.wisc.edu.
+(6)Wisconsin National Primate Research Center, University of Wisconsin-Madison,
+Madison, WI, USA. emborg@primate.wisc.edu.
+(7)Department of Medical Physics, University of Wisconsin-Madison, Madison, WI,
+USA. emborg@primate.wisc.edu.
+(8)Departments of Comparative Biosciences and Obstetrics and Gynecology,
+University of Wisconsin-Madison, Madison, WI, USA.
+
+Leucine-rich repeat kinase 2 (LRRK2) G2019S is a relatively common mutation,
+associated with 1-3% of Parkinson's disease (PD) cases worldwide. G2019S is
+hypothesized to increase LRRK2 kinase activity. Dopaminergic neurons derived from
+induced pluripotent stem cells of PD patients carrying LRRK2 G2019S are reported 
+to have several phenotypes compared to wild type controls, including increased
+activated caspase-3 and reactive oxygen species (ROS), autophagy dysfunction, and
+simplification of neurites. The common marmoset is envisioned as a candidate
+nonhuman primate species for comprehensive modeling of genetic mutations. Here,
+we report our successful use of CRISPR/Cas9 with repair template-mediated
+homology directed repair to introduce the LRRK2 G2019S mutation, as well as a
+truncation of the LRRK2 kinase domain, into marmoset embryonic and induced
+pluripotent stem cells. We found that, similar to humans, marmoset LRRK2 G2019S
+resulted in elevated kinase activity. Phenotypic evaluation after dopaminergic
+differentiation demonstrated LRRK2 G2019S-mediated increased intracellular ROS,
+decreased neuronal viability, and reduced neurite complexity. Importantly, these 
+phenotypes were not observed in clones with LRRK2 truncation. These results
+demonstrate the feasibility of inducing monogenic mutations in common marmosets
+and support the use of this species for generating a novel genetic-based model of
+PD that expresses physiological levels of LRRK2 G2019S.
+
+DOI: 10.1038/s41598-020-60273-2 
+PMCID: PMC7044232
+PMID: 32103062  [Indexed for MEDLINE]
+

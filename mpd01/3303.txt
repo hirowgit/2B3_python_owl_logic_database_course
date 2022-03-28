@@ -1,0 +1,74 @@
+
+
+3303. Arch Toxicol. 2000 May;74(3):133-8.
+
+Identification of theta-class glutathione S-transferase in liver cytosol of the
+marmoset monkey.
+
+Schulz TG(1), Wiebel FA, Thier R, Neubert D, Davies DS, Edwards RJ.
+
+Author information: 
+(1)Division of Medicine, Imperial College School of Medicine, Hammersmith
+Hospital, London, UK. tschulz1@gwdg.de
+
+The presence of theta-class glutathione S-transferase (GST) in marmoset monkey
+liver cytosol was investigated. An anti-peptide antibody targeted against the
+C-terminus of rGSTT1 reacted with a single band in marmoset liver cytosol that
+corresponded to a molecular weight of 28 kDa. The intensity of the immunoreactive
+band was not affected by treatment of marmoset monkeys with
+2,3,7,8-tetrachlorodibenzo-p-dioxin, phenobarbitone, rifampicin or clofibric
+acid. Similarly, activity towards methyl chloride (MC) was unaffected by these
+treatments. However, GST activity towards 1,2-epoxy-3-(p-nitrophenoxy)-propane
+(EPNP) was increased in marmosets treated with phenobarbitone (2.6-fold) and
+rifampicin (2.6-fold), activity towards dichloromethane (DCM) was increased by
+50% after treatment of marmosets with clofibric acid, and activity towards
+1-chloro-2,4-dinitrobenzene (CDNB) was raised slightly (30-42% increases) after
+treatment with phenobarbitone, rifampicin or clofibric acid. Compared with
+humans, marmoset liver cytosol GST activity towards DCM was 18-fold higher,
+activity towards MC was 7 times higher and activity towards CDNB was 4 times
+higher. Further, EPNP activity was clearly detectable in marmoset liver cytosol
+samples, but was undetectable in human samples. Immunoreactive marmoset GST was
+partially purified by affinity chromatography using hexylglutathione-Sepharose
+and Orange A resin. The interaction of immunoreactive marmoset GST was similar to
+that found previously for rat and human GSTT1, suggesting that this protein is
+also a theta class GST. However, unlike rat GSTT1, the marmoset enzyme was not
+the major catalyst of EPNP conjugation. Instead, immunoreactivity was closely
+associated with activity towards MC. In conclusion, these results provide
+evidence for the presence of theta-class GST in the marmoset monkey orthologous
+to rGSTT1 and hGSTT1.
+
+DOI: 10.1007/s002040050665 
+PMID: 10876998  [Indexed for MEDLINE]
+
+
+3304. Brain. 2000 Jul;123 ( Pt 7):1442-58.
+
+The influence of excitotoxic basal ganglia lesions on motor performance in the
+common marmoset.
+
+Kendall AL(1), David F, Rayment G, Torres EM, Annett LE, Dunnett SB.
+
+Author information: 
+(1)Department of Experimental Psychology and Cambridge Centre for Brain Repair,
+University of Cambridge, Cambridge, UK. alk1001@cus.cam.ac.uk
+
+Huntington's disease is a genetically inherited neurodegenerative disorder for
+which currently there is no effective treatment or cure. In order to gauge the
+potential therapeutic benefits of neuroprotective or restorative treatments, it
+is necessary to create an animal model that is associated with readily measurable
+and long-lasting functional impairments. The undifferentiated neostriatum and
+limited behavioural repertoire of rodents have led to the extension of our
+investigations into the common marmoset. We have used quinolinic acid to create
+unilateral excitotoxic lesions of the caudate nucleus or the putamen in this
+small non-human primate. Following rigorous investigation of each monkey on a
+battery of behavioural tests, we found that the unilateral putamen lesion was
+associated with a contralateral motor impairment that persisted for at least 9
+months and withstood repeated testing. However, the unilateral caudate nucleus
+lesion did not appear to be associated with any detectable motor deficit. The
+stability and the reproducibility of the unilateral putamen lesion in the
+marmoset provide a suitable tool for the investigation of potential treatments
+for neurodegenerative disorders that attack this region of the brain.
+
+DOI: 10.1093/brain/123.7.1442 
+PMID: 10869056  [Indexed for MEDLINE]
+

@@ -1,0 +1,79 @@
+
+
+19. Sci Rep. 2022 Jan 20;12(1):1103. doi: 10.1038/s41598-022-05053-w.
+
+Cerebral cortical processing time is elongated in human brain evolution.
+
+Itoh K(1), Konoike N(2), Nejime M(2)(3), Iwaoki H(2), Igarashi H(4), Hirata S(5),
+Nakamura K(2).
+
+Author information: 
+(1)Center for Integrated Human Brain Science, Brain Research Institute, Niigata
+University, Niigata, Japan. itoh@bri.niigata-u.ac.jp.
+(2)Cognitive Neuroscience Section, Primate Research Institute, Kyoto University, 
+Inuyama, Aichi, 951-8585, Japan.
+(3)Division of Biomedical Science, Faculty of Medicine, University of Tsukuba,
+Tsukuba, Japan.
+(4)Center for Integrated Human Brain Science, Brain Research Institute, Niigata
+University, Niigata, Japan.
+(5)Wildlife Research Center, Kyoto University, Kyoto, Japan.
+
+An increase in number of neurons is presumed to underlie the enhancement of
+cognitive abilities in brain evolution. The evolution of human cognition is then 
+expected to have accompanied a prolongation of net neural-processing time due to 
+the accumulation of processing time of individual neurons over an expanded number
+of neurons. Here, we confirmed this prediction and quantified the amount of
+prolongation in vivo, using noninvasive measurements of brain responses to sounds
+in unanesthetized human and nonhuman primates. Latencies of the N1 component of
+auditory-evoked potentials recorded from the scalp were approximately 40, 50, 60,
+and 100 ms for the common marmoset, rhesus monkey, chimpanzee, and human,
+respectively. Importantly, the prominent increase in human N1 latency could not
+be explained by the physical lengthening of the auditory pathway, and therefore
+reflected an extended dwell time for auditory cortical processing. A longer time 
+window for auditory cortical processing is advantageous for analyzing
+time-varying acoustic stimuli, such as those important for speech perception. A
+novel hypothesis concerning human brain evolution then emerges: the increase in
+cortical neuronal number widened the timescale of sensory cortical processing,
+the benefits of which outweighed the disadvantage of slow cognition and reaction.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-022-05053-w 
+PMCID: PMC8776799
+PMID: 35058509  [Indexed for MEDLINE]
+
+
+20. Elife. 2022 Jan 20;11. pii: e71647. doi: 10.7554/eLife.71647.
+
+An open-source tool for automated analysis of breathing behaviors in common
+marmosets and rodents.
+
+Bishop M(1), Weinhold M(1), Turk AZ(1), Adeck A(1), SheikhBahaei S(1).
+
+Author information: 
+(1)Neuron-Glia Signaling and Circuits Unit, National Institute of Neurological
+Disorders and Stroke (NINDS), National Institutes of Health (NIH), Bethesda,
+United States.
+
+The respiratory system maintains homeostatic levels of oxygen (O2) and carbon
+dioxide (CO2) in the body through rapid and efficient regulation of breathing
+frequency and depth (tidal volume). The commonly used methods of analyzing
+breathing data in behaving experimental animals are usually subjective,
+laborious, and time-consuming. To overcome these hurdles, we optimized an
+analysis toolkit for the unsupervised study of respiratory activities in animal
+subjects. Using this tool, we analyzed breathing behaviors of the common marmoset
+(Callithrix jacchus), a New World non-human primate model. Using whole-body
+plethysmography in room air as well as acute hypoxic (10% O2) and hypercapnic (6%
+CO2) conditions, we describe breathing behaviors in awake, freely behaving
+marmosets. Our data indicate that marmosets' exposure to acute hypoxia decreased 
+metabolic rate and increased sigh rate. However, the hypoxic condition did not
+augment ventilation. Hypercapnia, on the other hand, increased both the frequency
+and depth (i.e., tidal volume) of breathing.
+
+DOI: 10.7554/eLife.71647 
+PMCID: PMC8856653
+PMID: 35049499  [Indexed for MEDLINE]
+
+Conflict of interest statement: MB, MW, AT, AA, SS No competing interests
+declared
+

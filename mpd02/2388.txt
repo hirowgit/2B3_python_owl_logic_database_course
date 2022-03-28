@@ -1,0 +1,38 @@
+
+
+2388. J Hepatol. 2007 Sep;47(3):325-37. Epub 2007 Apr 18.
+
+Modulation of MAPK pathways and cell cycle by replicating hepatitis B virus:
+factors contributing to hepatocarcinogenesis.
+
+Chin R(1), Earnest-Silveira L, Koeberlein B, Franz S, Zentgraf H, Dong X, Gowans 
+E, Bock CT, Torresi J.
+
+Author information: 
+(1)Department of Medicine, CCREID, Royal Melbourne Hospital, University of
+Melbourne, Post Office, Parkville, Vic. 3050, Australia. rchin@unimelb.edu.au
+
+BACKGROUND/AIMS: Chronic infection with the hepatitis B virus (HBV) is strongly
+associated with the development of hepatocellular carcinoma but the mechanism by 
+which this occurs is unknown. Numerous studies have focused on the HBV X protein 
+showing that it activates signal transduction pathways while few have
+investigated these changes in HBV-replicating hepatocytes.
+METHODS: We utilized the recombinant adenovirus system to deliver a replication
+competent HBV genome into Huh7 and primary marmoset hepatocytes (PMH) to examine 
+the effects of active viral replication on the regulation of Ras-ERK signal
+transduction and related pathways.
+RESULTS: Huh7 cells and PMHs replicating HBV demonstrated significant
+upregulation in phosphorylated ERK, Akt, c-myc together with increased p53,
+cyclin B1 and p21(cip1) expression and cell cycle progression to G2 phase in the 
+absence of increased cell proliferation. Phosphorylation of the key cell survival
+kinase, Akt, was significantly increased, resulting in increased serine
+phosphorylation of the downstream target, GSK3-beta.
+CONCLUSIONS: These results demonstrated simultaneous activation of the MAP Kinase
+and Akt pathways in HBV-replicating hepatocytes that resulted in dysregulation in
+the control of cell cycle progression and which help explain the early pathogenic
+mechanisms that underlie malignant transformation associated with chronic
+hepatitis B infection.
+
+DOI: 10.1016/j.jhep.2007.03.025 
+PMID: 17512084  [Indexed for MEDLINE]
+

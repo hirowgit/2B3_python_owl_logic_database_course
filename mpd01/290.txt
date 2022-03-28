@@ -1,0 +1,83 @@
+
+
+290. Vet Res Commun. 2020 Nov;44(3-4):101-110. doi: 10.1007/s11259-020-09778-9. Epub
+2020 Jul 10.
+
+Infectivity, virulence, pathogenicity, host-pathogen interactions of SARS and
+SARS-CoV-2 in experimental animals: a systematic review.
+
+Sarkar J(1)(2), Guha R(3)(4).
+
+Author information: 
+(1)Division of Biochemistry, CSIR-Central Drug Research Institute, Lucknow,
+India.
+(2)CSIR-Academy of Scientific and Innovative Research, New Delhi, India.
+(3)CSIR-Academy of Scientific and Innovative Research, New Delhi, India.
+rajdeep.guha@cdri.res.in.
+(4)Laboratory Animals Facility , CSIR-Central Drug Research Institute , Lucknow, 
+India. rajdeep.guha@cdri.res.in.
+
+The outbreak of the SARS-CoV-2 in mainland China with subsequent human to human
+transmission worldwide had taken up the shape of a devastating pandemic. The
+ability of the virus to infect multiple species other than humans has currently
+been reported in experimental conditions. Non-human primates, felines, ferrets,
+rodents and host of other animals could previously be infected in experimental
+conditions with SARS-CoV and recently with SARS-CoV-2, both virus using
+Angiotensin-converting-enzyme 2 receptor for cellular entry. The variations in
+sequence homology of ACE2 receptor across species is identified as one of the
+factors determining virulence and pathogenicity in animals. The infection in
+experimental animals with SARS-CoV or SARS-CoV-2 on most occasions are
+asymptomatic, however, the virus could multiply within the respiratory tract and 
+extra-pulmonary organs in most of the species. Here, we discuss about the
+pathogenicity, transmission, variations in angiotensin-converting-enzyme 2
+receptor-binding across species and host pathogen interactions of SARS and
+SARS-CoV-2 in laboratory animals used in research.
+
+DOI: 10.1007/s11259-020-09778-9 
+PMCID: PMC7348560
+PMID: 32651761  [Indexed for MEDLINE]
+
+
+291. Genes (Basel). 2020 Jun 30;11(7). pii: E729. doi: 10.3390/genes11070729.
+
+Utility of Common Marmoset (Callithrix jacchus) Embryonic Stem Cells in Liver
+Disease Modeling, Tissue Engineering and Drug Metabolism.
+
+Aravalli RN(1), Steer CJ(2).
+
+Author information: 
+(1)Department of Electrical and Computer Engineering, College of Science and
+Engineering, University of Minnesota, 200 Union Street S.E., Minneapolis, MN
+55455, USA.
+(2)Departments of Medicine and Genetics, Cell Biology and Development, University
+of Minnesota, 420 Delaware Street S.E, Minneapolis MN 55455, USA.
+
+The incidence of liver disease is increasing significantly worldwide and, as a
+result, there is a pressing need to develop new technologies and applications for
+end-stage liver diseases. For many of them, orthotopic liver transplantation is
+the only viable therapeutic option. Stem cells that are capable of
+differentiating into all liver cell types and could closely mimic human liver
+disease are extremely valuable for disease modeling, tissue regeneration and
+repair, and for drug metabolism studies to develop novel therapeutic treatments. 
+Despite the extensive research efforts, positive results from rodent models have 
+not translated meaningfully into realistic preclinical models and therapies. The 
+common marmoset Callithrix jacchus has emerged as a viable non-human primate
+model to study various human diseases because of its distinct features and close 
+physiologic, genetic and metabolic similarities to humans. C. jacchus embryonic
+stem cells (cjESC) and recently generated cjESC-derived hepatocyte-like cells
+(cjESC-HLCs) could fill the gaps in disease modeling, liver regeneration and
+metabolic studies. They are extremely useful for cell therapy to regenerate and
+repair damaged liver tissues in vivo as they could efficiently engraft into the
+liver parenchyma. For in vitro studies, they would be advantageous for drug
+design and metabolism in developing novel drugs and cell-based therapies.
+Specifically, they express both phase I and II metabolic enzymes that share
+similar substrate specificities, inhibition and induction characteristics, and
+drug metabolism as their human counterparts. In addition, cjESCs and cjESC-HLCs
+are advantageous for investigations on emerging research areas, including
+blastocyst complementation to generate entire livers, and bioengineering of
+discarded livers to regenerate whole livers for transplantation.
+
+DOI: 10.3390/genes11070729 
+PMCID: PMC7397002
+PMID: 32630053  [Indexed for MEDLINE]
+

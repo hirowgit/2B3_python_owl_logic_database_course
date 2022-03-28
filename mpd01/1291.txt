@@ -1,0 +1,118 @@
+
+
+1291. J Neurosci. 2015 Jan 21;35(3):1160-72. doi: 10.1523/JNEUROSCI.2659-14.2015.
+
+Functional mapping of face-selective regions in the extrastriate visual cortex of
+the marmoset.
+
+Hung CC(1), Yen CC(2), Ciuchta JL(2), Papoti D(2), Bock NA(3), Leopold DA(4),
+Silva AC(5).
+
+Author information: 
+(1)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, Maryland 20892, Section on Cognitive
+Neurophysiology and Imaging, Laboratory of Neuropsychology, National Institute of
+Mental Health, National Institutes of Health, Bethesda, Maryland 20892.
+(2)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, Maryland 20892.
+(3)Medical Physics and Applied Radiation Sciences, McMaster University, Hamilton,
+Ontario L8S 4K1, Canada, and.
+(4)Section on Cognitive Neurophysiology and Imaging, Laboratory of
+Neuropsychology, National Institute of Mental Health, National Institutes of
+Health, Bethesda, Maryland 20892, Neurophysiology Imaging Facility, National
+Institute of Mental Health, National Institute of Neurological Disorders and
+Stroke, National Eye Institute, National Institutes of Health, Bethesda, Maryland
+20182.
+(5)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, Maryland 20892, SilvaA@ninds.nih.gov.
+
+Comment in
+    Trends Cogn Sci. 2015 May;19(5):240-1.
+
+The cerebral cortex of humans and macaques has specialized regions for processing
+faces and other visual stimulus categories. It is unknown whether a similar
+functional organization exists in New World monkeys, such as the common marmoset 
+(Callithrix jacchus), a species of growing interest as a primate model in
+neuroscience. To address this question, we measured selective neural responses in
+the brain of four awake marmosets trained to fix their gaze upon images of faces,
+bodies, objects, and control patterns. In two of the subjects, we measured high
+gamma-range field potentials from electrocorticography arrays implanted over a
+large portion of the occipital and inferotemporal cortex. In the other two
+subjects, we measured BOLD fMRI responses across the entire brain. Both
+techniques revealed robust, regionally specific patterns of category-selective
+neural responses. We report that at least six face-selective patches mark the
+occipitotemporal pathway of the marmoset, with the most anterior patches showing 
+the strongest preference for faces over other stimuli. The similar appearance of 
+these patches to previous findings in macaques and humans, including their
+apparent arrangement in two parallel pathways, suggests that core elements of the
+face processing network were present in the common anthropoid primate ancestor
+living ∼35 million years ago. The findings also identify the marmoset as a viable
+animal model system for studying specialized neural mechanisms related to
+high-level social visual perception in humans.
+
+Copyright © 2015 the authors 0270-6474/15/351160-13$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.2659-14.2015 
+PMCID: PMC4300322
+PMID: 25609630  [Indexed for MEDLINE]
+
+
+1292. Int J Neuropsychopharmacol. 2014 Oct 31;18(2). pii: pyu030. doi:
+10.1093/ijnp/pyu030.
+
+Quantification of central substance P receptor occupancy by aprepitant using
+small animal positron emission tomography.
+
+Endo T(1), Saijo T(1), Haneda E(1), Maeda J(1), Tokunaga M(1), Zhang MR(1),
+Kannami A(1), Asai H(1), Suzuki M(1), Suhara T(1), Higuchi M(2).
+
+Author information: 
+(1)Molecular Imaging Center, National Institute of Radiological Sciences, Chiba, 
+Japan (Drs Endo, Saijo, Haneda, Maeda, Tokunaga, Zhang, Suhara, Higuchi);
+Department of Molecular Neuroimaging, Tohoku University Graduate School of
+Medicine, Sendai, Japan (Drs Endo, Saijo, Suhara, and Higuchi); DMPK Research
+Laboratory, Mitsubishi Tanabe Pharma Corporation, Kisarazu, Japan (Drs Endo,
+Saijo, and Kannami); Clinical & Research Quality Assurance Department, Mitsubishi
+Tanabe Pharma Corporation, Tokyo, Japan (Dr Asai); Clinical Pharmacology
+Department, Mitsubishi Tanabe Pharma Corporation, Tokyo, Japan (Dr Suzuki).
+(2)Molecular Imaging Center, National Institute of Radiological Sciences, Chiba, 
+Japan (Drs Endo, Saijo, Haneda, Maeda, Tokunaga, Zhang, Suhara, Higuchi);
+Department of Molecular Neuroimaging, Tohoku University Graduate School of
+Medicine, Sendai, Japan (Drs Endo, Saijo, Suhara, and Higuchi); DMPK Research
+Laboratory, Mitsubishi Tanabe Pharma Corporation, Kisarazu, Japan (Drs Endo,
+Saijo, and Kannami); Clinical & Research Quality Assurance Department, Mitsubishi
+Tanabe Pharma Corporation, Tokyo, Japan (Dr Asai); Clinical Pharmacology
+Department, Mitsubishi Tanabe Pharma Corporation, Tokyo, Japan (Dr Suzuki).
+mhiguchi@nirs.go.jp.
+
+BACKGROUND: Central substance P receptors, termed NK-1 receptors, have been
+considered as therapeutic targets in the development of drugs against diverse
+conditions, including emesis, overactive bladder, and depression.
+METHODS: Here, we applied small animal positron emission tomography (PET) and a
+radioligand for NK-1 receptors ([(18)F]FE-SPA-RQ) for measuring occupancies of
+these receptors by a selective antagonist (aprepitant) in order to examine the
+validity of this in vivo imaging system for preclinical characterization of
+candidate agents acting on NK-1 receptors, and as a tool for predicting optimal
+doses in humans.
+RESULTS: PET in gerbils depicted high uptake in the striatum and dose-dependent
+displacement with increasing doses of aprepitant. Occupancies increased as a
+function of aprepitant plasma concentrations according to a one-site competition 
+model, which agrees with reported occupancy-concentration relationships in
+clinical studies after correction for species differences in plasma
+protein-unbound aprepitant fractions. These occupancy data were further supported
+by ex vivo autoradiography of brain samples from aprepitant-treated gerbils. In a
+pilot study of a marmoset, we obtained more accurate determinations of NK-1
+receptor occupancy, less affected by spillover of signals from extracranial
+tissues than in gerbil experiments.
+CONCLUSIONS: These findings support the utility of small animals and quantitative
+PET in the development of drugs targeting NK-1 receptors.
+
+© The Author 2015. Published by Oxford University Press on behalf of CINP.
+
+DOI: 10.1093/ijnp/pyu030 
+PMCID: PMC4368889
+PMID: 25609595  [Indexed for MEDLINE]
+

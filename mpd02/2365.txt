@@ -1,0 +1,35 @@
+
+
+2365. J Med Chem. 2007 Oct 4;50(20):4818-31. Epub 2007 Sep 8.
+
+Novel 2,7-dialkyl-substituted 5(S)-amino-4(S)-hydroxy-8-phenyl-octanecarboxamide 
+transition state peptidomimetics are potent and orally active inhibitors of human
+renin.
+
+Göschke R(1), Stutz S, Rasetti V, Cohen NC, Rahuel J, Rigollier P, Baum HP,
+Forgiarini P, Schnell CR, Wagner T, Gruetter MG, Fuhrer W, Schilling W, Cumin F, 
+Wood JM, Maibaum J.
+
+Author information: 
+(1)Novartis Institutes for BioMedical Research, NOVARTIS Pharma AG, CH-4002
+Basel, Switzerland.
+
+The action of renin is the rate-limiting step of the renin-angiotensin system
+(RAS), a key regulator of blood pressure. Effective renin inhibitors directly
+block the RAS entirely at source and, thus, may provide a vital weapon for
+hypertension therapy. Our efforts toward identifying novel small-molecule
+peptidomimetic renin inhibitors have resulted in the design of transition-state
+isosteres such as 1 bearing an all-carbon 8-phenyl-octanecarboxamide framework.
+Optimization of the extended P3 portion of 1 and extensive P2' modifications
+provided analogues with improved in vitro potencies in the presence of plasma.
+X-ray resolution of rh-renin/38a in the course of SAR work surprisingly unveiled 
+the exploitation of a previously unexplored pocket (S3sp) important for strong
+binding affinities. Several inhibitors demonstrated oral efficacy in
+sodium-depleted marmosets. The most potent, 38a, induced dose-dependently a
+pronounced reduction in mean arterial blood pressure, paralleled by complete
+blockade of active plasma renin, up to 8 h post-dose. Oral bioavailability of 38a
+was 16% in marmosets.
+
+DOI: 10.1021/jm070314y 
+PMID: 17824679  [Indexed for MEDLINE]
+

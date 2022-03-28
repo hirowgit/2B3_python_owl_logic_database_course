@@ -1,0 +1,47 @@
+
+
+612. Cereb Cortex. 2019 Aug 14;29(9):3836-3863. doi: 10.1093/cercor/bhy263.
+
+Neuronal Distribution Across the Cerebral Cortex of the Marmoset Monkey
+(Callithrix jacchus).
+
+Atapour N(1)(2)(3), Majka P(1)(2)(3)(4), Wolkowicz IH(1)(2), Malamanova D(1)(2), 
+Worthy KH(1)(2), Rosa MGP(1)(2)(3).
+
+Author information: 
+(1)Neuroscience Program, Monash Biomedicine Discovery Institute, 19 Innovation
+Walk, Clayton, Melbourne, VIC, Australia.
+(2)Department of Physiology, Monash University, 26 Innovation Walk, Clayton,
+Melbourne, VIC, Australia.
+(3)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, 770 Blackburn Road, Clayton, Melbourne, VIC,
+Australia.
+(4)Laboratory of Neuroinformatics, Nencki Institute of Experimental Biology of
+Polish Academy of Sciences, 3 Pasteur Street, Warsaw, Poland.
+
+Using stereological analysis of NeuN-stained sections, we investigated neuronal
+density and number of neurons per column throughout the marmoset cortex.
+Estimates of mean neuronal density encompassed a greater than 3-fold range, from 
+>150 000 neurons/mm3 in the primary visual cortex to ~50 000 neurons/mm3 in the
+piriform complex. There was a trend for density to decrease from posterior to
+anterior cortex, but also local gradients, which resulted in a complex pattern;
+for example, in frontal, auditory, and somatosensory cortex neuronal density
+tended to increase towards anterior areas. Anterior cingulate, motor, premotor,
+insular, and ventral temporal areas were characterized by relatively low neuronal
+densities. Analysis across the depth of the cortex revealed greater laminar
+variation of neuronal density in occipital, parietal, and inferior temporal
+areas, in comparison with other regions. Moreover, differences between areas were
+more pronounced in the supragranular layers than in infragranular layers.
+Calculations of the number of neurons per unit column revealed a pattern that was
+distinct from that of neuronal density, including local peaks in the posterior
+parietal, superior temporal, precuneate, frontopolar, and temporopolar regions.
+These results suggest that neuronal distribution in adult cortex result from a
+complex interaction of developmental/ evolutionary determinants and functional
+requirements.
+
+© The Author(s) 2018. Published by Oxford University Press. All rights reserved. 
+For Permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhy263 
+PMID: 30357325  [Indexed for MEDLINE]
+

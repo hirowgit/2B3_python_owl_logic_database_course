@@ -1,0 +1,96 @@
+
+
+164. Stem Cell Res. 2021 May;53:102308. doi: 10.1016/j.scr.2021.102308. Epub 2021 Mar 
+24.
+
+Generation of a common marmoset embryonic stem cell line CMES40-OC harboring a
+POU5F1 (OCT4)-2A-mCerulean3 knock-in reporter allele.
+
+Yoshimatsu S(1), Murakami R(2), Sato T(2), Saeki T(2), Yamamoto M(3), Sasaki
+E(4), Noce T(5), Okano H(1).
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan;
+Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan.
+(2)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan.
+(3)ICLAS Monitoring Center, Central Institute for Experimental Animals, Kanagawa,
+Japan.
+(4)Department of Marmoset Biology and Medicine, Central Institute for
+Experimental Animals, Kanagawa, Japan.
+(5)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan.
+
+POU class 5 homeobox 1 (POU5F1, also known as OCT4) is critical for maintenance
+of pluripotency, germ cell fate, reprogramming into a pluripotent state, and
+early embryogenesis. We generated an embryonic stem cell (ESC) line of the common
+marmoset (Callithrix jacchus) harboring a heterozygous knock-in allele of
+OCT4-P2A-mCerulean-T2A-pac. The ESC line (CMES40-OC) will be valuable for
+investigation of primed/naïve pluripotency and germ cell fate. Homozygous OCT4
+knock-in clones were generated but could not be sustained in an undifferentiated 
+state in long-term culture. The OCT4 knock-in system facilitated simultaneous
+knock-in of a reporter construct at another locus, DDX4 (VASA).
+
+Copyright © 2021 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scr.2021.102308 
+PMID: 33799281  [Indexed for MEDLINE]
+
+
+165. Stem Cell Reports. 2021 Apr 13;16(4):754-770. doi: 10.1016/j.stemcr.2021.03.002. 
+Epub 2021 Apr 1.
+
+Non-viral Induction of Transgene-free iPSCs from Somatic Fibroblasts of Multiple 
+Mammalian Species.
+
+Yoshimatsu S(1), Nakajima M(2), Iguchi A(3), Sanosaka T(2), Sato T(2), Nakamura
+M(2), Nakajima R(4), Arai E(5), Ishikawa M(2), Imaizumi K(2), Watanabe H(2),
+Okahara J(6), Noce T(4), Takeda Y(4), Sasaki E(6), Behr R(7), Edamura K(3),
+Shiozawa S(2), Okano H(8).
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, 35
+Shinanomachi, Shinjuku-ku, Tokyo, Japan; Laboratory for Proteolytic Neuroscience,
+RIKEN Center for Brain Science, Saitama, Japan; Laboratory for Marmoset Neural
+Architecture, RIKEN Center for Brain Science, Saitama, Japan. Electronic address:
+yoshima@a7.keio.jp.
+(2)Department of Physiology, School of Medicine, Keio University, 35
+Shinanomachi, Shinjuku-ku, Tokyo, Japan.
+(3)Laboratory of Veterinary Surgery, Department of Veterinary Medicine, College
+of Bioresource Sciences, Nihon University, Kanagawa, Japan.
+(4)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan.
+(5)Department of Pathology, School of Medicine, Keio University, Tokyo, Japan.
+(6)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan; Department of Marmoset Biology and Medicine, Central Institute
+for Experimental Animals, Kanagawa, Japan.
+(7)Research Platform Degenerative Diseases, German Primate Center - Leibniz
+Institute for Primate Research, Göttingen, Germany; DZHK (German Centre for
+Cardiovascular Research), partner site Göttingen, Göttingen, Germany.
+(8)Department of Physiology, School of Medicine, Keio University, 35
+Shinanomachi, Shinjuku-ku, Tokyo, Japan; Laboratory for Marmoset Neural
+Architecture, RIKEN Center for Brain Science, Saitama, Japan. Electronic address:
+hidokano@keio.jp.
+
+Induced pluripotent stem cells (iPSCs) are capable of providing an unlimited
+source of cells from all three germ layers and germ cells. The derivation and
+usage of iPSCs from various animal models may facilitate stem cell-based therapy,
+gene-modified animal production, and evolutionary studies assessing interspecies 
+differences. However, there is a lack of species-wide methods for deriving iPSCs,
+in particular by means of non-viral and non-transgene-integrating (NTI)
+approaches. Here, we demonstrate the iPSC derivation from somatic fibroblasts of 
+multiple mammalian species from three different taxonomic orders, including the
+common marmoset (Callithrix jacchus) in Primates, the dog (Canis lupus
+familiaris) in Carnivora, and the pig (Sus scrofa) in Cetartiodactyla, by
+combinatorial usage of chemical compounds and NTI episomal vectors.
+Interestingly, the fibroblasts temporarily acquired a neural stem cell-like state
+during the reprogramming. Collectively, our method, robustly applicable to
+various species, holds a great potential for facilitating stem cell-based
+research using various animals in Mammalia.
+
+Copyright © 2021 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.stemcr.2021.03.002 
+PMCID: PMC8072067
+PMID: 33798453  [Indexed for MEDLINE]
+

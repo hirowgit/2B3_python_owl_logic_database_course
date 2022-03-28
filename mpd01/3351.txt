@@ -1,0 +1,75 @@
+
+
+3351. Endocrinology. 2000 Mar;141(3):995-1000.
+
+Suppression of luteal angiogenesis in the primate after neutralization of
+vascular endothelial growth factor.
+
+Fraser HM(1), Dickson SE, Lunn SF, Wulff C, Morris KD, Carroll VA, Bicknell R.
+
+Author information: 
+(1)Medical Research Council Reproductive Biology Unit, Center for Reproductive
+Biology, Edinburgh, United Kingdom. h.fraser@ed-rbu.mrc.ac.uk
+
+Manipulation of angiogenesis may have a profound effect on female reproductive
+function, but this has not yet been demonstrated by direct experiment in species 
+with ovulatory cycles similar to those in women. To investigate whether
+angiogenesis could be inhibited in the primate corpus luteum, and the
+consequences of such inhibition on luteal function, marmosets were treated with
+an antibody to vascular endothelial growth factor (VEGF). Treatment commenced at 
+the time of ovulation and was continued for 3 days (early luteal group) or 10
+days (midluteal group). Bromodeoxyuridine was used to label proliferating cells, 
+being administered 1 h before collecting ovaries from control and treated animals
+in the early or midluteal phase. Ovarian sections were stained using an antibody 
+to bromodeoxyuridine, and a proliferation index was obtained; endothelial cell
+quantification was performed using factor VIII as an endothelial cell marker.
+Intense proliferation in the early luteal phase was suppressed by anti-VEGF
+treatment. This resulted in blockade of development of the normally extensive
+capillary bed, as in the animals treated until the mid-luteal phase the numbers
+of endothelial cells were reduced. The hormone-producing cells remained largely
+unaltered in the posttreatment corpus luteum, although the presence of lipid
+accumulation, and small pockets of cells showing basophilia and nuclear
+condensation were observed. Significantly, luteal function, as judged by
+secretion of progesterone, was markedly compromised by the treatment, being
+reduced by 60% in comparison with controls. It is concluded that VEGF-mediated
+angiogenesis is an essential component of luteal function in primates and
+therefore has the potential to be regulated.
+
+DOI: 10.1210/endo.141.3.7369 
+PMID: 10698175  [Indexed for MEDLINE]
+
+
+3352. Cancer Gene Ther. 2000 Jan;7(1):97-106.
+
+The nitroreductase/CB1954 combination in Epstein-Barr virus-positive B-cell
+lines: induction of bystander killing in vitro and in vivo.
+
+Westphal EM(1), Ge J, Catchpole JR, Ford M, Kenney SC.
+
+Author information: 
+(1)Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel
+Hill 27599-7295, USA.
+
+Epstein-Barr virus (EBV)-based gene delivery vectors that preferentially express 
+toxic genes in EBV-infected cells could be used to target EBV-positive tumors for
+destruction. We have shown previously that the cytosine deaminase (CD) enzyme,
+which converts the prodrug 5-fluorocytosine (5-FC) into the toxic compound
+5-fluorouracil efficiently kills EBV-positive cells in the presence of 5-FC, with
+a substantial bystander killing effect in vitro and in vivo. To identify the
+optimal enzyme/prodrug combination for treating EBV-positive lymphomas, we have
+compared the effectiveness of the CD/5-FC combination with the nitroreductase
+(NTR)/CB1954 combination for killing EBV-positive B-cell lines. NTR metabolizes
+CB1954 into an alkylating agent that cross-links DNA. When the CD gene or the NTR
+gene were transfected into two different EBV-positive B-cell lines in vitro,
+approximately 90% of cells were killed in a prodrug-dependent manner, although
+the transfection efficiency was <5%. However, severe combined immunodeficient
+mouse tumors containing either 30% or 100% of NTR-expressing Burkitt lymphoma
+(Jijoye) cells were growth inhibited, but not cured, by treatment with
+intraperitoneal CB1954 (20 mg/kg/day) for 10 days. These results suggest that the
+NTR/CB1954 combination induces efficient bystander killing of EBV-positive B-cell
+lines in vitro but may not be as effective as the CD/5-FC combination for
+treating B-cell lymphomas in vivo.
+
+DOI: 10.1038/sj.cgt.7700102 
+PMID: 10678362  [Indexed for MEDLINE]
+

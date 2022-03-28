@@ -1,0 +1,87 @@
+
+
+2666. Environ Mol Mutagen. 2005 Dec;46(4):253-9.
+
+Micronucleated erythrocyte frequencies in old and new world primates: measurement
+of micronucleated erythrocyte frequencies in peripheral blood of Callithrix
+jacchus as a model for evaluating genotoxicity in primates.
+
+Zúñiga-González GM(1), Gómez-Meda BC, Zamora-Perez AL, Ramos-Ibarra ML,
+Batista-González CM, Lemus-Varela ML, Rodríguez-Avila JL, Gallegos-Arreola MP.
+
+Author information: 
+(1)Laboratorio de Mutagénesis, Centro de Investigación Biomédica de Occidente,
+Instituto Mexicano del Seguro Social, Guadalajara, Jalisco, México.
+
+Nonhuman primates are of particular relevance in evaluating the potential
+toxicity of drugs and environmental agents. We have used previously published
+information and data from the present study to establish a relationship for New
+World (NW) and Old World (OW) primates on the basis of the frequency of
+spontaneous micronucleated erythrocytes (MNEs) observed in peripheral blood. Data
+on spontaneous MNEs in peripheral blood from 15 species of primates, including
+humans, indicate that NW primates have significantly (P < 0.01) higher MNE
+frequencies (group mean, 9.5 +/- 7.3 MNEs/10,000 erythrocytes; range,
+0.7-20.5/10,000 erythrocytes) than OW primates (group mean, 1.0 +/- 0.9
+MNEs/10,000 erythrocytes; range, 0.0-2.6 MNEs/10,000 erythrocytes). Humans are
+believed to have developed in the OW, and human MNE frequencies were similar to
+those described for OW primate species. We selected the common marmoset
+(Callithrix jacchus), a NW primate, to determine whether therapeutic pediatric
+doses of Metotrexate (MTX; 2.5 mg/kg), Cyclophosphamide (CP; 5 mg/kg),
+Cytosine-arabinoside (Ara-C; 3 mg/kg), or 5-Fluorouracil (5-FU; 10 mg/kg),
+administered daily for two consecutive days, increase the frequency of
+micronuclei. Micronucleated polychromatic erythrocyte frequencies were increased 
+significantly in groups receiving MTX, CP and Ara-C, while MNE frequencies were
+increased by the Ara-C treatment. The results of this study indicate that NW
+primates have higher spontaneous MNE frequencies than OW primates, and because of
+this, NW primates like the common marmoset, may be suitable for evaluating the
+genotoxicity of chemical agents.
+
+DOI: 10.1002/em.20154 
+PMID: 15971258  [Indexed for MEDLINE]
+
+
+2667. J Pharmacol Exp Ther. 2005 Sep;314(3):1274-89. Epub 2005 Jun 10.
+
+Lecozotan (SRA-333): a selective serotonin 1A receptor antagonist that enhances
+the stimulated release of glutamate and acetylcholine in the hippocampus and
+possesses cognitive-enhancing properties.
+
+Schechter LE(1), Smith DL, Rosenzweig-Lipson S, Sukoff SJ, Dawson LA, Marquis K, 
+Jones D, Piesla M, Andree T, Nawoschik S, Harder JA, Womack MD, Buccafusco J,
+Terry AV, Hoebel B, Rada P, Kelly M, Abou-Gharbia M, Barrett JE, Childers W.
+
+Author information: 
+(1)Wyeth, Neuroscience Discovery Research, Princeton, NJ 08543, USA.
+schechl@wyeth.com
+
+Recent data has suggested that the 5-hydroxytryptamine (5-HT)(1A) receptor is
+involved in cognitive processing. A novel 5-HT(1A) receptor antagonist,
+4-cyano-N-{2R-[4-(2,3-dihydrobenzo[1,4]-dioxin-5-yl)-piperazin-1-yl]-propyl}-N-py
+ridin-2-yl-benzamide HCl (lecozotan), which has been characterized in multiple in
+vitro and in vivo pharmacological assays as a drug to treat cognitive
+dysfunction, is reported. In vitro binding and intrinsic activity determinations 
+demonstrated that lecozotan is a potent and selective 5-HT(1A) receptor
+antagonist. Using in vivo microdialysis, lecozotan (0.3 mg/kg s.c.) antagonized
+the decrease in hippocampal extracellular 5-HT induced by a challenge dose (0.3
+mg/kg s.c.) of 8-hydroxy-2-dipropylaminotetralin (8-OH-DPAT) and had no effects
+alone at doses 10-fold higher. Lecozotan significantly potentiated the potassium 
+chloride-stimulated release of glutamate and acetylcholine in the dentate gyrus
+of the hippocampus. Chronic administration of lecozotan did not induce 5-HT(1A)
+receptor tolerance or desensitization in a behavioral model indicative of
+5-HT(1A) receptor function. In drug discrimination studies, lecozotan (0.01-1
+mg/kg i.m.) did not substitute for 8-OH-DPAT and produced a dose-related blockade
+of the 5-HT(1A) agonist discriminative stimulus cue. In aged rhesus monkeys,
+lecozotan produced a significant improvement in task performance efficiency at an
+optimal dose (1 mg/kg p.o.). Learning deficits induced by the glutamatergic
+antagonist MK-801
+[(-)-5-methyl-10,11-dihydro-5H-dibenzo[a,d]cyclohepten-5,10-imine maleate]
+(assessed by perceptually complex and visual spatial discrimination) and by
+specific cholinergic lesions of the hippocampus (assessed by visual spatial
+discrimination) were reversed by lecozotan (2 mg/kg i.m.) in marmosets. The
+heterosynaptic nature of the effects of lecozotan imbues this compound with a
+novel mechanism of action directed at the biochemical pathologies underlying
+cognitive loss in Alzheimer's disease.
+
+DOI: 10.1124/jpet.105.086363 
+PMID: 15951399  [Indexed for MEDLINE]
+

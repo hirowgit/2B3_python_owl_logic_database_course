@@ -1,0 +1,41 @@
+
+
+2115. Mol Phylogenet Evol. 2009 Dec;53(3):808-25. doi: 10.1016/j.ympev.2009.08.004.
+Epub 2009 Aug 12.
+
+Patterns of macroevolution among Primates inferred from a supermatrix of
+mitochondrial and nuclear DNA.
+
+Fabre PH(1), Rodrigues A, Douzery EJ.
+
+Author information: 
+(1)Institut des Sciences de l'Evolution (ISEM, UMR 5554 CNRS), Université
+Montpellier II, Place E. Bataillon, CC 064, 34095 Montpellier Cedex 5, France.
+phfabre@univ-montp2.fr
+
+Here, we present a new primate phylogeny inferred from molecular supermatrix
+analyses of size 42 kb containing 70% of missing data, and representing 75% of
+primate species diversity. The supermatrix was analysed using a gene-partitioned 
+maximum likelihood approach to obtain an exhaustive molecular phylogenetic
+framework. All clades recovered from recent molecular works were upheld in our
+analyses demonstrating that the presence of missing data did not bias our
+supermatrix inference. The resulting phylogenetic tree was subsequently dated
+with a molecular dating method to provide a timescale for speciation events.
+Results obtained from our relaxed molecular clock analyses concurred with
+previous works based on the same fossil constraints. The resulting dated tree
+allowed to infer of macroevolutionary processes among the primates. Shifts in
+diversification rate and speciation rates were determined using the SymmeTREE
+method and a birthdeath process. No significant asymmetry was detected for the
+primate clade, but significant shifts in diversification rate were identified for
+seven clades: Anthropoidea, Lemuriformes, Lemuridae, Galagidae, Callithrix genus,
+the Cercopithecinae and Asian Macaca. Comparisons with previous primate supertree
+results reveal that (i) there was a diversification event at the root of the
+Lemuriformes, (ii) a higher diversification rate is detected for Cercopithecidae 
+and Anthropoidea and (iii) a shift in diversification is always recovered for
+Macaca genus. Macroevolutionary inferences and primate divergence dates show that
+major primate diversification events occurred after the Paleogene, suggesting the
+extinction of ancient primate lineages.
+
+DOI: 10.1016/j.ympev.2009.08.004 
+PMID: 19682589  [Indexed for MEDLINE]
+

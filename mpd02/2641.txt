@@ -1,0 +1,38 @@
+
+
+2641. J Comp Physiol A Neuroethol Sens Neural Behav Physiol. 2006 Jan;192(1):27-38.
+Epub 2005 Aug 31.
+
+Sensory-motor interactions modulate a primate vocal behavior: antiphonal calling 
+in common marmosets.
+
+Miller CT(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+ctmiller@bme.jhu.edu
+
+A fundamental issue in neuroscience pertains to how different cortical systems
+interact to generate behavior. One of the most direct ways to address this issue 
+is to investigate how sensory information is encoded and used to produce a motor 
+response. Antiphonal calling is a natural vocal behavior that involves
+individuals producing their species-specific long distance vocalization in
+response to hearing the same call and engages both the auditory and motor
+systems, as well as the cognitive neural systems involved in decision making and 
+categorization. Here we present results from a series of behavioral experiments
+investigating the auditory-vocal interactions during antiphonal calling in the
+common marmoset (Callithrix jacchus). We manipulated sensory input by placing
+subjects in different social contexts and found that the auditory input had a
+significant effect on call timing and propensity to call. Playback experiments
+tested the significance of the timing of vocal production in antiphonal calling
+and showed that a short latency between antiphonal calls was necessary to
+maintain reciprocal vocal interactions. Overall, this study shows that
+sensory-motor interactions can be experimentally induced and manipulated in a
+natural primate vocal behavior. Antiphonal calling represents a promising model
+system to examine these issues in non-human primates at both the behavioral and
+neural levels.
+
+DOI: 10.1007/s00359-005-0043-z 
+PMID: 16133500  [Indexed for MEDLINE]
+

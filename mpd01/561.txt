@@ -1,0 +1,107 @@
+
+
+561. Acta Naturae. 2018 Oct-Dec;10(4):63-69.
+
+Assessment of the Parameters of Adaptive Cell-Mediated Immunity in Naïve Common
+Marmosets (Callithrix jacchus).
+
+Gordeychuk IV(1)(2)(3), Tukhvatulin AI(2), Petkov SP(4), Abakumov MA(5)(6),
+Gulyaev SA(1), Tukhvatulina NM(2), Gulyaeva TV(1), Mikhaylov MI(7)(8), Logunov
+DY(2), Isaguliants MG(1)(2)(9).
+
+Author information: 
+(1)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, premises 8, bldg. 
+1, Village of Institute of Poliomyelitis, Settlement "Moskovskiy", Moscow,
+108819, Russia.
+(2)N.F. Gamaleya National Research Center for Epidemiology and Microbiology,
+Gamaleya Str., 18, Moscow, 123098, Russia.
+(3)Sechenov First Moscow State Medical University, Bolshaya Pirogovskaya Str.,
+19, bldg. 1, Moscow, 119146, Russia.
+(4)MTC, Karolinska Institutet, 171 77, Stockholm, Sweden.
+(5)Pirogov Russian National Research Medical University, Ostovitjanova Str. 1,
+Moscow, 117997, Russia.
+(6)National University of Science and Technology MISiS, Leninsky Ave., 4, Moscow,
+119049, Russia.
+(7)Russian Medical Academy of Continuous Professional Education, Barrikadnaja
+Str., 2/1, bldg. 1, Moscow, 125993, Russia.
+(8)Mechnikov Research Institute for Vaccines and Sera, Maliy Kazenniy Lane, 5a,
+Moscow, 105064, Russia.
+(9)Rīga Stradiņš University, LV-1007, Riga, Lativa.
+
+Common marmosets are small New World primates that have been increasingly used in
+biomedical research. This report presents efficient protocols for assessment of
+the parameters of adaptive cell-mediated immunity in common marmosets, including 
+the major subpopulations of lymphocytes and main markers of T- and B-cell
+maturation and activation using flow cytometry with a multicolor panel of
+fluorescently labelled antibodies. Blood samples from eight common marmosets were
+stained with fluorescently labeled monoclonal antibodies against their population
+markers (CD45, CD3, CD20, CD4, CD8) and lymphocyte maturation and activation
+markers (CD69, CD62L, CD45RO, CD107a and CD27) and analyzed by flow cytometry.
+Within the CD45+ population, 22.7±5.5% cells were CD3- CD20+ and 67.6±6.3% were
+CD3+CD20-. The CD3+ subpopulation included 55.7±5.5% CD3+CD4+CD8- and 34.3±3.7%
+CD3+CD4-CD8+ cells. Activation and maturation markers were expressed in the
+following lymphocyte proportions: CD62L on 54.0±10.7% of CD3+CD4+ cells and
+74.4±12.1% of CD3+CD8+ cells; CD69 on 2.7±1.2% of CD3+CD4+ cells and 1.2±0.5% of 
+CD3+CD8+ cells; CD45RO on 1.6±0.6% of CD3+CD4+ cells and 1.8±0.7% of CD3+CD8+
+cells; CD107a on 0.7±0.5% of CD3+CD4+ cells and 0.5±0.3% of CD3+CD8+ cells; CD27 
+on 94.6±2.1% of CD3+ cells and 8.9±3.9% CD20+ cells. Female and male subjects
+differed in the percentage of CD3+CD4+CD45RO+ cells (1.9±0.5 in females vs
+1.1±0.2 in males; p < 0.05). The percentage of CD20+CD27+ cells was found to
+highly correlate with animals' age (r = 0.923, p < 0.005). The basal parameters
+of adaptive cell-mediated immunity in naïve healthy marmosets without markers of 
+systemic immune activation were obtained. These parameters and the described
+procedures are crucial in documenting the changes induced in common marmosets by 
+prophylactic and therapeutic immune interventions.
+
+
+PMCID: PMC6351028
+PMID: 30713763 
+
+
+562. Cell. 2019 Feb 21;176(5):1222-1237.e22. doi: 10.1016/j.cell.2019.01.004. Epub
+2019 Jan 31.
+
+Molecular Classification and Comparative Taxonomics of Foveal and Peripheral
+Cells in Primate Retina.
+
+Peng YR(1), Shekhar K(2), Yan W(1), Herrmann D(1), Sappington A(2), Bryman GS(3),
+van Zyl T(4), Do MTH(3), Regev A(5), Sanes JR(6).
+
+Author information: 
+(1)Center for Brain Science and Department of Molecular and Cellular Biology,
+Harvard University, Cambridge, MA 02138, USA.
+(2)Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA
+02142, USA.
+(3)F.M. Kirby Neurobiology Center and Department of Neurology, Boston Children's 
+Hospital Harvard Medical School, Boston, MA 02115, USA.
+(4)Department of Ophthalmology, Harvard Medical School, Boston, MA 02114, USA.
+(5)Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA
+02142, USA; Howard Hughes Medical Institute, Koch Institute of Integrative Cancer
+Research, Department of Biology, Massachusetts Institute of Technology,
+Cambridge, MA 02140, USA.
+(6)Center for Brain Science and Department of Molecular and Cellular Biology,
+Harvard University, Cambridge, MA 02138, USA. Electronic address:
+sanesj@mcb.harvard.edu.
+
+High-acuity vision in primates, including humans, is mediated by a small central 
+retinal region called the fovea. As more accessible organisms lack a fovea, its
+specialized function and its dysfunction in ocular diseases remain poorly
+understood. We used 165,000 single-cell RNA-seq profiles to generate
+comprehensive cellular taxonomies of macaque fovea and peripheral retina. More
+than 80% of >60 cell types match between the two regions but exhibit substantial 
+differences in proportions and gene expression, some of which we relate to
+functional differences. Comparison of macaque retinal types with those of mice
+reveals that interneuron types are tightly conserved. In contrast, projection
+neuron types and programs diverge, despite exhibiting conserved transcription
+factor codes. Key macaque types are conserved in humans, allowing mapping of
+cell-type and region-specific expression of >190 genes associated with 7 human
+retinal diseases. Our work provides a framework for comparative single-cell
+analysis across tissue regions and species.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2019.01.004 
+PMCID: PMC6424338
+PMID: 30712875  [Indexed for MEDLINE]
+

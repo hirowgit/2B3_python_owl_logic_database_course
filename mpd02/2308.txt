@@ -1,0 +1,37 @@
+
+
+2308. J Biol Chem. 2008 Apr 25;283(17):11763-71. doi: 10.1074/jbc.M800896200. Epub 2008
+Feb 21.
+
+Dynamic interaction of the measles virus hemagglutinin with its receptor
+signaling lymphocytic activation molecule (SLAM, CD150).
+
+Navaratnarajah CK(1), Vongpunsawad S, Oezguen N, Stehle T, Braun W, Hashiguchi T,
+Maenaka K, Yanagi Y, Cattaneo R.
+
+Author information: 
+(1)Department of Molecular Medicine and Virology and Gene Therapy Graduate Track,
+Mayo Clinic, Rochester, Minnesota 55905, USA.
+
+The interaction of measles virus with its receptor signaling lymphocytic
+activation molecule (SLAM) controls cell entry and governs tropism. We predicted 
+potential interface areas of the measles virus attachment protein hemagglutinin
+to begin the investigation. We then assessed the relevance of individual amino
+acids located in these areas for SLAM-binding and SLAM-dependent membrane fusion,
+as measured by surface plasmon resonance and receptor-specific fusion assays,
+respectively. These studies identified one hemagglutinin protein residue,
+isoleucine 194, which is essential for primary binding. The crystal structure of 
+the hemagglutinin-protein localizes Ile-194 at the interface of propeller blades 
+5 and 6, and our data indicate that a small aliphatic side chain of residue 194
+stabilizes a protein conformation conducive to binding. In contrast, a quartet of
+residues previously shown to sustain SLAM-dependent fusion is not involved in
+binding. Instead, our data prove that after binding, this quartet of residues on 
+propeller blade 5 conducts conformational changes that are receptor-specific. Our
+study sets a structure-based stage for understanding how the SLAM-elicited
+conformational changes travel through the H-protein ectodomain before triggering 
+fusion protein unfolding and membrane fusion.
+
+DOI: 10.1074/jbc.M800896200 
+PMCID: PMC2431048
+PMID: 18292085  [Indexed for MEDLINE]
+

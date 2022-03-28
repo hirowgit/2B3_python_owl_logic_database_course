@@ -1,0 +1,94 @@
+
+
+300. Sci Rep. 2020 Jun 23;10(1):10221. doi: 10.1038/s41598-020-67157-5.
+
+Cardiac MRI in common marmosets revealing age-dependency of cardiac function.
+
+Moussavi A(1)(2), Mietsch M(3)(4)(5), Drummer C(3)(6), Behr R(3)(6), Mylius J(7),
+Boretius S(7)(3).
+
+Author information: 
+(1)Functional Imaging Laboratory, German Primate Center, Leibniz Institute for
+Primate Research, Göttingen, Germany. amoussavi@dpz.eu.
+(2)DZHK (German Center for Cardiovascular Research), partner site Göttingen,
+Göttingen, Germany. amoussavi@dpz.eu.
+(3)DZHK (German Center for Cardiovascular Research), partner site Göttingen,
+Göttingen, Germany.
+(4)Unit of Infection Models, German Primate Center, Leibniz Institute for Primate
+Research, Göttingen, Germany.
+(5)Department of Laboratory Animal Science, German Primate Center, Leibniz
+Institute for Primate Research, Göttingen, Germany.
+(6)Platform Degenerative Diseases, German Primate Center, Leibniz Institute for
+Primate Research, Göttingen, Germany.
+(7)Functional Imaging Laboratory, German Primate Center, Leibniz Institute for
+Primate Research, Göttingen, Germany.
+
+The aim of this study was to establish a feasible and robust magnetic resonance
+imaging protocol for the quantitative assessment of cardiac function in marmosets
+and to present normal values of cardiac function across different ages from young
+adult, middle-aged, to very old clinically healthy animals. Cardiac MRI of 33
+anesthetized marmosets at the age of 2-15 years was performed at 9.4 T using
+IntraGate-FLASH that operates without any ECG-triggering and breath holding.
+Normalized to post-mortem heart weight, the left ventricular end-diastolic volume
+(LV-EDV) was significantly reduced in older marmosets. The LV end-systolic volume
+(LV-ESV) and the LV stroke volume (LV-SV) showed a similar trend while the LV
+ejection fraction (LV-EF) and wall thickening remained unchanged. Similar
+observations were made for the right ventricle. Moreover, the total ventricular
+myocardial volume was lower in older monkeys while no significant difference in
+heart weight was found. In conclusion, IntraGate-FLASH allowed for quantification
+of left ventricular cardiac function but seems to underestimate the volumes of
+the right ventricle. Although less strong and without significant sex
+differences, the observed age related changes were similar to previously reported
+findings in humans supporting marmosets as a model system for age related
+cardiovascular human diseases.
+
+DOI: 10.1038/s41598-020-67157-5 
+PMCID: PMC7311402
+PMID: 32576909  [Indexed for MEDLINE]
+
+
+301. PLoS One. 2020 Jun 23;15(6):e0234634. doi: 10.1371/journal.pone.0234634.
+eCollection 2020.
+
+The profile of lipid metabolites in urine of marmoset wasting syndrome.
+
+Yamazaki A(1), Nakamura T(1), Miyabe-Nishiwaki T(2), Hirata A(3), Inoue R(1),
+Kobayashi K(1), Miyazaki Y(1), Hamasaki Y(1), Ishigami A(2), Nagata N(1), Kaneko 
+A(2), Koizumi M(4), Ohta H(5), Okano HJ(5), Murata T(1).
+
+Author information: 
+(1)Department of Animal Radiology, Graduate School of Agricultural and Life
+Sciences, The University of Tokyo, Tokyo, Japan.
+(2)Department of Primate Research Institute, Kyoto University, Aichi, Japan.
+(3)Department of Animal Experiment, Life Science Research Center, Gifu
+University, Gifu, Japan.
+(4)Department of Laboratory Animal Facilities, The Jikei University School of
+Medicine, Tokyo, Japan.
+(5)Department of Regenerative Medicine, The Jikei University School of Medicine, 
+Tokyo, Japan.
+
+Marmoset wasting syndrome (MWS) is clinically characterized by progressive weight
+loss. Although morbidity and mortality of MWS are relatively high in captive
+marmosets, its causes remain unknown. Lipid mediators are bioactive metabolites
+which are produced from polyunsaturated fatty acids, such as arachidonic acid
+(AA) and eicosapentaenoic acid. These lipid metabolites regulate a wide range of 
+inflammatory responses and they are excreted into the urine. As urinary lipid
+profiles reflect systemic inflammatory conditions, we comprehensively measured
+the levels of 141 types of lipid metabolites in the urines obtained from healthy 
+common marmoset (Callithrix jacchus) (N = 7) or marmosets with MWS (N = 7). We
+found that 41 types of metabolites were detected in all urine samples of both
+groups. Among them, AA-derived metabolites accounted for 63% (26/41 types) of all
+detected metabolites. Notably, the levels of AA-derived prostaglandin (PG) E2,
+PGF2α, thromboxane (TX) B2 and F2-isoprostanes significantly increased in the
+urine samples of marmosets with MWS. In this study, we found some urinary lipid
+metabolites which may be involved in the development of MWS. Although the cause
+of MWS remains unclear, our findings may provide some insight into understanding 
+the mechanisms of development of MWS.
+
+DOI: 10.1371/journal.pone.0234634 
+PMCID: PMC7310677
+PMID: 32574169  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

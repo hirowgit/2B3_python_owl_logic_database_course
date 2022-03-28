@@ -1,0 +1,50 @@
+
+
+887. J Neurosci Methods. 2017 Jun 1;284:35-46. doi: 10.1016/j.jneumeth.2017.04.004.
+Epub 2017 Apr 8.
+
+Common marmoset (Callithrix jacchus) as a primate model for behavioral
+neuroscience studies.
+
+Prins NW(1), Pohlmeyer EA(1), Debnath S(1), Mylavarapu R(1), Geng S(1), Sanchez
+JC(1), Rothen D(2), Prasad A(3).
+
+Author information: 
+(1)Department of Biomedical Engineering, University of Miami, Coral Gables, FL
+33146, United States.
+(2)Division of Veterinary Resources, University of Miami, Coral Gables, FL 33146,
+United States.
+(3)Department of Biomedical Engineering, University of Miami, Coral Gables, FL
+33146, United States. Electronic address: a.prasad@miami.edu.
+
+BACKGROUND: The common marmoset (Callithrix jacchus) has been proposed as a
+suitable bridge between rodents and larger primates. They have been used in
+several types of research including auditory, vocal, visual, pharmacological and 
+genetics studies. However, marmosets have not been used as much for behavioral
+studies.
+NEW METHOD: Here we present data from training 12 adult marmosets for behavioral 
+neuroscience studies. We discuss the husbandry, food preferences, handling,
+acclimation to laboratory environments and neurosurgical techniques. In this
+paper, we also present a custom built "scoop" and a monkey chair suitable for
+training of these animals.
+RESULTS: The animals were trained for three tasks: 4 target center-out reaching
+task, reaching tasks that involved controlling robot actions, and touch screen
+task. All animals learned the center-out reaching task within 1-2 weeks whereas
+learning reaching tasks controlling robot actions task took several months of
+behavioral training where the monkeys learned to associate robot actions with
+food rewards.
+COMPARISON TO EXISTING METHOD: We propose the marmoset as a novel model for
+behavioral neuroscience research as an alternate for larger primate models. This 
+is due to the ease of handling, quick reproduction, available neuroanatomy,
+sensorimotor system similar to larger primates and humans, and a lissencephalic
+brain that can enable implantation of microelectrode arrays relatively easier at 
+various cortical locations compared to larger primates.
+CONCLUSION: All animals were able to learn behavioral tasks well and we present
+the marmosets as an alternate model for simple behavioral neuroscience tasks.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2017.04.004 
+PMCID: PMC5514563
+PMID: 28400103  [Indexed for MEDLINE]
+

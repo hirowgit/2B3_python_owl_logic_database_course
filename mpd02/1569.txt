@@ -1,0 +1,51 @@
+
+
+1569. Neuroimage. 2013 Sep;78:16-32. doi: 10.1016/j.neuroimage.2013.04.016. Epub 2013
+Apr 13.
+
+Mean apparent propagator (MAP) MRI: a novel diffusion imaging method for mapping 
+tissue microstructure.
+
+Özarslan E(1), Koay CG, Shepherd TM, Komlosh ME, İrfanoğlu MO, Pierpaoli C,
+Basser PJ.
+
+Author information: 
+(1)Section on Tissue Biophysics and Biomimetics, PPITS, NICHD, National
+Institutes of Health, Bethesda, MD 20892, USA. evren@bwh.harvard.edu
+
+Diffusion-weighted magnetic resonance (MR) signals reflect information about
+underlying tissue microstructure and cytoarchitecture. We propose a quantitative,
+efficient, and robust mathematical and physical framework for representing
+diffusion-weighted MR imaging (MRI) data obtained in "q-space," and the
+corresponding "mean apparent propagator (MAP)" describing molecular displacements
+in "r-space." We also define and map novel quantitative descriptors of diffusion 
+that can be computed robustly using this MAP-MRI framework. We describe efficient
+analytical representation of the three-dimensional q-space MR signal in a series 
+expansion of basis functions that accurately describes diffusion in many complex 
+geometries. The lowest order term in this expansion contains a diffusion tensor
+that characterizes the Gaussian displacement distribution, equivalent to
+diffusion tensor MRI (DTI). Inclusion of higher order terms enables the
+reconstruction of the true average propagator whose projection onto the unit
+"displacement" sphere provides an orientational distribution function (ODF) that 
+contains only the orientational dependence of the diffusion process. The
+representation characterizes novel features of diffusion anisotropy and the
+non-Gaussian character of the three-dimensional diffusion process. Other
+important measures this representation provides include the return-to-the-origin 
+probability (RTOP), and its variants for diffusion in one- and two-dimensions-the
+return-to-the-plane probability (RTPP), and the return-to-the-axis probability
+(RTAP), respectively. These zero net displacement probabilities measure the mean 
+compartment (pore) volume and cross-sectional area in distributions of isolated
+pores irrespective of the pore shape. MAP-MRI represents a new comprehensive
+framework to model the three-dimensional q-space signal and transform it into
+diffusion propagators. Experiments on an excised marmoset brain specimen
+demonstrate that MAP-MRI provides several novel, quantifiable parameters that
+capture previously obscured intrinsic features of nervous tissue microstructure. 
+This should prove helpful for investigating the functional organization of normal
+and pathologic nervous tissue.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2013.04.016 
+PMCID: PMC4059870
+PMID: 23587694  [Indexed for MEDLINE]
+

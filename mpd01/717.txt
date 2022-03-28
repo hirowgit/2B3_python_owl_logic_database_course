@@ -1,0 +1,89 @@
+
+
+717. J Neural Eng. 2018 Jun;15(3):036019. doi: 10.1088/1741-2552/aab307. Epub 2018 Mar
+1.
+
+Accurate motor mapping in awake common marmosets using
+micro-electrocorticographical stimulation and stochastic threshold estimation.
+
+Kosugi A(1), Takemi M, Tia B, Castagnola E, Ansaldo A, Sato K, Awiszus F, Seki K,
+Ricci D, Fadiga L, Iriki A, Ushiba J.
+
+Author information: 
+(1)Graduate School of Science and Technology, Keio University, Kanagawa, Japan.
+Laboratory for Symbolic Cognitive Development, RIKEN Brain Science Institute,
+Saitama, Japan. Department of Neurophysiology, National Institute of
+Neuroscience, Tokyo, Japan.
+
+OBJECTIVE: Motor map has been widely used as an indicator of motor skills and
+learning, cortical injury, plasticity, and functional recovery. Cortical
+stimulation mapping using epidural electrodes is recently adopted for animal
+studies. However, several technical limitations still remain. Test-retest
+reliability of epidural cortical stimulation (ECS) mapping has not been examined 
+in detail. Many previous studies defined evoked movements and motor thresholds by
+visual inspection, and thus, lacked quantitative measurements. A reliable and
+quantitative motor map is important to elucidate the mechanisms of motor cortical
+reorganization. The objective of the current study was to perform reliable ECS
+mapping of motor representations based on the motor thresholds, which were
+stochastically estimated by motor evoked potentials and chronically implanted
+micro-electrocorticographical (µECoG) electrode arrays, in common marmosets.
+APPROACH: ECS was applied using the implanted µECoG electrode arrays in three
+adult common marmosets under awake conditions. Motor evoked potentials were
+recorded through electromyographical electrodes implanted in upper limb muscles. 
+The motor threshold was calculated through a modified maximum likelihood
+threshold-hunting algorithm fitted with the recorded data from marmosets.
+Further, a computer simulation confirmed reliability of the algorithm.
+MAIN RESULTS: Computer simulation suggested that the modified maximum likelihood 
+threshold-hunting algorithm enabled to estimate motor threshold with acceptable
+precision. In vivo ECS mapping showed high test-retest reliability with respect
+to the excitability and location of the cortical forelimb motor representations.
+SIGNIFICANCE: Using implanted µECoG electrode arrays and a modified motor
+threshold-hunting algorithm, we were able to achieve reliable motor mapping in
+common marmosets with the ECS system.
+
+DOI: 10.1088/1741-2552/aab307 
+PMID: 29491189  [Indexed for MEDLINE]
+
+
+718. Am J Primatol. 2018 Mar;80(3):e22744. doi: 10.1002/ajp.22744. Epub 2018 Feb 28.
+
+Small but wise: Common marmosets (Callithrix jacchus) use acoustic signals as
+cues to avoid interactions with blonde capuchin monkeys (Sapajus flavius).
+
+Bastos M(1), Medeiros K(1), Jones G(2), Bezerra B(1).
+
+Author information: 
+(1)Departamento de Zoologia, Centro de Biociências, Programa de Pós-Graduação em 
+Biologia Animal, Universidade Federal de Pernambuco, Recife, Brazil.
+(2)School of Biological Sciences, University of Bristol, Bristol, United Kingdom.
+
+Vocalizations are often used by animals to communicate and mediate social
+interactions. Animals may benefit from eavesdropping on calls from other species 
+to avoid predation and thus increase their chances of survival. Here we use both 
+observational and experimental evidence to investigate eavesdropping and how
+acoustic signals may mediate interactions between two sympatric and endemic
+primate species (common marmosets and blonde capuchin monkeys) in a fragment of
+Atlantic Rainforest in Northeastern Brazil. We observed 22 natural vocal
+encounters between the study species, but no evident visual or physical contact
+over the study period. These two species seem to use the same area throughout the
+day, but at different times. We broadcasted alarm and long distance calls to and 
+from both species as well as two control stimuli (i.e., forest background noise
+and a loud call from an Amazonian primate) in our playback experiments. Common
+marmosets showed anti-predator behavior (i.e., vigilance and flight) when exposed
+to blonde capuchin calls both naturally and experimentally. However, blonde
+capuchin monkeys showed no anti-predator behavior in response to common marmoset 
+calls. Blonde capuchins uttered long distance calls and looked in the direction
+of the speaker following exposure to their own long distance call, whereas they
+fled when exposed to their own alarm calls. Both blonde capuchin monkeys and
+common marmosets showed fear behaviors in response to the loud call from a
+primate species unknown to them, and showed no apparent response to the forest
+background noise. Common marmoset responses to blonde capuchin calls suggests
+that the latter is a potential predator. Furthermore, common marmosets appear to 
+be eavesdropping on calls from blonde capuchin monkeys to avoid potentially
+costly encounters with them.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajp.22744 
+PMID: 29488642  [Indexed for MEDLINE]
+

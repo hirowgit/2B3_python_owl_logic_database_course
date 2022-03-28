@@ -1,0 +1,73 @@
+
+
+1935. J Vis. 2010 Dec 16;10(14):15. doi: 10.1167/10.14.15.
+
+A simple method for creating wide-field visual stimulus for electrophysiology:
+mapping and analyzing receptive fields using a hemispheric display.
+
+Yu HH(1), Rosa MG.
+
+Author information: 
+(1)Department of Physiology and Monash Vision Group, Monash University, Clayton, 
+VIC, Australia. hhyu00@gmail.com
+
+Modern neurophysiological and psychophysical studies of vision are typically
+based on computer-generated stimuli presented on flat screens. While this
+approach allows precise delivery of stimuli, it suffers from a fundamental
+limitation in terms of the maximum achievable spatial coverage. This constraint
+becomes important in studies that require stimulation of large expanses of the
+visual field, such as those involving the mapping of receptive fields throughout 
+the extent of a cortical area or subcortical nucleus, or those comparing neural
+response properties across a wide range of eccentricities. Here we describe a
+simple and highly cost-effective method for the projection of computer-generated 
+stimuli on a hemispheric screen, which combines the advantages of computerized
+control and wide-field (100° × 75°) delivery, without the requirement of highly
+specialized hardware. The description of the method includes programming
+techniques for the generation of stimuli in spherical coordinates and for the
+quantitative determination of receptive field sizes and shapes. The value of this
+approach is demonstrated by quantitative electrophysiological data obtained in
+the far peripheral representations of various cortical areas, including automated
+mapping of receptive field extents in cortex that underwent plasticity following 
+lesions.
+
+DOI: 10.1167/10.14.15 
+PMID: 21163958  [Indexed for MEDLINE]
+
+
+1936. Regul Toxicol Pharmacol. 2011 Feb;59(1):19-27. doi: 10.1016/j.yrtph.2010.12.003. 
+Epub 2010 Dec 13.
+
+Overview of the marmoset as a model in nonclinical development of pharmaceutical 
+products.
+
+Orsi A(1), Rees D, Andreini I, Venturella S, Cinelli S, Oberto G.
+
+Author information: 
+(1)Salupont Consulting Ltd., Kent Science Park, 940 Cornforth Drive,
+Sittingbourne, Kent, ME9 8PX, UK. aorsi@salupontconsulting.com
+
+Callithrix jacchus (common marmoset) is one of the more primitive non-human
+primate species and is used widely in fundamental biology, pharmacology and
+toxicology studies. Marmosets breed well in captivity with good reproductive
+efficiencies and their sexual maturity is reached within 18 months of age
+allowing for rapid expansion of colonies and early availability of sexually
+mature animals permitting an earlier assessment of product candidates in the
+adult. Their relatively small size allows a reduction in material requirements
+leading to a reduction in development time and cost. Fewer animals are also
+required due to their ability to be used in both pharmacology and toxicology
+(nonclinical) studies. These factors, alongside a better understanding of their
+optimal nutrient and welfare requirements over recent years, facilitate the
+generation of a more cohesive and robust dataset. With the growth of
+biotechnology-derived pharmaceuticals, non-human primate use has, by necessity,
+also increased; nevertheless, there is also a growing public call for minimizing 
+their use. Utilizing, the more primitive marmoset species may provide the optimal
+compromise and once the scientific rationale has been carefully considered and
+their use justified, there are several advantages to using the marmoset as a
+model in nonclinical development of pharmaceutical products.
+
+Copyright Â© 2010 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.yrtph.2010.12.003 
+PMCID: PMC7126225
+PMID: 21156195  [Indexed for MEDLINE]
+

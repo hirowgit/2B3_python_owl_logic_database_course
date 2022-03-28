@@ -1,0 +1,81 @@
+
+
+1562. PeerJ. 2013 Feb 12;1:e13. doi: 10.7717/peerj.13. Print 2013.
+
+Dissecting the mechanisms of squirrel monkey (Saimiri boliviensis) social
+learning.
+
+Hopper L(1), Holmes A, Williams L, Brosnan S.
+
+Author information: 
+(1)Lester E. Fisher Center for the Study and Conservation of Apes , Lincoln Park 
+Zoo , Chicago, IL , USA ; Language Research Center , Georgia State University ,
+Atlanta, GA , USA.
+
+Although the social learning abilities of monkeys have been well documented, this
+research has only focused on a few species. Furthermore, of those that also
+incorporated dissections of social learning mechanisms, the majority studied
+either capuchins (Cebus apella) or marmosets (Callithrix jacchus). To gain a
+broader understanding of how monkeys gain new skills, we tested squirrel monkeys 
+(Saimiri boliviensis) which have never been studied in tests of social learning
+mechanisms. To determine whether S. boliviensis can socially learn, we ran "open 
+diffusion" tests with monkeys housed in two social groups (N = 23). Over the
+course of 10 20-min sessions, the monkeys in each group observed a trained group 
+member retrieving a mealworm from a bidirectional task (the "Slide-box"). Two
+thirds (67%) of these monkeys both learned how to operate the Slide-box and they 
+also moved the door significantly more times in the direction modeled by the
+trained demonstrator than the alternative direction. To tease apart the
+underlying social learning mechanisms we ran a series of three control conditions
+with 35 squirrel monkeys that had no previous experience with the Slide-box. The 
+first replicated the experimental open diffusion sessions but without the
+inclusion of a trained model, the second was a no-information control with dyads 
+of monkeys, and the third was a 'ghost' display shown to individual monkeys. The 
+first two controls tested for the importance of social support (mere presence
+effect) and the ghost display showed the affordances of the task to the monkeys. 
+The monkeys showed a certain level of success in the group control (54% of
+subjects solved the task on one or more occasions) and paired controls (28% were 
+successful) but none were successful in the ghost control. We propose that the
+squirrel monkeys' learning, observed in the experimental open diffusion tests,
+can be best described by a combination of social learning mechanisms in concert; 
+in this case, those mechanisms are most likely object movement reenactment and
+social facilitation. We discuss the interplay of these mechanisms and how they
+related to learning shown by other primate species.
+
+DOI: 10.7717/peerj.13 
+PMCID: PMC3628937
+PMID: 23638347 
+
+
+1563. Bioorg Med Chem Lett. 2013 Jun 1;23(11):3157-61. doi: 10.1016/j.bmcl.2013.04.012.
+Epub 2013 Apr 12.
+
+Discovery of
+(R)-N-(3-(7-methyl-1H-indazol-5-yl)-1-(4-(1-methylpiperidin-4-yl)-1-oxopropan-2-y
+l)-4-(2-oxo-1,2-dihydroquinolin-3-yl)piperidine-1-carboxamide (BMS-742413): a
+potent human CGRP antagonist with superior safety profile for the treatment of
+migraine through intranasal delivery.
+
+Chaturvedula PV(1), Mercer SE, Pin SS, Thalody G, Xu C, Conway CM, Keavy D,
+Signor L, Cantor GH, Mathias N, Moench P, Denton R, Macci R, Schartman R,
+Whiterock V, Davis C, Macor JE, Dubowchik GM.
+
+Author information: 
+(1)Department of Molecular Sciences and Candidate Optimization, Bristol-Myers
+Squibb R&D, 5 Research Parkway, Wallingford, CT 06492, USA.
+Prasad.Chaturvedula@bms.com
+
+Calcitonin gene-related peptide (CGRP) receptor antagonists have been shown to be
+efficacious as abortive migraine therapeutics with the absence of cardiovascular 
+liabilities that are associated with triptans. Herein, we report the discovery of
+a highly potent CGRP receptor antagonist, BMS-742413, with the potential to
+provide rapid onset of action through intranasal delivery. The compound displays 
+excellent aqueous solubility, oxidative stability, and toxicological profile.
+BMS-742413 has good intranasal bioavailability in the rabbit and shows a robust, 
+dose-dependent inhibition of CGRP-induced increases in marmoset facial blood
+flow.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.bmcl.2013.04.012 
+PMID: 23632269  [Indexed for MEDLINE]
+

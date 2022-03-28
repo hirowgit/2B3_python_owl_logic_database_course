@@ -1,0 +1,114 @@
+
+
+272. J Neural Transm (Vienna). 2020 Oct;127(10):1343-1358. doi:
+10.1007/s00702-020-02247-2. Epub 2020 Aug 29.
+
+The MPTP-lesioned marmoset model of Parkinson's disease: proposed efficacy
+thresholds that may potentially predict successful clinical trial results.
+
+Beaudry F(1), Huot P(2)(3)(4).
+
+Author information: 
+(1)Groupe de Recherche en Pharmacologie Animal du Québec, Département de
+Biomédecine Vétérinaire, Faculté de Médecine Vétérinaire, Université de Montréal,
+Saint-Hyacinthe, QC, Canada.
+(2)Neurodegenerative Disease Group, Montreal Neurological Institute, 3801
+University St, Montreal, QC, H3A 2B4, Canada. philippe.huot@mcgill.ca.
+(3)Department of Neurology and Neurosurgery, McGill University, Montreal, QC,
+Canada. philippe.huot@mcgill.ca.
+(4)Movement Disorder Clinic, Division of Neurology, Department of Neurosciences, 
+McGill University Health Centre, Montreal, QC, Canada. philippe.huot@mcgill.ca.
+
+The 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned common marmoset 
+has been used extensively to model Parkinson's disease,
+L-3,4-dihydroxyphenylalanine (L-DOPA)-induced dyskinesia and, more recently,
+dopaminergic psychosis. Whereas several experimental drugs have been tested in
+this primate, many of which subsequently underwent clinical trials, efficacy
+thresholds in the marmoset that would predict efficacy in the clinic are lacking.
+Here, we aimed to determine such efficacy end points that would be indicative of 
+likely efficacy in clinical studies. To do so, we used the evidence-based
+medicine reviews published by the International Parkinson and Movement Disorder
+Society (IPMDS) to select drugs that were rated as clinically efficacious, likely
+efficacious or not efficacious for the treatment of parkinsonism, dyskinesia and 
+psychosis. We then reviewed the literature in the MPTP-lesioned marmoset and
+identified articles reporting the effects of drugs that were included in the
+IPMDS recommendations, following which we estimated efficacy thresholds in the
+marmoset that would predict efficacy at the clinical level. We propose that, when
+drugs are administered as monotherapy, ≥ 50% reduction of global parkinsonism may
+be necessary to predict the possibility of clinical efficacy. As adjunct to a low
+dose of L-DOPA, we propose that an additional reduction of global
+parkinsonism ≥ 25% might predict clinical efficacy. As adjunct to an optimal dose
+of L-DOPA, we propose that additional anti-parkinsonian benefit ≥ 20%, with
+global parkinsonism as the end point, might predict clinical efficacy. For the
+treatment of dyskinesia, we suggest that the predictability threshold be set
+at ≥ 25% reduction of peak dose dyskinesia, while we believe that this threshold 
+should be > 50% reduction of peak dose psychosis-like behaviours for
+psychosis-related end points. This article represents the first step in
+determining what efficacy might be necessary to achieve in pre-clinical studies
+in the MPTP-lesioned marmoset prior to confidently advancing drugs to clinical
+trials. We hope that it will help in the drug discovery and development process, 
+notably by avoiding exposing patients to drugs that have little probability of
+clinical efficacy based upon pre-clinical experiments.
+
+DOI: 10.1007/s00702-020-02247-2 
+PMID: 32860561  [Indexed for MEDLINE]
+
+
+273. Curr Biol. 2020 Oct 19;30(20):4047-4055.e3. doi: 10.1016/j.cub.2020.07.045. Epub 
+2020 Aug 20.
+
+Having Infants in the Family Group Promotes Altruistic Behavior of Marmoset
+Monkeys.
+
+Huang J(1), Cheng X(2), Zhang S(2), Chang L(2), Li X(2), Liang Z(3), Gong N(4).
+
+Author information: 
+(1)Institute of Neuroscience, Key Laboratory of Primate Neurobiology, CAS Center 
+for Excellence in Brain Science and Intelligence Technology, Chinese Academy of
+Sciences, Shanghai 200031, China; University of Chinese Academy of Sciences,
+Beijing 100049, China.
+(2)Institute of Neuroscience, Key Laboratory of Primate Neurobiology, CAS Center 
+for Excellence in Brain Science and Intelligence Technology, Chinese Academy of
+Sciences, Shanghai 200031, China.
+(3)Institute of Neuroscience, Key Laboratory of Primate Neurobiology, CAS Center 
+for Excellence in Brain Science and Intelligence Technology, Chinese Academy of
+Sciences, Shanghai 200031, China; Shanghai Center for Brain Science and
+Brain-Inspired Intelligence Technology, Shanghai 201210, China. Electronic
+address: zliang@ion.ac.cn.
+(4)Institute of Neuroscience, Key Laboratory of Primate Neurobiology, CAS Center 
+for Excellence in Brain Science and Intelligence Technology, Chinese Academy of
+Sciences, Shanghai 200031, China; Shanghai Center for Brain Science and
+Brain-Inspired Intelligence Technology, Shanghai 201210, China. Electronic
+address: ngong@ion.ac.cn.
+
+The common marmoset (Callithrix jacchus) has attracted much attention as a useful
+model for studying social behaviors [1-3]. They naturally live in a monogamous
+family group and exhibit cooperative breeding [4], in which parents and older
+siblings help to carry infants less than 2 months old [5-7]. Marmoset parents
+also transfer foods to their offspring, a process that may help them learn the
+food diet [8]. Furthermore, marmosets show spontaneous altruistic behaviors, such
+as providing food to non-reciprocating and genetically unrelated individuals [9].
+These social habits indicate that marmosets may be a useful non-human primate
+model for studying parenting and altruistic behaviors, as well as underlying
+neural mechanisms. Using a novel rescue paradigm, we found that marmoset parents 
+and older siblings showed strong motivation to rescue trapped young infants but
+not juvenile marmosets beyond 2 months of age, and infant calls alone could
+trigger these parents' rescue behaviors. The marmoset parents showed little
+rescue of each other, but young infants or infant calls could also induce such
+parents' mutual rescue. Moreover, all these infant- and mate-rescue behaviors
+depended on currently having young infants in the family group. Functional MRI
+studies on awake adult marmosets showed that calls from young infants, but not
+juvenile marmosets, elicited a large-scale activation of specific brain areas
+including auditory and insular cortices, and such activation was absent in
+marmosets not living with infants. Thus, such infant-induced modification of
+neural activity offers a window for examining the neural basis of altruistic
+behaviors in marmoset monkeys.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cub.2020.07.045 
+PMID: 32822603  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests The authors declare no
+competing interests.
+

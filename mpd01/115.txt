@@ -1,0 +1,105 @@
+
+
+115. BMC Ecol Evol. 2021 Jun 25;21(1):132. doi: 10.1186/s12862-021-01848-z.
+
+Vertical clinging and leaping induced evolutionary rate shifts in postcranial
+evolution of tamarins and marmosets (Primates, Callitrichidae).
+
+Botton-Divet L(1), Nyakatura JA(2).
+
+Author information: 
+(1)AG Vergleichende Zoologie, Institut Für Biologie, Humboldt-Universität Zu
+Berlin, Philippstr. 13, 10115, Berlin, Germany. leo.botton-divet@hu-berlin.de.
+(2)AG Vergleichende Zoologie, Institut Für Biologie, Humboldt-Universität Zu
+Berlin, Philippstr. 13, 10115, Berlin, Germany.
+
+BACKGROUND: Callitrichids comprise a diverse group of platyrrhine monkeys that
+are present across South and Central America. Their secondarily evolved small
+size and pointed claws allow them to cling to vertical trunks of a large
+diameter. Within callitrichids, lineages with a high affinity for vertical
+supports often engage in trunk-to-trunk leaping. This vertical clinging and
+leaping (VCL) differs from horizontal leaping (HL) in terms of the functional
+demands imposed on the musculoskeletal system, all the more so as HL often occurs
+on small compliant terminal branches. We used quantified shape descriptors (3D
+geometric morphometrics) and phylogenetically-informed analyses to investigate
+the evolution of the shape and size of the humerus and femur, and how this
+variation reflects locomotor behavior within Callitrichidae.
+RESULTS: The humerus of VCL-associated species has a narrower trochlea compared
+with HL species. It is hypothesized that this contributes to greater elbow
+mobility. The wider trochlea in HL species appears to correspondingly provide
+greater stability to the elbow joint. The femur in VCL species has a smaller head
+and laterally-oriented distal condyles, possibly to reduce stresses during
+clinging. Similarly, the expanded lesser trochanters visible in VCL species
+provide a greater lever for the leg retractors and are thus also interpreted as
+an adaptation to clinging. Evolutionary rate shifts to faster shape and size
+changes of humerus and femur occurred in the Leontocebus clade when a shift to
+slower rates occurred in the Saguinus clade.
+CONCLUSIONS: Based on the study of evolutionary rate shifts, the transition to
+VCL behavior within callitrichids (specifically the Leontocebus clade) appears to
+have been an opportunity for radiation, rather than a specialization that imposed
+constraints on morphological diversity. The study of the evolution of
+callitrichids suffers from a lack of comparative analyses of limb mechanics
+during trunk-to-trunk leaping, and future work in this direction would be of
+great interest.
+
+DOI: 10.1186/s12862-021-01848-z 
+PMCID: PMC8235625
+PMID: 34171986  [Indexed for MEDLINE]
+
+
+116. Neuron. 2021 Aug 4;109(15):2485-2498.e5. doi: 10.1016/j.neuron.2021.06.003. Epub 
+2021 Jun 24.
+
+Controlling one's world: Identification of sub-regions of primate PFC underlying 
+goal-directed behavior.
+
+Duan LY(1), Horst NK(2), Cranmore SAW(2), Horiguchi N(2), Cardinal RN(3), Roberts
+AC(4), Robbins TW(2).
+
+Author information: 
+(1)Department of Psychology, University of Cambridge, Downing Street, Cambridge
+CB2 3EB, UK; Behavioural and Clinical Neuroscience Institute, Downing Street,
+University of Cambridge, Cambridge CB2 3EB, UK. Electronic address:
+lisaduan33@gmail.com.
+(2)Department of Psychology, University of Cambridge, Downing Street, Cambridge
+CB2 3EB, UK; Behavioural and Clinical Neuroscience Institute, Downing Street,
+University of Cambridge, Cambridge CB2 3EB, UK.
+(3)Department of Psychiatry, University of Cambridge, Herchel Smith Building for 
+Brain & Mind Sciences, Forvie Site, Robinson Way, Cambridge CB2 0SZ, UK;
+Behavioural and Clinical Neuroscience Institute, Downing Street, University of
+Cambridge, Cambridge CB2 3EB, UK; Cambridgeshire and Peterborough NHS Foundation 
+Trust, Liaison Psychiatry Service, Box 190, Cambridge Biomedical Campus,
+Cambridge CB2 0QQ, UK.
+(4)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Downing Street, Cambridge CB2 3DY, UK; Behavioural and Clinical
+Neuroscience Institute, Downing Street, University of Cambridge, Cambridge CB2
+3EB, UK.
+
+Comment in
+    Neuron. 2021 Aug 4;109(15):2370-2373.
+
+Impaired detection of causal relationships between actions and their outcomes can
+lead to maladaptive behavior. However, causal roles of specific prefrontal cortex
+(PFC) sub-regions and the caudate nucleus in mediating such relationships in
+primates are unclear. We inactivated and overactivated five PFC sub-regions,
+reversibly and pharmacologically: areas 24 (perigenual anterior cingulate
+cortex), 32 (medial PFC), 11 (anterior orbitofrontal cortex, OFC), 14 (rostral
+ventromedial PFC/medial OFC), and 14-25 (caudal ventromedial PFC) and the
+anteromedial caudate to examine their role in expressing learned action-outcome
+contingencies using a contingency degradation paradigm in marmoset monkeys. Area 
+24 or caudate inactivation impaired the response to contingency change, while
+area 11 inactivation enhanced it, and inactivation of areas 14, 32, or 14-25 had 
+no effect. Overactivation of areas 11 and 24 impaired this response. These
+findings demonstrate the distinct roles of PFC sub-regions in goal-directed
+behavior and illuminate the candidate neurobehavioral substrates of psychiatric
+disorders, including obsessive-compulsive disorder.
+
+Copyright © 2021 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2021.06.003 
+PMCID: PMC8346232
+PMID: 34171290  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no
+competing interests.
+

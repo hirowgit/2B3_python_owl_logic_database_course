@@ -1,0 +1,92 @@
+
+
+741. Cereb Cortex. 2019 Mar 1;29(3):994-1005. doi: 10.1093/cercor/bhy006.
+
+Subthreshold Activity Underlying the Diversity and Selectivity of the Primary
+Auditory Cortex Studied by Intracellular Recordings in Awake Marmosets.
+
+Gao L(1)(2), Wang X(1).
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+(2)Interdisciplinary Institute of Neuroscience and Technology, Qiushi Academy for
+Advanced Studies, Zhejiang University, Hangzhou, People's Republic of China.
+
+Extracellular recording studies have revealed diverse and selective neural
+responses in the primary auditory cortex (A1) of awake animals. However, we have 
+limited knowledge on subthreshold events that give rise to these responses,
+especially in non-human primates, as intracellular recordings in awake animals
+pose substantial technical challenges. We developed a novel intracellular
+recording technique in awake marmosets to systematically study subthreshold
+activity of A1 neurons that underlies their diverse and selective spiking
+responses. Our findings showed that in contrast to predominantly transient
+depolarization observed in A1 of anesthetized animals, both transient and
+sustained depolarization (during or beyond the stimulus period) were observed.
+Comparing with spiking responses, subthreshold responses were often longer
+lasting in duration and more broadly tuned in frequency, and showed narrower
+intensity tuning in non-monotonic neurons and lower response threshold in
+monotonic neurons. These observations demonstrated the enhancement of stimulus
+selectivity from subthreshold to spiking responses in individual A1 neurons.
+Furthermore, A1 neurons classified as regular- or fast-spiking subpopulation
+based on their spike shapes exhibited distinct response properties in frequency
+and intensity domains. These findings provide valuable insights into cortical
+integration and transformation of auditory information at the cellular level in
+auditory cortex of awake non-human primates.
+
+DOI: 10.1093/cercor/bhy006 
+PMCID: PMC6373684
+PMID: 29377991  [Indexed for MEDLINE]
+
+
+742. Behav Brain Res. 2018 May 2;343:36-40. doi: 10.1016/j.bbr.2018.01.013. Epub 2018 
+Jan 31.
+
+Inequity aversion is observed in common marmosets but not in marmoset models of
+autism induced by prenatal exposure to valproic acid.
+
+Yasue M(1), Nakagami A(1), Nakagaki K(2), Ichinohe N(3), Kawai N(4).
+
+Author information: 
+(1)Graduate School of Information Science, Nagoya University, Japan; Department
+of Ultrastructural Research, National Institute of Neuroscience, National Center 
+of Neurology and Psychiatry (NCNP), Japan.
+(2)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry (NCNP), Japan.
+(3)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry (NCNP), Japan; Ichinohe Neural System
+Group, Lab for Molecular Analysis of Higher Brain Functions RIKEN BSI, Japan.
+Electronic address: nichino@ncnp.go.jp.
+(4)Graduate School of Information Science, Nagoya University, Japan; Department
+of Ultrastructural Research, National Institute of Neuroscience, National Center 
+of Neurology and Psychiatry (NCNP), Japan. Electronic address:
+kawai@is.nagoya-u.ac.jp.
+
+Humans and various nonhuman primates respond negatively to inequity not in their 
+favor (i.e., inequity aversion), when inequity between two individuals is
+introduced. Common marmosets, a highly prosocial species, further discriminated
+between human actors who reciprocated in social exchanges, and those who did not.
+Conversely, marmoset models of autism, induced via prenatal exposure to valproic 
+acid (VPA marmosets), did not discriminate. Interestingly, previous studies of
+inequity aversion in marmosets have produced negative results, or were limited to
+males. Recent studies suggest that inequity aversion is highly influenced by the 
+tasks employed. Here we show inequity aversion in both male and female marmosets 
+using a novel task which required a relatively long duration of response.
+Marmosets were required to hold a spoon for 2 s to receive a reward. Marmosets
+successfully performed the task when they observed an unfamiliar conspecific
+partner obtaining the same reward (equity test). However, when they witnessed the
+partner receiving a more attractive reward for equal effort (inequity test),
+unexposed marmosets, which were not exposed to either valproic acid or saline
+during the fetal period refused to respond. This inequity aversion was not
+observed in unexposed marmosets when the partner was absent.　In contrast,
+marmosets with fetal exposure to valproic acid (VPA marmosets) successfully
+executed the task irrespective of their partners' reward conditions. As prenatal 
+exposure to valproic acid is a well-known procedure to induce autism spectrum
+disorder (ASD)-like behaviors in rodents, we propose that VPA marmosets failed to
+show inequity aversion due to weak social motivation or interest towards others.
+
+Copyright © 2018 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbr.2018.01.013 
+PMID: 29374522  [Indexed for MEDLINE]
+

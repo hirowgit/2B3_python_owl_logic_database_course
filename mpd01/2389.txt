@@ -1,0 +1,84 @@
+
+
+2389. Mol Endocrinol. 2007 Aug;21(8):1984-96. Epub 2007 May 15.
+
+Genomic checkpoints for exon 10 usage in the luteinizing hormone receptor type 1 
+and type 2.
+
+Gromoll J(1), Lahrmann L, Godmann M, Müller T, Michel C, Stamm S, Simoni M.
+
+Author information: 
+(1)Institute of Reproductive Medicine, University Hospital, D-48129 Münster,
+Germany. Joerg.Gromoll@ukmuenster.de
+
+Alternative splicing is a hallmark of glycoprotein hormone receptor gene
+regulation, but its molecular mechanism is unknown. The LH receptor (LHR) gene
+possesses 11 exons, but exon 10 is constitutively skipped in the New World monkey
+lineage (LHR type 2), whereas it is constitutively spliced in the human (LHR type
+1). This study identifies the regulatory elements of exon 10 usage. Sequencing of
+genomic marmoset DNA revealed that the cryptic LHR exon 10 is highly homologous
+to exon 10 from other species and displays intact splice sites. Functional
+studies using a minigene approach excluded the contribution of intronic,
+marmoset-specific long interspersed nucleotide-1 elements to exon 10 skipping.
+Sequencing of the genomic regions surrounding exon 10 from several primate
+lineages, sequence comparisons including the human and mouse LHR gene, revealed
+the presence of unique nucleotides at 3'-intronic position -19 and -10 and at
+position +26 within exon 10 of the marmoset LHR. Exon trap experiments and in
+vitro mutagenesis of these nucleotides resulted in the identification of a
+composite regulatory element of splicing consisting of cis-acting elements
+represented by two polypyrimidine tracts and a trans-acting element within exon
+10, which affect the secondary RNA structure. Changes within this complex
+resulted either in constitutive exon inclusion, constitutive skipping, or
+alternative splicing of exon 10. This work delineates the molecular pathway
+leading to intronization of exon 10 in the LHR type 2 and reveals, for the first 
+time, the essential function of regulatory and structural elements involved in
+glycoprotein hormone receptor splicing.
+
+DOI: 10.1210/me.2006-0506 
+PMID: 17505059  [Indexed for MEDLINE]
+
+
+2390. Am J Primatol. 2007 Dec;69(12):1399-411.
+
+Paracellular nutrient absorption in a gum-feeding new world primate, the common
+marmoset Callithrix jacchus.
+
+McWhorter TJ(1), Karasov WH.
+
+Author information: 
+(1)Department of Wildlife Ecology, 226 Russell Labs, University of
+Wisconsin-Madison, 1630 Linden Drive, Madison, WI, USA.
+T.McWhorter@murdoch.edu.au
+
+The common marmoset is one of the few callitrichid species that is not threatened
+or endangered in the wild, and is widely used in biomedical research, yet
+relatively little is understood about its digestive physiology. Dietary
+specialization on plant exudates has lead to relatively reduced small intestines,
+yet the common marmoset has exceptional dietary breadth, allowing it to
+successfully utilize a variety of habitats. We predicted that passive,
+paracellular nutrient absorption would be used by the common marmoset to a
+greater extent than in other non-flying mammals. We measured the bioavailability 
+and rates of absorption of two metabolically inert carbohydrates not transported 
+by mediated pathways (L-rhamnose and cellobiose, molecular masses of 164 and 342,
+respectively) to measure paracellular uptake, and of a non-metabolized D-glucose 
+analog (3-O-methyl-D-glucose) to measure total uptake by both mediated and
+paracellular pathways. We found high bioavailability of 3-O-methyl-D-glucose
+(83+/-5%), and much higher bioavailability of the paracellular probes than in
+similarly sized non-flying mammals (30+/-3% and 19+/-2% for L-rhamnose and
+cellobiose, respectively). Passive, paracellular nutrient absorption accounts for
+around 30% of total glucose absorption in common marmosets and intestinal
+permeability is significantly higher than in humans, the only other species of
+primate measured to date. This may allow the common marmoset to maintain high
+digestive efficiency when feeding on higher quality foods (fruit, arthropods,
+gums with higher proportions of simple sugars), in spite of relatively reduced
+small intestines correlated with adaptations for fermentative digestion of plant 
+gums. We find no evidence to support, in primates, the hypothesis that reliance
+on paracellular nutrient absorption should increase with body size in mammals,
+but suggest instead that it may be associated with small body size and/or
+taxon-specific adaptations to diet.
+
+(c) 2007 Wiley-Liss, Inc.
+
+DOI: 10.1002/ajp.20443 
+PMID: 17487879  [Indexed for MEDLINE]
+

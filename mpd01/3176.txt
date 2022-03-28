@@ -1,0 +1,100 @@
+
+
+3176. J Neurophysiol. 2001 May;85(5):1805-22.
+
+Functional characteristics of the parallel SI- and SII-projecting neurons of the 
+thalamic ventral posterior nucleus in the marmoset.
+
+Zhang HQ(1), Murray GM, Coleman GT, Turman AB, Zhang SP, Rowe MJ.
+
+Author information: 
+(1)School of Physiology and Pharmacology, The University of New South Wales,
+Sydney, NSW 2052, Australia.
+
+The functional organization of the primate somatosensory system at
+thalamocortical levels has been a matter of controversy, in particular, over the 
+extent to which the primary and secondary somatosensory cortical areas, SI and
+SII, are organized in parallel or serial neural networks for the processing of
+tactile information. This issue was investigated for the marmoset monkey by
+recording from 55 single tactile-sensitive neurons in the lateral division of the
+ventral posterior nucleus of the thalamus (VPL) with a projection to either SI or
+SII, identified with the use of the antidromic collision technique. Neurons
+activated from the hand and distal forearm were classified according to their
+peripheral source of input and characterized in terms of their functional
+capacities to determine whether the direct thalamic input can account for tactile
+processing in both SI and SII. Both the SI- and SII-projecting samples contained 
+a slowly adapting (SA) class of neurons, sensitive to static skin displacement,
+and purely dynamically sensitive tactile neurons that could be subdivided into
+two classes. One was most sensitive to high-frequency (> or =100 Hz) cutaneous
+vibration whose input appeared to be derived from Pacinian sources, while the
+other was sensitive to lower frequency vibration (< or =100 Hz) or trains of
+rectangular mechanical pulse stimuli, that appeared to receive its input from
+rapidly adapting (RA) afferent fibers presumed to be associated with intradermal 
+tactile receptors. There appeared to be no systematic differences in functional
+capacities between SI- and SII-projecting neurons of each of these three classes,
+based on receptive field characteristics, on the form of stimulus-response
+relations, and on measures derived from these relations. These measures included 
+threshold and responsiveness values, bandwidths of vibrational sensitivity, and
+the capacity for responding to cutaneous vibrotactile stimuli with phase-locked, 
+temporally patterned impulse activity. The analysis indicates that low-threshold,
+high-acuity tactile information is conveyed directly to both SI and SII from
+overlapping regions within the thalamic VP nucleus. This direct confirmation of a
+parallel functional projection to both SI and SII in the marmoset is consistent
+with our separate studies at the cortical level that demonstrate first, that
+tactile responsiveness in SII largely survives the SI inactivation and second,
+that SI responsiveness is largely independent of SII. It therefore reinforces the
+evidence that SI and SII occupy a hierarchically equivalent network for tactile
+processing.
+
+DOI: 10.1152/jn.2001.85.5.1805 
+PMID: 11352998  [Indexed for MEDLINE]
+
+
+3177. J Neurophysiol. 2001 May;85(5):1793-804.
+
+Characterization of tactile afferent fibers in the hand of the marmoset monkey.
+
+Coleman GT(1), Bahramali H, Zhang HQ, Rowe MJ.
+
+Author information: 
+(1)School of Physiology and Pharmacology, The University of New South Wales,
+Sydney, NSW 2052, Australia.
+
+The marmoset monkey, Callithrix jacchus, has increasingly been the subject of
+experiments for the analysis of somatosensory system function in simian primates.
+However, as response properties of the mechanoreceptive afferent fibers supplying
+the skin have not been characterized for this primate, the present study was
+undertaken to classify fibers innervating the glabrous skin of the marmoset hand 
+and determine whether they resembled those described for other mammalian species,
+including cat, macaque monkey, and human subjects. Forty-seven tactile afferent
+fibers with receptive fields (RFs) on the glabrous skin of the hand were isolated
+in fine median and ulnar nerve strands. Controlled tactile stimuli, including
+static indentation and skin vibration, were used to classify fibers. Twenty-six
+(55%) responded to static indentation in a sustained manner and were designated
+slowly adapting (SA) fibers, while 21 (45%) were selectively sensitive to the
+dynamic components of the stimulus. The SA fibers had well-defined boundaries to 
+their RFs, lacked spontaneous activity in most cases (23/26 fibers), had an
+irregular pattern of discharge to static skin indentation, and displayed graded
+response levels as a function of indentation amplitude, attributes that were
+consistent with the properties of slowly adapting type I (SAI) fibers described
+in other species. The dynamically sensitive afferent fibers could be subdivided
+into two distinct functional classes, based on their responses to vibrotactile
+stimulation. The majority (15/21) responded best to lower frequency vibration
+(~10-50 Hz) and had small RFs, whereas the second class responded preferentially 
+to higher frequency vibration (50-700 Hz) with maximal sensitivity at ~200-300
+Hz. These two classes resembled, respectively, the rapidly adapting (RA) and
+Pacinian corpuscle-related (PC) fiber classes found in other species, and like
+them, responded to vibration with tightly phase-locked patterns of response over 
+a wide range of frequencies. The results demonstrate that the functional classes 
+of tactile afferent fibers that supply the glabrous skin in the marmoset monkey
+appear to correspond with those described previously for the cat and macaque
+monkey, and are similar to those supplying the human hand and fingers, although
+the SA fibers in the human hand appear to fall into two classes, the SAI and SAII
+fibers. With the increasing use of the marmoset monkey as a primate model for
+somatosensory system studies, these data now allow tactile neurons identified at 
+central locations, such as the cerebral cortex and thalamus, to be classified in 
+relation to inputs from the peripheral classes identified in the present study.
+
+DOI: 10.1152/jn.2001.85.5.1793 
+PMID: 11352997  [Indexed for MEDLINE]
+

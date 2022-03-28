@@ -1,0 +1,75 @@
+
+
+1551. Mol Ther Nucleic Acids. 2013 May 28;2:e95. doi: 10.1038/mtna.2013.21.
+
+Robust Long-term Transduction of Common Marmoset Neuromuscular Tissue With rAAV1 
+and rAAV9.
+
+Okada H(1), Ishibashi H, Hayashita-Kinoh H, Chiyo T, Nitahara-Kasahara Y, Baba Y,
+Watanabe S, Takeda S, Okada T.
+
+Author information: 
+(1)Department of Molecular Therapy, National Institute of Neuroscience, National 
+Center of Neurology and Psychiatry, Tokyo, Japan.
+
+Profiles of recombinant adeno-associated virus (rAAV)-mediated transduction show 
+interspecies differences for each AAV serotype. Robust long-term transgene
+expression is generally observed in rodents, whereas insufficient transduction is
+seen in animals with more advanced immune systems. Non-human primates, including 
+the common marmoset, could provide appropriate models for neuromuscular diseases 
+because of their higher brain functions and physiological resemblance to humans. 
+Strategies to induce pathologies in the neuromuscular tissues of non-human
+primates by rAAV-mediated transduction are promising; however, transgene
+expression patterns with rAAV transduction have not been elucidated in marmosets.
+In this study, transduction of adult marmoset skeletal muscle with rAAV9 led to
+robust and persistent enhanced green fluorescent protein (EGFP) expression that
+was independent of the muscle fiber type, although lymphocyte infiltration was
+recognized. Systemic rAAV injection into pregnant marmosets led to transplacental
+fetal transduction. Surprisingly, the intraperitoneal injection of rAAV1 and
+rAAV9 into the neonatal marmoset resulted in systemic transduction and persistent
+transgene expression without lymphocyte infiltration. Skeletal and cardiac muscle
+were effectively transduced with rAAV1 and rAAV9, respectively. Interestingly,
+rAAV9 transduction led to intense EGFP signaling in the axons of the corpus
+callosum. These transduction protocols with rAAV will be useful for investigating
+gene functions in the neuromuscular tissues and developing gene therapy
+strategies.Molecular Therapy-Nucleic Acids (2013) 2, e95;
+doi:10.1038/mtna.2013.21; published online 28 May 2013.
+
+DOI: 10.1038/mtna.2013.21 
+PMCID: PMC4817936
+PMID: 23715217 
+
+
+1552. Brain Behav Evol. 2013;81(4):209-18. doi: 10.1159/000350709. Epub 2013 May 25.
+
+Faster scaling of auditory neurons in cortical areas relative to subcortical
+structures in primate brains.
+
+Wong P(1), Peebles JK, Asplund CL, Collins CE, Herculano-Houzel S, Kaas JH.
+
+Author information: 
+(1)Department of Psychology, Vanderbilt University, Nashville, TN 37203, USA.
+
+Allometric studies in primates have shown that the cerebral cortex, cerebellum,
+and remaining brain structures increase in size as a linear function of their
+numbers of neurons and nonneuronal cells across primates. Whether such scaling
+rules also apply to functionally related structures such as those of the auditory
+system is unknown. Here, we investigate the scaling of brain structures in the
+auditory pathway of six primate species and the closely related tree shrew. Using
+the isotropic fractionator method to estimate the numbers of neurons and
+nonneuronal cells in the inferior colliculus, medial geniculate nucleus, and
+auditory cortex (Ac), we assessed how they scaled across species and examined the
+relative scaling relationships among them. As expected, each auditory structure
+scales in mass as a linear function of its number of neurons, with no significant
+changes in neuronal density across species. The Ac scales proportionately with
+the cerebral cortex as a whole, maintaining a relative mass of approximately 1%
+and a relative number of neurons of 0.7%. However, the Ac gains neurons faster
+than both subcortical structures examined. As a result, larger primate brains
+have increased ratios of cortical to subcortical neurons involved in processing
+auditory information.
+
+Copyright © 2013 S. Karger AG, Basel.
+
+DOI: 10.1159/000350709 
+PMID: 23712070  [Indexed for MEDLINE]
+

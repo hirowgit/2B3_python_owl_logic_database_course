@@ -1,0 +1,65 @@
+
+
+1485. Gene. 2014 Feb 10;535(2):345-52. doi: 10.1016/j.gene.2013.10.031. Epub 2013 Nov
+5.
+
+Phylogenetic analysis and positive-selection site detecting of vascular
+endothelial growth factor family in vertebrates.
+
+He W(1), Tang Y(2), Qi B(2), Lu C(2), Qin C(2), Wei Y(2), Yi J(3), Chen M(4).
+
+Author information: 
+(1)Department of Cardiothoracic Surgery, First Affiliated Hospital, Guangxi
+Medical University, Nanning, Guangxi, China; Department of Cardiothoracic
+Surgery, Nanchong Central Hospital, The Second Clinical College of North Sichuan 
+Medical college, Nanchong, Sichuan, PR China.
+(2)Department of Neurology, First Affiliated Hospital, Guangxi Medical
+University, Nanning, Guangxi, China.
+(3)Department of Neurology, Liugang Hospital, Liuzhou, Guangxi, China.
+(4)Department of Cardiothoracic Surgery, First Affiliated Hospital, Guangxi
+Medical University, Nanning, Guangxi, China. Electronic address: chen535@126.com.
+
+Vascular endothelial growth factor (VEGF), known to play an important role in
+vascular homeostasis, vascular integrity and angiogenesis, is little known about 
+the evolutionary relationship of its five members especially the role of gene
+duplication and natural selection in the evolution of the VEGF family. In this
+study, seventy-five full-length cDNA sequences from 33 vertebrate species were
+extracted from the NCBI's GenBank, UniProt protein database and the Ensembl
+database. By phylogenetic analyses, we investigated the origin, conservation, and
+evolution of the VEGFs. Five VEGF family members in vertebrates might be formed
+by gene duplication. The inferred evolutionary transitions that separate members 
+which belong to different gene clusters correlated with changes in functional
+properties. Selection analysis and protein structure analysis were combined to
+explain the relationship of the site-specific evolution in the vertebrate VEGF
+family. Eleven positive selection sites, one transmembrane region and the active 
+sites were detected in this process.
+
+© 2013.
+
+DOI: 10.1016/j.gene.2013.10.031 
+PMID: 24200960  [Indexed for MEDLINE]
+
+
+1486. Curr Biol. 2013 Nov 4;23(21):R967-9. doi: 10.1016/j.cub.2013.10.001.
+
+Animal communication: hidden complexity.
+
+Flack JC(1).
+
+Author information: 
+(1)Center for Complexity & Collective Computation, Wisconsin Institute for
+Discovery, Madison, WI 53715, USA; Santa Fe Institute, Santa Fe, NM 87501, USA.
+Electronic address: jflack@santafe.edu.
+
+Comment on
+    Curr Biol. 2013 Nov 4;23(21):2162-8.
+
+A hallmark of human communication is vocal turn taking. Until recently, turn
+taking was thought to be unique to humans but new data indicate that marmosets, a
+new world monkey, take turns when vocalizing too.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cub.2013.10.001 
+PMID: 24200327  [Indexed for MEDLINE]
+

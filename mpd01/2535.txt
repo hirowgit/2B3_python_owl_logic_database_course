@@ -1,0 +1,69 @@
+
+
+2535. J Neuroimmunol. 2006 Jul;176(1-2):39-50. Epub 2006 Jun 5.
+
+Differential expression of major histocompatibility complex class I molecules in 
+the brain of a New World monkey, the common marmoset (Callithrix jacchus).
+
+Rölleke U(1), Flügge G, Plehm S, Schlumbohm C, Armstrong VW, Dressel R,
+Uchanska-Ziegler B, Ziegler A, Fuchs E, Czéh B, Walter L.
+
+Author information: 
+(1)Department of Primate Genetics, German Primate Center, Göttingen, Germany.
+
+It has been supposed that central nervous neurons do not express MHC class I
+molecules. However, recent studies clearly demonstrated functional MHC class I
+expression in the rodent brain. In the present study, we have extended these
+studies and investigated the presence of MHC class I transcripts and proteins in 
+the brain of a non-human primate species, the common marmoset monkey (Callithrix 
+jacchus). Using in-situ hybridization, we found strong expression of MHC class I 
+transcripts in neocortex, hippocampal formation, substantia nigra and nucleus
+ruber. In-situ hybridization with emulsion autoradiography demonstrated MHC class
+I mRNA in distinct pyramidal neurons of cortex and hippocampus, in granule
+neurons of the dentate gyrus, in dopaminergic neurons of substantia nigra and in 
+motor neurons of nucleus ruber. Immunocytochemistry confirmed MHC class I protein
+expression in these neurons. Two monoclonal antibodies, MRC-Ox18 and HB115,
+reacted differentially with MHC class I proteins on neuronal and non-neuronal
+cells, respectively. Interestingly, in marmoset monkeys that were
+immunosuppressed with FK506 (tacrolimus), expression of neuronal MHC class I
+proteins, which could be detected with MRC-Ox18, was either very low (neocortex, 
+nucleus ruber, substantia nigra) or absent (hippocampus). In contrast, class I
+expression in endothelial cells, which was detected by HB115, was not affected by
+immunosuppression. Our data show that selected neurons in the brain of a
+non-human primate express MHC class I molecules and that this expression can be
+modulated by immunosuppression.
+
+DOI: 10.1016/j.jneuroim.2006.04.015 
+PMID: 16750573  [Indexed for MEDLINE]
+
+
+2536. J Cereb Blood Flow Metab. 2007 Feb;27(2):293-303. Epub 2006 May 24.
+
+From homogeneous to fractal normal and tumorous microvascular networks in the
+brain.
+
+Risser L(1), Plouraboué F, Steyer A, Cloetens P, Le Duc G, Fonta C.
+
+Author information: 
+(1)IMFT UMR5502 CNRS-INPT/UPS, Toulouse, France.
+
+We studied normal and tumorous three-dimensional (3D) microvascular networks in
+primate and rat brain. Tissues were prepared following a new preparation
+technique intended for high-resolution synchrotron tomography of microvascular
+networks. The resulting 3D images with a spatial resolution of less than the
+minimum capillary diameter permit a complete description of the entire vascular
+network for volumes as large as tens of cubic millimeters. The structural
+properties of the vascular networks were investigated by several multiscale
+methods such as fractal and power-spectrum analysis. These investigations gave a 
+new coherent picture of normal and pathological complex vascular structures. They
+showed that normal cortical vascular networks have scale-invariant fractal
+properties on a small scale from 1.4 mum up to 40 to 65 mum. Above this
+threshold, vascular networks can be considered as homogeneous. Tumor vascular
+networks show similar characteristics, but the validity range of the fractal
+regime extend to much larger spatial dimensions. These 3D results shed new light 
+on previous two dimensional analyses giving for the first time a direct
+measurement of vascular modules associated with vessel-tissue surface exchange.
+
+DOI: 10.1038/sj.jcbfm.9600332 
+PMID: 16736048  [Indexed for MEDLINE]
+

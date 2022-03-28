@@ -1,0 +1,55 @@
+
+
+825. Biochem Pharmacol. 2017 Nov 15;144:149-161. doi: 10.1016/j.bcp.2017.08.004. Epub 
+2017 Aug 9.
+
+Insight into the mode of action and selectivity of PBRM, a covalent steroidal
+inhibitor of 17β-hydroxysteroid dehydrogenase type 1.
+
+Trottier A(1), Maltais R(1), Ayan D(1), Barbeau X(2), Roy J(1), Perreault M(1),
+Poulin R(1), Lagüe P(3), Poirier D(4).
+
+Author information: 
+(1)Laboratory of Medicinal Chemistry, Endocrinology and Nephrology Unit, CHU de
+Québec - Research Center (CHUL, T4), Québec, QC, Canada.
+(2)Département de Chimie, Institut de Biologie Intégrative et Des Systèmes
+(IBIS), and Centre de Recherche sur la Fonction, la Structure et l'Ingénierie des
+Protéines (PROTEO), Université Laval, Québec, QC, Canada.
+(3)Département de Biochimie Microbiologie et Bio-informatique, Institut de
+Biologie Intégrative et des Systèmes (IBIS), and Centre de Recherche sur la
+Fonction, la Structure et l'Ingénierie des Protéines (PROTEO), Université Laval, 
+Québec, QC, Canada.
+(4)Laboratory of Medicinal Chemistry, Endocrinology and Nephrology Unit, CHU de
+Québec - Research Center (CHUL, T4), Québec, QC, Canada; Department of Molecular 
+Medicine, Faculty of Medicine, Université Laval, Québec, QC, Canada. Electronic
+address: donald.poirier@crchul.ulaval.ca.
+
+17β-Hydroxysteroid dehydrogenase type 1 (17β-HSD1) is involved in the
+biosynthesis of estradiol, the major bioactive endogenous estrogen in mammals,
+and constitutes an interesting therapeutic target for estrogen-dependent
+diseases. A steroidal derivative,
+3-{[(16β,17β)-3-(2-bromoethyl)-17-hydroxyestra-1,3,5(10)-trien-16-yl]methyl}
+benzamide (PBRM), has recently been described as a non-estrogenic, irreversible
+inhibitor of 17β-HSD1. However, the mode of action of this inhibitor and its
+selectivity profile have not yet been elucidated. We assessed PBRM potency via in
+vitro kinetic measurements. The mechanism of enzyme inactivation was also
+investigated using interspecies (human, mouse, pig and monkey) comparisons via
+both in vitro assays and in silico analysis. Mouse and human plasma protein
+binding of PBRM was determined, whereas its selectivity of action was studied
+using a wide range of potential off-targets (e.g. GPCR, hERG, CYPs, etc.). The
+affinity constant (Ki=368nM) and the enzyme inactivation rate (kinact=0.087min-1)
+values for PBRM were determined with purified 17β-HSD1. PBRM was found to be
+covalently linked to the enzyme. A long delay period (i.e. 3-5days) is required
+to recover 17β-HSD1 activity following a pretreatment of breast and placenta cell
+lines with PBRM. Mechanistic analyses showed important interspecies differences
+of 17β-HSD1 inhibition which support the importance of inactivation for PBRM
+effect. Evidences of the potency and selectivity of action presented herein for
+this first non-estrogenic and steroidal covalent irreversible inhibitor of
+17β-HSD1 warrant its further development as a potential drug candidate for
+estrogen-dependent disorders.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2017.08.004 
+PMID: 28800957  [Indexed for MEDLINE]
+

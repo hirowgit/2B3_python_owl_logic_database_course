@@ -1,0 +1,31 @@
+
+
+3044. J Mol Evol. 2002 Jul;55(1):92-103.
+
+SRY evolution in Cebidae (Platyrrhini: Primates).
+
+Moreira MA(1).
+
+Author information: 
+(1)Praça da Cruz Vermelha 23, Sexto Andar-Genetics Division, Instituto Nacional
+de Câncer, Rio de Janeiro, RJ, Brazil 20230-130. genetics@inca.org.br
+
+Sex determination in mammals is dependent on the presence of SRY, which codes for
+a protein with a DNA binding motif (the HMG-box domain). Here we analyze the
+evolution of SRY among seven genera of New World monkeys belonging to the family 
+Cebidae. Estimates of the number of synonymous and nonsynonymous substitutions
+indicated the absence of positive selection acting on SRY evolution. The presence
+of indels at the C-terminus coding region in different genera and species
+maintained an open reading frame, indicating a selective pressure constraining
+the evolution of this coding region. Available data on the fertility of natural
+and captive interspecific hybrids failed to show any relationship between SRY
+evolution and speciation for the genera herein studied. Our phylogenetic
+arrangement for Cebidae genera was similar to previous topologies based on
+mitochondrial and autosomal DNA sequences. This arrangement also corroborated the
+division of Cebus into two species groups. However, for Callithrix the
+differences among SRY topology and those derived from autosomal and mitochondrial
+genes suggested a Y-chromosome ancestral polymorphism.
+
+DOI: 10.1007/s00239-001-2308-7 
+PMID: 12165846  [Indexed for MEDLINE]
+

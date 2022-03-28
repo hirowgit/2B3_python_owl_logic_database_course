@@ -1,0 +1,52 @@
+
+
+471. Proc Natl Acad Sci U S A. 2019 Jul 16;116(29):14761-14768. doi:
+10.1073/pnas.1902087116. Epub 2019 Jul 2.
+
+Insula serotonin 2A receptor binding and gene expression contribute to serotonin 
+transporter polymorphism anxious phenotype in primates.
+
+Santangelo AM(1)(2), Sawiak SJ(3)(2)(4), Fryer T(4), Hong Y(4), Shiba Y(3),
+Clarke HF(3)(2), Riss PJ(4), Ferrari V(4), Tait R(2), Suckling J(4), Aigbirhio
+FI(4), Roberts AC(3)(2).
+
+Author information: 
+(1)Department of Physiology, Development and Neuroscience, University of
+Cambridge, CB2 3DY Cambridge, United Kingdom; as966@cam.ac.uk.
+(2)Behavioural and Clinical Neuroscience Institute, University of Cambridge, CB2 
+3EB Cambridge, United Kingdom.
+(3)Department of Physiology, Development and Neuroscience, University of
+Cambridge, CB2 3DY Cambridge, United Kingdom.
+(4)Department of Clinical Neuroscience, Wolfson Brain Imaging Centre, University 
+of Cambridge, CB2 0QQ, United Kingdom.
+
+Genetic variation in the serotonin transporter gene (SLC6A4) is associated with
+vulnerability to affective disorders and pharmacotherapy efficacy. We recently
+identified sequence polymorphisms in the common marmoset SLC6A4 repeat region
+(AC/C/G and CT/T/C) associated with individual differences in anxiety-like trait,
+gene expression, and response to antidepressants. The mechanisms underlying the
+effects of these polymorphisms are unknown, but a key mediator of serotonin
+action is the serotonin 2A receptor (5HT2A). Thus, we correlated 5HT2A binding
+potential (BP) and RNA gene expression in 16 SLC6A4 genotyped marmosets with
+responsivity to 5HT2A antagonism during the human intruder test of anxiety.
+Voxel-based analysis and RNA measurements showed a reduction in 5HT2A BP and gene
+expression specifically in the right posterior insula of individuals homozygous
+for the anxiety-related variant AC/C/G. These same marmosets displayed an
+anxiogenic, dose-dependent response to the human intruder after 5HT2A
+pharmacological antagonism, while CT/T/C individuals showed no effect. A
+voxel-based correlation analysis, independent of SLC6A4 genotype, revealed that
+5HT2A BP in the adjacent right anterior insula and insula proisocortex was
+negatively correlated with trait anxiety scores. Moreover, 5HT2A BP in both
+regions was a good predictor of the size and direction of the acute emotional
+response to the human intruder threat after 5HT2A antagonism. Our findings
+suggest that genetic variation in the SLC6A4 repeat region may contribute to the 
+trait anxious phenotype via neurochemical changes in brain areas implicated in
+interoceptive and emotional processing, with a critical role for the right insula
+5HT2A in the regulation of affective responses to threat.
+
+DOI: 10.1073/pnas.1902087116 
+PMCID: PMC6642374
+PMID: 31266890  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

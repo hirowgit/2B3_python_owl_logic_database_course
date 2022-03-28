@@ -1,0 +1,40 @@
+
+
+147. Sci Rep. 2021 Apr 28;11(1):9138. doi: 10.1038/s41598-021-88357-7.
+
+Location and temporal memory of objects declines in aged marmosets (Callithrix
+jacchus).
+
+De Castro V(1)(2), Girard P(3)(4).
+
+Author information: 
+(1)Centre de Recherche Cerveau et Cognition (CerCo), Toulouse, France.
+vanessa.decastro@cnrs.fr.
+(2)Centre National de la Recherche Scientifique (CNRS) - UMR 5549, Toulouse,
+France. vanessa.decastro@cnrs.fr.
+(3)Centre de Recherche Cerveau et Cognition (CerCo), Toulouse, France.
+pascal.girard@cnrs.fr.
+(4)Institut national de la santé et de la recherche médicale (INSERM), Toulouse, 
+France. pascal.girard@cnrs.fr.
+
+Episodic memory decline is an early marker of cognitive aging in human. Although 
+controversial in animals and called "episodic-like memory", several models have
+been successfully developed, however they rarely focused on ageing. While
+marmoset is an emerging primate model in aging science, episodic-like memory has 
+never been tested in this species and importantly in aged marmosets. Here, we
+examined if the recall of the what-when and what-where building blocks of
+episodic-like memory declines in ageing marmosets. We developed a naturalistic
+approach using spontaneous exploration of real objects by young and old marmosets
+in the home cage. We implemented a three-trial task with 1 week inter-trial
+interval. Two different sets of identical objects were presented in sample trials
+1 and 2, respectively. For the test trial, two objects from each set were
+presented in a former position and two in a new one. We quantified the
+exploratory behaviour and calculated discrimination indices in a cohort of 20
+marmosets. Young animals presented a preserved memory for combined what-where,
+and what-when components of the experiment, which declined with aging. These
+findings lead one to expect episodic-like memory deficits in aged marmosets.
+
+DOI: 10.1038/s41598-021-88357-7 
+PMCID: PMC8080792
+PMID: 33911122  [Indexed for MEDLINE]
+

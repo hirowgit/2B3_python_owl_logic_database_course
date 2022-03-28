@@ -1,0 +1,46 @@
+
+
+3931. Psychopharmacology (Berl). 1995 Feb;117(3):275-86.
+
+Differential anti-parkinsonian effects of benzazepine D1 dopamine agonists with
+varying efficacies in the MPTP-treated common marmoset.
+
+Gnanalingham KK(1), Erol DD, Hunter AJ, Smith LA, Jenner P, Marsden CD.
+
+Author information: 
+(1)Parkinson's Disease Society Experimental Research Laboratories, King's College
+London, UK.
+
+In common marmosets systemically treated with MPTP
+(1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine), the behavioural effects of
+benzazepine D1 dopamine (DA) agonists with full/supramaximal (SKF 80723 and SKF
+82958), partial (SKF 38393, SKF 75670 and SKF 83565) and no efficacies (SKF
+83959) in stimulating adenylate cyclase (AC) activity were investigated. The
+benzazepine derivatives, with the exception of SKF 82958 (8 fold D1 DA receptor
+selectivity), demonstrated high D1 DA receptor affinity and selectivity
+(approximately 100 fold or more) in rat striatal homogenates. Administration of
+MPTP in marmosets induced locomotor hypoactivity, rigidity and motor disability. 
+SKF 38393 (7,8-dihydroxy-1-phenyl-2,3,4,5-tetrahydro-1H-3- benzazepine) and SKF
+75670 (3-CH3 analogue) further reduced locomotor activity (by -70 to -80%) and
+increased motor disability (by +22 to +67%) in these animals. SKF 83565 (6-Cl,
+3-CH3, 3'-Cl analogue) and SKF 82958 (6-Cl, 3-C3H5 analogue) had only a slight
+effect on locomotor activity but decreased motor disability at high doses (-46 to
+-60%). In contrast, SKF 83959 (6-Cl, 3-CH3, 3'-CH3 analogue) and SKF 80723 (6-Br 
+analogue) produced pronounced increases in locomotion (6-10 fold) and a reversal 
+in motor disability (by -64 to -77%). Oral activity, consisting largely of
+abnormal, 'dyskinetic' tongue protrusions and vacuous chews, was increased in
+animals treated with SKF 38393, SKF 83565, SKF 82958 and more especially with SKF
+80723 and SKF 83959. Grooming was increased with SKF 82958 and more especially
+with SKF 80723 and SKF 83959. In contrast, quinpirole (D2 DA agonist), reversed
+the MPTP-induced motor deficits in the marmoset, with no effect on grooming and
+oral activity. The present findings further demonstrate the antiparkinsonian
+actions of some D1 DA agonists in MPTP-treated primates. However, in general the 
+behavioural effects of benzazepines failed to correlate with either their D1 DA
+receptor affinity/selectivity or their efficacy in stimulating adenylate cyclase 
+(AC) activity. These observations further implicate a behavioural role for D1 DA 
+receptors uncoupled to AC and/or a role for extrastriatal D1 DA receptors in
+mediating the behavioural response to D1 DA agonists.
+
+DOI: 10.1007/BF02246102 
+PMID: 7770603  [Indexed for MEDLINE]
+

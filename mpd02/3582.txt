@@ -1,0 +1,36 @@
+
+
+3582. J Gen Virol. 1998 May;79 ( Pt 5):1257-64.
+
+Overexpression, purification and helix-destabilizing properties of Epstein-Barr
+virus ssDNA-binding protein.
+
+Tsurumi T(1), Kishore J, Yokoyama N, Fujita M, Daikoku T, Yamada H, Yamashita Y, 
+Nishiyama Y.
+
+Author information: 
+(1)Laboratory of Viral Oncology, Aichi Cancer Center Research Institute, Nagoya, 
+Japan. ttsurumi@aichi-cc.pref.aichi.jp
+
+The Epstein-Barr virus (EBV) ssDNA-binding protein (SSB) encoded by the BALF2
+gene is one of the essential replication proteins in the lytic phase of EBV DNA
+replication. In order to obtain the amount of EBV SSB required for
+characterization, a recombinant baculovirus containing the complete sequence of
+the BALF2 open reading frame under the control of the baculovirus polyhedrin
+promoter was constructed. Insect cells infected with the recombinant virus
+produced a protein of 130 kDa, recognized by anti-BALF2 protein-specific
+polyclonal antibody. The overexpressed EBV SSB was purified homogeneously from
+the cytosolic fraction of the recombinant virus-infected cells. The purified
+protein displaced short DNA strands from their complementary sequences in the
+single-stranded form of M13. The helix-destabilizing activity was neutralized by 
+the anti-BALF2 protein-specific antibody. Maximum unwinding occurred at EBV SSB
+concentrations exceeding saturation level of the DNA substrate. The DNA unwinding
+reaction mediated by the EBV SSB was highly cooperative and extremely rapid. The 
+reaction displayed no directionality and required neither ATP nor MgCl2, two
+essential cofactors for DNA helicase activity. The helix-destabilizing property
+of the EBV SSB may function to melt out secondary structures on the ssDNA
+template, thereby facilitating the movement of the EBV DNA polymerase.
+
+DOI: 10.1099/0022-1317-79-5-1257 
+PMID: 9603341  [Indexed for MEDLINE]
+

@@ -1,0 +1,37 @@
+
+
+2774. Epilepsia. 2004 Oct;45(10):1240-7.
+
+fMRI of generalized absence status epilepticus in conscious marmoset monkeys
+reveals corticothalamic activation.
+
+Tenney JR(1), Marshall PC, King JA, Ferris CF.
+
+Author information: 
+(1)Center for Comparative Neuroimaging, Department of Psychiatry, University of
+Massachusetts Medical School, Worcester, Massachusetts, USA.
+jeffrey.tenney@umassmed.edu
+
+PURPOSE: A nonhuman primate model of generalized absence status epilepticus was
+developed for use in functional magnetic resonance imaging (fMRI) experiments to 
+elucidate the brain mechanisms underlying this disorder.
+METHODS: Adult male marmoset monkeys (Callithrix jacchus) were treated with
+gamma-butyrolactone (GBL) to induce prolonged absence seizures, and the resulting
+spike-wave discharges (SWDs) were analyzed to determine the similarity to the
+3-Hz SWDs that characterize the disorder. In addition,
+blood-oxygenation-level-dependent (BOLD) fMRI was measured at 4.7 Tesla after
+absence seizure induction with GBL.
+RESULTS: Electroencephalographic recordings during imaging showed 3-Hz SWDs
+typical of human absence seizures. This synchronized EEG pattern started within
+15 to 20 min of drug administration and persisted for >60 min. In addition,
+pretreatment with the antiepileptic drug, ethosuximide (ESM), blocked the
+behavioral and EEG changes caused by GBL. Changes in BOLD signal intensity in the
+thalamus and sensorimotor cortex correlated with the onset of 3-Hz SWDs. The
+change in BOLD signal intensity was bilateral but heterogeneous, affecting some
+brain areas more than others. No significant negative BOLD changes were seen.
+CONCLUSIONS: The BOLD fMRI data obtained in this marmoset monkey model of absence
+status epilepticus shows activation within the thalamus and cortex.
+
+DOI: 10.1111/j.0013-9580.2004.21504.x 
+PMID: 15461678  [Indexed for MEDLINE]
+

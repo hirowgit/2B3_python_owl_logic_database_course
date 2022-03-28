@@ -1,0 +1,116 @@
+
+
+46. Retrovirology. 2021 Nov 10;18(1):36. doi: 10.1186/s12977-021-00580-2.
+
+An ancient retroviral RNA element hidden in mammalian genomes and its involvement
+in co-opted retroviral gene regulation.
+
+Kitao K(1), Nakagawa S(2), Miyazawa T(3).
+
+Author information: 
+(1)Laboratory of Virus-Host Coevolution, Institute for Frontier Life and Medical 
+Sciences, Kyoto University, 53 Shogoin-Kawaharacho, Sakyo-ku, Kyoto, 606-8507,
+Japan.
+(2)Department of Molecular Life Science, Tokai University School of Medicine,
+Isehara, Kanagawa, 259-1193, Japan.
+(3)Laboratory of Virus-Host Coevolution, Institute for Frontier Life and Medical 
+Sciences, Kyoto University, 53 Shogoin-Kawaharacho, Sakyo-ku, Kyoto, 606-8507,
+Japan. takavet@infront.kyoto-u.ac.jp.
+
+BACKGROUND: Retroviruses utilize multiple unique RNA elements to control RNA
+processing and translation. However, it is unclear what functional RNA elements
+are present in endogenous retroviruses (ERVs). Gene co-option from ERVs sometimes
+entails the conservation of viral cis-elements required for gene expression,
+which might reveal the RNA regulation in ERVs.
+RESULTS: Here, we characterized an RNA element found in ERVs consisting of three 
+specific sequence motifs, called SPRE. The SPRE-like elements were found in
+different ERV families but not in any exogenous viral sequences examined. We
+observed more than a thousand of copies of the SPRE-like elements in several
+mammalian genomes; in human and marmoset genomes, they overlapped with
+lineage-specific ERVs. SPRE was originally found in human syncytin-1 and
+syncytin-2. Indeed, several mammalian syncytin genes: mac-syncytin-3 of macaque, 
+syncytin-Ten1 of tenrec, and syncytin-Car1 of Carnivora, contained the SPRE-like 
+elements. A reporter assay revealed that the enhancement of gene expression by
+SPRE depended on the reporter genes. Mutation of SPRE impaired the wild-type
+syncytin-2 expression while the same mutation did not affect codon-optimized
+syncytin-2, suggesting that SPRE activity depends on the coding sequence.
+CONCLUSIONS: These results indicate multiple independent invasions of various
+mammalian genomes by retroviruses harboring SPRE-like elements. Functional
+SPRE-like elements are found in several syncytin genes derived from these
+retroviruses. This element may facilitate the expression of viral genes, which
+were suppressed due to inefficient codon frequency or repressive elements within 
+the coding sequences. These findings provide new insights into the long-term
+evolution of RNA elements and molecular mechanisms of gene expression in
+retroviruses.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12977-021-00580-2 
+PMCID: PMC8579622
+PMID: 34753509  [Indexed for MEDLINE]
+
+
+47. Tissue Eng Regen Med. 2022 Feb;19(1):93-103. doi: 10.1007/s13770-021-00387-4.
+Epub 2021 Nov 6.
+
+Synergistic Promoting Effects of X-Linked Inhibitor of Apoptosis Protein and
+Matrix on the In Vitro Follicular Maturation of Marmoset Follicles.
+
+Kim YY(1)(2), Yun JW(3), Kim SW(1)(2)(4), Kim H(1)(2)(4), Kang BC(5), Ku
+SY(6)(7)(8).
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Seoul National University Hospital,
+101 Daehak-ro, Jongno-gu, Seoul, 03080, Korea.
+(2)Institute of Reproductive Medicine and Population, Medical Research Center,
+Seoul National University, 103 Daehak-ro, Jongno-gu, Seoul, 03080, Korea.
+(3)Department of Medical and Biological Sciences, The Catholic University of
+Korea, 327 Sosa-ro, Bucheon, 14662, Korea.
+(4)Department of Obstetrics and Gynecology, Seoul National University College of 
+Medicine, 103 Daehak-ro, Jongno-gu, Seoul, 03080, Korea.
+(5)Department of Medicine, Seoul National University College of Medicine, 103
+Daehak ro, Jongno-gu, Seoul, 03080, Korea.
+(6)Department of Obstetrics and Gynecology, Seoul National University Hospital,
+101 Daehak-ro, Jongno-gu, Seoul, 03080, Korea. jyhsyk@snu.ac.kr.
+(7)Institute of Reproductive Medicine and Population, Medical Research Center,
+Seoul National University, 103 Daehak-ro, Jongno-gu, Seoul, 03080, Korea.
+jyhsyk@snu.ac.kr.
+(8)Department of Obstetrics and Gynecology, Seoul National University College of 
+Medicine, 103 Daehak-ro, Jongno-gu, Seoul, 03080, Korea. jyhsyk@snu.ac.kr.
+
+BACKGROUND: In vitro follicular maturation (IVFM) of ovarian follicles is an
+emerging option for fertility preservation. Many paracrine factors and
+two-dimensional or three-dimensional (3D) environments have been used for
+optimization. However, since most studies were conducted using the murine model, 
+the physiological differences between mice and humans limit the interpretation
+and adaptation of the results. Marmoset monkey is a non-human primate (NHPs) with
+more similar reproductive physiology to humans. In this study, we attempted to
+establish a 3D matrix (Matrtigel)-based IVFM condition for marmoset ovarian
+follicles in combination with anti-apoptotic factor, X-linked inhibitor of
+apoptosis protein (XIAP).
+METHODS: Marmoset follicles were isolated as individual follicles and cultured in
+a single drop with the addition of 0, 10, and 100 μg/mL of XIAP molecules.
+Matured oocytes and granulosa cells from mature follicles were collected and
+analyzed. The average number of isolated follicles was less than 100, and
+primordial and antral follicles were abundant in the ovaries.
+RESULTS: IVFM of marmoset follicles in 3D matrix conditions with XIAP increased
+the rates of survival and in vitro follicle development. Furthermore, oocytes
+from the 3D cultures were successfully fertilized and developed in vitro. The
+addition of XIAP increased the secretion of estradiol and aromatase. Furthermore,
+expression of granulosa-specific genes, such as bone morphogenetic protein 15,
+Oct4, and follicle-stimulating hormone receptor were upregulated in the in
+vitro-matured follicles than in normal, well-grown, and atretic follicles.
+Apoptosis-related B-cell lymphoma-2 was highly expressed in the atretic follicles
+than in the XIAP-treated follicles, and higher caspase-3 was localized in the
+XIAP-treated follicles.
+CONCLUSION: In this study, we attempted to establish a 3D-matrix-based marmoset
+IVFM condition and demonstrated the synergistic effects of XIAP. The use of a 3D 
+matrix may be applied as an optimal culture condition for marmoset ovarian
+follicles.
+
+© 2021. The Korean Tissue Engineering and Regenerative Medicine Society.
+
+DOI: 10.1007/s13770-021-00387-4 
+PMCID: PMC8782987 [Available on 2022-11-06]
+PMID: 34741748  [Indexed for MEDLINE]
+

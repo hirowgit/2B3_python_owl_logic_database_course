@@ -1,0 +1,32 @@
+
+
+2798. Virology. 2004 Aug 15;326(1):67-78.
+
+Characterization of the Herpesvirus saimiri Orf51 protein.
+
+Means RE(1).
+
+Author information: 
+(1)Department of Pathology, Yale University School of Medicine, 333 Cedar Street,
+New Haven, CT 06510, USA. robert_means@hms.harvard.edu
+
+Herpesvirus saimiri (HVS) is a gamma(2)-herpesvirus sharing genomic colinearity
+and a high degree of functional homology with HHV-8. To begin exploring the
+correlates of HVS infectivity and neutralization, we designed and implemented a
+new reporter assay. Using this assay, we could demonstrate that HVS neutralizing 
+antibodies are present at high levels in naturally infected squirrel monkeys and 
+are strongly induced after pathogenic, experimental infection of common
+marmosets. Further, we demonstrated that viral entry is influenced by cellular
+glycosaminoglycans and that, similar to HHV-8, soluble heparin is capable of
+blocking infectivity. We next cloned and characterized the positional homologue
+of HHV-8 K8.1, HVS Orf51. N-glycosidase F treatment indicates that like K8.1,
+Orf51 is a glycoprotein. Found in the viral particle, it localizes to the
+endoplasmic reticulum of expressing cells. Like K8.1, Orf51 could bind to
+agarose-conjugated heparin, implicating this molecule in viral attachment to
+cells. These studies provide the groundwork for additional experiments into the
+role that this protein may be playing in viral pathogenicity, persistence, and
+cell tropism.
+
+DOI: 10.1016/j.virol.2004.05.015 
+PMID: 15262496  [Indexed for MEDLINE]
+

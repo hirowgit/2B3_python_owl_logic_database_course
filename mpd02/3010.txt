@@ -1,0 +1,30 @@
+
+
+3010. J Immunol. 2002 Nov 15;169(10):5405-9.
+
+Cutting edge: inhibiting measles virus infection but promoting reproduction: an
+explanation for splicing and tissue-specific expression of CD46.
+
+Riley RC(1), Tannenbaum PL, Abbott DH, Atkinson JP.
+
+Author information: 
+(1)Division of Rheumatology, Washington University School of Medicine, 660 South 
+Euclid Avenue, St. Louis, MO 63110, USA.
+
+Membrane cofactor protein (MCP; CD46) regulates the complement cascade by
+inhibiting C3b and C4b deposited on self tissue. This function resides in the
+complement control protein repeats (CCPs), with CCPs 2-4 essential for
+regulation. MCP is expressed on the inner acrosomal membrane of human sperm, and 
+Abs to CCP1 inhibit sperm-egg interactions. In somatic tissues, New World monkeys
+express an alternatively spliced form of MCP lacking CCP1. Although retaining
+complement-regulatory activity, this form is postulated to render these species
+less susceptible to strains of the measles virus whose hemagglutinin requires
+CCP1 and CCP2 for attachment. Using PCR, sequencing, Western blotting, and
+immunohistochemistry, we characterized MCP expression in the testes and sperm of 
+two New World monkeys. In these species, sperm express MCP bearing CCP1. The germ
+cell-specific expression pattern of this domain strongly suggests an
+evolutionarily conserved role for MCP in fertilization.
+
+DOI: 10.4049/jimmunol.169.10.5405 
+PMID: 12421914  [Indexed for MEDLINE]
+

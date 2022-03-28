@@ -1,0 +1,112 @@
+
+
+642. PLoS One. 2018 Sep 27;13(9):e0204580. doi: 10.1371/journal.pone.0204580.
+eCollection 2018.
+
+Immortalization of common marmoset monkey fibroblasts by piggyBac transposition
+of hTERT.
+
+Petkov S(1)(2), Kahland T(1), Shomroni O(3), Lingner T(3), Salinas G(3), Fuchs
+S(4), Debowski K(1), Behr R(1)(2).
+
+Author information: 
+(1)Platform Degenerative Diseases, German Primate Center- Leibniz Institute for
+Primate Research, Göttingen, Germany.
+(2)DZHK (German Center for Cardiovascular Research), Partner Site Göttingen,
+Göttingen, Germany.
+(3)Microarray and Deep-Sequencing Core Facility, University Medical Center
+Göttingen (UMG), Göttingen, Germany.
+(4)Department of Human Genetics, University Medical Center Hamburg-Eppendorf,
+Hamburg, Germany.
+
+Following a certain type-specific number of mitotic divisions, terminally
+differentiated cells undergo proliferative senescence, thwarting efforts to
+expand different cell populations in vitro for the needs of scientific research
+or medical therapies. The primary cause of this phenomenon is the progressive
+shortening of the telomeres and the subsequent activation of cell cycle control
+pathways leading to a block of cell proliferation. Restoration of telomere length
+by transgenic expression of telomerase reverse transcriptase (TERT) usually
+results in bypassing of the replicative senescence and ultimately in cell
+immortalization. To date, there have not been any reports regarding
+immortalization of cells from common marmoset (Callithrix jacchus), an important 
+non-human primate model for various human diseases, with the use of exogenous
+human TERT (hTERT). In this study, marmoset fibroblasts were successfully
+immortalized with transposon-integrated transgenic hTERT and expanded in vitro
+for over 500 population doublings. Calculation of population doubling levels
+(PDL) showed that the derived hTERT-transgenic lines had significantly higher
+proliferation potential than the wild-type fibroblasts, which reached only a
+maximum of 46 doublings. However, the immortalized cells exhibited differences in
+the morphology compared with the control fibroblasts and transcriptome analysis
+also revealed changes in the gene expression patterns. Finally, the karyotypes of
+all hTERT-transgenic cell lines showed various aberrations such as presence of
+extra Chromosome 17, isochromosome 21q, or tetraploidy. By single-cell expansion 
+of the least affected monoclonal immortalized line, one sub-clonal line with
+normal karyotype was established, suggesting the possibility to derive immortal
+marmoset cells with normal karyotypes. The results of this study are an important
+step towards the development and optimization of methods for the production of
+immortalized cells from common marmoset monkeys.
+
+DOI: 10.1371/journal.pone.0204580 
+PMCID: PMC6160115
+PMID: 30261016  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+643. Malar J. 2018 Sep 24;17(1):338. doi: 10.1186/s12936-018-2485-0.
+
+Frozen blood clots can be used for the diagnosis of distinct Plasmodium species
+in man and non-human primates from the Brazilian Atlantic Forest.
+
+de Abreu FVS(1)(2), Gomes LR(3)(4), Mello ARL(3)(4), Bianco-Júnior C(3)(4), de
+Pina-Costa A(4)(5)(6), Dos Santos E(7), Teixeira DS(8), Brasil P(4)(5),
+Daniel-Ribeiro CT(3)(4), Lourenço-de-Oliveira R(9)(10), de Fátima
+Ferreira-da-Cruz M(11)(12).
+
+Author information: 
+(1)Laboratório de Mosquitos Transmissores de Hematozoários, Instituto Oswaldo
+Cruz, Fiocruz, Rio de Janeiro, Brazil.
+(2)Instituto Federal do Norte de Minas Gerais Campus Salinas, Minas Gerais,
+Brazil.
+(3)Laboratório de Pesquisa em Malária, Instituto Oswaldo Cruz, Fiocruz, Rio de
+Janeiro, Brazil.
+(4)Centro de Pesquisa, Diagnóstico e Treinamento em Malária, Instituto Oswaldo
+Cruz, Fiocruz, Rio de Janeiro, Brazil.
+(5)Laboratório de Doenças Febris Agudas, Instituto Nacional de Infectologia
+Evandro Chagas, Fiocruz, Rio de Janeiro, Brazil.
+(6)Centro Universitário Serra dos Órgãos (UNIFESO), Teresópolis/RJ, 25964-004,
+Brazil.
+(7)Divisão de Vigilância Ambiental em Saúde, Secretaria de Saúde do Rio Grande do
+Sul, Porto Alegre, Rio Grande do Sul, Brazil.
+(8)Faculdade de Agronomia e Veterinárias, Universidade de Brasília, Brasília,
+Brazil.
+(9)Laboratório de Mosquitos Transmissores de Hematozoários, Instituto Oswaldo
+Cruz, Fiocruz, Rio de Janeiro, Brazil. lourenco@ioc.fiocruz.br.
+(10)Centro de Pesquisa, Diagnóstico e Treinamento em Malária, Instituto Oswaldo
+Cruz, Fiocruz, Rio de Janeiro, Brazil. lourenco@ioc.fiocruz.br.
+(11)Laboratório de Pesquisa em Malária, Instituto Oswaldo Cruz, Fiocruz, Rio de
+Janeiro, Brazil. mffcruz28@gmail.com.
+(12)Centro de Pesquisa, Diagnóstico e Treinamento em Malária, Instituto Oswaldo
+Cruz, Fiocruz, Rio de Janeiro, Brazil. mffcruz28@gmail.com.
+
+Erratum in
+    Malar J. 2019 May 14;18(1):168.
+
+BACKGROUND: Zoonotic infections with epidemic potential, as non-human primate
+malaria and yellow fever (YF), can overlap geographically. Optimizing a small
+blood sample for diagnosis and surveillance is of great importance. Blood are
+routinely collected for YF diagnosis and blood clots usually discarded after
+serum obtention. Aiming to take sample advantage, the sensitivity of a PCR using 
+extracted DNA from long-term frozen clots from human and non-human primates for
+detection of Plasmodium spp. in low parasitaemia conditions was assayed.
+RESULTS: Malaria diagnosis with DNA extracted from blood clots generated results 
+in agreement with samples obtained with whole blood, including mixed Plasmodium
+vivax/simium and Plasmodium malariae/brasilianum infections.
+CONCLUSION: Blood clots from human and non-human primates may be an important and
+low cost source of DNA for malaria surveillance in the Atlantic Forest.
+
+DOI: 10.1186/s12936-018-2485-0 
+PMCID: PMC6154902
+PMID: 30249260  [Indexed for MEDLINE]
+

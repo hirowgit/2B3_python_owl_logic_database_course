@@ -1,0 +1,52 @@
+
+
+908. Metallomics. 2017 Apr 19;9(4):411-423. doi: 10.1039/c7mt00012j.
+
+Whole-brain metallomic analysis of the common marmoset (Callithrix jacchus).
+
+Knauer B(1), Majka P(2), Watkins KJ(3), Taylor AWR(3), Malamanova D(3), Paul
+B(4), Yu HH(3), Bush AI(5), Hare DJ(6), Reser DH(7).
+
+Author information: 
+(1)Department of Physiology, Faculty of Medicine, Nursing, and Health Sciences,
+Monash University, Clayton, Victoria 3800, Australia and Research School, Ruhr
+University Bochum, Bochum, Germany.
+(2)Laboratory of Neuroinformatics, Department of Neurophysiology, Nencki
+Institute of Experimental Biology of Polish Academy of Sciences, 3 Pasteur
+Street, 02-093 Warsaw, Poland.
+(3)Department of Physiology, Faculty of Medicine, Nursing, and Health Sciences,
+Monash University, Clayton, Victoria 3800, Australia.
+(4)School of Earth Sciences, The University of Melbourne, Parkville, Victoria
+3010, Australia and The Florey Institute of Neuroscience and Mental Health, The
+University of Melbourne, Parkville, 3010, Victoria, Australia.
+(5)The Florey Institute of Neuroscience and Mental Health, The University of
+Melbourne, Parkville, 3010, Victoria, Australia.
+(6)The Florey Institute of Neuroscience and Mental Health, The University of
+Melbourne, Parkville, 3010, Victoria, Australia and Elemental Bio-imaging
+Facility, University of Technology Sydney, Broadway, NSW, Australia.
+(7)Department of Physiology, Faculty of Medicine, Nursing, and Health Sciences,
+Monash University, Clayton, Victoria 3800, Australia and Graduate Entry Medical
+Program, School of Rural Health, Monash University, Churchill, Victoria 3842,
+Australia.
+
+Despite the importance of transition metals for normal brain function, relatively
+little is known about the distribution of these elemental species across the
+different tissue compartments of the primate brain. In this study, we employed
+laser ablation-inductively coupled plasma-mass spectrometry on PFA-fixed brain
+sections obtained from two adult common marmosets. Concurrent cytoarchitectonic, 
+myeloarchitectonic, and chemoarchitectonic measurements allowed for
+identification of the major neocortical, archaecortical, and subcortical
+divisions of the brain, and precise localisation of iron, manganese, and zinc
+concentrations within each division. Major findings across tissue compartments
+included: (1) differentiation of white matter tracts from grey matter based on
+manganese and zinc distribution; (2) high iron concentrations in the basal
+ganglia, cortex, and substantia nigra; (3) co-localization of high concentrations
+of iron and manganese in the primary sensory areas of the cerebral cortex; and
+(4) high manganese in the hippocampus. The marmoset has become a model species of
+choice for connectomic, aging, and transgenic studies in primates, and the
+application of metallomics to these disciplines has the potential to yield high
+translational and basic science value.
+
+DOI: 10.1039/c7mt00012j 
+PMID: 28246661  [Indexed for MEDLINE]
+

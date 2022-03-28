@@ -1,0 +1,38 @@
+
+
+4811. Int J Cancer. 1980 Jun 15;25(6):749-56.
+
+Radioimmunoassay for infectious primate retrovirus reverse transcriptase:
+characterization, comparison with conventional immunologic assays and
+applicability to cellular extracts.
+
+Robert-Guroff M(1), Kalyanaraman VS, Sarngadharan MG.
+
+Author information: 
+(1)Laboratory of Tumor Cell Biology, National Cancer Institute, National
+Institutes of Health, Bethesda, Md. 20205, USA.
+
+SSV reverse transcriptase (RT) was purified to homogeneity and used in a
+radioimmunoassay. Following iodination, the homogeneity of the protein and its
+identity with RT were confirmed by several criteria: (1) its molecular weight on 
+an SDS-polyacrylamide gel; (2) its precipitation by anti-SSV RT but not by
+antisera to other SSV proteins; (3) its cross-reactivity in RIA with antisera to 
+other retroviral polymerases; (4) its competition in RIA by active homogeneous
+SSV RT but not by other purified SSV proteins; and (5) its competition in RIA by 
+only those fractions from a poly(U)-Sepharose column possessing SSV RT activity. 
+Competition of the labelled probe with disrupted retroviruses of the infectious
+primate group showed that, while a homologous RIA detected only type-specific
+enzyme determinants, it did not distinguish the various woolly-gibbon retroviral 
+DNA polymerases. A more broadly reactive heterologous assay utilizing an
+antiserum to R-MuLV RT detected group- but not interspecies-specific enzyme
+determinants. A comparison of immunologic assays for RT showed that: (1) highly
+purified RT is not essential for reliable results in enzyme neutralization or
+enzyme binding assays; (2) the greater sensitivity of enzyme binding compared to 
+enzyme neutralization assays is a function of the antibody, not of the antigen.
+Competition RIAs using extracts of virus-infected cells showed that infectious
+primate retrovirus RT could be measured in a crude system and that cellular DNA
+polymerases alpha, beta and gamma did not compete with the labelled probe.
+
+DOI: 10.1002/ijc.2910250610 
+PMID: 14768704  [Indexed for MEDLINE]
+

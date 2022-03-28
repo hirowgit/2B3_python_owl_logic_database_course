@@ -1,0 +1,56 @@
+
+
+835. PLoS One. 2017 Jul 24;12(7):e0180733. doi: 10.1371/journal.pone.0180733.
+eCollection 2017.
+
+Magnetic resonance imaging and tensor-based morphometry in the MPTP non-human
+primate model of Parkinson's disease.
+
+Modo M(1)(2)(3)(4)(5), Crum WR(6), Gerwig M(7), Vernon AC(5)(8), Patel P(5),
+Jackson MJ(9), Rose S(9), Jenner P(9), Iravani MM(9)(10).
+
+Author information: 
+(1)Department of Radiology, University of Pittsburgh, Pittsburgh, Pennsylvania,
+United States of America.
+(2)Department of Bioengineering, University of Pittsburgh, Pittsburgh,
+Pennsylvania, United States of America.
+(3)McGowan Institute for Regenerative Medicine, University of Pittsburgh,
+Pittsburgh, Pennsylvania, United States of America.
+(4)Centre for the Neural Basis of Behavior, University of Pittsburgh, Pittsburgh,
+Pennsylvania, United States of America.
+(5)Department of Basic and Clinical Neuroscience, King's College London, London, 
+United Kingdom.
+(6)Department of Neuroimaging, King's College London, London, United Kingdom.
+(7)Department of Neuroscience, University of Pittsburgh, Pittsburgh,
+Pennsylvania, United States of America.
+(8)MRC Centre for Neurodevelopmental Disorders, King's College London, London,
+United Kingdom.
+(9)Institute of Pharmaceutical Sciences, King's College London, London, United
+Kingdom.
+(10)Department of Pharmacy, Pharmacology & Postgraduate Medicine, University of
+Hertfordshire, Hatfield, United Kingdom.
+
+Parkinson's disease (PD) is the second most common neurodegenerative disorder
+producing a variety of motor and cognitive deficits with the causes remaining
+largely unknown. The gradual loss of the nigrostriatal pathway is currently
+considered the pivotal pathological event. To better understand the progression
+of PD and improve treatment management, defining the disease on a structural
+basis and expanding brain analysis to extra-nigral structures is indispensable.
+The anatomical complexity and the presence of neuromelanin, make the use of
+non-human primates an essential element in developing putative imaging biomarkers
+of PD. To this end, ex vivo T2-weighted magnetic resonance images were acquired
+from control and 1-methyl-4 phenyl-1,2,3,6-tetrahydropyridine (MPTP)-treated
+marmosets. Volume measurements of the caudate, putamen, and substantia nigra
+indicated significant atrophy and cortical thinning. Tensor-based morphometry
+provided a more extensive and hypothesis free assessment of widespread changes
+caused by the toxin insult to the brain, especially highlighting regional
+cortical atrophy. The results highlight the importance of developing imaging
+biomarkers of PD in non-human primate models considering their distinct
+neuroanatomy. It is essential to further develop these biomarkers in vivo to
+provide non-invasive tools to detect pre-symptomatic PD and to monitor potential 
+disease altering therapeutics.
+
+DOI: 10.1371/journal.pone.0180733 
+PMCID: PMC5524324
+PMID: 28738061  [Indexed for MEDLINE]
+

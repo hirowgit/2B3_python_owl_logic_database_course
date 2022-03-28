@@ -1,0 +1,48 @@
+
+
+2105. Reprod Biol Endocrinol. 2009 Sep 9;7:96. doi: 10.1186/1477-7827-7-96.
+
+Rapidly evolving marmoset MSMB genes are differently expressed in the male
+genital tract.
+
+Lundwall A(1), Larne O, Nayudu PL, Ceder Y, Valtonen-André C.
+
+Author information: 
+(1)Lund University, Department of Laboratory Medicine, Division of Clinical
+Chemistry, University Hospital MAS, Malmö, Sweden. ake.lundwall@med.lu.se
+
+BACKGROUND: Beta-microseminoprotein, an abundant component in prostatic fluid, is
+encoded by the potential tumor suppressor gene MSMB. Some New World monkeys carry
+several copies of this gene, in contrast to most mammals, including humans, which
+have one only. Here we have investigated the background for the species
+difference by analyzing the chromosomal organization and expression of MSMB in
+the common marmoset (Callithrix jacchus).
+METHODS: Genes were identified in the Callithrix jacchus genome database using
+bioinformatics and transcripts were analyzed by RT-PCR and quantified by real
+time PCR in the presence of SYBR green.
+RESULTS: The common marmoset has five MSMB: one processed pseudogene and four
+functional genes. The latter encompass homologous genomic regions of 32-35 kb,
+containing the genes of 12-14 kb and conserved upstream and downstream regions of
+14-19 kb and 3-4 kb. One gene, MSMB1, occupies the same position on the
+chromosome as the single human gene. On the same chromosome, but several Mb away,
+is another MSMB locus situated with MSMB2, MSMB3 and MSMB4 arranged in tandem.
+Measurements of transcripts demonstrated that all functional genes are expressed 
+in the male genital tract, generating very high transcript levels in the
+prostate. The transcript levels in seminal vesicles and testis are two and four
+orders of magnitude lower. A single gene, MSMB3, accounts for more than 90% of
+MSMB transcripts in both the prostate and the seminal vesicles, whereas in the
+testis around half of the transcripts originate from MSMB2. These genes display
+rapid evolution with a skewed distribution of mutated nucleotides; in MSMB2 they 
+affect nucleotides encoding the N-terminal Greek key domain, whereas in MSMB3 it 
+is the C-terminal MSMB-unique domain that is affected.
+CONCLUSION: Callitrichide monkeys have four functional MSMB that are all
+expressed in the male genital tract, but the product from one gene, MSMB3, will
+predominate in seminal plasma. This gene and MSMB2, the predominating testicular 
+gene, have accumulated mutations that affect different parts of the translation
+products, suggesting an ongoing molecular specialization that presumably yields
+functional differences in accessory sex glands and testis.
+
+DOI: 10.1186/1477-7827-7-96 
+PMCID: PMC2746217
+PMID: 19737427  [Indexed for MEDLINE]
+

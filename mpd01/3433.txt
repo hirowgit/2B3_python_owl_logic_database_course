@@ -1,0 +1,80 @@
+
+
+3433. Pharmacol Biochem Behav. 1999 Jun;63(2):201-11.
+
+The dopamine D3/D2 receptor agonist 7-OH-DPAT induces cognitive impairment in the
+marmoset.
+
+Smith AG(1), Neill JC, Costall B.
+
+Author information: 
+(1)Postgraduate Studies in Pharmacology, School of Pharmacy, University of
+Bradford, West Yorkshire, UK.
+
+Previous work has shown that dopaminergic systems are involved in cognitive
+function in the common marmoset. The present study investigated the role of
+dopamine D3 receptors in cognitive performance in the marmoset. The effects of
+the putative dopamine D3 receptor agonist, 7-OH-DPAT, on performance of a
+same-day reversal visual object discrimination task were assessed using a
+miniature Wisconsin General Test Apparatus (WGTA). Within the same test session
+marmosets acquired a two-choice object discrimination initial task and a reversal
+task to criterion. 7-OH-DPAT (6-10 microg/kg) significantly impaired reversal
+task performance only, without affecting acquisition of the initial task. A
+higher dose of 25 microg/kg 7-OH-DPAT impaired initial task acquisition as well
+as reversal task acquisition, possibly as a consequence of a nonspecific
+influence on motor function. The dopamine D2 receptor antagonist (-)sulpiride
+(5-10 microg/kg) and the alpha2-receptor antagonist yohimbine (50 microg/kg)
+failed to attenuate the effects of 7-OH-DPAT (6 microg/kg) in this task. In
+contrast, the dopamine D2/D3 receptor antagonist raclopride (50 microg/kg)
+significantly attenuated the 7-OH-DPAT-induced impairment of reversal task
+performance. These results suggest that activation of dopamine D3 receptors
+produces a selective impairment of aspects of cognitive function in the marmoset.
+
+DOI: 10.1016/s0091-3057(98)00230-5 
+PMID: 10371648  [Indexed for MEDLINE]
+
+
+3434. Br J Pharmacol. 1999 May;127(1):275-83.
+
+Control of glutamate release by calcium channels and kappa-opioid receptors in
+rodent and primate striatum.
+
+Hill MP(1), Brotchie JM.
+
+Author information: 
+(1)Manchester Movement Disorders Laboratory, Division of Neuroscience, School of 
+Biological Sciences, University of Manchester. m.hill@man.ac.uk
+
+The modulation of depolarization (4-aminopyridine, 2 mM)-evoked endogenous
+glutamate release by kappa-opioid receptor activation and blockade of
+voltage-dependent Ca2+ -channels has been investigated in synaptosomes prepared
+from rat and marmoset striatum. 4-Aminopyridine (4-AP)-stimulated, Ca2+
+-dependent glutamate release was inhibited by enadoline, a selective kappa-opioid
+receptor agonist, in a concentration-dependent and norbinaltorphimine (nor-BNI,
+selective kappa-opioid receptor antagonist)-sensitive manner in rat (IC50 =
+4.4+/-0.4 microM) and marmoset (IC50 = 2.9+/-0.7 microM) striatal synaptosomes.
+However, in the marmoset, there was a significant (approximately 23%)
+nor-BNI-insensitive component. In rat striatal synaptosomes, the Ca2+ -channel
+antagonists omega-agatoxin-IVA (P/Q-type blocker), omega-conotoxin-MVIIC
+(N/P/Q-type blocker) and omega-conotoxin-GVIA (N-type blocker) reduced
+4-AP-stimulated, Ca2+ -dependent glutamate release in a concentration-dependent
+manner with IC50 values of 6.5+/-0.9 nM, 75.5+5.9 nM and 106.5+/-8.7 nM,
+respectively. In marmoset striatal synaptosomes, 4-AP-stimulated, Ca2+ -dependent
+glutamate release was significantly inhibited by omega-agatoxin-IVA (30 nM,
+57.6+/-2.3%, inhibition), omega-conotoxin-MVIIC (300 nM, 57.8+/-3.1%) and
+omega-conotoxin-GVIA (1 microM, 56.7+/-2%). Studies utilizing combinations of
+Ca2+ -channel antagonists suggests that in the rat striatum, two relatively
+distinct pools of glutamate, released by activation of either P or Q-type Ca2+
+-channels, exist. In contrast, in the primate there is much overlap between the
+glutamate released by P and Q-type Ca2+ -channel activation. Studies using
+combinations of enadoline and the Ca2+ -channel antagonists suggest that
+enadoline-induced inhibition of glutamate release occurs primarily via reduction 
+of Ca2+ -influx through P-type Ca2+ -channels in the rat but via N-type Ca2+
+-channels in the marmoset. In conclusion, the results presented suggest that
+there are species differences in the control of glutamate release by kappa-opioid
+receptors and Ca2+ -channels.
+
+DOI: 10.1038/sj.bjp.0702523 
+PMCID: PMC1565998
+PMID: 10369483  [Indexed for MEDLINE]
+

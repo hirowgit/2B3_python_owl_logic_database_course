@@ -1,0 +1,47 @@
+
+
+632. Cereb Cortex. 2018 Dec 1;28(12):4440-4453. doi: 10.1093/cercor/bhy256.
+
+Trajectories and Milestones of Cortical and Subcortical Development of the
+Marmoset Brain From Infancy to Adulthood.
+
+Sawiak SJ(1)(2), Shiba Y(1)(3), Oikonomidis L(1)(3), Windle CP(1)(3), Santangelo 
+AM(1)(3), Grydeland H(4)(5), Cockcroft G(1)(3), Bullmore ET(1)(2)(4)(6), Roberts 
+AC(1)(3).
+
+Author information: 
+(1)Behavioural and Clinical Neuroscience Institute, University of Cambridge,
+Downing Site, UK.
+(2)Wolfson Brain Imaging Centre, University of Cambridge, Box 65 Addenbrooke's
+Hospital, Cambridge, UK.
+(3)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Downing Street, Cambridge, UK.
+(4)Department of Psychiatry, University of Cambridge, Cambridge, UK.
+(5)Research Group for Lifespan Changes in Brain and Cognition, Department of
+Psychology, University of Oslo, Oslo, Norway.
+(6)ImmunoPsychiatry, GlaxoSmithKline Research and Development, Stevenage, UK.
+
+With increasing attention on the developmental causes of neuropsychiatric
+disorders, appropriate animal models are crucial to identifying causes and
+assessing potential interventions. The common marmoset is an ideal model as it
+has sophisticated social/emotional behavior, reaching adulthood within 2 years of
+birth. Magnetic resonance imaging was used in an accelerated longitudinal cohort 
+(n = 41; aged 3-27 months; scanned 2-7 times over 2 years). Splines were used to 
+model nonlinear trajectories of grey matter volume development in 53 cortical
+areas and 16 subcortical nuclei. Generally, volumes increased before puberty,
+peaked, and declined into adulthood. We identified 3 milestones of grey matter
+development: I) age at peak volume; II) age at onset of volume decline; and III) 
+age at maximum rate of volume decline. These milestones differentiated growth
+trajectories of primary sensory/motor cortical areas from those of association
+cortex but also revealed distinct trajectories between association cortices.
+Cluster analysis of trajectories showed that prefrontal cortex was the most
+heterogenous of association regions, comprising areas with distinct milestones
+and developmental trajectories. These results highlight the potential of
+high-field structural MRI to define the dynamics of primate brain development and
+importantly to identify when specific prefrontal circuits may be most vulnerable 
+to environmental impact.
+
+DOI: 10.1093/cercor/bhy256 
+PMCID: PMC6215464
+PMID: 30307494  [Indexed for MEDLINE]
+

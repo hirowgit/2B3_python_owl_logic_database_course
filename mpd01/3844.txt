@@ -1,0 +1,69 @@
+
+
+3844. Naunyn Schmiedebergs Arch Pharmacol. 1996 Jan;353(2):233-40.
+
+RPR 101821, a new potent cholesterol-lowering agent: inhibition of squalene
+synthase and 7-dehydrocholesterol reductase.
+
+Amin D(1), Rutledge RZ, Needle SJ, Hele DJ, Neuenswander K, Bush RC, Bilder GE,
+Perrone MH.
+
+Author information: 
+(1)Department of Cardiovascular Biology, Rhône-Poulenc Rorer, Collegeville, PA
+19426-0107, USA.
+
+RPR 101821 (trans-2-[4-(benzoxazol-2-yl)-phenylmethoxy] amino cyclohexane
+hydrochloride) is a potent cholesterol-lowering agent in rodents and marmoset.
+The compound inhibited rat liver microsomal squalene synthase (IC50 = 1 nM) and
+7-dehydrocholesterol (7DHC) reductase (IC50 = 1 microM; Lewis et al. 1995). When 
+RPR 101821 (10 mg/kg), the 7DHC reductase inhibitor BM 15.766
+(4[2-[4-(4-chlorocinnamyl)piperazine-1-yl]ethyl] benzoic acid; 10 mg/kg) or the
+HMG-CoA reductase inhibitor lovastatin (30 mg/kg) was given orally to rats at -29
+h, -21 h and -5 h, serum cholesterol was reduced by 56%, 46% or 15%,
+respectively. The reduction in cholesterol with RPR 101821 was associated with an
+accumulation of 7DHC in serum, suggesting an inhibition of 7DHC reductase. In the
+presence of BM 15.766, RPR 101821 reduced the serum accumulation of 7DHC in a
+dose-dependent manner, with complete inhibition at 30 mg/kg, p.o. In Balb-cJ
+mice, RPR 101821 and lovastatin (50 mg/kg, b.i.d., p.o., for 14 days) lowered
+serum cholesterol by 67% and 2%, respectively. In marmosets, RPR 101821 and
+lovastatin (both at a dose of 10 mg/kg, p.o., b.i.d., for 7 days) reduced
+cholesterol by 28% and 19%, respectively. In summary, RPR 101821 is an orally
+effective potent cholesterol-lowering agent in rodents and a small primate
+species. The suggested mechanism of hypocholesterolemic effect is the inhibition 
+of squalene synthase and 7DHC reductase.
+
+DOI: 10.1007/BF00168762 
+PMID: 8717165  [Indexed for MEDLINE]
+
+
+3845. Pharm Res. 1996 Jan;13(1):97-101.
+
+Interspecies scaling of bosentan, a new endothelin receptor antagonist and
+integration of in vitro data into allometric scaling.
+
+Lave T(1), Coassolo P, Ubeaud G, Brandt R, Schmitt C, Dupin S, Jaeck D, Chou RC.
+
+Author information: 
+(1)Hoffmann-LaRoche, Basel, Switzerland.
+
+PURPOSE: The goal of this study was to find a rational and reliable method of
+using animal data to predict the clearance of metabolised drugs in humans.
+METHODS: One such approach is to use in vitro liver models (e.g. hepatocytes and 
+microsomes) to determine the relative capacities of the various animal species
+and humans to metabolise the test compound. These data can then be combined with 
+the in vivo clearances in animals, to calculate the in vivo clearance in humans
+using allometric scaling techniques. In this study, this approach was evaluated
+with a new endothelin receptor antagonist, bosentan, which is eliminated mainly
+through metabolism and is characterized by very large interspecies differences in
+clearance. Therefore, this compound provided a stringent test of our new
+extrapolation method for allometric scaling.
+RESULTS: The results obtained with bosentan showed that adjusting the in vivo
+clearance in the different animal species for the relative rates of metabolism in
+vitro gave a far better prediction of human clearance than an empirical
+correcting factor (brain weight).
+CONCLUSIONS: This approach provided a more rational basis for predicting the
+clearance of metabolised compounds in humans.
+
+DOI: 10.1023/a:1016037519116 
+PMID: 8668687  [Indexed for MEDLINE]
+

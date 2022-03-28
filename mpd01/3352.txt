@@ -1,0 +1,60 @@
+
+
+3352. Cancer Gene Ther. 2000 Jan;7(1):97-106.
+
+The nitroreductase/CB1954 combination in Epstein-Barr virus-positive B-cell
+lines: induction of bystander killing in vitro and in vivo.
+
+Westphal EM(1), Ge J, Catchpole JR, Ford M, Kenney SC.
+
+Author information: 
+(1)Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel
+Hill 27599-7295, USA.
+
+Epstein-Barr virus (EBV)-based gene delivery vectors that preferentially express 
+toxic genes in EBV-infected cells could be used to target EBV-positive tumors for
+destruction. We have shown previously that the cytosine deaminase (CD) enzyme,
+which converts the prodrug 5-fluorocytosine (5-FC) into the toxic compound
+5-fluorouracil efficiently kills EBV-positive cells in the presence of 5-FC, with
+a substantial bystander killing effect in vitro and in vivo. To identify the
+optimal enzyme/prodrug combination for treating EBV-positive lymphomas, we have
+compared the effectiveness of the CD/5-FC combination with the nitroreductase
+(NTR)/CB1954 combination for killing EBV-positive B-cell lines. NTR metabolizes
+CB1954 into an alkylating agent that cross-links DNA. When the CD gene or the NTR
+gene were transfected into two different EBV-positive B-cell lines in vitro,
+approximately 90% of cells were killed in a prodrug-dependent manner, although
+the transfection efficiency was <5%. However, severe combined immunodeficient
+mouse tumors containing either 30% or 100% of NTR-expressing Burkitt lymphoma
+(Jijoye) cells were growth inhibited, but not cured, by treatment with
+intraperitoneal CB1954 (20 mg/kg/day) for 10 days. These results suggest that the
+NTR/CB1954 combination induces efficient bystander killing of EBV-positive B-cell
+lines in vitro but may not be as effective as the CD/5-FC combination for
+treating B-cell lymphomas in vivo.
+
+DOI: 10.1038/sj.cgt.7700102 
+PMID: 10678362  [Indexed for MEDLINE]
+
+
+3353. J Neuroimmunol. 1999 Dec;100(1-2):181-9.
+
+Immune regulation and CNS autoimmune disease.
+
+Antel JP(1), Owens T.
+
+Author information: 
+(1)Neuroimmunology Unit, Montreal Neurological Institute, QC, Canada.
+mdan@musica.mcgill.ca
+
+The central nervous system is a demonstrated target of both clinical and
+experimental immune mediated disorders. Immune regulatory mechanisms operative at
+the levels of the systemic immune system, the blood brain barrier, and within the
+CNS parenchyma are important determinants of the intensity and duration of the
+tissue directed injury. Convergence of research, involving direct manipulation of
+specific cells and molecular mediators in animal models and in vitro analysis of 
+human immune and neural cells and tissues, is providing increasing insight into
+the role of these immune regulatory functions and their potential to serve as
+therapeutic targets.
+
+DOI: 10.1016/s0165-5728(99)00186-1 
+PMID: 10695728  [Indexed for MEDLINE]
+

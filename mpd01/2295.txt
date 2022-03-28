@@ -1,0 +1,72 @@
+
+
+2295. Vision Res. 2008 Nov;48(26):2604-14. doi: 10.1016/j.visres.2008.02.017. Epub 2008
+Apr 7.
+
+Segregation of short-wavelength sensitive ("blue") cone signals among neurons in 
+the lateral geniculate nucleus and striate cortex of marmosets.
+
+Hashemi-Nezhad M(1), Blessing EM, Dreher B, Martin PR.
+
+Author information: 
+(1)Discipline of Anatomy and Histology and Bosch Institute, School of Medical
+Sciences, University of Sydney, New South Wales 2006, Australia.
+
+We measured functional input from short-wavelength selective (S) cones to neurons
+in the dorsal lateral geniculate nucleus (LGN) and striate cortex (area V1) in
+anaesthetized marmosets. We found that most magnocellular (MC) and parvocellular 
+(PC) cells receive very little (<5%) functional input from S cones, whereas
+blue-on cells of the koniocellular (KC) pathway receive dominant input from S
+cones. Cells dominated by S cone input were not encountered in V1, but V1 cells
+received more S cone input than PC or MC cells. This suggests that S cone inputs 
+are distributed broadly among neurons in V1. No differences in strength of S cone
+inputs were seen on comparing dichromatic and trichromatic marmosets, suggesting 
+that the addition of a medium-long wavelength selective cone-opponent
+("red-green") channel to a dichromatic visual system does not detectably affect
+the chromatic properties of the S cone pathways.
+
+DOI: 10.1016/j.visres.2008.02.017 
+PMID: 18397798  [Indexed for MEDLINE]
+
+
+2296. Endocrinology. 2008 Jul;149(7):3313-20. doi: 10.1210/en.2007-1649. Epub 2008 Apr 
+3.
+
+Inhibition of vascular endothelial growth factor in the primate ovary
+up-regulates hypoxia-inducible factor-1alpha in the follicle and corpus luteum.
+
+Duncan WC(1), van den Driesche S, Fraser HM.
+
+Author information: 
+(1)Obstetrics and Gynaecology, Simpson Centre for Reproductive Health, Royal
+Infirmary of Edinburgh, 51 Little France Crescent, Edinburgh, United Kingdom.
+w.c.duncan@ed.ac.uk
+
+Vascular endothelial growth factor (VEGF)-dependent angiogenesis is crucial for
+follicular growth, and corpus luteum formation and function, in the primate
+ovary. In the ovary VEGF can be hormonally regulated, but in other systems, the
+main regulator of VEGF expression is hypoxia. We hypothesized that hypoxia was
+involved in the regulation of angiogenesis in the cycling ovary. We therefore
+used immunohistochemistry to localize hypoxia-inducible factor (HIF)-1alpha in
+the marmoset ovary across the ovarian cycle. We also investigated the effect of
+VEGF inhibition, using VEGF Trap (aflibercept), on HIF-1alpha localization during
+the follicular and luteal phases of the cycle. Finally, we studied the effect of 
+chorionic gonadotropin stimulation of the corpus luteum during early pregnancy.
+Nuclear HIF-1alpha staining was largely absent from normally growing preantral
+and antral follicles. However, there was marked up-regulation of nuclear
+HIF-1alpha in the granulosa cells at ovulation that persisted into the early
+corpus luteum. Mature corpora lutea and those collected during early pregnancy
+had minimal nuclear HIF-1alpha staining. The inhibition of VEGF in the mid-luteal
+stage resulted in a time-dependent up-regulation of luteal nuclear HIF-1alpha
+staining (P < 0.05). There was never any nuclear HIF-1alpha in the theca cells of
+the follicle, but VEGF Trap treatment during the follicular (P < 0.001) or luteal
+(P < 0.001) phase increased the proportion of antral follicles with nuclear
+HIF-1alpha staining in the granulosa cells. These results indicate that
+HIF-1alpha is up-regulated after vascular inhibition, using VEGF Trap, in the
+follicle and corpus luteum. However, it is also acutely up-regulated during
+ovulation. This suggests a role for HIF-1alpha in both hypoxic and hormonal
+regulation of ovarian VEGF expression in vivo.
+
+DOI: 10.1210/en.2007-1649 
+PMID: 18388198  [Indexed for MEDLINE]
+

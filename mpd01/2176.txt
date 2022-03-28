@@ -1,0 +1,81 @@
+
+
+2176. Hum Reprod. 2009 Jun;24(6):1359-72. doi: 10.1093/humrep/dep012. Epub 2009 Feb 27.
+
+A novel embryonic stem cell line derived from the common marmoset monkey
+(Callithrix jacchus) exhibiting germ cell-like characteristics.
+
+Müller T(1), Fleischmann G, Eildermann K, Mätz-Rensing K, Horn PA, Sasaki E, Behr
+R.
+
+Author information: 
+(1)Stem Cell Research Group, German Primate Center, Kellnerweg 4, 37077
+Göttingen, Germany.
+
+BACKGROUND: Embryonic stem cells (ESC) hold great promise for the treatment of
+degenerative diseases. However, before clinical application of ESC in cell
+replacement therapy can be achieved, the safety and feasibility must be
+extensively tested in animal models. The common marmoset monkey (Callithrix
+jacchus) is a useful preclinical non-human primate model due to its physiological
+similarities to human. Yet, few marmoset ESC lines exist and differences in their
+developmental potential remain unclear.
+METHODS: Blastocysts were collected and immunosurgery was performed. cjes001
+cells were tested for euploidy by karyotyping. The presence of markers for
+pluripotency was confirmed by immunofluorescence staining and RT-PCR. Histology
+of teratoma, in vitro differentiation and embryoid body formation revealed the
+differentiation potential.
+RESULTS: cjes001 cells displayed a normal 46,XX karyotype. Alkaline phosphatase
+activity, expression of telomerase and the transcription factors OCT4, NANOG and 
+SOX2 as well as the presence of stage-specific embryonic antigen (SSEA)-3,
+SSEA-4, tumor rejection antigens (TRA)-1-60, and TRA-1-81 indicated pluripotency.
+Teratoma formation assay displayed derivatives of all three embryonic germ
+layers. Upon non-directed differentiation, the cells expressed the germ cell
+markers VASA, BOULE, germ cell nuclear factor and synaptonemal complex protein 3 
+and showed co-localization of VASA protein within individual cells with the germ 
+line stem cell markers CD9, CD49f, SSEA-4 and protein gene product 9.5,
+respectively.
+CONCLUSIONS: The cjes001 cells represent a new pluripotent ESC line with evidence
+for enhanced spontaneous differentiation potential into germ cells. This cjes001 
+line will be very valuable for comparative studies on primate ESC biology.
+
+DOI: 10.1093/humrep/dep012 
+PMID: 19251728  [Indexed for MEDLINE]
+
+
+2177. J Neurosci. 2009 Feb 25;29(8):2553-62. doi: 10.1523/JNEUROSCI.5359-08.2009.
+
+Wide-dynamic-range forward suppression in marmoset inferior colliculus neurons is
+generated centrally and accounts for perceptual masking.
+
+Nelson PC(1), Smith ZM, Young ED.
+
+Author information: 
+(1)Center for Hearing and Balance, Department of Biomedical Engineering, Johns
+Hopkins University, Baltimore, Maryland 21205, USA. pcnelson@jhu.edu
+
+An organism's ability to detect and discriminate sensory inputs depends on the
+recent stimulus history. For example, perceptual detection thresholds for a brief
+tone can be elevated by as much as 50 dB when following a masking stimulus.
+Previous work suggests that such forward masking is not a direct result of
+peripheral neural adaptation; the central pathway apparently modifies the
+representation in a way that further attenuates the input's response to short
+probe signals. Here, we show that much of this transformation is complete by the 
+level of the inferior colliculus (IC). Single-neuron extracellular responses were
+recorded in the central nucleus of the awake marmoset IC. The threshold for a 20 
+ms probe tone presented at best frequency was determined for various masker-probe
+delays, over a range of masker sound pressure levels (SPLs) and frequencies. The 
+most striking aspect of the data was the increased potency of forward maskers as 
+their SPL was increased, despite the fact that the excitatory response to the
+masker was often saturating or nonmonotonic over the same range of levels. This
+led to probe thresholds at high masker levels that were almost always higher than
+those observed in the auditory nerve. Probe threshold shifts were not usually
+caused by a persistent excitatory response to the masker; instead we propose a
+wide-dynamic-range inhibitory mechanism locked to sound offset as an explanation 
+for several key aspects of the data. These findings further delineate the role of
+subcortical auditory processing in the generation of a context-dependent
+representation of ongoing acoustic scenes.
+
+DOI: 10.1523/JNEUROSCI.5359-08.2009 
+PMCID: PMC2677200
+PMID: 19244530  [Indexed for MEDLINE]
+

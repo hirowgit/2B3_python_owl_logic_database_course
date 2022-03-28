@@ -1,0 +1,42 @@
+
+
+1478. J Neurosci. 2013 Nov 27;33(48):18825-35. doi: 10.1523/JNEUROSCI.2414-13.2013.
+
+Auditory artificial grammar learning in macaque and marmoset monkeys.
+
+Wilson B(1), Slater H, Kikuchi Y, Milne AE, Marslen-Wilson WD, Smith K, Petkov
+CI.
+
+Author information: 
+(1)Institute of Neuroscience, and Centre for Behaviour and Evolution, Newcastle
+University, Newcastle upon Tyne, NE2 4HH, United Kingdom, Department of
+Psychology, University of Cambridge, Cambridge, CB2 3EB, United Kingdom, and
+School of Philosophy, Psychology and Language Sciences, University of Edinburgh, 
+Edinburgh, EH8 9AD, United Kingdom.
+
+Artificial grammars (AG) are designed to emulate aspects of the structure of
+language, and AG learning (AGL) paradigms can be used to study the extent of
+nonhuman animals' structure-learning capabilities. However, different AG
+structures have been used with nonhuman animals and are difficult to compare
+across studies and species. We developed a simple quantitative parameter space,
+which we used to summarize previous nonhuman animal AGL results. This was used to
+highlight an under-studied AG with a forward-branching structure, designed to
+model certain aspects of the nondeterministic nature of word transitions in
+natural language and animal song. We tested whether two monkey species could
+learn aspects of this auditory AG. After habituating the monkeys to the AG,
+analysis of video recordings showed that common marmosets (New World monkeys)
+differentiated between well formed, correct testing sequences and those violating
+the AG structure based primarily on simple learning strategies. By comparison,
+Rhesus macaques (Old World monkeys) showed evidence for deeper levels of AGL. A
+novel eye-tracking approach confirmed this result in the macaques and
+demonstrated evidence for more complex AGL. This study provides evidence for a
+previously unknown level of AGL complexity in Old World monkeys that seems less
+evident in New World monkeys, which are more distant evolutionary relatives to
+humans. The findings allow for the development of both marmosets and macaques as 
+neurobiological model systems to study different aspects of AGL at the neuronal
+level.
+
+DOI: 10.1523/JNEUROSCI.2414-13.2013 
+PMCID: PMC3841451
+PMID: 24285889  [Indexed for MEDLINE]
+

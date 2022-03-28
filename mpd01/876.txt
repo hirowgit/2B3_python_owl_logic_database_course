@@ -1,0 +1,97 @@
+
+
+876. Behav Res Methods. 2018 Apr;50(2):816-825. doi: 10.3758/s13428-017-0906-6.
+
+OBAT: An open-source and low-cost operant box for auditory discriminative tasks.
+
+Ribeiro MW(1)(2)(3), Neto JFR(1)(2), Morya E(1)(2), Brasil FL(1)(2), de Araújo
+MFP(4)(5).
+
+Author information: 
+(1)Graduate Program in Neuroengineering, Edmond and Lily Safra International
+Institute of Neuroscience, Santos Dumont Institute, Rodovia RN 160, Km 3, n.
+3003, Macaiba, RN, 59280-000, Brazil.
+(2)Alberto Santos Dumont Association for Research Support, Macaíba, RN,
+59280-000, Brazil.
+(3)Hospital Israelita Albert Einstein, Av. Albert Einstein, 627, Morumbi, SP,
+05652-900, Brazil.
+(4)Graduate Program in Neuroengineering, Edmond and Lily Safra International
+Institute of Neuroscience, Santos Dumont Institute, Rodovia RN 160, Km 3, n.
+3003, Macaiba, RN, 59280-000, Brazil. mariana@isd.org.br.
+(5)Alberto Santos Dumont Association for Research Support, Macaíba, RN,
+59280-000, Brazil. mariana@isd.org.br.
+
+Operant-conditioning boxes are widely used in animal training, allowing
+researchers to shape specific behaviors through reinforcements and/or
+punishments. Commercially available devices are expensive and run with
+proprietary software and hardware, hampering adaptations for the specific needs
+of an experiment. Therefore, many low-cost and open-source devices have recently 
+been developed, but there are still few options for studying auditory behaviors. 
+To overcome this problem, we developed a device based on a computer and an
+Arduino Mega 2560 board, named OBAT (Operant Box for Auditory Tasks), designed to
+present two different auditory stimuli to small primates. It has three modules:
+sound delivery, response bars, and reward system. We estimate that OBAT is at
+least 4-10 times cheaper than commercially available operant-conditioning boxes. 
+Data from a behavioral pilot test ensured that the device can be used to train a 
+marmoset in an auditory discrimination task. In addition, despite its low cost,
+accuracy tests showed that the OBAT operates with a high temporal precision. All 
+schematics and software source code are available so that other groups can easily
+replicate the experiment or adapt the device to their own needs.
+
+DOI: 10.3758/s13428-017-0906-6 
+PMID: 28488135  [Indexed for MEDLINE]
+
+
+877. Drug Metab Dispos. 2017 Aug;45(8):883-886. doi: 10.1124/dmd.117.076042. Epub 2017
+May 9.
+
+Molecular Cloning and Characterization of Marmoset Aldehyde Oxidase.
+
+Uehara S(1), Uno Y(1), Okamoto E(1), Inoue T(1), Sasaki E(1), Yamazaki H(2).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., E.O., H.Y.); Pharmacokinetics and
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology (T.I.) and Center of
+Applied Developmental Biology (E.S.), Central Institute for Experimental Animals,
+Kawasaki, Japan; and Keio Advanced Research Center, Keio University, Tokyo, Japan
+(E.S.).
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., E.O., H.Y.); Pharmacokinetics and
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology (T.I.) and Center of
+Applied Developmental Biology (E.S.), Central Institute for Experimental Animals,
+Kawasaki, Japan; and Keio Advanced Research Center, Keio University, Tokyo, Japan
+(E.S.) hyamazak@ac.shoyaku.ac.jp.
+
+Common marmosets (Callithrix jacchus), New World monkeys, are a promising primate
+model for preclinical drug metabolism studies because of the similarities of
+cytochrome P450 (P450) enzyme function to those of humans. Despite an increasing 
+number of drug candidates catalyzed by non-P450 enzymes, drug metabolizing
+enzymes other than P450s have been hardly identified or characterized in
+marmosets. In this study, we identified aldehyde oxidase (AOX) 1 gene by marmoset
+genome analysis. AOX1 cDNA was cloned from marmoset livers by reverse
+transcription-polymerase chain reaction. Deduced amino acid sequences of AOX1
+cDNA showed high sequence identities (92-93%) with primate AOX1s. Phylogenetic
+analysis showed that marmoset AOX1 was closely clustered with primate AOX1s,
+unlike nonprimate animal model AOX1s of pig, rabbit, rat, and mouse used in drug 
+metabolism. The tissue expression analyses by real-time reverse-transcription
+polymerase chain reaction and immunoblotting showed that marmoset AOX1 mRNA and
+protein were abundantly expressed in livers, similar to cynomolgus monkeys and
+humans. Marmoset AOX1 heterologously expressed in Escherichia coli catalyzed the 
+oxidation of carbazeran and phthalazine, typical AOX1 substrates, similar to
+cynomolgus monkey and human AOX1s. Human and marmoset AOX1 effectively catalyzed 
+phthalazine oxidation when assessed with Michaelis-Menten kinetics, but
+cynomolgus monkey AOX1 catalyzed this reaction with cooperative kinetics with
+high capacity. These results indicated that tissue distribution and enzymatic
+function of AOX1 enzyme is similar between marmosets and humans, suggesting that 
+marmosets are a suitable primate model for AOX-dependent drug metabolism in
+preclinical studies.
+
+Copyright © 2017 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/dmd.117.076042 
+PMID: 28487309  [Indexed for MEDLINE]
+

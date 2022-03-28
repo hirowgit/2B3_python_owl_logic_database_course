@@ -1,0 +1,89 @@
+
+
+427. RNA Biol. 2020 Jan;17(1):125-134. doi: 10.1080/15476286.2019.1670038. Epub 2019
+Sep 29.
+
+Functional heritage: the evolution of chimeric RNA into a gene.
+
+Wu H(1)(2), Singh S(2), Shi X(3), Xie Z(2), Lin E(2), Li X(1), Li H(2)(3).
+
+Author information: 
+(1)Department of Gastrointestinal Surgery, The Third Xiangya Hospital of Central 
+South University, Changsha, Hunan, China.
+(2)Department of Pathology, School of Medicine, University of Virginia,
+Charlottesville, VA, USA.
+(3)Department of Biochemistry and Molecular Genetics, School of Medicine,
+University of Virginia, Charlottesville, VA, USA.
+
+Once believed to be unique features of neoplasia, chimeric RNAs are now being
+discovered in normal physiology. We speculated that some chimeric RNAs may be
+functional precursors of genes, and that forming chimeric RNA at the
+transcriptional level may be a 'trial' mechanism before the functional element is
+fixed into the genome. Supporting this idea, we identified a chimeric RNA,
+HNRNPA1L2-SUGT1 (H-S), whose sequence is highly similar to that of a 'pseudogene'
+MRPS31P5. Sequence analysis revealed that MRPS31P5 transcript is more similar to 
+H-S chimeric RNA than its 'parent' gene, MRPS31. Evolutionarily, H-S precedes
+MRPS31P5, as it can be detected bioinformatically and experimentally in
+marmosets, which do not yet possess MRPS31P5 in their genome. Conversely, H-S is 
+minimally expressed in humans, while instead, MRPS31P5 is abundantly expressed.
+Silencing H-S in marmoset cells resulted in similar phenotype as silencing
+MRPS31P5 in human cells. In addition, whole transcriptome analysis and candidate 
+downstream target validation revealed common signalling pathways shared by the
+two transcripts. Interestingly, H-S failed to rescue the phenotype caused by
+silencing MPRS31P5 in human and rhesus cells, whereas MRPS31P5 can at least
+partially rescue the phenotype caused by silencing H-S in marmoset cells,
+suggesting that MRPS31P5 may have further evolved into a distinct entity. Thus,
+multiple lines of evidence support that MRPS31P5 is not truly a pseudogene of
+MRPS31, but a likely functional descendent of H-S chimera. Instead being a gene
+fusion product, H-S is a product of cis-splicing between adjacent genes, while
+MRPS31P5 is likely produced by genome rearrangement.
+
+DOI: 10.1080/15476286.2019.1670038 
+PMCID: PMC6948976
+PMID: 31566065  [Indexed for MEDLINE]
+
+
+428. Primates. 2020 Mar;61(2):321-329. doi: 10.1007/s10329-019-00760-x. Epub 2019 Sep 
+28.
+
+Electrocutions in free-living black-tufted marmosets (Callithrix penicillata) in 
+anthropogenic environments in the Federal District and surrounding areas, Brazil.
+
+Pereira AABG(1), Dias B(1), Castro SI(1), Landi MFA(1), Melo CB(1), Wilson TM(1),
+Costa GRT(2), Passos PHO(3), Romano AP(3), Szabó MPJ(4), Castro MB(5).
+
+Author information: 
+(1)Veterinary Pathology Laboratory, University of Brasília, Via L4 Norte, Campus 
+Universitário Darcy Ribeiro, Asa Norte, Brasília, DF, 70910-900, Brazil.
+(2)Environmental Health Surveillance Directorate of the Federal District (DIVAL),
+SAAN-Estrada do Contorno do Bosque, lote 04, Brasília, DF, 70790-060, Brazil.
+(3)Technical Group on Arbovirus Surveillance (GT-Arbovirosis) General
+Coordination of Communicable Diseases (CGDT), Department of Communicable Disease 
+Surveillance (DEVIT), Secretariat of Health Surveillance-Ministry of Health
+(SVS/MS) SRTV 701, Via W 5 Norte-Ed. PO700-6 andar., Brasília, DF, 70723-040,
+Brazil.
+(4)Faculdade de Medicina Veterinária, Universidade Federal de Uberlândia, Av.
+Pará 1720, Campus Umuarama-Bloco 2T, Uberlândia, MG, 38400-902, Brazil.
+(5)Veterinary Pathology Laboratory, University of Brasília, Via L4 Norte, Campus 
+Universitário Darcy Ribeiro, Asa Norte, Brasília, DF, 70910-900, Brazil.
+mbcastro@unb.br.
+
+Shrinking natural habitats exposes some non-human primates to the risk of
+accidents associated with electrical transmission lines. We examined dead
+marmosets (Callithrix penicillata) collected in the region from January 2015 to
+April 2018 to determine the animals' cause of death and for electrocuted animals 
+we examined the locations the animals had died as well as the configuration of
+the power lines at these sites. We also recorded the sex of the animal, the body 
+region affected, and characteristics of the injuries. We diagnosed electrocutions
+in 11% (n = 34) of the marmosets studied. Most of the affected animals were male 
+(n = 22) with single or double sites of injury on the limbs. Animals were injured
+in urban (n = 26) and peri-urban (n = 8) areas on lower-voltage alternate current
+lines, and we detected no seasonality or hotspots of electrocution. Our findings 
+suggest that movement along transmission lines composed of bundled conductors is 
+a major factor in electrocutions of marmosets in the Federal District and
+surrounding areas. The planning of electrical power grid infrastructure should
+consider arboreal primates to prevent electrocutions.
+
+DOI: 10.1007/s10329-019-00760-x 
+PMID: 31564005  [Indexed for MEDLINE]
+

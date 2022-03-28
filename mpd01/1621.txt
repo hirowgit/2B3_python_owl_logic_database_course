@@ -1,0 +1,79 @@
+
+
+1621. PLoS One. 2012;7(12):e53357. doi: 10.1371/journal.pone.0053357. Epub 2012 Dec 28.
+
+Responses of retinal ganglion cells to extracellular electrical stimulation, from
+single cell to population: model-based analysis.
+
+Tsai D(1), Chen S, Protti DA, Morley JW, Suaning GJ, Lovell NH.
+
+Author information: 
+(1)Graduate School of Biomedical Engineering, University of New South Wales,
+Sydney, New South Wales, Australia.
+
+Retinal ganglion cells (RGCs), which survive in large numbers following
+neurodegenerative diseases, could be stimulated with extracellular electric
+pulses to elicit artificial percepts. How do the RGCs respond to electrical
+stimulation at the sub-cellular level under different stimulus configurations,
+and how does this influence the whole-cell response? At the population level, why
+have experiments yielded conflicting evidence regarding the extent of passing
+axon activation? We addressed these questions through simulations of
+morphologically and biophysically detailed computational RGC models on high
+performance computing clusters. We conducted the analyses on both large-field
+RGCs and small-field midget RGCs. The latter neurons are unique to primates. We
+found that at the single cell level the electric potential gradient in
+conjunction with neuronal element excitability, rather than the electrode center 
+location per se, determined the response threshold and latency. In addition,
+stimulus positioning strongly influenced the location of RGC response initiation 
+and subsequent activity propagation through the cellular structure. These
+findings were robust with respect to inhomogeneous tissue resistivity
+perpendicular to the electrode plane. At the population level, RGC cellular
+structures gave rise to low threshold hotspots, which limited axonal and
+multi-cell activation with threshold stimuli. Finally, due to variations in
+neuronal element excitability over space, following supra-threshold stimulation
+some locations favored localized activation of multiple cells, while others
+favored axonal activation of cells over extended space.
+
+DOI: 10.1371/journal.pone.0053357 
+PMCID: PMC3532448
+PMID: 23285287  [Indexed for MEDLINE]
+
+
+1622. Am J Phys Anthropol. 2013 Jan;150(1):21-8. doi: 10.1002/ajpa.22110.
+
+Body mass growth in common marmosets: toward a model of pediatric obesity.
+
+Tardif SD(1), Power ML, Ross CN, Rutherford JN.
+
+Author information: 
+(1)Barshop Institute for Longevity & Aging Studies, University of Texas Health
+Science Center, San Antonio, 78245, USA. tardif@uthscsa.edu
+
+While much is known about adult obesity in nonhuman primates, very little is
+known regarding development of childhood adiposity. As small monkeys that are
+easy to handle and have a relatively fast life history, common marmoset monkeys
+(Callithrix jacchus) offer interesting opportunities to examine the question of
+fat versus lean mass growth in a nonhuman primate. This article provides an
+overview of our understanding of early life growth in mass in marmoset monkeys,
+based primarily upon our past 20 years of research, culminating in our recent
+findings on early life obesity in this species. Common marmosets display variance
+in early life growth patterns that is related to both pre- and postnatal factors 
+and the marmoset uterine environment is exquisitely designed to reflect resources
+available for the gestation of multiple offspring, making them an interesting
+model of developmental programming. We have demonstrated that obesity can be
+generated in very early life in captive marmosets, with excess adiposity evident 
+by one month of age, making this species a potentially valuable model in which to
+study pediatric obesity and its sequelae. Birth weight is associated with
+adiposity in animals vulnerable to obesity. Early life exposure to higher fat
+diets enhances the chances of postweaning obesity development. However, overall
+higher food consumption is also associated with obesity development at later
+ages. One unexpected finding in our studies has been the relatively high body fat
+percentage of neonatal (12-18%) marmosets suggesting that hypotheses regarding
+the uniqueness of high human neonatal adiposity merit further examination.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajpa.22110 
+PMCID: PMC3607500
+PMID: 23283661  [Indexed for MEDLINE]
+

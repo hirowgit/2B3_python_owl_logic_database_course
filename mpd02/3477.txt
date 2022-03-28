@@ -1,0 +1,35 @@
+
+
+3477. Front Biosci. 1999 Mar 1;4:D212-5.
+
+Comparison of ZP3 protein sequences among vertebrate species: to obtain a
+consensus sequence for immunocontraception.
+
+Zhu X(1), Naz RK.
+
+Author information: 
+(1)Division of Research, Department of Obstetrics and Gynecology, Medical College
+of Ohio, Toledo, OH 43614-5806, USA.
+
+The deduced ZP3 amino acid (aa) sequences of 13 vertebrate species namely mouse, 
+hamster, rabbit, pig, porcine, cow, dog, cat, human, bonnet, marmoset, carp, and 
+frog were compared using the PILEUP and PRETTY alignment programs (GCG,
+Wisconsin, USA). The published aa sequences obtained from 13 vertebrate species
+indicated the overall evolutionarily conservation in the N-terminus, central
+region, and C-terminus of the ZP3 polypeptide. More variations of ZP3 polypeptide
+sequences were seen in the alignments of carp and frog from the 11 mammalian
+species making the leader sequence more prominent. The canonical furin
+proteolytic processing signal at the C-terminus was found in all the ZP3
+polypeptide sequences except of carp and frog. In the central region, the ZP3
+deduced aa sequences of all the 13 vertebrate species aligned well, and six
+relatively conserved sequences were found. There are 11 conserved cysteine
+residues in the central region across all species including carp and frog,
+indicating that these residues have longer evolutionary history. The ZP3 aa
+sequence similarities were examined using the GAP program (GCG). The highest aa
+similarities are observed between the members of the same order within the class 
+mammalia, and also (95.4%) between pig (ungulata) and rabbit (lagomorpha). The
+deduced ZP3 aa sequences per se may not be enough to build a phylogenetic tree.
+
+DOI: 10.2741/zhu 
+PMID: 10051457  [Indexed for MEDLINE]
+

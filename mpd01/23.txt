@@ -1,0 +1,82 @@
+
+
+23. Transl Vis Sci Technol. 2022 Jan 3;11(1):14. doi: 10.1167/tvst.11.1.14.
+
+A Robust Microbead Occlusion Model of Glaucoma for the Common Marmoset.
+
+Kumar S(1), Benavente-Perez A(1), Ablordeppey R(1), Lin C(1), Viswanathan S(1),
+Akopian A(1), Bloomfield SA(1).
+
+Author information: 
+(1)Department of Biological and Vision Sciences, State University of New York
+College of Optometry, New York, NY, USA.
+
+Purpose: To establish a robust experimental model of glaucoma in the common
+marmoset (Callithrix jacchus), a New World primate, using an intracameral
+microbead injection technique.
+Methods: Elevated intraocular pressure (IOP) was induced by an injection of
+polystyrene microbeads. Morphologic changes in the retina and optic nerve of
+glaucomatous eyes were assessed and electroretinogram (ERG) recordings were
+performed to evaluate functional changes.
+Results: Microbead injections induced a sustained IOP elevation for at least 10
+weeks in a reproducible manner. At the end of the 10-week experimental period,
+there was significant loss of retinal ganglion cells (RGCs) in all quadrants and 
+eccentricities, although it was more prominent in the mid-peripheral and
+peripheral regions. This was consistent with a thinning of the Retinal nerve
+fiber layer (RNFL) seen in spectral domain optical coherence tomography scans.
+Surviving RGCs showed marked changes in morphology, including somatic shrinkage
+and dendritic atrophy. Retinas also showed significant gliosis. The amplitude of 
+the ERG photopic negative response, with subsequent a- and b-wave changes, was
+reduced in glaucomatous eyes. The optic nerve of glaucomatous eyes showed
+expanded cupping, disorganization of the astrocytic matrix, axonal loss, and
+gliosis.
+Conclusions: We developed a robust and reproducible model of glaucoma in the
+marmoset. The model exhibits both structural and functional alterations of retina
+and optic nerve characteristic of glaucoma in humans and animal models.
+Translational Relevance: The glaucoma model in the marmoset described here forms 
+a robust method to study the disease etiology, progression, and potential
+therapies in a nonhuman primate, allowing for more effective translation of
+animal data to humans.
+
+DOI: 10.1167/tvst.11.1.14 
+PMCID: PMC8762714
+PMID: 35019964  [Indexed for MEDLINE]
+
+
+24. J Am Assoc Lab Anim Sci. 2022 Mar 1;61(2):113-131. doi:
+10.30802/AALAS-JAALAS-21-000061. Epub 2022 Jan 7.
+
+Factors Affecting Hematologic and Serum Biochemical Parameters in Healthy Common 
+Marmosets (Callithrix jacchus).
+
+Kramer RM(1), Sheh A(1), Toolan CH(1), Muthupalani S(1), Carrasco SE(1), Artim
+SC(1), Burns MA(1), Fox JG(1).
+
+Author information: 
+(1)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, MA.
+
+Physiologic changes during development, aging, and pregnancy may affect clinical 
+parameters. Previously available reference values have been based on samples that
+may include wild and captive marmosets, with little representation of geriatric
+or pregnant animals. Establishing reference values under various conditions would
+support better recognition of pathologic conditions in marmosets. One hundred and
+forty-seven (70 males and 77 females) healthy marmosets from a research colony
+were included in this study. Exclusion criteria were abnormal physical exam
+findings at the time of blood sampling, chronic medications, or clinical or
+pathologic evidence of disease. Reference intervals were calculated for serum
+chemistry and hematology. Using metadata, samples were classified based on age,
+sex, colony source and pregnancy status. Multiple tests indicated significant
+differences with varying effect sizes, indicating that developing reference
+intervals based on metadata can be useful. Across all the comparisons, medium or 
+large effect sizes were observed most frequently in blood urea nitrogen (BUN),
+calcium, total protein, alkaline phosphatase (ALP), weight and serum albumin. We 
+report normative clinical pathologic data for captive common marmosets through
+all life stages and reproductive status. Significant differences were observed in
+most parameters when stratifying data based on age, sex, colony source, or
+pregnancy, suggesting that developing reference intervals considering this
+information is important for clinicians.
+
+DOI: 10.30802/AALAS-JAALAS-21-000061 
+PMID: 34996528 
+

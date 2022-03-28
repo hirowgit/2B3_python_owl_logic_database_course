@@ -1,0 +1,40 @@
+
+
+3382. Rev Med Virol. 1999 Oct-Dec;9(4):263-77.
+
+In vivo models for Epstein-Barr virus (EBV)-associated B cell lymphoproliferative
+disease (BLPD).
+
+Johannessen I(1), Crawford DH.
+
+Author information: 
+(1)Department of Medical Microbiology, The University of Edinburgh Medical
+School, Teviot Place, Edinburgh EH8 9AG, UK. i.johannessen@ed.ac.uk
+
+EBV infects B lymphocytes in vivo and establishes a life-long persistent
+infection in the host. The latent infection is controlled by EBV-specific MHC
+class 1-restricted CTL. Immunosuppression reduces CTL activity, and this
+facilitates outgrowth of EBV+ve B cell lymphoproliferative disease (BLPD). BLPD
+are aggressive lesions with high mortality. This review presents some key facets 
+in the development of EBV-associated BLPD and in vivo studies on its
+pathogenesis. The animal models used to date include the common marmoset
+(Callithrix jacchus), the cottontop tamarin (Saguinus oedipus oedipus), rhesus
+monkey, murine herpesvirus 68 (MHV68), and the severe combined immunodeficient
+(scid) mouse, each of which has been used to address particular aspects of EBV
+biology and BLPD development. Scid mice inoculated i.p. with PBMC from
+EBV-seropositive individuals develop EBV+ve BLPD-like tumours. Thus this small
+animal model (hu-PBMC-scid) is currently used by many laboratories to investigate
+EBV-associated diseases. We and others have studied BLPD pathogenesis in the
+hu-PBMC-scid model and shown that EBV+ve B cells on their own do not give rise to
+tumours in this model without inclusion of autologous T cell subsets in the
+inoculum. Based on the findings that (1) established tumours do not contain T
+cells and (2) tumour cells express a variety of B cell growth factors, a stepwise
+model of lymphomagenesis in the scid mouse model can be defined. Additionally,
+the hu-PBMC-scid model can be used to assess novel therapeutic regimes against
+BLPD before introduction into a clinical setting.
+
+Copyright 1999 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/(sici)1099-1654(199910/12)9:4<263::aid-rmv256>3.0.co;2-d 
+PMID: 10578121  [Indexed for MEDLINE]
+

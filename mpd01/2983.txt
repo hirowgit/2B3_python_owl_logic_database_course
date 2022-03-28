@@ -1,0 +1,61 @@
+
+
+2983. Arch Virol. 2003 Jan;148(1):29-44.
+
+Host range of poliovirus is restricted to simians because of a rapid sequence
+change of the poliovirus receptor gene during evolution.
+
+Ida-Hosonuma M(1), Sasaki Y, Toyoda H, Nomoto A, Gotoh O, Yonekawa H, Koike S.
+
+Author information: 
+(1)Department of Microbiology and Immunology, Tokyo Metropolitan Institute for
+Neuroscience, Tokyo, Japan.
+
+The host range of most poliovirus (PV) strains is restricted to simians. This
+host range specificity is believed to be determined by the interaction between PV
+and its receptor molecule. To elucidate the molecular basis of this
+species-specific infection of PV, we cloned orthologs of the PV receptor (PVR)
+gene ( pvr) as well as those of PV receptor-related genes 1 and 2 ( prr1 and
+prr2) from various mammalian species. These three genes are widely present in
+mammalian genomes including those of non-susceptible species. Comparison of the
+deduced amino acid sequences of PVR orthologs revealed that the NH(2)-terminal
+immunoglobulin-like domain (domain 1), which is the virus binding site in the
+human PVR, is highly variable among species, whereas that of PRR1 is highly
+conserved. Domain 1 of the PVR orthologs for the ring-tailed lemur and rabbit,
+which are not susceptible to PV, show only 51 and 61% amino acid sequence
+identity to that of human PVR, respectively. Chimeric PVR proteins that have the 
+domain 1 of the ring-tailed lemur and rabbit PVRs failed to serve as receptors
+for PV. These results suggest that rapid changes in the domain 1 sequence during 
+mammalian evolution determined the host range restriction of PV.
+
+DOI: 10.1007/s00705-002-0910-7 
+PMID: 12536294  [Indexed for MEDLINE]
+
+
+2984. Brain Res. 2003 Jan 24;961(1):153-8.
+
+Orientation mosaic in barn owl's visual Wulst revealed by optical imaging:
+comparison with cat and monkey striate and extra-striate areas.
+
+Liu GB(1), Pettigrew JD.
+
+Author information: 
+(1)Vision, Touch and Hearing Research Centre, School of Biomedical Sciences, The 
+University of Queensland, St. Lucia, Brisbane, Qld 4067, Australia.
+g.liu@mailbox.uq.edu.au
+
+Using the technique of intrinsic signal optical imaging, orientation preference
+maps were obtained from the Wulst of the barn owl in the area that represents
+central vision, and from the visual cortices (V1 and V2) of cat and marmoset
+monkey. Iso-orientation domains in barn owl's visual Wulst were patch-like
+structures with an inter-patch distance of approximately 0.9 mm, arranged in a
+pinwheel-like manner around singularity points. The size of the iso-orientation
+domains in barn owl was larger than those found in area V1, but comparable to
+those found in area V2, of cat and monkey. Superficial layers of the owl visual
+Wulst may be equivalent to extra-striate visual areas of primates and carnivores,
+as already suggested by electrophysiologists discussing the much increased radial
+dimensions of the Wulst compared with neocortex in mammals.
+
+DOI: 10.1016/s0006-8993(02)03747-2 
+PMID: 12535788  [Indexed for MEDLINE]
+

@@ -1,0 +1,79 @@
+
+
+2963. Horm Behav. 2003 Jan;43(1):67-82.
+
+Are subordinates always stressed? A comparative analysis of rank differences in
+cortisol levels among primates.
+
+Abbott DH(1), Keverne EB, Bercovitch FB, Shively CA, Mendoza SP, Saltzman W,
+Snowdon CT, Ziegler TE, Banjevic M, Garland T Jr, Sapolsky RM.
+
+Author information: 
+(1)Department of Obstetrics/Gynecology, University of Wisconsin, Madison,WI
+53706, USA.
+
+Among primate species there is pronounced variation in the relationship between
+social status and measures of stress physiology. An informal meta-analysis was
+designed to investigate the basis of this diversity across different primate
+societies. Species were included only if a substantial amount of published
+information was available regarding both social behavior and rank-related
+differences in stress physiology. Four Old World and three New World species met 
+these criteria, including societies varying from small-group, singular
+cooperative breeders (common marmoset and cotton top tamarin) to large-troop,
+multi-male, multi-female polygynous mating systems (rhesus, cynomolgus, talapoin,
+squirrel monkeys, and olive baboon). A questionnaire was formulated to obtain
+information necessary to characterize the stress milieu for individuals in
+particular primate societies. We standardized cortisol values within each species
+by calculating the ratio of basal cortisol concentrations of subordinates to
+those of dominants in stable dominance hierarchies and expressing the ratio as a 
+percentage (relative cortisol levels). The meta-analysis identified two variables
+that significantly predicted relative cortisol levels: subordinates exhibited
+higher relative cortisol levels when they (1). were subjected to higher rates of 
+stressors, and (2). experienced decreased opportunities for social (including
+close kin) support. These findings have important implications for understanding 
+the different physiological consequences of dominant and subordinate social
+status across primate societies and how social rank may differ in its behavioral 
+and physiological manifestations among primate societies.
+
+DOI: 10.1016/s0018-506x(02)00037-5 
+PMID: 12614636  [Indexed for MEDLINE]
+
+
+2964. J Neurophysiol. 2003 Apr;89(4):2194-207. Epub 2002 Dec 11.
+
+Sensory-motor interaction in the primate auditory cortex during self-initiated
+vocalizations.
+
+Eliades SJ(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA.
+
+Little is known about sensory-motor interaction in the auditory cortex of
+primates at the level of single neurons and its role in supporting vocal
+communication. The present study investigated single-unit activities in the
+auditory cortex of a vocal primate, the common marmoset (Callithrix jacchus),
+during self-initiated vocalizations. We found that 1) self-initiated
+vocalizations resulted in suppression of neural discharges in a majority of
+auditory cortical neurons. The vocalization-induced inhibition suppressed both
+spontaneous and stimulus-driven discharges. Suppressed units responded poorly to 
+external acoustic stimuli during vocalization. 2) Vocalization-induced
+suppression began several hundred milliseconds prior to the onset of
+vocalization. 3) The suppression of cortical discharges reduced neural firings to
+below the rates expected from a unit's rate-level function, adjusted for known
+subcortical attenuation, and therefore was likely not entirely caused by
+subcortical attenuation mechanisms. 4) A smaller population of auditory cortical 
+neurons showed increased discharges during self-initiated vocalizations. This
+vocalization-related excitation began after the onset of vocalization and is
+likely the result of acoustic feedback. Units showing this excitation responded
+nearly normally to external stimuli during vocalization. Based on these findings,
+we propose that the suppression of auditory cortical neurons, possibly
+originating from cortical vocal production centers, acts to increase the dynamic 
+range of cortical responses to vocalization feedback for self monitoring. The
+excitatory responses, on the other hand, likely play a role in maintaining
+hearing sensitivity to the external acoustic environment during vocalization.
+
+DOI: 10.1152/jn.00627.2002 
+PMID: 12612021  [Indexed for MEDLINE]
+

@@ -1,0 +1,39 @@
+
+
+2966. Biol Reprod. 2003 Jun;68(6):2092-9. Epub 2003 Jan 22.
+
+Characterization of 17beta-hydroxysteroid dehydrogenase type 7 in reproductive
+tissues of the marmoset monkey.
+
+Husen B(1), Adamski J, Brüns A, Deluca D, Fuhrmann K, Möller G, Schwabe I,
+Einspanier A.
+
+Author information: 
+(1)Department of Reproductive Biology, German Primate Center, 37077 Göttingen,
+Germany.
+
+In contrast to the known rodent enzymes, the physiological significance of
+17beta-hydroxysteroid dehydrogenase type 7 (17HSD7) and its presumed function in 
+reproductive biology is not well understood in primates. As a first step, we
+recently cloned the complete coding regions of human and marmoset monkey
+(Callithrix jacchus) 17HSD7 (cj17HSD7). In the present work the complete cDNA of 
+marmoset 17HSD1 (cj17HSD1), including the proximal promoter region, and a partial
+sequence of marmoset aromatase (cjARO) were sequenced in order to compare the
+expression of these estradiol synthesizing enzymes with that of 17HSD7 in a
+primate model and to identify tissues where 17HSD7 might participate in the
+pathway of estradiol synthesis. The gene structures of cj17HSD1 and cj17HSD7 were
+determined and proved to be very similar to the human orthologues. Northern
+hybridization showed that cjARO mRNA seems to be coexpressed preferably with
+cj17HSD1 in placenta, whereas in other tissues it is expressed in parallel only
+with cj17HSD7. Especially in corpora lutea, the cj17HSD7 transcript is detectable
+throughout the luteal phase of the ovarian cycle and increases during pregnancy, 
+in parallel with the transcript of aromatase. Results were confirmed by
+immunoblots and immunohistochemistry using new polyclonal antisera directed
+against cj17HSD7 and cjARO protein. The enzymatic conversion of estrone to
+estradiol was assessed in marmoset corpora lutea. The pattern of coexpression
+with aromatase supports the hypothesis that luteal 17HSD7 complements placental
+17HSD1, ensuring continued estradiol synthesis throughout pregnancy in primates.
+
+DOI: 10.1095/biolreprod.102.012476 
+PMID: 12606385  [Indexed for MEDLINE]
+

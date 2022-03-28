@@ -1,0 +1,49 @@
+
+
+3073. Biol Reprod. 2002 Jun;66(6):1681-8.
+
+Analysis of a human sperm CD52 glycoform in primates: identification of an animal
+model for immunocontraceptive vaccine development.
+
+McCauley TC(1), Kurth BE, Norton EJ, Klotz KL, Westbrook VA, Rao AJ, Herr JC,
+Diekman AB.
+
+Author information: 
+(1)Department of Cell Biology, University of Virginia Health System,
+Charlottesville, Virginia 22908, USA.
+
+Sperm agglutination antigen-1 (SAGA-1) is a human male reproductive tract
+glycoform of CD52. Unique modification of CD52 N-linked oligosaccharide chains in
+the epididymis and vas deferens results in the appearance of a carbohydrate
+epitope that is localized over the entire surface of human spermatozoa. SAGA-1
+was characterized by the sperm-inhibitory murine monoclonal antibody (mAb) S19,
+and it is the target antigen of a human mAb (H6-3C4) associated with
+antibody-mediated infertility. Collectively, sperm surface localization, antibody
+inhibition of sperm function, and potential reproductive-tissue specificity
+identify SAGA-1 as an attractive candidate contraceptive immunogen. To establish 
+an animal model for the study of SAGA-1 in immunologic infertility and
+immunocontraceptive development, we investigated the appearance of the S19
+carbohydrate epitope in nonhuman primates. The S19 mAb demonstrated little to no 
+immunoreactivity by Western blot analysis with protein extracts of spermatozoa
+from the baboon, marmoset, bonnet, cynomolgus, and pigtailed macaques.
+Immunohistochemical analysis identified CD52 in the bonnet monkey epididymis;
+however, the N-linked carbohydrate moiety recognized by the S19 mAb, and unique
+to SAGA-1, was absent. In contrast, the S19 carbohydrate epitope was identified
+in chimpanzee sperm extracts by Western blot analysis and in chimpanzee
+epididymal tissue sections by immunohistochemical analysis, indicating that it is
+conserved in this close relative of the human. Chimpanzee testis, seminal
+vesicle, and prostate do not express the S19 epitope. Although anti-CD52
+immunoreactivity was identified in the spleen, the carbohydrate moiety recognized
+by the S19 mAb was absent, corroborating data in the human that demonstrated
+tissue-specific glycosylation of sperm CD52. Immunofluorescent analysis indicated
+that the chimpanzee homologue of sperm CD52 was present over the entire
+spermatozoon. In addition, the S19 mAb agglutinated chimpanzee spermatozoa in a
+manner similar to the effect observed on human spermatozoa. These data indicate
+that the distinctive carbohydrate moiety of human sperm CD52 is present in the
+chimpanzee, and they identify the chimpanzee as the most appropriate primate
+model to study the potential of this unique CD52 glycoform as a contraceptive
+immunogen.
+
+DOI: 10.1095/biolreprod66.6.1681 
+PMID: 12021047  [Indexed for MEDLINE]
+

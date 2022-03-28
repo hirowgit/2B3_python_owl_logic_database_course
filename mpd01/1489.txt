@@ -1,0 +1,81 @@
+
+
+1489. Proc Natl Acad Sci U S A. 2013 Nov 12;110(46):18537-42. doi:
+10.1073/pnas.1317608110. Epub 2013 Oct 28.
+
+Epstein-Barr virus nuclear antigen leader protein localizes to promoters and
+enhancers with cell transcription factors and EBNA2.
+
+Portal D(1), Zhou H, Zhao B, Kharchenko PV, Lowry E, Wong L, Quackenbush J,
+Holloway D, Jiang S, Lu Y, Kieff E.
+
+Author information: 
+(1)Department of Medicine, Brigham and Women's Hospital, and Department of
+Microbiology and Immunobiology, Harvard University, Boston, MA 02115.
+
+Epstein-Barr virus (EBV) nuclear antigens EBNALP (LP) and EBNA2 (E2) are
+coexpressed in EBV-infected B lymphocytes and are critical for lymphoblastoid
+cell line outgrowth. LP removes NCOR and RBPJ repressive complexes from
+promoters, enhancers, and matrix-associated deacetylase bodies, whereas E2
+activates transcription from distal enhancers. LP ChIP-seq analyses identified
+19,224 LP sites of which ~50% were ± 2 kb of a transcriptional start site. LP
+sites were enriched for B-cell transcription factors (TFs), YY1, SP1, PAX5, BATF,
+IRF4, ETS1, RAD21, PU.1, CTCF, RBPJ, ZNF143, SMC3, NFκB, TBLR, and EBF. E2 sites 
+were also highly enriched for LP-associated cell TFs and were more highly
+occupied by RBPJ and EBF. LP sites were highly marked by H3K4me3, H3K27ac, H2Az, 
+H3K9ac, RNAPII, and P300, indicative of activated transcription. LP sites were
+29% colocalized with E2 (LP/E2). LP/E2 sites were more similar to LP than to E2
+sites in associated cell TFs, RNAPII, P300, and histone H3K4me3, H3K9ac, H3K27ac,
+and H2Az occupancy, and were more highly transcribed than LP or E2 sites. Gene
+affected by CTCF and LP cooccupancy were more highly expressed than genes
+affected by CTCF alone. LP was at myc enhancers and promoters and of MYC
+regulated ccnd2, 23 med complex components, and MYC regulated cell survival
+genes, igf2r and bcl2. These data implicate LP and associated TFs and DNA looping
+factors CTCF, RAD21, SMC3, and YY1/INO80 chromatin-remodeling complexes in
+repressor depletion and gene activation necessary for lymphoblastoid cell line
+growth and survival.
+
+DOI: 10.1073/pnas.1317608110 
+PMCID: PMC3832032
+PMID: 24167291  [Indexed for MEDLINE]
+
+
+1490. Vis Neurosci. 2014 Jan;31(1):85-98. doi: 10.1017/S0952523813000448. Epub 2013 Oct
+25.
+
+Uniformity and diversity of response properties of neurons in the primary visual 
+cortex: selectivity for orientation, direction of motion, and stimulus size from 
+center to far periphery.
+
+Yu HH(1), Rosa MG(1).
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, Victoria, Australia.
+
+Although the primary visual cortex (V1) is one of the most extensively studied
+areas of the primate brain, very little is known about how the far periphery of
+visual space is represented in this area. We characterized the physiological
+response properties of V1 neurons in anaesthetized marmoset monkeys, using
+high-contrast drifting gratings. Comparisons were made between cells with
+receptive fields located in three regions of V1, defined by eccentricity: central
+(3-5°), near peripheral (5-15°), and far peripheral (>50°). We found that
+orientation selectivity of individual cells was similar from the center to the
+far periphery. Nonetheless, the proportion of orientation-selective neurons was
+higher in central visual field representation than in the peripheral
+representations. In addition, there were similar proportions of cells
+representing all orientations, with the exception of the representation of the
+far periphery, where we detected a bias favoring near-horizontal orientations.
+The proportions of direction-selective cells were similar throughout V1. When the
+center/surround organization of the receptive fields was tested with gratings
+with varying diameters, we found that the population of neurons that was
+suppressed by large gratings was smaller in the far periphery, although the
+strength of suppression in these cells tended to be stronger. In addition, the
+ratio between the diameters of the excitatory centers and suppressive surrounds
+was similar across the entire visual field. These results suggest that,
+superimposed on the broad uniformity of V1, there are subtle physiological
+differences, which indicate that spatial information is processed differently in 
+the central versus far peripheral visual fields.
+
+DOI: 10.1017/S0952523813000448 
+PMID: 24160942  [Indexed for MEDLINE]
+

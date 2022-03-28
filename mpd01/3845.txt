@@ -1,0 +1,62 @@
+
+
+3845. Pharm Res. 1996 Jan;13(1):97-101.
+
+Interspecies scaling of bosentan, a new endothelin receptor antagonist and
+integration of in vitro data into allometric scaling.
+
+Lave T(1), Coassolo P, Ubeaud G, Brandt R, Schmitt C, Dupin S, Jaeck D, Chou RC.
+
+Author information: 
+(1)Hoffmann-LaRoche, Basel, Switzerland.
+
+PURPOSE: The goal of this study was to find a rational and reliable method of
+using animal data to predict the clearance of metabolised drugs in humans.
+METHODS: One such approach is to use in vitro liver models (e.g. hepatocytes and 
+microsomes) to determine the relative capacities of the various animal species
+and humans to metabolise the test compound. These data can then be combined with 
+the in vivo clearances in animals, to calculate the in vivo clearance in humans
+using allometric scaling techniques. In this study, this approach was evaluated
+with a new endothelin receptor antagonist, bosentan, which is eliminated mainly
+through metabolism and is characterized by very large interspecies differences in
+clearance. Therefore, this compound provided a stringent test of our new
+extrapolation method for allometric scaling.
+RESULTS: The results obtained with bosentan showed that adjusting the in vivo
+clearance in the different animal species for the relative rates of metabolism in
+vitro gave a far better prediction of human clearance than an empirical
+correcting factor (brain weight).
+CONCLUSIONS: This approach provided a more rational basis for predicting the
+clearance of metabolised compounds in humans.
+
+DOI: 10.1023/a:1016037519116 
+PMID: 8668687  [Indexed for MEDLINE]
+
+
+3846. Cytogenet Cell Genet. 1996;72(4):331-8.
+
+Chromosomal relationships and phylogenetic and clustering analyses on genes
+Callithrix group argentata (Callitrichidae, Primates).
+
+Nagamachi CY(1), Pieczarka JC, Barros RM, Schwarz M, Muniz JA, Mattevi MS.
+
+Author information: 
+(1)Departamento de Genética, Universidade Federal do Rio Grande do Sul, Porto
+Alegre, Brazil. Julio@marajo.secom.ufpa.br
+
+The karyotypes of three species of marmosets of the Callithrix argentata group
+(C. argentata, C. humeralifera and C. chrysoleuca) were studied. Comparisons were
+made among species and with the previously described karyotypes of C. emiliae, C.
+mauesi (argentata group) and C. jacchus (jacchus group). Two chromosomes
+rearrangements differentiate the argentata (2n=44) and jacchus (2n=46) groups:
+fusion or fission and a paracentric invasion. The argentata group is also
+characterized by the addition of large amounts of distal constitutive
+heterochromatin (CH) in some chromosomes, while the jacchus group shows mainly
+centromeric heterochromatin. The five species of the argentata group differ in
+the amount or location of the distal CH. Interspecific differences were converted
+to a Basic Data Matrix (BDM), that was submitted to phenetic and cladistic
+analyses. For cladistic analyses C. jacchus was the outgroup. The results agree
+with morphological and geographical data.
+
+DOI: 10.1159/000134216 
+PMID: 8641142  [Indexed for MEDLINE]
+

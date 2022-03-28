@@ -1,0 +1,71 @@
+
+
+3566. Nat Med. 1998 Jul;4(7):827-31.
+
+Aging renders the brain vulnerable to amyloid beta-protein neurotoxicity.
+
+Geula C(1), Wu CK, Saroff D, Lorenzo A, Yuan M, Yankner BA.
+
+Author information: 
+(1)Beth Israel Deaconess Medical Center and Department of Medicine, Harvard
+Medical School, Boston, Massachusetts 02215, USA. cgeula@west.bidmc.harvard.edu
+
+Comment in
+    Nat Med. 1998 Jul;4(7):745.
+
+The formation of fibrillar deposits of amyloid beta protein (Abeta) in the brain 
+is a pathological hallmark of Alzheimer's disease (AD). A central question is
+whether Abeta plays a direct role in the neurodegenerative process in AD. The
+involvement of Abeta in the neurodegenerative process is suggested by the
+neurotoxicity of the fibrillar form of Abeta in vitro. However, mice transgenic
+for the Abeta precursor protein that develop amyloid deposits in the brain do not
+show the degree of neuronal loss or tau phosphorylation found in AD. Here we show
+that microinjection of plaque-equivalent concentrations of fibrillar, but not
+soluble, Abeta in the aged rhesus monkey cerebral cortex results in profound
+neuronal loss, tau phosphorylation and microglial proliferation. Fibrillar Abeta 
+at plaque-equivalent concentrations is not toxic in the young adult rhesus brain.
+Abeta toxicity in vivo is also highly species-specific; toxicity is greater in
+aged rhesus monkeys than in aged marmoset monkeys, and is not significant in aged
+rats. These results suggest that Abeta neurotoxicity in vivo is a pathological
+response of the aging brain, which is most pronounced in higher order primates.
+Thus, longevity may contribute to the unique susceptibility of humans to
+Alzheimer's disease by rendering the brain vulnerable to Abeta neurotoxicity.
+
+DOI: 10.1038/nm0798-827 
+PMID: 9662375  [Indexed for MEDLINE]
+
+
+3567. J Virol. 1998 Aug;72(8):6770-6.
+
+A role for herpesvirus saimiri orf14 in transformation and persistent infection.
+
+Duboise M(1), Guo J, Czajak S, Lee H, Veazey R, Desrosiers RC, Jung JU.
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, New England Regional
+Primate Research Center, Harvard Medical School, Southborough, Massachusetts
+01772-9102, USA.
+
+The product of open reading frame 14 (orf14) of herpesvirus saimiri (HVS)
+exhibits significant homology with mouse mammary tumor virus superantigen. orf14 
+encodes a 50-kDa secreted glycoprotein, as shown previously (Z. Yao, E.
+Maraskovsky, M. K. Spriggs, J. I. Cohen, R. J. Armitage, and M. R. Alderson, J.
+Immunol. 156:3260-3266, 1996). orf14 expressed from recombinant baculovirus
+powerfully induces proliferation of CD4-positive cells originating from several
+different species. To study the role of orf14 in transformation, a mutant form of
+HVS (HVS Deltaorf14) was constructed with a deletion in the orf14 gene. The
+transforming potential of HVS Deltaorf14 was tested in cell culture and in common
+marmosets. Parental HVS subgroup C strain 488 immortalized common marmoset T
+lymphocytes in vitro to interleukin-2-independent growth, while the HVS
+Deltaorf14 mutant did not produce such a growth transformation. In addition, HVS 
+Deltaorf14 was nononcogenic in common marmosets. In contrast to other
+nononcogenic HVS mutant viruses which were repeatedly isolated from peripheral
+blood mononuclear cells of infected marmosets for more than 5 months, HVS
+Deltaorf14 did not persist at a high level in vivo. These results demonstrate
+that orf14 of HVS is not required for replication but is required for
+transformation and for high-level persistence in vivo.
+
+DOI: 10.1128/JVI.72.8.6770-6776.1998 
+PMCID: PMC109885
+PMID: 9658125  [Indexed for MEDLINE]
+

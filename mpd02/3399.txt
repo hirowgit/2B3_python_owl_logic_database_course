@@ -1,0 +1,28 @@
+
+
+3399. Tissue Antigens. 1999 Aug;54(2):146-52.
+
+HLA-DR polymorphism influences T-cell precursor frequencies to Epstein-Barr virus
+(EBV) gp110: implications for the association of HLA-DR antigens with rheumatoid 
+arthritis.
+
+Toussirot E(1), Auger I, Roudier C, Luka J, Wendling D, Tiberghien P, Roudier J.
+
+Author information: 
+(1)Service de Rhumatologie, Hopital Minjoz, Besançon, France.
+
+To study whether HLA-DR haplotypes associated with susceptibility to develop
+rheumatoid arthritis (RA) may influence T-cell responses to the Epstein-Barr
+virus (EBV) gp110 (a protein of the late replicative cycle of EBV), we evaluated 
+the frequency in peripheral blood of T cells capable to proliferate to EBV gp110 
+by direct limiting dilution analysis in 50 HLA-DR-typed healthy subjects. NVe
+found that HLA-DRB1*07, an allele associated with reduced risk to develop RA, is 
+associated with the highest frequencies of T cells specific for gp110 in
+peripheral blood. In contrast, HLA-DRB1*0404, one of the susceptibility alleles
+is associated with the lowest frequencies of gp110 specific T cells. Finally,
+people expressing both HLA-DRB1*07 and HLA-DRB1*0404 display low precursor
+frequencies to EBV gp110.
+
+DOI: 10.1034/j.1399-0039.1999.540205.x 
+PMID: 10488741  [Indexed for MEDLINE]
+

@@ -1,0 +1,41 @@
+
+
+1489. Proc Natl Acad Sci U S A. 2013 Nov 12;110(46):18537-42. doi:
+10.1073/pnas.1317608110. Epub 2013 Oct 28.
+
+Epstein-Barr virus nuclear antigen leader protein localizes to promoters and
+enhancers with cell transcription factors and EBNA2.
+
+Portal D(1), Zhou H, Zhao B, Kharchenko PV, Lowry E, Wong L, Quackenbush J,
+Holloway D, Jiang S, Lu Y, Kieff E.
+
+Author information: 
+(1)Department of Medicine, Brigham and Women's Hospital, and Department of
+Microbiology and Immunobiology, Harvard University, Boston, MA 02115.
+
+Epstein-Barr virus (EBV) nuclear antigens EBNALP (LP) and EBNA2 (E2) are
+coexpressed in EBV-infected B lymphocytes and are critical for lymphoblastoid
+cell line outgrowth. LP removes NCOR and RBPJ repressive complexes from
+promoters, enhancers, and matrix-associated deacetylase bodies, whereas E2
+activates transcription from distal enhancers. LP ChIP-seq analyses identified
+19,224 LP sites of which ~50% were ± 2 kb of a transcriptional start site. LP
+sites were enriched for B-cell transcription factors (TFs), YY1, SP1, PAX5, BATF,
+IRF4, ETS1, RAD21, PU.1, CTCF, RBPJ, ZNF143, SMC3, NFκB, TBLR, and EBF. E2 sites 
+were also highly enriched for LP-associated cell TFs and were more highly
+occupied by RBPJ and EBF. LP sites were highly marked by H3K4me3, H3K27ac, H2Az, 
+H3K9ac, RNAPII, and P300, indicative of activated transcription. LP sites were
+29% colocalized with E2 (LP/E2). LP/E2 sites were more similar to LP than to E2
+sites in associated cell TFs, RNAPII, P300, and histone H3K4me3, H3K9ac, H3K27ac,
+and H2Az occupancy, and were more highly transcribed than LP or E2 sites. Gene
+affected by CTCF and LP cooccupancy were more highly expressed than genes
+affected by CTCF alone. LP was at myc enhancers and promoters and of MYC
+regulated ccnd2, 23 med complex components, and MYC regulated cell survival
+genes, igf2r and bcl2. These data implicate LP and associated TFs and DNA looping
+factors CTCF, RAD21, SMC3, and YY1/INO80 chromatin-remodeling complexes in
+repressor depletion and gene activation necessary for lymphoblastoid cell line
+growth and survival.
+
+DOI: 10.1073/pnas.1317608110 
+PMCID: PMC3832032
+PMID: 24167291  [Indexed for MEDLINE]
+

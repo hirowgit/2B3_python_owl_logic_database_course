@@ -1,0 +1,30 @@
+
+
+3648. Vision Res. 1997 Aug;37(16):2171-81.
+
+Receptive field dimensions of lateral geniculate cells in the common marmoset
+(Callithrix jacchus).
+
+Kremers J(1), Weiss S.
+
+Author information: 
+(1)Department of Experimental Ophthalmology, University of Tübingen Eye Hospital,
+Germany. jan.kremers@uni-tuebingen.de
+
+We measured the spatial receptive field dimensions of cells in the lateral
+geniculate nucleus (LGN) of the common marmoset (Callithrix jacchus) using a
+bipartite field stimulus in which the two halves of the field were modulated
+identically but in counterphase. Horizontal and vertical edges between the two
+fields were positioned at different locations in the receptive field. By assuming
+that centers and surrounds have gaussian profiles, we were able to obtain a
+satisfactory mathematical description of the data. Receptive field centers were
+about a factor 1.6 larger than those of macaque LGN cells, in accordance with the
+smaller marmoset eye. There was a limited correspondence with dendritic tree
+dimensions of marmoset retinal ganglion cells. We further found that center and
+surround gaussians were not always concentric, and that the centers of some cells
+were elongated. This might allow some direction or orientation biases in LGN
+cells.
+
+DOI: 10.1016/s0042-6989(97)00041-2 
+PMID: 9578900  [Indexed for MEDLINE]
+

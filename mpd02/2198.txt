@@ -1,0 +1,40 @@
+
+
+2198. Am J Primatol. 2009 Apr;71(4):324-32. doi: 10.1002/ajp.20656.
+
+Production and perception of sex differences in vocalizations of Wied's
+black-tufted-ear marmosets (Callithrix kuhlii).
+
+Smith AS(1), Birnie AK, Lane KR, French JA.
+
+Author information: 
+(1)Department of Psychology, University of Nebraska at Omaha, Omaha, Nebraska
+68182, USA. assmith@mail.unomaha.edu
+
+Males and females from many species produce distinct acoustic variations of
+functionally identical call types. Social behavior may be primed by sex-specific 
+variation in acoustic features of calls. We present a series of acoustic analyses
+and playback experiments as methods for investigating this subject. Acoustic
+parameters of phee calls produced by Wied's black-tufted-ear marmosets
+(Callithrix kuhlii) were analyzed for sex differences. Discriminant function
+analyses showed that calls contained sufficient acoustic variation to predict the
+sex of the caller. Several frequency variables differed significantly between the
+sexes. Natural and synthesized calls were presented to male-female pairs. Calls
+elicited differential behavioral responses based on the sex of the caller.
+Marmosets became significantly more vigilant following the playback of male phee 
+calls (both natural and synthetic) than following female phee calls. In a second 
+playback experiment, synthesized calls were modified by independently
+manipulating three parameters that were known to differ between the sexes (low-, 
+peak-, and end-frequency). When end-frequency-modified calls were presented,
+responsiveness was differentiable by sex of caller but did not differ from
+responses to natural calls. This suggests that marmosets did not use
+end-frequency to determine the sex of the caller. Manipulation of peak-and
+low-frequency parameters eliminated the discrete behavioral responses to male and
+female calls. Together, these parameters may be important features that encode
+for the sex-specific signal. Recognition of sex by acoustic cues seems to be a
+multivariate process that depends on the congruency of acoustic features.
+
+DOI: 10.1002/ajp.20656 
+PMCID: PMC2981084
+PMID: 19090554  [Indexed for MEDLINE]
+

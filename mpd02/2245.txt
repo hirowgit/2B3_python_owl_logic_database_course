@@ -1,0 +1,39 @@
+
+
+2245. J Toxicol Sci. 2008 Aug;33(3):315-25.
+
+Prediction of drug-induced QT interval prolongation in telemetered common
+marmosets.
+
+Tabo M(1), Hara T, Sone S, Shishido N, Kuramoto S, Nakano K, Onodera H, Kimura K,
+Kobayashi K.
+
+Author information: 
+(1)Safety Assessment Department, Research Division, Chugai Pharmaceutical Co.,
+Ltd., Shizuoka. tabomty@chugai-pharm.co.jp
+
+Drug-induced QT interval prolongation is a critical issue in development of new
+chemical entities, so the pharmaceutical industry needs to evaluate risk as early
+as possible. Common marmosets have been in the limelight in early-stage
+development due to their small size, which requires only a small amount of test
+drug. The purpose of this study was to determine the utility of telemetered
+common marmosets for predicting drug-induced QT interval prolongation. Telemetry 
+transmitters were implanted in common marmosets (male and female), and QT and RR 
+intervals were measured. The QT interval was corrected for the RR interval by
+applying Bazett's and Fridericia's correction formulas and individual rate
+correction. Individual correction showed the least slope for the linear
+regression of corrected QT (QTc) intervals against RR intervals, indicating that 
+it dissociated changes in heart rate most effectively. With the individual
+correction method, the QT-prolonging drugs (astemizole, dl-sotalol) showed QTc
+interval prolongations and the non-QT-prolonging drugs (dl-propranolol,
+nifedipine) did not show QTc interval prolongations. The plasma concentrations of
+astemizole and dl-sotalol associated with QTc interval prolongations in common
+marmosets were similar to those in humans, suggesting that the sensitivity of
+common marmosets would be appropriate for evaluating risk of drug-induced QT
+interval prolongation. In conclusion, telemetry studies in common marmosets are
+useful for predicting clinical QT prolonging potential of drugs in early stage
+development and require only a small amount of test drug.
+
+DOI: 10.2131/jts.33.315 
+PMID: 18670163  [Indexed for MEDLINE]
+

@@ -1,0 +1,114 @@
+
+
+886. Neurosci Res. 2017 Sep;122:25-34. doi: 10.1016/j.neures.2017.04.001. Epub 2017
+Apr 9.
+
+Elucidation of developmental patterns of marmoset corpus callosum through a
+comparative MRI in marmosets, chimpanzees, and humans.
+
+Sakai T(1), Komaki Y(2), Hata J(3), Okahara J(3), Okahara N(2), Inoue T(2),
+Mikami A(4), Matsui M(5), Oishi K(6), Sasaki E(7), Okano H(8).
+
+Author information: 
+(1)The Russell H. Morgan Department of Radiology and Radiological Science, Johns 
+Hopkins University School of Medicine, Baltimore, MD 21205, USA; Department of
+Physiology, Keio University School of Medicine, Tokyo 160-8582, Japan; Primate
+Research Institute, Kyoto University, Inuyama, Aichi 484-8506, Japan; Japan
+Society for the Promotion of Science, Tokyo 102-0083, Japan. Electronic address: 
+sakai.tomoko.5w@gmail.com.
+(2)Department of Physiology, Keio University School of Medicine, Tokyo 160-8582, 
+Japan; Central Institute for Experimental Animals, 3-25-12 Tonomachi, Kawasaki,
+Kanagawa 210-0821, Japan.
+(3)Department of Physiology, Keio University School of Medicine, Tokyo 160-8582, 
+Japan; Central Institute for Experimental Animals, 3-25-12 Tonomachi, Kawasaki,
+Kanagawa 210-0821, Japan; RIKEN Brain Science Institute, Laboratory for Marmoset 
+Neural Architecture, Wako, Saitama 351-0198, Japan.
+(4)Primate Research Institute, Kyoto University, Inuyama, Aichi 484-8506, Japan; 
+Faculty of Nursing and Rehabilitation, Chubu Gakuin University, Seki, Gifu
+504-0837, Japan.
+(5)Department of Cognitive Science, Institute of Liberal Arts and Science,
+Kanazawa University, Ishikawa 920-1192, Japan.
+(6)The Russell H. Morgan Department of Radiology and Radiological Science, Johns 
+Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+(7)Central Institute for Experimental Animals, 3-25-12 Tonomachi, Kawasaki,
+Kanagawa 210-0821, Japan; RIKEN Brain Science Institute, Laboratory for Marmoset 
+Neural Architecture, Wako, Saitama 351-0198, Japan; Advanced Research Center,
+Keio University, Shinjuku-ku, Tokyo 160-8582, Japan. Electronic address:
+esasaki@ciea.or.jp.
+(8)Department of Physiology, Keio University School of Medicine, Tokyo 160-8582, 
+Japan; RIKEN Brain Science Institute, Laboratory for Marmoset Neural
+Architecture, Wako, Saitama 351-0198, Japan. Electronic address:
+hidokano@a2.keio.jp.
+
+The corpus callosum (CC) is present in all primate brains and is the major white 
+matter tract connecting the cerebral hemispheres for integration of sensory,
+motor and higher-order cognitive information. The midsagittal area of the CC has 
+frequently been used as a sensitive biomarker of brain development. Although the 
+marmoset has been considered as an alternative non-human primate model for
+neuroscience research, the developmental patterns of the CC have not been
+explored. The present longitudinal study of magnetic resonance imaging
+demonstrated that marmosets show a rapid increase of CC during infancy, followed 
+by a slow increase during the juvenile stage, as observed in chimpanzees and
+humans. Marmosets also show a tendency toward a greater increase in CC during
+late infancy and the juvenile stage, as observed in humans, but not in
+chimpanzees. However, several differences between marmosets and humans were
+identified. There was a tendency toward a greater maturation of the human CC
+during early infancy. Furthermore, there was a tendency toward a greater increase
+during late infancy and the juvenile stage in marmosets, compared to that
+observed in chimpanzees and humans. These differences in the developmental
+trajectories of the CC may be related to evolutional changes in social behavior.
+
+Copyright © 2017. Published by Elsevier B.V.
+
+DOI: 10.1016/j.neures.2017.04.001 
+PMID: 28400206  [Indexed for MEDLINE]
+
+
+887. J Neurosci Methods. 2017 Jun 1;284:35-46. doi: 10.1016/j.jneumeth.2017.04.004.
+Epub 2017 Apr 8.
+
+Common marmoset (Callithrix jacchus) as a primate model for behavioral
+neuroscience studies.
+
+Prins NW(1), Pohlmeyer EA(1), Debnath S(1), Mylavarapu R(1), Geng S(1), Sanchez
+JC(1), Rothen D(2), Prasad A(3).
+
+Author information: 
+(1)Department of Biomedical Engineering, University of Miami, Coral Gables, FL
+33146, United States.
+(2)Division of Veterinary Resources, University of Miami, Coral Gables, FL 33146,
+United States.
+(3)Department of Biomedical Engineering, University of Miami, Coral Gables, FL
+33146, United States. Electronic address: a.prasad@miami.edu.
+
+BACKGROUND: The common marmoset (Callithrix jacchus) has been proposed as a
+suitable bridge between rodents and larger primates. They have been used in
+several types of research including auditory, vocal, visual, pharmacological and 
+genetics studies. However, marmosets have not been used as much for behavioral
+studies.
+NEW METHOD: Here we present data from training 12 adult marmosets for behavioral 
+neuroscience studies. We discuss the husbandry, food preferences, handling,
+acclimation to laboratory environments and neurosurgical techniques. In this
+paper, we also present a custom built "scoop" and a monkey chair suitable for
+training of these animals.
+RESULTS: The animals were trained for three tasks: 4 target center-out reaching
+task, reaching tasks that involved controlling robot actions, and touch screen
+task. All animals learned the center-out reaching task within 1-2 weeks whereas
+learning reaching tasks controlling robot actions task took several months of
+behavioral training where the monkeys learned to associate robot actions with
+food rewards.
+COMPARISON TO EXISTING METHOD: We propose the marmoset as a novel model for
+behavioral neuroscience research as an alternate for larger primate models. This 
+is due to the ease of handling, quick reproduction, available neuroanatomy,
+sensorimotor system similar to larger primates and humans, and a lissencephalic
+brain that can enable implantation of microelectrode arrays relatively easier at 
+various cortical locations compared to larger primates.
+CONCLUSION: All animals were able to learn behavioral tasks well and we present
+the marmosets as an alternate model for simple behavioral neuroscience tasks.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2017.04.004 
+PMCID: PMC5514563
+PMID: 28400103  [Indexed for MEDLINE]
+

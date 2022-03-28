@@ -1,0 +1,73 @@
+
+
+2933. J Neurosci. 2003 May 15;23(10):4378-85.
+
+Variable dopamine release probability and short-term plasticity between
+functional domains of the primate striatum.
+
+Cragg SJ(1).
+
+Author information: 
+(1)Department of Pharmacology, University of Oxford, UK.
+stephanie.cragg@pharm.ox.ac.uk
+
+Release of the neuromodulator dopamine (DA) is critical to the control of
+locomotion, motivation, and reward. However, the probability of DA release is not
+well understood. Current understanding of neurotransmitter release probability in
+the CNS is limited to the conventional synaptic amino acid transmitters (e.g.,
+glutamate and GABA). These fast neurotransmitters are released with a repertoire 
+of probabilities according to synapse type, and these probabilities show
+activity-dependent plasticity according to synapse use. Synapses for
+neuromodulators such as DA, however, are designed for signaling that diverges
+temporally and spatially from that for fast neurotransmitters: DA receptors are
+exclusively metabotropic and at sites that extend to extrasynaptic locations and 
+neighboring synapses. In this study, the release probability of DA was explored
+in real time in limbicversus motor-associated functional domains of the striatum 
+of a primate (marmoset; Callithrix jacchus) using fast-scan voltammetry at a
+carbon-fiber microelectrode. We show that the probability of axonal DA release
+varies with striatal domain. Furthermore, release probability exhibits a
+short-term, activity-dependent plasticity that ranges from depression to
+facilitation in motor-through limbic-associated regions, respectively. Rapid
+plasticity does not result from metabotropic D2-like DA receptor activation or
+ionotropic GABA(A) receptor effects but is dependent on Ca2+ availability. These 
+data reveal that rapid dynamics in DA release probability will participate in the
+transmission of the patterns and frequencies encoded by DA neuron action
+potential discharge. Furthermore, the regional variation in these features
+indicates that limbic-versus motor-associated DA neurons are permitted to
+generate diverse DA signals in response to a given firing pattern.
+
+
+PMCID: PMC6741072
+PMID: 12764127  [Indexed for MEDLINE]
+
+
+2934. Genes Immun. 2003 Jun;4(4):251-7.
+
+Evolution of the beta defensin 2 gene in primates.
+
+Boniotto M(1), Tossi A, DelPero M, Sgubin S, Antcheva N, Santon D, Masters J,
+Crovella S.
+
+Author information: 
+(1)Dipartimento di Scienze della Riproduzione e dello Sviluppo, Università di
+Trieste, Trieste, Italy.
+
+With the aim of further investigating the molecular evolution of beta defensin
+genes, after having analysed beta defensin 1 (DEFB1) in humans and several
+nonhuman primate species, we have studied the evolution of the beta defensin 2
+gene (DEFB2), which codifies for a peptide with antimicrobial and chemoattractant
+activity, in humans and 16 primate species. We have found evidence of positive
+selection during the evolution of orthologous DEFB2 genes at two points on a
+phylogenetic tree relating these primates: during the divergence of the
+platyrrhines from the catarrhines and during the divergence of the
+Cercopithecidae from the Hylobatidae, Great Apes and humans. Furthermore, amino
+acid variations in Old World Monkeys seem to centre either on residues that are
+involved in oligomerisation in the human molecule, or that are conserved (40-80%)
+in beta-defensins in general. It is thus likely that these variations affect the 
+biological function of the molecules and suggest that their synthesis and
+functional analysis might reveal interesting new information as to their role in 
+innate immunity.
+
+DOI: 10.1038/sj.gene.6363958 
+PMID: 12761560  [Indexed for MEDLINE]
+

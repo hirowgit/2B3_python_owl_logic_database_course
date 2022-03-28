@@ -1,0 +1,32 @@
+
+
+3208. J Med Primatol. 2000 Oct;29(5):343-9.
+
+Cross-reactivity of antibodies on thymic epithelial cells from humans and
+marmosets by flow-cytometry.
+
+Riecke K(1), Nogueira AC, Alexi-Meskishvili V, Stahlmann R.
+
+Author information: 
+(1)Institute of Clinical Pharmacology and Toxicology, Department of Toxicology,
+Benjamin Franklin Medical Centre, Freie Universität Berlin.
+riecke@medizin.fu-berlin.de
+
+Callithrix jacchus, the common marmoset, is particularly suitable for
+immunological studies in vivo and in vitro since many antibodies directed against
+epitopes of human cells do also react with their analogues from this non-human
+primate. We studied the reactivity of antibodies against human epitopes on
+primary cultures of thymic epithelial cells from marmosets and humans by
+flow-cytometry after different culture periods. The antibodies against integrins,
+including CD61, reacted with thymic epithelial cells from both humans and
+marmosets, as did anti-CD44 and anti-CD106. Antibodies specific for thymic
+epithelial cells (TE-3, TE-4, TE-8, TE-15, TE-16, TE-19) also bound to cells from
+marmosets but expression of all epitopes was not observed in all cultures
+studied. The expression of CD51, CD54, CD58 and CD106 on human cells declined
+after 4 weeks of culture. Our findings indicate that marmosets are a valuable
+model for immunological studies of effects of xenobiotics on the thymic
+epithelium.
+
+DOI: 10.1034/j.1600-0684.2000.290506.x 
+PMID: 11168825  [Indexed for MEDLINE]
+

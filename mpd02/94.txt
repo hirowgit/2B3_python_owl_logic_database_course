@@ -1,0 +1,38 @@
+
+
+94. Biosci Biotechnol Biochem. 2021 Sep 22;85(10):2113-2120. doi:
+10.1093/bbb/zbab141.
+
+Molecular cloning and characterization of common marmoset SULT1C subfamily
+members that catalyze the sulfation of thyroid hormones.
+
+Kurogi K(1), Manabe Y(1), Liu MC(2), Suiko M(1), Sakakibara Y(1).
+
+Author information: 
+(1)Department of Biochemistry and Applied Biosciences, University of Miyazaki,
+Miyazaki, Japan.
+(2)Department of Pharmacology, College of Pharmacy and Pharmaceutical Sciences,
+The University of Toledo, Toledo, OH, USA.
+
+Cytosolic sulfotransferase SULT1C subfamily is one of the most flexible gene
+subfamilies during mammalian evolution. The physiological functions of SULT1C
+enzymes still remain to be fully understood. In this study, common marmoset
+(Callithrix jacchus), a promising primate animal model, was used to investigate
+the functional relevance of the SULT1C subfamily. Gene database search revealed 3
+intact SULT1C genes and a pseudogene in its genome. These 4 genes were named
+SULT1C1, SULT1C2, SULT1C3P, and SULT1C5, according to the sequence homology and
+gene location. Since SULT1C5 is the orthologous gene for human SULT1C2P, we
+propose, here, to revisit the designation of human SULT1C2P to SULT1C5P. Purified
+recombinant SULT1C enzymes showed sulfating activities toward a variety of
+xenobiotic compounds and thyroid hormones. Kinetic analysis revealed high
+catalytic activities of SULT1C1 and SULT1C5 for 3,3'-T2. It appears therefore
+that SULT1C isoforms may play a role in the thyroid hormone metabolism in common 
+marmoset.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of Japan
+Society for Bioscience, Biotechnology, and Agrochemistry.
+
+DOI: 10.1093/bbb/zbab141 
+PMCID: PMC8458394 [Available on 2022-08-09]
+PMID: 34370005  [Indexed for MEDLINE]
+

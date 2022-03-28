@@ -1,0 +1,100 @@
+
+
+346. Stem Cell Res. 2020 Apr;44:101740. doi: 10.1016/j.scr.2020.101740. Epub 2020 Feb 
+21.
+
+Generation of a male common marmoset embryonic stem cell line DSY127-BV8VT1
+carrying double reporters specific for the germ cell linage using the CRISPR-Cas9
+and PiggyBac transposase systems.
+
+Yoshimatsu S(1), Sato T(2), Yamamoto M(3), Sasaki E(4), Nakajima M(2), Nakamura
+M(2), Shiozawa S(2), Noce T(5), Okano H(6).
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan;
+Laboratory for Proteolytic Neuroscience, RIKEN Center for Brain Science, Saitama,
+Japan. Electronic address: yoshima@a7.keio.jp.
+(2)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan.
+(3)ICLAS Monitoring Center, Central Institute for Experimental Animals, Kanagawa,
+Japan.
+(4)Department of Marmoset Biology and Medicine, Central Institute for
+Experimental Animals, Kanagawa, Japan.
+(5)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan.
+(6)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan;
+Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan. Electronic address: hidokano@a2.keio.jp.
+
+BLIMP1 (PRDM1) and VASA (DDX4) play pivotal roles in the development of the germ 
+cell linage. Importantly, these genes are specifically expressed in germ cells;
+BLIMP1 in primordial germ cells (PGCs) to early-stage gonocytes, and VASA in
+migration-stage PGCs to mature gametes. The high reproductive efficiency of
+common marmosets (marmosets; Callithrix jacchus) makes them advantageous for use 
+in germ cell research. We herein report the generation of a male marmoset
+embryonic stem cell (ESC) line harboring BLIMP1 and DDX4 double reporters. This
+ESC line will be a useful tool for investigating male gametogenesis in non-human 
+primates.
+
+Copyright © 2020 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scr.2020.101740 
+PMID: 32151954  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing Interest H.O. serves as 
+a paid scientific advisor at SanBio Co. Ltd. and K Pharma Inc. Rest of the
+authors declare there are no financial or non-financial competing interests with 
+regard to this work.
+
+
+347. Biomed Pharmacother. 2020 Jun;126:110060. doi: 10.1016/j.biopha.2020.110060. Epub
+2020 Mar 4.
+
+Comparison of the pharmacological profiles of arginine vasopressin and oxytocin
+analogs at marmoset, macaque, and human vasopressin 1a receptor.
+
+Pierce ML(1), French JA(2), Murray TF(3).
+
+Author information: 
+(1)Department of Pharmacology, Creighton University School of Medicine, 2500
+California Plaza, Omaha, NE 68178, USA.
+(2)Department of Psychology, University of Nebraska Omaha, 6001 Dodge St., Omaha,
+NE 68182, USA.
+(3)Department of Pharmacology, Creighton University School of Medicine, 2500
+California Plaza, Omaha, NE 68178, USA. Electronic address:
+tfmurray@creighton.edu.
+
+Arginine vasopressin (AVP) and oxytocin (OT) are nonapeptides that bind to
+G-protein coupled receptors and influence social behaviors. Consensus mammalian
+AVP and OT (Leu8-OT) sequences are highly conserved. In marmosets, an amino acid 
+change in the 8th position of the peptide (Pro8-OT) exhibits unique structural
+and functional properties. There is ∼85 % structural homology between the OT
+receptor (OTR) and vasopressin 1a receptor (V1aR) resulting in significant
+cross-reactivity between the ligands and receptors. Chinese hamster ovary (CHO)
+cells expressing marmoset (mV1aR), macaque (qV1aR), or human vasopressin receptor
+1a (hV1aR) were used to assess AVP, Leu8-OT and Pro8-OT pharmacological profiles.
+To assess activation of Gq, functional assays were performed using Fluo-3 to
+measure ligand-induced Ca2+ mobilization. In all three V1aR-expressing cell
+lines, AVP was more potent than the OT ligands. To assess ligand-induced
+hyperpolarization, FLIPR Membrane Potential (FMP) assays were performed. In all
+three V1aR lines, AVP was more potent than the OT analogs. The distinctive
+U-shaped concentration-response curve displayed by AVP may reflect enhanced
+desensitization of the mV1aR and hV1aR, which is not observed with qV1aR.
+Evaluation of Ca2+-activated potassium (K+) channels using the inhibitors apamin,
+paxilline, and TRAM-34 demonstrated that both intermediate and large conductance 
+Ca2+-activated K+ channels contributed to membrane hyperpolarization, with
+different pharmacological profiles identified for distinct ligand-receptor
+combinations. Taken together, these data suggest differences in ligand-receptor
+signaling that may underlie differences in social behavior. Integrative studies
+of behavior, genetics and ligand-receptor interaction will help elucidate the
+connection between receptor pharmacology and social behaviors.
+
+Copyright © 2020 The Author(s). Published by Elsevier Masson SAS.. All rights
+reserved.
+
+DOI: 10.1016/j.biopha.2020.110060 
+PMCID: PMC7250216
+PMID: 32145592  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that there are no conflicts of interest.
+

@@ -1,0 +1,79 @@
+
+
+3455. J Pharmacol Exp Ther. 1999 May;289(2):752-61.
+
+SR146131: a new potent, orally active, and selective nonpeptide cholecystokinin
+subtype 1 receptor agonist. II. In vivo pharmacological characterization.
+
+Bignon E(1), Alonso R, Arnone M, Boigegrain R, Brodin R, Gueudet C, Héaulme M,
+Keane P, Landi M, Molimard JC, Olliero D, Poncelet M, Seban E, Simiand J, Soubrié
+P, Pascal M, Maffrand JP, Le Fur G.
+
+Author information: 
+(1)Sanofi Recherche, 195 Toulouse Cedex, France. eric.bignon@sanofi.com
+
+SR146131 is a potent and selective agonist at cholecystokinin subtype 1 (CCK1)
+receptors in vitro. The present study evaluates the activity of the compound in
+vivo. SR146131 completely inhibited gastric and gallbladder emptying in mice
+(ED50 of 66 and 2.7 micrograms/kg p.o., respectively). SR146131 dose dependently 
+reduced food intake in fasted rats (from 0.1 mg/kg p.o.), in nonfasted rats in
+which food intake had been highly stimulated by the administration of
+neuropeptide Y (1-36) (from 0.3 mg/kg p.o.), in fasted gerbils (from 0.1 mg/kg
+p.o.), and in marmosets maintained on a restricted diet (from 3 mg/kg p.o.).
+SR146131 (10 mg/kg p.o.) also increased the number of Fos-positive cells in the
+hypothalamic paraventricular nucleus of rats. Locomotor activity of mice was
+reduced by orally administered SR146131 (from 0.3 mg/kg p.o.). When administered 
+intrastriatally, SR146131 elicited contralateral turning behavior in mice.
+Furthermore, orally administered SR146131 (0.3-10 mg/kg), also reduced the levels
+of cerebellar cyclic GMP. Finally, SR146131 (0.1 microgram/kg to 1 mg/kg, p.o.)
+significantly and dose dependently antagonized fluphenazine-induced mouth
+movements in rats. The CCK1 antagonist SR27897B prevented all the effects of
+SR146131. Conversely, SR146131 was unable to elicit any agonist or antagonist
+effects in a model of CCK2 receptor stimulation in vivo. SR146131 is a very
+potent and selective nonpeptide CCK1 agonist in vivo. SR146131 is more potent
+than any other CCK1 agonists reported to date. Because pharmacodynamic studies
+suggest that SR146131 should have a high absolute bioavailability, it may be a
+promising drug for the treatment of eating and motor disorders in humans.
+
+
+PMID: 10215649  [Indexed for MEDLINE]
+
+
+3456. Pharm Res. 1999 Mar;16(3):434-40.
+
+In vitro and in situ permeability of a 'second generation' hydroxypyridinone oral
+iron chelator: correlation with physico-chemical properties and oral activity.
+
+Lowther N(1), Fox R, Faller B, Nick H, Jin Y, Sergejew T, Hirschberg Y, Oberle R,
+Donnelly H.
+
+Author information: 
+(1)Pharmaceutical and Analytical Development, Novartis Horsham Research Centre,
+West Sussex, United Kingdom. nicholas.lowther@pharma.novartis.com
+
+PURPOSE: The in vitro and in situ transport of CGP 65015
+((+)-3-hydroxy-1-(2-hydroxyethyl)-2-hydroxyphenyl-methyl-1H-pyridin-4-on e), a
+novel oral iron chelator, is described. The predictive power of these data in
+assessing intestinal absorption in man is described.
+METHODS: Caco-2 epithelial monolayer and in situ rat jejunum perfusion intestinal
+permeability models were utilized. In vivo iron excretion and preliminary animal 
+pharmacokinetic experiments were described. Ionization constants and
+octanol/aqueous partition coefficients were measured potentiometrically.
+Solubilities and intrinsic dissolution rates were determined using standard
+procedures.
+RESULTS: Caco-2 cell (Papp approximately 0.25 x 10(-6) cm x s(-1)) and rat
+jejunum (Pw approximately 0.4) permeabilities of CGP 65015 were determined. The
+log D(pH 7.4) of CGP 65015 was 0.58 and its aqueous solubility was < 0.5 mg x
+ml(-1) (pH 3-9). The intrinsic dissolution rate of CGP 65015 in USP simulated
+intestinal fluid was 0.012 mg x min(-1) x cm(-2). CGP 65015 promotes iron
+excretion effectively and dose dependently in animals.
+CONCLUSIONS: Caco-2 and rat intestinal permeabilities predict incomplete oral
+absorption of CGP 65015 in man. Preliminary rat pharmacokinetics support this.
+Physico-chemical data are, also, in line and suggest that CGP 65015 may, in
+addition, be solubility/dissolution rate limited in vivo. Nevertheless, early
+animal pharmacological data demonstrate that CGP 65015 is a viable oral iron
+chelator candidate.
+
+DOI: 10.1023/a:1018886005136 
+PMID: 10213376  [Indexed for MEDLINE]
+

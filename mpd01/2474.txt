@@ -1,0 +1,78 @@
+
+
+2474. J Comp Neurol. 2006 Dec 1;499(4):677-89.
+
+Transitory uptake of serotonin in the developing sensory pathways of the common
+marmoset.
+
+Lebrand C(1), Gaspar P, Nicolas D, Hornung JP.
+
+Author information: 
+(1)DBCM, Université de Lausanne, Lausanne, Switzerland, INSERM U616, Hôpital de
+la Salpêtrière, Paris, France.
+
+Serotonin (5-HT) affects brain development during sensitive developmental
+periods. In rodents, transient sites of high affinity capture of 5-HT were
+demonstrated in the primary sensory neurons and in the sensory thalamocortical
+afferents. This uptake is required to adjust 5-HT receptor stimulation during the
+formation of sensory maps. To determine whether similar mechanisms exist in
+primates, we analyzed staged embryos and postnatal pups in the common marmoset
+(total gestation time, 142 days). Immunocytochemical analyses were performed
+using antisera to 5-HT, to the serotonin transporter (SERT), and to the vesicular
+monoamine transporter (VMAT2). 5-HT, SERT, and VMAT2 labeled the raphe neurons
+and their terminal network from embryonic day (E)70 to adulthood. In addition,
+from E70-130 VMAT2 and SERT were observed in all the sensory cranial nerves, the 
+olfactory nerve, the gustatory, the trigeminal, the auditory fibers, in the
+retinal ganglion cells, and the optic tract up to the lateral geniculate nucleus 
+and the superior colliculus. All the spinal sensory ganglia and their peripheral 
+sensory branches were labeled. Accumulation of 5-HT was observed in all the
+sensory neurons expressing SERT and the corresponding axon tracts. Since these
+neurons were missing tryptophan hydroxylase (TPH), the synthesizing enzyme for
+5-HT, they most likely accumulated 5-HT through the action of the amine
+transporters, as has been shown in rodents. No transient expression of 5-HT
+markers was detectable in the sensory thalamocortical axons at any of the ages
+examined. Thus, the existence of 5-HT uptake in nonserotoninergic neurons appears
+to be a conserved feature in primates, although the topographic extent of this
+transient expression is more restricted than that previously demonstrated in
+rodents.
+
+Copyright (c) 2006 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.21137 
+PMID: 17029254  [Indexed for MEDLINE]
+
+
+2475. Vis Neurosci. 2006 Sep-Oct;23(5):815-24.
+
+Processing of first-order motion in marmoset visual cortex is influenced by
+second-order motion.
+
+Barraclough N(1), Tinsley C, Webb B, Vincent C, Derrington A.
+
+Author information: 
+(1)Department of Psychology, University of Hull, East Yorkshire, United Kingdom. 
+n.barraclough@hull.ac.uk
+
+We measured the responses of single neurons in marmoset visual cortex (V1, V2,
+and the third visual complex) to moving first-order stimuli and to combined
+first- and second-order stimuli in order to determine whether first-order motion 
+processing was influenced by second-order motion. Beat stimuli were made by
+summing two gratings of similar spatial frequency, one of which was static and
+the other was moving. The beat is the product of a moving sinusoidal carrier
+(first-order motion) and a moving low-frequency contrast envelope (second-order
+motion). We compared responses to moving first-order gratings alone with
+responses to beat patterns with first-order and second-order motion in the same
+direction as each other, or in opposite directions to each other in order to
+distinguish first-order and second-order direction-selective responses. In the
+majority (72%, 67/93) of cells (V1 73%, 45/62; V2 70%, 16/23; third visual
+complex 75%, 6/8), responses to first-order motion were significantly influenced 
+by the addition of a second-order signal. The second-order envelope was more
+influential when moving in the opposite direction to the first-order stimulus,
+reducing first-order direction sensitivity in V1, V2, and the third visual
+complex. We interpret these results as showing that first-order motion processing
+through early visual cortex is not separate from second-order motion processing; 
+suggesting that both motion signals are processed by the same system.
+
+DOI: 10.1017/S0952523806230141 
+PMID: 17020636  [Indexed for MEDLINE]
+

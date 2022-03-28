@@ -1,0 +1,92 @@
+
+
+688. Hear Res. 2018 Sep;366:65-74. doi: 10.1016/j.heares.2018.04.010. Epub 2018 May 7.
+
+A "voice patch" system in the primate brain for processing vocal information?
+
+Belin P(1), Bodin C(2), Aglieri V(2).
+
+Author information: 
+(1)Institut de Neurosciences de la Timone UMR 7289, Centre National de la
+Recherche Scientifique and Aix-Marseille Université, Marseille, France;
+Département de Psychologie, Université de Montréal, Montréal, Canada. Electronic 
+address: pascal.belin@univ-amu.fr.
+(2)Institut de Neurosciences de la Timone UMR 7289, Centre National de la
+Recherche Scientifique and Aix-Marseille Université, Marseille, France.
+
+We review behavioural and neural evidence for the processing of information
+contained in conspecific vocalizations (CVs) in three primate species: humans,
+macaques and marmosets. We focus on abilities that are present and ecologically
+relevant in all three species: the detection and sensitivity to CVs; and the
+processing of identity cues in CVs. Current evidence, although fragmentary,
+supports the notion of a "voice patch system" in the primate brain analogous to
+the face patch system of visual cortex: a series of discrete, interconnected
+cortical areas supporting increasingly abstract representations of the vocal
+input. A central question concerns the degree to which the voice patch system is 
+conserved in evolution. We outline challenges that arise and suggesting potential
+avenues for comparing the organization of the voice patch system across primate
+brains.
+
+Copyright © 2018 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.heares.2018.04.010 
+PMID: 29776691  [Indexed for MEDLINE]
+
+
+689. Nat Commun. 2018 May 14;9(1):1879. doi: 10.1038/s41467-018-04286-6.
+
+Two-photon imaging of neuronal activity in motor cortex of marmosets during
+upper-limb movement tasks.
+
+Ebina T(1)(2), Masamizu Y(1)(2)(3), Tanaka YR(1)(2), Watakabe A(4), Hirakawa
+R(2)(5), Hirayama Y(1), Hira R(2)(3), Terada SI(1)(2), Koketsu D(6), Hikosaka
+K(7), Mizukami H(8), Nambu A(3)(6), Sasaki E(5)(9), Yamamori T(4), Matsuzaki
+M(10)(11)(12)(13).
+
+Author information: 
+(1)Department of Physiology, Graduate School of Medicine, The University of
+Tokyo, Tokyo, 113-0033, Japan.
+(2)Division of Brain Circuits, National Institute for Basic Biology, Aichi,
+444-8585, Japan.
+(3)School of Life Science, SOKENDAI (The Graduate University for Advanced
+Studies), Aichi, 444-8585, Japan.
+(4)Laboratory for Molecular Analysis of Higher Brain Function, RIKEN Center for
+Brain Science, Saitama, 351-0198, Japan.
+(5)Central Institute for Experimental Animals, Kanagawa, 210-0821, Japan.
+(6)Division of System Neurophysiology, National Institute for Physiological
+Sciences, Aichi, 444-8585, Japan.
+(7)Department of Sensory Science, Faculty of Health Science and Technology,
+Kawasaki University of Medical Welfare, Okayama, 701-0193, Japan.
+(8)Division of Genetic Therapeutics, Center for Molecular Medicine, Jichi Medical
+University, Tochigi, 329-0498, Japan.
+(9)Advanced Research Center, Keio University, Tokyo, 160-8582, Japan.
+(10)Department of Physiology, Graduate School of Medicine, The University of
+Tokyo, Tokyo, 113-0033, Japan. mzakim@m.u-tokyo.ac.jp.
+(11)Division of Brain Circuits, National Institute for Basic Biology, Aichi,
+444-8585, Japan. mzakim@m.u-tokyo.ac.jp.
+(12)School of Life Science, SOKENDAI (The Graduate University for Advanced
+Studies), Aichi, 444-8585, Japan. mzakim@m.u-tokyo.ac.jp.
+(13)International Research Center for Neurointelligence (WPI-IRCN), The
+University Tokyo Institutes for Advanced Study, Tokyo, 113-0033, Japan.
+mzakim@m.u-tokyo.ac.jp.
+
+Two-photon imaging in behaving animals has revealed neuronal activities related
+to behavioral and cognitive function at single-cell resolution. However,
+marmosets have posed a challenge due to limited success in training on motor
+tasks. Here we report the development of protocols to train head-fixed common
+marmosets to perform upper-limb movement tasks and simultaneously perform
+two-photon imaging. After 2-5 months of training sessions, head-fixed marmosets
+can control a manipulandum to move a cursor to a target on a screen. We conduct
+two-photon calcium imaging of layer 2/3 neurons in the motor cortex during this
+motor task performance, and detect task-relevant activity from multiple neurons
+at cellular and subcellular resolutions. In a two-target reaching task, some
+neurons show direction-selective activity over the training days. In a short-term
+force-field adaptation task, some neurons change their activity when the force
+field is on. Two-photon calcium imaging in behaving marmosets may become a
+fundamental technique for determining the spatial organization of the cortical
+dynamics underlying action and cognition.
+
+DOI: 10.1038/s41467-018-04286-6 
+PMCID: PMC5951821
+PMID: 29760466  [Indexed for MEDLINE]
+

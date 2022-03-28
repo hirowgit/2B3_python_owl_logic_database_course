@@ -1,0 +1,109 @@
+
+
+780. Protein Pept Lett. 2018 Feb 8;24(12):1166-1178. doi:
+10.2174/0929866524666171110093626.
+
+Experimental Autoimmune Encephalomyelitis (EAE) Model of Cynomolgus Macaques
+Induced by Recombinant Human MOG1-125 (rhMOG1-125) Protein and MOG34-56 Peptide.
+
+Peng Z(1), Zhang L(2), Wang H(3), He X(2), Peng X(2), Zhang Q(2), Liu H(2), Rao
+J(2), Wang H(2), Wu J(1), Sun Y(2).
+
+Author information: 
+(1)Minigene Pharmacy Lab, School of Life Science and Technology, China
+Pharmaceutical University, Nanjing, 210009, Jiangsu, China.
+(2)Guangdong Key Laboratory of Animal Conservation and Resource Utilization,
+Guangdong Public Laboratory of Wild Animal Conservation and Utilization,
+Guangdong Institute of Applied Biological Resources, Guangzhou, 510260, China.
+(3)Department of Pharmaceutical Engineering, School of Light Industry and
+Chemical Engineering, Guangdong University of Technology, Guangzhou , 510260,
+China.
+
+BACKGROUND: Experimental autoimmune encephalomyelitis (EAE) induced by
+self-myelin antigen is a widely used in multiple sclerosis (MS) model for
+preclinical studies of new therapeutics and potential pathogenesis. By comparison
+with rodent EAE models, EAE models in primates are more similar to MS. Some
+groups have developed EAE models in primates by using common marmoset (Callithrix
+jacchus). However, this model has some limitations. EAE in cynomolgus monkey
+(Macaque fasciculrais) could overcome these limitations.
+OBJECTIVES: The main objective of this study was to establish an ideal EAE
+cynomolgus monkey model resembling human MS by immunizing human myelin
+oligodendrocyte glycoprotein (MOG) protein.
+METHODS: In this study, six female cynomolgus monkeys were divided into two
+separate experiment groups and one monkey as the control. EAE was induced in
+cynomolgus monkey by immunizing with the recombinant human myelin oligodendrocyte
+glycoprotein extracellular domain (1-125) (rhMOG1-125) and a synthetic peptide,
+representing peptide 34-56 of human myelin oligodendrocyte glycoprotein
+(MOG34-56) in complete Freund's adjuvant (CFA) by subcutaneous multipoint
+immunization in the armpit and inguinal region and in combination with
+intravenous injection of pertussis toxin, and subsequent booster immunizations
+with the same dose of antigen in incomplete Freund's adjuvant (IFA) until the
+animals developed clinically significant EAE (score≥2). The body weight, clinical
+scores, magnetic resonance imaging (MRI), histopathology, antibody, cytokine
+profiling and antigen-specific lymphocyte proliferation were evaluated.
+RESULTS: The results showed that despite the different time intervals between
+onset and significant neurological deficits, all the cynomolgus monkeys immunized
+with rhMOG1-125 or MOG34-56 developed clinically significant acute fulminant or
+mild forms of EAE, with a success rate of 100%. The clinical courses were obvious
+heterogeneity which closely resembles MS. MOG34-56 immunization was much milder
+compared with rhMOG1-125 immunized individuals, at least in cynomolgus monkeys.
+Inflammation and demyelinated lesions were present in the brains and spinal
+cords. Immune profiling revealed high IgG levels associated with early onset of
+EAE but not the course of the disease. Significant antigen-specific T lymphocyte 
+responses against immunodominant epitopes of MOG were also detected.
+CONCLUSION: Our results indicated rhMOG1-125 and MOG34-56 could induce
+successfully EAE models resembling MS in cynomolgus monkeys. The synergistic
+action of anti-myelin T cells and Abs during the pathogenesis of EAE could
+establish a more ideal EAE model.
+
+Copyright© Bentham Science Publishers; For any queries, please email at
+epub@benthamscience.org.
+
+DOI: 10.2174/0929866524666171110093626 
+PMID: 29141529  [Indexed for MEDLINE]
+
+
+781. PLoS One. 2017 Nov 14;12(11):e0188013. doi: 10.1371/journal.pone.0188013.
+eCollection 2017.
+
+Severe oxidative stress in an acute inflammatory demyelinating model in the
+rhesus monkey.
+
+Dunham J(1)(2), van de Vis R(1), Bauer J(3), Wubben J(1), van Driel N(1), Laman
+JD(2), 't Hart BA(1)(2), Kap YS(1).
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Centre, Rijswijk, The
+Netherlands.
+(2)University Groningen, University Medical Center, Department of Neuroscience,
+Groningen, The Netherlands.
+(3)Department Neuroimmunology, Brain Research Institute, Medical University,
+Vienna, Austria.
+
+Oxidative stress is increasingly implicated as a co-factor of tissue injury in
+inflammatory/demyelinating disorders of the central nervous system (CNS), such as
+multiple sclerosis (MS). While rodent experimental autoimmune encephalomyelitis
+(EAE) models diverge from human demyelinating disorders with respect to limited
+oxidative injury, we observed that in a non-human primate (NHP) model for MS,
+namely EAE in the common marmoset, key pathological features of the disease were 
+recapitulated, including oxidative tissue injury. Here, we investigated the
+presence of oxidative injury in another NHP EAE model, i.e. in rhesus macaques,
+which yields an acute demyelinating disease, which may more closely resemble
+acute disseminated encephalomyelitis (ADEM) than MS. Rhesus monkey EAE diverges
+from marmoset EAE by abundant neutrophil recruitment into the CNS and destructive
+injury to white matter. This difference prompted us to investigate to which
+extent the oxidative pathway features elicited in MS and marmoset EAE are
+reflected in the acute rhesus monkey EAE model. The rhesus EAE brain was
+characterized by widespread demyelination and active lesions containing numerous 
+phagocytic cells and to a lesser extent T cells. We observed induction of the
+oxidative stress pathway, including injury, with a predilection of p22phox
+expression in neutrophils and macrophages/microglia. In addition, changes in iron
+were observed. These results indicate that pathogenic mechanisms in the rhesus
+EAE model may differ from the marmoset EAE and MS brain due to the neutrophil
+involvement, but may in the end lead to similar induction of oxidative stress and
+injury.
+
+DOI: 10.1371/journal.pone.0188013 
+PMCID: PMC5685592
+PMID: 29136024  [Indexed for MEDLINE]
+

@@ -1,0 +1,100 @@
+
+
+3121. Arch Biochem Biophys. 2001 Dec 1;396(1):56-64.
+
+Nafenopin-, ciprofibroyl-, and palmitoyl-CoA conjugation in vitro: kinetic and
+molecular characterization of marmoset liver microsomes and expressed MLCL1.
+
+Drogemuller CJ(1), Nunthasomboon S, Knights KM.
+
+Author information: 
+(1)Department of Clinical Pharmacology, School of Medicine, Adelaide, 5042,
+Australia.
+
+Acyl-CoA conjugation of xenobiotic carboxylic acids is catalyzed by hepatic
+microsomal long-chain fatty acid CoA ligases (LCL, EC 6.2.1.3). Marmosets
+(Callithrix jacchus) are considered genetically closer to humans than rodents and
+are used in pharmacological and toxicological studies. We have demonstrated that 
+marmoset liver microsomes catalyze nafenopin-, ciprofibroyl-, and palmitoyl-CoA
+conjugation and that only palmitoyl-CoA conjugation is significantly upregulated 
+(1.7-fold, P < 0.02) by a high fat diet. Additionally, the apparent C(50) values 
+for nafenopin-, ciprofibroyl-, and palmitoyl-CoA conjugation of 149.7, 413.4, and
+3.4 microM were comparable to those reported for human liver microsomes viz,
+213.7, 379.8, and 3.4 microM, respectively. Comparison with human data was
+enabled by the cloning of a full-length marmoset cDNA (MLCL1) that encoded a
+698-amino-acid protein sharing 83% similarity with rat liver acyl-CoA synthetase 
+(ACS1) and 93 and 90% similarity with human liver LCL1 and LCL2, respectively.
+MLCL1 transiently expressed in COS-7 cells activated nafenopin (C(50) 192.9
+microM), ciprofibrate (C(50) 168.7 microM), and palmitic acid (C(50) 4.5 microM) 
+to their respective CoA conjugates. This study also demonstrated that the
+sigmoidal kinetics observed for nafenopin- and ciprofibroyl-CoA conjugation were 
+not unique to human liver microsomes but were also characteristic of marmoset
+liver microsomes and recombinant MLCL1. More extensive characterization of the
+substrate specificity of marmoset LCL isoforms will aid in determining further
+the suitability of marmosets as a model for human xenobiotic metabolism via
+acyl-CoA conjugation.
+
+(c)2001 Elsevier Science.
+
+DOI: 10.1006/abbi.2001.2591 
+PMID: 11716462  [Indexed for MEDLINE]
+
+
+3122. J Neural Transm (Vienna). 2001;108(8-9):985-1009.
+
+Monoamine oxidase-inhibition and MPTP-induced neurotoxicity in the non-human
+primate: comparison of rasagiline (TVP 1012) with selegiline.
+
+Kupsch A(1), Sautter J, Götz ME, Breithaupt W, Schwarz J, Youdim MB, Riederer P, 
+Gerlach M, Oertel WH.
+
+Author information: 
+(1)Department of Neurology, Klinikum Grosshadern, Ludwig-Maximilians-University, 
+and Institute of Physiology, München, Federal Republic of Germany.
+andreas.kupsch@charite.de
+
+The neurotoxin 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) has been shown
+to induce parkinsonism in man and non-human primates. Monoamine-oxidase B (MAO-B)
+has been reported to be implicated in both MPTP-induced parkinsonism and
+Parkinson's disease, since selegiline (L-deprenyl), an irreversible MAO-B
+inhibitor, prevents MPTP-induced neurotoxicity in numerous species including
+mice, goldfish and drosophyla. However, one disadvantage of this substance
+relates to its metabolism to (-)-methamphetamine and (-)-amphetamine. Rasagiline 
+(R-(+)-N-propyl-1-aminoindane) is a novel irrevesible MAO-B-inhibitor, which is
+not metabolized to metamphetamine and/or amphetamine. The present study compared 
+the effects of high doses of selegiline and rasagiline (10 mg/kg body weight
+s.c.) on MPTP-induced dopaminergic neurotoxicity in a non-human primate
+(Callithrix jacchus) model of PD. Groups of four monkeys were assigned to the
+following six experimental groups: Group I: Saline, Group II: Selegiline/Saline, 
+Group III: Rasagiline/Saline, Group IV: MPTP/Saline, Group V: Rasagiline/MPTP,
+Group VI: Selegiline/MPTP. Daily treatment with MAO-B-inhibitors (either
+rasagiline or selegiline, 10 mg/kg body weight s.c.) was initiated four days
+prior to MPTP-exposure (MPTP-HCl, 2 mg/kg body weight subcutaneously, separated
+by an interval of 24 hours for a total of four days) and was continued until the 
+end of the experiment, i.e. 7 days after the cessation of the MPTP-injections,
+when animals were sacrificed. MPTP-treatment caused distinct behavioural,
+histological, and biochemical alterations: 1. significant reduction of motor
+activity assessed by clinical rating and by computerized locomotor activity
+measurements; 2. substantial loss (approx. 40%) of dopaminergic
+(tyrosine-hydroxylase-positive) cells in the substantia nigra, pars compacta; and
+3. putaminal dopamine depletion of 98% and its metabolites DOPAC (88%) and HVA
+(96%). Treatment with either rasagiline or selegiline markedly attenuated the
+neurotoxic effects of MPTP at the behavioural, histological, and at the
+biochemical levels. There were no significant differences between rasagiline/MPTP
+and selegiline/MPTP-treated animals in respect to signs of motor impairment, the 
+number of dopaminergic cells in the substantia nigra, and striatal dopamine
+levels. As expected, both inhibitors decreased the metabolism of dopamine,
+leading to reduced levels of HVA and DOPAC (by >95% and 45% respectively). In
+conclusion, rasagiline and selegiline at the dosages employed equally protect
+against MPTP-toxicity in the common marmoset, suggesting that selegiline-derived 
+metabolites are not important for the neuroprotective effects of high dose
+selegiline in the non-human MPTP-primate model in the experimental design
+employed. However, unexpectedly, high dose treatment with both MAO-inhibitors
+caused a decrease of the cell sizes of nigral tyrosine hydroxylase positive
+neurons. It remains to be determined, if this histological observation represents
+potential adverse effects of high dose treatment with monoamine oxidase
+inhibitors.
+
+DOI: 10.1007/s007020170018 
+PMID: 11716151  [Indexed for MEDLINE]
+

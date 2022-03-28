@@ -1,0 +1,89 @@
+
+
+1961. J Pharmacol Exp Ther. 2011 Feb;336(2):423-30. doi: 10.1124/jpet.110.169532. Epub 
+2010 Oct 21.
+
+Fatty acid amide hydrolase (FAAH) inhibition reduces
+L-3,4-dihydroxyphenylalanine-induced hyperactivity in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-lesioned non-human primate model of 
+Parkinson's disease.
+
+Johnston TH(1), Huot P, Fox SH, Wakefield JD, Sykes KA, Bartolini WP, Milne GT,
+Pearson JP, Brotchie JM.
+
+Author information: 
+(1)Toronto Western Research Institute, University Health Network, Toronto,
+Ontario, Canada.
+
+Dopaminergic therapies remain the most efficacious symptomatic treatments for
+Parkinson's disease (PD) but are associated with motor complications, including
+dyskinesia, and nonmotor complications, such as psychosis, impulse control
+disorders (ICD), and dopamine dysregulation syndrome (DDS). Nondopaminergic
+neurotransmitter systems, including the endocannabinoid system, are probably
+critical to the development of these complications. The role of fatty acid amide 
+hydrolase (FAAH) in mediating l-3,4-dihydroxyphenylalanine (L-DOPA)-induced
+behaviors was explored in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-lesioned marmoset model of PD.
+Pharmacodynamic and locomotor effects of the selective FAAH inhibitor
+[3-(3-carbamoylphenyl)phenyl] N-cyclohexylcarbamate (URB597) were assessed via
+bioanalytical (liquid chromatography-tandem mass spectrometry) and behavioral
+observation approaches. URB597 (3, 10, 30, or 60 mg/kg p.o.) increased plasma
+levels of the FAAH substrates N-arachidonoyl ethanolamide (anandamide), N-oleoyl 
+ethanolamide, and N-palmitoyl ethanolamide by 10.3 ± 0.3-, 7.8 ± 0.2-, and 1.8 ± 
+0.1-fold (mean of URB597 groups ± S.E.M.), respectively, compared with vehicle
+(all p < 0.001) 4 h after administration. Treatment with L-DOPA (20 mg/kg s.c.)
+alleviated parkinsonism but elicited dyskinesia, psychosis-like-behaviors and
+hyperactivity, a potential correlate of ICD and DDS. During the 2 to 4 h after
+L-DOPA, corresponding to 4 to 6 h after URB597 administration, URB597 reduced
+total L-DOPA-induced activity and the magnitude of hyperactivity by 32 and 52%,
+respectively, to levels equivalent to those seen in normal animals. Treatment
+with URB597 (10 mg/kg p.o.) did not modify the antiparkinsonian actions of L-DOPA
+or L-DOPA-induced dyskinesia and psychosis. URB597 did not alter plasma L-DOPA
+levels and was without behavioral effects when administered alone. Inhibition of 
+FAAH may represent a novel approach to reducing L-DOPA-induced side effects, such
+as ICD and DDS, while maintaining the antiparkinsonian benefits of L-DOPA
+treatment.
+
+DOI: 10.1124/jpet.110.169532 
+PMID: 20966038  [Indexed for MEDLINE]
+
+
+1962. Front Integr Neurosci. 2010 Sep 23;4. pii: 123. doi: 10.3389/fnint.2010.00123.
+eCollection 2010.
+
+Activation of frontal neocortical areas by vocal production in marmosets.
+
+Simões CS(1), Vianney PV, de Moura MM, Freire MA, Mello LE, Sameshima K, Araújo
+JF, Nicolelis MA, Mello CV, Ribeiro S.
+
+Author information: 
+(1)Edmond and Lily Safra - International Institute of Neuroscience of Natal
+Natal, Rio Grande do Norte, Brazil.
+
+Primates often rely on vocal communication to mediate social interactions.
+Although much is known about the acoustic structure of primate vocalizations and 
+the social context in which they are usually uttered, our knowledge about the
+neocortical control of audio-vocal interactions in primates is still incipient,
+being mostly derived from lesion studies in squirrel monkeys and macaques. To map
+the neocortical areas related to vocal control in a New World primate species,
+the common marmoset, we employed a method previously used with success in other
+vertebrate species: Analysis of the expression of the immediate early gene Egr-1 
+in freely behaving animals. The neocortical distribution of Egr-1 immunoreactive 
+cells in three marmosets that were exposed to the playback of conspecific
+vocalizations and vocalized spontaneously (H/V group) was compared to data from
+three other marmosets that also heard the playback but did not vocalize (H/n
+group). The anterior cingulate cortex, the dorsomedial prefrontal cortex and the 
+ventrolateral prefrontal cortex presented a higher number of Egr-1 immunoreactive
+cells in the H/V group than in H/n animals. Our results provide direct evidence
+that the ventrolateral prefrontal cortex, the region that comprises Broca's area 
+in humans and has been associated with auditory processing of species-specific
+vocalizations and orofacial control in macaques, is engaged during vocal output
+in marmosets. Altogether, our results support the notion that the network of
+neocortical areas related to vocal communication in marmosets is quite similar to
+that of Old world primates. The vocal production role played by these areas and
+their importance for the evolution of speech in primates are discussed.
+
+DOI: 10.3389/fnint.2010.00123 
+PMCID: PMC2955454
+PMID: 20953246 
+

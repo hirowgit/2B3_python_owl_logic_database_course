@@ -1,0 +1,78 @@
+
+
+2483. ChemMedChem. 2006 Nov;1(11):1237-48.
+
+Protein-structure-based prediction of animal model suitability for
+pharmacodynamic studies of subtype-selective estrogens.
+
+Toschi L(1), Hilbig J, Wintermantel T, Engelhaupt A, Walter A, Fritzemeier KH,
+Hillisch A.
+
+Author information: 
+(1)Department of Genomics and Bioinformatics, Schering AG, Müllerstrasse 170-178,
+13342 Berlin, Germany. luisella.toschi@schering.de
+
+Subtype-selective estrogens are of increasing importance as tools used to unravel
+physiological roles of the estrogen receptors, ERalpha and ERbeta, in various
+species. Although human ERalpha and ERbeta differ by only two amino acids within 
+the binding pockets, we and others recently succeeded in generating
+subtype-selective agonists. We have proposed that the selectivity of the
+steroidal compounds 16alpha-lactone-estradiol (16alpha-LE(2), hERalpha selective)
+and 8beta-vinyl-estradiol (8beta-VE(2), hERbeta selective) is based on the
+interaction of certain substituents of these compounds with essentially one amino
+acid in the respective ER binding pockets. For in vitro and ex vivo
+pharmacological experiments with these compounds we intended to use bovine
+tissues available from slaughterhouses in larger quantities. Using homology
+modeling techniques we determined that the amino acid conferring high
+hERbeta-selectivity to 8beta-VE(2) is not exchanged between human and bovine
+ERalpha and bovine ERbeta. Thus, we predicted our steroidal hERbeta-selective
+compound to exhibit only weak agonistic activity at bERbeta and that bovine
+tissue is therefore not suited for investigation of ERbeta functions. The
+situation is presumably identical for pig, sheep, and the common marmoset,
+whereas rats, mice, and rhesus macaques are appropriate animal models to study
+pharmacological effects of 8beta-VE(2) in vivo. This prediction was confirmed in 
+transactivation studies assessing estradiol (E(2)) and the two subtype-selective 
+ligands on bovine ERbeta and on a series of hERalpha and hERbeta with mutations
+in their respective ligand-binding pockets. We have shown that the detailed
+understanding of the interactions of a compound with its target protein enables
+the identification of relevant species for pharmacological studies.
+
+DOI: 10.1002/cmdc.200600183 
+PMID: 17001712  [Indexed for MEDLINE]
+
+
+2484. Mov Disord. 2006 Dec;21(12):2090-5.
+
+Antiparkinsonian effects of the novel D3/D2 dopamine receptor agonist, S32504, in
+MPTP-lesioned marmosets: Mediation by D2, not D3, dopamine receptors.
+
+Hill MP(1), Ravenscroft P, McGuire SG, Brotchie JM, Crossman AR, Rochat C, Millan
+MJ.
+
+Author information: 
+(1)Motac Neuroscience, Ltd., Manchester, United Kingdom. m.hill@motac.com
+
+L-dopa remains the most common treatment for Parkinson's disease. However, there 
+is considerable interest in D3/D2 receptor agonists such as the novel agent
+S32504, since they exert antiparkinsonian properties in the absence of
+dyskinesia. An important question concerns the roles of D2 vs. D3 receptors, an
+issue we addressed with the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(MPTP)-lesioned nonhuman primate model of Parkinson's disease. In L-dopa-primed
+animals, S32504 (0.16-2.5 mg/kg p.o.) dose-dependently enhanced locomotor
+activity. This action was abolished by the D2 antagonist, L741,626 (2.5 mg/kg),
+but potentiated by the D3 antagonist, S33084 (0.63 mg/kg). Both antagonists were 
+inactive alone. In drug-naive animals, a maximally effective dose of S32504 (2.5 
+mg/kg p.o.) displayed pronounced antiparkinsonian properties from the third day
+of administration, and its actions were expressed rapidly and durably. Thus, on
+day 33, antiparkinsonian properties of S32504 were apparent within 5 minutes and 
+present for > 4 hours. Moreover, they were associated with neither wearing off
+nor significant dyskinesia. In conclusion, the novel D3/D2 agonist S32504 may
+offer advantages over L-dopa in the treatment of newly diagnosed parkinsonian
+patients. Its actions are expressed primarily by activation of D2, not D3,
+receptors.
+
+Copyright 2006 Movement Disorder Society.
+
+DOI: 10.1002/mds.21106 
+PMID: 16991143  [Indexed for MEDLINE]
+

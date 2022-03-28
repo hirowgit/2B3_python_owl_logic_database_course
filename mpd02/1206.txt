@@ -1,0 +1,53 @@
+
+
+1206. Neurosci Res. 2015 Sep;98:35-44. doi: 10.1016/j.neures.2015.05.001. Epub 2015 Jun
+17.
+
+Histological and electrophysiological analysis of the corticospinal pathway to
+forelimb motoneurons in common marmosets.
+
+Kondo T(1), Yoshihara Y(2), Yoshino-Saito K(3), Sekiguchi T(2), Kosugi A(2),
+Miyazaki Y(2), Nishimura Y(4), Okano HJ(5), Nakamura M(6), Okano H(1), Isa T(4), 
+Ushiba J(7).
+
+Author information: 
+(1)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+(2)School of Fundamental Science and Technology, Graduate School of Science and
+Technology, Keio University, Kanagawa, Japan.
+(3)Department of Physiology, Keio University School of Medicine, Tokyo, Japan;
+Japan Society for the Promotion of Science, Tokyo, Japan.
+(4)Department of Developmental Physiology, National Institute for Physiological
+Sciences, Aichi, Japan.
+(5)Division of Regenerative Medicine, Jikei University School of Medicine, Tokyo,
+Japan.
+(6)Department of Orthopaedic Surgery, Keio University School of Medicine, Tokyo, 
+Japan.
+(7)Department of Biosciences and Informatics, Faculty of Science and Technology, 
+Keio University, Kanagawa, Japan; Department of Rehabilitation Medicine, Keio
+University School of Medicine, Tokyo, Japan. Electronic address:
+ushiba@brain.bio.keio.ac.jp.
+
+Using histological and electrophysiological methods, we identified the
+neuroanatomical properties of the common marmoset corticospinal tract (CST),
+which underlies hand/arm motor control. Biotinylated dextran amine (BDA) was
+injected into the primary motor cortex to anterogradely label CST axons in the
+cervical segments, revealing that most CST axons descend in the contralateral
+dorsolateral funiculus (DLF; 85.0%), and some in the ipsilateral DLF (10.7%).
+Terminal buttons were mainly found in the contralateral lamina VII of the gray
+matter, but projection to lamina IX, where forelimb motoneurons are located, was 
+rare. Bilateral projections were more abundant than found in the rat CST,
+resembling the CST organization of other primates. Intracellular recordings were 
+made from 57 forelimb motoneurons on the contralateral side to stimulation, which
+revealed no monosynaptic excitatory postsynaptic potentials (EPSPs), but di- or
+polysynaptic EPSPs and inhibitory synaptic potentials were commonly found. Local 
+field potentials showed monosynaptic excitation mainly in laminae VII, where
+abundant BDA-labeled CST terminals were observed. These results suggest that
+direct corticomotoneuronal projection is absent in common marmosets but di- or
+oligosynaptic effects would be mediated by spinal interneurons.
+
+Copyright © 2015 Elsevier Ireland Ltd and the Japan Neuroscience Society. All
+rights reserved.
+
+DOI: 10.1016/j.neures.2015.05.001 
+PMID: 26093181  [Indexed for MEDLINE]
+

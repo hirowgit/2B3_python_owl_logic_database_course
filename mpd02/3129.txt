@@ -1,0 +1,37 @@
+
+
+3129. Immunogenetics. 2001 Sep;53(7):557-63.
+
+Characterization of the expressed immunoglobulin IGHV repertoire in the New World
+marmoset Callithrix jacchus.
+
+von Büdingen HC(1), Hauser SL, Nabavi CB, Genain CP.
+
+Author information: 
+(1)Department of Neurology, University of California School of Medicine, 505
+Parnassus Avenue, San Francisco, CA 94143-0114, USA.
+
+The common marmoset (Callithrix jacchus jacchus) is a member of the
+Callithrichinae, a family of outbred New World primates with limited MHC
+polymorphisms and a propensity to develop spontaneous or experimentally induced
+autoimmunity. C. jacchus marmosets are susceptible to experimental allergic
+encephalomyelitis (EAE), and spontaneously develop autoimmune colitis and
+thyroiditis. Such disease models approximate the complexity of human autoimmune
+disorders, and allow an investigation of the respective roles of T-cell and
+antibody responses to self-antigens in outbred species. A key issue for further
+definition of the pathogenic antibody responses in human autoimmunity is to
+understand the diversity of the immunoglobulin repertoire in primate models.
+Here, we characterized the expressed immunoglobulin IGHV repertoire of the C.
+jacchus marmoset. Six IGHV subgroups were identified which show a high degree of 
+sequence similarity to their human IGHV counterparts (IGHV1, IGHV3, IGHV4, IGHV5,
+IGHV6, and IGHV7). As in the expressed human IGHV repertoire, the framework
+regions are more conserved when compared to the complementarity-determining
+regions (CDRs), with the greatest degree of variability located in CDR3.
+Predicted structural features are highly conserved between C. jacchus and human
+IGHV. This information now provides a framework for studies of the
+antigen-specific repertoire of pathogenic antibodies in EAE and other
+immune-mediated diseases.
+
+DOI: 10.1007/s002510100362 
+PMID: 11685468  [Indexed for MEDLINE]
+

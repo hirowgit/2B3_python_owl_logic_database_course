@@ -1,0 +1,79 @@
+
+
+1092. Xenobiotica. 2016 Dec;46(12):1049-1055. Epub 2016 Feb 25.
+
+Human plasma concentrations of cytochrome P450 probe cocktails extrapolated from 
+pharmacokinetics in mice transplanted with human hepatocytes and from
+pharmacokinetics in common marmosets using physiologically based pharmacokinetic 
+modeling.
+
+Utoh M(1)(2), Suemizu H(3), Mitsui M(1), Kawano M(1), Toda A(2), Uehara S(1), Uno
+Y(2), Shimizu M(1), Sasaki E(4), Yamazaki H(1).
+
+Author information: 
+(1)a Laboratory of Drug Metabolism and Pharmacokinetics , Showa Pharmaceutical
+University , Machida , Japan.
+(2)b Pharmacokinetics and Bioanalysis Center, Shin Nippon Biomedical
+Laboratories, Ltd , Kainan , Japan.
+(3)c Laboratory of Animal Research Department , and.
+(4)d Marmoset Research Department, Central Institute for Experimental Animals ,
+Kawasaki , Japan.
+
+1. The pharmacokinetic data of cytochrome P450 probes in humans can be
+extrapolated from corresponding data in cynomolgus monkeys, dogs and minipigs
+using simplified physiologically based pharmacokinetic (PBPK) modeling. In this
+study, the modeling methodology was further adapted to estimate human plasma
+concentrations of P450 probes based on data from mice transplanted with human
+hepatocytes or based on data from marmosets. 2. Using known species allometric
+scaling factors, the observed plasma concentrations of caffeine, warfarin,
+omeprazole, metoprolol, and midazolam in chimeric TK-NOG mice with humanized
+liver were scaled to human oral monitoring equivalents. Using the same approach, 
+the previously reported pharmacokinetics of the five P450 probes in marmosets
+were also scaled to reported equivalents in humans using in vitro metabolic
+clearance data. 3. Human plasma concentration profiles of the five P450 probes
+estimated by simplified human PBPK models based on the observed pharmacokinetics 
+in mice with humanized liver and on the reported pharmacokinetics in marmosets
+were consistent with previously published pharmacokinetic data in Caucasians.
+4. These results suggest that mice with humanized liver and/or marmosets could be
+suitable pharmacokinetic models for humans during research into new drugs,
+especially when used in combination with simple PBPK models.
+
+DOI: 10.3109/00498254.2016.1147102 
+PMID: 26916082  [Indexed for MEDLINE]
+
+
+1093. Sci Rep. 2016 Feb 26;6:22250. doi: 10.1038/srep22250.
+
+Distinct Expression Patterns Of Causative Genes Responsible For Hereditary
+Progressive Hearing Loss In Non-Human Primate Cochlea.
+
+Hosoya M(1), Fujioka M(1), Ogawa K(1), Okano H(2).
+
+Author information: 
+(1)Keio University School of Medicine, Department of Otorhinolaryngology, Head
+and Neck Surgery, 35 Shinanomachi Shinjyuku-ku Tokyo, 160-8582, Japan.
+(2)Keio University School of Medicine, Department of Physiology, 35 Shinanomachi 
+Shinjyuku-ku Tokyo, 160-8582, Japan.
+
+Hearing impairment is the most frequent sensory deficit in humans. Deafness
+genes, which harbor pathogenic mutations that have been identified in families
+with hereditary hearing loss, are commonly expressed in the auditory end organ or
+the cochlea and may contribute to normal hearing function, yet some of the mouse 
+models carrying these mutations fail to recapitulate the hearing loss phenotype. 
+In this study, we find that distinct expression patterns of those deafness genes 
+in the cochlea of a non-human primate, the common marmoset (Callithrix jacchus). 
+We examined 20 genes whose expression in the cochlea has already been reported.
+The deafness genes GJB3, CRYM, GRHL2, DFNA5, and ATP6B1 were expressed in
+marmoset cochleae in patterns different from those in mouse cochleae. Of note,
+all those genes are causative for progressive hearing loss in humans, but not in 
+mice. The other tested genes, including the deafness gene COCH, in which mutation
+recapitulates deafness in mice, were expressed in a similar manner in both
+species. The result suggests that the discrepancy in the expression between
+rodents and primates may account for the phenotypic difference. This limitation
+of the rodent models can be bypassed by using non-human primate models such as
+the marmoset.
+
+DOI: 10.1038/srep22250 
+PMCID: PMC4768099
+PMID: 26915689  [Indexed for MEDLINE]
+

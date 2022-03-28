@@ -1,0 +1,90 @@
+
+
+726. Neurol Res. 2018 Apr;40(4):303-311. doi: 10.1080/01616412.2018.1438226. Epub 2018
+Feb 19.
+
+Vocalization development in common marmosets for neurodegenerative translational 
+modeling.
+
+Jones CA(1)(2)(3)(4), Duffy MK(2), Hoffman SA(2), Schultz-Darken NJ(2), Braun
+KM(2), Ciucci MR(1)(3)(4), Emborg ME(1)(2)(5).
+
+Author information: 
+(1)a Neuroscience Training Program, University of Wisconsin-Madison , Madison ,
+WI , USA.
+(2)b Wisconsin National Primate Research Center , University of Wisconsin-Madison
+, Madison , WI , USA.
+(3)c Communication Sciences & Disorders , University of Wisconsin-Madison ,
+Madison , WI , USA.
+(4)d Surgery - Division of Otolaryngology, Head & Neck Surgery , University of
+Wisconsin-Madison , Madison , WI , USA.
+(5)e Medical Physics , University of Wisconsin-Madison , Madison , WI , USA.
+
+Objectives In order to facilitate the study of vocalizations in emerging genetic 
+common marmoset models of neurodegenerative disorders, we aimed to analyze
+call-type changes across age in a translational research environment. We
+hypothesized that acoustic parameters of vocalizations would change with age,
+reflecting growth of the vocal apparatus and a maturation of control needed to
+make adult-like calls. Methods Nineteen developing common marmosets were
+longitudinally video- and audio-recorded between the ages of 1-149 days in a
+naturalistic setting without any vocalization elicitation protocol. Vocalizations
+were coded for call type (cry, tsik, trill, phee, and trill-phee) and analyzed
+for duration (sec), minimum and maximum frequency (Hz), and bandwidth (Hz). Mixed
+model linear regressions were performed to assess the effects of age on call
+parameters listed above for each call type. Results Cries decreased in duration
+(P = 0.038), maximum frequency (P = 0.047), and bandwidth (P = 0.023) with age.
+Tsik calls decreased in duration (P = 0.002) and increased in minimum frequency
+(P = 0.004) and maximum frequency (P = 0.005) with age. Trill calls increased in 
+duration (P = 0.003), and trillphee bandwidth (P = 0.031) decreased with age.
+Discussion Our results demonstrate that development of common marmoset
+vocalizations is call type dependent and that changes in acoustic parameters can 
+be detected without complex vocalization elicitation paradigms or specialized
+audio recording equipment. Thus, we demonstrate the feasibility of a naturalistic
+protocol to collect and objectively analyze marmoset vocalizations
+longitudinally. This approach may be useful for studying vocal communication
+deficits in genetic models of neurodegenerative disorders.
+
+DOI: 10.1080/01616412.2018.1438226 
+PMCID: PMC6083835
+PMID: 29457539  [Indexed for MEDLINE]
+
+
+727. J Med Primatol. 2018 Jun;47(3):172-177. doi: 10.1111/jmp.12334. Epub 2018 Feb 15.
+
+25-OH-vitamin D, parathyroid hormone, and calcium serum levels in captive common 
+marmosets (Callithrix jacchus): Reference values and effect of age, sex, season, 
+and closure of long bone epiphyses.
+
+Bosseler L(1), Bakker J(2), Duchateau L(3), Remarque E(4), Langermans JAM(2),
+Cornillie P(5), Chiers K(1).
+
+Author information: 
+(1)Department of Pathology, Bacteriology and Poultry Diseases, Faculty of
+Veterinary Medicine, Ghent University, Merelbeke, Belgium.
+(2)Animal Science Department, Biomedical Primate Research Centre, Rijswijk, The
+Netherlands.
+(3)Biometrics Research Group, Faculty of Veterinary Medicine, Ghent University,
+Merelbeke, Belgium.
+(4)Department of Virology, Biomedical Primate Research Centre, Rijswijk, The
+Netherlands.
+(5)Department of Morphology, Faculty of Veterinary Medicine, Ghent University,
+Merelbeke, Belgium.
+
+BACKGROUND: To date, reference values for 25-OH-vitamin D, parathyroid hormone
+(PTH), and calcium in serum of common marmosets (Callithrix jacchus) based on a
+large sample size are not available.
+METHODS: Serum reference values for these parameters were determined and
+correlated with sex, age, season of sampling, and time of long bone epiphyseal
+closure in captive-housed marmosets.
+RESULTS AND CONCLUSIONS: The 90% reference range for serum 25-OH-vitamin D is
+47.40-370.4 nmol/L, for PTH 2.10-30.51 pmol/L, and for calcium 2.08-2.63 mmol/L. 
+Lower levels of vitamin D were measured in fall compared with the other seasons. 
+Levels of PTH were higher in males than in females, and calcium levels were lower
+in younger animals compared with older marmosets. No other effects of age, sex,
+season, or timing of growth plate closure were found.
+
+© 2018 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jmp.12334 
+PMID: 29446837  [Indexed for MEDLINE]
+

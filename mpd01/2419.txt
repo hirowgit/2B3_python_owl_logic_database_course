@@ -1,0 +1,72 @@
+
+
+2419. Behav Pharmacol. 2007 Mar;18(2):155-60.
+
+Plasma levels of rotigotine and the reversal of motor deficits in MPTP-treated
+primates.
+
+Rose S(1), Scheller DK, Breidenbach A, Smith L, Jackson M, Stockwell K, Jenner P.
+
+Author information: 
+(1)aNeurodegenerative Disease Research Centre, School of Health and Biomedical
+Sciences, King's College London, UK.
+
+Rotigotine is a nonergolinic dopamine D3/D2/D1-receptor agonist used clinically
+for the treatment of Parkinson's disease. This study aimed to determine the
+relationship between peak antiparkinsonian activity and drug plasma levels after 
+administration of rotigotine to
+1-methyl-4-phenyl-1,2,3,6-tetrahydropytidine-treated primates. Using single
+subcutaneous injections of rotigotine and blood sampling at two subsequent time
+points, the relationship between improvement in motor activity and plasma
+rotigotine level was evaluated in
+1-methyl-4-phenyl-1,2,3,6-tetrahydropytidine-treated common marmosets. Rotigotine
+(0.01875-0.3 mg/kg subcutaneously) produced an increase in locomotor activity
+even at the lowest dose tested. Total increase in motor activity and duration of 
+drug effect were dose related. Motor disability was similarly improved by
+rotigotine in a dose-dependent manner. At the highest doses, hyperactivity and
+stereotypy were observed. Plasma concentrations of rotigotine were linearly
+related to dose over dosage range employed, but not to behavioral response.
+Results show that pulsatile administration of rotigotine effectively normalizes
+motor activity in 1-methyl-4-phenyl-1,2,3,6-tetrahydropytidine-treated marmosets.
+Although dose and plasma concentrations of rotigotine are closely related, drug
+effects in the brain measured as locomotion and improvement of disability
+dissociate from plasma levels. Plasma levels corresponding to the optimal dose
+range (0.01875-0.075 mg/kg) will guide a continuous administration regimen of
+rotigotine in a subsequent study using the same experimental model of Parkinson's
+disease.
+
+DOI: 10.1097/FBP.0b013e3280ebb400 
+PMID: 17351422  [Indexed for MEDLINE]
+
+
+2420. Hear Res. 2007 Jul;229(1-2):81-93. Epub 2007 Jan 25.
+
+Neural coding strategies in auditory cortex.
+
+Wang X(1).
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+xiaoqin.wang@jhu.edu
+
+In contrast to the visual system, the auditory system has longer subcortical
+pathways and more spiking synapses between the peripheral receptors and the
+cortex. This unique organization reflects the needs of the auditory system to
+extract behaviorally relevant information from a complex acoustic environment
+using strategies different from those used by other sensory systems. The neural
+representations of acoustic information in auditory cortex can be characterized
+by three types: (1) isomorphic (faithful) representations of acoustic structures;
+(2) non-isomorphic transformations of acoustic features and (3) transformations
+from acoustical to perceptual dimensions. The challenge facing auditory
+neurophysiologists is to understand the nature of the latter two transformations.
+In this article, I will review recent studies from our laboratory regarding
+temporal discharge patterns in auditory cortex of awake marmosets and cortical
+representations of time-varying signals. Findings from these studies show that
+(1) firing patterns of neurons in auditory cortex are dependent on stimulus
+optimality and context and (2) the auditory cortex forms internal representations
+of sounds that are no longer faithful replicas of their acoustic structures.
+
+DOI: 10.1016/j.heares.2007.01.019 
+PMID: 17346911  [Indexed for MEDLINE]
+

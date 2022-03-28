@@ -1,0 +1,41 @@
+
+
+3886. Biol Reprod. 1995 Aug;53(2):380-9.
+
+Luteinizing hormone/chorionic gonadotropin bioactivity in the common marmoset
+(Callithrix jacchus) is due to a chorionic gonadotropin molecule with a structure
+intermediate between human chorionic gonadotropin and human luteinizing hormone.
+
+Simula AP(1), Amato F, Faast R, Lopata A, Berka J, Norman RJ.
+
+Author information: 
+(1)Department of Obstetrics & Gynaecology, University of Adelaide, Queen
+Elizabeth Hospital, Australia.
+
+Chorionic gonadotropin (CG), a pregnancy-specific heterodimeric hormone found in 
+primates, is responsible for CL rescue with pregnancy maintenance. Of the
+primates, the human and baboon gene sequences are the only structures so far
+determined. In order to study the structure and function of CG in other primates,
+we have isolated and sequenced the coding regions for the two subunits of
+marmoset CG (mCG) by the reverse transcription/polymerase chain reaction method. 
+Study of multiple clones confirmed a high degree of homology with the human
+sequences (88% and 80% for the alpha and beta nucleotide sequences,
+respectively). Marmoset CG alpha has an extra four amino acids compared to hCG
+alpha, whereas the mCG beta sequence has a 3-bp deletion that maintains the
+reading frame and C-terminal amino acid sequence. Most of the differences between
+hCG beta and mCG beta peptides occur in the C-terminal region, which includes the
+loss of two of the O-linked glycosylation consensus sequences and the presence of
+an N-linked glycosylation consensus sequence. When mCG alpha and beta were
+co-expressed in CHO cells, assembly of biologically active hormone was confirmed 
+by induced steroid secretion by MA10 cells. Partially purified mCG beta was used 
+to raise anti-mCG antibodies. To date, an antibody has been obtained that is
+capable of detecting recombinant mCG beta, recombinant mCG dimer, and mCG dimer
+secreted by cultured marmoset trophoblast. Marmoset CG alpha and beta were also
+detectable at the transcriptional level in cultured trophoblast by in situ
+hybridization. This suggests that the LH/CG bioactivity reported from marmoset
+placentae and embryos is due to a molecule with structural features common to hLH
+(glycosylation pattern) and hCG (CG beta C-terminal structure).
+
+DOI: 10.1095/biolreprod53.2.380 
+PMID: 7492691  [Indexed for MEDLINE]
+

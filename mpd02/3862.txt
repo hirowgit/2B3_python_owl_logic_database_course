@@ -1,0 +1,34 @@
+
+
+3862. Regul Pept. 1995 Nov 10;59(3):303-11.
+
+Binding of valsartan to mammalian angiotensin AT1 receptors.
+
+de Gasparo M(1), Whitebread S.
+
+Author information: 
+(1)Ciba-Geigy Ltd., Research Department, Pharmaceuticals Division, Basle,
+Switzerland.
+
+The binding characteristics of the angiotensin AT1 receptor antagonist valsartan 
+were investigated in different animal species and tissues. Using
+[125I](Sar1,Ile8) angiotensin II as radioligand, affinity constants were
+determined in liver and adrenal rat and marmoset, human adrenal and in rat aortic
+smooth muscle cells. In all tissues tested, valsartan had a greater affinity for 
+the AT1 receptor than losartan (on average 5-fold). The affinities of both
+antagonists were up to 30 times weaker in the dog tissues [3H]Valsartan bound
+with high affinity (Kd 1.44 nmol/l) to the rat aortic smooth muscle cell AT1
+receptor. Binding was saturable and reversible. Non-specific binding was low
+(10%). Reports that [3H]losartan binds to a non-angiotensin II binding site in
+rat liver and in other tissues could be confirmed. [3H]Valsartan on the other
+hand bound only to the AT1 receptor. Using a competition binding assay with
+[3H]losartan on rat liver membranes it could be shown that valsartan can bind to 
+the 'losartan binding site', but at a 10,000-fold less affinity than for the AT1 
+receptor. Valsartan is therefore a highly specific and selective antagonist of
+the AT1 receptor. Due to its high affinity and low non-specific binding it is a
+suitable radioactive antagonist for the study of the distribution and function of
+the angiotensin AT1 receptor.
+
+DOI: 10.1016/0167-0115(95)00085-p 
+PMID: 8577935  [Indexed for MEDLINE]
+

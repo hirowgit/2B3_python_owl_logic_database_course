@@ -1,0 +1,34 @@
+
+
+3184. Chromosoma. 2001 Feb;109(8):515-23.
+
+Can molecular data place each neotropical monkey in its own branch?
+
+Schneider H(1), Canavez FC, Sampaio I, Moreira MA, Tagliaro CH, Seuánez HN.
+
+Author information: 
+(1)Division of Genetics, Instituto Nacional de Câncer, Rio de Janeiro, RJ,
+Brazil.
+
+Four different DNA datasets, representative of all extant neotropical primate
+genera, were tandemly aligned, comprising some 6,763 base pairs (bp) with 2,086
+variable characters and 674 informative sites. Maximum Parsimony, Maximum
+Likelihood and Neighbor-Joining analyses suggested three monophyletic families
+(Atelidae, Pitheciidae and Cebidae) that emerged almost at the same time during
+primate radiation. Combined molecular data showed congruent branching inside the 
+atelid clade, placing Alouatta as the most basal lineage followed by Ateles and a
+more derived branch including Brachyteles and Lagothrix as sister groups. In the 
+Pitheciidae, Callicebus was the most basal lineage with respect to Pithecia and
+to the more derived sister groups (Cacajao and Chiropotes). Conjoint analysis
+strongly supported the monophyly of the Cebidae, grouping Aotus, Cebus and
+Saimiri with the small callitrichines. Within callitrichines, Cebuella merged
+with Callithrix, Callimico appeared as a sister group of Callithrix/Cebuella,
+Leontopitecus as a sister group of the previous clade, and Saguinus was the
+earliest callitrichine offshoot. Two major points remained to be clarified in
+platyrrhine phylogeny: (i) the exact branching pattern of Aotus, Cebus, Saimiri
+and the callitrichines, and (ii), which two of these three families (Atelidae,
+Pitheciidae and Cebidae) are more closely related to one another.
+
+DOI: 10.1007/s004120000106 
+PMID: 11305784  [Indexed for MEDLINE]
+

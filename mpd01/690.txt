@@ -1,0 +1,96 @@
+
+
+690. PLoS Negl Trop Dis. 2018 May 9;12(5):e0006474. doi: 10.1371/journal.pntd.0006474.
+eCollection 2018 May.
+
+Attenuation and efficacy of live-attenuated Rift Valley fever virus vaccine
+candidates in non-human primates.
+
+Smith DR(1), Johnston SC(1), Piper A(1), Botto M(1), Donnelly G(1), Shamblin
+J(1), Albariño CG(2), Hensley LE(1), Schmaljohn C(1), Nichol ST(2), Bird BH(2).
+
+Author information: 
+(1)United States Army Medical Research Institute of Infectious Diseases
+(USAMRIID), Fort Detrick, MD, United States of America.
+(2)Centers for Disease Control and Prevention, Viral Special Pathogens Branch,
+Atlanta, GA, United States of America.
+
+Rift Valley fever virus (RVFV) is an important mosquito-borne veterinary and
+human pathogen that has caused large outbreaks of severe disease throughout
+Africa and the Arabian Peninsula. Currently, no licensed vaccine or therapeutics 
+exists to treat this potentially deadly disease. The explosive nature of RVFV
+outbreaks and the severe consequences of its accidental or intentional
+introduction into RVFV-free areas provide the impetus for the development of
+novel vaccine candidates for use in both livestock and humans. Rationally
+designed vaccine candidates using reverse genetics have been used to develop
+deletion mutants of two known RVFV virulence factors, the NSs and NSm genes.
+These recombinant viruses were demonstrated to be protective and immunogenic in
+rats, mice, and sheep, without producing clinical illness in these animals. Here,
+we expand upon those findings and evaluate the single deletion mutant (ΔNSs
+rRVFV) and double deletion mutant (ΔNSs-ΔNSm rRVFV) vaccine candidates in the
+common marmoset (Callithrix jacchus), a non-human primate (NHP) model resembling 
+severe human RVF disease. We demonstrate that both the ΔNSs and ΔNSs-ΔNSm rRVFV
+vaccine candidates were found to be safe and immunogenic in the current study.
+The vaccinated animals received a single dose of vaccine that led to the
+development of a robust antibody response. No vaccine-induced adverse reactions, 
+signs of clinical illness or infectious virus were detected in the vaccinated
+marmosets. All vaccinated animals that were subsequently challenged with RVFV
+were protected against viremia and liver disease. In summary, our results provide
+the basis for further development of the ΔNSs and ΔNSs-ΔNSm rRVFV as safe and
+effective human RVFV vaccines for this significant public health threat.
+
+DOI: 10.1371/journal.pntd.0006474 
+PMCID: PMC5962102
+PMID: 29742102  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+691. eNeuro. 2018 May 7;5(2). pii: ENEURO.0078-18.2018. doi:
+10.1523/ENEURO.0078-18.2018. eCollection 2018 Mar-Apr.
+
+Sound Frequency Representation in the Auditory Cortex of the Common Marmoset
+Visualized Using Optical Intrinsic Signal Imaging.
+
+Tani T(1)(2), Abe H(1)(2), Hayami T(2)(3), Banno T(2)(4), Miyakawa N(2)(5),
+Kitamura N(1), Mashiko H(1), Ichinohe N(2)(1), Suzuki W(2)(1).
+
+Author information: 
+(1)Ichinohe Neural System Group, Laboratory for Molecular Analysis of Higher
+Brain Functions, RIKEN Brain Science Institute, Wako, Saitama 351-0198, Japan.
+(2)Department of Ultrastructural Research, National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Kodaira, Tokyo 187-8502, Japan.
+(3)Department of Biotechnology and Life Science, Graduate School of Engineering, 
+Tokyo University of Agriculture and Technology, Koganei, Tokyo 184-8588, Japan.
+(4)Department of Otorhinolaryngology, University of Pennsylvania, Philadelphia,
+PA 19104.
+(5)Department of Functional Brain Imaging Research, National Institutes of
+Quantum and Radiological Science and Technology, Chiba, Chiba 263-8555, Japan.
+
+Natural sound is composed of various frequencies. Although the core region of the
+primate auditory cortex has functionally defined sound frequency preference maps,
+how the map is organized in the auditory areas of the belt and parabelt regions
+is not well known. In this study, we investigated the functional organizations of
+the core, belt, and parabelt regions encompassed by the lateral sulcus and the
+superior temporal sulcus in the common marmoset (Callithrix jacchus). Using
+optical intrinsic signal imaging, we obtained evoked responses to band-pass noise
+stimuli in a range of sound frequencies (0.5-16 kHz) in anesthetized adult
+animals and visualized the preferred sound frequency map on the cortical surface.
+We characterized the functionally defined organization using histologically
+defined brain areas in the same animals. We found tonotopic representation of a
+set of sound frequencies (low to high) within the primary (A1), rostral (R), and 
+rostrotemporal (RT) areas of the core region. In the belt region, the tonotopic
+representation existed only in the mediolateral (ML) area. This representation
+was symmetric with that found in A1 along the border between areas A1 and ML. The
+functional structure was not very clear in the anterolateral (AL) area. Low
+frequencies were mainly preferred in the rostrotemplatal (RTL) area, while high
+frequencies were preferred in the caudolateral (CL) area. There was a portion of 
+the parabelt region that strongly responded to higher sound frequencies (>5.8
+kHz) along the border between the rostral parabelt (RPB) and caudal parabelt
+(CPB) regions.
+
+DOI: 10.1523/ENEURO.0078-18.2018 
+PMCID: PMC5937112
+PMID: 29736410  [Indexed for MEDLINE]
+

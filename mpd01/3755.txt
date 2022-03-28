@@ -1,0 +1,69 @@
+
+
+3755. Am J Pathol. 1996 Oct;149(4):1369-79.
+
+Biochemical and morphological characterization of vascular and lymphocytic
+interleukin-4 receptors.
+
+Schnyder B(1), Lugli SM, Schnyder-Candrian S, Eng VM, Moser R, Banchereau J,
+Ryffel B, Car BD.
+
+Author information: 
+(1)Institute of Toxicology, Swiss Federal Institute of Technology-ETH,
+Schwerzenbach, Switzerland.
+
+The distribution of the interleukin (IL)-4 receptor in normal human and common
+marmoset (Callithrix jacchus) tissues was examined by immunofluorescence and flow
+cytometry using monoclonal antibodies specific for the human IL-4 receptor to
+gain further insight into IL-4-mediated inflammatory and immunological events.
+IL-4 receptor positivity was unequivocally demonstrated on lymphocytes,
+predominantly T cells, and on blood vessels in many tissues. Vascular IL-4
+receptor immunofluorescence consisted of a strong smooth muscle cell positivity
+and weaker positive staining of capillary and venular endothelial cells.
+Subnanomolar concentrations of IL-4 induced a genistein-sensitive up-regulation
+of VCAM-1 in vascular cell cultures. Tumor necrosis factor-alpha induced a
+genistein-resistant up-regulation of VCAM-1. IL-4 strongly induced expression of 
+the IL-4 receptor on splenocytes (T lymphocytes) but not on vascular smooth
+muscle or endothelial cell cultures. Receptor cross-linking to [125I]IL-4
+revealed a 65- to 75-kDa accessory receptor subunit consistent with a recently
+cloned IL-13 receptor associated with the IL-4 receptor on both vascular
+endothelial and smooth muscle cells. The demonstration of a vascular distribution
+pattern for the IL-4 receptor in addition to expression on lymphocytes suggests
+that vascular functional alterations, transduced through a unique IL-4 receptor
+complex (the type II IL-4 receptor), may be of importance during immunological
+and allergic inflammatory events.
+
+
+PMCID: PMC1865187
+PMID: 8863684  [Indexed for MEDLINE]
+
+
+3756. Proc Natl Acad Sci U S A. 1996 Sep 17;93(19):10477-82.
+
+CP-154,526: a potent and selective nonpeptide antagonist of corticotropin
+releasing factor receptors.
+
+Schulz DW(1), Mansbach RS, Sprouse J, Braselton JP, Collins J, Corman M,
+Dunaiskis A, Faraci S, Schmidt AW, Seeger T, Seymour P, Tingley FD 3rd, Winston
+EN, Chen YL, Heym J.
+
+Author information: 
+(1)Department of Neuroscience, Pfizer Central Research, Groton, CT 06340, USA.
+
+Here we describe the properties of CP-154,526, a potent and selective nonpeptide 
+antagonist of corticotropin (ACTH) releasing factor (CRF) receptors. CP-154,526
+binds with high affinity to CRF receptors (Ki < 10 nM) and blocks CRF-stimulated 
+adenylate cyclase activity in membranes prepared from rat cortex and pituitary.
+Systemically administered CP-154,526 antagonizes the stimulatory effects of
+exogenous CRF on plasma ACTH, locus coeruleus neuronal firing and startle
+response amplitude. Potential anxiolytic activity of CP-154,526 was revealed in a
+fearpotentiated startle paradigm. These data are presented in the context of
+clinical findings, which suggest that CRF is hypersecreted in certain
+pathological states. We propose that a CRF antagonist such as CP-154,526 could
+affirm the role of CRF in certain psychiatric diseases and may be of significant 
+value in the treatment of these disorders.
+
+DOI: 10.1073/pnas.93.19.10477 
+PMCID: PMC38410
+PMID: 8816826  [Indexed for MEDLINE]
+

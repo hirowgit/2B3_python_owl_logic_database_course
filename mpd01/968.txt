@@ -1,0 +1,80 @@
+
+
+968. Hear Res. 2016 Nov;341:1-8. doi: 10.1016/j.heares.2016.07.006. Epub 2016 Aug 3.
+
+Frequency discrimination in the common marmoset (Callithrix jacchus).
+
+Osmanski MS(1), Song X(2), Guo Y(3), Wang X(4).
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+The Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+Electronic address: michael.osmanski@jhu.edu.
+(2)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+The Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+Electronic address: songxindong@jhmi.edu.
+(3)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+The Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+Electronic address: yguo29@jhu.edu.
+(4)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+The Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+Electronic address: xiaoqin.wang@jhu.edu.
+
+The common marmoset (Callithrix jacchus) is a highly vocal New World primate
+species that has emerged in recent years as a promising model system for studies 
+of auditory and vocal processing. Our recent studies have examined perceptual
+mechanisms related to the pitch of harmonic complex tones in this species.
+However, no previous psychoacoustic work has measured marmosets' frequency
+discrimination abilities for pure tones across a broad frequency range. Here we
+systematically examined frequency difference limens (FDLs), which measure the
+minimum discriminable frequency difference between two pure tones, in marmosets
+across most of their hearing range. Results show that marmosets' FDLs are
+comparable to other New World primates, with lowest values in the frequency range
+of ∼3.5-14 kHz. This region of lowest FDLs corresponds with the region of lowest 
+hearing thresholds in this species measured in our previous study and also with
+the greatest concentration of spectral energy in the major types of marmoset
+vocalizations. These data suggest that frequency discrimination in the common
+marmoset may have evolved to match the hearing sensitivity and spectral
+characteristics of this species' vocalizations.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.heares.2016.07.006 
+PMCID: PMC5295855
+PMID: 27498400  [Indexed for MEDLINE]
+
+
+969. Epigenetics. 2017 Jul 3;12(7):527-539. doi: 10.1080/15592294.2016.1248007. Epub
+2016 Oct 27.
+
+De novo methylation in male germ cells of the common marmoset monkey occurs
+during postnatal development and is maintained in vitro.
+
+Langenstroth-Röwer D(1), Gromoll J(1), Wistuba J(1), Tröndle I(1), Laurentino
+S(1), Schlatt S(1), Neuhaus N(1).
+
+Author information: 
+(1)a Centre of Reproductive Medicine and Andrology , Albert-Schweitzer-Campus 1, 
+Münster , Germany.
+
+The timing of de novo DNA methylation in male germ cells during human testicular 
+development is yet unsolved. Apart from that, the stability of established
+imprinting patterns in vitro is controversially discussed. This study aimed at
+determining the timing of DNA de novo methylation and at assessing the stability 
+of the methylation status in vitro. We employed the marmoset monkey (Callithrix
+jacchus) as it is considered the best non-human primate model for human
+testicular development. We selected neonatal, pre-pubertal, pubertal, and adult
+animals (n = 3, each) and assessed germ cell global DNA methylation levels by
+5-methyl cytosine staining, and Alu elements and gene-specific methylation (H19, 
+LIT1, SNRPN, MEST, OCT4, MAGE-A4, and DDX-4) by pyrosequencing. De novo
+methylation is progressively established during postnatal primate development and
+continues until adulthood, a process that is different in most other species.
+Importantly, once established, methylation patterns remained stable, as
+demonstrated using in vitro cultures. Thus, the marmoset monkey is a unique model
+for the study of postnatal DNA methylation mechanisms in germ cells and for the
+identification of epimutations and their causes.
+
+DOI: 10.1080/15592294.2016.1248007 
+PMCID: PMC5687340
+PMID: 27786608  [Indexed for MEDLINE]
+

@@ -1,0 +1,76 @@
+
+
+605. Neurobiol Aging. 2019 Feb;74:1-14. doi: 10.1016/j.neurobiolaging.2018.10.003.
+Epub 2018 Oct 11.
+
+Key periods of cognitive decline in a nonhuman primate model of cognitive aging, 
+the common marmoset (Callithrix jacchus).
+
+Sadoun A(1), Rosito M(1), Fonta C(1), Girard P(2).
+
+Author information: 
+(1)Université de Toulouse, UPS, Centre de Recherche Cerveau et Cognition,
+Toulouse, France; CerCo, CNRS UMR, 5549 Toulouse, France.
+(2)Université de Toulouse, UPS, Centre de Recherche Cerveau et Cognition,
+Toulouse, France; CerCo, CNRS UMR, 5549 Toulouse, France; INSERM, Toulouse,
+France. Electronic address: pascal.girard@cnrs.fr.
+
+It is well established that human life expectancy increases considerably with an 
+ever-growing number of people suffering from age-related cognitive decline and
+degenerative brain diseases. This necessitates the development of animal models
+to counteract or stop the progression of the decline early enough. Presently,
+primate models are few, and many studies argue for the marmoset as an interesting
+primate model presenting a short life span and being easily available in research
+laboratories. In this article, we propose the marmoset as a valid model for
+cognitive decline. Using a computer touch screen, we trained 35 marmosets from 2 
+to 14 years of age to perform reversal learning and delayed-matching-to-position 
+tasks. We found typical age-related cognitive deficits related to executive
+functions and spatial working memory. Applying a recursive algorithm, we detected
+2 critical periods from which deficits appear. Mainly, response strategy deficits
+appear from age 4, whereas impairments in inhibitory control appear from age 7-8.
+Furthermore, the presence of outliers, sometimes at an early age, suggests
+pathological cognitive deficits that would require imaging exploration in
+parallel to behavior.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neurobiolaging.2018.10.003 
+PMID: 30391909  [Indexed for MEDLINE]
+
+
+606. Reproduction. 2019 Jan;157(1):101-109. doi: 10.1530/REP-18-0401.
+
+Primordial germ cells do not migrate along nerve fibres in marmoset monkey and
+mouse embryos.
+
+Wolff E(1), Suplicki MM(1), Behr R(1).
+
+Author information: 
+(1)Research Platform Degenerative Diseases, German Primate Center, Leibniz
+Institute for Primate Research, Göttingen, Germany.
+
+Primordial germ cells (PGCs) are the embryonic precursors of spermatozoa and
+eggs. In mammals, PGCs arise early in embryonic development and migrate from
+their tissue of specification over a significant distance to reach their
+destinations, the genital ridges. However, the exact mechanism of translocation
+is still debated. A study on human embryos demonstrated a very close spatial
+association between migrating PGCs and developing peripheral nerves. Thus, it was
+proposed that peripheral nerves act as guiding structures for migrating PGCs. The
+goal of the present study is to test whether the association between nerves and
+PGCs may be a human-specific finding or whether this represents a general
+strategy to guide PGCs in mammals. Therefore, we investigated embryos of
+different developmental stages from the mouse and a non-human primate, the
+marmoset monkey (Callithrix jacchus), covering the phase from PGC emergence to
+their arrival in the gonadal ridge. Embryo sections were immunohistochemically
+co-stained for tubulin beta-3 chain (TUBB3) to visualise neurons and
+Octamer-binding protein 4 (OCT4 (POU5F1)) as marker for PGCs. The distance
+between PGCs and the nearest detectable neuron was measured. We discovered that
+in all embryos analysed of both species, the majority of PGCs (>94%) was found at
+a minimum distance of 50 µm to the closest neuron and, more importantly, that the
+PGCs had reached the gonads before any TUBB3 signal could be detected in the
+vicinity of the gonads. In conclusion, our data indicate that PGC migration along
+peripheral nerves is not a general mechanism in mammals.
+
+DOI: 10.1530/REP-18-0401 
+PMID: 30390611  [Indexed for MEDLINE]
+

@@ -1,0 +1,52 @@
+
+
+653. Cell Rep. 2018 Aug 21;24(8):2191-2195.e4. doi: 10.1016/j.celrep.2018.07.057.
+
+Calcium Transient Dynamics of Neural Ensembles in the Primary Motor Cortex of
+Naturally Behaving Monkeys.
+
+Kondo T(1), Saito R(2), Otaka M(2), Yoshino-Saito K(3), Yamanaka A(4), Yamamori
+T(5), Watakabe A(5), Mizukami H(6), Schnitzer MJ(7), Tanaka KF(8), Ushiba J(9),
+Okano H(10).
+
+Author information: 
+(1)Department of Physiology, Keio University School of Medicine, Tokyo, Japan;
+Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan.
+(2)Graduate School of Science and Technology, Keio University, Kanagawa, Japan.
+(3)Department of Physiology, Keio University School of Medicine, Tokyo, Japan;
+Japan Society for the Promotion of Science, Tokyo, Japan.
+(4)Research Institute of Environmental Medicine, Nagoya University, Nagoya,
+Japan.
+(5)Laboratory for Molecular Analysis of Higher Brain Function, RIKEN Center for
+Brain Science, Saitama, Japan.
+(6)Division of Genetic Therapeutics, Center for Molecular Medicine, Jichi Medical
+University, Tochigi, Japan.
+(7)James H. Clark Center for Biomedical Engineering and Sciences, Stanford
+University, Stanford, CA, USA; CNC Program, Stanford University, Stanford, CA,
+USA; Howard Hughes Medical Institute, Stanford University, Stanford, CA, USA.
+(8)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan; Department of Neuropsychiatry, Keio University School of
+Medicine, Tokyo, Japan.
+(9)Department of Biosciences and Informatics, Faculty of Science and Technology, 
+Keio University, Kanagawa, Japan; Keio Institute of Pure and Applied Sciences
+(KiPAS), Kanagawa, Japan. Electronic address: ushiba@brain.bio.keio.ac.jp.
+(10)Department of Physiology, Keio University School of Medicine, Tokyo, Japan;
+Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan. Electronic address: hidokano@a2.keio.jp.
+
+To understand brain circuits of cognitive behaviors under natural conditions, we 
+developed techniques for imaging neuronal activities from large neuronal
+populations in the deep layer cortex of the naturally behaving common marmoset.
+Animals retrieved food pellets or climbed ladders as a miniature fluorescence
+microscope monitored hundreds of calcium indicator-expressing cortical neurons in
+the right primary motor cortex. This technique, which can be adapted to other
+brain regions, can deepen our understanding of brain circuits by facilitating
+longitudinal population analyses of neuronal representation associated with
+cognitive naturalistic behaviors and their pathophysiological processes.
+
+Copyright © 2018 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2018.07.057 
+PMID: 30134178  [Indexed for MEDLINE]
+

@@ -1,0 +1,28 @@
+
+
+1753. Behav Res Methods. 2012 Dec;44(4):909-18. doi: 10.3758/s13428-012-0198-9.
+
+The Vienna comparative cognition technology (VCCT): an innovative operant
+conditioning system for various species and experimental procedures.
+
+Steurer MM(1), Aust U, Huber L.
+
+Author information: 
+(1)Department of Cognitive Biology, University of Vienna, Vienna, Austria.
+michael.steurer@univie.ac.at
+
+This article describes a laboratory system for running learning experiments in
+operant chambers with various species. It is based on a modern version of a
+classical learning chamber for operant conditioning, the so-called "Skinner box".
+Rather than constituting a stand-alone unit, as is usually the case, it is an
+integrated part of a comprehensive technical solution, thereby eliminating a
+number of practical problems that are frequently encountered in research on
+animal learning and behavior. The Vienna comparative cognition technology
+combines modern computer, stimulus presentation, and reinforcement technology
+with flexibility and user-friendliness, which allows for efficient, widely
+automatized across-species experimentation, and thus makes the system appropriate
+for use in a broad range of learning tasks.
+
+DOI: 10.3758/s13428-012-0198-9 
+PMID: 22437512  [Indexed for MEDLINE]
+

@@ -1,0 +1,31 @@
+
+
+2854. Virus Res. 2004 Feb;99(2):187-92.
+
+Phylogenetic relationships in the Lymphocryptovirus genus of the
+Gammaherpesvirinae.
+
+Gerner CS(1), Dolan A, McGeoch DJ.
+
+Author information: 
+(1)Medical Research Council Virology Unit, Institute of Virology, Church Street, 
+G11 5JR, Glasgow, UK.
+
+Complete DNA sequences were determined for the glycoprotein B (gB) genes of four 
+viruses from the genus Lymphocryptovirus, whose hosts had been assigned as
+baboon, orangutan, chimpanzee and gorilla. Together with published sequences for 
+the gB genes of three lymphocryptoviruses, namely the human pathogen Epstein-Barr
+virus (EBV), a rhesus monkey virus and a marmoset virus, the sequences were used 
+to investigate evolutionary relationships in the genus. The chimpanzee and
+orangutan viruses' sequences were found to be so close that it is unlikely both
+represent natural infections in these hosts. Phylogenetic analyses showed that
+the New World marmoset virus lineage formed a sister clade to that of the Old
+World viruses, consistent with a cospeciational separation. Within the Old World 
+virus group, resolution of branching pattern was incomplete, and suggestive of a 
+complex history. In particular, it was inferred that separation of the EBV
+lineage from that of the gorilla virus plus the chimpanzee/orangutan virus may
+have predated separation of the present day host species.
+
+DOI: 10.1016/j.virusres.2003.10.011 
+PMID: 14749184  [Indexed for MEDLINE]
+

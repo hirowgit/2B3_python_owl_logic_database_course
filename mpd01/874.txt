@@ -1,0 +1,106 @@
+
+
+874. Drug Metab Dispos. 2017 Aug;45(8):896-899. doi: 10.1124/dmd.117.075630. Epub 2017
+May 11.
+
+Regio- and Stereo-Selective Oxidation of a Cardiovascular Drug, Metoprolol,
+Mediated by Cytochrome P450 2D and 3A Enzymes in Marmoset Livers.
+
+Uehara S(1), Ishii S(1), Uno Y(1), Inoue T(1), Sasaki E(1), Yamazaki H(2).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., S.I., H.Y.); Pharmacokinetics and
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology (T.I.) and Center of
+Applied Developmental Biology (E.S.), Central Institute for Experimental Animals,
+Kawasaki, Japan; and Keio Advanced Research Center, Keio University, Minato-ku,
+Tokyo, Japan (E.S.).
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., S.I., H.Y.); Pharmacokinetics and
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology (T.I.) and Center of
+Applied Developmental Biology (E.S.), Central Institute for Experimental Animals,
+Kawasaki, Japan; and Keio Advanced Research Center, Keio University, Minato-ku,
+Tokyo, Japan (E.S.) hyamazak@ac.shoyaku.ac.jp.
+
+A β-blocker, metoprolol, is one of the in vivo probes for human cytochrome P450
+(P450) 2D6. Investigation of nonhuman primate P450 enzymes helps to improve the
+accuracy of the extrapolation of pharmacokinetic data from animals into humans.
+Common marmosets (Callithrix jacchus) are a potential primate model for
+preclinical research, but the detailed roles of marmoset P450 enzymes in
+metoprolol oxidation remain unknown. In this study, regio- and stereo-selectivity
+of metoprolol oxidations by a variety of P450 enzymes in marmoset and human
+livers were investigated in vitro. Although liver microsomes from cynomolgus
+monkeys and rats preferentially mediated S-metoprolol O-demethylation and
+R-metoprolol α-hydroxylation, respectively, those from humans, marmosets,
+minipigs, and dogs preferentially mediated R-metoprolol O-demethylation, in
+contrast to the slow rates of R- and S-metoprolol oxidation in mouse liver
+microsomes. R- and S-metoprolol O-demethylation activities in marmoset livers
+were strongly inhibited by quinidine and ketoconazole, and were significantly
+correlated with bufuralol 1'-hydroxylation and midazolam 1'-hydroxylation
+activities and also with P450 2D and 3A4 contents, which is different from the
+case in human livers that did not have any correlations with P450 3A-mediated
+midazolam 1'-hydroxylation. Recombinant human P450 2D6 enzyme and marmoset P450
+2D6/3A4 enzymes effectively catalyzed R-metoprolol O-demethylation, comparable to
+the activities of human and marmoset liver microsomes, respectively. These
+results indicated that the major roles of P450 2D enzymes for the regio- and
+stereo-selectivity of metoprolol oxidation were similar between human and
+marmoset livers, but the minor roles of P450 3A enzymes were unique to marmosets.
+
+Copyright © 2017 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/dmd.117.075630 
+PMID: 28495902  [Indexed for MEDLINE]
+
+
+875. PLoS One. 2017 May 11;12(5):e0176597. doi: 10.1371/journal.pone.0176597.
+eCollection 2017.
+
+Non-human primate orthologues of TMPRSS2 cleave and activate the influenza virus 
+hemagglutinin.
+
+Zmora P(1), Molau-Blazejewska P(1), Bertram S(1), Walendy-Gnirß K(1), Nehlmeier
+I(1), Hartleib A(1), Moldenhauer AS(1), Konzok S(2), Dehmel S(2), Sewald K(2),
+Brinkmann C(1), Curths C(2)(3), Knauf S(3)(4), Gruber J(5), Mätz-Rensing K(3),
+Dahlmann F(2)(3), Braun A(2), Pöhlmann S(1).
+
+Author information: 
+(1)Infection Biology Unit, German Primate Center, Leibniz-Institute Kellnerweg 4,
+Göttingen, Germany.
+(2)Division Preclinical Pharmacology and In Vitro Toxicology, Fraunhofer
+Institute for Toxicology and Experimental Medicine; Biomedical Research in
+Endstage and Obstructive Lung Disease Hannover (BREATH), Member of the German
+Center for Lung Research, Nikolai-Fuchs-Strasse 1, Hannover, Germany.
+(3)Pathology Unit, German Primate Center, Leibniz-Institute, Kellnerweg 4,
+Göttingen, Germany.
+(4)Workgroup Neglected Tropical Diseases, German Primate Center,
+Leibniz-Institute, Kellnerweg 4, Göttingen, Germany.
+(5)Primate Genetics Laboratory, Junior Research Group "Medical RNA Biology,"
+German Primate Center, Leibniz-Institute, Göttingen, Germany.
+
+The cellular serine protease TMPRSS2, a member of the type II transmembrane
+serine protease (TTSP) family, cleaves and activates the hemagglutinin of
+influenza A viruses (FLUAV) in cell culture and is essential for spread of
+diverse FLUAV in mice. Non-human primates (NHP), in particular rhesus and
+cynomolgus macaques, serve as animal models for influenza and experimental FLUAV 
+infection of common marmosets has recently also been reported. However, it is
+currently unknown whether the NHP orthologues of human TMPRSS2 cleave and
+activate FLUAV hemagglutinin and contribute to viral spread in respiratory
+tissue. Here, we cloned and functionally analyzed the macaque and marmoset
+orthologues of human TMPRSS2. In addition, we analyzed the macaque orthologues of
+human TMPRSS4 and HAT, which also belong to the TTSP family. We found that all
+NHP orthologues of human TMPRSS2, TMPRSS4 and HAT cleave and activate HA upon
+directed expression and provide evidence that endogenous TMPRSS2 is expressed in 
+the respiratory epithelium of rhesus macaques. Finally, we demonstrate that a
+serine protease inhibitor active against TMPRSS2 suppresses FLUAV spread in
+precision-cut lung slices of human, macaque and marmoset origin. These results
+indicate that FLUAV depends on serine protease activity for spread in diverse NHP
+and in humans. Moreover, our findings suggest that macaques and marmosets may
+serve as models to study FLUAV activation by TMPRSS2 in human patients.
+
+DOI: 10.1371/journal.pone.0176597 
+PMCID: PMC5426610
+PMID: 28493964  [Indexed for MEDLINE]
+

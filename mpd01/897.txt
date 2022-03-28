@@ -1,0 +1,70 @@
+
+
+897. IEEE Trans Ultrason Ferroelectr Freq Control. 2017 May;64(5):798-810. doi:
+10.1109/TUFFC.2017.2681695. Epub 2017 Mar 13.
+
+Targeting Effects on the Volume of the Focused Ultrasound-Induced Blood-Brain
+Barrier Opening in Nonhuman Primates In Vivo.
+
+Karakatsani MEM, Samiotaki GM, Downs ME, Ferrera VP, Konofagou EE.
+
+Drug delivery to subcortical regions is susceptible to the blood-brain barrier
+(BBB) impeding the molecular exchange between the blood stream and the brain
+parenchyma. Focused ultrasound (FUS) coupled with the administration of
+microbubbles has been proved to open the BBB locally, transiently, and
+noninvasively both in rodents and in nonhuman-primates (NHPs). The development of
+this disruption technique independent of MRI monitoring is of primordial
+importance yet restrained to the targeting optimization. This paper establishes
+the linear relationship of the incidence angle with the volume of BBB opening (
+VBBB ) and the peak negative pressure when sonicating the caudate nucleus and the
+putamen region of five NHPs. In addition, the effect of central nervous system
+structures on the opening morphology is evaluated by identification of the
+gray-to-white-matter ratio at the opening site. Finally, the targeting accuracy
+is assessed through the estimation of the geometric and angle shift of the
+opening from the targeted region. Interestingly, results prove a monotonic
+increase of the opening volume with close to normal incidence angles. Moreover,
+80.35% of the opening lies on gray-matter regions compared with only 19.41%
+attributed to the white matter. The opening was found to be shifted axially,
+toward the transducer, and laterally with an average angle shift of 4.5°.
+Finally, we were capable of showing reproducibility of targeting accuracy with
+the same stereotactic and ultrasonic parameters. This paper documents the a
+priori prediction of the opening volume through manipulation of the angle and
+pressure as well as establishing the predictability, accuracy, and safety of
+FUS-induced BBB opening in NHPs.
+
+DOI: 10.1109/TUFFC.2017.2681695 
+PMCID: PMC5542068
+PMID: 28320656  [Indexed for MEDLINE]
+
+
+898. Comp Med. 2016 Dec 1;66(6):468-473.
+
+Tranexamic Acid and Supportive Measures to Treat Wasting Marmoset Syndrome.
+
+Yoshimoto T(1), Niimi K(1), Takahashi E(2).
+
+Author information: 
+(1)Research Resources Center, RIKEN Brain Science Institute, Saitama, Japan;,
+Email: kimie@brain.riken.jp.
+(2)Research Resources Center, RIKEN Brain Science Institute, Saitama, Japan.
+
+Wasting marmoset syndrome (WMS) has high incidence and mortality rates and is one
+of the most important problems in captive common marmoset (Callithrix jacchus)
+colonies. Despite several reports on WMS, little information is available
+regarding its reliable treatment. We previously reported that marmosets with WMS 
+had high serum levels of matrix metalloproteinase 9 (MMP9). MMP9 is thought to be
+a key enzyme in the pathogenesis of inflammatory bowel disease, the main disease 
+state of WMS, and is activated by plasmin, a fibrinolytic factor. In a previous
+study, treating mice with an antibody to inhibit plasmin prevented the
+progression of inflammatory bowel disease. Here we examined the efficacy of
+tranexamic acid, a commonly used plasmin inhibitor, for the treatment of WMS,
+with supportive measures including amino acid and iron formulations. Six colony
+marmosets with WMS received tranexamic acid therapy with supportive measures for 
+8 wk. The body weight, Hct, and serum albumin levels of these 6 marmosets were
+increased and serum MMP9 levels decreased after this regimen. Therefore,
+tranexamic acid therapy may be a new and useful treatment for WMS.
+
+
+PMCID: PMC5157962
+PMID: 28304250  [Indexed for MEDLINE]
+

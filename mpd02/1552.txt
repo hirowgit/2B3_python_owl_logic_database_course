@@ -1,0 +1,35 @@
+
+
+1552. Brain Behav Evol. 2013;81(4):209-18. doi: 10.1159/000350709. Epub 2013 May 25.
+
+Faster scaling of auditory neurons in cortical areas relative to subcortical
+structures in primate brains.
+
+Wong P(1), Peebles JK, Asplund CL, Collins CE, Herculano-Houzel S, Kaas JH.
+
+Author information: 
+(1)Department of Psychology, Vanderbilt University, Nashville, TN 37203, USA.
+
+Allometric studies in primates have shown that the cerebral cortex, cerebellum,
+and remaining brain structures increase in size as a linear function of their
+numbers of neurons and nonneuronal cells across primates. Whether such scaling
+rules also apply to functionally related structures such as those of the auditory
+system is unknown. Here, we investigate the scaling of brain structures in the
+auditory pathway of six primate species and the closely related tree shrew. Using
+the isotropic fractionator method to estimate the numbers of neurons and
+nonneuronal cells in the inferior colliculus, medial geniculate nucleus, and
+auditory cortex (Ac), we assessed how they scaled across species and examined the
+relative scaling relationships among them. As expected, each auditory structure
+scales in mass as a linear function of its number of neurons, with no significant
+changes in neuronal density across species. The Ac scales proportionately with
+the cerebral cortex as a whole, maintaining a relative mass of approximately 1%
+and a relative number of neurons of 0.7%. However, the Ac gains neurons faster
+than both subcortical structures examined. As a result, larger primate brains
+have increased ratios of cortical to subcortical neurons involved in processing
+auditory information.
+
+Copyright © 2013 S. Karger AG, Basel.
+
+DOI: 10.1159/000350709 
+PMID: 23712070  [Indexed for MEDLINE]
+

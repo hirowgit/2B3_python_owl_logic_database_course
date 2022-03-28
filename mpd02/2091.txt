@@ -1,0 +1,35 @@
+
+
+2091. Neurosci Res. 2010 Jan;66(1):62-85. doi: 10.1016/j.neures.2009.09.1709. Epub 2009
+Oct 4.
+
+Gene expression profiles in the common marmoset brain determined using a newly
+developed common marmoset-specific DNA microarray.
+
+Fukuoka T(1), Sumida K, Yamada T, Higuchi C, Nakagaki K, Nakamura K, Kohsaka S,
+Saito K, Oeda K.
+
+Author information: 
+(1)Safety Research Laboratories, Dainippon Sumitomo Pharma Co., Ltd., 3-1-98
+Kasugade-naka, Konohana-ku, Osaka 554-0022, Japan.
+toshifumi-fukuoka@ds-pharma.co.jp
+
+To facilitate common marmoset brain research, we produced a DNA microarray with
+7557 probe sets derived from the common marmoset brain. Gene expression profiles 
+in the frontal lobe, hippocampus, cerebellum and amygdaloid nucleus were then
+analyzed and the top 100 probe sets expressed in each structure were compared.
+The three lists for the frontal lobe, hippocampus and amygdaloid nucleus were
+very similar but the probe sets for the cerebellum demonstrated specific
+differences. Some of the genes specifically expressed in cerebellum were analyzed
+by real-time quantitative PCR to verify the DNA microarray results. Of examined
+genes, 5 showed extremely strong expression in cerebellum in comparison with the 
+other structures. The results of real-time quantitative PCR were well consistent 
+with the microarray findings, validating our newly developed DNA microarray as a 
+useful tool for brain research with the common marmoset.
+
+Copyright 2009 Elsevier Ireland Ltd and the Japan Neuroscience Society. All
+rights reserved.
+
+DOI: 10.1016/j.neures.2009.09.1709 
+PMID: 19808062  [Indexed for MEDLINE]
+

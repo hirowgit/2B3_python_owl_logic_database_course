@@ -1,0 +1,83 @@
+
+
+1850. Stem Cells. 2011 Sep;29(9):1448-58. doi: 10.1002/stem.692.
+
+The adult mouse dentate gyrus contains populations of committed progenitor cells 
+that are distinct from subependymal zone neural stem cells.
+
+Clarke L(1), van der Kooy D.
+
+Author information: 
+(1)Institute of Medical Science, University of Toronto, Toronto, Ontario, Canada.
+laura.clarke@utoronto.ca
+
+There is currently a debate as to whether or not a neural stem cell (NSC) exists 
+in the adult mammalian hippocampus. Clonal colony-forming assays allow single
+cells to cells to be evaluated for stem cell properties: self-renewal and
+multipotentiality. In these in vitro assays, single cells from the subependymal
+zone (SEZ) of the adult lateral ventricle yield large colonies which self-renew
+and are multipotential, while single cells from the adult dentate gyrus (DG)
+produce small, unipotent, and nonself-renewing colonies. We find that
+multipotential and long-term self-renewing colonies can be isolated only from the
+early embryonic hippocampus, before the formation of the DG. No movement of
+progenitors from the postnatal SEZ to the newly forming DG subgranular zone is
+detected and adult DG colonies in vitro originate from the embryonic hippocampal 
+primordium. These data support a model where embryonic hippocampal NSCs change
+their properties as the organism ages. When adult DG spheres are cocultured with 
+embryonic brain slices, self-renewal (but not multipotentiality) is restored and 
+maintained for several passages off of slices. Adult clonal DG spheres grown on
+embryonic brain slices or transplanted into brains of neonatal mice do not give
+rise to neurons. Neurons arise from separate, small clones that are approximately
+10 times more frequent than sphere colonies in vitro and may be responsible for
+maintaining neurogenesis in the adult in vivo. We propose that there are separate
+glial and neuronal clones in the adult hippocampus, with glial progenitors being 
+the most proliferative in culture.
+
+Copyright © 2011 AlphaMed Press.
+
+DOI: 10.1002/stem.692 
+PMID: 21774038  [Indexed for MEDLINE]
+
+
+1851. Am J Primatol. 2011 Oct;73(10):1082-92. doi: 10.1002/ajp.20976. Epub 2011 Jul 18.
+
+Increased positive selection pressure within the complementarity determining
+regions of the T-cell receptor β gene in New World monkeys.
+
+Matsutani T(1), Fujii Y, Kitaura K, Suzuki S, Tsuruta Y, Takasaki T, Ogasawara K,
+Nishimoto N, Kurane I, Suzuki R.
+
+Author information: 
+(1)Laboratory of Immune Regulation, Wakayama Medical University, Osaka, Japan.
+
+Because of the long-term co-evolution of TCR and MHC molecules, numerous
+nucleotide substitutions have accumulated within the domains of TCRβ genes. We
+previously found that nonsynonymous nucleotide substitutions occurred more
+frequently in complementarity determining region (CDR)β than in CDRα, even though
+only a limited number of common marmoset (Callithrix jacchus) and human T-cell
+receptor β variable (TRBV) sequences were compared. This interesting finding
+raised the question of whether the increased selective pressure within CDRβ was
+species-specific. In this study, we identified 21 TRBV region sequences from the 
+common marmoset and performed comparative sequence analyses of the T-cell
+receptor α variable (TRAV) and TRBV regions from human, chimpanzee, rhesus
+monkey, cotton-top tamarin, Ma's night monkey, and common marmoset. The ratios of
+the number of nonsynonymous nucleotide substitutions per site (d(N) ) to the d(S)
+values (d(N) /d(S) ) were less than 1 within the framework regions (FRs) of TRAV 
+and TRBV region sequences, suggesting that purifying selection is largely
+dominant within the FRs. In contrast, the d(N) values were statistically
+significantly greater for CDRβ than for CDRα only in New World monkeys. Also,
+increased d(N) /d(S) ratios (d(N) /d(S) >1) were observed within CDRβ between
+humans and New World monkeys and, interestingly, between New World monkeys, which
+share a relatively recent common ancestor. Moreover, phylogenetic analysis by
+maximum likelihood analysis provided firm evidence to support that positive
+selection occurred within CDRβ along New World monkey lineages. These results
+suggest that increased positive selection pressure within CDRβ is common in New
+World monkeys rather than being species-specific. This study provides an
+intriguing insight into the co-evolution of TCR and MHC molecules within
+primates.
+
+© 2011 Wiley-Liss, Inc.
+
+DOI: 10.1002/ajp.20976 
+PMID: 21769905  [Indexed for MEDLINE]
+

@@ -1,0 +1,103 @@
+
+
+1274. Drug Metab Dispos. 2015 May;43(5):735-42. doi: 10.1124/dmd.115.063594. Epub 2015 
+Mar 3.
+
+Activation and deactivation of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine by
+cytochrome P450 enzymes and flavin-containing monooxygenases in common marmosets 
+(Callithrix jacchus).
+
+Uehara S(1), Uno Y(1), Inoue T(1), Murayama N(1), Shimizu M(1), Sasaki E(1),
+Yamazaki H(2).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., N.M., M.S., H.Y.); Pharmacokinetics and 
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology, Central Institute for 
+Experimental Animals, Kawasaki, Kanagawa, Japan (T.I., E.S.); and Keio Advanced
+Research Center, Keio University, Minato-ku, Tokyo, Japan (E.S.).
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., N.M., M.S., H.Y.); Pharmacokinetics and 
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology, Central Institute for 
+Experimental Animals, Kawasaki, Kanagawa, Japan (T.I., E.S.); and Keio Advanced
+Research Center, Keio University, Minato-ku, Tokyo, Japan (E.S.)
+hyamazak@ac.shoyaku.ac.jp.
+
+The potential proneurotoxin 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)
+induces Parkinson-like syndromes in common marmosets, other primates, and humans.
+MPTP is metabolically activated to 1-methyl-4-phenyl-2,3-dihydropyridinium and
+1-methyl-4-phenylpyridinium ions (MPDP(+) and MPP(+), respectively) by
+desaturation reactions. MPTP is deactivated to
+4-phenyl-1,2,3,6-tetrahydropyridine (PTP) by N-demethylation and is also
+deactivated to MPTP N-oxide. The roles of cytochrome P450 (P450) enzymes and
+flavin-containing monooxygenases (FMOs) in the oxidative metabolism of
+MPTP-treated marmosets are not yet fully clarified. This study aimed to elucidate
+P450- and FMO-dependent MPTP metabolism in marmoset liver and brain. Rates of
+MPTP N-oxygenation in liver microsomes were similar to those in brain microsomes 
+from 11 individual marmosets (substrate concentration, 50 μM) and were correlated
+with rates of benzydamine N-oxygenation (r = 0.75, P < 0.05); the reactions were 
+inhibited by methimazole (10 μM). MPTP N-oxygenation was efficiently mediated by 
+recombinantly expressed marmoset FMO3. Rates of PTP formation by MPTP
+N-demethylation in marmoset liver microsomes were correlated with bufuralol
+1'-hydroxylation rates (r = 0.77, P < 0.01) and were suppressed by quinidine (1
+μM), thereby indicating the importance of marmoset CYP2D6 in PTP formation. MPTP 
+transformations to MPDP(+) and MPP(+) were efficiently catalyzed by recombinant
+marmoset CYP2D6 and human CYP1A2. These results indicated the contributions of
+multiple drug-metabolizing enzymes to MPTP oxidation, especially marmoset FMO3 in
+deactivation (N-oxygenation) and marmoset CYP2D6 for both MPTP deactivation and
+MPTP activation to MPDP(+) and MPP(+). These findings provide a foundation for
+understanding MPTP metabolism and for the successful production of preclinical
+marmoset models.
+
+Copyright © 2015 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/dmd.115.063594 
+PMID: 25735838  [Indexed for MEDLINE]
+
+
+1275. J Gen Virol. 2015 Jul;96(Pt 7):1636-50. doi: 10.1099/vir.0.000108. Epub 2015 Mar 
+3.
+
+Genetic analysis of members of the species Oropouche virus and identification of 
+a novel M segment sequence.
+
+Tilston-Lunel NL(1), Hughes J(2), Acrani GO(3), da Silva DE(4), Azevedo RS(5),
+Rodrigues SG(5), Vasconcelos PF(5), Nunes MR(4), Elliott RM(2).
+
+Author information: 
+(1)1MRC-University of Glasgow Centre for Virus Research, 464 Bearsden Road,
+Glasgow G61 1QH, Scotland, UK 2Biomedical Sciences Research Complex, School of
+Biology, University of St Andrews, St Andrews KY16 9ST, Scotland, UK.
+(2)1MRC-University of Glasgow Centre for Virus Research, 464 Bearsden Road,
+Glasgow G61 1QH, Scotland, UK.
+(3)1MRC-University of Glasgow Centre for Virus Research, 464 Bearsden Road,
+Glasgow G61 1QH, Scotland, UK 3Department of Cell and Molecular Biology,
+University of Sao Paulo School of Medicine, 3900, Av Bandeirantes, Ribeirão
+Preto, SP 14049-900, Brazil.
+(4)4Center for Technological Innovation, Instituto Evandro Chagas, Ananindeua,
+Brazil.
+(5)5Department of Arbovirology and Hemorrhagic Fevers, Instituto Evandro Chagas, 
+Ananindeua, Brazil.
+
+Oropouche virus (OROV) is a public health threat in South America, and in
+particular in northern Brazil, causing frequent outbreaks of febrile illness.
+Using a combination of deep sequencing and Sanger sequencing approaches, we
+determined the complete genome sequences of eight clinical isolates that were
+obtained from patient sera during an Oropouche fever outbreak in Amapa state,
+northern Brazil, in 2009. We also report the complete genome sequences of two
+OROV reassortants isolatd from two marmosets in Minas Gerais state, south-east
+Brazil, in 2012 that contained a novel M genome segment. Interestingly, all 10
+isolates possessed a 947 nt S segment that lacked 11 residues in the S-segment 3'
+UTR compared with the recently redetermined Brazilian prototype OROV strain
+BeAn19991. OROV maybe circulating more widely in Brazil and in the non-human
+primate population than previously appreciated, and the identification of yet
+another reassortant highlights the importance of bunyavirus surveillance in South
+America.
+
+DOI: 10.1099/vir.0.000108 
+PMCID: PMC4635451
+PMID: 25735305  [Indexed for MEDLINE]
+

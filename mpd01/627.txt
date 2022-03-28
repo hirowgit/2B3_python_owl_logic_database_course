@@ -1,0 +1,106 @@
+
+
+627. Proc Natl Acad Sci U S A. 2018 Oct 30;115(44):E10486-E10494. doi:
+10.1073/pnas.1807192115. Epub 2018 Oct 15.
+
+Lawful tracking of visual motion in humans, macaques, and marmosets in a
+naturalistic, continuous, and untrained behavioral context.
+
+Knöll J(1)(2)(3)(4), Pillow JW(5)(6), Huk AC(7)(2)(3)(4).
+
+Author information: 
+(1)Department of Psychology, The University of Texas at Austin, Austin, TX 78712.
+(2)Department of Neuroscience, The University of Texas at Austin, Austin, TX
+78712.
+(3)Center for Perceptual Systems, The University of Texas at Austin, Austin, TX
+78712.
+(4)Institute for Neuroscience, The University of Texas at Austin, Austin, TX
+78712.
+(5)Princeton Neuroscience Institute, Princeton University, Princeton, NJ 08544.
+(6)Department of Psychology, Princeton University, Princeton, NJ 08544.
+(7)Department of Psychology, The University of Texas at Austin, Austin, TX 78712;
+huk@utexas.edu.
+
+Comment in
+    Proc Natl Acad Sci U S A. 2018 Oct 30;115(44):11112-11114.
+
+Much study of the visual system has focused on how humans and monkeys integrate
+moving stimuli over space and time. Such assessments of spatiotemporal
+integration provide fundamental grounding for the interpretation of
+neurophysiological data, as well as how the resulting neural signals support
+perceptual decisions and behavior. However, the insights supported by classical
+characterizations of integration performed in humans and rhesus monkeys are
+potentially limited with respect to both generality and detail: Standard tasks
+require extensive amounts of training, involve abstract stimulus-response
+mappings, and depend on combining data across many trials and/or sessions. It is 
+thus of concern that the integration observed in classical tasks involves the
+recruitment of brain circuits that might not normally subsume natural behaviors, 
+and that quantitative analyses have limited power for characterizing single-trial
+or single-session processes. Here we bridge these gaps by showing that three
+primate species (humans, macaques, and marmosets) track the focus of expansion of
+an optic flow field continuously and without substantial training. This
+flow-tracking behavior was volitional and reflected substantial temporal
+integration. Most strikingly, gaze patterns exhibited lawful and nuanced
+dependencies on random perturbations in the stimulus, such that repetitions of
+identical flow movies elicited remarkably similar eye movements over long and
+continuous time periods. These results demonstrate the generality of
+spatiotemporal integration in natural vision, and offer a means for studying
+integration outside of artificial tasks while maintaining lawful and highly
+reliable behavior.
+
+Copyright © 2018 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.1807192115 
+PMCID: PMC6217422
+PMID: 30322919  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+628. J Gerontol A Biol Sci Med Sci. 2019 Feb 15;74(3):315-324. doi:
+10.1093/gerona/gly237.
+
+Marmoset as a Model to Study Kidney Changes Associated With Aging.
+
+Lee HJ(1), Gonzalez O(2), Dick EJ(2), Donati A(1), Feliers D(1), Choudhury
+GG(1)(3), Ross C(4), Venkatachalam M(5), Tardif SD(2)(6), Kasinath BS(1)(3)(6).
+
+Author information: 
+(1)Department of Medicine, University of Texas Health, Long School of Medicine,
+San Antonio.
+(2)Southwest National Primate Research Center, San Antonio, Texas.
+(3)Geriatric Research Education, and Clinical Center (GRECC), South Texas
+Veterans Health Care System, San Antonio.
+(4)Department of Biology, Texas A & M University, San Antonio.
+(5)Department of Pathology, University of Texas Health, Long School of Medicine, 
+San Antonio.
+(6)Barshop Institute for Longevity and Aging Studies, San Antonio, Texas.
+
+Erratum in
+    J Gerontol A Biol Sci Med Sci. 2022 Jan 7;77(1):84.
+
+We evaluated whether the marmoset, a nonhuman primate, can serve as a good model 
+to study aging-related changes in the kidney by employing healthy young and aged 
+marmosets of both sexes. Aging was associated with glomerulosclerosis,
+interstitial fibrosis, and arteriolosclerosis in both sexes; correspondingly, the
+content of matrix proteins was increased. Functionally, aging resulted in an
+increase in urinary albumin and protein excretion. There was a robust correlation
+between markers of fibrosis and functional changes. We explored signaling
+pathways as potential mechanistic events. Aging in males, but not in females, was
+associated with reduced renal cortical activity of AMP-activated protein kinase
+(AMPK) and a trend toward activation of mechanistic target of rapamycin complex 1
+(mTORC1); upstream of AMPK and mTORC1, Akt and IGF-1 receptor were activated. In 
+both sexes, aging promoted kidney activation of transforming growth factor β-1
+signaling pathway. While the expression of cystathionine β-synthase (CBS), an
+enzyme involved hydrogen sulfide (H2S) synthesis, was reduced in both aged males 
+and females, decreased H2S generation was seen in only males. Our studies show
+that the marmoset is a valid model to study kidney aging; some of the signaling
+pathways involved in renal senescence differ between male and female marmosets.
+
+Published by Oxford University Press on behalf of The Gerontological Society of
+America 2018.
+
+DOI: 10.1093/gerona/gly237 
+PMCID: PMC6376089
+PMID: 30321310  [Indexed for MEDLINE]
+

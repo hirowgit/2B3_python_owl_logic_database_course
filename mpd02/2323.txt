@@ -1,0 +1,40 @@
+
+
+2323. J Virol. 2008 Mar;82(6):3054-60. Epub 2007 Dec 19.
+
+Virus-specific T-cell immunity correlates with control of GB virus B infection in
+marmosets.
+
+Woollard DJ(1), Haqshenas G, Dong X, Pratt BF, Kent SJ, Gowans EJ.
+
+Author information: 
+(1)The Burnet Institute, G.P.O. Box 2284, Melbourne, Victoria, Australia.
+woollard@burnet.edu.au
+
+GB virus B (GBV-B) is a hepatotropic virus that is closely related to hepatitis C
+virus (HCV). GBV-B causes acute hepatitis in infected marmosets and tamarins and 
+is therefore a useful small-animal model for the study of HCV. We investigated
+virus-specific T-cell responses in marmosets infected with GBV-B. Gamma
+interferon (IFN-gamma) enzyme-linked immunospot (ELISPOT) assay responses in the 
+peripheral blood of two marmosets were assessed throughout the course of GBV-B
+infection. These T-cell responses were directed against the GBV-B nonstructural
+proteins 3 (NS3), 4A (NS4A), and 5B (NS5B), and their appearance was temporally
+associated with clearance of viremia. These marmosets were then rechallenged with
+GBV-B at least 3 months after clearance of the primary infection to determine if 
+the animals were protected from reinfection. There was no detectable viremia
+following reinfection, although a sharp increase in T-cell responses against
+GBV-B proteins was observed. Epitope mapping of T-cell responses to GBV-B was
+performed with liver and blood samples from both marmosets after rechallenge with
+GBV-B. Three shared, immunodominant T-cell epitopes within NS3 were identified in
+animals with multiple common major histocompatibility complex class I alleles.
+IFN-gamma ELISPOT responses were also detected in the livers of two marmosets
+that had resolved a primary GBV-B infection. These responses were high in
+frequency and were directed against epitopes within GBV-B NS3, NS4A, and NS5B
+proteins. These results indicate that virus-specific T-cell responses are
+detectable in the liver and blood of GBV-B-infected marmosets and that the
+clearance of GBV-B is associated with the appearance of these responses.
+
+DOI: 10.1128/JVI.01153-07 
+PMCID: PMC2259009
+PMID: 18094181  [Indexed for MEDLINE]
+

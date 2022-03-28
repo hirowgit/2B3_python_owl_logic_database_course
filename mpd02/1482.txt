@@ -1,0 +1,44 @@
+
+
+1482. PLoS One. 2013 Nov 14;8(11):e78750. doi: 10.1371/journal.pone.0078750.
+eCollection 2013.
+
+A novel nonhuman primate model for influenza transmission.
+
+Moncla LH(1), Ross TM, Dinis JM, Weinfurter JT, Mortimer TD, Schultz-Darken N,
+Brunner K, Capuano SV 3rd, Boettcher C, Post J, Johnson M, Bloom CE, Weiler AM,
+Friedrich TC.
+
+Author information: 
+(1)Department of Pathobiological Sciences, University of Wisconsin School of
+Veterinary Medicine, Madison, Wisconsin, United States of America ; Wisconsin
+National Primate Research Center, Madison, Wisconsin, United States of America ; 
+University of Wisconsin Microbiology Doctoral Training Program, Madison,
+Wisconsin, United States of America.
+
+Studies of influenza transmission are necessary to predict the pandemic potential
+of emerging influenza viruses. Currently, both ferrets and guinea pigs are used
+in such studies, but these species are distantly related to humans. Nonhuman
+primates (NHP) share a close phylogenetic relationship with humans and may
+provide an enhanced means to model the virological and immunological events in
+influenza virus transmission. Here, for the first time, it was demonstrated that 
+a human influenza virus isolate can productively infect and be transmitted
+between common marmosets (Callithrix jacchus), a New World monkey species. We
+inoculated four marmosets with the 2009 pandemic virus A/California/07/2009
+(H1N1pdm) and housed each together with a naïve cage mate. We collected
+bronchoalveolar lavage and nasal wash samples from all animals at regular
+intervals for three weeks post-inoculation to track virus replication and
+sequence evolution. The unadapted 2009 H1N1pdm virus replicated to high titers in
+all four index animals by 1 day post-infection. Infected animals seroconverted
+and presented human-like symptoms including sneezing, nasal discharge, labored
+breathing, and lung damage. Transmission occurred in one cohabitating pair. Deep 
+sequencing detected relatively few genetic changes in H1N1pdm viruses replicating
+in any infected animal. Together our data suggest that human H1N1pdm viruses
+require little adaptation to replicate and cause disease in marmosets, and that
+these viruses can be transmitted between animals. Marmosets may therefore be a
+viable model for studying influenza virus transmission.
+
+DOI: 10.1371/journal.pone.0078750 
+PMCID: PMC3828296
+PMID: 24244352  [Indexed for MEDLINE]
+

@@ -1,0 +1,76 @@
+
+
+1870. J Neurophysiol. 2011 Aug;106(2):974-85. doi: 10.1152/jn.00384.2011. Epub 2011 Jun
+8.
+
+Information conveyed by inferior colliculus neurons about stimuli with aligned
+and misaligned sound localization cues.
+
+Slee SJ(1), Young ED.
+
+Author information: 
+(1)Biomedical Engineering Department, Johns Hopkins University, Baltimore, MD
+21205, USA. sslee1@jhmi.edu
+
+Previous studies have demonstrated that single neurons in the central nucleus of 
+the inferior colliculus (ICC) are sensitive to multiple sound localization cues. 
+We investigated the hypothesis that ICC neurons are specialized to encode
+multiple sound localization cues that are aligned in space (as would naturally
+occur from a single broadband sound source). Sound localization cues including
+interaural time differences (ITDs), interaural level differences (ILDs), and
+spectral shapes (SSs) were measured in a marmoset monkey. Virtual space methods
+were used to generate stimuli with aligned and misaligned combinations of cues
+while recording in the ICC of the same monkey. Mutual information (MI) between
+spike rates and stimuli for aligned versus misaligned cues were compared. Neurons
+with best frequencies (BFs) less than ∼11 kHz mostly encoded information about a 
+single sound localization cue, ITD or ILD depending on frequency, consistent with
+the dominance of ear acoustics by either ITD or ILD at those frequencies. Most
+neurons with BFs >11 kHz encoded information about multiple sound localization
+cues, usually ILD and SS, and were sensitive to their alignment. In some neurons 
+MI between stimuli and spike responses was greater for aligned cues, while in
+others it was greater for misaligned cues. If SS cues were shifted to lower
+frequencies in the virtual space stimuli, a similar result was found for neurons 
+with BFs <11 kHz, showing that the cue interaction reflects the spectra of the
+stimuli and not a specialization for representing SS cues. In general the results
+show that ICC neurons are sensitive to multiple localization cues if they are
+simultaneously present in the frequency response area of the neuron. However, the
+representation is diffuse in that there is not a specialization in the ICC for
+encoding aligned sound localization cues.
+
+DOI: 10.1152/jn.00384.2011 
+PMCID: PMC3154809
+PMID: 21653729  [Indexed for MEDLINE]
+
+
+1871. J Neurophysiol. 2011 Sep;106(3):1310-21. doi: 10.1152/jn.00943.2010. Epub 2011
+Jun 8.
+
+The impact of brief exposure to high contrast on the contrast response of neurons
+in primate lateral geniculate nucleus.
+
+Camp AJ(1), Cheong SK, Tailby C, Solomon SG.
+
+Author information: 
+(1)Discipline of Physiology, School of Medical Sciences and Bosch Institute, The 
+University of Sydney, New South Wales, Australia.
+
+Prolonged exposure to an effective stimulus generally reduces the sensitivity of 
+neurons early in the visual pathway. Yet eye and head movements bring about
+frequent changes in the retinal image, and it is less clear that exposure to
+brief presentations will produce similar desensitization. To address this, we
+made extracellular recordings from single neurons in the lateral geniculate
+nucleus of anesthetized marmosets, a New World primate. We measured the contrast 
+response for drifting gratings before and after 0.5-s exposure to a high-contrast
+drifting grating, a stationary grating, or a blank screen. Prior exposure to the 
+drifting grating reduced the contrast sensitivity of cells in the magnocellular
+pathway, on average by 23%; this reduction remained strong when the adapting and 
+test stimuli were separated by 0.4 s. Exposure to a stationary grating of the
+preferred spatial phase did not change the contrast response; exposure to the
+opposite spatial phase did. None of the brief adaptors reduced the sensitivity of
+parvocellular cells. We conclude that brief periods of high contrast, such as
+those that would be expected to occur during a normal visual fixation, are
+sufficient to reduce the sensitivity of magnocellular-pathway cells.
+
+DOI: 10.1152/jn.00943.2010 
+PMID: 21653705  [Indexed for MEDLINE]
+

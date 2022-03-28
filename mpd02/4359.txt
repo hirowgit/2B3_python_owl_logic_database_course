@@ -1,0 +1,39 @@
+
+
+4359. Arteriosclerosis. 1990 Jul-Aug;10(4):625-32.
+
+Isolation and characterization of several plasma apolipoproteins of common
+marmoset monkey.
+
+Crook D(1), Weisgraber KH, Rall SC Jr, Mahley RW.
+
+Author information: 
+(1)Gladstone Foundation Laboratories for Cardiovascular Disease, Department of
+Pathology, University of California, San Francisco 94140.
+
+To explore the potential of the common marmoset monkey (Callithrix jacchus) as a 
+model for human plasma lipoprotein metabolism, several marmoset apolipoproteins
+were isolated and characterized in this study. Based on several properties,
+including molecular weight, amino acid composition, and sequence, the marmoset
+apolipoproteins are strikingly similar to human apolipoprotein (apo) A-I, A-II,
+C-III, and A-IV. The first 54 residues of marmoset apo A-I showed 87% sequence
+identity with the corresponding region of human apo A-I. Amino-terminal sequence 
+analysis of a minor basic apo A-I isoform revealed that it contained an
+amino-terminal hexapeptide extension (Arg-His-Phe-Gln-Gln-) identical to that
+found in human proapo A-I. Like apo A-II in most nonhuman primates, marmoset
+apo-A-II differed from human apo A-II in that it did not contain cysteine and
+therefore existed as a monomer. The complete amino acid sequence of marmoset apo 
+A-II was deduced. The protein contains 77 amino acids, as does human apo A-II,
+and showed an 82% identity with its human equivalent. In both species, apo C-III 
+and E had similar amino-terminal sequences and amino acid compositions. Like
+human apo E, marmoset apo E contained minor sialylated isoforms. However, unlike 
+human apo C-III, no sialyated isoforms of marmoset apo C-III were observed. In
+addition, the marmoset possessed an apolipoprotein whose molecular weight and
+amino acid composition were similar to those of human apo A-IV. The close
+structural similarities between corresponding marmoset and human apolipoproteins 
+indicate that the marmoset monkey will be useful as a model for human lipoprotein
+metabolism.
+
+DOI: 10.1161/01.atv.10.4.625 
+PMID: 2114867  [Indexed for MEDLINE]
+

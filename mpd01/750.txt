@@ -1,0 +1,85 @@
+
+
+750. J Comp Neurol. 2019 Feb 15;527(3):535-545. doi: 10.1002/cne.24390. Epub 2018 Jan 
+25.
+
+Projections of three subcortical visual centers to marmoset lateral geniculate
+nucleus.
+
+Zeater N(1)(2)(3), Buzás P(4), Dreher B(3), Grünert U(1)(2)(3), Martin
+PR(1)(2)(3).
+
+Author information: 
+(1)Save Sight Institute and Department of Clinical Ophthalmology, The University 
+of Sydney, Sydney, New South Wales, Australia.
+(2)Australian Research Council Centre of Excellence for Integrative Brain
+Function, The University of Sydney, Sydney, New South Wales, Australia.
+(3)School of Medical Sciences, The University of Sydney, Sydney, New South Wales,
+Australia.
+(4)Institute of Physiology, Medical School, University of Pécs, Pécs, Hungary.
+
+The dorsal lateral geniculate nucleus receives projections from visuotopically
+organized subcortical nuclei, in addition to inputs from the retina, visual
+cortices, and the thalamic reticular nucleus. Here, we study subcortical
+projections to the geniculate from the superior colliculus (SC) and parabigeminal
+nucleus (PBG) in the midbrain, and the nucleus of the optic tract (NOT) in the
+pretectum of marmosets. Marmosets are New World diurnal foveate monkeys, and are 
+an increasingly popular model for studying the primate visual system.
+Furthermore, the koniocellular geniculate layers in marmosets, unlike those in
+the geniculate of commonly studied diurnal Old World monkeys, are well
+differentiated from the parvocellular and magnocellular layers. Thus, in the
+present study, we have made small iontophoretic injections of the retrograde
+tracer microruby, targeted to the koniocellular layers in the geniculates of four
+marmosets. We found direct projections from the ipsilateral SC, PBG, and NOT to
+the koniocellular geniculate layers. The distribution of retrogradely labeled
+cells in the superficial, visual layers of SC is consistent with the idea that
+projections from the SC to the koniocellular layers are visuotopically organized.
+A little over 20 years ago, Vivien Casagrande () introduced the idea that
+koniocellular geniculate layers (rather than the parvocellular and magnocellular 
+layers) are principal targets of visuotopically organized subcortical nuclei. Our
+results add to subsequent evidence assembled by Casagrande and others in favor of
+this hypothesis.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/cne.24390 
+PMID: 29315552  [Indexed for MEDLINE]
+
+
+751. Cereb Cortex. 2019 Feb 1;29(2):615-626. doi: 10.1093/cercor/bhx344.
+
+Correlated Variability in the Neurons With the Strongest Tuning Improves
+Direction Coding.
+
+Zavitz E(1)(2)(3), Yu HH(1)(2)(3), Rosa MGP(1)(2)(3), Price NSC(1)(2)(3).
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, Victoria, Australia.
+(2)Biomedicine Discovery Institute, Monash University, Clayton, Victoria,
+Australia.
+(3)Australian Research Council Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, VIC, Australia.
+
+Sensory perception depends on neuronal populations creating an accurate
+representation of the external world. The amount of information that a population
+can represent depends on the tuning of individual neurons and the trial-by-trial 
+variability shared among neurons. Although on average, pairwise spike-count
+correlations between neurons are positive, the distribution is wide, and the
+relationship between correlations and encoding is not straightforward. Here, we
+examine how single-neuron and population-level factors impact the efficacy of the
+neural code. We recorded responses to moving visual stimuli from motion-sensitive
+neurons in the middle temporal area of anesthetized marmosets (Callithrix
+jacchus) and trained decoders to assess how correlated and uncorrelated
+populations encoded stimulus motion direction. We found that the most responsive,
+direction-selective, and least variable neurons are the most relied-upon neurons 
+in an uncorrelated population. In correlated populations, the same neurons do the
+most to shape the shared variability across the population in a way that
+facilitates decoding, and decoding is improved by the presence of temporally
+stable correlations. This suggests that the least variable neurons with the
+strongest stimulus representations enhance the population code by providing a
+strong signal and shaping correlations in variability orthogonally to the locus
+defined by the mean response.
+
+DOI: 10.1093/cercor/bhx344 
+PMID: 29300838  [Indexed for MEDLINE]
+

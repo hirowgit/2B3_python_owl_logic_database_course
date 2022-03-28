@@ -1,0 +1,51 @@
+
+
+597. J Neurosci Methods. 2019 Jan 15;312:65-72. doi: 10.1016/j.jneumeth.2018.11.015.
+Epub 2018 Nov 20.
+
+Open-source hardware designs for MRI of mice, rats, and marmosets: Integrated
+animal holders and radiofrequency coils.
+
+Gilbert KM(1), Schaeffer DJ(2), Gati JS(2), Klassen LM(2), Everling S(3), Menon
+RS(2).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, London, Ontario, Canada. Electronic address: kgilbert@robarts.ca.
+(2)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, London, Ontario, Canada.
+(3)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, London, Ontario, Canada; Department of Physiology and Pharmacology, The 
+University of Western Ontario, London, Ontario, Canada.
+
+BACKGROUND: Small-animal MRI is an important investigative tool for basic and
+preclinical research. High-resolution anatomical and functional studies of the
+brain require artifact-free images that are acquired with a highly sensitive
+radiofrequency (RF) coil.
+NEW METHOD: The animal holder plays an important role in mitigating image
+artifacts: motion artifacts are reduced by immobilizing the animal and
+geometric-distortion artifacts are reduced by accurately positioning the animal
+to improve static-field shimming. The RF coil, in turn, must provide high
+sensitivity over the whole brain and not physically interfere with the animal
+holder. To accomplish these tasks, the animal holder and RF coil should be
+designed in tandem. In this manuscript, animal holders and RF coils for mice,
+rats, and marmoset monkeys are described. Each animal holder includes components 
+for anesthesia delivery and animal immobilization, as well as a compatible
+receive coil.
+RESULTS/COMPARISON WITH EXISTING METHOD(S): Animal holders were capable of
+accurate and reproducible positioning (for the marmoset, this was in the
+stereotactic plane), consequently reducing geometric distortion in echo-planar
+images. Ear bars were designed in conjunction with receive-coil formers, thereby 
+maximizing the sensitive region of coils, while concurrently reducing motion to
+less than a pixel over EPI time series. Motion and SNR were quantified to
+facilitate direct comparison to existing animal holders and RF coils. All
+computer-aided-design (CAD) files of animal holders and RF coils are provided to 
+promote dissemination.
+CONCLUSIONS: The confluence of design between the animal holder and RF coil
+provides a pragmatic solution for routine imaging of small animals.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2018.11.015 
+PMID: 30468825  [Indexed for MEDLINE]
+

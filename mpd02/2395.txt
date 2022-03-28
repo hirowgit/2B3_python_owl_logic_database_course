@@ -1,0 +1,44 @@
+
+
+2395. Tissue Antigens. 2007 Apr;69 Suppl 1:72-5.
+
+The common marmoset as a novel preclinical transplant model: identification of
+new MHC class II DRB alleles and prediction of in vitro alloreactivity.
+
+Prasad S(1), Humphreys I, Kireta S, Gilchrist RB, Bardy P, Russ GR, Coates PT.
+
+Author information: 
+(1)Transplantation Immunology Laboratory, The Queen Elizabeth Hospital,
+Woodville, SA, Australia.
+
+The difficulties with using nonhuman primate species such as rhesus macaques and 
+baboons have led us to investigate the common marmoset (Callithrix jacchus) as an
+alternative preclinical model for transplantation research. This requires
+reliable methods of detecting alloreactivity between donor and recipient pairs,
+particularly if colonies are inbred and share just a few common alleles for
+leucocyte antigens. We firstly identified marmoset major histocompatibility
+complex (MHC) Class II DRB genes (Caja-DRB*W1201, Caja-DRB1*03, Caja-DRB*W16)
+using sequence-based typing techniques. Genomic DNA (n= 49) was extracted from
+whole blood or spleen tissue. Exon 2 of target genes was amplified by PCR using
+primers specific for known marmoset alleles, and then sequenced using ABI
+PRISM((R)) Big Dye Terminator technology and Assign sequence analysis software.
+DRB*W1201 was universally present. Eight DRB*W16 alleles and five DRB1*03 alleles
+were identified in this colony. We also identified two previously unreported
+DRB*W16 alleles, and confirmed inheritance of these alleles within several
+sibling groups. Subsequently, we investigated whether matching at MHC Class II
+DRB loci alone could predict alloreactivity, as assessed in vitro by two-way
+mixed lymphocyte reactions (MLRs). Fully DRB-matched, partially mismatched and
+fully mismatched animal pairs were prospectively chosen. MLR was performed using 
+mononuclear cells (MNC) isolated from whole blood by density gradient separation.
+T-cell proliferation after 5-day culture was measured by (3)H-thymidine
+incorporation. Combined MNC from fully mismatched and partially mismatched animal
+pairs exhibited significant in vitro T-cell proliferation above single cell
+controls (P < 0.01). MNC from fully DRB-matched (but unrelated) animal pairs
+exhibited no proliferation compared with controls (P= 0.3). Using DRB genotyping,
+suitably alloreactive donor-recipient pairs may therefore be rapidly and
+accurately identified for use in further studies of cellular and solid organ
+transplantation.
+
+DOI: 10.1111/j.1399-0039.2006.760_7.x 
+PMID: 17445171  [Indexed for MEDLINE]
+

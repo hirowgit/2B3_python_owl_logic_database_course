@@ -1,0 +1,76 @@
+
+
+20. Elife. 2022 Jan 20;11. pii: e71647. doi: 10.7554/eLife.71647.
+
+An open-source tool for automated analysis of breathing behaviors in common
+marmosets and rodents.
+
+Bishop M(1), Weinhold M(1), Turk AZ(1), Adeck A(1), SheikhBahaei S(1).
+
+Author information: 
+(1)Neuron-Glia Signaling and Circuits Unit, National Institute of Neurological
+Disorders and Stroke (NINDS), National Institutes of Health (NIH), Bethesda,
+United States.
+
+The respiratory system maintains homeostatic levels of oxygen (O2) and carbon
+dioxide (CO2) in the body through rapid and efficient regulation of breathing
+frequency and depth (tidal volume). The commonly used methods of analyzing
+breathing data in behaving experimental animals are usually subjective,
+laborious, and time-consuming. To overcome these hurdles, we optimized an
+analysis toolkit for the unsupervised study of respiratory activities in animal
+subjects. Using this tool, we analyzed breathing behaviors of the common marmoset
+(Callithrix jacchus), a New World non-human primate model. Using whole-body
+plethysmography in room air as well as acute hypoxic (10% O2) and hypercapnic (6%
+CO2) conditions, we describe breathing behaviors in awake, freely behaving
+marmosets. Our data indicate that marmosets' exposure to acute hypoxia decreased 
+metabolic rate and increased sigh rate. However, the hypoxic condition did not
+augment ventilation. Hypercapnia, on the other hand, increased both the frequency
+and depth (i.e., tidal volume) of breathing.
+
+DOI: 10.7554/eLife.71647 
+PMCID: PMC8856653
+PMID: 35049499  [Indexed for MEDLINE]
+
+Conflict of interest statement: MB, MW, AT, AA, SS No competing interests
+declared
+
+
+21. Infect Immun. 2022 Mar 17;90(3):e0055021. doi: 10.1128/IAI.00550-21. Epub 2022
+Jan 18.
+
+The Innate Immune Response in the Marmoset during the Acute Pneumonic Disease
+Caused by Burkholderia pseudomallei.
+
+Ngugi S(1), Laws T(1), Simpson AJ(1)(2)(3), Nelson M(1).
+
+Author information: 
+(1)CBR division, DSTL Porton Down, Salisbury, Wiltshire, United Kingdom.
+(2)Lao-Oxford-Mahosot Hospital-Wellcome Trust Research Unit (LOMWRU), Mahosot
+Hospital, Vientiane, Lao People's Democratic Republic.
+(3)Centre for Tropical Medicine and Global Health, Nuffield Department of
+Medicine, University of Oxford, Oxford, United Kingdom.
+
+Burkholderia pseudomallei is the causative agent of melioidosis, a severe human
+infection that is difficult to treat with antibiotics and for which there is no
+effective vaccine. Development of novel treatments rely upon appropriately
+characterized animal models. The common marmoset (Callithrix jacchus) has been
+established at Defense Science and Technology laboratories (DSTL) as a model of
+melioidosis. Further analysis was performed on samples generated in these studies
+to provide a description of the innate immune response. Many of the immunological
+features described, (migration/activation of neutrophils and macrophages,
+activation of T cells, elevation of key cytokines IFNγ, TNF-α, IL-6, and IL-1β)
+have been observed in acute melioidosis human cases and correlated with
+prognosis. Expression of the MHCII marker (HLA-DR) on neutrophils showed
+potential as a diagnostic with 80% accuracy when comparing pre- and postchallenge
+levels in paired blood samples. Discriminant analysis of cell surface, activation
+markers on neutrophils combined with levels of key cytokines, differentiated
+between disease states from single blood samples with 78% accuracy. These key
+markers have utility as a prototype postexposure, presymptomatic diagnostic.
+Ultimately, these data further validate the use of the marmoset as a suitable
+model for determining efficacy of medical countermeasures against B.
+pseudomallei.
+
+DOI: 10.1128/IAI.00550-21 
+PMCID: PMC8929355
+PMID: 35041487 
+

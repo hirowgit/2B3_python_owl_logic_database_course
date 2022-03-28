@@ -1,0 +1,97 @@
+
+
+193. NPJ Parkinsons Dis. 2021 Jan 21;7(1):9. doi: 10.1038/s41531-020-00150-x.
+
+Dysregulation of epithelial ion transport and neurochemical changes in the colon 
+of a parkinsonian primate.
+
+Coletto E(#)(1), Tough IR(#)(2), Pritchard S(3), Hikima A(1), Jackson MJ(1),
+Jenner P(1), Ray Chaudhuri K(4)(5), Cox HM(2), Iravani MM(6), Rose S(7).
+
+Author information: 
+(1)Neurodegenerative Diseases Research Group, Institute of Cancer and
+Pharmaceutical Sciences, Faculty of Life Sciences and Medicine, King's College
+London, London, SE1 1UL, UK.
+(2)Wolfson Centre for Age-Related Diseases, IoPPN, King's College London, Guy's
+Campus, London, SE1 1UL, UK.
+(3)Department of Clinical and Pharmaceutical Sciences, University of
+Hertfordshire, Hatfield, AL10 9AB, UK.
+(4)Institute of Psychiatry, Psychology & Neuroscience, King's College London,
+London, SE5 8AF, UK.
+(5)Parkinson Foundation International Centre of Excellence, King's College
+Hospital, Denmark Hill, London, SE5 9RS, UK.
+(6)Department of Clinical and Pharmaceutical Sciences, University of
+Hertfordshire, Hatfield, AL10 9AB, UK. m.iravani@herts.ac.uk.
+(7)Neurodegenerative Diseases Research Group, Institute of Cancer and
+Pharmaceutical Sciences, Faculty of Life Sciences and Medicine, King's College
+London, London, SE1 1UL, UK. sarah.salvage@kcl.ac.uk.
+(#)Contributed equally
+
+The pathological changes underlying gastrointestinal (GI) dysfunction in
+Parkinson's disease (PD) are poorly understood and the symptoms remain
+inadequately treated. In this study we compared the functional and neurochemical 
+changes in the enteric nervous system in the colon of adult, L-DOPA-responsive,
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-treated common marmoset, with
+naïve controls. Measurement of mucosal vectorial ion transport, spontaneous
+longitudinal smooth muscle activity and immunohistochemical assessment of
+intrinsic innervation were each performed in discrete colonic regions of naïve
+and MPTP-treated marmosets. The basal short circuit current (Isc) was lower in
+MPTP-treated colonic mucosa while mucosal resistance was unchanged. There was no 
+difference in basal cholinergic tone, however, there was an increased excitatory 
+cholinergic response in MPTP-treated tissues when NOS was blocked with
+L-Nω-nitroarginine. The amplitude and frequency of spontaneous contractions in
+longitudinal smooth muscle as well as carbachol-evoked post-junctional
+contractile responses were unaltered, despite a decrease in choline
+acetyltransferase and an increase in the vasoactive intestinal polypeptide neuron
+numbers per ganglion in the proximal colon. There was a low-level inflammation in
+the proximal but not the distal colon accompanied by a change in α-synuclein
+immunoreactivity. This study suggests that MPTP treatment produces long-term
+alterations in colonic mucosal function associated with amplified muscarinic
+mucosal activity but decreased cholinergic innervation in myenteric plexi and
+increased nitrergic enteric neurotransmission. This suggests that long-term
+changes in either central or peripheral dopaminergic neurotransmission may lead
+to adaptive changes in colonic function resulting in alterations in ion transport
+across mucosal epithelia that may result in GI dysfunction in PD.
+
+DOI: 10.1038/s41531-020-00150-x 
+PMCID: PMC7820491
+PMID: 33479243 
+
+
+194. J Med Primatol. 2021 Apr;50(2):108-119. doi: 10.1111/jmp.12510. Epub 2021 Jan 20.
+
+Comparative computer-assisted sperm analysis in non-human primates.
+
+Schmidt JK(1), Mean KD(1), Dusek BM(1), Hinkle HM(1), Puntney RC(1), Alexander
+ES(1), Malicki KB(1), Sneed EL(1), Moy AW(1), Golos TG(1)(2)(3).
+
+Author information: 
+(1)Wisconsin National Primate Research Center, Madison, WI, USA.
+(2)Department of Comparative Biosciences, University of Wisconsin-Madison,
+Madison, WI, USA.
+(3)Department of Obstetrics and Gynecology, University of Wisconsin-Madison,
+Madison, WI, USA.
+
+BACKGROUND: Biomedical research has recently focused on developing new models of 
+human disease by implementing genome-editing strategies in non-human primates
+(NHPs) to introduce relevant gene mutations. There is a need to establish
+objective semen evaluation methods to select sires for in vitro fertilization to 
+perform germline editing in embryos.
+METHODS: Sperm motility kinematic parameters were evaluated using a
+computer-assisted semen analysis (CASA) instrument for rhesus macaques (Macaca
+mulatta), cynomolgus macaques (Macaca fascicularis), and common marmosets
+(Callithrix jacchus).
+RESULTS: Normative sperm kinematic parameters were established, revealing
+differences between marmosets and macaques. The impact of season on rhesus
+macaque sperm motility was modest, where changes in sperm motility related to
+season were dependent on the individual male.
+CONCLUSIONS: These data provide a baseline of normative kinematic parameters for 
+three captive NHP species, in which implementation of CASA may serve as a tool to
+evaluate NHP semen quality.
+
+© 2021 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jmp.12510 
+PMCID: PMC7969417 [Available on 2022-04-01]
+PMID: 33469948  [Indexed for MEDLINE]
+

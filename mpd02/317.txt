@@ -1,0 +1,46 @@
+
+
+317. Front Cell Infect Microbiol. 2020 Apr 21;10:135. doi: 10.3389/fcimb.2020.00135.
+eCollection 2020.
+
+Marmoset Viral Hepatic Inflammation Induced by Hepatitis C Virus Core Protein via
+IL-32.
+
+Liu B(1), Ma X(1), Wang Q(1), Luo S(1), Zhang L(1), Wang W(1), Fu Y(2), Allain
+JP(3), Li C(1), Li T(1).
+
+Author information: 
+(1)Department of Transfusion Medicine, School of Laboratory Medicine and
+Biotechnology, Southern Medical University, Guangzhou, China.
+(2)Guangzhou Blood Center, Guangzhou, China.
+(3)Emeritus Professor of Transfusion Medicine, University of Cambridge,
+Cambridge, United Kingdom.
+
+Common marmosets infected with GB virus-B (GBV-B) chimeras containing hepatitis C
+virus (HCV) core and envelope proteins (CE1E2p7) developed more severe hepatitis 
+than those infected with HCV envelope proteins (E1E2p7), suggesting that HCV core
+protein might be involved in the pathogenesis of viral hepatitis. The potential
+role of HCV core in hepatic inflammation was investigated. Six individual cDNA
+libraries of liver tissues from HCV CE1E2p7 or E1E2p7 chimera-infected marmosets 
+(three animals per group) were constructed and sequenced. By differential
+expression gene analysis, 30 of 632 mRNA transcripts were correlated with the
+immune system process, which might be associated with hepatitis. A
+protein-protein interaction network was constituted by STRING database based on
+these 30 differentially expressed genes (DEGs), showing that IL-32 might play a
+central regulatory role in HCV core-related hepatitis. To investigate the effect 
+of HCV core protein on IL-32 production, HCV core expressing and mock constructs 
+were transfected into Huh7 cells. IL-32 mRNA and secretion protein were detected 
+at significantly higher levels in cells expressing HCV core protein than in those
+without HCV core expression (P < 0.01 and P < 0.001, respectively). By KEGG
+enrichment analysis and using the specific signaling pathway inhibitor LY294002
+for inhibition of PI3K, IL-32 expression was significantly reduced (P < 0.001).
+In conclusion, HCV core protein induces an increase of IL-32 expression via the
+PI3K pathway in hepatic cells, which played a major role in development of
+HCV-related severe hepatitis.
+
+Copyright © 2020 Liu, Ma, Wang, Luo, Zhang, Wang, Fu, Allain, Li and Li.
+
+DOI: 10.3389/fcimb.2020.00135 
+PMCID: PMC7186372
+PMID: 32373543  [Indexed for MEDLINE]
+

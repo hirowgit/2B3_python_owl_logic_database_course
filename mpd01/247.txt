@@ -1,0 +1,99 @@
+
+
+247. Nature. 2020 Nov;587(7834):432-436. doi: 10.1038/s41586-020-2802-y. Epub 2020 Oct
+7.
+
+Spontaneous travelling cortical waves gate perception in behaving primates.
+
+Davis ZW(#)(1), Muller L(#)(2)(3)(4)(5), Martinez-Trujillo J(4)(6)(7), Sejnowski 
+T(2), Reynolds JH(8).
+
+Author information: 
+(1)The Salk Institute for Biological Studies, La Jolla, CA, USA. zdavis@salk.edu.
+(2)The Salk Institute for Biological Studies, La Jolla, CA, USA.
+(3)Department of Applied Mathematics, Western University, London, Ontario,
+Canada.
+(4)Robarts Research and Brain and Mind Institute, Western University, London,
+Ontario, Canada.
+(5)Institut de Neurosciences de la Timone (INT), UMR7289, CNRS, Aix-Marseille
+Université, Marseille, France.
+(6)Department of Physiology and Pharmacology, Schulich School of Medicine and
+Dentistry, Western University, London, Ontario, Canada.
+(7)Department of Psychiatry, Schulich School of Medicine and Dentistry, Western
+University, London, Ontario, Canada.
+(8)The Salk Institute for Biological Studies, La Jolla, CA, USA.
+reynolds@salk.edu.
+(#)Contributed equally
+
+Perceptual sensitivity varies from moment to moment. One potential source of this
+variability is spontaneous fluctuations in cortical activity that can travel as
+waves1. Spontaneous travelling waves have been reported during anaesthesia2-7,
+but it is not known whether they have a role during waking perception. Here,
+using newly developed analytic techniques to characterize the moment-to-moment
+dynamics of noisy multielectrode data, we identify spontaneous waves of activity 
+in the extrastriate visual cortex of awake, behaving marmosets (Callithrix
+jacchus). In monkeys trained to detect faint visual targets, the timing and
+position of spontaneous travelling waves before target onset predicted the
+magnitude of target-evoked activity and the likelihood of target detection. By
+contrast, spatially disorganized fluctuations of neural activity were much less
+predictive. These results reveal an important role for spontaneous travelling
+waves in sensory processing through the modulation of neural and perceptual
+sensitivity.
+
+DOI: 10.1038/s41586-020-2802-y 
+PMCID: PMC7677221
+PMID: 33029013  [Indexed for MEDLINE]
+
+
+248. Sci Rep. 2020 Oct 6;10(1):16647. doi: 10.1038/s41598-020-73811-9.
+
+Robustness of sex-differences in functional connectivity over time in middle-aged
+marmosets.
+
+Nephew BC(1)(2), Febo M(3), Cali R(4), Workman KP(5), Payne L(6), Moore CM(6)(4),
+King JA(7)(6)(4), Lacreuse A(5)(8)(9).
+
+Author information: 
+(1)Department of Biology and Biotechnology, Worcester Polytechnic Institute,
+Worcester, MA, 01609, USA. bcnephew@aol.com.
+(2)Center for Comparative Neuroimaging, University of Massachusetts Medical
+School, Worcester, MA, 01655, USA. bcnephew@aol.com.
+(3)Department of Psychiatry, University of Florida, Gainesville, FL, 32610, USA.
+(4)Department of Psychiatry, University of Massachusetts Medical School,
+Worcester, MA, 01655, USA.
+(5)Psychological and Brain Sciences, University of Massachusetts, Amherst, MA,
+01003, USA.
+(6)Center for Comparative Neuroimaging, University of Massachusetts Medical
+School, Worcester, MA, 01655, USA.
+(7)Department of Biology and Biotechnology, Worcester Polytechnic Institute,
+Worcester, MA, 01609, USA.
+(8)Neuroscience and Behavior Program, University of Massachusetts, Amherst, MA,
+01003, USA.
+(9)Center for Neuroendocrine Studies, University of Massachusetts, Amherst, MA,
+01003, USA.
+
+Nonhuman primates (NHPs) are an essential research model for gaining a
+comprehensive understanding of the neural mechanisms of neurocognitive aging in
+our own species. In the present study, we used resting state functional
+connectivity (rsFC) to investigate the relationship between prefrontal cortical
+and striatal neural interactions, and cognitive flexibility, in unanaesthetized
+common marmosets (Callithrix jacchus) at two time points during late middle age
+(8 months apart, similar to a span of 5-6 years in humans). Based on our previous
+findings, we also determine the reproducibility of connectivity measures over the
+course of 8 months, particularly previously observed sex differences in rsFC.
+Male marmosets exhibited remarkably similar patterns of stronger functional
+connectivity relative to females and greater cognitive flexibility between the
+two imaging time points. Network analysis revealed that the consistent sex
+differences in connectivity and related cognitive associations were characterized
+by greater node strength and/or degree values in several prefrontal, premotor and
+temporal regions, as well as stronger intra PFC connectivity, in males compared
+to females. The current study supports the existence of robust sex differences in
+prefrontal and striatal resting state networks that may contribute to differences
+in cognitive function and offers insight on the neural systems that may be
+compromised in cognitive aging and age-related conditions such as mild cognitive 
+impairment and Alzheimer's disease.
+
+DOI: 10.1038/s41598-020-73811-9 
+PMCID: PMC7538565
+PMID: 33024242  [Indexed for MEDLINE]
+

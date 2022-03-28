@@ -1,0 +1,50 @@
+
+
+2058. J Pharmacol Toxicol Methods. 2010 May-Jun;61(3):271-6. doi:
+10.1016/j.vascn.2010.01.006. Epub 2010 Jan 25.
+
+Sensitivity of common marmosets to detect drug-induced QT interval prolongation: 
+moxifloxacin case study.
+
+Komatsu R(1), Honda M, Holzgrefe HH, Kubo J, Yamada Y, Isobe T, Kimura K, Itoh T,
+Tamaoki N, Tabo M.
+
+Author information: 
+(1)Fuji Gotemba Laboratory, Chugai Pharmaceutical Co., Ltd., Shizuoka 412-8513,
+Japan.
+
+INTRODUCTION: Moxifloxacin is the most widely used positive reference agent in
+clinical cardiac repolarization studies, but it has not been characterized in
+common marmosets which are uniquely suited to studies in early-stage development 
+due to their small size and minimal test article requirements. The purpose of
+this study was to evaluate the sensitivity of the common marmoset to detect
+moxifloxacin-associated QT interval prolongation.
+METHODS: Eight telemetered common marmosets were monitored for 24 h following
+oral administration of moxifloxacin by gavage at 0, 10, 30, and 100 mg/kg using a
+Latin square design. Concurrently, a pharmacokinetic evaluation in 8
+non-telemetered animals was conducted. A rate-corrected QT (QTc) interval was
+derived using an individual probabilistic QT rate-correction. QTc
+(placebo-adjusted QTc change from the individual baseline) was calculated and the
+relationship between pharmacokinetics (PK) and pharmacodynamics (PD) was
+analyzed.
+RESULTS: A slight, but not significant, increase in QTc was detected with 10
+mg/kg of moxifloxacin. Moxifloxacin at 30 and 100 mg/kg elicited dose-dependent
+increases in QTc of 14.0+/-3.6 and 35.0+/-6.2 ms, respectively, with associated
+total moxifloxacin C(max) values of 6.5+/-0.5 and 16.5+/-1.6 microg/mL,
+respectively. From the PK/PD relationship, the plasma concentration which would
+attain QTc of 5 to 10 ms was estimated to be 1.67-3.73 microg/mL. The results
+were consistent with typical clinical trial results (QTc of 6.6-14.8 ms at
+2.5-3.5 microg/mL).
+CONCLUSIONS: The present study demonstrates that the common marmoset is highly
+sensitive to moxifloxacin-associated changes in cardiac repolarization, assessed 
+as QTc. As such, this species is suitable for precise and reliable detection of
+small, but significant, drug-associated increases in QTc interval. Thus, the
+common marmoset should be regarded as a validated animal model for the detection 
+of QT risk in early-stage drug development and represents an important addition
+to the current in vivo armamentarium.
+
+2010 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.vascn.2010.01.006 
+PMID: 20097298  [Indexed for MEDLINE]
+

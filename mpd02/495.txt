@@ -1,0 +1,41 @@
+
+
+495. Genes Cells. 2019 Jul;24(7):473-484. doi: 10.1111/gtc.12702. Epub 2019 Jun 17.
+
+Highly efficient induction of primate iPS cells by combining RNA transfection and
+chemical compounds.
+
+Watanabe T(1), Yamazaki S(1), Yoneda N(1), Shinohara H(1), Tomioka I(2), Higuchi 
+Y(1), Yagoto M(1), Ema M(3)(4), Suemizu H(1), Kawai K(1), Sasaki E(1).
+
+Author information: 
+(1)Central Institute for Experimental Animals, Kawasaki, Japan.
+(2)Laboratory of Applied Reproductive Science, Faculty of Agriculture, Shinshu
+University, Matsumoto, Japan.
+(3)Department of Stem Cells and Human Disease Models, Research Center for Animal 
+Life Science, Shiga University of Medical Science, Shiga, Japan.
+(4)Institute for the Advanced Study of Human Biology (ASHBi), Kyoto University
+Institute for Advanced Study, Kyoto, Japan.
+
+Induced pluripotent stem (iPS) cells hold great promise for regenerative medicine
+and the treatment of various diseases. Before proceeding to clinical trials, it
+is important to test the efficacy and safety of iPS cell-based treatments using
+experimental animals. The common marmoset is a new world monkey widely used in
+biomedical studies. However, efficient methods that could generate iPS cells from
+a variety of cells have not been established. Here, we report that marmoset cells
+are efficiently reprogrammed into iPS cells by combining RNA transfection and
+chemical compounds. Using this novel combination, we generate transgene
+integration-free marmoset iPS cells from a variety of cells that are difficult to
+reprogram using conventional RNA transfection method. Furthermore, we show this
+is similarly effective for human and cynomolgus monkey iPS cell generation. Thus,
+the addition of chemical compounds during RNA transfection greatly facilitates
+reprogramming and efficient generation of completely integration-free safe iPS
+cells in primates, particularly from difficult-to-reprogram cells.
+
+© 2019 The Authors. Genes to Cells published by Molecular Biology Society of
+Japan and John Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/gtc.12702 
+PMCID: PMC6852476
+PMID: 31099158  [Indexed for MEDLINE]
+

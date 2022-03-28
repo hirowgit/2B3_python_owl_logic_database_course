@@ -1,0 +1,33 @@
+
+
+3017. Gene. 2002 Aug 21;296(1-2):99-109.
+
+Structure, molecular evolution, and gene expression of primate superoxide
+dismutases.
+
+Fukuhara R(1), Tezuka T, Kageyama T.
+
+Author information: 
+(1)Center for Human Evolution Modeling Research, Primate Research Institute,
+Kyoto University, Inuyama 484-8506, Japan.
+
+Mn- and Cu,Zn-superoxide dismutase (SOD) cDNAs of eight primate species, Pan
+troglodytes, Pongo pygmaeus, Hylobates lar, Macaca fuscata, Macaca fascicularis, 
+Macaca mulatta, Cebus apella, and Callithrix jacchus, were cloned. The whole
+protein-coding sequences were covered, comparing 198 and 153 (or 154) amino
+acids, for Mn- and Cu,Zn-SODs, respectively. Residues forming metal ligands were 
+completely conserved in the two primate SODs and nucleotide/amino acid
+substitutions were more frequent in Cu,Zn-SODs than in Mn-SODs. Molecular
+evolutionary analyses showed Mn-SOD to have evolved at a constant rate and its
+phylogenetic tree well reflected primate phylogeny. Cu,Zn-SOD was shown to have
+evolved differently between primate lineages. The significant high ratio of a
+non-synonymous/synonymous rate was found in the lineage leading to great apes and
+humans, showing that this lineage underwent positive Darwinian selection.
+Southern hybridization suggested that the genes for primate Mn- and Cu,Zn-SOD
+exist as single copies. Northern analysis in various Japanese monkey tissues
+showed Mn- and Cu,Zn-SOD expression to be high in the liver, kidneys, and adrenal
+glands.
+
+DOI: 10.1016/s0378-1119(02)00837-5 
+PMID: 12383507  [Indexed for MEDLINE]
+

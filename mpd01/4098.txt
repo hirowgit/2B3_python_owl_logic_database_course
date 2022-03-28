@@ -1,0 +1,80 @@
+
+
+4098. Eur J Pharmacol. 1993 Jul 20;238(2-3):235-40.
+
+Effects of talipexole on motor behavior in normal and MPTP-treated common
+marmosets.
+
+Irifune M(1), Nomoto M, Fukuda T.
+
+Author information: 
+(1)Department of Pharmacology, Faculty of Medicine, Kagoshima University, Japan.
+
+Administration of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP, 0.5
+mg/animal i.v. once or twice) to common marmosets induced persistent parkinsonian
+motor deficits. The postsynaptic dopamine D2 receptor agonist properties of
+talipexole (B-HT 920,
+2-amino-6-allyl-5,6,7,8-tetrahydro-4H-thiazolo[4,5-d]-azepine), which is believed
+to be a dopamine autoreceptor agonist, were examined using normal and
+MPTP-treated marmosets and were compared to these properties of bromocriptine, a 
+selective dopamine D2 receptor agonist. Talipexole (20-160 micrograms/kg i.p.)
+dose dependently increased motor activity and reversed the akinesia and
+incoordination of movement in MPTP-treated marmosets. In normal marmosets, higher
+doses of talipexole (80-160 micrograms/kg i.p.) produced a dose-dependent
+increase in motor activity, while the lowest dose (20 micrograms/kg i.p.)
+depressed this activity. These data for talipexole were very similar to those for
+bromocriptine. Talipexole had, however, several properties different from those
+of bromocriptine; it had a rapid onset of antiparkinsonian activity compared to
+bromocriptine; it had more than 25 times as much activity potency as
+bromocriptine; a dose of talipexole (80 micrograms/kg i.p.) sufficient to produce
+the activity did not induce emesis as strongly as an insufficient dose of
+bromocriptine (0.5 mg/kg i.p.). These results suggest that talipexole has
+postsynaptic dopamine D2 receptor agonist properties and that these properties of
+talipexole may be favorable in the treatment of Parkinson's disease.
+
+DOI: 10.1016/0014-2999(93)90852-9 
+PMID: 8104807  [Indexed for MEDLINE]
+
+
+4099. Biochem Pharmacol. 1993 Jul 20;46(2):213-20.
+
+Identification of the epitope of an anti-peptide antibody which binds to CYP1A2
+in many species including man.
+
+Edwards RJ(1), Murray BP, Singleton AM, Murray S, Davies DS, Boobis AR.
+
+Author information: 
+(1)Department of Clinical Pharmacology, Royal Postgraduate Medical School,
+London, U.K.
+
+An anti-peptide antibody was raised against the sequence
+Thr-Gly-Ala-Leu-Phe-Lys-His-Ser-Glu-Asn-Tyr-Lys which occurs at positions 283-294
+in the rat cytochrome P450 enzyme CYP1A2. Compared with its binding to the
+peptide used for immunization, the antibody bound with only slightly reduced
+affinity to the truncated peptides Thr-Gly-Ala-Leu-Phe-Lys-His-Ser and
+Leu-Phe-Lys-His-Ser. However, binding to the peptide Ser-Glu-Asn-Tyr-Lys-Asp-Asn,
+which overlaps with the C-terminal region of the immunizing peptide, was very
+low. Thus, a major epitope for the anti-peptide antibody is Leu-Phe-Lys-His-Ser, 
+which corresponds to a region of CYP1A2 that is conserved in many species. The
+antibody was tested by immunoblotting for its ability to bind to hepatic
+microsomal fractions from a number of species. Where possible animals were
+treated with compounds which induce CYP1A2 and the results compared with those
+with untreated animals. It was found that the antibody bound to rat, mouse,
+rabbit, hamster, guinea pig, pig, marmoset monkey and human CYP1A2. No evidence
+was found for binding to dog CYP1A2. The region corresponding to the major
+epitope at residues 286-290 of rat CYP1A2 was identical in mouse, hamster, rabbit
+and human CYP1A2. The sequence of marmoset and guinea pig CYP1A2 are not known
+but are predicted to be very similar to the sequence in the rat. The lack of
+binding of the antibody to dog CYP1A2 may be explained by two differences in this
+region compared with rat CYP1A2. Maximum inhibition of CYP1A2 activity by this
+antibody, as measured by high-affinity phenacetin O-deethylase activity, was 20%.
+This is in contrast to a previously described anti-peptide antibody directed to
+an adjacent region which caused 65% inhibition of this activity. Thus, the edge
+of an inhibitory region on the surface of cytochrome P450 has been identified.
+The ability of the antibody to bind to CYP1A2 from a number of animals should
+make this antibody of use for studying the levels of CYP1A2 apoprotein in many
+species.
+
+DOI: 10.1016/0006-2952(93)90406-m 
+PMID: 7688509  [Indexed for MEDLINE]
+

@@ -1,0 +1,76 @@
+
+
+2889. Vis Neurosci. 2003 May-Jun;20(3):221-30.
+
+Gain control from beyond the classical receptive field in primate primary visual 
+cortex.
+
+Webb BS(1), Tinsley CJ, Barraclough NE, Parker A, Derrington AM.
+
+Author information: 
+(1)School of Psychology, University of Nottingham, University Park, Nottingham
+NG7 2RD, UK. bsw@psychology.nottingham.ac.uk
+
+Gain control is a salient feature of information processing throughout the visual
+system. Heeger (1991, 1992) described a mechanism that could underpin gain
+control in primary visual cortex (V1). According to this model, a neuron's
+response is normalized by dividing its output by the sum of a population of
+neurons, which are selective for orientations covering a broad range. Gain
+control in this scheme is manifested as a change in the semisaturation constant
+(contrast gain) of a V1 neuron. Here we examine how flanking and annular gratings
+of the same or orthogonal orientation to that preferred by a neuron presented
+beyond the receptive field modulate gain in V1 neurons in anesthetized marmosets 
+(Callithrix jacchus). To characterize how gain was modulated by surround stimuli,
+the Michaelis-Menten equation was fitted to response versus contrast functions
+obtained under each stimulus condition. The modulation of gain by surround
+stimuli was modelled best as a divisive reduction in response gain. Response gain
+varied with the orientation of surround stimuli, but was reduced most when the
+orientation of a large annular grating beyond the classical receptive field
+matched the preferred orientation of neurons. The strength of surround
+suppression did not vary significantly with retinal eccentricity or laminar
+distribution. In the marmoset, as in macaques (Angelucci et al., 2002a,b), gain
+control over the sort of distances reported here (up to 10 deg) may be mediated
+by feedback from extrastriate areas.
+
+DOI: 10.1017/s0952523803203011 
+PMID: 14570244  [Indexed for MEDLINE]
+
+
+2890. Exp Neurol. 2003 Oct;183(2):418-29.
+
+Sensorimotor deficits in a unilateral intrastriatal 6-OHDA partial lesion model
+of Parkinson's disease in marmoset monkeys.
+
+Eslamboli A(1), Baker HF, Ridley RM, Annett LE.
+
+Author information: 
+(1)Department of Experimental Psychology, Downing Street, Cambridge CB2 3EB, UK.
+
+Comment in
+    Exp Neurol. 2003 Oct;183(2):258-62.
+
+Animal studies investigating the efficacy of neurotrophic factors as treatments
+for Parkinson's disease (PD) ideally require partial dopamine (DA) lesion models.
+The intrastriatal 6-hydroxydopamine (6-OHDA) lesion model may be suitable for
+this purpose. Although this model has been well characterized in rodents, it has 
+not previously been used in monkeys. The goal of the present study was to
+characterize the behavioral effects of unilateral injections of 6-OHDA in the
+basal ganglia of common marmoset monkeys (Callithrix jacchus). Cell counts from
+tyrosine hydroxylase immunochemistry 5 months postlesion revealed DA cell loss in
+the substantia nigra on the lesioned side to approximately 46% of relative to the
+unlesioned side. 6-OHDA lesioned monkeys showed a variety of behavioral deficits.
+Apomorphine induced rotation and simple sensorimotor measures (head position bias
+and PD disability rating score) were most affected by the lesion. The largest
+deficits were seen at 1 or 2 weeks postsurgery but had recovered by week 10.
+6-OHDA lesioned monkeys took longer to complete a more complex sensorimotor
+staircase task. At 3.5 months postlesion, 6-OHDA monkeys also showed deficits on 
+an object retrieval task designed to measure sensorimotor planning and skilled
+hand use. alpha-Methyl-p-tyrosine, a tyrosine hydroxylase inhibitor, reinstated
+those deficits which had undergone recovery in the lesioned animals and also
+exacerbated the deficits on the staircase task. This model has potential in
+assessing treatments for PD aimed at curtailing disease progression such as
+continuous delivery of neurotrophic factors.
+
+DOI: 10.1016/s0014-4886(03)00139-0 
+PMID: 14552882  [Indexed for MEDLINE]
+

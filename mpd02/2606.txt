@@ -1,0 +1,37 @@
+
+
+2606. Eur J Neurosci. 2005 Dec;22(11):2886-902.
+
+Heteromodal connections supporting multisensory integration at low levels of
+cortical processing in the monkey.
+
+Cappe C(1), Barone P.
+
+Author information: 
+(1)Cerveau & Cognition, CNRS-UMR 5549 Université Paul Sabatier, Toulouse III,
+Toulouse, France.
+
+While multisensory integration is thought to occur in higher hierarchical
+cortical areas, recent studies in man and monkey have revealed plurisensory
+modulations of activity in areas previously thought to be unimodal. To determine 
+the cortical network involved in multisensory interactions, we performed multiple
+injections of different retrograde tracers in unimodal auditory (core),
+somatosensory (1/3b) and visual (V2 and MT) cortical areas of the marmoset. We
+found three types of heteromodal connections linking unimodal sensory areas.
+Visuo-somatosensory projections were observed originating from visual areas
+[probably the ventral and dorsal fundus of the superior temporal area (FSTv and
+FSTd), and middle temporal crescent (MTc)] toward areas 1/3b. Somatosensory
+projections to the auditory cortex were present from S2 and the anterior bank of 
+the lateral sulcus. Finally, a visuo-auditory projection arises from an area
+anterior to the superior temporal sulcus (STS) toward the auditory core.
+Injections in different sensory regions allow us to define the frontal convexity 
+and the temporal opercular caudal cortex as putative polysensory areas. A
+quantitative analysis of the laminar distribution of projecting neurons showed
+that heteromodal connections could be either feedback or feedforward. Taken
+together, our results provide the anatomical pathway for multisensory integration
+at low levels of information processing in the primate and argue against a strict
+hierarchical model.
+
+DOI: 10.1111/j.1460-9568.2005.04462.x 
+PMID: 16324124  [Indexed for MEDLINE]
+

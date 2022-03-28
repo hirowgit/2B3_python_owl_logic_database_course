@@ -1,0 +1,69 @@
+
+
+4287. J Chromatogr. 1991 Nov 29;587(1):117-26.
+
+Isolation of cytochrome P-450 components from marmoset liver microsomes by
+high-performance liquid chromatography.
+
+Kastner M(1), Neubert D.
+
+Author information: 
+(1)Institut für Toxikologie und Embryopharmakologie, Berlin, Germany.
+
+A fast protein liquid chromatographic (FPLC) system with pre-packed and
+laboratory-packed columns was used for the analytical and preparative isolation
+of marmoset monkey cytochrome P-450 (P450) and NADPH-P450-reductase.
+Chromatographic separations also allowed the recovery of cytochrome b5,
+NADH-b5-reductase and epoxide hydratase. Cholate-solubilized liver microsomes
+from phenobarbital-induced marmosets were crudely purified on
+8-aminooctyl-Sepharose or 6-aminohexyl-Sepharose and then fractionated into
+several isoenzyme groups using hydroxyapatite. Further purification on Mono S or 
+CM-Sepharose and finally on phenyl-Superose, phenyl-Sepharose or octyl-Sepharose 
+yielded a P450 fraction which was apparently homogeneous as judged by sodium
+dodecyl sulphate-polyacrylamide gel electrophoresis in the automated Phast system
+using silver staining. Removal of excess of non-ionic detergent was effected by
+hydroxyapatite columns, and this was compared with other methods. For the
+isolation of P450 isoenzymes from untreated marmosets, Mono Q columns were
+employed and yielded at least two highly purified forms. NADPH-P450-reductase was
+recovered from the 8-aminooctyl-Sepharose column or crudely fractionated on
+DEAE-Sepharose Fast Flow. Subsequent purification via 2',5'-ADP-Sepharose and
+Superose 12 chromatography resulted in a homogeneous preparation.
+
+DOI: 10.1016/0021-9673(91)85205-t 
+PMID: 1783657  [Indexed for MEDLINE]
+
+
+4288. Mol Immunol. 1991 Nov;28(11):1171-81.
+
+A single amino acid substitution in a common African allele of the CD4 molecule
+ablates binding of the monoclonal antibody, OKT4.
+
+Lederman S(1), DeMartino JA, Daugherty BL, Foeldvari I, Yellin MJ, Cleary AM,
+Berkowitz N, Lowy I, Braunstein NS, Mark GE, et al.
+
+Author information: 
+(1)Department of Medicine, Columbia University, New York, NY 10032.
+
+The CD4 molecule is a relatively non-polymorphic 55 kDa glycoprotein expressed on
+a subset of T lymphocytes. A common African allele of CD4 has been identified by 
+non-reactivity with the monoclonal antibody, OKT4. The genetic basis for the
+OKT4- polymorphism of CD4 is unknown. In the present paper, the structure of the 
+CD4 molecule from an homozygous CD4OKT4- individual was characterized at the
+molecular level. The size of the CD4OKT4- protein and mRNA were indistinguishable
+from those of the OKT4+ allele. The polymerase chain reaction (PCR) was used to
+map the structure of CD4OKT4- cDNAs by amplifying overlapping DNA segments and to
+obtain partial nucleotide sequence after asymmetric amplification. PCR was then
+used to clone CD4OKT4- cDNAs spanning the coding region of the entire, mature CD4
+protein by amplification of two overlapping segments followed by PCR
+recombination. The nucleotide sequence of CD4OKT4- cDNA clones revealed a G----A 
+transition at bp 867 encoding an arginine----tryptophan substitution at amino
+acid 240 relative to CD4OKT4+. Expression of a CD4OKT4- cDNA containing only this
+transition, confirmed that the arginine----tryptophan substitution at amino acid 
+240 ablates the binding of the mAb OKT4. A positively charged amino acid residue 
+at this position is found in chimpanzee, rhesus macaque, mouse and rat CD4
+suggesting that this mutation may confer unique functional properties to the
+CD4OKT4- protein.
+
+DOI: 10.1016/0161-5890(91)90003-3 
+PMID: 1961196  [Indexed for MEDLINE]
+

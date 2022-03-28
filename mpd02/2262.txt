@@ -1,0 +1,31 @@
+
+
+2262. J Neurosci Methods. 2008 Jul 30;172(2):201-14. doi:
+10.1016/j.jneumeth.2008.04.029. Epub 2008 May 16.
+
+Chronic multi-electrode neural recording in free-roaming monkeys.
+
+Eliades SJ(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+seliades@jhu.edu
+
+Many behaviors of interest to neurophysiologists are difficult to study under
+laboratory conditions because such behaviors are often inhibited when an animal
+is restrained and socially isolated. Even under the best conditions, such
+behaviors may be sparse enough as to require long duration neural recordings or
+simultaneous recording of multiple neurons to gather a sufficient amount of data 
+for analysis. We have developed a preparation for chronic, multi-electrode
+recordings in the auditory cortex of marmoset monkeys, small primates, as well as
+techniques for neurophysiological recordings when the animals are free-roaming
+while singly caged in the environment of the monkey colony. In this report, we
+describe our solutions to overcome the problems associated with chronic
+recordings in free-roaming animals, where three-dimensional movements present
+particular challenges.
+
+DOI: 10.1016/j.jneumeth.2008.04.029 
+PMCID: PMC2553366
+PMID: 18572250  [Indexed for MEDLINE]
+

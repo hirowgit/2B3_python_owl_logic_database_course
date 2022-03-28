@@ -1,0 +1,78 @@
+
+
+1731. Neuroimage. 2012 Aug 1;62(1):408-17. doi: 10.1016/j.neuroimage.2012.04.030. Epub 
+2012 Apr 24.
+
+Coupling and robustness of intra-cortical vascular territories.
+
+Guibert R(1), Fonta C, Risser L, Plouraboué F.
+
+Author information: 
+(1)Institut de Mécanique des Fluides, UMR 5502, INPT-CNRS-UPS, 1 Allée du
+Professeur Camille Soula, 31400 Toulouse, France. romainguibert@gmail.com
+
+Vascular domains have been described as being coupled to neuronal functional
+units enabling dynamic blood supply to the cerebral cyto-architecture. Recent
+experiments have shown that penetrating arterioles of the grey matter are the
+building blocks for such units. Nevertheless, vascular territories are still
+poorly known, as the collection and analysis of large three-dimensional
+micro-vascular networks are difficult. By using an exhaustive reconstruction of
+the micro-vascular network in an 18 mm(3) volume of marmoset cerebral cortex, we 
+numerically computed the blood flow in each blood vessel. We thus defined
+arterial and venular territories and examined their overlap. A large part of the 
+intracortical vascular network was found to be supplied by several arteries and
+drained by several venules. We quantified this multiple potential to compensate
+for deficiencies by introducing a new robustness parameter. Robustness proved to 
+be positively correlated with cortical depth and a systematic investigation of
+coupling maps indicated local patterns of overlap between neighbouring arteries
+and neighbouring venules. However, arterio-venular coupling did not have a
+spatial pattern of overlap but showed locally preferential functional coupling,
+especially of one artery with two venules, supporting the notion of vascular
+units. We concluded that intra-cortical perfusion in the primate was
+characterised by both very narrow functional beds and a large capacity for
+compensatory redistribution, far beyond the nearest neighbour collaterals.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2012.04.030 
+PMID: 22548806  [Indexed for MEDLINE]
+
+
+1732. J Chem Neuroanat. 2012 May;44(1):34-44. doi: 10.1016/j.jchemneu.2012.04.001. Epub
+2012 Apr 15.
+
+Retinal projections and neurochemical characterization of the pregeniculate
+nucleus of the common marmoset (Callithrix jacchus).
+
+Lima RR(1), Pinato L, Nascimento RB, Engelberth RC, Nascimento ES, Cavalcante JC,
+Britto LR, Costa MS, Cavalcante JS.
+
+Author information: 
+(1)Laboratory of Neuroanatomy, Federal University of Rio Grande do Norte, Natal, 
+RN, Brazil.
+
+In mammals, the suprachiasmatic nucleus (SCN) and the intergeniculate leaflet
+(IGL) are the main components of the circadian timing system. The SCN is the site
+of the endogenous biological clock that generates rhythms and synchronizes them
+to environmental cues. The IGL is a key structure that modulates SCN activity and
+is responsible for the transmission of non-photic information to the SCN, thus
+participating in the integration between photic and non-photic stimuli. Both the 
+SCN and IGL receive projections of retinal ganglion cells and the IGL is
+connected to the SCN through the geniculohypothalamic tract. Little is known
+about these structures in the primate brain and the pregeniculate nucleus (PGN)
+has been suggested to be the primate equivalent of the rodent IGL. The aim of
+this study was to characterize the PGN of a primate, the common marmoset
+(Callithrix jacchus), and to analyze its retinal afferents. Here, the marmoset
+PGN was found to be organized into three subsectors based on neuronal size,
+pattern of retinal projections, and the distribution of neuropeptide Y-, GAD-,
+serotonin-, enkephalin- and substance P-labeled terminals. This pattern indicates
+that the marmoset PGN is equivalent to the IGL. This detailed description
+contributes to the understanding of the circadian timing system in this primate
+species considering the importance of the IGL within the context of circadian
+regulation.
+
+Copyright © 2012 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jchemneu.2012.04.001 
+PMID: 22531294  [Indexed for MEDLINE]
+

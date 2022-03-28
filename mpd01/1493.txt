@@ -1,0 +1,68 @@
+
+
+1493. J Mol Neurosci. 2014 Feb;52(2):302-12. doi: 10.1007/s12031-013-0145-y. Epub 2013 
+Oct 23.
+
+Proteomic analysis of striatum from MPTP-treated marmosets (Callithrix jacchus)
+with L-DOPA-induced dyskinesia of differing severity.
+
+Hurley MJ(1), Jackson MJ, Smith LA, Rose S, Jenner P.
+
+Author information: 
+(1)Neurodegenerative Diseases Research Group, Institute of Pharmaceutical
+Science, School of Biomedical Science, King's College, London, SE1 1UL, UK,
+m.hurley@imperial.ac.uk.
+
+Marmosets rendered parkinsonian with 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(MPTP) and treated with L-3,4-dihydroxyphenylalanine (L-DOPA) develop dyskinesia,
+but with differing degrees of severity. To provide insight into the molecular
+mechanisms responsible for the different level of dyskinesia to manifest in
+individual animals, proteins in striatum from MPTP-treated marmosets with
+different levels of L-DOPA-induced dyskinesia were separated by 2-dimensional
+(2-D) protein electrophoresis. Thirty-five differentially expressed proteins were
+identified by mass spectrometry and peptide mass fingerprinting, and comparative 
+analysis found 10 were significantly increased and 3 had significantly reduced
+expression in animals with a high level of dyskinesia when compared to animals
+with a low incidence of dyskinesia. These proteins belonged to a range of
+functional classes, for example, molecular chaperones, metabolic enzymes and
+synaptic structural proteins. The findings of this study provide clues about the 
+molecular mechanisms that cause dyskinesia to manifest and point towards
+potential novel targets for the development of therapeutic agents to prevent or
+treat established dyskinesia.
+
+DOI: 10.1007/s12031-013-0145-y 
+PMID: 24150990  [Indexed for MEDLINE]
+
+
+1494. J Exp Biol. 2014 Feb 15;217(Pt 4):482-8. doi: 10.1242/jeb.089177. Epub 2013 Oct
+18.
+
+Mechanical output in jumps of marmosets (Callithrix jacchus).
+
+Bobbert MF(1), Plas RL, Weide G, Clairbois HE, Hofman SO, Jaspers RT, Philippens 
+IH.
+
+Author information: 
+(1)MOVE Research Institute Amsterdam, Faculty of Human Movement Sciences, VU
+University Amsterdam, Van der Boechorstraat 9, NL-1081 BT Amsterdam, The
+Netherlands.
+
+In this study we determined the mechanical output of common marmosets (Callithrix
+jacchus) during jumping. Vertical ground reaction forces were measured in 18
+animals while they jumped from an instrumented crossbar to a crossbar located 70 
+cm higher. From the vertical force time histories, we calculated the rate of
+change of mechanical energy of the centre of mass (dE/dt). The mean value of
+dE/dt during the push-off amounted to 51.8±6.2 W kg(-1) body mass, and the peak
+value to 116.4±17.6 W kg(-1) body mass. We used these values in combination with 
+masses of leg muscles, determined in two specimens, to estimate mean and peak
+values of dE/dt of 430 and 970 W kg(-1) muscle, respectively. These values are
+higher than values reported in the literature for jumps of humans and bonobos,
+but smaller than those of jumps of bushbabies. Surprisingly, the mean value of
+dE/dt of 430 W kg(-1) muscle was close to the maximal power output of 516 W
+kg(-1) muscle reported in the literature for isokinetic contractions of rat
+medial gastrocnemius, one of the fastest mammalian muscles. Further study of the 
+force-velocity relationship of muscle tissue of small primates is indicated.
+
+DOI: 10.1242/jeb.089177 
+PMID: 24143030  [Indexed for MEDLINE]
+

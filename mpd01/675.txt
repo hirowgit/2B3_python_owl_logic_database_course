@@ -1,0 +1,93 @@
+
+
+675. Neuropharmacology. 2018 Sep 1;139:61-67. doi: 10.1016/j.neuropharm.2018.06.038.
+Epub 2018 Jun 30.
+
+The highly selective 5-HT2A antagonist EMD-281,014 reduces dyskinesia and
+psychosis in the l-DOPA-treated parkinsonian marmoset.
+
+Hamadjida A(1), Nuara SG(2), Bédard D(3), Gaudette F(4), Beaudry F(5), Gourdon
+JC(2), Huot P(6).
+
+Author information: 
+(1)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada; Integrated Program in Neuroscience, McGill University, Montreal, QC, 
+Canada.
+(2)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(3)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada.
+(4)Centre de Recherche du Centre Hospitalier de l'Université de Montréal,
+Montreal, QC, Canada.
+(5)Groupe de Recherche en Pharmacologie Animale du Québec, Département de
+Biomédecine Vétérinaire, Faculté de Médecine Vétérinaire Université de Montréal, 
+Saint-Hyacinthe, QC, Canada.
+(6)Neurodegenerative Disease Group, Montreal Neurological Institute, Montreal,
+QC, Canada; Integrated Program in Neuroscience, McGill University, Montreal, QC, 
+Canada; Department of Neuroscience, McGill University, Montreal, QC, Canada;
+Division of Neurology, McGill University Health Centre, Montreal, QC, Canada.
+Electronic address: philippe.huot@mcgill.ca.
+
+Blockade of serotonin 2A (5-HT2A) receptors is regarded as an anti-dyskinetic and
+anti-psychotic strategy in Parkinson's disease (PD). However, the 5-HT2A
+antagonists tested so far exhibited affinity for other receptors, which might
+have played a role in their action. EMD-281,014 is the most selective 5-HT2A
+antagonist available, with approximately 2,000-fold selectivity over serotonin 2C
+(5-HT2C) receptors. EMD-281,014 was previously tested in the clinic and has high 
+translational potential. In the present study, we assessed the effect of
+EMD-281,014 on dyskinesia and psychosis in the
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned common marmoset. We 
+first determined the pharmacokinetic profile of EMD-281,014 in the marmoset,
+after which doses leading to clinically-relevant plasma levels (0.01, 0.03 and
+0.1 mg/kg) or vehicle were administered to MPTP-lesioned marmosets, in
+combination with L-3,4-dihydroxyphenylalanine (l-DOPA). The effects of
+EMD-281,014 on dyskinesia, psychosis-like behaviours (PLBs) and parkinsonism were
+then evaluated. When added to l-DOPA, EMD-281,014 (0.03 and 0.1 mg/kg) reduced
+peak dose dyskinesia, by 41.8% and 54.5% (P < 0.05 and P < 0.001), when compared 
+to l-DOPA/vehicle. EMD-281,014 (0.03 and 0.1 mg/kg) also significantly reduced
+the severity of peak dose PLBs, by 42.5% and 45.9% (P < 0.05 and P < 0.001), when
+compared to vehicle. The anti-dyskinetic and anti-psychotic effects of
+EMD-281,014 were achieved without interfering with l-DOPA anti-parkinsonian
+action. Our results suggest that highly-selective 5-HT2A receptor blockade with
+EMD-281,014 is an effective way to alleviate both dyskinesia and psychosis in PD,
+without adversely affecting parkinsonian disability.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuropharm.2018.06.038 
+PMID: 29969592  [Indexed for MEDLINE]
+
+
+676. Nat Commun. 2018 Jun 29;9(1):2540. doi: 10.1038/s41467-018-04961-8.
+
+Auditory cortical activity drives feedback-dependent vocal control in marmosets.
+
+Eliades SJ(1), Tsunada J(2).
+
+Author information: 
+(1)Auditory and Communication Systems Laboratory, Department of
+Otorhinolaryngology: Head and Neck Surgery, University of Pennsylvania Perelman
+School of Medicine, Philadelphia, PA, 19104, USA. seliades@med.upenn.edu.
+(2)Auditory and Communication Systems Laboratory, Department of
+Otorhinolaryngology: Head and Neck Surgery, University of Pennsylvania Perelman
+School of Medicine, Philadelphia, PA, 19104, USA.
+
+Vocal communication is a sensory-motor process requiring auditory self-monitoring
+to correct errors and to ensure accurate vocal production. When presented with
+altered speech feedback, humans rapidly change their speech to compensate.
+Although previous evidence has demonstrated suppression of auditory cortex during
+both speech and animal vocalization, the specific role of auditory cortex in such
+feedback-dependent control is unknown. Here we show the relationship between
+neural activity in the auditory cortex and feedback-dependent vocal control in
+marmoset monkeys. We demonstrate that marmosets, like humans, exhibit feedback
+control of vocal acoustics. We further show that feedback-sensitive activity of
+auditory cortex neurons predict such compensatory vocal changes. Finally, we
+demonstrate that electrical microstimulation of auditory cortex rapidly evokes
+similar changes in vocal production. These results are evidence for a causal role
+of auditory cortex in vocal self-monitoring and feedback-dependent control, and
+have implications for understanding human speech motor control.
+
+DOI: 10.1038/s41467-018-04961-8 
+PMCID: PMC6026141
+PMID: 29959315  [Indexed for MEDLINE]
+

@@ -1,0 +1,37 @@
+
+
+3627. J Neuroimmunol. 1997 Nov;79(2):119-28.
+
+Inhibition of allergic encephalomyelitis in marmosets by vaccination with
+recombinant vaccinia virus encoding for myelin basic protein.
+
+Genain CP(1), Gritz L, Joshi N, Panicali D, Davis RL, Whitaker JN, Letvin NL,
+Hauser SL.
+
+Author information: 
+(1)Department of Neurology, University of California, San Francisco 94143-0435,
+USA. claudeg@itsa.ucsf.edu
+
+A primary demyelinating form of experimental allergic encephalomyelitis (EAE)
+resembling human multiple sclerosis (MS) occurs in Callithrix jacchus marmosets
+following immunization with human white matter. Participation of a T-cell immune 
+response against myelin basic protein (MBP) in this disease model is supported by
+observations of increased reactivity against MBP in PBMC and of adoptive transfer
+of an inflammatory form of EAE by MBP-reactive T-cells. To evaluate the effects
+of ectopic presentation of MBP on marmoset EAE, animals were vaccinated prior to 
+induction of EAE by subcutaneous injection of attenuated strains of vaccinia
+virus genetically engineered to contain either the entire coding sequence for
+human MBP (vT15) or the equine herpes virus glycoprotein gH gene (vAbT249).
+Vaccination with vT15 was followed by transient cytoplasmic and surface membrane 
+expression of MBP in circulating PBMC (15-45 days). The onset of clinical EAE
+after immunization (pi) was markedly delayed in vT15-vaccinated animals (37-97
+days pi, n = 4) compared to vAbT249-vaccinated controls (14-18 days pi, n = 3).
+Proliferative responses against MBP but not against vaccinia antigens or
+phytohemagglutinin were suppressed in protected animals. Thus, development of
+attenuated live viruses carrying genes for myelin antigens could be useful for
+induction of immunologic tolerance and for modulation of autoimmune
+demyelination.
+
+DOI: 10.1016/s0165-5728(97)00109-4 
+PMID: 9394784  [Indexed for MEDLINE]
+

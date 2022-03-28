@@ -1,0 +1,37 @@
+
+
+1954. Stem Cell Res. 2011 Jan;6(1):83-9. doi: 10.1016/j.scr.2010.09.003. Epub 2010 Nov 
+1.
+
+Simple autogeneic feeder cell preparation for pluripotent stem cells.
+
+Li W(1), Yamashita H, Hattori F, Chen H, Tohyama S, Satoh Y, Sasaki E, Yuasa S,
+Makino S, Sano M, Fukuda K.
+
+Author information: 
+(1)Division of Cardiology, Department of Medicine, Keio University School of
+Medicine, 35 Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan.
+
+Mouse embryonic fibroblasts (MEFs) are the most commonly used feeder cells for
+pluripotent stem cells. However, autogeneic feeder (AF) cells have several
+advantages such as no xenogeneic risks and reduced costs. In this report, we
+demonstrate that common marmoset embryonic stem (cmES) cells can be maintained on
+common marmoset AF (cmAF) cells. These cmES cells were maintained on cmAF cells
+for 6 months, retaining their morphology, normal karyotype, and expression
+patterns for the pluripotent markers Oct-3/4, Nanog, SSEA-3, SSEA-4, TRA-1-60,
+and TRA-1-81, as well as their ability to differentiate into cardiac and neural
+cells. Antibody array analysis revealed equivalent protein expression profiles
+between cmES cells maintained on cmAF cells and MEFs. In addition, similarly
+prepared human embryonic stem (hES) and induced pluripotent stem (hiPS)
+cell-derived AF cells supported the growth of and maintained the morphology and
+pluripotent marker expressions of hES and hiPS cells, respectively. DNA
+microarray analysis revealed that these hES and hiPS cells had mRNA expression
+profiles similar to those of hES and hiPS cells maintained on MEFs, respectively.
+Taken together, these findings imply that AF cells can replace MEFs in the
+routine maintenance of primate pluripotent stem cells.
+
+Copyright © 2010 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scr.2010.09.003 
+PMID: 21041123  [Indexed for MEDLINE]
+

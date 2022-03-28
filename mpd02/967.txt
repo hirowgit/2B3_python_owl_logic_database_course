@@ -1,0 +1,59 @@
+
+
+967. Gut. 2018 Feb;67(2):372-379. doi: 10.1136/gutjnl-2016-312208. Epub 2016 Oct 26.
+
+Induction of humoural and cellular immunity by immunisation with HCV particle
+vaccine in a non-human primate model.
+
+Yokokawa H(1)(2), Higashino A(3)(4), Suzuki S(3)(4), Moriyama M(1), Nakamura
+N(1), Suzuki T(1), Suzuki R(2), Ishii K(2), Kobiyama K(5)(6), Ishii KJ(5)(6),
+Wakita T(2), Akari H(3)(4), Kato T(2).
+
+Author information: 
+(1)Pharmaceutical Research Laboratories, Toray Industries, Inc, Kanagawa, Japan.
+(2)Department of Virology II, National Institute of Infectious Diseases, Tokyo,
+Japan.
+(3)Center for Human Evolution Modeling Research, Primate Research Institute,
+Kyoto University, Inuyama, Japan.
+(4)Laboratory of Infectious Disease Model, Institute for Frontier Life and
+Medical Sciences, Kyoto University, Kyoto, Japan.
+(5)Laboratory of Adjuvant Innovation, National Institutes of Biomedical
+Innovation, Health and Nutrition, Osaka, Japan.
+(6)Laboratory of Vaccine Science, World Premier International Research Center,
+Immunology Frontier Research Center, Osaka University, Osaka, Japan.
+
+OBJECTIVE: Although HCV is a major cause of chronic liver disease worldwide,
+there is currently no prophylactic vaccine for this virus. Thus, the development 
+of an HCV vaccine that can induce both humoural and cellular immunity is urgently
+needed. To create an effective HCV vaccine, we evaluated neutralising antibody
+induction and cellular immune responses following the immunisation of a non-human
+primate model with cell culture-generated HCV (HCVcc).
+DESIGN: To accomplish this, 10 common marmosets were immunised with purified,
+inactivated HCVcc in combination with two different adjuvants: the classically
+used aluminum hydroxide (Alum) and the recently established adjuvant: CpG
+oligodeoxynucleotide (ODN) wrapped by schizophyllan (K3-SPG).
+RESULTS: The coadministration of HCVcc with K3-SPG efficiently induced immune
+responses against HCV, as demonstrated by the production of antibodies with
+specific neutralising activity against chimaeric HCVcc with structural proteins
+from multiple HCV genotypes (1a, 1b, 2a and 3a). The induction of cellular
+immunity was also demonstrated by the production of interferon-γ mRNA in spleen
+cells following stimulation with the HCV core protein. These changes were not
+observed following immunisation with HCVcc/Alum preparation. No
+vaccination-related abnormalities were detected in any of the immunised animals.
+CONCLUSIONS: The current preclinical study demonstrated that a vaccine included
+both HCVcc and K3-SPG induced humoural and cellular immunity in marmosets.
+Vaccination with this combination resulted in the production of antibodies
+exhibiting cross-neutralising activity against multiple HCV genotypes. Based on
+these findings, the vaccine created in this study represents a promising, potent 
+and safe prophylactic option against HCV.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not
+already granted under a licence) please go to
+http://www.bmj.com/company/products-services/rights-and-licensing/.
+
+DOI: 10.1136/gutjnl-2016-312208 
+PMID: 27797937  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: HY, MM, NN and TS are
+employee of Toray Industries.
+

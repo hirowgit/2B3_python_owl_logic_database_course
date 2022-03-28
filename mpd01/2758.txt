@@ -1,0 +1,75 @@
+
+
+2758. Eur J Neurosci. 2004 Nov;20(9):2479-82.
+
+Regenerating corticospinal fibers in the Marmoset (Callitrix jacchus) after
+spinal cord lesion and treatment with the anti-Nogo-A antibody IN-1.
+
+Fouad K(1), Klusman I, Schwab ME.
+
+Author information: 
+(1)Faculty of Rehabilitation Medicine, University of Alberta, Edmonton, T6G 2G4, 
+Canada. karim.fouad@ualberta.ca
+
+Neutralizing the myelin-associated growth inhibitor Nogo-A in adult spinal
+cord-injured rats can promote regeneration of injured and compensatory sprouting 
+of uninjured axons. Nogo-A is present in humans, making its neutralization a
+possible novel treatment option for paraplegic patients. In this study we
+examined the effects of an extensively used anti-Nogo-A antibody (mAb IN-1) on
+the regenerative capabilities of lesioned corticospinal tract (CST) axons in a
+primate, the Marmoset monkey. Unilateral thoracic lesions of the CST were
+performed in six adult Marmosets, followed by the application of mAb IN-1 into
+the cerebrospinal fluid circulation by a graft of hybridoma cells. A unilateral
+injection of biotin dextran amine into the motor cortex was performed to analyse 
+sprouting and regeneration of the lesioned axons. In the control antibody-treated
+animal CST fibers stopped rostral to the lesion site and often showed retraction 
+bulbs. In contrast, in four out of five mAb IN-1-treated animals fine labeled
+neurites had grown into, through and around the lesion site. Thus, this study
+provides first anatomical evidence that in primates, the neutralization of the
+myelin-associated inhibitor Nogo-A results in increased regenerative sprouting
+and growth of lesioned spinal cord axons.
+
+DOI: 10.1111/j.1460-9568.2004.03716.x 
+PMID: 15525289  [Indexed for MEDLINE]
+
+
+2759. Exp Brain Res. 2005 Mar;162(1):100-8. Epub 2004 Oct 23.
+
+Single-unit responses to kinetic stimuli in New World monkey area V2:
+physiological characteristics of cue-invariant neurones.
+
+Lui LL(1), Bourne JA, Rosa MG.
+
+Author information: 
+(1)Department of Physiology, Monash University, 3800 Clayton, VIC, Australia.
+
+In order to investigate the neural processes underlying figure-ground segregation
+on the basis of motion, we studied the responses of neurones in the second visual
+area (V2) of marmoset monkeys to stimuli that moved against dynamic textured
+backgrounds. The stimuli were either "solid" bars, which were uniformly darker or
+lighter than the background's average, or kinetic ("camouflaged") bars, formed by
+textural elements that matched the spatial and temporal modulation of the
+background. Camouflaged bars were rendered visible only by the coherent motion of
+their textural elements. Using solid bars, we subdivided the population of
+marmoset V2 neurones into motion-selective (uni- and bi-directional units, 73.3% 
+of the sample) and weakly-biased (26.7%) subpopulations. The motion selective
+subpopulation was further subdivided into cue-invariant neurones (units which
+demonstrated a similar selectivity for the direction of motion of the solid and
+camouflaged bars) and non-cue-invariant neurones (units which showed selectivity 
+to the direction of motion of solid bars, but had weak or pandirectional
+responses to camouflaged bars). Cells with cue-invariant responses to these
+stimuli were as common in V2 as in the primary visual area (V1; approximately 40%
+of the population). In V2, neurones with cue-invariant and non-cue-invariant
+motion selectivity formed distinct populations in terms of classical response
+properties: cue-invariant neurones were characterized by a sharp axis of motion
+selectivity and extensive length summation, while the majority of
+non-cue-invariant neurones had broader motion selectivity and were end-stopped.
+In the light of previous studies, these different constellations of classical
+response properties suggest a correlation with more traditionally recognized
+categories of V2 units and modular compartments. The responses of V2 cells to
+kinetic stimuli were slightly delayed relative to their responses to
+luminance-defined stimuli.
+
+DOI: 10.1007/s00221-004-2113-9 
+PMID: 15517211  [Indexed for MEDLINE]
+

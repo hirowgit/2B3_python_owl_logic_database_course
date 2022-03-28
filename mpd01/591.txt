@@ -1,0 +1,91 @@
+
+
+591. PLoS Comput Biol. 2018 Dec 3;14(12):e1006643. doi: 10.1371/journal.pcbi.1006643. 
+eCollection 2018 Dec.
+
+Detection and analysis of spatiotemporal patterns in brain activity.
+
+Townsend RG(1)(2), Gong P(1)(2).
+
+Author information: 
+(1)School of Physics, The University of Sydney, NSW, Australia.
+(2)ARC Centre of Excellence for Integrative Brain Function, The University of
+Sydney, NSW, Australia.
+
+There is growing evidence that population-level brain activity is often organized
+into propagating waves that are structured in both space and time. Such
+spatiotemporal patterns have been linked to brain function and observed across
+multiple recording methodologies and scales. The ability to detect and analyze
+these patterns is thus essential for understanding the working mechanisms of
+neural circuits. Here we present a mathematical and computational framework for
+the identification and analysis of multiple classes of wave patterns in neural
+population-level recordings. By drawing a conceptual link between spatiotemporal 
+patterns found in the brain and coherent structures such as vortices found in
+turbulent flows, we introduce velocity vector fields to characterize neural
+population activity. These vector fields are calculated for both phase and
+amplitude of oscillatory neural signals by adapting optical flow estimation
+methods from the field of computer vision. Based on these velocity vector fields,
+we then introduce order parameters and critical point analysis to detect and
+characterize a diverse range of propagating wave patterns, including planar
+waves, sources, sinks, spiral waves, and saddle patterns. We also introduce a
+novel vector field decomposition method that extracts the dominant spatiotemporal
+structures in a recording. This enables neural data to be represented by the
+activity of a small number of independent spatiotemporal modes, providing an
+alternative to existing dimensionality reduction techniques which separate space 
+and time components. We demonstrate the capabilities of the framework and toolbox
+with simulated data, local field potentials from marmoset visual cortex and
+optical voltage recordings from whole mouse cortex, and we show that pattern
+dynamics are non-random and are modulated by the presence of visual stimuli.
+These methods are implemented in a MATLAB toolbox, which is freely available
+under an open-source licensing agreement.
+
+DOI: 10.1371/journal.pcbi.1006643 
+PMCID: PMC6292652
+PMID: 30507937  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+592. Biochemistry. 2019 Feb 12;58(6):763-775. doi: 10.1021/acs.biochem.8b00852. Epub
+2019 Jan 14.
+
+Amyloid-like Behavior of Site-Specifically Citrullinated Myelin Oligodendrocyte
+Protein (MOG) Peptide Fragments inside EBV-Infected B-Cells Influences Their
+Cytotoxicity and Autoimmunogenicity.
+
+Araman C(1), van Gent ME(1), Meeuwenoord NJ(2), Heijmans N(3), Marqvorsen MHS(1),
+Doelman W(1), Faber BW(4), 't Hart BA(3)(5), Van Kasteren SI(1).
+
+Author information: 
+(1)Leiden Institute of Chemistry and Institute for Chemical Immunology , Leiden
+University , Einsteinweg 55 , 2333 CC Leiden , The Netherlands.
+(2)Leiden Institute of Chemistry and Department of Bioorganic Synthesis , Leiden 
+University , Einsteinweg 55 , 2333 CC Leiden , The Netherlands.
+(3)Department of Immunobiology , Biomedical Primate Research Centre , 2288 GJ
+Rijswijk , The Netherlands.
+(4)Department of Parasitology , Biomedical Primate Research Centre , 2288 GJ
+Rijswijk , The Netherlands.
+(5)Department of Neuroscience , University of Groningen, University Medical
+Centre , 9700 AB Groningen , The Netherlands.
+
+Multiple sclerosis (MS) is an autoimmune disorder manifested via chronic
+inflammation, demyelination, and neurodegeneration inside the central nervous
+system. The progressive phase of MS is characterized by neurodegeneration, but
+unlike classical neurodegenerative diseases, amyloid-like aggregation of
+self-proteins has not been documented. There is evidence that citrullination
+protects an immunodominant peptide of human myelin oligodendrocyte glycoprotein
+(MOG34-56) against destructive processing in Epstein-Barr virus-infected
+B-lymphocytes (EBV-BLCs) in marmosets and causes exacerbation of ongoing MS-like 
+encephalopathies in mice. Here we collected evidence that citrullination of MOG
+can also lead to amyloid-like behavior shifting the disease pathogenesis toward
+neurodegeneration. We observed that an immunodominant MOG peptide, MOG35-55,
+displays amyloid-like behavior upon site-specific citrullination at positions 41,
+46, and/or 52. These amyloid aggregates are shown to be toxic to the EBV-BLCs and
+to dendritic cells at concentrations favored for antigen presentation, suggesting
+a role of amyloid-like aggregation in the pathogenesis of progressive MS.
+
+DOI: 10.1021/acs.biochem.8b00852 
+PMCID: PMC6374747
+PMID: 30513201  [Indexed for MEDLINE]
+

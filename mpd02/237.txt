@@ -1,0 +1,46 @@
+
+
+237. Nat Commun. 2020 Oct 26;11(1):5386. doi: 10.1038/s41467-020-19167-0.
+
+Over-activation of primate subgenual cingulate cortex enhances the
+cardiovascular, behavioral and neural responses to threat.
+
+Alexander L(1)(2)(3), Wood CM(1)(2), Gaskin PLR(1)(2)(4), Sawiak SJ(2)(5), Fryer 
+TD(5), Hong YT(5), McIver L(1)(2), Clarke HF(1)(2), Roberts AC(6)(7).
+
+Author information: 
+(1)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Cambridge, CB2 3DY, UK.
+(2)Behavioural and Clinical Neuroscience Institute, University of Cambridge,
+Cambridge, CB2 3EB, UK.
+(3)St. Thomas' Hospital, London, UK.
+(4)Benevolent AI, London, UK.
+(5)Wolfson Brain Imaging Centre, Department of Clinical Neurosciences, University
+of Cambridge, Cambridge, CB2 0QQ, UK.
+(6)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Cambridge, CB2 3DY, UK. acr4@cam.ac.uk.
+(7)Behavioural and Clinical Neuroscience Institute, University of Cambridge,
+Cambridge, CB2 3EB, UK. acr4@cam.ac.uk.
+
+Comment in
+    Nat Rev Neurosci. 2021 Jan;22(1):4-5.
+
+Stress-related disorders such as depression and anxiety are characterized by
+enhanced negative emotion and physiological dysfunction. Whilst elevated activity
+within area 25 of the subgenual anterior cingulate cortex (sgACC/25) has been
+implicated in these illnesses, it is unknown whether this over-activity is
+causal. By combining targeted intracerebral microinfusions with cardiovascular
+and behavioral monitoring in marmosets, we show that over-activation of sgACC/25 
+reduces vagal tone and heart rate variability, alters cortisol dynamics during
+stress and heightens reactivity to proximal and distal threat. 18F-FDG PET
+imaging shows these changes are accompanied by altered activity within a network 
+of brain regions including the amygdala, hypothalamus and dorsolateral prefrontal
+cortex. Ketamine, shown to have rapid antidepressant effects, fails to reverse
+elevated arousal to distal threat contrary to the beneficial effects we have
+previously demonstrated on over-activation induced reward blunting, illustrating 
+the symptom-specificity of its actions.
+
+DOI: 10.1038/s41467-020-19167-0 
+PMCID: PMC7588412
+PMID: 33106488  [Indexed for MEDLINE]
+

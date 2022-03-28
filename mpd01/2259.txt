@@ -1,0 +1,72 @@
+
+
+2259. Hear Res. 2008 Sep;243(1-2):57-68. doi: 10.1016/j.heares.2008.05.006. Epub 2008
+May 23.
+
+Distortion-product otoacoustic emissions in the common marmoset (Callithrix
+jacchus): parameter optimization.
+
+Valero MD(1), Pasanen EG, McFadden D, Ratnam R.
+
+Author information: 
+(1)University of Texas at San Antonio, Department of Biology, One UTSA Circle,
+San Antonio, TX 78249, USA.
+
+Distortion-product otoacoustic emissions (DPOAEs) were measured in a New World
+primate, the common marmoset (Callithrix jacchus). We determined the optimal
+primary-tone frequency ratio (f(2)/f(1)) to generate DPOAEs of maximal amplitude 
+between 3 and 24 kHz. The optimal f(2)/f(1), determined by varying f(2)/f(1) from
+1.02 to 1.40 using equilevel primary tones, decreased with increasing f(2)
+frequency between 3 and 17 kHz, and increased at 24 kHz. The optimal f(2)/f(1)
+ratio increased with increasing primary-tone levels from 50 to 74 dB SPL. When
+all stimulus parameters were considered, the mean optimal f(2)/f(1) was
+1.224-1.226. Additionally, we determined the effect of reducing L(2) below L(1). 
+Decreasing L(2) below L(1) by 0, 5, and 10 dB (f(2)/f(1)=1.21) minimally affected
+DPOAE strength. DPOAE levels were stronger in females than males and stronger in 
+the right ear than the left, just as in humans. This study is the first to
+measure OAEs in the marmoset, and the results indicate that the effect of varying
+the frequency ratio and primary-tone level difference on marmoset DPOAEs is
+similar to the reported effects in humans and Old World primates.
+
+DOI: 10.1016/j.heares.2008.05.006 
+PMCID: PMC2567920
+PMID: 18586424  [Indexed for MEDLINE]
+
+
+2260. Toxicol Lett. 2008 Aug 28;180(3):157-65. doi: 10.1016/j.toxlet.2008.05.018. Epub 
+2008 Jun 5.
+
+Cardiovascular toxicity of minoxidil in the marmoset.
+
+Hanton G(1), Sobry C, Daguès N, Rochefort GY, Bonnet P, Eder V.
+
+Author information: 
+(1)Department of Toxicology and Comparative Medicine, Pfizer Global Research and 
+Development, Z.I. Pocé-sur-Cisse, BP 159, F-37401 Amboise Cedex, France.
+gilles.hanton@yahoo.fr
+
+The aim of the experiments was to assess the toxicity of minoxidil, a potent
+vasodilator, in marmosets. The animals were treated either at escalating doses
+from 2 to 40 mg/kg, escalating doses from 40 to 200 mg/kg or single doses of 150 
+mg/kg or 200 mg/kg. ECG recording and echocardiographic examination were
+conducted before and 1h after treatment. Necropsy and histopathology were
+performed 24h after the last dose. The treatment with minoxidil induced
+myocardial necrosis, coronary arteriopathy and degeneration of renal tubules in
+animals treated with 150 mg/kg or 200 mg/kg. Myocardial necrosis associated with 
+fibrosis in some animals was located mainly in the left and right ventricles
+(including papillary muscles), but also in the right atrium, left atrium and/or
+interventricular septum. Arteriopathy was observed in small coronary arteries of 
+the right or left atrium. ECG and echocardiographic examinations showed that in
+animals treated with 150 mg/kg or 200 mg/kg, there were positive chronotropic and
+inotropic effects that compensated for the hypotensive effect of the drug and
+were considered to have played a key role in the pathogenesis of the
+cardiovascular lesions. The cardiotoxicity of minoxidil in marmosets was similar 
+to that described in dogs, but occurred at much higher doses. In conclusion
+minoxidil produced cardiovascular toxicity in the marmoset, which was probably
+due to the marked changes in the cardiac function associated with exaggerated
+pharmacological effects of the compound. The marmosets were found to be less
+sensitive than dogs to the cardiotoxicity of minoxidil.
+
+DOI: 10.1016/j.toxlet.2008.05.018 
+PMID: 18582543  [Indexed for MEDLINE]
+

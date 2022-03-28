@@ -1,0 +1,80 @@
+
+
+2361. Psychopharmacology (Berl). 2008 Jan;195(4):509-16. Epub 2007 Sep 19.
+
+Neurobehavioral protection by single dose l-deprenyl against MPTP-induced
+parkinsonism in common marmosets.
+
+Ando K(1), Maeda J, Inaji M, Okauchi T, Obayashi S, Higuchi M, Suhara T, Tanioka 
+Y.
+
+Author information: 
+(1)Department of Marmoset Research, Central Institute for Experimental Animals,
+1430 Nogawa, Miyamaeku, Kawasaki 216-0001, Japan. ando@ciea.or.jp
+
+OBJECTIVE: Establishment of preclinical method evaluating behavioral protective
+actions of drugs for Parkinson's disease was attempted using l-deprenyl (DEP) as 
+a reference drug in 1-methyl-4-phenyl-1, 2, 3, 6-tetrahydropyridine
+(MPTP)-treated common marmosets.
+MATERIALS AND METHODS: Fifteen marmosets received MPTP at 2 mg/kg, subcutaneously
+(s.c.) per day for three consecutive days. To these marmosets, intragastric
+(i.g.) administration of DEP at 10 mg/kg was pretreated 2 h before each MPTP
+administration in DEP3 group and pretreated only in the first MPTP administration
+day in DEP1 group. As a control, distilled water (DW) was pretreated before each 
+MPTP administration (n = 5 for each of three groups).
+RESULTS: In DW group, decreased daily activity counts and increased dysfunction
+scores were persistently observed for 3 weeks after MPTP. In DEP groups, the
+similar changes of both levels to those in DW group were temporally observed
+after MPTP for several days and then the values recovered to the pre-MPTP levels.
+The results of autoradiography performed after above behavioral observations
+indicated that markedly lower bindings of [(11)C]PE2I (ligand for dopamine
+transporters) were observed at the striatum of DW group marmoset as compared with
+the striatum of additionally prepared MPTP-free marmoset (n = 5). The bindings in
+DEP groups were almost the same as in the MPTP-free marmoset brains.
+CONCLUSION: The present preclinical methods using continuous recording of
+activity of marmosets in their living cages and autoradiography using dopamine
+transporter ligand might be sensitive for detecting protective actions of drugs
+for Parkinson's disease.
+
+DOI: 10.1007/s00213-007-0929-2 
+PMID: 17879087  [Indexed for MEDLINE]
+
+
+2362. Endocrinology. 2007 Dec;148(12):6062-72. Epub 2007 Sep 13.
+
+Chorionic gonadotropin beta-subunit gene expression in the marmoset pituitary is 
+controlled by steroidogenic factor 1, early growth response protein 1, and
+pituitary homeobox factor 1.
+
+Henke A(1), Luetjens CM, Simoni M, Gromoll J.
+
+Author information: 
+(1)Institute of Reproductive Medicine, University Clinic Münster, Domagkstrasse
+11, Münster, Germany.
+
+In most mammals, the gonads are under the control of the pituitary gonadotropins 
+LH and FSH. However, in the common marmoset monkey Callithrix jacchus, no LH is
+detectable in the pituitary but chorionic gonadotropin (CG) instead, normally
+produced in the placenta. This study investigated the mechanism of CGbeta subunit
+activation in the pituitary and why humans do not express CG in the pituitary.
+5'-Rapid amplification of cDNA ends, EMSA, and promoter-driven luciferase assays 
+performed with the gonadotropic LbetaT2 cells showed that marmoset monkey CGbeta 
+is GnRH responsive and activated similar to human LHbeta by the transcription
+factors steroidogenic factor 1 (SF1), early growth response protein 1 (Egr1), and
+pituitary homeobox factor 1 (Pitx1) and displayed a transcriptional start site 7 
+bp upstream of exon 1. In contrast, the human CGbeta promoter displayed in the
+binding elements for pituitary homeobox factor 1 and early growth response
+protein 1 three consensus sequence mismatches, leading to very low activity that 
+could be drastically increased by mutation to the consensus sequences. Vice
+versa, marmoset CGbeta promoter activity was reduced after introduction of the
+human CGbeta mismatches. An in vivo study in pregnant marmoset monkeys showed
+that during pregnancy, there is no significant decrease of pituitary CG
+production, contrasting human LH down-regulation. In conclusion, pituitary CG
+production is lacking in humans due to the absence of appropriate DNA-binding
+elements, which are present in marmosets, thereby enabling GnRH activation of
+expression. However, during pregnancy of marmosets, pituitary CG expression is
+not inhibited.
+
+DOI: 10.1210/en.2007-0825 
+PMID: 17872365  [Indexed for MEDLINE]
+

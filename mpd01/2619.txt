@@ -1,0 +1,77 @@
+
+
+2619. Anat Rec A Discov Mol Cell Evol Biol. 2005 Dec;287(2):1213-25.
+
+Optical imaging of functional organization of V1 and V2 in marmoset visual
+cortex.
+
+Roe AW(1), Fritsches K, Pettigrew JD.
+
+Author information: 
+(1)Department of Psychology, Vanderbilt University, Nashville, Tennessee 37203,
+USA. anna.roe@vanderbilt.edu
+
+Using optical imaging of intrinsic cortical signals, we examined the functional
+organization of visual cortical areas V1 and V2 of the marmoset (Callithrix
+jacchus). Previous studies have reported that adult marmosets do not have ocular 
+dominance columns (ODCs); however, recent studies have called this into question.
+Using optical imaging methods, we examined whether ODCs could be detected in
+adult marmosets. We found evidence for functional ODCs in some marmosets but not 
+in others. The activation patterns, when present, were relatively weak and
+appeared as a mosaic of irregular bands or islands. Consistent with studies in
+other New World monkeys, these data suggest the presence of ODC variability
+within the marmoset population. Orientation maps in V1 revealed iso-orientation
+domains organized in semicontinuous bands oriented orthogonal to the V1/V2
+border, a pattern unlike that in Macaque monkey. The presence of directional
+preference maps in V1 was also suggested. In V2, similar to V2 in Macaque
+monkeys, stripe-like regions of orientation selectivity overlay the pale
+cytochrome oxidase regions of V2; zones not selective for orientation overlay the
+cytochrome thin stripes. However, unlike Macaques, we did not observe clear
+evidence for orientation maps overlying thick cytochrome oxidase stripes. In sum,
+our data suggest that significant organizational differences exist between the
+organization of V1 and V2 in the marmoset and that of Old World primates.
+Implications for the establishment of functional ocular dominance columns, the
+coestablishment of multiple featural maps, and cortical magnification factors are
+discussed.
+
+Copyright (c) 2005 Wiley-Liss, Inc.
+
+DOI: 10.1002/ar.a.20248 
+PMID: 16235264  [Indexed for MEDLINE]
+
+
+2620. Vis Neurosci. 2005 Jul-Aug;22(4):479-91.
+
+Spatial coding and response redundancy in parallel visual pathways of the
+marmoset Callithrix jacchus.
+
+Forte JD(1), Hashemi-Nezhad M, Dobbie WJ, Dreher B, Martin PR.
+
+Author information: 
+(1)National Vision Research Institute of Australia, Cnr Keppel & Cardigan
+Streets, Carlton, and the Department of Optometry and Vision Sciences, The
+University of Melbourne, Parkville, Australia.
+
+Many neurons in the primary visual cortex (area V1) show pronounced selectivity
+for the orientation and spatial frequency of visual stimuli, whereas most neurons
+in subcortical afferent streams show little selectivity for these stimulus
+attributes. It has been suggested that this transformation is a functional sign
+of increased coding efficiency, whereby the redundancy (or overlap in response
+properties) is reduced at consecutive levels of visual processing. Here we
+compared experimentally the response redundancy in area V1 with that in the three
+main dorsal thalamic afferent streams, the parvocellular (PC), koniocellular
+(KC), and magnocellular (MC) divisions of the dorsal lateral geniculate nucleus
+(LGN) in marmosets. The spatial frequency and orientation tuning of single cells 
+in the LGN and area V1 were measured, using luminance contrast sine-wave
+gratings. A joint spatial frequency-orientation response selectivity profile was 
+calculated for each cell. Response redundancy for each population was estimated
+by cross-multiplication of the joint selectivity profiles for pairs of cells. We 
+show that when estimated in this way, redundancy in LGN neurons is approximately 
+double that of neurons in cortical area V1. However, there are differences
+between LGN subdivisions, such that the KC pathway has a spatial representation
+that lies between the redundant code of the PC and MC pathways and the more
+efficient sparse spatial code of area V1.
+
+DOI: 10.1017/S0952523805224094 
+PMID: 16212705  [Indexed for MEDLINE]
+

@@ -1,0 +1,35 @@
+
+
+544. Am J Vet Res. 2019 Mar;80(3):259-264. doi: 10.2460/ajvr.80.3.259.
+
+Development and analytic validation of a sandwich ELISA for the measurement of
+α1-proteinase inhibitor concentrations in serum and feces of common marmosets
+(Callithrix jacchus).
+
+Parambeth JC, Lidbury JA, Suchodolski JS, Steiner JM.
+
+OBJECTIVE To develop and validate a sandwich ELISA for the measurement of
+α1-proteinase inhibitor (α1-PI) concentrations in serum and fecal samples
+obtained from common marmosets (Callithrix jacchus). SAMPLE Leftover serum (n =
+42) and fecal (23) samples submitted for diagnostic testing; paired serum and
+fecal samples obtained from 30 common marmosets at 2 research colonies.
+PROCEDURES A sandwich ELISA was developed and analytically validated by
+determining the lower limit of detection, linearity, accuracy, precision, and
+reproducibility. Reference intervals for α1-PI concentrations in serum and feces 
+of common marmosets were calculated. RESULTS The standard curve was generated for
+concentrations between 1 and 100 ng/mL. Mean ± SD observed-to-expected ratio for 
+serial dilutions of serum and fecal samples was 117.1 ± 5.6% (range, 112.2% to
+123.0%) and 106.1 ± 19.7% (range, 82.6% to 130.2%), respectively. Mean
+observed-to-expected ratio for spiking recovery of serum and fecal samples was
+102.9 ± 12.1% (range, 86.8% to 115.8%) and 97.9 ± 19.0% (range, 83.0% to 125.1%),
+respectively. Reference interval for serum concentrations of α1-PI was 1,254 to
+1,813 μg/mL, for 3-day mean fecal concentrations was 11.5 to 42.2 μg/g of feces, 
+and for 3-day maximum fecal concentrations was 13.2 to 51.2 μg/g of feces.
+CONCLUSIONS AND CLINICAL RELEVANCE The ELISA was linear, accurate, precise, and
+reproducible for quantification of α1-PI concentrations in serum and feces of
+common marmosets. However, the ELISA had limited linearity and accuracy for
+spiking recovery of fecal samples.
+
+DOI: 10.2460/ajvr.80.3.259 
+PMID: 30801206  [Indexed for MEDLINE]
+

@@ -1,0 +1,111 @@
+
+
+673. J Chromatogr B Analyt Technol Biomed Life Sci. 2018 Sep 1;1093-1094:1-7. doi:
+10.1016/j.jchromb.2018.06.036. Epub 2018 Jun 19.
+
+Development of a selective and sensitive high-performance liquid
+chromatography-tandem mass spectrometry assay to support pharmacokinetic studies 
+of LY-487,379 in rat and marmoset.
+
+Gaudette F(1), Hamadjida A(1), Bédard D(1), Nuara SG(2), Gourdon JC(2), Michaud
+V(3), Beaudry F(4), Huot P(5).
+
+Author information: 
+(1)Centre de Recherche du Centre Hospitalier de l'Université de Montréal
+(CRCHUM), Montreal, Quebec, Canada.
+(2)Comparative Medicine and Animal Resources Centre, McGill University, Montreal,
+Quebec, Canada.
+(3)Centre de Recherche du Centre Hospitalier de l'Université de Montréal
+(CRCHUM), Montreal, Quebec, Canada; Faculté de Pharmacie, Université de Montréal,
+Montreal, Quebec, Canada; Pharmacotherapy and Translational Research, College of 
+Pharmacy, University of Florida, Lake Nona Campus, Orlando, FL, USA.
+(4)Centre de Recherche du Centre Hospitalier de l'Université de Montréal
+(CRCHUM), Montreal, Quebec, Canada; Groupe de Recherche en Pharmacologie Animal
+du Québec, Département de Biomédecine Vétérinaire, Faculté de Médecine
+Vétérinaire Université de Montréal, Saint-Hyacinthe, Quebec, Canada.
+(5)Centre de Recherche du Centre Hospitalier de l'Université de Montréal
+(CRCHUM), Montreal, Quebec, Canada; Département de Pharmacologie et de
+Physiologie, Faculté de Médicine, Université de Montréal, Montreal, Quebec,
+Canada; Unité des Troubles du Mouvement André Barbeau, Centre Hospitalier de
+l'Université de Montréal, Montreal, Quebec, Canada; Division of Neurology, Centre
+Hospitalier de l'Université de Montréal, Montreal, Quebec, Canada. Electronic
+address: philippe.huot@mcgill.ca.
+
+Drugs modulating the metabotropic glutamate type 2 receptor (mGluR2) activity may
+have therapeutic benefits in treating a large spectrum of neuro-psychiatric
+disorders, from schizophrenia to Parkinson's disease, both as a symptomatic
+therapy and potential disease-modifying paradigm. LY-487,379 is a highly
+selective mGluR2 positive allosteric modulator that is widely used to study
+mGluR2 function using experimental animal models. The common marmoset is a small 
+primate that has long been used in neuroscience. However, given its small size
+and small circulating blood volume, conducting studies to determine the PK
+profile of LY-487,379 is challenging. We developed and validated a sensitive and 
+selective analytical method that enables quantification of LY-487,379 using a
+limited volume of plasma (10 μL). The analytical method consists of protein
+precipitation followed by high-performance liquid chromatography with heat
+assisted electrospray ionization mass spectrometry (HPLC-HESI-MS/MS). The
+chromatographic separation was achieved using gradient elution with a mobile
+phase consisting of acetonitrile and 0.01% formic acid in water on a Thermo
+Scientific Aquasil C18 analytical column (100 × 2.1 mm I.D., 5 μm) operating at
+40 °C and at a flow rate of 300 μL/min. The method displays a linear relationship
+ranging from 0.2 to 100 ng/mL. Intra- and inter-day relative standard deviations 
+are <1.4% and 7.9%, respectively and the relative error ranged from -6.9 to 9.7%.
+The method was used to quantify LY-487,379 in both rat and marmoset plasma, and
+PK parameters were determined after a single subcutaneous dose of 1.0 mg kg-1 in 
+both species and significant differences in Cmax, AUC and T1/2 were observed.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jchromb.2018.06.036 
+PMID: 29980099  [Indexed for MEDLINE]
+
+
+674. ACS Nano. 2018 Jul 24;12(7):6637-6647. doi: 10.1021/acsnano.8b01625. Epub 2018
+Jul 11.
+
+Murine and Non-Human Primate Dendritic Cell Targeting Nanoparticles for in Vivo
+Generation of Regulatory T-Cells.
+
+Stead SO(1), Kireta S(2), McInnes SJP(3), Kette FD(1), Sivanathan KN(1), Kim
+J(1), Cueto-Diaz EJ(4), Cunin F(4), Durand JO(4), Drogemuller CJ(1)(2), Carroll
+RP(1)(2), Voelcker NH(5)(6)(7)(8), Coates PT(1)(2).
+
+Author information: 
+(1)Department of Medicine , University of Adelaide , Adelaide 5000 , Australia.
+(2)Central Northern Adelaide Renal and Transplantation Service (CNARTS) , The
+Royal Adelaide Hospital , Adelaide 5000 , Australia.
+(3)Future Industries Institute , University of South Australia , Adelaide 5095 , 
+Australia.
+(4)Case 1701, UMR 5253 CNRS -ENSCM-UM , Institut Charles Gerhardt Montpellier ,
+34095 Montpellier , cedex 5, France.
+(5)Drug Delivery, Disposition, and Dynamics, Monash Institute of Pharmaceutical
+Sciences , Monash University , 381 Royal Parade , Parkville , Victoria 3052 ,
+Australia.
+(6)Commonwealth Scientific and Industrial Research Organization (CSIRO) , Clayton
+, Victoria 3169 , Australia.
+(7)Melbourne Center for Nanofabrication, Victorian Node of the Australian
+National Fabrication Facility , Clayton , Victoria 3168 , Australia.
+(8)Monash Institute of Medical Engineering , Monash University , Clayton ,
+Victoria 3800 , Australia.
+
+Porous silicon nanoparticles (pSiNP), modified to target dendritic cells (DC),
+provide an alternate strategy for the delivery of immunosuppressive drugs. Here, 
+we aimed to develop a DC-targeting pSiNP displaying c-type lectin, dendritic
+cell-specific intercellular adhesion molecule-3-grabbing non-integrin (DC-SIGN), 
+and CD11c monoclonal antibodies. The in vivo tracking of these fluorescent
+DC-targeting nanoparticles was assessed in both C57BL/6 mice and common marmosets
+( Callithrix jacchus) by intravenous injection (20 mg/kg). Rapamycin and
+ovalbumin (OVA)323-339 peptide loaded pSiNP were employed to evaluate their
+ability to generate murine CD4+CD25+FoxP3+ regulatory T-cells in vivo within OVA 
+sensitized mice. In vivo, pSiNP migrated to the liver, kidneys, lungs, and spleen
+in both mice and marmosets. Flow cytometry confirmed pSiNP uptake by splenic and 
+peripheral blood DC when functionalized with targeting antibodies. C57BL/6 OVA
+sensitized mice injected with CD11c-pSiNP loaded with rapamycin + OVA323-339
+produced a 5-fold higher number of splenic regulatory T-cells compared to control
+mice, at 40 days post-pSiNP injection. These results demonstrate the importance
+of the immobilized targeting antibodies to enhance cellular uptake and enable the
+in vivo generation of splenic regulatory T-cells.
+
+DOI: 10.1021/acsnano.8b01625 
+PMID: 29979572  [Indexed for MEDLINE]
+

@@ -1,0 +1,52 @@
+
+
+1655. J Pharm Biomed Anal. 2013 Jan;72:208-15. doi: 10.1016/j.jpba.2012.08.023. Epub
+2012 Sep 7.
+
+Characterization of murine anti-human Fab antibodies for use in an immunoassay
+for generic quantification of human Fab fragments in non-human serum samples
+including cynomolgus monkey samples.
+
+Stubenrauch K(1), Wessels U, Essig U, Kowalewsky F, Vogel R, Heinrich J.
+
+Author information: 
+(1)Department of Bioanalytics, R&D Protein Analytics, Biologics Research, Pharma 
+Research and Early Development Penzberg, Roche Diagnostics GmbH, Nonnenwald 2,
+82377 Penzberg, Germany. kay-gunnar.stubenrauch@roche.com
+
+Generic immunoassay formats in animal serum have been described for
+pharmacokinetic (PK) analysis of human full-length antibodies, but not of human
+antigen binding fragment (Fab) proteins. Here we characterize two murine
+monoclonal antibodies (mAb) raised against human immunoglobulin G (IgG) which
+bind to unique epitopes in the Fab region of human IgG. mAb M-1.7.10 is directed 
+against the constant domain of the kappa light chain and mAb M-1.19.31 binds to
+the constant domain 1 (CH1) of the heavy chain. Surface plasmon resonance
+analysis showed that mAb M-1.7.10 does not cross-react with sera from mouse, rat,
+rabbit, dog, marmoset, rhesus macaque, baboon and cynomolgus monkey, but binds to
+human and chimpanzee serum (dissociation constant K(D) of 6.8 × 10(-12) and 3.1 ×
+10(-11)M, respectively). mAb M-1.19.31 shows a higher K(D) for human and
+chimpanzee IgG (2.0 × 10(-9)M and 5.8 × 10(-10)M, respectively), but also does
+not bind to serum of the other species. Therefore, mAb M-1.7.10 was used as
+capture and mAb M-1.19.31 as detection reagent in a generic enzyme linked
+immunosorbent assay (ELISA) to quantify the human anti-IGF-1R Fab in mouse serum.
+The generic human Fab assay showed a limit of detection of 31.5 ng/mL anti-IGF-1R
+Fab. Intra- and inter-assay precision was less than 12% and the accuracy range
+for all controls was within ±20% of the target concentration. The generic human
+Fab ELISA was applied to determine serum levels of human anti-IGF-1R Fab after
+intravenous (iv) administration of 10mg/kg to mice. The resulting
+concentration-time profile was nearly identical to that obtained by analysis with
+a validated specific ELISA for anti-IGF-1R Fab. The mean relative concentration
+of anti-IGF-1R Fab analyzed by the generic assay was 82-118% of that of the
+specific assay. This equivalence was confirmed in a cynomolgus monkey study with 
+the full length human mAb anti-TROP-2 IgG. Both specific ELISAs used mAb M-1.7.10
+as detection reagent and their targets for capturing. In conclusion, the two
+murine anti-human Fabs are versatile tools as capture and detection reagents for 
+human antibodies in generic and specific PK ELISA formats for animal studies.
+Their use in specific ELISAs as detection reagents allows the usage of Fc-fusion 
+proteins as capture reagents.
+
+Copyright © 2012 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jpba.2012.08.023 
+PMID: 23017233  [Indexed for MEDLINE]
+

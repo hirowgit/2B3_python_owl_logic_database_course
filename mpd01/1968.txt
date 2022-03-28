@@ -1,0 +1,76 @@
+
+
+1968. J Vis. 2010 Jul 1;10(8):1. doi: 10.1167/10.8.1.
+
+Receptive field asymmetries produce color-dependent direction selectivity in
+primate lateral geniculate nucleus.
+
+Tailby C(1), Dobbie WJ, Solomon SG, Szmajda BA, Hashemi-Nezhad M, Forte JD,
+Martin PR.
+
+Author information: 
+(1)Save Sight Institute and ARC Centre of Excellence in Vision Science,
+University of Sydney, Sydney, NSW, Australia. ctailby@unimelb.edu.au
+
+Blue-on receptive fields recorded in primate retina and lateral geniculate
+nucleus are customarily described as showing overlapping blue-on and yellow-off
+receptive field components. However, the retinal pathways feeding the blue-on and
+yellow-off subfields arise from spatially discrete receptor populations, and
+recent studies have given contradictory accounts of receptive field structure of 
+blue-on cells. Here we analyzed responses of blue-on cells to drifting gratings, 
+in single-cell extracellular recordings from the dorsal lateral geniculate
+nucleus in marmosets. We show that most blue-on cells exhibit selectivity for the
+drift direction of achromatic gratings. The standard concentric
+difference-of-Gaussians (DOG) model thus cannot account for responses of these
+cells. We apply a simple, anatomically plausible, extension of the DOG model. The
+model incorporates temporally offset elliptical two-dimensional Gaussian
+subfields. The model can predict color-contingent direction and spatial tuning.
+Because direction tuning in blue-on cells depends on stimulus chromaticity,
+spatial frequency, and temporal frequency, this property is of little value as a 
+general mechanism for image movement detection. It is possible that anatomical
+wiring for color selectivity has constrained the capacity of blue-on cells to
+contribute to spatial and motion vision.
+
+DOI: 10.1167/10.8.1 
+PMID: 20884576  [Indexed for MEDLINE]
+
+
+1969. Endocrinology. 2010 Dec;151(12):5905-15. doi: 10.1210/en.2010-0283. Epub 2010 Sep
+29.
+
+A thrombospondin-mimetic peptide, ABT-898, suppresses angiogenesis and promotes
+follicular atresia in pre- and early-antral follicles in vivo.
+
+Garside SA(1), Henkin J, Morris KD, Norvell SM, Thomas FH, Fraser HM.
+
+Author information: 
+(1)Medical Research Council Human Reproductive Sciences Unit, Centre for
+Reproductive Biology, Queens Medical Research Institute, Edinburgh, UK.
+S.Garside@hrsu.mrc.ac.uk
+
+Using a novel in vitro angiogenesis assay, we previously showed that
+thrombospondin (TSP)-1 has antiangiogenic effects on rat follicles and induces
+apoptosis in granulosa cells in vitro. ABT-898 is an octapeptide mimetic of TSP-1
+closely related to ABT-510. Here, we demonstrate the inhibitory effects of
+ABT-898 on follicular angiogenesis and its proapoptotic effect on granulosa
+cells. To investigate the potential of this peptide to inhibit follicular
+angiogenesis in vivo, marmoset monkeys were treated with 2.5 mg/kg ABT-898 twice 
+daily throughout the follicular phase of the cycle. Although treatment did not
+block emergence of dominant follicles, angiogenesis was reduced in preantral and 
+early-antral follicles. Furthermore, the incidence of atresia at these follicle
+stages was increased. To investigate whether treatment with ABT-898 would
+interfere with the timing or duration of the normal ovulatory rise in plasma
+progesterone, marmosets were treated with a depot formulation containing 25 mg
+ABT-898 at the start of the follicular phase, with a second injection after 2 wk.
+Despite active concentrations of peptide being maintained in the circulation, no 
+apparent effects on the ovulatory cycle were observed. Taken together, these
+results indicate that ABT-898 is capable of having a dual effect by inhibiting
+follicular angiogenesis and promoting atresia of antral follicles in vivo but
+does not prevent ovulation or induce luteolysis, as has been observed with direct
+vascular endothelial growth factor inhibitors. These results suggest that ABT-898
+could be a novel therapeutic to inhibit abnormal angiogenesis and induce atresia 
+of accumulated follicles in polycystic ovary syndrome.
+
+DOI: 10.1210/en.2010-0283 
+PMID: 20881256  [Indexed for MEDLINE]
+

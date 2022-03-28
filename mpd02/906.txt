@@ -1,0 +1,55 @@
+
+
+906. BMC Res Notes. 2017 Mar 9;10(1):121. doi: 10.1186/s13104-017-2447-6.
+
+RNA isolation from precision-cut lung slices (PCLS) from different species.
+
+Niehof M(1), Hildebrandt T(2), Danov O(3), Arndt K(2), Koschmann J(4), Dahlmann
+F(3)(5), Hansen T(3), Sewald K(3).
+
+Author information: 
+(1)Division of Preclinical Pharmacology and In Vitro Toxicology, Fraunhofer
+Institute for Toxicology and Experimental Medicine ITEM, German Center for Lung
+Research (DZL), Biomedical Research in Endstage and Obstructive Lung Disease
+Hannover (BREATH), Excellence Cluster REBIRTH, Nikolai-Fuchs-Str. 1, 30625,
+Hannover, Germany. monika.niehof@item.fraunhofer.de.
+(2)Immunology and Respiratory, Boehringer Ingelheim Pharma GmbH & Co. KG,
+Ingelheim am Rhein, Germany.
+(3)Division of Preclinical Pharmacology and In Vitro Toxicology, Fraunhofer
+Institute for Toxicology and Experimental Medicine ITEM, German Center for Lung
+Research (DZL), Biomedical Research in Endstage and Obstructive Lung Disease
+Hannover (BREATH), Excellence Cluster REBIRTH, Nikolai-Fuchs-Str. 1, 30625,
+Hannover, Germany.
+(4)geneXplain GmbH, 38302, Wolfenbüttel, Germany.
+(5)Pathology Unit, German Primate Center GmbH, Leibniz-Institute for Primate
+Research, Kellnerweg 4, 37077, Göttingen, Germany.
+
+BACKGROUND: Functional 3D organ models such as precision-cut lung slices (PCLS)
+have recently captured the attention of biomedical research. To enable wider
+implementation in research and development, these new biologically relevant organ
+models are being constantly refined. A very important issue is to improve the
+preparation of high-quality RNA (ribonucleic acid) from PCLS for drug discovery
+and development of new therapies. Gene expression analysis at different levels is
+used as an important experimental readout. Genome-wide analysis using microarrays
+is mostly applied for biomarker selection in disease models or in comprehensive
+toxicological studies. Specific biomarker testing by reverse transcriptase
+quantitative polymerase chain reaction (RTqPCR) is often used in efficacy
+studies. Both applications require high-quality RNA as starting material for the 
+generation of reliable data. Additionally, a small number of slices should be
+sufficient for satisfactory RNA isolation to allow as many experimental
+conditions as possible to be covered with a given tissue sample. Unfortunately,
+the vast amount of agarose in PCLS impedes RNA extraction according to the
+standard procedures.
+RESULTS: We established an optimized protocol for RNA isolation from PCLS from
+humans, rats, mice, marmosets, and rhesus macaques based on the separation of
+lysis and precipitation steps and a magnetic-bead cleanup procedure. The
+resulting RNA is of high purity and possesses a high degree of integrity. There
+are no contaminations affecting RTqPCR efficiency or any enzymatic step in sample
+preparation for microarray analysis.
+CONCLUSIONS: In summary, we isolated RNA from PCLS from different species that is
+well suited for RTqPCR and for microarray analysis as downstream applications.
+
+DOI: 10.1186/s13104-017-2447-6 
+PMCID: PMC5343379
+PMID: 28274266  [Indexed for MEDLINE]
+

@@ -1,0 +1,32 @@
+
+
+2868. Neurosci Lett. 2004 Jan 2;354(1):6-9.
+
+Modafinil prevents the MPTP-induced increase in GABAA receptor binding in the
+internal globus pallidus of MPTP-treated common marmosets.
+
+Zeng BY(1), Smith LA, Pearce RK, Tel B, Chancharme L, Moachon G, Jenner P.
+
+Author information: 
+(1)Neurodegenerative Disease Research Centre, Guy's, King's and St Thomas' School
+of Biomedical Sciences, King's College, London SE1 1UL, UK.
+
+The psychostimulant drug modafinil induces a reversal of motor deficits in MPTP
+treated primates and prevents MPTP toxicity to substantia nigra but its mechanism
+of action is not clear. In common marmosets acutely treated with MPTP in the
+presence or absence of modafinil, we have studied changes in GABA(A) receptor
+binding in the basal ganglia. MPTP treatment had no effect on
+[(3)H]-flunitrazepam (FNZ) binding density in the striatum or external globus
+pallidus (GPe) but increased [(3)H]-FNZ binding density in the internal globus
+pallidus (GPi). Administration of modafinil (10-100 mg/kg) with MPTP did not
+alter [(3)H]-FNZ binding density in the striatum or GPe. Low doses of modafinil
+(10 and 30 mg/kg) had no effect on the increased [(3)H]-FNZ binding density in
+the GPi but high dose modafinil (100 mg/kg) significantly decreased [(3)H]-FNZ
+binding density in GPi. These findings suggest that modafinil can selectively
+alter GABA binding density in the GPi either by preventing MPTP-induced toxicity 
+or through an action on striatal output pathway related to its antiparkinsonian
+activity and its ability to inhibit MPTP toxicity.
+
+DOI: 10.1016/j.neulet.2003.08.038 
+PMID: 14698469  [Indexed for MEDLINE]
+

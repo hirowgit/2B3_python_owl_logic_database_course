@@ -1,0 +1,61 @@
+
+
+213. Neuroimage. 2021 Feb 1;226:117620. doi: 10.1016/j.neuroimage.2020.117620. Epub
+2020 Dec 8.
+
+Marmoset Brain Mapping V3: Population multi-modal standard volumetric and
+surface-based templates.
+
+Liu C(1), Yen CC(2), Szczupak D(3), Tian X(3), Glen D(4), Silva AC(5).
+
+Author information: 
+(1)Department of Neurobiology, University of Pittsburgh Brain Institute, 3501
+Fifth Avenue, 6065 Biomedical Science Tower 3, Pittsburgh PA, USA; Cerebral
+Microcirculation Section, Laboratory of Functional and Molecular Imaging,
+National Institute of Neurological Disorders and Stroke, National Institutes of
+Health, Bethesda, MD, USA; CAS Center for Excellence in Brain Science and
+Intelligence Technology, Institute of Neuroscience, Chinese Academy of Sciences, 
+Shanghai 200031, China.
+(2)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD, USA.
+(3)Department of Neurobiology, University of Pittsburgh Brain Institute, 3501
+Fifth Avenue, 6065 Biomedical Science Tower 3, Pittsburgh PA, USA; Cerebral
+Microcirculation Section, Laboratory of Functional and Molecular Imaging,
+National Institute of Neurological Disorders and Stroke, National Institutes of
+Health, Bethesda, MD, USA.
+(4)Scientific and Statistical Computing Core, National Institute of Mental
+Health, National Institutes of Health (NIMH/NIH), Bethesda, MD, USA.
+(5)Department of Neurobiology, University of Pittsburgh Brain Institute, 3501
+Fifth Avenue, 6065 Biomedical Science Tower 3, Pittsburgh PA, USA; Cerebral
+Microcirculation Section, Laboratory of Functional and Molecular Imaging,
+National Institute of Neurological Disorders and Stroke, National Institutes of
+Health, Bethesda, MD, USA. Electronic address: afonso@pitt.edu.
+
+The standard anatomical brain template provides a common space and coordinate
+system for visualizing and analyzing neuroimaging data from large cohorts of
+subjects. Previous templates and atlases for the common marmoset brain were
+either based on data from a single individual or lacked essential functionalities
+for neuroimaging analysis. Here, we present new population-based in-vivo standard
+templates and tools derived from multi-modal data of 27 marmosets, including
+multiple types of T1w and T2w contrast images, DTI contrasts, and large
+field-of-view MRI and CT images. We performed multi-atlas labeling of anatomical 
+structures on the new templates and constructed highly accurate tissue-type
+segmentation maps to facilitate volumetric studies. We built fully featured brain
+surfaces and cortical flat maps to facilitate 3D visualization and surface-based 
+analyses, which are compatible with most surface analyzing tools, including
+FreeSurfer, AFNI/SUMA, and the Connectome Workbench. Analysis of the MRI and CT
+datasets revealed significant variations in brain shapes, sizes, and regional
+volumes of brain structures, highlighting substantial individual variabilities in
+the marmoset population. Thus, our population-based template and associated tools
+provide a versatile analysis platform and standard coordinate system for a wide
+range of MRI and connectome studies of common marmosets. These new template tools
+comprise version 3 of our Marmoset Brain Mapping Project and are publicly
+available via marmosetbrainmapping.org/v3.html.
+
+Copyright © 2020. Published by Elsevier Inc.
+
+DOI: 10.1016/j.neuroimage.2020.117620 
+PMCID: PMC7908070
+PMID: 33307224  [Indexed for MEDLINE]
+

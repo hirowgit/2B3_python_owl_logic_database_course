@@ -1,0 +1,77 @@
+
+
+1352. J Comp Neurol. 2015 Feb 1;523(2):313-34. doi: 10.1002/cne.23683. Epub 2014 Oct
+15.
+
+Analysis of bipolar and amacrine populations in marmoset retina.
+
+Weltzien F(1), Percival KA, Martin PR, Grünert U.
+
+Author information: 
+(1)Department of Ophthalmology and Save Sight Institute, The University of
+Sydney, Sydney, New South Wales, 2000, Australia.
+
+About 15 parallel ganglion cell pathways transmit visual signals to the brain,
+but the interneuron (bipolar and amacrine) populations providing input to
+ganglion cells remain poorly understood in primate retina. We carried out a
+quantitative analysis of the inner nuclear layer in the retina of the marmoset
+(Callithrix jacchus). Vertical Vibratome sections along the horizontal meridian
+were processed with immunohistochemical markers. Image stacks were taken with a
+confocal microscope, and densities of cell populations were determined. The
+density of flat midget bipolar cells fell from 15,746 cells/mm(2) at 1 mm (8 deg)
+to 7,827 cells/mm(2) at 3 mm (25 deg). The rod bipolar cell density fell from
+8,640 cells/mm(2) at 1 mm to 4,278 cells/mm(2) at 3 mm, but the ratio of the two 
+bipolar cell types did not change with eccentricity. The amacrine cell density
+ranged from 30,000 cells/mm(2) at 8 deg to less than 15,000 cells/mm(2) at 25
+deg, but throughout the retina, the ratio of glycinergic to γ-aminobutyric acid
+(GABA)ergic to amacrine cells remained relatively constant. The fractions of rod 
+bipolar, cone bipolar, amacrine, Müller, and horizontal cells of all cells in the
+inner nuclear layer were comparable in central and peripheral retina. Marmosets
+had lower proportions of midget bipolar and rod bipolar in comparison with
+macaque. These differences were correlated with differences in rod and cone
+densities between the two species and did not reflect fundamental differences in 
+the wiring between the two species.
+
+© 2014 Wiley Periodicals, Inc.
+
+DOI: 10.1002/cne.23683 
+PMID: 25262625  [Indexed for MEDLINE]
+
+
+1353. PLoS One. 2014 Sep 26;9(9):e107911. doi: 10.1371/journal.pone.0107911.
+eCollection 2014.
+
+Encapsulating non-human primate multipotent stromal cells in alginate via high
+voltage for cell-based therapies and cryopreservation.
+
+Gryshkov O(1), Pogozhykh D(1), Hofmann N(1), Pogozhykh O(2), Mueller T(2),
+Glasmacher B(1).
+
+Author information: 
+(1)Institute for Multiphase Processes, Leibniz Universitaet Hannover, Hannover,
+Germany.
+(2)Institute for Transfusion Medicine, Hannover Medical School, Hannover,
+Germany.
+
+Alginate cell-based therapy requires further development focused on clinical
+application. To assess engraftment, risk of mutations and therapeutic benefit
+studies should be performed in an appropriate non-human primate model, such as
+the common marmoset (Callithrix jacchus). In this work we encapsulated amnion
+derived multipotent stromal cells (MSCs) from Callithrix jacchus in defined size 
+alginate beads using a high voltage technique. Our results indicate that i)
+alginate-cell mixing procedure and cell concentration do not affect the diameter 
+of alginate beads, ii) encapsulation of high cell numbers (up to 10×106 cells/ml)
+can be performed in alginate beads utilizing high voltage and iii) high voltage
+(15-30 kV) does not alter the viability, proliferation and differentiation
+capacity of MSCs post-encapsulation compared with alginate encapsulated cells
+produced by the traditional air-flow method. The consistent results were obtained
+over the period of 7 days of encapsulated MSCs culture and after cryopreservation
+utilizing a slow cooling procedure (1 K/min). The results of this work show that 
+high voltage encapsulation can further be maximized to develop cell-based
+therapies with alginate beads in a non-human primate model towards human
+application.
+
+DOI: 10.1371/journal.pone.0107911 
+PMCID: PMC4178041
+PMID: 25259731  [Indexed for MEDLINE]
+

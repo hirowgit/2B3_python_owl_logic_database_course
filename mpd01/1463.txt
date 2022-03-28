@@ -1,0 +1,73 @@
+
+
+1463. J Biol Chem. 2014 Feb 14;289(7):3991-4000. doi: 10.1074/jbc.M113.514075. Epub
+2014 Jan 8.
+
+Evolution of mammalian Opn5 as a specialized UV-absorbing pigment by a single
+amino acid mutation.
+
+Yamashita T(1), Ono K, Ohuchi H, Yumoto A, Gotoh H, Tomonari S, Sakai K, Fujita
+H, Imamoto Y, Noji S, Nakamura K, Shichida Y.
+
+Author information: 
+(1)From the Department of Biophysics, Graduate School of Science, Kyoto
+University, Kyoto 606-8502, Japan.
+
+Opn5 is one of the recently identified opsin groups that is responsible for
+nonvisual photoreception in animals. We previously showed that a chicken homolog 
+of mammalian Opn5 (Opn5m) is a Gi-coupled UV sensor having molecular properties
+typical of bistable pigments. Here we demonstrated that mammalian Opn5m evolved
+to be a more specialized photosensor by losing one of the characteristics of
+bistable pigments, direct binding of all-trans-retinal. We first confirmed that
+Opn5m proteins in zebrafish, Xenopus tropicalis, mouse, and human are also
+UV-sensitive pigments. Then we found that only mammalian Opn5m proteins lack the 
+ability to directly bind all-trans-retinal. Mutational analysis showed that these
+characteristics were acquired by a single amino acid replacement at position 168.
+By comparing the expression patterns of Opn5m between mammals and chicken, we
+found that, like chicken Opn5m, mammalian Opn5m was localized in the ganglion
+cell layer and inner nuclear layer of the retina. However, the mouse and primate 
+(common marmoset) opsins were distributed not in the posterior hypothalamus
+(including the region along the third ventricle) where chicken Opn5m is
+localized, but in the preoptic hypothalamus. Interestingly, RPE65, an essential
+enzyme for forming 11-cis-retinal in the visual cycle is expressed near the
+preoptic hypothalamus of the mouse and common marmoset brain but not near the
+region of the chicken brain where chicken Opn5m is expressed. Therefore,
+mammalian Opn5m may work exclusively as a short wavelength sensor in the brain as
+well as in the retina with the assistance of an 11-cis-retinal-supplying system.
+
+DOI: 10.1074/jbc.M113.514075 
+PMCID: PMC3924266
+PMID: 24403072  [Indexed for MEDLINE]
+
+
+1464. Neurosci Bull. 2014 Jun;30(3):387-93. doi: 10.1007/s12264-013-1395-y. Epub 2014
+Jan 6.
+
+Motor assessment of developing common marmosets.
+
+Wang Y(1), Fang Q, Gong N.
+
+Author information: 
+(1)School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai,
+200240, China.
+
+Motor development has been extensively studied in human infants and children,
+with several established scales for the evaluation of motor functions. However,
+the study of the neuronal mechanisms underlying human motor development is
+hampered by the lack of good animal models. The common marmoset (Callithrix
+jacchus), a small New World monkey, has recently attracted much attention as a
+potential nonhuman primate model for understanding human physiology and diseases.
+However, little is known about its gross motor development. In the present study,
+we found that marmosets have a critical period for motor development in postnatal
+weeks 2 to 5, and acquire most of their motor skills by 8 weeks of age. We also
+developed methods to assess their motor functions, which will be useful for the
+evaluation of motor performance in marmoset models of human diseases. In
+addition, we found that marmosets exhibit a "head-to-tail" sequence of motor
+development similar to that found in humans, further supporting the notion that
+they provide a good animal model for studying the neuronal mechanisms underlying 
+human motor development.
+
+DOI: 10.1007/s12264-013-1395-y 
+PMCID: PMC5562599
+PMID: 24395453  [Indexed for MEDLINE]
+

@@ -1,0 +1,99 @@
+
+
+852. Neuron. 2017 Jun 21;94(6):1085-1100.e6. doi: 10.1016/j.neuron.2017.05.017.
+
+High-Speed and Scalable Whole-Brain Imaging in Rodents and Primates.
+
+Seiriki K(1), Kasai A(2), Hashimoto T(3), Schulze W(4), Niu M(4), Yamaguchi S(5),
+Nakazawa T(6), Inoue KI(7), Uezono S(7), Takada M(7), Naka Y(4), Igarashi H(4),
+Tanuma M(4), Waschek JA(8), Ago Y(9), Tanaka KF(10), Hayata-Takano A(11),
+Nagayasu K(4), Shintani N(4), Hashimoto R(12), Kunii Y(13), Hino M(14), Matsumoto
+J(14), Yabe H(14), Nagai T(15), Fujita K(16), Matsuda T(4), Takuma K(17), Baba
+A(18), Hashimoto H(19).
+
+Author information: 
+(1)Laboratory of Molecular Neuropharmacology, Graduate School of Pharmaceutical
+Sciences, Osaka University, Suita, Osaka 565-0871, Japan; Interdisciplinary
+Program for Biomedical Sciences, Institute for Academic Initiatives, Osaka
+University, Suita, Osaka 565-0871, Japan.
+(2)Laboratory of Molecular Neuropharmacology, Graduate School of Pharmaceutical
+Sciences, Osaka University, Suita, Osaka 565-0871, Japan. Electronic address:
+kasai@phs.osaka-u.ac.jp.
+(3)Department of Electrical & Electronics Engineering, Shizuoka University,
+Hamamatsu, Shizuoka 432-8561, Japan.
+(4)Laboratory of Molecular Neuropharmacology, Graduate School of Pharmaceutical
+Sciences, Osaka University, Suita, Osaka 565-0871, Japan.
+(5)Division of Morphological Neuroscience, Gifu University Graduate School of
+Medicine, Gifu 501-1194, Japan; Center for Highly Advanced Integration of Nano
+and Life Sciences, Gifu University, Gifu 501-1194, Japan.
+(6)Laboratory of Molecular Neuropharmacology, Graduate School of Pharmaceutical
+Sciences, Osaka University, Suita, Osaka 565-0871, Japan; Department of
+Pharmacology, Graduate School of Dentistry, Osaka University, Suita, Osaka
+565-0871, Japan.
+(7)Systems Neuroscience Section, Primate Research Institute, Kyoto University,
+Inuyama, Aichi 484-8506, Japan.
+(8)Semel Institute for Neuroscience and Human Behavior, Intellectual Development 
+and Disabilities Research Center, The David Geffen School of Medicine, University
+of California, Los Angeles, Los Angeles, CA 90095, USA.
+(9)Laboratory of Molecular Neuropharmacology, Graduate School of Pharmaceutical
+Sciences, Osaka University, Suita, Osaka 565-0871, Japan; Semel Institute for
+Neuroscience and Human Behavior, Intellectual Development and Disabilities
+Research Center, The David Geffen School of Medicine, University of California,
+Los Angeles, Los Angeles, CA 90095, USA.
+(10)Department of Neuropsychiatry, School of Medicine, Keio University, Shinjuku,
+Tokyo 160-8582, Japan.
+(11)Molecular Research Center for Children's Mental Development, United Graduate 
+School of Child Development, Osaka University, Kanazawa University, Hamamatsu
+University School of Medicine, Chiba University and University of Fukui, Suita,
+Osaka 565-0871, Japan.
+(12)Molecular Research Center for Children's Mental Development, United Graduate 
+School of Child Development, Osaka University, Kanazawa University, Hamamatsu
+University School of Medicine, Chiba University and University of Fukui, Suita,
+Osaka 565-0871, Japan; Department of Psychiatry, Graduate School of Medicine,
+Osaka University, Suita, Osaka 565-0871, Japan.
+(13)Departments of Neuropsychiatry, Fukushima Medical University School of
+Medicine, Fukushima City, Fukushima 960-1295, Japan; Department of Psychiatry,
+Aizu Medical Center, School of Medicine, Fukushima Medical University,
+Aizuwakamatsu City, Fukushima 969-3492, Japan.
+(14)Departments of Neuropsychiatry, Fukushima Medical University School of
+Medicine, Fukushima City, Fukushima 960-1295, Japan.
+(15)The Institute of Scientific and Industrial Research, Osaka University,
+Ibaraki, Osaka 567-0047, Japan; Division of Bioscience, Institute for Datability 
+Science, Osaka University, Suita, Osaka 565-0871, Japan.
+(16)Department of Applied Physics, Graduate School of Engineering, Osaka
+University, Suita, Osaka 565-0871, Japan.
+(17)Department of Pharmacology, Graduate School of Dentistry, Osaka University,
+Suita, Osaka 565-0871, Japan.
+(18)Laboratory of Molecular Neuropharmacology, Graduate School of Pharmaceutical 
+Sciences, Osaka University, Suita, Osaka 565-0871, Japan; Faculty of
+Pharmaceutical Sciences, Hyogo University of Health Science, Chuo-ku, Kobe, Hyogo
+650-8530, Japan.
+(19)Laboratory of Molecular Neuropharmacology, Graduate School of Pharmaceutical 
+Sciences, Osaka University, Suita, Osaka 565-0871, Japan; Molecular Research
+Center for Children's Mental Development, United Graduate School of Child
+Development, Osaka University, Kanazawa University, Hamamatsu University School
+of Medicine, Chiba University and University of Fukui, Suita, Osaka 565-0871,
+Japan; Division of Bioscience, Institute for Datability Science, Osaka
+University, Suita, Osaka 565-0871, Japan. Electronic address:
+hasimoto@phs.osaka-u.ac.jp.
+
+Subcellular resolution imaging of the whole brain and subsequent image analysis
+are prerequisites for understanding anatomical and functional brain networks.
+Here, we have developed a very high-speed serial-sectioning imaging system named 
+FAST (block-face serial microscopy tomography), which acquires high-resolution
+images of a whole mouse brain in a speed range comparable to that of light-sheet 
+fluorescence microscopy. FAST enables complete visualization of the brain at a
+resolution sufficient to resolve all cells and their subcellular structures. FAST
+renders unbiased quantitative group comparisons of normal and disease model brain
+cells for the whole brain at a high spatial resolution. Furthermore, FAST is
+highly scalable to non-human primate brains and human postmortem brain tissues,
+and can visualize neuronal projections in a whole adult marmoset brain. Thus,
+FAST provides new opportunities for global approaches that will allow for a
+better understanding of brain systems in multiple animal models and in human
+diseases.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2017.05.017 
+PMID: 28641108  [Indexed for MEDLINE]
+

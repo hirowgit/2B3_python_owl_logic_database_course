@@ -1,0 +1,41 @@
+
+
+227. Cells. 2020 Nov 5;9(11). pii: E2422. doi: 10.3390/cells9112422.
+
+Controlling the Switch from Neurogenesis to Pluripotency during Marmoset Monkey
+Somatic Cell Reprogramming with Self-Replicating mRNAs and Small Molecules.
+
+Petkov S(1)(2), Dressel R(2)(3), Rodriguez-Polo I(1)(2), Behr R(1)(2).
+
+Author information: 
+(1)Platform Degenerative Diseases, German Primate Center, GmbH, Leibniz Institute
+for Primate Research, 37077 Göttingen, Germany.
+(2)German Center for Cardiovascular Research (DZHK), partner site Göttingen,
+37077 Göttingen, Germany.
+(3)Institute for Cellular and Molecular Immunology, University Medical Center
+Göttingen, 37077 Göttingen, Germany.
+
+Induced pluripotent stem cells (iPSCs) hold enormous potential for the
+development of cell-based therapies; however, the safety and efficacy of
+potential iPSC-based treatments need to be verified in relevant animal disease
+models before their application in the clinic. Here, we report the derivation of 
+iPSCs from common marmoset monkeys (Callithrix jacchus) using self-replicating
+mRNA vectors based on the Venezuelan equine encephalitis virus (VEE-mRNAs). By
+transfection of marmoset fibroblasts with VEE-mRNAs carrying the human OCT4,
+KLF4, SOX2, and c-MYC and culture in the presence of small molecule inhibitors
+CHIR99021 and SB431542, we first established intermediate primary colonies with
+neural progenitor-like properties. In the second reprogramming step, we converted
+these colonies into transgene-free pluripotent stem cells by further culturing
+them with customized marmoset iPSC medium in feeder-free conditions. Our
+experiments revealed a novel paradigm for flexible reprogramming of somatic
+cells, where primary colonies obtained by a single VEE-mRNA transfection can be
+directed either toward the neural lineage or further reprogrammed to
+pluripotency. These results (1) will further enhance the role of the common
+marmoset as animal disease model for preclinical testing of iPSC-based therapies 
+and (2) establish an in vitro system to experimentally address developmental
+signal transduction pathways in primates.
+
+DOI: 10.3390/cells9112422 
+PMCID: PMC7694496
+PMID: 33167468  [Indexed for MEDLINE]
+

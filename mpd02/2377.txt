@@ -1,0 +1,39 @@
+
+
+2377. Biol Reprod. 2007 Nov;77(5):754-64. Epub 2007 Jul 18.
+
+Dynamic regulation of histone H3 methylation at lysine 4 in mammalian
+spermatogenesis.
+
+Godmann M(1), Auger V, Ferraroni-Aguiar V, Di Sauro A, Sette C, Behr R, Kimmins
+S.
+
+Author information: 
+(1)Department of Animal Science, McGill University, Montreal, Quebec, Canada H9X 
+3V9.
+
+Spermatogenesis is a highly complex cell differentiation process that is governed
+by unique transcriptional regulation and massive chromatin alterations, which are
+required for meiosis and postmeiotic maturation. The underlying mechanisms
+involve alterations to the epigenetic layer, including histone modifications and 
+incorporation of testis-specific nuclear proteins, such as histone variants and
+protamines. Histones can undergo methylation, acetylation, and phosphorylation
+among other modifications at their N-terminus, and these modifications can signal
+changes in chromatin structure. We have identified the temporal and spatial
+distributions of histone H3 mono-, di-, and trimethylation at lysine 4 (K4), and 
+the lysine-specific histone demethylase AOF2 (amine oxidase flavin-containing
+domain 2, previously known as LSD1) during mammalian spermatogenesis. Our results
+reveal tightly regulated distributions of H3-K4 methylation and AOF2, and that
+H3-K4 methylation is very similar between the mouse and the marmoset. The AOF2
+protein levels were found to be higher in the testes than in the somatic tissues.
+The distribution of AOF2 matched the cell- and stage-specific patterns of H3-K4
+methylation. Interaction studies revealed unique epigenetic regulatory complexes 
+associated with H3-K4 methylation in the testis, including the association of
+AOF2 and methyl-CpG-binding domain protein 2 (MBD2a/b) in a complex with histone 
+deacetylase 1 (HDAC1). These studies enhance our understanding of epigenetic
+modifications and their roles in chromatin organization during male germ cell
+differentiation in both normal and pathologic states.
+
+DOI: 10.1095/biolreprod.107.062265 
+PMID: 17634443  [Indexed for MEDLINE]
+

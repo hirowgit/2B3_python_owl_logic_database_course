@@ -1,0 +1,41 @@
+
+
+2361. Psychopharmacology (Berl). 2008 Jan;195(4):509-16. Epub 2007 Sep 19.
+
+Neurobehavioral protection by single dose l-deprenyl against MPTP-induced
+parkinsonism in common marmosets.
+
+Ando K(1), Maeda J, Inaji M, Okauchi T, Obayashi S, Higuchi M, Suhara T, Tanioka 
+Y.
+
+Author information: 
+(1)Department of Marmoset Research, Central Institute for Experimental Animals,
+1430 Nogawa, Miyamaeku, Kawasaki 216-0001, Japan. ando@ciea.or.jp
+
+OBJECTIVE: Establishment of preclinical method evaluating behavioral protective
+actions of drugs for Parkinson's disease was attempted using l-deprenyl (DEP) as 
+a reference drug in 1-methyl-4-phenyl-1, 2, 3, 6-tetrahydropyridine
+(MPTP)-treated common marmosets.
+MATERIALS AND METHODS: Fifteen marmosets received MPTP at 2 mg/kg, subcutaneously
+(s.c.) per day for three consecutive days. To these marmosets, intragastric
+(i.g.) administration of DEP at 10 mg/kg was pretreated 2 h before each MPTP
+administration in DEP3 group and pretreated only in the first MPTP administration
+day in DEP1 group. As a control, distilled water (DW) was pretreated before each 
+MPTP administration (n = 5 for each of three groups).
+RESULTS: In DW group, decreased daily activity counts and increased dysfunction
+scores were persistently observed for 3 weeks after MPTP. In DEP groups, the
+similar changes of both levels to those in DW group were temporally observed
+after MPTP for several days and then the values recovered to the pre-MPTP levels.
+The results of autoradiography performed after above behavioral observations
+indicated that markedly lower bindings of [(11)C]PE2I (ligand for dopamine
+transporters) were observed at the striatum of DW group marmoset as compared with
+the striatum of additionally prepared MPTP-free marmoset (n = 5). The bindings in
+DEP groups were almost the same as in the MPTP-free marmoset brains.
+CONCLUSION: The present preclinical methods using continuous recording of
+activity of marmosets in their living cages and autoradiography using dopamine
+transporter ligand might be sensitive for detecting protective actions of drugs
+for Parkinson's disease.
+
+DOI: 10.1007/s00213-007-0929-2 
+PMID: 17879087  [Indexed for MEDLINE]
+

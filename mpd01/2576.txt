@@ -1,0 +1,76 @@
+
+
+2576. Eur J Nucl Med Mol Imaging. 2006 Jun;33(6):639-47. Epub 2006 Mar 8.
+
+Synthesis and evaluation of radioiodinated
+(S,S)-2-(alpha-(2-iodophenoxy)benzyl)morpholine for imaging brain norepinephrine 
+transporter.
+
+Kanegawa N(1), Kiyono Y, Kimura H, Sugita T, Kajiyama S, Kawashima H, Ueda M,
+Kuge Y, Saji H.
+
+Author information: 
+(1)Department of Patho-Functional Bioanalysis, Graduate School of Pharmaceutical 
+Sciences, Kyoto University, Sakyo-ku, Kyoto, 606-8501, Japan.
+
+PURPOSE: Abnormality of the brain norepinephrine transporter (NET) has been
+reported in several psychiatric and neuronal disorders. Since NET is an important
+target for the diagnosis of these diseases, the development of
+radiopharmaceuticals for imaging of brain NET has been eagerly awaited. In this
+study, we synthesized (S,S)-2-(alpha-(2-iodophenoxy)benzyl)morpholine
+[(S,S)-IPBM], a derivative of reboxetine iodinated at position 2 of the phenoxy
+ring, and evaluated its potential as a radiopharmaceutical for imaging brain NET 
+using SPECT.
+METHODS: (S,S)-(123/125)I-IPBM was synthesized in a halogen exchange reaction.
+The affinity and selectivity of (S,S)-IPBM for NET was measured by assaying the
+displacement of (3)H-nisoxetine and (S,S)-(125)I-IPBM from the binding site in
+rat brain membrane, respectively. The biodistribution of (S,S)-(125)I-IPBM was
+also determined in rats. Furthermore, SPECT studies with (S,S)-(123)I-IPBM were
+carried out in the common marmoset.
+RESULTS: (S,S)-(125)I-IPBM was prepared with high radiochemical yields (65%) and 
+high radiochemical purity (>98%). (S,S)-IPBM showed high affinity and selectivity
+for NET in the binding assay experiments. In biodistribution experiments,
+(S,S)-(125)I-IPBM showed rapid uptake in the brain, and the regional cerebral
+distribution was consistent with the density of NET. The administration of
+nisoxetine, a selective NET-binding agent, decreased the accumulation of
+(S,S)-(125)I-IPBM in the brain, but the administration of selective serotonin
+transporter and dopamine transporter binding agents caused no significant changes
+in the accumulation. Moreover, (S,S)-(123)I-IPBM allowed brain NET imaging in the
+common marmoset with SPECT.
+CONCLUSION: These results suggest that (S,S)-(123)I-IPBM is a potential SPECT
+radiopharmaceutical for imaging brain NET.
+
+DOI: 10.1007/s00259-005-0017-y 
+PMID: 16523308  [Indexed for MEDLINE]
+
+
+2577. J Vis. 2006 Feb 2;6(2):97-105.
+
+Contribution of chromatic aberrations to color signals in the primate visual
+system.
+
+Forte JD(1), Blessing EM, Buzás P, Martin PR.
+
+Author information: 
+(1)National Vision Research Institute of Australia, Department of Optometry and
+Vision Sciences, The University of Melbourne, Australia.
+jforte@optometry.unimelb.edu.au
+
+We measured responses to red-green color variation in parvocellular (PC) neurons 
+in the lateral geniculate nucleus of dichromatic ("red-green color blind")
+marmoset monkeys. Although these animals lack distinct visual pigments to
+distinguish between wavelengths in this range, many of the colored stimuli
+nevertheless produced robust responses in PC cells. We show that these responses,
+which are restricted to high stimulus spatial frequencies (fine image details),
+arise from chromatic aberrations in the eye. The neural signals produced by
+chromatic aberrations are of comparable magnitude to signals produced by
+high-frequency luminance (LUM) modulation and thus could influence cortical
+pathways for processing of color and object recognition. The fact that
+genetically "color-blind" primates are not necessarily blind to
+wavelength-dependent contours in the visual world may have enabled red-green
+color vision to become linked with high-acuity spatial vision during primate
+evolution.
+
+DOI: 10.1167/6.2.1 
+PMID: 16522137  [Indexed for MEDLINE]
+

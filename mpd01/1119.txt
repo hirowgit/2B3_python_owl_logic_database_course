@@ -1,0 +1,89 @@
+
+
+1119. Proc Natl Acad Sci U S A. 2016 Jan 19;113(3):781-6. doi: 10.1073/pnas.1516120113.
+Epub 2015 Dec 28.
+
+Complex pitch perception mechanisms are shared by humans and a New World monkey.
+
+Song X(1), Osmanski MS(2), Guo Y(2), Wang X(1).
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD 21205
+songxindong@jhmi.edu xiaoqin.wang@jhu.edu.
+(2)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD 21205.
+
+The perception of the pitch of harmonic complex sounds is a crucial function of
+human audition, especially in music and speech processing. Whether the underlying
+mechanisms of pitch perception are unique to humans, however, is unknown. Based
+on estimates of frequency resolution at the level of the auditory periphery,
+psychoacoustic studies in humans have revealed several primary features of
+central pitch mechanisms. It has been shown that (i) pitch strength of a harmonic
+tone is dominated by resolved harmonics; (ii) pitch of resolved harmonics is
+sensitive to the quality of spectral harmonicity; and (iii) pitch of unresolved
+harmonics is sensitive to the salience of temporal envelope cues. Here we show,
+for a standard musical tuning fundamental frequency of 440 Hz, that the common
+marmoset (Callithrix jacchus), a New World monkey with a hearing range similar to
+that of humans, exhibits all of the primary features of central pitch mechanisms 
+demonstrated in humans. Thus, marmosets and humans may share similar pitch
+perception mechanisms, suggesting that these mechanisms may have emerged early in
+primate evolution.
+
+DOI: 10.1073/pnas.1516120113 
+PMCID: PMC4725463
+PMID: 26712015  [Indexed for MEDLINE]
+
+
+1120. Tissue Eng Regen Med. 2015 Dec 28;13(1):100-109. doi: 10.1007/s13770-015-0106-3. 
+eCollection 2016 Feb.
+
+Behavior, PET and histology in novel regimen of MPTP marmoset model of
+Parkinson's disease for long-term stem cell therapy.
+
+Yun JW(1), Ahn JB(1)(2), Kwon E(1), Ahn JH(1)(2), Park HW(3), Heo H(4), Park
+JS(5), Kim H(4)(6), Paek SH(3), Kang BC(1)(2)(7).
+
+Author information: 
+(1)1Department of Experimental Animal Research, Biomedical Research Institute,
+Seoul National University Hospital, Seoul, Korea.
+(2)2Graduate School of Translational Medicine, Seoul National University College 
+of Medicine, Seoul, Korea.
+(3)3Department of Neurosurgery, Seoul National University College of Medicine,
+Seoul, Korea.
+(4)4Department of Biomedical Sciences, Seoul National University, Seoul, Korea.
+(5)5Department of Neurogenetics, Kolling Institute of Medical Research, Royal
+North Shore Hospital and the University of Sydney, St. Leonards, New South Wales,
+Australia.
+(6)6Department of Radiology, Seoul National University Hospital, Seoul, Korea.
+(7)7Designed Animal and Transplantation Research Institute, Institute of GreenBio
+Science Technology, Seoul National University, Pyeongchang, Korea.
+
+Stem cell technologies are particularly attractive in Parkinson's disease (PD)
+research although they occasionally need long-term treatment for
+anti-parkinsonian activity. Unfortunately,
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) widely used as a model for PD
+has several limitations, including the risk of dose-dependent mortality and the
+difficulty of maintenance of PD symptoms during the whole experiment period.
+Therefore, we tested if our novel MPTP regimen protocol (2 mg/kg for 2
+consecutive days and 1 mg/kg for next 3 consecutive days) can be maintained
+stable parkinsonism without mortality for long-term stem cell therapy. For this, 
+we used small-bodied common marmoset monkeys (Callithrix jacchus) among several
+nonhuman primates showing high anatomical, functional, and behavioral
+similarities to humans. Along with no mortality, the behavioral changes involved 
+in PD symptoms were maintained for 32 weeks. Also, the loss of jumping ability of
+the MPTP-treated marmosets in the Tower test was not recovered by 32 weeks.
+Positron emission tomography (PET) analysis revealed that remarkable decreases of
+bindings of 18F-FP-CIT were observed at the striatum of the brains of the
+marmosets received MPTP during the full period of the experiment for 32 weeks. In
+the substantia nigra of the marmosets, the loss of tyrosine hydroxylase (TH)
+immunoreactivity was also observed at 32 weeks following the MPTP treatment. In
+conclusion, our low-dose MPTP regimen protocol was found to be stable
+parkinsonism without mortality as evidenced by behavior, PET, and TH
+immunohistochemistry. This result will be useful for evaluation of possible
+long-term stem cell therapy for anti-parkinsonian activity.
+
+DOI: 10.1007/s13770-015-0106-3 
+PMCID: PMC6170997
+PMID: 30603390 
+

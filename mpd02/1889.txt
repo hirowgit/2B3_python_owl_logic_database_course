@@ -1,0 +1,43 @@
+
+
+1889. J Cell Physiol. 2011 Jul;226(7):1741-9. doi: 10.1002/jcp.22503.
+
+Characterization of BCAR4, a novel oncogene causing endocrine resistance in human
+breast cancer cells.
+
+Godinho M(1), Meijer D, Setyono-Han B, Dorssers LC, van Agthoven T.
+
+Author information: 
+(1)Department of Pathology, Josephine Nefkens Institute, Erasmus MC, University
+Medical Center, Rotterdam, The Netherlands.
+
+Resistance to the antiestrogen tamoxifen remains a major problem in the
+management of estrogen receptor-positive breast cancer. Knowledge on the
+resistance mechanisms is needed to develop more effective therapies. Breast
+cancer antiestrogen resistance 4 (BCAR4) was identified in a functional screen
+for genes involved in tamoxifen resistance. BCAR4 is expressed in 27% of primary 
+breast tumors. In patients treated with tamoxifen for metastized disease high
+BCAR4 mRNA levels are associated with reduced clinical benefit and
+progression-free survival. Regarding tumor aggressiveness high BCAR4 mRNA levels 
+are associated with a shorter metastasis free survival and overall survival. In
+the present study, we investigated the role of BCAR4 in endocrine resistance.
+Forced expression of BCAR4 in human ZR-75-1 and MCF7 breast cancer cells resulted
+in cell proliferation in the absence of estrogen and in the presence of various
+antiestrogens. Inhibition of estrogen receptor 1 (ESR1) expression with small
+interfering RNA (siRNA), implied that the BCAR4-induced mechanism of resistance
+is independent of ESR1. Highly conserved BCAR4 homologues of rhesus monkey, green
+monkey, and the less conserved common marmoset gene induced tamoxifen-resistant
+cell proliferation, in contrast to the distant BCAR4 homologues of bovine and
+rabbit. Injection of BCAR4-expressing ZR-75-1 cells into nude mice resulted in
+rapidly growing tumors. In silico analysis showed that BCAR4 mRNA is highly
+expressed in human placenta and oocyte, and absent in other normal tissues. In
+conclusion, BCAR4 is a strong transforming gene causing estrogen-independent
+growth and antiestrogen resistance, and induces tumor formation in vivo. Due to
+its restricted expression, BCAR4 may be a good target for treating
+antiestrogen-resistant breast cancer.
+
+Copyright © 2010 Wiley-Liss, Inc.
+
+DOI: 10.1002/jcp.22503 
+PMID: 21506106  [Indexed for MEDLINE]
+

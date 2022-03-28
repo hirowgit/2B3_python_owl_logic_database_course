@@ -1,0 +1,76 @@
+
+
+2302. J Virol. 2008 May;82(10):4706-19. doi: 10.1128/JVI.00116-08. Epub 2008 Mar 12.
+
+Histone hyperacetylation occurs on promoters of lytic cycle regulatory genes in
+Epstein-Barr virus-infected cell lines which are refractory to disruption of
+latency by histone deacetylase inhibitors.
+
+Countryman JK(1), Gradoville L, Miller G.
+
+Author information: 
+(1)Department of Molecular Biophysics and Biochemistry, Yale University School of
+Medicine, New Haven, CT 06520, USA.
+
+Activation of the Epstein-Barr virus (EBV) lytic cycle is mediated through the
+combined actions of ZEBRA and Rta, the products of the viral BZLF1 and BRLF1
+genes. During latency, these two genes are tightly repressed. Histone deacetylase
+inhibitors (HDACi) can activate viral lytic gene expression. Therefore, a widely 
+held hypothesis is that Zp and Rp, the promoters for BZLF1 and BRLF1, are
+repressed by chromatin and that hyperacetylation of histone tails, by allowing
+the access of positively acting factors, leads to transcription of BZLF1 and
+BRLF1. To investigate this hypothesis, we used chromatin immunoprecipitation
+(ChIP) to examine the acetylation and phosphorylation states of histones H3 and
+H4 on Zp and Rp in three cell lines, Raji, B95-8, and HH514-16, which differ in
+their response to EBV lytic induction by HDACi. We studied the effects of three
+HDACi, sodium butyrate (NaB), trichostatin A (TSA), and valproic acid (VPA). We
+also examined the effects of tetradecanoyl phorbol acetate (TPA) and
+5-aza-2'-deoxycytidine, a DNA methyltransferase inhibitor, on histone
+modification. In Raji cells, TPA and NaB act synergistically to activate the EBV 
+lytic cycle and promote an increase in histone H3 and H4 acetylation and
+phosphorylation at Zp and Rp. Surprisingly, however, when Raji cells were treated
+with NaB or TSA, neither of which is sufficient to activate the lytic cycle, an
+increase of comparable magnitude of hyperacetylated and phosphorylated histone H3
+at Zp and Rp was observed. In B95-8 cells, NaB inhibited lytic induction by TPA, 
+yet NaB promoted hyperacetylation of H3 and H4. In HH514-16 cells, NaB and TSA
+strongly activated the EBV lytic cycle and caused hyperacetylation of histone H3 
+on Zp and Rp. However, when HH514-16 cells were treated with VPA, lytic cycle
+mRNAs or proteins were not induced, although histone H3 was hyperacetylated as
+measured by immunoblotting or by ChIP on Zp and Rp. Taken together, our data
+suggest that open chromatin at EBV BZLF1 and BRLF1 promoters is not sufficient to
+activate EBV lytic cycle gene expression.
+
+DOI: 10.1128/JVI.00116-08 
+PMCID: PMC2346723
+PMID: 18337569  [Indexed for MEDLINE]
+
+
+2303. Epilepsy Behav. 2008 Jul;13(1):70-6. doi: 10.1016/j.yebeh.2008.02.010. Epub 2008 
+Mar 11.
+
+Behavioral characterization of pentylenetetrazol-induced seizures in the
+marmoset.
+
+Bachiega JC(1), Blanco MM, Perez-Mendes P, Cinini SM, Covolan L, Mello LE.
+
+Author information: 
+(1)Department of Physiology, Universidade Federal de São Paulo, Sao Paulo,
+Brazil.
+
+This study was designed to characterize seizures induced with pentylenetetrazol
+(PTZ) in marmosets. Thirteen adult marmosets (Callithrix sp.) received 20, 30, or
+40 mg/kg of PTZ intraperitoneally. PTZ caused all animals to switch their natural
+behavioral repertoire to early convulsive behavior. Seizure scores were low at
+lower PTZ doses, whereas the highest dose of PTZ led to seizure scores IV and V
+(according to Racine's scale) in 69% of animals. To further characterize the
+model we performed a preliminary evaluation of the efficacy of three
+antiepileptic drugs: phenobarbital, phenytoin, and carbamazepine. Phenobarbital
+prevented PTZ-induced seizures in 100% of trials. As expected, phenytoin and
+carbamazepine were not effective against PTZ-induced seizures. The present study 
+describes the PTZ model of seizures in marmosets with a drug-response profile
+similar to that of the rodent model, thus bringing to a well-known model (PTZ in 
+rodents) the complexity of a nonhuman primate brain.
+
+DOI: 10.1016/j.yebeh.2008.02.010 
+PMID: 18337181  [Indexed for MEDLINE]
+

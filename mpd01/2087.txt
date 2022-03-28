@@ -1,0 +1,65 @@
+
+
+2087. J Comp Neurol. 2009 Dec 10;517(5):655-69. doi: 10.1002/cne.22183.
+
+Synaptic inputs onto small bistratified (blue-ON/yellow-OFF) ganglion cells in
+marmoset retina.
+
+Percival KA(1), Jusuf PR, Martin PR, Grünert U.
+
+Author information: 
+(1)National Vision Research Institute of Australia, Carlton, Victoria 3053,
+Australia.
+
+The inner plexiform layer of the retina contains functional subdivisions, which
+segregate ON and OFF type light responses. Here, we studied quantitatively the ON
+and OFF synaptic input to small bistratified (blue-ON/yellow-OFF) ganglion cells 
+in marmosets (Callithrix jacchus). Small bistratified cells display an extensive 
+inner dendritic tier that receives blue-ON input from short-wavelength-sensitive 
+(S) cones via blue cone bipolar cells. The outer dendritic tier is sparse and is 
+thought to receive yellow-OFF input from medium (M)- and long
+(L)-wavelength-sensitive cones via OFF diffuse bipolar cells. In total, 14 small 
+bistratified cells from different eccentricities were analyzed. The cells were
+retrogradely labeled from the koniocellular layers of the lateral geniculate
+nucleus and subsequently photofilled. Retinal preparations were processed with
+antibodies against the C-terminal binding protein 2, the AMPA receptor subunit
+GluR4, and/or gephyrin to identify bipolar and/or amacrine input. The results
+show that the synaptic input is evenly distributed across the dendritic tree,
+with a density similar to that reported previously for other ganglion cell types.
+The population of cells showed a consistent pattern, where bipolar input to the
+inner tier is about fourfold greater than bipolar input to the outer tier. This
+structural asymmetry of bipolar input may help to balance the weight of cone
+signals from the sparse S cone array against inputs from the much denser M/L cone
+array.
+
+DOI: 10.1002/cne.22183 
+PMID: 19830807  [Indexed for MEDLINE]
+
+
+2088. J Neuroimmune Pharmacol. 2010 Jun;5(2):220-30. doi: 10.1007/s11481-009-9178-y.
+Epub 2009 Oct 14.
+
+Experimental autoimmune encephalomyelitis in the common marmoset, a bridge
+between rodent EAE and multiple sclerosis for immunotherapy development.
+
+Kap YS(1), Laman JD, 't Hart BA.
+
+Author information: 
+(1)Department of Immunobiology, Biomedical Primate Research Centre, P.O. Box
+3306, 2280, GH, Rijswijk, The Netherlands.
+
+The attrition rate of new drugs for central nervous system diseases including
+multiple sclerosis (MS) is very high. A widely recognized bottleneck in the
+selection of promising central nervous system drug candidates from the
+development pipeline is the lack of sufficiently predictive animal models. Here, 
+we review how the experimental autoimmune encephalomyelitis (EAE) model in the
+Neotropical primate "common marmoset" can help to bridge the gap between rodent
+EAE models and MS. The EAE model in the marmoset closely resembles MS in the
+clinical as well as pathological presentation and can be used for fundamental
+research into immunopathogenic mechanisms and for therapy development. We discuss
+recent insights arising from this model, both on novel therapeutics and
+immunopathogenesis.
+
+DOI: 10.1007/s11481-009-9178-y 
+PMID: 19826959  [Indexed for MEDLINE]
+

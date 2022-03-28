@@ -1,0 +1,93 @@
+
+
+725. Mol Reprod Dev. 2018 May;85(5):376-386. doi: 10.1002/mrd.22971. Epub 2018 Mar 23.
+
+Oocyte-activating capacity of fresh and frozen-thawed spermatids in the common
+marmoset (Callithrix jacchus).
+
+Ogonuki N(1), Inoue H(1), Matoba S(1), Kurotaki YK(2), Kassai H(3), Abe Y(3),
+Sasaki E(2)(4), Aiba A(3), Ogura A(1)(3)(5).
+
+Author information: 
+(1)RIKEN BioResource Center, Tsukuba, Ibaraki, Japan.
+(2)Department of Marmoset Research, Central Institute for Experimental Animals,
+Kawasaki, Kanagawa, Japan.
+(3)Center for Disease Biology and Integrative Medicine, Graduate School of
+Medicine, The University of Tokyo, Tokyo, Japan.
+(4)Keio Advanced Research Center, Keio University, Shinjuku-ku, Tokyo, Japan.
+(5)Graduate School of Life and Environmental Science, University of Tsukuba,
+Ibaraki, Japan.
+
+The common marmoset (Callithrix jacchus) represents a promising nonhuman primate 
+model for the study of human diseases because of its small size, ease of
+handling, and availability of gene-modified animals. Here, we aimed to devise
+reproductive technology for marmoset spermatid injection using immature males for
+a possible rapid generational turnover. Spermatids at each step could be
+identified easily by their morphology under differential interference microscopy:
+thus, early round spermatids had a round nucleus with a few nucleolus-like
+structures and abundant cytoplasm, as in other mammals. The spermatids acquired
+oocyte-activating capacity at the late round spermatid stage, as confirmed by the
+resumption of meiosis and Ca2+ oscillations upon injection into mouse oocytes.
+The spermatids could be cryopreserved efficiently with a simple medium containing
+glycerol and CELL BANKER®. Late round or elongated spermatids first appeared at
+10-12 months of age, 6-8 months before sexual maturation. Marmoset oocytes
+microinjected with frozen-thawed late round or elongated spermatids retrieved
+from a 12-month-old male marmoset developed to the 8-cell stage without the need 
+for artificial oocyte activation stimulation. Thus, it might be possible to
+shorten the intergeneration time by spermatid injection, from 2 years (by natural
+mating) to 13-15 months including gestation.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/mrd.22971 
+PMID: 29457675  [Indexed for MEDLINE]
+
+
+726. Neurol Res. 2018 Apr;40(4):303-311. doi: 10.1080/01616412.2018.1438226. Epub 2018
+Feb 19.
+
+Vocalization development in common marmosets for neurodegenerative translational 
+modeling.
+
+Jones CA(1)(2)(3)(4), Duffy MK(2), Hoffman SA(2), Schultz-Darken NJ(2), Braun
+KM(2), Ciucci MR(1)(3)(4), Emborg ME(1)(2)(5).
+
+Author information: 
+(1)a Neuroscience Training Program, University of Wisconsin-Madison , Madison ,
+WI , USA.
+(2)b Wisconsin National Primate Research Center , University of Wisconsin-Madison
+, Madison , WI , USA.
+(3)c Communication Sciences & Disorders , University of Wisconsin-Madison ,
+Madison , WI , USA.
+(4)d Surgery - Division of Otolaryngology, Head & Neck Surgery , University of
+Wisconsin-Madison , Madison , WI , USA.
+(5)e Medical Physics , University of Wisconsin-Madison , Madison , WI , USA.
+
+Objectives In order to facilitate the study of vocalizations in emerging genetic 
+common marmoset models of neurodegenerative disorders, we aimed to analyze
+call-type changes across age in a translational research environment. We
+hypothesized that acoustic parameters of vocalizations would change with age,
+reflecting growth of the vocal apparatus and a maturation of control needed to
+make adult-like calls. Methods Nineteen developing common marmosets were
+longitudinally video- and audio-recorded between the ages of 1-149 days in a
+naturalistic setting without any vocalization elicitation protocol. Vocalizations
+were coded for call type (cry, tsik, trill, phee, and trill-phee) and analyzed
+for duration (sec), minimum and maximum frequency (Hz), and bandwidth (Hz). Mixed
+model linear regressions were performed to assess the effects of age on call
+parameters listed above for each call type. Results Cries decreased in duration
+(P = 0.038), maximum frequency (P = 0.047), and bandwidth (P = 0.023) with age.
+Tsik calls decreased in duration (P = 0.002) and increased in minimum frequency
+(P = 0.004) and maximum frequency (P = 0.005) with age. Trill calls increased in 
+duration (P = 0.003), and trillphee bandwidth (P = 0.031) decreased with age.
+Discussion Our results demonstrate that development of common marmoset
+vocalizations is call type dependent and that changes in acoustic parameters can 
+be detected without complex vocalization elicitation paradigms or specialized
+audio recording equipment. Thus, we demonstrate the feasibility of a naturalistic
+protocol to collect and objectively analyze marmoset vocalizations
+longitudinally. This approach may be useful for studying vocal communication
+deficits in genetic models of neurodegenerative disorders.
+
+DOI: 10.1080/01616412.2018.1438226 
+PMCID: PMC6083835
+PMID: 29457539  [Indexed for MEDLINE]
+

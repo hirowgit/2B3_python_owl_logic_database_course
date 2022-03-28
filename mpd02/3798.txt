@@ -1,0 +1,51 @@
+
+
+3798. Br J Pharmacol. 1996 Apr;117(8):1679-84.
+
+5-HT3 and 5-HT4 receptor-mediated facilitation of the emptying phase of the
+peristaltic reflex in the marmoset isolated ileum.
+
+Tuladhar BR(1), Costall B, Naylor RJ.
+
+Author information: 
+(1)School of Pharmacy, University of Bradford.
+
+1. The patterns of intestinal motility and the effect of an increase in
+intraluminal pressure were studied in vitro on segments obtained from the
+marmoset small intestine. 2. Segments obtained from the distal half of the
+marmoset small intestine exhibited segmentation, consisting of narrow annular
+contractions (lasting for 2-3 s) interposed between the relaxed segments of
+varying length. The subsequent contractions occurred slightly distal to the
+previous contraction, with ring-like contractions appearing to move in the aboral
+direction. Such segmentation was infrequent or absent in the segments obtained
+from the proximal half of the small intestine. An increase in intraluminal
+pressure inhibited segmentation and finally produced peristalsis in most of the
+tissues. 3. The influence of 5-hydroxytryptamine (5-HT) receptor agonists and
+antagonists on the threshold of the peristaltic reflex was investigated in the
+segments obtained from the distal half of the intestine after segmentation had
+subsided. The effect of drug application to the serosal surface was measured as a
+change in threshold pressure required to trigger the peristaltic reflex. A
+facilitation was defined in two ways (a) as a reduction in the threshold pressure
+required to trigger the reflex and (b) in those tissues that failed to respond
+with peristalsis on raising intraluminal pressure to the maximum attainable (1
+kPa), as a reduction in threshold pressure compared to this value. 4. 5-HT (7.85 
++/- 0.19), 5-methoxytryptamine (7.79 +/- 0.24), 5-carboxamidotryptamine (6.66 +/-
+0.13) and 2-methyl-5-HT (6.24 +/- 0.16) caused a concentration related
+facilitation of the peristaltic reflex, the pD2 values (mean +/- s.e.mean) being 
+shown in parentheses. 5. The concentration-response curves to both 5-HT and
+5-methoxytryptamine were dextrally shifted in a surmountable manner in the
+presence of GR 113808 (30 nM). pD2 values for 5-HT and 5-methoxytryptamine were
+significantly decreased to 6.98 +/- 0.24 and 6.83 +/- 0.36 respectively in the
+presence of GR 113808 (30 nM). 6. In the presence of a high concentration of (10 
+microM) 5-methoxytryptamine the subsequent addition of 2-methyl-5-HT (3-10
+microM) but not 5-methoxytryptamine (10 microM) facilitated peristalsis; the
+effect of 3 microM 2-methyl-5-HT was significantly decreased by 2 microM
+ondansetron. 7. It is concluded that the facilitation of the peristaltic reflex
+in the marmoset intestine induced by 5-HT at submicromolar concentrations
+involves a 5-HT4 receptor stimulation with an additional 5-HT3 receptor
+activation at higher concentrations.
+
+DOI: 10.1111/j.1476-5381.1996.tb15339.x 
+PMCID: PMC1909546
+PMID: 8732276  [Indexed for MEDLINE]
+

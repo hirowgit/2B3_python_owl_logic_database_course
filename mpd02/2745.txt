@@ -1,0 +1,37 @@
+
+
+2745. Exp Clin Endocrinol Diabetes. 2004 Nov;112(10):574-9.
+
+The carboxyterminal peptide of chorionic gonadotropin facilitates activation of
+the marmoset LH receptor.
+
+Müller T(1), Gromoll J, Simula AP, Norman R, Sandhowe-Klaverkamp R, Simoni M.
+
+Author information: 
+(1)Institute of Reproductive Medicine of the University of Münster, Münster,
+Germany.
+
+Luteinizing hormone (LH) and chorionic gonadotropin (CG) are heterodimeric
+glycoprotein hormones acting on the luteinizing hormone receptor (LHR). In the
+LHR, which is genomically encoded by eleven exons, exon 10 encodes for the hinge 
+region and its elimination impairs LH action, while CG maintains normal activity.
+The two gonadotropins differ in the carboxyterminal peptide (CTP) present in CG
+but absent in LH. Since the marmoset monkey (Callithrix jacchus) LHR naturally
+lacks exon 10 (LHR type II), we generated two recombinant marmoset gonadotropin
+preparations, one consisting of the wild type CG and one of truncated CG lacking 
+the CTP (CG (-CTP)). After calibration in a mouse Leydig cell bioassay against
+the WHO LH80/522 standard, the ED (50) of the CG preparation on a COS7 cell line 
+permanently expressing the marmoset LHR was 4.25 +/- 0.21 IU/L (n = 3).
+Stimulation of the COS7 cell line with equipotent concentrations of CG and CG
+(-CTP) resulted in significantly different formation of cAMP (two-way ANOVA, p < 
+0.001). In particular, cAMP production stimulated by CG (-CTP) was 3 - 4 times
+lower compared to CG at the saturating CG concentration (8 IU/L). We conclude,
+supplementing one current model of LHR activation, that exon 10 might play a
+permissive role in releasing the constraint of the receptor upon hormone binding,
+resulting in receptor activation. We speculate that, when exon 10 is lacking, the
+CTP can overcome its absence and facilitates the opening of the receptor,
+resulting in normal activation.
+
+DOI: 10.1055/s-2004-830409 
+PMID: 15578332  [Indexed for MEDLINE]
+

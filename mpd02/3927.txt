@@ -1,0 +1,36 @@
+
+
+3927. Genomics. 1995 Feb 10;25(3):623-9.
+
+The immunoglobulin kappa locus of primates.
+
+Ermert K(1), Mitlöhner H, Schempp W, Zachau HG.
+
+Author information: 
+(1)Institut für Physiologische Chemie der Universität München, Munich, Germany.
+
+The immunoglobulin kappa genes of nonhuman primates were studied by using
+sequence information and hybridization probes derived from the human kappa gene
+regions. The following results were obtained: (1) V kappa gene probes of the
+three major human kappa subgroups hybridized to restriction nuclease digests of
+DNA from the chimpanzees Pan troglodytes (PTR) and Pan paniscus (PPA), the
+gorilla Gorilla gorilla (GGO), the orangutan Pongo pygmaeus (PPY), the macaque
+Macaca mulatta (MMU), the marmoset Callithrix geoffrei (CGE), and the bushbaby
+Galago demidovii (GDE), yielding patterns of decreasing similarity to the
+patterns of the human V kappa multigene family. (2) The C kappa gene segments of 
+PTR, GGO, and PPY were 99.6, 97, and 93%, respectively, identical in sequence to 
+the human C kappa gene. A V kappa gene in PTR, GGO, PPY, and MMU was 98, 96, 96, 
+and 95%, respectively, identical to the most C kappa proximal V kappa gene,
+called B3. The other two J kappa-C kappa proximal V kappa genes in human, B1 and 
+B2, hybridize to restriction fragments of sizes identical to that of DNA from
+humans and great apes. (3) The long-range restriction maps of the human (HSA),
+PTR, and GGO kappa loci as established by pulsed-field gel electrophoresis (PFGE)
+are quite homologous. According to the maps, however, and to hybridization
+studies with 11 duplication-differentiating probes, there is only one copy of the
+locus in PTR and GGO. This means that the duplication of large parts of the kappa
+locus as found in humans occurred after the branch-point of human and great ape
+evolution.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+DOI: 10.1016/0888-7543(95)80003-5 
+PMID: 7759095  [Indexed for MEDLINE]
+

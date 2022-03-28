@@ -1,0 +1,69 @@
+
+
+610. Primates. 2018 Nov;59(6):553-570. doi: 10.1007/s10329-018-0694-3. Epub 2018 Oct
+24.
+
+The Japan Monkey Centre Primates Brain Imaging Repository for comparative
+neuroscience: an archive of digital records including records for endangered
+species.
+
+Sakai T(1)(2)(3)(4), Hata J(5)(6)(7), Ohta H(6), Shintaku Y(8)(9), Kimura N(9),
+Ogawa Y(6), Sogabe K(10), Mori S(11)(12), Okano HJ(6), Hamada Y(13), Shibata
+S(5), Okano H(5)(7), Oishi K(11).
+
+Author information: 
+(1)The Russell H. Morgan Department of Radiology and Radiological Science, The
+Johns Hopkins University School of Medicine, Baltimore, USA.
+sakai.tomoko.5w@gmail.com.
+(2)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+sakai.tomoko.5w@gmail.com.
+(3)Division of Regenerative Medicine, The Jikei University School of Medicine,
+Tokyo, Japan. sakai.tomoko.5w@gmail.com.
+(4)Japan Society for the Promotion of Science, Tokyo, Japan.
+sakai.tomoko.5w@gmail.com.
+(5)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+(6)Division of Regenerative Medicine, The Jikei University School of Medicine,
+Tokyo, Japan.
+(7)Laboratory for Marmoset Neural Architecture, RIKEN Brain Science Institute,
+Wako, Saitama, Japan.
+(8)Wildlife Research Center, Kyoto University, Kyoto, Japan.
+(9)Japan Monkey Centre, Inuyama, Japan.
+(10)Faculty of Health Sciences, Graduate School of Human Health Sciences, Tokyo
+Metropolitan University, Tokyo, Japan.
+(11)The Russell H. Morgan Department of Radiology and Radiological Science, The
+Johns Hopkins University School of Medicine, Baltimore, USA.
+(12)F.M. Kirby Research Center for Functional Brain Imaging, Kenney Krieger
+Institute, Baltimore, USA.
+(13)Primate Research Institute, Kyoto University, Inuyama, Japan.
+
+Advances in magnetic resonance imaging (MRI) and computational analysis
+technology have enabled comparisons among various primate brains in a
+three-dimensional electronic format. Results from comparative studies provide
+information about common features across primates and species-specific features
+of neuroanatomy. Investigation of various species of non-human primates is
+important for understanding such features, but the majority of comparative MRI
+studies have been based on experimental primates, such as common marmoset,
+macaques, and chimpanzee. A major obstacle has been the lack of a database that
+includes non-experimental primates' brain MRIs. To facilitate scientific
+discoveries in the field of comparative neuroanatomy and brain evolution, we
+launched a collaborative project to develop an open-resource repository of
+non-human primate brain images obtained using ex vivo MRI. As an initial open
+resource, here we release a collection of structural MRI and diffusion tensor
+images obtained from 12 species: pygmy marmoset, owl monkey, white-fronted
+capuchin, crab-eating macaque, Japanese macaque, bonnet macaque, toque macaque,
+Sykes' monkey, red-tailed monkey, Schmidt's guenon, de Brazza's guenon, and lar
+gibbon. Sixteen postmortem brain samples from the 12 species, stored in the Japan
+Monkey Centre (JMC), were scanned using a 9.4-T MRI scanner and made available
+through the JMC collaborative research program (
+http://www.j-monkey.jp/BIR/index_e.html ). The expected significant contributions
+of the JMC Primates Brain Imaging Repository include (1) resources for
+comparative neuroscience research, (2) preservation of various primate brains,
+including those of endangered species, in a permanent digital form, (3) resources
+with higher resolution for identifying neuroanatomical features, compared to
+previous MRI atlases, (4) resources for optimizing methods of scanning large
+fixed brains, and (5) references for veterinary neuroradiology. User-initiated
+research projects beyond these contributions are also anticipated.
+
+DOI: 10.1007/s10329-018-0694-3 
+PMID: 30357587  [Indexed for MEDLINE]
+

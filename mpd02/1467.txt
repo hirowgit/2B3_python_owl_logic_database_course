@@ -1,0 +1,50 @@
+
+
+1467. Proc Natl Acad Sci U S A. 2014 Jan 28;111(4):1467-72. doi:
+10.1073/pnas.1316037111. Epub 2013 Dec 30.
+
+Evolutionary genetics and implications of small size and twinning in
+callitrichine primates.
+
+Harris RA(1), Tardif SD, Vinar T, Wildman DE, Rutherford JN, Rogers J, Worley KC,
+Aagaard KM.
+
+Author information: 
+(1)Departments of Obstetrics and Gynecology, Division of Maternal-Fetal Medicine 
+and Molecular and Human Genetics, Human Genome Sequencing Center, and Department 
+of Molecular and Cell Biology and the Reproductive Medicine Center, Baylor
+College of Medicine, Houston, TX 77030.
+
+New World monkeys (NWMs) are characterized by an extensive size range, with
+clawed NWMs (subfamily Callitrichinae, or callitrichines) such as the common
+marmoset manifesting diminutive size and unique reproductive adaptations. Perhaps
+the most notable of these adaptations is their propensity toward multiple
+gestations (i.e., dichorionic twins and trichorionic triplets). Indeed, with the 
+exception of Goeldi's monkey (Callimico), callitrichine singleton pregnancies
+rarely occur. Multiple gestations seem to have coevolved with a suite of
+reproductive adaptations, including hematopoetic chimerism of siblings,
+suppression of reproduction in nondominant females, and cooperative
+alloparenting. The sequencing of the common marmoset (Callithrix jacchus) genome 
+offers the opportunity to explore the genetic basis of these unusual traits
+within this primate lineage. In this study, we hypothesized that genetic changes 
+arising during callitrichine evolution resulted in multiple ovulated ova with
+each cycle, and that these changes triggered adaptations that minimized
+complications common to multiple gestations in other primates, including humans. 
+Callitrichine-specific nonsynonymous substitutions were identified in GDF9,
+BMP15, BMP4, and WFIKKN1. WFIKKN1, a multidomain protease inhibitor that binds
+growth factors and bone morphogenetic proteins, has nonsynonymous changes found
+exclusively in common marmosets and other tested callitrichine species that twin.
+In the one callitrichine species that does not produce twins (Callimico), this
+change has reverted back to the ancestral (nontwinning) primate sequence.
+Polymorphisms in GDF9 occur among human cohorts with a propensity for dizygotic
+twins, and polymorphisms in GDF9 and BMP15 are associated with twinning in sheep.
+We postulate that positive selection affected NWM growth patterns, with
+callitrichine miniaturization coevolving with a series of reproductive
+adaptations.
+
+DOI: 10.1073/pnas.1316037111 
+PMCID: PMC3910650
+PMID: 24379383  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

@@ -1,0 +1,35 @@
+
+
+1668. Methods Mol Biol. 2012;925:21-48. doi: 10.1007/978-1-62703-011-3_2.
+
+Derivation of induced pluripotent stem cells by retroviral gene transduction in
+mammalian species.
+
+Imamura M(1), Okuno H, Tomioka I, Kawamura Y, Lin ZY, Nakajima R, Akamatsu W,
+Okano HJ, Matsuzaki Y, Sasaki E, Okano H.
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan.
+
+Pluripotent stem cells can provide us with an enormous cell source for in vitro
+model systems for development. In 2006, new methodology was designed to generate 
+pluripotent stem cells directly from somatic cells, and these cells were named
+induced pluripotent stem cells (iPSCs). This method consists of technically
+simple procedures: donor cell preparation, gene transduction, and isolation of
+embryonic stem cell-like colonies. The iPSC technology enables cell biologists
+not only to obtain pluripotent stem cells easily but also to study the
+reprogramming events themselves. Here, we describe the protocols to generate
+iPSCs from somatic origins by using conventional viral vectors. Specifically, we 
+state the usage of three mammalian species: mouse, common marmoset, and human. As
+mouse iPSC donors, fibroblasts are easily prepared, while mesenchymal stem cells 
+are expected to give rise to highly reprogrammed iPSCs efficiently. Common
+marmoset (Callithrix jacchus), a nonhuman primate, represents an alternative
+model to the usual laboratory animals. Finally, patient-specific human iPSCs give
+us an opportunity to examine the pathology and mechanisms of dysregulated genomic
+imprinting. The iPSC technology will serve as a valuable method for studying
+genomic imprinting, and conversely, the insights from these studies will offer
+valuable criteria to assess the potential of iPSCs.
+
+DOI: 10.1007/978-1-62703-011-3_2 
+PMID: 22907488  [Indexed for MEDLINE]
+

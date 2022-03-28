@@ -1,0 +1,77 @@
+
+
+2482. J Acoust Soc Am. 2006 Sep;120(3):1655-70.
+
+Acoustic analysis of vocal development in a New World primate, the common
+marmoset (Callithrix jacchus).
+
+Pistorio AL(1), Vintch B, Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA.
+
+In contrast to humans and songbirds, there is limited evidence of vocal learning 
+in nonhuman primates. While previous studies suggested that primate vocalizations
+exhibit developmental changes, detailed analyses of the extent and time course of
+such changes across a species' vocal repertoire remain limited. In a highly vocal
+primate, the common marmoset (Callithrix jacchus), we studied developmental
+changes in the acoustic structure of species-specific communication sounds
+produced in a social setting. We performed detailed acoustic analyses of the
+spectral and temporal characteristics of marmoset vocalizations during
+development, comparing differences between genders and twin pairs, as well as
+with vocalizations from adult marmosets residing in the same colony. Our analyses
+revealed significant changes in spectral and temporal features as well as
+variability of particular call types over time. Infant and juvenile vocalizations
+changed progressively toward the vocalizations produced by adult marmosets. Call 
+types observed early in development that were unique to infants disappeared
+gradually with age, while vocal exchanges with conspecifics emerged. Our
+observations clearly indicate that marmoset vocalizations undergo both
+qualitative and quantitative postnatal changes, establishing the basis for
+further studies to delineate contributions from maturation of the vocal apparatus
+and behavioral experience.
+
+DOI: 10.1121/1.2225899 
+PMID: 17004487  [Indexed for MEDLINE]
+
+
+2483. ChemMedChem. 2006 Nov;1(11):1237-48.
+
+Protein-structure-based prediction of animal model suitability for
+pharmacodynamic studies of subtype-selective estrogens.
+
+Toschi L(1), Hilbig J, Wintermantel T, Engelhaupt A, Walter A, Fritzemeier KH,
+Hillisch A.
+
+Author information: 
+(1)Department of Genomics and Bioinformatics, Schering AG, Müllerstrasse 170-178,
+13342 Berlin, Germany. luisella.toschi@schering.de
+
+Subtype-selective estrogens are of increasing importance as tools used to unravel
+physiological roles of the estrogen receptors, ERalpha and ERbeta, in various
+species. Although human ERalpha and ERbeta differ by only two amino acids within 
+the binding pockets, we and others recently succeeded in generating
+subtype-selective agonists. We have proposed that the selectivity of the
+steroidal compounds 16alpha-lactone-estradiol (16alpha-LE(2), hERalpha selective)
+and 8beta-vinyl-estradiol (8beta-VE(2), hERbeta selective) is based on the
+interaction of certain substituents of these compounds with essentially one amino
+acid in the respective ER binding pockets. For in vitro and ex vivo
+pharmacological experiments with these compounds we intended to use bovine
+tissues available from slaughterhouses in larger quantities. Using homology
+modeling techniques we determined that the amino acid conferring high
+hERbeta-selectivity to 8beta-VE(2) is not exchanged between human and bovine
+ERalpha and bovine ERbeta. Thus, we predicted our steroidal hERbeta-selective
+compound to exhibit only weak agonistic activity at bERbeta and that bovine
+tissue is therefore not suited for investigation of ERbeta functions. The
+situation is presumably identical for pig, sheep, and the common marmoset,
+whereas rats, mice, and rhesus macaques are appropriate animal models to study
+pharmacological effects of 8beta-VE(2) in vivo. This prediction was confirmed in 
+transactivation studies assessing estradiol (E(2)) and the two subtype-selective 
+ligands on bovine ERbeta and on a series of hERalpha and hERbeta with mutations
+in their respective ligand-binding pockets. We have shown that the detailed
+understanding of the interactions of a compound with its target protein enables
+the identification of relevant species for pharmacological studies.
+
+DOI: 10.1002/cmdc.200600183 
+PMID: 17001712  [Indexed for MEDLINE]
+

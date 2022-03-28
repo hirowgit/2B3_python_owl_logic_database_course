@@ -1,0 +1,40 @@
+
+
+1049. Cereb Cortex. 2017 May 1;27(5):2793-2808. doi: 10.1093/cercor/bhw124.
+
+Spectral Signatures of Feedforward and Recurrent Circuitry in Monkey Area MT.
+
+Solomon SS(1)(2), Morley JW(3), Solomon SG(4).
+
+Author information: 
+(1)Discipline of Physiology, School of Medical Sciences and Bosch Institute, The 
+University of Sydney, Sydney, NSW 2006, Australia.
+(2)Dominick P. Purpura Department of Neuroscience, Albert Einstein College of
+Medicine, Bronx, NY 10461, USA.
+(3)School of Medicine, Western Sydney University, Campbelltown, NSW 2560,
+Australia.
+(4)Department of Experimental Psychology, University College London, London WC1P 
+0AH, UK.
+
+Recordings of local field potential (LFP) in the visual cortex can show rhythmic 
+activity at gamma frequencies (30-100 Hz). While the gamma rhythms in the primary
+visual cortex have been well studied, the structural and functional
+characteristics of gamma rhythms in extrastriate visual cortex are less clear.
+Here, we studied the spatial distribution and functional specificity of gamma
+rhythms in extrastriate middle temporal (MT) area of visual cortex in marmoset
+monkeys. We found that moving gratings induced narrowband gamma rhythms across
+cortical layers that were coherent across much of area MT. Moving dot fields
+instead induced a broadband increase in LFP in middle and upper layers, with
+weaker narrowband gamma rhythms in deeper layers. The stimulus dependence of LFP 
+response in middle and upper layers of area MT appears to reflect the presence
+(gratings) or absence (dot fields and other textures) of strongly oriented
+contours. Our results suggest that gamma rhythms in these layers are propagated
+from earlier visual cortex, while those in the deeper layers may emerge in area
+MT.
+
+© The Author 2016. Published by Oxford University Press. All rights reserved. For
+Permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhw124 
+PMID: 27170655  [Indexed for MEDLINE]
+

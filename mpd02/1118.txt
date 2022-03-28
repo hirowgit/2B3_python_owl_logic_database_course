@@ -1,0 +1,40 @@
+
+
+1118. Toxicol Rep. 2016;3:29-45.
+
+Sequencing the exposome: A call to action.
+
+Jones DP(1).
+
+Author information: 
+(1)Department of Medicine, Emory University, Atlanta GA 30322 USA.
+
+The exposome is a complement to the genome that includes non-genetic causes of
+disease. Multiple definitions are available, with salient points being global
+inclusion of exposures and behaviors, and cumulative integration of associated
+biologic responses. As such, the concept is both refreshingly simple and
+dauntingly complex. This article reviews high-resolution metabolomics (HRM) as an
+affordable approach to routinely analyze samples for a broad spectrum of
+environmental chemicals and biologic responses. HRM has been successfully used in
+multiple exposome research paradigms and is suitable to implement in a prototype 
+universal exposure surveillance system. Development of such a structure for
+systematic monitoring of environmental exposures is an important step toward
+sequencing the exposome because it builds upon successes of exposure science,
+naturally connects external exposure to body burden and partitions the exposome
+into workable components. Practical results would be repositories of quantitative
+data on chemicals according to geography and biology. This would support new
+opportunities for environmental health analysis and predictive modeling.
+Complementary approaches to hasten development of exposome theory and associated 
+biologic response networks could include experimental studies with model systems,
+analysis of archival samples from longitudinal studies with outcome data and
+study of relatively short-lived animals, such as household pets (dogs and cats)
+and non-human primates (common marmoset). International investment and
+cooperation to sequence the human exposome will advance scientific knowledge and 
+also provide an important foundation to control adverse environmental exposures
+to sustain healthy living spaces and improve prediction and management of
+disease.
+
+DOI: 10.1016/j.toxrep.2015.11.009 
+PMCID: PMC4692045
+PMID: 26722641 
+

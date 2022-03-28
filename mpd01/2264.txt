@@ -1,0 +1,75 @@
+
+
+2264. PLoS Genet. 2008 Jun 20;4(6):e1000100. doi: 10.1371/journal.pgen.1000100.
+
+An evolutionarily conserved sexual signature in the primate brain.
+
+Reinius B(1), Saetre P, Leonard JA, Blekhman R, Merino-Martinez R, Gilad Y, Jazin
+E.
+
+Author information: 
+(1)Department of Development and Genetics, Uppsala University, Uppsala, Sweden.
+
+The question of a potential biological sexual signature in the human brain is a
+heavily disputed subject. In order to provide further insight into this issue, we
+used an evolutionary approach to identify genes with sex differences in brain
+expression level among primates. We reasoned that expression patterns important
+to uphold key male and female characteristics may be conserved during evolution. 
+We selected cortex for our studies because this specific brain region is
+responsible for many higher behavioral functions. We compared gene expression
+profiles in the occipital cortex of male and female humans (Homo sapiens, a great
+ape) and cynomolgus macaques (Macaca fascicularis, an old world monkey), two
+catarrhine species that show abundant morphological sexual dimorphism, as well as
+in common marmosets (Callithrix Jacchus, a new world monkey) which are relatively
+sexually monomorphic. We identified hundreds of genes with sex-biased expression 
+patterns in humans and macaques, while fewer than ten were differentially
+expressed between the sexes in marmosets. In primates, a general rule is that
+many of the morphological and behavioral sexual dimorphisms seen in polygamous
+species, such as macaques, are typically less pronounced in monogamous species
+such as the marmosets. Our observations suggest that this correlation may also be
+reflected in the extent of sex-biased gene expression in the brain. We identified
+85 genes with common sex-biased expression, in both human and macaque and 2
+genes, X inactivation-specific transcript (XIST) and Heat shock factor binding
+protein 1 (HSBP1), that were consistently sex-biased in the female direction in
+human, macaque, and marmoset. These observations imply a conserved signature of
+sexual gene expression dimorphism in cortex of primates. Further, we found that
+the coding region of female-biased genes is more evolutionarily constrained
+compared to the coding region of both male-biased and non sex-biased brain
+expressed genes. We found genes with conserved sexual gene expression dimorphism 
+in the occipital cortex of humans, cynomolgus macaques, and common marmosets.
+Genes within sexual expression profiles may underlie important functional
+differences between the sexes, with possible importance during primate evolution.
+
+DOI: 10.1371/journal.pgen.1000100 
+PMCID: PMC2413013
+PMID: 18566661  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+2265. Am J Primatol. 2008 Sep;70(9):906-10. doi: 10.1002/ajp.20581.
+
+Polymorphic microsatellite loci for the common marmoset (Callithrix jacchus)
+designed using a cost- and time-efficient method.
+
+Raveendran M(1), Tardif S, Ross CN, Austad SN, Harris RA, Milosavljevic A, Rogers
+J.
+
+Author information: 
+(1)Department of Genetics, Southwest Foundation for Biomedical Research, San
+Antonio, Texas 78227, USA. mraveend@sfbrgenetics.org
+
+We describe a cost- and time-efficient method for designing new microsatellite
+markers in any species with substantial genomic DNA sequence data available.
+Using this technique, we report 14 new polymorphic dinucleotide microsatellite
+loci isolated from the common marmoset. The relative yield of new polymorphisms
+was higher with less labor than described in previous marmoset studies. Of 20
+loci initially evaluated, 14 were polymorphic and amplified reliably (70% success
+rate). The number of alleles ranged from 3 to 9 with heterozygosity varying from 
+0.48 to 0.83.
+
+DOI: 10.1002/ajp.20581 
+PMCID: PMC2799112
+PMID: 18561252  [Indexed for MEDLINE]
+

@@ -1,0 +1,33 @@
+
+
+3655. Virology. 1997 Jul 21;234(1):14-30.
+
+Comparative analyses of LTRs of the ERV-H family of primate-specific
+retrovirus-like elements isolated from marmoset, African green monkey, and man.
+
+Anderssen S(1), Sjøttem E, Svineng G, Johansen T.
+
+Author information: 
+(1)Department of Biochemistry, Institute of Medical Biology, University of
+Tromsø, Norway.
+
+We have isolated 8 different long terminal repeat (LTR) sequences of the ERV-H
+family of endogenous retrovirus-like elements from human chromosome 18, 9 from
+African green monkey, and 28 from marmoset. Human ERV-H LTRs have been divided
+into three types designated Type I, Type Ia, and Type II. Comparative analyses of
+the 45 isolated LTRs and 60 human ERV-H LTRs enabled a further subdivision into
+13 subtypes. Type I elements were widely distributed in all three species. Their 
+average evolutionary age (40 MYr), estimated by a consensus sequence approach,
+suggests that they first expanded in the genomes at the time New- and Old World
+monkeys diverged. The occurence of some very old Type I sequences indicate that
+ERV-H elements may have integrated even before prosimians and primates diverged. 
+Type Ia and - II elements were found in both monkey species. Promoter active Type
+I and Type Ia LTRs were found while Type II LTRs were inactive. Promoter active
+Type I LTRs generally contained a functional GC/GT box immediately 3' to the TATA
+box, providing strong binding of Sp1 family proteins, while the highly promoter
+active Type Ia element H6 contained synergistically acting Sp1 binding sites
+located in the U3 enhancer region.
+
+DOI: 10.1006/viro.1997.8590 
+PMID: 9234943  [Indexed for MEDLINE]
+

@@ -1,0 +1,80 @@
+
+
+2913. J Neurosci. 2003 Aug 6;23(18):7194-206.
+
+Auditory cortical responses elicited in awake primates by random spectrum
+stimuli.
+
+Barbour DL(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA.
+dbarbour@bme.jhu.edu
+
+Contrary to findings in subcortical auditory nuclei, auditory cortex neurons have
+traditionally been described as spiking only at the onsets of simple sounds such 
+as pure tones or bandpass noise and to acoustic transients in complex sounds.
+Furthermore, primary auditory cortex (A1) has traditionally been described as
+mostly tone responsive and the lateral belt area of primates as mostly noise
+responsive. The present study was designed to unify the study of these two
+cortical areas using random spectrum stimuli (RSS), a new class of parametric,
+wideband, stationary acoustic stimuli. We found that 60% of all neurons
+encountered in A1 and the lateral belt of awake marmoset monkeys (Callithrix
+jacchus) showed significant changes in firing rates in response to RSS. Of these,
+89% showed sustained spiking in response to one or more individual RSS, a
+substantially greater percentage than would be expected from traditional studies,
+indicating that RSS are well suited for studying these two cortical areas. When
+firing rates elicited by RSS were used to construct linear estimates of frequency
+tuning for these sustained responders, the shape of the estimate function
+remained relatively constant throughout the stimulus interval and across the
+stimulus properties of mean sound level, spectral density, and spectral contrast.
+This finding indicates that frequency tuning computed from RSS reflects a robust 
+estimate of the actual tuning of a neuron. Use of this estimate to predict rate
+responses to other RSS, however, yielded poor results, implying that auditory
+cortex neurons integrate information across frequency nonlinearly. No systematic 
+difference in prediction quality between A1 and the lateral belt could be
+detected.
+
+
+PMCID: PMC1945239
+PMID: 12904480  [Indexed for MEDLINE]
+
+
+2914. Mov Disord. 2003 Aug;18(8):872-83.
+
+Fipamezole (JP-1730) is a potent alpha2 adrenergic receptor antagonist that
+reduces levodopa-induced dyskinesia in the MPTP-lesioned primate model of
+Parkinson's disease.
+
+Savola JM(1), Hill M, Engstrom M, Merivuori H, Wurster S, McGuire SG, Fox SH,
+Crossman AR, Brotchie JM.
+
+Author information: 
+(1)Juvantia Pharma Ltd., PharmaCity, Turku, Finland.
+
+Previous studies in the MPTP-lesioned primate model of Parkinson's disease have
+demonstrated that alpha(2) adrenergic receptor antagonists such as idazoxan,
+rauwolscine, and yohimbine can alleviate L-dopa-induced dyskinesia and, in the
+case of idazoxan, enhance the duration of anti-parkinsonian action of L-dopa.
+Here we describe a novel alpha(2) antagonist, fipamezole (JP-1730), which has
+high affinity at human alpha(2A) (K(i), 9.2 nM), alpha(2B) (17 nM), and alpha(2C)
+(55 nM) receptors. In functional assays, the potent antagonist properties of
+JP-1730 were demonstrated by its ability to reduce adrenaline-induced
+(35)S-GTPgammaS binding with K(B) values of 8.4 nM, 16 nM, 4.7 nM at human
+alpha(2A), alpha(2B), and alpha(2C) receptors, respectively. Assessment of the
+ability of JP-1730 to bind to a range of 30 other binding sites showed that
+JP-1730 also had moderate affinity at histamine H1 and H3 receptors and the
+serotonin (5-HT) transporter (IC(50) 100 nM to 1 microM). In the MPTP-lesioned
+marmoset, JP-1730 (10 mg/kg) significantly reduced L-dopa-induced dyskinesia
+without compromising the anti-parkinsonian action of L-dopa. The duration of
+action of the combination of L-dopa and JP-1730 (10 mg/kg) was 66% greater than
+that of L-dopa alone. These data suggest that JP-1730 is a potent alpha(2)
+adrenergic receptor antagonist with potential as an anti-dyskinetic agent in the 
+treatment of Parkinson's disease.
+
+Copyright 2003 Movement Disorder Society
+
+DOI: 10.1002/mds.10464 
+PMID: 12889076  [Indexed for MEDLINE]
+

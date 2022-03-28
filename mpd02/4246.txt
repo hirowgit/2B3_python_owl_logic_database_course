@@ -1,0 +1,30 @@
+
+
+4246. Proc Natl Acad Sci U S A. 1992 Feb 15;89(4):1296-300.
+
+Viral small nuclear ribonucleoproteins bind a protein implicated in messenger RNA
+destabilization.
+
+Myer VE(1), Lee SI, Steitz JA.
+
+Author information: 
+(1)Department of Molecular Biophysics and Biochemistry, Howard Hughes Medical
+Institute, Yale University, Congress Avenue, New Haven, CT 06536-0182.
+
+Herpesvirus saimiri (HVS) is one of several primate viruses that carry genes for 
+small RNAs. The five H. saimiri-encoded U RNAs (HSURs) are the most abundant
+viral transcripts expressed in transformed marmoset T lymphocytes. They assemble 
+with host proteins common to spliceosomal small nuclear ribonucleoproteins
+(snRNPs). HSURs 1, 2, and 5 exhibit sequences at their 5' ends identical to the
+AUUUA motif, which targets a number of protooncogene, cytokine, and lymphokine
+mRNAs for rapid degradation. We show that a 32-kDa protein previously
+demonstrated to bind to the 3' untranslated region of several unstable messages
+can be UV crosslinked specifically to HSUR 1, 2, and 5 transcripts in vitro, as
+well as to endogenous HSUR snRNPs. Our results suggest an unusual role for these 
+viral snRNPs: HSURs may function to attenuate the rapid degradation of certain
+cellular mRNAs, thereby facilitating viral transformation of host T lymphocytes.
+
+DOI: 10.1073/pnas.89.4.1296 
+PMCID: PMC48436
+PMID: 1311093  [Indexed for MEDLINE]
+

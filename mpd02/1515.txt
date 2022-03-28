@@ -1,0 +1,36 @@
+
+
+1515. Sci Rep. 2013;3:2630. doi: 10.1038/srep02630.
+
+A cross-species socio-emotional behaviour development revealed by a multivariate 
+analysis.
+
+Koshiba M(1), Senoo A, Mimura K, Shirakawa Y, Karino G, Obara S, Ozawa S,
+Sekihara H, Fukushima Y, Ueda T, Kishino H, Tanaka T, Ishibashi H, Yamanouchi H, 
+Yui K, Nakamura S.
+
+Author information: 
+(1)1] Tokyo University of Agriculture and Technology, Tokyo, Japan [2] National
+Institute of Neuroscience, NCNP, Tokyo, Japan [3] Saitama Medical University,
+Saitama, Japan.
+
+Recent progress in affective neuroscience and social neurobiology has been
+propelled by neuro-imaging technology and epigenetic approach in neurobiology of 
+animal behaviour. However, quantitative measurements of socio-emotional
+development remains lacking, though sensory-motor development has been
+extensively studied in terms of digitised imaging analysis. Here, we developed a 
+method for socio-emotional behaviour measurement that is based on the video
+recordings under well-defined social context using animal models with variously
+social sensory interaction during development. The behaviour features digitized
+from the video recordings were visualised in a multivariate statistic space using
+principal component analysis. The clustering of the behaviour parameters
+suggested the existence of species- and stage-specific as well as cross-species
+behaviour modules. These modules were used to characterise the behaviour of
+children with or without autism spectrum disorders (ASDs). We found that
+socio-emotional behaviour is highly dependent on social context and the
+cross-species behaviour modules may predict neurobiological basis of ASDs.
+
+DOI: 10.1038/srep02630 
+PMCID: PMC6505395
+PMID: 24022241  [Indexed for MEDLINE]
+

@@ -1,0 +1,72 @@
+
+
+3813. J Comp Neurol. 1996 Feb 26;366(1):76-92.
+
+Morphology of retinal ganglion cells in a new world monkey, the marmoset
+Callithrix jacchus.
+
+Ghosh KK(1), Goodchild AK, Sefton AE, Martin PR.
+
+Author information: 
+(1)Department of Physiology F13, University of Sydney, NSW, Australia.
+
+We studied the morphology of retinal ganglion cells in a diurnal New World
+primate, the marmoset Callithrix jacchus. This species is of interest as a model 
+for primate vision because it has good behavioural visual acuity, and the retina 
+and subcortical visual pathways are very similar to those of Old World monkeys
+and humans. Ganglion cells were labelled by placing small crystals of the
+carbocyanin dye DiI into the optic fibre layer, or by intracellular injection of 
+neurobiotin. Two main classes of ganglion cell were labelled. We call these Group
+A cells and Group B cells: they are respectively homologous to parasol and midget
+cell classes. Group A and Group B cells show similar patterns of dye coupling,
+dendritic stratification and dendritic field size as their counterparts in Old
+World monkeys and humans. A third group of cells, which we call Group C, is
+morphologically heterogeneous. Examples corresponding to wide-field ganglion cell
+types described in Old World primates were encountered. One subgroup of C cells
+has a morphology very similar to that of the small bistratified (blue-on) cell
+described in macaque retina, suggesting that this functional pathway is common to
+all primates. As for other New World monkeys, the marmoset shows a sex-linked
+polymorphism of cone pigment expression, such that all males are dichromats and
+the majority of females are trichromats. No systematic differences in Group B
+cells were seen between male and female retinas, suggesting that trichromacy is
+not accompanied by specific changes in ganglion cell morphology.
+
+DOI: 10.1002/(SICI)1096-9861(19960226)366:1<76::AID-CNE6>3.0.CO;2-H 
+PMID: 8866847  [Indexed for MEDLINE]
+
+
+3814. J Comp Neurol. 1996 Feb 26;366(1):55-75.
+
+Comparison of photoreceptor spatial density and ganglion cell morphology in the
+retina of human, macaque monkey, cat, and the marmoset Callithrix jacchus.
+
+Goodchild AK(1), Ghosh KK, Martin PR.
+
+Author information: 
+(1)Department of Physiology, University of Sydney, New South Wales, Australia.
+
+We studied the relationship between the morphology of ganglion cells and the
+spatial density of photoreceptors in the retina of two Old World primates, human 
+and macaque monkey; the diurnal New World marmoset Callithrix jacchus; and the
+cat. Ganglion cells in macaque and marmoset were labelled by intracellular
+injection with Neurobiotin or by DiI diffusion labelling in fixed tissue. Cone
+photoreceptor densities were measured from the same retinas. Supplemental data
+for macaque and data for human and cat were taken from published studies. For the
+primates studied, the central retina is characterised by a constant numerical
+convergence of cones to ganglion cells. Midget ganglion cells derive their input,
+via a midget bipolar cell, from a single cone. Parasol cells derive their input
+from 40-140 cones. Outside the central retina, the convergence increases with
+eccentricity. The convergence to beta cells in the cat retina is very close to
+that for parasol cells in primate retina. The convergence of rod photoreceptors
+to ganglion cells is similar in human, macaque, and marmoset, with parasol cells 
+receiving input from 10-15 times more rods than midget cells. The low convergence
+of cones to midget cells in human and macaque retinas is associated with
+distinctive dendritic "clusters" in midget cells' dendritic fields. Convergence
+in marmoset is higher, and the clusters are absent. We conclude that the
+complementary changes in photoreceptor density and ganglion cell morphology
+should be considered when forming linking hypotheses between dendritic field,
+receptive field, and psychophysical properties of primate vision.
+
+DOI: 10.1002/(SICI)1096-9861(19960226)366:1<55::AID-CNE5>3.0.CO;2-J 
+PMID: 8866846  [Indexed for MEDLINE]
+

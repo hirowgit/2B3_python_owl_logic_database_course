@@ -1,0 +1,39 @@
+
+
+245. Nat Protoc. 2020 Nov;15(11):3615-3631. doi: 10.1038/s41596-020-0388-3. Epub 2020 
+Oct 12.
+
+Intracellular neuronal recording in awake nonhuman primates.
+
+Gao L(1)(2), Wang X(3).
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+lxgao10@zju.edu.cn.
+(2)Department of Neurology of the Second Affiliated Hospital, Interdisciplinary
+Institute of Neuroscience and Technology, Zhejiang University School of Medicine,
+Key Laboratory for Biomedical Engineering of Ministry of Education, Zhejiang
+University, Hangzhou, China. lxgao10@zju.edu.cn.
+(3)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+xiaoqin.wang@jhu.edu.
+
+Intracellular neuronal recordings from the brain of awake nonhuman primates have 
+remained difficult to obtain because of several formidable technical challenges, 
+such as poor recording stability and difficulties in maintaining long-term
+recording conditions. We have developed a technique to record neuronal activity
+by using a coaxial guide tube and sharp electrode assembly, which allows
+researchers to repeatedly and reliably perform intracellular recordings in the
+cortex of awake marmosets. Recordings from individual neurons last from several
+minutes to more than an hour. A key advantage of this approach is that it does
+not require dura removal, permitting recordings over weeks and months in a single
+animal. This protocol describes the step-by-step procedures for construction of a
+custom-made marmoset chair, head-cap implantation, preparation of the sharp
+electrode and guide tube, neuronal recording and data analysis. As the technique 
+is practical and easy to adapt, we anticipate that it can also be applied to
+other mammalian models, including larger-size nonhuman primates.
+
+DOI: 10.1038/s41596-020-0388-3 
+PMID: 33046899  [Indexed for MEDLINE]
+

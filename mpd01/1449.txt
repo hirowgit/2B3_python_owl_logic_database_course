@@ -1,0 +1,87 @@
+
+
+1449. Osteoporos Int. 2014 Apr;25(4):1255-66. doi: 10.1007/s00198-013-2566-4. Epub 2014
+Feb 15.
+
+Osteogenic induction from marmoset embryonic stem cells cultured in
+feeder-dependent and feeder-independent conditions.
+
+Trettner S(1), Findeisen A, Taube S, Horn PA, Sasaki E, zur Nieden NI.
+
+Author information: 
+(1)Group Applied Stem Cell Technology, Fraunhofer Institute for Cell Therapy and 
+Immunology, Leipzig, Germany.
+
+Embryonic stem cells (ESCs) have become increasingly attractive for cell
+replacement therapies of osteodegenerative diseases; however, pre-clinical
+studies in large animal models to repair diseased or injured bone are lacking. As
+a first step into this direction, we describe here the feeder-free cultivation
+and directed osteogenic differentiation of marmoset ESCs.INTRODUCTION: Owing to
+their potential to self-renew and their enormous differentiation capability, ESCs
+are an adequate cell source for cell replacement therapies. To implement stem
+cell technology clinically, standardized cultivation and differentiation
+protocols and appropriate animal models are needed. Here, we describe the
+feeder-free cultivation of Callithrix jacchus ESCs (cESCs) in a chemically
+defined medium and their subsequent osteogenic differentiation.
+METHODS: cESCs were maintained on mouse embryonic fibroblast feeder layers or in 
+feeder-free conditions with activin A and basic fibroblast growth factor.
+Differentiation into mature osteoblasts was steered with ascorbic acid,
+β-glycerophosphate and 1α,25-(OH)2 vitamin D3 employing various induction
+strategies.
+RESULTS: In feeder-free conditions, cESCs maintained pluripotency as indicated by
+Oct-4 and Nanog expression, positive immunostaining for typical primate ESC
+markers and high telomerase activity. Cells also remained karyotypically normal
+after 40 passages without feeder cells. The hanging drop protocol as well as
+omitting the embryoid body step proved unsuccessful to initiate osteogenic
+differentiation. The highest degree of osteogenesis was achieved by formation of 
+embryoid bodies employing the cell cluster technique as indicated by the amount
+of deposited calcium and bone marker gene expression. Early addition of retinoic 
+acid further improved the yield of osteoblasts and led to an increase in calcium 
+deposition.
+CONCLUSIONS: The osteogenic differentiation potential of feeder-free cESCs was
+equal if not higher compared to cells grown on feeders. These findings open the
+field for near clinical transplantation studies in primate models to evaluate the
+effectiveness of ESC-derived osteoblasts.
+
+DOI: 10.1007/s00198-013-2566-4 
+PMID: 24531422  [Indexed for MEDLINE]
+
+
+1450. Cancer Sci. 2014 Apr;105(4):402-8. doi: 10.1111/cas.12367. Epub 2014 Apr 5.
+
+Characterization of common marmoset dysgerminoma-like tumor induced by the
+lentiviral expression of reprogramming factors.
+
+Yamaguchi S(1), Marumoto T, Nii T, Kawano H, Liao J, Nagai Y, Okada M, Takahashi 
+A, Inoue H, Sasaki E, Fujii H, Okano S, Ebise H, Sato T, Suyama M, Okano H, Miura
+Y, Tani K.
+
+Author information: 
+(1)Division of Molecular and Clinical Genetics, Molecular and Clinical Genetics, 
+Medical Institute of Bioregulation, Kyushu University, Fukuoka, Japan.
+
+Recent generation of induced pluripotent stem (iPSCs) has made a significant
+impact on the field of human regenerative medicine. Prior to the clinical
+application of iPSCs, testing of their safety and usefulness must be carried out 
+using reliable animal models of various diseases. In order to generate iPSCs from
+common marmoset (CM; Callithrix jacchus), one of the most useful experimental
+animals, we have lentivirally transduced reprogramming factors, including POU5F1 
+(also known as OCT3/4), SOX2, KLF4, and c-MYC into CM fibroblasts. The cells
+formed round colonies expressing embryonic stem cell markers, however, they
+showed an abnormal karyotype denoted as 46, X, del(4q), +mar, and formed human
+dysgerminoma-like tumors in SCID mice, indicating that the transduction of
+reprogramming factors caused unexpected tumorigenesis of CM cells. Moreover, CM
+dysgerminoma-like tumors were highly sensitive to DNA-damaging agents,
+irradiation, and fibroblast growth factor receptor inhibitor, and their growth
+was dependent on c-MYC expression. These results indicate that DNA-damaging
+agents, irradiation, fibroblast growth factor receptor inhibitor, and
+c-MYC-targeted therapies might represent effective treatment strategies for
+unexpected tumors in patients receiving iPSC-based therapy.
+
+© 2014 The Authors. Cancer Science published by Wiley Publishing Asia Pty Ltd on 
+behalf of Japanese Cancer Association.
+
+DOI: 10.1111/cas.12367 
+PMCID: PMC4317795
+PMID: 24521492  [Indexed for MEDLINE]
+

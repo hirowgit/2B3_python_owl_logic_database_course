@@ -1,0 +1,28 @@
+
+
+1502. Annu Int Conf IEEE Eng Med Biol Soc. 2013;2013:5250-3. doi:
+10.1109/EMBC.2013.6610733.
+
+Feature extraction and unsupervised classification of neural population reward
+signals for reinforcement based BMI.
+
+Prins NW, Geng S, Pohlmeyer EA, Mahmoudi B, Sanchez JC.
+
+New reinforcement based paradigms for building adaptive decoders for
+Brain-Machine Interfaces involve using feedback directly from the brain. In this 
+work, we investigated neuromodulation in the Nucleus Accumbens (reward center)
+during a multi-target reaching task and investigated how to extract a reinforcing
+or non-reinforcing signal that could be used to adapt a BMI decoder. One of the
+challenges in brain-driven adaptation is how to translate biological
+neuromodulation into a single binary signal from the distributed representation
+of the neural population, which may encode many aspects of reward. To extract
+these signals, feature analysis and clustering were used to identify timing and
+coding properties of a user's neuromodulation related to reward perception.
+First, Principal Component Analysis (PCA) of reward related neural signals was
+used to extract variance in the firing and the optimum time correlation between
+the neural signal and the reward phase of the task. Next, k-means clustering was 
+used to separate data into two classes.
+
+DOI: 10.1109/EMBC.2013.6610733 
+PMID: 24110920  [Indexed for MEDLINE]
+

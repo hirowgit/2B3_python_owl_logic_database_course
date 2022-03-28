@@ -1,0 +1,42 @@
+
+
+1592. Behav Brain Res. 2013 Jun 1;246:47-54. doi: 10.1016/j.bbr.2013.01.047. Epub 2013 
+Feb 27.
+
+Do robots have goals? How agent cues influence action understanding in non-human 
+primates.
+
+Kupferberg A(1), Glasauer S, Burkart JM.
+
+Author information: 
+(1)Center for Sensorimotor Research, Clinical Neurosciences,
+Ludwig-Maximilians-University Munich, Germany.
+
+The capacity to understand goals and intentions emerges early and universally in 
+humans and is a basic precondition for the interpretation and prediction of
+others' actions, be it other humans, animals, or even robots. It is unclear,
+however, how this goal attribution system is acquired, in particular with regard 
+to the role of prior experience with the actor and visual characteristics that
+are necessary. In four preferential looking time experiments we examined how
+familiarity, appearance, and movement of different agents influence the
+capability of marmosets to perceive the behavior of these agents as goal
+directed. To this end we compared the monkeys' reactions to the same
+goal-directed actions performed by four different agents: a human actor, a
+conspecific, a monkey-like small robot, and a black box. The results showed that 
+monkeys attributed goals to the human actor, the conspecific, and the robot, but 
+not the box. Thus, the monkeys extended their capacity for goal attribution not
+only to familiar agents, but also to agents not previously encountered, provided 
+that they had some conspecific-like features. Our results suggest that in
+non-human primates, the system for goal attribution does not require previous
+experience with a specific agent or agent-category, as long as it exhibits
+certain visual characteristics like face, body or legs. Furthermore, the results 
+suggest that the capacity to attribute goals emerged very early during evolution 
+and, at least in marmoset monkeys, does not necessarily require pre-learned
+associations in order to fulfill its function when dealing with unfamiliar
+agents.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbr.2013.01.047 
+PMID: 23454673  [Indexed for MEDLINE]
+

@@ -1,0 +1,88 @@
+
+
+1708. Bioorg Med Chem Lett. 2012 Jul 15;22(14):4723-7. doi: 10.1016/j.bmcl.2012.05.074.
+Epub 2012 Jun 1.
+
+The synthesis and SAR of calcitonin gene-related peptide (CGRP) receptor
+antagonists derived from tyrosine surrogates. Part 1.
+
+Han X(1), Civiello RL, Conway CM, Cook DA, Davis CD, Macci R, Pin SS, Ren SX,
+Schartman R, Signor LJ, Thalody G, Widmann KA, Xu C, Chaturvedula PV, Macor JE,
+Dubowchik GM.
+
+Author information: 
+(1)Department of Molecular Sciences and Candidate Optimization (MSCO),
+Bristol-Myers Squibb Research & Development, 5 Research Parkway, Wallingford, CT 
+06492, USA. xiaojun.han@bms.com
+
+We have systematically studied the effects of varying the central unnatural amino
+acid moiety on CGRP receptor antagonist potency and CYP inhibition in a series of
+ureidoamides. In this Letter, we report the discovery of compound 23, a potent
+CGRP receptor antagonist with only weak CYP3A4 inhibition. Unlike the triptans,
+compound 23 did not cause active constriction of ex vivo human cerebral arteries.
+At doses of 0.3-1 mg/kg (s.c.), 23 showed robust inhibition of CGRP-induced
+increases in marmoset facial blood flow, a validated migraine model. Ureidoamide 
+23 derives from a novel amino acid, 1H-indazol-5-yl substituted alanine as a
+tyrosine surrogate.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.bmcl.2012.05.074 
+PMID: 22727645  [Indexed for MEDLINE]
+
+
+1709. Psychoneuroendocrinology. 2013 Jan;38(1):145-54. doi:
+10.1016/j.psyneuen.2012.05.011. Epub 2012 Jun 21.
+
+Chronic systemic administration of serotonergic ligands flibanserin and 8-OH-DPAT
+enhance HPA axis responses to restraint in female marmosets.
+
+Aubert Y(1), Bohl MA, Lange JR, Diol NR, Allers KA, Sommer B, Datson NA, Abbott
+DH.
+
+Author information: 
+(1)Wisconsin National Primate Research Center, University of Wisconsin-Madison,
+WI, USA. auberty@lacdr.leidenuniv.nl
+
+BACKGROUND: Flibanserin, a novel serotonin (5-HT)(1A) agonist and 5-HT(2A)
+antagonist, has been shown to increase sexual desire and reduce distress in women
+with Hypoactive Sexual Desire Disorder (HSDD). In marmoset monkeys, flibanserin
+has demonstrated pro-social effects on male-female pairmates, while the classic
+5-HT(1A) agonist 8-OH-DPAT suppresses female sexual behavior and increases
+aggressive interactions between pairmates. Activation of 5-HT(1A) and 5-HT(2A)
+receptors is known to stimulate the hypothalamic-pituitary-adrenal (HPA) axis.
+This study aims to characterize the effects of repeated flibanserin and 8-OH-DPAT
+administration on the marmoset HPA axis and to elucidate endocrine correlates of 
+altered marmoset pair behavior.
+METHODS: Adrenocorticotropic hormone (ACTH) and cortisol were examined at
+baseline and during 5-HT(1A) agonist and restraint challenges in 8 female
+marmoset monkeys receiving daily flibanserin (15mg/kg) and an additional 8 female
+marmosets receiving 8-OH-DPAT (0.1mg/kg) for 15-16weeks. Corresponding vehicle
+treatments were administered in a counterbalanced, within-subject design. All
+females were housed in stable male-female pairs. Treatment-induced changes in
+ACTH and cortisol levels were correlated with previously assessed marmoset pair
+behavior.
+RESULTS: While morning basal cortisol levels and HPA responses to a 5-HT(1A)
+agonist challenge were not altered by chronic flibanserin or 8-OH-DPAT, both
+treatments increased the responsiveness of the marmoset HPA axis to restraint.
+Enhanced ACTH responses to restraint correlated with reduced sexual receptivity
+and increased aggression in 8-OH-DPAT-, but not in flibanserin-treated female
+marmosets.
+CONCLUSIONS: Unaltered HPA responses to a 5-HT(1A) agonist challenge after
+chronic flibanserin and 8-OH-DPAT treatments indicate little or no
+de-sensitization of the HPA axis to repeated 5-HT(1A) manipulation. Chronic
+8-OH-DPAT, but not flibanserin, leads to aggravated ACTH responses to stress that
+may contribute to anti-sexual and anti-social behavior between 8-OH-DPAT-treated 
+females and their male pairmates. Despite similar flibanserin and 8-OH-DPAT
+induced ACTH responses to restraint stress, flibanserin-treated females show
+unchanged cortisol profiles. This is possibly due to flibanserin's regional
+selectivity in 5-HT(1A) activation and concurrent 5-HT(2A) inhibition. The
+contrasting restraint-related cortisol responses emulate contrasting behavioral
+phenotypes of diminished pair-bond of 8-OH-DPAT-treated females compared to the
+more affiliative pair-bond of flibanserin-treated females.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.psyneuen.2012.05.011 
+PMID: 22727480  [Indexed for MEDLINE]
+

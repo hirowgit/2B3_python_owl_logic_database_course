@@ -1,0 +1,109 @@
+
+
+490. Front Neural Circuits. 2019 May 8;13:29. doi: 10.3389/fncir.2019.00029.
+eCollection 2019.
+
+Large-Area Fluorescence and Electron Microscopic Correlative Imaging With
+Multibeam Scanning Electron Microscopy.
+
+Shibata S(1)(2), Iseda T(1)(2), Mitsuhashi T(3), Oka A(2), Shindo T(1)(2),
+Moritoki N(1), Nagai T(1), Otsubo S(2), Inoue T(4), Sasaki E(4), Akazawa C(5),
+Takahashi T(3), Schalek R(6), Lichtman JW(6), Okano H(1)(2)(7).
+
+Author information: 
+(1)Electron Microscope Laboratory, Keio University School of Medicine, Tokyo,
+Japan.
+(2)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+(3)Department of Pediatrics, Keio University School of Medicine, Tokyo, Japan.
+(4)Central Institute for Experimental Animals, Kawasaki, Japan.
+(5)Department of Biochemistry and Biophysics, Graduate School of Health Care
+Sciences, Tokyo Medical and Dental University, Tokyo, Japan.
+(6)Department of Molecular and Cellular Biology, Harvard University, Cambridge,
+MA, United States.
+(7)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Wakō, Japan.
+
+Recent improvements in correlative light and electron microscopy (CLEM)
+technology have led to dramatic improvements in the ability to observe tissues
+and cells. Fluorescence labeling has been used to visualize the localization of
+molecules of interest through immunostaining or genetic modification strategies
+for the identification of the molecular signatures of biological specimens. Newer
+technologies such as tissue clearing have expanded the field of observation
+available for fluorescence labeling; however, the area of correlative observation
+available for electron microscopy (EM) remains restricted. In this study, we
+developed a large-area CLEM imaging procedure to show specific molecular
+localization in large-scale EM sections of mouse and marmoset brain. Target
+molecules were labeled with antibodies and sequentially visualized in cryostat
+sections using fluorescence and gold particles. Fluorescence images were obtained
+by light microscopy immediately after antibody staining. Immunostained sections
+were postfixed for EM, and silver-enhanced sections were dehydrated in a graded
+ethanol series and embedded in resin. Ultrathin sections for EM were prepared
+from fully polymerized resin blocks, collected on silicon wafers, and observed by
+multibeam scanning electron microscopy (SEM). Multibeam SEM has made rapid,
+large-area observation at high resolution possible, paving the way for the
+analysis of detailed structures using the CLEM approach. Here, we describe
+detailed methods for large-area CLEM in various tissues of both rodents and
+primates.
+
+DOI: 10.3389/fncir.2019.00029 
+PMCID: PMC6517476
+PMID: 31133819  [Indexed for MEDLINE]
+
+
+491. Exp Eye Res. 2019 Aug;185:107676. doi: 10.1016/j.exer.2019.05.016. Epub 2019 May 
+23.
+
+Age-related distribution and potential role of SNCB in topographically different 
+retinal areas of the common marmoset Callithrix jacchus, including the macula.
+
+Hadrian K(1), Melkonyan H(2), Schlatt S(3), Wistuba J(3), Wasmuth S(4),
+Heiligenhaus A(5), Thanos S(2), Böhm MRR(6).
+
+Author information: 
+(1)Department of Ophthalmology, Essen University Hospital, Hufelandstraße 55,
+45147, Essen, Germany.
+(2)Institute for Experimental Ophthalmology, Westfalian Wilhelms-University of
+Münster, Albert-Schweitzer-Campus 1, 48149, Münster, Germany.
+(3)Centre of Reproductive Medicine and Andrology (CeRA),
+Westfalian-Wilhelms-University of Münster, Albert-Schweitzer-Campus 1, 48149,
+Münster, Germany.
+(4)Department of Ophthalmology at St. Franziskus Hospital, Hohenzollernring 74,
+48145, Münster, Germany.
+(5)Department of Ophthalmology at St. Franziskus Hospital, Hohenzollernring 74,
+48145, Münster, Germany; School of Medicine, University of Duisburg-Essen,
+Hufelandstraße 55, 45147, Essen, Germany.
+(6)Department of Ophthalmology, Essen University Hospital, Hufelandstraße 55,
+45147, Essen, Germany. Electronic address: Michael.boehm@uk-essen.de.
+
+Evidence of an age-related increase of β-synuclein (SNCB) in several parts of the
+visual system including the retina has been reported. SNCB is thought to function
+as an antagonist of α-synuclein in neurodegenerative diseases, but the exact role
+of SNCB remains unclear. The presented work studies two different aspects of the 
+onset and role of SNCB in the retinal pigment epithelium (RPE). First, the
+topographical and intracellular distributions of SNCB in the RPE of non-human
+marmoset monkey (Callithrix jacchus) were evaluated in paraffin-embedded eyes and
+RPE whole mounts from different developmental stages (neonatal, adolescent, and
+adult). Thus, revealed distinct lifetime-related alterations of the topographical
+and intracellular distributions of SNCB in the primate macula compared to the
+retinal periphery. Furthermore, the function and influences of SNCB on
+ARPE-19 cells and primary porcine RPE (ppRPE) cells were characterized by
+exposing these cells with recombinant SNCB (rSNCB) at different concentrations.
+Moreover, apoptosis, protein- and mRNA-expression levels of factors of the
+p53/MDM2 signaling cascade and inflammation- and oxidation-related genes were
+investigated. The observed dose-depended decreased apoptosis rates together with 
+the PLD2 mediated activation of the p53 pathway promotes senescence-related
+processes in SNCB exposed common ARPE-19 cells from human origin. Further,
+increased HMOX1 and NOX4 levels indicate increased oxidative stress and
+inflammatory responses triggered by SNCB. The obtained differences in the
+distribution of SNCB in primate RPE together with alterations of cellular
+functions in rSNCB-exposed RPE cells (e.g., ARPE-19, ppRPE) support SNCB-related 
+effects like inflammatory response and stress-related properties on RPE over
+lifetime. The possible functional relevance of SNCB in physiological aging
+converting into a pathophysiological condition should be investigated in further 
+studies.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.exer.2019.05.016 
+PMID: 31128101  [Indexed for MEDLINE]
+

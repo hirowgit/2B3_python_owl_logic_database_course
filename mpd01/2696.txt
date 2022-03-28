@@ -1,0 +1,73 @@
+
+
+2696. J Neurosci Methods. 2005 May 15;144(1):53-61.
+
+Spectral representation--analyzing single-unit activity in extracellularly
+recorded neuronal data without spike sorting.
+
+Luczak A(1), Narayanan NS.
+
+Author information: 
+(1)Center for Molecular and Behavioral Neuroscience, Rutgers, The State
+University of New Jersey, 197 University Avenue, Newark, NJ 07102, USA.
+Luczak@cs.yale.edu
+
+One step in the conventional analysis of extracellularly recorded neuronal data
+is spike sorting, which separates electrical signal into action potentials from
+different neurons. Because spike sorting involves human judgment, it can be
+subjective and time intensive, particularly for large sets of neurons. Here we
+propose a simple, automated way to construct alternative representations of
+neuronal activity, called spectral representation (SR). In this approach,
+neuronal spikes are mapped to a discrete space of spike waveform features and
+time. Spectral representation enables us to find single-unit stimulus-related
+changes in neuronal activity without spike sorting. We tested the ability of this
+method to predict stimuli using both simulated data and experimental data from an
+auditory mapping study in anesthetized marmoset monkeys. We find that our
+approach produces more accurate classification of stimuli than spike-sorted data 
+for both simulated and experimental conditions. Furthermore, this method lends
+itself to automated analysis of extracellularly recorded neuronal ensembles.
+Additionally, we suggest ways in which these representations can be readily
+extended to assist in spike sorting and the evaluation of single-neuron
+peri-stimulus time histograms.
+
+DOI: 10.1016/j.jneumeth.2004.10.009 
+PMID: 15848239  [Indexed for MEDLINE]
+
+
+2697. Eur J Neurosci. 2005 Mar;21(6):1733-40.
+
+Autonomic arousal in an appetitive context in primates: a behavioural and neural 
+analysis.
+
+Braesicke K(1), Parkinson JA, Reekie Y, Man MS, Hopewell L, Pears A, Crofts H,
+Schnell CR, Roberts AC.
+
+Author information: 
+(1)Department of Anatomy, University of Cambridge, Downing Street, Cambridge, CB2
+3DY, UK.
+
+Central to many emotional responses is the accompanying peripheral somatic and
+autonomic arousal, feedback from which has been hypothesized to enhance emotional
+memory and to contribute to appraisal processes and decision making, and
+dysfunction of which may contribute to antisocial behaviour. Whilst peripheral
+arousal may accompany both positive and negative emotional contexts, its
+relationship with the former is poorly understood, as are the neural mechanisms
+underlying such a relationship. The purpose of the present study was to determine
+the autonomic correlates of anticipation, as well as consumption, of high
+incentive food, in the freely moving common marmoset and to investigate the
+contribution of the amygdala to such effects. Blood pressure (BP) and heart rate 
+(HR) were measured remotely by a telemetric device implanted into the descending 
+aorta and behavioural responses were monitored whilst marmosets viewed preferred 
+or non-preferred foods and were then allowed access to eat those foods. A marked 
+rise in blood pressure in unrestrained marmosets was observed in response both to
+the sight of highly preferred foods (anticipatory period) as well as during the
+actual consumption of those foods (consummatory period). Excitotoxic lesions of
+the amygdala abolished the autonomic arousal in the anticipatory period, but
+spared both the behavioural arousal in the anticipatory period and the autonomic 
+arousal in the consummatory period. Together these data serve as an important
+step towards understanding the role of autonomic arousal in emotion and its
+neural underpinnings.
+
+DOI: 10.1111/j.1460-9568.2005.03987.x 
+PMID: 15845101  [Indexed for MEDLINE]
+

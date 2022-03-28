@@ -1,0 +1,89 @@
+
+
+447. Sci Rep. 2019 Aug 21;9(1):12219. doi: 10.1038/s41598-019-48489-3.
+
+atlasBREX: Automated template-derived brain extraction in animal MRI.
+
+Lohmeier J(1), Kaneko T(2), Hamm B(3), Makowski MR(3), Okano H(4)(5).
+
+Author information: 
+(1)Charité Universitätsmedizin Berlin, Radiology, Berlin, Germany.
+johannes.lohmeier@charite.de.
+(2)Center for Brain Science Institute, RIKEN, Marmoset Neural Architecture,
+Wako-shi, Saitama, Japan.
+(3)Charité Universitätsmedizin Berlin, Radiology, Berlin, Germany.
+(4)Center for Brain Science Institute, RIKEN, Marmoset Neural Architecture,
+Wako-shi, Saitama, Japan. hidokano@a2.keio.jp.
+(5)Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+hidokano@a2.keio.jp.
+
+We proposed a generic template-derived approach for (semi-) automated brain
+extraction in animal MRI studies and evaluated our implementation with different 
+animal models (macaque, marmoset, rodent) and MRI protocols (T1, T2). While
+conventional MR-neuroimaging studies perform brain extraction as an initial step 
+priming subsequent image-registration from subject to template, our proposed
+approach propagates an anatomical template to (whole-head) individual subjects in
+reverse order, which is challenging due to the surrounding extracranial tissue,
+greater differences in contrast pattern and larger areas with field
+inhomogeneity. As a novel approach, the herein introduced brain extraction
+algorithm derives whole-brain segmentation using rigid and non-rigid deformation 
+based on unbiased anatomical atlas building with a priori estimates from
+study-cohort and an initial approximate brain extraction. We evaluated our
+proposed method in comparison to several other technical approaches including
+"Marker based watershed scalper", "Brain-Extraction-Tool", "3dSkullStrip",
+"Primatologist-Toolbox", "Rapid Automatic Tissue Segmentation" and "Robust
+automatic rodent brain extraction using 3D pulse-coupled neural networks" with
+manual skull-stripping as reference standard. ABX demonstrated best performance
+with accurate (≥92%) and consistent results throughout datasets and across
+species, age and MRI protocols. ABX was made available to the public with
+documentation, templates and sample material (
+https://www.github.com/jlohmeier/atlasBREX ).
+
+DOI: 10.1038/s41598-019-48489-3 
+PMCID: PMC6704255
+PMID: 31434923  [Indexed for MEDLINE]
+
+
+448. Viral Immunol. 2019 Oct;32(8):348-354. doi: 10.1089/vim.2019.0054. Epub 2019 Aug 
+21.
+
+Seroprevalence of Human Adenovirus Type 5 Neutralizing Antibody in Common
+Marmosets Determined by a New Set of Two Assays.
+
+Wang Q(1), Sun Y(1), Xu Y(2), Wang Y(1), Wang H(3), Fu Y(4), Allain JP(5), Li
+C(1)(6), Li T(1).
+
+Author information: 
+(1)Department of Transfusion Medicine, School of Laboratory Medicine and
+Biotechnology, Southern Medical University, Guangzhou, China.
+(2)Sun Yat-sen University Cancer Center, Guangzhou, China.
+(3)Shunde Hospital, Southern Medical University, Foshan, China.
+(4)Guangzhou Blood Center, Guangzhou, China.
+(5)Department of Haematology, Emeritus, University of Cambridge, Cambridge,
+United Kingdom.
+(6)School of Public Health and Tropical Medicine, Southern Medical University,
+Guangzhou, China.
+
+Preexisting neutralizing antibody (NAb) against human adenovirus serotype 5
+(AdHu5) can reduce the immunogenicity of AdHu5 vector-based vaccine, thus
+inhibiting the host's immune response and utility of other homologous vectors.
+Common marmoset (Callithrix jacchus), a small new world primate, has attracted
+considerable attention for its potential as a preclinical research model of
+vaccine development. However, the prevalence of anti-AdHu5 NAb activity in common
+marmosets bred in China remains unknown. A recombinant adenovirus expressing
+luciferase and Zs Green reporter genes were constructed to detect NAb against
+rAdHu5 by flow cytometry (FCM) and chemiluminescence (CL) assay. Five of 25
+marmosets (20%) presented AdHu5 NAb detectable by FCM. Four animals had low titer
+(1/16), while the fifth one reached 1/64. While by CL assay, 7 of 25 (28%)
+marmosets were anti-AdHu5 NAb positive. Four animals, two of whom were negative
+by FCM, also had low titer NAb (1/16), suggesting assay discrepancy at low
+levels. Two marmosets, 1/32 titer by CL, were at 1/16 by FCM. A single animal
+showed a high titer with both assays (1/128 and 1/64 by CL and FCM,
+respectively). The CL method was simpler, more sensitive, accurate, and stable.
+The low prevalence of preexisting anti-AdHu5 NAb in marmosets provides important 
+background information on the feasibility and applicability of using marmosets as
+a preclinical research model for vaccine development.
+
+DOI: 10.1089/vim.2019.0054 
+PMID: 31433272  [Indexed for MEDLINE]
+

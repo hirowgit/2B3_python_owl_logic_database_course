@@ -1,0 +1,59 @@
+
+
+1683. Folia Primatol (Basel). 2012;83(1):47-55. doi: 10.1159/000339805. Epub 2012 Aug
+1.
+
+Can roads be used as transects for primate population surveys?.
+
+Hilário RR(1), Rodrigues FH, Chiarello AG, Mourthé I.
+
+Author information: 
+(1)Department of General Biology, Universidade Federal de Minas Gerais, Belo
+Horizonte, Brazil. renatohilario@gmail.com
+
+Line transect distance sampling (LTDS) can be applied to either trails or roads. 
+However, it is likely that sampling along roads might result in biased density
+estimates. In this paper, we compared the results obtained with LTDS applied on
+trails and roads for two primate species (Callithrix penicillata and Callicebus
+nigrifrons) to clarify whether roads are appropriate transects to estimate
+densities. We performed standard LTDS surveys in two nature reserves in
+south-eastern Brazil. Effective strip width and population density were different
+between trails and roads for C. penicillata, but not for C. nigrifrons. The
+results suggest that roads are not appropriate for use as transects in primate
+surveys, at least for some species. Further work is required to fully understand 
+this issue, but in the meantime we recommend that researchers avoid using roads
+as transects or treat roads and trails as covariates when sampling on roads is
+unavoidable.
+
+Copyright © 2012 S. Karger AG, Basel.
+
+DOI: 10.1159/000339805 
+PMID: 22854794  [Indexed for MEDLINE]
+
+
+1684. J Pharmacokinet Pharmacodyn. 2012 Oct;39(5):429-51. doi:
+10.1007/s10928-012-9260-6. Epub 2012 Aug 1.
+
+Dynamics of target-mediated drug disposition: characteristic profiles and
+parameter identification.
+
+Peletier LA(1), Gabrielsson J.
+
+Author information: 
+(1)Mathematical Institute, Leiden University, PB 9512, 2300 RA, Leiden, The
+Netherlands. peletier@math.leidenuniv.nl
+
+In this paper we present a mathematical analysis of the basic model for target
+mediated drug disposition (TMDD). Assuming high affinity of ligand to target, we 
+give a qualitative characterisation of ligand versus time graphs for different
+dosing regimes and derive accurate analytic approximations of different phases in
+the temporal behaviour of the system. These approximations are used to estimate
+model parameters, give analytical approximations of such quantities as area under
+the ligand curve and clearance. We formulate conditions under which a suitably
+chosen Michaelis-Menten model provides a good approximation of the full
+TMDD-model over a specified time interval.
+
+DOI: 10.1007/s10928-012-9260-6 
+PMCID: PMC3446204
+PMID: 22851162  [Indexed for MEDLINE]
+

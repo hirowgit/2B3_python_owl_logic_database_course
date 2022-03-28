@@ -1,0 +1,81 @@
+
+
+3754. Clin Exp Pharmacol Physiol. 1996 Oct-Nov;23(10-11):931-8.
+
+Parallel organization of somatosensory cortical areas I and II for tactile
+processing.
+
+Rowe MJ(1), Turman AB, Murray GM, Zhang HQ.
+
+Author information: 
+(1)School of Physiology and Pharmacology, University of New South Wales, Sydney, 
+Australia.
+
+1. The two principal tactile processing areas in the cerebral cortex,
+somatosensory areas I and II, receive direct projections from the thalamus and,
+as well, are linked through intracortical reciprocal connections. Tactile
+information may therefore be conveyed to SII, for example, over either a direct
+path from the thalamus or an indirect, or serial, path from the thalamus via SI. 
+2. Reports in recent years that tactile responsiveness within the hand area of
+SII was abolished by surgical ablation of the hand area of the postcentral, or SI
+area of the cortex in the macaque and marmoset monkeys indicated that a serial
+processing scheme may operate at least in primates. However, as the surgical
+ablation is clearly irreversible and precludes examination of individual SII
+neurons in both the control and test circumstances, that is, when SI is intact
+and when it is inactivated, we have examined in the cat, the rabbit and the
+marmoset monkey the behaviour of SII neurons before, during and after the
+selective, rapidly-reversible inactivation of SI by means of localized cooling.
+3. The results demonstrate that in the cat and rabbit, SII responsiveness is
+never abolished and infrequently affected by SI inactivation and that tactile
+inputs to SII therefore traverse a direct path from thalamus, organized in
+parallel with that to SI. In the marmoset (Callithrix jacchus), in contrast to
+earlier studies based on ablation of SI we found that with reversible
+inactivation of SI, SII responsiveness was unaffected in 25% of neurons and,
+although reduced in the remainder, was rarely abolished (< 10% of SII neurons).
+4. The results indicate that there is substantial direct thalamic input to SII,
+even in this simian primate, and therefore necessitate revision of the hypothesis
+that tactile processing at the thalamocortical level in simian primates is based 
+on a strict serial scheme in which tactile information is conveyed from the
+thalamus to SI and thence to SII.
+
+DOI: 10.1111/j.1440-1681.1996.tb01145.x 
+PMID: 8911737  [Indexed for MEDLINE]
+
+
+3755. Am J Pathol. 1996 Oct;149(4):1369-79.
+
+Biochemical and morphological characterization of vascular and lymphocytic
+interleukin-4 receptors.
+
+Schnyder B(1), Lugli SM, Schnyder-Candrian S, Eng VM, Moser R, Banchereau J,
+Ryffel B, Car BD.
+
+Author information: 
+(1)Institute of Toxicology, Swiss Federal Institute of Technology-ETH,
+Schwerzenbach, Switzerland.
+
+The distribution of the interleukin (IL)-4 receptor in normal human and common
+marmoset (Callithrix jacchus) tissues was examined by immunofluorescence and flow
+cytometry using monoclonal antibodies specific for the human IL-4 receptor to
+gain further insight into IL-4-mediated inflammatory and immunological events.
+IL-4 receptor positivity was unequivocally demonstrated on lymphocytes,
+predominantly T cells, and on blood vessels in many tissues. Vascular IL-4
+receptor immunofluorescence consisted of a strong smooth muscle cell positivity
+and weaker positive staining of capillary and venular endothelial cells.
+Subnanomolar concentrations of IL-4 induced a genistein-sensitive up-regulation
+of VCAM-1 in vascular cell cultures. Tumor necrosis factor-alpha induced a
+genistein-resistant up-regulation of VCAM-1. IL-4 strongly induced expression of 
+the IL-4 receptor on splenocytes (T lymphocytes) but not on vascular smooth
+muscle or endothelial cell cultures. Receptor cross-linking to [125I]IL-4
+revealed a 65- to 75-kDa accessory receptor subunit consistent with a recently
+cloned IL-13 receptor associated with the IL-4 receptor on both vascular
+endothelial and smooth muscle cells. The demonstration of a vascular distribution
+pattern for the IL-4 receptor in addition to expression on lymphocytes suggests
+that vascular functional alterations, transduced through a unique IL-4 receptor
+complex (the type II IL-4 receptor), may be of importance during immunological
+and allergic inflammatory events.
+
+
+PMCID: PMC1865187
+PMID: 8863684  [Indexed for MEDLINE]
+

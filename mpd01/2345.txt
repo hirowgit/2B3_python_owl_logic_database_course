@@ -1,0 +1,69 @@
+
+
+2345. J Virol. 2008 Jan;82(1):346-57. Epub 2007 Oct 24.
+
+Adaptation of the human immunodeficiency virus type 1 envelope glycoproteins to
+new world monkey receptors.
+
+Pacheco B(1), Basmaciogullari S, Labonte JA, Xiang SH, Sodroski J.
+
+Author information: 
+(1)Dana-Farber Cancer Institute, 44 Binney Street, JFB 824, Boston, MA 02115,
+USA.
+
+Human immunodeficiency virus type 1 (HIV-1) infection encounters an early block
+in the cells of New World monkeys because the CD4 receptor does not efficiently
+support HIV-1 entry. We adapted HIV-1(NL4-3) and HIV-1(KB9), two HIV-1 variants
+with different envelope glycoproteins, to replicate efficiently in cells
+expressing the CD4 and CXCR4 proteins of the common marmoset, a New World monkey.
+The HIV-1(NL4-3) adaptation involves three gp120 changes that result in a
+specific increase in affinity for the marmoset CD4 glycoprotein. The already high
+affinity of the HIV-1(KB9) envelope glycoproteins for marmoset CD4 did not
+significantly change as a result of the adaptation. Instead, changes in the gp120
+variable loops and gp41 ectodomain resulted in improved replication in cells
+expressing the marmoset receptors. HIV-1(KB9) became relatively sensitive to
+neutralization by soluble CD4 and antibodies as a result of the adaptation. These
+results demonstrate the distinct mechanistic pathways by which the HIV-1 envelope
+glycoproteins can adapt to less-than-optimal CD4 molecules and provide HIV-1
+variants that can overcome some of the early blocks in New World monkey cells.
+
+DOI: 10.1128/JVI.01299-07 
+PMCID: PMC2224371
+PMID: 17959679  [Indexed for MEDLINE]
+
+
+2346. Am J Primatol. 2008 Mar;70(3):294-300.
+
+Orchidectomized (orx) marmoset (Callithrix jacchus) as a model to study the
+development of osteopenia/osteoporosis.
+
+Seidlová-Wuttke D(1), Schlumbohm C, Jarry H, Dullin C, Wuttke W.
+
+Author information: 
+(1)Department of Clinical and Experimental Endocrinology, University of
+Goettingen, Goettingen, Germany.
+
+The common marmoset serves as a primate model for many human diseases.
+Hypogonadal and particularly aged men develop osteopenia or osteoporosis. Whether
+marmosets develop osteoporosis after orchidectomy is not known. This was tested
+in seven young and two older adult male orchidectomy animals using quantitative
+computer tomography, which allowed quantification of total surface and density of
+the cortex and of the cancellous structures of the metaphysis of the tibia and of
+the fifth or sixth lumbal vertebra (L5/L6) before or after orchidectomy (orx),
+and 1, 6 and 12 months later. Surrogate parameters of whole skeletal bone
+metabolism (osteocalcin, OC) and C-terminal breakdown products (telopeptides) of 
+collagen-alpha1 (CrossLaps) were also measured. Male marmosets lost between 5 and
+20% of their initial cancellous density in the metaphysis of the tibia and this
+was statistically significant 6 months after castration. No loss of cancellous
+density was observed in L5/L6 of young marmosets and OC and the CrossLaps in the 
+serum were decreased at this time point while a reduction was observed in bone
+mineral density of L5/L6 in two aged animals. It is concluded that castration of 
+young male marmoset for 1 year results in a significant loss of bone mineral
+density in the metaphysis of the tibia resulting in osteopenia but not in the
+vertebra. The results indicate that male orx marmosets become osteopenic within
+12 months after castration and may be a more human-like experimental model for
+bone research.
+
+DOI: 10.1002/ajp.20493 
+PMID: 17948894  [Indexed for MEDLINE]
+

@@ -1,0 +1,70 @@
+
+
+123. PLoS One. 2021 Jun 9;16(6):e0252093. doi: 10.1371/journal.pone.0252093.
+eCollection 2021.
+
+Womb to womb: Maternal litter size and birth weight but not adult characteristics
+predict early neonatal death of offspring in the common marmoset monkey.
+
+Rutherford JN(1), Ross CN(2), Ziegler T(3), Burke LA(4), Steffen AD(5), Sills
+A(6), Layne Colon D(2), deMartelly VA(7), Narapareddy LR(8), Tardif SD(2).
+
+Author information: 
+(1)Department of Human Development Nursing Science, College of Nursing,
+University of Illinois Chicago, Chicago, Illinois, United States of America.
+(2)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, Texas, United States of America.
+(3)Wisconsin National Primate Research Center, University of Wisconsin, Madison, 
+Wisconsin, United States of America.
+(4)Office for Research Facilitation, College of Nursing, University of Illinois
+Chicago, Chicago, Illinois, United States of America.
+(5)Department of Population Health Nursing Science, College of Nursing,
+University of Illinois Chicago, Chicago, Illinois, United States of America.
+(6)Barshop Institute for Longevity and Aging Studies, University of Texas Health 
+Science Center at San Antonio, San Antonio, Texas, United States of America.
+(7)Department of Biobehavioral Health Nursing Science, College of Nursing,
+University of Illinois Chicago, Chicago, Illinois, United States of America.
+(8)Nell Hodgson Woodruff School of Nursing, Emory University, Atlanta, Georgia,
+United States of America.
+
+A singular focus on maternal health at the time of a pregnancy leaves much about 
+perinatal mortality unexplained, especially when there is growing evidence for
+maternal early life effects. Further, lumping stillbirth and early neonatal death
+into a single category of perinatal mortality may obscure different causes and
+thus different avenues of screening and prevention. The common marmoset monkey
+(Callithrix jacchus), a litter-bearing nonhuman primate, is an ideal species in
+which to study the independent effects of a mother's early life and adult
+phenotypes on pregnancy outcomes. We tested two hypotheses in 59 marmoset
+pregnancies at the Southwest National Primate Research Center and the Barshop
+Institute for Longevity and Aging Studies. We explored 1) whether pregnancy
+outcomes were predicted independently by maternal adult weight versus maternal
+litter size and birth weight, and 2) whether stillbirth and early neonatal death 
+were differentially predicted by maternal variables. No maternal characteristics 
+predicted stillbirth and no maternal adult characteristics predicted early
+neonatal death. In univariate Poisson models, triplet-born females had a
+significantly increased rate of early neonatal death (IRR[se] = 3.00[1.29], p =
+0.011), while higher birth weight females had a decreased rate (IRR[se] =
+0.89[0.05], p = 0.039). In multivariate Poisson models, maternal litter size
+remained an independent predictor, explaining 13% of the variance in early
+neonatal death. We found that the later in the first week those neonates died,
+the more weight they lost. Together these findings suggest that triplet-born and 
+low birth weight females have distinct developmental trajectories underlying
+greater rates of infant loss, losses that we suggest may be attributable to
+developmental disruption of infant feeding and carrying. Our findings of early
+life contributions to adult pregnancy outcomes in the common marmoset disrupt
+mother-blaming narratives of pregnancy outcomes in humans. These narratives hold 
+that the pregnant person is solely responsible for pregnancy outcomes and the
+health of their children, independent of socioecological factors, a moralistic
+framing that has shaped clinical pregnancy management. It is necessary to
+differentiate temporal trajectories and causes of perinatal loss and view them as
+embedded in external processes to develop screening, diagnostic, and treatment
+tools that consider the full arc of a mother's lived experience, from womb to
+womb and beyond.
+
+DOI: 10.1371/journal.pone.0252093 
+PMCID: PMC8189522
+PMID: 34106943  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

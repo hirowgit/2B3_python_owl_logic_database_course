@@ -1,0 +1,35 @@
+
+
+2979. J Physiol. 2003 Feb 1;546(Pt 3):903-19.
+
+Centre and surround responses of marmoset lateral geniculate neurones at
+different temporal frequencies.
+
+Kilavik BE(1), Silveira LC, Kremers J.
+
+Author information: 
+(1)Department of Experimental Ophthalmology, University of Tübingen Eye Hospital,
+Röntgenweg 11, D-72076 Tübingen, Germany.
+
+The responses of marmoset lateral geniculate neurones to stimuli that were
+composed of a sinusoidally modulating centre stimulus and a surround that was
+modulated in counterphase were measured. The size of the stimulus centre was
+varied. These measurements were repeated at different temporal frequencies
+between 1 and 30 Hz. The response amplitudes and phases depended in a
+characteristic manner on the stimulus centre size. The response behaviour could
+be modelled by assuming Gaussian responsivity profiles of the cells' receptive
+field (RF) centres and surrounds and a phase delay in the RF surround responses, 
+relative to the centre, enabling the description of RF centre and surround
+response characteristics. We found that the RF centre-to-surround phase
+difference increased linearly with increasing temporal frequency, indicating a
+constant delay difference of about 4.5 to 6 ms. A linear model, including
+low-pass filters, a lead lag stage and a delay, was used to describe the mean RF 
+centre and surround responses. The separate RF centre and surround responses were
+less band pass than the full receptive field responses of the cells. The linear
+model provided less satisfactory fits to M-cell responses than to those of
+P-cells, indicating additional nonlinearities.
+
+DOI: 10.1113/jphysiol.2002.027748 
+PMCID: PMC2342578
+PMID: 12563014  [Indexed for MEDLINE]
+

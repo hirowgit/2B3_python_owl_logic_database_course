@@ -1,0 +1,40 @@
+
+
+613. Immunogenetics. 2019 Feb;71(2):109-121. doi: 10.1007/s00251-018-1091-1. Epub 2018
+Oct 23.
+
+Characterization of major histocompatibility complex-related molecule 1 sequence 
+variants in non-human primates.
+
+Ellis-Connell AL(1), Kannal NM(1), Balgeman AJ(1), O'Connor SL(2)(3).
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, University of
+Wisconsin-Madison, Madison, WI, 53711, USA.
+(2)Department of Pathology and Laboratory Medicine, University of
+Wisconsin-Madison, Madison, WI, 53711, USA. slfeinberg@wisc.edu.
+(3)Wisconsin National Primate Research Center, University of Wisconsin-Madison,
+Madison, WI, 53711, USA. slfeinberg@wisc.edu.
+
+The major histocompatibility complex (MHC) class I-related molecule, MR1,
+presents vitamin B metabolites from bacteria and yeast to mucosal-associated
+invariant T (MAIT) cells. Despite the evolutionary conservation of MR1, we do not
+know whether different allele variants of MR1 exist within the nonhuman primate
+(NHP) populations that are commonly used for biomedical research. In this study, 
+we identified 21 distinct MR1 nucleotide sequences representing 32 different
+alleles across five different NHP populations. The majority of the alleles
+conferring amino acid changes (allele variants) were found in or near the alpha-1
+domain of the mature MR1 protein. We expressed four of the most commonly observed
+MR1 allele variants in 293T cells, and we found that each variant could present
+bacterial metabolites on the cell surface. We successfully induced cytokine
+production in macaque MAIT cells stimulated with 293T cells expressing the four
+most common MR1 allele variants, demonstrating the usefulness of these cell lines
+to study MAIT cell activity. Our data suggests that MR1 is not monomorphic, but
+that there are multiple MR1 alleles in NHPs. The materials we describe here will 
+be valuable for characterizing differences in MR1 antigen presentation and MAIT
+cell function in NHPs.
+
+DOI: 10.1007/s00251-018-1091-1 
+PMCID: PMC6446917
+PMID: 30353260  [Indexed for MEDLINE]
+

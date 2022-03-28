@@ -1,0 +1,75 @@
+
+
+2823. Mol Cell Biol. 2004 May;24(10):4522-33.
+
+The Herpesvirus saimiri small nuclear RNAs recruit AU-rich element-binding
+proteins but do not alter host AU-rich element-containing mRNA levels in virally 
+transformed T cells.
+
+Cook HL(1), Mischo HE, Steitz JA.
+
+Author information: 
+(1)Department of Molecular Biophysics and Biochemistry, Howard Hughes Medical
+Institute, Yale University, New Haven, Connecticut 06536, USA.
+
+Herpesvirus saimiri (HVS) encodes seven Sm-class small nuclear RNAs, called HSURs
+(for Herpesvirus saimiri U RNAs), that are abundantly expressed in
+HVS-transformed, latently infected marmoset T cells but are of unknown function. 
+HSURs 1, 2, and 5 have highly conserved 5'-end sequences containing the AUUUA
+pentamer characteristic of AU-rich elements (AREs) that regulate the stability of
+many host mRNAs, including those encoding most proto-oncogenes and cytokines. To 
+test whether the ARE-containing HSURs act to sequester host proteins that
+regulate the decay of these mRNAs, we demonstrate their in vivo interaction with 
+the ARE-binding proteins hnRNP D and HuR in HVS-transformed T cells using a new
+cross-linking assay. Comprehensive Northern and microarray analyses revealed,
+however, that the levels of endogenous ARE-containing mRNAs are not altered in T 
+cells latently infected with HVS mutants lacking HSURs 1 and 2. HSUR 1 binds the 
+destabilizing ARE-binding protein tristetraprolin induced following activation of
+HVS-transformed T cells, but even in such stimulated cells, the levels of host
+ARE-containing mRNAs are not altered by deletion of HSURs 1 and 2. Instead, HSUR 
+1 itself is degraded by an ARE-dependent pathway in HVS-transformed T cells,
+suggesting that HVS may take advantage of the host ARE-mediated mRNA decay
+pathway to regulate HSUR expression. This is the first example of
+posttranscriptional regulation of the expression of an Sm small nuclear RNA.
+
+DOI: 10.1128/MCB.24.10.4522-4533.2004 
+PMCID: PMC400482
+PMID: 15121869  [Indexed for MEDLINE]
+
+
+2824. Cells Tissues Organs. 2004;176(4):187-94.
+
+Apocrine glands in the eyelid of primates contribute to the ocular host defense.
+
+Stoeckelhuber M(1), Stoeckelhuber BM, Welsch U.
+
+Author information: 
+(1)Anatomical Institute, Chair 2, University of Munich, Munich, Germany.
+mstoecke@anat.med.uni-muenchem.de
+
+Apocrine glands of Moll are regular components of primate eyelids. We studied the
+distribution and localization of these glands in three different primate species,
+the common marmoset, the rhesus monkey, and the hamadryas baboon. In addition, we
+tested the primate glands of Moll with antibodies against antimicrobial proteins,
+cytoskeletal proteins and the androgen receptor. The glands of Moll differ in
+abundance and distribution in different monkeys. In the common marmoset, a
+representative of the New World monkeys, Platyrrhini, the apocrine glands are
+frequently found at the lid margin and in the overlying epidermis of the lid. In 
+the rhesus monkey and the hamadryas baboon, representatives of Old World monkeys,
+Catarrhini, apocrine glands are rarer and located predominantly at the margin of 
+the lid. The immunohistochemical analysis indicates the presence of a variety of 
+antimicrobial proteins, e.g. lysozyme, beta-defensin-2, adrenomedullin,
+lactoferrin, and IgA, in these glands. Interestingly, there are basically no
+androgen receptors in the nuclei of apocrine glands at the lid margin in all
+three monkey species. In the common marmoset, however, androgen receptors are
+found in apocrine glands of the overlying epidermis of the lid. We speculate that
+the glands of Moll are derived from apocrine glands as found in the skin of the
+entire body in New World monkeys which developed at the lid margins of higher
+primates and humans into specialized glands secreting agents of host defense in
+the eye.
+
+Copyright 2004 S. Karger AG, Basel
+
+DOI: 10.1159/000077035 
+PMID: 15118398  [Indexed for MEDLINE]
+

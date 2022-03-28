@@ -1,0 +1,97 @@
+
+
+310. Primates. 2020 Sep;61(5):707-716. doi: 10.1007/s10329-020-00824-3. Epub 2020 May 
+14.
+
+Callitrichid responses to dead and dying infants: the effects of paternal bonding
+and cause of death.
+
+Thompson CL(1), Hrit R(2), Melo LCO(3), Vinyard CJ(4), Bottenberg KN(2), de
+Oliveira MAB(3).
+
+Author information: 
+(1)Department of Biomedical Sciences, Grand Valley State University, Allendale,
+MI, USA. thompscy@gvsu.edu.
+(2)Department of Biomedical Sciences, Grand Valley State University, Allendale,
+MI, USA.
+(3)Departamento de Morfologia e Fisiologia Animal, Universidade Federal Rural de 
+Pernambuco, Recife, Pernambuco, Brazil.
+(4)Department of Anatomy and Neurobiology, Northeast Ohio Medical University,
+Rootstown, OH, USA.
+
+Many primates show responses to dead infants, yet testing explanations for these 
+behaviors has been difficult. Callitrichids present a unique opportunity to
+delineate between hypotheses, since unlike most species, male caretakers form
+closer social bonds with infants than mothers. Callitrichids are also known to
+commit infanticide, leaving obvious wounds that may enable them to more readily
+recognize death. We present: (1) a case study of a wild common marmoset
+(Callithrix jacchus) group responding to an infant's natural death, and (2) a
+review of published infant deaths across callitrichids (N = 16), testing for
+trends in the sex of reacting individuals and cause of death. In our case study, 
+several group members frequently interacted with the dead infant, attempting to
+carry it. However, the strongest response was from a male that remained with the 
+corpse for ~ 3 h, despite his group leaving the area. Across callitrichid
+species, corpse interactions were significantly sex-biased: 100% (N = 6) of
+accidental deaths involved corpse interaction by males (p = 0.007), compared to
+60% (N = 3 of 5) by females (p = 0.095). Cause of death also played a significant
+role, with individuals attempting to carry dead infants in 100% (N = 6) of
+accidental deaths, but only 11.1% (N = 1 of 9) of infanticides (p = 0.001).
+Although the available literature is small and potentially subject to publication
+biases, these data support the idea that visually obvious wounds may influence
+callitrichids' perception of dead conspecifics. Additionally, male-biased
+patterns of corpse interaction in callitrichids indicate that social bonds likely
+shape reactions to the dead, in addition to kinship. While published data on
+primate thanatology are limited, this study demonstrates quantitative approaches 
+that can provide empirical insights into primates' responses to dead
+conspecifics.
+
+DOI: 10.1007/s10329-020-00824-3 
+PMID: 32409994  [Indexed for MEDLINE]
+
+
+311. J Comp Neurol. 2021 Feb;529(2):281-295. doi: 10.1002/cne.24946. Epub 2020 Jun 1.
+
+Multimodal cross-registration and quantification of metric distortions in
+marmoset whole brain histology using diffeomorphic mappings.
+
+Lee BC(1)(2), Lin MK(3), Fu Y(4), Hata J(5), Miller MI(1)(2), Mitra PP(3).
+
+Author information: 
+(1)Center for Imaging Science, Johns Hopkins University, Baltimore, Maryland,
+USA.
+(2)Department of Biomedical Engineering, Johns Hopkins University, Baltimore,
+Maryland, USA.
+(3)Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, USA.
+(4)Shanghai Jiaotong University, Shanghai, China.
+(5)RIKEN Center for Brain Science, Wako, Japan.
+
+Whole brain neuroanatomy using tera-voxel light-microscopic data sets is of much 
+current interest. A fundamental problem in this field is the mapping of
+individual brain data sets to a reference space. Previous work has not rigorously
+quantified in-vivo to ex-vivo distortions in brain geometry from tissue
+processing. Further, existing approaches focus on registering unimodal volumetric
+data; however, given the increasing interest in the marmoset model for
+neuroscience research and the importance of addressing individual brain
+architecture variations, new algorithms are necessary to cross-register
+multimodal data sets including MRIs and multiple histological series. Here we
+present a computational approach for same-subject multimodal MRI-guided
+reconstruction of a series of consecutive histological sections, jointly with
+diffeomorphic mapping to a reference atlas. We quantify the scale change during
+different stages of brain histological processing using the Jacobian determinant 
+of the diffeomorphic transformations involved. By mapping the final image stacks 
+to the ex-vivo post-fixation MRI, we show that (a) tape-transfer assisted
+histological sections can be reassembled accurately into 3D volumes with a local 
+scale change of 2.0 ± 0.4% per axis dimension; in contrast, (b) tissue
+perfusion/fixation as assessed by mapping the in-vivo MRIs to the ex-vivo post
+fixation MRIs shows a larger median absolute scale change of 6.9 ± 2.1% per axis 
+dimension. This is the first systematic quantification of local metric
+distortions associated with whole-brain histological processing, and we expect
+that the results will generalize to other species. These local scale changes will
+be important for computing local properties to create reference brain maps.
+
+© 2020 Wiley Periodicals, Inc.
+
+DOI: 10.1002/cne.24946 
+PMCID: PMC7666050
+PMID: 32406083  [Indexed for MEDLINE]
+

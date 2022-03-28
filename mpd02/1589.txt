@@ -1,0 +1,43 @@
+
+
+1589. J Neurosci Methods. 2013 Apr 30;215(1):121-31. doi:
+10.1016/j.jneumeth.2013.02.011. Epub 2013 Mar 6.
+
+Structural and quantitative neuroimaging of the common marmoset monkey using a
+clinical MRI system.
+
+Helms G(1), Garea-Rodriguez E, Schlumbohm C, König J, Dechent P, Fuchs E, Wilke
+M.
+
+Author information: 
+(1)Göttingen University Medical Center, Department of Cognitive Neurology,
+Göttingen, Germany. ghelms@gwdg.de
+
+Purpose was to adapt structural and quantitative magnetic resonance imaging (MRI)
+from humans to common marmoset monkeys on a clinical 3T scanner and to
+demonstrate the value for translational research. Three-dimensional T1- and
+T2-weighted MRI and gradient echo-based multi-parameter mapping was performed on 
+nine adult animals using a wrist coil. Structural MRI was applied in a model of
+targeted experimental autoimmune encephalomyelitis (EAE). Magnetization transfer 
+(MT) and T1 parameter maps were used to depict axon-rich cortical areas. After
+intraveneous triple dose of gadobutrol, the excretion half-time was determined
+from consecutive measurements of R1=1/T1. Diffusion tensor imaging (DTI) was
+performed at 1mm resolution. At 0.4mm resolution, total measurement time (30 min)
+was compatible with injection anesthesia, permitting rapid screening and frequent
+follow-up. Structural MRI depicted the EAE lesion in white matter. Quantitative
+values of T1, MT, and R2* in marmoset brain were comparable to humans, except for
+smaller R2* indicating lower iron content in basal ganglia. The middle temporal
+V5 area and the cortical layer IV could be identified, but were considerably
+better delineated when averaging two images at 0.33 mm resolution (70 min). A
+similar distribution volume (23%), but a shorter excretion half time than in
+humans (30 min) was observed. DTI was feasible only in larger structures, such as
+major axonal tracts. High-resolution MRI of common marmosets proved feasible
+using clinical MRI hardware. A rapid 3D examination protocol was established for 
+screening under injection anesthesia, thus avoiding the adverse effects of
+inhalation anesthesia.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2013.02.011 
+PMID: 23473795  [Indexed for MEDLINE]
+

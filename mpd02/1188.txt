@@ -1,0 +1,47 @@
+
+
+1188. Brain Pathol. 2016 Jul;26(4):452-64. doi: 10.1111/bpa.12292. Epub 2015 Sep 22.
+
+A New Targeted Model of Experimental Autoimmune Encephalomyelitis in the Common
+Marmoset.
+
+Stassart RM(1), Helms G(2), Garea-Rodríguez E(3)(4), Nessler S(1), Hayardeny
+L(5), Wegner C(1), Schlumbohm C(4)(6), Fuchs E(4)(6)(7), Brück W(1).
+
+Author information: 
+(1)Institute of Neuropathology, University Medical Center,
+Georg-August-University Göttingen, Göttingen, Germany.
+(2)Department of Cognitive Neurology, University Medical Center,
+Georg-August-University Göttingen, Göttingen, Germany.
+(3)Department of Neuroanatomy, Institute of Anatomy and Cell Biology,
+Albert-Ludwigs-University Freiburg, Freiburg, Germany.
+(4)Clinical Neurobiology Laboratory, German Primate Center, Göttingen, Germany.
+(5)Teva Pharmaceutical Industries, Netanya, Israel.
+(6)Encepharm GmbH, Göttingen, Germany.
+(7)Department of Neurology, University Medical Center, Georg-August-University
+Göttingen, Göttingen, Germany.
+
+Multiple sclerosis (MS) is the most common cause for sustained disability in
+young adults, yet treatment options remain very limited. Although numerous
+therapeutic approaches have been effective in rodent models of experimental
+autoimmune encephalomyelitis (EAE), only few proved to be beneficial in patients 
+with MS. Hence, there is a strong need for more predictive animal models. Within 
+the past decade, EAE in the common marmoset evolved as a potent, alternative
+model for MS, with immunological and pathological features resembling more
+closely the human disease. However, an often very rapid and severe disease course
+hampers its implementation for systematic testing of new treatment strategies. We
+here developed a new focal model of EAE in the common marmoset, induced by myelin
+oligodendrocyte glycoprotein (MOG) immunization and stereotactic injections of
+proinflammatory cytokines. At the injection site of cytokines, confluent
+inflammatory demyelinating lesions developed that strongly resembled human MS
+lesions. In a proof-of-principle treatment study with the immunomodulatory
+compound laquinimod, we demonstrate that targeted EAE in marmosets provides a
+promising and valid tool for preclinical experimental treatment trials in MS
+research.
+
+© 2015 International Society of Neuropathology.
+
+DOI: 10.1111/bpa.12292 
+PMCID: PMC8029260
+PMID: 26207848  [Indexed for MEDLINE]
+

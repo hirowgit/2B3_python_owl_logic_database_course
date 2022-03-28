@@ -1,0 +1,56 @@
+
+
+1395. RNA. 2014 Aug;20(8):1223-37. doi: 10.1261/rna.045310.114. Epub 2014 Jun 9.
+
+Small RNA profiling and characterization of piRNA clusters in the adult testes of
+the common marmoset, a model primate.
+
+Hirano T(1), Iwasaki YW(1), Lin ZY(2), Imamura M(3), Seki NM(4), Sasaki E(5),
+Saito K(1), Okano H(2), Siomi MC(6), Siomi H(1).
+
+Author information: 
+(1)Department of Molecular Biology, Keio University School of Medicine,
+Shinjuku-ku, Tokyo 160-8582, Japan.
+(2)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan.
+(3)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan Molecular Biology Section, Department of Cellular and
+Molecular Biology, Primate Research Institute, Kyoto University, Inuyama, Aichi
+484-8506, Japan.
+(4)Department of Molecular Biology, Keio University School of Medicine,
+Shinjuku-ku, Tokyo 160-8582, Japan Graduate School of Science, The University of 
+Tokyo, Bunkyo-ku, Tokyo 113-0032, Japan.
+(5)Department of Physiology, Keio University School of Medicine, Shinjuku-ku,
+Tokyo 160-8582, Japan Central Institute for Experimental Animals, Kawasaki,
+Kanagawa 210-0821, Japan.
+(6)Graduate School of Science, The University of Tokyo, Bunkyo-ku, Tokyo
+113-0032, Japan.
+
+Small RNAs mediate gene silencing by binding Argonaute/Piwi proteins to regulate 
+target RNAs. Here, we describe small RNA profiling of the adult testes of
+Callithrix jacchus, the common marmoset. The most abundant class of small RNAs in
+the adult testis was piRNAs, although 353 novel miRNAs but few endo-siRNAs were
+also identified. MARWI, a marmoset homolog of mouse MIWI and a very abundant PIWI
+in adult testes, associates with piRNAs that show characteristics of mouse
+pachytene piRNAs. As in other mammals, most marmoset piRNAs are derived from
+conserved clustered regions in the genome, which are annotated as intergenic
+regions. However, unlike in mice, marmoset piRNA clusters are also found on the X
+chromosome, suggesting escape from meiotic sex chromosome inactivation by the
+X-linked clusters. Some of the piRNA clusters identified contain
+antisense-orientated pseudogenes, suggesting the possibility that
+pseudogene-derived piRNAs may regulate parental functional protein-coding genes. 
+More piRNAs map to transposable element (TE) subfamilies when they have copies in
+piRNA clusters. In addition, the strand bias observed for piRNAs mapped to each
+TE subfamily correlates with the polarity of copies inserted in clusters. These
+findings suggest that pachytene piRNA clusters determine the abundance and
+strand-bias of TE-derived piRNAs, may regulate protein-coding genes via
+pseudogene-derived piRNAs, and may even play roles in meiosis in the adult
+marmoset testis.
+
+© 2014 Hirano et al.; Published by Cold Spring Harbor Laboratory Press for the
+RNA Society.
+
+DOI: 10.1261/rna.045310.114 
+PMCID: PMC4105748
+PMID: 24914035  [Indexed for MEDLINE]
+

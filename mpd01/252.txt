@@ -1,0 +1,121 @@
+
+
+252. Nature. 2020 Oct;586(7828):262-269. doi: 10.1038/s41586-020-2781-z. Epub 2020 Sep
+30.
+
+Innovations present in the primate interneuron repertoire.
+
+Krienen FM(1)(2), Goldman M(3)(4), Zhang Q(4)(5), C H Del Rosario R(4), Florio
+M(3)(4), Machold R(6), Saunders A(3)(4), Levandowski K(4)(5), Zaniewski H(4)(5), 
+Schuman B(6), Wu C(5), Lutservitz A(3)(4), Mullally CD(3)(4), Reed N(3)(4), Bien 
+E(3)(4), Bortolin L(3)(4), Fernandez-Otero M(4)(7), Lin JD(4), Wysoker A(4),
+Nemesh J(4), Kulp D(4), Burns M(7), Tkachev V(8)(9)(10), Smith R(11)(12), Walsh
+CA(11)(12), Dimidschstein J(4), Rudy B(6)(13), S Kean L(8)(9)(10), Berretta
+S(7)(14)(15), Fishell G(4)(16), Feng G(4)(5), McCarroll SA(17)(18).
+
+Author information: 
+(1)Department of Genetics, Harvard Medical School, Boston, MA, USA.
+fenna_krienen@hms.harvard.edu.
+(2)Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard,
+Cambridge, MA, USA. fenna_krienen@hms.harvard.edu.
+(3)Department of Genetics, Harvard Medical School, Boston, MA, USA.
+(4)Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard,
+Cambridge, MA, USA.
+(5)McGovern Institute for Brain Research, Department of Brain and Cognitive
+Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA.
+(6)NYU Neuroscience Institute, Langone Medical Center, New York University, New
+York, NY, USA.
+(7)Division of Comparative Medicine, Department of Biological Engineering,
+Massachusetts Institute of Technology, Cambridge, MA, USA.
+(8)Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.
+(9)Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA,
+USA.
+(10)Department of Pediatrics, Harvard Medical School, Boston, MA, USA.
+(11)Department of Pediatrics, Boston Children's Hospital, Boston, MA, USA.
+(12)Division of Genetics and Genomics, Boston Children's Hospital, Boston, MA,
+USA.
+(13)Department of Anesthesiology, Perioperative Care and Pain Medicine, New York 
+University School of Medicine, New York, NY, USA.
+(14)McLean Hospital, Belmont, MA, USA.
+(15)Department of Psychiatry, Harvard Medical School, Boston, MA, USA.
+(16)Program in Neuroscience, Harvard Medical School, Boston, MA, USA.
+(17)Department of Genetics, Harvard Medical School, Boston, MA, USA.
+mccarroll@hms.harvard.edu.
+(18)Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, 
+Cambridge, MA, USA. mccarroll@hms.harvard.edu.
+
+Erratum in
+    Nature. 2020 Dec;588(7837):E17.
+
+Primates and rodents, which descended from a common ancestor around 90 million
+years ago1, exhibit profound differences in behaviour and cognitive capacity; the
+cellular basis for these differences is unknown. Here we use single-nucleus RNA
+sequencing to profile RNA expression in 188,776 individual interneurons across
+homologous brain regions from three primates (human, macaque and marmoset), a
+rodent (mouse) and a weasel (ferret). Homologous interneuron types-which were
+readily identified by their RNA-expression patterns-varied in abundance and RNA
+expression among ferrets, mice and primates, but varied less among primates. Only
+a modest fraction of the genes identified as 'markers' of specific interneuron
+subtypes in any one species had this property in another species. In the primate 
+neocortex, dozens of genes showed spatial expression gradients among interneurons
+of the same type, which suggests that regional variation in cortical contexts
+shapes the RNA expression patterns of adult neocortical interneurons. We found
+that an interneuron type that was previously associated with the mouse
+hippocampus-the 'ivy cell', which has neurogliaform characteristics-has become
+abundant across the neocortex of humans, macaques and marmosets but not mice or
+ferrets. We also found a notable subcortical innovation: an abundant striatal
+interneuron type in primates that had no molecularly homologous counterpart in
+mice or ferrets. These interneurons expressed a unique combination of genes that 
+encode transcription factors, receptors and neuropeptides and constituted around 
+30% of striatal interneurons in marmosets and humans.
+
+DOI: 10.1038/s41586-020-2781-z 
+PMCID: PMC7957574
+PMID: 32999462  [Indexed for MEDLINE]
+
+
+253. Sci Rep. 2020 Sep 25;10(1):15751. doi: 10.1038/s41598-020-72794-x.
+
+Possible non-sylvatic transmission of yellow fever between non-human primates in 
+São Paulo city, Brazil, 2017-2018.
+
+Cunha MS(1), Tubaki RM(2), de Menezes RMT(2), Pereira M(3), Caleiro GS(4)(5),
+Coelho E(3), Saad LDC(6), Fernandes NCCA(7), Guerra JM(7), Nogueira JS(4), Summa 
+JL(8), Coimbra AAC(8), Zwarg T(8), Witkin SS(5)(9), Mucci LF(3), Timenetsky
+MDCST(10), Sabino EC(5), de Deus JT(3).
+
+Author information: 
+(1)Vector-Borne Diseases Laboratory, Adolfo Lutz Institute, Sao Paulo, Brazil.
+masequetin@gmail.com.
+(2)Laboratory of Medical Entomology, Superintendence of Control of Endemic
+Diseases (SUCEN), Sao Paulo, Brazil.
+(3)Yellow Fever Technical Group, Superintendence of Control of Endemic Diseases
+(SUCEN), Sao Paulo, Brazil.
+(4)Vector-Borne Diseases Laboratory, Adolfo Lutz Institute, Sao Paulo, Brazil.
+(5)Laboratory of Virology, Institute of Tropical Medicine, University of São
+Paulo, Sao Paulo, Brazil.
+(6)Divisao de Zoonoses, Centro de Vigilância Epidemiológica, Sao Paulo, Brazil.
+(7)Pathology Center, Adolfo Lutz Institute, Sao Paulo, Brazil.
+(8)Technical Division of Veterinary Medicine and Wildlife, Sao Paulo, Brazil.
+(9)Department of Obstetrics and Gynecology, Weill Cornell Medicine, New York, NY,
+10065, USA.
+(10)Center of Virology, Adolfo Lutz Institute, Sao Paulo, Brazil.
+
+Yellow Fever (YF) is a severe disease caused by Yellow Fever Virus (YFV), endemic
+in some parts of Africa and America. In Brazil, YFV is maintained by a sylvatic
+transmission cycle involving non-human primates (NHP) and forest canopy-dwelling 
+mosquitoes, mainly Haemagogus-spp and Sabethes-spp. Beginning in 2016, Brazil
+faced one of the largest Yellow Fever (YF) outbreaks in recent decades, mainly in
+the southeastern region. In São Paulo city, YFV was detected in October 2017 in
+Aloutta monkeys in an Atlantic Forest area. From 542 NHP, a total of 162 NHP were
+YFV positive by RT-qPCR and/or immunohistochemistry, being 22 Callithrix-spp.
+most from urban areas. Entomological collections executed did not detect the
+presence of strictly sylvatic mosquitoes. Three mosquito pools were positive for 
+YFV, 2 Haemagogus leucocelaenus, and 1 Aedes scapularis. In summary, YFV in the
+São Paulo urban area was detected mainly in resident marmosets, and synanthropic 
+mosquitoes were likely involved in viral transmission.
+
+DOI: 10.1038/s41598-020-72794-x 
+PMCID: PMC7519641
+PMID: 32978448  [Indexed for MEDLINE]
+

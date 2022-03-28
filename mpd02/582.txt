@@ -1,0 +1,38 @@
+
+
+582. Xenobiotica. 2019 Nov;49(11):1323-1331. doi: 10.1080/00498254.2018.1564401. Epub 
+2019 Jun 14.
+
+Regioselective hydroxylation of an antiarrhythmic drug, propafenone, mediated by 
+rat liver cytochrome P450 2D2 differs from that catalyzed by human P450 2D6.
+
+Uehara S(1), Murayama N(2), Yamazaki H(2), Suemizu H(1).
+
+Author information: 
+(1)a Central Institute for Experimental Animals , Kawasaki , Japan.
+(2)b Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University , Machida , Japan.
+
+1. Propafenone, an antiarrhythmic drug, is a typical human cytochrome P450 (P450)
+2D6 substrate used in preclinical studies. Here, propafenone oxidation by
+mammalian liver microsomes was investigated in vitro. 2. Liver microsomes from
+humans and marmosets preferentially mediated propafenone 5-hydroxylation,
+minipig, rat and mouse livers primarily mediated 4'-hydroxylation, but cynomolgus
+monkey and dog liver microsomes differently mediated N-despropylation. 3.
+Quinine, ketoconazole or anti-P450 2D antibodies suppressed propafenone
+4'/5-hydroxylation in human and rat liver microsomes. Pretreatments with
+β-naphthoflavone or dexamethasone increased N-despropylation in rat livers. 4.
+Recombinant rat P450 2D2 efficiently catalysed propafenone 4'-hydroxylation in a 
+substrate inhibition manner, comparable to rat liver microsomes, while human P450
+2D6 displayed propafenone 5-hydroxylation. Human and rat P450 1A, 2C and 3A
+enzymes mediated propafenone N-despropylation with high capacities. 5. Carbon-4' 
+of propafenone docked favourably into the active site of P450 2D2 based on an in 
+silico model; in contrast, carbon-5 of propafenone docked into human P450 2D6. 6.
+These results suggest that the major roles of individual P450 2D enzymes in
+regioselective hydroxylations of propafenone differ between human and rat livers,
+while the minor roles of P450 1A, 2C and 3A enzymes for propafenone
+N-despropylation are similar in livers of both species.
+
+DOI: 10.1080/00498254.2018.1564401 
+PMID: 30596462  [Indexed for MEDLINE]
+

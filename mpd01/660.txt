@@ -1,0 +1,87 @@
+
+
+660. J Acoust Soc Am. 2018 Jul;144(1):478. doi: 10.1121/1.5047743.
+
+Automatic detection and classification of marmoset vocalizations using deep and
+recurrent neural networks.
+
+Zhang YJ(1), Huang JF(2), Gong N(2), Ling ZH(1), Hu Y(1).
+
+Author information: 
+(1)National Engineering Laboratory for Speech and Language Information
+Processing, University of Science and Technology of China, 443 Huangshan Road,
+Hefei 230027, China.
+(2)Institute of Neuroscience, State Key Laboratory of Neuroscience, Chinese
+Academy of Sciences (CAS) Key Laboratory of Primate Neurobiology, Shanghai
+Institutes for Biological Sciences, CAS, 320 Yueyang Road, Shanghai 200031,
+China.
+
+This paper investigates the methods to detect and classify marmoset vocalizations
+automatically using a large data set of marmoset vocalizations and deep learning 
+techniques. For vocalization detection, neural networks-based methods, including 
+deep neural network (DNN) and recurrent neural network with long short-term
+memory units, are designed and compared against a conventional rule-based
+detection method. For vocalization classification, three different classification
+algorithms are compared, including a support vector machine (SVM), DNN, and long 
+short-term memory recurrent neural networks (LSTM-RNNs). A 1500-min audio data
+set containing recordings from four pairs of marmoset twins and manual
+annotations is employed for experiments. Two test sets are built according to
+whether the test samples are produced by the marmosets in the training set (test 
+set I) or not (test set II). Experimental results show that the LSTM-RNN-based
+detection method outperformed others and achieved 0.92% and 1.67% frame error
+rate on these two test sets. Furthermore, the deep learning models obtained
+higher classification accuracy than the SVM model, which was 95.60% and 91.67% on
+the two test sets, respectively.
+
+DOI: 10.1121/1.5047743 
+PMID: 30075670  [Indexed for MEDLINE]
+
+
+661. J Pharmacol Exp Ther. 2018 Oct;367(1):101-107. doi: 10.1124/jpet.118.250852. Epub
+2018 Aug 1.
+
+Binding Characteristics of Two Oxytocin Variants and Vasopressin at Oxytocin
+Receptors from Four Primate Species with Different Social Behavior Patterns.
+
+Taylor JH(1), Schulte NA(2), French JA(2), Toews ML(1).
+
+Author information: 
+(1)Departments of Psychology (J.H.T., J.A.F.) and Biology (J.A.F.), Callitrichid 
+Research Center, University of Nebraska at Omaha, Omaha, Nebraska; and Department
+of Pharmacology and Experimental Neuroscience, University of Nebraska Medical
+Center, Omaha, Nebraska (N.A.S., M.L.T.) mtoews@unmc.edu jhtaylor@unomaha.edu.
+(2)Departments of Psychology (J.H.T., J.A.F.) and Biology (J.A.F.), Callitrichid 
+Research Center, University of Nebraska at Omaha, Omaha, Nebraska; and Department
+of Pharmacology and Experimental Neuroscience, University of Nebraska Medical
+Center, Omaha, Nebraska (N.A.S., M.L.T.).
+
+A clade of New World monkeys (NWMs) exhibits considerable diversity in both
+oxytocin (OT) ligand and oxytocin receptor (OTR) structure. Most notable is the
+variant Pro8-OT, with proline instead of leucine at the eighth position,
+resulting in a rigid bend in the peptide backbone. A higher proportion of species
+that express Pro8-OT also engage in biparental care and social monogamy. When
+marmosets (genus Callithrix), a biparental and monogamous Pro8-OT NWM species,
+are administered the ancestral Leu8-OT, there is no change in social behavior
+compared with saline treatment. However, when Pro8-OT is administered, marmosets'
+sociosexual and prosocial behaviors are altered. The studies here tested the
+hypothesis that OTR binding affinities and OT-induced intracellular Ca2+
+potencies would favor the native OT ligand in OTRs from four primate species,
+each representing a unique combination of ancestral lineage, breeding system, and
+native OT ligand: humans (Leu8-OT, monogamous, apes), macaques (Leu8-OT,
+nonmonogamous, Old World monkey), marmosets (Pro8-OT, monogamous, NWM), and titi 
+monkeys (Leu8-OT, monogamous, NWM). OTRs were expressed in immortalized Chinese
+hamster ovary cells and tested for intact-cell binding affinities for Pro8-OT,
+Leu8-OT, and arginine vasopressin (AVP), as well as intracellular Ca2+ signaling 
+after stimulation with Pro8-OT, Leu8-OT, and AVP. Contrary to our hypothesis,
+Pro8-OT bound at modestly higher affinities and stimulated calcium signaling at
+modestly higher potencies compared with Leu8-OT in all four primate OTRs. Thus,
+differences downstream from a ligand-receptor binding event are more likely to
+explain the different behavioral responses to these two ligands.
+
+Copyright © 2018 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/jpet.118.250852 
+PMCID: PMC7250472
+PMID: 30068728  [Indexed for MEDLINE]
+

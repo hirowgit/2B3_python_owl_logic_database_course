@@ -1,0 +1,39 @@
+
+
+496. Genome Biol. 2019 May 16;20(1):96. doi: 10.1186/s13059-019-1711-6.
+
+Isolation of novel gut bifidobacteria using a combination of metagenomic and
+cultivation approaches.
+
+Lugli GA(1), Milani C(1), Duranti S(1), Alessandri G(2), Turroni F(1)(3),
+Mancabelli L(1), Tatoni D(1), Ossiprandi MC(2)(3), van Sinderen D(4), Ventura
+M(5)(6).
+
+Author information: 
+(1)Laboratory of Probiogenomics, Department of Chemistry, Life Sciences, and
+Environmental Sustainability, University of Parma, Parco Area delle Scienze 11a, 
+43124, Parma, Italy.
+(2)Department of Veterinary Medical Science, University of Parma, Parma, Italy.
+(3)Microbiome Research Hub, University of Parma, Parma, Italy.
+(4)APC Microbiome Institute and School of Microbiology, Bioscience Institute,
+National University of Ireland, Cork, Ireland.
+(5)Laboratory of Probiogenomics, Department of Chemistry, Life Sciences, and
+Environmental Sustainability, University of Parma, Parco Area delle Scienze 11a, 
+43124, Parma, Italy. marco.ventura@unipr.it.
+(6)Microbiome Research Hub, University of Parma, Parma, Italy.
+marco.ventura@unipr.it.
+
+Whole metagenome shotgun (WMGS) sequencing is a method that provides insights
+into the genomic composition and arrangement of complex microbial consortia.
+Here, we report how WMGS coupled with a cultivation approach allows the isolation
+of novel bifidobacteria from animal fecal samples. A combination of in silico
+analyses based on nucleotide and protein sequences facilitate the identification 
+of genetic material belonging to putative novel species. Consequently, the
+prediction of metabolic properties by in silico analyses permits the
+identification of specific substrates that are then employed to isolate these
+species through a cultivation method.
+
+DOI: 10.1186/s13059-019-1711-6 
+PMCID: PMC6524291
+PMID: 31097033  [Indexed for MEDLINE]
+

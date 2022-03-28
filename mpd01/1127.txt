@@ -1,0 +1,101 @@
+
+
+1127. Cell Rep. 2015 Dec 1;13(9):1989-99. doi: 10.1016/j.celrep.2015.10.050. Epub 2015 
+Nov 19.
+
+Long-Term Two-Photon Calcium Imaging of Neuronal Populations with Subcellular
+Resolution in Adult Non-human Primates.
+
+Sadakane O(1), Masamizu Y(2), Watakabe A(1), Terada S(3), Ohtsuka M(4), Takaji
+M(4), Mizukami H(5), Ozawa K(5), Kawasaki H(6), Matsuzaki M(7), Yamamori T(8).
+
+Author information: 
+(1)Division of Brain Biology, National Institute for Basic Biology, Aichi
+444-8585, Japan; Department of Basic Biology, The Graduate University for
+Advanced Studies (Sokendai), Aichi 444-8585, Japan; Laboratory for Molecular
+Analysis of Higher Brain Function, RIKEN Brain Science Institute, Saitama
+351-0198, Japan.
+(2)Department of Basic Biology, The Graduate University for Advanced Studies
+(Sokendai), Aichi 444-8585, Japan; Division of Brain Circuits, National Institute
+for Basic Biology, Aichi 444-8585, Japan.
+(3)Division of Brain Circuits, National Institute for Basic Biology, Aichi
+444-8585, Japan; Laboratory of Cell Recognition and Pattern Formation, Graduate
+School of Biostudies, Kyoto University, Kyoto 606-8501, Japan.
+(4)Division of Brain Biology, National Institute for Basic Biology, Aichi
+444-8585, Japan; Laboratory for Molecular Analysis of Higher Brain Function,
+RIKEN Brain Science Institute, Saitama 351-0198, Japan.
+(5)Division of Genetic Therapeutics, Center for Molecular Medicine, Jichi Medical
+University, Tochigi 329-0498, Japan.
+(6)Department of Medical Neuroscience, Graduate School of Medicine, Kanazawa
+University, Ishikawa 920-8640, Japan.
+(7)Department of Basic Biology, The Graduate University for Advanced Studies
+(Sokendai), Aichi 444-8585, Japan; Division of Brain Circuits, National Institute
+for Basic Biology, Aichi 444-8585, Japan. Electronic address: mzakim@nibb.ac.jp.
+(8)Division of Brain Biology, National Institute for Basic Biology, Aichi
+444-8585, Japan; Department of Basic Biology, The Graduate University for
+Advanced Studies (Sokendai), Aichi 444-8585, Japan; Laboratory for Molecular
+Analysis of Higher Brain Function, RIKEN Brain Science Institute, Saitama
+351-0198, Japan. Electronic address: tetsuo.yamamori@riken.jp.
+
+Two-photon imaging with genetically encoded calcium indicators (GECIs) enables
+long-term observation of neuronal activity in vivo. However, there are very few
+studies of GECIs in primates. Here, we report a method for long-term imaging of a
+GECI, GCaMP6f, expressed from adeno-associated virus vectors in cortical neurons 
+of the adult common marmoset (Callithrix jacchus), a small New World primate. We 
+used a tetracycline-inducible expression system to robustly amplify neuronal
+GCaMP6f expression and up- and downregulate it for more than 100 days. We
+succeeded in monitoring spontaneous activity not only from hundreds of neurons
+three-dimensionally distributed in layers 2 and 3 but also from single dendrites 
+and axons in layer 1. Furthermore, we detected selective activities from somata, 
+dendrites, and axons in the somatosensory cortex responding to specific tactile
+stimuli. Our results provide a way to investigate the organization and plasticity
+of cortical microcircuits at subcellular resolution in non-human primates.
+
+Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2015.10.050 
+PMID: 26655910  [Indexed for MEDLINE]
+
+
+1128. Front Psychiatry. 2015 Nov 30;6:160. doi: 10.3389/fpsyt.2015.00160. eCollection
+2015.
+
+Endocrine and Cognitive Adaptations to Cope with Stress in Immature Common
+Marmosets (Callithrix jacchus): Sex and Age Matter.
+
+de Sousa MB(1), Galvão AC(2), Sales CJ(2), de Castro DC(2), Galvão-Coelho NL(3).
+
+Author information: 
+(1)Brain Institute, Universidade Federal do Rio Grande do Norte , Natal , Brazil.
+(2)Graduate Program in Psychobiology, Universidade Federal do Rio Grande do Norte
+, Natal , Brazil.
+(3)Department of Physiology, Universidade Federal do Rio Grande do Norte , Natal 
+, Brazil.
+
+Phenotypic sex differences in primates are associated with body differentiation
+during the early stages of life, expressed in both physiological and behavioral
+features. Hormones seem to play a pivotal role in creating a range of responses
+to meet environmental and social demands, resulting in better reactions to cope
+with challenges to survival and reproduction. Steroid hormones actively
+participate in neuroplasticity and steroids from both gonads and neurons seem to 
+be involved in behavioral modulation in primates. Indirect evidence suggests the 
+participation of sexual steroids in dimorphism of the stress response in common
+marmosets. This species is an important experimental model in psychiatry, and we 
+found a dual profile for cortisol in the transition from juvenile to subadult,
+with females showing higher levels. Immature males and females at 6 and 9 months 
+of age moved alone from the family group to a new cage, over a 21-day period,
+expressed distinct patterns of cortisol variation with respect to range and
+duration of response. Additional evidence showed that at 12 months of age, males 
+and females buffered the hypothalamic-pituitary-adrenal axis during chronic
+stress. Moreover, chronic stressed juvenile marmoset males showed better
+cognitive performance in working memory tests and motivation when compared to
+those submitted to short-term stress living in family groups. Thus, as cortisol
+profile seems to be sexually dimorphic before adulthood, age and sex are critical
+variables to consider in approaches that require immature marmosets in their
+experimental protocols. Moreover, available cognitive tests should be scrutinized
+to allow better investigation of cognitive traits in this species.
+
+DOI: 10.3389/fpsyt.2015.00160 
+PMCID: PMC4663272
+PMID: 26648876 
+

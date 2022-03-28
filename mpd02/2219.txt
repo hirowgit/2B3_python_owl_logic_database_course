@@ -1,0 +1,42 @@
+
+
+2219. J Immunol. 2008 Nov 1;181(9):6158-69.
+
+Cross-linking of B7-H1 on EBV-transformed B cells induces apoptosis through
+reactive oxygen species production, JNK signaling activation, and fasL
+expression.
+
+Kim YS(1), Park GB, Lee HK, Song H, Choi IH, Lee WJ, Hur DY.
+
+Author information: 
+(1)Department of Anatomy and Research Center for Tumor Immunology, Inje
+University College of Medicine, Busan, Republic of Korea.
+
+B7-H1 is a newly identified member of the B7 family with important regulatory
+functions in cell-mediated immune responses, and it is expressed in human immune 
+cells and several tumors. We first observed that expression of surface B7-H1 on B
+cells was increased during the immortalization process by EBV, which is strongly 
+related to both inflammation and tumorigenesis. Cross-linking of B7-H1 on
+EBV-transformed B cells using anti-B7-H1 Ab (clone 130002) induced reactive
+oxygen species (ROS) generation, mitochondrial disruption, release of apoptotic
+proteins from mitochondria, and subsequent apoptosis. Inhibition of caspases and 
+ROS generation recovered B7-H1-mediated apoptosis and proteolytic activities of
+caspase-8, -9, and -3. We observed that B7-H1 stimulation induced both
+transcription and translation of fasL. ZB4, an antagonistic anti-fas Ab, and
+NOK-1, an antagonistic anti-fasL Ab, effectively blocked apoptosis without
+exerting any influence on ROS generation. N-acetylcysteine (NAC) completely
+blocked the induction of fasL mRNA and protein. We found that B7-H1 stimulation
+activated the phosphorylation of JNK and c-jun and down-regulated ERK1/2 and
+p-Akt. NAC blocked the activation of JNK and down-regulation of ERK, but both
+z-VAD-fmk (N-benzyloxycarbonyl-Val-Ala-Asp-fluoromethylketone) and ZB4 did not
+inhibit JNK activation of B7-H1 stimulation. SP600125 blocked fasL induction and 
+apoptosis but did not affect ROS generation after B7-H1 stimulation. Taken
+together, we concluded that B7-H1-mediated apoptosis on EBV-transformed B cells
+may be involved in the induction of fasL, which is evoked by ROS generation and
+JNK activation after cross-linking of B7-H1. These results provide a new concept 
+for understanding reverse signaling through B7-H1 and another mechanism of tumor 
+immunotherapy using anti-B7-H1.
+
+DOI: 10.4049/jimmunol.181.9.6158 
+PMID: 18941206  [Indexed for MEDLINE]
+

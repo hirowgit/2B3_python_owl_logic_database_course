@@ -1,0 +1,84 @@
+
+
+1123. Behav Brain Res. 2016 Mar 1;300:25-30. doi: 10.1016/j.bbr.2015.11.028. Epub 2015 
+Dec 7.
+
+The dopamine D1 receptor agonist SKF-82958 effectively increases eye blinking
+count in common marmosets.
+
+Kotani M(1), Kiyoshi A(1), Murai T(1), Nakako T(1), Matsumoto K(1), Matsumoto
+A(1), Ikejiri M(1), Ogi Y(1), Ikeda K(2).
+
+Author information: 
+(1)Ikeda Lab, Drug Development Research Laboratories, Sumitomo Dainippon Pharma
+Co., Ltd., 33-94 Enoki-cho, Suita, Osaka 564-0053, Japan.
+(2)Ikeda Lab, Drug Development Research Laboratories, Sumitomo Dainippon Pharma
+Co., Ltd., 33-94 Enoki-cho, Suita, Osaka 564-0053, Japan. Electronic address:
+kazuhito-ikeda@ds-pharma.co.jp.
+
+Eye blinking is a spontaneous behavior observed in all mammals, and has been used
+as a well-established clinical indicator for dopamine production in
+neuropsychiatric disorders, including Parkinson's disease and Tourette syndrome
+[1,2]. Pharmacological studies in humans and non-human primates have shown that
+dopamine agonists/antagonists increase/decrease eye blinking rate. Common
+marmosets (Callithrix jacchus) have recently attracted a great deal of attention 
+as suitable experimental animals in the psychoneurological field due to their
+more developed prefrontal cortex than rodents, easy handling compare to other
+non-human primates, and requirement for small amounts of test drugs. In this
+study, we evaluated the effects of dopamine D1-4 receptors agonists on eye
+blinking in common marmosets. Our results show that the dopamine D1 receptor
+agonist SKF-82958 and the non-selective dopamine receptor agonist apomorphine
+significantly increased common marmosets eye blinking count, whereas the dopamine
+D2 agonist (+)-PHNO and the dopamine D3 receptor agonist (+)-PD-128907 produced
+somnolence in common marmosets resulting in a decrease in eye blinking count. The
+dopamine D4 receptor agonists PD-168077 and A-41297 had no effect on common
+marmosets' eye blinking count. Finally, the dopamine D1 receptor antagonist SCH
+39166 completely blocked apomorphine-induced increase in eye blinking count.
+These results indicate that eye blinking in common marmosets may be a useful tool
+for in vivo screening of novel dopamine D1 receptor agonists as antipsychotics.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbr.2015.11.028 
+PMID: 26675887  [Indexed for MEDLINE]
+
+
+1124. Chromosoma. 2016 Sep;125(4):747-56. doi: 10.1007/s00412-015-0565-2. Epub 2015 Dec
+14.
+
+The 14/15 association as a paradigmatic example of tracing karyotype evolution in
+New World monkeys.
+
+Capozzi O(1), Archidiacono N(1), Lorusso N(1), Stanyon R(2), Rocchi M(3).
+
+Author information: 
+(1)Department of Biology, University of Bari, Bari, Italy.
+(2)Department of Biology, University of Florence, Florence, Italy.
+roscoe.stanyon@unifi.it.
+(3)Department of Biology, University of Bari, Bari, Italy.
+rocchi@biologia.uniba.it.
+
+Fluorescence in situ hybridization (FISH), especially chromosome painting, has
+been extensively exploited in the phylogenetic reconstruction of primate
+evolution. Although chromosome painting is a key method to map translocations, it
+is not effective in detecting chromosome inversions, which may be up to four
+times more frequent than other chromosomal rearrangements. BAC-FISH instead can
+economically delineate marker order and reveal intrachromosomal rearrangements.
+However, up to now, BAC-FISH was rarely used to study the chromosomes of New
+World monkeys partly due to technical difficulties. In this paper, we used
+BAC-FISH to disentangle the complex evolutionary history of the ancestral 14/15
+association in NWMs, beginning from the squirrel monkey (Saimiri boliviensis). To
+improve the hybridization efficiency of BAC-FISH in NWMs, we "translated" the
+human BACs into Callithrix jacchus (CJA) BACs, which yielded much higher
+hybridization efficiencies on other NWM species than human BACs. Our results
+disclosed 14 synteny blocks in squirrel monkeys, 7 more than with chromosome
+painting. We then applied a subset of CJA BACs on six other NWM species. The
+comparison of the hybridization pattern of these species contained phylogenetic
+information to discriminate evolutionary relationships. Notably Aotus was found
+to share an inversion with Callithrix, thus definitely assigning the genus Aotus 
+to Cebidae. The present study can be seen as a paradigmatic approach to
+investigate the phylogenetics of NWMs by molecular cytogenetics.
+
+DOI: 10.1007/s00412-015-0565-2 
+PMID: 26667930  [Indexed for MEDLINE]
+

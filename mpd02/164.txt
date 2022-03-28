@@ -1,0 +1,38 @@
+
+
+164. Stem Cell Res. 2021 May;53:102308. doi: 10.1016/j.scr.2021.102308. Epub 2021 Mar 
+24.
+
+Generation of a common marmoset embryonic stem cell line CMES40-OC harboring a
+POU5F1 (OCT4)-2A-mCerulean3 knock-in reporter allele.
+
+Yoshimatsu S(1), Murakami R(2), Sato T(2), Saeki T(2), Yamamoto M(3), Sasaki
+E(4), Noce T(5), Okano H(1).
+
+Author information: 
+(1)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan;
+Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan.
+(2)Department of Physiology, School of Medicine, Keio University, Tokyo, Japan.
+(3)ICLAS Monitoring Center, Central Institute for Experimental Animals, Kanagawa,
+Japan.
+(4)Department of Marmoset Biology and Medicine, Central Institute for
+Experimental Animals, Kanagawa, Japan.
+(5)Laboratory for Marmoset Neural Architecture, RIKEN Center for Brain Science,
+Saitama, Japan.
+
+POU class 5 homeobox 1 (POU5F1, also known as OCT4) is critical for maintenance
+of pluripotency, germ cell fate, reprogramming into a pluripotent state, and
+early embryogenesis. We generated an embryonic stem cell (ESC) line of the common
+marmoset (Callithrix jacchus) harboring a heterozygous knock-in allele of
+OCT4-P2A-mCerulean-T2A-pac. The ESC line (CMES40-OC) will be valuable for
+investigation of primed/naïve pluripotency and germ cell fate. Homozygous OCT4
+knock-in clones were generated but could not be sustained in an undifferentiated 
+state in long-term culture. The OCT4 knock-in system facilitated simultaneous
+knock-in of a reporter construct at another locus, DDX4 (VASA).
+
+Copyright © 2021 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scr.2021.102308 
+PMID: 33799281  [Indexed for MEDLINE]
+

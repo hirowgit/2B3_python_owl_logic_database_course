@@ -1,0 +1,63 @@
+
+
+1168. J Neurosci Methods. 2016 Jan 15;257:55-63. doi: 10.1016/j.jneumeth.2015.09.002.
+Epub 2015 Sep 10.
+
+Custom fit 3D-printed brain holders for comparison of histology with MRI in
+marmosets.
+
+Guy JR(1), Sati P(2), Leibovitch E(3), Jacobson S(4), Silva AC(5), Reich DS(6).
+
+Author information: 
+(1)Division of Neuroimmunology and Neurovirology, National Institute of
+Neurologic Disorders and Stroke, 10 Center Drive MSC 1400, Building 10 Room
+5C103, Bethesda, MD 20892, United States. Electronic address: joseph.guy@nih.gov.
+(2)Division of Neuroimmunology and Neurovirology, National Institute of
+Neurologic Disorders and Stroke, 10 Center Drive MSC 1400, Building 10 Room
+5C103, Bethesda, MD 20892, United States. Electronic address:
+pascal.sati@nih.gov.
+(3)Division of Neuroimmunology and Neurovirology, National Institute of
+Neurologic Disorders and Stroke, 10 Center Drive MSC 1400, Building 10 Room
+5C103, Bethesda, MD 20892, United States. Electronic address:
+leibovitchel@ninds.nih.gov.
+(4)Division of Neuroimmunology and Neurovirology, National Institute of
+Neurologic Disorders and Stroke, 10 Center Drive MSC 1400, Building 10 Room
+5C103, Bethesda, MD 20892, United States. Electronic address:
+JacobsonS@ninds.nih.gov.
+(5)Laboratory of Functional and Molecular Imaging, National Institute of
+Neurologic Disorders and Stroke, 49 Convent Drive MSC 1065 Building 49 Room 3A72,
+Bethesda, MD 20892, United States. Electronic address: SilvaA@ninds.nih.gov.
+(6)Division of Neuroimmunology and Neurovirology, National Institute of
+Neurologic Disorders and Stroke, 10 Center Drive MSC 1400, Building 10 Room
+5C103, Bethesda, MD 20892, United States. Electronic address:
+reichds@ninds.nih.gov.
+
+BACKGROUND: MRI has the advantage of sampling large areas of tissue and locating 
+areas of interest in 3D space in both living and ex vivo systems, whereas
+histology has the ability to examine thin slices of ex vivo tissue with high
+detail and specificity. Although both are valuable tools, it is currently
+difficult to make high-precision comparisons between MRI and histology due to
+large differences inherent to the techniques. A method combining the advantages
+would be an asset to understanding the pathological correlates of MRI.
+NEW METHOD: 3D-printed brain holders were used to maintain marmoset brains in the
+same orientation during acquisition of ex vivo MRI and pathologic cutting of the 
+tissue.
+RESULTS: The results of maintaining this same orientation show that
+sub-millimeter, discrete neuropathological features in marmoset brain
+consistently share size, shape, and location between histology and ex vivo MRI,
+which facilitates comparison with serial imaging acquired in vivo.
+COMPARISON WITH EXISTING METHODS: Existing methods use computational approaches
+sensitive to data input in order to warp histologic images to match large-scale
+features on MRI, but the new method requires no warping of images, due to a
+preregistration accomplished in the technique, and is insensitive to data
+formatting and artifacts in both MRI and histology.
+CONCLUSIONS: The simple method of using 3D-printed brain holders to match brain
+orientation during pathologic sectioning and MRI acquisition enables rapid and
+precise comparison of small features seen on MRI to their underlying histology.
+
+Published by Elsevier B.V.
+
+DOI: 10.1016/j.jneumeth.2015.09.002 
+PMCID: PMC4662872
+PMID: 26365332  [Indexed for MEDLINE]
+

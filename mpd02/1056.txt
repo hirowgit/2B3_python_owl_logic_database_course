@@ -1,0 +1,42 @@
+
+
+1056. Gene Ther. 2016 Aug;23(8-9):680-9. doi: 10.1038/gt.2016.42. Epub 2016 Apr 26.
+
+AAV-mediated transduction and targeting of retinal bipolar cells with improved
+mGluR6 promoters in rodents and primates.
+
+Lu Q(1), Ganjawala TH(1), Ivanova E(2), Cheng JG(3), Troilo D(4), Pan ZH(1)(5).
+
+Author information: 
+(1)Department of Anatomy and Cell Biology, Wayne State University School of
+Medicine, Detroit, MI, USA.
+(2)Burke Medical Research Institute, Weill Medical College of Cornell University,
+White Plains, NY, USA.
+(3)Neuroscience Center, University of North Carolina, Chapel Hill, NC, USA.
+(4)State University of New York, College of Optometry, New York, NY, USA.
+(5)Department of Ophthalmology, Kresge Eye Institute, Wayne State University
+School of Medicine, Detroit, MI, USA.
+
+Adeno-associated virus (AAV) vectors have been a powerful gene delivery vehicle
+to the retina for basic research and gene therapy. For many of these
+applications, achieving cell type-specific targeting and high transduction
+efficiency is desired. Recently, there has been increasing interest in
+AAV-mediated gene targeting to specific retinal bipolar cell types. A 200-bp
+enhancer in combination with a basal SV40 promoter has been commonly used to
+target transgenes into ON-type bipolar cells. In the current study, we searched
+for additional cis-regulatory elements in the mGluR6 gene for improving
+AAV-mediated transduction efficiency into retinal bipolar cells. Our results
+showed that the combination of the endogenous mGluR6 promoter with additional
+enhancers in the introns of the mGluR6 gene markedly enhanced AAV transduction
+efficiency as well as made the targeting more selective for rod bipolar cells in 
+mice. Furthermore, the AAV vectors with the improved promoter could target to ON 
+bipolar cells with robust transduction efficiency in the parafovea and the far
+peripheral retina of marmoset monkeys. The improved mGluR6 promoter constructs
+could provide a valuable tool for genetic manipulation in rod bipolar cells in
+mice and facilitate clinical applications for ON bipolar cell-based gene
+therapies.
+
+DOI: 10.1038/gt.2016.42 
+PMCID: PMC4863234
+PMID: 27115727  [Indexed for MEDLINE]
+

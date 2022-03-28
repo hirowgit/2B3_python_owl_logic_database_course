@@ -1,0 +1,94 @@
+
+
+3165. J Physiol. 2001 Jun 1;533(Pt 2):519-35.
+
+Spatial properties of koniocellular cells in the lateral geniculate nucleus of
+the marmoset Callithrix jacchus.
+
+White AJ(1), Solomon SG, Martin PR.
+
+Author information: 
+(1)Department of Physiology and Institute for Biomedical Research, University of 
+Sydney, NSW 2006, Australia.
+
+1. The receptive field dimensions, contrast sensitivity and linearity of spatial 
+summation of koniocellular (KC), parvocellular (PC) and magnocellular (MC) cells 
+in the lateral geniculate nucleus (LGN) of 11 adult marmosets were measured using
+achromatic sinusoidal gratings. 2. The receptive field centre diameter of cells
+in each (PC, KC and MC) class increases with distance from the fovea. There is
+substantial overlap in centre size between the three cell classes at any
+eccentricity, but the PC cells have, on average, the smallest centres and the KC 
+cells have the largest. Some PC and KC cells did not respond at all to the
+grating stimulus. 3. The contrast sensitivity of the receptive field centre
+mechanism in KC cells decreases in proportion to the centre area. A similar trend
+was seen for the surround mechanism. These characteristics are common to PC and
+MC cells, suggesting that they originate at an early stage of visual processing
+in the retina. 4. The KC cells showed, in general, lower peak evoked discharge
+rates than PC or MC cells. The spontaneous discharge rate of KC cells was lower
+than that of PC cells and similar to that of MC cells. 5. The majority of cells
+in all divisions of the LGN show linear spatial summation. A few cells did show
+non-linear spatial summation; these cells were predominantly located in the MC
+and ventral KC layers. 6. The ventral KC layers below and between the MC layers
+contain cells with larger and more transiently responding receptive fields than
+cells in the more dorsal KC layers. 7. We conclude that many of the
+contrast-dependent spatial properties of cells in the marmoset LGN are common to 
+PC, MC and KC cells. The main difference between KC cells and the other two
+classes is that there is more variability in their response properties, and they 
+are less responsive to high spatial frequencies.
+
+DOI: 10.1111/j.1469-7793.2001.0519a.x 
+PMCID: PMC2278639
+PMID: 11389209  [Indexed for MEDLINE]
+
+
+3166. J Neurophysiol. 2001 Jun;85(6):2364-80.
+
+Neural representations of temporally asymmetric stimuli in the auditory cortex of
+awake primates.
+
+Lu T(1), Liang L, Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA.
+
+The representation of rapid acoustic transients by the auditory cortex is a
+fundamental issue that is still unresolved. Auditory cortical neurons have been
+shown to be limited in their stimulus-synchronized responses, yet the perceptual 
+performances of humans and animals in discriminating temporal variations in
+complex sounds are better than what existing neurophysiological data would
+predict. This study investigated the neural representation of temporally
+asymmetric stimuli in the primary auditory cortex of awake marmoset monkeys. The 
+stimuli, ramped and damped sinusoids, were systematically manipulated (by means
+of half-life of the exponential envelope) within a cortical neuron's presumed
+temporal integration window. The main findings of this study are as follows: 1)
+temporal asymmetry in ramped and damped sinusoids with a short period (25 ms) was
+clearly reflected by average discharge rate but not necessarily by temporal
+discharge patterns of auditory cortical neurons. There was considerable response 
+specificity to these stimuli such that some neurons were strongly responsive to a
+ramped sinusoid but almost completely unresponsive to its damped counterpart or
+vice versa. Of 181 neurons studied, 140 (77%) showed significant response
+asymmetry in at least one of the tested half-life values of the exponential
+envelope. Forty-six neurons showed significant response asymmetry over all
+half-lives tested. Sustained firing, commonly observed under awake conditions,
+contributed to greater response asymmetry than that of onset responses in many
+neurons. 2) A greater proportion of the neurons (32/46) that exhibited
+significant overall response asymmetry showed stronger responses to the ramped
+sinusoids than to the damped sinusoids, possibly contributing to the difference
+in the perceived loudness between these two classes of sounds. 3) The asymmetry
+preference of a neuron to ramped or damped sinusoids did not appear to be
+correlated with its characteristic frequency or minimum response latency,
+suggesting that this is a general phenomenon that exists across populations of
+cortical neurons. Moreover, the intensity of the stimuli did not have significant
+effects on the measure of the asymmetry preference based on discharge rate. 4) A 
+population measure of response preference, based on discharge rate, of cortical
+neurons to the temporally asymmetric stimuli was qualitatively similar to the
+performance of human listeners in discriminating ramped versus damped sinusoids
+at different half-life values. These findings suggest that rapid acoustic
+transients embedded in complex sounds can be represented by discharge rates of
+cortical neurons instead of or in the absence of stimulus-synchronized
+discharges.
+
+DOI: 10.1152/jn.2001.85.6.2364 
+PMID: 11387383  [Indexed for MEDLINE]
+

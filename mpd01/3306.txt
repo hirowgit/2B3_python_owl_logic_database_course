@@ -1,0 +1,81 @@
+
+
+3306. Physiol Behav. 2000 Apr 1-15;69(1-2):121-33.
+
+Taste quality and intensity: lessons from the Morrison technique.
+
+Ganchrow D(1), Erickson RP.
+
+Author information: 
+(1)Department of Anatomy and Embryology, Sackler Faculty of Medicine, Tel Aviv
+University, Israel. anatom12@post.tau.ac.il
+
+The nontoxic and nonshock Morrison operant technique was used to evaluate taste
+quality in rat and marmoset: response to a tastant test solution in pursuit of a 
+pellet reward was dependent on making a choice between two bars that had been
+linked in discrimination training to qualitatively different stimulus pairs (NaCl
+versus either HCl, QHCl, or NH(4)Cl). The percentage distribution of bar-press
+responses to test stimuli showed: (1) stability of quality across 0.069-0.3 M
+NaCl, 0.003-0.1 M HCl, and 0.0001-0.003 M QHCl; (2) for LiCl, a quality change
+consistent with human reports of a "sour" to "salty" shift; (3) a suggestion that
+the "salty-like" quality of NH(4)Cl and NaCl are not perceptually equivalent; (4)
+NaNO(3) shares NaCl-like, QHCl-like, and NH(4)Cl-like components; (5) CaCl(2),
+KCl, and MgCl(2) share QHCl-like and NH(4)Cl-like components; and (6) responses
+to HCl and QHCl were not hedonically driven in the rat. Comparison of rank order 
+correlations of single-unit firing rates to the distribution of bar-press
+responses for the same test stimulus concentration revealed that (7) no single
+level of the gustatory pathway exclusively accounts for the operant response
+distribution pattern to either simple or complex tastants, and (8)
+discriminations between tastants, one of which may be qualitatively complex, are 
+not necessarily mediated only at levels proximal to the solitary nucleus. Thus,
+the Morrison discrimination technique effectively yields statements about
+gustatory quality without use of negative reinforcers and largely uninfluenced by
+tastant hedonics.
+
+DOI: 10.1016/s0031-9384(00)00196-7 
+PMID: 10854924  [Indexed for MEDLINE]
+
+
+3307. Neuroscience. 2000;98(2):243-51.
+
+Synergistic effects of unilateral immunolesions of the cholinergic projections
+from the basal forebrain and contralateral ablations of the inferotemporal cortex
+and hippocampus in monkeys.
+
+Barefoot HC(1), Baker HF, Ridley RM.
+
+Author information: 
+(1)MRC Comparative Cognition Team, Department of Experimental Psychology, Downing
+Street, CB2 3EB, Cambridge, UK.
+
+Monkeys, with unilateral immunotoxic lesions of the basal nucleus of Meynert that
+remove cholinergic innervation of the ipsilesional neocortex, and ablations of
+the contralateral inferotemporal neocortex, were impaired on retention of visual 
+discriminations learnt before surgery and on acquisition of new discriminations. 
+This demonstrates that the cholinergic projection from the basal nucleus supports
+the functions of its cortical target area. Our previous studies have shown that
+the impairment on discrimination performance following bilateral lesions of the
+basal nucleus is transient and that bilateral lesions of the diagonal band of
+Broca, that remove cholinergic innervation of the hippocampus, are without effect
+on these tasks. However, the impairment resulting from bilateral lesions of the
+basal nucleus plus the diagonal band, or from bilateral inferotemporal cortex
+ablations, is severe and persistent. Bilateral inferotemporal ablations deprive
+the hippocampus of much of its visual input by producing a discontinuity in
+cortico-cortical transmission, whereas basal nucleus lesions may merely prevent
+the modification of visually-derived information in the inferotemporal cortex
+without depriving the hippocampus of visual input. In the monkeys with crossed
+unilateral basal nucleus plus inferotemporal cortex lesions, the addition of a
+diagonal band lesion to the basal nucleus lesion produced an impairment on
+retention of visual discriminations and sustained the acquisition impairment.
+This confirms the previous finding that the basal nucleus and diagonal band act
+synergistically in producing a severe and permanent impairment. Further addition 
+of an excitotoxic hippocampal lesion to the hemisphere with the inferotemporal
+cortex ablation did not add to the learning impairment. This supports the
+suggestion that the inferotemporal cortex ablation has deprived the hippocampus
+of its visual input.Overall, these experiments demonstrate that the cholinergic
+projections from the basal nucleus and diagonal band participate in the learning 
+and memory functions of the temporal lobes.
+
+DOI: 10.1016/s0306-4522(00)00131-7 
+PMID: 10854755  [Indexed for MEDLINE]
+

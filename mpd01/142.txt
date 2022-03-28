@@ -1,0 +1,84 @@
+
+
+142. Sci Rep. 2021 May 5;11(1):9624. doi: 10.1038/s41598-021-89175-7.
+
+Concurrent X chromosome inactivation and upregulation during non-human primate
+preimplantation development revealed by single-cell RNA-sequencing.
+
+Cidral AL(#)(1), de Mello JCM(#)(2), Gribnau J(2), Pereira LV(3).
+
+Author information: 
+(1)National Laboratory for Embryonic Stem Cells (LaNCE), Department of Genetics
+and Evolutionary Biology, Institute of Biosciences, University of São Paulo, São 
+Paulo, SP, 05508-090, Brazil.
+(2)Department of Developmental Biology, Oncode Institute, Erasmus MC University
+Medical Center, 3015GE, Rotterdam, The Netherlands.
+(3)National Laboratory for Embryonic Stem Cells (LaNCE), Department of Genetics
+and Evolutionary Biology, Institute of Biosciences, University of São Paulo, São 
+Paulo, SP, 05508-090, Brazil. lpereira@usp.br.
+(#)Contributed equally
+
+In mammals, dosage compensation of X-linked gene expression between males and
+females is achieved by inactivation of a single X chromosome in females, while
+upregulation of the single active X in males and females leads to X:autosome
+dosage balance. Studies in human embryos revealed that random X chromosome
+inactivation starts at the preimplantation stage and is not complete by day 12 of
+development. Alternatively, others proposed that dosage compensation in human
+preimplantation embryos is achieved by dampening expression from the two X
+chromosomes in females. Here, we characterize X-linked dosage compensation in
+another primate, the marmoset (Callithrix jacchus). Analyzing scRNA-seq data from
+preimplantation embryos, we detected upregulation of XIST at the morula stage,
+where female embryos presented a significantly higher expression of XIST than
+males. Moreover, we show an increase of X-linked monoallelically expressed genes 
+in female embryos between the morula and late blastocyst stages, indicative of
+XCI. Nevertheless, dosage compensation was not achieved by the late blastocyst
+stage. Finally, we show that X:autosome dosage compensation is achieved at the
+8-cell stage, and demonstrate that X chromosome dampening in females does not
+take place in the marmoset. Our work contributes to the elucidation of primate
+X-linked dosage compensation.
+
+DOI: 10.1038/s41598-021-89175-7 
+PMCID: PMC8100148
+PMID: 33953270  [Indexed for MEDLINE]
+
+
+143. J Comp Neurol. 2021 Sep;529(13):3274-3291. doi: 10.1002/cne.25167. Epub 2021 Jun 
+9.
+
+Sexually dimorphic perineuronal nets in the rodent and primate reproductive
+circuit.
+
+Ciccarelli A(1), Weijers D(1), Kwan W(2), Warner C(2), Bourne J(2), Gross CT(1).
+
+Author information: 
+(1)Epigenetics & Neurobiology Unit, EMBL Rome, European Molecular Biology
+Laboratory, Rome.
+(2)Australian Regenerative Medicine Institute, Monash University, Clayton,
+Victoria, Australia.
+
+Perineuronal nets are extracellular glycoprotein structures that have been found 
+on some neurons in the central nervous system and that have been shown to
+regulate their structural plasticity. Until now work on perineuronal nets has
+been focused on their role in cortical structures where they are selectively
+expressed on parvalbumin-positive neurons and are reported to restrict the
+experience-dependent plasticity of inhibitory afferents. Here, we examined the
+expression of perineuronal nets subcortically, showing that they are expressed in
+several discrete structures, including nuclei that comprise the brain network
+controlling reproductive behaviors (e.g., mounting, lordosis, aggression, and
+social defense). In particular, perineuronal nets were found in the posterior
+dorsal division of the medial amygdala, the medial preoptic nucleus, the
+posterior medial bed nucleus of the stria terminalis, the ventrolateral
+ventromedial hypothalamus and adjacent tuberal nucleus, and the ventral
+premammillary nucleus in both the mouse and primate brain. Comparison of
+perineuronal nets in male and female mice revealed a significant sexually
+dimorphic expression, with expression found prominently on estrogen receptor
+expressing neurons in the medial amygdala. These findings suggest that
+perineuronal nets may be involved in regulating neural plasticity in the
+mammalian reproductive system.
+
+© 2021 The Authors. The Journal of Comparative Neurology published by Wiley
+Periodicals LLC.
+
+DOI: 10.1002/cne.25167 
+PMID: 33950531  [Indexed for MEDLINE]
+

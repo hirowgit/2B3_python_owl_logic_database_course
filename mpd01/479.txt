@@ -1,0 +1,73 @@
+
+
+479. Methods Mol Biol. 2019;2006:309-319. doi: 10.1007/978-1-4939-9566-0_21.
+
+In Vitro Culture of Embryos from the Common Marmoset (Callithrix jacchus).
+
+Schmidt JK(1), Golos TG(2).
+
+Author information: 
+(1)Wisconsin National Primate Research Center, University of Wisconsin-Madison,
+Madison, WI, USA. jkropp@wisc.edu.
+(2)Wisconsin National Primate Research Center, University of Wisconsin-Madison,
+Madison, WI, USA.
+
+The biology of fertility, early development, and pregnancy is variable across
+mammalian species. In addition, while the physiology and pathophysiology of human
+diseases can be investigated in other animal models (principally, rodents),
+differences between human and lower mammals often present limitations in the
+applicability of physiological processes from rodent models to human biology.
+Since 1984, when the first live birth from rhesus monkey in vitro fertilization
+and embryo transfer was reported (Bavister et al., Proc Natl Acad Sci
+81:2218-2222, 1984), there has been progress in the implementation of assisted
+reproductive technologies with several nonhuman primate (NHP) species that play
+important roles in biomedical research. In recent years, the significance of this
+progress has been amplified by the development of genomic editing approaches for 
+facile genetic manipulation of the embryo, including methods now applied to NHPs 
+(Liu et al., Cell Stem Cell 14:323-328, 2014; Niu et al., Cell 156:836-843,
+2014). In this review, we summarize current protocols and practices for the
+common marmoset. It is our intention to provide current state-of-the-art
+protocols for gamete procurement and in vitro fertilization techniques, so that
+laboratories wishing to implement experimental embryology in marmoset models will
+have a basic set of tools with which to initiate such studies.
+
+DOI: 10.1007/978-1-4939-9566-0_21 
+PMID: 31230289  [Indexed for MEDLINE]
+
+
+480. Invest Ophthalmol Vis Sci. 2019 Jun 3;60(7):2623-2630. doi:
+10.1167/iovs.18-24490.
+
+Effects of Monocular Atropinization on Refractive Error and Eye Growth in Infant 
+New World Monkeys.
+
+Whatham AR, Lunn D, Judge SJ.
+
+Purpose: To explore the effect of topical atropine on axial eye growth and
+emmetropization in infant marmosets.
+Methods: Atropine was applied to one eye from the age of 7 to 56 days in two dose
+regimens, High (0.1-1% twice daily, increasing with age) or moderate (Mod) (0.1% 
+once daily). Both eyes of the marmosets were refracted, and axial dimensions were
+measured ultrasonically, at 14, 28, 42, 49, 56, 70, 105, 168, and 279 days of
+age. The time course of each measured variable was analyzed using multilevel
+mixed-effects modeling realized in R.
+Results: The logistic growth curves fitted to anterior segment depth (ASD) did
+not differ significantly between the dose regimens, but xmid, the age at which
+growth was half-maximal, and scal, the time constant of the exponential term in
+the logistic growth curve equation, differed significantly between the ASD of
+atropinized and untreated eyes (P = 0.03 and P < 0.0001, respectively), with the 
+ASD of atropinized eyes shorter than that of untreated eyes. The splines fitted
+to lens thickness did not vary significantly with dose, but differed
+significantly (P < 0.0001) between the atropinized and untreated eyes, with the
+atropinized lenses thicker. Vitreous chamber depth (VCD) was not significantly
+different, but the variance of VCD was significantly greater (P < 0.001) in the
+atropinized compared with the untreated eyes. Refractive error (RE) became
+relatively myopic in atropinized eyes. The variance of RE in atropinized eyes was
+significantly greater (P < 0.0001) than in untreated eyes.
+Conclusions: Atropine caused the infant marmoset lens to move forward and
+thicken, a relative myopia, and increases in the between-animals variance in VCD,
+which could be considered a failure of emmetropization.
+
+DOI: 10.1167/iovs.18-24490 
+PMID: 31226711  [Indexed for MEDLINE]
+

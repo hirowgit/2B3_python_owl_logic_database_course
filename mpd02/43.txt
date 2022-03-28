@@ -1,0 +1,47 @@
+
+
+43. Nat Commun. 2021 Nov 16;12(1):6608. doi: 10.1038/s41467-021-26976-4.
+
+Simultaneous functional MRI of two awake marmosets.
+
+Gilbert KM(1)(2), Cléry JC(3), Gati JS(3)(4), Hori Y(3), Johnston KD(5)(6),
+Mashkovtsev A(3), Selvanayagam J(3)(7), Zeman P(3), Menon RS(3)(4), Schaeffer
+DJ(8), Everling S(3)(5).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, London, ON, Canada. kgilbert@robarts.ca.
+(2)Department of Medical Biophysics, The University of Western Ontario, London,
+ON, Canada. kgilbert@robarts.ca.
+(3)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, London, ON, Canada.
+(4)Department of Medical Biophysics, The University of Western Ontario, London,
+ON, Canada.
+(5)Department of Physiology and Pharmacology, The University of Western Ontario, 
+London, ON, Canada.
+(6)Brain and Mind Institute, The University of Western Ontario, London, ON,
+Canada.
+(7)Graduate Program in Neuroscience, The University of Western Ontario, London,
+ON, Canada.
+(8)Department of Neurobiology, University of Pittsburgh, Pittsburgh, PA, USA.
+
+Social cognition is a dynamic process that requires the perception and
+integration of a complex set of idiosyncratic features between interacting
+conspecifics. Here we present a method for simultaneously measuring the
+whole-brain activation of two socially interacting marmoset monkeys using
+functional magnetic resonance imaging. MRI hardware (a radiofrequency coil and
+peripheral devices) and image-processing pipelines were developed to assess brain
+responses to socialization, both on an intra-brain and inter-brain level.
+Notably, the brain activation of a marmoset when viewing a second marmoset
+in-person versus when viewing a pre-recorded video of the same marmoset-i.e.,
+when either capable or incapable of socially interacting with a visible
+conspecific-demonstrates increased activation in the face-patch network. This
+method enables a wide range of possibilities for potentially studying social
+function and dysfunction in a non-human primate model.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41467-021-26976-4 
+PMCID: PMC8595428
+PMID: 34785685  [Indexed for MEDLINE]
+

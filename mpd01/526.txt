@@ -1,0 +1,99 @@
+
+
+526. PLoS One. 2019 Mar 20;14(3):e0213727. doi: 10.1371/journal.pone.0213727.
+eCollection 2019.
+
+Does opportunistic testing bias cognitive performance in primates? Learning from 
+drop-outs.
+
+Schubiger MN(1)(2), Kissling A(1), Burkart JM(1).
+
+Author information: 
+(1)Department of Anthropology, Evolutionary Cognition Group, University of
+Zurich, Zurich, Switzerland.
+(2)School of Social and Health Sciences, Division of Psychology, Abertay
+University, Dundee, Scotland, United Kingdom.
+
+Dropouts are a common issue in cognitive tests with non-human primates. One main 
+reason for dropouts is that researchers often face a trade-off between obtaining 
+a sufficiently large sample size and logistic restrictions, such as limited
+access to testing facilities. The commonly-used opportunistic testing approach
+deals with this trade-off by only testing those individuals who readily
+participate and complete the cognitive tasks within a given time frame. All other
+individuals are excluded from further testing and data analysis. However, it is
+unknown if this approach merely excludes subjects who are not consistently
+motivated to participate, or if these dropouts systematically differ in cognitive
+ability. If the latter holds, the selection bias resulting from opportunistic
+testing would systematically affect performance scores and thus comparisons
+between individuals and species. We assessed the potential effects of
+opportunistic testing on cognitive performance in common marmosets (Callithrix
+jacchus) and squirrel monkeys (Saimiri sciureus) with a test battery consisting
+of six cognitive tests: two inhibition tasks (Detour Reaching and A-not-B), one
+cognitive flexibility task (Reversal Learning), one quantity discrimination task,
+and two memory tasks. Importantly, we used a full testing approach in which
+subjects were given as much time as they required to complete each task. For each
+task, we then compared the performance of subjects who completed the task within 
+the expected number of testing days with those subjects who needed more testing
+time. We found that the two groups did not differ in task performance, and
+therefore opportunistic testing would have been justified without risking biased 
+results. If our findings generalise to other species, maximising sample sizes by 
+only testing consistently motivated subjects will be a valid alternative whenever
+full testing is not feasible.
+
+DOI: 10.1371/journal.pone.0213727 
+PMCID: PMC6426242
+PMID: 30893340  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+527. Genome Biol Evol. 2019 Apr 1;11(4):1105-1116. doi: 10.1093/gbe/evz062.
+
+Amplification Dynamics of Platy-1 Retrotransposons in the Cebidae Platyrrhine
+Lineage.
+
+Storer JM(1), Mierl JR(1), Brantley SA(1), Threeton B(1), Sukharutski Y(1),
+Rewerts LC(1), St Romain CP(1), Foreman MM(1), Baker JN(1), Walker JA(1), Orkin
+JD(2), Melin AD(2)(3), Phillips KA(4)(5), Konkel MK(1)(6), Batzer MA(1).
+
+Author information: 
+(1)Department of Biological Sciences, Louisiana State University.
+(2)Department of Anthropology and Archaeology & Department of Medical Genetics,
+University of Calgary, Alberta, Canada.
+(3)Alberta Children's Hospital Research Institute, N.W. Calgary, Alberta, Canada.
+(4)Department of Psychology, Trinity University.
+(5)Southwest National Primate Research Center, Texas Biomedical Research
+Institute, San Antonio, Texas.
+(6)Department of Genetics & Biochemistry, Clemson University.
+
+Platy-1 elements are Platyrrhine-specific, short interspersed elements originally
+discovered in the Callithrix jacchus (common marmoset) genome. To date, only the 
+marmoset genome has been analyzed for Platy-1 repeat content. Here, we report
+full-length Platy-1 insertions in other New World monkey (NWM) genomes (Saimiri
+boliviensis, squirrel monkey; Cebus imitator, capuchin monkey; and Aotus
+nancymaae, owl monkey) and analyze the amplification dynamics of lineage-specific
+Platy-1 insertions. A relatively small number of full-length and lineage-specific
+Platy-1 elements were found in the squirrel, capuchin, and owl monkey genomes
+compared with the marmoset genome. In addition, only a few older Platy-1
+subfamilies were recovered in this study, with no Platy-1 subfamilies younger
+than Platy-1-6. By contrast, 62 Platy-1 subfamilies were discovered in the
+marmoset genome. All of the lineage-specific insertions found in the squirrel and
+capuchin monkeys were fixed present. However, ∼15% of the lineage-specific
+Platy-1 loci in Aotus were polymorphic for insertion presence/absence. In
+addition, two new Platy-1 subfamilies were identified in the owl monkey genome
+with low nucleotide divergences compared with their respective consensus
+sequences, suggesting minimal ongoing retrotransposition in the Aotus genus and
+no current activity in the Saimiri, Cebus, and Sapajus genera. These comparative 
+analyses highlight the finding that the high number of Platy-1 elements
+discovered in the marmoset genome is an exception among NWM analyzed thus far,
+rather than the rule. Future studies are needed to expand upon our knowledge of
+Platy-1 amplification in other NWM genomes.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the
+Society for Molecular Biology and Evolution.
+
+DOI: 10.1093/gbe/evz062 
+PMCID: PMC6464705
+PMID: 30888417  [Indexed for MEDLINE]
+

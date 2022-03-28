@@ -1,0 +1,78 @@
+
+
+494. Neuroimage. 2019 Sep;198:44-52. doi: 10.1016/j.neuroimage.2019.05.023. Epub 2019 
+May 17.
+
+Microelectrode array electrical impedance tomography for fast functional imaging 
+in the thalamus.
+
+Zhu D(1), McEwan A(1), Eiber C(2).
+
+Author information: 
+(1)School of Electrical and Information Engineering, The University of Sydney,
+Camperdown, NSW, Australia.
+(2)Save Sight Institute, The University of Sydney, 8 Macquarie St, Sydney, NSW,
+Australia; School of Medical Sciences, University of Sydney, Sydney, NSW,
+Australia; Australian Research Council Centre of Excellence for Integrative Brain
+Function, Australia. Electronic address: calvin.eiber@sydney.edu.au.
+
+Electrical Impedance Tomography (EIT) has the potential to be able to observe
+functional tomographic images of neural activity in the brain at millisecond
+time-scales. Prior modelling and experimental work has shown that EIT is capable 
+of imaging impedance changes from neural depolarisation in rat somatosensory
+cortex. Here, we investigate the feasibility of EIT for imaging impedance changes
+using a stereotaxically implanted microelectrode array in the thalamus.
+Microelectrode array EIT was simulated using an anatomically accurate marmoset
+brain model. Impedance imaging was validated and detectability estimated using
+physiological noise recorded from the marmoset visual thalamus. The results
+suggest that visual-input-driven impedance changes in visual subcortical bodies
+within 300 μm of the implanted array could be reliably reconstructed and
+localised, comparable to local field potential measurements. Furthermore, we
+demonstrated that microelectrode array EIT could reconstruct concurrent activity 
+in multiple subcortical bodies simultaneously.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2019.05.023 
+PMID: 31108212  [Indexed for MEDLINE]
+
+
+495. Genes Cells. 2019 Jul;24(7):473-484. doi: 10.1111/gtc.12702. Epub 2019 Jun 17.
+
+Highly efficient induction of primate iPS cells by combining RNA transfection and
+chemical compounds.
+
+Watanabe T(1), Yamazaki S(1), Yoneda N(1), Shinohara H(1), Tomioka I(2), Higuchi 
+Y(1), Yagoto M(1), Ema M(3)(4), Suemizu H(1), Kawai K(1), Sasaki E(1).
+
+Author information: 
+(1)Central Institute for Experimental Animals, Kawasaki, Japan.
+(2)Laboratory of Applied Reproductive Science, Faculty of Agriculture, Shinshu
+University, Matsumoto, Japan.
+(3)Department of Stem Cells and Human Disease Models, Research Center for Animal 
+Life Science, Shiga University of Medical Science, Shiga, Japan.
+(4)Institute for the Advanced Study of Human Biology (ASHBi), Kyoto University
+Institute for Advanced Study, Kyoto, Japan.
+
+Induced pluripotent stem (iPS) cells hold great promise for regenerative medicine
+and the treatment of various diseases. Before proceeding to clinical trials, it
+is important to test the efficacy and safety of iPS cell-based treatments using
+experimental animals. The common marmoset is a new world monkey widely used in
+biomedical studies. However, efficient methods that could generate iPS cells from
+a variety of cells have not been established. Here, we report that marmoset cells
+are efficiently reprogrammed into iPS cells by combining RNA transfection and
+chemical compounds. Using this novel combination, we generate transgene
+integration-free marmoset iPS cells from a variety of cells that are difficult to
+reprogram using conventional RNA transfection method. Furthermore, we show this
+is similarly effective for human and cynomolgus monkey iPS cell generation. Thus,
+the addition of chemical compounds during RNA transfection greatly facilitates
+reprogramming and efficient generation of completely integration-free safe iPS
+cells in primates, particularly from difficult-to-reprogram cells.
+
+© 2019 The Authors. Genes to Cells published by Molecular Biology Society of
+Japan and John Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/gtc.12702 
+PMCID: PMC6852476
+PMID: 31099158  [Indexed for MEDLINE]
+

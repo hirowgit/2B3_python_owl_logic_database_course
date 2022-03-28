@@ -1,0 +1,93 @@
+
+
+50. Elife. 2021 Nov 1;10. pii: e68837. doi: 10.7554/eLife.68837.
+
+Fast and accurate annotation of acoustic signals with deep neural networks.
+
+Steinfath E(1)(2), Palacios-Muñoz A(1)(2), Rottschäfer JR(1)(2), Yuezak D(1)(2), 
+Clemens J(1)(3).
+
+Author information: 
+(1)European Neuroscience Institute - A Joint Initiative of the University Medical
+Center Göttingen and the Max-Planck-Society, Göttingen, Germany.
+(2)International Max Planck Research School and Göttingen Graduate School for
+Neurosciences, Biophysics, and Molecular Biosciences (GGNB) at the University of 
+Göttingen, Göttingen, Germany.
+(3)Bernstein Center for Computational Neuroscience, Göttingen, Germany.
+
+Acoustic signals serve communication within and across species throughout the
+animal kingdom. Studying the genetics, evolution, and neurobiology of acoustic
+communication requires annotating acoustic signals: segmenting and identifying
+individual acoustic elements like syllables or sound pulses. To be useful,
+annotations need to be accurate, robust to noise, and fast.We here introduce
+DeepAudioSegmenter (DAS), a method that annotates acoustic signals across species
+based on a deep-learning derived hierarchical presentation of sound. We
+demonstrate the accuracy, robustness, and speed of DAS using acoustic signals
+with diverse characteristics from insects, birds, and mammals. DAS comes with a
+graphical user interface for annotating song, training the network, and for
+generating and proofreading annotations. The method can be trained to annotate
+signals from new species with little manual annotation and can be combined with
+unsupervised methods to discover novel signal types. DAS annotates song with high
+throughput and low latency for experimental interventions in realtime. Overall,
+DAS is a universal, versatile, and accessible tool for annotating acoustic
+communication signals.
+
+© 2021, Steinfath et al.
+
+DOI: 10.7554/eLife.68837 
+PMCID: PMC8560090
+PMID: 34723794  [Indexed for MEDLINE]
+
+Conflict of interest statement: ES, AP, JR, DY No competing interests declared
+
+
+51. J Neurosci Res. 2021 Dec;99(12):3121-3147. doi: 10.1002/jnr.24967. Epub 2021 Oct 
+29.
+
+Light microscopic and heterogeneity analysis of astrocytes in the common marmoset
+brain.
+
+Muñoz Y(1), Cuevas-Pacheco F(2)(3), Quesseveur G(1), Murai KK(1)(4).
+
+Author information: 
+(1)Centre for Research in Neuroscience, Department of Neurology & Neurosurgery,
+Brain Repair and Integrative Neuroscience Program, Research Institute of the
+McGill University Health Centre, Montreal General Hospital, Montreal, QC, Canada.
+(2)Department of Mathematics, Universidad Técnica Federico Santa Maria,
+Valparaiso, Chile.
+(3)Advanced Center for Electrical and Electronic Engineering, Universidad Técnica
+Federico Santa Maria, Valparaiso, Chile.
+(4)Quantitative Life Sciences Graduate Program, McGill University, Montreal, QC, 
+Canada.
+
+Astrocytes are abundant cells of the central nervous system (CNS) and are
+involved in processes including synapse formation/function, ion homeostasis,
+neurotransmitter uptake, and neurovascular coupling. Recent evidence indicates
+that astrocytes show diverse molecular, structural, and physiological properties 
+within the CNS. This heterogeneity is reflected in differences in astrocyte
+structure, gene expression, functional properties, and responsiveness to
+injury/pathological conditions. Deeper investigation of astrocytic heterogeneity 
+is needed to understand how astrocytes are configured to enable diverse roles in 
+the CNS. While much has been learned about astrocytic heterogeneity in rodents,
+much less is known about astrocytic heterogeneity in the primate brain where
+astrocytes have greater size and complexity. The common marmoset (Callithrix
+jacchus) is a promising non-human primate model because of similarities between
+marmosets and humans with respect to genetics, brain anatomy, and
+cognition/behavior. Here, we investigated the molecular and structural
+heterogeneity of marmoset astrocytes using an array of astrocytic markers,
+multi-label confocal microscopy, and quantitative analysis. We used male and
+female marmosets and found that marmoset astrocytes show differences in
+expression of astrocytic markers in cortex, hippocampus, and cerebellum. These
+differences were accompanied by intra-regional variation in expression of markers
+for glutamate/GABA transporters, and potassium and water channels. Differences in
+astrocyte structure were also found, along with complex interactions with blood
+vessels, microglia, and neurons. This study contributes to our knowledge of the
+cellular and molecular features of marmoset astrocytes and is useful for
+understanding the complex properties of astrocytes in the primate CNS.
+
+© 2021 The Authors. Journal of Neuroscience Research published by Wiley
+Periodicals LLC.
+
+DOI: 10.1002/jnr.24967 
+PMID: 34716617 
+

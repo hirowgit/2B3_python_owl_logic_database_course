@@ -1,0 +1,92 @@
+
+
+996. Invest Ophthalmol Vis Sci. 2016 Sep 1;57(11):4536-52. doi: 10.1167/iovs.16-19286.
+
+Is Angiostatin Involved in Physiological Foveal Avascularity?
+
+Böhm MR(1)(2), Hodes F(2), Brockhaus K(2), Hummel S(2), Schlatt S(3), Melkonyan
+H(2), Thanos S(2).
+
+Author information: 
+(1)Department of Ophthalmology Clinic for Diseases of the Anterior Segments of
+the Eyes, Essen University Hospital, Essen, Germany
+(2)Institute of Experimental Ophthalmology, School of Medicine, Westfalian
+Wilhelms-University of Münster, Münster, Germany
+(3)Centre for Reproductive Medicine and Andrology, Westfalian Wilhelms-University
+of Münster, Münster, Germany
+
+Purpose: The primate central retina is characterized by an avascular fovea and
+well-defined perifoveal capillary plexus. Neither blood vessels nor their
+accompanying astrocytes enter the fovea during any stage of retinal development; 
+a balance of angiogenic and angiostatic factors probably maintains foveal
+avascularity throughout life. The aim of this study was to identify potentially
+angiorepulsive factors involved in the development of the avascular primate
+retinal fovea.
+Methods: Retinas of newborn, juvenile, and adult Callithrix jacchus and Macaca
+fascicularis monkeys and control human retinas were studied to determine the
+localization of angiostatin relative to III β-tubulin, glial fibrillary acidic
+protein, vascular endothelial growth factor (VEGF), platelet endothelial cell
+adhesion molecule-1 (PECAM), and the angiostatin receptor αvβ3-integrin in the
+foveal, macular, and peripheral retina. Expression studies were performed using
+immunohistochemistry (IHC) on retinal whole-mount and paraffin sections, and
+Western blotting on frozen material. The complex network of the main retinal cell
+types was identified by IHC of retinal whole mounts.
+Results: In general, lifetime expression of angiostatin was found in all retinas.
+Colabeling with different markers revealed retinal ganglion cells as the main
+source of angiostatin expression in the primate retina, whereas
+PECAM-immunopositive blood capillaries expressed the angiostatin receptor
+αvβ3-integrin, and capillary-associated astrocytes expressed VEGF.
+Conclusions: This study provides the first evidence of angiostatin expression in 
+the primate retina; the expression of angiostatin in the avascular foveal region 
+and the peripheral retina suggests that angiostatin may play a role in the
+regulation of retinal vascularization, providing a possible explanation for the
+development and persistence of an avascular fovea.
+
+DOI: 10.1167/iovs.16-19286 
+PMID: 27583825  [Indexed for MEDLINE]
+
+
+997. J Exp Biol. 2016 Sep 1;219(Pt 17):2659-72. doi: 10.1242/jeb.140939.
+
+Effects of support diameter and compliance on common marmoset (Callithrix
+jacchus) gait kinematics.
+
+Young JW(1), Stricklen BM(2), Chadwell BA(2).
+
+Author information: 
+(1)Department of Anatomy and Neurobiology, Northeast Ohio Medical University
+(NEOMED), Rootstown, OH 44272, USA Musculoskeletal Biology Research Focus Area,
+NEOMED, Rootstown, OH 44272, USA School of Biomedical Sciences, Kent State
+University, Kent, OH 44240, USA jwyoung@neomed.edu.
+(2)Department of Anatomy and Neurobiology, Northeast Ohio Medical University
+(NEOMED), Rootstown, OH 44272, USA.
+
+Locomotion is precarious in an arboreal habitat, where supports can vary in both 
+diameter and level of compliance. Several previous studies have evaluated the
+influence of substrate diameter on the locomotor performance of arboreal
+quadrupeds. The influence of substrate compliance, however, has been mostly
+unexamined. Here, we used a multifactorial experimental design to investigate how
+perturbations in both diameter and compliance affect the gait kinematics of
+marmosets (Callithrix jacchus; N=2) moving over simulated arboreal substrates. We
+used 3D-calibrated video to quantify marmoset locomotion over a horizontal
+trackway consisting of variably sized poles (5, 2.5 and 1.25 cm in diameter),
+analyzing a total of 120 strides. The central portion of the trackway was either 
+immobile or mounted on compliant foam blocks, depending on condition. We found
+that narrowing diameter and increasing compliance were both associated with
+relatively longer substrate contact durations, though adjustments to diameter
+were often inconsistent relative to compliance-related adjustments. Marmosets
+also responded to narrowing diameter by reducing speed, flattening center of mass
+(CoM) movements and dampening support displacement on the compliant substrate.
+For the subset of strides on the compliant support, we found that speed, contact 
+duration and CoM amplitude explained >60% of the variation in substrate
+displacement over a stride, suggesting a direct performance advantage to these
+kinematic adjustments. Overall, our results show that compliant substrates can
+exert a significant influence on gait kinematics. Substrate compliance, and not
+just support diameter, should be considered a critical environmental variable
+when evaluating locomotor performance in arboreal quadrupeds.
+
+© 2016. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/jeb.140939 
+PMID: 27582562  [Indexed for MEDLINE]
+

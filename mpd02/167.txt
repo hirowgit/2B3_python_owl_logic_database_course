@@ -1,0 +1,31 @@
+
+
+167. Am Nat. 2021 Apr;197(4):502-508. doi: 10.1086/713110. Epub 2021 Feb 11.
+
+On Being a Monkey's Uncle: Germline Chimerism in the Callitrichinae and the
+Evolution of Sibling Rivalry.
+
+Patten MM.
+
+AbstractA typical monkey of the subfamily Callitrichinae has two or more cell
+lineages occupying its tissues: one from "itself," and one from its co-twin(s).
+Chimerism originates in utero when the twin placentae fuse, vascular anastomoses 
+form between them, and cells are exchanged between conceptuses through their
+shared circulation. Previously it was thought that chimerism was limited to
+tissues of the hematopoietic cell lineage and that the germline was clonal, but
+subsequent empirical work has shown that chimerism may extend to many tissues,
+including the germline. To explore how natural selection on chimeric organisms
+should shape their social behavior, I construct an inclusive fitness model of
+sibling interactions that permits differing degrees of chimerism in the soma and 
+germline. The model predicts that somatic chimerism should diminish sibling
+rivalry but that germline chimerism should typically intensify it. A further
+implication of the model is the possibility for intraorganismal conflict over
+developing phenotypes; as tissues may differ in their extent of chimerism-for
+example, placenta versus brain-their respective inclusive fitness may be
+maximized by different phenotypes. Communication between tissues in chimeric
+organisms might therefore be noisy, rapidly evolving, and fraught, as is common
+in systems with internal evolutionary conflicts of interest.
+
+DOI: 10.1086/713110 
+PMID: 33755537  [Indexed for MEDLINE]
+

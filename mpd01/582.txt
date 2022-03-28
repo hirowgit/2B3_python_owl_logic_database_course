@@ -1,0 +1,77 @@
+
+
+582. Xenobiotica. 2019 Nov;49(11):1323-1331. doi: 10.1080/00498254.2018.1564401. Epub 
+2019 Jun 14.
+
+Regioselective hydroxylation of an antiarrhythmic drug, propafenone, mediated by 
+rat liver cytochrome P450 2D2 differs from that catalyzed by human P450 2D6.
+
+Uehara S(1), Murayama N(2), Yamazaki H(2), Suemizu H(1).
+
+Author information: 
+(1)a Central Institute for Experimental Animals , Kawasaki , Japan.
+(2)b Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University , Machida , Japan.
+
+1. Propafenone, an antiarrhythmic drug, is a typical human cytochrome P450 (P450)
+2D6 substrate used in preclinical studies. Here, propafenone oxidation by
+mammalian liver microsomes was investigated in vitro. 2. Liver microsomes from
+humans and marmosets preferentially mediated propafenone 5-hydroxylation,
+minipig, rat and mouse livers primarily mediated 4'-hydroxylation, but cynomolgus
+monkey and dog liver microsomes differently mediated N-despropylation. 3.
+Quinine, ketoconazole or anti-P450 2D antibodies suppressed propafenone
+4'/5-hydroxylation in human and rat liver microsomes. Pretreatments with
+β-naphthoflavone or dexamethasone increased N-despropylation in rat livers. 4.
+Recombinant rat P450 2D2 efficiently catalysed propafenone 4'-hydroxylation in a 
+substrate inhibition manner, comparable to rat liver microsomes, while human P450
+2D6 displayed propafenone 5-hydroxylation. Human and rat P450 1A, 2C and 3A
+enzymes mediated propafenone N-despropylation with high capacities. 5. Carbon-4' 
+of propafenone docked favourably into the active site of P450 2D2 based on an in 
+silico model; in contrast, carbon-5 of propafenone docked into human P450 2D6. 6.
+These results suggest that the major roles of individual P450 2D enzymes in
+regioselective hydroxylations of propafenone differ between human and rat livers,
+while the minor roles of P450 1A, 2C and 3A enzymes for propafenone
+N-despropylation are similar in livers of both species.
+
+DOI: 10.1080/00498254.2018.1564401 
+PMID: 30596462  [Indexed for MEDLINE]
+
+
+583. Nutr Healthy Aging. 2019;5(2):97-109. doi: 10.3233/nha-180046. Epub 2019 Sep 24.
+
+Aging research using the common marmoset: Focus on aging interventions.
+
+Ross CN(1)(2), Salmon AB(2)(3)(4).
+
+Author information: 
+(1)Department of Science and Mathematics, Texas A&M University San Antonio, San
+Antonio, TX, USA.
+(2)The Sam and Ann Barshop Institute for Longevity and Aging Studies and The
+University of Texas Health Science Center at San Antonio, San Antonio TX, USA.
+(3)Department of Molecular Medicine, The University of Texas Health Science
+Center at San Antonio, San Antonio, TX, USA.
+(4)Geriatric Research, Education and Clinical Center, South Texas Veterans Health
+Care System, San Antonio, TX, USA.
+
+Traditional animal models have been used to make seminal discoveries in
+biomedical research including a better understanding of the biology of the aging 
+process. However, translation of these findings from laboratory to clinical
+populations has likely been hindered due to fundamental biological and
+physiological differences between common laboratory animals and humans. Non-human
+primates (NHP) may serve as an effective bridge towards translation, and
+short-lived NHP like the common marmoset offer many advantages as models for
+aging research. Here, we address these advantages and discuss what is currently
+understood about the changes in physiology and pathology that occur with age in
+the marmoset. In addition, we discuss how aging research might best utilize this 
+model resource, and outline an ongoing study to address whether pharmaceutical
+intervention can slow aging in the marmoset. With this manuscript, we clarify how
+common marmosets might assist researchers in geroscience as a potential model for
+pre-clinical translation.
+
+DOI: 10.3233/nha-180046 
+PMCID: PMC8018684
+PMID: 33817407 
+
+Conflict of interest statement: Conflict of interest The authors have no conflict
+of interest to report.
+

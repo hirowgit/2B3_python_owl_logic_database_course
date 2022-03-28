@@ -1,0 +1,82 @@
+
+
+2368. Theriogenology. 2007 Oct 1;68(6):861-72. Epub 2007 Aug 21.
+
+Effects of ovarian stimulation, with and without human chorionic gonadotrophin,
+on oocyte meiotic and developmental competence in the marmoset monkey (Callithrix
+jacchus).
+
+Grupen CG(1), Gilchrist RB, Nayudu PL, Barry MF, Schulz SJ, Ritter LJ, Armstrong 
+DT.
+
+Author information: 
+(1)Research Centre for Reproductive Health, School of Paediatrics and
+Reproductive Health, The University of Adelaide, Adelaide, SA 5005, Australia.
+cgrupen@vetsci.usyd.edu.au
+
+A reliable ovarian stimulation protocol for marmosets is needed to enhance their 
+use as a model for studying human and non-human primate oocyte biology. In this
+species, a standard dose of hCG did not effectively induce oocyte maturation in
+vivo. The objectives of this study were to characterize ovarian response to an
+FSH priming regimen in marmosets, given without or with a high dose of hCG, and
+to determine the meiotic and developmental competence of the oocytes isolated.
+Ovaries were removed from synchronized marmosets treated with FSH alone (50 IU/d 
+for 6 d) or the same FSH treatment combined with a single injection of hCG (500
+IU). Cumulus-oocyte complexes (COCs) were isolated from large (>1.5mm) and small 
+(0.7-1.5mm) antral follicles. In vivo-matured oocytes were subsequently activated
+parthenogenetically or fertilized in vitro. Immature oocytes were subjected to in
+vitro maturation and then activated parthenogenetically. Treatment with FSH and
+hCG combined increased the number of expanded COCs from large antral follicles
+compared with FSH alone (23.5 +/- 9.3 versus 6.4 +/- 2.7, mean +/- S.E.M.).
+Approximately 90% of oocytes surrounded by expanded cumulus cells at the time of 
+isolation were meiotically mature. A blastocyst formation rate of 47% was
+achieved following fertilization of in vivo-matured oocytes, whereas
+parthenogenetic activation failed to induce development to the blastocyst stage. 
+The capacity of oocytes to complete meiosis in vitro and cleave was positively
+correlated with follicle diameter. A dramatic effect of follicle size on spindle 
+formation was observed in oocytes that failed to complete meiosis in vitro. Using
+the combined FSH and hCG regimen described in this study, large numbers of in
+vivo matured marmoset oocytes could be reliably collected in a single cycle,
+making the marmoset a valuable model for studying oocyte maturation in human and 
+non-human primates.
+
+DOI: 10.1016/j.theriogenology.2007.07.009 
+PMID: 17714774  [Indexed for MEDLINE]
+
+
+2369. Eur J Neurosci. 2007 Aug;26(4):992-1006.
+
+Spatial receptive field properties of lateral geniculate cells in the owl monkey 
+(Aotus azarae) at different contrasts: a comparative study.
+
+Kilavik BE(1), Silveira LC, Kremers J.
+
+Author information: 
+(1)Department of Experimental Ophthalmology, University of Tübingen Eye Hospital,
+Röntgenweg 11, D-72076 Tübingen, Germany.
+
+Several physiological properties of owl monkey lateral geniculate nucleus (LGN)
+cells were studied to verify whether its nocturnal habit has an influence on the 
+organization of its subcortical visual system. Receptive field (RF) dimensions
+were measured using drifting gratings and bipartite field stimuli. We found that 
+owl monkey cells LGN have larger RFs and were on average more non-linear than
+those of diurnal monkeys. But, as in other anthropoids, there is an increase in
+RF centre size with increasing eccentricity, and there is a limited correlation
+between these centre sizes and retinal ganglion cell dendritic tree sizes. The
+influence of contrast on sizes and peak sensitivities of RF centres and surrounds
+and on the response phases was studied. Both the sizes and peak sensitivities of 
+the RF centres and surrounds decrease as contrast increases. As a result, the
+responses to low spatial frequency stimuli saturate with increasing contrast.
+Estimates of contrasts at half-maximal responses confirm the presence of
+saturation. It was found that the magnocellular cells saturate more strongly than
+parvocellular cells. The response phase increases with increasing contrast. These
+data resemble those obtained in the common marmoset, indicating that these are
+basic features of the primate visual system. We conclude that during evolution
+and as an adaptation to a nocturnal lifestyle, cells in the owl monkey LGN
+display an increased spatial integration in comparison with diurnal primate
+species, without a change in the basic organization common to the primate
+subcortical visual system.
+
+DOI: 10.1111/j.1460-9568.2007.05709.x 
+PMID: 17714192  [Indexed for MEDLINE]
+

@@ -1,0 +1,128 @@
+
+
+43. Nat Commun. 2021 Nov 16;12(1):6608. doi: 10.1038/s41467-021-26976-4.
+
+Simultaneous functional MRI of two awake marmosets.
+
+Gilbert KM(1)(2), Cléry JC(3), Gati JS(3)(4), Hori Y(3), Johnston KD(5)(6),
+Mashkovtsev A(3), Selvanayagam J(3)(7), Zeman P(3), Menon RS(3)(4), Schaeffer
+DJ(8), Everling S(3)(5).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, London, ON, Canada. kgilbert@robarts.ca.
+(2)Department of Medical Biophysics, The University of Western Ontario, London,
+ON, Canada. kgilbert@robarts.ca.
+(3)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, London, ON, Canada.
+(4)Department of Medical Biophysics, The University of Western Ontario, London,
+ON, Canada.
+(5)Department of Physiology and Pharmacology, The University of Western Ontario, 
+London, ON, Canada.
+(6)Brain and Mind Institute, The University of Western Ontario, London, ON,
+Canada.
+(7)Graduate Program in Neuroscience, The University of Western Ontario, London,
+ON, Canada.
+(8)Department of Neurobiology, University of Pittsburgh, Pittsburgh, PA, USA.
+
+Social cognition is a dynamic process that requires the perception and
+integration of a complex set of idiosyncratic features between interacting
+conspecifics. Here we present a method for simultaneously measuring the
+whole-brain activation of two socially interacting marmoset monkeys using
+functional magnetic resonance imaging. MRI hardware (a radiofrequency coil and
+peripheral devices) and image-processing pipelines were developed to assess brain
+responses to socialization, both on an intra-brain and inter-brain level.
+Notably, the brain activation of a marmoset when viewing a second marmoset
+in-person versus when viewing a pre-recorded video of the same marmoset-i.e.,
+when either capable or incapable of socially interacting with a visible
+conspecific-demonstrates increased activation in the face-patch network. This
+method enables a wide range of possibilities for potentially studying social
+function and dysfunction in a non-human primate model.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41467-021-26976-4 
+PMCID: PMC8595428
+PMID: 34785685  [Indexed for MEDLINE]
+
+
+44. Neuroscience. 2022 Jan 1;480:143-154. doi: 10.1016/j.neuroscience.2021.11.009.
+Epub 2021 Nov 11.
+
+Co-registration of Imaging Modalities (MRI, CT and PET) to Perform Frameless
+Stereotaxic Robotic Injections in the Common Marmoset.
+
+Kwan C(1), Kang MS(2), Nuara SG(3), Gourdon JC(3), Bédard D(1), Tardif CL(4),
+Hopewell R(5), Ross K(5), Bdair H(6), Hamadjida A(1), Massarweh G(5), Soucy
+JP(7), Luo W(8), Del Cid Pellitero E(9), Shlaifer I(8), Durcan TM(8), Fon EA(9), 
+Rosa-Neto P(10), Frey S(11), Huot P(12).
+
+Author information: 
+(1)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital (The
+Neuro), Montreal, QC, Canada.
+(2)McGill University Research Centre for Studies in Aging, Douglas Research
+Centre, Montreal, QC, Canada.
+(3)Comparative Medicine & Animal Resource Centre, McGill University, Montreal,
+QC, Canada.
+(4)Department of Neurology and Neurosurgery, McGill University, Montreal, QC,
+Canada; Department of Biomedical Engineering, McGill University, Montreal, QC,
+Canada; McConnell Brain Imaging Centre, Montreal Neurological Institute-Hospital 
+(The Neuro), Montreal, QC, Canada.
+(5)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital (The
+Neuro), Montreal, QC, Canada; McConnell Brain Imaging Centre, Montreal
+Neurological Institute-Hospital (The Neuro), Montreal, QC, Canada.
+(6)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital (The
+Neuro), Montreal, QC, Canada; Department of Neurology and Neurosurgery, McGill
+University, Montreal, QC, Canada; McConnell Brain Imaging Centre, Montreal
+Neurological Institute-Hospital (The Neuro), Montreal, QC, Canada.
+(7)McConnell Brain Imaging Centre, Montreal Neurological Institute-Hospital (The 
+Neuro), Montreal, QC, Canada.
+(8)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital (The
+Neuro), Montreal, QC, Canada; The Neuro's Early Drug Discovery Unit, McGill
+University, Montreal, QC, Canada.
+(9)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital (The
+Neuro), Montreal, QC, Canada; Department of Neurology and Neurosurgery, McGill
+University, Montreal, QC, Canada; Movement Disorder Clinic, Division of
+Neurology, Department of Neuroscience, McGill University Health Centre, Montreal,
+QC, Canada.
+(10)McGill University Research Centre for Studies in Aging, Douglas Research
+Centre, Montreal, QC, Canada; Department of Neurology and Neurosurgery, McGill
+University, Montreal, QC, Canada; McConnell Brain Imaging Centre, Montreal
+Neurological Institute-Hospital (The Neuro), Montreal, QC, Canada.
+(11)Rogue Research Inc, Montreal, QC, Canada.
+(12)Neurodegenerative Disease Group, Montreal Neurological Institute-Hospital
+(The Neuro), Montreal, QC, Canada; Department of Neurology and Neurosurgery,
+McGill University, Montreal, QC, Canada; Movement Disorder Clinic, Division of
+Neurology, Department of Neuroscience, McGill University Health Centre, Montreal,
+QC, Canada. Electronic address: philippe.huot@mcgill.ca.
+
+The common marmoset has emerged as a popular model in neuroscience research, in
+part due to its reproductive efficiency, genetic and neuroanatomical similarities
+to humans and the successful generation of transgenic lines. Stereotaxic
+procedures in marmosets are guided by 2D stereotaxic atlases, which are
+constructed with a limited number of animals and fail to account for
+inter-individual variability in skull and brain size. Here, we developed a
+frameless imaging-guided stereotaxic system that improves upon traditional
+approaches by using subject-specific registration of computed tomography (CT),
+magnetic resonance imaging (MRI) and positron emission tomography (PET) data to
+identify a surgical target, namely the putamen, in two marmosets. The skull
+surface was laser-scanned to create a point cloud that was registered to the 3D
+reconstruction of the skull from CT. Reconstruction of the skull, as well as of
+the brain from MR images, was crucial for surgical planning. Localisation and
+injection into the putamen was done using a 6-axis robotic arm controlled by a
+surgical navigation software (Brainsight™). Integration of subject-specific
+registration and frameless stereotaxic navigation allowed target localisation
+specific to each animal. Injection of alpha-synuclein fibrils into the putamen
+triggered progressive neurodegeneration of the nigro-striatal system, a key
+feature of Parkinson's disease. Four months post-surgery, a PET scan found
+evidence of nigro-striatal denervation, supporting accurate targeting of the
+putamen during co-registration and subsequent surgery. Our results suggest that
+this approach, coupled with frameless stereotaxic neuronavigation, is accurate in
+localising surgical targets and can be used to assess endpoints for longitudinal 
+studies.
+
+Copyright © 2021 IBRO. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuroscience.2021.11.009 
+PMID: 34774970  [Indexed for MEDLINE]
+

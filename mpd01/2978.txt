@@ -1,0 +1,77 @@
+
+
+2978. Genome Res. 2003 Feb;13(2):159-72.
+
+Genomic sequence and transcriptional profile of the boundary between
+pericentromeric satellites and genes on human chromosome arm 10p.
+
+Guy J(1), Hearn T, Crosier M, Mudge J, Viggiano L, Koczan D, Thiesen HJ, Bailey
+JA, Horvath JE, Eichler EE, Earthrowl ME, Deloukas P, French L, Rogers J, Bentley
+D, Jackson MS.
+
+Author information: 
+(1)The Institute of Human Genetics, The International Centre for Life, University
+of Newcastle upon Tyne, Newcastle upon Tyne NE1 3BZ, UK.
+
+Contiguous finished sequence from highly duplicated pericentromeric regions of
+human chromosomes is needed if we are to understand the role of pericentromeric
+instability in disease, and in gene and karyotype evolution. Here, we have
+constructed a BAC contig spanning the transition from pericentromeric satellites 
+to genes on the short arm of human chromosome 10, and used this to generate 1.4
+Mb of finished genomic sequence. Combining RT-PCR, in silico gene prediction, and
+paralogy analysis, we can identify two domains within the sequence. The proximal 
+600 kb consists of satellite-rich pericentromerically duplicated DNA which is
+transcript poor, containing only three unspliced transcripts. In contrast, the
+distal 850 kb contains four known genes (ZNF248, ZNF25, ZNF33A, and ZNF37A) and
+up to 32 additional transcripts of unknown function. This distal region also
+contains seven out of the eight intrachromosomal duplications within the
+sequence, including the p arm copy of the approximately 250-kb duplication which 
+gave rise to ZNF33A and ZNF33B. By sequencing orthologs of the duplicated ZNF33
+genes we have established that ZNF33A has diverged significantly at residues
+critical for DNA binding but ZNF33B has not, indicating that ZNF33B has remained 
+constrained by selection for ancestral gene function. These results provide
+further evidence of gene formation within intrachromosomal duplications, but
+indicate that recent interchromosomal duplications at this centromere have
+involved transcriptionally inert, satellite rich DNA, which is likely to be
+heterochromatic. This suggests that any novel gene structures formed by these
+interchromosomal events would require relocation to a more open chromatin
+environment to be expressed.
+
+DOI: 10.1101/gr.644503 
+PMCID: PMC420363
+PMID: 12566394  [Indexed for MEDLINE]
+
+
+2979. J Physiol. 2003 Feb 1;546(Pt 3):903-19.
+
+Centre and surround responses of marmoset lateral geniculate neurones at
+different temporal frequencies.
+
+Kilavik BE(1), Silveira LC, Kremers J.
+
+Author information: 
+(1)Department of Experimental Ophthalmology, University of Tübingen Eye Hospital,
+Röntgenweg 11, D-72076 Tübingen, Germany.
+
+The responses of marmoset lateral geniculate neurones to stimuli that were
+composed of a sinusoidally modulating centre stimulus and a surround that was
+modulated in counterphase were measured. The size of the stimulus centre was
+varied. These measurements were repeated at different temporal frequencies
+between 1 and 30 Hz. The response amplitudes and phases depended in a
+characteristic manner on the stimulus centre size. The response behaviour could
+be modelled by assuming Gaussian responsivity profiles of the cells' receptive
+field (RF) centres and surrounds and a phase delay in the RF surround responses, 
+relative to the centre, enabling the description of RF centre and surround
+response characteristics. We found that the RF centre-to-surround phase
+difference increased linearly with increasing temporal frequency, indicating a
+constant delay difference of about 4.5 to 6 ms. A linear model, including
+low-pass filters, a lead lag stage and a delay, was used to describe the mean RF 
+centre and surround responses. The separate RF centre and surround responses were
+less band pass than the full receptive field responses of the cells. The linear
+model provided less satisfactory fits to M-cell responses than to those of
+P-cells, indicating additional nonlinearities.
+
+DOI: 10.1113/jphysiol.2002.027748 
+PMCID: PMC2342578
+PMID: 12563014  [Indexed for MEDLINE]
+

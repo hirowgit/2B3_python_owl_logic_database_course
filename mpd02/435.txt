@@ -1,0 +1,45 @@
+
+
+435. Nat Rev Neurosci. 2019 Oct;20(10):593-608. doi: 10.1038/s41583-019-0212-7. Epub
+2019 Sep 6.
+
+The brain's default network: updated anatomy, physiology and evolving insights.
+
+Buckner RL(1)(2)(3)(4), DiNicola LM(5)(6).
+
+Author information: 
+(1)Department of Psychology, Harvard University, Cambridge, MA, USA.
+randy_buckner@harvard.edu.
+(2)Center for Brain Science, Harvard University, Cambridge, MA, USA.
+randy_buckner@harvard.edu.
+(3)Department of Psychiatry, Massachusetts General Hospital, Boston, MA, USA.
+randy_buckner@harvard.edu.
+(4)Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General
+Hospital, Boston, MA, USA. randy_buckner@harvard.edu.
+(5)Department of Psychology, Harvard University, Cambridge, MA, USA.
+(6)Center for Brain Science, Harvard University, Cambridge, MA, USA.
+
+Discoveries over the past two decades demonstrate that regions distributed
+throughout the association cortex, often called the default network, are
+suppressed during tasks that demand external attention and are active during
+remembering, envisioning the future and making social inferences. This Review
+describes progress in understanding the organization and function of networks
+embedded within these association regions. Detailed high-resolution analyses of
+single individuals suggest that the default network is not a single network, as
+historically described, but instead comprises multiple interwoven networks. The
+multiple networks share a common organizational motif (also evident in marmoset
+and macaque anatomical circuits) that might support a general class of processing
+function dependent on internally constructed rather than externally constrained
+representations, with each separate interwoven network specialized for a distinct
+processing domain. Direct neuronal recordings in humans and monkeys reveal
+evidence for competitive relationships between the internally and externally
+oriented networks. Findings from rodent studies suggest that the thalamus might
+be essential to controlling which networks are engaged through specialized
+thalamic reticular neurons, including antagonistic subpopulations. These
+association networks (and presumably thalamocortical circuits) are expanded in
+humans and might be particularly vulnerable to dysregulation implicated in
+mental illness.
+
+DOI: 10.1038/s41583-019-0212-7 
+PMID: 31492945  [Indexed for MEDLINE]
+

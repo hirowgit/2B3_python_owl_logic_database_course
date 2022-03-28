@@ -1,0 +1,106 @@
+
+
+689. Nat Commun. 2018 May 14;9(1):1879. doi: 10.1038/s41467-018-04286-6.
+
+Two-photon imaging of neuronal activity in motor cortex of marmosets during
+upper-limb movement tasks.
+
+Ebina T(1)(2), Masamizu Y(1)(2)(3), Tanaka YR(1)(2), Watakabe A(4), Hirakawa
+R(2)(5), Hirayama Y(1), Hira R(2)(3), Terada SI(1)(2), Koketsu D(6), Hikosaka
+K(7), Mizukami H(8), Nambu A(3)(6), Sasaki E(5)(9), Yamamori T(4), Matsuzaki
+M(10)(11)(12)(13).
+
+Author information: 
+(1)Department of Physiology, Graduate School of Medicine, The University of
+Tokyo, Tokyo, 113-0033, Japan.
+(2)Division of Brain Circuits, National Institute for Basic Biology, Aichi,
+444-8585, Japan.
+(3)School of Life Science, SOKENDAI (The Graduate University for Advanced
+Studies), Aichi, 444-8585, Japan.
+(4)Laboratory for Molecular Analysis of Higher Brain Function, RIKEN Center for
+Brain Science, Saitama, 351-0198, Japan.
+(5)Central Institute for Experimental Animals, Kanagawa, 210-0821, Japan.
+(6)Division of System Neurophysiology, National Institute for Physiological
+Sciences, Aichi, 444-8585, Japan.
+(7)Department of Sensory Science, Faculty of Health Science and Technology,
+Kawasaki University of Medical Welfare, Okayama, 701-0193, Japan.
+(8)Division of Genetic Therapeutics, Center for Molecular Medicine, Jichi Medical
+University, Tochigi, 329-0498, Japan.
+(9)Advanced Research Center, Keio University, Tokyo, 160-8582, Japan.
+(10)Department of Physiology, Graduate School of Medicine, The University of
+Tokyo, Tokyo, 113-0033, Japan. mzakim@m.u-tokyo.ac.jp.
+(11)Division of Brain Circuits, National Institute for Basic Biology, Aichi,
+444-8585, Japan. mzakim@m.u-tokyo.ac.jp.
+(12)School of Life Science, SOKENDAI (The Graduate University for Advanced
+Studies), Aichi, 444-8585, Japan. mzakim@m.u-tokyo.ac.jp.
+(13)International Research Center for Neurointelligence (WPI-IRCN), The
+University Tokyo Institutes for Advanced Study, Tokyo, 113-0033, Japan.
+mzakim@m.u-tokyo.ac.jp.
+
+Two-photon imaging in behaving animals has revealed neuronal activities related
+to behavioral and cognitive function at single-cell resolution. However,
+marmosets have posed a challenge due to limited success in training on motor
+tasks. Here we report the development of protocols to train head-fixed common
+marmosets to perform upper-limb movement tasks and simultaneously perform
+two-photon imaging. After 2-5 months of training sessions, head-fixed marmosets
+can control a manipulandum to move a cursor to a target on a screen. We conduct
+two-photon calcium imaging of layer 2/3 neurons in the motor cortex during this
+motor task performance, and detect task-relevant activity from multiple neurons
+at cellular and subcellular resolutions. In a two-target reaching task, some
+neurons show direction-selective activity over the training days. In a short-term
+force-field adaptation task, some neurons change their activity when the force
+field is on. Two-photon calcium imaging in behaving marmosets may become a
+fundamental technique for determining the spatial organization of the cortical
+dynamics underlying action and cognition.
+
+DOI: 10.1038/s41467-018-04286-6 
+PMCID: PMC5951821
+PMID: 29760466  [Indexed for MEDLINE]
+
+
+690. PLoS Negl Trop Dis. 2018 May 9;12(5):e0006474. doi: 10.1371/journal.pntd.0006474.
+eCollection 2018 May.
+
+Attenuation and efficacy of live-attenuated Rift Valley fever virus vaccine
+candidates in non-human primates.
+
+Smith DR(1), Johnston SC(1), Piper A(1), Botto M(1), Donnelly G(1), Shamblin
+J(1), Albariño CG(2), Hensley LE(1), Schmaljohn C(1), Nichol ST(2), Bird BH(2).
+
+Author information: 
+(1)United States Army Medical Research Institute of Infectious Diseases
+(USAMRIID), Fort Detrick, MD, United States of America.
+(2)Centers for Disease Control and Prevention, Viral Special Pathogens Branch,
+Atlanta, GA, United States of America.
+
+Rift Valley fever virus (RVFV) is an important mosquito-borne veterinary and
+human pathogen that has caused large outbreaks of severe disease throughout
+Africa and the Arabian Peninsula. Currently, no licensed vaccine or therapeutics 
+exists to treat this potentially deadly disease. The explosive nature of RVFV
+outbreaks and the severe consequences of its accidental or intentional
+introduction into RVFV-free areas provide the impetus for the development of
+novel vaccine candidates for use in both livestock and humans. Rationally
+designed vaccine candidates using reverse genetics have been used to develop
+deletion mutants of two known RVFV virulence factors, the NSs and NSm genes.
+These recombinant viruses were demonstrated to be protective and immunogenic in
+rats, mice, and sheep, without producing clinical illness in these animals. Here,
+we expand upon those findings and evaluate the single deletion mutant (ΔNSs
+rRVFV) and double deletion mutant (ΔNSs-ΔNSm rRVFV) vaccine candidates in the
+common marmoset (Callithrix jacchus), a non-human primate (NHP) model resembling 
+severe human RVF disease. We demonstrate that both the ΔNSs and ΔNSs-ΔNSm rRVFV
+vaccine candidates were found to be safe and immunogenic in the current study.
+The vaccinated animals received a single dose of vaccine that led to the
+development of a robust antibody response. No vaccine-induced adverse reactions, 
+signs of clinical illness or infectious virus were detected in the vaccinated
+marmosets. All vaccinated animals that were subsequently challenged with RVFV
+were protected against viremia and liver disease. In summary, our results provide
+the basis for further development of the ΔNSs and ΔNSs-ΔNSm rRVFV as safe and
+effective human RVFV vaccines for this significant public health threat.
+
+DOI: 10.1371/journal.pntd.0006474 
+PMCID: PMC5962102
+PMID: 29742102  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

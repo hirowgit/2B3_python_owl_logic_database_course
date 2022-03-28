@@ -1,0 +1,74 @@
+
+
+3057. J Neurosci. 2002 Jul 1;22(13):5705-12.
+
+Functional domains in dorsal striatum of the nonhuman primate are defined by the 
+dynamic behavior of dopamine.
+
+Cragg SJ(1), Hille CJ, Greenfield SA.
+
+Author information: 
+(1)University Department of Pharmacology, Oxford OX1 3QT, United Kingdom.
+stephanie.cragg@pharm.ox.ac.uk
+
+The dorsal striatum comprises a continuum of distinct functional domains, limbic,
+associative, and sensorimotor. In the primate it exclusively subdivides further
+into two nuclei, the putamen and caudate. Dopamine (DA) transmission is
+differentially affected between these nuclei in neurodegenerative diseases such
+as Parkinson's and by psychostimulants such as cocaine. Because rodent systems
+can offer only limited insight into DA systems of the human brain, a fuller
+appreciation of DA transmission and its role in dysfunction requires direct study
+in primates. DA behavior was explored in the major functional domains of the
+caudate nucleus and compared with the putamen, using fast-scan cyclic voltammetry
+in striatal sections from the marmoset (Callithrix jacchus). There was
+domain-specific variation in extracellular DA transients [i.e., concentration
+([DA](o)) released by a single stimulus and the rate maximum of DA uptake,
+V(max)]. Across nuclei, functional rather than anatomical regions were
+differentiated by these dynamics. The largest, fastest DA transients were at
+motor-associated loci. Evoked [DA](o) at physiological frequencies was
+differently frequency-sensitive between functional domains but not between
+anatomical nuclei. In contrast, presynaptic depression was not an index of
+regional differentiation, recovering with similar kinetics at all loci. Within a 
+given functional domain of dorsal striatum, the dynamics of DA release and uptake
+are similar for the putamen and the caudate nucleus. Conversely, distinct
+functional domains are defined by these DA dynamics, in a manner more marked in
+primates than in rodents. These data from the primate brain highlight differences
+in DA availability that may be central to DA function and dysfunction in the
+human.
+
+DOI: 20026534 
+PMCID: PMC6758186
+PMID: 12097522  [Indexed for MEDLINE]
+
+
+3058. ALTEX. 2002;19 Suppl 1:64-72.
+
+Immortalisation of ovarian granulosa and Theca cells of the marmoset monkey
+Calllithrix jacchus.
+
+Husen B(1), Lieder K, Marten A, Jurdzinski A, Fuhrmann K, Petry H, Lüke A,
+Einspanier A.
+
+Author information: 
+(1)Deutsches Primatenzentrum, D-Göttingen, Germany. bhusen@www.dpz.gwdg.de
+
+In view of the increasing need for laboratory primates in biomedical research it 
+is desirable to develop appropriate primate-specific cell culture models that
+could prevent or significantly reduce the increasing use of primary cultures and 
+experiments with living animals. Follicular granulosa and theca cells are
+essential for the control of hormone-dependent processes such as the ovarian
+cycle and pregnancy, but also for the occurrence of hormone-dependent diseases.
+For this reason it is of great interest to know more about control mechanisms
+existing in these follicular cell types and the effect of pharmacological or
+toxicological agents on them. An immortalisation protocol for the two ovarian
+cell types of the marmoset monkey (Callithrix jacchus) has been developed. All
+cell lines established so far were examined with regard to the maintenance of
+known, tissue-specific features (e.g. hormone responsiveness and enzyme
+expression). The results obtained indicate that it is worth while cloning and
+characterising the cell lines in more detail so that they could be used after an 
+adequate validation as a defined test system both for basic research as well as
+for pharmacological or toxicological screening.
+
+
+PMID: 12096332  [Indexed for MEDLINE]
+

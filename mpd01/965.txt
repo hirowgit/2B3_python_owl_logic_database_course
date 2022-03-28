@@ -1,0 +1,54 @@
+
+
+965. J Alzheimers Dis. 2017;55(1):101-113.
+
+Acceleration of Amyloidosis by Inflammation in the Amyloid-Beta Marmoset Monkey
+Model of Alzheimer's Disease.
+
+Philippens IH(1), Ormel PR(1), Baarends G(1), Johansson M(2), Remarque EJ(1),
+Doverskog M(2).
+
+Author information: 
+(1)Biomedical Primate Research Centre (BPRC), Rijswijk, the Netherlands.
+(2)Umecrine Cognition AB, Karolinska Institute Science Park, Solna, Sweden.
+
+BACKGROUND: The immune system is increasingly mentioned as a potential target for
+Alzheimer's disease (AD) treatment.
+OBJECTIVE: In the present pilot study, the effect of (neuro)inflammation on
+amyloidopathy was investigated in the marmoset monkey, which has potential as an 
+AD animal model due to its natural cerebral amyloidosis similar to humans.
+METHODS: Six adult/aged marmosets (Callithrix jacchus) were intracranial injected
+with amyloid-beta (Aβ) fibrils at three cortical locations in the right
+hemisphere. Additionally, in half of the monkeys, lipopolysaccharide (LPS) was
+co-injected with the Aβ fibrils and injected in the other hemisphere without Aβ
+fibrils. The other three monkeys received phosphate buffered saline instead of
+LPS, as a control for the inflammatory state. The effect of inflammation on
+amyloidopathy was also investigated in an additional monkey that suffered from
+chronic inflammatory wasting syndrome. Mirror histology sections were analyzed to
+assess amyloidopathy and immune reaction, and peripheral blood for AD biomarker
+expression.
+RESULTS: All LPS-injected monkeys showed an early AD immune blood cell expression
+profile on CD95 and CD45RA. Two out of three monkeys injected with Aβ and LPS and
+the additional monkey, suffering from chronic inflammation, developed plaques.
+None of the controls, injected with Aβ only, developed any plaques.
+CONCLUSION: This study shows the importance of immune modulation on the
+susceptibility for amyloidosis, a hallmark of AD, which offers new perspectives
+for disease modifying approaches in AD.
+
+DOI: 10.3233/JAD-160673 
+PMCID: PMC5115608
+PMID: 27662314  [Indexed for MEDLINE]
+
+
+966. Nat Methods. 2016 Oct 31;13(11):911-916. doi: 10.1038/nmeth.4036.
+
+Neurobiology: learning from marmosets.
+
+Marx V(1).
+
+Author information: 
+(1)Nature Methods.
+
+DOI: 10.1038/nmeth.4036 
+PMID: 27798594  [Indexed for MEDLINE]
+

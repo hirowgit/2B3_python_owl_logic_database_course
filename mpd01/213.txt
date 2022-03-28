@@ -1,0 +1,120 @@
+
+
+213. Neuroimage. 2021 Feb 1;226:117620. doi: 10.1016/j.neuroimage.2020.117620. Epub
+2020 Dec 8.
+
+Marmoset Brain Mapping V3: Population multi-modal standard volumetric and
+surface-based templates.
+
+Liu C(1), Yen CC(2), Szczupak D(3), Tian X(3), Glen D(4), Silva AC(5).
+
+Author information: 
+(1)Department of Neurobiology, University of Pittsburgh Brain Institute, 3501
+Fifth Avenue, 6065 Biomedical Science Tower 3, Pittsburgh PA, USA; Cerebral
+Microcirculation Section, Laboratory of Functional and Molecular Imaging,
+National Institute of Neurological Disorders and Stroke, National Institutes of
+Health, Bethesda, MD, USA; CAS Center for Excellence in Brain Science and
+Intelligence Technology, Institute of Neuroscience, Chinese Academy of Sciences, 
+Shanghai 200031, China.
+(2)Cerebral Microcirculation Section, Laboratory of Functional and Molecular
+Imaging, National Institute of Neurological Disorders and Stroke, National
+Institutes of Health, Bethesda, MD, USA.
+(3)Department of Neurobiology, University of Pittsburgh Brain Institute, 3501
+Fifth Avenue, 6065 Biomedical Science Tower 3, Pittsburgh PA, USA; Cerebral
+Microcirculation Section, Laboratory of Functional and Molecular Imaging,
+National Institute of Neurological Disorders and Stroke, National Institutes of
+Health, Bethesda, MD, USA.
+(4)Scientific and Statistical Computing Core, National Institute of Mental
+Health, National Institutes of Health (NIMH/NIH), Bethesda, MD, USA.
+(5)Department of Neurobiology, University of Pittsburgh Brain Institute, 3501
+Fifth Avenue, 6065 Biomedical Science Tower 3, Pittsburgh PA, USA; Cerebral
+Microcirculation Section, Laboratory of Functional and Molecular Imaging,
+National Institute of Neurological Disorders and Stroke, National Institutes of
+Health, Bethesda, MD, USA. Electronic address: afonso@pitt.edu.
+
+The standard anatomical brain template provides a common space and coordinate
+system for visualizing and analyzing neuroimaging data from large cohorts of
+subjects. Previous templates and atlases for the common marmoset brain were
+either based on data from a single individual or lacked essential functionalities
+for neuroimaging analysis. Here, we present new population-based in-vivo standard
+templates and tools derived from multi-modal data of 27 marmosets, including
+multiple types of T1w and T2w contrast images, DTI contrasts, and large
+field-of-view MRI and CT images. We performed multi-atlas labeling of anatomical 
+structures on the new templates and constructed highly accurate tissue-type
+segmentation maps to facilitate volumetric studies. We built fully featured brain
+surfaces and cortical flat maps to facilitate 3D visualization and surface-based 
+analyses, which are compatible with most surface analyzing tools, including
+FreeSurfer, AFNI/SUMA, and the Connectome Workbench. Analysis of the MRI and CT
+datasets revealed significant variations in brain shapes, sizes, and regional
+volumes of brain structures, highlighting substantial individual variabilities in
+the marmoset population. Thus, our population-based template and associated tools
+provide a versatile analysis platform and standard coordinate system for a wide
+range of MRI and connectome studies of common marmosets. These new template tools
+comprise version 3 of our Marmoset Brain Mapping Project and are publicly
+available via marmosetbrainmapping.org/v3.html.
+
+Copyright © 2020. Published by Elsevier Inc.
+
+DOI: 10.1016/j.neuroimage.2020.117620 
+PMCID: PMC7908070
+PMID: 33307224  [Indexed for MEDLINE]
+
+
+214. Neuroimage. 2021 Feb 1;226:117625. doi: 10.1016/j.neuroimage.2020.117625. Epub
+2020 Dec 8.
+
+Histology-Based Average Template of the Marmoset Cortex With Probabilistic
+Localization of Cytoarchitectural Areas.
+
+Majka P(1), Bednarek S(2), Chan JM(3), Jermakow N(2), Liu C(4), Saworska G(2),
+Worthy KH(5), Silva AC(4), Wójcik DK(6), Rosa MGP(3).
+
+Author information: 
+(1)Laboratory of Neuroinformatics, Nencki Institute of Experimental Biology of
+the Polish Academy of Sciences, 02-093 Warsaw, Poland; Australian Research
+Council, Centre of Excellence for Integrative Brain Function, Monash University
+Node, Clayton, VIC 3800, Australia; Biomedicine Discovery Institute and
+Department of Physiology, Monash University, Clayton, VIC 3800, Australia.
+Electronic address: p.majka@nencki.edu.pl.
+(2)Laboratory of Neuroinformatics, Nencki Institute of Experimental Biology of
+the Polish Academy of Sciences, 02-093 Warsaw, Poland.
+(3)Australian Research Council, Centre of Excellence for Integrative Brain
+Function, Monash University Node, Clayton, VIC 3800, Australia; Biomedicine
+Discovery Institute and Department of Physiology, Monash University, Clayton, VIC
+3800, Australia.
+(4)Department of Neurobiology, University of Pittsburgh Brain Institute,
+Pittsburgh, PA, USA.
+(5)Biomedicine Discovery Institute and Department of Physiology, Monash
+University, Clayton, VIC 3800, Australia.
+(6)Laboratory of Neuroinformatics, Nencki Institute of Experimental Biology of
+the Polish Academy of Sciences, 02-093 Warsaw, Poland; Institute of Applied
+Psychology, Faculty of Management and Social Communication, Jagiellonian
+University, 30-348 Cracow, Poland.
+
+The rapid adoption of marmosets in neuroscience has created a demand for three
+dimensional (3D) atlases of the brain of this species to facilitate data
+integration in a common reference space. We report on a new open access template 
+of the marmoset cortex (the Nencki-Monash, or NM template), representing a
+morphological average of 20 brains of young adult individuals, obtained by 3D
+reconstructions generated from Nissl-stained serial sections. The method used to 
+generate the template takes into account morphological features of the individual
+brains, as well as the borders of clearly defined cytoarchitectural areas. This
+has resulted in a resource which allows direct estimates of the most likely
+coordinates of each cortical area, as well as quantification of the margins
+of error involved in assigning voxels to areas, and preserves quantitative
+information about the laminar structure of the cortex. We provide spatial
+transformations between the NM and other available marmoset brain templates, thus
+enabling integration with magnetic resonance imaging (MRI) and tracer-based
+connectivity data. The NM template combines some of the main advantages of
+histology-based atlases (e.g. information about the cytoarchitectural structure) 
+with features more commonly associated with MRI-based templates (isotropic nature
+of the dataset, and probabilistic analyses). The underlying workflow may be found
+useful in the future development of 3D brain atlases that incorporate information
+about the variability of areas in species for which it may be impractical to
+ensure homogeneity of the sample in terms of age, sex and genetic background.
+
+Copyright © 2020 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2020.117625 
+PMID: 33301940  [Indexed for MEDLINE]
+

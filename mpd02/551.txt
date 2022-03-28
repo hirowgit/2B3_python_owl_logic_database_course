@@ -1,0 +1,51 @@
+
+
+551. Mol Pharmacol. 2019 Apr;95(4):376-385. doi: 10.1124/mol.118.114744. Epub 2019 Feb
+9.
+
+A Comparison of the Ability of Leu8- and Pro8-Oxytocin to Regulate Intracellular 
+Ca2+ and Ca2+-Activated K+ Channels at Human and Marmoset Oxytocin Receptors.
+
+Pierce ML(1), Mehrotra S(1), Mustoe AC(1), French JA(1), Murray TF(2).
+
+Author information: 
+(1)Department of Pharmacology, Creighton University School of Medicine, Omaha,
+Nebraska (M.L.P., S.M., T.F.M.); and Department of Psychology, University of
+Nebraska, Omaha, Nebraska (A.C.M., J.A.F.).
+(2)Department of Pharmacology, Creighton University School of Medicine, Omaha,
+Nebraska (M.L.P., S.M., T.F.M.); and Department of Psychology, University of
+Nebraska, Omaha, Nebraska (A.C.M., J.A.F.) tfmurray@creighton.edu.
+
+The neurohypophyseal hormone oxytocin (OT) regulates biologic functions in both
+peripheral tissues and the central nervous system. In the central nervous system,
+OT influences social processes, including peer relationships, maternal-infant
+bonding, and affiliative social relationships. In mammals, the nonapeptide OT
+structure is highly conserved with leucine in the eighth position (Leu8-OT). In
+marmosets (Callithrix), a nonsynonymous nucleotide substitution in the OXT gene
+codes for proline in the eighth residue position (Pro8-OT). OT binds to its
+cognate G protein-coupled receptor (OTR) and exerts diverse effects, including
+stimulation (Gs) or inhibition (Gi/o) of adenylyl cyclase, stimulation of
+potassium channel currents (Gi), and activation of phospholipase C (Gq). Chinese 
+hamster ovary cells expressing marmoset or human oxytocin receptors (mOTRs or
+hOTRs, respectively) were used to characterize OT signaling. At the mOTR, Pro8-OT
+was more efficacious than Leu8-OT in measures of Gq activation, with both
+peptides displaying subnanomolar potencies. At the hOTR, neither the potency nor 
+efficacy of Pro8-OT and Leu8-OT differed with respect to Gq signaling. In both
+mOTR- and hOTR-expressing cells, Leu8-OT was more potent and modestly more
+efficacious than Pro8-OT in inducing hyperpolarization. In mOTR cells,
+Leu8-OT-induced hyperpolarization was modestly inhibited by pretreatment with
+pertussis toxin (PTX), consistent with a minor role for Gi/o activation; however,
+the Pro8-OT response in mOTR and hOTR cells was PTX insensitive. These findings
+are consistent with membrane hyperpolarization being largely mediated by a Gq
+signaling mechanism leading to Ca2+-dependent activation of K+ channels.
+Evaluation of the influence of apamin, charybdotoxin, paxilline, and TRAM-34
+demonstrated involvement of both intermediate and large conductance
+Ca2+-activated K+ channels.
+
+Copyright © 2019 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/mol.118.114744 
+PMCID: PMC6402416
+PMID: 30739093  [Indexed for MEDLINE]
+

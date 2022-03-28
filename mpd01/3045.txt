@@ -1,0 +1,93 @@
+
+
+3045. J Neurophysiol. 2002 Aug;88(2):579-94.
+
+Sense of taste in a new world monkey, the common marmoset: recordings from the
+chorda tympani and glossopharyngeal nerves.
+
+Danilova V(1), Danilov Y, Roberts T, Tinti JM, Nofre C, Hellekant G.
+
+Author information: 
+(1)Department of Animal Health and Biomedical Sciences, University of Wisconsin, 
+Madison 53706, USA.
+
+Whole nerve, as well as single fiber, responses in the chorda tympani proper (CT)
+and glossopharyngeal (NG) nerves of common marmosets were recorded during taste
+stimulation with three salts, four acids, six bitter compounds and more than 30
+sweeteners. We recorded responses of 49 CT and 41 NG taste fibers. The
+hierarchical cluster analysis distinguished three major clusters in both CT and
+NG: S, Q, and H. The S(CT) fibers, 38% of all CT fibers, responded only to
+sweeteners. The S(CT) fibers did not respond during stimulation with salts,
+acids, and bitter compounds but exhibited OFF responses after citric and ascorbic
+acids, quinine hydrochloride (QHCl), and salts (in 80% of S(CT) fibers). S(NG)
+fibers, 50% of all NG fibers, also responded to sweeteners but not to stimuli of 
+other taste qualities (except for citric acid, which stimulated 70% of the S(NG) 
+fibers). Some sweeteners, including natural (the sweet proteins brazzein,
+monellin) and artificial [cyclamate, neohesperidin dihydrochalcone (NHDHC),
+N-3,5-dichlorophenyl-N'-(S)-alpha-methylbenzylguanidineacetate (DMGA),
+N-4-cyanophenylcarbamoyl-(R,S)-3-amino-3-(3,4-methylenedioxyphenyl) propionic
+acid (CAMPA)] did not elicit responses in the S fibers. In general, the response 
+profiles of the S(CT) and S(NG) clusters were very similar, the correlation
+coefficient between the responses to sweeteners in these clusters was 0.94. Both 
+the Q(CT) and the Q(NG) fibers (40 and 46% of all fibers) were predominantly
+responsive to bitter compounds, although their responses to the same set of
+bitter compounds were quite different. Sweeteners with sweet/bitter taste for
+humans also stimulated the Q clusters. The H clusters (22 and 3% of all fibers)
+were predominantly responsive to acids and did not respond to stimuli of other
+taste qualities. However, bitter stimuli, mainly QHCl, inhibited activity in 70% 
+of H(CT) fibers. Among a total of 90 fibers from both nerves there was only 1
+NaCl-best fiber in CT. We found, however, that 35% of the CT fibers reacted to
+salts with inhibition of activity during stimulation, followed by an OFF
+response. This OFF response was diminished or eliminated by amiloride. These
+characteristics indicate that amiloride-sensitive sodium channels are involved in
+salt transduction in marmosets. In the two NG fibers responding to NaCl, we
+recorded neither suppression by amiloride nor OFF responses. Comparison of
+marmoset data with those of other nonhuman primates studied, rhesus and
+chimpanzee, demonstrates phylogenetic trends in the organization of taste system.
+This can help to uncover pathways of primate evolution.
+
+DOI: 10.1152/jn.2002.88.2.579 
+PMID: 12163511  [Indexed for MEDLINE]
+
+
+3046. Invest Ophthalmol Vis Sci. 2002 Aug;43(8):2519-28.
+
+Diurnal rhythms in intraocular pressure, axial length, and choroidal thickness in
+a primate model of eye growth, the common marmoset.
+
+Nickla DL(1), Wildsoet CF, Troilo D.
+
+Author information: 
+(1)Department of Biological Science and Disease, New England College of
+Optometry, Boston, Massachusetts 02115, USA. nicklad@ne-optometry.edu
+
+PURPOSE: In chickens, there are circadian rhythms in axial length, choroidal
+thickness, and intraocular pressure (IOP), the phases of which differ, depending 
+on visual manipulations that alter ocular growth rate. In this study, these same 
+rhythms were sought in the common marmoset, a primate model of eye growth, to
+establish whether these may play a role in ocular growth regulation across
+species.
+METHODS: IOP was measured by applanation tonometry in 14 untreated marmosets
+ranging in age from 24 to 259 days. High-frequency A-scan ultrasonography was
+used to measure ocular dimensions (axial length and choroidal thickness) in 12
+marmosets ranging in age from 24 to 572 days. Four monkeys were measured when
+they were juveniles (<110 days of age) and again later, when they were
+adolescents. Measurements were typically made at 12-hour intervals, although
+three animals were measured at 6-hour intervals. Nine monkeys had both IOP and
+axial dimensions measured in the same experiment.
+RESULTS: There was a diurnal rhythm in IOP in the marmosets: IOP was higher
+during the dark period and lower during the light period (mean change, 3.6 mm Hg;
+P < 0.005). There were also rhythms in axial length and choroidal thickness. The 
+rhythm in axial length was dependent on age, with faster-growing eyes of
+juveniles increasing in length during the day and decreasing at night (+25 microm
+vs. -22 microm; P < 0.001) and slower-growing eyes of adolescents showing the
+opposite pattern (-27 microm vs. +46 microm; P < 0.0001). The choroid thickened
+during the night and thinned during the day, at all ages measured (+19 microm vs.
+-16 microm; P < 0.0001).
+CONCLUSIONS: Diurnal rhythms in IOP, axial length, and choroidal thickness exist 
+in primates. Age-related differences in the phase relationships of these rhythms 
+may be associated with differences in the rates of ocular growth.
+
+
+PMID: 12147579  [Indexed for MEDLINE]
+

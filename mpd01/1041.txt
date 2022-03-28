@@ -1,0 +1,103 @@
+
+
+1041. J Pept Sci. 2016 Jun;22(6):397-405. doi: 10.1002/psc.2882.
+
+Comparison of marmoset and human FSH using synthetic peptides of the β-subunit L2
+loop region and anti-peptide antibodies.
+
+Kutteyil SS(1), Kulkarni BJ(1), Mojidra R(1), Joseph S(2), Pathak BR(1), Mahale
+SD(1)(2).
+
+Author information: 
+(1)Division of Structural Biology, National Institute for Research in
+Reproductive Health (Indian Council of Medical Research), Jehangir Merwanji
+Street, Parel, Mumbai, 400 012, India.
+(2)Biomedical Informatics Centre, National Institute for Research in Reproductive
+Health (Indian Council of Medical Research), Jehangir Merwanji Street, Parel,
+Mumbai, 400 012, India.
+
+Follicle stimulating hormone (FSH) is a glycoprotein hormone required for female 
+and male gametogenesis in vertebrates. Common marmoset (Callithrix jacchus) is a 
+New World primate monkey, used as animal model in biomedical research.
+Observations like, requirement of extremely high dose of human FSH in marmosets
+for superovulation compared to other primates and generation of antibodies in
+marmoset against human FSH after repeated superovulation cycles, point towards
+the possibility that FSH-FSH receptor (FSHR) interaction in marmosets might be
+different than in the humans. In this study we attempted to understand some of
+these structural differences using FSH peptides and anti-peptide antibody
+approach. Based on sequence alignment, in silico modeling and docking studies, L2
+loop of FSH β-subunit (L2β) was found to be different between marmoset and human.
+Hence, peptides corresponding to region 32-50 of marmoset and human L2β loop were
+synthesized, purified and characterized. The peptides displayed dissimilarity in 
+terms of molecular mass, predicted isoelectric point, predicted charge and in the
+ability to inhibit hormone-receptor interaction. Polyclonal antibodies generated 
+against both the peptides were found to exhibit specific binding for the
+corresponding peptide and parent FSH in ELISA and Western blotting respectively
+and exhibited negligible reactivity to cross-species peptide and FSH in ELISA.
+The anti-peptide antibody against marmoset FSH was also able to detect native FSH
+in marmoset plasma samples and pituitary sections. In summary, the L2β loop of
+marmoset and human FSH has distinct receptor interaction ability and
+immunoreactivity indicating possibility of subtle conformational and biochemical 
+differences between the two regions which may affect the FSH-FSHR interaction in 
+these two primates. Copyright © 2016 European Peptide Society and John Wiley &
+Sons, Ltd.
+
+Copyright © 2016 European Peptide Society and John Wiley & Sons, Ltd.
+
+DOI: 10.1002/psc.2882 
+PMID: 27282136  [Indexed for MEDLINE]
+
+
+1042. Reprod Domest Anim. 2016 Aug;51(4):623-7. doi: 10.1111/rda.12711. Epub 2016 Jun
+3.
+
+Sperm Morphology Assessment in Captive Neotropical Primates.
+
+Swanson WF(1), Valle RR(2)(3)(4), Carvalho FM(4)(5), Arakaki PR(4),
+Rodas-Martínez AZ(6)(7), Muniz J(8), García-Herreros M(4)(9).
+
+Author information: 
+(1)Center or Conservation and Research of Endangered Wildlife, Cincinnati Zoo and
+Botanical Garden, Cincinnati, OH, USA.
+(2)Deutches Primatenzentrum (DPZ), Göttingen, Germany.
+(3)Health Sciences Institute (ICS), Paulista University, São Paulo, Brazil.
+(4)Faculty of Veterinary Medicine and Animal Science (FMVZ), University of São
+Paulo, São Paulo, Brazil.
+(5)Oregon National Primate Research Center, Beaverton, OR, USA.
+(6)Centro de Investigación y Estudios Avanzados del I. P. N, Departamento de
+Fisiología, Biofísica y Neurociencias, Mexico, D.F, México.
+(7)Departamento de Etología, Fauna Silvestre y Animales de Laboratorio de la
+Facultad de Medicina Veterinaria y Zootecnia de la UNAM, Mexico, D.F, México.
+(8)National Primate Center (CENP), Ananindeua, Brazil.
+(9)National Secretariat of Higher Education, Science, Technology, and Innovation 
+(SENESCYT), Quito, Ecuador.
+
+The main objective of this study was to evaluate sperm morphology in four
+neotropical primate species to compare the sperm morphological traits and the
+sperm morphometric parameters as a basis for establishing normative sperm
+standards for each species. Data from 80 ejaculates collected from four primate
+species, Callithrix jacchus, Callimico goeldii, Alouatta caraya and Ateles
+geoffroyi, were analysed for detection of sperm morphological alterations using
+subjective World Health Organization (WHO-2010) standards and Sperm Deformity
+Index (SDI) criteria, objective computer-assisted sperm morphometry analysis
+(CASMA) and subpopulation sperm determination (SSD) methods. There were multiple 
+differences (p < 0.01) observed among primate species in values obtained from
+WHO-2010, SDI, CASMA and SSD sperm analysis methods. In addition, multiple
+significant positive and negative correlations were observed between the sperm
+morphological traits (SDI, Sperm Deformity Index Head Defects, Sperm Deformity
+Index Midpiece Defects, Sperm Deformity Index Tail Defects, Normal Sperm, Head
+Defects, Midpiece Defects and Tail Defects) and the sperm morphometric parameters
+(SSD, Area (A), Perimeter (P), Length (L), Width (W), Ellipticity, Elongation and
+Rugosity) (p ≤ 0.046). In conclusion, our findings using different evaluation
+methods indicate that pronounced sperm morphological variation exists among these
+four neotropical primate species. Because of the strong relationship observed
+among morphological and morphometric parameters, these results suggest that
+application of objective analysis methods could substantially improve the
+reliability of comparative studies and help to establish valid normative sperm
+values for neotropical primates.
+
+© 2016 Blackwell Verlag GmbH.
+
+DOI: 10.1111/rda.12711 
+PMID: 27260333  [Indexed for MEDLINE]
+

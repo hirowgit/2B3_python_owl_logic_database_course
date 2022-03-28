@@ -1,0 +1,34 @@
+
+
+1682. J Neurosci. 2012 Aug 1;32(31):10737-48. doi: 10.1523/JNEUROSCI.3448-11.2012.
+
+Neural correlates of the lombard effect in primate auditory cortex.
+
+Eliades SJ(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland 21025, USA.
+
+Speaking is a sensory-motor process that involves constant self-monitoring to
+ensure accurate vocal production. Self-monitoring of vocal feedback allows rapid 
+adjustment to correct perceived differences between intended and produced
+vocalizations. One important behavior in vocal feedback control is a compensatory
+increase in vocal intensity in response to noise masking during vocal production,
+commonly referred to as the Lombard effect. This behavior requires mechanisms for
+continuously monitoring auditory feedback during speaking. However, the
+underlying neural mechanisms are poorly understood. Here we show that when
+marmoset monkeys vocalize in the presence of masking noise that disrupts vocal
+feedback, the compensatory increase in vocal intensity is accompanied by a shift 
+in auditory cortex activity toward neural response patterns seen during
+vocalizations under normal feedback condition. Furthermore, we show that neural
+activity in auditory cortex during a vocalization phrase predicts vocal intensity
+compensation in subsequent phrases. These observations demonstrate that the
+auditory cortex participates in self-monitoring during the Lombard effect, and
+may play a role in the compensation of noise masking during feedback-mediated
+vocal control.
+
+DOI: 10.1523/JNEUROSCI.3448-11.2012 
+PMCID: PMC3752069
+PMID: 22855821  [Indexed for MEDLINE]
+

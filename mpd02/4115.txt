@@ -1,0 +1,31 @@
+
+
+4115. Am J Physiol. 1993 May;264(5 Pt 2):H1509-16.
+
+Measurement of blood pressure and heart rate by telemetry in conscious,
+unrestrained marmosets.
+
+Schnell CR(1), Wood JM.
+
+Author information: 
+(1)Cardiovascular Research Department, Ciba-Geigy, Basel, Switzerland.
+
+A system is described for the continuous measurement of blood pressure, heart
+rate, and motor activity by telemetry in conscious marmosets freely moving in
+their home cages. Consistent diurnal variations in these parameters were observed
+under standard conditions, although these parameters were sensitive to changes in
+the environment. Blood pressure values were similar to those measured by
+nontelemetric methods in conscious, restrained marmosets. However, heart rate was
+lower, indicating that telemetry is less stressful. The suitability of this
+system for assessing the effects of blood pressure-lowering drugs was evaluated. 
+An acute or a prolonged treatment with a converting enzyme inhibitor of marmosets
+maintained on a low-sodium diet induced a fall in blood pressure as previously
+observed using nontelemetric methods. With telemetry, however, more accurate
+information on the duration of response and the effects of the treatment on the
+diurnal rhythms was obtained. These observations demonstrate the advantages of
+telemetry for evaluating the hemodynamic effects of drug treatments under
+physiological conditions.
+
+DOI: 10.1152/ajpheart.1993.264.5.H1509 
+PMID: 8498565  [Indexed for MEDLINE]
+

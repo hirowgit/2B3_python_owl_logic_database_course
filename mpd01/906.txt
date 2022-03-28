@@ -1,0 +1,105 @@
+
+
+906. BMC Res Notes. 2017 Mar 9;10(1):121. doi: 10.1186/s13104-017-2447-6.
+
+RNA isolation from precision-cut lung slices (PCLS) from different species.
+
+Niehof M(1), Hildebrandt T(2), Danov O(3), Arndt K(2), Koschmann J(4), Dahlmann
+F(3)(5), Hansen T(3), Sewald K(3).
+
+Author information: 
+(1)Division of Preclinical Pharmacology and In Vitro Toxicology, Fraunhofer
+Institute for Toxicology and Experimental Medicine ITEM, German Center for Lung
+Research (DZL), Biomedical Research in Endstage and Obstructive Lung Disease
+Hannover (BREATH), Excellence Cluster REBIRTH, Nikolai-Fuchs-Str. 1, 30625,
+Hannover, Germany. monika.niehof@item.fraunhofer.de.
+(2)Immunology and Respiratory, Boehringer Ingelheim Pharma GmbH & Co. KG,
+Ingelheim am Rhein, Germany.
+(3)Division of Preclinical Pharmacology and In Vitro Toxicology, Fraunhofer
+Institute for Toxicology and Experimental Medicine ITEM, German Center for Lung
+Research (DZL), Biomedical Research in Endstage and Obstructive Lung Disease
+Hannover (BREATH), Excellence Cluster REBIRTH, Nikolai-Fuchs-Str. 1, 30625,
+Hannover, Germany.
+(4)geneXplain GmbH, 38302, Wolfenbüttel, Germany.
+(5)Pathology Unit, German Primate Center GmbH, Leibniz-Institute for Primate
+Research, Kellnerweg 4, 37077, Göttingen, Germany.
+
+BACKGROUND: Functional 3D organ models such as precision-cut lung slices (PCLS)
+have recently captured the attention of biomedical research. To enable wider
+implementation in research and development, these new biologically relevant organ
+models are being constantly refined. A very important issue is to improve the
+preparation of high-quality RNA (ribonucleic acid) from PCLS for drug discovery
+and development of new therapies. Gene expression analysis at different levels is
+used as an important experimental readout. Genome-wide analysis using microarrays
+is mostly applied for biomarker selection in disease models or in comprehensive
+toxicological studies. Specific biomarker testing by reverse transcriptase
+quantitative polymerase chain reaction (RTqPCR) is often used in efficacy
+studies. Both applications require high-quality RNA as starting material for the 
+generation of reliable data. Additionally, a small number of slices should be
+sufficient for satisfactory RNA isolation to allow as many experimental
+conditions as possible to be covered with a given tissue sample. Unfortunately,
+the vast amount of agarose in PCLS impedes RNA extraction according to the
+standard procedures.
+RESULTS: We established an optimized protocol for RNA isolation from PCLS from
+humans, rats, mice, marmosets, and rhesus macaques based on the separation of
+lysis and precipitation steps and a magnetic-bead cleanup procedure. The
+resulting RNA is of high purity and possesses a high degree of integrity. There
+are no contaminations affecting RTqPCR efficiency or any enzymatic step in sample
+preparation for microarray analysis.
+CONCLUSIONS: In summary, we isolated RNA from PCLS from different species that is
+well suited for RTqPCR and for microarray analysis as downstream applications.
+
+DOI: 10.1186/s13104-017-2447-6 
+PMCID: PMC5343379
+PMID: 28274266  [Indexed for MEDLINE]
+
+
+907. Drug Metab Dispos. 2017 May;45(5):497-500. doi: 10.1124/dmd.117.075184. Epub 2017
+Mar 3.
+
+Marmoset Flavin-Containing Monooxygenase 3 in the Liver Is a Major Benzydamine
+and Sulindac Sulfide Oxygenase.
+
+Uehara S(1), Shimizu M(1), Uno Y(1), Inoue T(1), Sasaki E(1), Yamazaki H(2).
+
+Author information: 
+(1)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., M.S., H.Y.); Pharmacokinetics and
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology (T.I.) and Center of
+Applied Developmental Biology (E.S.), Central Institute for Experimental Animals,
+Kawasaki, Japan; and Keio Advanced Research Center, Keio University, Minato-ku,
+Tokyo, Japan (E.S.).
+(2)Laboratory of Drug Metabolism and Pharmacokinetics, Showa Pharmaceutical
+University, Machida, Tokyo, Japan (S.U., M.S., H.Y.); Pharmacokinetics and
+Bioanalysis Center, Shin Nippon Biomedical Laboratories, Ltd., Kainan, Wakayama, 
+Japan (Y.U.); Department of Applied Developmental Biology (T.I.) and Center of
+Applied Developmental Biology (E.S.), Central Institute for Experimental Animals,
+Kawasaki, Japan; and Keio Advanced Research Center, Keio University, Minato-ku,
+Tokyo, Japan (E.S.) hyamazak@ac.shoyaku.ac.jp.
+
+Common marmosets (Callithrix jacchus) are potentially primate models for
+preclinical drug metabolism studies because there are similarities in the
+molecular characteristics of cytochrome P450 enzymes between this species and
+humans. However, characterization of non-cytochrome P450 enzymes has not been
+clarified in marmosets. Here, we report characterization of flavin-containing
+monooxygenases FMO1-FMO5 identified in marmoset tissues. Marmoset FMO forms
+shared high amino acid sequence identities (93%-95%) and phylogenetic closeness
+with human homologous FMO forms. FMO1 and FMO3 mRNA were abundantly expressed in 
+the liver and kidneys among five marmoset tissues examined, where FMO3 protein
+was detected by immunoblotting. FMO inhibition assays using preheated tissue
+microsomes indicated that benzydamine N-oxygenation and sulindac sulfide
+S-oxygenation in the marmoset liver was mainly catalyzed by FMO3, the major
+hepatic FMO. Marmoset FMO3 protein heterologously expressed in Escherichia coli
+effectively catalyzed benzydamine N-oxygenation and sulindac sulfide
+S-oxygenation comparable to marmoset liver microsomes. These results indicate
+that the FMO3 enzyme expressed in marmoset livers mainly metabolizes benzydamine 
+and sulindac sulfide (typical human FMO substrates), suggesting its importance
+for FMO-dependent drug metabolism in marmosets.
+
+Copyright © 2017 by The American Society for Pharmacology and Experimental
+Therapeutics.
+
+DOI: 10.1124/dmd.117.075184 
+PMID: 28258069  [Indexed for MEDLINE]
+

@@ -1,0 +1,61 @@
+
+
+519. Cereb Cortex. 2019 Dec 17;29(12):5150-5165. doi: 10.1093/cercor/bhz054.
+
+Evolution of Brain Connections: Integrating Diffusion MR Tractography With Gene
+Expression Highlights Increased Corticocortical Projections in Primates.
+
+Charvet CJ(1), Palani A(2)(3), Kabaria P(2)(4), Takahashi E(2).
+
+Author information: 
+(1)Department of Psychology, Delaware State University, Dover, DE 19901, USA.
+(2)Division of Newborn Medicine, Department of Medicine, Boston Children's
+Hospital, Harvard Medical School, Boston, MA 02215, USA.
+(3)Medical Sciences in the College of Arts and Sciences, Boston University,
+Boston, MA 02215, USA.
+(4)Department of Behavioral Neuroscience, Northeastern University, Boston, MA
+02115, USA.
+
+Diffusion MR tractography permits investigating the 3D structure of cortical
+pathways as interwoven paths across the entire brain. We use high-resolution
+scans from diffusion spectrum imaging and high angular resolution diffusion
+imaging to investigate the evolution of cortical pathways within the
+euarchontoglire (i.e., primates, rodents) lineage. More specifically, we compare 
+cortical fiber pathways between macaques (Macaca mulatta), marmosets (Callithrix 
+jachus), and rodents (mice, Mus musculus). We integrate these observations with
+comparative analyses of Neurofilament heavy polypeptide (NEFH) expression across 
+the cortex of mice and primates. We chose these species because their
+phylogenetic position serves to trace the early evolutionary history of the human
+brain. Our comparative analysis from diffusion MR tractography, cortical white
+matter scaling, and NEFH expression demonstrates that the examined primates
+deviate from mice in possessing increased long-range cross-cortical projections, 
+many of which course across the anterior to posterior axis of the cortex. Our
+study shows that integrating gene expression data with diffusion MR data is an
+effective approach in identifying variation in connectivity patterns between
+species. The expansion of corticocortical pathways and increased anterior to
+posterior cortical integration can be traced back to an extension of neurogenetic
+schedules during development in primates.
+
+© The Author(s) 2019. Published by Oxford University Press. All rights reserved. 
+For Permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhz054 
+PMCID: PMC6918932
+PMID: 30927350  [Indexed for MEDLINE]
+
+
+520. Nat Methods. 2019 Apr;16(4):285. doi: 10.1038/s41592-019-0381-3.
+
+Mapping the marmoset brain.
+
+Vogt N(1).
+
+Author information: 
+(1)Nature Methods, . nina.vogt@us.nature.com.
+
+Comment on
+    Elife. 2019 Feb 05;8:null.
+
+DOI: 10.1038/s41592-019-0381-3 
+PMID: 30923386  [Indexed for MEDLINE]
+

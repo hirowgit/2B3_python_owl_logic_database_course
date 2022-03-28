@@ -1,0 +1,61 @@
+
+
+3628. Immunity. 1997 Nov;7(5):667-77.
+
+Reversal of EBV immortalization precedes apoptosis in IL-6-induced human B cell
+terminal differentiation.
+
+Altmeyer A(1), Simmons RC, Krajewski S, Reed JC, Bornkamm GW, Chen-Kiang S.
+
+Author information: 
+(1)Department of Pathology, Cornell University Medical College, New York, New
+York 10021, USA.
+
+Cell death in B cell terminal differentiation rapidly follows cell cycle arrest
+in IL-6 differentiation of EBV-immortalized, IgG-bearing human lymphoblastoid
+cells in vitro. G1 arrest is now found to coincide with repression of EBNA2 and
+LMP1, two EBV genes essential for B cell transformation, without activation of
+the viral lytic cycle. IL-6-differentiated B cells die by apoptosis, as evidenced
+by increases in Annexin V binding activity, PARP cleavage, and chromatin
+disorganization. Expression of Mcl-1, a Bcl-2 family member, was specifically
+induced during IL-6 differentiation and down-regulated during apoptosis. Thus,
+IL-6 reverses EBV immortalization and activates the terminal differentiation
+program in IgG-bearing human B lymphoblastoid cells, including regulation of an
+anti-apoptotic gene to coordinate differentiation, cell cycle arrest, and cell
+death.
+
+DOI: 10.1016/s1074-7613(00)80387-8 
+PMID: 9390690  [Indexed for MEDLINE]
+
+
+3629. Vision Res. 1997 Oct;37(19):2649-60.
+
+Temporal properties of marmoset lateral geniculate cells.
+
+Kremers J(1), Weiss S, Zrenner E.
+
+Author information: 
+(1)Department of Experimental Ophthalmology, University of Tübingen Eye Hospital,
+Germany. jan.kremers@uni-tuebingen.de
+
+We measured the temporal modulation transfer functions (TMTFs) of cells in the
+marmoset lateral geniculate nucleus (LGN) at three different luminance levels,
+and described the responses with a linear model. It was found that qualitatively 
+there are many similarities with the temporal response properties of macaque and 
+marmoset retinal ganglion cells. M-cells displayed stronger attenuation at lower 
+temporal frequencies, and showed more nonlinearities (such as saturation and a
+contrast gain control) than P-cells. We therefore propose that the temporal
+properties of the visual system of New and Old World monkeys are similar at least
+up to the LGN. However, there are some quantitative differences, indicating that 
+response alterations take place at the stage of synaptic transmission in the LGN.
+The most important are an attenuation of the responses to higher temporal
+frequencies and the smaller differences between parvo- and magnocellular cell
+responsivities. Cell responses to square-wave modulation were also measured and
+compared with predictions from a linear systems analysis. The linear systems
+analysis gave reasonable predicted responses to square-wave modulation, but these
+predictions were poor than those for retinal ganglion cells, indicating that
+additional nonlinearities are introduced at the synaptic transition in the LGN.
+
+DOI: 10.1016/s0042-6989(97)00090-4 
+PMID: 9373665  [Indexed for MEDLINE]
+

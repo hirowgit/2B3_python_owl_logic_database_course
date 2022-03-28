@@ -1,0 +1,96 @@
+
+
+872. J Neuropathol Exp Neurol. 2017 Jun 1;76(6):467-478. doi: 10.1093/jnen/nlx034.
+
+Oxidative Injury and Iron Redistribution Are Pathological Hallmarks of Marmoset
+Experimental Autoimmune Encephalomyelitis.
+
+Dunham J(1), Bauer J(1), Campbell GR(1), Mahad DJ(1), van Driel N(1), van der Pol
+SMA(1), 't Hart BA(1), Lassmann H(1), Laman JD(1), van Horssen J(1), Kap YS(1).
+
+Author information: 
+(1)From the Department of Immunobiology, Biomedical Primate Research Centre,
+Rijswijk, The Netherlands (JD, NvD, BAH, YSK); Department of Neuroscience,
+University Medical Center, University of Groningen, Groningen, The Netherlands
+(JD, BAH, JDL); Medical University of Vienna, Center for Brain Research, Vienna, 
+Austria (JB, HL); Centre for Neuroregeneration, University of Edinburgh,
+Edinburgh, United Kingdom (GRC, DJM); and Department of Molecular Cell Biology
+and Immunology, VU University Medical Center, Amsterdam, The Netherlands (SMAvdP,
+JvH).
+
+Oxidative damage and iron redistribution are associated with the pathogenesis and
+progression of multiple sclerosis (MS), but these aspects are not entirely
+replicated in rodent experimental autoimmune encephalomyelitis (EAE) models.
+Here, we report that oxidative burst and injury as well as redistribution of iron
+are hallmarks of the MS-like pathology in the EAE model in the common marmoset.
+Active lesions in the marmoset EAE brain display increased expression of
+nicotinamide adenine dinucleotide phosphate (NADPH) oxidase (p22phox, p47phox,
+and gp91phox) and inducible nitric oxide synthase immunoreactivity within lesions
+with active inflammation and demyelination, coinciding with enhanced expression
+of mitochondrial heat-shock protein 70 and superoxide dismutase 1 and 2. The EAE 
+lesion-associated liberation of iron (due to loss of iron-containing myelin) was 
+associated with altered expression of the iron metabolic markers FtH1,
+lactoferrin, hephaestin, and ceruloplasmin. The enhanced expression of oxidative 
+damage markers in inflammatory lesions indicates that the enhanced antioxidant
+enzyme expression could not counteract reactive oxygen and nitrogen
+species-induced cellular damage, as is also observed in MS brains. This study
+demonstrates that oxidative injury and aberrant iron distribution are prominent
+pathological hallmarks of marmoset EAE thus making this model suitable for
+therapeutic intervention studies aimed at reducing oxidative stress and
+associated iron dysmetabolism.
+
+© 2017 American Association of Neuropathologists, Inc. All rights reserved.
+
+DOI: 10.1093/jnen/nlx034 
+PMID: 28505283  [Indexed for MEDLINE]
+
+
+873. Neuroimage. 2017 Aug 1;156:78-86. doi: 10.1016/j.neuroimage.2017.05.013. Epub
+2017 May 10.
+
+A geometrically adjustable receive array for imaging marmoset cohorts.
+
+Gilbert KM(1), Gati JS(2), Klassen LM(2), Zeman P(2), Schaeffer DJ(2), Everling
+S(3), Menon RS(4).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, 1151 Richmond St. N, London, Ontario, Canada N6A 5B7. Electronic
+address: kgilbert@robarts.ca.
+(2)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, 1151 Richmond St. N, London, Ontario, Canada N6A 5B7.
+(3)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, 1151 Richmond St. N, London, Ontario, Canada N6A 5B7; Department of
+Physiology and Pharmacology, The University of Western Ontario, London, Ontario, 
+Canada.
+(4)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, 1151 Richmond St. N, London, Ontario, Canada N6A 5B7; Department of
+Medical Biophysics, The University of Western Ontario, London, Ontario, Canada.
+
+The common marmoset (Callithrix jacchus) is an increasingly popular animal model 
+for translational neuroscience studies, during which anatomical and functional
+MRI can be useful investigative tools. To attain the requisite SNR for
+high-resolution acquisitions, the radiofrequency coil must be optimized for the
+marmoset; however, relatively few custom coils have been developed that maximize 
+SNR and are compatible with accelerated acquisitions. For the study of large
+populations of animals, the heterogeneity in animal size reduces the
+effectiveness of a "one size fits all" approach to coil sizing and makes coils
+tailored to individual animals cost and time prohibitive. The approach taken in
+this study was to create an 8-channel phased-array receive coil that was
+adjustable to the width of the marmoset head, thereby negating the need for
+tailored coils while still maintaining high SNR. Two marmosets of different size 
+were imaged on a 9.4-T small-animal scanner. Consistent SNR was achieved in the
+periphery of the brain between head sizes. When compared to a 15-channel, "one
+size fits all" receive coil, the adjustable coil achieved 57% higher SNR in the
+superior frontal and parietal cortices and 29% higher SNR in the centre of the
+brain. The mean geometry factor of the adjustable coil was less than 1.2 for a
+2-fold reduction factor in the left-right and anterior-posterior directions.
+Geometry factors were compared to the 15-channel coil to guide future designs.
+The adjustable coil was shown to be a practical means for anatomical and
+echo-planar imaging of marmoset cohorts.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2017.05.013 
+PMID: 28499849  [Indexed for MEDLINE]
+

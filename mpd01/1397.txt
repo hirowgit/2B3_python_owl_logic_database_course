@@ -1,0 +1,74 @@
+
+
+1397. J Immunother. 2014 Jul-Aug;37(6):309-20. doi: 10.1097/CJI.0000000000000042.
+
+Ligation of CD47 induces G1 arrest in EBV-transformed B cells through ROS
+generation, p38 MAPK/JNK activation, and Tap73 upregulation.
+
+Park GB(1), Bang SR, Lee HK, Kim D, Kim S, Kim JK, Kim YS, Hur DY.
+
+Author information: 
+(1)*Department of Anatomy and Research Center for Tumor Immunology, Inje
+University College of Medicine ‡Department of Internal Medicine, Inje University 
+Busan Paik Hospital, Busan †Department of Anesthesiology, Inje University Seoul
+Paik Hospital §Department of Anesthesiology, Samsung Medical Center, Sungkyunkwan
+University, Seoul , Republic of Korea.
+
+CD47 is expressed in normal activated cells as well as in several tumors. It also
+has been implicated as having antiangiogenic and antimetastatic properties, but
+its roles in Epstein-Barr virus (EBV)-transformed B cells are still not fully
+understood. Herein, we report that EBV infection induced CD47 surface expression 
+on B cells, and CD47 ligation with anti-CD47 mAb (B6H12) reduced cell
+proliferation and induced G1 arrest. CD47-induced G1 arrest was mediated through 
+increased cyclin-dependent kinase inhibitors (CDKi) and a simultaneously
+decreased CDK/cyclins, and p38 MAPK/JNK activation preceded binding of CDKi-CDK. 
+Moreover, reactive oxygen species (ROS) generation and upregulation of both TAp73
+and ER stress sensor proteins were detected after CD47 ligation, and p38
+inhibitor SB203580 and JNK inhibitor SP600125 blocked upregulation of TAp73 and
+cell cycle arrest. We investigated whether ROS generation is the initial event of
+CD47-mediated G1 arrest because ROS scavenger NAC effectively abrogated the
+majority of CD47-mediated responses but SB203580 and SP600125 did not block ROS
+production. Taken together, we concluded that CD47 ligation on EBV-transformed B 
+cells led to G1 arrest by ROS generation and, subsequently, there was p38
+MAPK/JNK pathway activation, ER stress triggering, and TAp73 upregulation. Our
+findings provide data supporting CD47 as a feasible target for EBV-associated
+tumor therapy.
+
+DOI: 10.1097/CJI.0000000000000042 
+PMID: 24911792  [Indexed for MEDLINE]
+
+
+1398. Anim Behav. 2014 May;91(100):79-91.
+
+Memory, transmission and persistence of alternative foraging techniques in wild
+common marmosets.
+
+Gunhold T(1), Massen JJ(1), Schiel N(2), Souto A(3), Bugnyar T(1).
+
+Author information: 
+(1)Department of Cognitive Biology, University of Vienna, Vienna, Austria.
+(2)Department of Biology, Federal Rural University of Pernambuco, Recife, Brazil.
+(3)Department of Zoology, Federal University of Pernambuco, Recife, Brazil.
+
+Experimental studies on traditions in animals have focused almost entirely on the
+initial transmission phase in captive populations. We conducted an open diffusion
+field experiment with 13 groups of wild common marmosets, Callithrix jacchus.
+Seven groups contained individuals that were already familiar with the task
+('push or pull' box) and thus served as potential models for naïve individuals.
+Additionally, in four groups one individual was trained for one of the two
+possible techniques and in two control groups no skilled individuals were
+present. First, we investigated whether experienced individuals would remember
+how to solve the task even after 2 years without exposure and whether they would 
+still prefer their learned technique. Second, we tested whether naïve individuals
+would learn socially from their skilled family members and, more importantly,
+whether they would use the same technique. Third, we conducted several test
+blocks to see whether the individual and/or group behaviour would persist over
+time. Our results show that wild common marmosets were able to memorize, learn
+socially and maintain preferences of foraging techniques. This field experiment
+thus reveals a promising approach to studying social learning in the wild and
+provides the basis for long-term studies on tradition formation.
+
+DOI: 10.1016/j.anbehav.2014.02.023 
+PMCID: PMC4045399
+PMID: 24910466 
+

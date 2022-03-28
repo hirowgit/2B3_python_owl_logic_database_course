@@ -1,0 +1,34 @@
+
+
+4286. J Virol. 1991 Dec;65(12):6953-60.
+
+Identification and characterization of the herpesvirus saimiri oncoprotein
+STP-C488.
+
+Jung JU(1), Desrosiers RC.
+
+Author information: 
+(1)New England Regional Primate Research Center, Harvard Medical School,
+Southborough, Massachusetts 01772.
+
+The protein encoded by herpesvirus saimiri transforming gene STP-C488 was
+identified and characterized. Antibodies were produced in rabbits by immunization
+with keyhole limpet hemocyanin-conjugated synthetic peptides specific for the
+predicted sequence of STP-C488. STP-C488-encoded protein was detected in
+recombinant Escherichia coli, transformed Rat-1 cells, transfected COS-1 cells,
+and in common marmoset T lymphocytes immortalized by herpesvirus saimiri strain
+488. STP-C488 protein was sensitive to treatment by bacterial collagenase,
+consistent with the 18 uninterrupted collagenlike repeats predicted by the DNA
+sequence. The apparent molecular size of STP-C488 in sodium dodecyl sulfate
+(SDS)-polyacrylamide gels (20 to 22 kDa) was considerably larger than that
+predicted from the DNA sequence (9.9 kDa). Using indirect immunofluorescence
+tests and subcellular fractionation, STP-C488 was found to be membrane bound,
+primarily in perinuclear compartments. The 18 uninterrupted collagenlike repeats,
+sensitivity to collagenase, location in the cell, and anomalous migration through
+SDS-polyacrylamide gels suggest an unusual, membrane-associated, fibrous
+structure for this transforming herpesvirus oncoprotein.
+
+DOI: 10.1128/JVI.65.12.6953-6960.1991 
+PMCID: PMC250805
+PMID: 1658384  [Indexed for MEDLINE]
+

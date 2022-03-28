@@ -1,0 +1,89 @@
+
+
+1842. Comp Med. 2011 Jun;61(3):278-84.
+
+Colonization with nontuberculous mycobacteria is associated with positive
+tuberculin skin test reactions in the common marmoset (Callithrix jacchus).
+
+Wachtman LM(1), Miller AD, Xia D, Curran EH, Mansfield KG.
+
+Author information: 
+(1)New England Primate Research Center, Harvard Medical School, Southborough,
+Massachusetts, USA. Lynn_wachtman@hms.harvard.edu
+
+Mycobacterium tuberculosis infections can result in significant morbidity and
+mortality in nonhuman primate colonies. Preventative health programs designed to 
+detect infection routinely include tuberculin skin testing (TST). Because
+Mammalian Old Tuberculin used for TST contains antigens common to a variety of
+mycobacterial species, false-positive results can occur in animals sensitized to 
+nontuberculous mycobacteria (NTM). Over 11 mo, a large colony of common marmosets
+(Callithrix jacchus) demonstrated a 3.6% prevalence of equivocal or positive TST 
+reactions (termed 'suspect reactions'). Culture of gastric aspirates,
+bronchoalveolar lavage fluid, and feces revealed a single animal with a positive 
+fecal culture for Mycobacterium gordonae. PCR amplification of M. gordonae DNA in
+feces collected from animals with suspect TST reactions (demonstrating a 66.7%
+colonization rate) and colony controls (demonstrating a 14.3% colonization rate) 
+revealed a significant association between suspect TST reactions and intestinal
+colonization. Gross and histopathologic evaluation revealed a multifocal
+lymphadenopathy and granulomatous lymphadenitis in 2 of 4 TST-positive marmosets 
+examined. Counter to expectations, granulomatous lymphoid tissue was
+culture-positive for M. kansasii rather than M. gordonae. Detection of M.
+gordonae in the feces of TST-suspect animals likely represents an apathogenic
+intestinal colonization that may serve as an indicator of NTM exposure, whereas
+evidence of histopathologic disease is associated with the more pathogenic M.
+kansasii. Although a high index of suspicion for M. tuberculosis should always be
+maintained, colonization with NTM organisms represents a cause of suspect TST
+reactions in common marmosets.
+
+Copyright 2011 by the American Association for Laboratory Animal Science
+
+
+PMCID: PMC3123762
+PMID: 21819699  [Indexed for MEDLINE]
+
+
+1843. Sleep. 2011 Aug 1;34(8):1119-25. doi: 10.5665/SLEEP.1174.
+
+REM sleep behavior disorder in the marmoset MPTP model of early Parkinson
+disease.
+
+Verhave PS(1), Jongsma MJ, Van den Berg RM, Vis JC, Vanwersch RA, Smit AB, Van
+Someren EJ, Philippens IH.
+
+Author information: 
+(1)BU CBRN Protection, TNO Defence, Security and Safety, Rijswijk, The
+Netherlands. nellekeverhave@gmail.com
+
+STUDY OBJECTIVES: Sleep problems are a common phenomenon in most neurological and
+psychiatric diseases. In Parkinson disease (PD), for instance, sleep problems may
+be the most common and burdensome non-motor symptoms in addition to the
+well-described classical motor symptoms. Since sleep disturbances generally
+become apparent in the disease before motor symptoms emerge, they may represent
+early diagnostic tools and a means to investigate early mechanisms in PD onset.
+The sleep disturbance, REM sleep behavior disorder (RBD), precedes PD in
+one-third of patients. We therefore investigated sleep changes in marmoset
+monkeys treated with 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine hydrochloride
+(MPTP), the non-human primate model for idiopathic PD.
+DESIGN: Mild parkinsonism was induced in 5 marmoset monkeys (3M/2F) over a 2-week
+period of subchronic MPTP treatment. Electroencephalograms (EEGs) and
+electromyograms (EMGs) were recorded weekly. Motor activity and hand-eye
+coordination were also measured weekly, and any signs of parkinsonism were noted 
+each day. Sleep parameters, motor activity, and performance data before and after
+MPTP treatment were compared between MPTP-treated marmosets and 4 control
+marmosets (1M/3F).
+RESULTS: MPTP increased the number of sleep epochs with high-amplitude EMG bouts 
+during REM sleep relative to control animals (mean ± SEM percentage of REM 58.2 ±
+9.3 vs. 29.6 ± 7.7; P < 0.05). Of all sleep parameters measured, RBD-like
+measures discriminated best between MPTP-treated and control animals. On the
+other hand, functional motor behavior, as measured by hand-eye coordination, was 
+not affected by MPTP treatment (correct trials MPTP: 23.40 ± 3.56 vs. control:
+36.13 ± 5.88 correct trials; P = 0.32).
+CONCLUSIONS: This REM sleep-specific change, in the absence of profound changes
+in wake motor behaviors, suggests that the MPTP marmoset model of PD could be
+used for further studies into the mechanisms and treatment of RBD and other sleep
+disorders in premotor symptom PD.
+
+DOI: 10.5665/SLEEP.1174 
+PMCID: PMC3138167
+PMID: 21804674  [Indexed for MEDLINE]
+

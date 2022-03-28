@@ -1,0 +1,41 @@
+
+
+2023. Stem Cell Res. 2010 May;4(3):180-8. doi: 10.1016/j.scr.2010.02.003. Epub 2010 Mar
+6.
+
+Generation of induced pluripotent stem cells from newborn marmoset skin
+fibroblasts.
+
+Wu Y(1), Zhang Y, Mishra A, Tardif SD, Hornsby PJ.
+
+Author information: 
+(1)College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi
+712100, China. WuY4@uthscsa.edu
+
+Induced pluripotent stem cells (iPSCs) hold great promise for regenerative
+medicine. For the application of iPSCs to forms of autologous cell therapy,
+suitable animal models are required. Among species that could potentially be used
+for this purpose, nonhuman primates are particularly important, and among these
+the marmoset offers significant advantages. In order to demonstrate the
+feasibility of the application of iPSC technology to this species, here we
+derived lines of marmoset iPSCs. Using retroviral transduction with human Oct4,
+Sox2, Klf4 and c-Myc, we derived clones that fulfil critical criteria for
+successful reprogramming: they exhibit typical iPSC morphology; they are alkaline
+phosphatase positive; they express high levels of NANOG, OCT4 and SOX2 mRNAs,
+while the corresponding vector genes are silenced; they are immunoreactive for
+Oct4, TRA-1-81 and SSEA-4; and when implanted into immunodeficient mice they
+produce teratomas that have derivatives of all three germ layers (endoderm,
+alpha-fetoprotein; ectoderm, betaIII-tubulin; mesoderm, smooth muscle actin).
+Starting with a population of 4 x 10(5) newborn marmoset skin fibroblasts, we
+obtained approximately 100 colonies with iPSC-like morphology. Of these, 30 were 
+expanded sufficiently to be cryopreserved, and, of those, 8 were characterized in
+more detail. These experiments provide proof of principle that iPSC technology
+can be adapted for use in the marmoset, as a future model of autologous cell
+therapy.
+
+Copyright 2010 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scr.2010.02.003 
+PMCID: PMC2875323
+PMID: 20363201  [Indexed for MEDLINE]
+

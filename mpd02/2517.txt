@@ -1,0 +1,32 @@
+
+
+2517. J Immunol. 2006 Aug 1;177(3):1427-33.
+
+EBV-specific CD4+ T cell clones exhibit vigorous allogeneic responses.
+
+Landais E(1), Morice A, Long HM, Haigh TA, Charreau B, Bonneville M, Taylor GS,
+Houssaint E.
+
+Author information: 
+(1)Institut National de la Santé et de la Recherche Médicale, Unité 601, Institut
+de Biologie, Nantes, France.
+
+Alloreactive T cells play a key role in mediating graft-vs-host disease and
+allograft rejection, and recent data suggest that most T cell alloreactivity
+resides within the CD4 T cell subset. Particularly, T cell responses to
+herpesvirus can shape the alloreactive repertoire and influence transplantation
+outcomes. In this study, we describe six distinct EBV-specific CD4(+) T cell
+clones that cross-reacted with EBV-transformed lymphoblastoid cell lines (LCLs), 
+dendritic cells, and endothelial cells expressing MHC class II alleles commonly
+found in the population. Allorecognition showed exquisite MHC specificity. These 
+CD4(+) T cell clones efficiently killed dendritic cells or LCLs expressing the
+cross-reactive allogeneic MHC class II molecules, whereas they did not kill
+autologous LCLs. Endothelial cells expressing the proper allogeneic MHC molecules
+were poorly killed, but they induced high-level TNF-alpha production by the
+EBV-specific CD4(+) T cell clones. As already proposed, the strong alloreactivity
+toward LCLs suggest that these cells could be used for selective depletion of
+alloreactive T cells.
+
+DOI: 10.4049/jimmunol.177.3.1427 
+PMID: 16849448  [Indexed for MEDLINE]
+

@@ -1,0 +1,44 @@
+
+
+592. Biochemistry. 2019 Feb 12;58(6):763-775. doi: 10.1021/acs.biochem.8b00852. Epub
+2019 Jan 14.
+
+Amyloid-like Behavior of Site-Specifically Citrullinated Myelin Oligodendrocyte
+Protein (MOG) Peptide Fragments inside EBV-Infected B-Cells Influences Their
+Cytotoxicity and Autoimmunogenicity.
+
+Araman C(1), van Gent ME(1), Meeuwenoord NJ(2), Heijmans N(3), Marqvorsen MHS(1),
+Doelman W(1), Faber BW(4), 't Hart BA(3)(5), Van Kasteren SI(1).
+
+Author information: 
+(1)Leiden Institute of Chemistry and Institute for Chemical Immunology , Leiden
+University , Einsteinweg 55 , 2333 CC Leiden , The Netherlands.
+(2)Leiden Institute of Chemistry and Department of Bioorganic Synthesis , Leiden 
+University , Einsteinweg 55 , 2333 CC Leiden , The Netherlands.
+(3)Department of Immunobiology , Biomedical Primate Research Centre , 2288 GJ
+Rijswijk , The Netherlands.
+(4)Department of Parasitology , Biomedical Primate Research Centre , 2288 GJ
+Rijswijk , The Netherlands.
+(5)Department of Neuroscience , University of Groningen, University Medical
+Centre , 9700 AB Groningen , The Netherlands.
+
+Multiple sclerosis (MS) is an autoimmune disorder manifested via chronic
+inflammation, demyelination, and neurodegeneration inside the central nervous
+system. The progressive phase of MS is characterized by neurodegeneration, but
+unlike classical neurodegenerative diseases, amyloid-like aggregation of
+self-proteins has not been documented. There is evidence that citrullination
+protects an immunodominant peptide of human myelin oligodendrocyte glycoprotein
+(MOG34-56) against destructive processing in Epstein-Barr virus-infected
+B-lymphocytes (EBV-BLCs) in marmosets and causes exacerbation of ongoing MS-like 
+encephalopathies in mice. Here we collected evidence that citrullination of MOG
+can also lead to amyloid-like behavior shifting the disease pathogenesis toward
+neurodegeneration. We observed that an immunodominant MOG peptide, MOG35-55,
+displays amyloid-like behavior upon site-specific citrullination at positions 41,
+46, and/or 52. These amyloid aggregates are shown to be toxic to the EBV-BLCs and
+to dendritic cells at concentrations favored for antigen presentation, suggesting
+a role of amyloid-like aggregation in the pathogenesis of progressive MS.
+
+DOI: 10.1021/acs.biochem.8b00852 
+PMCID: PMC6374747
+PMID: 30513201  [Indexed for MEDLINE]
+

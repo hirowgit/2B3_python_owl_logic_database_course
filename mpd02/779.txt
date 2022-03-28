@@ -1,0 +1,45 @@
+
+
+779. Vet Pathol. 2018 Mar;55(2):258-267. doi: 10.1177/0300985817736113. Epub 2017 Nov 
+16.
+
+Use of Immunohistochemistry to Demonstrate In Vivo Expression of the Burkholderia
+mallei Virulence Factor BpaB During Experimental Glanders.
+
+Zimmerman SM(1), Long ME(2), Dyke JS(1), Jelesijevic TP(1), Michel F(3),
+Lafontaine ER(1), Hogan RJ(1)(3).
+
+Author information: 
+(1)1 Department of Infectious Diseases, University of Georgia College of
+Veterinary Medicine, Athens, GA, USA.
+(2)2 Veterinary Teaching Hospital, University of Georgia College of Veterinary
+Medicine, Athens, GA, USA.
+(3)3 Department of Veterinary Biosciences and Diagnostic Imaging, University of
+Georgia College of Veterinary Medicine, Athens, GA, USA.
+
+Burkholderia mallei causes the highly contagious and debilitating zoonosis
+glanders, which infects via inhalation or percutaneous inoculation and often
+culminates in life-threatening pneumonia and sepsis. In humans, glanders is
+difficult to diagnose and requires prolonged antibiotic therapy with low success 
+rates. No vaccine exists to protect against B. mallei, and there is concern
+regarding its use as a bioweapon. The authors previously identified the protein
+BpaB as a potential target for devising therapies due to its role in adherence to
+host cells and the formation of biofilms in vitro and its contribution to
+pathogenicity in a mouse model of glanders. In the present study, the authors
+developed an immunostaining approach to probe tissues of experimentally infected 
+animals and demonstrated that BpaB is produced exclusively in vivo by wild-type
+B. mallei in target organs from mice and marmosets. They detected the expression 
+of BpaB by B. mallei both extracellularly and within macrophages, neutrophils,
+and epithelial cells in respiratory tissues (7/10 marmoset; 2/2 mouse). The
+authors also noted the intracellular expression of BpaB by B. mallei in
+macrophages in the regional lymph nodes of mice (2/2 tissues) and MALT of
+marmosets (4/5 tissues). It is interesting that B. mallei bacteria infecting
+distal organs did not express BpaB (2/2 mice; 3/3 marmosets), suggesting that the
+protein is not necessary for bacterial fitness in these anatomic locations. These
+findings underscore the value of BpaB as a target for developing medical
+countermeasures and provide insight into its role in pathogenesis.
+
+DOI: 10.1177/0300985817736113 
+PMCID: PMC7063225
+PMID: 29145795  [Indexed for MEDLINE]
+

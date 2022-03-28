@@ -1,0 +1,70 @@
+
+
+2342. J Neurosci. 2007 Oct 31;27(44):11991-8.
+
+In vivo tracing of neural tracts in the intact and injured spinal cord of
+marmosets by diffusion tensor tractography.
+
+Fujiyoshi K(1), Yamada M, Nakamura M, Yamane J, Katoh H, Kitamura K, Kawai K,
+Okada S, Momoshima S, Toyama Y, Okano H.
+
+Author information: 
+(1)Department of Orthopaedic Surgery, Keio University School of Medicine,
+Shinjuku, Tokyo 160-8582, Japan.
+
+In spinal cord injury, axonal disruption results in motor and sensory function
+impairment. The evaluation of axonal fibers is essential to assess the severity
+of injury and efficacy of any treatment protocol, but conventional methods such
+as tracer injection in brain parenchyma are highly invasive and require
+histological evaluation, precluding clinical applications. Previous advances in
+magnetic resonance imaging technology have led to the development of diffusion
+tensor tractography (DTT) as a potential modality to perform in vivo tracing of
+axonal fibers. The properties and clinical applications of DTT in the brain have 
+been reported, but technical difficulties have limited DTT studies of the spinal 
+cord. In this study, we report the effective use of DTT to visualize both intact 
+and surgically disrupted spinal long tracts in adult common marmosets. To verify 
+the feasibility of spinal cord DTT, we first performed DTT of postmortem
+marmosets. DTT clearly illustrated spinal projections such as the corticospinal
+tract and afferent fibers in control animals, and depicted the severed long
+tracts in the injured animals. Histology of the spinal cords in both control and 
+injured groups were consistent with DTT findings, verifying the accuracy of DTT. 
+We also conducted DTT in live marmosets and demonstrated that DTT can be
+performed in live animals to reveal in vivo nerve fiber tracing images, providing
+an essential tool to evaluate axonal conditions in the injured spinal cord. Taken
+together, these findings demonstrate the feasibility of applying DTT to
+preclinical and clinical studies of spinal cord injury.
+
+DOI: 10.1523/JNEUROSCI.3354-07.2007 
+PMCID: PMC6673369
+PMID: 17978040  [Indexed for MEDLINE]
+
+
+2343. J Med Primatol. 2007 Dec;36(6):335-42.
+
+Acute neuropathogenicity with experimental infection of equine herpesvirus 9 in
+common marmosets (Callithrix jacchus).
+
+Kodama A(1), Yanai T, Yomemaru K, Sakai H, Masegi T, Yamada S, Fukushi H,
+Kuraishi T, Hattori S, Kai C.
+
+Author information: 
+(1)Department of Veterinary Pathology, Gifu University, Gifu, Japan.
+
+BACKGROUND: Equine herpesvirus 9 (EHV-9) is a new neurotropic equine herpesvirus 
+which induced encephalitis in a variety of animals. However, there was no
+information on the susceptibility of EHV-9 in primates.
+METHODS: To assess the infectivity of EHV-9, four common marmosets (Callithrix
+jacchus) were inoculated by the nasal route with 10(6) plaque-forming units of
+EHV-9.
+RESULTS AND CONCLUSIONS: All of the inoculated animals exhibited various
+neurological signs progressing to collapse. Histologically, the affected animals 
+had severe encephalitis characterized by neuronal degeneration and necrosis with 
+intranuclear inclusion bodies, which extended from the olfactory bulb to the
+rhinencephalon and piriform lobe. Immunohistochemistry revealed EHV-9 antigens in
+degenerating neuronal cells. The nasal cavity had severe necrotizing rhinitis
+with prominent intra-nuclear inclusion bodies in the olfactory mucosa. These
+findings indicate that the marmosets are susceptible to EHV-9.
+
+DOI: 10.1111/j.1600-0684.2007.00220.x 
+PMID: 17976037  [Indexed for MEDLINE]
+

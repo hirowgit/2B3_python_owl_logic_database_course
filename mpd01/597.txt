@@ -1,0 +1,107 @@
+
+
+597. J Neurosci Methods. 2019 Jan 15;312:65-72. doi: 10.1016/j.jneumeth.2018.11.015.
+Epub 2018 Nov 20.
+
+Open-source hardware designs for MRI of mice, rats, and marmosets: Integrated
+animal holders and radiofrequency coils.
+
+Gilbert KM(1), Schaeffer DJ(2), Gati JS(2), Klassen LM(2), Everling S(3), Menon
+RS(2).
+
+Author information: 
+(1)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, London, Ontario, Canada. Electronic address: kgilbert@robarts.ca.
+(2)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, London, Ontario, Canada.
+(3)Centre for Functional and Metabolic Mapping, The University of Western
+Ontario, London, Ontario, Canada; Department of Physiology and Pharmacology, The 
+University of Western Ontario, London, Ontario, Canada.
+
+BACKGROUND: Small-animal MRI is an important investigative tool for basic and
+preclinical research. High-resolution anatomical and functional studies of the
+brain require artifact-free images that are acquired with a highly sensitive
+radiofrequency (RF) coil.
+NEW METHOD: The animal holder plays an important role in mitigating image
+artifacts: motion artifacts are reduced by immobilizing the animal and
+geometric-distortion artifacts are reduced by accurately positioning the animal
+to improve static-field shimming. The RF coil, in turn, must provide high
+sensitivity over the whole brain and not physically interfere with the animal
+holder. To accomplish these tasks, the animal holder and RF coil should be
+designed in tandem. In this manuscript, animal holders and RF coils for mice,
+rats, and marmoset monkeys are described. Each animal holder includes components 
+for anesthesia delivery and animal immobilization, as well as a compatible
+receive coil.
+RESULTS/COMPARISON WITH EXISTING METHOD(S): Animal holders were capable of
+accurate and reproducible positioning (for the marmoset, this was in the
+stereotactic plane), consequently reducing geometric distortion in echo-planar
+images. Ear bars were designed in conjunction with receive-coil formers, thereby 
+maximizing the sensitive region of coils, while concurrently reducing motion to
+less than a pixel over EPI time series. Motion and SNR were quantified to
+facilitate direct comparison to existing animal holders and RF coils. All
+computer-aided-design (CAD) files of animal holders and RF coils are provided to 
+promote dissemination.
+CONCLUSIONS: The confluence of design between the animal holder and RF coil
+provides a pragmatic solution for routine imaging of small animals.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2018.11.015 
+PMID: 30468825  [Indexed for MEDLINE]
+
+
+598. Sci Rep. 2018 Nov 20;8(1):17125. doi: 10.1038/s41598-018-35481-6.
+
+Multimodal assessments of Zika virus immune pathophysiological responses in
+marmosets.
+
+Lum FM(1), Zhang W(2), Lim KC(3)(4), Malleret B(1)(5), Teo TH(1), Koh JJ(2), Lee 
+KJ(3), Chua TK(1), Kam YW(1), Yee WX(1), Huen I(3), Tan JJL(1), Amrun SN(1),
+Prakash Kn B(3), Cozzone PJ(3), Renia L(1)(5), Lee PTH(6), Ng LFP(7)(8)(9)(10).
+
+Author information: 
+(1)Singapore Immunology Network, Agency for Science, Technology and Research
+(A*STAR), Singapore, 138648, Singapore.
+(2)Biological Resource Centre, Agency for Science, Technology and Research
+(A*STAR), Singapore, 138668, Singapore.
+(3)Singapore Bioimaging Consortium, Agency for Science, Technology and Research
+(A*STAR), Singapore, 138667, Singapore.
+(4)Department of Diagnostic Radiology, Singapore General Hospital, Singapore,
+169608, Singapore.
+(5)Department of Microbiology and Immunology, Yong Loo Lin School of Medicine,
+National University of Singapore, Singapore, 117545, Singapore.
+(6)Singapore Bioimaging Consortium, Agency for Science, Technology and Research
+(A*STAR), Singapore, 138667, Singapore. philip_lee@sbic.a-star.edu.sg.
+(7)Singapore Immunology Network, Agency for Science, Technology and Research
+(A*STAR), Singapore, 138648, Singapore. lisa_ng@immunol.a-star.edu.sg.
+(8)National Institute of Health Research, Health Protection Research Unit In
+Emerging and Zoonotic Infections, Liverpool, L69 3GL, UK.
+lisa_ng@immunol.a-star.edu.sg.
+(9)Institute of Infection and Global Health, University of Liverpool, Liverpool, 
+L69 7BE, UK. lisa_ng@immunol.a-star.edu.sg.
+(10)Department of Biochemistry, Yong Loo Lin School of Medicine, National
+University of Singapore, Singapore, 117596, Singapore.
+lisa_ng@immunol.a-star.edu.sg.
+
+Animal models that recapitulate the human pathophysiology have been developed as 
+useful research tools. Although laboratory mice are widely used, they are
+phylogenetically "distant" to humans. New world monkeys, such as the common
+marmoset (Callithrix jacchus) have steadily gained prominence. In this report,
+marmosets are explored as an alternate in vivo model to investigate infection and
+immunity of Zika virus (ZIKV). Multimodal platforms, including ultrasound and
+magnetic resonance imaging (MRI), flow cytometry, and multiplex microbead
+immunoassays were established to comprehensively decipher immune responses and
+pathophysiological outcomes. While ZIKV-infected marmosets had detectable ZIKV
+RNA load in various body fluids, animals did not develop any observable lesions
+in their testes and brains as shown by ultrasound and MRI. Immune-phenotyping
+detected differences in the numbers of B cells, CD8+ T cells and HLADR+ NK cells 
+during the first two weeks of infection. Neutralizing ZIKV-specific antibodies
+were elicited to high levels and targeted epitopes in the E protein. This study
+presents a one-stop-shop platform to study infection and pathophysiology in
+marmosets. While marmoset-specific research tools are being refined, the research
+values of these animals present them as a good model for immune-based therapies.
+
+DOI: 10.1038/s41598-018-35481-6 
+PMCID: PMC6244230
+PMID: 30459473  [Indexed for MEDLINE]
+

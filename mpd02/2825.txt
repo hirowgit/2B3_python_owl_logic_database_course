@@ -1,0 +1,24 @@
+
+
+2825. Science. 2004 Apr 30;304(5671):734-6.
+
+Identification of virus-encoded microRNAs.
+
+Pfeffer S(1), Zavolan M, Grässer FA, Chien M, Russo JJ, Ju J, John B, Enright AJ,
+Marks D, Sander C, Tuschl T.
+
+Author information: 
+(1)Laboratory of RNA Molecular Biology, The Rockefeller University, 1230 York
+Avenue, Box 186, New York, NY 10021, USA.
+
+RNA silencing processes are guided by small RNAs that are derived from
+double-stranded RNA. To probe for function of RNA silencing during infection of
+human cells by a DNA virus, we recorded the small RNA profile of cells infected
+by Epstein-Barr virus (EBV). We show that EBV expresses several microRNA (miRNA) 
+genes. Given that miRNAs function in RNA silencing pathways either by targeting
+messenger RNAs for degradation or by repressing translation, we identified viral 
+regulators of host and/or viral gene expression.
+
+DOI: 10.1126/science.1096781 
+PMID: 15118162  [Indexed for MEDLINE]
+

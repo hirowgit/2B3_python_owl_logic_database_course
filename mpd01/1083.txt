@@ -1,0 +1,68 @@
+
+
+1083. Genom Data. 2016 Jan 29;7:307-17. doi: 10.1016/j.gdata.2016.01.015. eCollection
+2016 Mar.
+
+Next generation sequencing (NGS) database for tandem repeats with multiple
+pattern 2°-shaft multicore string matching.
+
+Someswara Rao C(1), Raju SV(2).
+
+Author information: 
+(1)Department of CSE, SRKR Engineering College, Bhimavaram, AP, India.
+(2)Department of CSE, JNTUCEJ, JNTUniversity Hyderabad, Telangana, India.
+
+Next generation sequencing (NGS) technologies have been rapidly applied in
+biomedical and biological research in recent years. To provide the comprehensive 
+NGS resource for the research, in this paper , we have considered 10
+loci/codi/repeats TAGA, TCAT, GAAT, AGAT, AGAA, GATA, TATC, CTTT, TCTG and TCTA. 
+Then we developed the NGS Tandem Repeat Database (TandemRepeatDB) for all the
+chromosomes of Homo sapiens, Callithrix jacchus, Chlorocebus sabaeus, Gorilla
+gorilla, Macaca fascicularis, Macaca mulatta, Nomascus leucogenys, Pan
+troglodytes, Papio anubis and Pongo abelii genome data sets for all those locis. 
+We find the successive occurence frequency for all the above 10 SSR (simple
+sequence repeats) in the above genome data sets on a chromosome-by-chromosome
+basis with multiple pattern 2° shaft multicore string matching.
+
+DOI: 10.1016/j.gdata.2016.01.015 
+PMCID: PMC4778683
+PMID: 26981434 
+
+
+1084. Nat Neurosci. 2016 Apr;19(4):634-641. doi: 10.1038/nn.4268. Epub 2016 Mar 14.
+
+Spike sorting for large, dense electrode arrays.
+
+Rossant C(#)(1)(2), Kadir SN(#)(1)(2), Goodman DFM(3), Schulman J(4), Hunter
+MLD(1)(2), Saleem AB(5), Grosmark A(6), Belluscio M(6), Denfield GH(7), Ecker
+AS(7), Tolias AS(7), Solomon S(8), Buzsaki G(6), Carandini M(5), Harris KD(1)(2).
+
+Author information: 
+(1)UCL Department of Neuroscience, Physiology and Pharmacology, London, UK.
+(2)UCL Institute of Neurology, London, UK.
+(3)Department of Electrical and Electronic Engineering, Imperial College, London,
+UK.
+(4)Department of Electrical Engineering and Computer Sciences, UC Berkeley,
+Berkeley, CA.
+(5)UCL Institute of Ophthalmology, London, UK.
+(6)NYU Neuroscience Institute, Langone Medical Center, New York, NY.
+(7)Department of Neuroscience, Baylor College of Medicine, Houston, TX.
+(8)UCL Institute of Behavioural Neuroscience, Department of Experimental
+Psychology, London, UK.
+(#)Contributed equally
+
+Developments in microfabrication technology have enabled the production of neural
+electrode arrays with hundreds of closely spaced recording sites, and electrodes 
+with thousands of sites are under development. These probes in principle allow
+the simultaneous recording of very large numbers of neurons. However, use of this
+technology requires the development of techniques for decoding the spike times of
+the recorded neurons from the raw data captured from the probes. Here we present 
+a set of tools to solve this problem, implemented in a suite of practical,
+user-friendly, open-source software. We validate these methods on data from the
+cortex, hippocampus and thalamus of rat, mouse, macaque and marmoset,
+demonstrating error rates as low as 5%.
+
+DOI: 10.1038/nn.4268 
+PMCID: PMC4817237
+PMID: 26974951  [Indexed for MEDLINE]
+

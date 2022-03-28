@@ -1,0 +1,121 @@
+
+
+251. Microorganisms. 2020 Sep 30;8(10). pii: E1509. doi:
+10.3390/microorganisms8101509.
+
+Discovery of a Novel Simian Pegivirus in Common Marmosets (Callithrix jacchus)
+with Lymphocytic Enterocolitis.
+
+Heffron AS(1), Lauck M(1), Somsen ED(1), Townsend EC(1), Bailey AL(2), Sosa M(3),
+Eickhoff J(4), Capuano Iii S(3), Newman CM(1), Kuhn JH(5), Mejia A(3), Simmons
+HA(3), O'Connor DH(1)(3).
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, School of Medicine and Public
+Health, University of Wisconsin-Madison, Madison, WI 53711, USA.
+(2)Department of Pathology and Immunology, Washington University School of
+Medicine, St. Louis, MO 63110, USA.
+(3)Wisconsin National Primate Research Center, University of Wisconsin-Madison,
+Madison, WI 53715, USA.
+(4)Department of Biostatistics & Medical Informatics, University of
+Wisconsin-Madison, Madison, WI 53705, USA.
+(5)Integrated Research Facility at Fort Detrick, National Institute of Allergy
+and Infectious Diseases, National Institutes of Health, Fort Detrick, Frederick, 
+MD 21702, USA.
+
+From 2010 to 2015, 73 common marmosets (Callithrix jacchus) housed at the
+Wisconsin National Primate Research Center (WNPRC) were diagnosed postmortem with
+lymphocytic enterocolitis. We used unbiased deep-sequencing to screen the blood
+of deceased enterocolitis-positive marmosets for viruses. In five out of eight
+common marmosets with lymphocytic enterocolitis, we discovered a novel pegivirus 
+not present in ten matched, clinically normal controls. The novel virus, which we
+named Southwest bike trail virus (SOBV), is most closely related (68% nucleotide 
+identity) to a strain of simian pegivirus A isolated from a three-striped night
+monkey (Aotus trivirgatus). We screened 146 living WNPRC common marmosets for
+SOBV, finding an overall prevalence of 34% (50/146). Over four years, 85 of these
+146 animals died or were euthanized. Histological examination revealed 27
+SOBV-positive marmosets from this cohort had lymphocytic enterocolitis, compared 
+to 42 SOBV-negative marmosets, indicating no association between SOBV and disease
+in this cohort (p = 0.0798). We also detected SOBV in two of 33 (6%) clinically
+normal marmosets screened during transfer from the New England Primate Research
+Center, suggesting SOBV could be exerting confounding influences on comparisons
+of common marmoset studies from multiple colonies.
+
+DOI: 10.3390/microorganisms8101509 
+PMCID: PMC7599636
+PMID: 33007921 
+
+
+252. Nature. 2020 Oct;586(7828):262-269. doi: 10.1038/s41586-020-2781-z. Epub 2020 Sep
+30.
+
+Innovations present in the primate interneuron repertoire.
+
+Krienen FM(1)(2), Goldman M(3)(4), Zhang Q(4)(5), C H Del Rosario R(4), Florio
+M(3)(4), Machold R(6), Saunders A(3)(4), Levandowski K(4)(5), Zaniewski H(4)(5), 
+Schuman B(6), Wu C(5), Lutservitz A(3)(4), Mullally CD(3)(4), Reed N(3)(4), Bien 
+E(3)(4), Bortolin L(3)(4), Fernandez-Otero M(4)(7), Lin JD(4), Wysoker A(4),
+Nemesh J(4), Kulp D(4), Burns M(7), Tkachev V(8)(9)(10), Smith R(11)(12), Walsh
+CA(11)(12), Dimidschstein J(4), Rudy B(6)(13), S Kean L(8)(9)(10), Berretta
+S(7)(14)(15), Fishell G(4)(16), Feng G(4)(5), McCarroll SA(17)(18).
+
+Author information: 
+(1)Department of Genetics, Harvard Medical School, Boston, MA, USA.
+fenna_krienen@hms.harvard.edu.
+(2)Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard,
+Cambridge, MA, USA. fenna_krienen@hms.harvard.edu.
+(3)Department of Genetics, Harvard Medical School, Boston, MA, USA.
+(4)Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard,
+Cambridge, MA, USA.
+(5)McGovern Institute for Brain Research, Department of Brain and Cognitive
+Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA.
+(6)NYU Neuroscience Institute, Langone Medical Center, New York University, New
+York, NY, USA.
+(7)Division of Comparative Medicine, Department of Biological Engineering,
+Massachusetts Institute of Technology, Cambridge, MA, USA.
+(8)Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.
+(9)Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA,
+USA.
+(10)Department of Pediatrics, Harvard Medical School, Boston, MA, USA.
+(11)Department of Pediatrics, Boston Children's Hospital, Boston, MA, USA.
+(12)Division of Genetics and Genomics, Boston Children's Hospital, Boston, MA,
+USA.
+(13)Department of Anesthesiology, Perioperative Care and Pain Medicine, New York 
+University School of Medicine, New York, NY, USA.
+(14)McLean Hospital, Belmont, MA, USA.
+(15)Department of Psychiatry, Harvard Medical School, Boston, MA, USA.
+(16)Program in Neuroscience, Harvard Medical School, Boston, MA, USA.
+(17)Department of Genetics, Harvard Medical School, Boston, MA, USA.
+mccarroll@hms.harvard.edu.
+(18)Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, 
+Cambridge, MA, USA. mccarroll@hms.harvard.edu.
+
+Erratum in
+    Nature. 2020 Dec;588(7837):E17.
+
+Primates and rodents, which descended from a common ancestor around 90 million
+years ago1, exhibit profound differences in behaviour and cognitive capacity; the
+cellular basis for these differences is unknown. Here we use single-nucleus RNA
+sequencing to profile RNA expression in 188,776 individual interneurons across
+homologous brain regions from three primates (human, macaque and marmoset), a
+rodent (mouse) and a weasel (ferret). Homologous interneuron types-which were
+readily identified by their RNA-expression patterns-varied in abundance and RNA
+expression among ferrets, mice and primates, but varied less among primates. Only
+a modest fraction of the genes identified as 'markers' of specific interneuron
+subtypes in any one species had this property in another species. In the primate 
+neocortex, dozens of genes showed spatial expression gradients among interneurons
+of the same type, which suggests that regional variation in cortical contexts
+shapes the RNA expression patterns of adult neocortical interneurons. We found
+that an interneuron type that was previously associated with the mouse
+hippocampus-the 'ivy cell', which has neurogliaform characteristics-has become
+abundant across the neocortex of humans, macaques and marmosets but not mice or
+ferrets. We also found a notable subcortical innovation: an abundant striatal
+interneuron type in primates that had no molecularly homologous counterpart in
+mice or ferrets. These interneurons expressed a unique combination of genes that 
+encode transcription factors, receptors and neuropeptides and constituted around 
+30% of striatal interneurons in marmosets and humans.
+
+DOI: 10.1038/s41586-020-2781-z 
+PMCID: PMC7957574
+PMID: 32999462  [Indexed for MEDLINE]
+

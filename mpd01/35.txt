@@ -1,0 +1,114 @@
+
+
+35. Biomed Opt Express. 2021 Oct 19;12(11):7009-7023. doi: 10.1364/BOE.432102.
+eCollection 2021 Nov 1.
+
+Label-free imaging of age-related cardiac structural changes in non-human
+primates using multiphoton nonlinear microscopy.
+
+Khan A(1)(2), Ramos-Gomes F(1), Markus A(1), Mietsch M(2)(3), Hinkel R(2)(3)(4), 
+Alves F(1)(2)(5)(6).
+
+Author information: 
+(1)Max-Planck-Institute for Experimental Medicine, Translational Molecular
+Imaging, Göttingen, Germany.
+(2)DZHK (German Center for Cardiovascular Research), Partner site Göttingen,
+37077 Göttingen, Germany.
+(3)Laboratory Animal Science Unit, German Primate Center, Leibniz Institute for
+Primate Research, Göttingen, Germany.
+(4)Stiftung Tierärztliche Hochschule Hannover, Hannover, Germany.
+(5)University Medical Center Göttingen, Institute for Diagnostic and
+Interventional Radiology & Clinic for Hematology and Medical Oncology, Göttingen,
+Germany.
+(6)Cluster of Excellence "Multiscale Bioimaging: from Molecular Machines to
+Networks of Excitable Cells," Göttingen, Germany.
+
+Heart failure is one of the most common causes of morbidity and mortality. Both
+maturational abnormalities and age-associated cardiac pathologies contribute to
+heart failure. Imaging-based assessment to discern detailed cardiac structure at 
+various maturational stages is imperative for understanding mechanisms behind
+cardiac growth and aging. Using multiphoton nonlinear optical microscopy (NLOM)
+based label-free imaging, we investigated cardiac structural composition in a
+human-relevant aging model, the common marmoset monkey (Callithrix jacchus).
+Animals were divided into three different age groups including neonatal, young
+adult and old. By devising a unique strategy for segregating collagen and myosin 
+emitted second harmonic generation (SHG) signals, we performed a volumetric
+assessment of collagen and total scattering tissue (collagen + myosin). Aged
+marmoset hearts exhibited an increase in collagen and total scattering tissue
+volume at the sites of severe tissue remodelling indicating age-related cardiac
+fibrosis. Significantly low scattering tissue volume in neonatal marmoset hearts 
+was attributed to a lack of binding between the myofibrils in maturing cardiac
+tissue. Comprehensive quantitative assessment of structural composition during
+maturation and aging of marmoset hearts revealed significant differences in
+myofibril length, alignment, curvature and angular distribution. In conclusion,
+label-free high-resolution NLOM facilitates visualization and quantification of
+subcellular structural features for understanding vital age-related morphological
+alterations in the marmoset heart.
+
+© 2021 Optical Society of America under the terms of the OSA Open Access
+Publishing Agreement.
+
+DOI: 10.1364/BOE.432102 
+PMCID: PMC8606147
+PMID: 34858695 
+
+Conflict of interest statement: The authors declare that they have no competing
+interests.
+
+
+36. Ecohealth. 2021 Dec;18(4):414-420. doi: 10.1007/s10393-021-01569-1. Epub 2021 Nov
+29.
+
+No Evidence of SARS-CoV-2 Infection in Neotropical Primates Sampled During
+COVID-19 Pandemic in Minas Gerais and Rio Grande do Sul, Brazil.
+
+de Abreu FVS(1), Macedo MV(2), da Silva AJJ(1), de Oliveira CH(1), de Ottone
+VO(2), de Almeida MAB(3), Dos Santos E(3), da Cardoso JC(3), Campos AS(3), da
+Silva CMD(3), da Silva AG(3), de Andrade MS(4), Bernis VMO(1), Bernis Filho
+WO(1), de Trindade GS(5), Albuquerque GR(6), da Sevá AP(6), Ribeiro BM(4),
+Teixeira DS(6), Campos FS(7), Franco AC(8), Roehe PM(8), de Oliveira DB(9).
+
+Author information: 
+(1)Insect Behavior Laboratory, Instituto Federal do Norte de Minas Gerais,
+Salinas, MG, 39560-000, Brazil.
+(2)Medical School, Health Science Post-Graduate Program, Universidade Federal dos
+Vales do Jequitinhonha e Mucuri, Campus JK - Rodovia MGT 367 - Km 583, n° 5000 - 
+Alto da Jacuba, Diamantina, MG, 39100-000, Brazil.
+(3)Centro Estadual de Vigilância em Saúde, Secretaria de Saúde do Rio Grande do
+Sul, Porto Alegre, RS, 90450-190, Brazil.
+(4)Cell Biology Department, Biology Institute, Universidade de Brasília,
+Brasília, 70910-900, Brazil.
+(5)Laboratório de Vírus, Departamento de Microbiologia, Instituto de Ciências
+Biológicas, Universidade Federal de Minas Gerais, Belo Horizonte, MG, 31270-901, 
+Brazil.
+(6)Department of Agricultural and Environmental Sciences, State University of
+Santa Cruz, Ilhéus, BA, 45662-900, Brazil.
+(7)Laboratory of Bioinformatics and Biotechnology, Universidade Federal de
+Tocantins, Gurupi, TO, 77402-970, Brazil.
+(8)Laboratório de Virologia, Departamento de Microbiologia, Imunologia e
+Parasitologia, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS,
+90050-170, Brazil.
+(9)Medical School, Health Science Post-Graduate Program, Universidade Federal dos
+Vales do Jequitinhonha e Mucuri, Campus JK - Rodovia MGT 367 - Km 583, n° 5000 - 
+Alto da Jacuba, Diamantina, MG, 39100-000, Brazil. danilo.bretas@ufvjm.edu.br.
+
+In 2019, a new coronavirus disease (COVID-19) was detected in China. Severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2) was capable to infect domestic
+and captive mammals like cats, tigers and minks. Due to genetic similarities,
+concern about the infection of non-human primates (NHPs) and the establishment of
+a sylvatic cycle has grown in the Americas. In this study, neotropical primates
+(NP) were sampled in different areas from Brazil to investigate whether they were
+infected by SARS-CoV-2. A total of 89 samples from 51 NP of four species were
+examined. No positive samples were detected via RT-qPCR, regardless of the NHP
+species, tissue or habitat tested. This work provides the first report on the
+lack of evidence of the circulation of SARS-CoV-2 in NP. The expansion of wild
+animals sampling is necessary to understand their role in the epidemiology of
+SARS-CoV-2 and other potentially zoonotic pathogens in natural environments
+shared by humans.
+
+© 2021. EcoHealth Alliance.
+
+DOI: 10.1007/s10393-021-01569-1 
+PMCID: PMC8628280
+PMID: 34843021  [Indexed for MEDLINE]
+

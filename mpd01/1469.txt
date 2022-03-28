@@ -1,0 +1,126 @@
+
+
+1469. Eur J Neurosci. 2014 Mar;39(6):919-933. doi: 10.1111/ejn.12460. Epub 2013 Dec 26.
+
+Spatially extended forward suppression in primate auditory cortex.
+
+Zhou Y(1), Wang X(1).
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, 
+Johns Hopkins University, School of Medicine, Baltimore, MD, 21205, USA.
+
+When auditory neurons are stimulated with a pair of sounds, the preceding sound
+can inhibit the neural responses to the succeeding sound. This phenomenon,
+referred to as 'forward suppression', has been linked to perceptual forward
+masking. Previous studies investigating forward suppression typically measured
+the interaction between masker and probe sounds using a fixed sound location.
+However, in natural environments, interacting sounds often come from different
+spatial locations. The present study investigated two questions regarding forward
+suppression in the primary auditory cortex and adjacent caudal field of awake
+marmoset monkeys. First, what is the relationship between the location of a
+masker and its effectiveness in inhibiting neural response to a probe? Second,
+does varying the location of a masker change the spectral profile of forward
+suppression? We found that a masker can inhibit a neuron's response to a probe
+located at a preferred location even when the masker is located at a
+non-preferred location of a neuron. This is especially so for neurons in the
+caudal field. Furthermore, we found that the strongest forward suppression is
+observed when a masker's frequency is close to the best frequency of a neuron,
+regardless of the location of the masker. These results reveal, for the first
+time, the stability of forward masking in cortical processing of multiple sounds 
+presented from different locations. They suggest that forward suppression in the 
+auditory cortex is spectrally specific and spatially broad with respect to the
+frequency and location of the masker, respectively.
+
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd.
+
+DOI: 10.1111/ejn.12460 
+PMID: 24372934  [Indexed for MEDLINE]
+
+
+1470. Immunol Lett. 2014 Mar-Apr;158(1-2):126-33. doi: 10.1016/j.imlet.2013.12.008.
+Epub 2013 Dec 17.
+
+Callithrix penicillata: a feasible experimental model for dengue virus infection.
+
+Ferreira MS(1), de Castro PH(2), Silva GA(3), Casseb SM(4), Dias Júnior AG(5),
+Rodrigues SG(6), Azevedo Rdo S(7), Costa e Silva MF(8), Zauli DA(9), Araújo
+MS(10), Béla SR(11), Teixeira-Carvalho A(12), Martins-Filho OA(13), Vasconcelos
+PF(14).
+
+Author information: 
+(1)Instituto Evandro Chagas/SVS/MS, Ananindeua, Pará, Brazil; Núcleo de Medicina 
+Tropical Universidade Federal do Pará, Belém, Pará, Brazil. Electronic address:
+mileneferreira@iec.pa.gov.br.
+(2)Centro Nacional de Primatas, Ananindeua, Pará, Brazil. Electronic address:
+paulo.castro@cenp.org.br.
+(3)Centro Nacional de Primatas, Ananindeua, Pará, Brazil. Electronic address:
+gilmara.silva@cenp.org.br.
+(4)Instituto Evandro Chagas/SVS/MS, Ananindeua, Pará, Brazil. Electronic address:
+samircasseb@iec.pa.gov.br.
+(5)Instituto Evandro Chagas/SVS/MS, Ananindeua, Pará, Brazil. Electronic address:
+antoniodias@iec.pa.gov.br.
+(6)Instituto Evandro Chagas/SVS/MS, Ananindeua, Pará, Brazil. Electronic address:
+suelirodrigues@iec.pa.gov.br.
+(7)Instituto Evandro Chagas/SVS/MS, Ananindeua, Pará, Brazil. Electronic address:
+raimundaazevedo@iec.pa.gov.br.
+(8)Laboratório de Biomarcadores de Diagnóstico e Monitoração, Centro de Pesquisas
+René Rachou, Fundação Oswaldo Cruz-FIOCRUZ, Belo Horizonte, Brazil. Electronic
+address: mfernandes@cpqrr.fiocruz.br.
+(9)Laboratório de Biomarcadores de Diagnóstico e Monitoração, Centro de Pesquisas
+René Rachou, Fundação Oswaldo Cruz-FIOCRUZ, Belo Horizonte, Brazil. Electronic
+address: daniellezauli@yahoo.com.br.
+(10)Laboratório de Biomarcadores de Diagnóstico e Monitoração, Centro de
+Pesquisas René Rachou, Fundação Oswaldo Cruz-FIOCRUZ, Belo Horizonte, Brazil.
+Electronic address: sobreira@cpqrr.fiocruz.br.
+(11)Laboratório de Biomarcadores de Diagnóstico e Monitoração, Centro de
+Pesquisas René Rachou, Fundação Oswaldo Cruz-FIOCRUZ, Belo Horizonte, Brazil.
+Electronic address: samantha@cpqrr.fiocruz.br.
+(12)Laboratório de Biomarcadores de Diagnóstico e Monitoração, Centro de
+Pesquisas René Rachou, Fundação Oswaldo Cruz-FIOCRUZ, Belo Horizonte, Brazil.
+Electronic address: andreat@cpqrr.fiocruz.br.
+(13)Laboratório de Biomarcadores de Diagnóstico e Monitoração, Centro de
+Pesquisas René Rachou, Fundação Oswaldo Cruz-FIOCRUZ, Belo Horizonte, Brazil.
+Electronic address: daniellezauli@cpqrr.fiocruz.br.
+(14)Instituto Evandro Chagas/SVS/MS, Ananindeua, Pará, Brazil; Universidade do
+Estado do Pará, Belém, Pará, Brazil. Electronic address:
+pedrovasconcelos@iec.pa.gov.br.
+
+Although the murine models have the feasibility to reproduce some signs of dengue
+Virus (DENV) infection, the use of isogenic hosts with polarized immune response 
+patterns does not reproduce the particularities of human disease. Our goal was to
+investigate the kinetics of peripheral blood biomarkers in immunocompetent
+Callithrix penicillata non-human primates subcutaneously infected with DENV-3.
+The viral load of infected animals was determinated by quantitative real time
+PCR. Measurements of DENV-3/IgM were performed, and several parameters were
+assessed by hemogram: red blood cells count, hemoglobin, hematocrit, white blood 
+cells count, neutrophils, monocytes, lymphocytes, and platelets count. The
+coagulogram was performed by prothrombin time (PT), and activated partial
+thromboplastin time (APTT) assays. The renal function was monitored by urea and
+creatinine, and the liver function by the aspartate (AST), and alanine (ALT)
+aminotransferases. Also, the level of the cytokines IL-6, TNF-α, IL-2, IFN-γ,
+IL-4 and IL-5 was quantified during the experimental study. Data analysis was
+performed considering relevant differences when baseline fold changes were found 
+outside from 0.75 to 1.5 range. Our data demonstrated that infected animals
+presented relevant signs of dengue disease, including peaks of viremia at 5
+days-post-infection (dpi), peaks of anti-DENV-3 IgM at 15 dpi and hemaglutination
+inhibition assay (HIA) from 15 to at 60 dpi. Despite early monocytosis, slight
+neutrophilia and lymphocytosis, animals developed persistent leucopenia starting 
+at 4 dpi. Anemia episodes were steady at 3-4 dpi. Patent thrombocytopenia was
+observed from 1 to 15 dpi with sporadic decrease of APTT. A substantial increase 
+of ALT and AST was observed with higher peak at 4 dpi. Moreover, early increases 
+of TNF-alpha and IFN-gamma besides late increase of IFN-gamma were observed. The 
+analysis of biomarkers network pointed out two relevant strong axes during early 
+stages of dengue fever, a protective axes TNF-alpha/Lymphocytes/Platelets, and a 
+pathological IL-2/IL-6/Viremia/Monocyte/PT bond. Later on, the biomarker network 
+highlighted the interaction IFN-gamma/PLT/DENV-3(IgM;HAI)/PT, and the involvement
+of type-2 cytokines (IL-4; IL-5). Our findings demonstrated that C. penicillata
+is a feasible experimental model for dengue virus infection, which could be
+useful to pathogenesis studies, discovery of novel antiviral drugs as well as to 
+evaluate vaccine candidates against DENV.
+
+Copyright © 2014. Published by Elsevier B.V.
+
+DOI: 10.1016/j.imlet.2013.12.008 
+PMID: 24361035  [Indexed for MEDLINE]
+

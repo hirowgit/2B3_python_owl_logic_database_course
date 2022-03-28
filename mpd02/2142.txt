@@ -1,0 +1,40 @@
+
+
+2142. J Virol. 2009 Aug;83(16):8062-75. doi: 10.1128/JVI.00032-09. Epub 2009 May 27.
+
+Lack of adaptation of chimeric GB virus B/hepatitis C virus in the marmoset
+model: possible effects of bottleneck.
+
+Weatherford T(1), Chavez D, Brasky KM, Lemon SM, Martin A, Lanford RE.
+
+Author information: 
+(1)Department of Virology and Immunology, Southwest Foundation for Biomedical
+Research, San Antonio, TX 78227, USA.
+
+Approximately 3% of the world population is chronically infected with hepatitis C
+virus (HCV). GB virus B (GBV-B), a surrogate model for HCV, causes hepatitis in
+tamarins and is the virus phylogenetically most closely related to HCV.
+Previously we described a chimeric GBV-B containing an HCV insert from the 5'
+noncoding region (NCR) that was adapted for efficient replication in tamarins
+(Saguinus species). We have also demonstrated that wild-type (WT) GBV-B rapidly
+adapts for efficient replication in a closely related species, the common
+marmoset (Callithrix jacchus). Here, we demonstrate that the chimeric virus
+failed to adapt during serial passage in marmosets. The chimeric virus was
+passaged four times through 24 marmosets. During passage, two marmoset phenotypes
+were observed: susceptible and partially resistant. Although appearing to adapt
+in a resistant animal during a prolonged and gradual increase in viremia, the
+chimeric GBV-B failed to replicate efficiently upon passage to a naïve marmoset. 
+The resistance was specific to the chimeric virus, as the chimeric
+virus-resistant animals were susceptible to marmoset-adapted WT virus during
+rechallenge studies. Three isolates of the chimeric virus were sequenced, and 20 
+nucleotide changes were observed, including eight amino acid changes. Three
+unique changes were observed in the 5' NCR chimeric insert, an area that is
+highly conserved in HCV. We speculate that the failure of the chimeric virus to
+adapt in marmosets might be due to a bottleneck that occurs at the time of
+infection of resistant animals, which may lead to a loss of fitness upon serial
+passage.
+
+DOI: 10.1128/JVI.00032-09 
+PMCID: PMC2715777
+PMID: 19474092  [Indexed for MEDLINE]
+

@@ -1,0 +1,82 @@
+
+
+1262. Xenobiotica. 2015;45(9):766-72. doi: 10.3109/00498254.2015.1019595. Epub 2015 Jul
+27.
+
+Marmoset cytochrome P450 2D8 in livers and small intestines metabolizes typical
+human P450 2D6 substrates, metoprolol, bufuralol and dextromethorphan.
+
+Uehara S(1), Uno Y, Hagihira Y, Murayama N, Shimizu M, Inoue T, Sasaki E,
+Yamazaki H.
+
+Author information: 
+(1)a Laboratory of Drug Metabolism and Pharmacokinetics , Showa Pharmaceutical
+University , Machida , Tokyo , Japan .
+
+1. Although the New World non-human primate, the common marmoset (Callithrix
+jacchus), is a potentially useful animal model, comprehensive understanding of
+drug metabolizing enzymes is insufficient. 2. A cDNA encoding a novel cytochrome 
+P450 (P450) 2D8 was identified in marmosets. The amino acid sequence deduced from
+P450 2D8 cDNA showed a high sequence identity (83-86%) with other primate P450
+2Ds. Phylogenetic analysis showed that marmoset P450 2D8 was closely clustered
+with human P450 2D6, unlike P450 2Ds of miniature pig, dog, rabbit, guinea pig,
+mouse or rat. 3. Marmoset P450 2D8 mRNA was predominantly expressed in the liver 
+and small intestine among the tissues types analyzed, whereas marmoset P450 2D6
+mRNA was expressed predominantly in the liver where P450 2D protein was detected 
+by immunoblotting. 4. By metabolic assays using marmoset P450 2D8 protein
+heterologously expressed in Escherichia coli, although P450 2D8 exhibits lower
+catalytic efficiency compared to marmoset and human P450 2D6 enzymes, P450 2D8
+mediated O-demethylations of metoprolol and dextromethorphan and bufuralol
+1'-hydroxylation. 5. These results suggest that marmoset P450 2D8 (also expressed
+in the extrahepatic tissues) has potential roles in drug metabolism in a similar 
+manner to those of human and marmoset P450 2D6.
+
+DOI: 10.3109/00498254.2015.1019595 
+PMID: 25801057  [Indexed for MEDLINE]
+
+
+1263. PLoS One. 2015 Mar 23;10(3):e0119651. doi: 10.1371/journal.pone.0119651.
+eCollection 2015.
+
+De novo origin of VCY2 from autosome to Y-transposed amplicon.
+
+Cao PR(1), Wang L(1), Jiang YC(2), Yi YS(1), Qu F(1), Liu TC(1), Lv Y(1).
+
+Author information: 
+(1)Department of Epidemiology, Medical College of Hunan Normal University,
+Changsha, China.
+(2)The State Key Laboratory of Genetic Engineering and MOE Key Laboratory of
+Contemporary Anthropology School of Life Sciences, Fudan University, Shanghai,
+China.
+
+The formation of new genes is a primary driving force of evolution in all
+organisms. The de novo evolution of new genes from non-protein-coding genomic
+regions is emerging as an important additional mechanism for novel gene creation.
+Y chromosomes underlie sex determination in mammals and contain genes that are
+required for male-specific functions. In this study, a search was undertaken for 
+Y chromosome de novo genes derived from non-protein-coding sequences. The Y
+chromosome orphan gene variable charge, Y-linked (VCY)2, is an autosome-derived
+gene that has sequence similarity to large autosomal fragments but lacks an
+autosomal protein-coding homolog. VCY2 locates in the amplicon containing long
+DNA fragments that were transposed from autosomes to the Y chromosome before the 
+ape-monkey split. We confirmed that VCY2 cannot be encoded by autosomes due to
+the presence of multiple disablers that disrupt the open reading frame, such as
+the absence of start or stop codons and the presence of premature stop codons.
+Similar observations have been made for homologs in the autosomes of the
+chimpanzee, gorilla, rhesus macaque, baboon and out-group marmoset, which
+suggests that there was a non-protein-coding ancestral VCY2 that was common to
+apes and monkeys that predated the transposition event. Furthermore, while
+protein-coding orthologs are absent, a putative non-protein-coding VCY2 with
+conserved disablers was identified in the rhesus macaque Y chromosome
+male-specific region. This finding implies that VCY2 might have not acquired its 
+protein-coding ability before the ape-monkey split. VCY2 encodes a
+testis-specific expressed protein and is involved in the pathologic process of
+male infertility, and the acquisition of this gene might improve male fertility. 
+This is the first evidence that de novo genes can be generated from transposed
+autosomal non-protein-coding segments, and this evidence provides novel insights 
+into the evolutionary history of the Y chromosome.
+
+DOI: 10.1371/journal.pone.0119651 
+PMCID: PMC4370482
+PMID: 25799347  [Indexed for MEDLINE]
+

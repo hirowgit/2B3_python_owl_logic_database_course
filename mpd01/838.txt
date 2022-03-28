@@ -1,0 +1,85 @@
+
+
+838. Neurosci Res. 2017 Dec;125:11-20. doi: 10.1016/j.neures.2017.06.005. Epub 2017
+Jul 12.
+
+Three-dimensional kinematic and kinetic analysis of quadrupedal walking in the
+common marmoset (Callithrix jacchus).
+
+Shimada H(1), Kanai R(1), Kondo T(2), Yoshino-Saito K(2), Uchida A(3), Nakamura
+M(4), Ushiba J(3), Okano H(2), Ogihara N(5).
+
+Author information: 
+(1)Department of Mechanical Engineering, Faculty of Science and Technology, Keio 
+University, Yokohama 223-8522, Japan.
+(2)Department of Physiology, Keio University School of Medicine, Shinjuku, Tokyo 
+160-8582, Japan.
+(3)Department of Biosciences and Informatics, Faculty of Science and Technology, 
+Keio University, Yokohama 223-8522, Japan.
+(4)Department of Orthopedic Surgery, Keio University School of Medicine,
+Shinjuku, Tokyo 160-8582, Japan.
+(5)Department of Mechanical Engineering, Faculty of Science and Technology, Keio 
+University, Yokohama 223-8522, Japan. Electronic address:
+ogihara@mech.keio.ac.jp.
+
+The common marmoset has recently gained a great deal of attention as an
+experimental primate model for biological science and medical research. To use
+the common marmoset for development of novel treatments and rehabilitation for
+locomotor disorders, it is crucial to understand fundamental baseline
+characteristics of locomotion in this species. Therefore, in the present study we
+performed kinematic and kinetic analyses of quadrupedal locomotion in this
+animal. A total of 14 common marmosets walking quadrupedally along a walkway were
+analyzed using synchronized high-speed cameras, with two force platforms set in
+the walkway. Our results demonstrated that the marmoset uses a lateral sequence
+walking pattern, in contrast to the macaque and other primates, which usually
+adopt a diagonal sequence pattern. Furthermore, peak vertical ground reaction
+force on the forelimb was larger than that on the hindlimb. The rate of energy
+recovery for quadrupedal walking in the common marmoset was much smaller than
+that in the macaque, indicating that the marmoset generally utilizes bouncing
+mechanics in locomotion, even though the duty factor is >0.5. This description of
+locomotor characteristics of intact marmosets may serve as a basis for
+comparative analyses of changes in gait due to rehabilitation and regenerative
+treatments.
+
+Copyright © 2017 Elsevier Ireland Ltd and Japan Neuroscience Society. All rights 
+reserved.
+
+DOI: 10.1016/j.neures.2017.06.005 
+PMID: 28711711  [Indexed for MEDLINE]
+
+
+839. Behav Res Methods. 2018 Jun;50(3):1154-1165. doi: 10.3758/s13428-017-0934-2.
+
+A technological framework for running and analyzing animal head turning
+experiments.
+
+Oh J(1), Hoeschele M(2), Reber SA(2)(3), Šlipogor V(2), Bugnyar T(2), Fitch
+WT(2).
+
+Author information: 
+(1)Department of Cognitive Biology, University of Vienna, Althanstrasse 14, 1090,
+Vienna, Austria. jinook.oh@univie.ac.at.
+(2)Department of Cognitive Biology, University of Vienna, Althanstrasse 14, 1090,
+Vienna, Austria.
+(3)School of Life Sciences, University of Lincoln, Brayford Pool, Lincoln, LN6
+7TS, UK.
+
+Head turning experiments are widely used to test the cognition of both human
+infants and non-human animal species. Monitoring head turns allows researchers to
+non-invasively assess attention to acoustic or visual stimuli. In the majority of
+head turning experiments, the head direction analyses have been accomplished
+manually, which is extremely labor intensive and can be affected by subjectivity 
+or other human errors and limitations. In the current study, we introduce an
+open-source computer program for measuring head directions of freely moving
+animals including common marmoset monkeys (Callithrix jacchus), American
+alligators (Alligator mississippiensis), and Mongolian gerbils (Meriones
+unguiculatus) to reduce human effort and time in video coding. We also illustrate
+an exemplary framework for an animal head turning experiment with common marmoset
+monkeys. This framework incorporates computer-aided processes of data
+acquisition, preprocessing, and analysis using the aforementioned software and
+additional open-source software and hardware.
+
+DOI: 10.3758/s13428-017-0934-2 
+PMCID: PMC5990564
+PMID: 28710717  [Indexed for MEDLINE]
+

@@ -1,0 +1,95 @@
+
+
+937. Gen Comp Endocrinol. 2017 May 15;246:331-336. doi: 10.1016/j.ygcen.2017.01.009.
+Epub 2017 Jan 4.
+
+Transcriptional regulation of follicle-stimulating hormone β-subunit in marmoset 
+by an alternate distal promoter.
+
+Kutteyil SS(1), Pathak BR(2), Mahale SD(3).
+
+Author information: 
+(1)Division of Structural Biology, National Institute for Research in
+Reproductive Health (Indian Council of Medical Research), Jehangir Merwanji
+Street, Parel, Mumbai 400012, India.
+(2)Division of Structural Biology, National Institute for Research in
+Reproductive Health (Indian Council of Medical Research), Jehangir Merwanji
+Street, Parel, Mumbai 400012, India. Electronic address: pathakb@nirrh.res.in.
+(3)Division of Structural Biology, National Institute for Research in
+Reproductive Health (Indian Council of Medical Research), Jehangir Merwanji
+Street, Parel, Mumbai 400012, India. Electronic address: smitamahale@hotmail.com.
+
+Follicle-stimulating hormone (FSH) is essential for mammalian folliculogenesis
+and spermatogenesis. Common marmoset (Callithrix jacchus) is a New World primate 
+which exhibits an unusual FSH profile across the ovarian cycle with a
+mid-follicular FSH peak that is not observed in Catarrhini primates like humans. 
+Since transcription of FSH β-subunit gene (FSHβ) is a rate-limiting step in the
+production of mature FSH, this study aimed to investigate the regulation of
+marmoset FSHβ gene expression in comparison to human. In silico analysis of the
+FSHβ promoter sequences identified a TATA box element upstream of the
+conventional TATA box element in marmoset but not in human sequence. FSHβ mRNA
+transcript longer than the conventional transcript was detected in marmoset
+pituitary implying presence of a distal transcription start site. In luciferase
+reporter assays, the marmoset putative distal promoter had higher activity than
+the corresponding human region even in absence of the conventional proximal
+promoter. Indeed higher affinity binding of TATA box-binding protein to the
+putative distal TATA box element was obtained in electrophoretic mobility shift
+assay. This suggests existence of a differential regulation of FSHβ transcription
+in marmoset compared to humans.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ygcen.2017.01.009 
+PMID: 28062307  [Indexed for MEDLINE]
+
+
+938. NMR Biomed. 2017 Feb;30(2). doi: 10.1002/nbm.3686. Epub 2016 Dec 28.
+
+Neurometabolic profiles of the substantia nigra and striatum of MPTP-intoxicated 
+common marmosets: An in vivo proton MRS study at 9.4 T.
+
+Heo H(1), Ahn JB(2)(3), Lee HH(1), Kwon E(2), Yun JW(2), Kim H(1)(2)(4)(5), Kang 
+BC(2)(3)(6).
+
+Author information: 
+(1)Department of Biomedical Sciences, Seoul National University, Seoul, South
+Korea.
+(2)Department of Experimental Animal Research, Biomedical Research Institute,
+Seoul National University Hospital, Seoul, South Korea.
+(3)Graduate School of Translational Medicine, Seoul National University College
+of Medicine, Seoul, South Korea.
+(4)Department of Radiology, Seoul National University Hospital, Seoul, South
+Korea.
+(5)Institute of Radiation Medicine, Seoul National University Medical Research
+Center, Seoul, South Korea.
+(6)Designed Animal and Transplantation Research Institute, Institute of GreenBio 
+Science and Technology, Seoul National University, Pyeongchang, South Korea.
+
+Given the strong coupling between the substantia nigra (SN) and striatum (STR) in
+the early stage of Parkinson's disease (PD), yet only a few studies reported to
+date that have simultaneously investigated the neurochemistry of these two brain 
+regions in vivo, we performed longitudinal metabolic profiling in the SN and STR 
+of 1-methyl-1,2,3,6-tetrahydropyridine (MPTP)-intoxicated common marmoset monkey 
+models of PD (n = 10) by using proton MRS (1 H-MRS) at 9.4 T. T2 relaxometry was 
+also performed in the SN by using MRI. Data were classified into control,
+MPTP_2weeks, and MPTP_6-10 weeks groups according to the treatment duration. In
+the SN, T2 of the MPTP_6-10 weeks group was lower than that of the control group 
+(44.33 ± 1.75 versus 47.21 ± 2.47 ms, p < 0.05). The N-acetylaspartate to total
+creatine ratio (NAA/tCr) and γ-aminobutyric acid to tCr ratio (GABA/tCr) of the
+MPTP_6-10 weeks group were lower than those of the control group (0.41 ± 0.04
+versus 0.54 ± 0.08 (p < 0.01) and 0.19 ± 0.03 versus 0.30 ± 0.09 (p < 0.05),
+respectively). The glutathione to tCr ratio (GSH/tCr) was correlated with T2 for 
+the MPTP_6-10 weeks group (r = 0.83, p = 0.04). In the STR, however, GABA/tCr of 
+the MPTP_6-10 weeks group was higher than that of the control group (0.25 ± 0.10 
+versus 0.16 ± 0.05, p < 0.05). These findings may be an in vivo depiction of the 
+altered basal ganglion circuit in PD brain resulting from the degeneration of
+nigral dopaminergic neurons and disruption of nigrostriatal dopaminergic
+projections. Given the important role of non-human primates in translational
+studies, our findings provide better understanding of the complicated evolution
+of PD.
+
+Copyright © 2016 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/nbm.3686 
+PMID: 28028868  [Indexed for MEDLINE]
+

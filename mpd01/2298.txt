@@ -1,0 +1,73 @@
+
+
+2298. PLoS Genet. 2008 Mar 21;4(3):e1000031. doi: 10.1371/journal.pgen.1000031.
+
+An abundant evolutionarily conserved CSB-PiggyBac fusion protein expressed in
+Cockayne syndrome.
+
+Newman JC(1), Bailey AD, Fan HY, Pavelitz T, Weiner AM.
+
+Author information: 
+(1)Department of Biochemistry, School of Medicine, University of Washington,
+Seattle, Washington, United States of America.
+
+Cockayne syndrome (CS) is a devastating progeria most often caused by mutations
+in the CSB gene encoding a SWI/SNF family chromatin remodeling protein. Although 
+all CSB mutations that cause CS are recessive, the complete absence of CSB
+protein does not cause CS. In addition, most CSB mutations are located beyond
+exon 5 and are thought to generate only C-terminally truncated protein fragments.
+We now show that a domesticated PiggyBac-like transposon PGBD3, residing within
+intron 5 of the CSB gene, functions as an alternative 3' terminal exon. The
+alternatively spliced mRNA encodes a novel chimeric protein in which CSB exons
+1-5 are joined in frame to the PiggyBac transposase. The resulting
+CSB-transposase fusion protein is as abundant as CSB protein itself in a variety 
+of human cell lines, and continues to be expressed by primary CS cells in which
+functional CSB is lost due to mutations beyond exon 5. The CSB-transposase fusion
+protein has been highly conserved for at least 43 Myr since the divergence of
+humans and marmoset, and appears to be subject to selective pressure. The human
+genome contains over 600 nonautonomous PGBD3-related MER85 elements that were
+dispersed when the PGBD3 transposase was last active at least 37 Mya. Many of
+these MER85 elements are associated with genes which are involved in neuronal
+development, and are known to be regulated by CSB. We speculate that the
+CSB-transposase fusion protein has been conserved for host antitransposon
+defense, or to modulate gene regulation by MER85 elements, but may cause CS in
+the absence of functional CSB protein.
+
+DOI: 10.1371/journal.pgen.1000031 
+PMCID: PMC2268245
+PMID: 18369450  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+2299. J Neurosci. 2008 Mar 26;28(13):3415-26. doi: 10.1523/JNEUROSCI.2743-07.2008.
+
+Level invariant representation of sounds by populations of neurons in primary
+auditory cortex.
+
+Sadagopan S(1), Wang X.
+
+Author information: 
+(1)Laboratory of Auditory Neurophysiology, Department of Neuroscience, Johns
+Hopkins University School of Medicine, Baltimore, Maryland 21205, USA.
+vatsun@jhu.edu
+
+A fundamental feature of auditory perception is the constancy of sound
+recognition over a large range of intensities. Although this invariance has been 
+described in behavioral studies, the underlying neural mechanism is essentially
+unknown. Here we show a putative level-invariant representation of sounds by
+populations of neurons in primary auditory cortex (A1) that may provide a neural 
+basis for the behavioral observations. Previous studies reported that pure-tone
+frequency tuning of most A1 neurons widens with increasing sound level. In sharp 
+contrast, we found that a large proportion of neurons in A1 of awake marmosets
+were narrowly and separably tuned to both frequency and sound level. Tuning
+characteristics and firing rates of the neural population were preserved across
+all tested sound levels. These response properties lead to a level-invariant
+representation of sounds over the population of A1 neurons. Such a representation
+is an important step for robust feature recognition in natural environments.
+
+DOI: 10.1523/JNEUROSCI.2743-07.2008 
+PMCID: PMC6670591
+PMID: 18367608  [Indexed for MEDLINE]
+

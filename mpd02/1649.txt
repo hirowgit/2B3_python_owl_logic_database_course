@@ -1,0 +1,41 @@
+
+
+1649. PLoS One. 2012;7(10):e47344. doi: 10.1371/journal.pone.0047344. Epub 2012 Oct 9.
+
+Neurally mediated airway constriction in human and other species: a comparative
+study using precision-cut lung slices (PCLS).
+
+Schlepütz M(1), Rieg AD, Seehase S, Spillner J, Perez-Bouza A, Braunschweig T,
+Schroeder T, Bernau M, Lambermont V, Schlumbohm C, Sewald K, Autschbach R, Braun 
+A, Kramer BW, Uhlig S, Martin C.
+
+Author information: 
+(1)Institute of Pharmacology and Toxicology, RWTH Aachen University, Germany.
+
+The peripheral airway innervation of the lower respiratory tract of mammals is
+not completely functionally characterized. Recently, we have shown in rats that
+precision-cut lung slices (PCLS) respond to electric field stimulation (EFS) and 
+provide a useful model to study neural airway responses in distal airways. Since 
+airway responses are known to exhibit considerable species differences, here we
+examined the neural responses of PCLS prepared from mice, rats, guinea pigs,
+sheep, marmosets and humans. Peripheral neurons were activated either by EFS or
+by capsaicin. Bronchoconstriction in response to identical EFS conditions varied 
+between species in magnitude. Frequency response curves did reveal further
+species-dependent differences of nerve activation in PCLS. Atropine antagonized
+the EFS-induced bronchoconstriction in human, guinea pig, sheep, rat and marmoset
+PCLS, showing cholinergic responses. Capsaicin (10 µM) caused bronchoconstriction
+in human (4 from 7) and guinea pig lungs only, indicating excitatory
+non-adrenergic non-cholinergic responses (eNANC). However, this effect was
+notably smaller in human responder (30 ± 7.1%) than in guinea pig (79 ± 5.1%)
+PCLS. The transient receptor potential (TRP) channel blockers SKF96365 and
+ruthenium red antagonized airway contractions after exposure to EFS or capsaicin 
+in guinea pigs. In conclusion, the different species show distinct patterns of
+nerve-mediated bronchoconstriction. In the most common experimental animals, i.e.
+in mice and rats, these responses differ considerably from those in humans. On
+the other hand, guinea pig and marmoset monkey mimic human responses well and may
+thus serve as clinically relevant models to study neural airway responses.
+
+DOI: 10.1371/journal.pone.0047344 
+PMCID: PMC3467211
+PMID: 23056631  [Indexed for MEDLINE]
+

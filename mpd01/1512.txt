@@ -1,0 +1,79 @@
+
+
+1512. J Neurosci. 2013 Sep 18;33(38):15120-5. doi: 10.1523/JNEUROSCI.2909-13.2013.
+
+A conserved pattern of differential expansion of cortical areas in simian
+primates.
+
+Chaplin TA(1), Yu HH, Soares JG, Gattass R, Rosa MG.
+
+Author information: 
+(1)Department of Physiology and Monash Vision Group, Monash University, Clayton, 
+Victoria, 3800, Australia, and Programa de Neurobiologia, Universidade Federal do
+Rio de Janeiro, Instituto de Biofísica Carlos Chagas Filho, Rio de Janeiro, Rio
+de Janeiro 21941-900, Brazil.
+
+The layout of areas in the cerebral cortex of different primates is quite
+similar, despite significant variations in brain size. However, it is clear that 
+larger brains are not simply scaled up versions of smaller brains: some regions
+of the cortex are disproportionately large in larger species. It is currently
+debated whether these expanded areas arise through natural selection pressures
+for increased cognitive capacity or as a result of the application of a common
+developmental sequence on different scales. Here, we used computational methods
+to map and quantify the expansion of the cortex in simian primates of different
+sizes to investigate whether there is any common pattern of cortical expansion.
+Surface models of the marmoset, capuchin, and macaque monkey cortex were
+registered using the software package CARET and the spherical landmark vector
+difference algorithm. The registration was constrained by the location of
+identified homologous cortical areas. When comparing marmosets with both
+capuchins and macaques, we found a high degree of expansion in the temporal
+parietal junction, the ventrolateral prefrontal cortex, and the dorsal anterior
+cingulate cortex, all of which are high-level association areas typically
+involved in complex cognitive and behavioral functions. These expanded maps
+correlated well with previously published macaque to human registrations,
+suggesting that there is a general pattern of primate cortical scaling.
+
+DOI: 10.1523/JNEUROSCI.2909-13.2013 
+PMCID: PMC6618405
+PMID: 24048842  [Indexed for MEDLINE]
+
+
+1513. J Physiol. 2014 Jan 1;592(1):49-65. doi: 10.1113/jphysiol.2013.257352. Epub 2013 
+Sep 16.
+
+Inner retinal inhibition shapes the receptive field of retinal ganglion cells in 
+primate.
+
+Protti DA(1), Di Marco S, Huang JY, Vonhoff CR, Nguyen V, Solomon SG.
+
+Author information: 
+(1)D. A. Protti: Anderson Stuart Bldg (F13), The University of Sydney, NSW 2006, 
+Australia. dario.protti@sydney.edu.au.
+
+The centre-surround organisation of receptive fields is a feature of most retinal
+ganglion cells (RGCs) and is critical for spatial discrimination and contrast
+detection. Although lateral inhibitory processes are known to be important in
+generating the receptive field surround, the contribution of each of the two
+synaptic layers in the primate retina remains unclear. Here we studied the
+spatial organisation of excitatory and inhibitory synaptic inputs onto ON and OFF
+ganglion cells in the primate retina. All RGCs showed an increase in excitation
+in response to stimulus of preferred polarity. Inhibition onto RGCs comprised two
+types of responses to preferred polarity: some RGCs showed an increase in
+inhibition whilst others showed removal of tonic inhibition. Excitatory inputs
+were strongly spatially tuned but inhibitory inputs showed more variable
+organisation: in some neurons they were as strongly tuned as excitation, and in
+others inhibitory inputs showed no spatial tuning. We targeted one source of
+inner retinal inhibition by functionally ablating spiking amacrine cells with
+bath application of tetrodotoxin (TTX). TTX significantly reduced the spatial
+tuning of excitatory inputs. In addition, TTX reduced inhibition onto those RGCs 
+where a stimulus of preferred polarity increased inhibition. Reconstruction of
+the spatial tuning properties by somatic injection of excitatory and inhibitory
+synaptic conductances verified that TTX-mediated inhibition onto bipolar cells
+increases the strength of the surround in RGC spiking output. These results
+indicate that in the primate retina inhibitory mechanisms in the inner plexiform 
+layer sharpen the spatial tuning of ganglion cells.
+
+DOI: 10.1113/jphysiol.2013.257352 
+PMCID: PMC3903351
+PMID: 24042496  [Indexed for MEDLINE]
+

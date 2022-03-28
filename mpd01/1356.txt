@@ -1,0 +1,97 @@
+
+
+1356. Gigascience. 2014 Sep 19;3:14. doi: 10.1186/2047-217X-3-14. eCollection 2014.
+
+De novo assembly of the common marmoset transcriptome from NextGen mRNA
+sequences.
+
+Maudhoo MD(1), Ren D(2), Gradnigo JS(3), Gibbs RM(1), Lubker AC(1), Moriyama
+EN(3), French JA(4), Norgren RB Jr(1).
+
+Author information: 
+(1)Department of Genetics, Cell Biology and Anatomy, University of Nebraska
+Medical Center, Omaha, Nebraska 68198, USA.
+(2)Callitrichid Research Center, Department of Psychology, University of
+Nebraska, Omaha, USA ; Key Laboratory for Animal Biotechnology of Jiangxi
+Province and the Ministry of Agriculture of China, Jiangxi Agricultural
+University, Nanchang 330045, China.
+(3)School of Biological Sciences & Center for Plant Science Innovation,
+University of Nebraska-Lincoln, 403 Manter Hall, Lincoln, Nebraska 68588-0118,
+USA.
+(4)Callitrichid Research Center, Department of Psychology, University of
+Nebraska, Omaha, USA.
+
+BACKGROUND: Nonhuman primates are important for both biomedical studies and
+understanding human evolution. Although research in these areas has mostly
+focused on Old World primates, such as the rhesus macaque, the common marmoset
+(Callithrix jacchus), a New World primate, offers important advantages in
+comparison to other primates, such as an accelerated lifespan. To conduct Next
+Generation expression studies or to study primate evolution, a high quality
+annotation of the marmoset genome is required. The availability of marmoset
+transcriptome data from five tissues, including both raw sequences and assembled 
+transcripts, will aid in the annotation of the newly released marmoset assembly.
+FINDINGS: RNA WAS EXTRACTED FROM FIVE TISSUES: skeletal muscle, bladder and
+hippocampus from a male common marmoset, and cerebral cortex and cerebellum from 
+a female common marmoset. All five RNA samples were sequenced on the Illumina
+HiSeq 2000 platform. Sequences were deposited in the NCBI Sequence Read Archive. 
+Transcripts were assembled, annotated and deposited in the NCBI Transcriptome
+Shotgun Assembly database.
+CONCLUSIONS: We have provided a high quality annotation of 51,163 transcripts
+with full-length coding sequence. This set represented a total of 10,833 unique
+genes. In addition to providing empirical support for the existence of these
+10,833 genes, we also provide sequence information for 2,422 genes that were not 
+previously identified in the Ensembl annotation of the marmoset genome.
+
+DOI: 10.1186/2047-217X-3-14 
+PMCID: PMC4169894
+PMID: 25243066 
+
+
+1357. Neurosci Res. 2015 Apr;93:47-61. doi: 10.1016/j.neures.2014.09.004. Epub 2014 Sep
+19.
+
+Representation of central and peripheral vision in the primate cerebral cortex:
+Insights from studies of the marmoset brain.
+
+Yu HH(1), Chaplin TA(2), Rosa MG(3).
+
+Author information: 
+(1)Department of Physiology, Monash University, Clayton, VIC 3800, Australia;
+Australian Research Council Centre of Excellence for Integrative Brain Function, 
+Monash University Node, Clayton, VIC 3800, Australia. Electronic address:
+hsin-hao.yu@monash.edu.
+(2)Department of Physiology, Monash University, Clayton, VIC 3800, Australia;
+Monash Vision Group, Monash University, Clayton, VIC 3800, Australia.
+(3)Department of Physiology, Monash University, Clayton, VIC 3800, Australia;
+Australian Research Council Centre of Excellence for Integrative Brain Function, 
+Monash University Node, Clayton, VIC 3800, Australia; Monash Vision Group, Monash
+University, Clayton, VIC 3800, Australia.
+
+How the visual field is represented by neurons in the cerebral cortex is one of
+the most basic questions in visual neuroscience. However, research to date has
+focused heavily on the small part of the visual field within, and immediately
+surrounding the fovea. Studies on the cortical representation of the full visual 
+field in the primate brain are still scarce. We have been investigating this
+issue with electrophysiological and anatomical methods, taking advantage of the
+small and lissencephalic marmoset brain, which allows easy access to the
+representation of the full visual field in many cortical areas. This review
+summarizes our main findings to date, and relates the results to a broader
+question: is the peripheral visual field processed in a similar manner to the
+central visual field, but with lower spatial acuity? Given the organization of
+the visual cortex, the issue can be addressed by asking: (1) Is visual
+information processed in the same way within a single cortical area? and (2) Are 
+different cortical areas specialized for different parts of the visual field? The
+electrophysiological data from the primary visual cortex indicate that many
+aspects of spatiotemporal computation are remarkably similar across the visual
+field, although subtle variations are detectable. Our anatomical and
+electrophysiological studies of the extrastriate cortex, on the other hand,
+suggest that visual processing in the far peripheral visual field is likely to
+involve a distinct network of specialized cortical areas, located in the depths
+of the calcarine sulcus and interhemispheric fissure.
+
+Copyright © 2014 Elsevier Ireland Ltd and the Japan Neuroscience Society. All
+rights reserved.
+
+DOI: 10.1016/j.neures.2014.09.004 
+PMID: 25242578  [Indexed for MEDLINE]
+

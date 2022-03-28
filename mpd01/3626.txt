@@ -1,0 +1,64 @@
+
+
+3626. J Med Chem. 1997 Nov 21;40(24):3979-85.
+
+Viracept (nelfinavir mesylate, AG1343): a potent, orally bioavailable inhibitor
+of HIV-1 protease.
+
+Kaldor SW(1), Kalish VJ, Davies JF 2nd, Shetty BV, Fritz JE, Appelt K, Burgess
+JA, Campanale KM, Chirgadze NY, Clawson DK, Dressman BA, Hatch SD, Khalil DA,
+Kosa MB, Lubbehusen PP, Muesing MA, Patick AK, Reich SH, Su KS, Tatlock JH.
+
+Author information: 
+(1)Agouron Pharmaceuticals, Inc., San Diego, California 92121, USA.
+
+Using a combination of iterative structure-based design and an analysis of oral
+pharmacokinetics and antiviral activity, AG1343 (Viracept, nelfinavir mesylate), 
+a nonpeptidic inhibitor of HIV-1 protease, was identified. AG1343 is a potent
+enzyme inhibitor (Ki = 2 nM) and antiviral agent (HIV-1 ED50 = 14 nM). An X-ray
+cocrystal structure of the enzyme-AG1343 complex reveals how the novel thiophenyl
+ether and phenol-amide substituents of the inhibitor interact with the S1 and S2 
+subsites of HIV-1 protease, respectively. In vivo studies indicate that AG1343 is
+well absorbed orally in a variety of species and possesses favorable
+pharmacokinetic properties in humans. AG1343 (Viracept) has recently been
+approved for marketing for the treatment of AIDS.
+
+DOI: 10.1021/jm9704098 
+PMID: 9397180  [Indexed for MEDLINE]
+
+
+3627. J Neuroimmunol. 1997 Nov;79(2):119-28.
+
+Inhibition of allergic encephalomyelitis in marmosets by vaccination with
+recombinant vaccinia virus encoding for myelin basic protein.
+
+Genain CP(1), Gritz L, Joshi N, Panicali D, Davis RL, Whitaker JN, Letvin NL,
+Hauser SL.
+
+Author information: 
+(1)Department of Neurology, University of California, San Francisco 94143-0435,
+USA. claudeg@itsa.ucsf.edu
+
+A primary demyelinating form of experimental allergic encephalomyelitis (EAE)
+resembling human multiple sclerosis (MS) occurs in Callithrix jacchus marmosets
+following immunization with human white matter. Participation of a T-cell immune 
+response against myelin basic protein (MBP) in this disease model is supported by
+observations of increased reactivity against MBP in PBMC and of adoptive transfer
+of an inflammatory form of EAE by MBP-reactive T-cells. To evaluate the effects
+of ectopic presentation of MBP on marmoset EAE, animals were vaccinated prior to 
+induction of EAE by subcutaneous injection of attenuated strains of vaccinia
+virus genetically engineered to contain either the entire coding sequence for
+human MBP (vT15) or the equine herpes virus glycoprotein gH gene (vAbT249).
+Vaccination with vT15 was followed by transient cytoplasmic and surface membrane 
+expression of MBP in circulating PBMC (15-45 days). The onset of clinical EAE
+after immunization (pi) was markedly delayed in vT15-vaccinated animals (37-97
+days pi, n = 4) compared to vAbT249-vaccinated controls (14-18 days pi, n = 3).
+Proliferative responses against MBP but not against vaccinia antigens or
+phytohemagglutinin were suppressed in protected animals. Thus, development of
+attenuated live viruses carrying genes for myelin antigens could be useful for
+induction of immunologic tolerance and for modulation of autoimmune
+demyelination.
+
+DOI: 10.1016/s0165-5728(97)00109-4 
+PMID: 9394784  [Indexed for MEDLINE]
+
