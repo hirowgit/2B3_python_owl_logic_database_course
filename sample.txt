@@ -1,5 +1,66 @@
 
-1. J Cosmet Dermatol. 2022 Feb;21(2):438-443. doi: 10.1111/jocd.14567. Epub 2021 Oct
+1. Cureus. 2022 May 9;14(5):e24856. doi: 10.7759/cureus.24856. eCollection 2022 May.
+
+Collagen Structure, Synthesis, and Its Applications: A Systematic Review.
+
+Shenoy M(1), Abdul NS(1), Qamar Z(2), Bahri BMA(3), Al Ghalayini KZK(4), Kakti
+A(5).
+
+Author information: 
+(1)Department of Oral Pathology, College of Dentistry, Riyadh Elm University,
+Riyadh, SAU.
+(2)Department of Oral Biology, College of Dentistry, Riyadh Elm University,
+Riyadh, SAU.
+(3)Department of Restorative Dentistry, Consultant Ministry of Health, Riyadh,
+SAU.
+(4)Department of Endodontics, Consultant Ministry of Health, Riyadh, SAU.
+(5)Department of Pediatric Dentistry, College of Dentistry, Riyadh Elm
+University, Riyadh, SAU.
+
+Resorbable collagen has been utilized to treat wounds, close graft, and tooth
+extraction sites, and enhance recovery. Collagen-based membranes are also used as
+barriers in periodontal and implant therapy to limit epithelial migration and
+allow cells with the regenerative capacity to fill the problem area. This
+systematic review was carried out to analyze the studies focusing on collagen
+structure, synthesis, and its applications. A detailed and extensive search was
+performed with the help of the keywords "collagen structure", "collagen
+synthesis" and "collagen applications". There was extensive literature search in 
+reliable and authentic databases like PubMed, Scopus, Web of Sciences, Ovidsp,
+and Cochrane library to obtain papers focusing on collagen structure, synthesis, 
+and applications. During the systematic review, data were obtained concerning the
+following parameters. Type of study, nature of aim of the study, size of the
+sample in the study, gender and age of the subjects included in the study,
+prevalence of skin diseases where collagen was used for treatment, dose of
+collagen used, form in which collagen was used, the origin of collagen used,
+analysis of different variables, structure, and synthesis of collagen. Twenty-two
+studies were included in this systematic review. The studies discussed the
+structure, synthesis, and applications of collagen in treatment. In studies
+focusing on the application of collagen supplements, most of the study subjects
+were females (68.3%). The study subjects included both healthy and unhealthy
+subjects. The study subjects were divided into two categories. One category was
+the intervention group, while another group was the placebo group. Collagen was
+administered in hydrolysate form (90%) in some studies, bovine form (2.3%), and
+porcine form (3.4%) in other studies. Collagen supplementation was found to
+provide better results in both healthy and unhealthy effects in improving the
+health of skin, cornea, bone, periodontium, face, etc. It can be concluded that
+collagen is an integral part of the body. The application of collagen supplements
+can be pretty effective in maintaining the proper health of several important
+structures of the body like skin, face, cornea, nails, periodontium, etc. Thus, a
+detailed study of the molecular structure of collagen and genes associated with
+each type of collagen is essential for further research and treatment of
+collagen-associated disorders.
+
+Copyright © 2022, Shenoy et al.
+
+DOI: 10.7759/cureus.24856 
+PMCID: PMC9177216
+PMID: 35702467 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+2. J Cosmet Dermatol. 2022 Feb;21(2):438-443. doi: 10.1111/jocd.14567. Epub 2021 Oct
 25.
 
 Myths and media in oral collagen supplementation for the skin, nails, and hair: A
@@ -38,7 +99,8 @@ DOI: 10.1111/jocd.14567
 PMID: 34694676  [Indexed for MEDLINE]
 
 
-2. Amino Acids. 2021 Aug 3. doi: 10.1007/s00726-021-03056-x. [Epub ahead of print]
+3. Amino Acids. 2022 Apr;54(4):513-528. doi: 10.1007/s00726-021-03056-x. Epub 2021
+Aug 3.
 
 Hydroxyproline in animal metabolism, nutrition, and cell signaling.
 
@@ -81,10 +143,10 @@ other animals.
 part of Springer Nature.
 
 DOI: 10.1007/s00726-021-03056-x 
-PMID: 34342708 
+PMID: 34342708  [Indexed for MEDLINE]
 
 
-3. Int J Dermatol. 2022 Mar;61(3):e99-e101. doi: 10.1111/ijd.15748. Epub 2021 Jul 1.
+4. Int J Dermatol. 2022 Mar;61(3):e99-e101. doi: 10.1111/ijd.15748. Epub 2021 Jul 1.
 
 Concerning the heterogeneity of the studies included in meta-analyses. Comment
 on: "Effects of hydrolyzed collagen supplementation on skin aging: a systematic
@@ -102,7 +164,7 @@ DOI: 10.1111/ijd.15748
 PMID: 34196407  [Indexed for MEDLINE]
 
 
-4. J Biomed Mater Res B Appl Biomater. 2021 Dec;109(12):1986-1999. doi:
+5. J Biomed Mater Res B Appl Biomater. 2021 Dec;109(12):1986-1999. doi:
 10.1002/jbm.b.34881. Epub 2021 May 24.
 
 Collagen-based biomaterials for biomedical applications.
@@ -139,10 +201,10 @@ is provided.
 © 2021 Wiley Periodicals LLC.
 
 DOI: 10.1002/jbm.b.34881 
-PMID: 34028179 
+PMID: 34028179  [Indexed for MEDLINE]
 
 
-5. Int J Dermatol. 2021 Dec;60(12):1449-1461. doi: 10.1111/ijd.15518. Epub 2021 Mar 
+6. Int J Dermatol. 2021 Dec;60(12):1449-1461. doi: 10.1111/ijd.15518. Epub 2021 Mar 
 20.
 
 Effects of hydrolyzed collagen supplementation on skin aging: a systematic review
@@ -185,7 +247,7 @@ DOI: 10.1111/ijd.15518
 PMID: 33742704  [Indexed for MEDLINE]
 
 
-6. Int J Mol Sci. 2020 Dec 4;21(23). pii: E9259. doi: 10.3390/ijms21239259.
+7. Int J Mol Sci. 2020 Dec 4;21(23). pii: E9259. doi: 10.3390/ijms21239259.
 
 Copper Dyshomeostasis in Neurodegenerative Diseases-Therapeutic Implications.
 
@@ -224,7 +286,7 @@ PMCID: PMC7730516
 PMID: 33291628  [Indexed for MEDLINE]
 
 
-7. Oxid Med Cell Longev. 2020 Jun 17;2020:7145656. doi: 10.1155/2020/7145656.
+8. Oxid Med Cell Longev. 2020 Jun 17;2020:7145656. doi: 10.1155/2020/7145656.
 eCollection 2020.
 
 Galactose-Induced Skin Aging: The Role of Oxidative Stress.
@@ -263,7 +325,7 @@ Conflict of interest statement: The authors declare that they have no competing
 interests related to this work.
 
 
-8. J Cosmet Dermatol. 2020 Nov;19(11):2820-2829. doi: 10.1111/jocd.13435. Epub 2020 
+9. J Cosmet Dermatol. 2020 Nov;19(11):2820-2829. doi: 10.1111/jocd.13435. Epub 2020 
 May 21.
 
 Collagen supplementation for skin health: A mechanistic systematic review.
@@ -316,7 +378,7 @@ DOI: 10.1111/jocd.13435
 PMID: 32436266  [Indexed for MEDLINE]
 
 
-9. J Wound Care. 2019 Oct 2;28(10):683-693. doi: 10.12968/jowc.2019.28.10.683.
+10. J Wound Care. 2019 Oct 2;28(10):683-693. doi: 10.12968/jowc.2019.28.10.683.
 
 Nutrition in wound healing: investigation of the molecular mechanisms, a
 narrative review.
@@ -354,7 +416,7 @@ DOI: 10.12968/jowc.2019.28.10.683
 PMID: 31600106  [Indexed for MEDLINE]
 
 
-10. J Anim Physiol Anim Nutr (Berl). 2020 Jan;104(1):245-256. doi: 10.1111/jpn.13219.
+11. J Anim Physiol Anim Nutr (Berl). 2020 Jan;104(1):245-256. doi: 10.1111/jpn.13219.
 Epub 2019 Oct 8.
 
 Nutritional applications and beneficial health applications of green tea and
@@ -427,7 +489,7 @@ DOI: 10.1111/jpn.13219
 PMID: 31595607  [Indexed for MEDLINE]
 
 
-11. J Cosmet Dermatol. 2020 Apr;19(4):910-912. doi: 10.1111/jocd.13096. Epub 2019 Aug
+12. J Cosmet Dermatol. 2020 Apr;19(4):910-912. doi: 10.1111/jocd.13096. Epub 2019 Aug
 14.
 
 Oral collagen supplementation for skin aging: A fad or the future?
@@ -454,7 +516,7 @@ DOI: 10.1111/jocd.13096
 PMID: 31411379  [Indexed for MEDLINE]
 
 
-12. Nutrients. 2019 Feb 23;11(2). pii: E474. doi: 10.3390/nu11020474.
+13. Nutrients. 2019 Feb 23;11(2). pii: E474. doi: 10.3390/nu11020474.
 
 A Review of the Role of Green Tea (Camellia sinensis) in Antiphotoaging, Stress
 Resistance, Neuroprotection, and Autophagy.
@@ -519,7 +581,7 @@ PMCID: PMC6412948
 PMID: 30813433  [Indexed for MEDLINE]
 
 
-13. J Drugs Dermatol. 2019 Jan 1;18(1):9-16.
+14. J Drugs Dermatol. 2019 Jan 1;18(1):9-16.
 
 Oral Collagen Supplementation: A Systematic Review of Dermatological Applications
 
@@ -554,7 +616,7 @@ optimal dosing regimens. J Drugs Dermatol. 2019;18(1):9-16.
 PMID: 30681787  [Indexed for MEDLINE]
 
 
-14. Eur J Dermatol. 2018 Aug 1;28(4):476-481. doi: 10.1684/ejd.2018.3355.
+15. Eur J Dermatol. 2018 Aug 1;28(4):476-481. doi: 10.1684/ejd.2018.3355.
 
 Elastosis perforans serpiginosa: causes and associated disorders.
 
@@ -593,7 +655,7 @@ DOI: 10.1684/ejd.2018.3355
 PMID: 30129530  [Indexed for MEDLINE]
 
 
-15. Nutrients. 2018 Aug 20;10(8). pii: E1123. doi: 10.3390/nu10081123.
+16. Nutrients. 2018 Aug 20;10(8). pii: E1123. doi: 10.3390/nu10081123.
 
 Autoantibodies in the Extraintestinal Manifestations of Celiac Disease.
 
@@ -644,7 +706,7 @@ PMCID: PMC6115844
 PMID: 30127251  [Indexed for MEDLINE]
 
 
-16. Indian J Crit Care Med. 2018 Apr;22(4):283-289. doi: 10.4103/ijccm.IJCCM_277_17.
+17. Indian J Crit Care Med. 2018 Apr;22(4):283-289. doi: 10.4103/ijccm.IJCCM_277_17.
 
 Pressure Ulcer and Nutrition.
 
@@ -688,7 +750,7 @@ PMID: 29743767
 Conflict of interest statement: There are no conflicts of interest.
 
 
-17. Nutrients. 2017 Aug 12;9(8). pii: E866. doi: 10.3390/nu9080866.
+18. Nutrients. 2017 Aug 12;9(8). pii: E866. doi: 10.3390/nu9080866.
 
 The Roles of Vitamin C in Skin Health.
 
@@ -728,7 +790,7 @@ Zespri International, a partial funder, had no influence on the selection of
 material to cover, nor on the focus and interpretation of the studies reviewed.
 
 
-18. Nutrients. 2017 Jun 17;9(6). pii: E622. doi: 10.3390/nu9060622.
+19. Nutrients. 2017 Jun 17;9(6). pii: E622. doi: 10.3390/nu9060622.
 
 Dietary Management of Skin Health: The Role of Genistein.
 
@@ -772,7 +834,7 @@ PMID: 28629129  [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no conflict of interest.
 
 
-19. Intractable Rare Dis Res. 2017 Feb;6(1):6-20. doi: 10.5582/irdr.2017.01005.
+20. Intractable Rare Dis Res. 2017 Feb;6(1):6-20. doi: 10.5582/irdr.2017.01005.
 
 Novel and emerging therapies in the treatment of recessive dystrophic
 epidermolysis bullosa.
@@ -809,7 +871,7 @@ PMCID: PMC5359356
 PMID: 28357176 
 
 
-20. Wounds. 2015 Dec;27(12):327-35.
+21. Wounds. 2015 Dec;27(12):327-35.
 
 Nutrition in Wound Care Management: A Comprehensive Overview.
 
@@ -844,7 +906,7 @@ roles of a variety of macronutrients and micronutrients in the process.
 PMID: 27447105  [Indexed for MEDLINE]
 
 
-21. Adv Exp Med Biol. 2015;865:93-108. doi: 10.1007/978-3-319-18603-0_6.
+22. Adv Exp Med Biol. 2015;865:93-108. doi: 10.1007/978-3-319-18603-0_6.
 
 Foreign Body Reaction to Subcutaneous Implants.
 
@@ -883,7 +945,7 @@ DOI: 10.1007/978-3-319-18603-0_6
 PMID: 26306445  [Indexed for MEDLINE]
 
 
-22. Nutr Hosp. 2015 Jul 18;32 Suppl 1:62-6. doi: 10.3305/nh.2015.32.sup1.9482.
+23. Nutr Hosp. 2015 Jul 18;32 Suppl 1:62-6. doi: 10.3305/nh.2015.32.sup1.9482.
 
 [An overview of the beneficial effects of hydrolysed collagen intake on joint and
 bone health and on skin ageing].
@@ -948,7 +1010,7 @@ DOI: 10.3305/nh.2015.32.sup1.9482
 PMID: 26267777  [Indexed for MEDLINE]
 
 
-23. Indian J Endocrinol Metab. 2014 Nov;18(Suppl 1):S9-S16. doi:
+24. Indian J Endocrinol Metab. 2014 Nov;18(Suppl 1):S9-S16. doi:
 10.4103/2230-8210.145043.
 
 Vitamin D deficiency in adolescents.
@@ -998,7 +1060,7 @@ PMCID: PMC4266875
 PMID: 25538884 
 
 
-24. J Lifestyle Med. 2014 Mar;4(1):8-16. doi: 10.15280/jlm.2014.4.1.8. Epub 2014 Mar 
+25. J Lifestyle Med. 2014 Mar;4(1):8-16. doi: 10.15280/jlm.2014.4.1.8. Epub 2014 Mar 
 31.
 
 The Role of Functional Foods in Cutaneous Anti-aging.
@@ -1030,7 +1092,7 @@ PMCID: PMC4390761
 PMID: 26064850 
 
 
-25. Nihon Rinsho Meneki Gakkai Kaishi. 2011;34(6):439-46.
+26. Nihon Rinsho Meneki Gakkai Kaishi. 2011;34(6):439-46.
 
 [microRNA in autoimmune disorders].
 
@@ -1063,7 +1125,7 @@ DOI: 10.2177/jsci.34.439
 PMID: 22214804  [Indexed for MEDLINE]
 
 
-26. Actas Dermosifiliogr. 2006 Nov;97(9):557-68.
+27. Actas Dermosifiliogr. 2006 Nov;97(9):557-68.
 
 [Vitamin C].
 
@@ -1097,7 +1159,7 @@ DOI: 10.1016/s0001-7310(06)73466-4
 PMID: 17173758  [Indexed for MEDLINE]
 
 
-27. J Am Acad Dermatol. 2005 Oct;53(4):555-68; quiz 569-72.
+28. J Am Acad Dermatol. 2005 Oct;53(4):555-68; quiz 569-72.
 
 Estrogen and skin: the effects of estrogen, menopause, and hormone replacement
 therapy on the skin.
@@ -1134,7 +1196,7 @@ DOI: 10.1016/j.jaad.2004.08.039
 PMID: 16198774  [Indexed for MEDLINE]
 
 
-28. Indian J Med Res. 1998 Nov;108:182-90.
+29. Indian J Med Res. 1998 Nov;108:182-90.
 
 Riboflavin metabolism--relevance to human nutrition.
 
@@ -1158,7 +1220,7 @@ certain diseases, drugs and hormones can influence riboflavin metabolism.
 PMID: 9863274  [Indexed for MEDLINE]
 
 
-29. Drug Saf. 1992 Jan-Feb;7(1):14-31.
+30. Drug Saf. 1992 Jan-Feb;7(1):14-31.
 
 Adverse effects of angiotensin converting enzyme (ACE) inhibitors. An update.
 
