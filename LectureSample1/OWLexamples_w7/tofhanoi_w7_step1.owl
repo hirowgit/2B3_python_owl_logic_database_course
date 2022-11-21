@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w2#"
+     xml:base="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w2"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+     xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
+     xmlns:tofhanoi_w="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#AssignedAt -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#AssignedAt"/>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#existAt -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#existAt"/>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#path -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#path">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#pick -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#pick"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#P -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#P"/>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#T -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#T"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#e1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#e1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#T"/>
+        <tofhanoi_w:existAt rdf:resource="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#p1"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#e2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#e2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#T"/>
+        <tofhanoi_w:existAt rdf:resource="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#p1"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#e3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#e3">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#T"/>
+        <tofhanoi_w:existAt rdf:resource="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#p1"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#p1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#p1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#P"/>
+        <tofhanoi_w:path rdf:resource="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#p2"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#p2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#p2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#P"/>
+        <tofhanoi_w:path rdf:resource="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#p3"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#p3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#p3">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2022/8/tofhanoi_w#P"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
