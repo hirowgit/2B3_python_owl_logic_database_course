@@ -1,0 +1,250 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 1000px;
+                 height: 500px;
+                 background-color: rgb(255,255,255);
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+             #loadingBar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width: 1000px;
+                 height: 500px;
+                 background-color:rgba(200,200,200,0.8);
+                 -webkit-transition: all 0.5s ease;
+                 -moz-transition: all 0.5s ease;
+                 -ms-transition: all 0.5s ease;
+                 -o-transition: all 0.5s ease;
+                 transition: all 0.5s ease;
+                 opacity:1;
+             }
+
+             #bar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width:20px;
+                 height:20px;
+                 margin:auto auto auto auto;
+                 border-radius:11px;
+                 border:2px solid rgba(30,30,30,0.05);
+                 background: rgb(0, 173, 246); /* Old browsers */
+                 box-shadow: 2px 0px 4px rgba(0,0,0,0.4);
+             }
+
+             #border {
+                 position:absolute;
+                 top:10px;
+                 left:10px;
+                 width:500px;
+                 height:23px;
+                 margin:auto auto auto auto;
+                 box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+                 border-radius:10px;
+             }
+
+             #text {
+                 position:absolute;
+                 top:8px;
+                 left:530px;
+                 width:30px;
+                 height:50px;
+                 margin:auto auto auto auto;
+                 font-size:22px;
+                 color: #000000;
+             }
+
+             div.outerBorder {
+                 position:relative;
+                 top:400px;
+                 width:600px;
+                 height:44px;
+                 margin:auto auto auto auto;
+                 border:8px solid rgba(0,0,0,0.1);
+                 background: rgb(252,252,252); /* Old browsers */
+                 background: -moz-linear-gradient(top,  rgba(252,252,252,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
+                 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,252,252,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+                 background: -webkit-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
+                 background: -o-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
+                 background: -ms-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
+                 background: linear-gradient(to bottom,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
+                 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+                 border-radius:72px;
+                 box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+             }
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+            <div id="loadingBar">
+              <div class="outerBorder">
+                <div id="text">0%</div>
+                <div id="border">
+                  <div id="bar"></div>
+                </div>
+              </div>
+            </div>
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": 122121, "label": "ABBAB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1212122, "label": "ABABAB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1221211, "label": "ABBABA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 111111, "label": "AAAAA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 121212, "label": "ABABA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1122122, "label": "AABBAB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1121, "label": "AAB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 121, "label": "AB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1122211, "label": "AABBBA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 12122, "label": "ABAB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 112222, "label": "AABBB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 112212, "label": "AABBA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1222212, "label": "ABBBBA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1212211, "label": "ABABBA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1122111, "label": "AABBAA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1212222, "label": "ABABBB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 112211, "label": "AABBA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 122221, "label": "ABBBB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 11121, "label": "AAAB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1221112, "label": "ABBAAA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 111221, "label": "AAABB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 122222, "label": "ABBBB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1222221, "label": "ABBBBB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1122221, "label": "AABBBB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1111222, "label": "AAAABB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1222, "label": "ABB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 11111, "label": "AAAA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 122122, "label": "ABBAB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 112, "label": "AA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1112112, "label": "AAABAA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 122211, "label": "ABBBA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 12112, "label": "ABAA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1221222, "label": "ABBABB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 12221, "label": "ABBB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1221121, "label": "ABBAAB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 112221, "label": "AABBB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 111121, "label": "AAAAB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1222211, "label": "ABBBBA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1212, "label": "ABA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1221111, "label": "ABBAAA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 121112, "label": "ABAAA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 12222, "label": "ABBB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 111122, "label": "AAAAB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1112122, "label": "AAABAB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1222112, "label": "ABBBAA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1221221, "label": "ABBABB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 111212, "label": "AAABA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1221212, "label": "ABBABA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 121122, "label": "ABAAB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 121111, "label": "ABAAA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 112112, "label": "AABAA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 122111, "label": "ABBAA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 11112, "label": "AAAA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1221, "label": "ABB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1222122, "label": "ABBBAB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1212112, "label": "ABABAA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1212111, "label": "ABABAA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1211211, "label": "ABAABA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 121221, "label": "ABABB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 111211, "label": "AAABA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 112122, "label": "AABAB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1112121, "label": "AAABAB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1121221, "label": "AABABB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1111111, "label": "AAAAAA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 112111, "label": "AABAA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1112211, "label": "AAABBA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 122, "label": "AB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1121111, "label": "AABAAA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 111222, "label": "AAABB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1122212, "label": "AABBBA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1112, "label": "AAA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 11211, "label": "AABA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1111112, "label": "AAAAAA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1111221, "label": "AAAABB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 11222, "label": "AABB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 11212, "label": "AABA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1111212, "label": "AAAABA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1111, "label": "AAA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1122121, "label": "AABBAB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1111121, "label": "AAAAAB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 12121, "label": "ABAB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1121122, "label": "AABAAB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1211221, "label": "ABAABB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1212212, "label": "ABABBA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 11221, "label": "AABB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1112212, "label": "AAABBA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 121211, "label": "ABABA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1122, "label": "AAB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1212121, "label": "ABABAB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1211111, "label": "ABAAAA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1212221, "label": "ABABBB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 11, "label": "A1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1121212, "label": "AABABA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1122222, "label": "AABBBB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 11122, "label": "AAAB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1211122, "label": "ABAAAB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 122112, "label": "ABBAA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1222222, "label": "ABBBBB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 121222, "label": "ABABB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1111122, "label": "AAAAAB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 122212, "label": "ABBBA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1211121, "label": "ABAAAB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1121112, "label": "AABAAA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1112111, "label": "AAABAA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 12111, "label": "ABAA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1211, "label": "ABA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 12212, "label": "ABBA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1121211, "label": "AABABA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 112121, "label": "AABAB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1222111, "label": "ABBBAA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1221122, "label": "ABBAAB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1121222, "label": "AABABB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1112222, "label": "AAABBB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1122112, "label": "AABBAA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1111211, "label": "AAAABA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1211222, "label": "ABAABB2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1211212, "label": "ABAABA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 111, "label": "AA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1112221, "label": "AAABBB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 12211, "label": "ABBA1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1121121, "label": "AABAAB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1222121, "label": "ABBBAB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 121121, "label": "ABAAB1", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 1211112, "label": "ABAAAA2", "shape": "box", "size": 10}, {"color": "#97c2fc", "id": 111112, "label": "AAAAA2", "shape": "box", "size": 10}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": 11, "smooth": "dynamic", "to": 111, "width": 2}, {"arrows": "to", "from": 11, "smooth": "dynamic", "to": 121, "width": 2}, {"arrows": "to", "from": 11, "smooth": "dynamic", "to": 112, "width": 2}, {"arrows": "to", "from": 11, "smooth": "dynamic", "to": 122, "width": 2}, {"arrows": "to", "from": 111, "smooth": "dynamic", "to": 1111, "width": 2}, {"arrows": "to", "from": 111, "smooth": "dynamic", "to": 1121, "width": 2}, {"arrows": "to", "from": 111, "smooth": "dynamic", "to": 1112, "width": 2}, {"arrows": "to", "from": 111, "smooth": "dynamic", "to": 1122, "width": 2}, {"arrows": "to", "from": 1111, "smooth": "dynamic", "to": 11121, "width": 2}, {"arrows": "to", "from": 1111, "smooth": "dynamic", "to": 11112, "width": 2}, {"arrows": "to", "from": 1111, "smooth": "dynamic", "to": 11111, "width": 2}, {"arrows": "to", "from": 1111, "smooth": "dynamic", "to": 11122, "width": 2}, {"arrows": "to", "from": 11111, "smooth": "dynamic", "to": 111112, "width": 2}, {"arrows": "to", "from": 11111, "smooth": "dynamic", "to": 111121, "width": 2}, {"arrows": "to", "from": 11111, "smooth": "dynamic", "to": 111111, "width": 2}, {"arrows": "to", "from": 11111, "smooth": "dynamic", "to": 111122, "width": 2}, {"arrows": "to", "from": 111111, "smooth": "dynamic", "to": 1111122, "width": 2}, {"arrows": "to", "from": 111111, "smooth": "dynamic", "to": 1111112, "width": 2}, {"arrows": "to", "from": 111111, "smooth": "dynamic", "to": 1111111, "width": 2}, {"arrows": "to", "from": 111111, "smooth": "dynamic", "to": 1111121, "width": 2}, {"arrows": "to", "from": 111121, "smooth": "dynamic", "to": 1111211, "width": 2}, {"arrows": "to", "from": 111121, "smooth": "dynamic", "to": 1111212, "width": 2}, {"arrows": "to", "from": 111121, "smooth": "dynamic", "to": 1111221, "width": 2}, {"arrows": "to", "from": 111121, "smooth": "dynamic", "to": 1111222, "width": 2}, {"arrows": "to", "from": 11121, "smooth": "dynamic", "to": 111211, "width": 2}, {"arrows": "to", "from": 11121, "smooth": "dynamic", "to": 111222, "width": 2}, {"arrows": "to", "from": 11121, "smooth": "dynamic", "to": 111221, "width": 2}, {"arrows": "to", "from": 11121, "smooth": "dynamic", "to": 111212, "width": 2}, {"arrows": "to", "from": 111211, "smooth": "dynamic", "to": 1112122, "width": 2}, {"arrows": "to", "from": 111211, "smooth": "dynamic", "to": 1112112, "width": 2}, {"arrows": "to", "from": 111211, "smooth": "dynamic", "to": 1112121, "width": 2}, {"arrows": "to", "from": 111211, "smooth": "dynamic", "to": 1112111, "width": 2}, {"arrows": "to", "from": 111221, "smooth": "dynamic", "to": 1112211, "width": 2}, {"arrows": "to", "from": 111221, "smooth": "dynamic", "to": 1112221, "width": 2}, {"arrows": "to", "from": 111221, "smooth": "dynamic", "to": 1112222, "width": 2}, {"arrows": "to", "from": 111221, "smooth": "dynamic", "to": 1112212, "width": 2}, {"arrows": "to", "from": 1121, "smooth": "dynamic", "to": 11222, "width": 2}, {"arrows": "to", "from": 1121, "smooth": "dynamic", "to": 11212, "width": 2}, {"arrows": "to", "from": 1121, "smooth": "dynamic", "to": 11211, "width": 2}, {"arrows": "to", "from": 1121, "smooth": "dynamic", "to": 11221, "width": 2}, {"arrows": "to", "from": 11211, "smooth": "dynamic", "to": 112121, "width": 2}, {"arrows": "to", "from": 11211, "smooth": "dynamic", "to": 112112, "width": 2}, {"arrows": "to", "from": 11211, "smooth": "dynamic", "to": 112122, "width": 2}, {"arrows": "to", "from": 11211, "smooth": "dynamic", "to": 112111, "width": 2}, {"arrows": "to", "from": 112111, "smooth": "dynamic", "to": 1121121, "width": 2}, {"arrows": "to", "from": 112111, "smooth": "dynamic", "to": 1121122, "width": 2}, {"arrows": "to", "from": 112111, "smooth": "dynamic", "to": 1121112, "width": 2}, {"arrows": "to", "from": 112111, "smooth": "dynamic", "to": 1121111, "width": 2}, {"arrows": "to", "from": 112121, "smooth": "dynamic", "to": 1121211, "width": 2}, {"arrows": "to", "from": 112121, "smooth": "dynamic", "to": 1121222, "width": 2}, {"arrows": "to", "from": 112121, "smooth": "dynamic", "to": 1121221, "width": 2}, {"arrows": "to", "from": 112121, "smooth": "dynamic", "to": 1121212, "width": 2}, {"arrows": "to", "from": 11221, "smooth": "dynamic", "to": 112221, "width": 2}, {"arrows": "to", "from": 11221, "smooth": "dynamic", "to": 112211, "width": 2}, {"arrows": "to", "from": 11221, "smooth": "dynamic", "to": 112212, "width": 2}, {"arrows": "to", "from": 11221, "smooth": "dynamic", "to": 112222, "width": 2}, {"arrows": "to", "from": 112211, "smooth": "dynamic", "to": 1122112, "width": 2}, {"arrows": "to", "from": 112211, "smooth": "dynamic", "to": 1122122, "width": 2}, {"arrows": "to", "from": 112211, "smooth": "dynamic", "to": 1122121, "width": 2}, {"arrows": "to", "from": 112211, "smooth": "dynamic", "to": 1122111, "width": 2}, {"arrows": "to", "from": 112221, "smooth": "dynamic", "to": 1122211, "width": 2}, {"arrows": "to", "from": 112221, "smooth": "dynamic", "to": 1122212, "width": 2}, {"arrows": "to", "from": 112221, "smooth": "dynamic", "to": 1122221, "width": 2}, {"arrows": "to", "from": 112221, "smooth": "dynamic", "to": 1122222, "width": 2}, {"arrows": "to", "from": 121, "smooth": "dynamic", "to": 1211, "width": 2}, {"arrows": "to", "from": 121, "smooth": "dynamic", "to": 1221, "width": 2}, {"arrows": "to", "from": 121, "smooth": "dynamic", "to": 1212, "width": 2}, {"arrows": "to", "from": 121, "smooth": "dynamic", "to": 1222, "width": 2}, {"arrows": "to", "from": 1211, "smooth": "dynamic", "to": 12121, "width": 2}, {"arrows": "to", "from": 1211, "smooth": "dynamic", "to": 12112, "width": 2}, {"arrows": "to", "from": 1211, "smooth": "dynamic", "to": 12122, "width": 2}, {"arrows": "to", "from": 1211, "smooth": "dynamic", "to": 12111, "width": 2}, {"arrows": "to", "from": 12111, "smooth": "dynamic", "to": 121111, "width": 2}, {"arrows": "to", "from": 12111, "smooth": "dynamic", "to": 121122, "width": 2}, {"arrows": "to", "from": 12111, "smooth": "dynamic", "to": 121121, "width": 2}, {"arrows": "to", "from": 12111, "smooth": "dynamic", "to": 121112, "width": 2}, {"arrows": "to", "from": 121111, "smooth": "dynamic", "to": 1211111, "width": 2}, {"arrows": "to", "from": 121111, "smooth": "dynamic", "to": 1211121, "width": 2}, {"arrows": "to", "from": 121111, "smooth": "dynamic", "to": 1211112, "width": 2}, {"arrows": "to", "from": 121111, "smooth": "dynamic", "to": 1211122, "width": 2}, {"arrows": "to", "from": 121121, "smooth": "dynamic", "to": 1211212, "width": 2}, {"arrows": "to", "from": 121121, "smooth": "dynamic", "to": 1211221, "width": 2}, {"arrows": "to", "from": 121121, "smooth": "dynamic", "to": 1211222, "width": 2}, {"arrows": "to", "from": 121121, "smooth": "dynamic", "to": 1211211, "width": 2}, {"arrows": "to", "from": 12121, "smooth": "dynamic", "to": 121212, "width": 2}, {"arrows": "to", "from": 12121, "smooth": "dynamic", "to": 121211, "width": 2}, {"arrows": "to", "from": 12121, "smooth": "dynamic", "to": 121222, "width": 2}, {"arrows": "to", "from": 12121, "smooth": "dynamic", "to": 121221, "width": 2}, {"arrows": "to", "from": 121211, "smooth": "dynamic", "to": 1212111, "width": 2}, {"arrows": "to", "from": 121211, "smooth": "dynamic", "to": 1212122, "width": 2}, {"arrows": "to", "from": 121211, "smooth": "dynamic", "to": 1212121, "width": 2}, {"arrows": "to", "from": 121211, "smooth": "dynamic", "to": 1212112, "width": 2}, {"arrows": "to", "from": 121221, "smooth": "dynamic", "to": 1212222, "width": 2}, {"arrows": "to", "from": 121221, "smooth": "dynamic", "to": 1212221, "width": 2}, {"arrows": "to", "from": 121221, "smooth": "dynamic", "to": 1212211, "width": 2}, {"arrows": "to", "from": 121221, "smooth": "dynamic", "to": 1212212, "width": 2}, {"arrows": "to", "from": 1221, "smooth": "dynamic", "to": 12211, "width": 2}, {"arrows": "to", "from": 1221, "smooth": "dynamic", "to": 12212, "width": 2}, {"arrows": "to", "from": 1221, "smooth": "dynamic", "to": 12222, "width": 2}, {"arrows": "to", "from": 1221, "smooth": "dynamic", "to": 12221, "width": 2}, {"arrows": "to", "from": 12211, "smooth": "dynamic", "to": 122121, "width": 2}, {"arrows": "to", "from": 12211, "smooth": "dynamic", "to": 122122, "width": 2}, {"arrows": "to", "from": 12211, "smooth": "dynamic", "to": 122111, "width": 2}, {"arrows": "to", "from": 12211, "smooth": "dynamic", "to": 122112, "width": 2}, {"arrows": "to", "from": 122111, "smooth": "dynamic", "to": 1221121, "width": 2}, {"arrows": "to", "from": 122111, "smooth": "dynamic", "to": 1221112, "width": 2}, {"arrows": "to", "from": 122111, "smooth": "dynamic", "to": 1221111, "width": 2}, {"arrows": "to", "from": 122111, "smooth": "dynamic", "to": 1221122, "width": 2}, {"arrows": "to", "from": 122121, "smooth": "dynamic", "to": 1221212, "width": 2}, {"arrows": "to", "from": 122121, "smooth": "dynamic", "to": 1221222, "width": 2}, {"arrows": "to", "from": 122121, "smooth": "dynamic", "to": 1221221, "width": 2}, {"arrows": "to", "from": 122121, "smooth": "dynamic", "to": 1221211, "width": 2}, {"arrows": "to", "from": 12221, "smooth": "dynamic", "to": 122211, "width": 2}, {"arrows": "to", "from": 12221, "smooth": "dynamic", "to": 122221, "width": 2}, {"arrows": "to", "from": 12221, "smooth": "dynamic", "to": 122212, "width": 2}, {"arrows": "to", "from": 12221, "smooth": "dynamic", "to": 122222, "width": 2}, {"arrows": "to", "from": 122211, "smooth": "dynamic", "to": 1222121, "width": 2}, {"arrows": "to", "from": 122211, "smooth": "dynamic", "to": 1222112, "width": 2}, {"arrows": "to", "from": 122211, "smooth": "dynamic", "to": 1222122, "width": 2}, {"arrows": "to", "from": 122211, "smooth": "dynamic", "to": 1222111, "width": 2}, {"arrows": "to", "from": 122221, "smooth": "dynamic", "to": 1222212, "width": 2}, {"arrows": "to", "from": 122221, "smooth": "dynamic", "to": 1222222, "width": 2}, {"arrows": "to", "from": 122221, "smooth": "dynamic", "to": 1222221, "width": 2}, {"arrows": "to", "from": 122221, "smooth": "dynamic", "to": 1222211, "width": 2}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+                      network.on("stabilizationProgress", function(params) {
+                          document.getElementById('loadingBar').removeAttribute("style");
+                          var maxWidth = 496;
+                          var minWidth = 20;
+                          var widthFactor = params.iterations/params.total;
+                          var width = Math.max(minWidth,maxWidth * widthFactor);
+                          document.getElementById('bar').style.width = width + 'px';
+                          document.getElementById('text').innerHTML = Math.round(widthFactor*100) + '%';
+                      });
+                      network.once("stabilizationIterationsDone", function() {
+                          document.getElementById('text').innerHTML = '100%';
+                          document.getElementById('bar').style.width = '496px';
+                          document.getElementById('loadingBar').style.opacity = 0;
+                          // really clean the dom element
+                          setTimeout(function () {document.getElementById('loadingBar').style.display = 'none';}, 500);
+                      });
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
